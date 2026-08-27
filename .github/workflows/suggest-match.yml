@@ -23,7 +23,7 @@ jobs:
           fetch-depth: 0
       - name: Fetch PR head as a data source only
         run: git fetch origin "pull/${{ github.event.pull_request.number }}/head:pr-head"
-      - uses: astral-sh/setup-uv@0c5e2b8115b80b4c7c5ddf6ffdd634974642d182 # v5.4.1
+      - uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
         with:
           python-version: "3.12"
       - run: uv sync --all-extras
