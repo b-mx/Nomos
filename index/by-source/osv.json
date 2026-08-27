@@ -1,0 +1,26 @@
+[
+  {
+    "canonical_type": "product",
+    "vendor_id": "apache",
+    "product_id": "log4j",
+    "name": "Apache Log4j",
+    "alias": {
+      "source": "osv",
+      "value": "org.apache.logging.log4j:log4j-core",
+      "ecosystem": "Maven",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "pytorch",
+    "product_id": "pytorch",
+    "name": "PyTorch",
+    "alias": {
+      "source": "osv",
+      "value": "pytorch",
+      "ecosystem": "PyPI",
+      "confidence": "curated"
+    }
+  }
+]
