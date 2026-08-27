@@ -3,7 +3,6 @@ vendor_id: cisco
 name: Cisco IOS
 type: firmware
 tags: [network-device]
-icon: i-logos-cisco
 aliases:
   - source: nvd_cpe
     value: ios
