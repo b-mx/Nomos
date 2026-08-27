@@ -80,17 +80,20 @@ uv run mypy --strict tools
 `tools/validate.py` reports every violation it finds in one pass, not
 just the first — read the whole output before fixing.
 
-## Testing the search site locally
+## Testing the site locally
 
-The search site (`site/`) is powered by [Pagefind](https://pagefind.app),
-built at publish time from the generated index — there's no committed
-search index to test against, so build one from the example data:
+`site/` has two pages — `index.html` (the project landing page) and
+`search.html` (the search UI, powered by [Pagefind](https://pagefind.app),
+built at publish time from the generated index). Neither the search index
+nor the landing page's coverage numbers are committed, so build both from
+the example data:
 
 ```bash
 uv run tools/build_index.py --output-dir /tmp/nomos-site/index --generated-at 2026-01-01T00:00:00Z
 cd site && npm ci && cd ..
 node site/build-pagefind.mjs --index /tmp/nomos-site/index/aliases.json --output /tmp/nomos-site/pagefind
-cp site/index.html site/style.css site/search.js /tmp/nomos-site/
+cp site/index.html site/search.html site/style.css site/search.js site/landing.js /tmp/nomos-site/
+cp docs/nomos-banner.svg /tmp/nomos-site/
 cd /tmp/nomos-site && python3 -m http.server 8000
 ```
 
