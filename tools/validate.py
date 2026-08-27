@@ -78,12 +78,31 @@ def validate_ids_and_paths(
     return errors
 
 
+def validate_alias_uniqueness(
+    vendors: list[VendorEntry], products: list[ProductEntry]
+) -> list[str]:
+    errors: list[str] = []
+    seen: dict[tuple[str, str], Path] = {}
+    for entry in [*vendors, *products]:
+        for alias in entry.data.get("aliases", []):
+            key = (alias.get("source", ""), alias.get("value", ""))
+            if key in seen:
+                errors.append(
+                    f"Duplicate alias {key} claimed by both "
+                    f"{_rel(seen[key])} and {_rel(entry.path)}"
+                )
+            else:
+                seen[key] = entry.path
+    return errors
+
+
 def run_all_checks(vendors_dir: Path = REPO_ROOT / "vendors") -> list[str]:
     vendors = iter_vendors(vendors_dir)
     products = iter_products(vendors_dir)
     errors: list[str] = []
     errors += validate_schema_conformance(vendors, products)
     errors += validate_ids_and_paths(vendors, products)
+    errors += validate_alias_uniqueness(vendors, products)
     return errors
 
 
