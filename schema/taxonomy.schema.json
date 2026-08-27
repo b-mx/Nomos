@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nomos.dev/schema/taxonomy.schema.json",
+  "title": "Taxonomy",
+  "type": "object",
+  "required": ["tags"],
+  "additionalProperties": false,
+  "properties": {
+    "tags": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "name"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+          "name": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

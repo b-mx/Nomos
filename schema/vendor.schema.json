@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nomos.dev/schema/vendor.schema.json",
+  "title": "Vendor",
+  "type": "object",
+  "required": ["id", "name", "aliases"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "name": { "type": "string", "minLength": 1 },
+    "icon": { "type": "string", "pattern": "^i-[a-z0-9]+(-[a-z0-9]+)+$" },
+    "aliases": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/alias" }
+    }
+  },
+  "$defs": {
+    "alias": {
+      "type": "object",
+      "required": ["source", "value", "confidence"],
+      "additionalProperties": false,
+      "properties": {
+        "source": { "type": "string", "minLength": 1 },
+        "value": { "type": "string", "minLength": 1 },
+        "ecosystem": { "type": "string", "minLength": 1 },
+        "confidence": { "enum": ["curated", "auto"] }
+      }
+    }
+  }
+}
