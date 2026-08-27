@@ -6,7 +6,7 @@
   "icon": "logos:kubernetes",
   "aliases": [
     {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "kubernetes",
       "confidence": "curated"
     },

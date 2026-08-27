@@ -5,7 +5,7 @@
     "product_id": null,
     "name": "Apache Software Foundation",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "apache",
       "confidence": "curated"
     }
@@ -16,7 +16,7 @@
     "product_id": null,
     "name": "Atlassian",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "atlassian",
       "confidence": "curated"
     }
@@ -27,7 +27,7 @@
     "product_id": null,
     "name": "Canonical",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "canonical",
       "confidence": "curated"
     }
@@ -38,7 +38,7 @@
     "product_id": null,
     "name": "Cisco",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "cisco",
       "confidence": "curated"
     }
@@ -49,7 +49,7 @@
     "product_id": null,
     "name": "Dell",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "dell",
       "confidence": "curated"
     }
@@ -60,7 +60,7 @@
     "product_id": null,
     "name": "Docker",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "docker",
       "confidence": "curated"
     }
@@ -71,7 +71,7 @@
     "product_id": null,
     "name": "Fortinet",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "fortinet",
       "confidence": "curated"
     }
@@ -82,7 +82,7 @@
     "product_id": null,
     "name": "Kubernetes",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "kubernetes",
       "confidence": "curated"
     }
@@ -93,7 +93,7 @@
     "product_id": null,
     "name": "Microsoft",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "microsoft",
       "confidence": "curated"
     }
@@ -104,7 +104,7 @@
     "product_id": null,
     "name": "MySQL",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "mysql",
       "confidence": "curated"
     }
@@ -115,7 +115,7 @@
     "product_id": null,
     "name": "NGINX",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "nginx",
       "confidence": "curated"
     }
@@ -126,7 +126,7 @@
     "product_id": null,
     "name": "OpenSSL",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "openssl",
       "confidence": "curated"
     }
@@ -137,7 +137,7 @@
     "product_id": null,
     "name": "PostgreSQL",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "postgresql",
       "confidence": "curated"
     }
@@ -148,7 +148,7 @@
     "product_id": null,
     "name": "Python",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "python",
       "confidence": "curated"
     }
@@ -159,7 +159,7 @@
     "product_id": null,
     "name": "PyTorch",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "pytorch",
       "confidence": "curated"
     }
@@ -170,7 +170,7 @@
     "product_id": null,
     "name": "Red Hat",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "redhat",
       "confidence": "curated"
     }
@@ -181,7 +181,7 @@
     "product_id": null,
     "name": "Redis",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "redis",
       "confidence": "curated"
     }
@@ -192,7 +192,7 @@
     "product_id": "log4j",
     "name": "Apache Log4j",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "log4j",
       "confidence": "curated"
     }
@@ -203,7 +203,7 @@
     "product_id": "confluence",
     "name": "Confluence",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "confluence",
       "confidence": "curated"
     }
@@ -214,7 +214,7 @@
     "product_id": "ubuntu",
     "name": "Ubuntu",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "ubuntu_linux",
       "confidence": "curated"
     }
@@ -225,7 +225,7 @@
     "product_id": "asa",
     "name": "Cisco Adaptive Security Appliance (ASA)",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "adaptive_security_appliance",
       "confidence": "curated"
     }
@@ -236,7 +236,7 @@
     "product_id": "ios",
     "name": "Cisco IOS",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "ios",
       "confidence": "curated"
     }
@@ -247,7 +247,7 @@
     "product_id": "poweredge-r740",
     "name": "Dell PowerEdge R740",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "poweredge_r740_firmware",
       "confidence": "auto"
     }
@@ -258,7 +258,7 @@
     "product_id": "docker-engine",
     "name": "Docker Engine",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "docker",
       "confidence": "curated"
     }
@@ -269,7 +269,7 @@
     "product_id": "fortios",
     "name": "FortiOS",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "fortios",
       "confidence": "curated"
     }
@@ -280,7 +280,7 @@
     "product_id": "kubernetes",
     "name": "Kubernetes",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "kubernetes",
       "confidence": "curated"
     }
@@ -291,7 +291,7 @@
     "product_id": "exchange-server",
     "name": "Microsoft Exchange Server",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "exchange_server",
       "confidence": "curated"
     }
@@ -302,7 +302,7 @@
     "product_id": "windows-server",
     "name": "Windows Server",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "windows_server",
       "confidence": "curated"
     }
@@ -313,7 +313,7 @@
     "product_id": "mysql",
     "name": "MySQL",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "mysql",
       "confidence": "curated"
     }
@@ -324,7 +324,7 @@
     "product_id": "nginx",
     "name": "NGINX",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "nginx",
       "confidence": "curated"
     }
@@ -335,7 +335,7 @@
     "product_id": "openssl",
     "name": "OpenSSL",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "openssl",
       "confidence": "curated"
     }
@@ -346,7 +346,7 @@
     "product_id": "postgresql",
     "name": "PostgreSQL",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "postgresql",
       "confidence": "curated"
     }
@@ -357,7 +357,7 @@
     "product_id": "python",
     "name": "Python",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "python",
       "confidence": "curated"
     }
@@ -368,7 +368,7 @@
     "product_id": "pytorch",
     "name": "PyTorch",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "pytorch",
       "confidence": "curated"
     }
@@ -379,7 +379,7 @@
     "product_id": "rhel",
     "name": "Red Hat Enterprise Linux",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "enterprise_linux",
       "confidence": "curated"
     }
@@ -390,7 +390,7 @@
     "product_id": "redis",
     "name": "Redis",
     "alias": {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "redis",
       "confidence": "curated"
     }

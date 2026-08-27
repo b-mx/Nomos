@@ -6,7 +6,7 @@
   "icon": "thesvg-color:openssl",
   "aliases": [
     {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "openssl",
       "confidence": "curated"
     },

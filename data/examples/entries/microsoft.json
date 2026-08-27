@@ -6,7 +6,7 @@
   "icon": "logos:microsoft-icon",
   "aliases": [
     {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "microsoft",
       "confidence": "curated"
     },

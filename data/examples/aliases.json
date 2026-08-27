@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:28:51Z",
+  "generated_at": "2026-08-27T16:10:14Z",
   "entries": [
     {
       "canonical_type": "vendor",
@@ -177,7 +177,7 @@
       "icon": "logos:apache",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "apache",
           "confidence": "curated"
         },
@@ -322,7 +322,7 @@
       "icon": "logos:atlassian",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "atlassian",
           "confidence": "curated"
         },
@@ -467,7 +467,7 @@
       "icon": "logos:ubuntu",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "canonical",
           "confidence": "curated"
         }
@@ -523,7 +523,7 @@
       "icon": "cib:cisco",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "cisco",
           "confidence": "curated"
         },
@@ -766,7 +766,7 @@
       "icon": null,
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "dell",
           "confidence": "curated"
         }
@@ -808,7 +808,7 @@
       "icon": "logos:docker-icon",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "docker",
           "confidence": "curated"
         }
@@ -1004,7 +1004,7 @@
       "icon": "thesvg-color:fortinet",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "fortinet",
           "confidence": "curated"
         },
@@ -1588,7 +1588,7 @@
       "icon": "logos:kubernetes",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "kubernetes",
           "confidence": "curated"
         },
@@ -1836,7 +1836,7 @@
       "icon": "logos:microsoft-icon",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "microsoft",
           "confidence": "curated"
         },
@@ -1967,7 +1967,7 @@
       "icon": "logos:mysql-icon",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "mysql",
           "confidence": "curated"
         },
@@ -2098,7 +2098,7 @@
       "icon": "logos:nginx",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "nginx",
           "confidence": "curated"
         },
@@ -2285,7 +2285,7 @@
       "icon": "thesvg-color:openssl",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "openssl",
           "confidence": "curated"
         },
@@ -2505,7 +2505,7 @@
       "icon": "logos:postgresql",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "postgresql",
           "confidence": "curated"
         },
@@ -2608,7 +2608,7 @@
       "icon": "logos:python",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "python",
           "confidence": "curated"
         },
@@ -2627,7 +2627,7 @@
       "icon": "logos:pytorch-icon",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "pytorch",
           "confidence": "curated"
         }
@@ -2800,7 +2800,7 @@
       "icon": "logos:redhat-icon",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "redhat",
           "confidence": "curated"
         },
@@ -2819,7 +2819,7 @@
       "icon": "logos:redis",
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "redis",
           "confidence": "curated"
         },
@@ -3750,7 +3750,7 @@
         {
           "source": "cisa_kev",
           "value": "VMware",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },
@@ -4611,7 +4611,7 @@
       "services": [],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "log4j",
           "confidence": "curated"
         },
@@ -5135,7 +5135,7 @@
       ],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "confluence",
           "confidence": "curated"
         },
@@ -5416,7 +5416,7 @@
       "services": [],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "ubuntu_linux",
           "confidence": "curated"
         },
@@ -5560,7 +5560,7 @@
       ],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "adaptive_security_appliance",
           "confidence": "curated"
         },
@@ -5755,7 +5755,7 @@
       "services": [],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "ios",
           "confidence": "curated"
         },
@@ -6635,7 +6635,7 @@
       "services": [],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "poweredge_r740_firmware",
           "confidence": "auto"
         }
@@ -6691,7 +6691,7 @@
       "services": [],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "docker",
           "confidence": "curated"
         },
@@ -7110,7 +7110,7 @@
       "services": [],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "fortios",
           "confidence": "curated"
         },
@@ -8799,7 +8799,7 @@
       ],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "kubernetes",
           "confidence": "curated"
         },
@@ -9192,7 +9192,7 @@
       ],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "exchange_server",
           "confidence": "curated"
         },
@@ -9230,7 +9230,7 @@
       ],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "windows_server",
           "confidence": "curated"
         },
@@ -9486,7 +9486,7 @@
       ],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "mysql",
           "confidence": "curated"
         },
@@ -9748,7 +9748,7 @@
       ],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "nginx",
           "confidence": "curated"
         },
@@ -9996,7 +9996,7 @@
       "services": [],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "openssl",
           "confidence": "curated"
         },
@@ -10584,7 +10584,7 @@
       ],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "postgresql",
           "confidence": "curated"
         },
@@ -10839,7 +10839,7 @@
       "services": [],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "python",
           "confidence": "curated"
         },
@@ -10870,7 +10870,7 @@
           "confidence": "curated"
         },
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "pytorch",
           "confidence": "curated"
         }
@@ -11327,7 +11327,7 @@
       "services": [],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "enterprise_linux",
           "confidence": "curated"
         },
@@ -11360,7 +11360,7 @@
       ],
       "aliases": [
         {
-          "source": "nvd_cpe",
+          "source": "nvd",
           "value": "redis",
           "confidence": "curated"
         },
@@ -13086,7 +13086,7 @@
         {
           "source": "cisa_kev",
           "value": "Aria Operations for Networks",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },
@@ -13106,7 +13106,7 @@
         {
           "source": "cisa_kev",
           "value": "ESXi",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },
@@ -13124,7 +13124,7 @@
         {
           "source": "cisa_kev",
           "value": "SD-WAN Edge",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },
@@ -13145,7 +13145,7 @@
         {
           "source": "cisa_kev",
           "value": "Spring Cloud Gateway",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },
@@ -13165,7 +13165,7 @@
         {
           "source": "cisa_kev",
           "value": "Spring Framework",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },
@@ -13183,7 +13183,7 @@
         {
           "source": "cisa_kev",
           "value": "Tools",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },
@@ -13203,17 +13203,17 @@
         {
           "source": "cisa_kev",
           "value": "vCenter Server",
-          "confidence": "curated"
+          "confidence": "auto"
         },
         {
           "source": "cisa_kev",
           "value": "VMware vCenter",
-          "confidence": "curated"
+          "confidence": "auto"
         },
         {
           "source": "cisa_kev",
           "value": "VMware vCenter Server",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },
@@ -13231,7 +13231,7 @@
         {
           "source": "cisa_kev",
           "value": "VMware Aria Operations",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },
@@ -13249,7 +13249,7 @@
         {
           "source": "cisa_kev",
           "value": "vRealize Operations Manager API",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },
@@ -13269,7 +13269,7 @@
         {
           "source": "cisa_kev",
           "value": "Workspace ONE Access and Identity Manager",
-          "confidence": "curated"
+          "confidence": "auto"
         }
       ]
     },

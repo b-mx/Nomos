@@ -6,7 +6,7 @@
   "icon": "cib:cisco",
   "aliases": [
     {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "cisco",
       "confidence": "curated"
     },
