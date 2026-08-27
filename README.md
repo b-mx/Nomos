@@ -29,21 +29,21 @@ any other single source.
 
 ## Data model
 
-- **Vendor** (`vendors/<id>/vendor.yaml`) — a canonical vendor, with a
+- **Vendor** (`data/vendors/<id>/vendor.yaml`) — a canonical vendor, with a
   stable `id`, display `name`, and a list of source aliases.
-- **Product** (`vendors/<id>/products/<id>.yaml`) — a canonical product
+- **Product** (`data/vendors/<id>/products/<id>.yaml`) — a canonical product
   nested under its vendor, with a `type` (`hardware`, `appliance`,
   `firmware`, `os`, `software`, `library`), tags, optional network
   `services`, and aliases.
 - **Alias** — `{source, value, confidence}` (plus optional `ecosystem` for
   package-ecosystem sources like PyPI/npm). `confidence: curated` means a
   human verified it; `auto` means it came from an unverified match.
-- **Tag** (`taxonomy/tags.yaml`) — the closed set of category labels a
+- **Tag** (`data/taxonomy/tags.yaml`) — the closed set of category labels a
   product can carry (e.g. `database`, `webserver`).
 
 **Self-vendored products** — packages with no real company behind them —
 use the same slug for both the vendor directory and the product, e.g.
-`vendors/redis/vendor.yaml` and `vendors/redis/products/redis.yaml`.
+`data/vendors/redis/vendor.yaml` and `data/vendors/redis/products/redis.yaml`.
 
 ## Using the published index
 
@@ -60,8 +60,8 @@ On every merge to `main`, the full mapping is published to GitHub Pages:
   coverage line (or any consumer that just wants totals, not the data).
 
 A worked example of the shape (built from this repo's seed data) is
-committed at `examples/aliases.json` so you can see the format without a
-Pages deploy.
+committed at `data/examples/aliases.json` so you can see the format without
+a Pages deploy.
 
 The [search site](https://b-mx.github.io/Nomos/search.html) lets you check
 whether a vendor/product is already mapped before opening a PR.
@@ -71,10 +71,10 @@ whether a vendor/product is already mapped before opening a PR.
 See `CONTRIBUTING.md` for the full walkthrough. Short version:
 
 1. `uv run tools/validate.py` to confirm the repo is clean before you start.
-2. Add `vendors/<id>/vendor.yaml` (or reuse an existing vendor) and
-   `vendors/<id>/products/<id>.yaml`.
-3. Only use tags already in `taxonomy/tags.yaml` — a new tag needs its own
-   PR first.
+2. Add `data/vendors/<id>/vendor.yaml` (or reuse an existing vendor) and
+   `data/vendors/<id>/products/<id>.yaml`.
+3. Only use tags already in `data/taxonomy/tags.yaml` — a new tag needs its
+   own PR first.
 4. `uv run tools/validate.py` again, then open a PR.
 
 ## License

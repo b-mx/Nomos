@@ -1,4 +1,4 @@
-"""Validate every vendor and product YAML file in the vendors/ tree."""
+"""Validate every vendor and product YAML file in the data/vendors/ tree."""
 
 from __future__ import annotations
 
@@ -20,7 +20,7 @@ from tools._common import (
     load_yaml,
 )
 
-SCHEMA_DIR = REPO_ROOT / "schema"
+SCHEMA_DIR = REPO_ROOT / "data" / "schema"
 SERVICES_ALLOWED_TYPES = {"software", "appliance", "os"}
 
 
@@ -115,7 +115,8 @@ def validate_alias_uniqueness(
 
 
 def validate_tags_exist(
-    products: list[ProductEntry], taxonomy_file: Path = REPO_ROOT / "taxonomy" / "tags.yaml"
+    products: list[ProductEntry],
+    taxonomy_file: Path = REPO_ROOT / "data" / "taxonomy" / "tags.yaml",
 ) -> list[str]:
     errors: list[str] = []
     known_tags = load_taxonomy_tags(taxonomy_file)
@@ -123,7 +124,7 @@ def validate_tags_exist(
         for tag in entry.data.get("tags", []):
             if tag not in known_tags:
                 errors.append(
-                    f"{_rel(entry.path)}: unknown tag '{tag}' not in taxonomy/tags.yaml"
+                    f"{_rel(entry.path)}: unknown tag '{tag}' not in data/taxonomy/tags.yaml"
                 )
     return errors
 
@@ -139,7 +140,9 @@ def validate_services_allowed(products: list[ProductEntry]) -> list[str]:
     return errors
 
 
-def validate_taxonomy(taxonomy_file: Path = REPO_ROOT / "taxonomy" / "tags.yaml") -> list[str]:
+def validate_taxonomy(
+    taxonomy_file: Path = REPO_ROOT / "data" / "taxonomy" / "tags.yaml",
+) -> list[str]:
     errors: list[str] = []
     data = load_yaml(taxonomy_file)
     schema = load_schema("taxonomy.schema.json")
@@ -155,14 +158,16 @@ def validate_taxonomy(taxonomy_file: Path = REPO_ROOT / "taxonomy" / "tags.yaml"
     return errors
 
 
-def validate_directory_structure(vendors_dir: Path = REPO_ROOT / "vendors") -> list[str]:
+def validate_directory_structure(
+    vendors_dir: Path = REPO_ROOT / "data" / "vendors",
+) -> list[str]:
     errors: list[str] = []
     if not vendors_dir.is_dir():
         return errors
     for entry in sorted(vendors_dir.iterdir()):
         if not entry.is_dir():
             errors.append(
-                f"{_rel(entry)}: unexpected file directly under vendors/ "
+                f"{_rel(entry)}: unexpected file directly under data/vendors/ "
                 "(only vendor directories are allowed)"
             )
             continue
@@ -196,12 +201,12 @@ def validate_vendor_references(
         if entry.vendor_id not in known_ids:
             errors.append(
                 f"{_rel(entry.path)}: vendor_id '{entry.vendor_id}' has no "
-                f"corresponding vendors/{entry.vendor_id}/vendor.yaml"
+                f"corresponding data/vendors/{entry.vendor_id}/vendor.yaml"
             )
     return errors
 
 
-def run_all_checks(vendors_dir: Path = REPO_ROOT / "vendors") -> list[str]:
+def run_all_checks(vendors_dir: Path = REPO_ROOT / "data" / "vendors") -> list[str]:
     vendors = iter_vendors(vendors_dir)
     products = iter_products(vendors_dir)
     errors: list[str] = []

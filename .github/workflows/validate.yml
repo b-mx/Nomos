@@ -22,8 +22,8 @@ jobs:
       - run: uv run mypy --strict tools
       - run: uv run pytest
       - run: uv run tools/validate.py
-      - name: Check examples/ is up to date with vendors/
+      - name: Check data/examples/ is up to date with data/vendors/
         run: |
-          generated_at=$(python3 -c "import json; print(json.load(open('examples/aliases.json'))['generated_at'])")
+          generated_at=$(python3 -c "import json; print(json.load(open('data/examples/aliases.json'))['generated_at'])")
           uv run tools/build_index.py --output-dir /tmp/examples-check --generated-at "$generated_at"
-          diff -r examples /tmp/examples-check
+          diff -r data/examples /tmp/examples-check

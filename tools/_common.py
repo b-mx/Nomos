@@ -10,8 +10,8 @@ from typing import Any
 import yaml
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-VENDORS_DIR = REPO_ROOT / "vendors"
-TAXONOMY_FILE = REPO_ROOT / "taxonomy" / "tags.yaml"
+VENDORS_DIR = REPO_ROOT / "data" / "vendors"
+TAXONOMY_FILE = REPO_ROOT / "data" / "taxonomy" / "tags.yaml"
 
 KEBAB_CASE_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 
