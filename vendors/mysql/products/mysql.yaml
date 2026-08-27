@@ -1,0 +1,18 @@
+id: mysql
+vendor_id: mysql
+name: MySQL
+type: software
+tags: [database]
+icon: i-logos-mysql-icon
+aliases:
+  - source: nvd_cpe
+    value: mysql
+    confidence: curated
+  - source: endoflife
+    value: mysql
+    confidence: curated
+services:
+  - protocol: tcp
+    port: 3306
+    name: mysql
+    default: true

@@ -1,0 +1,10 @@
+id: microsoft
+name: Microsoft
+icon: i-logos-microsoft-icon
+aliases:
+  - source: nvd_cpe
+    value: microsoft
+    confidence: curated
+  - source: cisa_kev
+    value: "Microsoft Corporation"
+    confidence: curated
