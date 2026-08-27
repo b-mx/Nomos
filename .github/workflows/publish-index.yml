@@ -31,7 +31,7 @@ jobs:
       - name: Assemble Pages site
         run: |
           mkdir -p dist
-          cp site/index.html site/search.html site/style.css site/search.js site/landing.js site/favicon.svg dist/
+          cp site/index.html site/search.html site/style.css site/search.js site/landing.js site/theme.js site/favicon.svg dist/
           cp docs/nomos-banner.svg dist/
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0
