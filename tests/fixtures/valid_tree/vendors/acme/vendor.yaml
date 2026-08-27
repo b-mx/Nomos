@@ -1,5 +1,6 @@
 id: acme
 name: Acme Corp
+cpe: "cpe:2.3:*:acme:*:*:*:*:*:*:*:*:*"
 aliases:
   - source: nvd
     value: acme

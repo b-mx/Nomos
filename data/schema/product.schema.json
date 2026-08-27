@@ -16,6 +16,14 @@
       "uniqueItems": true
     },
     "icon": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*:[a-z0-9]+(-[a-z0-9]+)*$" },
+    "cpe": {
+      "type": "string",
+      "pattern": "^cpe:2\\.3:[aoh]:[^:]+:[^:]+:\\*(:\\*){7}$"
+    },
+    "purl": {
+      "type": "string",
+      "pattern": "^pkg:[a-z][a-z0-9.+-]*\\/.+$"
+    },
     "aliases": {
       "type": "array",
       "items": { "$ref": "#/$defs/alias" }

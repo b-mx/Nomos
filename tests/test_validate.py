@@ -133,3 +133,52 @@ def test_run_all_checks_includes_taxonomy_validation():
 
     source = inspect.getsource(run_all_checks)
     assert "validate_taxonomy" in source, "run_all_checks() must call validate_taxonomy()"
+
+
+def test_cpe_field_accepts_well_formed_prefix():
+    from tools.validate import validate_schema_conformance
+
+    vendors_dir = FIXTURES / "valid_tree" / "vendors"
+    vendors = iter_vendors(vendors_dir)
+    products = iter_products(vendors_dir)
+    assert validate_schema_conformance(vendors, products) == []
+
+
+def test_cpe_field_rejects_malformed_string():
+    import jsonschema
+
+    from tools.validate import load_schema
+
+    schema = load_schema("product.schema.json")
+    data = {
+        "id": "widget",
+        "vendor_id": "acme",
+        "name": "Acme Widget",
+        "type": "software",
+        "tags": [],
+        "cpe": "not-a-cpe-string",
+        "aliases": [{"source": "nvd", "value": "widget", "confidence": "curated"}],
+    }
+    validator = jsonschema.Draft202012Validator(schema)
+    errors = list(validator.iter_errors(data))
+    assert len(errors) == 1
+
+
+def test_purl_field_rejects_malformed_string():
+    import jsonschema
+
+    from tools.validate import load_schema
+
+    schema = load_schema("product.schema.json")
+    data = {
+        "id": "widget",
+        "vendor_id": "acme",
+        "name": "Acme Widget",
+        "type": "software",
+        "tags": [],
+        "purl": "not-a-purl",
+        "aliases": [{"source": "nvd", "value": "widget", "confidence": "curated"}],
+    }
+    validator = jsonschema.Draft202012Validator(schema)
+    errors = list(validator.iter_errors(data))
+    assert len(errors) == 1
