@@ -29,6 +29,13 @@
        confidence: curated
    ```
 
+   Both files may also carry an optional `cpe` field (a full, version-
+   wildcarded CPE 2.3 string, e.g. `cpe:2.3:a:acme:widget:*:*:*:*:*:*:*:*`),
+   and products may carry an optional `purl` field (e.g. `pkg:pypi/widget`).
+   **Never guess either field from a display name** — only set them from
+   data you've actually confirmed (e.g. an NVD CPE match, or an existing
+   `osv` alias for `purl`).
+
 4. A vendor and its product MAY share the same `(source, value)` pair — e.g.
    NGINX's vendor and product both legitimately claim `nvd: nginx`, since
    CPE's vendor and product fields are separate assertions even when the

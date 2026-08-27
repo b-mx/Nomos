@@ -11,7 +11,7 @@
     "icon": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*:[a-z0-9]+(-[a-z0-9]+)*$" },
     "cpe": {
       "type": "string",
-      "pattern": "^cpe:2\\.3:[*aoh]:[^:]+:\\*(:\\*){8}$"
+      "pattern": "^cpe:2\\.3:[*aoh]:(?:[^:\\\\]|\\\\.)+:\\*(:\\*){8}$"
     },
     "aliases": {
       "type": "array",

@@ -182,3 +182,47 @@ def test_purl_field_rejects_malformed_string():
     validator = jsonschema.Draft202012Validator(schema)
     errors = list(validator.iter_errors(data))
     assert len(errors) == 1
+
+
+def test_cpe_field_accepts_escaped_colon_in_product_name():
+    # Real-world case: a product like "Data::FormValidator" (a Perl module)
+    # has a literal colon in its CPE 2.3 name, escaped as `\:` per CPE 2.3
+    # formatted-string binding rules. The pattern must accept a backslash-
+    # escaped colon inside a component without treating it as a delimiter.
+    import jsonschema
+
+    from tools.validate import load_schema
+
+    schema = load_schema("product.schema.json")
+    data = {
+        "id": "data-formvalidator",
+        "vendor_id": "mark-stosberg",
+        "name": "Data::FormValidator",
+        "type": "library",
+        "tags": [],
+        "cpe": r"cpe:2.3:a:mark_stosberg:data\:\:formvalidator:*:*:*:*:*:*:*:*",
+        "aliases": [{"source": "nvd", "value": "data::formvalidator", "confidence": "auto"}],
+    }
+    validator = jsonschema.Draft202012Validator(schema)
+    assert list(validator.iter_errors(data)) == []
+
+
+def test_cpe_field_still_rejects_unescaped_colon_as_delimiter():
+    # A bare (unescaped) colon inside a component must still be rejected —
+    # it would otherwise be indistinguishable from an extra CPE token.
+    import jsonschema
+
+    from tools.validate import load_schema
+
+    schema = load_schema("product.schema.json")
+    data = {
+        "id": "widget",
+        "vendor_id": "acme",
+        "name": "Acme Widget",
+        "type": "software",
+        "tags": [],
+        "cpe": "cpe:2.3:a:acme:wid:get:*:*:*:*:*:*:*:*",
+        "aliases": [{"source": "nvd", "value": "widget", "confidence": "curated"}],
+    }
+    validator = jsonschema.Draft202012Validator(schema)
+    assert len(list(validator.iter_errors(data))) == 1
