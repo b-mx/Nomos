@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "ubiquiti",
+  "vendor_id": "ubiquiti",
+  "name": "Ubiquiti",
+  "icon": "simple-icons:ubiquiti",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Ubiquiti",
+      "confidence": "auto"
+    }
+  ]
+}

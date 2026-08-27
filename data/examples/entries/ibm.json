@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "ibm",
+  "vendor_id": "ibm",
+  "name": "IBM",
+  "icon": "logos:ibm",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "IBM",
+      "confidence": "auto"
+    }
+  ]
+}

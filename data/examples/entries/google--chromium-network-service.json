@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-network-service",
+  "vendor_id": "google",
+  "product_id": "chromium-network-service",
+  "name": "Chromium Network Service",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium Network Service",
+      "confidence": "auto"
+    }
+  ]
+}

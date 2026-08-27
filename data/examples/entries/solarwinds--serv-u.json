@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "solarwinds--serv-u",
+  "vendor_id": "solarwinds",
+  "product_id": "serv-u",
+  "name": "Serv-U",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:solarwinds",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Serv-U",
+      "confidence": "auto"
+    }
+  ]
+}

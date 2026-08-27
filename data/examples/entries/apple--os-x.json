@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apple--os-x",
+  "vendor_id": "apple",
+  "product_id": "os-x",
+  "name": "OS X",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:apple",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "OS X",
+      "confidence": "auto"
+    }
+  ]
+}

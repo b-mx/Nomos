@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "plex--media-server",
+  "vendor_id": "plex",
+  "product_id": "media-server",
+  "name": "Media Server",
+  "type": "software",
+  "tags": [],
+  "icon": "cib:plex",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Media Server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "sonatype",
+  "vendor_id": "sonatype",
+  "name": "Sonatype",
+  "icon": "simple-icons:sonatype",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Sonatype",
+      "confidence": "auto"
+    }
+  ]
+}

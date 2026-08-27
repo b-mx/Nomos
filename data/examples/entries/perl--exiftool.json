@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "perl--exiftool",
+  "vendor_id": "perl",
+  "product_id": "exiftool",
+  "name": "Exiftool",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:perl",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Exiftool",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "citrix",
+  "vendor_id": "citrix",
+  "name": "Citrix",
+  "icon": "simple-icons:citrix",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Citrix",
+      "confidence": "auto"
+    }
+  ]
+}

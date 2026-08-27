@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "qlik",
+  "vendor_id": "qlik",
+  "name": "Qlik",
+  "icon": "logos:qlik",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Qlik",
+      "confidence": "auto"
+    }
+  ]
+}

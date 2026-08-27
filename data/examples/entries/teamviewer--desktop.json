@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teamviewer--desktop",
+  "vendor_id": "teamviewer",
+  "product_id": "desktop",
+  "name": "Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": "cib:teamviewer",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Desktop",
+      "confidence": "auto"
+    }
+  ]
+}

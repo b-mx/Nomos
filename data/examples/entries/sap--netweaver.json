@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sap--netweaver",
+  "vendor_id": "sap",
+  "product_id": "netweaver",
+  "name": "NetWeaver",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:sap",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "NetWeaver",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--vcenter-server",
+  "vendor_id": "vmware",
+  "product_id": "vcenter-server",
+  "name": "vCenter Server",
+  "type": "software",
+  "tags": [
+    "virtualization"
+  ],
+  "icon": "logos:vmware",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "vCenter Server",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "VMware vCenter",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "VMware vCenter Server",
+      "confidence": "auto"
+    }
+  ]
+}

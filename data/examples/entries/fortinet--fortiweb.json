@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fortinet--fortiweb",
+  "vendor_id": "fortinet",
+  "product_id": "fortiweb",
+  "name": "FortiWeb",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "FortiWeb",
+      "confidence": "auto"
+    }
+  ]
+}

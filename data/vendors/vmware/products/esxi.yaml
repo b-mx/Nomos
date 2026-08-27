@@ -4,7 +4,7 @@ name: ESXi
 type: os
 tags:
 - virtualization
-icon: logos:vmware
+icon: carbon:logo-vmware-alt
 aliases:
 - source: cisa_kev
   value: ESXi

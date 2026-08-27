@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--vrealize-operations-manager-api",
+  "vendor_id": "vmware",
+  "product_id": "vrealize-operations-manager-api",
+  "name": "vRealize Operations Manager API",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:vmware",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "vRealize Operations Manager API",
+      "confidence": "auto"
+    }
+  ]
+}

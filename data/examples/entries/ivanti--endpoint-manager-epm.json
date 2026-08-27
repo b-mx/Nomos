@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ivanti--endpoint-manager-epm",
+  "vendor_id": "ivanti",
+  "product_id": "endpoint-manager-epm",
+  "name": "Endpoint Manager (EPM)",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Endpoint Manager (EPM)",
+      "confidence": "auto"
+    }
+  ]
+}

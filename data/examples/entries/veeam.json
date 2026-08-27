@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "veeam",
+  "vendor_id": "veeam",
+  "name": "Veeam",
+  "icon": "simple-icons:veeam",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Veeam",
+      "confidence": "auto"
+    }
+  ]
+}

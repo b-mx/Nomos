@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intel--ethernet-diagnostics-driver-for-windows",
+  "vendor_id": "intel",
+  "product_id": "ethernet-diagnostics-driver-for-windows",
+  "name": "Ethernet Diagnostics Driver for Windows",
+  "type": "os",
+  "tags": [],
+  "icon": "logos:intel",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Ethernet Diagnostics Driver for Windows",
+      "confidence": "auto"
+    }
+  ]
+}

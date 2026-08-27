@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apple--macos",
+  "vendor_id": "apple",
+  "product_id": "macos",
+  "name": "macOS",
+  "type": "os",
+  "tags": [],
+  "icon": "logos:apple",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "macOS",
+      "confidence": "auto"
+    }
+  ]
+}

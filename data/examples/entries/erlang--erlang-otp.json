@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "erlang--erlang-otp",
+  "vendor_id": "erlang",
+  "product_id": "erlang-otp",
+  "name": "Erlang/OTP",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:erlang",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Erlang/OTP",
+      "confidence": "auto"
+    }
+  ]
+}

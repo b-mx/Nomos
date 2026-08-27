@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "dd-wrt--dd-wrt",
+  "vendor_id": "dd-wrt",
+  "product_id": "dd-wrt",
+  "name": "DD-WRT",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "DD-WRT",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fortinet--forticlient-ems",
+  "vendor_id": "fortinet",
+  "product_id": "forticlient-ems",
+  "name": "FortiClient EMS",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "FortiClient EMS",
+      "confidence": "auto"
+    }
+  ]
+}

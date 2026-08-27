@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle--solaris",
+  "vendor_id": "oracle",
+  "product_id": "solaris",
+  "name": "Solaris",
+  "type": "os",
+  "tags": [],
+  "icon": "logos:oracle",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Solaris",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Solaris and Zettabyte File System (ZFS)",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle--e-business-suite",
+  "vendor_id": "oracle",
+  "product_id": "e-business-suite",
+  "name": "E-Business Suite",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:oracle",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "E-Business Suite",
+      "confidence": "auto"
+    }
+  ]
+}

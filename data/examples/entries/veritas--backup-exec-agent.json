@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "veritas--backup-exec-agent",
+  "vendor_id": "veritas",
+  "product_id": "backup-exec-agent",
+  "name": "Backup Exec Agent",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:veritas",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Backup Exec Agent",
+      "confidence": "auto"
+    }
+  ]
+}

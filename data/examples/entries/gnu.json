@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "gnu",
+  "vendor_id": "gnu",
+  "name": "GNU",
+  "icon": "logos:gnu",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "GNU",
+      "confidence": "auto"
+    }
+  ]
+}

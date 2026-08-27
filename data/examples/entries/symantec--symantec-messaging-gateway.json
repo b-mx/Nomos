@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "symantec--symantec-messaging-gateway",
+  "vendor_id": "symantec",
+  "product_id": "symantec-messaging-gateway",
+  "name": "Symantec Messaging Gateway",
+  "type": "software",
+  "tags": [
+    "network-device"
+  ],
+  "icon": "cib:symantec",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Symantec Messaging Gateway",
+      "confidence": "auto"
+    }
+  ]
+}

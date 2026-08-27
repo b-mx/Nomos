@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "schneider-electric--u-motion-builder",
+  "vendor_id": "schneider-electric",
+  "product_id": "u-motion-builder",
+  "name": "U.motion Builder",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:schneiderelectric",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "U.motion Builder",
+      "confidence": "auto"
+    }
+  ]
+}

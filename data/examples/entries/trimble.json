@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "trimble",
+  "vendor_id": "trimble",
+  "name": "Trimble",
+  "icon": "simple-icons:trimble",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Trimble",
+      "confidence": "auto"
+    }
+  ]
+}

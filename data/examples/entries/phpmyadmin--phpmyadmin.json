@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phpmyadmin--phpmyadmin",
+  "vendor_id": "phpmyadmin",
+  "product_id": "phpmyadmin",
+  "name": "phpMyAdmin",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:phpmyadmin",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "phpMyAdmin",
+      "confidence": "auto"
+    }
+  ]
+}

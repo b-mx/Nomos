@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "ietf",
+  "vendor_id": "ietf",
+  "name": "IETF",
+  "icon": "logos:ietf",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "IETF",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--skia",
+  "vendor_id": "google",
+  "product_id": "skia",
+  "name": "Skia",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Skia",
+      "confidence": "auto"
+    }
+  ]
+}

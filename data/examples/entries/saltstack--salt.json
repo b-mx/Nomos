@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "saltstack--salt",
+  "vendor_id": "saltstack",
+  "product_id": "salt",
+  "name": "Salt",
+  "type": "software",
+  "tags": [],
+  "icon": "cib:saltstack",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Salt",
+      "confidence": "auto"
+    }
+  ]
+}

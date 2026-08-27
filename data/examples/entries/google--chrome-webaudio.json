@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chrome-webaudio",
+  "vendor_id": "google",
+  "product_id": "chrome-webaudio",
+  "name": "Chrome WebAudio",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chrome WebAudio",
+      "confidence": "auto"
+    }
+  ]
+}

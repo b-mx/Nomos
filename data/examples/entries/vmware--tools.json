@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--tools",
+  "vendor_id": "vmware",
+  "product_id": "tools",
+  "name": "Tools",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:vmware",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Tools",
+      "confidence": "auto"
+    }
+  ]
+}

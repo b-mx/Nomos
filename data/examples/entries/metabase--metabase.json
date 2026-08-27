@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "metabase--metabase",
+  "vendor_id": "metabase",
+  "product_id": "metabase",
+  "name": "Metabase",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:metabase",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Metabase",
+      "confidence": "auto"
+    }
+  ]
+}

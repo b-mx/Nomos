@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "atlassian--jira-server-and-data-center",
+  "vendor_id": "atlassian",
+  "product_id": "jira-server-and-data-center",
+  "name": "Jira Server and Data Center",
+  "type": "software",
+  "tags": [
+    "collaboration-tool"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Jira Server and Data Center",
+      "confidence": "auto"
+    }
+  ]
+}

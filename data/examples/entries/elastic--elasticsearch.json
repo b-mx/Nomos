@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "elastic--elasticsearch",
+  "vendor_id": "elastic",
+  "product_id": "elasticsearch",
+  "name": "Elasticsearch",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": "cib:elastic",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Elasticsearch",
+      "confidence": "auto"
+    }
+  ]
+}

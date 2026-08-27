@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "7-zip",
+  "vendor_id": "7-zip",
+  "name": "7-Zip",
+  "icon": "simple-icons:7zip",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "7-Zip",
+      "confidence": "curated"
+    }
+  ]
+}

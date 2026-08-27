@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chrome-media",
+  "vendor_id": "google",
+  "product_id": "chrome-media",
+  "name": "Chrome Media",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chrome Media",
+      "confidence": "auto"
+    }
+  ]
+}

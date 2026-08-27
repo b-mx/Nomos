@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "android--android-os",
+  "vendor_id": "android",
+  "product_id": "android-os",
+  "name": "Android OS",
+  "type": "os",
+  "tags": [
+    "operating-system"
+  ],
+  "icon": "logos:android-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Android OS",
+      "confidence": "curated"
+    }
+  ]
+}

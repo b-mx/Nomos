@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "gitea",
+  "vendor_id": "gitea",
+  "name": "Gitea",
+  "icon": "cib:gitea",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Gitea",
+      "confidence": "auto"
+    }
+  ]
+}

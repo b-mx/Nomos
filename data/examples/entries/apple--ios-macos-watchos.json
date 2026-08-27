@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apple--ios-macos-watchos",
+  "vendor_id": "apple",
+  "product_id": "ios-macos-watchos",
+  "name": "iOS, macOS, watchOS",
+  "type": "os",
+  "tags": [],
+  "icon": "logos:apple",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "iOS, macOS, watchOS",
+      "confidence": "auto"
+    }
+  ]
+}

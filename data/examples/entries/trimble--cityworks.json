@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trimble--cityworks",
+  "vendor_id": "trimble",
+  "product_id": "cityworks",
+  "name": "Cityworks",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:trimble",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Cityworks",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "progress--loadmaster",
+  "vendor_id": "progress",
+  "product_id": "loadmaster",
+  "name": "LoadMaster",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:progress",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "LoadMaster",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Kemp LoadMaster",
+      "confidence": "auto"
+    }
+  ]
+}

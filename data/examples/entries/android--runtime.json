@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "android--runtime",
+  "vendor_id": "android",
+  "product_id": "runtime",
+  "name": "Runtime",
+  "type": "software",
+  "tags": [
+    "runtime"
+  ],
+  "icon": "logos:android-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Runtime",
+      "confidence": "curated"
+    }
+  ]
+}

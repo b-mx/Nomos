@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "aquasecurity--trivy",
+  "vendor_id": "aquasecurity",
+  "product_id": "trivy",
+  "name": "Trivy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Trivy",
+      "confidence": "auto"
+    }
+  ]
+}

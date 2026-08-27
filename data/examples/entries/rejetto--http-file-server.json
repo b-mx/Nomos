@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "rejetto--http-file-server",
+  "vendor_id": "rejetto",
+  "product_id": "http-file-server",
+  "name": "HTTP File Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "HTTP File Server",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "HTTP File Server (HFS)",
+      "confidence": "auto"
+    }
+  ]
+}

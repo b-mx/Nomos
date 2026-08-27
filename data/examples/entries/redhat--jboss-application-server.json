@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "redhat--jboss-application-server",
+  "vendor_id": "redhat",
+  "product_id": "jboss-application-server",
+  "name": "JBoss Application Server",
+  "type": "software",
+  "tags": [
+    "webserver"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "JBoss Application Server",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "JBoss",
+      "confidence": "auto"
+    }
+  ]
+}

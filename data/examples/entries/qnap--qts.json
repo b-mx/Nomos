@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "qnap--qts",
+  "vendor_id": "qnap",
+  "product_id": "qts",
+  "name": "QTS",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:qnap",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "QTS",
+      "confidence": "auto"
+    }
+  ]
+}

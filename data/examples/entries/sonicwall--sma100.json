@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "sonicwall--sma100",
+  "vendor_id": "sonicwall",
+  "product_id": "sma100",
+  "name": "SMA100",
+  "type": "software",
+  "tags": [
+    "vpn"
+  ],
+  "icon": "simple-icons:sonicwall",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SMA100",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "SSLVPN SMA100",
+      "confidence": "auto"
+    }
+  ]
+}

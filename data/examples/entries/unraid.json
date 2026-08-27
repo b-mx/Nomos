@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "unraid",
+  "vendor_id": "unraid",
+  "name": "Unraid",
+  "icon": "simple-icons:unraid",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Unraid",
+      "confidence": "auto"
+    }
+  ]
+}

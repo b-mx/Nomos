@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jenkins--matrix-project-plugin",
+  "vendor_id": "jenkins",
+  "product_id": "matrix-project-plugin",
+  "name": "Matrix Project Plugin",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:jenkins",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Matrix Project Plugin",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wazuh--wazuh-server",
+  "vendor_id": "wazuh",
+  "product_id": "wazuh-server",
+  "name": "Wazuh Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Wazuh Server",
+      "confidence": "auto"
+    }
+  ]
+}

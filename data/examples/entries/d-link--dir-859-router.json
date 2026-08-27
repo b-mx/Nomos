@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "d-link--dir-859-router",
+  "vendor_id": "d-link",
+  "product_id": "dir-859-router",
+  "name": "DIR-859 Router",
+  "type": "hardware",
+  "tags": [
+    "network-device"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "DIR-859 Router",
+      "confidence": "auto"
+    }
+  ]
+}

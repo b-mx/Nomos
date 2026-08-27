@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fortinet--fortisandbox",
+  "vendor_id": "fortinet",
+  "product_id": "fortisandbox",
+  "name": "FortiSandbox",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "FortiSandbox",
+      "confidence": "auto"
+    }
+  ]
+}

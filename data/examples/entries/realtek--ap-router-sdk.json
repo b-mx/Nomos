@@ -1,0 +1,21 @@
+{
+  "canonical_type": "product",
+  "slug": "realtek--ap-router-sdk",
+  "vendor_id": "realtek",
+  "product_id": "ap-router-sdk",
+  "name": "AP-Router SDK",
+  "type": "hardware",
+  "tags": [
+    "library",
+    "network-device"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "AP-Router SDK",
+      "confidence": "auto"
+    }
+  ]
+}

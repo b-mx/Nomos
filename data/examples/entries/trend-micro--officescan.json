@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trend-micro--officescan",
+  "vendor_id": "trend-micro",
+  "product_id": "officescan",
+  "name": "OfficeScan",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:trendmicro",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "OfficeScan",
+      "confidence": "auto"
+    }
+  ]
+}

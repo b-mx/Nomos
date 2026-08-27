@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "f5--big-ip-configuration-utility",
+  "vendor_id": "f5",
+  "product_id": "big-ip-configuration-utility",
+  "name": "BIG-IP Configuration Utility",
+  "type": "appliance",
+  "tags": [
+    "load-balancer"
+  ],
+  "icon": "simple-icons:f5",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "BIG-IP Configuration Utility",
+      "confidence": "auto"
+    }
+  ]
+}

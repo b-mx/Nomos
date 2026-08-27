@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "siemens--simatic-cp",
+  "vendor_id": "siemens",
+  "product_id": "simatic-cp",
+  "name": "SIMATIC CP",
+  "type": "software",
+  "tags": [],
+  "icon": "cib:siemens",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SIMATIC CP",
+      "confidence": "auto"
+    }
+  ]
+}

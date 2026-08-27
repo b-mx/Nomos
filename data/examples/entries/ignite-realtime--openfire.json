@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ignite-realtime--openfire",
+  "vendor_id": "ignite-realtime",
+  "product_id": "openfire",
+  "name": "Openfire",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Openfire",
+      "confidence": "auto"
+    }
+  ]
+}

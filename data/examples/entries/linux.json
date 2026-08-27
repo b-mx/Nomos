@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "linux",
+  "vendor_id": "linux",
+  "name": "Linux",
+  "icon": "cib:linux",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Linux",
+      "confidence": "auto"
+    }
+  ]
+}

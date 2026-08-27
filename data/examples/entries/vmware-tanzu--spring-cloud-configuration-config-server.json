@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware-tanzu--spring-cloud-configuration-config-server",
+  "vendor_id": "vmware-tanzu",
+  "product_id": "spring-cloud-configuration-config-server",
+  "name": "Spring Cloud Configuration (Config) Server",
+  "type": "software",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Spring Cloud Configuration (Config) Server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "jenkins--jenkins-user-interface-ui",
+  "vendor_id": "jenkins",
+  "product_id": "jenkins-user-interface-ui",
+  "name": "Jenkins User Interface (UI)",
+  "type": "software",
+  "tags": [
+    "ci-cd"
+  ],
+  "icon": "logos:jenkins",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Jenkins User Interface (UI)",
+      "confidence": "auto"
+    }
+  ]
+}

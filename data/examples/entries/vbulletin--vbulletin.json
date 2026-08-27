@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vbulletin--vbulletin",
+  "vendor_id": "vbulletin",
+  "product_id": "vbulletin",
+  "name": "vBulletin",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:vbulletin",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "vBulletin",
+      "confidence": "auto"
+    }
+  ]
+}

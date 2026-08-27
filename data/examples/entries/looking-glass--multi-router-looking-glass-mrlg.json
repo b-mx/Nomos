@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "looking-glass--multi-router-looking-glass-mrlg",
+  "vendor_id": "looking-glass",
+  "product_id": "multi-router-looking-glass-mrlg",
+  "name": "Multi-Router Looking Glass (MRLG)",
+  "type": "hardware",
+  "tags": [
+    "network-device"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Multi-Router Looking Glass (MRLG)",
+      "confidence": "auto"
+    }
+  ]
+}

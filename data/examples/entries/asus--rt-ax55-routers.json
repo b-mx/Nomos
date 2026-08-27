@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "asus--rt-ax55-routers",
+  "vendor_id": "asus",
+  "product_id": "rt-ax55-routers",
+  "name": "RT-AX55 Routers",
+  "type": "hardware",
+  "tags": [
+    "network-device"
+  ],
+  "icon": "simple-icons:asus",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "RT-AX55 Routers",
+      "confidence": "auto"
+    }
+  ]
+}

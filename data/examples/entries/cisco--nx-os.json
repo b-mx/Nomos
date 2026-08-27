@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--nx-os",
+  "vendor_id": "cisco",
+  "product_id": "nx-os",
+  "name": "NX-OS",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "NX-OS",
+      "confidence": "auto"
+    }
+  ]
+}

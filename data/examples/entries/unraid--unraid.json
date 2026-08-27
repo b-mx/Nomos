@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "unraid--unraid",
+  "vendor_id": "unraid",
+  "product_id": "unraid",
+  "name": "Unraid",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:unraid",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Unraid",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "canonical_type": "product",
+  "slug": "hikvision--security-cameras-web-server",
+  "vendor_id": "hikvision",
+  "product_id": "security-cameras-web-server",
+  "name": "Security cameras web server",
+  "type": "hardware",
+  "tags": [
+    "network-device",
+    "webserver"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Security cameras web server",
+      "confidence": "auto"
+    }
+  ]
+}

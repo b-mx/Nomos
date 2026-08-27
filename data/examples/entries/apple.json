@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "apple",
+  "vendor_id": "apple",
+  "name": "Apple",
+  "icon": "logos:apple",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Apple",
+      "confidence": "curated"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-webrtc",
+  "vendor_id": "google",
+  "product_id": "chromium-webrtc",
+  "name": "Chromium WebRTC",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium WebRTC",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yealink--device-management",
+  "vendor_id": "yealink",
+  "product_id": "device-management",
+  "name": "Device Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Device Management",
+      "confidence": "auto"
+    }
+  ]
+}

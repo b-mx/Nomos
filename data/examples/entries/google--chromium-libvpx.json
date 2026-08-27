@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-libvpx",
+  "vendor_id": "google",
+  "product_id": "chromium-libvpx",
+  "name": "Chromium libvpx",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium libvpx",
+      "confidence": "auto"
+    }
+  ]
+}

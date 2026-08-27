@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zyxel--dsl-cpe-devices",
+  "vendor_id": "zyxel",
+  "product_id": "dsl-cpe-devices",
+  "name": "DSL CPE Devices",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "DSL CPE Devices",
+      "confidence": "auto"
+    }
+  ]
+}

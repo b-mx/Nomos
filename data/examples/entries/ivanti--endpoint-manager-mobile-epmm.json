@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "ivanti--endpoint-manager-mobile-epmm",
+  "vendor_id": "ivanti",
+  "product_id": "endpoint-manager-mobile-epmm",
+  "name": "Endpoint Manager Mobile (EPMM)",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Endpoint Manager Mobile (EPMM)",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Endpoint Manager Mobile (EPMM) and MobileIron Core",
+      "confidence": "auto"
+    }
+  ]
+}

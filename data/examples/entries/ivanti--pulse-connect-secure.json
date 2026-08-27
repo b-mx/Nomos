@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "ivanti--pulse-connect-secure",
+  "vendor_id": "ivanti",
+  "product_id": "pulse-connect-secure",
+  "name": "Pulse Connect Secure",
+  "type": "software",
+  "tags": [
+    "vpn"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Pulse Connect Secure",
+      "confidence": "auto"
+    }
+  ]
+}

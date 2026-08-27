@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "phpmyadmin",
+  "vendor_id": "phpmyadmin",
+  "name": "phpMyAdmin",
+  "icon": "simple-icons:phpmyadmin",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "phpMyAdmin",
+      "confidence": "auto"
+    }
+  ]
+}

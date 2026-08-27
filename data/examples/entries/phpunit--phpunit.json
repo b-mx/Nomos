@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phpunit--phpunit",
+  "vendor_id": "phpunit",
+  "product_id": "phpunit",
+  "name": "PHPUnit",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "PHPUnit",
+      "confidence": "auto"
+    }
+  ]
+}

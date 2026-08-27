@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "check-point--smartconsole",
+  "vendor_id": "check-point",
+  "product_id": "smartconsole",
+  "name": "SmartConsole",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SmartConsole",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trueconf--server",
+  "vendor_id": "trueconf",
+  "product_id": "server",
+  "name": "Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Server",
+      "confidence": "auto"
+    }
+  ]
+}

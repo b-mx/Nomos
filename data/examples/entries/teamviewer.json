@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "teamviewer",
+  "vendor_id": "teamviewer",
+  "name": "TeamViewer",
+  "icon": "cib:teamviewer",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "TeamViewer",
+      "confidence": "auto"
+    }
+  ]
+}

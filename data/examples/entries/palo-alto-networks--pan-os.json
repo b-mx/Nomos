@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "palo-alto-networks--pan-os",
+  "vendor_id": "palo-alto-networks",
+  "product_id": "pan-os",
+  "name": "PAN-OS",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:paloaltonetworks",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "PAN-OS",
+      "confidence": "auto"
+    }
+  ]
+}

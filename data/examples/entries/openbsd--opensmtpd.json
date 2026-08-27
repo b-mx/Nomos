@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openbsd--opensmtpd",
+  "vendor_id": "openbsd",
+  "product_id": "opensmtpd",
+  "name": "OpenSMTPD",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:openbsd",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "OpenSMTPD",
+      "confidence": "auto"
+    }
+  ]
+}

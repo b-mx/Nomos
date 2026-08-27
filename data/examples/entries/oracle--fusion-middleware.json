@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle--fusion-middleware",
+  "vendor_id": "oracle",
+  "product_id": "fusion-middleware",
+  "name": "Fusion Middleware",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:oracle",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Fusion Middleware",
+      "confidence": "auto"
+    }
+  ]
+}

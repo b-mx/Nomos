@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apache--hugegraph-server",
+  "vendor_id": "apache",
+  "product_id": "hugegraph-server",
+  "name": "HugeGraph-Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "HugeGraph-Server",
+      "confidence": "auto"
+    }
+  ]
+}

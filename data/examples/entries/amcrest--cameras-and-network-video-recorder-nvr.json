@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "amcrest--cameras-and-network-video-recorder-nvr",
+  "vendor_id": "amcrest",
+  "product_id": "cameras-and-network-video-recorder-nvr",
+  "name": "Cameras and Network Video Recorder (NVR)",
+  "type": "hardware",
+  "tags": [
+    "network-device"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Cameras and Network Video Recorder (NVR)",
+      "confidence": "auto"
+    }
+  ]
+}

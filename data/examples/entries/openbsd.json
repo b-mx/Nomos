@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "openbsd",
+  "vendor_id": "openbsd",
+  "name": "OpenBSD",
+  "icon": "simple-icons:openbsd",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "OpenBSD",
+      "confidence": "auto"
+    }
+  ]
+}

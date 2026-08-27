@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pi-hole--adminlte",
+  "vendor_id": "pi-hole",
+  "product_id": "adminlte",
+  "name": "AdminLTE",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:pihole",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "AdminLTE",
+      "confidence": "auto"
+    }
+  ]
+}
