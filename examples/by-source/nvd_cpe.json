@@ -56,12 +56,34 @@
   },
   {
     "canonical_type": "vendor",
+    "vendor_id": "docker",
+    "product_id": null,
+    "name": "Docker",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "docker",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
     "vendor_id": "fortinet",
     "product_id": null,
     "name": "Fortinet",
     "alias": {
       "source": "nvd_cpe",
       "value": "fortinet",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "kubernetes",
+    "product_id": null,
+    "name": "Kubernetes",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "kubernetes",
       "confidence": "curated"
     }
   },
@@ -78,12 +100,89 @@
   },
   {
     "canonical_type": "vendor",
+    "vendor_id": "mysql",
+    "product_id": null,
+    "name": "MySQL",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "mysql",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nginx",
+    "product_id": null,
+    "name": "NGINX",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "nginx",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "openssl",
+    "product_id": null,
+    "name": "OpenSSL",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "openssl",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "postgresql",
+    "product_id": null,
+    "name": "PostgreSQL",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "postgresql",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "python",
+    "product_id": null,
+    "name": "Python",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "python",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "pytorch",
+    "product_id": null,
+    "name": "PyTorch",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "pytorch",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
     "vendor_id": "redhat",
     "product_id": null,
     "name": "Red Hat",
     "alias": {
       "source": "nvd_cpe",
       "value": "redhat",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "redis",
+    "product_id": null,
+    "name": "Redis",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "redis",
       "confidence": "curated"
     }
   },
