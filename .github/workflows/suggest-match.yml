@@ -1,0 +1,50 @@
+name: Suggest Match
+
+on:
+  pull_request_target:
+    branches: [main]
+    paths:
+      - "vendors/**"
+
+permissions:
+  contents: read
+
+jobs:
+  suggest-match:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - name: Checkout base branch (trusted tooling only)
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Fetch PR head as a data source only
+        run: git fetch origin "pull/${{ github.event.pull_request.number }}/head:pr-head"
+      - uses: astral-sh/setup-uv@0c5e2b8115b80b4c7c5ddf6ffdd634974642d182 # v5.4.1
+        with:
+          python-version: "3.12"
+      - run: uv sync --all-extras
+      - name: Run fuzzy-match check
+        id: match
+        run: |
+          {
+            echo "comment<<NOMOS_EOF"
+            uv run tools/suggest_match.py --base-ref main --head-ref pr-head
+            echo "NOMOS_EOF"
+          } >> "$GITHUB_OUTPUT"
+      - name: Post comment
+        if: steps.match.outputs.comment != 'NO_MATCH'
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea # v7.0.1
+        env:
+          COMMENT_BODY: ${{ steps.match.outputs.comment }}
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: process.env.COMMENT_BODY,
+            });

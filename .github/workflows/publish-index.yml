@@ -1,0 +1,33 @@
+name: Publish Index
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: astral-sh/setup-uv@0c5e2b8115b80b4c7c5ddf6ffdd634974642d182 # v5.4.1
+        with:
+          python-version: "3.12"
+      - run: uv sync --all-extras
+      - run: uv run tools/validate.py
+      - name: Build index
+        run: uv run tools/build_index.py --output-dir dist/index --generated-at "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+      - name: Assemble Pages site
+        run: |
+          mkdir -p dist
+          cp -r site/. dist/
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@47f197a2200bb9de68ba5f48fad1c088eb1c4a32 # v4.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
