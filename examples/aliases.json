@@ -1,0 +1,748 @@
+{
+  "generated_at": "2026-08-27T00:00:00Z",
+  "entries": [
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "apache",
+      "name": "Apache Software Foundation",
+      "icon": "i-logos-apache",
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "apache",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Apache",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "atlassian",
+      "name": "Atlassian",
+      "icon": "i-logos-atlassian",
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "atlassian",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Atlassian",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "canonical",
+      "name": "Canonical",
+      "icon": "i-logos-ubuntu",
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "canonical",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "cisco",
+      "name": "Cisco",
+      "icon": "i-logos-cisco",
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "cisco",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Cisco",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "dell",
+      "name": "Dell",
+      "icon": null,
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "dell",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "docker",
+      "name": "Docker",
+      "icon": "i-logos-docker-icon",
+      "aliases": []
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "fortinet",
+      "name": "Fortinet",
+      "icon": "i-logos-fortinet",
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "fortinet",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Fortinet",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "kubernetes",
+      "name": "Kubernetes",
+      "icon": "i-logos-kubernetes",
+      "aliases": []
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "microsoft",
+      "name": "Microsoft",
+      "icon": "i-logos-microsoft-icon",
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "microsoft",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Microsoft Corporation",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "mysql",
+      "name": "MySQL",
+      "icon": "i-logos-mysql-icon",
+      "aliases": []
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "nginx",
+      "name": "NGINX",
+      "icon": "i-logos-nginx",
+      "aliases": []
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "openssl",
+      "name": "OpenSSL",
+      "icon": "i-logos-openssl",
+      "aliases": []
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "postgresql",
+      "name": "PostgreSQL",
+      "icon": "i-logos-postgresql",
+      "aliases": []
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "python",
+      "name": "Python",
+      "icon": "i-logos-python",
+      "aliases": []
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "pytorch",
+      "name": "PyTorch",
+      "icon": "i-logos-pytorch-icon",
+      "aliases": []
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "redhat",
+      "name": "Red Hat",
+      "icon": "i-logos-redhat-icon",
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "redhat",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Red Hat",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "redis",
+      "name": "Redis",
+      "icon": "i-logos-redis",
+      "aliases": []
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "apache",
+      "product_id": "log4j",
+      "name": "Apache Log4j",
+      "type": "library",
+      "tags": [
+        "logging"
+      ],
+      "icon": "i-logos-apache",
+      "services": [],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "log4j",
+          "confidence": "curated"
+        },
+        {
+          "source": "osv",
+          "value": "org.apache.logging.log4j:log4j-core",
+          "ecosystem": "Maven",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Apache Log4j2",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "atlassian",
+      "product_id": "confluence",
+      "name": "Confluence",
+      "type": "software",
+      "tags": [
+        "collaboration-tool"
+      ],
+      "icon": "i-logos-atlassian",
+      "services": [
+        {
+          "protocol": "tcp",
+          "port": 8090,
+          "name": "http",
+          "default": true
+        }
+      ],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "confluence",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Atlassian Confluence",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "canonical",
+      "product_id": "ubuntu",
+      "name": "Ubuntu",
+      "type": "os",
+      "tags": [
+        "operating-system"
+      ],
+      "icon": "i-logos-ubuntu",
+      "services": [],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "ubuntu_linux",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "ubuntu",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "cisco",
+      "product_id": "asa",
+      "name": "Cisco Adaptive Security Appliance (ASA)",
+      "type": "appliance",
+      "tags": [
+        "firewall",
+        "vpn",
+        "network-device"
+      ],
+      "icon": "i-logos-cisco",
+      "services": [
+        {
+          "protocol": "tcp",
+          "port": 443,
+          "name": "https-admin",
+          "default": true
+        }
+      ],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "adaptive_security_appliance",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Cisco Adaptive Security Appliance (ASA)",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "cisco",
+      "product_id": "ios",
+      "name": "Cisco IOS",
+      "type": "firmware",
+      "tags": [
+        "network-device"
+      ],
+      "icon": "i-logos-cisco",
+      "services": [],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "ios",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Cisco IOS",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "dell",
+      "product_id": "poweredge-r740",
+      "name": "Dell PowerEdge R740",
+      "type": "hardware",
+      "tags": [
+        "hardware-appliance"
+      ],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "poweredge_r740_firmware",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "docker",
+      "product_id": "docker-engine",
+      "name": "Docker Engine",
+      "type": "software",
+      "tags": [
+        "container-runtime"
+      ],
+      "icon": "i-logos-docker-icon",
+      "services": [],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "docker",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "docker-engine",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "fortinet",
+      "product_id": "fortios",
+      "name": "FortiOS",
+      "type": "firmware",
+      "tags": [
+        "firewall",
+        "vpn",
+        "network-device"
+      ],
+      "icon": "i-logos-fortinet",
+      "services": [],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "fortios",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "FortiOS",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "kubernetes",
+      "product_id": "kubernetes",
+      "name": "Kubernetes",
+      "type": "software",
+      "tags": [
+        "orchestration",
+        "container-runtime"
+      ],
+      "icon": "i-logos-kubernetes",
+      "services": [
+        {
+          "protocol": "tcp",
+          "port": 6443,
+          "name": "kube-apiserver",
+          "default": true
+        }
+      ],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "kubernetes",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "kubernetes",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "microsoft",
+      "product_id": "exchange-server",
+      "name": "Microsoft Exchange Server",
+      "type": "software",
+      "tags": [
+        "collaboration-tool"
+      ],
+      "icon": "i-logos-microsoft-icon",
+      "services": [
+        {
+          "protocol": "tcp",
+          "port": 443,
+          "name": "https",
+          "default": true
+        },
+        {
+          "protocol": "tcp",
+          "port": 25,
+          "name": "smtp",
+          "default": false
+        }
+      ],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "exchange_server",
+          "confidence": "curated"
+        },
+        {
+          "source": "cisa_kev",
+          "value": "Microsoft Exchange Server",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "microsoft",
+      "product_id": "windows-server",
+      "name": "Windows Server",
+      "type": "os",
+      "tags": [
+        "operating-system"
+      ],
+      "icon": "i-logos-microsoft-icon",
+      "services": [
+        {
+          "protocol": "tcp",
+          "port": 3389,
+          "name": "rdp",
+          "default": true
+        },
+        {
+          "protocol": "tcp",
+          "port": 445,
+          "name": "smb",
+          "default": true
+        }
+      ],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "windows_server",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "windows-server",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "mysql",
+      "product_id": "mysql",
+      "name": "MySQL",
+      "type": "software",
+      "tags": [
+        "database"
+      ],
+      "icon": "i-logos-mysql-icon",
+      "services": [
+        {
+          "protocol": "tcp",
+          "port": 3306,
+          "name": "mysql",
+          "default": true
+        }
+      ],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "mysql",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "mysql",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "nginx",
+      "product_id": "nginx",
+      "name": "NGINX",
+      "type": "software",
+      "tags": [
+        "webserver"
+      ],
+      "icon": "i-logos-nginx",
+      "services": [
+        {
+          "protocol": "tcp",
+          "port": 80,
+          "name": "http",
+          "default": true
+        },
+        {
+          "protocol": "tcp",
+          "port": 443,
+          "name": "https",
+          "default": false
+        }
+      ],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "nginx",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "nginx",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "openssl",
+      "product_id": "openssl",
+      "name": "OpenSSL",
+      "type": "library",
+      "tags": [
+        "cryptography"
+      ],
+      "icon": "i-logos-openssl",
+      "services": [],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "openssl",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "openssl",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "postgresql",
+      "product_id": "postgresql",
+      "name": "PostgreSQL",
+      "type": "software",
+      "tags": [
+        "database"
+      ],
+      "icon": "i-logos-postgresql",
+      "services": [
+        {
+          "protocol": "tcp",
+          "port": 5432,
+          "name": "postgresql",
+          "default": true
+        }
+      ],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "postgresql",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "postgresql",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "python",
+      "product_id": "python",
+      "name": "Python",
+      "type": "software",
+      "tags": [
+        "programming-language",
+        "runtime"
+      ],
+      "icon": "i-logos-python",
+      "services": [],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "python",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "python",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "pytorch",
+      "product_id": "pytorch",
+      "name": "PyTorch",
+      "type": "library",
+      "tags": [
+        "ai-ml"
+      ],
+      "icon": "i-logos-pytorch-icon",
+      "services": [],
+      "aliases": [
+        {
+          "source": "osv",
+          "value": "pytorch",
+          "ecosystem": "PyPI",
+          "confidence": "curated"
+        },
+        {
+          "source": "nvd_cpe",
+          "value": "pytorch",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "redhat",
+      "product_id": "rhel",
+      "name": "Red Hat Enterprise Linux",
+      "type": "os",
+      "tags": [
+        "operating-system"
+      ],
+      "icon": "i-logos-redhat-icon",
+      "services": [],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "enterprise_linux",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "rhel",
+          "confidence": "curated"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "redis",
+      "product_id": "redis",
+      "name": "Redis",
+      "type": "software",
+      "tags": [
+        "database",
+        "cache"
+      ],
+      "icon": "i-logos-redis",
+      "services": [
+        {
+          "protocol": "tcp",
+          "port": 6379,
+          "name": "redis",
+          "default": true
+        }
+      ],
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "redis",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "redis",
+          "confidence": "curated"
+        }
+      ]
+    }
+  ]
+}

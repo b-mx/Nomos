@@ -1,0 +1,299 @@
+[
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "apache",
+    "product_id": null,
+    "name": "Apache Software Foundation",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "apache",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "atlassian",
+    "product_id": null,
+    "name": "Atlassian",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "atlassian",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "canonical",
+    "product_id": null,
+    "name": "Canonical",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "canonical",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "cisco",
+    "product_id": null,
+    "name": "Cisco",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "cisco",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "dell",
+    "product_id": null,
+    "name": "Dell",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "dell",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "fortinet",
+    "product_id": null,
+    "name": "Fortinet",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "fortinet",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "microsoft",
+    "product_id": null,
+    "name": "Microsoft",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "microsoft",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "redhat",
+    "product_id": null,
+    "name": "Red Hat",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "redhat",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apache",
+    "product_id": "log4j",
+    "name": "Apache Log4j",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "log4j",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "atlassian",
+    "product_id": "confluence",
+    "name": "Confluence",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "confluence",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "canonical",
+    "product_id": "ubuntu",
+    "name": "Ubuntu",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "ubuntu_linux",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "asa",
+    "name": "Cisco Adaptive Security Appliance (ASA)",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "adaptive_security_appliance",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "ios",
+    "name": "Cisco IOS",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "ios",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "dell",
+    "product_id": "poweredge-r740",
+    "name": "Dell PowerEdge R740",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "poweredge_r740_firmware",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "docker",
+    "product_id": "docker-engine",
+    "name": "Docker Engine",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "docker",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fortinet",
+    "product_id": "fortios",
+    "name": "FortiOS",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "fortios",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "kubernetes",
+    "product_id": "kubernetes",
+    "name": "Kubernetes",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "kubernetes",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "exchange-server",
+    "name": "Microsoft Exchange Server",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "exchange_server",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "windows-server",
+    "name": "Windows Server",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "windows_server",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mysql",
+    "product_id": "mysql",
+    "name": "MySQL",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "mysql",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nginx",
+    "product_id": "nginx",
+    "name": "NGINX",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "nginx",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "openssl",
+    "product_id": "openssl",
+    "name": "OpenSSL",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "openssl",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "postgresql",
+    "product_id": "postgresql",
+    "name": "PostgreSQL",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "postgresql",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "python",
+    "product_id": "python",
+    "name": "Python",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "python",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "pytorch",
+    "product_id": "pytorch",
+    "name": "PyTorch",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "pytorch",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "redhat",
+    "product_id": "rhel",
+    "name": "Red Hat Enterprise Linux",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "enterprise_linux",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "redis",
+    "product_id": "redis",
+    "name": "Redis",
+    "alias": {
+      "source": "nvd_cpe",
+      "value": "redis",
+      "confidence": "curated"
+    }
+  }
+]

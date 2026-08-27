@@ -1,0 +1,134 @@
+[
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "apache",
+    "product_id": null,
+    "name": "Apache Software Foundation",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Apache",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "atlassian",
+    "product_id": null,
+    "name": "Atlassian",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Atlassian",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "cisco",
+    "product_id": null,
+    "name": "Cisco",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Cisco",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "fortinet",
+    "product_id": null,
+    "name": "Fortinet",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Fortinet",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "microsoft",
+    "product_id": null,
+    "name": "Microsoft",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Microsoft Corporation",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "redhat",
+    "product_id": null,
+    "name": "Red Hat",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Red Hat",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apache",
+    "product_id": "log4j",
+    "name": "Apache Log4j",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Apache Log4j2",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "atlassian",
+    "product_id": "confluence",
+    "name": "Confluence",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Atlassian Confluence",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "asa",
+    "name": "Cisco Adaptive Security Appliance (ASA)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Cisco Adaptive Security Appliance (ASA)",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "ios",
+    "name": "Cisco IOS",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Cisco IOS",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fortinet",
+    "product_id": "fortios",
+    "name": "FortiOS",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "FortiOS",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "exchange-server",
+    "name": "Microsoft Exchange Server",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Microsoft Exchange Server",
+      "confidence": "curated"
+    }
+  }
+]

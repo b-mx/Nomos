@@ -1,0 +1,123 @@
+[
+  {
+    "canonical_type": "product",
+    "vendor_id": "canonical",
+    "product_id": "ubuntu",
+    "name": "Ubuntu",
+    "alias": {
+      "source": "endoflife",
+      "value": "ubuntu",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "docker",
+    "product_id": "docker-engine",
+    "name": "Docker Engine",
+    "alias": {
+      "source": "endoflife",
+      "value": "docker-engine",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "kubernetes",
+    "product_id": "kubernetes",
+    "name": "Kubernetes",
+    "alias": {
+      "source": "endoflife",
+      "value": "kubernetes",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "windows-server",
+    "name": "Windows Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-server",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mysql",
+    "product_id": "mysql",
+    "name": "MySQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "mysql",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nginx",
+    "product_id": "nginx",
+    "name": "NGINX",
+    "alias": {
+      "source": "endoflife",
+      "value": "nginx",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "openssl",
+    "product_id": "openssl",
+    "name": "OpenSSL",
+    "alias": {
+      "source": "endoflife",
+      "value": "openssl",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "postgresql",
+    "product_id": "postgresql",
+    "name": "PostgreSQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "postgresql",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "python",
+    "product_id": "python",
+    "name": "Python",
+    "alias": {
+      "source": "endoflife",
+      "value": "python",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "redhat",
+    "product_id": "rhel",
+    "name": "Red Hat Enterprise Linux",
+    "alias": {
+      "source": "endoflife",
+      "value": "rhel",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "redis",
+    "product_id": "redis",
+    "name": "Redis",
+    "alias": {
+      "source": "endoflife",
+      "value": "redis",
+      "confidence": "curated"
+    }
+  }
+]
