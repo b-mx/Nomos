@@ -47,3 +47,18 @@ def test_write_index_writes_one_file_per_entry(tmp_path):
     product_entry = json.loads(product_file.read_text())
     assert product_entry["canonical_type"] == "product"
     assert product_entry["slug"] == "acme--widget"
+
+
+def test_build_stats_counts_correctly():
+    from tools.build_index import build_entries, build_stats
+
+    stats = build_stats(build_entries(VALID_TREE))
+    assert stats == {"vendor_count": 1, "product_count": 1, "sources": ["nvd_cpe"]}
+
+
+def test_write_index_writes_stats_file(tmp_path):
+    from tools.build_index import write_index
+
+    write_index(tmp_path, generated_at="2026-01-01T00:00:00Z", vendors_dir=VALID_TREE)
+    stats = json.loads((tmp_path / "stats.json").read_text())
+    assert stats == {"vendor_count": 1, "product_count": 1, "sources": ["nvd_cpe"]}
