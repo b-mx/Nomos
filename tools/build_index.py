@@ -76,6 +76,17 @@ def write_entry_files(output_dir: Path, entries: list[dict[str, Any]]) -> None:
         (entries_dir / f"{entry['slug']}.json").write_text(json.dumps(entry, indent=2) + "\n")
 
 
+def build_stats(entries: list[dict[str, Any]]) -> dict[str, Any]:
+    vendor_count = sum(1 for e in entries if e["canonical_type"] == "vendor")
+    product_count = sum(1 for e in entries if e["canonical_type"] == "product")
+    sources = {alias["source"] for e in entries for alias in e.get("aliases", [])}
+    return {
+        "vendor_count": vendor_count,
+        "product_count": product_count,
+        "sources": sorted(sources),
+    }
+
+
 def write_index(
     output_dir: Path, generated_at: str, vendors_dir: Path = REPO_ROOT / "vendors"
 ) -> None:
@@ -87,6 +98,8 @@ def write_index(
     for source, items in build_by_source(index["entries"]).items():
         (by_source_dir / f"{source}.json").write_text(json.dumps(items, indent=2) + "\n")
     write_entry_files(output_dir, index["entries"])
+    stats = build_stats(index["entries"])
+    (output_dir / "stats.json").write_text(json.dumps(stats, indent=2) + "\n")
 
 
 def main() -> int:

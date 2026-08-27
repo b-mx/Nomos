@@ -4,6 +4,15 @@
   --bg: #ffffff;
   --muted: #666666;
   --border: #dddddd;
+  --link: #0969da;
+  --link-hover: #0550ae;
+  --nomos-ink: #0d1117;
+  --nomos-paper: #f0f6fc;
+  --nomos-muted: #8b949e;
+  --source-nvd-cpe: #58a6ff;
+  --source-endoflife: #39d2c0;
+  --source-cisa-kev: #e3b341;
+  --source-osv: #ff7b72;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -11,6 +20,8 @@
     --bg: #121212;
     --muted: #999999;
     --border: #333333;
+    --link: #58a6ff;
+    --link-hover: #79c0ff;
   }
 }
 * { box-sizing: border-box; }
@@ -20,10 +31,22 @@ body {
   color: var(--fg);
   background: var(--bg);
 }
+a {
+  color: var(--link);
+}
+a:hover {
+  color: var(--link-hover);
+}
 main {
   max-width: 720px;
   margin: 0 auto;
   padding: 2rem 1rem;
+}
+.back-link {
+  display: inline-block;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  text-decoration: none;
 }
 #search-box {
   width: 100%;
@@ -66,13 +89,17 @@ main {
   margin-bottom: 0.5rem;
 }
 .result .tags span,
-.result .services span {
+.result .services span,
+.chip {
   display: inline-block;
   border: 1px solid var(--border);
   border-radius: 4px;
   padding: 0.1rem 0.4rem;
   margin: 0.1rem 0.25rem 0.1rem 0;
   font-size: 0.8rem;
+}
+.chip-mono {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
 }
 .result .aliases dt {
   font-weight: 600;
@@ -87,4 +114,135 @@ main {
   color: var(--muted);
   font-size: 0.85rem;
   margin-top: 0.5rem;
+}
+
+/* Landing page */
+.hero {
+  background: var(--nomos-ink);
+}
+.hero-banner {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.hero-content {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1rem 2rem;
+  color: var(--nomos-paper);
+}
+.hero-content p {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.hero-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+.button {
+  display: inline-block;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  font-weight: 600;
+}
+.button-primary {
+  border: 1px solid var(--nomos-paper);
+  color: var(--nomos-paper);
+}
+.button-secondary {
+  border: 1px solid #30363d;
+  color: var(--nomos-muted);
+  font-weight: 400;
+}
+main h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+main section {
+  margin-top: 2rem;
+}
+.source-list {
+  display: grid;
+  gap: 0.5rem;
+}
+.source-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+}
+.source-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.source-dot-nvd-cpe { background: var(--source-nvd-cpe); }
+.source-dot-endoflife { background: var(--source-endoflife); }
+.source-dot-cisa-kev { background: var(--source-cisa-kev); }
+.source-dot-osv { background: var(--source-osv); }
+.source-label {
+  font-weight: 600;
+  min-width: 130px;
+}
+.source-example {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+.data-model {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.data-model-row {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+}
+.data-model-row + .data-model-row {
+  border-top: 1px solid var(--border);
+}
+.data-model-name {
+  font-weight: 600;
+}
+.data-model-row code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.9rem;
+}
+.data-model-desc {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+.coverage-line {
+  color: var(--muted);
+  font-size: 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 0;
+}
+.quickstart {
+  margin: 0;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+.footnote {
+  margin-top: 2rem;
+  color: var(--muted);
+  font-size: 0.85rem;
 }
