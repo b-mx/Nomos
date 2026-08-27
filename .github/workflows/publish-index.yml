@@ -17,14 +17,21 @@ jobs:
       - uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
         with:
           python-version: "3.12"
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: "22"
       - run: uv sync --all-extras
       - run: uv run tools/validate.py
       - name: Build index
         run: uv run tools/build_index.py --output-dir dist/index --generated-at "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+      - name: Build Pagefind search index
+        run: |
+          cd site && npm ci
+          node build-pagefind.mjs --index ../dist/index/aliases.json --output ../dist/pagefind
       - name: Assemble Pages site
         run: |
           mkdir -p dist
-          cp -r site/. dist/
+          cp site/index.html site/style.css site/search.js dist/
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0
         with:

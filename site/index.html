@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Nomos — Vendor/Product Identity Search</title>
   <link rel="stylesheet" href="style.css" />
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://api.iconify.design">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://api.iconify.design; script-src 'self' 'wasm-unsafe-eval'">
 </head>
 <body>
   <main>
@@ -15,7 +15,6 @@
     <div id="status"></div>
     <ul id="results"></ul>
   </main>
-  <script src="vendor/fuse.min.js"></script>
   <script src="search.js"></script>
 </body>
 </html>
