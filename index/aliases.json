@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-27T07:17:14Z",
+  "generated_at": "2026-08-27T07:29:00Z",
   "entries": [
     {
       "canonical_type": "vendor",
       "vendor_id": "apache",
       "name": "Apache Software Foundation",
-      "icon": "i-logos-apache",
+      "icon": "logos:apache",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -23,7 +23,7 @@
       "canonical_type": "vendor",
       "vendor_id": "atlassian",
       "name": "Atlassian",
-      "icon": "i-logos-atlassian",
+      "icon": "logos:atlassian",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -41,7 +41,7 @@
       "canonical_type": "vendor",
       "vendor_id": "canonical",
       "name": "Canonical",
-      "icon": "i-logos-ubuntu",
+      "icon": "logos:ubuntu",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -54,7 +54,7 @@
       "canonical_type": "vendor",
       "vendor_id": "cisco",
       "name": "Cisco",
-      "icon": null,
+      "icon": "cib:cisco",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -85,7 +85,7 @@
       "canonical_type": "vendor",
       "vendor_id": "docker",
       "name": "Docker",
-      "icon": "i-logos-docker-icon",
+      "icon": "logos:docker-icon",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -98,7 +98,7 @@
       "canonical_type": "vendor",
       "vendor_id": "fortinet",
       "name": "Fortinet",
-      "icon": null,
+      "icon": "thesvg-color:fortinet",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -116,7 +116,7 @@
       "canonical_type": "vendor",
       "vendor_id": "kubernetes",
       "name": "Kubernetes",
-      "icon": "i-logos-kubernetes",
+      "icon": "logos:kubernetes",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -134,7 +134,7 @@
       "canonical_type": "vendor",
       "vendor_id": "microsoft",
       "name": "Microsoft",
-      "icon": "i-logos-microsoft-icon",
+      "icon": "logos:microsoft-icon",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -152,7 +152,7 @@
       "canonical_type": "vendor",
       "vendor_id": "mysql",
       "name": "MySQL",
-      "icon": "i-logos-mysql-icon",
+      "icon": "logos:mysql-icon",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -170,7 +170,7 @@
       "canonical_type": "vendor",
       "vendor_id": "nginx",
       "name": "NGINX",
-      "icon": "i-logos-nginx",
+      "icon": "logos:nginx",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -188,7 +188,7 @@
       "canonical_type": "vendor",
       "vendor_id": "openssl",
       "name": "OpenSSL",
-      "icon": null,
+      "icon": "thesvg-color:openssl",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -206,7 +206,7 @@
       "canonical_type": "vendor",
       "vendor_id": "postgresql",
       "name": "PostgreSQL",
-      "icon": "i-logos-postgresql",
+      "icon": "logos:postgresql",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -224,7 +224,7 @@
       "canonical_type": "vendor",
       "vendor_id": "python",
       "name": "Python",
-      "icon": "i-logos-python",
+      "icon": "logos:python",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -242,7 +242,7 @@
       "canonical_type": "vendor",
       "vendor_id": "pytorch",
       "name": "PyTorch",
-      "icon": "i-logos-pytorch-icon",
+      "icon": "logos:pytorch-icon",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -255,7 +255,7 @@
       "canonical_type": "vendor",
       "vendor_id": "redhat",
       "name": "Red Hat",
-      "icon": "i-logos-redhat-icon",
+      "icon": "logos:redhat-icon",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -273,7 +273,7 @@
       "canonical_type": "vendor",
       "vendor_id": "redis",
       "name": "Redis",
-      "icon": "i-logos-redis",
+      "icon": "logos:redis",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -296,7 +296,7 @@
       "tags": [
         "logging"
       ],
-      "icon": "i-logos-apache",
+      "icon": "logos:apache",
       "services": [],
       "aliases": [
         {
@@ -326,7 +326,7 @@
       "tags": [
         "collaboration-tool"
       ],
-      "icon": "i-logos-atlassian",
+      "icon": "logos:atlassian",
       "services": [
         {
           "protocol": "tcp",
@@ -357,7 +357,7 @@
       "tags": [
         "operating-system"
       ],
-      "icon": "i-logos-ubuntu",
+      "icon": "logos:ubuntu",
       "services": [],
       "aliases": [
         {
@@ -383,7 +383,7 @@
         "vpn",
         "network-device"
       ],
-      "icon": null,
+      "icon": "cib:cisco",
       "services": [
         {
           "protocol": "tcp",
@@ -414,7 +414,7 @@
       "tags": [
         "network-device"
       ],
-      "icon": null,
+      "icon": "cib:cisco",
       "services": [],
       "aliases": [
         {
@@ -457,7 +457,7 @@
       "tags": [
         "container-runtime"
       ],
-      "icon": "i-logos-docker-icon",
+      "icon": "logos:docker-icon",
       "services": [],
       "aliases": [
         {
@@ -483,7 +483,7 @@
         "vpn",
         "network-device"
       ],
-      "icon": null,
+      "icon": "thesvg-color:fortinet",
       "services": [],
       "aliases": [
         {
@@ -508,7 +508,7 @@
         "orchestration",
         "container-runtime"
       ],
-      "icon": "i-logos-kubernetes",
+      "icon": "logos:kubernetes",
       "services": [
         {
           "protocol": "tcp",
@@ -539,7 +539,7 @@
       "tags": [
         "collaboration-tool"
       ],
-      "icon": "i-logos-microsoft-icon",
+      "icon": "logos:microsoft-icon",
       "services": [
         {
           "protocol": "tcp",
@@ -576,7 +576,7 @@
       "tags": [
         "operating-system"
       ],
-      "icon": "i-logos-microsoft-icon",
+      "icon": "logos:microsoft-icon",
       "services": [
         {
           "protocol": "tcp",
@@ -613,7 +613,7 @@
       "tags": [
         "database"
       ],
-      "icon": "i-logos-mysql-icon",
+      "icon": "logos:mysql-icon",
       "services": [
         {
           "protocol": "tcp",
@@ -644,7 +644,7 @@
       "tags": [
         "webserver"
       ],
-      "icon": "i-logos-nginx",
+      "icon": "logos:nginx",
       "services": [
         {
           "protocol": "tcp",
@@ -681,7 +681,7 @@
       "tags": [
         "cryptography"
       ],
-      "icon": null,
+      "icon": "thesvg-color:openssl",
       "services": [],
       "aliases": [
         {
@@ -705,7 +705,7 @@
       "tags": [
         "database"
       ],
-      "icon": "i-logos-postgresql",
+      "icon": "logos:postgresql",
       "services": [
         {
           "protocol": "tcp",
@@ -737,7 +737,7 @@
         "programming-language",
         "runtime"
       ],
-      "icon": "i-logos-python",
+      "icon": "logos:python",
       "services": [],
       "aliases": [
         {
@@ -761,7 +761,7 @@
       "tags": [
         "ai-ml"
       ],
-      "icon": "i-logos-pytorch-icon",
+      "icon": "logos:pytorch-icon",
       "services": [],
       "aliases": [
         {
@@ -786,7 +786,7 @@
       "tags": [
         "operating-system"
       ],
-      "icon": "i-logos-redhat-icon",
+      "icon": "logos:redhat-icon",
       "services": [],
       "aliases": [
         {
@@ -811,7 +811,7 @@
         "database",
         "cache"
       ],
-      "icon": "i-logos-redis",
+      "icon": "logos:redis",
       "services": [
         {
           "protocol": "tcp",
