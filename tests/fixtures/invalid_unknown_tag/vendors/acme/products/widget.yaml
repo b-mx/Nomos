@@ -1,0 +1,9 @@
+id: widget
+vendor_id: acme
+name: Acme Widget
+type: software
+tags: [definitely-not-a-real-tag]
+aliases:
+  - source: nvd_cpe
+    value: widget
+    confidence: curated

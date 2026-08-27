@@ -1,0 +1,14 @@
+id: libwidget
+vendor_id: acme
+name: Acme LibWidget
+type: library
+tags: [library]
+aliases:
+  - source: nvd_cpe
+    value: libwidget
+    confidence: curated
+services:
+  - protocol: tcp
+    port: 1234
+    name: nope
+    default: true

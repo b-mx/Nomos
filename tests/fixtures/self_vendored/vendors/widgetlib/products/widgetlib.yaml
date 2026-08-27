@@ -1,0 +1,10 @@
+id: widgetlib
+vendor_id: widgetlib
+name: WidgetLib
+type: library
+tags: [library]
+aliases:
+  - source: osv
+    value: widgetlib
+    ecosystem: PyPI
+    confidence: curated

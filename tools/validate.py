@@ -16,9 +16,11 @@ from tools._common import (
     VendorEntry,
     iter_products,
     iter_vendors,
+    load_taxonomy_tags,
 )
 
 SCHEMA_DIR = REPO_ROOT / "schema"
+SERVICES_ALLOWED_TYPES = {"software", "appliance", "os"}
 
 
 def _rel(path: Path) -> str:
@@ -39,12 +41,16 @@ def validate_schema_conformance(
     product_schema = load_schema("product.schema.json")
     vendor_validator = jsonschema.Draft202012Validator(vendor_schema)
     product_validator = jsonschema.Draft202012Validator(product_schema)
-    for entry in vendors:
-        for err in vendor_validator.iter_errors(entry.data):
-            errors.append(f"{_rel(entry.path)}: schema error at {list(err.path)}: {err.message}")
-    for entry in products:
-        for err in product_validator.iter_errors(entry.data):
-            errors.append(f"{_rel(entry.path)}: schema error at {list(err.path)}: {err.message}")
+    for vendor_entry in vendors:
+        for err in vendor_validator.iter_errors(vendor_entry.data):
+            errors.append(
+                f"{_rel(vendor_entry.path)}: schema error at {list(err.path)}: {err.message}"
+            )
+    for product_entry in products:
+        for err in product_validator.iter_errors(product_entry.data):
+            errors.append(
+                f"{_rel(product_entry.path)}: schema error at {list(err.path)}: {err.message}"
+            )
     return errors
 
 
@@ -52,28 +58,29 @@ def validate_ids_and_paths(
     vendors: list[VendorEntry], products: list[ProductEntry]
 ) -> list[str]:
     errors: list[str] = []
-    for entry in vendors:
-        vid = entry.data.get("id", "")
+    for vendor_entry in vendors:
+        vid = vendor_entry.data.get("id", "")
         if not KEBAB_CASE_RE.match(vid):
-            errors.append(f"{_rel(entry.path)}: id '{vid}' is not lowercase kebab-case")
-        dir_name = entry.path.parent.name
+            errors.append(f"{_rel(vendor_entry.path)}: id '{vid}' is not lowercase kebab-case")
+        dir_name = vendor_entry.path.parent.name
         if vid != dir_name:
             errors.append(
-                f"{_rel(entry.path)}: id '{vid}' does not match directory name '{dir_name}'"
+                f"{_rel(vendor_entry.path)}: id '{vid}' does not match directory name '{dir_name}'"
             )
-    for entry in products:
-        pid = entry.data.get("id", "")
+    for product_entry in products:
+        pid = product_entry.data.get("id", "")
         if not KEBAB_CASE_RE.match(pid):
-            errors.append(f"{_rel(entry.path)}: id '{pid}' is not lowercase kebab-case")
-        if entry.path.stem != pid:
+            errors.append(f"{_rel(product_entry.path)}: id '{pid}' is not lowercase kebab-case")
+        if product_entry.path.stem != pid:
             errors.append(
-                f"{_rel(entry.path)}: id '{pid}' does not match filename '{entry.path.stem}'"
+                f"{_rel(product_entry.path)}: id '{pid}' does not match filename "
+                f"'{product_entry.path.stem}'"
             )
-        declared_vendor_id = entry.data.get("vendor_id", "")
-        if declared_vendor_id != entry.vendor_id:
+        declared_vendor_id = product_entry.data.get("vendor_id", "")
+        if declared_vendor_id != product_entry.vendor_id:
             errors.append(
-                f"{_rel(entry.path)}: vendor_id '{declared_vendor_id}' does not match "
-                f"parent vendor directory '{entry.vendor_id}'"
+                f"{_rel(product_entry.path)}: vendor_id '{declared_vendor_id}' does not match "
+                f"parent vendor directory '{product_entry.vendor_id}'"
             )
     return errors
 
@@ -83,7 +90,8 @@ def validate_alias_uniqueness(
 ) -> list[str]:
     errors: list[str] = []
     seen: dict[tuple[str, str], Path] = {}
-    for entry in [*vendors, *products]:
+    all_entries: list[VendorEntry | ProductEntry] = [*vendors, *products]
+    for entry in all_entries:
         for alias in entry.data.get("aliases", []):
             key = (alias.get("source", ""), alias.get("value", ""))
             if key in seen:
@@ -96,6 +104,29 @@ def validate_alias_uniqueness(
     return errors
 
 
+def validate_tags_exist(products: list[ProductEntry]) -> list[str]:
+    errors: list[str] = []
+    known_tags = load_taxonomy_tags()
+    for entry in products:
+        for tag in entry.data.get("tags", []):
+            if tag not in known_tags:
+                errors.append(
+                    f"{_rel(entry.path)}: unknown tag '{tag}' not in taxonomy/tags.yaml"
+                )
+    return errors
+
+
+def validate_services_allowed(products: list[ProductEntry]) -> list[str]:
+    errors: list[str] = []
+    for entry in products:
+        if "services" in entry.data and entry.data.get("type") not in SERVICES_ALLOWED_TYPES:
+            errors.append(
+                f"{_rel(entry.path)}: 'services' is not allowed on type "
+                f"'{entry.data.get('type')}' (only software, appliance, os)"
+            )
+    return errors
+
+
 def run_all_checks(vendors_dir: Path = REPO_ROOT / "vendors") -> list[str]:
     vendors = iter_vendors(vendors_dir)
     products = iter_products(vendors_dir)
@@ -103,6 +134,8 @@ def run_all_checks(vendors_dir: Path = REPO_ROOT / "vendors") -> list[str]:
     errors += validate_schema_conformance(vendors, products)
     errors += validate_ids_and_paths(vendors, products)
     errors += validate_alias_uniqueness(vendors, products)
+    errors += validate_tags_exist(products)
+    errors += validate_services_allowed(products)
     return errors
 
 
