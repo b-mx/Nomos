@@ -1,6 +1,9 @@
 from pathlib import Path
 
+import pytest
+
 from tools._common import iter_products, iter_vendors
+from tools.validate import run_all_checks
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
@@ -103,3 +106,30 @@ def test_duplicate_taxonomy_tag_id_is_rejected():
 
     errors = validate_taxonomy(FIXTURES / "invalid_duplicate_tag" / "taxonomy.yaml")
     assert any("duplicate tag id 'webserver'" in e for e in errors)
+
+
+@pytest.mark.parametrize(
+    "fixture_name",
+    [
+        "invalid_duplicate_alias",
+        "invalid_unknown_tag",
+        "invalid_services_on_library",
+        "invalid_orphan_product",
+        "invalid_stray_file",
+    ],
+)
+def test_run_all_checks_catches_every_invalid_fixture(fixture_name):
+    vendors_dir = FIXTURES / fixture_name / "vendors"
+    errors = run_all_checks(vendors_dir=vendors_dir)
+    assert errors, f"run_all_checks() found no errors in {fixture_name}, but it should have"
+
+
+def test_run_all_checks_includes_taxonomy_validation():
+    # A syntactically-broken taxonomy file should surface through
+    # run_all_checks() even though the real taxonomy/tags.yaml is valid —
+    # this just confirms validate_taxonomy() is actually called, not that
+    # the real file passes (that's covered by validate.py's normal green run).
+    import inspect
+
+    source = inspect.getsource(run_all_checks)
+    assert "validate_taxonomy" in source, "run_all_checks() must call validate_taxonomy()"

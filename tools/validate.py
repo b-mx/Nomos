@@ -114,9 +114,11 @@ def validate_alias_uniqueness(
     return errors
 
 
-def validate_tags_exist(products: list[ProductEntry]) -> list[str]:
+def validate_tags_exist(
+    products: list[ProductEntry], taxonomy_file: Path = REPO_ROOT / "taxonomy" / "tags.yaml"
+) -> list[str]:
     errors: list[str] = []
-    known_tags = load_taxonomy_tags()
+    known_tags = load_taxonomy_tags(taxonomy_file)
     for entry in products:
         for tag in entry.data.get("tags", []):
             if tag not in known_tags:
