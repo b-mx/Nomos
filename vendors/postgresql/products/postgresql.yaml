@@ -3,7 +3,7 @@ vendor_id: postgresql
 name: PostgreSQL
 type: software
 tags: [database]
-icon: i-logos-postgresql
+icon: logos:postgresql
 aliases:
   - source: nvd_cpe
     value: postgresql

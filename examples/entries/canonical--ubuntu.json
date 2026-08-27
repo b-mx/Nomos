@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--ubuntu",
+  "vendor_id": "canonical",
+  "product_id": "ubuntu",
+  "name": "Ubuntu",
+  "type": "os",
+  "tags": [
+    "operating-system"
+  ],
+  "icon": "logos:ubuntu",
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "ubuntu_linux",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "ubuntu",
+      "confidence": "curated"
+    }
+  ]
+}

@@ -3,9 +3,10 @@
   "entries": [
     {
       "canonical_type": "vendor",
+      "slug": "apache",
       "vendor_id": "apache",
       "name": "Apache Software Foundation",
-      "icon": "i-logos-apache",
+      "icon": "logos:apache",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -21,9 +22,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "atlassian",
       "vendor_id": "atlassian",
       "name": "Atlassian",
-      "icon": "i-logos-atlassian",
+      "icon": "logos:atlassian",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -39,9 +41,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "canonical",
       "vendor_id": "canonical",
       "name": "Canonical",
-      "icon": "i-logos-ubuntu",
+      "icon": "logos:ubuntu",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -52,9 +55,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "cisco",
       "vendor_id": "cisco",
       "name": "Cisco",
-      "icon": "i-logos-cisco",
+      "icon": "cib:cisco",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -70,6 +74,7 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "dell",
       "vendor_id": "dell",
       "name": "Dell",
       "icon": null,
@@ -83,9 +88,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "docker",
       "vendor_id": "docker",
       "name": "Docker",
-      "icon": "i-logos-docker-icon",
+      "icon": "logos:docker-icon",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -96,9 +102,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "fortinet",
       "vendor_id": "fortinet",
       "name": "Fortinet",
-      "icon": "i-logos-fortinet",
+      "icon": "thesvg-color:fortinet",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -114,9 +121,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "kubernetes",
       "vendor_id": "kubernetes",
       "name": "Kubernetes",
-      "icon": "i-logos-kubernetes",
+      "icon": "logos:kubernetes",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -132,9 +140,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "microsoft",
       "vendor_id": "microsoft",
       "name": "Microsoft",
-      "icon": "i-logos-microsoft-icon",
+      "icon": "logos:microsoft-icon",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -150,9 +159,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "mysql",
       "vendor_id": "mysql",
       "name": "MySQL",
-      "icon": "i-logos-mysql-icon",
+      "icon": "logos:mysql-icon",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -168,9 +178,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "nginx",
       "vendor_id": "nginx",
       "name": "NGINX",
-      "icon": "i-logos-nginx",
+      "icon": "logos:nginx",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -186,9 +197,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "openssl",
       "vendor_id": "openssl",
       "name": "OpenSSL",
-      "icon": "i-logos-openssl",
+      "icon": "thesvg-color:openssl",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -204,9 +216,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "postgresql",
       "vendor_id": "postgresql",
       "name": "PostgreSQL",
-      "icon": "i-logos-postgresql",
+      "icon": "logos:postgresql",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -222,9 +235,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "python",
       "vendor_id": "python",
       "name": "Python",
-      "icon": "i-logos-python",
+      "icon": "logos:python",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -240,9 +254,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "pytorch",
       "vendor_id": "pytorch",
       "name": "PyTorch",
-      "icon": "i-logos-pytorch-icon",
+      "icon": "logos:pytorch-icon",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -253,9 +268,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "redhat",
       "vendor_id": "redhat",
       "name": "Red Hat",
-      "icon": "i-logos-redhat-icon",
+      "icon": "logos:redhat-icon",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -271,9 +287,10 @@
     },
     {
       "canonical_type": "vendor",
+      "slug": "redis",
       "vendor_id": "redis",
       "name": "Redis",
-      "icon": "i-logos-redis",
+      "icon": "logos:redis",
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -289,6 +306,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "apache--log4j",
       "vendor_id": "apache",
       "product_id": "log4j",
       "name": "Apache Log4j",
@@ -296,7 +314,7 @@
       "tags": [
         "logging"
       ],
-      "icon": "i-logos-apache",
+      "icon": "logos:apache",
       "services": [],
       "aliases": [
         {
@@ -319,6 +337,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "atlassian--confluence",
       "vendor_id": "atlassian",
       "product_id": "confluence",
       "name": "Confluence",
@@ -326,7 +345,7 @@
       "tags": [
         "collaboration-tool"
       ],
-      "icon": "i-logos-atlassian",
+      "icon": "logos:atlassian",
       "services": [
         {
           "protocol": "tcp",
@@ -350,6 +369,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "canonical--ubuntu",
       "vendor_id": "canonical",
       "product_id": "ubuntu",
       "name": "Ubuntu",
@@ -357,7 +377,7 @@
       "tags": [
         "operating-system"
       ],
-      "icon": "i-logos-ubuntu",
+      "icon": "logos:ubuntu",
       "services": [],
       "aliases": [
         {
@@ -374,6 +394,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "cisco--asa",
       "vendor_id": "cisco",
       "product_id": "asa",
       "name": "Cisco Adaptive Security Appliance (ASA)",
@@ -383,7 +404,7 @@
         "vpn",
         "network-device"
       ],
-      "icon": "i-logos-cisco",
+      "icon": "cib:cisco",
       "services": [
         {
           "protocol": "tcp",
@@ -407,6 +428,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "cisco--ios",
       "vendor_id": "cisco",
       "product_id": "ios",
       "name": "Cisco IOS",
@@ -414,7 +436,7 @@
       "tags": [
         "network-device"
       ],
-      "icon": "i-logos-cisco",
+      "icon": "cib:cisco",
       "services": [],
       "aliases": [
         {
@@ -431,6 +453,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "dell--poweredge-r740",
       "vendor_id": "dell",
       "product_id": "poweredge-r740",
       "name": "Dell PowerEdge R740",
@@ -450,6 +473,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "docker--docker-engine",
       "vendor_id": "docker",
       "product_id": "docker-engine",
       "name": "Docker Engine",
@@ -457,7 +481,7 @@
       "tags": [
         "container-runtime"
       ],
-      "icon": "i-logos-docker-icon",
+      "icon": "logos:docker-icon",
       "services": [],
       "aliases": [
         {
@@ -474,6 +498,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "fortinet--fortios",
       "vendor_id": "fortinet",
       "product_id": "fortios",
       "name": "FortiOS",
@@ -483,7 +508,7 @@
         "vpn",
         "network-device"
       ],
-      "icon": "i-logos-fortinet",
+      "icon": "thesvg-color:fortinet",
       "services": [],
       "aliases": [
         {
@@ -500,6 +525,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "kubernetes--kubernetes",
       "vendor_id": "kubernetes",
       "product_id": "kubernetes",
       "name": "Kubernetes",
@@ -508,7 +534,7 @@
         "orchestration",
         "container-runtime"
       ],
-      "icon": "i-logos-kubernetes",
+      "icon": "logos:kubernetes",
       "services": [
         {
           "protocol": "tcp",
@@ -532,6 +558,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "microsoft--exchange-server",
       "vendor_id": "microsoft",
       "product_id": "exchange-server",
       "name": "Microsoft Exchange Server",
@@ -539,7 +566,7 @@
       "tags": [
         "collaboration-tool"
       ],
-      "icon": "i-logos-microsoft-icon",
+      "icon": "logos:microsoft-icon",
       "services": [
         {
           "protocol": "tcp",
@@ -569,6 +596,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "microsoft--windows-server",
       "vendor_id": "microsoft",
       "product_id": "windows-server",
       "name": "Windows Server",
@@ -576,7 +604,7 @@
       "tags": [
         "operating-system"
       ],
-      "icon": "i-logos-microsoft-icon",
+      "icon": "logos:microsoft-icon",
       "services": [
         {
           "protocol": "tcp",
@@ -606,6 +634,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "mysql--mysql",
       "vendor_id": "mysql",
       "product_id": "mysql",
       "name": "MySQL",
@@ -613,7 +642,7 @@
       "tags": [
         "database"
       ],
-      "icon": "i-logos-mysql-icon",
+      "icon": "logos:mysql-icon",
       "services": [
         {
           "protocol": "tcp",
@@ -637,6 +666,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "nginx--nginx",
       "vendor_id": "nginx",
       "product_id": "nginx",
       "name": "NGINX",
@@ -644,7 +674,7 @@
       "tags": [
         "webserver"
       ],
-      "icon": "i-logos-nginx",
+      "icon": "logos:nginx",
       "services": [
         {
           "protocol": "tcp",
@@ -674,6 +704,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "openssl--openssl",
       "vendor_id": "openssl",
       "product_id": "openssl",
       "name": "OpenSSL",
@@ -681,7 +712,7 @@
       "tags": [
         "cryptography"
       ],
-      "icon": "i-logos-openssl",
+      "icon": "thesvg-color:openssl",
       "services": [],
       "aliases": [
         {
@@ -698,6 +729,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "postgresql--postgresql",
       "vendor_id": "postgresql",
       "product_id": "postgresql",
       "name": "PostgreSQL",
@@ -705,7 +737,7 @@
       "tags": [
         "database"
       ],
-      "icon": "i-logos-postgresql",
+      "icon": "logos:postgresql",
       "services": [
         {
           "protocol": "tcp",
@@ -729,6 +761,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "python--python",
       "vendor_id": "python",
       "product_id": "python",
       "name": "Python",
@@ -737,7 +770,7 @@
         "programming-language",
         "runtime"
       ],
-      "icon": "i-logos-python",
+      "icon": "logos:python",
       "services": [],
       "aliases": [
         {
@@ -754,6 +787,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "pytorch--pytorch",
       "vendor_id": "pytorch",
       "product_id": "pytorch",
       "name": "PyTorch",
@@ -761,7 +795,7 @@
       "tags": [
         "ai-ml"
       ],
-      "icon": "i-logos-pytorch-icon",
+      "icon": "logos:pytorch-icon",
       "services": [],
       "aliases": [
         {
@@ -779,6 +813,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "redhat--rhel",
       "vendor_id": "redhat",
       "product_id": "rhel",
       "name": "Red Hat Enterprise Linux",
@@ -786,7 +821,7 @@
       "tags": [
         "operating-system"
       ],
-      "icon": "i-logos-redhat-icon",
+      "icon": "logos:redhat-icon",
       "services": [],
       "aliases": [
         {
@@ -803,6 +838,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "redis--redis",
       "vendor_id": "redis",
       "product_id": "redis",
       "name": "Redis",
@@ -811,7 +847,7 @@
         "database",
         "cache"
       ],
-      "icon": "i-logos-redis",
+      "icon": "logos:redis",
       "services": [
         {
           "protocol": "tcp",

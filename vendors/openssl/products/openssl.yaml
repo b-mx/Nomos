@@ -3,7 +3,7 @@ vendor_id: openssl
 name: OpenSSL
 type: library
 tags: [cryptography]
-icon: i-logos-openssl
+icon: thesvg-color:openssl
 aliases:
   - source: nvd_cpe
     value: openssl

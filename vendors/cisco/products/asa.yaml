@@ -3,7 +3,7 @@ vendor_id: cisco
 name: Cisco Adaptive Security Appliance (ASA)
 type: appliance
 tags: [firewall, vpn, network-device]
-icon: i-logos-cisco
+icon: cib:cisco
 aliases:
   - source: nvd_cpe
     value: adaptive_security_appliance

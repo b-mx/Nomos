@@ -3,19 +3,106 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Nomos — Vendor/Product Identity Search</title>
+  <title>Nomos — one canonical identity, every source</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
   <link rel="stylesheet" href="style.css" />
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
 </head>
 <body>
+  <header class="hero">
+    <img src="nomos-banner.svg" alt="Nomos — one canonical identity, every source" class="hero-banner" />
+    <div class="hero-content">
+      <p>Nomos is a community-maintained mapping from vendor and product names, as
+      they appear across disparate security data sources, to a single canonical
+      identity per vendor and per product.</p>
+      <div class="hero-actions">
+        <a href="search.html" class="button button-primary">Search the live index</a>
+        <a href="https://github.com/b-mx/Nomos" class="button button-secondary">View on GitHub</a>
+      </div>
+    </div>
+  </header>
   <main>
-    <h1>Nomos</h1>
-    <p>Search canonical vendors and products, and every source alias for each.</p>
-    <input id="search-box" type="search" placeholder="Search e.g. windows_server, Cisco, pytorch..." autofocus />
-    <div id="status"></div>
-    <ul id="results"></ul>
+    <section>
+      <h2>Every source names things differently</h2>
+      <div class="source-list">
+        <div class="source-row">
+          <span class="source-dot source-dot-nvd-cpe"></span>
+          <span class="source-label">NVD CPE</span>
+          <code class="source-example">microsoft:windows_server</code>
+          <span class="chip chip-mono">nvd_cpe</span>
+        </div>
+        <div class="source-row">
+          <span class="source-dot source-dot-endoflife"></span>
+          <span class="source-label">endoflife.date</span>
+          <code class="source-example">windows-server</code>
+          <span class="chip chip-mono">endoflife</span>
+        </div>
+        <div class="source-row">
+          <span class="source-dot source-dot-cisa-kev"></span>
+          <span class="source-label">CISA KEV</span>
+          <code class="source-example">Microsoft Corporation</code>
+          <span class="chip chip-mono">cisa_kev</span>
+        </div>
+        <div class="source-row">
+          <span class="source-dot source-dot-osv"></span>
+          <span class="source-label">OSV</span>
+          <code class="source-example">pytorch (PyPI)</code>
+          <span class="chip chip-mono">osv</span>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Data model</h2>
+      <div class="data-model">
+        <div class="data-model-row">
+          <div class="data-model-name">Vendor</div>
+          <div>
+            <code>vendors/&lt;id&gt;/vendor.yaml</code>
+            <div class="data-model-desc">Stable id, display name, source aliases.</div>
+          </div>
+        </div>
+        <div class="data-model-row">
+          <div class="data-model-name">Product</div>
+          <div>
+            <code>vendors/&lt;id&gt;/products/&lt;id&gt;.yaml</code>
+            <div class="data-model-desc">Type, tags, optional services, aliases.</div>
+          </div>
+        </div>
+        <div class="data-model-row">
+          <div class="data-model-name">Alias</div>
+          <div>
+            <code>{source, value, confidence}</code>
+            <div class="data-model-desc">curated = human-verified; auto = unverified match.</div>
+          </div>
+        </div>
+        <div class="data-model-row">
+          <div class="data-model-name">Tag</div>
+          <div>
+            <code>taxonomy/tags.yaml</code>
+            <div class="data-model-desc">The closed set of category labels.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Coverage</h2>
+      <p id="coverage" class="coverage-line">Loading coverage…</p>
+    </section>
+
+    <section>
+      <h2>Adding an entry</h2>
+      <pre class="quickstart">uv run tools/validate.py          # clean tree before you start
+$EDITOR vendors/acme/vendor.yaml
+$EDITOR vendors/acme/products/widget.yaml
+uv run tools/validate.py          # every violation, one pass
+gh pr create</pre>
+    </section>
+
+    <p class="footnote">Nomos is source-agnostic: it doesn't belong to or favor
+    NVD, CISA, OSV, or any other single source. MIT licensed.</p>
   </main>
-  <script src="vendor/fuse.min.js"></script>
-  <script src="search.js"></script>
+  <script src="landing.js"></script>
 </body>
 </html>

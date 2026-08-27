@@ -3,6 +3,7 @@
   "entries": [
     {
       "canonical_type": "vendor",
+      "slug": "acme",
       "vendor_id": "acme",
       "name": "Acme Corp",
       "icon": null,
@@ -12,6 +13,7 @@
     },
     {
       "canonical_type": "product",
+      "slug": "acme--widget",
       "vendor_id": "acme",
       "product_id": "widget",
       "name": "Acme Widget",

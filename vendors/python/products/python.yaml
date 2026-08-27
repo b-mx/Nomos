@@ -3,7 +3,7 @@ vendor_id: python
 name: Python
 type: software
 tags: [programming-language, runtime]
-icon: i-logos-python
+icon: logos:python
 aliases:
   - source: nvd_cpe
     value: python

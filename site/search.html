@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nomos — Vendor/Product Identity Search</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="style.css" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://api.iconify.design; script-src 'self' 'wasm-unsafe-eval'">
+</head>
+<body>
+  <main>
+    <a href="index.html" class="back-link">Nomos</a>
+    <h1>Search</h1>
+    <p>Search canonical vendors and products, and every source alias for each.</p>
+    <input id="search-box" type="search" placeholder="Search e.g. windows_server, Cisco, pytorch..." autofocus />
+    <div id="status"></div>
+    <ul id="results"></ul>
+  </main>
+  <script src="search.js"></script>
+</body>
+</html>

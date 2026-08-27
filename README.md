@@ -2,9 +2,17 @@
 
 ![Nomos](docs/nomos-banner.svg)
 
+**[Visit the project site](https://b-mx.github.io/Nomos/)** ·
+**[Search the live index](https://b-mx.github.io/Nomos/search.html)**
+
 Nomos is a community-maintained mapping from vendor and product names, as
 they appear across disparate security data sources, to a single canonical
 identity per vendor and per product.
+
+*Nomos* is an ancient Greek word that means law, custom, or convention
+governing human behavior — fitting for a project that exists to establish
+one agreed convention for naming vendors and products across otherwise
+inconsistent sources.
 
 ## Why
 
@@ -45,13 +53,18 @@ On every merge to `main`, the full mapping is published to GitHub Pages:
   aliases.
 - `index/by-source/<source>.json` — just the aliases relevant to one
   source, for consumers that only care about one feed.
+- `index/entries/<slug>.json` — one small file per vendor/product (used by
+  the search site, which fetches individual entries instead of the whole
+  index — this is what keeps the site fast as the dataset grows).
+- `index/stats.json` — vendor/product/source counts, for the landing page's
+  coverage line (or any consumer that just wants totals, not the data).
 
 A worked example of the shape (built from this repo's seed data) is
 committed at `examples/aliases.json` so you can see the format without a
 Pages deploy.
 
-The search site at the published Pages URL lets you check whether a
-vendor/product is already mapped before opening a PR.
+The [search site](https://b-mx.github.io/Nomos/search.html) lets you check
+whether a vendor/product is already mapped before opening a PR.
 
 ## Quickstart: adding an entry
 

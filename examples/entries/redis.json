@@ -1,0 +1,19 @@
+{
+  "canonical_type": "vendor",
+  "slug": "redis",
+  "vendor_id": "redis",
+  "name": "Redis",
+  "icon": "logos:redis",
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "redis",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "redis",
+      "confidence": "curated"
+    }
+  ]
+}

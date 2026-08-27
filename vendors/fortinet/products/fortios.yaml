@@ -3,7 +3,7 @@ vendor_id: fortinet
 name: FortiOS
 type: firmware
 tags: [firewall, vpn, network-device]
-icon: i-logos-fortinet
+icon: thesvg-color:fortinet
 aliases:
   - source: nvd_cpe
     value: fortios

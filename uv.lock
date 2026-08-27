@@ -309,14 +309,14 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "jsonschema", specifier = ">=4.23" },
-    { name = "mypy", marker = "extra == 'dev'", specifier = ">=1.13" },
-    { name = "pytest", marker = "extra == 'dev'", specifier = ">=8.3" },
-    { name = "pyyaml", specifier = ">=6.0" },
-    { name = "rapidfuzz", specifier = ">=3.10" },
-    { name = "ruff", marker = "extra == 'dev'", specifier = ">=0.8" },
-    { name = "types-jsonschema", marker = "extra == 'dev'", specifier = ">=4.23" },
-    { name = "types-pyyaml", marker = "extra == 'dev'", specifier = ">=6.0" },
+    { name = "jsonschema", specifier = "==4.26.0" },
+    { name = "mypy", marker = "extra == 'dev'", specifier = "==2.3.1" },
+    { name = "pytest", marker = "extra == 'dev'", specifier = "==9.1.1" },
+    { name = "pyyaml", specifier = "==6.0.3" },
+    { name = "rapidfuzz", specifier = "==3.14.5" },
+    { name = "ruff", marker = "extra == 'dev'", specifier = "==0.16.4" },
+    { name = "types-jsonschema", marker = "extra == 'dev'", specifier = "==4.26.0.20260518" },
+    { name = "types-pyyaml", marker = "extra == 'dev'", specifier = "==6.0.12.20260815" },
 ]
 provides-extras = ["dev"]
 

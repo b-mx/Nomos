@@ -3,7 +3,7 @@ vendor_id: mysql
 name: MySQL
 type: software
 tags: [database]
-icon: i-logos-mysql-icon
+icon: logos:mysql-icon
 aliases:
   - source: nvd_cpe
     value: mysql

@@ -3,7 +3,7 @@ vendor_id: nginx
 name: NGINX
 type: software
 tags: [webserver]
-icon: i-logos-nginx
+icon: logos:nginx
 aliases:
   - source: nvd_cpe
     value: nginx

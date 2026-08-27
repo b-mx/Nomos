@@ -1,6 +1,6 @@
 id: postgresql
 name: PostgreSQL
-icon: i-logos-postgresql
+icon: logos:postgresql
 aliases:
   - source: nvd_cpe
     value: postgresql
