@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "docker--docker-engine",
+  "vendor_id": "docker",
+  "product_id": "docker-engine",
+  "name": "Docker Engine",
+  "type": "software",
+  "tags": [
+    "container-runtime"
+  ],
+  "icon": "logos:docker-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "docker",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "docker-engine",
+      "confidence": "curated"
+    }
+  ]
+}

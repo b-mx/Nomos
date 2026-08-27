@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "pytorch",
+  "vendor_id": "pytorch",
+  "name": "PyTorch",
+  "icon": "logos:pytorch-icon",
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "pytorch",
+      "confidence": "curated"
+    }
+  ]
+}

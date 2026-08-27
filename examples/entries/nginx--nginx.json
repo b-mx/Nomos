@@ -1,0 +1,38 @@
+{
+  "canonical_type": "product",
+  "slug": "nginx--nginx",
+  "vendor_id": "nginx",
+  "product_id": "nginx",
+  "name": "NGINX",
+  "type": "software",
+  "tags": [
+    "webserver"
+  ],
+  "icon": "logos:nginx",
+  "services": [
+    {
+      "protocol": "tcp",
+      "port": 80,
+      "name": "http",
+      "default": true
+    },
+    {
+      "protocol": "tcp",
+      "port": 443,
+      "name": "https",
+      "default": false
+    }
+  ],
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "nginx",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "nginx",
+      "confidence": "curated"
+    }
+  ]
+}

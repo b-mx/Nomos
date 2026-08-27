@@ -1,0 +1,33 @@
+{
+  "canonical_type": "product",
+  "slug": "redis--redis",
+  "vendor_id": "redis",
+  "product_id": "redis",
+  "name": "Redis",
+  "type": "software",
+  "tags": [
+    "database",
+    "cache"
+  ],
+  "icon": "logos:redis",
+  "services": [
+    {
+      "protocol": "tcp",
+      "port": 6379,
+      "name": "redis",
+      "default": true
+    }
+  ],
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "redis",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "redis",
+      "confidence": "curated"
+    }
+  ]
+}
