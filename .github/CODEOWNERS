@@ -1,0 +1,4 @@
+# Schema and taxonomy changes require maintainer review — a new tag can
+# never land in the same PR as the product/vendor that uses it.
+/schema/ @b-mx
+/taxonomy/tags.yaml @b-mx
