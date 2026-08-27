@@ -6,13 +6,13 @@
   "name": "Aria Operations for Networks",
   "type": "software",
   "tags": [],
-  "icon": "logos:vmware",
+  "icon": "carbon:logo-vmware-alt",
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Aria Operations for Networks",
-      "confidence": "auto"
+      "confidence": "curated"
     }
   ]
 }

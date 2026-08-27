@@ -3745,12 +3745,12 @@
       "slug": "vmware",
       "vendor_id": "vmware",
       "name": "VMware",
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "VMware",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13080,13 +13080,13 @@
       "name": "Aria Operations for Networks",
       "type": "software",
       "tags": [],
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "Aria Operations for Networks",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13100,13 +13100,13 @@
       "tags": [
         "virtualization"
       ],
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "ESXi",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13118,13 +13118,13 @@
       "name": "SD-WAN Edge",
       "type": "software",
       "tags": [],
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "SD-WAN Edge",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13139,13 +13139,13 @@
         "framework",
         "network-device"
       ],
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "Spring Cloud Gateway",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13159,13 +13159,13 @@
       "tags": [
         "framework"
       ],
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "Spring Framework",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13177,13 +13177,13 @@
       "name": "Tools",
       "type": "software",
       "tags": [],
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "Tools",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13197,23 +13197,23 @@
       "tags": [
         "virtualization"
       ],
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "vCenter Server",
-          "confidence": "auto"
+          "confidence": "curated"
         },
         {
           "source": "cisa_kev",
           "value": "VMware vCenter",
-          "confidence": "auto"
+          "confidence": "curated"
         },
         {
           "source": "cisa_kev",
           "value": "VMware vCenter Server",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13225,13 +13225,13 @@
       "name": "VMware Aria Operations",
       "type": "software",
       "tags": [],
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "VMware Aria Operations",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13243,13 +13243,13 @@
       "name": "vRealize Operations Manager API",
       "type": "software",
       "tags": [],
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "vRealize Operations Manager API",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13263,13 +13263,13 @@
       "tags": [
         "identity-access-management"
       ],
-      "icon": "logos:vmware",
+      "icon": "carbon:logo-vmware-alt",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "Workspace ONE Access and Identity Manager",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },

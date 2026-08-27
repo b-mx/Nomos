@@ -9,13 +9,13 @@
     "framework",
     "network-device"
   ],
-  "icon": "logos:vmware",
+  "icon": "carbon:logo-vmware-alt",
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Spring Cloud Gateway",
-      "confidence": "auto"
+      "confidence": "curated"
     }
   ]
 }

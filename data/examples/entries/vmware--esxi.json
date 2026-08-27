@@ -8,13 +8,13 @@
   "tags": [
     "virtualization"
   ],
-  "icon": "logos:vmware",
+  "icon": "carbon:logo-vmware-alt",
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "ESXi",
-      "confidence": "auto"
+      "confidence": "curated"
     }
   ]
 }

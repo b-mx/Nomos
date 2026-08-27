@@ -6,13 +6,13 @@
   "name": "Tools",
   "type": "software",
   "tags": [],
-  "icon": "logos:vmware",
+  "icon": "carbon:logo-vmware-alt",
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Tools",
-      "confidence": "auto"
+      "confidence": "curated"
     }
   ]
 }

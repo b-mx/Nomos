@@ -8,23 +8,23 @@
   "tags": [
     "virtualization"
   ],
-  "icon": "logos:vmware",
+  "icon": "carbon:logo-vmware-alt",
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "vCenter Server",
-      "confidence": "auto"
+      "confidence": "curated"
     },
     {
       "source": "cisa_kev",
       "value": "VMware vCenter",
-      "confidence": "auto"
+      "confidence": "curated"
     },
     {
       "source": "cisa_kev",
       "value": "VMware vCenter Server",
-      "confidence": "auto"
+      "confidence": "curated"
     }
   ]
 }

@@ -8,13 +8,13 @@
   "tags": [
     "identity-access-management"
   ],
-  "icon": "logos:vmware",
+  "icon": "carbon:logo-vmware-alt",
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Workspace ONE Access and Identity Manager",
-      "confidence": "auto"
+      "confidence": "curated"
     }
   ]
 }
