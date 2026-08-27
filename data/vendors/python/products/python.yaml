@@ -5,7 +5,7 @@ type: software
 tags: [programming-language, runtime]
 icon: logos:python
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: python
     confidence: curated
   - source: endoflife

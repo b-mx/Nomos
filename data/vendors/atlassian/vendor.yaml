@@ -2,7 +2,7 @@ id: atlassian
 name: Atlassian
 icon: logos:atlassian
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: atlassian
     confidence: curated
   - source: cisa_kev

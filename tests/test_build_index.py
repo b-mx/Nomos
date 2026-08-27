@@ -18,8 +18,8 @@ def test_build_by_source_splits_correctly():
 
     entries = build_entries(VALID_TREE)
     by_source = build_by_source(entries)
-    assert set(by_source.keys()) == {"nvd_cpe"}
-    assert len(by_source["nvd_cpe"]) == 2  # vendor acme + product widget
+    assert set(by_source.keys()) == {"nvd"}
+    assert len(by_source["nvd"]) == 2  # vendor acme + product widget
 
 
 def test_write_index_creates_expected_files(tmp_path):
@@ -27,7 +27,7 @@ def test_write_index_creates_expected_files(tmp_path):
 
     write_index(tmp_path, generated_at="2026-01-01T00:00:00Z", vendors_dir=VALID_TREE)
     assert (tmp_path / "aliases.json").exists()
-    assert (tmp_path / "by-source" / "nvd_cpe.json").exists()
+    assert (tmp_path / "by-source" / "nvd.json").exists()
     content = json.loads((tmp_path / "aliases.json").read_text())
     assert content["generated_at"] == "2026-01-01T00:00:00Z"
     assert len(content["entries"]) == 2
@@ -53,7 +53,7 @@ def test_build_stats_counts_correctly():
     from tools.build_index import build_entries, build_stats
 
     stats = build_stats(build_entries(VALID_TREE))
-    assert stats == {"vendor_count": 1, "product_count": 1, "sources": ["nvd_cpe"]}
+    assert stats == {"vendor_count": 1, "product_count": 1, "sources": ["nvd"]}
 
 
 def test_write_index_writes_stats_file(tmp_path):
@@ -61,4 +61,4 @@ def test_write_index_writes_stats_file(tmp_path):
 
     write_index(tmp_path, generated_at="2026-01-01T00:00:00Z", vendors_dir=VALID_TREE)
     stats = json.loads((tmp_path / "stats.json").read_text())
-    assert stats == {"vendor_count": 1, "product_count": 1, "sources": ["nvd_cpe"]}
+    assert stats == {"vendor_count": 1, "product_count": 1, "sources": ["nvd"]}

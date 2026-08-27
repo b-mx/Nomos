@@ -10,7 +10,7 @@
    id: acme
    name: Acme Corp
    aliases:
-     - source: nvd_cpe
+     - source: nvd
        value: acme
        confidence: curated
    ```
@@ -24,13 +24,13 @@
    type: software
    tags: [database]
    aliases:
-     - source: nvd_cpe
+     - source: nvd
        value: widget
        confidence: curated
    ```
 
 4. A vendor and its product MAY share the same `(source, value)` pair — e.g.
-   NGINX's vendor and product both legitimately claim `nvd_cpe: nginx`, since
+   NGINX's vendor and product both legitimately claim `nvd: nginx`, since
    CPE's vendor and product fields are separate assertions even when the
    strings match. The global uniqueness rule is scoped per canonical type: two
    vendors (or two products) can never share a `(source, value)` pair, but a

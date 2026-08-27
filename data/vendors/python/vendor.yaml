@@ -2,7 +2,7 @@ id: python
 name: Python
 icon: logos:python
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: python
     confidence: curated
   - source: endoflife

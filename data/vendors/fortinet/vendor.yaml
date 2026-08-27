@@ -2,7 +2,7 @@ id: fortinet
 name: Fortinet
 icon: thesvg-color:fortinet
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: fortinet
     confidence: curated
   - source: cisa_kev

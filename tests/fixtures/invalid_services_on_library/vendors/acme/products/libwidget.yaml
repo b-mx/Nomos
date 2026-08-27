@@ -4,7 +4,7 @@ name: Acme LibWidget
 type: library
 tags: [library]
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: libwidget
     confidence: curated
 services:

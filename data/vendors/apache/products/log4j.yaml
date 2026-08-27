@@ -5,7 +5,7 @@ type: library
 tags: [logging]
 icon: logos:apache
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: log4j
     confidence: curated
   - source: osv

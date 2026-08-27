@@ -6,7 +6,7 @@ tags:
 - collaboration-tool
 icon: devicon:confluence
 aliases:
-- source: nvd_cpe
+- source: nvd
   value: confluence
   confidence: curated
 - source: cisa_kev

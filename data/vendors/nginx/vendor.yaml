@@ -2,7 +2,7 @@ id: nginx
 name: NGINX
 icon: logos:nginx
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: nginx
     confidence: curated
   - source: endoflife

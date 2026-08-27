@@ -5,7 +5,7 @@ type: firmware
 tags: [network-device]
 icon: cib:cisco
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: ios
     confidence: curated
   - source: cisa_kev

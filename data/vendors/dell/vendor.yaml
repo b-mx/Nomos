@@ -1,6 +1,6 @@
 id: dell
 name: Dell
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: dell
     confidence: curated

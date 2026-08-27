@@ -4,6 +4,6 @@ name: Dell PowerEdge R740
 type: hardware
 tags: [hardware-appliance]
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: poweredge_r740_firmware
     confidence: auto

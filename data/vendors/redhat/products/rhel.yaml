@@ -5,7 +5,7 @@ type: os
 tags: [operating-system]
 icon: logos:redhat-icon
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: enterprise_linux
     confidence: curated
   - source: endoflife

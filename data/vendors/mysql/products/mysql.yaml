@@ -5,7 +5,7 @@ type: software
 tags: [database]
 icon: logos:mysql-icon
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: mysql
     confidence: curated
   - source: endoflife

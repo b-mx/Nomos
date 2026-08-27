@@ -4,6 +4,6 @@ name: Acme Widget
 type: software
 tags: [definitely-not-a-real-tag]
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: widget
     confidence: curated

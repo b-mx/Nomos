@@ -47,7 +47,7 @@ def test_run_diff_mode_skips_alias_missing_value(monkeypatch):
     )
     monkeypatch.setattr(
         suggest_match, "load_yaml_at_ref",
-        lambda ref, path: {"id": "weird", "aliases": [{"source": "nvd_cpe"}]},
+        lambda ref, path: {"id": "weird", "aliases": [{"source": "nvd"}]},
     )
     result = suggest_match.run_diff_mode("base", "head", 85)
     assert result == "NO_MATCH"

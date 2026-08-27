@@ -41,7 +41,7 @@
       "required": ["source", "value", "confidence"],
       "additionalProperties": false,
       "properties": {
-        "source": { "enum": ["nvd_cpe", "cisa_kev", "osv", "endoflife"] },
+        "source": { "enum": ["nvd", "cisa_kev", "osv", "endoflife"] },
         "value": { "type": "string", "minLength": 1 },
         "ecosystem": { "type": "string", "minLength": 1 },
         "confidence": { "enum": ["curated", "auto"] }

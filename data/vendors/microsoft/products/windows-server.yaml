@@ -5,7 +5,7 @@ type: os
 tags: [operating-system]
 icon: logos:microsoft-icon
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: windows_server
     confidence: curated
   - source: endoflife

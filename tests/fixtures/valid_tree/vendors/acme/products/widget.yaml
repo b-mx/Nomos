@@ -4,7 +4,7 @@ name: Acme Widget
 type: software
 tags: [database]
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: widget
     confidence: curated
 services:

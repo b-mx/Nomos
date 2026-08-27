@@ -5,7 +5,7 @@ type: software
 tags: [container-runtime]
 icon: logos:docker-icon
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: docker
     confidence: curated
   - source: endoflife

@@ -5,7 +5,7 @@ type: software
 tags: [collaboration-tool]
 icon: logos:microsoft-icon
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: exchange_server
     confidence: curated
   - source: cisa_kev

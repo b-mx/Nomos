@@ -9,6 +9,6 @@ aliases:
     value: pytorch
     ecosystem: PyPI
     confidence: curated
-  - source: nvd_cpe
+  - source: nvd
     value: pytorch
     confidence: curated

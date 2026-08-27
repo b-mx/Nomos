@@ -2,7 +2,7 @@ id: apache
 name: Apache Software Foundation
 icon: logos:apache
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: apache
     confidence: curated
   - source: cisa_kev

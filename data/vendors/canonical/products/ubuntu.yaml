@@ -5,7 +5,7 @@ type: os
 tags: [operating-system]
 icon: logos:ubuntu
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: ubuntu_linux
     confidence: curated
   - source: endoflife
