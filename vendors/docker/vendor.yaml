@@ -1,4 +1,7 @@
 id: docker
 name: Docker
 icon: i-logos-docker-icon
-aliases: []
+aliases:
+  - source: nvd_cpe
+    value: docker
+    confidence: curated

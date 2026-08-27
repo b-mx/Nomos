@@ -1,5 +1,82 @@
 [
   {
+    "canonical_type": "vendor",
+    "vendor_id": "kubernetes",
+    "product_id": null,
+    "name": "Kubernetes",
+    "alias": {
+      "source": "endoflife",
+      "value": "kubernetes",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "mysql",
+    "product_id": null,
+    "name": "MySQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "mysql",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nginx",
+    "product_id": null,
+    "name": "NGINX",
+    "alias": {
+      "source": "endoflife",
+      "value": "nginx",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "openssl",
+    "product_id": null,
+    "name": "OpenSSL",
+    "alias": {
+      "source": "endoflife",
+      "value": "openssl",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "postgresql",
+    "product_id": null,
+    "name": "PostgreSQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "postgresql",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "python",
+    "product_id": null,
+    "name": "Python",
+    "alias": {
+      "source": "endoflife",
+      "value": "python",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "redis",
+    "product_id": null,
+    "name": "Redis",
+    "alias": {
+      "source": "endoflife",
+      "value": "redis",
+      "confidence": "curated"
+    }
+  },
+  {
     "canonical_type": "product",
     "vendor_id": "canonical",
     "product_id": "ubuntu",

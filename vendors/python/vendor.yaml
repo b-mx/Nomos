@@ -1,4 +1,10 @@
 id: python
 name: Python
 icon: i-logos-python
-aliases: []
+aliases:
+  - source: nvd_cpe
+    value: python
+    confidence: curated
+  - source: endoflife
+    value: python
+    confidence: curated

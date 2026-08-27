@@ -1,4 +1,10 @@
 id: postgresql
 name: PostgreSQL
 icon: i-logos-postgresql
-aliases: []
+aliases:
+  - source: nvd_cpe
+    value: postgresql
+    confidence: curated
+  - source: endoflife
+    value: postgresql
+    confidence: curated

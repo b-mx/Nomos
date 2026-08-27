@@ -1,4 +1,7 @@
 id: pytorch
 name: PyTorch
 icon: i-logos-pytorch-icon
-aliases: []
+aliases:
+  - source: nvd_cpe
+    value: pytorch
+    confidence: curated

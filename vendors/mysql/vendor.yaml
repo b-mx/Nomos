@@ -1,4 +1,10 @@
 id: mysql
 name: MySQL
 icon: i-logos-mysql-icon
-aliases: []
+aliases:
+  - source: nvd_cpe
+    value: mysql
+    confidence: curated
+  - source: endoflife
+    value: mysql
+    confidence: curated

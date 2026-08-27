@@ -1,5 +1,7 @@
 # Nomos
 
+![Nomos](docs/nomos-banner.svg)
+
 Nomos is a community-maintained mapping from vendor and product names, as
 they appear across disparate security data sources, to a single canonical
 identity per vendor and per product.
@@ -33,9 +35,7 @@ any other single source.
 
 **Self-vendored products** — packages with no real company behind them —
 use the same slug for both the vendor directory and the product, e.g.
-`vendors/redis/vendor.yaml` and `vendors/redis/products/redis.yaml`. By
-convention their `vendor.yaml` carries an empty `aliases: []` — see
-`CONTRIBUTING.md` for why.
+`vendors/redis/vendor.yaml` and `vendors/redis/products/redis.yaml`.
 
 ## Using the published index
 
