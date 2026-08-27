@@ -13,6 +13,7 @@
   --source-endoflife: #39d2c0;
   --source-cisa-kev: #e3b341;
   --source-osv: #ff7b72;
+  --icon-invert: 0;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -22,6 +23,7 @@
     --border: #333333;
     --link: #58a6ff;
     --link-hover: #79c0ff;
+    --icon-invert: 1;
   }
 }
 * { box-sizing: border-box; }
@@ -62,34 +64,28 @@ main {
   padding: 0;
   margin-top: 1rem;
 }
-.result {
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 0.75rem 1rem;
-  margin-bottom: 0.75rem;
-}
-.result-header {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  margin-bottom: 0.25rem;
-}
-.result-header .icon {
+.icon {
   flex-shrink: 0;
-  width: 24px;
-  height: 24px;
 }
-.result h2 {
-  margin: 0;
-  font-size: 1.1rem;
+.source-link {
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 0;
+  text-decoration: none;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.8rem;
 }
-.result .meta {
+.source-link img {
+  opacity: 0.75;
+  filter: invert(var(--icon-invert));
+}
+.meta {
   color: var(--muted);
   font-size: 0.85rem;
   margin-bottom: 0.5rem;
 }
-.result .tags span,
-.result .services span,
+.tags span,
+.services span,
 .chip {
   display: inline-block;
   border: 1px solid var(--border);
@@ -101,14 +97,65 @@ main {
 .chip-mono {
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
 }
-.result .aliases dt {
+.aliases dt {
   font-weight: 600;
   margin-top: 0.5rem;
 }
-.result .aliases dd {
+.aliases dd {
   margin: 0.15rem 0 0.15rem 1rem;
   font-size: 0.9rem;
   color: var(--muted);
+}
+
+/* Vendor-grouped search results: vendor on the left third, its matching
+   products on the right two thirds — mirrors vendors/<id>/products/*.yaml. */
+.vendor-card {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin-bottom: 0.75rem;
+}
+.vendor-card-left {
+  padding: 0.75rem 1rem;
+}
+.vendor-card-right {
+  padding: 0.75rem 1rem;
+  border-left: 1px solid var(--border);
+}
+.vendor-card-header,
+.product-row-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+.vendor-card-header h2 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+.product-row-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.product-row-header .product-id {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.vendor-card-count {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 1rem;
+}
+.product-row {
+  padding: 0.75rem 0;
+  border-top: 1px solid var(--border);
+}
+.product-row-first {
+  padding-top: 0;
+  border-top: none;
 }
 #status {
   color: var(--muted);

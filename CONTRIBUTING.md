@@ -92,7 +92,7 @@ the example data:
 uv run tools/build_index.py --output-dir /tmp/nomos-site/index --generated-at 2026-01-01T00:00:00Z
 cd site && npm ci && cd ..
 node site/build-pagefind.mjs --index /tmp/nomos-site/index/aliases.json --output /tmp/nomos-site/pagefind
-cp site/index.html site/search.html site/style.css site/search.js site/landing.js /tmp/nomos-site/
+cp site/index.html site/search.html site/style.css site/search.js site/landing.js site/favicon.svg /tmp/nomos-site/
 cp docs/nomos-banner.svg /tmp/nomos-site/
 cd /tmp/nomos-site && python3 -m http.server 8000
 ```
