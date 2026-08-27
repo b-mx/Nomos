@@ -1,0 +1,14 @@
+id: widget
+vendor_id: acme
+name: Acme Widget
+type: software
+tags: [database]
+aliases:
+  - source: nvd_cpe
+    value: widget
+    confidence: curated
+services:
+  - protocol: tcp
+    port: 1234
+    name: widget-proto
+    default: true

@@ -1,0 +1,6 @@
+id: acme
+name: Acme Corp
+aliases:
+  - source: nvd_cpe
+    value: acme
+    confidence: curated
