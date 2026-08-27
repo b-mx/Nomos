@@ -1,0 +1,10 @@
+id: rocketmq
+vendor_id: apache
+name: RocketMQ
+type: software
+tags:
+- message-queue
+aliases:
+- source: cisa_kev
+  value: RocketMQ
+  confidence: auto

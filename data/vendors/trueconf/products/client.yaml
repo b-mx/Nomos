@@ -1,0 +1,9 @@
+id: client
+vendor_id: trueconf
+name: Client
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Client
+  confidence: auto

@@ -1,0 +1,10 @@
+id: grafana
+vendor_id: grafana-labs
+name: Grafana
+type: software
+tags:
+- monitoring
+aliases:
+- source: cisa_kev
+  value: Grafana
+  confidence: auto

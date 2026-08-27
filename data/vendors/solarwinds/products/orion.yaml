@@ -1,0 +1,11 @@
+id: orion
+vendor_id: solarwinds
+name: Orion
+type: software
+tags:
+- monitoring
+icon: logos:solarwinds
+aliases:
+- source: cisa_kev
+  value: Orion
+  confidence: auto

@@ -1,0 +1,10 @@
+id: backup-replication
+vendor_id: veeam
+name: Backup & Replication
+type: software
+tags: []
+icon: simple-icons:veeam
+aliases:
+- source: cisa_kev
+  value: Backup & Replication
+  confidence: auto

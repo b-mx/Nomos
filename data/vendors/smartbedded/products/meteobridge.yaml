@@ -1,0 +1,9 @@
+id: meteobridge
+vendor_id: smartbedded
+name: Meteobridge
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Meteobridge
+  confidence: auto

@@ -1,0 +1,11 @@
+id: jquery
+vendor_id: jquery
+name: JQuery
+type: library
+tags:
+- library
+icon: logos:jquery
+aliases:
+- source: cisa_kev
+  value: JQuery
+  confidence: auto

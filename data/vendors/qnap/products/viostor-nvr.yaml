@@ -1,0 +1,11 @@
+id: viostor-nvr
+vendor_id: qnap
+name: VioStor NVR
+type: hardware
+tags:
+- network-device
+icon: simple-icons:qnap
+aliases:
+- source: cisa_kev
+  value: VioStor NVR
+  confidence: auto

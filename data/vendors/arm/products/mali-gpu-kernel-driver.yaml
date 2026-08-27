@@ -1,0 +1,11 @@
+id: mali-gpu-kernel-driver
+vendor_id: arm
+name: Mali GPU Kernel Driver
+type: os
+tags:
+- operating-system
+icon: logos:arm
+aliases:
+- source: cisa_kev
+  value: Mali GPU Kernel Driver
+  confidence: auto

@@ -1,0 +1,9 @@
+id: trivy
+vendor_id: aquasecurity
+name: Trivy
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Trivy
+  confidence: auto

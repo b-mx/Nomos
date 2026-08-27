@@ -1,0 +1,10 @@
+id: sharefile
+vendor_id: citrix
+name: ShareFile
+type: software
+tags: []
+icon: simple-icons:citrix
+aliases:
+- source: cisa_kev
+  value: ShareFile
+  confidence: auto

@@ -1,0 +1,11 @@
+id: gnu-c-library
+vendor_id: gnu
+name: GNU C Library
+type: library
+tags:
+- library
+icon: logos:gnu
+aliases:
+- source: cisa_kev
+  value: GNU C Library
+  confidence: auto

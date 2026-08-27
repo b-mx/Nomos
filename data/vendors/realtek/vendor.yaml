@@ -1,0 +1,6 @@
+id: realtek
+name: Realtek
+aliases:
+- source: cisa_kev
+  value: Realtek
+  confidence: auto

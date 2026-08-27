@@ -1,0 +1,9 @@
+id: dsl-cpe-devices
+vendor_id: zyxel
+name: DSL CPE Devices
+type: hardware
+tags: []
+aliases:
+- source: cisa_kev
+  value: DSL CPE Devices
+  confidence: auto

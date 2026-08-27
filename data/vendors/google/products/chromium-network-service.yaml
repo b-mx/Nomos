@@ -1,0 +1,10 @@
+id: chromium-network-service
+vendor_id: google
+name: Chromium Network Service
+type: software
+tags: []
+icon: logos:google-icon
+aliases:
+- source: cisa_kev
+  value: Chromium Network Service
+  confidence: auto

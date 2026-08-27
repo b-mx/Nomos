@@ -1,0 +1,10 @@
+id: frontend
+vendor_id: zabbix
+name: Frontend
+type: software
+tags: []
+icon: logos:zabbix
+aliases:
+- source: cisa_kev
+  value: Frontend
+  confidence: auto

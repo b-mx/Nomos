@@ -1,0 +1,10 @@
+id: web-server
+vendor_id: commvault
+name: Web Server
+type: software
+tags:
+- webserver
+aliases:
+- source: cisa_kev
+  value: Web Server
+  confidence: auto

@@ -1,0 +1,11 @@
+id: mlflow
+vendor_id: mlflow
+name: MLflow
+type: software
+tags:
+- ai-ml
+icon: simple-icons:mlflow
+aliases:
+- source: cisa_kev
+  value: MLflow
+  confidence: auto

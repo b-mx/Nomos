@@ -1,0 +1,11 @@
+id: jenkins-command-line-interface-cli
+vendor_id: jenkins
+name: Jenkins Command Line Interface (CLI)
+type: software
+tags:
+- ci-cd
+icon: logos:jenkins
+aliases:
+- source: cisa_kev
+  value: Jenkins Command Line Interface (CLI)
+  confidence: auto

@@ -1,0 +1,6 @@
+id: wazuh
+name: Wazuh
+aliases:
+- source: cisa_kev
+  value: Wazuh
+  confidence: auto

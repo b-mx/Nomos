@@ -1,0 +1,10 @@
+id: ios-macos-watchos
+vendor_id: apple
+name: iOS, macOS, watchOS
+type: os
+tags: []
+icon: logos:apple
+aliases:
+- source: cisa_kev
+  value: iOS, macOS, watchOS
+  confidence: auto

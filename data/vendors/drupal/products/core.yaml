@@ -1,0 +1,11 @@
+id: core
+vendor_id: drupal
+name: Core
+type: software
+tags:
+- cms
+icon: logos:drupal
+aliases:
+- source: cisa_kev
+  value: Drupal core
+  confidence: auto

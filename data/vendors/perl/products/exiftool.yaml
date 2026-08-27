@@ -1,0 +1,10 @@
+id: exiftool
+vendor_id: perl
+name: Exiftool
+type: software
+tags: []
+icon: logos:perl
+aliases:
+- source: cisa_kev
+  value: Exiftool
+  confidence: auto

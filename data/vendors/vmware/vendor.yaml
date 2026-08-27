@@ -1,0 +1,7 @@
+id: vmware
+name: VMware
+icon: logos:vmware
+aliases:
+- source: cisa_kev
+  value: VMware
+  confidence: auto

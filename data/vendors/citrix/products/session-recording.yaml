@@ -1,0 +1,10 @@
+id: session-recording
+vendor_id: citrix
+name: Session Recording
+type: software
+tags: []
+icon: simple-icons:citrix
+aliases:
+- source: cisa_kev
+  value: Session Recording
+  confidence: auto

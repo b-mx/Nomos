@@ -1,0 +1,7 @@
+id: minio
+name: MinIO
+icon: simple-icons:minio
+aliases:
+- source: cisa_kev
+  value: MinIO
+  confidence: auto

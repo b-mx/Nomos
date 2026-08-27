@@ -1,0 +1,9 @@
+id: scadabr
+vendor_id: openplc
+name: ScadaBR
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: ScadaBR
+  confidence: auto

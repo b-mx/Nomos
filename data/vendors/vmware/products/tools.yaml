@@ -1,0 +1,10 @@
+id: tools
+vendor_id: vmware
+name: Tools
+type: software
+tags: []
+icon: logos:vmware
+aliases:
+- source: cisa_kev
+  value: Tools
+  confidence: auto

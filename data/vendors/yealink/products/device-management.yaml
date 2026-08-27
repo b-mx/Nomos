@@ -1,0 +1,9 @@
+id: device-management
+vendor_id: yealink
+name: Device Management
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Device Management
+  confidence: auto

@@ -1,0 +1,7 @@
+id: palo-alto-networks
+name: Palo Alto Networks
+icon: simple-icons:paloaltonetworks
+aliases:
+- source: cisa_kev
+  value: Palo Alto Networks
+  confidence: auto

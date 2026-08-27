@@ -1,0 +1,10 @@
+id: qnap
+name: QNAP
+icon: simple-icons:qnap
+aliases:
+- source: cisa_kev
+  value: QNAP
+  confidence: auto
+- source: cisa_kev
+  value: QNAP Systems
+  confidence: auto

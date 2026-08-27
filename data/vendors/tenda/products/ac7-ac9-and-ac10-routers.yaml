@@ -1,0 +1,10 @@
+id: ac7-ac9-and-ac10-routers
+vendor_id: tenda
+name: AC7, AC9, and AC10 Routers
+type: hardware
+tags:
+- network-device
+aliases:
+- source: cisa_kev
+  value: AC7, AC9, and AC10 Routers
+  confidence: auto

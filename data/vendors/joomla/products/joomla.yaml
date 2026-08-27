@@ -1,0 +1,11 @@
+id: joomla
+vendor_id: joomla
+name: Joomla!
+type: software
+tags:
+- cms
+icon: logos:joomla
+aliases:
+- source: cisa_kev
+  value: Joomla!
+  confidence: auto

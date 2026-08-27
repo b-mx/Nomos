@@ -1,0 +1,7 @@
+id: pi-hole
+name: Pi-hole
+icon: simple-icons:pihole
+aliases:
+- source: cisa_kev
+  value: Pi-hole
+  confidence: auto

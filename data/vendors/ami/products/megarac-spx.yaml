@@ -1,0 +1,9 @@
+id: megarac-spx
+vendor_id: ami
+name: MegaRAC SPx
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: MegaRAC SPx
+  confidence: auto

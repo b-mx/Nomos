@@ -1,0 +1,9 @@
+id: airflow
+vendor_id: apache
+name: Airflow
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Airflow
+  confidence: auto

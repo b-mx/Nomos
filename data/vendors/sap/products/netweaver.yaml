@@ -1,0 +1,10 @@
+id: netweaver
+vendor_id: sap
+name: NetWeaver
+type: software
+tags: []
+icon: logos:sap
+aliases:
+- source: cisa_kev
+  value: NetWeaver
+  confidence: auto

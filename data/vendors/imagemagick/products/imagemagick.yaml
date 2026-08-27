@@ -1,0 +1,9 @@
+id: imagemagick
+vendor_id: imagemagick
+name: ImageMagick
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: ImageMagick
+  confidence: auto

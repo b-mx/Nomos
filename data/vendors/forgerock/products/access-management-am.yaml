@@ -1,0 +1,10 @@
+id: access-management-am
+vendor_id: forgerock
+name: Access Management (AM)
+type: software
+tags:
+- identity-access-management
+aliases:
+- source: cisa_kev
+  value: Access Management (AM)
+  confidence: auto

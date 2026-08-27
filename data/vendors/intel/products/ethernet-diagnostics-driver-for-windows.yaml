@@ -1,0 +1,10 @@
+id: ethernet-diagnostics-driver-for-windows
+vendor_id: intel
+name: Ethernet Diagnostics Driver for Windows
+type: os
+tags: []
+icon: logos:intel
+aliases:
+- source: cisa_kev
+  value: Ethernet Diagnostics Driver for Windows
+  confidence: auto

@@ -1,0 +1,9 @@
+id: http-server
+vendor_id: apache
+name: HTTP Server
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: HTTP Server
+  confidence: auto

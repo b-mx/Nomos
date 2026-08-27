@@ -1,0 +1,10 @@
+id: expedition
+vendor_id: palo-alto-networks
+name: Expedition
+type: software
+tags: []
+icon: simple-icons:paloaltonetworks
+aliases:
+- source: cisa_kev
+  value: Expedition
+  confidence: auto

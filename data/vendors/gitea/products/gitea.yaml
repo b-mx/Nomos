@@ -1,0 +1,10 @@
+id: gitea
+vendor_id: gitea
+name: Gitea
+type: software
+tags: []
+icon: cib:gitea
+aliases:
+- source: cisa_kev
+  value: Gitea
+  confidence: auto

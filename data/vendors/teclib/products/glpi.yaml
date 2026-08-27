@@ -1,0 +1,9 @@
+id: glpi
+vendor_id: teclib
+name: GLPI
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: GLPI
+  confidence: auto

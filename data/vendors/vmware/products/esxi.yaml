@@ -1,0 +1,11 @@
+id: esxi
+vendor_id: vmware
+name: ESXi
+type: os
+tags:
+- virtualization
+icon: logos:vmware
+aliases:
+- source: cisa_kev
+  value: ESXi
+  confidence: auto

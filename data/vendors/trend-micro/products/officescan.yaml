@@ -1,0 +1,10 @@
+id: officescan
+vendor_id: trend-micro
+name: OfficeScan
+type: software
+tags: []
+icon: simple-icons:trendmicro
+aliases:
+- source: cisa_kev
+  value: OfficeScan
+  confidence: auto

@@ -1,0 +1,7 @@
+id: solarwinds
+name: SolarWinds
+icon: logos:solarwinds
+aliases:
+- source: cisa_kev
+  value: SolarWinds
+  confidence: auto

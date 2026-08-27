@@ -1,0 +1,10 @@
+id: adminlte
+vendor_id: pi-hole
+name: AdminLTE
+type: software
+tags: []
+icon: simple-icons:pihole
+aliases:
+- source: cisa_kev
+  value: AdminLTE
+  confidence: auto

@@ -1,0 +1,9 @@
+id: sysaid-server
+vendor_id: sysaid
+name: SysAid Server
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SysAid Server
+  confidence: auto

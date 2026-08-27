@@ -1,0 +1,11 @@
+id: kibana
+vendor_id: elastic
+name: Kibana
+type: software
+tags:
+- logging
+icon: cib:elastic
+aliases:
+- source: cisa_kev
+  value: Kibana
+  confidence: auto

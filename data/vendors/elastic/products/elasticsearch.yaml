@@ -1,0 +1,11 @@
+id: elasticsearch
+vendor_id: elastic
+name: Elasticsearch
+type: software
+tags:
+- database
+icon: cib:elastic
+aliases:
+- source: cisa_kev
+  value: Elasticsearch
+  confidence: auto

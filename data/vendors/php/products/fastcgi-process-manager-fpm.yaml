@@ -1,0 +1,10 @@
+id: fastcgi-process-manager-fpm
+vendor_id: php
+name: FastCGI Process Manager (FPM)
+type: software
+tags: []
+icon: logos:php
+aliases:
+- source: cisa_kev
+  value: FastCGI Process Manager (FPM)
+  confidence: auto

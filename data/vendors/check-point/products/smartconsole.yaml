@@ -1,0 +1,9 @@
+id: smartconsole
+vendor_id: check-point
+name: SmartConsole
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SmartConsole
+  confidence: auto

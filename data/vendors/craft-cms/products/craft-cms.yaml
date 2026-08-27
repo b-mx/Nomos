@@ -1,0 +1,11 @@
+id: craft-cms
+vendor_id: craft-cms
+name: Craft CMS
+type: software
+tags:
+- cms
+icon: logos:craftcms
+aliases:
+- source: cisa_kev
+  value: Craft CMS
+  confidence: auto

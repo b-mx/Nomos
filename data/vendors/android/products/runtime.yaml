@@ -1,0 +1,11 @@
+id: runtime
+vendor_id: android
+name: Runtime
+type: software
+tags:
+- runtime
+icon: logos:android-icon
+aliases:
+- source: cisa_kev
+  value: Runtime
+  confidence: curated

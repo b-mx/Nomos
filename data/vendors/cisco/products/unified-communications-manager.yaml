@@ -1,0 +1,9 @@
+id: unified-communications-manager
+vendor_id: cisco
+name: Unified Communications Manager
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Unified Communications Manager
+  confidence: auto

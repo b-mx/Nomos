@@ -1,0 +1,10 @@
+id: media-server
+vendor_id: plex
+name: Media Server
+type: software
+tags: []
+icon: cib:plex
+aliases:
+- source: cisa_kev
+  value: Media Server
+  confidence: auto

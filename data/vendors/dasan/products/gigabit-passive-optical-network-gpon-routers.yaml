@@ -1,0 +1,10 @@
+id: gigabit-passive-optical-network-gpon-routers
+vendor_id: dasan
+name: Gigabit Passive Optical Network (GPON) Routers
+type: hardware
+tags:
+- network-device
+aliases:
+- source: cisa_kev
+  value: Gigabit Passive Optical Network (GPON) Routers
+  confidence: auto

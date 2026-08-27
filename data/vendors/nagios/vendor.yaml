@@ -1,0 +1,6 @@
+id: nagios
+name: Nagios
+aliases:
+- source: cisa_kev
+  value: Nagios
+  confidence: auto

@@ -1,0 +1,10 @@
+id: os-x
+vendor_id: apple
+name: OS X
+type: software
+tags: []
+icon: logos:apple
+aliases:
+- source: cisa_kev
+  value: OS X
+  confidence: auto

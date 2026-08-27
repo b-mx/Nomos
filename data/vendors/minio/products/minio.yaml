@@ -1,0 +1,10 @@
+id: minio
+vendor_id: minio
+name: MinIO
+type: software
+tags: []
+icon: simple-icons:minio
+aliases:
+- source: cisa_kev
+  value: MinIO
+  confidence: auto

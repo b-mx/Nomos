@@ -1,0 +1,11 @@
+id: kernel
+vendor_id: linux
+name: Kernel
+type: os
+tags:
+- operating-system
+icon: cib:linux
+aliases:
+- source: cisa_kev
+  value: Kernel
+  confidence: auto

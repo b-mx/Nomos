@@ -1,0 +1,6 @@
+id: servicenow
+name: ServiceNow
+aliases:
+- source: cisa_kev
+  value: ServiceNow
+  confidence: auto

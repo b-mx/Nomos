@@ -1,0 +1,10 @@
+id: acrobat
+vendor_id: adobe
+name: Acrobat
+type: software
+tags: []
+icon: logos:adobe-icon
+aliases:
+- source: cisa_kev
+  value: Acrobat
+  confidence: curated

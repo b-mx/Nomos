@@ -1,0 +1,11 @@
+id: security-cameras-web-server
+vendor_id: hikvision
+name: Security cameras web server
+type: hardware
+tags:
+- network-device
+- webserver
+aliases:
+- source: cisa_kev
+  value: Security cameras web server
+  confidence: auto

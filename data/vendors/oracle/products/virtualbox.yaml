@@ -1,0 +1,10 @@
+id: virtualbox
+vendor_id: oracle
+name: VirtualBox
+type: software
+tags: []
+icon: logos:oracle
+aliases:
+- source: cisa_kev
+  value: VirtualBox
+  confidence: auto

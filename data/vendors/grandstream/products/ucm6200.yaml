@@ -1,0 +1,9 @@
+id: ucm6200
+vendor_id: grandstream
+name: UCM6200
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: UCM6200
+  confidence: auto

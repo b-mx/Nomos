@@ -1,0 +1,9 @@
+id: quantum-security-gateways
+vendor_id: check-point
+name: Quantum Security Gateways
+type: appliance
+tags: []
+aliases:
+- source: cisa_kev
+  value: Quantum Security Gateways
+  confidence: auto

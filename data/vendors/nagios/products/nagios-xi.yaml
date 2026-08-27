@@ -1,0 +1,10 @@
+id: nagios-xi
+vendor_id: nagios
+name: Nagios XI
+type: software
+tags:
+- monitoring
+aliases:
+- source: cisa_kev
+  value: Nagios XI
+  confidence: auto

@@ -1,0 +1,10 @@
+id: desktop
+vendor_id: teamviewer
+name: Desktop
+type: software
+tags: []
+icon: cib:teamviewer
+aliases:
+- source: cisa_kev
+  value: Desktop
+  confidence: auto

@@ -1,0 +1,10 @@
+id: web-appliance
+vendor_id: sophos
+name: Web Appliance
+type: hardware
+tags:
+- hardware-appliance
+aliases:
+- source: cisa_kev
+  value: Web Appliance
+  confidence: auto

@@ -1,0 +1,11 @@
+id: symantec-messaging-gateway
+vendor_id: symantec
+name: Symantec Messaging Gateway
+type: software
+tags:
+- network-device
+icon: cib:symantec
+aliases:
+- source: cisa_kev
+  value: Symantec Messaging Gateway
+  confidence: auto

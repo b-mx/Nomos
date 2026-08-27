@@ -1,0 +1,7 @@
+id: siemens
+name: Siemens
+icon: cib:siemens
+aliases:
+- source: cisa_kev
+  value: Siemens
+  confidence: auto

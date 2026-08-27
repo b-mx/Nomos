@@ -1,0 +1,9 @@
+id: mail-transfer-agent-mta
+vendor_id: exim
+name: Mail Transfer Agent (MTA)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Mail Transfer Agent (MTA)
+  confidence: auto

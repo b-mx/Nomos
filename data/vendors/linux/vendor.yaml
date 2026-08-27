@@ -1,0 +1,7 @@
+id: linux
+name: Linux
+icon: cib:linux
+aliases:
+- source: cisa_kev
+  value: Linux
+  confidence: auto

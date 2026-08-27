@@ -1,0 +1,10 @@
+id: pan-os
+vendor_id: palo-alto-networks
+name: PAN-OS
+type: software
+tags: []
+icon: simple-icons:paloaltonetworks
+aliases:
+- source: cisa_kev
+  value: PAN-OS
+  confidence: auto

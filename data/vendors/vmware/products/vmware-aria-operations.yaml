@@ -1,0 +1,10 @@
+id: vmware-aria-operations
+vendor_id: vmware
+name: VMware Aria Operations
+type: software
+tags: []
+icon: logos:vmware
+aliases:
+- source: cisa_kev
+  value: VMware Aria Operations
+  confidence: auto

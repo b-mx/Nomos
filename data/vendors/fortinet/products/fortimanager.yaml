@@ -1,0 +1,9 @@
+id: fortimanager
+vendor_id: fortinet
+name: FortiManager
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: FortiManager
+  confidence: auto

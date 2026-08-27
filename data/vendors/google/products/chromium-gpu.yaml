@@ -1,0 +1,10 @@
+id: chromium-gpu
+vendor_id: google
+name: Chromium GPU
+type: software
+tags: []
+icon: logos:google-icon
+aliases:
+- source: cisa_kev
+  value: Chromium GPU
+  confidence: auto

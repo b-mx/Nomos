@@ -1,0 +1,17 @@
+id: kentico-xperience
+vendor_id: kentico
+name: Kentico Xperience
+type: software
+tags:
+- cms
+icon: cib:kentico
+aliases:
+- source: cisa_kev
+  value: Kentico Xperience
+  confidence: auto
+- source: cisa_kev
+  value: Xperience CMS
+  confidence: auto
+- source: cisa_kev
+  value: Xperience
+  confidence: auto

@@ -1,0 +1,11 @@
+id: core
+vendor_id: wordpress
+name: Core
+type: software
+tags:
+- cms
+icon: skill-icons:wordpress
+aliases:
+- source: cisa_kev
+  value: Core
+  confidence: curated

@@ -1,0 +1,10 @@
+id: reader
+vendor_id: adobe
+name: Reader
+type: software
+tags: []
+icon: logos:adobe-icon
+aliases:
+- source: cisa_kev
+  value: Reader
+  confidence: curated

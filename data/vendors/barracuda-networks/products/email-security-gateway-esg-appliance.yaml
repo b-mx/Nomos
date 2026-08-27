@@ -1,0 +1,12 @@
+id: email-security-gateway-esg-appliance
+vendor_id: barracuda-networks
+name: Email Security Gateway (ESG) Appliance
+type: hardware
+tags:
+- email
+- hardware-appliance
+- network-device
+aliases:
+- source: cisa_kev
+  value: Email Security Gateway (ESG) Appliance
+  confidence: auto

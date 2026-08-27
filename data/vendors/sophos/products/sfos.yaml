@@ -1,0 +1,9 @@
+id: sfos
+vendor_id: sophos
+name: SFOS
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SFOS
+  confidence: auto

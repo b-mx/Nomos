@@ -1,0 +1,9 @@
+id: wazuh-server
+vendor_id: wazuh
+name: Wazuh Server
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Wazuh Server
+  confidence: auto

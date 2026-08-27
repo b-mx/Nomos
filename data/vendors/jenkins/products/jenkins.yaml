@@ -1,0 +1,11 @@
+id: jenkins
+vendor_id: jenkins
+name: Jenkins
+type: software
+tags:
+- ci-cd
+icon: logos:jenkins
+aliases:
+- source: cisa_kev
+  value: Jenkins
+  confidence: auto

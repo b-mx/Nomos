@@ -1,0 +1,10 @@
+id: script-security-plugin
+vendor_id: jenkins
+name: Script Security Plugin
+type: software
+tags: []
+icon: logos:jenkins
+aliases:
+- source: cisa_kev
+  value: Script Security Plugin
+  confidence: auto
