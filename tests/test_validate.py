@@ -76,3 +76,23 @@ def test_vendor_and_product_can_share_alias_across_canonical_types():
     assert vendors[0].data["aliases"][0]["value"] == "widgetlib"
     assert products[0].data["aliases"][0]["value"] == "widgetlib"
     assert validate_alias_uniqueness(vendors, products) == []
+
+
+def test_orphan_product_without_vendor_yaml_is_rejected():
+    from tools.validate import validate_directory_structure, validate_vendor_references
+
+    vendors_dir = FIXTURES / "invalid_orphan_product" / "vendors"
+    vendors = iter_vendors(vendors_dir)
+    products = iter_products(vendors_dir)
+    structure_errors = validate_directory_structure(vendors_dir)
+    reference_errors = validate_vendor_references(vendors, products)
+    assert any("missing vendor.yaml" in e for e in structure_errors)
+    assert any("has no corresponding" in e for e in reference_errors)
+
+
+def test_stray_non_yaml_file_in_products_is_rejected():
+    from tools.validate import validate_directory_structure
+
+    vendors_dir = FIXTURES / "invalid_stray_file" / "vendors"
+    errors = validate_directory_structure(vendors_dir)
+    assert any("unexpected entry in products/" in e for e in errors)
