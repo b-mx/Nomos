@@ -19,7 +19,7 @@ jobs:
           python-version: "3.12"
       - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
-          node-version: "22"
+          node-version: "24"
       - run: uv sync --all-extras
       - run: uv run tools/validate.py
       - name: Build index
