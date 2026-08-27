@@ -1,4 +1,10 @@
 id: kubernetes
 name: Kubernetes
 icon: i-logos-kubernetes
-aliases: []
+aliases:
+  - source: nvd_cpe
+    value: kubernetes
+    confidence: curated
+  - source: endoflife
+    value: kubernetes
+    confidence: curated

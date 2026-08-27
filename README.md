@@ -33,9 +33,7 @@ any other single source.
 
 **Self-vendored products** — packages with no real company behind them —
 use the same slug for both the vendor directory and the product, e.g.
-`vendors/redis/vendor.yaml` and `vendors/redis/products/redis.yaml`. By
-convention their `vendor.yaml` carries an empty `aliases: []` — see
-`CONTRIBUTING.md` for why.
+`vendors/redis/vendor.yaml` and `vendors/redis/products/redis.yaml`.
 
 ## Using the published index
 

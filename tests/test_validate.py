@@ -63,3 +63,16 @@ def test_self_vendored_validates_normally():
     assert validate_alias_uniqueness(vendors, products) == []
     assert validate_tags_exist(products) == []
     assert validate_services_allowed(products) == []
+
+
+def test_vendor_and_product_can_share_alias_across_canonical_types():
+    from tools.validate import validate_alias_uniqueness
+
+    vendors_dir = FIXTURES / "self_vendored" / "vendors"
+    vendors = iter_vendors(vendors_dir)
+    products = iter_products(vendors_dir)
+    # Vendor and product both declare (osv, widgetlib) — legal because their
+    # canonical_type differs.
+    assert vendors[0].data["aliases"][0]["value"] == "widgetlib"
+    assert products[0].data["aliases"][0]["value"] == "widgetlib"
+    assert validate_alias_uniqueness(vendors, products) == []

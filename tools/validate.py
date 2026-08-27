@@ -89,18 +89,27 @@ def validate_alias_uniqueness(
     vendors: list[VendorEntry], products: list[ProductEntry]
 ) -> list[str]:
     errors: list[str] = []
-    seen: dict[tuple[str, str], Path] = {}
-    all_entries: list[VendorEntry | ProductEntry] = [*vendors, *products]
-    for entry in all_entries:
-        for alias in entry.data.get("aliases", []):
-            key = (alias.get("source", ""), alias.get("value", ""))
+    seen: dict[tuple[str, str, str], Path] = {}
+    for vendor_entry in vendors:
+        for alias in vendor_entry.data.get("aliases", []):
+            key = ("vendor", alias.get("source", ""), alias.get("value", ""))
             if key in seen:
                 errors.append(
                     f"Duplicate alias {key} claimed by both "
-                    f"{_rel(seen[key])} and {_rel(entry.path)}"
+                    f"{_rel(seen[key])} and {_rel(vendor_entry.path)}"
                 )
             else:
-                seen[key] = entry.path
+                seen[key] = vendor_entry.path
+    for product_entry in products:
+        for alias in product_entry.data.get("aliases", []):
+            key = ("product", alias.get("source", ""), alias.get("value", ""))
+            if key in seen:
+                errors.append(
+                    f"Duplicate alias {key} claimed by both "
+                    f"{_rel(seen[key])} and {_rel(product_entry.path)}"
+                )
+            else:
+                seen[key] = product_entry.path
     return errors
 
 

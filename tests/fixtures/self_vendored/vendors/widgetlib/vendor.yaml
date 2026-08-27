@@ -1,3 +1,7 @@
 id: widgetlib
 name: WidgetLib
-aliases: []
+aliases:
+  - source: osv
+    value: widgetlib
+    ecosystem: PyPI
+    confidence: curated
