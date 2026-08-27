@@ -1,5 +1,7 @@
 # Nomos
 
+![Nomos](docs/nomos-banner.svg)
+
 Nomos is a community-maintained mapping from vendor and product names, as
 they appear across disparate security data sources, to a single canonical
 identity per vendor and per product.
