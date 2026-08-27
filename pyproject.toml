@@ -29,6 +29,9 @@ select = ["E", "F", "I", "UP", "B"]
 strict = true
 python_version = "3.12"
 
+[tool.hatch.build.targets.wheel]
+packages = ["tools"]
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
