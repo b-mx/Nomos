@@ -96,3 +96,10 @@ def test_stray_non_yaml_file_in_products_is_rejected():
     vendors_dir = FIXTURES / "invalid_stray_file" / "vendors"
     errors = validate_directory_structure(vendors_dir)
     assert any("unexpected entry in products/" in e for e in errors)
+
+
+def test_duplicate_taxonomy_tag_id_is_rejected():
+    from tools.validate import validate_taxonomy
+
+    errors = validate_taxonomy(FIXTURES / "invalid_duplicate_tag" / "taxonomy.yaml")
+    assert any("duplicate tag id 'webserver'" in e for e in errors)

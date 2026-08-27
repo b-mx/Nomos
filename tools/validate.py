@@ -17,6 +17,7 @@ from tools._common import (
     iter_products,
     iter_vendors,
     load_taxonomy_tags,
+    load_yaml,
 )
 
 SCHEMA_DIR = REPO_ROOT / "schema"
@@ -136,6 +137,22 @@ def validate_services_allowed(products: list[ProductEntry]) -> list[str]:
     return errors
 
 
+def validate_taxonomy(taxonomy_file: Path = REPO_ROOT / "taxonomy" / "tags.yaml") -> list[str]:
+    errors: list[str] = []
+    data = load_yaml(taxonomy_file)
+    schema = load_schema("taxonomy.schema.json")
+    validator = jsonschema.Draft202012Validator(schema)
+    for err in validator.iter_errors(data):
+        errors.append(f"{_rel(taxonomy_file)}: schema error at {list(err.path)}: {err.message}")
+    seen_ids: set[str] = set()
+    for tag in data.get("tags", []):
+        tag_id = tag.get("id", "")
+        if tag_id in seen_ids:
+            errors.append(f"{_rel(taxonomy_file)}: duplicate tag id '{tag_id}'")
+        seen_ids.add(tag_id)
+    return errors
+
+
 def validate_directory_structure(vendors_dir: Path = REPO_ROOT / "vendors") -> list[str]:
     errors: list[str] = []
     if not vendors_dir.is_dir():
@@ -193,6 +210,7 @@ def run_all_checks(vendors_dir: Path = REPO_ROOT / "vendors") -> list[str]:
     errors += validate_services_allowed(products)
     errors += validate_directory_structure(vendors_dir)
     errors += validate_vendor_references(vendors, products)
+    errors += validate_taxonomy()
     return errors
 
 
