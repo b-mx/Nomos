@@ -6,7 +6,7 @@
   <title>Nomos — one canonical identity, every source</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml" />
   <link rel="stylesheet" href="style.css" />
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://api.iconify.design">
 </head>
 <body>
   <header class="hero">
@@ -18,6 +18,9 @@
       <div class="hero-actions">
         <a href="search.html" class="button button-primary">Search the live index</a>
         <a href="https://github.com/b-mx/Nomos" class="button button-secondary">View on GitHub</a>
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle color theme">
+          <img id="theme-toggle-icon" src="https://api.iconify.design/octicon/device-desktop-16.svg" alt="" width="16" height="16" />
+        </button>
       </div>
     </div>
   </header>
@@ -103,6 +106,7 @@ gh pr create</pre>
     <p class="footnote">Nomos is source-agnostic: it doesn't belong to or favor
     NVD, CISA, OSV, or any other single source. MIT licensed.</p>
   </main>
+  <script src="theme.js"></script>
   <script src="landing.js"></script>
 </body>
 </html>
