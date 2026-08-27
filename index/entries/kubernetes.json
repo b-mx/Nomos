@@ -1,0 +1,19 @@
+{
+  "canonical_type": "vendor",
+  "slug": "kubernetes",
+  "vendor_id": "kubernetes",
+  "name": "Kubernetes",
+  "icon": "logos:kubernetes",
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "kubernetes",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "kubernetes",
+      "confidence": "curated"
+    }
+  ]
+}
