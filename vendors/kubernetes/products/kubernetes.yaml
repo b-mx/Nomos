@@ -1,0 +1,18 @@
+id: kubernetes
+vendor_id: kubernetes
+name: Kubernetes
+type: software
+tags: [orchestration, container-runtime]
+icon: i-logos-kubernetes
+aliases:
+  - source: nvd_cpe
+    value: kubernetes
+    confidence: curated
+  - source: endoflife
+    value: kubernetes
+    confidence: curated
+services:
+  - protocol: tcp
+    port: 6443
+    name: kube-apiserver
+    default: true

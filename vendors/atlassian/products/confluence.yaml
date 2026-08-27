@@ -1,0 +1,18 @@
+id: confluence
+vendor_id: atlassian
+name: Confluence
+type: software
+tags: [collaboration-tool]
+icon: i-logos-atlassian
+aliases:
+  - source: nvd_cpe
+    value: confluence
+    confidence: curated
+  - source: cisa_kev
+    value: "Atlassian Confluence"
+    confidence: curated
+services:
+  - protocol: tcp
+    port: 8090
+    name: http
+    default: true

@@ -1,0 +1,17 @@
+id: log4j
+vendor_id: apache
+name: Apache Log4j
+type: library
+tags: [logging]
+icon: i-logos-apache
+aliases:
+  - source: nvd_cpe
+    value: log4j
+    confidence: curated
+  - source: osv
+    value: "org.apache.logging.log4j:log4j-core"
+    ecosystem: Maven
+    confidence: curated
+  - source: cisa_kev
+    value: "Apache Log4j2"
+    confidence: curated
