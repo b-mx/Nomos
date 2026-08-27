@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-01-01T00:00:00Z",
+  "entries": [
+    {
+      "canonical_type": "vendor",
+      "vendor_id": "acme",
+      "name": "Acme Corp",
+      "icon": null,
+      "aliases": [
+        { "source": "nvd_cpe", "value": "acme", "confidence": "curated" }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "vendor_id": "acme",
+      "product_id": "widget",
+      "name": "Acme Widget",
+      "type": "software",
+      "tags": ["database"],
+      "icon": null,
+      "services": [
+        { "protocol": "tcp", "port": 1234, "name": "widget-proto", "default": true }
+      ],
+      "aliases": [
+        { "source": "nvd_cpe", "value": "widget", "confidence": "curated" }
+      ]
+    }
+  ]
+}
