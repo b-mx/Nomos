@@ -1,0 +1,13 @@
+id: ubuntu
+vendor_id: canonical
+name: Ubuntu
+type: os
+tags: [operating-system]
+icon: i-logos-ubuntu
+aliases:
+  - source: nvd_cpe
+    value: ubuntu_linux
+    confidence: curated
+  - source: endoflife
+    value: ubuntu
+    confidence: curated

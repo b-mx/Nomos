@@ -1,0 +1,7 @@
+id: canonical
+name: Canonical
+icon: i-logos-ubuntu
+aliases:
+  - source: nvd_cpe
+    value: canonical
+    confidence: curated

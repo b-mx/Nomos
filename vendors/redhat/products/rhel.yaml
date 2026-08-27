@@ -1,0 +1,13 @@
+id: rhel
+vendor_id: redhat
+name: Red Hat Enterprise Linux
+type: os
+tags: [operating-system]
+icon: i-logos-redhat-icon
+aliases:
+  - source: nvd_cpe
+    value: enterprise_linux
+    confidence: curated
+  - source: endoflife
+    value: rhel
+    confidence: curated

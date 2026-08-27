@@ -1,0 +1,18 @@
+id: asa
+vendor_id: cisco
+name: Cisco Adaptive Security Appliance (ASA)
+type: appliance
+tags: [firewall, vpn, network-device]
+icon: i-logos-cisco
+aliases:
+  - source: nvd_cpe
+    value: adaptive_security_appliance
+    confidence: curated
+  - source: cisa_kev
+    value: "Cisco Adaptive Security Appliance (ASA)"
+    confidence: curated
+services:
+  - protocol: tcp
+    port: 443
+    name: https-admin
+    default: true

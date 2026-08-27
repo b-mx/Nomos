@@ -1,0 +1,14 @@
+id: pytorch
+vendor_id: pytorch
+name: PyTorch
+type: library
+tags: [ai-ml]
+icon: i-logos-pytorch-icon
+aliases:
+  - source: osv
+    value: pytorch
+    ecosystem: PyPI
+    confidence: curated
+  - source: nvd_cpe
+    value: pytorch
+    confidence: curated
