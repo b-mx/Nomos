@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T06:28:34Z",
+  "generated_at": "2026-08-27T06:48:35Z",
   "entries": [
     {
       "canonical_type": "vendor",
@@ -86,7 +86,13 @@
       "vendor_id": "docker",
       "name": "Docker",
       "icon": "i-logos-docker-icon",
-      "aliases": []
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "docker",
+          "confidence": "curated"
+        }
+      ]
     },
     {
       "canonical_type": "vendor",
@@ -111,7 +117,18 @@
       "vendor_id": "kubernetes",
       "name": "Kubernetes",
       "icon": "i-logos-kubernetes",
-      "aliases": []
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "kubernetes",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "kubernetes",
+          "confidence": "curated"
+        }
+      ]
     },
     {
       "canonical_type": "vendor",
@@ -136,42 +153,103 @@
       "vendor_id": "mysql",
       "name": "MySQL",
       "icon": "i-logos-mysql-icon",
-      "aliases": []
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "mysql",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "mysql",
+          "confidence": "curated"
+        }
+      ]
     },
     {
       "canonical_type": "vendor",
       "vendor_id": "nginx",
       "name": "NGINX",
       "icon": "i-logos-nginx",
-      "aliases": []
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "nginx",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "nginx",
+          "confidence": "curated"
+        }
+      ]
     },
     {
       "canonical_type": "vendor",
       "vendor_id": "openssl",
       "name": "OpenSSL",
       "icon": "i-logos-openssl",
-      "aliases": []
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "openssl",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "openssl",
+          "confidence": "curated"
+        }
+      ]
     },
     {
       "canonical_type": "vendor",
       "vendor_id": "postgresql",
       "name": "PostgreSQL",
       "icon": "i-logos-postgresql",
-      "aliases": []
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "postgresql",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "postgresql",
+          "confidence": "curated"
+        }
+      ]
     },
     {
       "canonical_type": "vendor",
       "vendor_id": "python",
       "name": "Python",
       "icon": "i-logos-python",
-      "aliases": []
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "python",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "python",
+          "confidence": "curated"
+        }
+      ]
     },
     {
       "canonical_type": "vendor",
       "vendor_id": "pytorch",
       "name": "PyTorch",
       "icon": "i-logos-pytorch-icon",
-      "aliases": []
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "pytorch",
+          "confidence": "curated"
+        }
+      ]
     },
     {
       "canonical_type": "vendor",
@@ -196,7 +274,18 @@
       "vendor_id": "redis",
       "name": "Redis",
       "icon": "i-logos-redis",
-      "aliases": []
+      "aliases": [
+        {
+          "source": "nvd_cpe",
+          "value": "redis",
+          "confidence": "curated"
+        },
+        {
+          "source": "endoflife",
+          "value": "redis",
+          "confidence": "curated"
+        }
+      ]
     },
     {
       "canonical_type": "product",
