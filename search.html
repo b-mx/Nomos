@@ -9,14 +9,24 @@
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://api.iconify.design; script-src 'self' 'wasm-unsafe-eval'">
 </head>
 <body>
+  <header class="hero hero-compact">
+    <a href="index.html">
+      <img src="nomos-banner.svg" alt="Nomos — one canonical identity, every source" class="hero-banner" />
+    </a>
+  </header>
   <main>
-    <a href="index.html" class="back-link">Nomos</a>
-    <h1>Search</h1>
+    <div class="top-row">
+      <h1>Search</h1>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle color theme">
+        <img id="theme-toggle-icon" src="https://api.iconify.design/octicon/device-desktop-16.svg" alt="" width="16" height="16" />
+      </button>
+    </div>
     <p>Search canonical vendors and products, and every source alias for each.</p>
     <input id="search-box" type="search" placeholder="Search e.g. windows_server, Cisco, pytorch..." autofocus />
     <div id="status"></div>
     <ul id="results"></ul>
   </main>
+  <script src="theme.js"></script>
   <script src="search.js"></script>
 </body>
 </html>

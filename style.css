@@ -26,6 +26,26 @@
     --icon-invert: 1;
   }
 }
+/* Manual theme override (site/theme.js) — wins over prefers-color-scheme
+   in both directions once a visitor picks something other than "system". */
+:root[data-theme="light"] {
+  --fg: #1a1a1a;
+  --bg: #ffffff;
+  --muted: #666666;
+  --border: #dddddd;
+  --link: #0969da;
+  --link-hover: #0550ae;
+  --icon-invert: 0;
+}
+:root[data-theme="dark"] {
+  --fg: #eaeaea;
+  --bg: #121212;
+  --muted: #999999;
+  --border: #333333;
+  --link: #58a6ff;
+  --link-hover: #79c0ff;
+  --icon-invert: 1;
+}
 * { box-sizing: border-box; }
 body {
   margin: 0;
@@ -44,11 +64,37 @@ main {
   margin: 0 auto;
   padding: 2rem 1rem;
 }
-.back-link {
-  display: inline-block;
-  margin-bottom: 1rem;
-  font-weight: 600;
-  text-decoration: none;
+.top-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+.top-row h1 {
+  margin: 0;
+}
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  cursor: pointer;
+}
+.theme-toggle img {
+  filter: invert(var(--icon-invert));
+}
+.hero .theme-toggle {
+  border-color: #30363d;
+  background: transparent;
+}
+.hero .theme-toggle img {
+  filter: invert(1);
 }
 #search-box {
   width: 100%;
@@ -97,15 +143,33 @@ main {
 .chip-mono {
   font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
 }
-.aliases dt {
-  font-weight: 600;
+.aliases {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 0.75rem;
+  row-gap: 0.25rem;
+  align-items: baseline;
   margin-top: 0.5rem;
 }
+.aliases dt {
+  margin: 0;
+  font-weight: 600;
+  font-size: 0.85rem;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+}
 .aliases dd {
-  margin: 0.15rem 0 0.15rem 1rem;
+  margin: 0;
   font-size: 0.9rem;
   color: var(--muted);
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  overflow-wrap: anywhere;
 }
+/* Source-accent color coding — the core brand motif: color always means
+   "which feed said this", applied to every alias's source label. */
+.aliases dt.source-nvd_cpe { color: var(--source-nvd-cpe); }
+.aliases dt.source-endoflife { color: var(--source-endoflife); }
+.aliases dt.source-cisa_kev { color: var(--source-cisa-kev); }
+.aliases dt.source-osv { color: var(--source-osv); }
 
 /* Vendor-grouped search results: vendor on the left third, its matching
    products on the right two thirds — mirrors vendors/<id>/products/*.yaml. */
@@ -171,6 +235,13 @@ main {
   display: block;
   width: 100%;
   height: auto;
+}
+.hero-compact {
+  padding: 1rem;
+}
+.hero-compact .hero-banner {
+  max-width: 480px;
+  margin: 0 auto;
 }
 .hero-content {
   max-width: 720px;

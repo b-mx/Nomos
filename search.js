@@ -85,6 +85,7 @@ function buildAliasList(aliases) {
   for (const [source, list] of Object.entries(aliasesBySource)) {
     const dt = document.createElement("dt");
     dt.textContent = source;
+    dt.className = `source-${source}`;
     dl.appendChild(dt);
     const dd = document.createElement("dd");
     dd.textContent = list
