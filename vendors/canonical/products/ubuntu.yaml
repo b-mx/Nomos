@@ -3,7 +3,7 @@ vendor_id: canonical
 name: Ubuntu
 type: os
 tags: [operating-system]
-icon: i-logos-ubuntu
+icon: logos:ubuntu
 aliases:
   - source: nvd_cpe
     value: ubuntu_linux

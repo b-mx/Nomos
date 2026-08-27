@@ -3,7 +3,7 @@ vendor_id: apache
 name: Apache Log4j
 type: library
 tags: [logging]
-icon: i-logos-apache
+icon: logos:apache
 aliases:
   - source: nvd_cpe
     value: log4j

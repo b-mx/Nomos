@@ -1,5 +1,6 @@
 id: openssl
 name: OpenSSL
+icon: thesvg-color:openssl
 aliases:
   - source: nvd_cpe
     value: openssl

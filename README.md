@@ -8,6 +8,11 @@ Nomos is a community-maintained mapping from vendor and product names, as
 they appear across disparate security data sources, to a single canonical
 identity per vendor and per product.
 
+*Nomos* is an ancient Greek word that means law, custom, or convention
+governing human behavior — fitting for a project that exists to establish
+one agreed convention for naming vendors and products across otherwise
+inconsistent sources.
+
 ## Why
 
 Every security data source names vendors and products differently: NVD

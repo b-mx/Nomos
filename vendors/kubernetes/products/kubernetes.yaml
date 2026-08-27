@@ -3,7 +3,7 @@ vendor_id: kubernetes
 name: Kubernetes
 type: software
 tags: [orchestration, container-runtime]
-icon: i-logos-kubernetes
+icon: logos:kubernetes
 aliases:
   - source: nvd_cpe
     value: kubernetes

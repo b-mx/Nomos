@@ -3,7 +3,7 @@ vendor_id: docker
 name: Docker Engine
 type: software
 tags: [container-runtime]
-icon: i-logos-docker-icon
+icon: logos:docker-icon
 aliases:
   - source: nvd_cpe
     value: docker

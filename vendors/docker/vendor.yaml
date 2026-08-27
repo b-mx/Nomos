@@ -1,6 +1,6 @@
 id: docker
 name: Docker
-icon: i-logos-docker-icon
+icon: logos:docker-icon
 aliases:
   - source: nvd_cpe
     value: docker
