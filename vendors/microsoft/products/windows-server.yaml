@@ -3,7 +3,7 @@ vendor_id: microsoft
 name: Windows Server
 type: os
 tags: [operating-system]
-icon: i-logos-microsoft-icon
+icon: logos:microsoft-icon
 aliases:
   - source: nvd_cpe
     value: windows_server

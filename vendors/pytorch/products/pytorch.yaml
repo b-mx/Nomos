@@ -3,7 +3,7 @@ vendor_id: pytorch
 name: PyTorch
 type: library
 tags: [ai-ml]
-icon: i-logos-pytorch-icon
+icon: logos:pytorch-icon
 aliases:
   - source: osv
     value: pytorch

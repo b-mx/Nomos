@@ -3,7 +3,7 @@ vendor_id: microsoft
 name: Microsoft Exchange Server
 type: software
 tags: [collaboration-tool]
-icon: i-logos-microsoft-icon
+icon: logos:microsoft-icon
 aliases:
   - source: nvd_cpe
     value: exchange_server

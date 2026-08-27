@@ -15,12 +15,11 @@ async function loadIndex() {
 }
 
 function iconifyUrl(icon) {
-  if (!icon || !icon.startsWith("i-")) return null;
-  const rest = icon.slice(2);
-  const sep = rest.indexOf("-");
+  if (!icon) return null;
+  const sep = icon.indexOf(":");
   if (sep === -1) return null;
-  const collection = rest.slice(0, sep);
-  const name = rest.slice(sep + 1);
+  const collection = icon.slice(0, sep);
+  const name = icon.slice(sep + 1);
   return `https://api.iconify.design/${collection}/${name}.svg`;
 }
 

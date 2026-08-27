@@ -1,6 +1,6 @@
 id: redis
 name: Redis
-icon: i-logos-redis
+icon: logos:redis
 aliases:
   - source: nvd_cpe
     value: redis
