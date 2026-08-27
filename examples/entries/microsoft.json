@@ -1,0 +1,19 @@
+{
+  "canonical_type": "vendor",
+  "slug": "microsoft",
+  "vendor_id": "microsoft",
+  "name": "Microsoft",
+  "icon": "logos:microsoft-icon",
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "microsoft",
+      "confidence": "curated"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Microsoft Corporation",
+      "confidence": "curated"
+    }
+  ]
+}

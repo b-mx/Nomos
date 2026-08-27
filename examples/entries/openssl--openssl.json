@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "openssl--openssl",
+  "vendor_id": "openssl",
+  "product_id": "openssl",
+  "name": "OpenSSL",
+  "type": "library",
+  "tags": [
+    "cryptography"
+  ],
+  "icon": "thesvg-color:openssl",
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "openssl",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "openssl",
+      "confidence": "curated"
+    }
+  ]
+}

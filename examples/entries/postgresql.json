@@ -1,0 +1,19 @@
+{
+  "canonical_type": "vendor",
+  "slug": "postgresql",
+  "vendor_id": "postgresql",
+  "name": "PostgreSQL",
+  "icon": "logos:postgresql",
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "postgresql",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "postgresql",
+      "confidence": "curated"
+    }
+  ]
+}

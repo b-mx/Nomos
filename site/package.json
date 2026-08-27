@@ -1,0 +1,12 @@
+{
+  "name": "nomos-site-build",
+  "private": true,
+  "type": "module",
+  "description": "Build-time tooling for the Nomos search site (Pagefind indexing). Not part of the published site itself.",
+  "scripts": {
+    "build-pagefind": "node build-pagefind.mjs"
+  },
+  "dependencies": {
+    "pagefind": "1.5.2"
+  }
+}

@@ -1,18 +1,12 @@
-const INDEX_URL = "index/aliases.json";
+// Search is powered by Pagefind (chunked WASM index, fetches only the
+// shards a query touches) instead of loading the whole dataset up front —
+// this is what keeps page weight flat as the vendor/product count grows.
+// Each search result only carries a `url`; that's a pointer to the small
+// per-entry detail file build_index.py writes under index/entries/<slug>.json,
+// which is fetched on demand for the entries actually shown.
 
-async function loadIndex() {
-  const statusEl = document.getElementById("status");
-  try {
-    const response = await fetch(INDEX_URL);
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const data = await response.json();
-    statusEl.textContent = `Loaded ${data.entries.length} entries (generated ${data.generated_at}).`;
-    return data.entries;
-  } catch (err) {
-    statusEl.textContent = `Failed to load index: ${err.message}`;
-    return [];
-  }
-}
+let pagefind = null;
+let latestRequestId = 0;
 
 function iconifyUrl(icon) {
   if (!icon) return null;
@@ -23,18 +17,20 @@ function iconifyUrl(icon) {
   return `https://api.iconify.design/${collection}/${name}.svg`;
 }
 
-function buildSearchRecords(entries) {
-  return entries.map((entry) => ({
-    entry,
-    name: entry.name,
-    aliasValues: (entry.aliases || []).map((a) => a.value),
-  }));
+async function fetchEntry(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+    return await response.json();
+  } catch {
+    return null;
+  }
 }
 
-function renderResults(records) {
+function renderResults(entries) {
   const list = document.getElementById("results");
   list.innerHTML = "";
-  for (const { entry } of records) {
+  for (const entry of entries) {
     const li = document.createElement("li");
     li.className = "result";
 
@@ -110,27 +106,54 @@ function renderResults(records) {
   }
 }
 
+async function runSearch(query) {
+  const requestId = ++latestRequestId;
+  const statusEl = document.getElementById("status");
+
+  if (!query) {
+    renderResults([]);
+    statusEl.textContent = "Type to search vendors and products.";
+    return;
+  }
+
+  statusEl.textContent = "Searching…";
+  const search = await pagefind.search(query);
+  if (requestId !== latestRequestId) return;
+
+  const top = search.results.slice(0, 30);
+  const fragments = await Promise.all(top.map((r) => r.data()));
+  if (requestId !== latestRequestId) return;
+
+  const entries = (await Promise.all(fragments.map((f) => fetchEntry(f.url)))).filter(Boolean);
+  if (requestId !== latestRequestId) return;
+
+  const total = search.results.length;
+  statusEl.textContent = `${total} match${total === 1 ? "" : "es"} for "${query}"${
+    total > entries.length ? ` (showing ${entries.length})` : ""
+  }.`;
+  renderResults(entries);
+}
+
 async function main() {
-  const entries = await loadIndex();
-  const records = buildSearchRecords(entries);
+  const statusEl = document.getElementById("status");
+  statusEl.textContent = "Loading search index…";
 
-  const fuse = new Fuse(records, {
-    keys: ["name", "aliasValues"],
-    threshold: 0.35,
-    ignoreLocation: true,
-  });
+  try {
+    pagefind = await import("./pagefind/pagefind.js");
+    await pagefind.init();
+  } catch (err) {
+    statusEl.textContent = `Failed to load search index: ${err.message}`;
+    return;
+  }
 
-  renderResults(records.slice(0, 20));
+  statusEl.textContent = "Type to search vendors and products.";
 
   const searchBox = document.getElementById("search-box");
+  let debounceTimer = null;
   searchBox.addEventListener("input", () => {
+    clearTimeout(debounceTimer);
     const query = searchBox.value.trim();
-    if (!query) {
-      renderResults(records.slice(0, 20));
-      return;
-    }
-    const results = fuse.search(query).map((r) => r.item);
-    renderResults(results.slice(0, 30));
+    debounceTimer = setTimeout(() => runSearch(query), 150);
   });
 }
 

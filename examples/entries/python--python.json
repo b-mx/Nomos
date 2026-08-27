@@ -1,0 +1,26 @@
+{
+  "canonical_type": "product",
+  "slug": "python--python",
+  "vendor_id": "python",
+  "product_id": "python",
+  "name": "Python",
+  "type": "software",
+  "tags": [
+    "programming-language",
+    "runtime"
+  ],
+  "icon": "logos:python",
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd_cpe",
+      "value": "python",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "python",
+      "confidence": "curated"
+    }
+  ]
+}

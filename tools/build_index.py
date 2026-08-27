@@ -1,4 +1,9 @@
-"""Flatten vendors/ into index/aliases.json and per-source split files."""
+"""Flatten vendors/ into index/aliases.json and per-source split files.
+
+Also writes one small JSON file per entry under index/entries/<slug>.json —
+the search site fetches these individually instead of loading the full
+flattened index, so page weight stays flat as the vendor/product count grows.
+"""
 
 from __future__ import annotations
 
@@ -16,6 +21,7 @@ def build_entries(vendors_dir: Path = REPO_ROOT / "vendors") -> list[dict[str, A
         entries.append(
             {
                 "canonical_type": "vendor",
+                "slug": vendor.data["id"],
                 "vendor_id": vendor.data["id"],
                 "name": vendor.data["name"],
                 "icon": vendor.data.get("icon"),
@@ -26,6 +32,7 @@ def build_entries(vendors_dir: Path = REPO_ROOT / "vendors") -> list[dict[str, A
         entries.append(
             {
                 "canonical_type": "product",
+                "slug": f"{product.vendor_id}--{product.data['id']}",
                 "vendor_id": product.vendor_id,
                 "product_id": product.data["id"],
                 "name": product.data["name"],
@@ -62,6 +69,13 @@ def build_by_source(entries: list[dict[str, Any]]) -> dict[str, list[dict[str, A
     return by_source
 
 
+def write_entry_files(output_dir: Path, entries: list[dict[str, Any]]) -> None:
+    entries_dir = output_dir / "entries"
+    entries_dir.mkdir(parents=True, exist_ok=True)
+    for entry in entries:
+        (entries_dir / f"{entry['slug']}.json").write_text(json.dumps(entry, indent=2) + "\n")
+
+
 def write_index(
     output_dir: Path, generated_at: str, vendors_dir: Path = REPO_ROOT / "vendors"
 ) -> None:
@@ -72,6 +86,7 @@ def write_index(
     by_source_dir.mkdir(parents=True, exist_ok=True)
     for source, items in build_by_source(index["entries"]).items():
         (by_source_dir / f"{source}.json").write_text(json.dumps(items, indent=2) + "\n")
+    write_entry_files(output_dir, index["entries"])
 
 
 def main() -> int:

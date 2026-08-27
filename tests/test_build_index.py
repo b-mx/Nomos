@@ -31,3 +31,19 @@ def test_write_index_creates_expected_files(tmp_path):
     content = json.loads((tmp_path / "aliases.json").read_text())
     assert content["generated_at"] == "2026-01-01T00:00:00Z"
     assert len(content["entries"]) == 2
+
+
+def test_write_index_writes_one_file_per_entry(tmp_path):
+    from tools.build_index import write_index
+
+    write_index(tmp_path, generated_at="2026-01-01T00:00:00Z", vendors_dir=VALID_TREE)
+    vendor_file = tmp_path / "entries" / "acme.json"
+    product_file = tmp_path / "entries" / "acme--widget.json"
+    assert vendor_file.exists()
+    assert product_file.exists()
+    vendor_entry = json.loads(vendor_file.read_text())
+    assert vendor_entry["canonical_type"] == "vendor"
+    assert vendor_entry["slug"] == "acme"
+    product_entry = json.loads(product_file.read_text())
+    assert product_entry["canonical_type"] == "product"
+    assert product_entry["slug"] == "acme--widget"
