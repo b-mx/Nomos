@@ -80,6 +80,24 @@ uv run mypy --strict tools
 `tools/validate.py` reports every violation it finds in one pass, not
 just the first — read the whole output before fixing.
 
+## Testing the search site locally
+
+The search site (`site/`) is powered by [Pagefind](https://pagefind.app),
+built at publish time from the generated index — there's no committed
+search index to test against, so build one from the example data:
+
+```bash
+uv run tools/build_index.py --output-dir /tmp/nomos-site/index --generated-at 2026-01-01T00:00:00Z
+cd site && npm ci && cd ..
+node site/build-pagefind.mjs --index /tmp/nomos-site/index/aliases.json --output /tmp/nomos-site/pagefind
+cp site/index.html site/style.css site/search.js /tmp/nomos-site/
+cd /tmp/nomos-site && python3 -m http.server 8000
+```
+
+Then open `http://localhost:8000/`. Use `examples/aliases.json` instead of
+a fresh `tools/build_index.py` run if you just want to test against the
+seed data without regenerating it.
+
 ## What `suggest_match.py` comments mean
 
 On PRs touching `vendors/**`, CI runs a fuzzy match of any new alias value

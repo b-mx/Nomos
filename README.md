@@ -52,6 +52,9 @@ On every merge to `main`, the full mapping is published to GitHub Pages:
   aliases.
 - `index/by-source/<source>.json` — just the aliases relevant to one
   source, for consumers that only care about one feed.
+- `index/entries/<slug>.json` — one small file per vendor/product (used by
+  the search site, which fetches individual entries instead of the whole
+  index — this is what keeps the site fast as the dataset grows).
 
 A worked example of the shape (built from this repo's seed data) is
 committed at `examples/aliases.json` so you can see the format without a
