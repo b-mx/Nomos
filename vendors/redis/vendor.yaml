@@ -1,4 +1,10 @@
 id: redis
 name: Redis
 icon: i-logos-redis
-aliases: []
+aliases:
+  - source: nvd_cpe
+    value: redis
+    confidence: curated
+  - source: endoflife
+    value: redis
+    confidence: curated

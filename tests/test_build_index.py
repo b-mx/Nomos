@@ -20,3 +20,14 @@ def test_build_by_source_splits_correctly():
     by_source = build_by_source(entries)
     assert set(by_source.keys()) == {"nvd_cpe"}
     assert len(by_source["nvd_cpe"]) == 2  # vendor acme + product widget
+
+
+def test_write_index_creates_expected_files(tmp_path):
+    from tools.build_index import write_index
+
+    write_index(tmp_path, generated_at="2026-01-01T00:00:00Z", vendors_dir=VALID_TREE)
+    assert (tmp_path / "aliases.json").exists()
+    assert (tmp_path / "by-source" / "nvd_cpe.json").exists()
+    content = json.loads((tmp_path / "aliases.json").read_text())
+    assert content["generated_at"] == "2026-01-01T00:00:00Z"
+    assert len(content["entries"]) == 2

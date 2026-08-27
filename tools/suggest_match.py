@@ -103,10 +103,14 @@ def run_diff_mode(base_ref: str, head_ref: str, threshold: int) -> str:
     comments: list[str] = []
     for path in changed_vendor_files(base_ref, head_ref):
         data = load_yaml_at_ref(head_ref, path)
+        if not isinstance(data, dict):
+            continue
         canonical_id = data.get("id", "")
         if "vendor_id" in data:
             canonical_id = f"{data['vendor_id']}/{canonical_id}"
         for alias in data.get("aliases", []):
+            if not isinstance(alias, dict) or "value" not in alias:
+                continue
             matches = find_close_matches(alias["value"], canonical_id, full_index, threshold)
             if matches:
                 comments.append(format_comment(alias["value"], matches))

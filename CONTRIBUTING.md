@@ -29,14 +29,12 @@
        confidence: curated
    ```
 
-4. If the vendor's alias value for a given source would be *identical* to
-   the product's value for that same source (common for single-product
-   vendors, e.g. `nginx`/`nginx`), don't add it at both levels — the
-   `(source, value)` pair must be globally unique across the whole repo,
-   vendor and product entries included. Put it on the product only, and
-   leave the vendor's `aliases` as `[]` if nothing else distinguishes it.
-   This is why self-vendored entries (see README) usually have an empty
-   vendor-level alias list.
+4. A vendor and its product MAY share the same `(source, value)` pair — e.g.
+   NGINX's vendor and product both legitimately claim `nvd_cpe: nginx`, since
+   CPE's vendor and product fields are separate assertions even when the
+   strings match. The global uniqueness rule is scoped per canonical type: two
+   vendors (or two products) can never share a `(source, value)` pair, but a
+   vendor and its own product can.
 
 ## Self-vendored products
 

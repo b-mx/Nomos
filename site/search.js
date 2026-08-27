@@ -34,31 +34,51 @@ function renderResults(records) {
         ? `${entry.name} (${entry.vendor_id}/${entry.product_id})`
         : `${entry.name} (${entry.vendor_id})`;
 
-    const tagsHtml = (entry.tags || []).map((t) => `<span>${t}</span>`).join("");
-    const servicesHtml = (entry.services || [])
-      .map((s) => `<span>${s.name} ${s.protocol}/${s.port}</span>`)
-      .join("");
+    const h2 = document.createElement("h2");
+    h2.textContent = title;
+    li.appendChild(h2);
 
+    const meta = document.createElement("div");
+    meta.className = "meta";
+    meta.textContent = `${entry.canonical_type}${entry.type ? ` · ${entry.type}` : ""}`;
+    li.appendChild(meta);
+
+    const tagsDiv = document.createElement("div");
+    tagsDiv.className = "tags";
+    for (const t of entry.tags || []) {
+      const span = document.createElement("span");
+      span.textContent = t;
+      tagsDiv.appendChild(span);
+    }
+    li.appendChild(tagsDiv);
+
+    const servicesDiv = document.createElement("div");
+    servicesDiv.className = "services";
+    for (const s of entry.services || []) {
+      const span = document.createElement("span");
+      span.textContent = `${s.name} ${s.protocol}/${s.port}`;
+      servicesDiv.appendChild(span);
+    }
+    li.appendChild(servicesDiv);
+
+    const dl = document.createElement("dl");
+    dl.className = "aliases";
     const aliasesBySource = {};
     for (const alias of entry.aliases || []) {
       (aliasesBySource[alias.source] ||= []).push(alias);
     }
-    const aliasesHtml = Object.entries(aliasesBySource)
-      .map(([source, aliases]) => {
-        const values = aliases
-          .map((a) => `${a.value}${a.ecosystem ? ` (${a.ecosystem})` : ""} — ${a.confidence}`)
-          .join(", ");
-        return `<dt>${source}</dt><dd>${values}</dd>`;
-      })
-      .join("");
+    for (const [source, aliases] of Object.entries(aliasesBySource)) {
+      const dt = document.createElement("dt");
+      dt.textContent = source;
+      dl.appendChild(dt);
+      const dd = document.createElement("dd");
+      dd.textContent = aliases
+        .map((a) => `${a.value}${a.ecosystem ? ` (${a.ecosystem})` : ""} — ${a.confidence}`)
+        .join(", ");
+      dl.appendChild(dd);
+    }
+    li.appendChild(dl);
 
-    li.innerHTML = `
-      <h2>${title}</h2>
-      <div class="meta">${entry.canonical_type}${entry.type ? ` · ${entry.type}` : ""}</div>
-      <div class="tags">${tagsHtml}</div>
-      <div class="services">${servicesHtml}</div>
-      <dl class="aliases">${aliasesHtml}</dl>
-    `;
     list.appendChild(li);
   }
 }

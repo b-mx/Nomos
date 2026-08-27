@@ -1,4 +1,10 @@
 id: openssl
 name: OpenSSL
 icon: i-logos-openssl
-aliases: []
+aliases:
+  - source: nvd_cpe
+    value: openssl
+    confidence: curated
+  - source: endoflife
+    value: openssl
+    confidence: curated
