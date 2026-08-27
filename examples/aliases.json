@@ -54,7 +54,7 @@
       "canonical_type": "vendor",
       "vendor_id": "cisco",
       "name": "Cisco",
-      "icon": "i-logos-cisco",
+      "icon": null,
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -98,7 +98,7 @@
       "canonical_type": "vendor",
       "vendor_id": "fortinet",
       "name": "Fortinet",
-      "icon": "i-logos-fortinet",
+      "icon": null,
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -188,7 +188,7 @@
       "canonical_type": "vendor",
       "vendor_id": "openssl",
       "name": "OpenSSL",
-      "icon": "i-logos-openssl",
+      "icon": null,
       "aliases": [
         {
           "source": "nvd_cpe",
@@ -383,7 +383,7 @@
         "vpn",
         "network-device"
       ],
-      "icon": "i-logos-cisco",
+      "icon": null,
       "services": [
         {
           "protocol": "tcp",
@@ -414,7 +414,7 @@
       "tags": [
         "network-device"
       ],
-      "icon": "i-logos-cisco",
+      "icon": null,
       "services": [],
       "aliases": [
         {
@@ -483,7 +483,7 @@
         "vpn",
         "network-device"
       ],
-      "icon": "i-logos-fortinet",
+      "icon": null,
       "services": [],
       "aliases": [
         {
@@ -681,7 +681,7 @@
       "tags": [
         "cryptography"
       ],
-      "icon": "i-logos-openssl",
+      "icon": null,
       "services": [],
       "aliases": [
         {

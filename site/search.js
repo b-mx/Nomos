@@ -14,6 +14,16 @@ async function loadIndex() {
   }
 }
 
+function iconifyUrl(icon) {
+  if (!icon || !icon.startsWith("i-")) return null;
+  const rest = icon.slice(2);
+  const sep = rest.indexOf("-");
+  if (sep === -1) return null;
+  const collection = rest.slice(0, sep);
+  const name = rest.slice(sep + 1);
+  return `https://api.iconify.design/${collection}/${name}.svg`;
+}
+
 function buildSearchRecords(entries) {
   return entries.map((entry) => ({
     entry,
@@ -34,9 +44,27 @@ function renderResults(records) {
         ? `${entry.name} (${entry.vendor_id}/${entry.product_id})`
         : `${entry.name} (${entry.vendor_id})`;
 
+    const header = document.createElement("div");
+    header.className = "result-header";
+
+    const iconUrl = iconifyUrl(entry.icon);
+    if (iconUrl) {
+      const img = document.createElement("img");
+      img.className = "icon";
+      img.src = iconUrl;
+      img.alt = "";
+      img.width = 24;
+      img.height = 24;
+      img.loading = "lazy";
+      img.addEventListener("error", () => img.remove());
+      header.appendChild(img);
+    }
+
     const h2 = document.createElement("h2");
     h2.textContent = title;
-    li.appendChild(h2);
+    header.appendChild(h2);
+
+    li.appendChild(header);
 
     const meta = document.createElement("div");
     meta.className = "meta";
