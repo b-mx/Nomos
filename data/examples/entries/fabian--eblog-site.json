@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fabian--eblog-site",
+  "vendor_id": "fabian",
+  "product_id": "eblog-site",
+  "name": "Eblog Site",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eblog_site",
+      "confidence": "auto"
+    }
+  ]
+}

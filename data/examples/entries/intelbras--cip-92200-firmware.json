@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intelbras--cip-92200-firmware",
+  "vendor_id": "intelbras",
+  "product_id": "cip-92200-firmware",
+  "name": "Cip 92200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cip_92200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

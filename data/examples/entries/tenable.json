@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "tenable",
+  "vendor_id": "tenable",
+  "name": "Tenable",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tenable",
+      "confidence": "auto"
+    }
+  ]
+}

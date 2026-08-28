@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "grafana--pyroscope",
+  "vendor_id": "grafana",
+  "product_id": "pyroscope",
+  "name": "Pyroscope",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyroscope",
+      "confidence": "auto"
+    }
+  ]
+}

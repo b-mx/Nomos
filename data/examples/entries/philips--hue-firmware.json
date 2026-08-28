@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--hue-firmware",
+  "vendor_id": "philips",
+  "product_id": "hue-firmware",
+  "name": "Hue Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hue_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

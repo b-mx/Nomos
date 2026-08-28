@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--oncommand-performance-manager",
+  "vendor_id": "netapp",
+  "product_id": "oncommand-performance-manager",
+  "name": "Oncommand Performance Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "oncommand_performance_manager",
+      "confidence": "auto"
+    }
+  ]
+}

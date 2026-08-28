@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--fusionhub",
+  "vendor_id": "peplink",
+  "product_id": "fusionhub",
+  "name": "Fusionhub",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fusionhub",
+      "confidence": "auto"
+    }
+  ]
+}

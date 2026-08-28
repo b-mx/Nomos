@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp32-pico-v3-zero-firmware",
+  "vendor_id": "espressif",
+  "product_id": "esp32-pico-v3-zero-firmware",
+  "name": "Esp32-Pico-V3-Zero Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp32-pico-v3-zero_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

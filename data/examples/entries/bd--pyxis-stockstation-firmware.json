@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--pyxis-stockstation-firmware",
+  "vendor_id": "bd",
+  "product_id": "pyxis-stockstation-firmware",
+  "name": "Pyxis Stockstation Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyxis_stockstation_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

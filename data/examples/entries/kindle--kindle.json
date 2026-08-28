@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kindle--kindle",
+  "vendor_id": "kindle",
+  "product_id": "kindle",
+  "name": "Amazon Kindle",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "kindle",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x12sth-sys",
+  "vendor_id": "supermicro",
+  "product_id": "x12sth-sys",
+  "name": "X12Sth-Sys",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x12sth-sys",
+      "confidence": "auto"
+    }
+  ]
+}

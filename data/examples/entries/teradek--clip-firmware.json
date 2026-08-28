@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teradek--clip-firmware",
+  "vendor_id": "teradek",
+  "product_id": "clip-firmware",
+  "name": "Clip Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "clip_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

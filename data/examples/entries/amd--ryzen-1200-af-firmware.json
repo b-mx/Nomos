@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-1200-af-firmware",
+  "vendor_id": "amd",
+  "product_id": "ryzen-1200-af-firmware",
+  "name": "Ryzen 1200 (Af) Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_1200_(af)_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

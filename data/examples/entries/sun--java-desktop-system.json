@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--java-desktop-system",
+  "vendor_id": "sun",
+  "product_id": "java-desktop-system",
+  "name": "Java Desktop System",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "java_desktop_system",
+      "confidence": "auto"
+    }
+  ]
+}

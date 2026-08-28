@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--spring-security",
+  "vendor_id": "pivotal-software",
+  "product_id": "spring-security",
+  "name": "Spring Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "spring_security",
+      "confidence": "auto"
+    }
+  ]
+}

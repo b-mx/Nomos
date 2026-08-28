@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "owasp--csrfguard",
+  "vendor_id": "owasp",
+  "product_id": "csrfguard",
+  "name": "Csrfguard",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "csrfguard",
+      "confidence": "auto"
+    }
+  ]
+}

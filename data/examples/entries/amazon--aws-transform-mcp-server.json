@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-transform-mcp-server",
+  "vendor_id": "amazon",
+  "product_id": "aws-transform-mcp-server",
+  "name": "Aws Transform Mcp Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws_transform_mcp_server",
+      "confidence": "auto"
+    }
+  ]
+}

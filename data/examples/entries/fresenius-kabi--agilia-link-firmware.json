@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fresenius-kabi--agilia-link-firmware",
+  "vendor_id": "fresenius-kabi",
+  "product_id": "agilia-link-firmware",
+  "name": "Agilia Link+ Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "agilia_link+_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--php-buildpack",
+  "vendor_id": "cloudfoundry",
+  "product_id": "php-buildpack",
+  "name": "Php-Buildpack",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "php-buildpack",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--backbox-h4-09-firmware",
+  "vendor_id": "hpe",
+  "product_id": "backbox-h4-09-firmware",
+  "name": "Backbox H4.09 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "backbox_h4.09_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

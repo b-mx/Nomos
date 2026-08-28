@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--office",
+  "vendor_id": "synology",
+  "product_id": "office",
+  "name": "Office",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "office",
+      "confidence": "auto"
+    }
+  ]
+}

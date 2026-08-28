@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--performance-center",
+  "vendor_id": "hp",
+  "product_id": "performance-center",
+  "name": "Performance Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "performance_center",
+      "confidence": "auto"
+    }
+  ]
+}

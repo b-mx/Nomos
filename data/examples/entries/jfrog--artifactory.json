@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "jfrog--artifactory",
+  "vendor_id": "jfrog",
+  "product_id": "artifactory",
+  "name": "Artifactory",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "artifactory",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "artifactory",
+      "confidence": "auto"
+    }
+  ]
+}

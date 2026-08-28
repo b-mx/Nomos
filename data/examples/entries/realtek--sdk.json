@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "realtek--sdk",
+  "vendor_id": "realtek",
+  "product_id": "sdk",
+  "name": "SDK",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SDK",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "clamav",
+  "vendor_id": "clamav",
+  "name": "Clamav",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "clamav",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--suse-linux-enterprise-real-time-extension",
+  "vendor_id": "novell",
+  "product_id": "suse-linux-enterprise-real-time-extension",
+  "name": "Suse Linux Enterprise Real Time Extension",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_linux_enterprise_real_time_extension",
+      "confidence": "auto"
+    }
+  ]
+}

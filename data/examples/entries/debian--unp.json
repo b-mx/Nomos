@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--unp",
+  "vendor_id": "debian",
+  "product_id": "unp",
+  "name": "Unp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unp",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--proliant-bl660c-gen9-server",
+  "vendor_id": "hpe",
+  "product_id": "proliant-bl660c-gen9-server",
+  "name": "Proliant Bl660C Gen9 Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_bl660c_gen9_server",
+      "confidence": "auto"
+    }
+  ]
+}

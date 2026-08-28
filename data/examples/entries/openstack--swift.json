@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--swift",
+  "vendor_id": "openstack",
+  "product_id": "swift",
+  "name": "Swift",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "swift",
+      "confidence": "auto"
+    }
+  ]
+}

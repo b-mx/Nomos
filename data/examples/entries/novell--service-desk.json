@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--service-desk",
+  "vendor_id": "novell",
+  "product_id": "service-desk",
+  "name": "Service Desk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_desk",
+      "confidence": "auto"
+    }
+  ]
+}

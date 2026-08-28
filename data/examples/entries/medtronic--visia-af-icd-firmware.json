@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--visia-af-icd-firmware",
+  "vendor_id": "medtronic",
+  "product_id": "visia-af-icd-firmware",
+  "name": "Visia Af Icd Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "visia_af_icd_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

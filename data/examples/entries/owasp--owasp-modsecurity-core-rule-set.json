@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "owasp--owasp-modsecurity-core-rule-set",
+  "vendor_id": "owasp",
+  "product_id": "owasp-modsecurity-core-rule-set",
+  "name": "Owasp Modsecurity Core Rule Set",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "owasp_modsecurity_core_rule_set",
+      "confidence": "auto"
+    }
+  ]
+}

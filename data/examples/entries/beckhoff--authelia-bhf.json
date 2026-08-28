@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "beckhoff--authelia-bhf",
+  "vendor_id": "beckhoff",
+  "product_id": "authelia-bhf",
+  "name": "Authelia-Bhf",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "authelia-bhf",
+      "confidence": "auto"
+    }
+  ]
+}

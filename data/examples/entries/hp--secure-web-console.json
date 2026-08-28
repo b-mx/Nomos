@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--secure-web-console",
+  "vendor_id": "hp",
+  "product_id": "secure-web-console",
+  "name": "Secure Web Console",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "secure_web_console",
+      "confidence": "auto"
+    }
+  ]
+}

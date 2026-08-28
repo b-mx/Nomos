@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "grafana--grafana-operator",
+  "vendor_id": "grafana",
+  "product_id": "grafana-operator",
+  "name": "Grafana Operator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "grafana_operator",
+      "confidence": "auto"
+    }
+  ]
+}

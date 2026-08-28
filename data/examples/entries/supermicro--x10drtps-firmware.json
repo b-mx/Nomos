@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x10drtps-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x10drtps-firmware",
+  "name": "X10Drtps Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x10drtps_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

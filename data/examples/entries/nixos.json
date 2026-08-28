@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "nixos",
+  "vendor_id": "nixos",
+  "name": "Nixos",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nixos",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gl-inet--gl-mt2500-firmware",
+  "vendor_id": "gl-inet",
+  "product_id": "gl-mt2500-firmware",
+  "name": "Gl-Mt2500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gl-mt2500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

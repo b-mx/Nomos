@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--pyxis-stockstation",
+  "vendor_id": "bd",
+  "product_id": "pyxis-stockstation",
+  "name": "Pyxis Stockstation",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyxis_stockstation",
+      "confidence": "auto"
+    }
+  ]
+}

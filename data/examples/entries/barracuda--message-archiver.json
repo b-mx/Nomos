@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "barracuda--message-archiver",
+  "vendor_id": "barracuda",
+  "product_id": "message-archiver",
+  "name": "Message Archiver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "message_archiver",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "auth0--laravel-auth0",
+  "vendor_id": "auth0",
+  "product_id": "laravel-auth0",
+  "name": "Laravel-Auth0",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "laravel-auth0",
+      "confidence": "auto"
+    }
+  ]
+}

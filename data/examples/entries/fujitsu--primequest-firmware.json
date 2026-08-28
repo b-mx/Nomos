@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--primequest-firmware",
+  "vendor_id": "fujitsu",
+  "product_id": "primequest-firmware",
+  "name": "Primequest Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "primequest_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

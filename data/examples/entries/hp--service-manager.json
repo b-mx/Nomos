@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--service-manager",
+  "vendor_id": "hp",
+  "product_id": "service-manager",
+  "name": "Service Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_manager",
+      "confidence": "auto"
+    }
+  ]
+}

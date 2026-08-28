@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tcl--alcatel-linkzone-firmware",
+  "vendor_id": "tcl",
+  "product_id": "alcatel-linkzone-firmware",
+  "name": "Alcatel Linkzone Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alcatel_linkzone_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

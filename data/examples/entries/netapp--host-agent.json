@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--host-agent",
+  "vendor_id": "netapp",
+  "product_id": "host-agent",
+  "name": "Host Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "host_agent",
+      "confidence": "auto"
+    }
+  ]
+}

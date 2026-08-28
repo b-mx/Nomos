@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--ms312-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "ms312-firmware",
+  "name": "Ms312 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ms312_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

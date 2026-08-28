@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--softco-firmware",
+  "vendor_id": "huawei",
+  "product_id": "softco-firmware",
+  "name": "Softco Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "softco_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

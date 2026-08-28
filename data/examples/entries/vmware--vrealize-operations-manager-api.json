@@ -6,13 +6,13 @@
   "name": "vRealize Operations Manager API",
   "type": "software",
   "tags": [],
-  "icon": "carbon:logo-vmware-alt",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "vRealize Operations Manager API",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

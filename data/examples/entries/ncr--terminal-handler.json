@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ncr--terminal-handler",
+  "vendor_id": "ncr",
+  "product_id": "terminal-handler",
+  "name": "Terminal Handler",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "terminal_handler",
+      "confidence": "auto"
+    }
+  ]
+}

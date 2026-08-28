@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--paho-mqtt",
+  "vendor_id": "eclipse",
+  "product_id": "paho-mqtt",
+  "name": "Paho Mqtt",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "paho_mqtt",
+      "confidence": "auto"
+    }
+  ]
+}

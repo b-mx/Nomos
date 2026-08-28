@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gocloud--s3a",
+  "vendor_id": "gocloud",
+  "product_id": "s3a",
+  "name": "S3A",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "s3a",
+      "confidence": "auto"
+    }
+  ]
+}

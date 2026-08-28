@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--jupyterhub",
+  "vendor_id": "jupyter",
+  "product_id": "jupyterhub",
+  "name": "Jupyterhub",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jupyterhub",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--z-wave-s0",
+  "vendor_id": "silabs",
+  "product_id": "z-wave-s0",
+  "name": "Z-Wave S0",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "z-wave_s0",
+      "confidence": "auto"
+    }
+  ]
+}

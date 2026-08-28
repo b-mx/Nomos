@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--plugin-set",
+  "vendor_id": "tenable",
+  "product_id": "plugin-set",
+  "name": "Plugin-Set",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plugin-set",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "beckhoff--bk9000",
+  "vendor_id": "beckhoff",
+  "product_id": "bk9000",
+  "name": "Bk9000",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bk9000",
+      "confidence": "auto"
+    }
+  ]
+}

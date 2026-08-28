@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--emberznet-sdk",
+  "vendor_id": "silabs",
+  "product_id": "emberznet-sdk",
+  "name": "Emberznet Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "emberznet_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

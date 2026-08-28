@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "onsemi--qd840-firmware",
+  "vendor_id": "onsemi",
+  "product_id": "qd840-firmware",
+  "name": "Qd840 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "qd840_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

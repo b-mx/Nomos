@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pepperl-fuchs--modbus-server-firmware",
+  "vendor_id": "pepperl-fuchs",
+  "product_id": "modbus-server-firmware",
+  "name": "Modbus Server Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "modbus_server_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

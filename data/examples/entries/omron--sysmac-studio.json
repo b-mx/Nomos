@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "omron--sysmac-studio",
+  "vendor_id": "omron",
+  "product_id": "sysmac-studio",
+  "name": "Sysmac Studio",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sysmac_studio",
+      "confidence": "auto"
+    }
+  ]
+}

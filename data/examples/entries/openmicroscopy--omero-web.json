@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openmicroscopy--omero-web",
+  "vendor_id": "openmicroscopy",
+  "product_id": "omero-web",
+  "name": "Omero.Web",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "omero.web",
+      "confidence": "auto"
+    }
+  ]
+}

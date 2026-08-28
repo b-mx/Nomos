@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bluecoat--ssl-visibility-appliance-sv2800-firmware",
+  "vendor_id": "bluecoat",
+  "product_id": "ssl-visibility-appliance-sv2800-firmware",
+  "name": "Ssl Visibility Appliance Sv2800 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ssl_visibility_appliance_sv2800_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--h2w4per3-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "h2w4per3-firmware",
+  "name": "H2W4Per3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h2w4per3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

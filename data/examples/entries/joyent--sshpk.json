@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "joyent--sshpk",
+  "vendor_id": "joyent",
+  "product_id": "sshpk",
+  "name": "Sshpk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sshpk",
+      "confidence": "auto"
+    }
+  ]
+}

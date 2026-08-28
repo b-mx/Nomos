@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--aura-system-platform-firmware",
+  "vendor_id": "avaya",
+  "product_id": "aura-system-platform-firmware",
+  "name": "Aura System Platform Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aura_system_platform_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

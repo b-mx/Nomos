@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--debmany",
+  "vendor_id": "debian",
+  "product_id": "debmany",
+  "name": "Debmany",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "debmany",
+      "confidence": "auto"
+    }
+  ]
+}

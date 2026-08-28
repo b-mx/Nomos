@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "facebook--react",
+  "vendor_id": "facebook",
+  "product_id": "react",
+  "name": "React",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "react",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "react",
+      "confidence": "auto"
+    }
+  ]
+}

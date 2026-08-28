@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--loggregator",
+  "vendor_id": "cloudfoundry",
+  "product_id": "loggregator",
+  "name": "Loggregator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "loggregator",
+      "confidence": "auto"
+    }
+  ]
+}

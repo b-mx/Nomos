@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-e910-firmware",
+  "vendor_id": "hp",
+  "product_id": "proliant-e910-firmware",
+  "name": "Proliant E910 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_e910_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

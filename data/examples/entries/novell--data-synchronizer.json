@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--data-synchronizer",
+  "vendor_id": "novell",
+  "product_id": "data-synchronizer",
+  "name": "Data Synchronizer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "data_synchronizer",
+      "confidence": "auto"
+    }
+  ]
+}

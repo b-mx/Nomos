@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "xilinx--zynq-ultrascale-mpsoc-firmware",
+  "vendor_id": "xilinx",
+  "product_id": "zynq-ultrascale-mpsoc-firmware",
+  "name": "Zynq Ultrascale+ Mpsoc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zynq_ultrascale+_mpsoc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

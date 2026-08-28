@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--versana-essential-firmware",
+  "vendor_id": "ge",
+  "product_id": "versana-essential-firmware",
+  "name": "Versana Essential Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "versana_essential_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

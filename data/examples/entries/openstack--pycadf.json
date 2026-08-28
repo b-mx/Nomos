@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--pycadf",
+  "vendor_id": "openstack",
+  "product_id": "pycadf",
+  "name": "Pycadf",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pycadf",
+      "confidence": "auto"
+    }
+  ]
+}

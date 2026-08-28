@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "forcepoint--security-manager",
+  "vendor_id": "forcepoint",
+  "product_id": "security-manager",
+  "name": "Security Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "security_manager",
+      "confidence": "auto"
+    }
+  ]
+}

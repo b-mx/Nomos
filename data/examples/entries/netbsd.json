@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "netbsd",
+  "vendor_id": "netbsd",
+  "name": "Netbsd",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "netbsd",
+      "confidence": "auto"
+    }
+  ]
+}

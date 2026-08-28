@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--rsa-data-protection-manager",
+  "vendor_id": "emc",
+  "product_id": "rsa-data-protection-manager",
+  "name": "Rsa Data Protection Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rsa_data_protection_manager",
+      "confidence": "auto"
+    }
+  ]
+}

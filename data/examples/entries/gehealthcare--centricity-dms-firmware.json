@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gehealthcare--centricity-dms-firmware",
+  "vendor_id": "gehealthcare",
+  "product_id": "centricity-dms-firmware",
+  "name": "Centricity Dms Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "centricity_dms_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "aveva--recipe-management",
+  "vendor_id": "aveva",
+  "product_id": "recipe-management",
+  "name": "Recipe Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "recipe_management",
+      "confidence": "auto"
+    }
+  ]
+}

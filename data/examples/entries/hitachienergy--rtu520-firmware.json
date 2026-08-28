@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachienergy--rtu520-firmware",
+  "vendor_id": "hitachienergy",
+  "product_id": "rtu520-firmware",
+  "name": "Rtu520 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rtu520_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

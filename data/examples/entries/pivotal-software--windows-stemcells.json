@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--windows-stemcells",
+  "vendor_id": "pivotal-software",
+  "product_id": "windows-stemcells",
+  "name": "Windows Stemcells",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "windows_stemcells",
+      "confidence": "auto"
+    }
+  ]
+}

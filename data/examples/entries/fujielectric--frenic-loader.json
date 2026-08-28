@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujielectric--frenic-loader",
+  "vendor_id": "fujielectric",
+  "product_id": "frenic-loader",
+  "name": "Frenic Loader",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "frenic_loader",
+      "confidence": "auto"
+    }
+  ]
+}

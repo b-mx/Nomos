@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--my-display",
+  "vendor_id": "hp",
+  "product_id": "my-display",
+  "name": "My Display",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "my_display",
+      "confidence": "auto"
+    }
+  ]
+}

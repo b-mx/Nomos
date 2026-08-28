@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ricoh--d2200-firmware",
+  "vendor_id": "ricoh",
+  "product_id": "d2200-firmware",
+  "name": "D2200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "d2200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

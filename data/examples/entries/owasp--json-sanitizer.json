@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "owasp--json-sanitizer",
+  "vendor_id": "owasp",
+  "product_id": "json-sanitizer",
+  "name": "Json-Sanitizer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "json-sanitizer",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--vsu-2000",
+  "vendor_id": "avaya",
+  "product_id": "vsu-2000",
+  "name": "Vsu 2000",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vsu_2000",
+      "confidence": "auto"
+    }
+  ]
+}

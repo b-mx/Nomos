@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pepperl-fuchs--profinet-modbus-firmware",
+  "vendor_id": "pepperl-fuchs",
+  "product_id": "profinet-modbus-firmware",
+  "name": "Profinet/Modbus Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "profinet/modbus_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

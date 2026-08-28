@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--b1sa4-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "b1sa4-firmware",
+  "name": "B1Sa4 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b1sa4_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

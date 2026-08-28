@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--package-hub",
+  "vendor_id": "opensuse",
+  "product_id": "package-hub",
+  "name": "Package Hub",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "package_hub",
+      "confidence": "auto"
+    }
+  ]
+}

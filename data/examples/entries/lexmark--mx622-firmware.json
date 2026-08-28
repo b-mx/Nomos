@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--mx622-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "mx622-firmware",
+  "name": "Mx622 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mx622_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

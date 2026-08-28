@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "paypal--php-invoice-sdk",
+  "vendor_id": "paypal",
+  "product_id": "php-invoice-sdk",
+  "name": "Php Invoice Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "php_invoice_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

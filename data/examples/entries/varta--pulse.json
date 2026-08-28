@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "varta--pulse",
+  "vendor_id": "varta",
+  "product_id": "pulse",
+  "name": "Pulse",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pulse",
+      "confidence": "auto"
+    }
+  ]
+}

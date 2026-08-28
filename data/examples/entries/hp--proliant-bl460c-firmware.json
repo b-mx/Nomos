@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-bl460c-firmware",
+  "vendor_id": "hp",
+  "product_id": "proliant-bl460c-firmware",
+  "name": "Proliant Bl460C Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_bl460c_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

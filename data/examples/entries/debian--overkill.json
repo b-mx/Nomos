@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--overkill",
+  "vendor_id": "debian",
+  "product_id": "overkill",
+  "name": "Overkill",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "overkill",
+      "confidence": "auto"
+    }
+  ]
+}

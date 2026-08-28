@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--evd4-firmware",
+  "vendor_id": "abb",
+  "product_id": "evd4-firmware",
+  "name": "Evd4 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "evd4_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

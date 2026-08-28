@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--orchestration-api",
+  "vendor_id": "openstack",
+  "product_id": "orchestration-api",
+  "name": "Orchestration Api",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "orchestration_api",
+      "confidence": "auto"
+    }
+  ]
+}

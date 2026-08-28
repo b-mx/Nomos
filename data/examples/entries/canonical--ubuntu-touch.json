@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--ubuntu-touch",
+  "vendor_id": "canonical",
+  "product_id": "ubuntu-touch",
+  "name": "Ubuntu Touch",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ubuntu_touch",
+      "confidence": "auto"
+    }
+  ]
+}

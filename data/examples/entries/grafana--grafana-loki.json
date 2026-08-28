@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "grafana--grafana-loki",
+  "vendor_id": "grafana",
+  "product_id": "grafana-loki",
+  "name": "Grafana Loki",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "grafana-loki",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "loki",
+      "confidence": "auto"
+    }
+  ]
+}

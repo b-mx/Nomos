@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emerson--systemlink-server",
+  "vendor_id": "emerson",
+  "product_id": "systemlink-server",
+  "name": "Systemlink Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "systemlink_server",
+      "confidence": "auto"
+    }
+  ]
+}

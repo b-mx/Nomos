@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--messaging-application-server",
+  "vendor_id": "avaya",
+  "product_id": "messaging-application-server",
+  "name": "Messaging Application Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "messaging_application_server",
+      "confidence": "auto"
+    }
+  ]
+}

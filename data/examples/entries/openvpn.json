@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "openvpn",
+  "vendor_id": "openvpn",
+  "name": "OpenVPN",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "openvpn",
+      "confidence": "auto"
+    }
+  ]
+}

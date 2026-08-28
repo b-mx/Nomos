@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "pnpm--pnpm",
+  "vendor_id": "pnpm",
+  "product_id": "pnpm",
+  "name": "pnpm",
+  "type": "software",
+  "tags": [
+    "build-tool"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "pnpm",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "pnpm",
+      "confidence": "auto"
+    }
+  ]
+}

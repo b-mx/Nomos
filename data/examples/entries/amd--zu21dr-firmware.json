@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--zu21dr-firmware",
+  "vendor_id": "amd",
+  "product_id": "zu21dr-firmware",
+  "name": "Zu21Dr Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zu21dr_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

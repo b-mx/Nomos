@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--ur-bootloader-binary",
+  "vendor_id": "ge",
+  "product_id": "ur-bootloader-binary",
+  "name": "Ur Bootloader Binary",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ur_bootloader_binary",
+      "confidence": "auto"
+    }
+  ]
+}

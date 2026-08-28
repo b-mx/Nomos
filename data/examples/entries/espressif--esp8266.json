@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp8266",
+  "vendor_id": "espressif",
+  "product_id": "esp8266",
+  "name": "Esp8266",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp8266",
+      "confidence": "auto"
+    }
+  ]
+}

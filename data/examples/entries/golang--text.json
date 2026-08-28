@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "golang--text",
+  "vendor_id": "golang",
+  "product_id": "text",
+  "name": "Text",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "text",
+      "confidence": "auto"
+    }
+  ]
+}

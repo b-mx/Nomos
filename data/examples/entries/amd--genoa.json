@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--genoa",
+  "vendor_id": "amd",
+  "product_id": "genoa",
+  "name": "Genoa",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "genoa",
+      "confidence": "auto"
+    }
+  ]
+}

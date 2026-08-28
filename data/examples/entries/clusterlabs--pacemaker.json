@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "clusterlabs--pacemaker",
+  "vendor_id": "clusterlabs",
+  "product_id": "pacemaker",
+  "name": "Pacemaker",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pacemaker",
+      "confidence": "auto"
+    }
+  ]
+}

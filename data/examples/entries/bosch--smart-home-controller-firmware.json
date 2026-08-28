@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--smart-home-controller-firmware",
+  "vendor_id": "bosch",
+  "product_id": "smart-home-controller-firmware",
+  "name": "Smart Home Controller Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_home_controller_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

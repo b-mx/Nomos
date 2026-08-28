@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--postgresql-common",
+  "vendor_id": "debian",
+  "product_id": "postgresql-common",
+  "name": "Postgresql-Common",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "postgresql-common",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "prometheus--prometheus",
+  "vendor_id": "prometheus",
+  "product_id": "prometheus",
+  "name": "Prometheus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "prometheus",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "prometheus",
+      "confidence": "auto"
+    }
+  ]
+}

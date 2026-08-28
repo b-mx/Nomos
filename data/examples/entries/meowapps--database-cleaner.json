@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "meowapps--database-cleaner",
+  "vendor_id": "meowapps",
+  "product_id": "database-cleaner",
+  "name": "Database Cleaner",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "database_cleaner",
+      "confidence": "auto"
+    }
+  ]
+}

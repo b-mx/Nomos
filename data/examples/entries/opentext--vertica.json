@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opentext--vertica",
+  "vendor_id": "opentext",
+  "product_id": "vertica",
+  "name": "Vertica",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vertica",
+      "confidence": "auto"
+    }
+  ]
+}

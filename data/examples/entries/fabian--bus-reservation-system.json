@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fabian--bus-reservation-system",
+  "vendor_id": "fabian",
+  "product_id": "bus-reservation-system",
+  "name": "Bus Reservation System",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bus_reservation_system",
+      "confidence": "auto"
+    }
+  ]
+}

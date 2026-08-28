@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--icewall-sso-agent-option",
+  "vendor_id": "hp",
+  "product_id": "icewall-sso-agent-option",
+  "name": "Icewall Sso Agent Option",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icewall_sso_agent_option",
+      "confidence": "auto"
+    }
+  ]
+}

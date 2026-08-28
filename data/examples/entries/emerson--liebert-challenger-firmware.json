@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emerson--liebert-challenger-firmware",
+  "vendor_id": "emerson",
+  "product_id": "liebert-challenger-firmware",
+  "name": "Liebert Challenger Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "liebert_challenger_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

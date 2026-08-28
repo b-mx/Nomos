@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iomega--storcenter",
+  "vendor_id": "iomega",
+  "product_id": "storcenter",
+  "name": "Storcenter",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storcenter",
+      "confidence": "auto"
+    }
+  ]
+}

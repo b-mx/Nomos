@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--aff-a700s-firmware",
+  "vendor_id": "netapp",
+  "product_id": "aff-a700s-firmware",
+  "name": "Aff A700S Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aff_a700s_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

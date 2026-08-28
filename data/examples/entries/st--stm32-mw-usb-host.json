@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32-mw-usb-host",
+  "vendor_id": "st",
+  "product_id": "stm32-mw-usb-host",
+  "name": "Stm32 Mw Usb Host",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32_mw_usb_host",
+      "confidence": "auto"
+    }
+  ]
+}

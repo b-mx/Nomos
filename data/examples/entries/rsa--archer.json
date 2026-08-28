@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--archer",
+  "vendor_id": "rsa",
+  "product_id": "archer",
+  "name": "Archer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "archer",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--message-networking",
+  "vendor_id": "avaya",
+  "product_id": "message-networking",
+  "name": "Message Networking",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "message_networking",
+      "confidence": "auto"
+    }
+  ]
+}

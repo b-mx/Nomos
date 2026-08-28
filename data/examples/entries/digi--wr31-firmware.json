@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "digi--wr31-firmware",
+  "vendor_id": "digi",
+  "product_id": "wr31-firmware",
+  "name": "Wr31 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wr31_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

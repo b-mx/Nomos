@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "aveva--iec870ip",
+  "vendor_id": "aveva",
+  "product_id": "iec870ip",
+  "name": "Iec870Ip",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iec870ip",
+      "confidence": "auto"
+    }
+  ]
+}

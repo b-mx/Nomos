@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--smc2-0-firmware",
+  "vendor_id": "huawei",
+  "product_id": "smc2-0-firmware",
+  "name": "Smc2.0 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smc2.0_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

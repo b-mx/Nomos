@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--atomic",
+  "vendor_id": "fedoraproject",
+  "product_id": "atomic",
+  "name": "Atomic",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "atomic",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "digi--www-server",
+  "vendor_id": "digi",
+  "product_id": "www-server",
+  "name": "Www Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "www_server",
+      "confidence": "auto"
+    }
+  ]
+}

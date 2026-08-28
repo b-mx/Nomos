@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "python--typed-ast",
+  "vendor_id": "python",
+  "product_id": "typed-ast",
+  "name": "Typed Ast",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "typed_ast",
+      "confidence": "auto"
+    }
+  ]
+}

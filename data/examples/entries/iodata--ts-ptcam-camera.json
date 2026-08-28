@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--ts-ptcam-camera",
+  "vendor_id": "iodata",
+  "product_id": "ts-ptcam-camera",
+  "name": "Ts-Ptcam Camera",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ts-ptcam_camera",
+      "confidence": "auto"
+    }
+  ]
+}

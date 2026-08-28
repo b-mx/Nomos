@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intelbras--nplug-firmware",
+  "vendor_id": "intelbras",
+  "product_id": "nplug-firmware",
+  "name": "Nplug Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nplug_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

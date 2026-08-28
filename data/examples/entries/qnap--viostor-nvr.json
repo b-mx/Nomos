@@ -4,11 +4,9 @@
   "vendor_id": "qnap",
   "product_id": "viostor-nvr",
   "name": "VioStor NVR",
-  "type": "hardware",
-  "tags": [
-    "network-device"
-  ],
-  "icon": "simple-icons:qnap",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

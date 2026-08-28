@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "acer--chromebox",
+  "vendor_id": "acer",
+  "product_id": "chromebox",
+  "name": "Chromebox",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "chromebox",
+      "confidence": "auto"
+    }
+  ]
+}

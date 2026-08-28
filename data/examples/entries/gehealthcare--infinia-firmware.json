@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gehealthcare--infinia-firmware",
+  "vendor_id": "gehealthcare",
+  "product_id": "infinia-firmware",
+  "name": "Infinia Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "infinia_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

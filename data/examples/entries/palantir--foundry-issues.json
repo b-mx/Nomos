@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "palantir--foundry-issues",
+  "vendor_id": "palantir",
+  "product_id": "foundry-issues",
+  "name": "Foundry Issues",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "foundry_issues",
+      "confidence": "auto"
+    }
+  ]
+}

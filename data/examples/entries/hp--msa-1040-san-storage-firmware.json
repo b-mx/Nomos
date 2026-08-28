@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--msa-1040-san-storage-firmware",
+  "vendor_id": "hp",
+  "product_id": "msa-1040-san-storage-firmware",
+  "name": "Msa 1040 San Storage Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "msa_1040_san_storage_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--public-cloud-module",
+  "vendor_id": "suse",
+  "product_id": "public-cloud-module",
+  "name": "Public Cloud Module",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "public_cloud_module",
+      "confidence": "auto"
+    }
+  ]
+}

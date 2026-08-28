@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phoenixcontact--ilc-3xx-firmware",
+  "vendor_id": "phoenixcontact",
+  "product_id": "ilc-3xx-firmware",
+  "name": "Ilc 3Xx Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ilc_3xx_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

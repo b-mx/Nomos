@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--xperius-firmware",
+  "vendor_id": "philips",
+  "product_id": "xperius-firmware",
+  "name": "Xperius Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xperius_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

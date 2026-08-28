@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "renesas--rx65n-firmware",
+  "vendor_id": "renesas",
+  "product_id": "rx65n-firmware",
+  "name": "Rx65N Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rx65n_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

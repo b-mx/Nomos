@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--m4500-firmware",
+  "vendor_id": "lenovo",
+  "product_id": "m4500-firmware",
+  "name": "M4500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m4500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

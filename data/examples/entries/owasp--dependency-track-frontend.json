@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "owasp--dependency-track-frontend",
+  "vendor_id": "owasp",
+  "product_id": "dependency-track-frontend",
+  "name": "Dependency-Track Frontend",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dependency-track_frontend",
+      "confidence": "auto"
+    }
+  ]
+}

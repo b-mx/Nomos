@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "digium--certified-asterisk",
+  "vendor_id": "digium",
+  "product_id": "certified-asterisk",
+  "name": "Certified Asterisk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "certified_asterisk",
+      "confidence": "auto"
+    }
+  ]
+}

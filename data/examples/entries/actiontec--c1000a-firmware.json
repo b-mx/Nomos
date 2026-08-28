@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "actiontec--c1000a-firmware",
+  "vendor_id": "actiontec",
+  "product_id": "c1000a-firmware",
+  "name": "C1000A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c1000a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

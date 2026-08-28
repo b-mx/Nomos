@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--nessus-amazon-machine-image",
+  "vendor_id": "tenable",
+  "product_id": "nessus-amazon-machine-image",
+  "name": "Nessus Amazon Machine Image",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nessus_amazon_machine_image",
+      "confidence": "auto"
+    }
+  ]
+}

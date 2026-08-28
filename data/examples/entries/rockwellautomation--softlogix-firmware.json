@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rockwellautomation--softlogix-firmware",
+  "vendor_id": "rockwellautomation",
+  "product_id": "softlogix-firmware",
+  "name": "Softlogix Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "softlogix_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--vmware-harbor-registry",
+  "vendor_id": "pivotal",
+  "product_id": "vmware-harbor-registry",
+  "name": "Vmware Harbor Registry",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vmware_harbor_registry",
+      "confidence": "auto"
+    }
+  ]
+}

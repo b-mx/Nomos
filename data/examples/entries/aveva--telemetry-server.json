@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "aveva--telemetry-server",
+  "vendor_id": "aveva",
+  "product_id": "telemetry-server",
+  "name": "Telemetry Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "telemetry_server",
+      "confidence": "auto"
+    }
+  ]
+}

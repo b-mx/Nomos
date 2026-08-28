@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--ds107-firmware",
+  "vendor_id": "synology",
+  "product_id": "ds107-firmware",
+  "name": "Ds107 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ds107_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

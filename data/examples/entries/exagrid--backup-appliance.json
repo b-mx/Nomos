@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "exagrid--backup-appliance",
+  "vendor_id": "exagrid",
+  "product_id": "backup-appliance",
+  "name": "Backup Appliance",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "backup_appliance",
+      "confidence": "auto"
+    }
+  ]
+}

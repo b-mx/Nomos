@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--maas",
+  "vendor_id": "canonical",
+  "product_id": "maas",
+  "name": "Maas",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "maas",
+      "confidence": "auto"
+    }
+  ]
+}

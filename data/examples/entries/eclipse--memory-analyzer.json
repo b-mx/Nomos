@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--memory-analyzer",
+  "vendor_id": "eclipse",
+  "product_id": "memory-analyzer",
+  "name": "Memory Analyzer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "memory_analyzer",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "verifone--mx900-firmware",
+  "vendor_id": "verifone",
+  "product_id": "mx900-firmware",
+  "name": "Mx900 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mx900_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

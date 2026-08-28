@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--duplicity",
+  "vendor_id": "debian",
+  "product_id": "duplicity",
+  "name": "Duplicity",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "duplicity",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--gps-firmware",
+  "vendor_id": "fujitsu",
+  "product_id": "gps-firmware",
+  "name": "Gps Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gps_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

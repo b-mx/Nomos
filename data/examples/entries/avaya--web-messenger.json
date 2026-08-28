@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--web-messenger",
+  "vendor_id": "avaya",
+  "product_id": "web-messenger",
+  "name": "Web Messenger",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web_messenger",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bachmann--mc212-firmware",
+  "vendor_id": "bachmann",
+  "product_id": "mc212-firmware",
+  "name": "Mc212 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mc212_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

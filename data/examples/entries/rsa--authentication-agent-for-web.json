@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--authentication-agent-for-web",
+  "vendor_id": "rsa",
+  "product_id": "authentication-agent-for-web",
+  "name": "Authentication Agent For Web",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "authentication_agent_for_web",
+      "confidence": "auto"
+    }
+  ]
+}

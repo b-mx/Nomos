@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yahoo--messenger",
+  "vendor_id": "yahoo",
+  "product_id": "messenger",
+  "name": "Messenger",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "messenger",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mediawiki--matomo",
+  "vendor_id": "mediawiki",
+  "product_id": "matomo",
+  "name": "Matomo",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "matomo",
+      "confidence": "auto"
+    }
+  ]
+}

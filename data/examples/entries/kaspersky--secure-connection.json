@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kaspersky--secure-connection",
+  "vendor_id": "kaspersky",
+  "product_id": "secure-connection",
+  "name": "Secure Connection",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "secure_connection",
+      "confidence": "auto"
+    }
+  ]
+}

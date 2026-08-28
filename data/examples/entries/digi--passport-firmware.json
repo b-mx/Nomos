@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "digi--passport-firmware",
+  "vendor_id": "digi",
+  "product_id": "passport-firmware",
+  "name": "Passport Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "passport_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

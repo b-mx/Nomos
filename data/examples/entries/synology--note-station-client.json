@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--note-station-client",
+  "vendor_id": "synology",
+  "product_id": "note-station-client",
+  "name": "Note Station Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "note_station_client",
+      "confidence": "auto"
+    }
+  ]
+}

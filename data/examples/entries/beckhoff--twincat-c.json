@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "beckhoff--twincat-c",
+  "vendor_id": "beckhoff",
+  "product_id": "twincat-c",
+  "name": "Twincat C++",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "twincat_c++",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netflix--security-monkey",
+  "vendor_id": "netflix",
+  "product_id": "security-monkey",
+  "name": "Security Monkey",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "security_monkey",
+      "confidence": "auto"
+    }
+  ]
+}

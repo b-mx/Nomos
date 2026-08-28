@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-9224",
+  "vendor_id": "amd",
+  "product_id": "epyc-9224",
+  "name": "Epyc 9224",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_9224",
+      "confidence": "auto"
+    }
+  ]
+}

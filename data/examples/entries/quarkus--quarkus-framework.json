@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "quarkus--quarkus-framework",
+  "vendor_id": "quarkus",
+  "product_id": "quarkus-framework",
+  "name": "Quarkus",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "quarkus-framework",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "quarkus",
+      "confidence": "auto"
+    }
+  ]
+}

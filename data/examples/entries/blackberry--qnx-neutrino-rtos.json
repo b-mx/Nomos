@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "blackberry--qnx-neutrino-rtos",
+  "vendor_id": "blackberry",
+  "product_id": "qnx-neutrino-rtos",
+  "name": "Qnx Neutrino Rtos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "qnx_neutrino_rtos",
+      "confidence": "auto"
+    }
+  ]
+}

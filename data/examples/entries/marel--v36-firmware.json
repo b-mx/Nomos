@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "marel--v36-firmware",
+  "vendor_id": "marel",
+  "product_id": "v36-firmware",
+  "name": "V36 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "v36_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "android--kernel",
+  "vendor_id": "android",
+  "product_id": "kernel",
+  "name": "Kernel",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Kernel",
+      "confidence": "auto"
+    }
+  ]
+}

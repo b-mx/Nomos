@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "protocol--multihash",
+  "vendor_id": "protocol",
+  "product_id": "multihash",
+  "name": "Multihash",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "multihash",
+      "confidence": "auto"
+    }
+  ]
+}

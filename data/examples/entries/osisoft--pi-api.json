@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "osisoft--pi-api",
+  "vendor_id": "osisoft",
+  "product_id": "pi-api",
+  "name": "Pi Api",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pi_api",
+      "confidence": "auto"
+    }
+  ]
+}

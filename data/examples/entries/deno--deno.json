@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "deno--deno",
+  "vendor_id": "deno",
+  "product_id": "deno",
+  "name": "Deno",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "deno",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "deno",
+      "confidence": "auto"
+    }
+  ]
+}

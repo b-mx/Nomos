@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--max-hotspot",
+  "vendor_id": "peplink",
+  "product_id": "max-hotspot",
+  "name": "Max Hotspot",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "max_hotspot",
+      "confidence": "auto"
+    }
+  ]
+}

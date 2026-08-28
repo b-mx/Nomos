@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--c2s11a-firmware",
+  "vendor_id": "hp",
+  "product_id": "c2s11a-firmware",
+  "name": "C2S11A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c2s11a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

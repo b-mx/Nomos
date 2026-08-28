@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nuvoton--npcm750r-firmware",
+  "vendor_id": "nuvoton",
+  "product_id": "npcm750r-firmware",
+  "name": "Npcm750R Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "npcm750r_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

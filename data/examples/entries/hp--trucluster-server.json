@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--trucluster-server",
+  "vendor_id": "hp",
+  "product_id": "trucluster-server",
+  "name": "Trucluster Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "trucluster_server",
+      "confidence": "auto"
+    }
+  ]
+}

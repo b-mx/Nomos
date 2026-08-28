@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--insight-manager",
+  "vendor_id": "hp",
+  "product_id": "insight-manager",
+  "name": "Insight Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "insight_manager",
+      "confidence": "auto"
+    }
+  ]
+}

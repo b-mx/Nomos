@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--d20me-firmware",
+  "vendor_id": "ge",
+  "product_id": "d20me-firmware",
+  "name": "D20Me Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "d20me_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

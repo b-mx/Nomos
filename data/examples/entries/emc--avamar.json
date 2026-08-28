@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--avamar",
+  "vendor_id": "emc",
+  "product_id": "avamar",
+  "name": "Avamar",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "avamar",
+      "confidence": "auto"
+    }
+  ]
+}

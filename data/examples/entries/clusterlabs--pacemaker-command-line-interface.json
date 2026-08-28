@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "clusterlabs--pacemaker-command-line-interface",
+  "vendor_id": "clusterlabs",
+  "product_id": "pacemaker-command-line-interface",
+  "name": "Pacemaker Command Line Interface",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pacemaker_command_line_interface",
+      "confidence": "auto"
+    }
+  ]
+}

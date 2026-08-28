@@ -3,17 +3,12 @@
   "slug": "python",
   "vendor_id": "python",
   "name": "Python",
-  "icon": "logos:python",
+  "icon": null,
   "aliases": [
     {
       "source": "nvd",
       "value": "python",
-      "confidence": "curated"
-    },
-    {
-      "source": "endoflife",
-      "value": "python",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

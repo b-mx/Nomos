@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gemalto--smartdiag-diagnosis-tool",
+  "vendor_id": "gemalto",
+  "product_id": "smartdiag-diagnosis-tool",
+  "name": "Smartdiag Diagnosis Tool",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smartdiag_diagnosis_tool",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--web-server",
+  "vendor_id": "novell",
+  "product_id": "web-server",
+  "name": "Web Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web_server",
+      "confidence": "auto"
+    }
+  ]
+}

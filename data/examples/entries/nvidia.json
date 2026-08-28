@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "nvidia",
+  "vendor_id": "nvidia",
+  "name": "NVIDIA Driver",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "nvidia",
+      "confidence": "auto"
+    }
+  ]
+}

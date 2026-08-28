@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gentoo--ebuild-for-slurm",
+  "vendor_id": "gentoo",
+  "product_id": "ebuild-for-slurm",
+  "name": "Ebuild For Slurm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ebuild_for_slurm",
+      "confidence": "auto"
+    }
+  ]
+}

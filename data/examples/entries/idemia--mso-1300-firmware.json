@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "idemia--mso-1300-firmware",
+  "vendor_id": "idemia",
+  "product_id": "mso-1300-firmware",
+  "name": "Mso 1300 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mso_1300_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

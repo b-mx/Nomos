@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudflare--quiche",
+  "vendor_id": "cloudflare",
+  "product_id": "quiche",
+  "name": "Quiche",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "quiche",
+      "confidence": "auto"
+    }
+  ]
+}

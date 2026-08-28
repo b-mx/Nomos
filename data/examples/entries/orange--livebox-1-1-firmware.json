@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "orange--livebox-1-1-firmware",
+  "vendor_id": "orange",
+  "product_id": "livebox-1-1-firmware",
+  "name": "Livebox 1.1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "livebox_1.1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

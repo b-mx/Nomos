@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pimcore--perspective-editor",
+  "vendor_id": "pimcore",
+  "product_id": "perspective-editor",
+  "name": "Perspective Editor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "perspective_editor",
+      "confidence": "auto"
+    }
+  ]
+}

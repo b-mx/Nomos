@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "code-projects--task-manager",
+  "vendor_id": "code-projects",
+  "product_id": "task-manager",
+  "name": "Task Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "task_manager",
+      "confidence": "auto"
+    }
+  ]
+}

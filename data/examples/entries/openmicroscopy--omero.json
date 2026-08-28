@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openmicroscopy--omero",
+  "vendor_id": "openmicroscopy",
+  "product_id": "omero",
+  "name": "Omero",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "omero",
+      "confidence": "auto"
+    }
+  ]
+}

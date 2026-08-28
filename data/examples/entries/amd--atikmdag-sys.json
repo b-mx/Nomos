@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--atikmdag-sys",
+  "vendor_id": "amd",
+  "product_id": "atikmdag-sys",
+  "name": "Atikmdag.Sys",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "atikmdag.sys",
+      "confidence": "auto"
+    }
+  ]
+}

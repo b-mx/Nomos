@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "contec--fxa3200-firmware",
+  "vendor_id": "contec",
+  "product_id": "fxa3200-firmware",
+  "name": "Fxa3200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fxa3200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

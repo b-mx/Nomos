@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--cloudline-cl2100-gen10-server",
+  "vendor_id": "hpe",
+  "product_id": "cloudline-cl2100-gen10-server",
+  "name": "Cloudline Cl2100 Gen10 Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloudline_cl2100_gen10_server",
+      "confidence": "auto"
+    }
+  ]
+}

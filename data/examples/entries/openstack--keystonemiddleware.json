@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--keystonemiddleware",
+  "vendor_id": "openstack",
+  "product_id": "keystonemiddleware",
+  "name": "Keystonemiddleware",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "keystonemiddleware",
+      "confidence": "auto"
+    }
+  ]
+}

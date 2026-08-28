@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen",
+  "vendor_id": "amd",
+  "product_id": "ryzen",
+  "name": "Ryzen",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen",
+      "confidence": "auto"
+    }
+  ]
+}

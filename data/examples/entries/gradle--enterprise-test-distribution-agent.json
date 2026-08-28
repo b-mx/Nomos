@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gradle--enterprise-test-distribution-agent",
+  "vendor_id": "gradle",
+  "product_id": "enterprise-test-distribution-agent",
+  "name": "Enterprise Test Distribution Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise_test_distribution_agent",
+      "confidence": "auto"
+    }
+  ]
+}

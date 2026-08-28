@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x--libxrandr",
+  "vendor_id": "x",
+  "product_id": "libxrandr",
+  "name": "Libxrandr",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libxrandr",
+      "confidence": "auto"
+    }
+  ]
+}

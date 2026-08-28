@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--smi-s-provider",
+  "vendor_id": "netapp",
+  "product_id": "smi-s-provider",
+  "name": "Smi-S Provider",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smi-s_provider",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--cloud-secure-agent",
+  "vendor_id": "netapp",
+  "product_id": "cloud-secure-agent",
+  "name": "Cloud Secure Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_secure_agent",
+      "confidence": "auto"
+    }
+  ]
+}

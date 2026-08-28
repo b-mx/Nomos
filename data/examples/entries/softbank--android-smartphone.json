@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "softbank--android-smartphone",
+  "vendor_id": "softbank",
+  "product_id": "android-smartphone",
+  "name": "Android Smartphone",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "android_smartphone",
+      "confidence": "auto"
+    }
+  ]
+}

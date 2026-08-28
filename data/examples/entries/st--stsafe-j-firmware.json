@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stsafe-j-firmware",
+  "vendor_id": "st",
+  "product_id": "stsafe-j-firmware",
+  "name": "Stsafe-J Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stsafe-j_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

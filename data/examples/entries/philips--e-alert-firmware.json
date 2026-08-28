@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--e-alert-firmware",
+  "vendor_id": "philips",
+  "product_id": "e-alert-firmware",
+  "name": "E-Alert Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "e-alert_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

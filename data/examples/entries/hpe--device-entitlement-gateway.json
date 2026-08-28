@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--device-entitlement-gateway",
+  "vendor_id": "hpe",
+  "product_id": "device-entitlement-gateway",
+  "name": "Device Entitlement Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "device_entitlement_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arubanetworks--5400r-firmware",
+  "vendor_id": "arubanetworks",
+  "product_id": "5400r-firmware",
+  "name": "5400R Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "5400r_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

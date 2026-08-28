@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "oracle-graalvm",
+  "vendor_id": "oracle-graalvm",
+  "name": "Oracle GraalVM",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "oracle-graalvm",
+      "confidence": "auto"
+    }
+  ]
+}

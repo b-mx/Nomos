@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--sentinel",
+  "vendor_id": "hashicorp",
+  "product_id": "sentinel",
+  "name": "Sentinel",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sentinel",
+      "confidence": "auto"
+    }
+  ]
+}

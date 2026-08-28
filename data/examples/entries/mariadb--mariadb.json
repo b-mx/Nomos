@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "mariadb--mariadb",
+  "vendor_id": "mariadb",
+  "product_id": "mariadb",
+  "name": "MariaDB",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "mariadb",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "mariadb",
+      "confidence": "auto"
+    }
+  ]
+}

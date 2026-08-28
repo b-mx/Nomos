@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--msa-1060-storage-firmware",
+  "vendor_id": "hpe",
+  "product_id": "msa-1060-storage-firmware",
+  "name": "Msa 1060 Storage Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "msa_1060_storage_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

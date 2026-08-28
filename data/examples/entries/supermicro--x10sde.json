@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x10sde",
+  "vendor_id": "supermicro",
+  "product_id": "x10sde",
+  "name": "X10Sde",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x10sde",
+      "confidence": "auto"
+    }
+  ]
+}

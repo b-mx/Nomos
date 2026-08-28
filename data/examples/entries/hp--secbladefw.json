@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--secbladefw",
+  "vendor_id": "hp",
+  "product_id": "secbladefw",
+  "name": "Secbladefw",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "secbladefw",
+      "confidence": "auto"
+    }
+  ]
+}

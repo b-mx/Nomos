@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "centreon--dynamic-service-management",
+  "vendor_id": "centreon",
+  "product_id": "dynamic-service-management",
+  "name": "Dynamic Service Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dynamic_service_management",
+      "confidence": "auto"
+    }
+  ]
+}

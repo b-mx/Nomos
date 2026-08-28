@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--myna-firmware",
+  "vendor_id": "huawei",
+  "product_id": "myna-firmware",
+  "name": "Myna Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "myna_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

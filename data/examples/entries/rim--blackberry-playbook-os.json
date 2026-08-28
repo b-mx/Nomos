@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rim--blackberry-playbook-os",
+  "vendor_id": "rim",
+  "product_id": "blackberry-playbook-os",
+  "name": "Blackberry Playbook Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "blackberry_playbook_os",
+      "confidence": "auto"
+    }
+  ]
+}

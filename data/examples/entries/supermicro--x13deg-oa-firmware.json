@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x13deg-oa-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x13deg-oa-firmware",
+  "name": "X13Deg-Oa Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x13deg-oa_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

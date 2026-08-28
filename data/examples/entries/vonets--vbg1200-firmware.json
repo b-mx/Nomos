@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vonets--vbg1200-firmware",
+  "vendor_id": "vonets",
+  "product_id": "vbg1200-firmware",
+  "name": "Vbg1200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vbg1200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

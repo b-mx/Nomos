@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--replistor",
+  "vendor_id": "emc",
+  "product_id": "replistor",
+  "name": "Replistor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "replistor",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hgiga--powerstation-firmware",
+  "vendor_id": "hgiga",
+  "product_id": "powerstation-firmware",
+  "name": "Powerstation Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "powerstation_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

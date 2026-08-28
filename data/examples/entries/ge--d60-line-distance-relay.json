@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--d60-line-distance-relay",
+  "vendor_id": "ge",
+  "product_id": "d60-line-distance-relay",
+  "name": "D60 Line Distance Relay",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "d60_line_distance_relay",
+      "confidence": "auto"
+    }
+  ]
+}

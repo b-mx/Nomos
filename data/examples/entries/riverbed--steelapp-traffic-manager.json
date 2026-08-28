@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "riverbed--steelapp-traffic-manager",
+  "vendor_id": "riverbed",
+  "product_id": "steelapp-traffic-manager",
+  "name": "Steelapp Traffic Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "steelapp_traffic_manager",
+      "confidence": "auto"
+    }
+  ]
+}

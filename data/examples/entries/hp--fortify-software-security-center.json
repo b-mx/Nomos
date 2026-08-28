@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--fortify-software-security-center",
+  "vendor_id": "hp",
+  "product_id": "fortify-software-security-center",
+  "name": "Fortify Software Security Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fortify_software_security_center",
+      "confidence": "auto"
+    }
+  ]
+}

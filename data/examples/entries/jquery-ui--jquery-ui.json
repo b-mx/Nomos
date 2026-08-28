@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "jquery-ui--jquery-ui",
+  "vendor_id": "jquery-ui",
+  "product_id": "jquery-ui",
+  "name": "jQuery UI",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "jquery-ui",
+      "confidence": "auto"
+    }
+  ]
+}

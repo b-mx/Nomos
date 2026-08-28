@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "coolpad--n3c-firmware",
+  "vendor_id": "coolpad",
+  "product_id": "n3c-firmware",
+  "name": "N3C Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "n3c_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

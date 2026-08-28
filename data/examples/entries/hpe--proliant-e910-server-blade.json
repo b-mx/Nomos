@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--proliant-e910-server-blade",
+  "vendor_id": "hpe",
+  "product_id": "proliant-e910-server-blade",
+  "name": "Proliant E910 Server Blade",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_e910_server_blade",
+      "confidence": "auto"
+    }
+  ]
+}

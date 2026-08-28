@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "seagate--personal-cloud-firmware",
+  "vendor_id": "seagate",
+  "product_id": "personal-cloud-firmware",
+  "name": "Personal Cloud Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "personal_cloud_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

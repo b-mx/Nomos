@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--sprout-pro-firmware",
+  "vendor_id": "hp",
+  "product_id": "sprout-pro-firmware",
+  "name": "Sprout Pro Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sprout_pro_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

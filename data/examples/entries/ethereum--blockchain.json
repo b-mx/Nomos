@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ethereum--blockchain",
+  "vendor_id": "ethereum",
+  "product_id": "blockchain",
+  "name": "Blockchain",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "blockchain",
+      "confidence": "auto"
+    }
+  ]
+}

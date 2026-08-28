@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pgp--keyserver",
+  "vendor_id": "pgp",
+  "product_id": "keyserver",
+  "name": "Keyserver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "keyserver",
+      "confidence": "auto"
+    }
+  ]
+}

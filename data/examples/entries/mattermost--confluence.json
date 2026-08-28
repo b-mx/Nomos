@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mattermost--confluence",
+  "vendor_id": "mattermost",
+  "product_id": "confluence",
+  "name": "Confluence",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "confluence",
+      "confidence": "auto"
+    }
+  ]
+}

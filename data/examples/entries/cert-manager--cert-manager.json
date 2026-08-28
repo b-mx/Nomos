@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cert-manager--cert-manager",
+  "vendor_id": "cert-manager",
+  "product_id": "cert-manager",
+  "name": "cert-manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "cert-manager",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--ubuntu-image",
+  "vendor_id": "canonical",
+  "product_id": "ubuntu-image",
+  "name": "Ubuntu-Image",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ubuntu-image",
+      "confidence": "auto"
+    }
+  ]
+}

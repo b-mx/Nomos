@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--nginx-ingress-controller",
+  "vendor_id": "kubernetes",
+  "product_id": "nginx-ingress-controller",
+  "name": "Nginx Ingress Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nginx_ingress_controller",
+      "confidence": "auto"
+    }
+  ]
+}

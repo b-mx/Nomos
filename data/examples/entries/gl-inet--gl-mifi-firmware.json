@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gl-inet--gl-mifi-firmware",
+  "vendor_id": "gl-inet",
+  "product_id": "gl-mifi-firmware",
+  "name": "Gl-Mifi Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gl-mifi_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11ssh-tf",
+  "vendor_id": "supermicro",
+  "product_id": "x11ssh-tf",
+  "name": "X11Ssh-Tf",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11ssh-tf",
+      "confidence": "auto"
+    }
+  ]
+}

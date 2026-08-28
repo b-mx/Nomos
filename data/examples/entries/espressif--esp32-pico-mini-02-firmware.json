@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp32-pico-mini-02-firmware",
+  "vendor_id": "espressif",
+  "product_id": "esp32-pico-mini-02-firmware",
+  "name": "Esp32-Pico-Mini-02 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp32-pico-mini-02_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

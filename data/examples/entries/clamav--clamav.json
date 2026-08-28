@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "clamav--clamav",
+  "vendor_id": "clamav",
+  "product_id": "clamav",
+  "name": "ClamAV",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "clamav",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "clamav",
+      "confidence": "auto"
+    }
+  ]
+}

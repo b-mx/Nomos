@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bachmann--mpc240-firmware",
+  "vendor_id": "bachmann",
+  "product_id": "mpc240-firmware",
+  "name": "Mpc240 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mpc240_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

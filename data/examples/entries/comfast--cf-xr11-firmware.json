@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "comfast--cf-xr11-firmware",
+  "vendor_id": "comfast",
+  "product_id": "cf-xr11-firmware",
+  "name": "Cf-Xr11 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cf-xr11_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

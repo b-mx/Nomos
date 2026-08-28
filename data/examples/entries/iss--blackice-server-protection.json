@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iss--blackice-server-protection",
+  "vendor_id": "iss",
+  "product_id": "blackice-server-protection",
+  "name": "Blackice Server Protection",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "blackice_server_protection",
+      "confidence": "auto"
+    }
+  ]
+}

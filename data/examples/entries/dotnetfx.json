@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "dotnetfx",
+  "vendor_id": "dotnetfx",
+  "name": "Microsoft .NET Framework",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "dotnetfx",
+      "confidence": "auto"
+    }
+  ]
+}

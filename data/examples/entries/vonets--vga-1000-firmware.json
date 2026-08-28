@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vonets--vga-1000-firmware",
+  "vendor_id": "vonets",
+  "product_id": "vga-1000-firmware",
+  "name": "Vga-1000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vga-1000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

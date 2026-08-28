@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lucent--radius",
+  "vendor_id": "lucent",
+  "product_id": "radius",
+  "name": "Radius",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "radius",
+      "confidence": "auto"
+    }
+  ]
+}

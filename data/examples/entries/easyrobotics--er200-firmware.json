@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "easyrobotics--er200-firmware",
+  "vendor_id": "easyrobotics",
+  "product_id": "er200-firmware",
+  "name": "Er200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "er200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

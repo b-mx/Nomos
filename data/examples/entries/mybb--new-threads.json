@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mybb--new-threads",
+  "vendor_id": "mybb",
+  "product_id": "new-threads",
+  "name": "New Threads",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "new_threads",
+      "confidence": "auto"
+    }
+  ]
+}

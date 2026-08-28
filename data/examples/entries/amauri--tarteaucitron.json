@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "amauri--tarteaucitron",
+  "vendor_id": "amauri",
+  "product_id": "tarteaucitron",
+  "name": "tarteaucitron",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "tarteaucitron",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "tarteaucitronjs",
+      "confidence": "auto"
+    }
+  ]
+}

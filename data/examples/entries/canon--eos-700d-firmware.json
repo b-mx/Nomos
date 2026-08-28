@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canon--eos-700d-firmware",
+  "vendor_id": "canon",
+  "product_id": "eos-700d-firmware",
+  "name": "Eos 700D Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eos_700d_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

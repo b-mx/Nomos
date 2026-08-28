@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fatek--plc-winproladder-firmware",
+  "vendor_id": "fatek",
+  "product_id": "plc-winproladder-firmware",
+  "name": "Plc Winproladder Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plc_winproladder_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

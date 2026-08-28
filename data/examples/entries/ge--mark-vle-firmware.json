@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--mark-vle-firmware",
+  "vendor_id": "ge",
+  "product_id": "mark-vle-firmware",
+  "name": "Mark Vle Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mark_vle_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

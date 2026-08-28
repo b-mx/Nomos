@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sas--xml-mapper",
+  "vendor_id": "sas",
+  "product_id": "xml-mapper",
+  "name": "Xml Mapper",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xml_mapper",
+      "confidence": "auto"
+    }
+  ]
+}

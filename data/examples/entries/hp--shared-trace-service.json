@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--shared-trace-service",
+  "vendor_id": "hp",
+  "product_id": "shared-trace-service",
+  "name": "Shared Trace Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "shared_trace_service",
+      "confidence": "auto"
+    }
+  ]
+}

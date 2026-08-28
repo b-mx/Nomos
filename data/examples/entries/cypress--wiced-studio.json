@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cypress--wiced-studio",
+  "vendor_id": "cypress",
+  "product_id": "wiced-studio",
+  "name": "Wiced Studio",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wiced_studio",
+      "confidence": "auto"
+    }
+  ]
+}

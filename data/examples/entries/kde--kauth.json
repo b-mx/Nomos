@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--kauth",
+  "vendor_id": "kde",
+  "product_id": "kauth",
+  "name": "Kauth",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kauth",
+      "confidence": "auto"
+    }
+  ]
+}

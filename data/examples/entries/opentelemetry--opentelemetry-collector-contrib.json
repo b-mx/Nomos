@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opentelemetry--opentelemetry-collector-contrib",
+  "vendor_id": "opentelemetry",
+  "product_id": "opentelemetry-collector-contrib",
+  "name": "Opentelemetry Collector Contrib",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opentelemetry_collector_contrib",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--kde-frameworks",
+  "vendor_id": "kde",
+  "product_id": "kde-frameworks",
+  "name": "Kde Frameworks",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kde_frameworks",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "auth0--ad-ldap-connector",
+  "vendor_id": "auth0",
+  "product_id": "ad-ldap-connector",
+  "name": "Ad/Ldap Connector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ad/ldap_connector",
+      "confidence": "auto"
+    }
+  ]
+}

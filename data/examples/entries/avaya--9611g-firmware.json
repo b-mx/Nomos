@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--9611g-firmware",
+  "vendor_id": "avaya",
+  "product_id": "9611g-firmware",
+  "name": "9611G Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "9611g_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

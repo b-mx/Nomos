@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--version-control-agent",
+  "vendor_id": "hp",
+  "product_id": "version-control-agent",
+  "name": "Version Control Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "version_control_agent",
+      "confidence": "auto"
+    }
+  ]
+}

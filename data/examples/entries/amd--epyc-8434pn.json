@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-8434pn",
+  "vendor_id": "amd",
+  "product_id": "epyc-8434pn",
+  "name": "Epyc 8434Pn",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_8434pn",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "autodesk--dwf-viewer",
+  "vendor_id": "autodesk",
+  "product_id": "dwf-viewer",
+  "name": "Dwf Viewer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dwf_viewer",
+      "confidence": "auto"
+    }
+  ]
+}

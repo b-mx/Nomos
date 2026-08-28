@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--glassfish",
+  "vendor_id": "eclipse",
+  "product_id": "glassfish",
+  "name": "Glassfish",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "glassfish",
+      "confidence": "auto"
+    }
+  ]
+}

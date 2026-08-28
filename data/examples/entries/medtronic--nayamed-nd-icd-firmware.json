@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--nayamed-nd-icd-firmware",
+  "vendor_id": "medtronic",
+  "product_id": "nayamed-nd-icd-firmware",
+  "name": "Nayamed Nd Icd Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nayamed_nd_icd_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

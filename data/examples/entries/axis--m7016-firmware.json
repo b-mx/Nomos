@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--m7016-firmware",
+  "vendor_id": "axis",
+  "product_id": "m7016-firmware",
+  "name": "M7016 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m7016_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "webfactoryltd--wp-database-reset",
+  "vendor_id": "webfactoryltd",
+  "product_id": "wp-database-reset",
+  "name": "Wp Database Reset",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wp_database_reset",
+      "confidence": "auto"
+    }
+  ]
+}

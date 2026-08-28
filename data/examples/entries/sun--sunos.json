@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--sunos",
+  "vendor_id": "sun",
+  "product_id": "sunos",
+  "name": "Sunos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sunos",
+      "confidence": "auto"
+    }
+  ]
+}

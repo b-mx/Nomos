@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "extron--sharelink-200-firmware",
+  "vendor_id": "extron",
+  "product_id": "sharelink-200-firmware",
+  "name": "Sharelink 200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sharelink_200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

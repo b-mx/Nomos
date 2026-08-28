@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--aaa-server",
+  "vendor_id": "hp",
+  "product_id": "aaa-server",
+  "name": "Aaa Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aaa_server",
+      "confidence": "auto"
+    }
+  ]
+}

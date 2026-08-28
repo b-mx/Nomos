@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "dataprobe--ibootbar-firmware",
+  "vendor_id": "dataprobe",
+  "product_id": "ibootbar-firmware",
+  "name": "Ibootbar Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ibootbar_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

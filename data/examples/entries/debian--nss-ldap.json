@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--nss-ldap",
+  "vendor_id": "debian",
+  "product_id": "nss-ldap",
+  "name": "Nss-Ldap",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nss-ldap",
+      "confidence": "auto"
+    }
+  ]
+}

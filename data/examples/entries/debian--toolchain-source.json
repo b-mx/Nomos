@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--toolchain-source",
+  "vendor_id": "debian",
+  "product_id": "toolchain-source",
+  "name": "Toolchain-Source",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "toolchain-source",
+      "confidence": "auto"
+    }
+  ]
+}

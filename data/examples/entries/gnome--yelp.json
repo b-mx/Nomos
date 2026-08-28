@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--yelp",
+  "vendor_id": "gnome",
+  "product_id": "yelp",
+  "name": "Yelp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "yelp",
+      "confidence": "auto"
+    }
+  ]
+}

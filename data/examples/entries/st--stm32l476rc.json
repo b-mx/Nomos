@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32l476rc",
+  "vendor_id": "st",
+  "product_id": "stm32l476rc",
+  "name": "Stm32L476Rc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32l476rc",
+      "confidence": "auto"
+    }
+  ]
+}

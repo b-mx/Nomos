@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ribboncommunications--edgemarc-firmware",
+  "vendor_id": "ribboncommunications",
+  "product_id": "edgemarc-firmware",
+  "name": "Edgemarc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edgemarc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

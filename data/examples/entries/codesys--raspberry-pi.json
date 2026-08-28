@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "codesys--raspberry-pi",
+  "vendor_id": "codesys",
+  "product_id": "raspberry-pi",
+  "name": "Raspberry Pi",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "raspberry_pi",
+      "confidence": "auto"
+    }
+  ]
+}

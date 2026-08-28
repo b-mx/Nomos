@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "discourse--discourse",
+  "vendor_id": "discourse",
+  "product_id": "discourse",
+  "name": "Discourse",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "discourse",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "discourse",
+      "confidence": "auto"
+    }
+  ]
+}

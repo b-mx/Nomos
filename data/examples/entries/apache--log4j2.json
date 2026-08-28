@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apache--log4j2",
+  "vendor_id": "apache",
+  "product_id": "log4j2",
+  "name": "Log4j2",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Log4j2",
+      "confidence": "auto"
+    }
+  ]
+}

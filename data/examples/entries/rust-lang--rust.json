@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "rust-lang--rust",
+  "vendor_id": "rust-lang",
+  "product_id": "rust",
+  "name": "Rust",
+  "type": "library",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "rust",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "rust",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "elasticsearch--output-plugin",
+  "vendor_id": "elasticsearch",
+  "product_id": "output-plugin",
+  "name": "Output Plugin",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "output_plugin",
+      "confidence": "auto"
+    }
+  ]
+}

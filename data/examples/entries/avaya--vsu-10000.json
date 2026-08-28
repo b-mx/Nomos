@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--vsu-10000",
+  "vendor_id": "avaya",
+  "product_id": "vsu-10000",
+  "name": "Vsu 10000",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vsu_10000",
+      "confidence": "auto"
+    }
+  ]
+}

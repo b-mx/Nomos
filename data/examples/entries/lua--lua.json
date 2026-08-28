@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "lua--lua",
+  "vendor_id": "lua",
+  "product_id": "lua",
+  "name": "Lua",
+  "type": "library",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "lua",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "lua",
+      "confidence": "auto"
+    }
+  ]
+}

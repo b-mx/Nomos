@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tandd--thermo-recorder-data-server",
+  "vendor_id": "tandd",
+  "product_id": "thermo-recorder-data-server",
+  "name": "Thermo Recorder Data Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "thermo_recorder_data_server",
+      "confidence": "auto"
+    }
+  ]
+}

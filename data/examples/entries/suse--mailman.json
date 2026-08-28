@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--mailman",
+  "vendor_id": "suse",
+  "product_id": "mailman",
+  "name": "Mailman",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mailman",
+      "confidence": "auto"
+    }
+  ]
+}

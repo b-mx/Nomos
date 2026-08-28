@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--ubr-lte",
+  "vendor_id": "peplink",
+  "product_id": "ubr-lte",
+  "name": "Ubr Lte",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ubr_lte",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "snyk--snyk-hex-cli",
+  "vendor_id": "snyk",
+  "product_id": "snyk-hex-cli",
+  "name": "Snyk Hex Cli",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "snyk_hex_cli",
+      "confidence": "auto"
+    }
+  ]
+}

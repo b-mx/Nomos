@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--bsdmainutils",
+  "vendor_id": "debian",
+  "product_id": "bsdmainutils",
+  "name": "Bsdmainutils",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bsdmainutils",
+      "confidence": "auto"
+    }
+  ]
+}

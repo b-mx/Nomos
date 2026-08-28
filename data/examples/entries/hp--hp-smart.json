@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--hp-smart",
+  "vendor_id": "hp",
+  "product_id": "hp-smart",
+  "name": "Hp Smart",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hp_smart",
+      "confidence": "auto"
+    }
+  ]
+}

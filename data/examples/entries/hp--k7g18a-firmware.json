@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--k7g18a-firmware",
+  "vendor_id": "hp",
+  "product_id": "k7g18a-firmware",
+  "name": "K7G18A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k7g18a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

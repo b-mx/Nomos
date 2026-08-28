@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bplugins--document-embedder",
+  "vendor_id": "bplugins",
+  "product_id": "document-embedder",
+  "name": "Document Embedder",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "document_embedder",
+      "confidence": "auto"
+    }
+  ]
+}

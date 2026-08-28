@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--solidfire-bios",
+  "vendor_id": "netapp",
+  "product_id": "solidfire-bios",
+  "name": "Solidfire Bios",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "solidfire_bios",
+      "confidence": "auto"
+    }
+  ]
+}

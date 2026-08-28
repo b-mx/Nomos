@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "comodo--comodo-internet-security",
+  "vendor_id": "comodo",
+  "product_id": "comodo-internet-security",
+  "name": "Comodo Internet Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "comodo_internet_security",
+      "confidence": "auto"
+    }
+  ]
+}

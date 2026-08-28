@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "realnetworks--realarcade-installer",
+  "vendor_id": "realnetworks",
+  "product_id": "realarcade-installer",
+  "name": "Realarcade Installer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "realarcade_installer",
+      "confidence": "auto"
+    }
+  ]
+}

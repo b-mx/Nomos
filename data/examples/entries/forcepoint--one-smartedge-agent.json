@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "forcepoint--one-smartedge-agent",
+  "vendor_id": "forcepoint",
+  "product_id": "one-smartedge-agent",
+  "name": "One Smartedge Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "one_smartedge_agent",
+      "confidence": "auto"
+    }
+  ]
+}

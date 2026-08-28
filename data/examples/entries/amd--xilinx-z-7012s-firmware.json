@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--xilinx-z-7012s-firmware",
+  "vendor_id": "amd",
+  "product_id": "xilinx-z-7012s-firmware",
+  "name": "Xilinx Z-7012S Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xilinx_z-7012s_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

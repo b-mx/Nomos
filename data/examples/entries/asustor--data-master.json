@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "asustor--data-master",
+  "vendor_id": "asustor",
+  "product_id": "data-master",
+  "name": "Data Master",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "data_master",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--arcsight-express",
+  "vendor_id": "hp",
+  "product_id": "arcsight-express",
+  "name": "Arcsight Express",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arcsight_express",
+      "confidence": "auto"
+    }
+  ]
+}

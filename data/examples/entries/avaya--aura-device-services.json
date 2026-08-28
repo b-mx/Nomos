@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--aura-device-services",
+  "vendor_id": "avaya",
+  "product_id": "aura-device-services",
+  "name": "Aura Device Services",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aura_device_services",
+      "confidence": "auto"
+    }
+  ]
+}

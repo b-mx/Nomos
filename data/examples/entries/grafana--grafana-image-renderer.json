@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "grafana--grafana-image-renderer",
+  "vendor_id": "grafana",
+  "product_id": "grafana-image-renderer",
+  "name": "Grafana-Image-Renderer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "grafana-image-renderer",
+      "confidence": "auto"
+    }
+  ]
+}

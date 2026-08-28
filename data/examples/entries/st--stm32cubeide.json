@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32cubeide",
+  "vendor_id": "st",
+  "product_id": "stm32cubeide",
+  "name": "Stm32Cubeide",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32cubeide",
+      "confidence": "auto"
+    }
+  ]
+}

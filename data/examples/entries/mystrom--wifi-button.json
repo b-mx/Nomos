@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mystrom--wifi-button",
+  "vendor_id": "mystrom",
+  "product_id": "wifi-button",
+  "name": "Wifi Button",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wifi_button",
+      "confidence": "auto"
+    }
+  ]
+}

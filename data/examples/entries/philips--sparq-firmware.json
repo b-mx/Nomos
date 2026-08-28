@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--sparq-firmware",
+  "vendor_id": "philips",
+  "product_id": "sparq-firmware",
+  "name": "Sparq Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sparq_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

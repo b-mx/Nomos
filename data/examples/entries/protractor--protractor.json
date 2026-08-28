@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "protractor--protractor",
+  "vendor_id": "protractor",
+  "product_id": "protractor",
+  "name": "Protractor",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "protractor",
+      "confidence": "auto"
+    }
+  ]
+}

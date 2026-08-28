@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "powertekpdus--smart-pim-firmware",
+  "vendor_id": "powertekpdus",
+  "product_id": "smart-pim-firmware",
+  "name": "Smart Pim Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_pim_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

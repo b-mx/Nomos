@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "golang--net",
+  "vendor_id": "golang",
+  "product_id": "net",
+  "name": "Net",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "net",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bitdefender--virus-scanner",
+  "vendor_id": "bitdefender",
+  "product_id": "virus-scanner",
+  "name": "Virus Scanner",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "virus_scanner",
+      "confidence": "auto"
+    }
+  ]
+}

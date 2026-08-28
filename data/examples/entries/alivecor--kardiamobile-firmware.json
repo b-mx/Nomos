@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "alivecor--kardiamobile-firmware",
+  "vendor_id": "alivecor",
+  "product_id": "kardiamobile-firmware",
+  "name": "Kardiamobile Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kardiamobile_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

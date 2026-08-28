@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "siklu--etherhaul-firmware",
+  "vendor_id": "siklu",
+  "product_id": "etherhaul-firmware",
+  "name": "Etherhaul Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "etherhaul_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

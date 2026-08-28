@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x10srw-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x10srw-firmware",
+  "name": "X10Srw Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x10srw_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

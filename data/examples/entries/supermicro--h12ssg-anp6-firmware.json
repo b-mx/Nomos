@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--h12ssg-anp6-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "h12ssg-anp6-firmware",
+  "name": "H12Ssg-Anp6 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h12ssg-anp6_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

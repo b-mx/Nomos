@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--k1spi-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "k1spi-firmware",
+  "name": "K1Spi Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k1spi_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

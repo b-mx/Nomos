@@ -3,12 +3,12 @@
   "slug": "docker",
   "vendor_id": "docker",
   "name": "Docker",
-  "icon": "logos:docker-icon",
+  "icon": null,
   "aliases": [
     {
-      "source": "nvd",
-      "value": "docker",
-      "confidence": "curated"
+      "source": "cisa_kev",
+      "value": "Docker",
+      "confidence": "auto"
     }
   ]
 }

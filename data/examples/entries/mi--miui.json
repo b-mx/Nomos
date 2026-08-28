@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mi--miui",
+  "vendor_id": "mi",
+  "product_id": "miui",
+  "name": "Miui",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "miui",
+      "confidence": "auto"
+    }
+  ]
+}

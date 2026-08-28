@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "varnish-cache-project--vinyl-cache",
+  "vendor_id": "varnish-cache-project",
+  "product_id": "vinyl-cache",
+  "name": "Vinyl Cache",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "vinyl-cache",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "varnish_cache",
+      "confidence": "auto"
+    }
+  ]
+}

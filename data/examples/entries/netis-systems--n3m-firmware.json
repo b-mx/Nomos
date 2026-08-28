@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netis-systems--n3m-firmware",
+  "vendor_id": "netis-systems",
+  "product_id": "n3m-firmware",
+  "name": "N3M Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "n3m_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

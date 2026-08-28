@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jtekt--plus-ex-firmware",
+  "vendor_id": "jtekt",
+  "product_id": "plus-ex-firmware",
+  "name": "Plus Ex Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plus_ex_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

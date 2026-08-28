@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gl-inet--a1300-firmware",
+  "vendor_id": "gl-inet",
+  "product_id": "a1300-firmware",
+  "name": "A1300 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a1300_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

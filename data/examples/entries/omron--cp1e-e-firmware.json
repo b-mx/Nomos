@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "omron--cp1e-e-firmware",
+  "vendor_id": "omron",
+  "product_id": "cp1e-e-firmware",
+  "name": "Cp1E-E Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cp1e-e_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

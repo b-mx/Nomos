@@ -4,17 +4,15 @@
   "vendor_id": "vmware",
   "product_id": "spring-framework",
   "name": "Spring Framework",
-  "type": "library",
-  "tags": [
-    "framework"
-  ],
-  "icon": "carbon:logo-vmware-alt",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Spring Framework",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

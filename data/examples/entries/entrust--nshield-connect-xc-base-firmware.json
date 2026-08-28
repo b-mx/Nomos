@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "entrust--nshield-connect-xc-base-firmware",
+  "vendor_id": "entrust",
+  "product_id": "nshield-connect-xc-base-firmware",
+  "name": "Nshield Connect Xc Base Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nshield_connect_xc_base_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "miniorange--saml-sso-service-provider",
+  "vendor_id": "miniorange",
+  "product_id": "saml-sso-service-provider",
+  "name": "Saml Sso - Service Provider",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "saml_sso_-_service_provider",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--audible",
+  "vendor_id": "amazon",
+  "product_id": "audible",
+  "name": "Audible",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "audible",
+      "confidence": "auto"
+    }
+  ]
+}

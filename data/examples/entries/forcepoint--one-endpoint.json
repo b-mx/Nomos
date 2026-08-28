@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "forcepoint--one-endpoint",
+  "vendor_id": "forcepoint",
+  "product_id": "one-endpoint",
+  "name": "One Endpoint",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "one_endpoint",
+      "confidence": "auto"
+    }
+  ]
+}

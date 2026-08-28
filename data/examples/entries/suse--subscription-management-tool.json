@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--subscription-management-tool",
+  "vendor_id": "suse",
+  "product_id": "subscription-management-tool",
+  "name": "Subscription Management Tool",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "subscription_management_tool",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iptime--a3004ns-bcm-firmware",
+  "vendor_id": "iptime",
+  "product_id": "a3004ns-bcm-firmware",
+  "name": "A3004Ns-Bcm Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a3004ns-bcm_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

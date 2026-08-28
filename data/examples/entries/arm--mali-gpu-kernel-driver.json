@@ -4,11 +4,9 @@
   "vendor_id": "arm",
   "product_id": "mali-gpu-kernel-driver",
   "name": "Mali GPU Kernel Driver",
-  "type": "os",
-  "tags": [
-    "operating-system"
-  ],
-  "icon": "logos:arm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

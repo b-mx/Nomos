@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "systech--nds-5000-firmware",
+  "vendor_id": "systech",
+  "product_id": "nds-5000-firmware",
+  "name": "Nds-5000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nds-5000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

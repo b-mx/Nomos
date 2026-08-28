@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novatech--orion5-dnp-slave",
+  "vendor_id": "novatech",
+  "product_id": "orion5-dnp-slave",
+  "name": "Orion5 Dnp Slave",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "orion5_dnp_slave",
+      "confidence": "auto"
+    }
+  ]
+}

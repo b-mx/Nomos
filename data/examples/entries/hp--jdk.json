@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--jdk",
+  "vendor_id": "hp",
+  "product_id": "jdk",
+  "name": "Jdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jdk",
+      "confidence": "auto"
+    }
+  ]
+}

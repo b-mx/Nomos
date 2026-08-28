@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11scq",
+  "vendor_id": "supermicro",
+  "product_id": "x11scq",
+  "name": "X11Scq",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11scq",
+      "confidence": "auto"
+    }
+  ]
+}

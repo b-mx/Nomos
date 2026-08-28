@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--3par-service-provider",
+  "vendor_id": "hpe",
+  "product_id": "3par-service-provider",
+  "name": "3Par Service Provider",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "3par_service_provider",
+      "confidence": "auto"
+    }
+  ]
+}

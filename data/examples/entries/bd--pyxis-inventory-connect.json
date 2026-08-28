@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--pyxis-inventory-connect",
+  "vendor_id": "bd",
+  "product_id": "pyxis-inventory-connect",
+  "name": "Pyxis Inventory Connect",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyxis_inventory_connect",
+      "confidence": "auto"
+    }
+  ]
+}

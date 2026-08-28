@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--b10dri-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "b10dri-firmware",
+  "name": "B10Dri Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b10dri_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gemalto--safenet-luna-sa",
+  "vendor_id": "gemalto",
+  "product_id": "safenet-luna-sa",
+  "name": "Safenet Luna Sa",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "safenet_luna_sa",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--aff-c190-firmware",
+  "vendor_id": "netapp",
+  "product_id": "aff-c190-firmware",
+  "name": "Aff C190 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aff_c190_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

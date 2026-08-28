@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--definity-one-media-server",
+  "vendor_id": "avaya",
+  "product_id": "definity-one-media-server",
+  "name": "Definity One Media Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "definity_one_media_server",
+      "confidence": "auto"
+    }
+  ]
+}

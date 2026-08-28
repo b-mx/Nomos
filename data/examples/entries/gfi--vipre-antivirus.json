@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gfi--vipre-antivirus",
+  "vendor_id": "gfi",
+  "product_id": "vipre-antivirus",
+  "name": "Vipre Antivirus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vipre_antivirus",
+      "confidence": "auto"
+    }
+  ]
+}

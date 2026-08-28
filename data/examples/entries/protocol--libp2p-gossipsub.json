@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "protocol--libp2p-gossipsub",
+  "vendor_id": "protocol",
+  "product_id": "libp2p-gossipsub",
+  "name": "Libp2P-Gossipsub",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libp2p-gossipsub",
+      "confidence": "auto"
+    }
+  ]
+}

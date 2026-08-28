@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--interaction-center",
+  "vendor_id": "avaya",
+  "product_id": "interaction-center",
+  "name": "Interaction Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "interaction_center",
+      "confidence": "auto"
+    }
+  ]
+}

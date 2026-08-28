@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--mbx",
+  "vendor_id": "peplink",
+  "product_id": "mbx",
+  "name": "Mbx",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mbx",
+      "confidence": "auto"
+    }
+  ]
+}

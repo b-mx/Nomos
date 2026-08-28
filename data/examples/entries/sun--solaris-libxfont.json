@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--solaris-libxfont",
+  "vendor_id": "sun",
+  "product_id": "solaris-libxfont",
+  "name": "Solaris Libxfont",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "solaris_libxfont",
+      "confidence": "auto"
+    }
+  ]
+}

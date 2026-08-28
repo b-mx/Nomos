@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--sf100",
+  "vendor_id": "hpe",
+  "product_id": "sf100",
+  "name": "Sf100",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sf100",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--consul-docker-image",
+  "vendor_id": "hashicorp",
+  "product_id": "consul-docker-image",
+  "name": "Consul Docker Image",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "consul_docker_image",
+      "confidence": "auto"
+    }
+  ]
+}

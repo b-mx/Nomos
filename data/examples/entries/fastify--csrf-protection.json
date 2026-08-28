@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fastify--csrf-protection",
+  "vendor_id": "fastify",
+  "product_id": "csrf-protection",
+  "name": "Csrf-Protection",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "csrf-protection",
+      "confidence": "auto"
+    }
+  ]
+}

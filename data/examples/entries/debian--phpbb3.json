@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--phpbb3",
+  "vendor_id": "debian",
+  "product_id": "phpbb3",
+  "name": "Phpbb3",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "phpbb3",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--usg",
+  "vendor_id": "ui",
+  "product_id": "usg",
+  "name": "Usg",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "usg",
+      "confidence": "auto"
+    }
+  ]
+}

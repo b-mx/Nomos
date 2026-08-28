@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "amazon-aurora-mysql",
+  "vendor_id": "amazon-aurora-mysql",
+  "name": "Amazon Aurora MySQL",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "amazon-aurora-mysql",
+      "confidence": "auto"
+    }
+  ]
+}

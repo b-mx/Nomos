@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mattermost--ms-teams",
+  "vendor_id": "mattermost",
+  "product_id": "ms-teams",
+  "name": "Ms Teams",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ms_teams",
+      "confidence": "auto"
+    }
+  ]
+}

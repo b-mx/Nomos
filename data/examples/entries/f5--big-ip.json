@@ -4,11 +4,9 @@
   "vendor_id": "f5",
   "product_id": "big-ip",
   "name": "BIG-IP",
-  "type": "appliance",
-  "tags": [
-    "load-balancer"
-  ],
-  "icon": "simple-icons:f5",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

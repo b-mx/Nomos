@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--c-kernel",
+  "vendor_id": "canonical",
+  "product_id": "c-kernel",
+  "name": "C-Kernel",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c-kernel",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trane--xl824-firmware",
+  "vendor_id": "trane",
+  "product_id": "xl824-firmware",
+  "name": "Xl824 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xl824_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

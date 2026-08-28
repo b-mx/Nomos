@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--insight-management-agents",
+  "vendor_id": "hp",
+  "product_id": "insight-management-agents",
+  "name": "Insight Management Agents",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "insight_management_agents",
+      "confidence": "auto"
+    }
+  ]
+}

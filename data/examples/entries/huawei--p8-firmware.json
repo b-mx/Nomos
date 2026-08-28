@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--p8-firmware",
+  "vendor_id": "huawei",
+  "product_id": "p8-firmware",
+  "name": "P8 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "p8_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

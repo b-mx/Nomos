@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "withsecure--policy-manager-proxy",
+  "vendor_id": "withsecure",
+  "product_id": "policy-manager-proxy",
+  "name": "Policy Manager Proxy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "policy_manager_proxy",
+      "confidence": "auto"
+    }
+  ]
+}

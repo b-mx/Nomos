@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "carrier--block-load",
+  "vendor_id": "carrier",
+  "product_id": "block-load",
+  "name": "Block Load",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "block_load",
+      "confidence": "auto"
+    }
+  ]
+}

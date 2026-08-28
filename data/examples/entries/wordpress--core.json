@@ -5,16 +5,14 @@
   "product_id": "core",
   "name": "Core",
   "type": "software",
-  "tags": [
-    "cms"
-  ],
-  "icon": "skill-icons:wordpress",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Core",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

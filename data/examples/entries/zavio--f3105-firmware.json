@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zavio--f3105-firmware",
+  "vendor_id": "zavio",
+  "product_id": "f3105-firmware",
+  "name": "F3105 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "f3105_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

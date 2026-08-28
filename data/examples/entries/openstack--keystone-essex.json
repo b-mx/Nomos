@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--keystone-essex",
+  "vendor_id": "openstack",
+  "product_id": "keystone-essex",
+  "name": "Keystone Essex",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "keystone_essex",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--fusionhub-firmware",
+  "vendor_id": "peplink",
+  "product_id": "fusionhub-firmware",
+  "name": "Fusionhub Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fusionhub_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

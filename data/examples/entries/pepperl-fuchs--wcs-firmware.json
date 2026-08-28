@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pepperl-fuchs--wcs-firmware",
+  "vendor_id": "pepperl-fuchs",
+  "product_id": "wcs-firmware",
+  "name": "Wcs Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wcs_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "protocol--ipfs",
+  "vendor_id": "protocol",
+  "product_id": "ipfs",
+  "name": "Ipfs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ipfs",
+      "confidence": "auto"
+    }
+  ]
+}

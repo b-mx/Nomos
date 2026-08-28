@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--external-resizer",
+  "vendor_id": "kubernetes",
+  "product_id": "external-resizer",
+  "name": "External-Resizer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "external-resizer",
+      "confidence": "auto"
+    }
+  ]
+}

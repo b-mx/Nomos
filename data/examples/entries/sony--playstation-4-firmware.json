@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sony--playstation-4-firmware",
+  "vendor_id": "sony",
+  "product_id": "playstation-4-firmware",
+  "name": "Playstation 4 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "playstation_4_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

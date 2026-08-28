@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ruby-lang--net-imap",
+  "vendor_id": "ruby-lang",
+  "product_id": "net-imap",
+  "name": "Net::Imap",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "net::imap",
+      "confidence": "auto"
+    }
+  ]
+}

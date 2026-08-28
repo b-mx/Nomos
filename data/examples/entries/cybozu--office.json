@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cybozu--office",
+  "vendor_id": "cybozu",
+  "product_id": "office",
+  "name": "Office",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "office",
+      "confidence": "auto"
+    }
+  ]
+}

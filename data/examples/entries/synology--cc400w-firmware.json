@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--cc400w-firmware",
+  "vendor_id": "synology",
+  "product_id": "cc400w-firmware",
+  "name": "Cc400W Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cc400w_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

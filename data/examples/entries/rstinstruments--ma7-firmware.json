@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rstinstruments--ma7-firmware",
+  "vendor_id": "rstinstruments",
+  "product_id": "ma7-firmware",
+  "name": "Ma7 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ma7_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

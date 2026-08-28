@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--solstice-backup",
+  "vendor_id": "sun",
+  "product_id": "solstice-backup",
+  "name": "Solstice Backup",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "solstice_backup",
+      "confidence": "auto"
+    }
+  ]
+}

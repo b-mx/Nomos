@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "foscam--ip-camera-firmware",
+  "vendor_id": "foscam",
+  "product_id": "ip-camera-firmware",
+  "name": "Ip Camera Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ip_camera_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

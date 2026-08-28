@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "forgejo--forgejo",
+  "vendor_id": "forgejo",
+  "product_id": "forgejo",
+  "name": "Forgejo",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "forgejo",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "forgejo",
+      "confidence": "auto"
+    }
+  ]
+}

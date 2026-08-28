@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachi--ucosminexus-operator",
+  "vendor_id": "hitachi",
+  "product_id": "ucosminexus-operator",
+  "name": "Ucosminexus Operator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ucosminexus_operator",
+      "confidence": "auto"
+    }
+  ]
+}

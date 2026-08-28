@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--x86x-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "x86x-firmware",
+  "name": "X86X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x86x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

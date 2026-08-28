@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--webinspect",
+  "vendor_id": "hp",
+  "product_id": "webinspect",
+  "name": "Webinspect",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "webinspect",
+      "confidence": "auto"
+    }
+  ]
+}

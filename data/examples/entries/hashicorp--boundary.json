@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--boundary",
+  "vendor_id": "hashicorp",
+  "product_id": "boundary",
+  "name": "Hashicorp Boundary",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "boundary",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "boundary",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "codesys--simulation-runtime",
+  "vendor_id": "codesys",
+  "product_id": "simulation-runtime",
+  "name": "Simulation Runtime",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "simulation_runtime",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11sba",
+  "vendor_id": "supermicro",
+  "product_id": "x11sba",
+  "name": "X11Sba",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11sba",
+      "confidence": "auto"
+    }
+  ]
+}

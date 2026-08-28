@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lfprojects--valkey-bloom",
+  "vendor_id": "lfprojects",
+  "product_id": "valkey-bloom",
+  "name": "Valkey-Bloom",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "valkey-bloom",
+      "confidence": "auto"
+    }
+  ]
+}

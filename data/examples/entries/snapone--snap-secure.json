@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "snapone--snap-secure",
+  "vendor_id": "snapone",
+  "product_id": "snap-secure",
+  "name": "Snap Secure",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "snap_secure",
+      "confidence": "auto"
+    }
+  ]
+}

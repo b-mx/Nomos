@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--radeon-pro-w5500",
+  "vendor_id": "amd",
+  "product_id": "radeon-pro-w5500",
+  "name": "Radeon Pro W5500",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "radeon_pro_w5500",
+      "confidence": "auto"
+    }
+  ]
+}

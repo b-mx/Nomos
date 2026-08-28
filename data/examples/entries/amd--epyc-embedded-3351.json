@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-embedded-3351",
+  "vendor_id": "amd",
+  "product_id": "epyc-embedded-3351",
+  "name": "Epyc Embedded 3351",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_embedded_3351",
+      "confidence": "auto"
+    }
+  ]
+}

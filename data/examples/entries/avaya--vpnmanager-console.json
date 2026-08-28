@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--vpnmanager-console",
+  "vendor_id": "avaya",
+  "product_id": "vpnmanager-console",
+  "name": "Vpnmanager Console",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vpnmanager_console",
+      "confidence": "auto"
+    }
+  ]
+}

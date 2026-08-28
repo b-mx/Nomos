@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "exagrid--backup-appliance-firmware",
+  "vendor_id": "exagrid",
+  "product_id": "backup-appliance-firmware",
+  "name": "Backup Appliance Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "backup_appliance_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--cortex",
+  "vendor_id": "linuxfoundation",
+  "product_id": "cortex",
+  "name": "Cortex",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cortex",
+      "confidence": "auto"
+    }
+  ]
+}

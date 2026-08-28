@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "renesas--arm-trusted-firmware",
+  "vendor_id": "renesas",
+  "product_id": "arm-trusted-firmware",
+  "name": "Arm-Trusted-Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arm-trusted-firmware",
+      "confidence": "auto"
+    }
+  ]
+}

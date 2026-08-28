@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "binatoneglobal--cn50-firmware",
+  "vendor_id": "binatoneglobal",
+  "product_id": "cn50-firmware",
+  "name": "Cn50 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cn50_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cmu--panda3d",
+  "vendor_id": "cmu",
+  "product_id": "panda3d",
+  "name": "Panda3D",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "panda3d",
+      "confidence": "auto"
+    }
+  ]
+}

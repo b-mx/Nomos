@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--forms",
+  "vendor_id": "nextcloud",
+  "product_id": "forms",
+  "name": "Forms",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "forms",
+      "confidence": "auto"
+    }
+  ]
+}

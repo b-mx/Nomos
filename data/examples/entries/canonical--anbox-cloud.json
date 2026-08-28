@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--anbox-cloud",
+  "vendor_id": "canonical",
+  "product_id": "anbox-cloud",
+  "name": "Anbox Cloud",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "anbox_cloud",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "eurolinux--eurolinux",
+  "vendor_id": "eurolinux",
+  "product_id": "eurolinux",
+  "name": "EuroLinux",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "eurolinux",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "eurolinux",
+      "confidence": "auto"
+    }
+  ]
+}

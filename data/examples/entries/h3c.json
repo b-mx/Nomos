@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "h3c",
+  "vendor_id": "h3c",
+  "name": "H3C",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h3c",
+      "confidence": "auto"
+    }
+  ]
+}

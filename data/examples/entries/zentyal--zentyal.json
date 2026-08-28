@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zentyal--zentyal",
+  "vendor_id": "zentyal",
+  "product_id": "zentyal",
+  "name": "Zentyal",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "zentyal",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netiq--access-manager",
+  "vendor_id": "netiq",
+  "product_id": "access-manager",
+  "name": "Access Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "access_manager",
+      "confidence": "auto"
+    }
+  ]
+}

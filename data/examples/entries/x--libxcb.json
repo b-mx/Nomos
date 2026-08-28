@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x--libxcb",
+  "vendor_id": "x",
+  "product_id": "libxcb",
+  "name": "Libxcb",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libxcb",
+      "confidence": "auto"
+    }
+  ]
+}

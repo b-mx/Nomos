@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x-org--libx11",
+  "vendor_id": "x-org",
+  "product_id": "libx11",
+  "name": "Libx11",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libx11",
+      "confidence": "auto"
+    }
+  ]
+}

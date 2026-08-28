@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--energy-management",
+  "vendor_id": "lenovo",
+  "product_id": "energy-management",
+  "name": "Energy Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "energy_management",
+      "confidence": "auto"
+    }
+  ]
+}

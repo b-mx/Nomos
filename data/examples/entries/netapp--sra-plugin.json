@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--sra-plugin",
+  "vendor_id": "netapp",
+  "product_id": "sra-plugin",
+  "name": "Sra Plugin",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sra_plugin",
+      "confidence": "auto"
+    }
+  ]
+}

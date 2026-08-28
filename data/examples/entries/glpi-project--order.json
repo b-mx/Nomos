@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "glpi-project--order",
+  "vendor_id": "glpi-project",
+  "product_id": "order",
+  "name": "Order",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "order",
+      "confidence": "auto"
+    }
+  ]
+}

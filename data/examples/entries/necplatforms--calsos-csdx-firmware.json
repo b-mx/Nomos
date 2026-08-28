@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "necplatforms--calsos-csdx-firmware",
+  "vendor_id": "necplatforms",
+  "product_id": "calsos-csdx-firmware",
+  "name": "Calsos Csdx Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "calsos_csdx_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

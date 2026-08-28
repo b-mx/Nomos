@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opentelemetry--telemetry-schema-files",
+  "vendor_id": "opentelemetry",
+  "product_id": "telemetry-schema-files",
+  "name": "Telemetry Schema Files",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "telemetry_schema_files",
+      "confidence": "auto"
+    }
+  ]
+}

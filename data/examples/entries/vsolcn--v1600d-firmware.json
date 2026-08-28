@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vsolcn--v1600d-firmware",
+  "vendor_id": "vsolcn",
+  "product_id": "v1600d-firmware",
+  "name": "V1600D Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "v1600d_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

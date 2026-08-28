@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--cert-manager",
+  "vendor_id": "linuxfoundation",
+  "product_id": "cert-manager",
+  "name": "Cert-Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cert-manager",
+      "confidence": "auto"
+    }
+  ]
+}

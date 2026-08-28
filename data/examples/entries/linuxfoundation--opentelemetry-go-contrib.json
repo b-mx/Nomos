@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--opentelemetry-go-contrib",
+  "vendor_id": "linuxfoundation",
+  "product_id": "opentelemetry-go-contrib",
+  "name": "Opentelemetry-Go Contrib",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opentelemetry-go_contrib",
+      "confidence": "auto"
+    }
+  ]
+}

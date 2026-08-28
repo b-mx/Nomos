@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--slingshot",
+  "vendor_id": "hpe",
+  "product_id": "slingshot",
+  "name": "Slingshot",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "slingshot",
+      "confidence": "auto"
+    }
+  ]
+}

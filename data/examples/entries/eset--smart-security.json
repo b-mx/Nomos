@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eset--smart-security",
+  "vendor_id": "eset",
+  "product_id": "smart-security",
+  "name": "Smart Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_security",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--puppet-tripleo",
+  "vendor_id": "openstack",
+  "product_id": "puppet-tripleo",
+  "name": "Puppet-Tripleo",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "puppet-tripleo",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-9654p",
+  "vendor_id": "amd",
+  "product_id": "epyc-9654p",
+  "name": "Epyc 9654P",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_9654p",
+      "confidence": "auto"
+    }
+  ]
+}

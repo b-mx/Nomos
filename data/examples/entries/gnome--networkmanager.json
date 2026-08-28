@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--networkmanager",
+  "vendor_id": "gnome",
+  "product_id": "networkmanager",
+  "name": "Networkmanager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "networkmanager",
+      "confidence": "auto"
+    }
+  ]
+}

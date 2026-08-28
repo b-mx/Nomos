@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--mgate-mb3180-firmware",
+  "vendor_id": "moxa",
+  "product_id": "mgate-mb3180-firmware",
+  "name": "Mgate Mb3180 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mgate_mb3180_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

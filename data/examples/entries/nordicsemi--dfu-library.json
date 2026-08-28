@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nordicsemi--dfu-library",
+  "vendor_id": "nordicsemi",
+  "product_id": "dfu-library",
+  "name": "Dfu Library",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dfu_library",
+      "confidence": "auto"
+    }
+  ]
+}

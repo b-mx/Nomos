@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "windows-powershell",
+  "vendor_id": "windows-powershell",
+  "name": "Microsoft Windows PowerShell",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "windows-powershell",
+      "confidence": "auto"
+    }
+  ]
+}

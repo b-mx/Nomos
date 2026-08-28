@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "compaq--sanworks-resource-monitor",
+  "vendor_id": "compaq",
+  "product_id": "sanworks-resource-monitor",
+  "name": "Sanworks Resource Monitor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sanworks_resource_monitor",
+      "confidence": "auto"
+    }
+  ]
+}

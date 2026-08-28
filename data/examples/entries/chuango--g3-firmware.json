@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "chuango--g3-firmware",
+  "vendor_id": "chuango",
+  "product_id": "g3-firmware",
+  "name": "G3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "g3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

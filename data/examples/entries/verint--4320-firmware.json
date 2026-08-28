@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "verint--4320-firmware",
+  "vendor_id": "verint",
+  "product_id": "4320-firmware",
+  "name": "4320 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "4320_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

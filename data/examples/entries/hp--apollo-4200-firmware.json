@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--apollo-4200-firmware",
+  "vendor_id": "hp",
+  "product_id": "apollo-4200-firmware",
+  "name": "Apollo 4200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apollo_4200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

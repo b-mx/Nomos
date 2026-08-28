@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--open-distro",
+  "vendor_id": "amazon",
+  "product_id": "open-distro",
+  "name": "Open Distro",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "open_distro",
+      "confidence": "auto"
+    }
+  ]
+}

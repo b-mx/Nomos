@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudera--data-engineering",
+  "vendor_id": "cloudera",
+  "product_id": "data-engineering",
+  "name": "Data Engineering",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "data_engineering",
+      "confidence": "auto"
+    }
+  ]
+}

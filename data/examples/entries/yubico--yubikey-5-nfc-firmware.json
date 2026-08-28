@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yubico--yubikey-5-nfc-firmware",
+  "vendor_id": "yubico",
+  "product_id": "yubikey-5-nfc-firmware",
+  "name": "Yubikey 5 Nfc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "yubikey_5_nfc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

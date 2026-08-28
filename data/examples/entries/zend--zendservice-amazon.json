@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zend--zendservice-amazon",
+  "vendor_id": "zend",
+  "product_id": "zendservice-amazon",
+  "name": "Zendservice Amazon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zendservice_amazon",
+      "confidence": "auto"
+    }
+  ]
+}

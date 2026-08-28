@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sony--nfc-net-installer",
+  "vendor_id": "sony",
+  "product_id": "nfc-net-installer",
+  "name": "Nfc Net Installer",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nfc_net_installer",
+      "confidence": "auto"
+    }
+  ]
+}

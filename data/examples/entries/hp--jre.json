@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--jre",
+  "vendor_id": "hp",
+  "product_id": "jre",
+  "name": "Jre",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jre",
+      "confidence": "auto"
+    }
+  ]
+}

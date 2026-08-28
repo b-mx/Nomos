@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sony--nfc-port-firmware",
+  "vendor_id": "sony",
+  "product_id": "nfc-port-firmware",
+  "name": "Nfc Port Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nfc_port_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--apps-manager",
+  "vendor_id": "pivotal",
+  "product_id": "apps-manager",
+  "name": "Apps Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apps_manager",
+      "confidence": "auto"
+    }
+  ]
+}

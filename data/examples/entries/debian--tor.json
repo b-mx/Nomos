@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--tor",
+  "vendor_id": "debian",
+  "product_id": "tor",
+  "name": "Tor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tor",
+      "confidence": "auto"
+    }
+  ]
+}

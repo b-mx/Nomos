@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--max-hd4-firmware",
+  "vendor_id": "peplink",
+  "product_id": "max-hd4-firmware",
+  "name": "Max Hd4 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "max_hd4_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

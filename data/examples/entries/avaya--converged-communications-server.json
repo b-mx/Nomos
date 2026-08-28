@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--converged-communications-server",
+  "vendor_id": "avaya",
+  "product_id": "converged-communications-server",
+  "name": "Converged Communications Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "converged_communications_server",
+      "confidence": "auto"
+    }
+  ]
+}

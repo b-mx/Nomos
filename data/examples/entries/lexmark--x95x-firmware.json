@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--x95x-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "x95x-firmware",
+  "name": "X95X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x95x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

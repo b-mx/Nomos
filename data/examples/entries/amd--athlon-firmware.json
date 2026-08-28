@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--athlon-firmware",
+  "vendor_id": "amd",
+  "product_id": "athlon-firmware",
+  "name": "Athlon Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "athlon_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

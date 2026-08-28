@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "langchain--langchain-community",
+  "vendor_id": "langchain",
+  "product_id": "langchain-community",
+  "name": "Langchain Community",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "langchain_community",
+      "confidence": "auto"
+    }
+  ]
+}

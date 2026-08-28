@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "centreon--open-tickets",
+  "vendor_id": "centreon",
+  "product_id": "open-tickets",
+  "name": "Open Tickets",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "open_tickets",
+      "confidence": "auto"
+    }
+  ]
+}

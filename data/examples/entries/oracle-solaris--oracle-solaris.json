@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle-solaris--oracle-solaris",
+  "vendor_id": "oracle-solaris",
+  "product_id": "oracle-solaris",
+  "name": "Oracle Solaris",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "oracle-solaris",
+      "confidence": "auto"
+    }
+  ]
+}

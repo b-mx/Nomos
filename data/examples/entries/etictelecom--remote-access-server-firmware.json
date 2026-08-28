@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "etictelecom--remote-access-server-firmware",
+  "vendor_id": "etictelecom",
+  "product_id": "remote-access-server-firmware",
+  "name": "Remote Access Server Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remote_access_server_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "snowflake--streamlit",
+  "vendor_id": "snowflake",
+  "product_id": "streamlit",
+  "name": "Streamlit",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "streamlit",
+      "confidence": "auto"
+    }
+  ]
+}

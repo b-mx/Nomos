@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-pro",
+  "vendor_id": "amd",
+  "product_id": "ryzen-pro",
+  "name": "Ryzen Pro",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_pro",
+      "confidence": "auto"
+    }
+  ]
+}

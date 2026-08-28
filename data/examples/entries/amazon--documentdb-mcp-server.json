@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--documentdb-mcp-server",
+  "vendor_id": "amazon",
+  "product_id": "documentdb-mcp-server",
+  "name": "Documentdb Mcp Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "documentdb_mcp_server",
+      "confidence": "auto"
+    }
+  ]
+}

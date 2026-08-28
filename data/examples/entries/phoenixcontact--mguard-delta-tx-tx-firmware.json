@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phoenixcontact--mguard-delta-tx-tx-firmware",
+  "vendor_id": "phoenixcontact",
+  "product_id": "mguard-delta-tx-tx-firmware",
+  "name": "Mguard Delta Tx/Tx Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mguard_delta_tx/tx_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

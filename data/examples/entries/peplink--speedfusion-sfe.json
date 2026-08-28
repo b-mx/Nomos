@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--speedfusion-sfe",
+  "vendor_id": "peplink",
+  "product_id": "speedfusion-sfe",
+  "name": "Speedfusion Sfe",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "speedfusion_sfe",
+      "confidence": "auto"
+    }
+  ]
+}

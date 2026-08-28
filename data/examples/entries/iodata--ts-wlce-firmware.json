@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--ts-wlce-firmware",
+  "vendor_id": "iodata",
+  "product_id": "ts-wlce-firmware",
+  "name": "Ts-Wlce Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ts-wlce_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

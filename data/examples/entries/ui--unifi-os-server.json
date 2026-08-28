@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-os-server",
+  "vendor_id": "ui",
+  "product_id": "unifi-os-server",
+  "name": "Unifi Os Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_os_server",
+      "confidence": "auto"
+    }
+  ]
+}

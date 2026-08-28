@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opentelemetry--ebpf-instrumentation",
+  "vendor_id": "opentelemetry",
+  "product_id": "ebpf-instrumentation",
+  "name": "Ebpf Instrumentation",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ebpf_instrumentation",
+      "confidence": "auto"
+    }
+  ]
+}

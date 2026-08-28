@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--gen-10-servers",
+  "vendor_id": "hp",
+  "product_id": "gen-10-servers",
+  "name": "Gen 10 Servers",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gen_10_servers",
+      "confidence": "auto"
+    }
+  ]
+}

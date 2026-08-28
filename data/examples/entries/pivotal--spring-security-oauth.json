@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--spring-security-oauth",
+  "vendor_id": "pivotal",
+  "product_id": "spring-security-oauth",
+  "name": "Spring Security Oauth",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "spring_security_oauth",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pilz--pmi-v812-firmware",
+  "vendor_id": "pilz",
+  "product_id": "pmi-v812-firmware",
+  "name": "Pmi V812 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pmi_v812_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

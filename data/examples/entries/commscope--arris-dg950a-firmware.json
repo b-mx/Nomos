@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "commscope--arris-dg950a-firmware",
+  "vendor_id": "commscope",
+  "product_id": "arris-dg950a-firmware",
+  "name": "Arris Dg950A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arris_dg950a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

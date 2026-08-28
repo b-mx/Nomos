@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linksys--velop-firmware",
+  "vendor_id": "linksys",
+  "product_id": "velop-firmware",
+  "name": "Velop Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "velop_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

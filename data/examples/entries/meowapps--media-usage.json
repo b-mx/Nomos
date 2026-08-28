@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "meowapps--media-usage",
+  "vendor_id": "meowapps",
+  "product_id": "media-usage",
+  "name": "Media Usage",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "media_usage",
+      "confidence": "auto"
+    }
+  ]
+}

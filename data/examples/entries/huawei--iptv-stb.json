@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--iptv-stb",
+  "vendor_id": "huawei",
+  "product_id": "iptv-stb",
+  "name": "Iptv Stb",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iptv_stb",
+      "confidence": "auto"
+    }
+  ]
+}

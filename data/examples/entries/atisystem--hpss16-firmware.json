@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "atisystem--hpss16-firmware",
+  "vendor_id": "atisystem",
+  "product_id": "hpss16-firmware",
+  "name": "Hpss16 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hpss16_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

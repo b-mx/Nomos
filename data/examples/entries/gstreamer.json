@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "gstreamer",
+  "vendor_id": "gstreamer",
+  "name": "Gstreamer",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gstreamer",
+      "confidence": "auto"
+    }
+  ]
+}

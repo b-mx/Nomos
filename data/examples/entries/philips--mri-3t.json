@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--mri-3t",
+  "vendor_id": "philips",
+  "product_id": "mri-3t",
+  "name": "Mri 3T",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mri_3t",
+      "confidence": "auto"
+    }
+  ]
+}

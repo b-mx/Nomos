@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--eternus-cs8000-firmware",
+  "vendor_id": "fujitsu",
+  "product_id": "eternus-cs8000-firmware",
+  "name": "Eternus Cs8000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eternus_cs8000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

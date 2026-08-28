@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sophos--firewall",
+  "vendor_id": "sophos",
+  "product_id": "firewall",
+  "name": "Firewall",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Firewall",
+      "confidence": "auto"
+    }
+  ]
+}

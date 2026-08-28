@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "leagoo--power-5-firmware",
+  "vendor_id": "leagoo",
+  "product_id": "power-5-firmware",
+  "name": "Power 5 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "power_5_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

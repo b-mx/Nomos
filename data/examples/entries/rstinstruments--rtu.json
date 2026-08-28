@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rstinstruments--rtu",
+  "vendor_id": "rstinstruments",
+  "product_id": "rtu",
+  "name": "Rtu",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rtu",
+      "confidence": "auto"
+    }
+  ]
+}

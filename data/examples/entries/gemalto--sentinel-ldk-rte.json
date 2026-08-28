@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gemalto--sentinel-ldk-rte",
+  "vendor_id": "gemalto",
+  "product_id": "sentinel-ldk-rte",
+  "name": "Sentinel Ldk Rte",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sentinel_ldk_rte",
+      "confidence": "auto"
+    }
+  ]
+}

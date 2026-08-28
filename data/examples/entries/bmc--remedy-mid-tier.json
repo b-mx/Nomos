@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--remedy-mid-tier",
+  "vendor_id": "bmc",
+  "product_id": "remedy-mid-tier",
+  "name": "Remedy Mid-Tier",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remedy_mid-tier",
+      "confidence": "auto"
+    }
+  ]
+}

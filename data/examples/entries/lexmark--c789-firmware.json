@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--c789-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "c789-firmware",
+  "name": "C789 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c789_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

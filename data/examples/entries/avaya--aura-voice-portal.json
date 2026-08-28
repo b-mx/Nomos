@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--aura-voice-portal",
+  "vendor_id": "avaya",
+  "product_id": "aura-voice-portal",
+  "name": "Aura Voice Portal",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aura_voice_portal",
+      "confidence": "auto"
+    }
+  ]
+}

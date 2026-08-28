@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--edgemax-firmware",
+  "vendor_id": "ui",
+  "product_id": "edgemax-firmware",
+  "name": "Edgemax Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edgemax_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

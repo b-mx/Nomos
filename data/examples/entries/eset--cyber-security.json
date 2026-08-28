@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eset--cyber-security",
+  "vendor_id": "eset",
+  "product_id": "cyber-security",
+  "name": "Cyber Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cyber_security",
+      "confidence": "auto"
+    }
+  ]
+}

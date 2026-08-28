@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "openstack",
+  "vendor_id": "openstack",
+  "name": "Openstack",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openstack",
+      "confidence": "auto"
+    }
+  ]
+}

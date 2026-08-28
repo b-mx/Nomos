@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--tripleo-heat-templates",
+  "vendor_id": "openstack",
+  "product_id": "tripleo-heat-templates",
+  "name": "Tripleo Heat Templates",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tripleo_heat_templates",
+      "confidence": "auto"
+    }
+  ]
+}

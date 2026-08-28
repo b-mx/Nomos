@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--hci",
+  "vendor_id": "netapp",
+  "product_id": "hci",
+  "name": "Hci",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hci",
+      "confidence": "auto"
+    }
+  ]
+}

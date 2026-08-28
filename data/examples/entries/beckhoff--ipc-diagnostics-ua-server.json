@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "beckhoff--ipc-diagnostics-ua-server",
+  "vendor_id": "beckhoff",
+  "product_id": "ipc-diagnostics-ua-server",
+  "name": "Ipc Diagnostics Ua Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ipc_diagnostics_ua_server",
+      "confidence": "auto"
+    }
+  ]
+}

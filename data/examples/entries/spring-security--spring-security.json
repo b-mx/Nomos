@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "spring-security--spring-security",
+  "vendor_id": "spring-security",
+  "product_id": "spring-security",
+  "name": "Spring Security",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "spring-security",
+      "confidence": "auto"
+    }
+  ]
+}

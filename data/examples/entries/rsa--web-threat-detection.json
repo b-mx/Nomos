@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--web-threat-detection",
+  "vendor_id": "rsa",
+  "product_id": "web-threat-detection",
+  "name": "Web Threat Detection",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web_threat_detection",
+      "confidence": "auto"
+    }
+  ]
+}

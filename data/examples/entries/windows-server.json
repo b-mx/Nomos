@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "windows-server",
+  "vendor_id": "windows-server",
+  "name": "Microsoft Windows Server",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "windows-server",
+      "confidence": "auto"
+    }
+  ]
+}

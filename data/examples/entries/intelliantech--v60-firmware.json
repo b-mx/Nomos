@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intelliantech--v60-firmware",
+  "vendor_id": "intelliantech",
+  "product_id": "v60-firmware",
+  "name": "V60 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "v60_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

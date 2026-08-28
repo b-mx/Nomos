@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--netapp-manageability-sdk",
+  "vendor_id": "netapp",
+  "product_id": "netapp-manageability-sdk",
+  "name": "Netapp Manageability Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "netapp_manageability_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

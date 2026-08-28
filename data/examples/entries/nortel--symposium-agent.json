@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nortel--symposium-agent",
+  "vendor_id": "nortel",
+  "product_id": "symposium-agent",
+  "name": "Symposium Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "symposium_agent",
+      "confidence": "auto"
+    }
+  ]
+}

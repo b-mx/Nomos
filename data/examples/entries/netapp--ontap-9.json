@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--ontap-9",
+  "vendor_id": "netapp",
+  "product_id": "ontap-9",
+  "name": "Ontap 9",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ontap_9",
+      "confidence": "auto"
+    }
+  ]
+}

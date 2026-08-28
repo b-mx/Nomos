@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--smart-camera",
+  "vendor_id": "bosch",
+  "product_id": "smart-camera",
+  "name": "Smart Camera",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_camera",
+      "confidence": "auto"
+    }
+  ]
+}

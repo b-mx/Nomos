@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "pnpm",
+  "vendor_id": "pnpm",
+  "name": "Pnpm",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pnpm",
+      "confidence": "auto"
+    }
+  ]
+}

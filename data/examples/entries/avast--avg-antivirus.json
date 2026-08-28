@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avast--avg-antivirus",
+  "vendor_id": "avast",
+  "product_id": "avg-antivirus",
+  "name": "Avg Antivirus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "avg_antivirus",
+      "confidence": "auto"
+    }
+  ]
+}

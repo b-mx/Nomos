@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "unify--session-border-controller",
+  "vendor_id": "unify",
+  "product_id": "session-border-controller",
+  "name": "Session Border Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "session_border_controller",
+      "confidence": "auto"
+    }
+  ]
+}

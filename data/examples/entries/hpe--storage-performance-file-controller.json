@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--storage-performance-file-controller",
+  "vendor_id": "hpe",
+  "product_id": "storage-performance-file-controller",
+  "name": "Storage Performance File Controller",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storage_performance_file_controller",
+      "confidence": "auto"
+    }
+  ]
+}

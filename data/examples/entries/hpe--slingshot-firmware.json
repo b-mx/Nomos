@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--slingshot-firmware",
+  "vendor_id": "hpe",
+  "product_id": "slingshot-firmware",
+  "name": "Slingshot Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "slingshot_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

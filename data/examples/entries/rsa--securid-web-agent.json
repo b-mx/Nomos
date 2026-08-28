@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--securid-web-agent",
+  "vendor_id": "rsa",
+  "product_id": "securid-web-agent",
+  "name": "Securid Web Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "securid_web_agent",
+      "confidence": "auto"
+    }
+  ]
+}

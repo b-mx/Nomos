@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rletech--fds-wi-firmware",
+  "vendor_id": "rletech",
+  "product_id": "fds-wi-firmware",
+  "name": "Fds-Wi Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fds-wi_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--icewall-sso-certd",
+  "vendor_id": "hpe",
+  "product_id": "icewall-sso-certd",
+  "name": "Icewall Sso Certd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icewall_sso_certd",
+      "confidence": "auto"
+    }
+  ]
+}

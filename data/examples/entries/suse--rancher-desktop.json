@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--rancher-desktop",
+  "vendor_id": "suse",
+  "product_id": "rancher-desktop",
+  "name": "Rancher Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rancher_desktop",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fastify--fastify-static",
+  "vendor_id": "fastify",
+  "product_id": "fastify-static",
+  "name": "Fastify-Static",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fastify-static",
+      "confidence": "auto"
+    }
+  ]
+}

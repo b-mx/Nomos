@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--nport-6610-32-firmware",
+  "vendor_id": "moxa",
+  "product_id": "nport-6610-32-firmware",
+  "name": "Nport 6610-32 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nport_6610-32_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--catalyst-sd-wan",
+  "vendor_id": "cisco",
+  "product_id": "catalyst-sd-wan",
+  "name": "Catalyst SD-WAN",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Catalyst SD-WAN",
+      "confidence": "auto"
+    }
+  ]
+}

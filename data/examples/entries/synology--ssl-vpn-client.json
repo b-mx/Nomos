@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--ssl-vpn-client",
+  "vendor_id": "synology",
+  "product_id": "ssl-vpn-client",
+  "name": "Ssl Vpn Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ssl_vpn_client",
+      "confidence": "auto"
+    }
+  ]
+}

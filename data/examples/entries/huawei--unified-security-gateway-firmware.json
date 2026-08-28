@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--unified-security-gateway-firmware",
+  "vendor_id": "huawei",
+  "product_id": "unified-security-gateway-firmware",
+  "name": "Unified Security Gateway Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unified_security_gateway_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

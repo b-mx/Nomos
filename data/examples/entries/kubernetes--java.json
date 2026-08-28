@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--java",
+  "vendor_id": "kubernetes",
+  "product_id": "java",
+  "name": "Java",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "java",
+      "confidence": "auto"
+    }
+  ]
+}

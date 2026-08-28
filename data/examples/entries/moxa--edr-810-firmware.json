@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--edr-810-firmware",
+  "vendor_id": "moxa",
+  "product_id": "edr-810-firmware",
+  "name": "Edr-810 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edr-810_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

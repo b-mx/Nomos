@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--cp-storage-block",
+  "vendor_id": "lenovo",
+  "product_id": "cp-storage-block",
+  "name": "Cp Storage Block",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cp_storage_block",
+      "confidence": "auto"
+    }
+  ]
+}

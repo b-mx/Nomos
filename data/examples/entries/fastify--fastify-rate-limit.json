@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fastify--fastify-rate-limit",
+  "vendor_id": "fastify",
+  "product_id": "fastify-rate-limit",
+  "name": "Fastify/Rate-Limit",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fastify/rate-limit",
+      "confidence": "auto"
+    }
+  ]
+}

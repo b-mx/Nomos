@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "miniorange--web-application-firewall",
+  "vendor_id": "miniorange",
+  "product_id": "web-application-firewall",
+  "name": "Web Application Firewall",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web_application_firewall",
+      "confidence": "auto"
+    }
+  ]
+}

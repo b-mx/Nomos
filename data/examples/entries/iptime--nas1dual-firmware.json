@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iptime--nas1dual-firmware",
+  "vendor_id": "iptime",
+  "product_id": "nas1dual-firmware",
+  "name": "Nas1Dual Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nas1dual_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

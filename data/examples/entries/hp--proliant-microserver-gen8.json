@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-microserver-gen8",
+  "vendor_id": "hp",
+  "product_id": "proliant-microserver-gen8",
+  "name": "Proliant Microserver Gen8",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_microserver_gen8",
+      "confidence": "auto"
+    }
+  ]
+}

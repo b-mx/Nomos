@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "metallb",
+  "vendor_id": "metallb",
+  "name": "MetalLB",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "metallb",
+      "confidence": "auto"
+    }
+  ]
+}

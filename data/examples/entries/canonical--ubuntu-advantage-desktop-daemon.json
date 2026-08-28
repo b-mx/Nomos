@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--ubuntu-advantage-desktop-daemon",
+  "vendor_id": "canonical",
+  "product_id": "ubuntu-advantage-desktop-daemon",
+  "name": "Ubuntu Advantage Desktop Daemon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ubuntu_advantage_desktop_daemon",
+      "confidence": "auto"
+    }
+  ]
+}

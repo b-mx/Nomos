@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "weintek--cmt-g02-firmware",
+  "vendor_id": "weintek",
+  "product_id": "cmt-g02-firmware",
+  "name": "Cmt-G02 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cmt-g02_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--diego",
+  "vendor_id": "cloudfoundry",
+  "product_id": "diego",
+  "name": "Diego",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "diego",
+      "confidence": "auto"
+    }
+  ]
+}

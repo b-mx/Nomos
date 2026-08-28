@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--storage-data-protector",
+  "vendor_id": "hp",
+  "product_id": "storage-data-protector",
+  "name": "Storage Data Protector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storage_data_protector",
+      "confidence": "auto"
+    }
+  ]
+}

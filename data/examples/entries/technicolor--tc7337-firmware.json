@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "technicolor--tc7337-firmware",
+  "vendor_id": "technicolor",
+  "product_id": "tc7337-firmware",
+  "name": "Tc7337 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tc7337_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

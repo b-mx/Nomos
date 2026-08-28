@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--bladelogic-server-automation-console",
+  "vendor_id": "bmc",
+  "product_id": "bladelogic-server-automation-console",
+  "name": "Bladelogic Server Automation Console",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bladelogic_server_automation_console",
+      "confidence": "auto"
+    }
+  ]
+}

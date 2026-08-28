@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ave--ts01-firmware",
+  "vendor_id": "ave",
+  "product_id": "ts01-firmware",
+  "name": "Ts01 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ts01_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

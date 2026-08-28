@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "gradle--gradle",
+  "vendor_id": "gradle",
+  "product_id": "gradle",
+  "name": "Gradle",
+  "type": "software",
+  "tags": [
+    "build-tool"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "gradle",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "gradle",
+      "confidence": "auto"
+    }
+  ]
+}

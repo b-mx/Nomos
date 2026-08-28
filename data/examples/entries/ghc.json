@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "ghc",
+  "vendor_id": "ghc",
+  "name": "Glasgow Haskell Compiler (GHC)",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "ghc",
+      "confidence": "auto"
+    }
+  ]
+}

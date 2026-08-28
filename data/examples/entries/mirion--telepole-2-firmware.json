@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mirion--telepole-2-firmware",
+  "vendor_id": "mirion",
+  "product_id": "telepole-2-firmware",
+  "name": "Telepole 2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "telepole_2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

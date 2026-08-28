@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "polycom--trio-8500-firmware",
+  "vendor_id": "polycom",
+  "product_id": "trio-8500-firmware",
+  "name": "Trio 8500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "trio_8500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--enterprise-fortress-gateway",
+  "vendor_id": "ui",
+  "product_id": "enterprise-fortress-gateway",
+  "name": "Enterprise Fortress Gateway",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise_fortress_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

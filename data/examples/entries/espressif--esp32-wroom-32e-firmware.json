@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp32-wroom-32e-firmware",
+  "vendor_id": "espressif",
+  "product_id": "esp32-wroom-32e-firmware",
+  "name": "Esp32-Wroom-32E Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp32-wroom-32e_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

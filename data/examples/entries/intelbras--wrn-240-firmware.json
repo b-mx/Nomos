@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intelbras--wrn-240-firmware",
+  "vendor_id": "intelbras",
+  "product_id": "wrn-240-firmware",
+  "name": "Wrn 240 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wrn_240_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

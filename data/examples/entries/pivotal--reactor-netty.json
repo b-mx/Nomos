@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--reactor-netty",
+  "vendor_id": "pivotal",
+  "product_id": "reactor-netty",
+  "name": "Reactor Netty",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "reactor_netty",
+      "confidence": "auto"
+    }
+  ]
+}

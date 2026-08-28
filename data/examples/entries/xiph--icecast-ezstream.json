@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "xiph--icecast-ezstream",
+  "vendor_id": "xiph",
+  "product_id": "icecast-ezstream",
+  "name": "Icecast Ezstream",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icecast_ezstream",
+      "confidence": "auto"
+    }
+  ]
+}

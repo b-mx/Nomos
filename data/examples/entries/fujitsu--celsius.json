@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--celsius",
+  "vendor_id": "fujitsu",
+  "product_id": "celsius",
+  "name": "Celsius",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "celsius",
+      "confidence": "auto"
+    }
+  ]
+}

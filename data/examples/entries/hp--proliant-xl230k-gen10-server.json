@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-xl230k-gen10-server",
+  "vendor_id": "hp",
+  "product_id": "proliant-xl230k-gen10-server",
+  "name": "Proliant Xl230K Gen10 Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_xl230k_gen10_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fronius--datalogger-web",
+  "vendor_id": "fronius",
+  "product_id": "datalogger-web",
+  "name": "Datalogger Web",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "datalogger_web",
+      "confidence": "auto"
+    }
+  ]
+}

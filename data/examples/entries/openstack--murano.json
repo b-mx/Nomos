@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--murano",
+  "vendor_id": "openstack",
+  "product_id": "murano",
+  "name": "Murano",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "murano",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--anaconda",
+  "vendor_id": "fedoraproject",
+  "product_id": "anaconda",
+  "name": "Anaconda",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "anaconda",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "coship--rt7620-firmware",
+  "vendor_id": "coship",
+  "product_id": "rt7620-firmware",
+  "name": "Rt7620 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rt7620_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

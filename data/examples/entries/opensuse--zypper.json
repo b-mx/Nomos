@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--zypper",
+  "vendor_id": "opensuse",
+  "product_id": "zypper",
+  "name": "Zypper",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zypper",
+      "confidence": "auto"
+    }
+  ]
+}

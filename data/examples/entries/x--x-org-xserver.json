@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x--x-org-xserver",
+  "vendor_id": "x",
+  "product_id": "x-org-xserver",
+  "name": "X.Org-Xserver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x.org-xserver",
+      "confidence": "auto"
+    }
+  ]
+}

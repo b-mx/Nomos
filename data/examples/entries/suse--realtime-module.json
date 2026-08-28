@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--realtime-module",
+  "vendor_id": "suse",
+  "product_id": "realtime-module",
+  "name": "Realtime Module",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "realtime_module",
+      "confidence": "auto"
+    }
+  ]
+}

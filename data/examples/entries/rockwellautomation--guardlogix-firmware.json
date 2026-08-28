@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rockwellautomation--guardlogix-firmware",
+  "vendor_id": "rockwellautomation",
+  "product_id": "guardlogix-firmware",
+  "name": "Guardlogix Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "guardlogix_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

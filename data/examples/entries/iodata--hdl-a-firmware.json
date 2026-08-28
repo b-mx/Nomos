@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--hdl-a-firmware",
+  "vendor_id": "iodata",
+  "product_id": "hdl-a-firmware",
+  "name": "Hdl-A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hdl-a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

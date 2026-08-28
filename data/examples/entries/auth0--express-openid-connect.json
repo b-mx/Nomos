@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "auth0--express-openid-connect",
+  "vendor_id": "auth0",
+  "product_id": "express-openid-connect",
+  "name": "Express Openid Connect",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "express_openid_connect",
+      "confidence": "auto"
+    }
+  ]
+}

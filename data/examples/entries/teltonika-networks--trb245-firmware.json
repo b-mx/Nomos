@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teltonika-networks--trb245-firmware",
+  "vendor_id": "teltonika-networks",
+  "product_id": "trb245-firmware",
+  "name": "Trb245 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "trb245_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

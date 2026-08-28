@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--ray-server-software",
+  "vendor_id": "sun",
+  "product_id": "ray-server-software",
+  "name": "Ray Server Software",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ray_server_software",
+      "confidence": "auto"
+    }
+  ]
+}

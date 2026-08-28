@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--extract",
+  "vendor_id": "nextcloud",
+  "product_id": "extract",
+  "name": "Extract",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "extract",
+      "confidence": "auto"
+    }
+  ]
+}

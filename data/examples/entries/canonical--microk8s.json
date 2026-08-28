@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--microk8s",
+  "vendor_id": "canonical",
+  "product_id": "microk8s",
+  "name": "Microk8S",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "microk8s",
+      "confidence": "auto"
+    }
+  ]
+}

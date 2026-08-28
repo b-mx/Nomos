@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "paypal--payments-standard",
+  "vendor_id": "paypal",
+  "product_id": "payments-standard",
+  "name": "Payments Standard",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "payments_standard",
+      "confidence": "auto"
+    }
+  ]
+}

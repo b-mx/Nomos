@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--hudson",
+  "vendor_id": "eclipse",
+  "product_id": "hudson",
+  "name": "Hudson",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hudson",
+      "confidence": "auto"
+    }
+  ]
+}

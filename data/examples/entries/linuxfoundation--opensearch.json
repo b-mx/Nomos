@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--opensearch",
+  "vendor_id": "linuxfoundation",
+  "product_id": "opensearch",
+  "name": "Opensearch",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opensearch",
+      "confidence": "auto"
+    }
+  ]
+}

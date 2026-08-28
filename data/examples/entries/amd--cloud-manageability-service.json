@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--cloud-manageability-service",
+  "vendor_id": "amd",
+  "product_id": "cloud-manageability-service",
+  "name": "Cloud Manageability Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_manageability_service",
+      "confidence": "auto"
+    }
+  ]
+}

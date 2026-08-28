@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--vault-action",
+  "vendor_id": "hashicorp",
+  "product_id": "vault-action",
+  "name": "Vault-Action",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vault-action",
+      "confidence": "auto"
+    }
+  ]
+}

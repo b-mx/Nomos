@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "e-plugins--wp-membership",
+  "vendor_id": "e-plugins",
+  "product_id": "wp-membership",
+  "name": "Wp Membership",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wp_membership",
+      "confidence": "auto"
+    }
+  ]
+}

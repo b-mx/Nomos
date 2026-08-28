@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "antixlinux--antix",
+  "vendor_id": "antixlinux",
+  "product_id": "antix",
+  "name": "antiX Linux",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "antix",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "antix_linux",
+      "confidence": "auto"
+    }
+  ]
+}

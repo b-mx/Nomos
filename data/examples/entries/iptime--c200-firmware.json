@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iptime--c200-firmware",
+  "vendor_id": "iptime",
+  "product_id": "c200-firmware",
+  "name": "C200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--one-administration-server",
+  "vendor_id": "sun",
+  "product_id": "one-administration-server",
+  "name": "One Administration Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "one_administration_server",
+      "confidence": "auto"
+    }
+  ]
+}

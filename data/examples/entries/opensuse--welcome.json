@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--welcome",
+  "vendor_id": "opensuse",
+  "product_id": "welcome",
+  "name": "Welcome",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "welcome",
+      "confidence": "auto"
+    }
+  ]
+}

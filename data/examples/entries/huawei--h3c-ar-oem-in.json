@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--h3c-ar-oem-in",
+  "vendor_id": "huawei",
+  "product_id": "h3c-ar-oem-in",
+  "name": "H3C Ar(Oem In)",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h3c_ar(oem_in)",
+      "confidence": "auto"
+    }
+  ]
+}

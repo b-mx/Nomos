@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "brocade--vyatta-vrouter-software",
+  "vendor_id": "brocade",
+  "product_id": "vyatta-vrouter-software",
+  "name": "Vyatta Vrouter Software",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vyatta_vrouter_software",
+      "confidence": "auto"
+    }
+  ]
+}

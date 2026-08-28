@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7543p-firmware",
+  "vendor_id": "amd",
+  "product_id": "epyc-7543p-firmware",
+  "name": "Epyc 7543P Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7543p_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

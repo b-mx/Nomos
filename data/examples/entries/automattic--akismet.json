@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "automattic--akismet",
+  "vendor_id": "automattic",
+  "product_id": "akismet",
+  "name": "Akismet",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "akismet",
+      "confidence": "auto"
+    }
+  ]
+}

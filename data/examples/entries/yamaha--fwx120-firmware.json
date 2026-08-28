@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yamaha--fwx120-firmware",
+  "vendor_id": "yamaha",
+  "product_id": "fwx120-firmware",
+  "name": "Fwx120 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fwx120_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

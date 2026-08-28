@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "h3c--mc102-g-firmware",
+  "vendor_id": "h3c",
+  "product_id": "mc102-g-firmware",
+  "name": "Mc102-G Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mc102-g_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

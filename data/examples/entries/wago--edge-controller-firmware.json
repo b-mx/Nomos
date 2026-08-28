@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wago--edge-controller-firmware",
+  "vendor_id": "wago",
+  "product_id": "edge-controller-firmware",
+  "name": "Edge Controller Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edge_controller_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--mc2535-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "mc2535-firmware",
+  "name": "Mc2535 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mc2535_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

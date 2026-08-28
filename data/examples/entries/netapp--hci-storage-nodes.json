@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--hci-storage-nodes",
+  "vendor_id": "netapp",
+  "product_id": "hci-storage-nodes",
+  "name": "Hci Storage Nodes",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hci_storage_nodes",
+      "confidence": "auto"
+    }
+  ]
+}

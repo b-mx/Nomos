@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--pcf-tile-generator",
+  "vendor_id": "pivotal",
+  "product_id": "pcf-tile-generator",
+  "name": "Pcf Tile Generator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pcf_tile_generator",
+      "confidence": "auto"
+    }
+  ]
+}

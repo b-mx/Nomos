@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openmrs--openmrs",
+  "vendor_id": "openmrs",
+  "product_id": "openmrs",
+  "name": "Openmrs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openmrs",
+      "confidence": "auto"
+    }
+  ]
+}

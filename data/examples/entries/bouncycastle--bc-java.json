@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bouncycastle--bc-java",
+  "vendor_id": "bouncycastle",
+  "product_id": "bc-java",
+  "name": "Bc-Java",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bc-java",
+      "confidence": "auto"
+    }
+  ]
+}

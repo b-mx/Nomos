@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-lambda",
+  "vendor_id": "amazon",
+  "product_id": "aws-lambda",
+  "name": "Aws Lambda",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws_lambda",
+      "confidence": "auto"
+    }
+  ]
+}

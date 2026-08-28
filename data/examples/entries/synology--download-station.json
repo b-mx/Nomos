@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--download-station",
+  "vendor_id": "synology",
+  "product_id": "download-station",
+  "name": "Download Station",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "download_station",
+      "confidence": "auto"
+    }
+  ]
+}

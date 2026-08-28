@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--suse-linux-enterprise-high-availability-extension",
+  "vendor_id": "suse",
+  "product_id": "suse-linux-enterprise-high-availability-extension",
+  "name": "Suse Linux Enterprise High Availability Extension",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_linux_enterprise_high_availability_extension",
+      "confidence": "auto"
+    }
+  ]
+}

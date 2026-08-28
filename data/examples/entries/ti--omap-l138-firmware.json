@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ti--omap-l138-firmware",
+  "vendor_id": "ti",
+  "product_id": "omap-l138-firmware",
+  "name": "Omap L138 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "omap_l138_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

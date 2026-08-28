@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ssh--secure-shell-for-servers",
+  "vendor_id": "ssh",
+  "product_id": "secure-shell-for-servers",
+  "name": "Secure Shell For Servers",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "secure_shell_for_servers",
+      "confidence": "auto"
+    }
+  ]
+}

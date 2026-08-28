@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--aws-iam-authenticator",
+  "vendor_id": "kubernetes",
+  "product_id": "aws-iam-authenticator",
+  "name": "Aws-Iam-Authenticator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws-iam-authenticator",
+      "confidence": "auto"
+    }
+  ]
+}

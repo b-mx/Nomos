@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-7-5825u-firmware",
+  "vendor_id": "amd",
+  "product_id": "ryzen-7-5825u-firmware",
+  "name": "Ryzen 7 5825U Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_7_5825u_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

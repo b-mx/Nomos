@@ -3,17 +3,12 @@
   "slug": "fortinet",
   "vendor_id": "fortinet",
   "name": "Fortinet",
-  "icon": "thesvg-color:fortinet",
+  "icon": null,
   "aliases": [
-    {
-      "source": "nvd",
-      "value": "fortinet",
-      "confidence": "curated"
-    },
     {
       "source": "cisa_kev",
       "value": "Fortinet",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

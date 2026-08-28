@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ssh--tectia-connectsecure",
+  "vendor_id": "ssh",
+  "product_id": "tectia-connectsecure",
+  "name": "Tectia Connectsecure",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tectia_connectsecure",
+      "confidence": "auto"
+    }
+  ]
+}

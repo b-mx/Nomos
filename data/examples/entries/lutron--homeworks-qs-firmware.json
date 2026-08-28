@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lutron--homeworks-qs-firmware",
+  "vendor_id": "lutron",
+  "product_id": "homeworks-qs-firmware",
+  "name": "Homeworks Qs Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "homeworks_qs_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

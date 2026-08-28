@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sas--base-sas",
+  "vendor_id": "sas",
+  "product_id": "base-sas",
+  "name": "Base Sas",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "base_sas",
+      "confidence": "auto"
+    }
+  ]
+}

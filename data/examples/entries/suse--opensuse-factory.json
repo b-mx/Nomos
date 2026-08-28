@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--opensuse-factory",
+  "vendor_id": "suse",
+  "product_id": "opensuse-factory",
+  "name": "Opensuse Factory",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opensuse_factory",
+      "confidence": "auto"
+    }
+  ]
+}

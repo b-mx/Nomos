@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--mfa-proxy",
+  "vendor_id": "hp",
+  "product_id": "mfa-proxy",
+  "name": "Mfa Proxy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mfa_proxy",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "matrix--matrix-irc-bridge",
+  "vendor_id": "matrix",
+  "product_id": "matrix-irc-bridge",
+  "name": "Matrix Irc Bridge",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "matrix_irc_bridge",
+      "confidence": "auto"
+    }
+  ]
+}

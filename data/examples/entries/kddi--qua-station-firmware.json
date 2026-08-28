@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kddi--qua-station-firmware",
+  "vendor_id": "kddi",
+  "product_id": "qua-station-firmware",
+  "name": "Qua Station Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "qua_station_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

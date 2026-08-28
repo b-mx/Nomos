@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mozilla--firefox-esr",
+  "vendor_id": "mozilla",
+  "product_id": "firefox-esr",
+  "name": "Firefox ESR",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Firefox ESR",
+      "confidence": "auto"
+    }
+  ]
+}

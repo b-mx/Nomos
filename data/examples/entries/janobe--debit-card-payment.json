@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "janobe--debit-card-payment",
+  "vendor_id": "janobe",
+  "product_id": "debit-card-payment",
+  "name": "Debit Card Payment",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "debit_card_payment",
+      "confidence": "auto"
+    }
+  ]
+}

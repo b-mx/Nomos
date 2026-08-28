@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--c800",
+  "vendor_id": "netapp",
+  "product_id": "c800",
+  "name": "C800",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c800",
+      "confidence": "auto"
+    }
+  ]
+}

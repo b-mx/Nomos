@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "xiph--icecast",
+  "vendor_id": "xiph",
+  "product_id": "icecast",
+  "name": "Icecast",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icecast",
+      "confidence": "auto"
+    }
+  ]
+}

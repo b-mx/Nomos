@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "seagate--nas-os",
+  "vendor_id": "seagate",
+  "product_id": "nas-os",
+  "name": "Nas Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nas_os",
+      "confidence": "auto"
+    }
+  ]
+}

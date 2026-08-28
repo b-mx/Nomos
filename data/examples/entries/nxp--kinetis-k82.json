@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nxp--kinetis-k82",
+  "vendor_id": "nxp",
+  "product_id": "kinetis-k82",
+  "name": "Kinetis K82",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kinetis_k82",
+      "confidence": "auto"
+    }
+  ]
+}

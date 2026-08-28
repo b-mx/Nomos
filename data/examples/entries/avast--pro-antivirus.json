@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avast--pro-antivirus",
+  "vendor_id": "avast",
+  "product_id": "pro-antivirus",
+  "name": "Pro Antivirus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pro_antivirus",
+      "confidence": "auto"
+    }
+  ]
+}

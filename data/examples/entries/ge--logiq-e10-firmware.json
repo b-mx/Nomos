@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--logiq-e10-firmware",
+  "vendor_id": "ge",
+  "product_id": "logiq-e10-firmware",
+  "name": "Logiq E10 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "logiq_e10_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

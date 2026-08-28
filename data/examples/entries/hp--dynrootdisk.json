@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--dynrootdisk",
+  "vendor_id": "hp",
+  "product_id": "dynrootdisk",
+  "name": "Dynrootdisk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dynrootdisk",
+      "confidence": "auto"
+    }
+  ]
+}

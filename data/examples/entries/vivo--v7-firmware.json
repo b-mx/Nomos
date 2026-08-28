@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vivo--v7-firmware",
+  "vendor_id": "vivo",
+  "product_id": "v7-firmware",
+  "name": "V7 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "v7_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

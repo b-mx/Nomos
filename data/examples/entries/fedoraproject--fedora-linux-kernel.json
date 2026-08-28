@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--fedora-linux-kernel",
+  "vendor_id": "fedoraproject",
+  "product_id": "fedora-linux-kernel",
+  "name": "Fedora Linux Kernel",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fedora_linux_kernel",
+      "confidence": "auto"
+    }
+  ]
+}

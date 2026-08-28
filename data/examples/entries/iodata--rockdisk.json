@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--rockdisk",
+  "vendor_id": "iodata",
+  "product_id": "rockdisk",
+  "name": "Rockdisk",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rockdisk",
+      "confidence": "auto"
+    }
+  ]
+}

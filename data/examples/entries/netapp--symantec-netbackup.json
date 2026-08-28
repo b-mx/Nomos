@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--symantec-netbackup",
+  "vendor_id": "netapp",
+  "product_id": "symantec-netbackup",
+  "name": "Symantec Netbackup",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "symantec_netbackup",
+      "confidence": "auto"
+    }
+  ]
+}

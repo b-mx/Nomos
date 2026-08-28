@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--openvms-alpha",
+  "vendor_id": "hp",
+  "product_id": "openvms-alpha",
+  "name": "Openvms Alpha",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openvms_alpha",
+      "confidence": "auto"
+    }
+  ]
+}

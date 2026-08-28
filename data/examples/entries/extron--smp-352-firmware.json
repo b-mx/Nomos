@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "extron--smp-352-firmware",
+  "vendor_id": "extron",
+  "product_id": "smp-352-firmware",
+  "name": "Smp 352 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smp_352_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

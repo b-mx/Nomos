@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--redshift-odbc-driver",
+  "vendor_id": "amazon",
+  "product_id": "redshift-odbc-driver",
+  "name": "Redshift Odbc Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "redshift_odbc_driver",
+      "confidence": "auto"
+    }
+  ]
+}

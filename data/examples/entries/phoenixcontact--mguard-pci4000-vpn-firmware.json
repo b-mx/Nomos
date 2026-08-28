@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phoenixcontact--mguard-pci4000-vpn-firmware",
+  "vendor_id": "phoenixcontact",
+  "product_id": "mguard-pci4000-vpn-firmware",
+  "name": "Mguard Pci4000 Vpn Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mguard_pci4000_vpn_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

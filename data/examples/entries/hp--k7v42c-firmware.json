@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--k7v42c-firmware",
+  "vendor_id": "hp",
+  "product_id": "k7v42c-firmware",
+  "name": "K7V42C Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k7v42c_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

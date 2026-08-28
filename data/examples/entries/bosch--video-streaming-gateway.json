@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--video-streaming-gateway",
+  "vendor_id": "bosch",
+  "product_id": "video-streaming-gateway",
+  "name": "Video Streaming Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "video_streaming_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

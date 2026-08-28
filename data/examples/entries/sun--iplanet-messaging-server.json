@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--iplanet-messaging-server",
+  "vendor_id": "sun",
+  "product_id": "iplanet-messaging-server",
+  "name": "Iplanet Messaging Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iplanet_messaging_server",
+      "confidence": "auto"
+    }
+  ]
+}

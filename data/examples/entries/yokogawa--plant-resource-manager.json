@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yokogawa--plant-resource-manager",
+  "vendor_id": "yokogawa",
+  "product_id": "plant-resource-manager",
+  "name": "Plant Resource Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plant_resource_manager",
+      "confidence": "auto"
+    }
+  ]
+}

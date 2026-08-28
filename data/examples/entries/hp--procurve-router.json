@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--procurve-router",
+  "vendor_id": "hp",
+  "product_id": "procurve-router",
+  "name": "Procurve Router",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "procurve_router",
+      "confidence": "auto"
+    }
+  ]
+}

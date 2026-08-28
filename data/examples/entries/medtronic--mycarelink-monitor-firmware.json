@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--mycarelink-monitor-firmware",
+  "vendor_id": "medtronic",
+  "product_id": "mycarelink-monitor-firmware",
+  "name": "Mycarelink Monitor Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mycarelink_monitor_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

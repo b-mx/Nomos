@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--fusionsphere-openstack-firmware",
+  "vendor_id": "huawei",
+  "product_id": "fusionsphere-openstack-firmware",
+  "name": "Fusionsphere Openstack Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fusionsphere_openstack_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

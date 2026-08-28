@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "robo--robo",
+  "vendor_id": "robo",
+  "product_id": "robo",
+  "name": "Robo",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "robo",
+      "confidence": "auto"
+    }
+  ]
+}

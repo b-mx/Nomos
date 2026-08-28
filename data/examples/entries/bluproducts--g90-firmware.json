@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bluproducts--g90-firmware",
+  "vendor_id": "bluproducts",
+  "product_id": "g90-firmware",
+  "name": "G90 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "g90_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

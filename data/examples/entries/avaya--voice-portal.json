@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--voice-portal",
+  "vendor_id": "avaya",
+  "product_id": "voice-portal",
+  "name": "Voice Portal",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "voice_portal",
+      "confidence": "auto"
+    }
+  ]
+}

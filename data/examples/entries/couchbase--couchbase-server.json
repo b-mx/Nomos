@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "couchbase--couchbase-server",
+  "vendor_id": "couchbase",
+  "product_id": "couchbase-server",
+  "name": "Couchbase Server",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "couchbase-server",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "couchbase_server",
+      "confidence": "auto"
+    }
+  ]
+}

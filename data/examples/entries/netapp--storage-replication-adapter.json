@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--storage-replication-adapter",
+  "vendor_id": "netapp",
+  "product_id": "storage-replication-adapter",
+  "name": "Storage Replication Adapter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storage_replication_adapter",
+      "confidence": "auto"
+    }
+  ]
+}

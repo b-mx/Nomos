@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x9srd-f-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x9srd-f-firmware",
+  "name": "X9Srd-F Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x9srd-f_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

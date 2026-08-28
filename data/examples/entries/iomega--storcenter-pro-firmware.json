@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iomega--storcenter-pro-firmware",
+  "vendor_id": "iomega",
+  "product_id": "storcenter-pro-firmware",
+  "name": "Storcenter Pro Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storcenter_pro_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

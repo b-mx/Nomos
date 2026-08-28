@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--k4t99b-firmware",
+  "vendor_id": "hp",
+  "product_id": "k4t99b-firmware",
+  "name": "K4T99B Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k4t99b_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

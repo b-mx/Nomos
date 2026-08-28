@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "godotengine--godot",
+  "vendor_id": "godotengine",
+  "product_id": "godot",
+  "name": "Godot",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "godot",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "godot",
+      "confidence": "auto"
+    }
+  ]
+}

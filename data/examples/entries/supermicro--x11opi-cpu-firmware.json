@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11opi-cpu-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11opi-cpu-firmware",
+  "name": "X11Opi-Cpu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11opi-cpu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

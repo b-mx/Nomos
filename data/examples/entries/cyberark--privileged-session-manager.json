@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cyberark--privileged-session-manager",
+  "vendor_id": "cyberark",
+  "product_id": "privileged-session-manager",
+  "name": "Privileged Session Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "privileged_session_manager",
+      "confidence": "auto"
+    }
+  ]
+}

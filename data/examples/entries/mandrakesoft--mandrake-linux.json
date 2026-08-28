@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mandrakesoft--mandrake-linux",
+  "vendor_id": "mandrakesoft",
+  "product_id": "mandrake-linux",
+  "name": "Mandrake Linux",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mandrake_linux",
+      "confidence": "auto"
+    }
+  ]
+}

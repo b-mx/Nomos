@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--ip-utility",
+  "vendor_id": "axis",
+  "product_id": "ip-utility",
+  "name": "Ip Utility",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ip_utility",
+      "confidence": "auto"
+    }
+  ]
+}

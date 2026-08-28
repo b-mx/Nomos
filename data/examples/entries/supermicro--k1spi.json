@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--k1spi",
+  "vendor_id": "supermicro",
+  "product_id": "k1spi",
+  "name": "K1Spi",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k1spi",
+      "confidence": "auto"
+    }
+  ]
+}

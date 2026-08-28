@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canon--eos-5ds-firmware",
+  "vendor_id": "canon",
+  "product_id": "eos-5ds-firmware",
+  "name": "Eos 5Ds Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eos_5ds_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sony--playstation-portable",
+  "vendor_id": "sony",
+  "product_id": "playstation-portable",
+  "name": "Playstation Portable",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "playstation_portable",
+      "confidence": "auto"
+    }
+  ]
+}

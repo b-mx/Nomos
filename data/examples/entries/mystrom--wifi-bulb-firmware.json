@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mystrom--wifi-bulb-firmware",
+  "vendor_id": "mystrom",
+  "product_id": "wifi-bulb-firmware",
+  "name": "Wifi Bulb Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wifi_bulb_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

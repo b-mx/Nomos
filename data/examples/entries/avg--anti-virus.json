@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avg--anti-virus",
+  "vendor_id": "avg",
+  "product_id": "anti-virus",
+  "name": "Anti-Virus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "anti-virus",
+      "confidence": "auto"
+    }
+  ]
+}

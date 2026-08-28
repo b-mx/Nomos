@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canon--eos-m10-firmware",
+  "vendor_id": "canon",
+  "product_id": "eos-m10-firmware",
+  "name": "Eos M10 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eos_m10_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

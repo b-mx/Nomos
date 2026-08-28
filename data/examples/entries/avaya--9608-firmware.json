@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--9608-firmware",
+  "vendor_id": "avaya",
+  "product_id": "9608-firmware",
+  "name": "9608 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "9608_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

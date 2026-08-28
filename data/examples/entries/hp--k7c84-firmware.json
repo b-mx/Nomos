@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--k7c84-firmware",
+  "vendor_id": "hp",
+  "product_id": "k7c84-firmware",
+  "name": "K7C84 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k7c84_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

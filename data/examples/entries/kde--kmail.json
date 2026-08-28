@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--kmail",
+  "vendor_id": "kde",
+  "product_id": "kmail",
+  "name": "Kmail",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kmail",
+      "confidence": "auto"
+    }
+  ]
+}

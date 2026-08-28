@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ibexa--kernel",
+  "vendor_id": "ibexa",
+  "product_id": "kernel",
+  "name": "Kernel",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kernel",
+      "confidence": "auto"
+    }
+  ]
+}

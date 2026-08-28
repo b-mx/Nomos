@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--synergy-480-gen10-firmware",
+  "vendor_id": "hp",
+  "product_id": "synergy-480-gen10-firmware",
+  "name": "Synergy 480 Gen10 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "synergy_480_gen10_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

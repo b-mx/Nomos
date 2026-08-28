@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--v1n02a-firmware",
+  "vendor_id": "hp",
+  "product_id": "v1n02a-firmware",
+  "name": "V1N02A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "v1n02a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

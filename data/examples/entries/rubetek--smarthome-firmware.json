@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rubetek--smarthome-firmware",
+  "vendor_id": "rubetek",
+  "product_id": "smarthome-firmware",
+  "name": "Smarthome Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smarthome_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

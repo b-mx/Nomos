@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-cloud-gateway-industrial",
+  "vendor_id": "ui",
+  "product_id": "unifi-cloud-gateway-industrial",
+  "name": "Unifi Cloud Gateway Industrial",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_cloud_gateway_industrial",
+      "confidence": "auto"
+    }
+  ]
+}

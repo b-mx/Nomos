@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--diskstation-manager-unified-controller",
+  "vendor_id": "synology",
+  "product_id": "diskstation-manager-unified-controller",
+  "name": "Diskstation Manager Unified Controller",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "diskstation_manager_unified_controller",
+      "confidence": "auto"
+    }
+  ]
+}

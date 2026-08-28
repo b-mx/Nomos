@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--openstack-cloud-crowbar",
+  "vendor_id": "suse",
+  "product_id": "openstack-cloud-crowbar",
+  "name": "Openstack Cloud Crowbar",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openstack_cloud_crowbar",
+      "confidence": "auto"
+    }
+  ]
+}

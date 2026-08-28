@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hms-networks--ewon-flexy-firmware",
+  "vendor_id": "hms-networks",
+  "product_id": "ewon-flexy-firmware",
+  "name": "Ewon Flexy Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ewon_flexy_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

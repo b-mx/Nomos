@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--inventory-collect-tool",
+  "vendor_id": "netapp",
+  "product_id": "inventory-collect-tool",
+  "name": "Inventory Collect Tool",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "inventory_collect_tool",
+      "confidence": "auto"
+    }
+  ]
+}

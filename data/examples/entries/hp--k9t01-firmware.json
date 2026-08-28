@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--k9t01-firmware",
+  "vendor_id": "hp",
+  "product_id": "k9t01-firmware",
+  "name": "K9T01 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k9t01_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

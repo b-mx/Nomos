@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--command-line-interface",
+  "vendor_id": "cloudfoundry",
+  "product_id": "command-line-interface",
+  "name": "Command Line Interface",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "command_line_interface",
+      "confidence": "auto"
+    }
+  ]
+}

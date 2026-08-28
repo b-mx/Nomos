@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "miniorange--limit-login-attempts",
+  "vendor_id": "miniorange",
+  "product_id": "limit-login-attempts",
+  "name": "Limit Login Attempts",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "limit_login_attempts",
+      "confidence": "auto"
+    }
+  ]
+}

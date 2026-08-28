@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--openj9",
+  "vendor_id": "eclipse",
+  "product_id": "openj9",
+  "name": "Openj9",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openj9",
+      "confidence": "auto"
+    }
+  ]
+}

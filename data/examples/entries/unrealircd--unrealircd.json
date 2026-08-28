@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "unrealircd--unrealircd",
+  "vendor_id": "unrealircd",
+  "product_id": "unrealircd",
+  "name": "UnrealIRCd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "unrealircd",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "unrealircd",
+      "confidence": "auto"
+    }
+  ]
+}

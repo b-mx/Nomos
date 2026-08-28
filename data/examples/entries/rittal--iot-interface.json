@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rittal--iot-interface",
+  "vendor_id": "rittal",
+  "product_id": "iot-interface",
+  "name": "Iot Interface",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iot_interface",
+      "confidence": "auto"
+    }
+  ]
+}

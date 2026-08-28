@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "siklu--tg-firmware",
+  "vendor_id": "siklu",
+  "product_id": "tg-firmware",
+  "name": "Tg Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tg_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

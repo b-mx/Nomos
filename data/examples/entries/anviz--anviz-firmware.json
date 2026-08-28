@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "anviz--anviz-firmware",
+  "vendor_id": "anviz",
+  "product_id": "anviz-firmware",
+  "name": "Anviz Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "anviz_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

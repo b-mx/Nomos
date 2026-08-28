@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fastify--fastify-http-proxy",
+  "vendor_id": "fastify",
+  "product_id": "fastify-http-proxy",
+  "name": "Fastify/Http-Proxy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fastify/http-proxy",
+      "confidence": "auto"
+    }
+  ]
+}

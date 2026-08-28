@@ -5,21 +5,19 @@
   "product_id": "ubuntu",
   "name": "Ubuntu",
   "type": "os",
-  "tags": [
-    "operating-system"
-  ],
-  "icon": "logos:ubuntu",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
-      "source": "nvd",
-      "value": "ubuntu_linux",
-      "confidence": "curated"
-    },
-    {
       "source": "endoflife",
       "value": "ubuntu",
-      "confidence": "curated"
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "ubuntu_linux",
+      "confidence": "auto"
     }
   ]
 }

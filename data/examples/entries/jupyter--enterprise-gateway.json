@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--enterprise-gateway",
+  "vendor_id": "jupyter",
+  "product_id": "enterprise-gateway",
+  "name": "Enterprise Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

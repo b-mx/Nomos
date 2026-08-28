@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gocloud--s2a-wl-firmware",
+  "vendor_id": "gocloud",
+  "product_id": "s2a-wl-firmware",
+  "name": "S2A Wl Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "s2a_wl_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

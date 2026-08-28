@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--25xxn-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "25xxn-firmware",
+  "name": "25Xxn Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "25xxn_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

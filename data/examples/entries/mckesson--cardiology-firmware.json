@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mckesson--cardiology-firmware",
+  "vendor_id": "mckesson",
+  "product_id": "cardiology-firmware",
+  "name": "Cardiology Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cardiology_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

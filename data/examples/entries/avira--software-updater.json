@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avira--software-updater",
+  "vendor_id": "avira",
+  "product_id": "software-updater",
+  "name": "Software Updater",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "software_updater",
+      "confidence": "auto"
+    }
+  ]
+}

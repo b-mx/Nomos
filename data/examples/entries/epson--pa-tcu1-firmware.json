@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--pa-tcu1-firmware",
+  "vendor_id": "epson",
+  "product_id": "pa-tcu1-firmware",
+  "name": "Pa-Tcu1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pa-tcu1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

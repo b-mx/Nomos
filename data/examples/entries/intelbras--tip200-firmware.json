@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intelbras--tip200-firmware",
+  "vendor_id": "intelbras",
+  "product_id": "tip200-firmware",
+  "name": "Tip200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tip200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

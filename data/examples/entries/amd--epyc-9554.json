@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-9554",
+  "vendor_id": "amd",
+  "product_id": "epyc-9554",
+  "name": "Epyc 9554",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_9554",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "elasticsearch",
+  "vendor_id": "elasticsearch",
+  "name": "Elasticsearch",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "elasticsearch",
+      "confidence": "auto"
+    }
+  ]
+}

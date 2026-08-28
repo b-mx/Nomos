@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--router-manager",
+  "vendor_id": "synology",
+  "product_id": "router-manager",
+  "name": "Router Manager",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "router_manager",
+      "confidence": "auto"
+    }
+  ]
+}

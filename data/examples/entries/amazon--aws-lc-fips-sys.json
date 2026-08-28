@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-lc-fips-sys",
+  "vendor_id": "amazon",
+  "product_id": "aws-lc-fips-sys",
+  "name": "Aws-Lc-Fips-Sys",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws-lc-fips-sys",
+      "confidence": "auto"
+    }
+  ]
+}

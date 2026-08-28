@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avast--premium-security",
+  "vendor_id": "avast",
+  "product_id": "premium-security",
+  "name": "Premium Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "premium_security",
+      "confidence": "auto"
+    }
+  ]
+}

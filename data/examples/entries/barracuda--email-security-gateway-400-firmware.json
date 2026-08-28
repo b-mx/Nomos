@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "barracuda--email-security-gateway-400-firmware",
+  "vendor_id": "barracuda",
+  "product_id": "email-security-gateway-400-firmware",
+  "name": "Email Security Gateway 400 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "email_security_gateway_400_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--mt45-firmware",
+  "vendor_id": "hp",
+  "product_id": "mt45-firmware",
+  "name": "Mt45 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mt45_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7303p",
+  "vendor_id": "amd",
+  "product_id": "epyc-7303p",
+  "name": "Epyc 7303P",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7303p",
+      "confidence": "auto"
+    }
+  ]
+}

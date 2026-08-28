@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--cifs-9000-server",
+  "vendor_id": "hp",
+  "product_id": "cifs-9000-server",
+  "name": "Cifs-9000 Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cifs-9000_server",
+      "confidence": "auto"
+    }
+  ]
+}

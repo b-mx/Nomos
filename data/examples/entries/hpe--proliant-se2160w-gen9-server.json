@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--proliant-se2160w-gen9-server",
+  "vendor_id": "hpe",
+  "product_id": "proliant-se2160w-gen9-server",
+  "name": "Proliant Se2160W Gen9 Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_se2160w_gen9_server",
+      "confidence": "auto"
+    }
+  ]
+}

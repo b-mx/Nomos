@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--photo-station-uploader",
+  "vendor_id": "synology",
+  "product_id": "photo-station-uploader",
+  "name": "Photo Station Uploader",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "photo_station_uploader",
+      "confidence": "auto"
+    }
+  ]
+}

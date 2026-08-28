@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--oncell-gateway-firmware",
+  "vendor_id": "moxa",
+  "product_id": "oncell-gateway-firmware",
+  "name": "Oncell Gateway Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "oncell_gateway_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

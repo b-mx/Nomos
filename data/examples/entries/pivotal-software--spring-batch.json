@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--spring-batch",
+  "vendor_id": "pivotal-software",
+  "product_id": "spring-batch",
+  "name": "Spring Batch",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "spring_batch",
+      "confidence": "auto"
+    }
+  ]
+}

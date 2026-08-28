@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--dip-3000-firmware",
+  "vendor_id": "bosch",
+  "product_id": "dip-3000-firmware",
+  "name": "Dip 3000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dip_3000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

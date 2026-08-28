@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nxp--mifare-ultralight-ev1-firmware",
+  "vendor_id": "nxp",
+  "product_id": "mifare-ultralight-ev1-firmware",
+  "name": "Mifare Ultralight Ev1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mifare_ultralight_ev1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--cifs-utils",
+  "vendor_id": "debian",
+  "product_id": "cifs-utils",
+  "name": "Cifs-Utils",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cifs-utils",
+      "confidence": "auto"
+    }
+  ]
+}

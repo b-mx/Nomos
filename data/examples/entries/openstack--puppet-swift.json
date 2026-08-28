@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--puppet-swift",
+  "vendor_id": "openstack",
+  "product_id": "puppet-swift",
+  "name": "Puppet-Swift",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "puppet-swift",
+      "confidence": "auto"
+    }
+  ]
+}

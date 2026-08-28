@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mybb--ban-list",
+  "vendor_id": "mybb",
+  "product_id": "ban-list",
+  "name": "Ban List",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ban_list",
+      "confidence": "auto"
+    }
+  ]
+}

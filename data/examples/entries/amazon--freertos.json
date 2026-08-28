@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--freertos",
+  "vendor_id": "amazon",
+  "product_id": "freertos",
+  "name": "Freertos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "freertos",
+      "confidence": "auto"
+    }
+  ]
+}

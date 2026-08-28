@@ -3,12 +3,12 @@
   "slug": "canonical",
   "vendor_id": "canonical",
   "name": "Canonical",
-  "icon": "logos:ubuntu",
+  "icon": null,
   "aliases": [
     {
       "source": "nvd",
       "value": "canonical",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

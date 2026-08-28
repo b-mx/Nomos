@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "theforeman--smart-proxy-salt",
+  "vendor_id": "theforeman",
+  "product_id": "smart-proxy-salt",
+  "name": "Smart Proxy Salt",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_proxy_salt",
+      "confidence": "auto"
+    }
+  ]
+}

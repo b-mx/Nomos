@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "f-secure--security-cloud",
+  "vendor_id": "f-secure",
+  "product_id": "security-cloud",
+  "name": "Security Cloud",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "security_cloud",
+      "confidence": "auto"
+    }
+  ]
+}

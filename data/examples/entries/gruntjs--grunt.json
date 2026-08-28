@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "gruntjs--grunt",
+  "vendor_id": "gruntjs",
+  "product_id": "grunt",
+  "name": "Grunt",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "grunt",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "grunt",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "vuetifyjs--vuetify",
+  "vendor_id": "vuetifyjs",
+  "product_id": "vuetify",
+  "name": "Vuetify",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "vuetify",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "vuetify",
+      "confidence": "auto"
+    }
+  ]
+}

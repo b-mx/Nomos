@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "brother--dcp-firmware",
+  "vendor_id": "brother",
+  "product_id": "dcp-firmware",
+  "name": "Dcp Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dcp_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

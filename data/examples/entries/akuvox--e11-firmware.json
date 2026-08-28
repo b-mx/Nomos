@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "akuvox--e11-firmware",
+  "vendor_id": "akuvox",
+  "product_id": "e11-firmware",
+  "name": "E11 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "e11_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

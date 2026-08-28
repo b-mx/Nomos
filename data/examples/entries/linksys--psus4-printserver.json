@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linksys--psus4-printserver",
+  "vendor_id": "linksys",
+  "product_id": "psus4-printserver",
+  "name": "Psus4 Printserver",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "psus4_printserver",
+      "confidence": "auto"
+    }
+  ]
+}

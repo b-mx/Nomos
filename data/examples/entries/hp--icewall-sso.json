@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--icewall-sso",
+  "vendor_id": "hp",
+  "product_id": "icewall-sso",
+  "name": "Icewall Sso",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icewall_sso",
+      "confidence": "auto"
+    }
+  ]
+}

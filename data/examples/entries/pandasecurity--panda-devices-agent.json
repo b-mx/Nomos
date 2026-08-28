@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pandasecurity--panda-devices-agent",
+  "vendor_id": "pandasecurity",
+  "product_id": "panda-devices-agent",
+  "name": "Panda Devices Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "panda_devices_agent",
+      "confidence": "auto"
+    }
+  ]
+}

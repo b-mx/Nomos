@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wire--wire-server",
+  "vendor_id": "wire",
+  "product_id": "wire-server",
+  "name": "Wire Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wire_server",
+      "confidence": "auto"
+    }
+  ]
+}

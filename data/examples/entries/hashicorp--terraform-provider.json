@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--terraform-provider",
+  "vendor_id": "hashicorp",
+  "product_id": "terraform-provider",
+  "name": "Terraform Provider",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "terraform_provider",
+      "confidence": "auto"
+    }
+  ]
+}

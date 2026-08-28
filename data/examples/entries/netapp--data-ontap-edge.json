@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--data-ontap-edge",
+  "vendor_id": "netapp",
+  "product_id": "data-ontap-edge",
+  "name": "Data Ontap Edge",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "data_ontap_edge",
+      "confidence": "auto"
+    }
+  ]
+}

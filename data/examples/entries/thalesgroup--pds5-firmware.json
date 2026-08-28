@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "thalesgroup--pds5-firmware",
+  "vendor_id": "thalesgroup",
+  "product_id": "pds5-firmware",
+  "name": "Pds5 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pds5_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-9-3900xt-firmware",
+  "vendor_id": "amd",
+  "product_id": "ryzen-9-3900xt-firmware",
+  "name": "Ryzen 9 3900Xt Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_9_3900xt_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

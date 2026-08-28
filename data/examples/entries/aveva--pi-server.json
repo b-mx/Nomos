@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "aveva--pi-server",
+  "vendor_id": "aveva",
+  "product_id": "pi-server",
+  "name": "Pi Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pi_server",
+      "confidence": "auto"
+    }
+  ]
+}

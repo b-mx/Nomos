@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--nessus",
+  "vendor_id": "tenable",
+  "product_id": "nessus",
+  "name": "Nessus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nessus",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--operations",
+  "vendor_id": "kubernetes",
+  "product_id": "operations",
+  "name": "Operations",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "operations",
+      "confidence": "auto"
+    }
+  ]
+}

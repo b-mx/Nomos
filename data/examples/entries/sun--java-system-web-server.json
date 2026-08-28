@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--java-system-web-server",
+  "vendor_id": "sun",
+  "product_id": "java-system-web-server",
+  "name": "Java System Web Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "java_system_web_server",
+      "confidence": "auto"
+    }
+  ]
+}

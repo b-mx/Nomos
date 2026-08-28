@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "comodo--firewall",
+  "vendor_id": "comodo",
+  "product_id": "firewall",
+  "name": "Firewall",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "firewall",
+      "confidence": "auto"
+    }
+  ]
+}

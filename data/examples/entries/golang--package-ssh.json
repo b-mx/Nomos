@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "golang--package-ssh",
+  "vendor_id": "golang",
+  "product_id": "package-ssh",
+  "name": "Package Ssh",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "package_ssh",
+      "confidence": "auto"
+    }
+  ]
+}

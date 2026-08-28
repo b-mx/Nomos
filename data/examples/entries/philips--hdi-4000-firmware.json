@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--hdi-4000-firmware",
+  "vendor_id": "philips",
+  "product_id": "hdi-4000-firmware",
+  "name": "Hdi 4000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hdi_4000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

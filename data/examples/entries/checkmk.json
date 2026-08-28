@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "checkmk",
+  "vendor_id": "checkmk",
+  "name": "Checkmk",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "checkmk",
+      "confidence": "auto"
+    }
+  ]
+}

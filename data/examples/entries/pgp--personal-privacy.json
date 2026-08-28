@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pgp--personal-privacy",
+  "vendor_id": "pgp",
+  "product_id": "personal-privacy",
+  "name": "Personal Privacy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "personal_privacy",
+      "confidence": "auto"
+    }
+  ]
+}

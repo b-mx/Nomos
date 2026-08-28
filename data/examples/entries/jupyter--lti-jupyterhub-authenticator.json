@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--lti-jupyterhub-authenticator",
+  "vendor_id": "jupyter",
+  "product_id": "lti-jupyterhub-authenticator",
+  "name": "Lti Jupyterhub Authenticator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lti_jupyterhub_authenticator",
+      "confidence": "auto"
+    }
+  ]
+}

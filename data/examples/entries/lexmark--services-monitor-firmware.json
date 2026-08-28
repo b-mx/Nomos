@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--services-monitor-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "services-monitor-firmware",
+  "name": "Services Monitor Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "services_monitor_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

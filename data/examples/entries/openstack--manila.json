@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--manila",
+  "vendor_id": "openstack",
+  "product_id": "manila",
+  "name": "Manila",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "manila",
+      "confidence": "auto"
+    }
+  ]
+}

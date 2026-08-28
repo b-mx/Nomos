@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--max-presence",
+  "vendor_id": "huawei",
+  "product_id": "max-presence",
+  "name": "Max Presence",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "max_presence",
+      "confidence": "auto"
+    }
+  ]
+}

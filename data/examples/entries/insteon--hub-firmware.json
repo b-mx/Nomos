@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "insteon--hub-firmware",
+  "vendor_id": "insteon",
+  "product_id": "hub-firmware",
+  "name": "Hub Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hub_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

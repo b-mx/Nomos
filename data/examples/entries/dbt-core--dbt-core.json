@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "dbt-core--dbt-core",
+  "vendor_id": "dbt-core",
+  "product_id": "dbt-core",
+  "name": "dbt Core",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "dbt-core",
+      "confidence": "auto"
+    }
+  ]
+}

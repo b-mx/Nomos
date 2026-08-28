@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openvpn--openvpn",
+  "vendor_id": "openvpn",
+  "product_id": "openvpn",
+  "name": "OpenVPN",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "openvpn",
+      "confidence": "auto"
+    }
+  ]
+}

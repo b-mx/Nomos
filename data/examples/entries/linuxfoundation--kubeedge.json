@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--kubeedge",
+  "vendor_id": "linuxfoundation",
+  "product_id": "kubeedge",
+  "name": "Kubeedge",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kubeedge",
+      "confidence": "auto"
+    }
+  ]
+}

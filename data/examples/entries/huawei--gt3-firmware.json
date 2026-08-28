@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--gt3-firmware",
+  "vendor_id": "huawei",
+  "product_id": "gt3-firmware",
+  "name": "Gt3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gt3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--mt21-thin-client",
+  "vendor_id": "hp",
+  "product_id": "mt21-thin-client",
+  "name": "Mt21 Thin Client",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mt21_thin_client",
+      "confidence": "auto"
+    }
+  ]
+}

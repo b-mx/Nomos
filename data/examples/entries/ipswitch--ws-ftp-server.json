@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ipswitch--ws-ftp-server",
+  "vendor_id": "ipswitch",
+  "product_id": "ws-ftp-server",
+  "name": "Ws Ftp Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ws_ftp_server",
+      "confidence": "auto"
+    }
+  ]
+}

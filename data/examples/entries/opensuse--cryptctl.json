@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--cryptctl",
+  "vendor_id": "opensuse",
+  "product_id": "cryptctl",
+  "name": "Cryptctl",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cryptctl",
+      "confidence": "auto"
+    }
+  ]
+}

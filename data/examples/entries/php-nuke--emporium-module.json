@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "php-nuke--emporium-module",
+  "vendor_id": "php-nuke",
+  "product_id": "emporium-module",
+  "name": "Emporium Module",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "emporium_module",
+      "confidence": "auto"
+    }
+  ]
+}

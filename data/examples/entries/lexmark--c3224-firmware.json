@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--c3224-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "c3224-firmware",
+  "name": "C3224 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c3224_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

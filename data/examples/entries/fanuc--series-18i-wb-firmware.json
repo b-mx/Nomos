@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fanuc--series-18i-wb-firmware",
+  "vendor_id": "fanuc",
+  "product_id": "series-18i-wb-firmware",
+  "name": "Series 18I-Wb Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "series_18i-wb_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

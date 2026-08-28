@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ncr--command-center-agent",
+  "vendor_id": "ncr",
+  "product_id": "command-center-agent",
+  "name": "Command Center Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "command_center_agent",
+      "confidence": "auto"
+    }
+  ]
+}

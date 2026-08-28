@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "opnsense--opnsense",
+  "vendor_id": "opnsense",
+  "product_id": "opnsense",
+  "name": "OPNsense",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "opnsense",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "opnsense",
+      "confidence": "auto"
+    }
+  ]
+}

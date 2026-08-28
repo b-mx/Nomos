@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "thalesgroup--ehs5-firmware",
+  "vendor_id": "thalesgroup",
+  "product_id": "ehs5-firmware",
+  "name": "Ehs5 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ehs5_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

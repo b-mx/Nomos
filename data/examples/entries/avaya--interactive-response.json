@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--interactive-response",
+  "vendor_id": "avaya",
+  "product_id": "interactive-response",
+  "name": "Interactive Response",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "interactive_response",
+      "confidence": "auto"
+    }
+  ]
+}

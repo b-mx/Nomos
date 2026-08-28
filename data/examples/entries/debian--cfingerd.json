@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--cfingerd",
+  "vendor_id": "debian",
+  "product_id": "cfingerd",
+  "name": "Cfingerd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cfingerd",
+      "confidence": "auto"
+    }
+  ]
+}

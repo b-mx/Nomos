@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--opensearch-data-prepper",
+  "vendor_id": "amazon",
+  "product_id": "opensearch-data-prepper",
+  "name": "Opensearch Data Prepper",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opensearch_data_prepper",
+      "confidence": "auto"
+    }
+  ]
+}

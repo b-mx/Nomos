@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "codesys--automation-server",
+  "vendor_id": "codesys",
+  "product_id": "automation-server",
+  "name": "Automation Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "automation_server",
+      "confidence": "auto"
+    }
+  ]
+}

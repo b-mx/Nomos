@@ -5,16 +5,14 @@
   "product_id": "social-warfare-plugin",
   "name": "Social Warfare Plugin",
   "type": "software",
-  "tags": [
-    "cms"
-  ],
-  "icon": "skill-icons:wordpress",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Social Warfare Plugin",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

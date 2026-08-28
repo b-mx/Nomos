@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "beckhoff--mdp-package",
+  "vendor_id": "beckhoff",
+  "product_id": "mdp-package",
+  "name": "Mdp Package",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mdp_package",
+      "confidence": "auto"
+    }
+  ]
+}

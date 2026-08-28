@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trianglemicroworks--scada-data-gateway",
+  "vendor_id": "trianglemicroworks",
+  "product_id": "scada-data-gateway",
+  "name": "Scada Data Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "scada_data_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

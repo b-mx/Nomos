@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--ips",
+  "vendor_id": "huawei",
+  "product_id": "ips",
+  "name": "Ips",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ips",
+      "confidence": "auto"
+    }
+  ]
+}

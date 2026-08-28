@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--event-monitoring-service",
+  "vendor_id": "hp",
+  "product_id": "event-monitoring-service",
+  "name": "Event Monitoring Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "event_monitoring_service",
+      "confidence": "auto"
+    }
+  ]
+}

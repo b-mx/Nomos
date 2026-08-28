@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--suse-manager",
+  "vendor_id": "novell",
+  "product_id": "suse-manager",
+  "name": "Suse Manager",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_manager",
+      "confidence": "auto"
+    }
+  ]
+}

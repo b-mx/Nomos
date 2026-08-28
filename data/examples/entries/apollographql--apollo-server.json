@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apollographql--apollo-server",
+  "vendor_id": "apollographql",
+  "product_id": "apollo-server",
+  "name": "Apollo Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apollo_server",
+      "confidence": "auto"
+    }
+  ]
+}

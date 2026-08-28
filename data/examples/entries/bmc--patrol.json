@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--patrol",
+  "vendor_id": "bmc",
+  "product_id": "patrol",
+  "name": "Patrol",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "patrol",
+      "confidence": "auto"
+    }
+  ]
+}

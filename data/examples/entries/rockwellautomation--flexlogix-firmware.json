@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rockwellautomation--flexlogix-firmware",
+  "vendor_id": "rockwellautomation",
+  "product_id": "flexlogix-firmware",
+  "name": "Flexlogix Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "flexlogix_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

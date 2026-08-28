@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--apport",
+  "vendor_id": "canonical",
+  "product_id": "apport",
+  "name": "Apport",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apport",
+      "confidence": "auto"
+    }
+  ]
+}

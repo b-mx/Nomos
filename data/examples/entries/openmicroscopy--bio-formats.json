@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openmicroscopy--bio-formats",
+  "vendor_id": "openmicroscopy",
+  "product_id": "bio-formats",
+  "name": "Bio-Formats",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bio-formats",
+      "confidence": "auto"
+    }
+  ]
+}

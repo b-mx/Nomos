@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "github--gh-ost",
+  "vendor_id": "github",
+  "product_id": "gh-ost",
+  "name": "Gh-Ost",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gh-ost",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eset--management-agent",
+  "vendor_id": "eset",
+  "product_id": "management-agent",
+  "name": "Management Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "management_agent",
+      "confidence": "auto"
+    }
+  ]
+}

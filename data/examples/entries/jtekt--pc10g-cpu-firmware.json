@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jtekt--pc10g-cpu-firmware",
+  "vendor_id": "jtekt",
+  "product_id": "pc10g-cpu-firmware",
+  "name": "Pc10G-Cpu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pc10g-cpu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

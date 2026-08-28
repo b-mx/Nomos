@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "unisys--mcp-firmware",
+  "vendor_id": "unisys",
+  "product_id": "mcp-firmware",
+  "name": "Mcp-Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mcp-firmware",
+      "confidence": "auto"
+    }
+  ]
+}

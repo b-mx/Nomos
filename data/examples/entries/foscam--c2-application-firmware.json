@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "foscam--c2-application-firmware",
+  "vendor_id": "foscam",
+  "product_id": "c2-application-firmware",
+  "name": "C2 Application Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c2_application_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

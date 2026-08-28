@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--software-control-m-agent",
+  "vendor_id": "bmc",
+  "product_id": "software-control-m-agent",
+  "name": "Software Control-M Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "software_control-m_agent",
+      "confidence": "auto"
+    }
+  ]
+}

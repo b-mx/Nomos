@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--service-manager-windows-client",
+  "vendor_id": "hp",
+  "product_id": "service-manager-windows-client",
+  "name": "Service Manager Windows Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_manager_windows_client",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lightbend--akka",
+  "vendor_id": "lightbend",
+  "product_id": "akka",
+  "name": "Akka",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "akka",
+      "confidence": "auto"
+    }
+  ]
+}

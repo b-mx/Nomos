@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gradle--gradle-completion",
+  "vendor_id": "gradle",
+  "product_id": "gradle-completion",
+  "name": "Gradle-Completion",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gradle-completion",
+      "confidence": "auto"
+    }
+  ]
+}

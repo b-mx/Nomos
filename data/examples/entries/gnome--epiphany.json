@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--epiphany",
+  "vendor_id": "gnome",
+  "product_id": "epiphany",
+  "name": "Epiphany",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epiphany",
+      "confidence": "auto"
+    }
+  ]
+}

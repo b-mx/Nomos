@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apache-subversion--apache-subversion",
+  "vendor_id": "apache-subversion",
+  "product_id": "apache-subversion",
+  "name": "Apache Subversion",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "apache-subversion",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7552",
+  "vendor_id": "amd",
+  "product_id": "epyc-7552",
+  "name": "Epyc 7552",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7552",
+      "confidence": "auto"
+    }
+  ]
+}

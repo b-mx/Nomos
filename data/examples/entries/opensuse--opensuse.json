@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--opensuse",
+  "vendor_id": "opensuse",
+  "product_id": "opensuse",
+  "name": "openSUSE",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "opensuse",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "opensuse",
+      "confidence": "auto"
+    }
+  ]
+}

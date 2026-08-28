@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nec--pc-settings-tool",
+  "vendor_id": "nec",
+  "product_id": "pc-settings-tool",
+  "name": "Pc Settings Tool",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pc_settings_tool",
+      "confidence": "auto"
+    }
+  ]
+}

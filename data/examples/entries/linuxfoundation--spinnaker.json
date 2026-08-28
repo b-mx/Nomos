@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--spinnaker",
+  "vendor_id": "linuxfoundation",
+  "product_id": "spinnaker",
+  "name": "Spinnaker",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "spinnaker",
+      "confidence": "auto"
+    }
+  ]
+}

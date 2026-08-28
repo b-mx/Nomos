@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emcosoftware--msi-package-builder",
+  "vendor_id": "emcosoftware",
+  "product_id": "msi-package-builder",
+  "name": "Msi Package Builder",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "msi_package_builder",
+      "confidence": "auto"
+    }
+  ]
+}

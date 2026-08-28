@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "barracuda--web-filter",
+  "vendor_id": "barracuda",
+  "product_id": "web-filter",
+  "name": "Web Filter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web_filter",
+      "confidence": "auto"
+    }
+  ]
+}

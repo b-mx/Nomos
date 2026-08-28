@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--amazon-cdk",
+  "vendor_id": "amazon",
+  "product_id": "amazon-cdk",
+  "name": "Amazon CDK",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "amazon-cdk",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "aws_cloud_development_kit",
+      "confidence": "auto"
+    }
+  ]
+}

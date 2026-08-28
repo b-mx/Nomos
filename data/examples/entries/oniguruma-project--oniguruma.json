@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "oniguruma-project--oniguruma",
+  "vendor_id": "oniguruma-project",
+  "product_id": "oniguruma",
+  "name": "Oniguruma",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "oniguruma",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "oniguruma",
+      "confidence": "auto"
+    }
+  ]
+}

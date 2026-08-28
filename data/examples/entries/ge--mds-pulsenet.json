@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--mds-pulsenet",
+  "vendor_id": "ge",
+  "product_id": "mds-pulsenet",
+  "name": "Mds Pulsenet",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mds_pulsenet",
+      "confidence": "auto"
+    }
+  ]
+}

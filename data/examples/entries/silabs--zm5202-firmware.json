@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--zm5202-firmware",
+  "vendor_id": "silabs",
+  "product_id": "zm5202-firmware",
+  "name": "Zm5202 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zm5202_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

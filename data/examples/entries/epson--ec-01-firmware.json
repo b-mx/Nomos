@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--ec-01-firmware",
+  "vendor_id": "epson",
+  "product_id": "ec-01-firmware",
+  "name": "Ec-01 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ec-01_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

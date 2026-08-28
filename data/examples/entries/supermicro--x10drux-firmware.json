@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x10drux-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x10drux-firmware",
+  "name": "X10Drux Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x10drux_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

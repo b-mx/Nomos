@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--data-protector",
+  "vendor_id": "hp",
+  "product_id": "data-protector",
+  "name": "Data Protector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "data_protector",
+      "confidence": "auto"
+    }
+  ]
+}

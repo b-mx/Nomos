@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--documentum-taskspace",
+  "vendor_id": "emc",
+  "product_id": "documentum-taskspace",
+  "name": "Documentum Taskspace",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "documentum_taskspace",
+      "confidence": "auto"
+    }
+  ]
+}

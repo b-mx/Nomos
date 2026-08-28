@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--kde4libs",
+  "vendor_id": "debian",
+  "product_id": "kde4libs",
+  "name": "Kde4Libs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kde4libs",
+      "confidence": "auto"
+    }
+  ]
+}

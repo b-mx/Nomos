@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudera--hadoop",
+  "vendor_id": "cloudera",
+  "product_id": "hadoop",
+  "name": "Hadoop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hadoop",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "moodle--moodle",
+  "vendor_id": "moodle",
+  "product_id": "moodle",
+  "name": "Moodle",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "moodle",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "moodle",
+      "confidence": "auto"
+    }
+  ]
+}

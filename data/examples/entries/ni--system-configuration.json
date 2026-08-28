@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ni--system-configuration",
+  "vendor_id": "ni",
+  "product_id": "system-configuration",
+  "name": "System Configuration",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "system_configuration",
+      "confidence": "auto"
+    }
+  ]
+}

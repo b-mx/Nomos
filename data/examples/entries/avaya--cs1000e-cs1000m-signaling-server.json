@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--cs1000e-cs1000m-signaling-server",
+  "vendor_id": "avaya",
+  "product_id": "cs1000e-cs1000m-signaling-server",
+  "name": "Cs1000E/Cs1000M Signaling Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cs1000e/cs1000m_signaling_server",
+      "confidence": "auto"
+    }
+  ]
+}

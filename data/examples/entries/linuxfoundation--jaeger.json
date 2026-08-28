@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--jaeger",
+  "vendor_id": "linuxfoundation",
+  "product_id": "jaeger",
+  "name": "Jaeger",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "jaeger",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "jaeger",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--d3q20b-firmware",
+  "vendor_id": "hp",
+  "product_id": "d3q20b-firmware",
+  "name": "D3Q20B Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "d3q20b_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

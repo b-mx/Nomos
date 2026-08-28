@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--footprints",
+  "vendor_id": "bmc",
+  "product_id": "footprints",
+  "name": "Footprints",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "footprints",
+      "confidence": "auto"
+    }
+  ]
+}

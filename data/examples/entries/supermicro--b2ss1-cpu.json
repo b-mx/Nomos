@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--b2ss1-cpu",
+  "vendor_id": "supermicro",
+  "product_id": "b2ss1-cpu",
+  "name": "B2Ss1-Cpu",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b2ss1-cpu",
+      "confidence": "auto"
+    }
+  ]
+}

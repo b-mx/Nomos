@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zoom--zoom-cloud-meetings",
+  "vendor_id": "zoom",
+  "product_id": "zoom-cloud-meetings",
+  "name": "Zoom Cloud Meetings",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zoom_cloud_meetings",
+      "confidence": "auto"
+    }
+  ]
+}

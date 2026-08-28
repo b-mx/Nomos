@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "isc--bind",
+  "vendor_id": "isc",
+  "product_id": "bind",
+  "name": "Bind",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bind",
+      "confidence": "auto"
+    }
+  ]
+}

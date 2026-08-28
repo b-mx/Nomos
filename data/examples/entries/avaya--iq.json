@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--iq",
+  "vendor_id": "avaya",
+  "product_id": "iq",
+  "name": "Iq",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iq",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--gecko-os",
+  "vendor_id": "silabs",
+  "product_id": "gecko-os",
+  "name": "Gecko Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gecko_os",
+      "confidence": "auto"
+    }
+  ]
+}

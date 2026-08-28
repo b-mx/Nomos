@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "discourse--message-bus",
+  "vendor_id": "discourse",
+  "product_id": "message-bus",
+  "name": "Message Bus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "message_bus",
+      "confidence": "auto"
+    }
+  ]
+}

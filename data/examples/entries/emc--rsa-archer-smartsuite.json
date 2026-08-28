@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--rsa-archer-smartsuite",
+  "vendor_id": "emc",
+  "product_id": "rsa-archer-smartsuite",
+  "name": "Rsa Archer Smartsuite",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rsa_archer_smartsuite",
+      "confidence": "auto"
+    }
+  ]
+}

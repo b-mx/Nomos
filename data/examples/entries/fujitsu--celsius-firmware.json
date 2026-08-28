@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--celsius-firmware",
+  "vendor_id": "fujitsu",
+  "product_id": "celsius-firmware",
+  "name": "Celsius Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "celsius_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

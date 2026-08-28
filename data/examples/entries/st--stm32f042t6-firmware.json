@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32f042t6-firmware",
+  "vendor_id": "st",
+  "product_id": "stm32f042t6-firmware",
+  "name": "Stm32F042T6 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32f042t6_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

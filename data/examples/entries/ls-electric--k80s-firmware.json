@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ls-electric--k80s-firmware",
+  "vendor_id": "ls-electric",
+  "product_id": "k80s-firmware",
+  "name": "K80S Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k80s_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

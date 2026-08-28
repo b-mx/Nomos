@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--max-presence-firmware",
+  "vendor_id": "huawei",
+  "product_id": "max-presence-firmware",
+  "name": "Max Presence Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "max_presence_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

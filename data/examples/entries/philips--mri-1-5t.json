@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--mri-1-5t",
+  "vendor_id": "philips",
+  "product_id": "mri-1-5t",
+  "name": "Mri 1.5T",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mri_1.5t",
+      "confidence": "auto"
+    }
+  ]
+}

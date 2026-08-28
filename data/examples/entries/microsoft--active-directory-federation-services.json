@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microsoft--active-directory-federation-services",
+  "vendor_id": "microsoft",
+  "product_id": "active-directory-federation-services",
+  "name": "Active Directory Federation Services",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Active Directory Federation Services",
+      "confidence": "auto"
+    }
+  ]
+}

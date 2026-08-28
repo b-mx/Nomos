@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--e9000-firmware",
+  "vendor_id": "huawei",
+  "product_id": "e9000-firmware",
+  "name": "E9000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "e9000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

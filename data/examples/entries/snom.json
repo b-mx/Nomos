@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "snom",
+  "vendor_id": "snom",
+  "name": "Snom",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "snom",
+      "confidence": "auto"
+    }
+  ]
+}

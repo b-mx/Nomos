@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--k9z76a-firmware",
+  "vendor_id": "hp",
+  "product_id": "k9z76a-firmware",
+  "name": "K9Z76A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k9z76a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

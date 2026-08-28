@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--instant-support",
+  "vendor_id": "hp",
+  "product_id": "instant-support",
+  "name": "Instant Support",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "instant_support",
+      "confidence": "auto"
+    }
+  ]
+}

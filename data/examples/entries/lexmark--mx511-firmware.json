@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--mx511-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "mx511-firmware",
+  "name": "Mx511 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mx511_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

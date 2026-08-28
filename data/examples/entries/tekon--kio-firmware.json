@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tekon--kio-firmware",
+  "vendor_id": "tekon",
+  "product_id": "kio-firmware",
+  "name": "Kio Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kio_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

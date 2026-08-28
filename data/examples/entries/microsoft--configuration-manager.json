@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microsoft--configuration-manager",
+  "vendor_id": "microsoft",
+  "product_id": "configuration-manager",
+  "name": "Configuration Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Configuration Manager",
+      "confidence": "auto"
+    }
+  ]
+}

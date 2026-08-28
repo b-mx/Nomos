@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cdatatec--epon-cpe-wifi-devices-firmware",
+  "vendor_id": "cdatatec",
+  "product_id": "epon-cpe-wifi-devices-firmware",
+  "name": "Epon Cpe-Wifi Devices Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epon_cpe-wifi_devices_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

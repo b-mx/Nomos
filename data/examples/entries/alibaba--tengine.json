@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "alibaba--tengine",
+  "vendor_id": "alibaba",
+  "product_id": "tengine",
+  "name": "Tengine",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tengine",
+      "confidence": "auto"
+    }
+  ]
+}

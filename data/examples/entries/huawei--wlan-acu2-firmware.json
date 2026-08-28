@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--wlan-acu2-firmware",
+  "vendor_id": "huawei",
+  "product_id": "wlan-acu2-firmware",
+  "name": "Wlan Acu2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wlan_acu2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

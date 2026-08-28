@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "anynines--mysql",
+  "vendor_id": "anynines",
+  "product_id": "mysql",
+  "name": "Mysql",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mysql",
+      "confidence": "auto"
+    }
+  ]
+}

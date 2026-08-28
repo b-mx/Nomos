@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--alletra-9060-firmware",
+  "vendor_id": "hpe",
+  "product_id": "alletra-9060-firmware",
+  "name": "Alletra 9060 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alletra_9060_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

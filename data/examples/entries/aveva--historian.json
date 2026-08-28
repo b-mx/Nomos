@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "aveva--historian",
+  "vendor_id": "aveva",
+  "product_id": "historian",
+  "name": "Historian",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "historian",
+      "confidence": "auto"
+    }
+  ]
+}

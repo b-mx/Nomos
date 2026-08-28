@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--printer-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "printer-firmware",
+  "name": "Printer Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "printer_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

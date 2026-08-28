@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "amazon-eks",
+  "vendor_id": "amazon-eks",
+  "name": "Amazon EKS",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "amazon-eks",
+      "confidence": "auto"
+    }
+  ]
+}

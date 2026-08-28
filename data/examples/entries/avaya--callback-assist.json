@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--callback-assist",
+  "vendor_id": "avaya",
+  "product_id": "callback-assist",
+  "name": "Callback Assist",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "callback_assist",
+      "confidence": "auto"
+    }
+  ]
+}

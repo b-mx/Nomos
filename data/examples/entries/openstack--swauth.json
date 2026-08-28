@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--swauth",
+  "vendor_id": "openstack",
+  "product_id": "swauth",
+  "name": "Swauth",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "swauth",
+      "confidence": "auto"
+    }
+  ]
+}

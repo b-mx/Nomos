@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mercurycom--a15-firmware",
+  "vendor_id": "mercurycom",
+  "product_id": "a15-firmware",
+  "name": "A15 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a15_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

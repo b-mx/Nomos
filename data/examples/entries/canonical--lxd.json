@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--lxd",
+  "vendor_id": "canonical",
+  "product_id": "lxd",
+  "name": "Lxd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lxd",
+      "confidence": "auto"
+    }
+  ]
+}

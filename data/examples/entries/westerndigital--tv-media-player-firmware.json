@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "westerndigital--tv-media-player-firmware",
+  "vendor_id": "westerndigital",
+  "product_id": "tv-media-player-firmware",
+  "name": "Tv Media Player Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tv_media_player_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

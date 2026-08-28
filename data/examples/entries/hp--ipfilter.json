@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--ipfilter",
+  "vendor_id": "hp",
+  "product_id": "ipfilter",
+  "name": "Ipfilter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ipfilter",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--m2",
+  "vendor_id": "ui",
+  "product_id": "m2",
+  "name": "M2",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m2",
+      "confidence": "auto"
+    }
+  ]
+}

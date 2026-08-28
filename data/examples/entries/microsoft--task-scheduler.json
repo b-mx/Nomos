@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microsoft--task-scheduler",
+  "vendor_id": "microsoft",
+  "product_id": "task-scheduler",
+  "name": "Task Scheduler",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Task Scheduler",
+      "confidence": "auto"
+    }
+  ]
+}

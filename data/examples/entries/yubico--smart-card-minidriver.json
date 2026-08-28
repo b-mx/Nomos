@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yubico--smart-card-minidriver",
+  "vendor_id": "yubico",
+  "product_id": "smart-card-minidriver",
+  "name": "Smart Card Minidriver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_card_minidriver",
+      "confidence": "auto"
+    }
+  ]
+}

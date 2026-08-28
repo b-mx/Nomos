@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--magic-ui",
+  "vendor_id": "huawei",
+  "product_id": "magic-ui",
+  "name": "Magic Ui",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "magic_ui",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "logitech--streamlabs-desktop",
+  "vendor_id": "logitech",
+  "product_id": "streamlabs-desktop",
+  "name": "Streamlabs Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "streamlabs_desktop",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "perforce--puppet-bolt",
+  "vendor_id": "perforce",
+  "product_id": "puppet-bolt",
+  "name": "Puppet Bolt",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "puppet_bolt",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--open-desktop-server",
+  "vendor_id": "novell",
+  "product_id": "open-desktop-server",
+  "name": "Open Desktop Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "open_desktop_server",
+      "confidence": "auto"
+    }
+  ]
+}

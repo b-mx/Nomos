@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--scansnap-manager",
+  "vendor_id": "fujitsu",
+  "product_id": "scansnap-manager",
+  "name": "Scansnap Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "scansnap_manager",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--evergreen",
+  "vendor_id": "opensuse",
+  "product_id": "evergreen",
+  "name": "Evergreen",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "evergreen",
+      "confidence": "auto"
+    }
+  ]
+}

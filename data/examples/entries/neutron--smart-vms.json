@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "neutron--smart-vms",
+  "vendor_id": "neutron",
+  "product_id": "smart-vms",
+  "name": "Smart Vms",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_vms",
+      "confidence": "auto"
+    }
+  ]
+}

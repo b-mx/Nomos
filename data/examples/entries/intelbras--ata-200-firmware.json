@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intelbras--ata-200-firmware",
+  "vendor_id": "intelbras",
+  "product_id": "ata-200-firmware",
+  "name": "Ata 200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ata_200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

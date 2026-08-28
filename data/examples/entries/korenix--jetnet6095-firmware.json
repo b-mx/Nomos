@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "korenix--jetnet6095-firmware",
+  "vendor_id": "korenix",
+  "product_id": "jetnet6095-firmware",
+  "name": "Jetnet6095 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jetnet6095_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

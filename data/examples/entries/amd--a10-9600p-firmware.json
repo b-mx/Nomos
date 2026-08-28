@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--a10-9600p-firmware",
+  "vendor_id": "amd",
+  "product_id": "a10-9600p-firmware",
+  "name": "A10-9600P Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a10-9600p_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

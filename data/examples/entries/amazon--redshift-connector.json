@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--redshift-connector",
+  "vendor_id": "amazon",
+  "product_id": "redshift-connector",
+  "name": "Redshift Connector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "redshift_connector",
+      "confidence": "auto"
+    }
+  ]
+}

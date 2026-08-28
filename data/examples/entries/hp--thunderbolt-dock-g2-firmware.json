@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--thunderbolt-dock-g2-firmware",
+  "vendor_id": "hp",
+  "product_id": "thunderbolt-dock-g2-firmware",
+  "name": "Thunderbolt Dock G2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "thunderbolt_dock_g2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

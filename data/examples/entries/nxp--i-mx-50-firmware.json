@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nxp--i-mx-50-firmware",
+  "vendor_id": "nxp",
+  "product_id": "i-mx-50-firmware",
+  "name": "I.Mx 50 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "i.mx_50_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

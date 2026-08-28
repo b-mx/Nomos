@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "golang--networking",
+  "vendor_id": "golang",
+  "product_id": "networking",
+  "name": "Networking",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "networking",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "matrix--dendrite",
+  "vendor_id": "matrix",
+  "product_id": "dendrite",
+  "name": "Dendrite",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dendrite",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mattermost--channel-export",
+  "vendor_id": "mattermost",
+  "product_id": "channel-export",
+  "name": "Channel Export",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "channel_export",
+      "confidence": "auto"
+    }
+  ]
+}

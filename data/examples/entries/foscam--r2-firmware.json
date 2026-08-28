@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "foscam--r2-firmware",
+  "vendor_id": "foscam",
+  "product_id": "r2-firmware",
+  "name": "R2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "r2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

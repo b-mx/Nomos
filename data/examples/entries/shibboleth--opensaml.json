@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "shibboleth--opensaml",
+  "vendor_id": "shibboleth",
+  "product_id": "opensaml",
+  "name": "Opensaml",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opensaml",
+      "confidence": "auto"
+    }
+  ]
+}

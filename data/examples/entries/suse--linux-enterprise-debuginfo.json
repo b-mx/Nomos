@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--linux-enterprise-debuginfo",
+  "vendor_id": "suse",
+  "product_id": "linux-enterprise-debuginfo",
+  "name": "Linux Enterprise Debuginfo",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux_enterprise_debuginfo",
+      "confidence": "auto"
+    }
+  ]
+}

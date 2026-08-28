@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--onnx",
+  "vendor_id": "linuxfoundation",
+  "product_id": "onnx",
+  "name": "Onnx",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "onnx",
+      "confidence": "auto"
+    }
+  ]
+}

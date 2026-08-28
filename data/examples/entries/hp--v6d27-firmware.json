@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--v6d27-firmware",
+  "vendor_id": "hp",
+  "product_id": "v6d27-firmware",
+  "name": "V6D27 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "v6d27_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

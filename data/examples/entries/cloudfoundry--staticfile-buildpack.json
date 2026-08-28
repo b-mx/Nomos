@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--staticfile-buildpack",
+  "vendor_id": "cloudfoundry",
+  "product_id": "staticfile-buildpack",
+  "name": "Staticfile Buildpack",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "staticfile_buildpack",
+      "confidence": "auto"
+    }
+  ]
+}

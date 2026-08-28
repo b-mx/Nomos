@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zoom--sharing-service",
+  "vendor_id": "zoom",
+  "product_id": "sharing-service",
+  "name": "Sharing Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sharing_service",
+      "confidence": "auto"
+    }
+  ]
+}

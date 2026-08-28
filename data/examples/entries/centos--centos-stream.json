@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "centos--centos-stream",
+  "vendor_id": "centos",
+  "product_id": "centos-stream",
+  "name": "CentOS Stream",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "centos-stream",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "stream",
+      "confidence": "auto"
+    }
+  ]
+}

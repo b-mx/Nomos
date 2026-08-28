@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--metal-as-a-service",
+  "vendor_id": "canonical",
+  "product_id": "metal-as-a-service",
+  "name": "Metal As A Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "metal_as_a_service",
+      "confidence": "auto"
+    }
+  ]
+}

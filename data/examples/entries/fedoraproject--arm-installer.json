@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--arm-installer",
+  "vendor_id": "fedoraproject",
+  "product_id": "arm-installer",
+  "name": "Arm Installer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arm_installer",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--sockd",
+  "vendor_id": "hp",
+  "product_id": "sockd",
+  "name": "Sockd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sockd",
+      "confidence": "auto"
+    }
+  ]
+}

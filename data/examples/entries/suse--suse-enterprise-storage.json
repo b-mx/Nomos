@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--suse-enterprise-storage",
+  "vendor_id": "suse",
+  "product_id": "suse-enterprise-storage",
+  "name": "Suse Enterprise Storage",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_enterprise_storage",
+      "confidence": "auto"
+    }
+  ]
+}

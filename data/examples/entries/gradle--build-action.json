@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gradle--build-action",
+  "vendor_id": "gradle",
+  "product_id": "build-action",
+  "name": "Build Action",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "build_action",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tencent--tencent-distributed-sql",
+  "vendor_id": "tencent",
+  "product_id": "tencent-distributed-sql",
+  "name": "Tencent Distributed Sql",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tencent_distributed_sql",
+      "confidence": "auto"
+    }
+  ]
+}

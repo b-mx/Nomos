@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--automotive-grade-linux",
+  "vendor_id": "linuxfoundation",
+  "product_id": "automotive-grade-linux",
+  "name": "Automotive Grade Linux",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "automotive_grade_linux",
+      "confidence": "auto"
+    }
+  ]
+}

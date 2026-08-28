@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--w1b33-firmware",
+  "vendor_id": "hp",
+  "product_id": "w1b33-firmware",
+  "name": "W1B33 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "w1b33_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

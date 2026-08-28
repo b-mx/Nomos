@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujielectric--v-server-vpr-firmware",
+  "vendor_id": "fujielectric",
+  "product_id": "v-server-vpr-firmware",
+  "name": "V-Server Vpr Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "v-server_vpr_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

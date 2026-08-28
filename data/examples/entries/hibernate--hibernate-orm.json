@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "hibernate--hibernate-orm",
+  "vendor_id": "hibernate",
+  "product_id": "hibernate-orm",
+  "name": "Hibernate ORM",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "hibernate-orm",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "hibernate_orm",
+      "confidence": "auto"
+    }
+  ]
+}

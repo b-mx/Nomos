@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--multifactor-authentication-agent",
+  "vendor_id": "rsa",
+  "product_id": "multifactor-authentication-agent",
+  "name": "Multifactor Authentication Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "multifactor_authentication_agent",
+      "confidence": "auto"
+    }
+  ]
+}

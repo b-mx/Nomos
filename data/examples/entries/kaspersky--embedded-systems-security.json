@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kaspersky--embedded-systems-security",
+  "vendor_id": "kaspersky",
+  "product_id": "embedded-systems-security",
+  "name": "Embedded Systems Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "embedded_systems_security",
+      "confidence": "auto"
+    }
+  ]
+}

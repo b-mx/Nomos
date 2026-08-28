@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-5600x",
+  "vendor_id": "amd",
+  "product_id": "ryzen-5600x",
+  "name": "Ryzen 5600X",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_5600x",
+      "confidence": "auto"
+    }
+  ]
+}

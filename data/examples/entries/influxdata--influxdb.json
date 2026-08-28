@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "influxdata--influxdb",
+  "vendor_id": "influxdata",
+  "product_id": "influxdb",
+  "name": "InfluxDB",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "influxdb",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "influxdb",
+      "confidence": "auto"
+    }
+  ]
+}

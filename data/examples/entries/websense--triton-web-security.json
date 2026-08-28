@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "websense--triton-web-security",
+  "vendor_id": "websense",
+  "product_id": "triton-web-security",
+  "name": "Triton Web Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "triton_web_security",
+      "confidence": "auto"
+    }
+  ]
+}

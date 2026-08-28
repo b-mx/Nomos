@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pgp--e-business-server",
+  "vendor_id": "pgp",
+  "product_id": "e-business-server",
+  "name": "E-Business Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "e-business_server",
+      "confidence": "auto"
+    }
+  ]
+}

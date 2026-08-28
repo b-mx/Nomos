@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sgi--irix",
+  "vendor_id": "sgi",
+  "product_id": "irix",
+  "name": "Irix",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "irix",
+      "confidence": "auto"
+    }
+  ]
+}

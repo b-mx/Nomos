@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "wireshark--wireshark",
+  "vendor_id": "wireshark",
+  "product_id": "wireshark",
+  "name": "Wireshark",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "wireshark",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "wireshark",
+      "confidence": "auto"
+    }
+  ]
+}

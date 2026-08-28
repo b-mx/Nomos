@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "ros",
+  "vendor_id": "ros",
+  "name": "ROS",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "ros",
+      "confidence": "auto"
+    }
+  ]
+}

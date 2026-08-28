@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "miniorange--wp-oauth-server",
+  "vendor_id": "miniorange",
+  "product_id": "wp-oauth-server",
+  "name": "Wp Oauth Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wp_oauth_server",
+      "confidence": "auto"
+    }
+  ]
+}

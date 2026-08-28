@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--storage-automation-store",
+  "vendor_id": "netapp",
+  "product_id": "storage-automation-store",
+  "name": "Storage Automation Store",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storage_automation_store",
+      "confidence": "auto"
+    }
+  ]
+}

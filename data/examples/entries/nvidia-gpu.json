@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "nvidia-gpu",
+  "vendor_id": "nvidia-gpu",
+  "name": "NVIDIA GPUs",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "nvidia-gpu",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gemalto--ezio-ds3-server",
+  "vendor_id": "gemalto",
+  "product_id": "ezio-ds3-server",
+  "name": "Ezio Ds3 Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ezio_ds3_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x-org--x11",
+  "vendor_id": "x-org",
+  "product_id": "x11",
+  "name": "X11",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11",
+      "confidence": "auto"
+    }
+  ]
+}

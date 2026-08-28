@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--java-buildpack",
+  "vendor_id": "cloudfoundry",
+  "product_id": "java-buildpack",
+  "name": "Java Buildpack",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "java_buildpack",
+      "confidence": "auto"
+    }
+  ]
+}

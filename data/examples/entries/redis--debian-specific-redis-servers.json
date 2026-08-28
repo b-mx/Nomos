@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "redis--debian-specific-redis-servers",
+  "vendor_id": "redis",
+  "product_id": "debian-specific-redis-servers",
+  "name": "Debian-specific Redis Servers",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Debian-specific Redis Servers",
+      "confidence": "auto"
+    }
+  ]
+}

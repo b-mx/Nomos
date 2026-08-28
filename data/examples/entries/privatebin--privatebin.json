@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "privatebin--privatebin",
+  "vendor_id": "privatebin",
+  "product_id": "privatebin",
+  "name": "PrivateBin",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "privatebin",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "privatebin",
+      "confidence": "auto"
+    }
+  ]
+}

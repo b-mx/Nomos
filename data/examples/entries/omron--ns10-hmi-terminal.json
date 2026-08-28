@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "omron--ns10-hmi-terminal",
+  "vendor_id": "omron",
+  "product_id": "ns10-hmi-terminal",
+  "name": "Ns10 Hmi Terminal",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ns10_hmi_terminal",
+      "confidence": "auto"
+    }
+  ]
+}

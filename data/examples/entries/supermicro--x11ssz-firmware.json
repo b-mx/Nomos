@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11ssz-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11ssz-firmware",
+  "name": "X11Ssz Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11ssz_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

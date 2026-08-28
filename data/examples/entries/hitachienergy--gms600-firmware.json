@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachienergy--gms600-firmware",
+  "vendor_id": "hitachienergy",
+  "product_id": "gms600-firmware",
+  "name": "Gms600 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gms600_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

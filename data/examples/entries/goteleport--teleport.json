@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "goteleport--teleport",
+  "vendor_id": "goteleport",
+  "product_id": "teleport",
+  "name": "Teleport",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "teleport",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "teleport",
+      "confidence": "auto"
+    }
+  ]
+}

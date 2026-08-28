@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eq-3--homematic-ccu2",
+  "vendor_id": "eq-3",
+  "product_id": "homematic-ccu2",
+  "name": "Homematic Ccu2",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "homematic_ccu2",
+      "confidence": "auto"
+    }
+  ]
+}

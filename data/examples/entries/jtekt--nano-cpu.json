@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jtekt--nano-cpu",
+  "vendor_id": "jtekt",
+  "product_id": "nano-cpu",
+  "name": "Nano Cpu",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nano_cpu",
+      "confidence": "auto"
+    }
+  ]
+}

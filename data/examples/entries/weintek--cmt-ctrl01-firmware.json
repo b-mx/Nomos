@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "weintek--cmt-ctrl01-firmware",
+  "vendor_id": "weintek",
+  "product_id": "cmt-ctrl01-firmware",
+  "name": "Cmt-Ctrl01 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cmt-ctrl01_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

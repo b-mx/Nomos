@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--mtconnect-data-collector",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "mtconnect-data-collector",
+  "name": "Mtconnect Data Collector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mtconnect_data_collector",
+      "confidence": "auto"
+    }
+  ]
+}

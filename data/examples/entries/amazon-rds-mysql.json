@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "amazon-rds-mysql",
+  "vendor_id": "amazon-rds-mysql",
+  "name": "Amazon RDS for MySQL",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "amazon-rds-mysql",
+      "confidence": "auto"
+    }
+  ]
+}

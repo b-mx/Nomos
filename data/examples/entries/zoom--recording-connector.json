@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zoom--recording-connector",
+  "vendor_id": "zoom",
+  "product_id": "recording-connector",
+  "name": "Recording Connector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "recording_connector",
+      "confidence": "auto"
+    }
+  ]
+}

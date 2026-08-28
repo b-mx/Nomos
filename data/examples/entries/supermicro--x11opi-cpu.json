@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11opi-cpu",
+  "vendor_id": "supermicro",
+  "product_id": "x11opi-cpu",
+  "name": "X11Opi-Cpu",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11opi-cpu",
+      "confidence": "auto"
+    }
+  ]
+}

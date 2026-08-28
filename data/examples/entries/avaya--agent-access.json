@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--agent-access",
+  "vendor_id": "avaya",
+  "product_id": "agent-access",
+  "name": "Agent Access",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "agent_access",
+      "confidence": "auto"
+    }
+  ]
+}

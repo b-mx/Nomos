@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--m80-firmware",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "m80-firmware",
+  "name": "M80 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m80_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

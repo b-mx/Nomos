@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloud-sql-auth-proxy--cloud-sql-auth-proxy",
+  "vendor_id": "cloud-sql-auth-proxy",
+  "product_id": "cloud-sql-auth-proxy",
+  "name": "Cloud SQL Auth Proxy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "cloud-sql-auth-proxy",
+      "confidence": "auto"
+    }
+  ]
+}

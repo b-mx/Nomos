@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--g0450-firmware",
+  "vendor_id": "hp",
+  "product_id": "g0450-firmware",
+  "name": "G0450 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "g0450_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

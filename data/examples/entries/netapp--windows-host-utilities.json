@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--windows-host-utilities",
+  "vendor_id": "netapp",
+  "product_id": "windows-host-utilities",
+  "name": "Windows Host Utilities",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "windows_host_utilities",
+      "confidence": "auto"
+    }
+  ]
+}

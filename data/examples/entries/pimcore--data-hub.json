@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pimcore--data-hub",
+  "vendor_id": "pimcore",
+  "product_id": "data-hub",
+  "name": "Data-Hub",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "data-hub",
+      "confidence": "auto"
+    }
+  ]
+}

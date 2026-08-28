@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "citrix--cloudbridge-virtual-wan",
+  "vendor_id": "citrix",
+  "product_id": "cloudbridge-virtual-wan",
+  "name": "CloudBridge Virtual WAN",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "CloudBridge Virtual WAN",
+      "confidence": "auto"
+    }
+  ]
+}

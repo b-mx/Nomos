@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--onos-kpimon",
+  "vendor_id": "linuxfoundation",
+  "product_id": "onos-kpimon",
+  "name": "Onos-Kpimon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "onos-kpimon",
+      "confidence": "auto"
+    }
+  ]
+}

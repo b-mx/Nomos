@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "horde--horde-mime-viewer",
+  "vendor_id": "horde",
+  "product_id": "horde-mime-viewer",
+  "name": "Horde Mime Viewer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "horde_mime_viewer",
+      "confidence": "auto"
+    }
+  ]
+}

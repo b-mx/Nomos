@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--xp7-device-manager",
+  "vendor_id": "hp",
+  "product_id": "xp7-device-manager",
+  "name": "Xp7 Device Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xp7_device_manager",
+      "confidence": "auto"
+    }
+  ]
+}

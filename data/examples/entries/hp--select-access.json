@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--select-access",
+  "vendor_id": "hp",
+  "product_id": "select-access",
+  "name": "Select Access",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "select_access",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--tru64",
+  "vendor_id": "hp",
+  "product_id": "tru64",
+  "name": "Tru64",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tru64",
+      "confidence": "auto"
+    }
+  ]
+}

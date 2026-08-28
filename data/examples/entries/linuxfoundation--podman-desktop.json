@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--podman-desktop",
+  "vendor_id": "linuxfoundation",
+  "product_id": "podman-desktop",
+  "name": "Podman Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "podman_desktop",
+      "confidence": "auto"
+    }
+  ]
+}

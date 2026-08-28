@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--display-assistant",
+  "vendor_id": "hp",
+  "product_id": "display-assistant",
+  "name": "Display Assistant",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "display_assistant",
+      "confidence": "auto"
+    }
+  ]
+}

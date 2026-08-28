@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tanium--deploy",
+  "vendor_id": "tanium",
+  "product_id": "deploy",
+  "name": "Deploy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "deploy",
+      "confidence": "auto"
+    }
+  ]
+}

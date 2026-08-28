@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--amd-3020e-firmware",
+  "vendor_id": "amd",
+  "product_id": "amd-3020e-firmware",
+  "name": "Amd 3020E Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amd_3020e_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

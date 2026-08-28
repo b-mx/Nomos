@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "belkin--wemo-switch",
+  "vendor_id": "belkin",
+  "product_id": "wemo-switch",
+  "name": "Wemo Switch",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wemo_switch",
+      "confidence": "auto"
+    }
+  ]
+}

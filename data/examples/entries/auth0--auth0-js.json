@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "auth0--auth0-js",
+  "vendor_id": "auth0",
+  "product_id": "auth0-js",
+  "name": "Auth0.Js",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "auth0.js",
+      "confidence": "auto"
+    }
+  ]
+}

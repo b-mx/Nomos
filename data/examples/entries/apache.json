@@ -2,18 +2,13 @@
   "canonical_type": "vendor",
   "slug": "apache",
   "vendor_id": "apache",
-  "name": "Apache Software Foundation",
-  "icon": "logos:apache",
+  "name": "Apache",
+  "icon": null,
   "aliases": [
-    {
-      "source": "nvd",
-      "value": "apache",
-      "confidence": "curated"
-    },
     {
       "source": "cisa_kev",
       "value": "Apache",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

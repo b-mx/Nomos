@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--xsabre",
+  "vendor_id": "debian",
+  "product_id": "xsabre",
+  "name": "Xsabre",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xsabre",
+      "confidence": "auto"
+    }
+  ]
+}

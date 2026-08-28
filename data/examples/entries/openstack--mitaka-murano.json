@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--mitaka-murano",
+  "vendor_id": "openstack",
+  "product_id": "mitaka-murano",
+  "name": "Mitaka-Murano",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mitaka-murano",
+      "confidence": "auto"
+    }
+  ]
+}

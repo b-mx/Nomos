@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp-now",
+  "vendor_id": "espressif",
+  "product_id": "esp-now",
+  "name": "Esp-Now",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp-now",
+      "confidence": "auto"
+    }
+  ]
+}

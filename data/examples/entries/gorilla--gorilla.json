@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "gorilla--gorilla",
+  "vendor_id": "gorilla",
+  "product_id": "gorilla",
+  "name": "Gorilla Toolkit",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "gorilla",
+      "confidence": "auto"
+    }
+  ]
+}

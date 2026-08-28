@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--integrated-lights-out-firmware",
+  "vendor_id": "hp",
+  "product_id": "integrated-lights-out-firmware",
+  "name": "Integrated Lights-Out Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "integrated_lights-out_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

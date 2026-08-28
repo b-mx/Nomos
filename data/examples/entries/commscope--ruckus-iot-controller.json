@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "commscope--ruckus-iot-controller",
+  "vendor_id": "commscope",
+  "product_id": "ruckus-iot-controller",
+  "name": "Ruckus Iot Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ruckus_iot_controller",
+      "confidence": "auto"
+    }
+  ]
+}

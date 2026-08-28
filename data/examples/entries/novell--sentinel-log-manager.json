@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--sentinel-log-manager",
+  "vendor_id": "novell",
+  "product_id": "sentinel-log-manager",
+  "name": "Sentinel Log Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sentinel_log_manager",
+      "confidence": "auto"
+    }
+  ]
+}

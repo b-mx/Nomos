@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "gradle",
+  "vendor_id": "gradle",
+  "name": "Gradle",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gradle",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ipswitch--imail-server",
+  "vendor_id": "ipswitch",
+  "product_id": "imail-server",
+  "name": "Imail Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "imail_server",
+      "confidence": "auto"
+    }
+  ]
+}

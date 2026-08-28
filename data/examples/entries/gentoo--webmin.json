@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gentoo--webmin",
+  "vendor_id": "gentoo",
+  "product_id": "webmin",
+  "name": "Webmin",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "webmin",
+      "confidence": "auto"
+    }
+  ]
+}

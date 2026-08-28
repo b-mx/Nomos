@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cyberark--conjur-oss-helm-chart",
+  "vendor_id": "cyberark",
+  "product_id": "conjur-oss-helm-chart",
+  "name": "Conjur Oss Helm Chart",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "conjur_oss_helm_chart",
+      "confidence": "auto"
+    }
+  ]
+}

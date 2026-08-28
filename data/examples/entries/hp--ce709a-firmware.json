@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--ce709a-firmware",
+  "vendor_id": "hp",
+  "product_id": "ce709a-firmware",
+  "name": "Ce709A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ce709a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

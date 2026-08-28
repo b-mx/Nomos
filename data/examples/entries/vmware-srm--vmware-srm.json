@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware-srm--vmware-srm",
+  "vendor_id": "vmware-srm",
+  "product_id": "vmware-srm",
+  "name": "VMware Site Recovery Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "vmware-srm",
+      "confidence": "auto"
+    }
+  ]
+}

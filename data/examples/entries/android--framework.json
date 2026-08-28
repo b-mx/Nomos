@@ -4,17 +4,15 @@
   "vendor_id": "android",
   "product_id": "framework",
   "name": "Framework",
-  "type": "library",
-  "tags": [
-    "framework"
-  ],
-  "icon": "logos:android-icon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Framework",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

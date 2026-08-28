@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "sensiolabs--symfony",
+  "vendor_id": "sensiolabs",
+  "product_id": "symfony",
+  "name": "Symfony",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "symfony",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "symfony",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hcltech--legacy-ivr-firmware",
+  "vendor_id": "hcltech",
+  "product_id": "legacy-ivr-firmware",
+  "name": "Legacy Ivr Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "legacy_ivr_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sonarqube-server--sonarqube-server",
+  "vendor_id": "sonarqube-server",
+  "product_id": "sonarqube-server",
+  "name": "SonarQube Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "sonarqube-server",
+      "confidence": "auto"
+    }
+  ]
+}

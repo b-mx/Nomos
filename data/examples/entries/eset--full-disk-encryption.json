@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eset--full-disk-encryption",
+  "vendor_id": "eset",
+  "product_id": "full-disk-encryption",
+  "name": "Full Disk Encryption",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "full_disk_encryption",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--juju-utils",
+  "vendor_id": "canonical",
+  "product_id": "juju-utils",
+  "name": "Juju/Utils",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "juju/utils",
+      "confidence": "auto"
+    }
+  ]
+}

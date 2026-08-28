@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "amazon-aurora-postgresql",
+  "vendor_id": "amazon-aurora-postgresql",
+  "name": "Amazon Aurora PostgreSQL",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "amazon-aurora-postgresql",
+      "confidence": "auto"
+    }
+  ]
+}

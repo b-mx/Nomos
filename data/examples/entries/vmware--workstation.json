@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--workstation",
+  "vendor_id": "vmware",
+  "product_id": "workstation",
+  "name": "Workstation",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Workstation",
+      "confidence": "auto"
+    }
+  ]
+}

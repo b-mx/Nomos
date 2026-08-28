@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "blackberry--blackberry-os",
+  "vendor_id": "blackberry",
+  "product_id": "blackberry-os",
+  "name": "Blackberry Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "blackberry_os",
+      "confidence": "auto"
+    }
+  ]
+}

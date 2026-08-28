@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "elasticsearch--packetbeat",
+  "vendor_id": "elasticsearch",
+  "product_id": "packetbeat",
+  "name": "Packetbeat",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "packetbeat",
+      "confidence": "auto"
+    }
+  ]
+}

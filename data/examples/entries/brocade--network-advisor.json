@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "brocade--network-advisor",
+  "vendor_id": "brocade",
+  "product_id": "network-advisor",
+  "name": "Network Advisor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_advisor",
+      "confidence": "auto"
+    }
+  ]
+}

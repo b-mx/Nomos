@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11dpg-ot-cpu-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11dpg-ot-cpu-firmware",
+  "name": "X11Dpg-Ot-Cpu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11dpg-ot-cpu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

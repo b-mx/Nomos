@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rittal--lcp-cw-firmware",
+  "vendor_id": "rittal",
+  "product_id": "lcp-cw-firmware",
+  "name": "Lcp-Cw Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lcp-cw_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mckesson--horizon-cardiology-firmware",
+  "vendor_id": "mckesson",
+  "product_id": "horizon-cardiology-firmware",
+  "name": "Horizon Cardiology Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "horizon_cardiology_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--array-configuration-utility",
+  "vendor_id": "hp",
+  "product_id": "array-configuration-utility",
+  "name": "Array Configuration Utility",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "array_configuration_utility",
+      "confidence": "auto"
+    }
+  ]
+}

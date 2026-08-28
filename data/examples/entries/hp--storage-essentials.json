@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--storage-essentials",
+  "vendor_id": "hp",
+  "product_id": "storage-essentials",
+  "name": "Storage Essentials",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storage_essentials",
+      "confidence": "auto"
+    }
+  ]
+}

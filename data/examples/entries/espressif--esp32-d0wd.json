@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp32-d0wd",
+  "vendor_id": "espressif",
+  "product_id": "esp32-d0wd",
+  "name": "Esp32-D0Wd",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp32-d0wd",
+      "confidence": "auto"
+    }
+  ]
+}

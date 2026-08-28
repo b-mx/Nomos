@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ca--web-agents",
+  "vendor_id": "ca",
+  "product_id": "web-agents",
+  "name": "Web Agents",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web_agents",
+      "confidence": "auto"
+    }
+  ]
+}

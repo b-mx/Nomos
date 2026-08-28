@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "jhipster--jhipster",
+  "vendor_id": "jhipster",
+  "product_id": "jhipster",
+  "name": "JHipster",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "jhipster",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "jhipster",
+      "confidence": "auto"
+    }
+  ]
+}

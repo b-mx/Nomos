@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tls--tls",
+  "vendor_id": "tls",
+  "product_id": "tls",
+  "name": "TLS",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "tls",
+      "confidence": "auto"
+    }
+  ]
+}

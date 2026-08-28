@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--er-x-firmware",
+  "vendor_id": "ui",
+  "product_id": "er-x-firmware",
+  "name": "Er-X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "er-x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

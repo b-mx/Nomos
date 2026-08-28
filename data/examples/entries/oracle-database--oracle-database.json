@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle-database--oracle-database",
+  "vendor_id": "oracle-database",
+  "product_id": "oracle-database",
+  "name": "Oracle Database",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "oracle-database",
+      "confidence": "auto"
+    }
+  ]
+}

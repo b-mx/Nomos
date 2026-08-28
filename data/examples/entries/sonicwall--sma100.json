@@ -5,20 +5,13 @@
   "product_id": "sma100",
   "name": "SMA100",
   "type": "software",
-  "tags": [
-    "vpn"
-  ],
-  "icon": "simple-icons:sonicwall",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "SMA100",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "SSLVPN SMA100",
       "confidence": "auto"
     }
   ]

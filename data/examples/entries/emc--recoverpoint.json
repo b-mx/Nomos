@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--recoverpoint",
+  "vendor_id": "emc",
+  "product_id": "recoverpoint",
+  "name": "Recoverpoint",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "recoverpoint",
+      "confidence": "auto"
+    }
+  ]
+}

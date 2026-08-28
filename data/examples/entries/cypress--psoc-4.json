@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cypress--psoc-4",
+  "vendor_id": "cypress",
+  "product_id": "psoc-4",
+  "name": "Psoc 4",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "psoc_4",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--etx-r-firmware",
+  "vendor_id": "iodata",
+  "product_id": "etx-r-firmware",
+  "name": "Etx-R Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "etx-r_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

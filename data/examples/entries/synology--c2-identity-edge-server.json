@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--c2-identity-edge-server",
+  "vendor_id": "synology",
+  "product_id": "c2-identity-edge-server",
+  "name": "C2 Identity Edge Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c2_identity_edge_server",
+      "confidence": "auto"
+    }
+  ]
+}

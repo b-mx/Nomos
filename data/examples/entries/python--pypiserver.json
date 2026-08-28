@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "python--pypiserver",
+  "vendor_id": "python",
+  "product_id": "pypiserver",
+  "name": "Pypiserver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pypiserver",
+      "confidence": "auto"
+    }
+  ]
+}

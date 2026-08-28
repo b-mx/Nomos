@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--helion-openstack-glance",
+  "vendor_id": "hp",
+  "product_id": "helion-openstack-glance",
+  "name": "Helion Openstack Glance",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "helion_openstack_glance",
+      "confidence": "auto"
+    }
+  ]
+}

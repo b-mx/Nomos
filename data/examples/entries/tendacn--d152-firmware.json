@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tendacn--d152-firmware",
+  "vendor_id": "tendacn",
+  "product_id": "d152-firmware",
+  "name": "D152 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "d152_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

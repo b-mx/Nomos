@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "asuswrt-merlin-project--rt-n18u-firmware",
+  "vendor_id": "asuswrt-merlin-project",
+  "product_id": "rt-n18u-firmware",
+  "name": "Rt-N18U Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rt-n18u_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

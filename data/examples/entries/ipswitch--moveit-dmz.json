@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ipswitch--moveit-dmz",
+  "vendor_id": "ipswitch",
+  "product_id": "moveit-dmz",
+  "name": "Moveit Dmz",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "moveit_dmz",
+      "confidence": "auto"
+    }
+  ]
+}

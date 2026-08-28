@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "icinga--icinga-db-web",
+  "vendor_id": "icinga",
+  "product_id": "icinga-db-web",
+  "name": "Icinga Db Web",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icinga_db_web",
+      "confidence": "auto"
+    }
+  ]
+}

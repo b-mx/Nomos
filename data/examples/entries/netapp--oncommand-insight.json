@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--oncommand-insight",
+  "vendor_id": "netapp",
+  "product_id": "oncommand-insight",
+  "name": "Oncommand Insight",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "oncommand_insight",
+      "confidence": "auto"
+    }
+  ]
+}

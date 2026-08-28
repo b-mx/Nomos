@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--storagegrid-webscale",
+  "vendor_id": "netapp",
+  "product_id": "storagegrid-webscale",
+  "name": "Storagegrid Webscale",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storagegrid_webscale",
+      "confidence": "auto"
+    }
+  ]
+}

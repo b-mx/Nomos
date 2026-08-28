@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--suse-openstack-cloud",
+  "vendor_id": "novell",
+  "product_id": "suse-openstack-cloud",
+  "name": "Suse Openstack Cloud",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_openstack_cloud",
+      "confidence": "auto"
+    }
+  ]
+}

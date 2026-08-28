@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "blackberry--appliance-x",
+  "vendor_id": "blackberry",
+  "product_id": "appliance-x",
+  "name": "Appliance-X",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "appliance-x",
+      "confidence": "auto"
+    }
+  ]
+}

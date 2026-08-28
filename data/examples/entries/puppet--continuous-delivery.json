@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "puppet--continuous-delivery",
+  "vendor_id": "puppet",
+  "product_id": "continuous-delivery",
+  "name": "Continuous Delivery",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "continuous_delivery",
+      "confidence": "auto"
+    }
+  ]
+}

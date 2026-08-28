@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "haproxy--haproxy",
+  "vendor_id": "haproxy",
+  "product_id": "haproxy",
+  "name": "HAProxy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "haproxy",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "haproxy",
+      "confidence": "auto"
+    }
+  ]
+}

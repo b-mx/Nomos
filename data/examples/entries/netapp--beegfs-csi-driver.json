@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--beegfs-csi-driver",
+  "vendor_id": "netapp",
+  "product_id": "beegfs-csi-driver",
+  "name": "Beegfs Csi Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "beegfs_csi_driver",
+      "confidence": "auto"
+    }
+  ]
+}

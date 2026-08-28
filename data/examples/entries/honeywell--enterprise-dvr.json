@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--enterprise-dvr",
+  "vendor_id": "honeywell",
+  "product_id": "enterprise-dvr",
+  "name": "Enterprise Dvr",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise_dvr",
+      "confidence": "auto"
+    }
+  ]
+}

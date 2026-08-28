@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wago--edge-controller",
+  "vendor_id": "wago",
+  "product_id": "edge-controller",
+  "name": "Edge Controller",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edge_controller",
+      "confidence": "auto"
+    }
+  ]
+}

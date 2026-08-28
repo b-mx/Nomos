@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "projectcalico--calico",
+  "vendor_id": "projectcalico",
+  "product_id": "calico",
+  "name": "Calico",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "calico",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "calico",
+      "confidence": "auto"
+    }
+  ]
+}

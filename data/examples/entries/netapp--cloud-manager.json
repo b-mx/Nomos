@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--cloud-manager",
+  "vendor_id": "netapp",
+  "product_id": "cloud-manager",
+  "name": "Cloud Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_manager",
+      "confidence": "auto"
+    }
+  ]
+}

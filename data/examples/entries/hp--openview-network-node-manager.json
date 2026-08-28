@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--openview-network-node-manager",
+  "vendor_id": "hp",
+  "product_id": "openview-network-node-manager",
+  "name": "Openview Network Node Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openview_network_node_manager",
+      "confidence": "auto"
+    }
+  ]
+}

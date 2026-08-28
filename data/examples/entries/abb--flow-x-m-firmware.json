@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--flow-x-m-firmware",
+  "vendor_id": "abb",
+  "product_id": "flow-x-m-firmware",
+  "name": "Flow-X/M Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "flow-x/m_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

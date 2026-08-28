@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--rockdisk-firmware",
+  "vendor_id": "iodata",
+  "product_id": "rockdisk-firmware",
+  "name": "Rockdisk Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rockdisk_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "paypal--mass-pay",
+  "vendor_id": "paypal",
+  "product_id": "mass-pay",
+  "name": "Mass Pay",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mass_pay",
+      "confidence": "auto"
+    }
+  ]
+}

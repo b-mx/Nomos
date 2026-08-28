@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bachmann--cs200-firmware",
+  "vendor_id": "bachmann",
+  "product_id": "cs200-firmware",
+  "name": "Cs200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cs200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "marel--a320-firmware",
+  "vendor_id": "marel",
+  "product_id": "a320-firmware",
+  "name": "A320 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a320_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

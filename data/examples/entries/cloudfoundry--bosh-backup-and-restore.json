@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--bosh-backup-and-restore",
+  "vendor_id": "cloudfoundry",
+  "product_id": "bosh-backup-and-restore",
+  "name": "Bosh Backup And Restore",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bosh_backup_and_restore",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "python--rsa",
+  "vendor_id": "python",
+  "product_id": "rsa",
+  "name": "Rsa",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rsa",
+      "confidence": "auto"
+    }
+  ]
+}

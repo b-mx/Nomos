@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pimcore--web2print-tools",
+  "vendor_id": "pimcore",
+  "product_id": "web2print-tools",
+  "name": "Web2Print Tools",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web2print_tools",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netease--youdao-dictionary",
+  "vendor_id": "netease",
+  "product_id": "youdao-dictionary",
+  "name": "Youdao Dictionary",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "youdao_dictionary",
+      "confidence": "auto"
+    }
+  ]
+}

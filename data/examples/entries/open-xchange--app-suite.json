@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "open-xchange--app-suite",
+  "vendor_id": "open-xchange",
+  "product_id": "app-suite",
+  "name": "App Suite",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "app_suite",
+      "confidence": "auto"
+    }
+  ]
+}

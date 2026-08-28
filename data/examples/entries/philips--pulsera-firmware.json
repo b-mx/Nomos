@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--pulsera-firmware",
+  "vendor_id": "philips",
+  "product_id": "pulsera-firmware",
+  "name": "Pulsera Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pulsera_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

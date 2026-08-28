@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "websense--enterprise",
+  "vendor_id": "websense",
+  "product_id": "enterprise",
+  "name": "Enterprise",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise",
+      "confidence": "auto"
+    }
+  ]
+}

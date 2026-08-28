@@ -4,11 +4,9 @@
   "vendor_id": "quest",
   "product_id": "kace-systems-management-appliance-sma",
   "name": "KACE Systems Management Appliance (SMA)",
-  "type": "hardware",
-  "tags": [
-    "hardware-appliance"
-  ],
-  "icon": "simple-icons:quest",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

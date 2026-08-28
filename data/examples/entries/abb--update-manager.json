@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--update-manager",
+  "vendor_id": "abb",
+  "product_id": "update-manager",
+  "name": "Update Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "update_manager",
+      "confidence": "auto"
+    }
+  ]
+}

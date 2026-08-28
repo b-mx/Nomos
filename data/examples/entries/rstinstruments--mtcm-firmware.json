@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rstinstruments--mtcm-firmware",
+  "vendor_id": "rstinstruments",
+  "product_id": "mtcm-firmware",
+  "name": "Mtcm Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mtcm_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "djangoproject--django",
+  "vendor_id": "djangoproject",
+  "product_id": "django",
+  "name": "Django",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "django",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "django",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "illumina--iscan-firmware",
+  "vendor_id": "illumina",
+  "product_id": "iscan-firmware",
+  "name": "Iscan Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iscan_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kaspersky--security-center-web-console",
+  "vendor_id": "kaspersky",
+  "product_id": "security-center-web-console",
+  "name": "Security Center Web Console",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "security_center_web_console",
+      "confidence": "auto"
+    }
+  ]
+}

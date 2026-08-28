@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--bc500-firmware",
+  "vendor_id": "synology",
+  "product_id": "bc500-firmware",
+  "name": "Bc500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bc500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

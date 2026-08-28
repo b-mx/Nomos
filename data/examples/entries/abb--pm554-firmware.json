@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--pm554-firmware",
+  "vendor_id": "abb",
+  "product_id": "pm554-firmware",
+  "name": "Pm554 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pm554_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

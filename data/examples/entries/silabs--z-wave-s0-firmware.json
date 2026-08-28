@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--z-wave-s0-firmware",
+  "vendor_id": "silabs",
+  "product_id": "z-wave-s0-firmware",
+  "name": "Z-Wave S0 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "z-wave_s0_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

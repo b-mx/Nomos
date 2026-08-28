@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudflare--goflow",
+  "vendor_id": "cloudflare",
+  "product_id": "goflow",
+  "name": "Goflow",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "goflow",
+      "confidence": "auto"
+    }
+  ]
+}

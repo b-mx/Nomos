@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zoom--virtual-room-connector-load-balancer",
+  "vendor_id": "zoom",
+  "product_id": "virtual-room-connector-load-balancer",
+  "name": "Virtual Room Connector Load Balancer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "virtual_room_connector_load_balancer",
+      "confidence": "auto"
+    }
+  ]
+}

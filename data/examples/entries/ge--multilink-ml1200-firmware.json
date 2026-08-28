@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--multilink-ml1200-firmware",
+  "vendor_id": "ge",
+  "product_id": "multilink-ml1200-firmware",
+  "name": "Multilink Ml1200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "multilink_ml1200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

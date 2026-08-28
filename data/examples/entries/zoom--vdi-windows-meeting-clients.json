@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zoom--vdi-windows-meeting-clients",
+  "vendor_id": "zoom",
+  "product_id": "vdi-windows-meeting-clients",
+  "name": "Vdi Windows Meeting Clients",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vdi_windows_meeting_clients",
+      "confidence": "auto"
+    }
+  ]
+}

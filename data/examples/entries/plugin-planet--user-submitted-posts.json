@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "plugin-planet--user-submitted-posts",
+  "vendor_id": "plugin-planet",
+  "product_id": "user-submitted-posts",
+  "name": "User Submitted Posts",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "user_submitted_posts",
+      "confidence": "auto"
+    }
+  ]
+}

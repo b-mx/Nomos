@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--fedora",
+  "vendor_id": "fedoraproject",
+  "product_id": "fedora",
+  "name": "Fedora Linux",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "fedora",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "fedora",
+      "confidence": "auto"
+    }
+  ]
+}

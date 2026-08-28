@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lightbend--play-framework",
+  "vendor_id": "lightbend",
+  "product_id": "play-framework",
+  "name": "Play Framework",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "play_framework",
+      "confidence": "auto"
+    }
+  ]
+}

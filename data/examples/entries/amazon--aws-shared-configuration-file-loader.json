@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-shared-configuration-file-loader",
+  "vendor_id": "amazon",
+  "product_id": "aws-shared-configuration-file-loader",
+  "name": "Aws Shared Configuration File Loader",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws_shared_configuration_file_loader",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "arangodb--arangodb",
+  "vendor_id": "arangodb",
+  "product_id": "arangodb",
+  "name": "ArangoDB",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "arangodb",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "arangodb",
+      "confidence": "auto"
+    }
+  ]
+}

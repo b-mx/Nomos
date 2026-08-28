@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--1sh08-firmware",
+  "vendor_id": "hp",
+  "product_id": "1sh08-firmware",
+  "name": "1Sh08 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "1sh08_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

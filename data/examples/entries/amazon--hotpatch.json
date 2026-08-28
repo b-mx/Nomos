@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--hotpatch",
+  "vendor_id": "amazon",
+  "product_id": "hotpatch",
+  "name": "Hotpatch",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hotpatch",
+      "confidence": "auto"
+    }
+  ]
+}

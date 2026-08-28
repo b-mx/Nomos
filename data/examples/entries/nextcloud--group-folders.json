@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--group-folders",
+  "vendor_id": "nextcloud",
+  "product_id": "group-folders",
+  "name": "Group Folders",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "group_folders",
+      "confidence": "auto"
+    }
+  ]
+}

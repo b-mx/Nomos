@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "palantir--foundry-frontend",
+  "vendor_id": "palantir",
+  "product_id": "foundry-frontend",
+  "name": "Foundry Frontend",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "foundry_frontend",
+      "confidence": "auto"
+    }
+  ]
+}

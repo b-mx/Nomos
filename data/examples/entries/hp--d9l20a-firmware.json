@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--d9l20a-firmware",
+  "vendor_id": "hp",
+  "product_id": "d9l20a-firmware",
+  "name": "D9L20A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "d9l20a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

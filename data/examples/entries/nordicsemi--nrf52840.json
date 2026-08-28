@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nordicsemi--nrf52840",
+  "vendor_id": "nordicsemi",
+  "product_id": "nrf52840",
+  "name": "Nrf52840",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nrf52840",
+      "confidence": "auto"
+    }
+  ]
+}

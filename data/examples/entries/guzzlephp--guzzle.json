@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "guzzlephp--guzzle",
+  "vendor_id": "guzzlephp",
+  "product_id": "guzzle",
+  "name": "Guzzle",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "guzzle",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "guzzle",
+      "confidence": "auto"
+    }
+  ]
+}

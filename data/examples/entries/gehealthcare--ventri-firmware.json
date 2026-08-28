@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gehealthcare--ventri-firmware",
+  "vendor_id": "gehealthcare",
+  "product_id": "ventri-firmware",
+  "name": "Ventri Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ventri_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

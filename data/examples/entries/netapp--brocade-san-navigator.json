@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--brocade-san-navigator",
+  "vendor_id": "netapp",
+  "product_id": "brocade-san-navigator",
+  "name": "Brocade San Navigator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "brocade_san_navigator",
+      "confidence": "auto"
+    }
+  ]
+}

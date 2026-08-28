@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wpplugin--time-clock",
+  "vendor_id": "wpplugin",
+  "product_id": "time-clock",
+  "name": "Time Clock",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "time_clock",
+      "confidence": "auto"
+    }
+  ]
+}

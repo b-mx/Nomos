@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--edgeswitch-firmware",
+  "vendor_id": "ui",
+  "product_id": "edgeswitch-firmware",
+  "name": "Edgeswitch Firmware",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edgeswitch_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

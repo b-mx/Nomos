@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microsoft--active-directory",
+  "vendor_id": "microsoft",
+  "product_id": "active-directory",
+  "name": "Active Directory",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Active Directory",
+      "confidence": "auto"
+    }
+  ]
+}

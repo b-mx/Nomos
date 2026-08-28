@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--communication-manager",
+  "vendor_id": "avaya",
+  "product_id": "communication-manager",
+  "name": "Communication Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "communication_manager",
+      "confidence": "auto"
+    }
+  ]
+}

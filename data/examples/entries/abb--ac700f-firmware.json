@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--ac700f-firmware",
+  "vendor_id": "abb",
+  "product_id": "ac700f-firmware",
+  "name": "Ac700F Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ac700f_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32h7",
+  "vendor_id": "st",
+  "product_id": "stm32h7",
+  "name": "Stm32H7",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32h7",
+      "confidence": "auto"
+    }
+  ]
+}

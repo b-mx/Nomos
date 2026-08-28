@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--call-management-system",
+  "vendor_id": "avaya",
+  "product_id": "call-management-system",
+  "name": "Call Management System",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "call_management_system",
+      "confidence": "auto"
+    }
+  ]
+}

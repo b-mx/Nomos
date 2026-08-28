@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--ios-software",
+  "vendor_id": "cisco",
+  "product_id": "ios-software",
+  "name": "IOS Software",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "IOS Software",
+      "confidence": "auto"
+    }
+  ]
+}

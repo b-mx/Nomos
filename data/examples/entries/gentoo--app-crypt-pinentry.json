@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gentoo--app-crypt-pinentry",
+  "vendor_id": "gentoo",
+  "product_id": "app-crypt-pinentry",
+  "name": "App-Crypt Pinentry",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "app-crypt_pinentry",
+      "confidence": "auto"
+    }
+  ]
+}

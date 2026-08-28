@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--sles",
+  "vendor_id": "suse",
+  "product_id": "sles",
+  "name": "SUSE Linux Enterprise Server",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "sles",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "sles",
+      "confidence": "auto"
+    }
+  ]
+}

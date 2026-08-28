@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--minikube",
+  "vendor_id": "kubernetes",
+  "product_id": "minikube",
+  "name": "Minikube",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "minikube",
+      "confidence": "auto"
+    }
+  ]
+}

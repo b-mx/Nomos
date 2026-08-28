@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--cp630-web-firmware",
+  "vendor_id": "abb",
+  "product_id": "cp630-web-firmware",
+  "name": "Cp630-Web Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cp630-web_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

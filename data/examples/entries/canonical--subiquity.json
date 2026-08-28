@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--subiquity",
+  "vendor_id": "canonical",
+  "product_id": "subiquity",
+  "name": "Subiquity",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "subiquity",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--nova-4",
+  "vendor_id": "huawei",
+  "product_id": "nova-4",
+  "name": "Nova 4",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nova_4",
+      "confidence": "auto"
+    }
+  ]
+}

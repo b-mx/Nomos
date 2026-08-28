@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "graylog--graylog",
+  "vendor_id": "graylog",
+  "product_id": "graylog",
+  "name": "Graylog",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "graylog",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "graylog",
+      "confidence": "auto"
+    }
+  ]
+}

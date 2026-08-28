@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--horizon",
+  "vendor_id": "openstack",
+  "product_id": "horizon",
+  "name": "Horizon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "horizon",
+      "confidence": "auto"
+    }
+  ]
+}

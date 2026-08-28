@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--backupninja",
+  "vendor_id": "debian",
+  "product_id": "backupninja",
+  "name": "Backupninja",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "backupninja",
+      "confidence": "auto"
+    }
+  ]
+}

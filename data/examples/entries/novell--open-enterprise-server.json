@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--open-enterprise-server",
+  "vendor_id": "novell",
+  "product_id": "open-enterprise-server",
+  "name": "Open Enterprise Server",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "open_enterprise_server",
+      "confidence": "auto"
+    }
+  ]
+}

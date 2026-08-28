@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ssh--tectia-manager",
+  "vendor_id": "ssh",
+  "product_id": "tectia-manager",
+  "name": "Tectia Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tectia_manager",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--python-imaging",
+  "vendor_id": "debian",
+  "product_id": "python-imaging",
+  "name": "Python-Imaging",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "python-imaging",
+      "confidence": "auto"
+    }
+  ]
+}

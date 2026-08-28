@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7f72",
+  "vendor_id": "amd",
+  "product_id": "epyc-7f72",
+  "name": "Epyc 7F72",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7f72",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apereo--opencast",
+  "vendor_id": "apereo",
+  "product_id": "opencast",
+  "name": "Opencast",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opencast",
+      "confidence": "auto"
+    }
+  ]
+}

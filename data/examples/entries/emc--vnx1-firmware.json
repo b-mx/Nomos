@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--vnx1-firmware",
+  "vendor_id": "emc",
+  "product_id": "vnx1-firmware",
+  "name": "Vnx1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vnx1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

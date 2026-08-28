@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--operations-agent",
+  "vendor_id": "hp",
+  "product_id": "operations-agent",
+  "name": "Operations Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "operations_agent",
+      "confidence": "auto"
+    }
+  ]
+}

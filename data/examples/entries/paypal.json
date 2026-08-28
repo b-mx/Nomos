@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "paypal",
+  "vendor_id": "paypal",
+  "name": "Paypal",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "paypal",
+      "confidence": "auto"
+    }
+  ]
+}

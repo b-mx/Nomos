@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--hp-ux",
+  "vendor_id": "hp",
+  "product_id": "hp-ux",
+  "name": "Hp-Ux",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hp-ux",
+      "confidence": "auto"
+    }
+  ]
+}

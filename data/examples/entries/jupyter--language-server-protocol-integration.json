@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--language-server-protocol-integration",
+  "vendor_id": "jupyter",
+  "product_id": "language-server-protocol-integration",
+  "name": "Language Server Protocol Integration",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "language_server_protocol_integration",
+      "confidence": "auto"
+    }
+  ]
+}

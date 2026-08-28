@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "paypal--transactional-information-soap",
+  "vendor_id": "paypal",
+  "product_id": "transactional-information-soap",
+  "name": "Transactional Information Soap",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "transactional_information_soap",
+      "confidence": "auto"
+    }
+  ]
+}

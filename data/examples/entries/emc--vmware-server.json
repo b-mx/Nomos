@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--vmware-server",
+  "vendor_id": "emc",
+  "product_id": "vmware-server",
+  "name": "Vmware Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vmware_server",
+      "confidence": "auto"
+    }
+  ]
+}

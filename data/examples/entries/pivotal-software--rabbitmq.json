@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--rabbitmq",
+  "vendor_id": "pivotal-software",
+  "product_id": "rabbitmq",
+  "name": "RabbitMQ",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "rabbitmq",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "rabbitmq",
+      "confidence": "auto"
+    }
+  ]
+}

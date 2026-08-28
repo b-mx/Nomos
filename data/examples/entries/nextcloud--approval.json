@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--approval",
+  "vendor_id": "nextcloud",
+  "product_id": "approval",
+  "name": "Approval",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "approval",
+      "confidence": "auto"
+    }
+  ]
+}

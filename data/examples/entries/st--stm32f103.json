@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32f103",
+  "vendor_id": "st",
+  "product_id": "stm32f103",
+  "name": "Stm32F103",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32f103",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "irz--ruh2-firmware",
+  "vendor_id": "irz",
+  "product_id": "ruh2-firmware",
+  "name": "Ruh2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ruh2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

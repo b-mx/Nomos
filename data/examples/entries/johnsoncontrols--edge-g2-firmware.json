@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "johnsoncontrols--edge-g2-firmware",
+  "vendor_id": "johnsoncontrols",
+  "product_id": "edge-g2-firmware",
+  "name": "Edge G2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edge_g2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

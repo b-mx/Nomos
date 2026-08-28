@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "aveva--iec870ip-firmware",
+  "vendor_id": "aveva",
+  "product_id": "iec870ip-firmware",
+  "name": "Iec870Ip Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iec870ip_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

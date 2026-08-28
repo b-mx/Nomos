@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "facebook--buck",
+  "vendor_id": "facebook",
+  "product_id": "buck",
+  "name": "Buck",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "buck",
+      "confidence": "auto"
+    }
+  ]
+}

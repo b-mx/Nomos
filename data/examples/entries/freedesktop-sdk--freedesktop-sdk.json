@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "freedesktop-sdk--freedesktop-sdk",
+  "vendor_id": "freedesktop-sdk",
+  "product_id": "freedesktop-sdk",
+  "name": "Freedesktop SDK",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "freedesktop-sdk",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "campbellsci--cr6-firmware",
+  "vendor_id": "campbellsci",
+  "product_id": "cr6-firmware",
+  "name": "Cr6 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cr6_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

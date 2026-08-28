@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--isilonsd-edge",
+  "vendor_id": "emc",
+  "product_id": "isilonsd-edge",
+  "name": "Isilonsd Edge",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "isilonsd_edge",
+      "confidence": "auto"
+    }
+  ]
+}

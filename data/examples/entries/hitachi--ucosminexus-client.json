@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachi--ucosminexus-client",
+  "vendor_id": "hitachi",
+  "product_id": "ucosminexus-client",
+  "name": "Ucosminexus Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ucosminexus_client",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--b305hw2-firmware",
+  "vendor_id": "peplink",
+  "product_id": "b305hw2-firmware",
+  "name": "B305Hw2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b305hw2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

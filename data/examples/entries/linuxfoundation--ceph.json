@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--ceph",
+  "vendor_id": "linuxfoundation",
+  "product_id": "ceph",
+  "name": "Ceph",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ceph",
+      "confidence": "auto"
+    }
+  ]
+}

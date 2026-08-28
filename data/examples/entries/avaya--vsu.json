@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--vsu",
+  "vendor_id": "avaya",
+  "product_id": "vsu",
+  "name": "Vsu",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vsu",
+      "confidence": "auto"
+    }
+  ]
+}

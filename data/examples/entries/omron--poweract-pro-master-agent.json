@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "omron--poweract-pro-master-agent",
+  "vendor_id": "omron",
+  "product_id": "poweract-pro-master-agent",
+  "name": "Poweract Pro Master Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "poweract_pro_master_agent",
+      "confidence": "auto"
+    }
+  ]
+}

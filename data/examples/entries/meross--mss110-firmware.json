@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "meross--mss110-firmware",
+  "vendor_id": "meross",
+  "product_id": "mss110-firmware",
+  "name": "Mss110 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mss110_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

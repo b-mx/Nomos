@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "meross--mss550x-firmware",
+  "vendor_id": "meross",
+  "product_id": "mss550x-firmware",
+  "name": "Mss550X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mss550x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ovarro--tbox-rm2-firmware",
+  "vendor_id": "ovarro",
+  "product_id": "tbox-rm2-firmware",
+  "name": "Tbox Rm2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tbox_rm2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

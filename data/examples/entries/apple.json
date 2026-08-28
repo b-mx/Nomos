@@ -3,12 +3,12 @@
   "slug": "apple",
   "vendor_id": "apple",
   "name": "Apple",
-  "icon": "logos:apple",
+  "icon": null,
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Apple",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

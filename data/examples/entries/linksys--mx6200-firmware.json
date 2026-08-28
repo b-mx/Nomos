@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linksys--mx6200-firmware",
+  "vendor_id": "linksys",
+  "product_id": "mx6200-firmware",
+  "name": "Mx6200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mx6200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

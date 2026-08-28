@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "illumina--miniseq-firmware",
+  "vendor_id": "illumina",
+  "product_id": "miniseq-firmware",
+  "name": "Miniseq Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "miniseq_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

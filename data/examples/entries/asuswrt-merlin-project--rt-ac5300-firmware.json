@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "asuswrt-merlin-project--rt-ac5300-firmware",
+  "vendor_id": "asuswrt-merlin-project",
+  "product_id": "rt-ac5300-firmware",
+  "name": "Rt-Ac5300 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rt-ac5300_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

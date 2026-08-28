@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "draeger--infinity-delta-firmware",
+  "vendor_id": "draeger",
+  "product_id": "infinity-delta-firmware",
+  "name": "Infinity Delta Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "infinity_delta_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--eth-fw-firmware",
+  "vendor_id": "abb",
+  "product_id": "eth-fw-firmware",
+  "name": "Eth-Fw Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eth-fw_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

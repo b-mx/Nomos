@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bitcoin-core--bitcoin-core",
+  "vendor_id": "bitcoin-core",
+  "product_id": "bitcoin-core",
+  "name": "Bitcoin Core",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "bitcoin-core",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kddi--qua-station",
+  "vendor_id": "kddi",
+  "product_id": "qua-station",
+  "name": "Qua Station",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "qua_station",
+      "confidence": "auto"
+    }
+  ]
+}

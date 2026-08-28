@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "automattic--woocommerce-payments",
+  "vendor_id": "automattic",
+  "product_id": "woocommerce-payments",
+  "name": "Woocommerce Payments",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "woocommerce_payments",
+      "confidence": "auto"
+    }
+  ]
+}

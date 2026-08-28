@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--aura-presence-services",
+  "vendor_id": "avaya",
+  "product_id": "aura-presence-services",
+  "name": "Aura Presence Services",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aura_presence_services",
+      "confidence": "auto"
+    }
+  ]
+}

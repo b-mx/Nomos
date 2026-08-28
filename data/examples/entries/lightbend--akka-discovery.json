@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lightbend--akka-discovery",
+  "vendor_id": "lightbend",
+  "product_id": "akka-discovery",
+  "name": "Akka Discovery",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "akka_discovery",
+      "confidence": "auto"
+    }
+  ]
+}

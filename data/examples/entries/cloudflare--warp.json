@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudflare--warp",
+  "vendor_id": "cloudflare",
+  "product_id": "warp",
+  "name": "Warp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "warp",
+      "confidence": "auto"
+    }
+  ]
+}

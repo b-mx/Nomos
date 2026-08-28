@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "seagate--personal-cloud",
+  "vendor_id": "seagate",
+  "product_id": "personal-cloud",
+  "name": "Personal Cloud",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "personal_cloud",
+      "confidence": "auto"
+    }
+  ]
+}

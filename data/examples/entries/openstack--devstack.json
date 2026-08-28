@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--devstack",
+  "vendor_id": "openstack",
+  "product_id": "devstack",
+  "name": "Devstack",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "devstack",
+      "confidence": "auto"
+    }
+  ]
+}

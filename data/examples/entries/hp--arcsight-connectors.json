@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--arcsight-connectors",
+  "vendor_id": "hp",
+  "product_id": "arcsight-connectors",
+  "name": "Arcsight Connectors",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arcsight_connectors",
+      "confidence": "auto"
+    }
+  ]
+}

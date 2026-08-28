@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitrontech--chita-firmware",
+  "vendor_id": "hitrontech",
+  "product_id": "chita-firmware",
+  "name": "Chita Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "chita_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

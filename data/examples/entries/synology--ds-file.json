@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--ds-file",
+  "vendor_id": "synology",
+  "product_id": "ds-file",
+  "name": "Ds File",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ds_file",
+      "confidence": "auto"
+    }
+  ]
+}

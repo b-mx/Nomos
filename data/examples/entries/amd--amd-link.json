@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--amd-link",
+  "vendor_id": "amd",
+  "product_id": "amd-link",
+  "name": "Amd Link",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amd_link",
+      "confidence": "auto"
+    }
+  ]
+}
