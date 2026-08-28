@@ -1,0 +1,9 @@
+id: sslvpn-sma100
+vendor_id: sonicwall
+name: SSLVPN SMA100
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SSLVPN SMA100
+  confidence: auto

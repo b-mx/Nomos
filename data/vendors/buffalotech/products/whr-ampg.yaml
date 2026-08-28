@@ -1,0 +1,10 @@
+id: whr-ampg
+vendor_id: buffalotech
+name: Whr-Ampg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:whr\-ampg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-ampg
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-managed-m605-l3u53a
+vendor_id: hp
+name: Laserjet Managed M605 L3U53A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_m605_l3u53a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_m605_l3u53a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: openmq
+vendor_id: eclipse
+name: Openmq
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:openmq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openmq
+  confidence: auto

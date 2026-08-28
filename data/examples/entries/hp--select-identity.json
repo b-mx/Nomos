@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--select-identity",
+  "vendor_id": "hp",
+  "product_id": "select-identity",
+  "name": "Select Identity",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "select_identity",
+      "confidence": "auto"
+    }
+  ]
+}

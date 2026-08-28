@@ -1,0 +1,10 @@
+id: ssl-vpn-module-1000
+vendor_id: nortel
+name: Ssl Vpn Module 1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:ssl_vpn_module_1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ssl_vpn_module_1000
+  confidence: auto

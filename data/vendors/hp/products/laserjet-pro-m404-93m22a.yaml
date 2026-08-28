@@ -1,0 +1,10 @@
+id: laserjet-pro-m404-93m22a
+vendor_id: hp
+name: Laserjet Pro M404 93M22A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m404_93m22a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m404_93m22a
+  confidence: auto

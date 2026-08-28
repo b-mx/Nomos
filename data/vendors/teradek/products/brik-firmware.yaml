@@ -1,0 +1,10 @@
+id: brik-firmware
+vendor_id: teradek
+name: Brik Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teradek:brik_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brik_firmware
+  confidence: auto

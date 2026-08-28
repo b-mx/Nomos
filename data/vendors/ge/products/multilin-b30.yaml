@@ -1,0 +1,10 @@
+id: multilin-b30
+vendor_id: ge
+name: Multilin B30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:multilin_b30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_b30
+  confidence: auto

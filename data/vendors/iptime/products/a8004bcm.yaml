@@ -1,0 +1,10 @@
+id: a8004bcm
+vendor_id: iptime
+name: A8004Bcm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a8004bcm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a8004bcm
+  confidence: auto

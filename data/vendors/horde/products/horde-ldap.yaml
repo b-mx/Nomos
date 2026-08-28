@@ -1,0 +1,10 @@
+id: horde-ldap
+vendor_id: horde
+name: Horde Ldap
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:horde_ldap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: horde_ldap
+  confidence: auto

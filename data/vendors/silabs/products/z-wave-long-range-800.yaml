@@ -1,0 +1,10 @@
+id: z-wave-long-range-800
+vendor_id: silabs
+name: Z-Wave Long Range 800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:silabs:z\-wave_long_range_800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z-wave_long_range_800
+  confidence: auto

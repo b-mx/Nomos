@@ -1,0 +1,10 @@
+id: system-management-homepage
+vendor_id: hp
+name: System Management Homepage
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:system_management_homepage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_management_homepage
+  confidence: auto

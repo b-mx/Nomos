@@ -1,0 +1,10 @@
+id: viper-lt-system
+vendor_id: bd
+name: Viper Lt System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:viper_lt_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viper_lt_system
+  confidence: auto

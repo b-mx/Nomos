@@ -1,0 +1,10 @@
+id: t8100
+vendor_id: unisoc
+name: T8100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:t8100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t8100
+  confidence: auto

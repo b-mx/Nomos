@@ -1,0 +1,10 @@
+id: softcms-lab-view
+vendor_id: moxa
+name: Softcms Lab View
+type: software
+tags: []
+cpe: cpe:2.3:a:moxa:softcms_lab_view:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softcms_lab_view
+  confidence: auto

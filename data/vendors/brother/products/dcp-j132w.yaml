@@ -1,0 +1,10 @@
+id: dcp-j132w
+vendor_id: brother
+name: Dcp-J132W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-j132w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-j132w
+  confidence: auto

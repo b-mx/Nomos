@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mediaburst--two-factor-authentication",
+  "vendor_id": "mediaburst",
+  "product_id": "two-factor-authentication",
+  "name": "Two-Factor Authentication",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "two-factor_authentication",
+      "confidence": "auto"
+    }
+  ]
+}

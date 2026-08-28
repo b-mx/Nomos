@@ -1,0 +1,10 @@
+id: front
+vendor_id: pocketmags
+name: Front
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:front:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: front
+  confidence: auto

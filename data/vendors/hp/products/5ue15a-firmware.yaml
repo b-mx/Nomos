@@ -1,0 +1,10 @@
+id: 5ue15a-firmware
+vendor_id: hp
+name: 5Ue15A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:5ue15a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5ue15a_firmware
+  confidence: auto

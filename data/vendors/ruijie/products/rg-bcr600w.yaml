@@ -1,0 +1,10 @@
+id: rg-bcr600w
+vendor_id: ruijie
+name: Rg-Bcr600W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-bcr600w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-bcr600w
+  confidence: auto

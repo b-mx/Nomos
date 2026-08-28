@@ -1,0 +1,10 @@
+id: control-m-agent
+vendor_id: bmc
+name: Control-M/Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:control\-m\/agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control-m/agent
+  confidence: auto

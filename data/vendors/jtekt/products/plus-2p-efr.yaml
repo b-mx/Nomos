@@ -1,0 +1,10 @@
+id: plus-2p-efr
+vendor_id: jtekt
+name: Plus 2P-Efr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:plus_2p\-efr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plus_2p-efr
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hp-z1-entry-tower-g5-firmware
+vendor_id: hp
+name: Hp Z1 Entry Tower G5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:hp_z1_entry_tower_g5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_z1_entry_tower_g5_firmware
+  confidence: auto

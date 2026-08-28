@@ -1,0 +1,10 @@
+id: zbook-firmware
+vendor_id: hp
+name: Zbook Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zbook_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: novaseq-6000
+vendor_id: illumina
+name: Novaseq 6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:illumina:novaseq_6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: novaseq_6000
+  confidence: auto

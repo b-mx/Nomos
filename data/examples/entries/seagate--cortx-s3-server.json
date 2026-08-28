@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "seagate--cortx-s3-server",
+  "vendor_id": "seagate",
+  "product_id": "cortx-s3-server",
+  "name": "Cortx-S3 Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cortx-s3_server",
+      "confidence": "auto"
+    }
+  ]
+}

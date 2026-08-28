@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--leap-micro",
+  "vendor_id": "opensuse",
+  "product_id": "leap-micro",
+  "name": "Leap Micro",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "leap_micro",
+      "confidence": "auto"
+    }
+  ]
+}

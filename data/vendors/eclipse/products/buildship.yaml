@@ -1,0 +1,10 @@
+id: buildship
+vendor_id: eclipse
+name: Buildship
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:buildship:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: buildship
+  confidence: auto

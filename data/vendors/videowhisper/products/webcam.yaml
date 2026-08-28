@@ -1,0 +1,10 @@
+id: webcam
+vendor_id: videowhisper
+name: Webcam
+type: software
+tags: []
+cpe: cpe:2.3:a:videowhisper:webcam:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webcam
+  confidence: auto

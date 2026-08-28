@@ -1,0 +1,10 @@
+id: teamwork-cloud
+vendor_id: 3ds
+name: Teamwork Cloud
+type: software
+tags: []
+cpe: cpe:2.3:a:3ds:teamwork_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: teamwork_cloud
+  confidence: auto

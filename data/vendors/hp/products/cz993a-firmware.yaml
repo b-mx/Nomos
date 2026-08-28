@@ -1,0 +1,10 @@
+id: cz993a-firmware
+vendor_id: hp
+name: Cz993A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cz993a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz993a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 288-g6
+vendor_id: hp
+name: 288 G6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:288_g6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 288_g6
+  confidence: auto

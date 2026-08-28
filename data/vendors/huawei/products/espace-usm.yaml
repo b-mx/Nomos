@@ -1,0 +1,10 @@
+id: espace-usm
+vendor_id: huawei
+name: Espace Usm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:espace_usm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espace_usm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wechat
+vendor_id: tencent
+name: Wechat
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:wechat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wechat
+  confidence: auto

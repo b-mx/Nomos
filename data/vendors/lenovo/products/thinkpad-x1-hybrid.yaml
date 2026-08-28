@@ -1,0 +1,10 @@
+id: thinkpad-x1-hybrid
+vendor_id: lenovo
+name: Thinkpad X1 Hybrid
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x1_hybrid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_hybrid
+  confidence: auto

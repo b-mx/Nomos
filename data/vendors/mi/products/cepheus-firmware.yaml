@@ -1,0 +1,10 @@
+id: cepheus-firmware
+vendor_id: mi
+name: Cepheus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:cepheus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cepheus_firmware
+  confidence: auto

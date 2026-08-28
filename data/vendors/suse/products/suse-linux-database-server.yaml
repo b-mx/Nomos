@@ -1,0 +1,10 @@
+id: suse-linux-database-server
+vendor_id: suse
+name: Suse Linux Database Server
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:suse_linux_database_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_database_server
+  confidence: auto

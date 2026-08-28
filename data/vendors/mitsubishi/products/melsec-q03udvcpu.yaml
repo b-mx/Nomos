@@ -1,0 +1,10 @@
+id: melsec-q03udvcpu
+vendor_id: mitsubishi
+name: Melsec Q03Udvcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_q03udvcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q03udvcpu
+  confidence: auto

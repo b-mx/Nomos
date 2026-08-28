@@ -1,0 +1,10 @@
+id: online-complaint-site
+vendor_id: fabian
+name: Online Complaint Site
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_complaint_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_complaint_site
+  confidence: auto

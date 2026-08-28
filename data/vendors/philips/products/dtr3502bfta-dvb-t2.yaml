@@ -1,0 +1,10 @@
+id: dtr3502bfta-dvb-t2
+vendor_id: philips
+name: Dtr3502Bfta Dvb-T2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:dtr3502bfta_dvb\-t2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dtr3502bfta_dvb-t2
+  confidence: auto

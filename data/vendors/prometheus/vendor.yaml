@@ -1,0 +1,7 @@
+id: prometheus
+name: Prometheus
+cpe: cpe:2.3:*:prometheus:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prometheus
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fl-com-server-rs232
+vendor_id: phoenixcontact
+name: Fl Com Server Rs232
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_com_server_rs232:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_com_server_rs232
+  confidence: auto

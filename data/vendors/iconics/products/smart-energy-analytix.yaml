@@ -1,0 +1,10 @@
+id: smart-energy-analytix
+vendor_id: iconics
+name: Smart Energy Analytix
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:smart_energy_analytix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_energy_analytix
+  confidence: auto

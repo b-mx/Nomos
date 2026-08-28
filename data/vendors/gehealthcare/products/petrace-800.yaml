@@ -1,0 +1,10 @@
+id: petrace-800
+vendor_id: gehealthcare
+name: Petrace 800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:petrace_800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: petrace_800
+  confidence: auto

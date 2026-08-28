@@ -1,0 +1,10 @@
+id: spring-web-services
+vendor_id: pivotal-software
+name: Spring Web Services
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:spring_web_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spring_web_services
+  confidence: auto

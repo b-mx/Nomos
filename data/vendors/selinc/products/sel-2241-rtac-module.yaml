@@ -1,0 +1,10 @@
+id: sel-2241-rtac-module
+vendor_id: selinc
+name: Sel-2241 Rtac Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:selinc:sel\-2241_rtac_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sel-2241_rtac_module
+  confidence: auto

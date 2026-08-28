@@ -1,0 +1,7 @@
+id: sage
+name: Sage
+cpe: cpe:2.3:*:sage:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sage
+  confidence: auto

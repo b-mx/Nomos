@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fastify--fastify-forwarded",
+  "vendor_id": "fastify",
+  "product_id": "fastify-forwarded",
+  "name": "Fastify/Forwarded",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fastify/forwarded",
+      "confidence": "auto"
+    }
+  ]
+}

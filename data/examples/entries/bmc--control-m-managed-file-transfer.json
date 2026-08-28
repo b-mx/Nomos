@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--control-m-managed-file-transfer",
+  "vendor_id": "bmc",
+  "product_id": "control-m-managed-file-transfer",
+  "name": "Control-M/Managed File Transfer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "control-m/managed_file_transfer",
+      "confidence": "auto"
+    }
+  ]
+}

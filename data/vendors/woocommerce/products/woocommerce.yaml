@@ -1,0 +1,10 @@
+id: woocommerce
+vendor_id: woocommerce
+name: Woocommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:woocommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce
+  confidence: auto

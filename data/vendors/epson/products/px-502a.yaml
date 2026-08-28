@@ -1,0 +1,10 @@
+id: px-502a
+vendor_id: epson
+name: Px-502A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-502a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-502a
+  confidence: auto

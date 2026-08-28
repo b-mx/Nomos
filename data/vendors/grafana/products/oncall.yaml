@@ -1,0 +1,10 @@
+id: oncall
+vendor_id: grafana
+name: Oncall
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:oncall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncall
+  confidence: auto

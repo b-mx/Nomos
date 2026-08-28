@@ -1,0 +1,10 @@
+id: new-user-approve
+vendor_id: wpexperts
+name: New User Approve
+type: software
+tags: []
+cpe: cpe:2.3:a:wpexperts:new_user_approve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: new_user_approve
+  confidence: auto

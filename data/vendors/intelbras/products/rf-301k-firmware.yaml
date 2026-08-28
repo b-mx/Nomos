@@ -1,0 +1,10 @@
+id: rf-301k-firmware
+vendor_id: intelbras
+name: Rf 301K Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelbras:rf_301k_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rf_301k_firmware
+  confidence: auto

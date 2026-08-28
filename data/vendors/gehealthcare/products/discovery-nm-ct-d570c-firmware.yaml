@@ -1,0 +1,10 @@
+id: discovery-nm-ct-d570c-firmware
+vendor_id: gehealthcare
+name: Discovery Nm/Ct D570C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:discovery_nm\/ct_d570c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_nm/ct_d570c_firmware
+  confidence: auto

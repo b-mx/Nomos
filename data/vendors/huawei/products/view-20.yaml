@@ -1,0 +1,10 @@
+id: view-20
+vendor_id: huawei
+name: View 20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:view_20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: view_20
+  confidence: auto

@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "memcached--memcached",
+  "vendor_id": "memcached",
+  "product_id": "memcached",
+  "name": "Memcached",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "memcached",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "memcached",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: mri-3t-firmware
+vendor_id: philips
+name: Mri 3T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:mri_3t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mri_3t_firmware
+  confidence: auto

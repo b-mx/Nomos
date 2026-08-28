@@ -1,0 +1,10 @@
+id: devolutions-gateway
+vendor_id: devolutions
+name: Devolutions Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:devolutions:devolutions_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: devolutions_gateway
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ideapad-flex-5-14alc05-firmware
+vendor_id: lenovo
+name: Ideapad Flex 5-14Alc05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_flex_5\-14alc05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_flex_5-14alc05_firmware
+  confidence: auto

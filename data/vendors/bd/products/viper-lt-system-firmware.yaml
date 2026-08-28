@@ -1,0 +1,10 @@
+id: viper-lt-system-firmware
+vendor_id: bd
+name: Viper Lt System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:viper_lt_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viper_lt_system_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: deskjet-3790-t8x40d
+vendor_id: hp
+name: Deskjet 3790 T8X40D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_3790_t8x40d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3790_t8x40d
+  confidence: auto

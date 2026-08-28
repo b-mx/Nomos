@@ -1,0 +1,10 @@
+id: stm32f072vb
+vendor_id: st
+name: Stm32F072Vb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32f072vb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f072vb
+  confidence: auto

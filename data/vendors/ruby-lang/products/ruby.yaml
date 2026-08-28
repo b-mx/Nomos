@@ -1,0 +1,13 @@
+id: ruby
+vendor_id: ruby-lang
+name: Ruby
+type: library
+tags: []
+cpe: cpe:2.3:a:ruby\-lang:ruby:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: ruby
+  confidence: auto
+- source: nvd
+  value: ruby
+  confidence: auto

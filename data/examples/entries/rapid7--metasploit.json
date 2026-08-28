@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rapid7--metasploit",
+  "vendor_id": "rapid7",
+  "product_id": "metasploit",
+  "name": "Metasploit",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "metasploit",
+      "confidence": "auto"
+    }
+  ]
+}

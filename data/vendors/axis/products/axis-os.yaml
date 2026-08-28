@@ -1,0 +1,10 @@
+id: axis-os
+vendor_id: axis
+name: Axis Os
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:axis_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axis_os
+  confidence: auto

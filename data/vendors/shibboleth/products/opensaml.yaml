@@ -1,0 +1,10 @@
+id: opensaml
+vendor_id: shibboleth
+name: Opensaml
+type: software
+tags: []
+cpe: cpe:2.3:a:shibboleth:opensaml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensaml
+  confidence: auto

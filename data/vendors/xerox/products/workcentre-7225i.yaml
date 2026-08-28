@@ -1,0 +1,10 @@
+id: workcentre-7225i
+vendor_id: xerox
+name: Workcentre 7225I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:workcentre_7225i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_7225i
+  confidence: auto

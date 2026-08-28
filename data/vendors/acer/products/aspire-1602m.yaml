@@ -1,0 +1,10 @@
+id: aspire-1602m
+vendor_id: acer
+name: Aspire 1602M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_1602m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_1602m
+  confidence: auto

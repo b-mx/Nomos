@@ -1,0 +1,10 @@
+id: adsl-an1020-25
+vendor_id: fiberhome
+name: Adsl An1020-25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fiberhome:adsl_an1020\-25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adsl_an1020-25
+  confidence: auto

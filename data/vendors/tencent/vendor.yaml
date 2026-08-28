@@ -1,0 +1,7 @@
+id: tencent
+name: Tencent
+cpe: cpe:2.3:*:tencent:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tencent
+  confidence: auto

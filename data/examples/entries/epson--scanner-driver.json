@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--scanner-driver",
+  "vendor_id": "epson",
+  "product_id": "scanner-driver",
+  "name": "Scanner Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "scanner_driver",
+      "confidence": "auto"
+    }
+  ]
+}

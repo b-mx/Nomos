@@ -1,0 +1,10 @@
+id: omnicore-v250xt
+vendor_id: abb
+name: Omnicore V250Xt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:omnicore_v250xt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omnicore_v250xt
+  confidence: auto

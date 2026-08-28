@@ -1,0 +1,10 @@
+id: traveler-to-do
+vendor_id: hcltech
+name: Traveler To Do
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:traveler_to_do:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: traveler_to_do
+  confidence: auto

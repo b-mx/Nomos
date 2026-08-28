@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mandriva--corporate-server",
+  "vendor_id": "mandriva",
+  "product_id": "corporate-server",
+  "name": "Corporate Server",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "corporate_server",
+      "confidence": "auto"
+    }
+  ]
+}

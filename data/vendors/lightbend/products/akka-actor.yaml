@@ -1,0 +1,10 @@
+id: akka-actor
+vendor_id: lightbend
+name: Akka Actor
+type: software
+tags: []
+cpe: cpe:2.3:a:lightbend:akka_actor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: akka_actor
+  confidence: auto

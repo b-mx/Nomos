@@ -1,0 +1,10 @@
+id: ares-al00b
+vendor_id: huawei
+name: Ares-Al00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ares\-al00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ares-al00b
+  confidence: auto

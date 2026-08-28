@@ -1,0 +1,10 @@
+id: suse-lifecycle-management-server
+vendor_id: novell
+name: Suse Lifecycle Management Server
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:suse_lifecycle_management_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_lifecycle_management_server
+  confidence: auto

@@ -1,0 +1,9 @@
+id: nutanix-aos
+vendor_id: nutanix-aos
+name: Nutanix AOS
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: nutanix-aos
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 112d
+vendor_id: motu
+name: 112D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:112d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 112d
+  confidence: auto

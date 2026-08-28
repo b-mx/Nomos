@@ -1,0 +1,10 @@
+id: just-jump-class
+vendor_id: justsystems
+name: Just Jump Class
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:just_jump_class:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: just_jump_class
+  confidence: auto

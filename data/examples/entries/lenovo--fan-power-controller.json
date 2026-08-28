@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--fan-power-controller",
+  "vendor_id": "lenovo",
+  "product_id": "fan-power-controller",
+  "name": "Fan Power Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fan_power_controller",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: himalayas
+vendor_id: themegrill
+name: Himalayas
+type: software
+tags: []
+cpe: cpe:2.3:a:themegrill:himalayas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: himalayas
+  confidence: auto

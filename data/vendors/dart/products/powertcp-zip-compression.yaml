@@ -1,0 +1,10 @@
+id: powertcp-zip-compression
+vendor_id: dart
+name: Powertcp Zip Compression
+type: software
+tags: []
+cpe: cpe:2.3:a:dart:powertcp_zip_compression:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powertcp_zip_compression
+  confidence: auto

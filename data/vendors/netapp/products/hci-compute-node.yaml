@@ -1,0 +1,10 @@
+id: hci-compute-node
+vendor_id: netapp
+name: Hci Compute Node
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:hci_compute_node:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hci_compute_node
+  confidence: auto

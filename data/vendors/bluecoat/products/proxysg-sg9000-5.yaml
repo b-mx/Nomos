@@ -1,0 +1,10 @@
+id: proxysg-sg9000-5
+vendor_id: bluecoat
+name: Proxysg Sg9000-5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bluecoat:proxysg_sg9000\-5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proxysg_sg9000-5
+  confidence: auto

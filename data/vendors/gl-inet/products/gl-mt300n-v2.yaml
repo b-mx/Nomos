@@ -1,0 +1,10 @@
+id: gl-mt300n-v2
+vendor_id: gl-inet
+name: Gl-Mt300N-V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-mt300n\-v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-mt300n-v2
+  confidence: auto

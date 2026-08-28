@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11ssl-cf",
+  "vendor_id": "supermicro",
+  "product_id": "x11ssl-cf",
+  "name": "X11Ssl-Cf",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11ssl-cf",
+      "confidence": "auto"
+    }
+  ]
+}

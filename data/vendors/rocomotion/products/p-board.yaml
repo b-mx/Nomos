@@ -1,0 +1,10 @@
+id: p-board
+vendor_id: rocomotion
+name: P Board
+type: software
+tags: []
+cpe: cpe:2.3:a:rocomotion:p_board:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p_board
+  confidence: auto

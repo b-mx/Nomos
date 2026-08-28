@@ -1,0 +1,10 @@
+id: modunet300-ey-am300f001-firmware
+vendor_id: sauter-controls
+name: Modunet300 Ey-Am300F001 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sauter\-controls:modunet300_ey\-am300f001_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modunet300_ey-am300f001_firmware
+  confidence: auto

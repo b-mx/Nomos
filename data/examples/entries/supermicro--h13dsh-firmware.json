@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--h13dsh-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "h13dsh-firmware",
+  "name": "H13Dsh Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h13dsh_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

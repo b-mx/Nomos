@@ -1,0 +1,10 @@
+id: minimed-paradigm-722k
+vendor_id: medtronic
+name: Minimed Paradigm 722K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:minimed_paradigm_722k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_paradigm_722k
+  confidence: auto

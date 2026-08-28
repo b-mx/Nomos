@@ -1,0 +1,10 @@
+id: i-mx-50
+vendor_id: nxp
+name: I.Mx 50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:i\.mx_50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_50
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wireless-battery-module
+vendor_id: baxter
+name: Wireless Battery Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baxter:wireless_battery_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireless_battery_module
+  confidence: auto

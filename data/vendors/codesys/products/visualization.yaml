@@ -1,0 +1,10 @@
+id: visualization
+vendor_id: codesys
+name: Visualization
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:visualization:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visualization
+  confidence: auto

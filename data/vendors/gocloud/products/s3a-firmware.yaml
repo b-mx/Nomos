@@ -1,0 +1,10 @@
+id: s3a-firmware
+vendor_id: gocloud
+name: S3A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gocloud:s3a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s3a_firmware
+  confidence: auto

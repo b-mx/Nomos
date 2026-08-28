@@ -1,0 +1,10 @@
+id: druid
+vendor_id: alibaba
+name: Druid
+type: software
+tags: []
+cpe: cpe:2.3:a:alibaba:druid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: druid
+  confidence: auto

@@ -1,0 +1,10 @@
+id: l210-f2g-lynx
+vendor_id: westermo
+name: L210-F2G Lynx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westermo:l210\-f2g_lynx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l210-f2g_lynx
+  confidence: auto

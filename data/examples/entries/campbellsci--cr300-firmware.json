@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "campbellsci--cr300-firmware",
+  "vendor_id": "campbellsci",
+  "product_id": "cr300-firmware",
+  "name": "Cr300 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cr300_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

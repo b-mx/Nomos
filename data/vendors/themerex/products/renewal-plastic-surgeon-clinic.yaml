@@ -1,0 +1,10 @@
+id: renewal-plastic-surgeon-clinic
+vendor_id: themerex
+name: Renewal-Plastic Surgeon Clinic
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:renewal\-plastic_surgeon_clinic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: renewal-plastic_surgeon_clinic
+  confidence: auto

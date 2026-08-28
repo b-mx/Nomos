@@ -1,0 +1,10 @@
+id: aos
+vendor_id: adtran
+name: Aos
+type: os
+tags: []
+cpe: cpe:2.3:o:adtran:aos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aos
+  confidence: auto

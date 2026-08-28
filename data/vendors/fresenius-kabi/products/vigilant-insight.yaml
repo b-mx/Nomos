@@ -1,0 +1,10 @@
+id: vigilant-insight
+vendor_id: fresenius-kabi
+name: Vigilant Insight
+type: software
+tags: []
+cpe: cpe:2.3:a:fresenius\-kabi:vigilant_insight:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vigilant_insight
+  confidence: auto

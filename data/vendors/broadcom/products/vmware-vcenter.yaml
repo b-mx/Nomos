@@ -1,0 +1,9 @@
+id: vmware-vcenter
+vendor_id: broadcom
+name: VMware vCenter
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: VMware vCenter
+  confidence: auto

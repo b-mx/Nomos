@@ -1,0 +1,10 @@
+id: x10drc-ln4
+vendor_id: supermicro
+name: X10Drc-Ln4+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10drc\-ln4\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drc-ln4+
+  confidence: auto

@@ -1,0 +1,10 @@
+id: control-block-cpx-cmxx
+vendor_id: festo
+name: Control Block Cpx-Cmxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:control_block_cpx\-cmxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_block_cpx-cmxx
+  confidence: auto

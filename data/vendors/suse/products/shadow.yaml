@@ -1,0 +1,10 @@
+id: shadow
+vendor_id: suse
+name: Shadow
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:shadow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shadow
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cordless-freedom-itouch-keyboard
+vendor_id: logitech
+name: Cordless Freedom Itouch Keyboard
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:cordless_freedom_itouch_keyboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cordless_freedom_itouch_keyboard
+  confidence: auto

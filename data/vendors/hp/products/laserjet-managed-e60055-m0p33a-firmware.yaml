@@ -1,0 +1,10 @@
+id: laserjet-managed-e60055-m0p33a-firmware
+vendor_id: hp
+name: Laserjet Managed E60055 M0P33A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_e60055_m0p33a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_e60055_m0p33a_firmware
+  confidence: auto

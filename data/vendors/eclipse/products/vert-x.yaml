@@ -1,0 +1,10 @@
+id: vert-x
+vendor_id: eclipse
+name: Vert.X
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:vert\.x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vert.x
+  confidence: auto

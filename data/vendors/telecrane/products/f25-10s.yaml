@@ -1,0 +1,10 @@
+id: f25-10s
+vendor_id: telecrane
+name: F25-10S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telecrane:f25\-10s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f25-10s
+  confidence: auto

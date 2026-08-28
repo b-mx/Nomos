@@ -1,0 +1,10 @@
+id: ucrm
+vendor_id: ui
+name: Ucrm
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:ucrm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ucrm
+  confidence: auto

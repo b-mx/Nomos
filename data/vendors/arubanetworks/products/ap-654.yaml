@@ -1,0 +1,10 @@
+id: ap-654
+vendor_id: arubanetworks
+name: Ap-654
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-654:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-654
+  confidence: auto

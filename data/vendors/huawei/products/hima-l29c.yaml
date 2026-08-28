@@ -1,0 +1,10 @@
+id: hima-l29c
+vendor_id: huawei
+name: Hima-L29C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hima\-l29c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hima-l29c
+  confidence: auto

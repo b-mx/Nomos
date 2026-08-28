@@ -1,0 +1,10 @@
+id: healthsuite-health
+vendor_id: philips
+name: Healthsuite Health
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:healthsuite_health:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: healthsuite_health
+  confidence: auto

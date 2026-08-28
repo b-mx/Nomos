@@ -1,0 +1,10 @@
+id: coldfusion-fusebox
+vendor_id: macromedia
+name: Coldfusion Fusebox
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:coldfusion_fusebox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coldfusion_fusebox
+  confidence: auto

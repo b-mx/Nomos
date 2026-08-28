@@ -1,0 +1,10 @@
+id: ethereumj
+vendor_id: ethereum
+name: Ethereumj
+type: software
+tags: []
+cpe: cpe:2.3:a:ethereum:ethereumj:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ethereumj
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cnpilot-e400-firmware
+vendor_id: cambiumnetworks
+name: Cnpilot E400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cambiumnetworks:cnpilot_e400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cnpilot_e400_firmware
+  confidence: auto

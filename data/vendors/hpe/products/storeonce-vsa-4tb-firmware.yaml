@@ -1,0 +1,10 @@
+id: storeonce-vsa-4tb-firmware
+vendor_id: hpe
+name: Storeonce Vsa 4Tb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:storeonce_vsa_4tb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_vsa_4tb_firmware
+  confidence: auto

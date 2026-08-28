@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "qt--qt",
+  "vendor_id": "qt",
+  "product_id": "qt",
+  "name": "Qt",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "qt",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "qt",
+      "confidence": "auto"
+    }
+  ]
+}

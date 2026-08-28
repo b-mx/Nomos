@@ -1,0 +1,10 @@
+id: nr8000tr
+vendor_id: zte
+name: Nr8000Tr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:nr8000tr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr8000tr
+  confidence: auto

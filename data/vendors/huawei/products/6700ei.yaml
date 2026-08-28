@@ -1,0 +1,10 @@
+id: 6700ei
+vendor_id: huawei
+name: 6700Ei
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:6700ei:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 6700ei
+  confidence: auto

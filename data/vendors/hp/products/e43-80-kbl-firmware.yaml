@@ -1,0 +1,10 @@
+id: e43-80-kbl-firmware
+vendor_id: hp
+name: E43-80 Kbl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:e43\-80_kbl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e43-80_kbl_firmware
+  confidence: auto

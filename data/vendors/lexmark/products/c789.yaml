@@ -1,0 +1,10 @@
+id: c789
+vendor_id: lexmark
+name: C789
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c789:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c789
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pds6
+vendor_id: thalesgroup
+name: Pds6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:thalesgroup:pds6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pds6
+  confidence: auto

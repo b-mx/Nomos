@@ -1,9 +1,8 @@
 id: ac1900-router-ac15-model
 vendor_id: tenda
 name: AC1900 Router AC15 Model
-type: hardware
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: AC1900 Router AC15 Model

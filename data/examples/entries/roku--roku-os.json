@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "roku--roku-os",
+  "vendor_id": "roku",
+  "product_id": "roku-os",
+  "name": "Roku Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "roku_os",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: sdt-cs3b1-firmware
+vendor_id: telesquare
+name: Sdt-Cs3B1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:telesquare:sdt\-cs3b1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sdt-cs3b1_firmware
+  confidence: auto

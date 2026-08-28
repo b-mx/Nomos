@@ -1,0 +1,10 @@
+id: schema
+vendor_id: brainstormforce
+name: Schema
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:schema:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: schema
+  confidence: auto

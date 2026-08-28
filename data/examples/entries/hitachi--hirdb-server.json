@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachi--hirdb-server",
+  "vendor_id": "hitachi",
+  "product_id": "hirdb-server",
+  "name": "Hirdb Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hirdb_server",
+      "confidence": "auto"
+    }
+  ]
+}

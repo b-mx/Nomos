@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--strongswan",
+  "vendor_id": "debian",
+  "product_id": "strongswan",
+  "name": "Strongswan",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "strongswan",
+      "confidence": "auto"
+    }
+  ]
+}

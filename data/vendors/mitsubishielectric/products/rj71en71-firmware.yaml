@@ -1,0 +1,10 @@
+id: rj71en71-firmware
+vendor_id: mitsubishielectric
+name: Rj71En71 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rj71en71_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rj71en71_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pavilion-14-cd1xxx-x360
+vendor_id: hp
+name: Pavilion 14-Cd1Xxx X360
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_14\-cd1xxx_x360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_14-cd1xxx_x360
+  confidence: auto

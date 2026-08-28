@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--trove",
+  "vendor_id": "openstack",
+  "product_id": "trove",
+  "name": "Trove",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "trove",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: thinkbook-16p-g3-arh
+vendor_id: lenovo
+name: Thinkbook 16P G3 Arh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkbook_16p_g3_arh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_16p_g3_arh
+  confidence: auto

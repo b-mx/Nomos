@@ -1,0 +1,10 @@
+id: fbx-review
+vendor_id: autodesk
+name: Fbx Review
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:fbx_review:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fbx_review
+  confidence: auto

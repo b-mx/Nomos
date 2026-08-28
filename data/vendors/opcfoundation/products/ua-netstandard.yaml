@@ -1,0 +1,10 @@
+id: ua-netstandard
+vendor_id: opcfoundation
+name: Ua-.Netstandard
+type: software
+tags: []
+cpe: cpe:2.3:a:opcfoundation:ua\-\.netstandard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ua-.netstandard
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "joyent--smartos",
+  "vendor_id": "joyent",
+  "product_id": "smartos",
+  "name": "Smartos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smartos",
+      "confidence": "auto"
+    }
+  ]
+}

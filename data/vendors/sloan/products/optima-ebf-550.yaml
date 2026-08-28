@@ -1,0 +1,10 @@
+id: optima-ebf-550
+vendor_id: sloan
+name: Optima Ebf-550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:optima_ebf\-550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_ebf-550
+  confidence: auto

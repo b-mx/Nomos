@@ -1,0 +1,10 @@
+id: uipath-solution-packager
+vendor_id: uipath
+name: Uipath/Solution-Packager
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/solution\-packager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/solution-packager
+  confidence: auto

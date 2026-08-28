@@ -1,0 +1,10 @@
+id: zbook-create-g7
+vendor_id: hp
+name: Zbook Create G7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_create_g7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_create_g7
+  confidence: auto

@@ -1,0 +1,10 @@
+id: linux-enterprise-module-for-legacy
+vendor_id: suse
+name: Linux Enterprise Module For Legacy
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:linux_enterprise_module_for_legacy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_module_for_legacy
+  confidence: auto

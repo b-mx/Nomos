@@ -1,0 +1,10 @@
+id: cipcamptiwl
+vendor_id: conceptronic
+name: Cipcamptiwl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:conceptronic:cipcamptiwl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cipcamptiwl
+  confidence: auto

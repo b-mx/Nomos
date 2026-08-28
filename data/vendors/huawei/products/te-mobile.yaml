@@ -1,0 +1,10 @@
+id: te-mobile
+vendor_id: huawei
+name: Te Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:te_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: te_mobile
+  confidence: auto

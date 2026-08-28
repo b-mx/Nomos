@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "github--mcp-server",
+  "vendor_id": "github",
+  "product_id": "mcp-server",
+  "name": "Mcp Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mcp_server",
+      "confidence": "auto"
+    }
+  ]
+}

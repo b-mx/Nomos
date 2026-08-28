@@ -1,0 +1,10 @@
+id: esp32-mini-1-firmware
+vendor_id: espressif
+name: Esp32-Mini-1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:espressif:esp32\-mini\-1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32-mini-1_firmware
+  confidence: auto

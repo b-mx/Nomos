@@ -1,0 +1,10 @@
+id: fx-8120-8-core
+vendor_id: amd
+name: Fx-8120 8-Core
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:fx\-8120_8\-core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx-8120_8-core
+  confidence: auto

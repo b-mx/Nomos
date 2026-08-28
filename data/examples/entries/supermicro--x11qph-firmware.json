@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11qph-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11qph-firmware",
+  "name": "X11Qph+ Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11qph+_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

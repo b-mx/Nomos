@@ -1,0 +1,10 @@
+id: m9l70a
+vendor_id: hp
+name: M9L70A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m9l70a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m9l70a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: polyeco500
+vendor_id: sielco
+name: Polyeco500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sielco:polyeco500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: polyeco500
+  confidence: auto

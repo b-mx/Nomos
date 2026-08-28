@@ -1,0 +1,10 @@
+id: unixware
+vendor_id: novell
+name: Unixware
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:unixware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unixware
+  confidence: auto

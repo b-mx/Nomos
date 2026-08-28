@@ -1,0 +1,10 @@
+id: embedpress
+vendor_id: wpdeveloper
+name: Embedpress
+type: software
+tags: []
+cpe: cpe:2.3:a:wpdeveloper:embedpress:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: embedpress
+  confidence: auto

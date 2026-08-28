@@ -1,0 +1,10 @@
+id: neteaseweibo
+vendor_id: netease
+name: Neteaseweibo
+type: software
+tags: []
+cpe: cpe:2.3:a:netease:neteaseweibo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neteaseweibo
+  confidence: auto

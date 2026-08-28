@@ -1,0 +1,10 @@
+id: corredo-sport-event
+vendor_id: themerex
+name: Corredo Sport Event
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:corredo_sport_event:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: corredo_sport_event
+  confidence: auto

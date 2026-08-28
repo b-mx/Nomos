@@ -1,0 +1,10 @@
+id: biolite-n2-firmware
+vendor_id: synel
+name: Biolite-N2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:synel:biolite\-n2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biolite-n2_firmware
+  confidence: auto

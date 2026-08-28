@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--pyftpd",
+  "vendor_id": "debian",
+  "product_id": "pyftpd",
+  "name": "Pyftpd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyftpd",
+      "confidence": "auto"
+    }
+  ]
+}

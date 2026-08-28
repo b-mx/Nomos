@@ -1,0 +1,7 @@
+id: microchip
+name: Microchip
+cpe: cpe:2.3:*:microchip:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microchip
+  confidence: auto

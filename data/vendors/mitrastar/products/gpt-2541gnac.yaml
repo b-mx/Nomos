@@ -1,0 +1,10 @@
+id: gpt-2541gnac
+vendor_id: mitrastar
+name: Gpt-2541Gnac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitrastar:gpt\-2541gnac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gpt-2541gnac
+  confidence: auto

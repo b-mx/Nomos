@@ -1,0 +1,10 @@
+id: arcsight-express
+vendor_id: hp
+name: Arcsight Express
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:arcsight_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcsight_express
+  confidence: auto

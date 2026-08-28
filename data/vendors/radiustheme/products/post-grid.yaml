@@ -1,0 +1,10 @@
+id: post-grid
+vendor_id: radiustheme
+name: Post Grid
+type: software
+tags: []
+cpe: cpe:2.3:a:radiustheme:post_grid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: post_grid
+  confidence: auto

@@ -1,0 +1,10 @@
+id: qnx-software-development-platform
+vendor_id: blackberry
+name: Qnx Software Development Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:qnx_software_development_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnx_software_development_platform
+  confidence: auto

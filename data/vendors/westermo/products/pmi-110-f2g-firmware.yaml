@@ -1,0 +1,10 @@
+id: pmi-110-f2g-firmware
+vendor_id: westermo
+name: Pmi-110-F2G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westermo:pmi\-110\-f2g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pmi-110-f2g_firmware
+  confidence: auto

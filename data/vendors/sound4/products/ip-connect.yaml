@@ -1,0 +1,10 @@
+id: ip-connect
+vendor_id: sound4
+name: Ip Connect
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sound4:ip_connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_connect
+  confidence: auto

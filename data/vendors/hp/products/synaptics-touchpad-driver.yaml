@@ -1,0 +1,10 @@
+id: synaptics-touchpad-driver
+vendor_id: hp
+name: Synaptics Touchpad Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:synaptics_touchpad_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synaptics_touchpad_driver
+  confidence: auto

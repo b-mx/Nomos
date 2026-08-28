@@ -1,0 +1,10 @@
+id: ait-core
+vendor_id: nasa
+name: Ait Core
+type: software
+tags: []
+cpe: cpe:2.3:a:nasa:ait_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ait_core
+  confidence: auto

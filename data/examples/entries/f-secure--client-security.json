@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "f-secure--client-security",
+  "vendor_id": "f-secure",
+  "product_id": "client-security",
+  "name": "Client Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "client_security",
+      "confidence": "auto"
+    }
+  ]
+}

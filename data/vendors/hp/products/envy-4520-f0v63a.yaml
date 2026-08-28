@@ -1,0 +1,10 @@
+id: envy-4520-f0v63a
+vendor_id: hp
+name: Envy 4520 F0V63A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_4520_f0v63a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_4520_f0v63a
+  confidence: auto

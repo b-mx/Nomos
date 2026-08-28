@@ -1,0 +1,9 @@
+id: recoverpoint-for-virtual-machines-rp4vms
+vendor_id: dell
+name: RecoverPoint for Virtual Machines (RP4VMs)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: RecoverPoint for Virtual Machines (RP4VMs)
+  confidence: auto

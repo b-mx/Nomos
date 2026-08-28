@@ -1,0 +1,10 @@
+id: bl-bpc-3001
+vendor_id: phoenixcontact
+name: Bl Bpc 3001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:bl_bpc_3001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl_bpc_3001
+  confidence: auto

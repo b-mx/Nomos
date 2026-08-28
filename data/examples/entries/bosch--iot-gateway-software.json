@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--iot-gateway-software",
+  "vendor_id": "bosch",
+  "product_id": "iot-gateway-software",
+  "name": "Iot Gateway Software",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iot_gateway_software",
+      "confidence": "auto"
+    }
+  ]
+}

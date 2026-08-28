@@ -1,0 +1,10 @@
+id: uipath-solution-tool
+vendor_id: uipath
+name: Uipath/Solution-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/solution\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/solution-tool
+  confidence: auto

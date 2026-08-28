@@ -1,0 +1,10 @@
+id: nbd8916f4-q-firmware
+vendor_id: xiongmaitech
+name: Nbd8916F4-Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:nbd8916f4\-q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbd8916f4-q_firmware
+  confidence: auto

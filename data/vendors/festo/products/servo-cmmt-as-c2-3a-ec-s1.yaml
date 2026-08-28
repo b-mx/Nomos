@@ -1,0 +1,10 @@
+id: servo-cmmt-as-c2-3a-ec-s1
+vendor_id: festo
+name: Servo Cmmt-As-C2-3A-Ec-S1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:servo_cmmt\-as\-c2\-3a\-ec\-s1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: servo_cmmt-as-c2-3a-ec-s1
+  confidence: auto

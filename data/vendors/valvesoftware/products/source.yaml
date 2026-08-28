@@ -1,0 +1,10 @@
+id: source
+vendor_id: valvesoftware
+name: Source
+type: software
+tags: []
+cpe: cpe:2.3:a:valvesoftware:source:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: source
+  confidence: auto

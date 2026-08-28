@@ -1,0 +1,10 @@
+id: accu-chek-inform-ii
+vendor_id: roche
+name: Accu-Chek Inform Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:roche:accu\-chek_inform_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accu-chek_inform_ii
+  confidence: auto

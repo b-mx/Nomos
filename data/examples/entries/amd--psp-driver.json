@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--psp-driver",
+  "vendor_id": "amd",
+  "product_id": "psp-driver",
+  "name": "Psp Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "psp_driver",
+      "confidence": "auto"
+    }
+  ]
+}

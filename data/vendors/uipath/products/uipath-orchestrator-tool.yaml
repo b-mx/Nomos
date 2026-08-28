@@ -1,0 +1,10 @@
+id: uipath-orchestrator-tool
+vendor_id: uipath
+name: Uipath/Orchestrator-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/orchestrator\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/orchestrator-tool
+  confidence: auto

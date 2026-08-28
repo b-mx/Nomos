@@ -1,0 +1,10 @@
+id: x11dpu-firmware
+vendor_id: supermicro
+name: X11Dpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11dpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dpu_firmware
+  confidence: auto

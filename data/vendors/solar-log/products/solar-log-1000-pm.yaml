@@ -1,0 +1,10 @@
+id: solar-log-1000-pm
+vendor_id: solar-log
+name: Solar-Log 1000 Pm+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:solar\-log:solar\-log_1000_pm\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solar-log_1000_pm+
+  confidence: auto

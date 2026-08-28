@@ -1,0 +1,10 @@
+id: b13dee
+vendor_id: supermicro
+name: B13Dee
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b13dee:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b13dee
+  confidence: auto

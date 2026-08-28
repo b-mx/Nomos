@@ -1,0 +1,10 @@
+id: tourism-management-system
+vendor_id: fabian
+name: Tourism Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:tourism_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tourism_management_system
+  confidence: auto

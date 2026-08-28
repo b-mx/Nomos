@@ -1,0 +1,10 @@
+id: p2g1052-firmware
+vendor_id: meritlilin
+name: P2G1052 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meritlilin:p2g1052_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p2g1052_firmware
+  confidence: auto

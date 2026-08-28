@@ -1,0 +1,10 @@
+id: data-loss-prevention
+vendor_id: trellix
+name: Data Loss Prevention
+type: software
+tags: []
+cpe: cpe:2.3:a:trellix:data_loss_prevention:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_loss_prevention
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hrd-841-firmware
+vendor_id: hanwha-security
+name: Hrd-841 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwha\-security:hrd\-841_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hrd-841_firmware
+  confidence: auto

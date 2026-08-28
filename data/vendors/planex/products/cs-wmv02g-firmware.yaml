@@ -1,0 +1,10 @@
+id: cs-wmv02g-firmware
+vendor_id: planex
+name: Cs-Wmv02G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:planex:cs\-wmv02g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs-wmv02g_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: building-integration-system-video-engine
+vendor_id: bosch
+name: Building Integration System Video Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:building_integration_system_video_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: building_integration_system_video_engine
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nec--ism-server",
+  "vendor_id": "nec",
+  "product_id": "ism-server",
+  "name": "Ism Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ism_server",
+      "confidence": "auto"
+    }
+  ]
+}

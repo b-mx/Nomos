@@ -1,0 +1,10 @@
+id: toby-l200-firmware
+vendor_id: u-blox
+name: Toby-L200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:u\-blox:toby\-l200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toby-l200_firmware
+  confidence: auto

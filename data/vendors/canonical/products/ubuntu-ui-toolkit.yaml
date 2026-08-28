@@ -1,0 +1,10 @@
+id: ubuntu-ui-toolkit
+vendor_id: canonical
+name: Ubuntu-Ui-Toolkit
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:ubuntu\-ui\-toolkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubuntu-ui-toolkit
+  confidence: auto

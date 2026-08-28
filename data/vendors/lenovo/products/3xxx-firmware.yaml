@@ -1,0 +1,10 @@
+id: 3xxx-firmware
+vendor_id: lenovo
+name: 3Xxx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:3xxx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3xxx_firmware
+  confidence: auto

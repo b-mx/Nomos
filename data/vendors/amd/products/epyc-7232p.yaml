@@ -1,0 +1,10 @@
+id: epyc-7232p
+vendor_id: amd
+name: Epyc 7232P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_7232p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7232p
+  confidence: auto

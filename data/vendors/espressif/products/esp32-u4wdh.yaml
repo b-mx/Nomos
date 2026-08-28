@@ -1,0 +1,10 @@
+id: esp32-u4wdh
+vendor_id: espressif
+name: Esp32-U4Wdh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:espressif:esp32\-u4wdh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32-u4wdh
+  confidence: auto

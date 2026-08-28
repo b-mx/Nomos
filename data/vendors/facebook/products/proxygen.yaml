@@ -1,0 +1,10 @@
+id: proxygen
+vendor_id: facebook
+name: Proxygen
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:proxygen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proxygen
+  confidence: auto

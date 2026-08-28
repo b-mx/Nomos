@@ -1,0 +1,10 @@
+id: smacam-night-vision
+vendor_id: planex
+name: Smacam Night Vision
+type: software
+tags: []
+cpe: cpe:2.3:a:planex:smacam_night_vision:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smacam_night_vision
+  confidence: auto

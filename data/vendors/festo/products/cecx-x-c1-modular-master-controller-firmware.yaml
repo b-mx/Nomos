@@ -1,0 +1,10 @@
+id: cecx-x-c1-modular-master-controller-firmware
+vendor_id: festo
+name: Cecx-X-C1 Modular Master Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:cecx\-x\-c1_modular_master_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cecx-x-c1_modular_master_controller_firmware
+  confidence: auto

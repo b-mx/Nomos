@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--f9d36-firmware",
+  "vendor_id": "hp",
+  "product_id": "f9d36-firmware",
+  "name": "F9D36 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "f9d36_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

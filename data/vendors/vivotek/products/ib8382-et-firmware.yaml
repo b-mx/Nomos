@@ -1,0 +1,10 @@
+id: ib8382-et-firmware
+vendor_id: vivotek
+name: Ib8382-Et Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ib8382\-et_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib8382-et_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sio-mb16nd3
+vendor_id: automationdirect
+name: Sio-Mb16Nd3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:automationdirect:sio\-mb16nd3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sio-mb16nd3
+  confidence: auto

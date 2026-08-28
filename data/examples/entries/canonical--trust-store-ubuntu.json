@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--trust-store-ubuntu",
+  "vendor_id": "canonical",
+  "product_id": "trust-store-ubuntu",
+  "name": "Trust-Store (Ubuntu)",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "trust-store_(ubuntu)",
+      "confidence": "auto"
+    }
+  ]
+}

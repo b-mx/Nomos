@@ -1,0 +1,10 @@
+id: documentum-foundation-services
+vendor_id: emc
+name: Documentum Foundation Services
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_foundation_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_foundation_services
+  confidence: auto

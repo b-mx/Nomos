@@ -1,0 +1,10 @@
+id: se5901-firmware
+vendor_id: atoptechnology
+name: Se5901 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:atoptechnology:se5901_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se5901_firmware
+  confidence: auto

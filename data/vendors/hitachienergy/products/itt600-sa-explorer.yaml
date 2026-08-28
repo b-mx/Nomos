@@ -1,0 +1,10 @@
+id: itt600-sa-explorer
+vendor_id: hitachienergy
+name: Itt600 Sa Explorer
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:itt600_sa_explorer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itt600_sa_explorer
+  confidence: auto

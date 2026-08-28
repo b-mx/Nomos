@@ -1,0 +1,7 @@
+id: shopify
+name: Shopify
+cpe: cpe:2.3:*:shopify:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shopify
+  confidence: auto

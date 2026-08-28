@@ -1,0 +1,10 @@
+id: cc8160-firmware
+vendor_id: vivotek
+name: Cc8160 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:cc8160_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc8160_firmware
+  confidence: auto

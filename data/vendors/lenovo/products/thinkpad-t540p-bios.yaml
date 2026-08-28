@@ -1,0 +1,10 @@
+id: thinkpad-t540p-bios
+vendor_id: lenovo
+name: Thinkpad T540P Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_t540p_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t540p_bios
+  confidence: auto

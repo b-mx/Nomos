@@ -1,0 +1,10 @@
+id: clearpath-mcp
+vendor_id: unisys
+name: Clearpath Mcp
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:clearpath_mcp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clearpath_mcp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: eos-5d-mark-iii
+vendor_id: canon
+name: Eos 5D Mark Iii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_5d_mark_iii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_5d_mark_iii
+  confidence: auto

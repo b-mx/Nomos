@@ -1,0 +1,9 @@
+id: polkit
+vendor_id: red-hat
+name: Polkit
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Polkit
+  confidence: auto

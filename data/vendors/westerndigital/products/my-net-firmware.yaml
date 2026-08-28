@@ -1,0 +1,10 @@
+id: my-net-firmware
+vendor_id: westerndigital
+name: My Net Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westerndigital:my_net_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_net_firmware
+  confidence: auto

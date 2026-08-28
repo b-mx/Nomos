@@ -1,0 +1,10 @@
+id: access-demo-importer
+vendor_id: accesspressthemes
+name: Access Demo Importer
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:access_demo_importer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_demo_importer
+  confidence: auto

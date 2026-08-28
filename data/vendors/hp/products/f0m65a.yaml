@@ -1,0 +1,10 @@
+id: f0m65a
+vendor_id: hp
+name: F0M65A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f0m65a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f0m65a
+  confidence: auto

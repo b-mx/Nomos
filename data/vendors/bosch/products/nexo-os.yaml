@@ -1,0 +1,10 @@
+id: nexo-os
+vendor_id: bosch
+name: Nexo-Os
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:nexo\-os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexo-os
+  confidence: auto

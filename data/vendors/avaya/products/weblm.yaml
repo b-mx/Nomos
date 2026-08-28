@@ -1,0 +1,10 @@
+id: weblm
+vendor_id: avaya
+name: Weblm
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:weblm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: weblm
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avast--avast-free-antivirus",
+  "vendor_id": "avast",
+  "product_id": "avast-free-antivirus",
+  "name": "Avast Free Antivirus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "avast_free_antivirus",
+      "confidence": "auto"
+    }
+  ]
+}

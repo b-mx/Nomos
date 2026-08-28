@@ -1,0 +1,10 @@
+id: network-functions-virtualization-fusionsphere
+vendor_id: huawei
+name: Network Functions Virtualization Fusionsphere
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:network_functions_virtualization_fusionsphere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_functions_virtualization_fusionsphere
+  confidence: auto

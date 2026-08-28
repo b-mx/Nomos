@@ -1,0 +1,10 @@
+id: s1700
+vendor_id: huawei
+name: S1700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s1700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s1700
+  confidence: auto

@@ -1,0 +1,10 @@
+id: import-export-customizer-settings
+vendor_id: brainstormforce
+name: Import / Export Customizer Settings
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:import_\/_export_customizer_settings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: import_/_export_customizer_settings
+  confidence: auto

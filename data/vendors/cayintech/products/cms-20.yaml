@@ -1,0 +1,10 @@
+id: cms-20
+vendor_id: cayintech
+name: Cms-20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cayintech:cms\-20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cms-20
+  confidence: auto

@@ -1,0 +1,10 @@
+id: h13svw-n
+vendor_id: supermicro
+name: H13Svw-N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h13svw\-n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h13svw-n
+  confidence: auto

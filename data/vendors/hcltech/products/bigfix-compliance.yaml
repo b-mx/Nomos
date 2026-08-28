@@ -1,0 +1,10 @@
+id: bigfix-compliance
+vendor_id: hcltech
+name: Bigfix Compliance
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:bigfix_compliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bigfix_compliance
+  confidence: auto

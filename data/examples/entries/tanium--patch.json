@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tanium--patch",
+  "vendor_id": "tanium",
+  "product_id": "patch",
+  "name": "Patch",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "patch",
+      "confidence": "auto"
+    }
+  ]
+}

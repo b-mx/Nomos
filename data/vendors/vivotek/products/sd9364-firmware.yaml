@@ -1,0 +1,10 @@
+id: sd9364-firmware
+vendor_id: vivotek
+name: Sd9364 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:sd9364_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd9364_firmware
+  confidence: auto

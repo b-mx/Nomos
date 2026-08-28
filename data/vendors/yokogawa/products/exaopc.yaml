@@ -1,0 +1,10 @@
+id: exaopc
+vendor_id: yokogawa
+name: Exaopc
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:exaopc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exaopc
+  confidence: auto

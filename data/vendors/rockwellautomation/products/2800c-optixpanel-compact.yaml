@@ -1,0 +1,10 @@
+id: 2800c-optixpanel-compact
+vendor_id: rockwellautomation
+name: 2800C Optixpanel Compact
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:2800c_optixpanel_compact:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2800c_optixpanel_compact
+  confidence: auto

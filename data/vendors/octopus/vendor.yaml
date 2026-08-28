@@ -1,0 +1,7 @@
+id: octopus
+name: Octopus
+cpe: cpe:2.3:*:octopus:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: octopus
+  confidence: auto

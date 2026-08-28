@@ -1,0 +1,10 @@
+id: xbo-tn04a-firmware
+vendor_id: ls-electric
+name: Xbo-Tn04A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbo\-tn04a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbo-tn04a_firmware
+  confidence: auto

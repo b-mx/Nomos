@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "proxmox-backup-server",
+  "vendor_id": "proxmox-backup-server",
+  "name": "Proxmox Backup Server",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "proxmox-backup-server",
+      "confidence": "auto"
+    }
+  ]
+}

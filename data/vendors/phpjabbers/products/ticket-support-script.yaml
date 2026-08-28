@@ -1,0 +1,10 @@
+id: ticket-support-script
+vendor_id: phpjabbers
+name: Ticket Support Script
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:ticket_support_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ticket_support_script
+  confidence: auto

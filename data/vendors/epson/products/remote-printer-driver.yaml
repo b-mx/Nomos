@@ -1,0 +1,10 @@
+id: remote-printer-driver
+vendor_id: epson
+name: Remote Printer Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:remote_printer_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_printer_driver
+  confidence: auto

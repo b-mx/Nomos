@@ -1,0 +1,10 @@
+id: deskjet-3700-j9v93b
+vendor_id: hp
+name: Deskjet 3700 J9V93B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_3700_j9v93b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3700_j9v93b
+  confidence: auto

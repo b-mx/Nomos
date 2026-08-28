@@ -1,0 +1,10 @@
+id: school-attendence-monitoring-system
+vendor_id: janobe
+name: School Attendence Monitoring System
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:school_attendence_monitoring_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: school_attendence_monitoring_system
+  confidence: auto

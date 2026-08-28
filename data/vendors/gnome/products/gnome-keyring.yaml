@@ -1,0 +1,10 @@
+id: gnome-keyring
+vendor_id: gnome
+name: Gnome-Keyring
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-keyring:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-keyring
+  confidence: auto

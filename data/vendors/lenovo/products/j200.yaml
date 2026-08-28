@@ -1,0 +1,10 @@
+id: j200
+vendor_id: lenovo
+name: J200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:j200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j200
+  confidence: auto

@@ -1,0 +1,10 @@
+id: n6841a-rf
+vendor_id: keysight
+name: N6841A Rf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:keysight:n6841a_rf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n6841a_rf
+  confidence: auto

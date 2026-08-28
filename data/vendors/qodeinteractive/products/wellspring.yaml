@@ -1,0 +1,10 @@
+id: wellspring
+vendor_id: qodeinteractive
+name: Wellspring
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:wellspring:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wellspring
+  confidence: auto

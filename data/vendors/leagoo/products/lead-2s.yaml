@@ -1,0 +1,10 @@
+id: lead-2s
+vendor_id: leagoo
+name: Lead 2S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:leagoo:lead_2s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lead_2s
+  confidence: auto

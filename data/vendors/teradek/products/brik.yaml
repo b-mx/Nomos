@@ -1,0 +1,10 @@
+id: brik
+vendor_id: teradek
+name: Brik
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teradek:brik:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brik
+  confidence: auto

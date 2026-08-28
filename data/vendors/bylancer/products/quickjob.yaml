@@ -1,0 +1,10 @@
+id: quickjob
+vendor_id: bylancer
+name: Quickjob
+type: software
+tags: []
+cpe: cpe:2.3:a:bylancer:quickjob:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quickjob
+  confidence: auto

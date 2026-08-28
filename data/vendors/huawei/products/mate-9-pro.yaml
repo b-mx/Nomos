@@ -1,0 +1,10 @@
+id: mate-9-pro
+vendor_id: huawei
+name: Mate 9 Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:mate_9_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mate_9_pro
+  confidence: auto

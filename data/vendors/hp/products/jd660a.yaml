@@ -1,0 +1,10 @@
+id: jd660a
+vendor_id: hp
+name: Jd660A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd660a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd660a
+  confidence: auto

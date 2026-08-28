@@ -1,0 +1,10 @@
+id: comfortpoint-open-manager-station
+vendor_id: honeywell
+name: Comfortpoint Open Manager Station
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:comfortpoint_open_manager_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comfortpoint_open_manager_station
+  confidence: auto

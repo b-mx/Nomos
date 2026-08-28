@@ -1,0 +1,10 @@
+id: simple-ticket-booking
+vendor_id: code-projects
+name: Simple Ticket Booking
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:simple_ticket_booking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_ticket_booking
+  confidence: auto

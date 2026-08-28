@@ -1,0 +1,10 @@
+id: sysmac-cj2h-cpu68-eip
+vendor_id: omron
+name: Sysmac Cj2H-Cpu68-Eip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cj2h\-cpu68\-eip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cj2h-cpu68-eip
+  confidence: auto

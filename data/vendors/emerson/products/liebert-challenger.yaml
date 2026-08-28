@@ -1,0 +1,10 @@
+id: liebert-challenger
+vendor_id: emerson
+name: Liebert Challenger
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:liebert_challenger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: liebert_challenger
+  confidence: auto

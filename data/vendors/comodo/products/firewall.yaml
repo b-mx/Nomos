@@ -1,0 +1,10 @@
+id: firewall
+vendor_id: comodo
+name: Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:comodo:firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: firewall
+  confidence: auto

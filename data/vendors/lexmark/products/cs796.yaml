@@ -1,0 +1,10 @@
+id: cs796
+vendor_id: lexmark
+name: Cs796
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs796:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs796
+  confidence: auto

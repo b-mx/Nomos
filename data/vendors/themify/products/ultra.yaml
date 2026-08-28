@@ -1,0 +1,10 @@
+id: ultra
+vendor_id: themify
+name: Ultra
+type: software
+tags: []
+cpe: cpe:2.3:a:themify:ultra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultra
+  confidence: auto

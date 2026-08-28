@@ -1,0 +1,10 @@
+id: document-creator
+vendor_id: phpjabbers
+name: Document Creator
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:document_creator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: document_creator
+  confidence: auto

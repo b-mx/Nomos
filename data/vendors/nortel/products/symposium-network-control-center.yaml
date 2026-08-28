@@ -1,0 +1,10 @@
+id: symposium-network-control-center
+vendor_id: nortel
+name: Symposium Network Control Center
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:symposium_network_control_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symposium_network_control_center
+  confidence: auto

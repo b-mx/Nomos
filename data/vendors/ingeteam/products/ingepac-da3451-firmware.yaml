@@ -1,0 +1,10 @@
+id: ingepac-da3451-firmware
+vendor_id: ingeteam
+name: Ingepac Da3451 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ingeteam:ingepac_da3451_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ingepac_da3451_firmware
+  confidence: auto

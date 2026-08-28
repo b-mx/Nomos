@@ -1,0 +1,10 @@
+id: daily-expense-tracker-system
+vendor_id: phpgurukul
+name: Daily Expense Tracker System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:daily_expense_tracker_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: daily_expense_tracker_system
+  confidence: auto

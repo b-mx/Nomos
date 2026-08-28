@@ -1,0 +1,10 @@
+id: boat-booking-system
+vendor_id: phpgurukul
+name: Boat Booking System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:boat_booking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: boat_booking_system
+  confidence: auto

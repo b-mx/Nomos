@@ -1,0 +1,10 @@
+id: portage
+vendor_id: gentoo
+name: Portage
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:portage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portage
+  confidence: auto

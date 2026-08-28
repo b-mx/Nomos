@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--xc4150-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "xc4150-firmware",
+  "name": "Xc4150 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xc4150_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

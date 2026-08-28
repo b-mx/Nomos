@@ -1,0 +1,10 @@
+id: sds1204x-e-firmware
+vendor_id: siglent
+name: Sds1204X-E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:siglent:sds1204x\-e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sds1204x-e_firmware
+  confidence: auto

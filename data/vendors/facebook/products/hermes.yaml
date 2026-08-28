@@ -1,0 +1,10 @@
+id: hermes
+vendor_id: facebook
+name: Hermes
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:hermes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hermes
+  confidence: auto

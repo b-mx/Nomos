@@ -1,0 +1,10 @@
+id: legacy-module
+vendor_id: suse
+name: Legacy Module
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:legacy_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legacy_module
+  confidence: auto

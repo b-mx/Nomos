@@ -1,0 +1,10 @@
+id: freelance-2019
+vendor_id: abb
+name: Freelance 2019
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:freelance_2019:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freelance_2019
+  confidence: auto

@@ -1,0 +1,10 @@
+id: solis-bpw-8000
+vendor_id: sloan
+name: Solis Bpw 8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:solis_bpw_8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solis_bpw_8000
+  confidence: auto

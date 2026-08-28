@@ -1,0 +1,10 @@
+id: pm595-4eth-f
+vendor_id: abb
+name: Pm595-4Eth-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm595\-4eth\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm595-4eth-f
+  confidence: auto

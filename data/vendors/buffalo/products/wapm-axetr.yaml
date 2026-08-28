@@ -1,0 +1,10 @@
+id: wapm-axetr
+vendor_id: buffalo
+name: Wapm-Axetr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wapm\-axetr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wapm-axetr
+  confidence: auto

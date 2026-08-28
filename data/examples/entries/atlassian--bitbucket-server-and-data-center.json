@@ -6,13 +6,13 @@
   "name": "Bitbucket Server and Data Center",
   "type": "software",
   "tags": [],
-  "icon": "devicon:bitbucket",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Bitbucket Server and Data Center",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

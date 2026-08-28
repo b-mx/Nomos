@@ -1,0 +1,10 @@
+id: fi9928p
+vendor_id: foscam
+name: Fi9928P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:foscam:fi9928p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fi9928p
+  confidence: auto

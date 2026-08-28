@@ -1,0 +1,10 @@
+id: dt4205
+vendor_id: rstinstruments
+name: Dt4205
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:dt4205:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt4205
+  confidence: auto

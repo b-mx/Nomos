@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fastify--bearer-auth",
+  "vendor_id": "fastify",
+  "product_id": "bearer-auth",
+  "name": "Bearer-Auth",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bearer-auth",
+      "confidence": "auto"
+    }
+  ]
+}

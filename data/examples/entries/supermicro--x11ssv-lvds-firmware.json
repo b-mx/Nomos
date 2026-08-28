@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11ssv-lvds-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11ssv-lvds-firmware",
+  "name": "X11Ssv-Lvds Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11ssv-lvds_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

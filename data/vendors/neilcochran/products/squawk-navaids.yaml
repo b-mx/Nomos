@@ -1,0 +1,10 @@
+id: squawk-navaids
+vendor_id: neilcochran
+name: Squawk/Navaids
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/navaids:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/navaids
+  confidence: auto

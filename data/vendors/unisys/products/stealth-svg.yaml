@@ -1,0 +1,10 @@
+id: stealth-svg
+vendor_id: unisys
+name: Stealth Svg
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:stealth_svg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stealth_svg
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pc10p-dp-io-firmware
+vendor_id: jtekt
+name: Pc10P-Dp-Io Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:pc10p\-dp\-io_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10p-dp-io_firmware
+  confidence: auto

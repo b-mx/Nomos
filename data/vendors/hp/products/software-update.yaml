@@ -1,0 +1,10 @@
+id: software-update
+vendor_id: hp
+name: Software Update
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:software_update:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: software_update
+  confidence: auto

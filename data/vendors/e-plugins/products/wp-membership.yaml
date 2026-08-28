@@ -1,0 +1,10 @@
+id: wp-membership
+vendor_id: e-plugins
+name: Wp Membership
+type: software
+tags: []
+cpe: cpe:2.3:a:e\-plugins:wp_membership:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_membership
+  confidence: auto

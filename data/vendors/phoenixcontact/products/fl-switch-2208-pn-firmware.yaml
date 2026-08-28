@@ -1,0 +1,10 @@
+id: fl-switch-2208-pn-firmware
+vendor_id: phoenixcontact
+name: Fl Switch 2208 Pn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fl_switch_2208_pn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_switch_2208_pn_firmware
+  confidence: auto

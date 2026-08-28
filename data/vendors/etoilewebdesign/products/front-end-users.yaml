@@ -1,0 +1,10 @@
+id: front-end-users
+vendor_id: etoilewebdesign
+name: Front End Users
+type: software
+tags: []
+cpe: cpe:2.3:a:etoilewebdesign:front_end_users:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: front_end_users
+  confidence: auto

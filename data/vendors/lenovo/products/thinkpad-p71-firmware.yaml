@@ -1,0 +1,10 @@
+id: thinkpad-p71-firmware
+vendor_id: lenovo
+name: Thinkpad P71 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_p71_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_p71_firmware
+  confidence: auto

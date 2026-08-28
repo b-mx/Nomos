@@ -1,0 +1,10 @@
+id: hcl2g-firmware
+vendor_id: honeywell
+name: Hcl2G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hcl2g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl2g_firmware
+  confidence: auto

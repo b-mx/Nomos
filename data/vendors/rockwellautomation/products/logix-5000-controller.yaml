@@ -1,0 +1,10 @@
+id: logix-5000-controller
+vendor_id: rockwellautomation
+name: Logix 5000 Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:logix_5000_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logix_5000_controller
+  confidence: auto

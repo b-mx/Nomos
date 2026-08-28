@@ -1,0 +1,10 @@
+id: sd9362-eh
+vendor_id: vivotek
+name: Sd9362-Eh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:sd9362\-eh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd9362-eh
+  confidence: auto

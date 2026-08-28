@@ -1,0 +1,10 @@
+id: officejet-pro-6835-j2d37a-firmware
+vendor_id: hp
+name: Officejet Pro 6835 J2D37A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_pro_6835_j2d37a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_6835_j2d37a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tv-ip110wn-firmware
+vendor_id: trendnet
+name: Tv-Ip110Wn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:tv\-ip110wn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv-ip110wn_firmware
+  confidence: auto

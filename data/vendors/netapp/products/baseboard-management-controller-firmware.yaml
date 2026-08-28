@@ -1,0 +1,10 @@
+id: baseboard-management-controller-firmware
+vendor_id: netapp
+name: Baseboard Management Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:baseboard_management_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baseboard_management_controller_firmware
+  confidence: auto

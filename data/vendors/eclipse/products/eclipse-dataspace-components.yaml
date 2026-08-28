@@ -1,0 +1,10 @@
+id: eclipse-dataspace-components
+vendor_id: eclipse
+name: Eclipse Dataspace Components
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:eclipse_dataspace_components:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eclipse_dataspace_components
+  confidence: auto

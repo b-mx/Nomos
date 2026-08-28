@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--ex2100e-firmware",
+  "vendor_id": "ge",
+  "product_id": "ex2100e-firmware",
+  "name": "Ex2100E Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ex2100e_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

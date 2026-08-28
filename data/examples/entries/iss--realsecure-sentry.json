@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iss--realsecure-sentry",
+  "vendor_id": "iss",
+  "product_id": "realsecure-sentry",
+  "name": "Realsecure Sentry",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "realsecure_sentry",
+      "confidence": "auto"
+    }
+  ]
+}

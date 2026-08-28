@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--hpux-ntp",
+  "vendor_id": "hpe",
+  "product_id": "hpux-ntp",
+  "name": "Hpux-Ntp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hpux-ntp",
+      "confidence": "auto"
+    }
+  ]
+}

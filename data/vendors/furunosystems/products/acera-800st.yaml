@@ -1,0 +1,10 @@
+id: acera-800st
+vendor_id: furunosystems
+name: Acera 800St
+type: hardware
+tags: []
+cpe: cpe:2.3:h:furunosystems:acera_800st:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acera_800st
+  confidence: auto

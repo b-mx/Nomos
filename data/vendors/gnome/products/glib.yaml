@@ -1,0 +1,10 @@
+id: glib
+vendor_id: gnome
+name: Glib
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:glib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: glib
+  confidence: auto

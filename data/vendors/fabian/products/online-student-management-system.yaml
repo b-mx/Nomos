@@ -1,0 +1,10 @@
+id: online-student-management-system
+vendor_id: fabian
+name: Online Student Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_student_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_student_management_system
+  confidence: auto

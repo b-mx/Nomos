@@ -1,0 +1,10 @@
+id: p9-lite
+vendor_id: huawei
+name: P9 Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p9_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p9_lite
+  confidence: auto

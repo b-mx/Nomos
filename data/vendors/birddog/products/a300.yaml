@@ -1,0 +1,10 @@
+id: a300
+vendor_id: birddog
+name: A300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:birddog:a300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a300
+  confidence: auto

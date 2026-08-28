@@ -1,0 +1,10 @@
+id: xgf-dl16a-firmware
+vendor_id: ls-electric
+name: Xgf-Dl16A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgf\-dl16a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgf-dl16a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cs1w-clk
+vendor_id: omron
+name: Cs1W-Clk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cs1w\-clk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1w-clk
+  confidence: auto

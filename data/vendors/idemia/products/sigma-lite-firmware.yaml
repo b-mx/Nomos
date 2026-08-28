@@ -1,0 +1,10 @@
+id: sigma-lite-firmware
+vendor_id: idemia
+name: Sigma Lite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idemia:sigma_lite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sigma_lite_firmware
+  confidence: auto

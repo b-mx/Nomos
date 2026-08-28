@@ -1,0 +1,10 @@
+id: cs41x
+vendor_id: lexmark
+name: Cs41X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs41x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs41x
+  confidence: auto

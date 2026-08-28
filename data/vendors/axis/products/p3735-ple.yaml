@@ -1,0 +1,10 @@
+id: p3735-ple
+vendor_id: axis
+name: P3735-Ple
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p3735\-ple:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3735-ple
+  confidence: auto

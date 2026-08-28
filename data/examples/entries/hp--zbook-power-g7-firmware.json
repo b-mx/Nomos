@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--zbook-power-g7-firmware",
+  "vendor_id": "hp",
+  "product_id": "zbook-power-g7-firmware",
+  "name": "Zbook Power G7 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zbook_power_g7_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

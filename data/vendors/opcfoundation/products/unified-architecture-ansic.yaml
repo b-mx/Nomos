@@ -1,0 +1,10 @@
+id: unified-architecture-ansic
+vendor_id: opcfoundation
+name: Unified Architecture Ansic
+type: software
+tags: []
+cpe: cpe:2.3:a:opcfoundation:unified_architecture_ansic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unified_architecture_ansic
+  confidence: auto

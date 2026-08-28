@@ -1,0 +1,10 @@
+id: snowflake-connector
+vendor_id: snowflake
+name: Snowflake Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:snowflake:snowflake_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snowflake_connector
+  confidence: auto

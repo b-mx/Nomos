@@ -1,0 +1,10 @@
+id: jackman-l21
+vendor_id: huawei
+name: Jackman-L21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:jackman\-l21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jackman-l21
+  confidence: auto

@@ -1,0 +1,10 @@
+id: air-4971
+vendor_id: airties
+name: Air 4971
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airties:air_4971:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air_4971
+  confidence: auto

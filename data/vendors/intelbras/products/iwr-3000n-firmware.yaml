@@ -1,0 +1,10 @@
+id: iwr-3000n-firmware
+vendor_id: intelbras
+name: Iwr 3000N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelbras:iwr_3000n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iwr_3000n_firmware
+  confidence: auto

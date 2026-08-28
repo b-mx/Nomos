@@ -1,0 +1,10 @@
+id: websocket
+vendor_id: fastify
+name: Websocket
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:websocket:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: websocket
+  confidence: auto

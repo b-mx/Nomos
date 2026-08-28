@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rust-lang--regex",
+  "vendor_id": "rust-lang",
+  "product_id": "regex",
+  "name": "Regex",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "regex",
+      "confidence": "auto"
+    }
+  ]
+}

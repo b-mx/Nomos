@@ -1,0 +1,10 @@
+id: multi-print-quicker
+vendor_id: epson
+name: Multi-Print Quicker
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:multi\-print_quicker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multi-print_quicker
+  confidence: auto

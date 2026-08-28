@@ -3,17 +3,12 @@
   "slug": "kubernetes",
   "vendor_id": "kubernetes",
   "name": "Kubernetes",
-  "icon": "logos:kubernetes",
+  "icon": null,
   "aliases": [
     {
       "source": "nvd",
       "value": "kubernetes",
-      "confidence": "curated"
-    },
-    {
-      "source": "endoflife",
-      "value": "kubernetes",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

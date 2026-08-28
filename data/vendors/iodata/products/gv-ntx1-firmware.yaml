@@ -1,0 +1,10 @@
+id: gv-ntx1-firmware
+vendor_id: iodata
+name: Gv-Ntx1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:gv\-ntx1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gv-ntx1_firmware
+  confidence: auto

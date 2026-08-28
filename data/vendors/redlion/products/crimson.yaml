@@ -1,0 +1,10 @@
+id: crimson
+vendor_id: redlion
+name: Crimson
+type: software
+tags: []
+cpe: cpe:2.3:a:redlion:crimson:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crimson
+  confidence: auto

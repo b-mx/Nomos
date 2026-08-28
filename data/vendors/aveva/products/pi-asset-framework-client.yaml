@@ -1,0 +1,10 @@
+id: pi-asset-framework-client
+vendor_id: aveva
+name: Pi Asset Framework Client
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:pi_asset_framework_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_asset_framework_client
+  confidence: auto

@@ -1,0 +1,10 @@
+id: multilin-universal-relay-firmware
+vendor_id: ge
+name: Multilin Universal Relay Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:multilin_universal_relay_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_universal_relay_firmware
+  confidence: auto

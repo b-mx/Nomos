@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--texlive-filesystem",
+  "vendor_id": "opensuse",
+  "product_id": "texlive-filesystem",
+  "name": "Texlive-Filesystem",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "texlive-filesystem",
+      "confidence": "auto"
+    }
+  ]
+}

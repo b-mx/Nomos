@@ -1,0 +1,6 @@
+id: metallb
+name: MetalLB
+aliases:
+- source: endoflife
+  value: metallb
+  confidence: auto

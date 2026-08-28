@@ -1,0 +1,10 @@
+id: meeting-sdk
+vendor_id: zoom
+name: Meeting Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:meeting_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meeting_sdk
+  confidence: auto

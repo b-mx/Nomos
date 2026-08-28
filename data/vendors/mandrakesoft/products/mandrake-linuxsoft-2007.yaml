@@ -1,0 +1,10 @@
+id: mandrake-linuxsoft-2007
+vendor_id: mandrakesoft
+name: Mandrake Linuxsoft 2007
+type: os
+tags: []
+cpe: cpe:2.3:o:mandrakesoft:mandrake_linuxsoft_2007:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mandrake_linuxsoft_2007
+  confidence: auto

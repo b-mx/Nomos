@@ -1,0 +1,10 @@
+id: hpux-ntp
+vendor_id: hpe
+name: Hpux-Ntp
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:hpux\-ntp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpux-ntp
+  confidence: auto

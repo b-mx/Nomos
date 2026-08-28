@@ -1,0 +1,10 @@
+id: rfu630-04100
+vendor_id: sick
+name: Rfu630-04100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:rfu630\-04100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfu630-04100
+  confidence: auto

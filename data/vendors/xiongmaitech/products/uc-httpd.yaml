@@ -1,0 +1,10 @@
+id: uc-httpd
+vendor_id: xiongmaitech
+name: Uc-Httpd
+type: software
+tags: []
+cpe: cpe:2.3:a:xiongmaitech:uc\-httpd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-httpd
+  confidence: auto

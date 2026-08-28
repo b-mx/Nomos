@@ -1,0 +1,10 @@
+id: public-cloud-module
+vendor_id: suse
+name: Public Cloud Module
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:public_cloud_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: public_cloud_module
+  confidence: auto

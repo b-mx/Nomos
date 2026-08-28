@@ -1,0 +1,10 @@
+id: 6qq01a
+vendor_id: hp
+name: 6Qq01A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:6qq01a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 6qq01a
+  confidence: auto

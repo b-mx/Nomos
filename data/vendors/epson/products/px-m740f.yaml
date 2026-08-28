@@ -1,0 +1,10 @@
+id: px-m740f
+vendor_id: epson
+name: Px-M740F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-m740f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-m740f
+  confidence: auto

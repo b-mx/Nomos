@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--fsp",
+  "vendor_id": "debian",
+  "product_id": "fsp",
+  "name": "Fsp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fsp",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--securid",
+  "vendor_id": "rsa",
+  "product_id": "securid",
+  "name": "Securid",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "securid",
+      "confidence": "auto"
+    }
+  ]
+}

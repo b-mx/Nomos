@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp-eye",
+  "vendor_id": "espressif",
+  "product_id": "esp-eye",
+  "name": "Esp-Eye",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp-eye",
+      "confidence": "auto"
+    }
+  ]
+}

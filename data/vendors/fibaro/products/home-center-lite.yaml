@@ -1,0 +1,10 @@
+id: home-center-lite
+vendor_id: fibaro
+name: Home Center Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fibaro:home_center_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: home_center_lite
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--adaptive-security-appliance-asa",
+  "vendor_id": "cisco",
+  "product_id": "adaptive-security-appliance-asa",
+  "name": "Adaptive Security Appliance (ASA)",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Adaptive Security Appliance (ASA)",
+      "confidence": "auto"
+    }
+  ]
+}

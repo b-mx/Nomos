@@ -1,0 +1,10 @@
+id: rt-500ki
+vendor_id: ntt-east
+name: Rt-500Ki
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-east:rt\-500ki:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-500ki
+  confidence: auto

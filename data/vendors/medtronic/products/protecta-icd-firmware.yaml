@@ -1,0 +1,10 @@
+id: protecta-icd-firmware
+vendor_id: medtronic
+name: Protecta Icd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:protecta_icd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protecta_icd_firmware
+  confidence: auto

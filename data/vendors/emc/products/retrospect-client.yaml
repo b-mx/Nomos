@@ -1,0 +1,10 @@
+id: retrospect-client
+vendor_id: emc
+name: Retrospect Client
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:retrospect_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: retrospect_client
+  confidence: auto

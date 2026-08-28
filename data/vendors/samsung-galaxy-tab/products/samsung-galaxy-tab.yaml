@@ -1,0 +1,9 @@
+id: samsung-galaxy-tab
+vendor_id: samsung-galaxy-tab
+name: Samsung Galaxy Tab
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: samsung-galaxy-tab
+  confidence: auto

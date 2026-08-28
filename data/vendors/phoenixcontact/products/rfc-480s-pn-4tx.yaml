@@ -1,0 +1,10 @@
+id: rfc-480s-pn-4tx
+vendor_id: phoenixcontact
+name: Rfc 480S Pn 4Tx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:rfc_480s_pn_4tx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfc_480s_pn_4tx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jetwave-2212s
+vendor_id: korenix
+name: Jetwave 2212S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetwave_2212s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_2212s
+  confidence: auto

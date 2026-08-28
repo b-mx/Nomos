@@ -1,0 +1,10 @@
+id: asylum
+vendor_id: nobexrc
+name: Asylum!
+type: software
+tags: []
+cpe: cpe:2.3:a:nobexrc:asylum\!:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asylum!
+  confidence: auto

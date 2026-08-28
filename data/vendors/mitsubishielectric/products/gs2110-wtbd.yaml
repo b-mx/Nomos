@@ -1,0 +1,10 @@
+id: gs2110-wtbd
+vendor_id: mitsubishielectric
+name: Gs2110-Wtbd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:gs2110\-wtbd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gs2110-wtbd
+  confidence: auto

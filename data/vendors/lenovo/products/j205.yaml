@@ -1,0 +1,10 @@
+id: j205
+vendor_id: lenovo
+name: J205
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:j205:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j205
+  confidence: auto

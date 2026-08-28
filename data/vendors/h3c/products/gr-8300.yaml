@@ -1,0 +1,10 @@
+id: gr-8300
+vendor_id: h3c
+name: Gr-8300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:gr\-8300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gr-8300
+  confidence: auto

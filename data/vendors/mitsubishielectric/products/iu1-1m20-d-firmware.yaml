@@ -1,0 +1,10 @@
+id: iu1-1m20-d-firmware
+vendor_id: mitsubishielectric
+name: Iu1-1M20-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:iu1\-1m20\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iu1-1m20-d_firmware
+  confidence: auto

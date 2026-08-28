@@ -1,0 +1,10 @@
+id: laserjet-pro-m403-f6j44a-firmware
+vendor_id: hp
+name: Laserjet Pro M403 F6J44A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m403_f6j44a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m403_f6j44a_firmware
+  confidence: auto

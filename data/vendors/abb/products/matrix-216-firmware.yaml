@@ -1,0 +1,10 @@
+id: matrix-216-firmware
+vendor_id: abb
+name: Matrix-216 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:matrix\-216_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matrix-216_firmware
+  confidence: auto

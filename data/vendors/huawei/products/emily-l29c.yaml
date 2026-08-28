@@ -1,0 +1,10 @@
+id: emily-l29c
+vendor_id: huawei
+name: Emily-L29C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:emily\-l29c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emily-l29c
+  confidence: auto

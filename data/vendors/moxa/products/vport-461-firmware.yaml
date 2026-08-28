@@ -1,0 +1,10 @@
+id: vport-461-firmware
+vendor_id: moxa
+name: Vport 461 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:vport_461_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vport_461_firmware
+  confidence: auto

@@ -1,0 +1,7 @@
+id: opensuse
+name: Opensuse
+cpe: cpe:2.3:*:opensuse:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensuse
+  confidence: auto

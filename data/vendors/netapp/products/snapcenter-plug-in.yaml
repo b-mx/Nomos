@@ -1,0 +1,10 @@
+id: snapcenter-plug-in
+vendor_id: netapp
+name: Snapcenter Plug-In
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:snapcenter_plug\-in:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snapcenter_plug-in
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-3-7440u-firmware",
+  "vendor_id": "amd",
+  "product_id": "ryzen-3-7440u-firmware",
+  "name": "Ryzen 3 7440U Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_3_7440u_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

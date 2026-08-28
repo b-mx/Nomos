@@ -1,0 +1,10 @@
+id: h3cloud-os
+vendor_id: h3c
+name: H3Cloud Os
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:h3cloud_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h3cloud_os
+  confidence: auto

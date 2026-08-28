@@ -1,0 +1,10 @@
+id: evo-design-4g-software
+vendor_id: htc
+name: Evo Design 4G Software
+type: software
+tags: []
+cpe: cpe:2.3:a:htc:evo_design_4g_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evo_design_4g_software
+  confidence: auto

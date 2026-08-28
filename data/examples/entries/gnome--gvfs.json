@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--gvfs",
+  "vendor_id": "gnome",
+  "product_id": "gvfs",
+  "name": "Gvfs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gvfs",
+      "confidence": "auto"
+    }
+  ]
+}

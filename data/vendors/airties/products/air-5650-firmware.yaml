@@ -1,0 +1,10 @@
+id: air-5650-firmware
+vendor_id: airties
+name: Air 5650 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airties:air_5650_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air_5650_firmware
+  confidence: auto

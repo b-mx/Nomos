@@ -1,0 +1,10 @@
+id: desktop-for-windows
+vendor_id: pgp
+name: Desktop For Windows
+type: software
+tags: []
+cpe: cpe:2.3:a:pgp:desktop_for_windows:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_for_windows
+  confidence: auto

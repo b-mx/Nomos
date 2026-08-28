@@ -1,0 +1,10 @@
+id: uipath-data-fabric-tool
+vendor_id: uipath
+name: Uipath/Data-Fabric-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/data\-fabric\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/data-fabric-tool
+  confidence: auto

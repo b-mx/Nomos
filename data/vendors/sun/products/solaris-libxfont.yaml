@@ -1,0 +1,10 @@
+id: solaris-libxfont
+vendor_id: sun
+name: Solaris Libxfont
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:solaris_libxfont:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solaris_libxfont
+  confidence: auto

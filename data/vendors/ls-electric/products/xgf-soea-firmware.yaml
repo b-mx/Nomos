@@ -1,0 +1,10 @@
+id: xgf-soea-firmware
+vendor_id: ls-electric
+name: Xgf-Soea Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgf\-soea_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgf-soea_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: z120
+vendor_id: logitech
+name: Z120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:z120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z120
+  confidence: auto

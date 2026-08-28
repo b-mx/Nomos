@@ -1,0 +1,10 @@
+id: mt44
+vendor_id: hp
+name: Mt44
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mt44:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt44
+  confidence: auto

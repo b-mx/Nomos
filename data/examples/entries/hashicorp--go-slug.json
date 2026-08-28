@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--go-slug",
+  "vendor_id": "hashicorp",
+  "product_id": "go-slug",
+  "name": "Go-Slug",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "go-slug",
+      "confidence": "auto"
+    }
+  ]
+}

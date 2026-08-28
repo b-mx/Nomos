@@ -1,0 +1,10 @@
+id: base-software
+vendor_id: abb
+name: Base Software
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:base_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: base_software
+  confidence: auto

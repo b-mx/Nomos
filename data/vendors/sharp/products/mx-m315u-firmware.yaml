@@ -1,0 +1,10 @@
+id: mx-m315u-firmware
+vendor_id: sharp
+name: Mx-M315U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-m315u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m315u_firmware
+  confidence: auto

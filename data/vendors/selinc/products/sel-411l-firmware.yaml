@@ -1,0 +1,10 @@
+id: sel-411l-firmware
+vendor_id: selinc
+name: Sel-411L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:selinc:sel\-411l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sel-411l_firmware
+  confidence: auto

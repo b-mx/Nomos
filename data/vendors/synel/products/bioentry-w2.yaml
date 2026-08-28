@@ -1,0 +1,10 @@
+id: bioentry-w2
+vendor_id: synel
+name: Bioentry-W2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synel:bioentry\-w2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bioentry-w2
+  confidence: auto

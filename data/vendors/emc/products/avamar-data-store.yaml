@@ -1,0 +1,10 @@
+id: avamar-data-store
+vendor_id: emc
+name: Avamar Data Store
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:avamar_data_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avamar_data_store
+  confidence: auto

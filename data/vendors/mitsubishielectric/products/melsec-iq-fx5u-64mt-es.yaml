@@ -1,0 +1,10 @@
+id: melsec-iq-fx5u-64mt-es
+vendor_id: mitsubishielectric
+name: Melsec Iq-Fx5U-64Mt/Es
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_iq\-fx5u\-64mt\/es:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-fx5u-64mt/es
+  confidence: auto

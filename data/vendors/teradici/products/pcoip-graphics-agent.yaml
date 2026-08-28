@@ -1,0 +1,10 @@
+id: pcoip-graphics-agent
+vendor_id: teradici
+name: Pcoip Graphics Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:teradici:pcoip_graphics_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcoip_graphics_agent
+  confidence: auto

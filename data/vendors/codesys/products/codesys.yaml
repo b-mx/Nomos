@@ -1,0 +1,10 @@
+id: codesys
+vendor_id: codesys
+name: Codesys
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:codesys:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: codesys
+  confidence: auto

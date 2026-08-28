@@ -1,0 +1,10 @@
+id: cbw383g4j-firmware
+vendor_id: castlenet
+name: Cbw383G4J Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:castlenet:cbw383g4j_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cbw383g4j_firmware
+  confidence: auto

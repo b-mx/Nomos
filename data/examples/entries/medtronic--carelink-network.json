@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--carelink-network",
+  "vendor_id": "medtronic",
+  "product_id": "carelink-network",
+  "name": "Carelink Network",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "carelink_network",
+      "confidence": "auto"
+    }
+  ]
+}

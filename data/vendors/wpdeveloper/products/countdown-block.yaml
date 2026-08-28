@@ -1,0 +1,10 @@
+id: countdown-block
+vendor_id: wpdeveloper
+name: Countdown Block
+type: software
+tags: []
+cpe: cpe:2.3:a:wpdeveloper:countdown_block:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: countdown_block
+  confidence: auto

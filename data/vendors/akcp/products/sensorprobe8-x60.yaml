@@ -1,0 +1,10 @@
+id: sensorprobe8-x60
+vendor_id: akcp
+name: Sensorprobe8-X60
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akcp:sensorprobe8\-x60:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensorprobe8-x60
+  confidence: auto

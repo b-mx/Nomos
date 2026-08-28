@@ -1,0 +1,10 @@
+id: color-laserjet-cm1312nfi-multifunction-printer
+vendor_id: hp
+name: Color Laserjet Cm1312Nfi Multifunction Printer
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_cm1312nfi_multifunction_printer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_cm1312nfi_multifunction_printer
+  confidence: auto

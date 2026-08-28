@@ -1,0 +1,10 @@
+id: package-hub
+vendor_id: suse
+name: Package Hub
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:package_hub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: package_hub
+  confidence: auto

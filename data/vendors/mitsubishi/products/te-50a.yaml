@@ -1,0 +1,10 @@
+id: te-50a
+vendor_id: mitsubishi
+name: Te-50A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:te\-50a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: te-50a
+  confidence: auto

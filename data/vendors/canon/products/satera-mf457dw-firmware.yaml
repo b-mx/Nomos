@@ -1,0 +1,10 @@
+id: satera-mf457dw-firmware
+vendor_id: canon
+name: Satera Mf457Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:satera_mf457dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: satera_mf457dw_firmware
+  confidence: auto

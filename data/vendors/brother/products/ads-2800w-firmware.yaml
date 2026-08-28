@@ -1,0 +1,10 @@
+id: ads-2800w-firmware
+vendor_id: brother
+name: Ads-2800W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:ads\-2800w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ads-2800w_firmware
+  confidence: auto

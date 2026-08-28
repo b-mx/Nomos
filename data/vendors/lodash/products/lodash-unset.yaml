@@ -1,0 +1,10 @@
+id: lodash-unset
+vendor_id: lodash
+name: Lodash.Unset
+type: software
+tags: []
+cpe: cpe:2.3:a:lodash:lodash\.unset:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lodash.unset
+  confidence: auto

@@ -1,0 +1,10 @@
+id: miniflare
+vendor_id: cloudflare
+name: Miniflare
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:miniflare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miniflare
+  confidence: auto

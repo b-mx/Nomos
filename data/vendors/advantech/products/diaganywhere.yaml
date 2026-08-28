@@ -1,0 +1,10 @@
+id: diaganywhere
+vendor_id: advantech
+name: Diaganywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:diaganywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diaganywhere
+  confidence: auto

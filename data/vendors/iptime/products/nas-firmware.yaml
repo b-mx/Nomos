@@ -1,0 +1,10 @@
+id: nas-firmware
+vendor_id: iptime
+name: Nas Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:nas_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nas_firmware
+  confidence: auto

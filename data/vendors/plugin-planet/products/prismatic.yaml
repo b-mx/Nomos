@@ -1,0 +1,10 @@
+id: prismatic
+vendor_id: plugin-planet
+name: Prismatic
+type: software
+tags: []
+cpe: cpe:2.3:a:plugin\-planet:prismatic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prismatic
+  confidence: auto

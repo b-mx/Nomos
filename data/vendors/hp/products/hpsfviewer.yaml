@@ -1,0 +1,10 @@
+id: hpsfviewer
+vendor_id: hp
+name: Hpsfviewer
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:hpsfviewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpsfviewer
+  confidence: auto

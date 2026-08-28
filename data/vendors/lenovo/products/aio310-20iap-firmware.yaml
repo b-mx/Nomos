@@ -1,0 +1,10 @@
+id: aio310-20iap-firmware
+vendor_id: lenovo
+name: Aio310-20Iap Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:aio310\-20iap_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aio310-20iap_firmware
+  confidence: auto

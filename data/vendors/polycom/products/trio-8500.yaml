@@ -1,0 +1,10 @@
+id: trio-8500
+vendor_id: polycom
+name: Trio 8500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:trio_8500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trio_8500
+  confidence: auto

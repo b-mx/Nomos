@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lfprojects--mcp-registry",
+  "vendor_id": "lfprojects",
+  "product_id": "mcp-registry",
+  "name": "Mcp Registry",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mcp_registry",
+      "confidence": "auto"
+    }
+  ]
+}

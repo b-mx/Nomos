@@ -1,0 +1,10 @@
+id: m3-firmware
+vendor_id: anviz
+name: M3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:anviz:m3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3_firmware
+  confidence: auto

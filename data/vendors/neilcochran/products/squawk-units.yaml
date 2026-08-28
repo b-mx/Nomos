@@ -1,0 +1,10 @@
+id: squawk-units
+vendor_id: neilcochran
+name: Squawk/Units
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/units:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/units
+  confidence: auto

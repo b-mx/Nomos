@@ -1,0 +1,10 @@
+id: pi-sql-data-access-server-2016
+vendor_id: osisoft
+name: Pi Sql Data Access Server 2016
+type: os
+tags: []
+cpe: cpe:2.3:o:osisoft:pi_sql_data_access_server_2016:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_sql_data_access_server_2016
+  confidence: auto

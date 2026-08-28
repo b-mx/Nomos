@@ -1,0 +1,10 @@
+id: redshift-connector
+vendor_id: amazon
+name: Redshift Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:redshift_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redshift_connector
+  confidence: auto

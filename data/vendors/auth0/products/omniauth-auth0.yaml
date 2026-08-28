@@ -1,0 +1,10 @@
+id: omniauth-auth0
+vendor_id: auth0
+name: Omniauth-Auth0
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:omniauth\-auth0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omniauth-auth0
+  confidence: auto

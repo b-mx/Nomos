@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--remedy-action-request-system",
+  "vendor_id": "bmc",
+  "product_id": "remedy-action-request-system",
+  "name": "Remedy Action Request System",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remedy_action_request_system",
+      "confidence": "auto"
+    }
+  ]
+}

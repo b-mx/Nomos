@@ -1,0 +1,10 @@
+id: life
+vendor_id: hp
+name: Life
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:life:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: life
+  confidence: auto

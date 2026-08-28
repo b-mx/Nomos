@@ -1,0 +1,10 @@
+id: xcp-nfs
+vendor_id: netapp
+name: Xcp Nfs
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:xcp_nfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xcp_nfs
+  confidence: auto

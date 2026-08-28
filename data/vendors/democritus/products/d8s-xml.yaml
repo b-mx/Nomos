@@ -1,0 +1,10 @@
+id: d8s-xml
+vendor_id: democritus
+name: D8S-Xml
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-xml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-xml
+  confidence: auto

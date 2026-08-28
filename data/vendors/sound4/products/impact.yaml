@@ -1,0 +1,10 @@
+id: impact
+vendor_id: sound4
+name: Impact
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sound4:impact:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: impact
+  confidence: auto

@@ -1,0 +1,10 @@
+id: oceanstor-sns3096-firmware
+vendor_id: huawei
+name: Oceanstor Sns3096 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:oceanstor_sns3096_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oceanstor_sns3096_firmware
+  confidence: auto

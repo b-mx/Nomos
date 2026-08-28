@@ -1,0 +1,10 @@
+id: unity-edgeconnect
+vendor_id: silver-peak
+name: Unity Edgeconnect
+type: hardware
+tags: []
+cpe: cpe:2.3:h:silver\-peak:unity_edgeconnect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unity_edgeconnect
+  confidence: auto

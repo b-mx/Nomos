@@ -1,0 +1,10 @@
+id: guardlogix-firmware
+vendor_id: rockwellautomation
+name: Guardlogix Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:guardlogix_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: guardlogix_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hookshot
+vendor_id: matrix
+name: Hookshot
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:hookshot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hookshot
+  confidence: auto

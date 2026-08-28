@@ -1,0 +1,10 @@
+id: ur41-firmware
+vendor_id: milesight
+name: Ur41 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:milesight:ur41_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ur41_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: deebot-t9
+vendor_id: ecovacs
+name: Deebot T9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_t9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_t9
+  confidence: auto

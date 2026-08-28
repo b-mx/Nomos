@@ -1,0 +1,10 @@
+id: vvx411
+vendor_id: polycom
+name: Vvx411
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx411:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx411
+  confidence: auto

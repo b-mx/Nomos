@@ -1,0 +1,10 @@
+id: uipath-insights-tool
+vendor_id: uipath
+name: Uipath/Insights-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/insights\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/insights-tool
+  confidence: auto

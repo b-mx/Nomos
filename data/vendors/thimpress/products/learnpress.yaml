@@ -1,0 +1,10 @@
+id: learnpress
+vendor_id: thimpress
+name: Learnpress
+type: software
+tags: []
+cpe: cpe:2.3:a:thimpress:learnpress:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: learnpress
+  confidence: auto

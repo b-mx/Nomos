@@ -1,0 +1,10 @@
+id: compactlogix-firmware
+vendor_id: rockwellautomation
+name: Compactlogix Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:compactlogix_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactlogix_firmware
+  confidence: auto

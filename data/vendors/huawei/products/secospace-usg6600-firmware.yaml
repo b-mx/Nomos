@@ -1,0 +1,10 @@
+id: secospace-usg6600-firmware
+vendor_id: huawei
+name: Secospace Usg6600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:secospace_usg6600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secospace_usg6600_firmware
+  confidence: auto

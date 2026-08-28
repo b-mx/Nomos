@@ -1,0 +1,10 @@
+id: wordpress-comments-import-and-export
+vendor_id: webtoffee
+name: Wordpress Comments Import And Export
+type: software
+tags: []
+cpe: cpe:2.3:a:webtoffee:wordpress_comments_import_and_export:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wordpress_comments_import_and_export
+  confidence: auto

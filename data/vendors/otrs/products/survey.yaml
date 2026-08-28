@@ -1,0 +1,10 @@
+id: survey
+vendor_id: otrs
+name: Survey
+type: software
+tags: []
+cpe: cpe:2.3:a:otrs:survey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: survey
+  confidence: auto

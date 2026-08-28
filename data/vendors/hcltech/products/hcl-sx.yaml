@@ -1,0 +1,10 @@
+id: hcl-sx
+vendor_id: hcltech
+name: Hcl Sx
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:hcl_sx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_sx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x11ssh-tf
+vendor_id: supermicro
+name: X11Ssh-Tf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11ssh\-tf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssh-tf
+  confidence: auto

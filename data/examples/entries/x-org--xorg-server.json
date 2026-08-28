@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x-org--xorg-server",
+  "vendor_id": "x-org",
+  "product_id": "xorg-server",
+  "name": "Xorg-Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xorg-server",
+      "confidence": "auto"
+    }
+  ]
+}

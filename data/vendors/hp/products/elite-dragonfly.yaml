@@ -1,0 +1,10 @@
+id: elite-dragonfly
+vendor_id: hp
+name: Elite Dragonfly
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elite_dragonfly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_dragonfly
+  confidence: auto

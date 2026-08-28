@@ -1,0 +1,10 @@
+id: cf081a
+vendor_id: hp
+name: Cf081A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cf081a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf081a
+  confidence: auto

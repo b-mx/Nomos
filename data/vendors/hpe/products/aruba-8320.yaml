@@ -1,0 +1,10 @@
+id: aruba-8320
+vendor_id: hpe
+name: Aruba 8320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_8320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_8320
+  confidence: auto

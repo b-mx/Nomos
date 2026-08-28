@@ -1,0 +1,10 @@
+id: opensearch-security
+vendor_id: amazon
+name: Opensearch Security
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:opensearch_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensearch_security
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cc523a
+vendor_id: hp
+name: Cc523A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cc523a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc523a
+  confidence: auto

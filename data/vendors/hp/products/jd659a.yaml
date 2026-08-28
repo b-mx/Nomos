@@ -1,0 +1,10 @@
+id: jd659a
+vendor_id: hp
+name: Jd659A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd659a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd659a
+  confidence: auto

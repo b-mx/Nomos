@@ -1,0 +1,10 @@
+id: flexfabric-5700-48g-4xg-2qsfp
+vendor_id: hpe
+name: Flexfabric 5700 48G 4Xg 2Qsfp+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:flexfabric_5700_48g_4xg_2qsfp\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexfabric_5700_48g_4xg_2qsfp+
+  confidence: auto

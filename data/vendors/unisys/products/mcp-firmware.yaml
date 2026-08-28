@@ -1,0 +1,10 @@
+id: mcp-firmware
+vendor_id: unisys
+name: Mcp-Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:unisys:mcp\-firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcp-firmware
+  confidence: auto

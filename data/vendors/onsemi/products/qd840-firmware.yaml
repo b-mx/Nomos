@@ -1,0 +1,10 @@
+id: qd840-firmware
+vendor_id: onsemi
+name: Qd840 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:onsemi:qd840_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qd840_firmware
+  confidence: auto

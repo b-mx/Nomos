@@ -1,0 +1,10 @@
+id: central-management
+vendor_id: fireeye
+name: Central Management
+type: software
+tags: []
+cpe: cpe:2.3:a:fireeye:central_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: central_management
+  confidence: auto

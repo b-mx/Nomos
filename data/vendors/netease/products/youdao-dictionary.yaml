@@ -1,0 +1,10 @@
+id: youdao-dictionary
+vendor_id: netease
+name: Youdao Dictionary
+type: software
+tags: []
+cpe: cpe:2.3:a:netease:youdao_dictionary:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: youdao_dictionary
+  confidence: auto

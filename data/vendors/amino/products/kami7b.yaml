@@ -1,0 +1,10 @@
+id: kami7b
+vendor_id: amino
+name: Kami7B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amino:kami7b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kami7b
+  confidence: auto

@@ -1,0 +1,9 @@
+id: telegraf
+vendor_id: telegraf
+name: Telegraf
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: telegraf
+  confidence: auto

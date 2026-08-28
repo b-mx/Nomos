@@ -1,0 +1,10 @@
+id: hg100r
+vendor_id: humaxdigital
+name: Hg100R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:humaxdigital:hg100r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg100r
+  confidence: auto

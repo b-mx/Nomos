@@ -1,0 +1,10 @@
+id: esprimo-p558-power
+vendor_id: fujitsu
+name: Esprimo P558/Power
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:esprimo_p558\/power:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esprimo_p558/power
+  confidence: auto

@@ -1,0 +1,10 @@
+id: b2368-22-firmware
+vendor_id: huawei
+name: B2368-22 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:b2368\-22_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b2368-22_firmware
+  confidence: auto

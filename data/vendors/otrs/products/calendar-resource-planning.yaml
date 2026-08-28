@@ -1,0 +1,10 @@
+id: calendar-resource-planning
+vendor_id: otrs
+name: Calendar Resource Planning
+type: software
+tags: []
+cpe: cpe:2.3:a:otrs:calendar_resource_planning:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: calendar_resource_planning
+  confidence: auto

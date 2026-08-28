@@ -1,0 +1,10 @@
+id: k43c-80
+vendor_id: lenovo
+name: K43C-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:k43c\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k43c-80
+  confidence: auto

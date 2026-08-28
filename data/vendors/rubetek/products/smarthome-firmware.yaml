@@ -1,0 +1,10 @@
+id: smarthome-firmware
+vendor_id: rubetek
+name: Smarthome Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rubetek:smarthome_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smarthome_firmware
+  confidence: auto

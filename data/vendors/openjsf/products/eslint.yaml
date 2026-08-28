@@ -1,0 +1,14 @@
+id: eslint
+vendor_id: openjsf
+name: ESLint
+type: software
+tags:
+- build-tool
+cpe: cpe:2.3:a:openjsf:eslint:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: eslint
+  confidence: auto
+- source: nvd
+  value: eslint
+  confidence: auto

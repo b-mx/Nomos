@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--updates",
+  "vendor_id": "lenovo",
+  "product_id": "updates",
+  "name": "Updates",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "updates",
+      "confidence": "auto"
+    }
+  ]
+}

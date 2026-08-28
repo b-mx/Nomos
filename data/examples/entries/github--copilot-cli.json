@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "github--copilot-cli",
+  "vendor_id": "github",
+  "product_id": "copilot-cli",
+  "name": "Copilot-Cli",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "copilot-cli",
+      "confidence": "auto"
+    }
+  ]
+}

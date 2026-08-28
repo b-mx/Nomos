@@ -1,0 +1,9 @@
+id: haproxy-ingress
+vendor_id: haproxy-ingress
+name: HAProxy Ingress
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: haproxy-ingress
+  confidence: auto

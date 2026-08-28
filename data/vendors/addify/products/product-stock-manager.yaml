@@ -1,0 +1,10 @@
+id: product-stock-manager
+vendor_id: addify
+name: Product Stock Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:addify:product_stock_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_stock_manager
+  confidence: auto

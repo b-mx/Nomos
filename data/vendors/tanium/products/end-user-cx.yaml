@@ -1,0 +1,10 @@
+id: end-user-cx
+vendor_id: tanium
+name: End-User-Cx
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:end\-user\-cx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: end-user-cx
+  confidence: auto

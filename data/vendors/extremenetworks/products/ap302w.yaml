@@ -1,0 +1,10 @@
+id: ap302w
+vendor_id: extremenetworks
+name: Ap302W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap302w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap302w
+  confidence: auto

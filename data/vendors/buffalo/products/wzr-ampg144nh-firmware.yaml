@@ -1,0 +1,10 @@
+id: wzr-ampg144nh-firmware
+vendor_id: buffalo
+name: Wzr-Ampg144Nh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wzr\-ampg144nh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr-ampg144nh_firmware
+  confidence: auto

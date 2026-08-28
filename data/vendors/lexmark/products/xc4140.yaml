@@ -1,0 +1,10 @@
+id: xc4140
+vendor_id: lexmark
+name: Xc4140
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xc4140:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xc4140
+  confidence: auto

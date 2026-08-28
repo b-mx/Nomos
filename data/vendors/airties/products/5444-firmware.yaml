@@ -1,0 +1,10 @@
+id: 5444-firmware
+vendor_id: airties
+name: 5444 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airties:5444_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5444_firmware
+  confidence: auto

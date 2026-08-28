@@ -1,0 +1,10 @@
+id: call-of-duty-advanced-warfare
+vendor_id: activision
+name: 'Call Of Duty: Advanced Warfare'
+type: software
+tags: []
+cpe: cpe:2.3:a:activision:call_of_duty\:_advanced_warfare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: call_of_duty:_advanced_warfare
+  confidence: auto

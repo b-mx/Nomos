@@ -1,0 +1,10 @@
+id: knb-5000n
+vendor_id: hanwhavision
+name: Knb-5000N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:knb\-5000n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: knb-5000n
+  confidence: auto

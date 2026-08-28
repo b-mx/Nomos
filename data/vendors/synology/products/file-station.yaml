@@ -1,0 +1,10 @@
+id: file-station
+vendor_id: synology
+name: File Station
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:file_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: file_station
+  confidence: auto

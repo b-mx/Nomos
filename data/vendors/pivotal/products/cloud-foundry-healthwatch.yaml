@@ -1,0 +1,10 @@
+id: cloud-foundry-healthwatch
+vendor_id: pivotal
+name: Cloud Foundry Healthwatch
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:cloud_foundry_healthwatch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_healthwatch
+  confidence: auto

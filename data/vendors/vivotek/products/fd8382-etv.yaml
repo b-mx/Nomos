@@ -1,0 +1,10 @@
+id: fd8382-etv
+vendor_id: vivotek
+name: Fd8382-Etv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fd8382\-etv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd8382-etv
+  confidence: auto

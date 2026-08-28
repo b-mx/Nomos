@@ -1,0 +1,10 @@
+id: jc086a
+vendor_id: hp
+name: Jc086A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc086a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc086a
+  confidence: auto

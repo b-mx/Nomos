@@ -1,0 +1,10 @@
+id: ex200-firmware
+vendor_id: totolink
+name: Ex200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:ex200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex200_firmware
+  confidence: auto

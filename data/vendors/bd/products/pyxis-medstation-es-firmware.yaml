@@ -1,0 +1,10 @@
+id: pyxis-medstation-es-firmware
+vendor_id: bd
+name: Pyxis Medstation Es Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:pyxis_medstation_es_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_medstation_es_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: d9l21a
+vendor_id: hp
+name: D9L21A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:d9l21a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d9l21a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 20jc
+vendor_id: lenovo
+name: 20Jc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20jc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20jc
+  confidence: auto

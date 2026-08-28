@@ -1,0 +1,10 @@
+id: omen-17-cb0xxx
+vendor_id: hp
+name: Omen 17-Cb0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_17\-cb0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_17-cb0xxx
+  confidence: auto

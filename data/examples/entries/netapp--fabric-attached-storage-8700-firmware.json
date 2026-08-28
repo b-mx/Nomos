@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--fabric-attached-storage-8700-firmware",
+  "vendor_id": "netapp",
+  "product_id": "fabric-attached-storage-8700-firmware",
+  "name": "Fabric-Attached Storage 8700 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fabric-attached_storage_8700_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

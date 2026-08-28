@@ -1,0 +1,7 @@
+id: foscam
+name: Foscam
+cpe: cpe:2.3:*:foscam:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foscam
+  confidence: auto

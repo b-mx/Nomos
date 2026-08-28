@@ -1,0 +1,10 @@
+id: ovation-ocr400-firmware
+vendor_id: emerson
+name: Ovation Ocr400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:ovation_ocr400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ovation_ocr400_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "plone--rest",
+  "vendor_id": "plone",
+  "product_id": "rest",
+  "name": "Rest",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rest",
+      "confidence": "auto"
+    }
+  ]
+}

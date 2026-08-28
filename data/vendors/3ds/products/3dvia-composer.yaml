@@ -1,0 +1,10 @@
+id: 3dvia-composer
+vendor_id: 3ds
+name: 3Dvia Composer
+type: software
+tags: []
+cpe: cpe:2.3:a:3ds:3dvia_composer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3dvia_composer
+  confidence: auto

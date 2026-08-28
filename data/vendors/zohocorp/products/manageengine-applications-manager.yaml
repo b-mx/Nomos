@@ -1,0 +1,10 @@
+id: manageengine-applications-manager
+vendor_id: zohocorp
+name: Manageengine Applications Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_applications_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_applications_manager
+  confidence: auto

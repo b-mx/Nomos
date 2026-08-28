@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "mediawiki--mediawiki",
+  "vendor_id": "mediawiki",
+  "product_id": "mediawiki",
+  "name": "MediaWiki",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "mediawiki",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "mediawiki",
+      "confidence": "auto"
+    }
+  ]
+}

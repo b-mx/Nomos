@@ -1,0 +1,10 @@
+id: tanos
+vendor_id: tanium
+name: Tanos
+type: os
+tags: []
+cpe: cpe:2.3:o:tanium:tanos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tanos
+  confidence: auto

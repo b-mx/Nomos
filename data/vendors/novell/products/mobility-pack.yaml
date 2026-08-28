@@ -1,0 +1,10 @@
+id: mobility-pack
+vendor_id: novell
+name: Mobility Pack
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:mobility_pack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobility_pack
+  confidence: auto

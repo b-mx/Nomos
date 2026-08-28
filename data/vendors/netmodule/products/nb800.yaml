@@ -1,0 +1,10 @@
+id: nb800
+vendor_id: netmodule
+name: Nb800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:nb800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb800
+  confidence: auto

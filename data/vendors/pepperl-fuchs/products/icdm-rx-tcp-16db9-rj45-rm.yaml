@@ -1,0 +1,10 @@
+id: icdm-rx-tcp-16db9-rj45-rm
+vendor_id: pepperl-fuchs
+name: Icdm-Rx/Tcp-16Db9/Rj45-Rm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pepperl\-fuchs:icdm\-rx\/tcp\-16db9\/rj45\-rm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icdm-rx/tcp-16db9/rj45-rm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ryzen-7-5825u
+vendor_id: amd
+name: Ryzen 7 5825U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_5825u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_5825u
+  confidence: auto

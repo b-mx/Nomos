@@ -1,0 +1,10 @@
+id: excam-xf-q1785
+vendor_id: axis
+name: Excam Xf Q1785
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:excam_xf_q1785:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: excam_xf_q1785
+  confidence: auto

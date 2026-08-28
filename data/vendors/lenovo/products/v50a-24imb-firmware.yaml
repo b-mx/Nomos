@@ -1,0 +1,10 @@
+id: v50a-24imb-firmware
+vendor_id: lenovo
+name: V50A-24Imb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v50a\-24imb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v50a-24imb_firmware
+  confidence: auto

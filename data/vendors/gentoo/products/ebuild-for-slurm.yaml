@@ -1,0 +1,10 @@
+id: ebuild-for-slurm
+vendor_id: gentoo
+name: Ebuild For Slurm
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:ebuild_for_slurm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ebuild_for_slurm
+  confidence: auto

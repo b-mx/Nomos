@@ -1,0 +1,10 @@
+id: room-220-firmware
+vendor_id: lifesize
+name: Room 220 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lifesize:room_220_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: room_220_firmware
+  confidence: auto

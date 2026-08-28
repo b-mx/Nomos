@@ -1,0 +1,10 @@
+id: deskjet-2700e-2a9q5a-firmware
+vendor_id: hp
+name: Deskjet 2700E 2A9Q5A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:deskjet_2700e_2a9q5a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_2700e_2a9q5a_firmware
+  confidence: auto

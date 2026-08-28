@@ -1,0 +1,10 @@
+id: dpd-france
+vendor_id: prestashop
+name: Dpd France
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:dpd_france:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dpd_france
+  confidence: auto

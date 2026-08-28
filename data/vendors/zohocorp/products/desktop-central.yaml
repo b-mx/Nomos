@@ -1,0 +1,10 @@
+id: desktop-central
+vendor_id: zohocorp
+name: Desktop Central
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:desktop_central:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_central
+  confidence: auto

@@ -1,0 +1,10 @@
+id: v340-iil-firmware
+vendor_id: lenovo
+name: V340-Iil Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v340\-iil_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v340-iil_firmware
+  confidence: auto

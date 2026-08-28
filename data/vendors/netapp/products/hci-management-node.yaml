@@ -1,0 +1,10 @@
+id: hci-management-node
+vendor_id: netapp
+name: Hci Management Node
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:hci_management_node:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hci_management_node
+  confidence: auto

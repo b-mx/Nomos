@@ -1,0 +1,10 @@
+id: cloudusm-eua
+vendor_id: huawei
+name: Cloudusm-Eua
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cloudusm\-eua:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudusm-eua
+  confidence: auto

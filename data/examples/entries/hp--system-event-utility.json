@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--system-event-utility",
+  "vendor_id": "hp",
+  "product_id": "system-event-utility",
+  "name": "System Event Utility",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "system_event_utility",
+      "confidence": "auto"
+    }
+  ]
+}

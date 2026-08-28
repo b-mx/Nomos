@@ -1,0 +1,10 @@
+id: xnp-6400-firmware
+vendor_id: hanwhavision
+name: Xnp-6400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:xnp\-6400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnp-6400_firmware
+  confidence: auto

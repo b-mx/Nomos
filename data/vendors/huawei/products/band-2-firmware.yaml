@@ -1,0 +1,10 @@
+id: band-2-firmware
+vendor_id: huawei
+name: Band 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:band_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: band_2_firmware
+  confidence: auto

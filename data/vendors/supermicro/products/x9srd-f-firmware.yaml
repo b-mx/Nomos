@@ -1,0 +1,10 @@
+id: x9srd-f-firmware
+vendor_id: supermicro
+name: X9Srd-F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9srd\-f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9srd-f_firmware
+  confidence: auto

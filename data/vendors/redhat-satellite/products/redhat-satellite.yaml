@@ -1,0 +1,9 @@
+id: redhat-satellite
+vendor_id: redhat-satellite
+name: Red Hat Satellite
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: redhat-satellite
+  confidence: auto

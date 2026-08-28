@@ -1,0 +1,10 @@
+id: hg6245d-firmware
+vendor_id: fiberhome
+name: Hg6245D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fiberhome:hg6245d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg6245d_firmware
+  confidence: auto

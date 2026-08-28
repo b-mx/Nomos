@@ -1,0 +1,10 @@
+id: trutopsweld
+vendor_id: trumpf
+name: Trutopsweld
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:trutopsweld:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trutopsweld
+  confidence: auto

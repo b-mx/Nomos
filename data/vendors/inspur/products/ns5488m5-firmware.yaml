@@ -1,0 +1,10 @@
+id: ns5488m5-firmware
+vendor_id: inspur
+name: Ns5488M5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:inspur:ns5488m5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ns5488m5_firmware
+  confidence: auto

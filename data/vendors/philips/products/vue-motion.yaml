@@ -1,0 +1,10 @@
+id: vue-motion
+vendor_id: philips
+name: Vue Motion
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:vue_motion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vue_motion
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ms415
+vendor_id: lexmark
+name: Ms415
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms415:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms415
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--discovery-and-dependency-mapping-inventory",
+  "vendor_id": "hp",
+  "product_id": "discovery-and-dependency-mapping-inventory",
+  "name": "Discovery And Dependency Mapping Inventory",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "discovery_and_dependency_mapping_inventory",
+      "confidence": "auto"
+    }
+  ]
+}

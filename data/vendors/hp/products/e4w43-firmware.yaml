@@ -1,0 +1,10 @@
+id: e4w43-firmware
+vendor_id: hp
+name: E4W43 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:e4w43_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e4w43_firmware
+  confidence: auto

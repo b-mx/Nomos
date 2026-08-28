@@ -1,0 +1,10 @@
+id: freebox-delta-firmware
+vendor_id: free
+name: Freebox Delta Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:free:freebox_delta_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freebox_delta_firmware
+  confidence: auto

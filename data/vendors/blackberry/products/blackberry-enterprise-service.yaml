@@ -1,0 +1,10 @@
+id: blackberry-enterprise-service
+vendor_id: blackberry
+name: Blackberry Enterprise Service
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:blackberry_enterprise_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry_enterprise_service
+  confidence: auto

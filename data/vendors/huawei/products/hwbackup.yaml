@@ -1,0 +1,10 @@
+id: hwbackup
+vendor_id: huawei
+name: Hwbackup
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hwbackup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hwbackup
+  confidence: auto

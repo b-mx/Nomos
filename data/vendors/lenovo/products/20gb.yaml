@@ -1,0 +1,10 @@
+id: 20gb
+vendor_id: lenovo
+name: 20Gb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20gb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20gb
+  confidence: auto

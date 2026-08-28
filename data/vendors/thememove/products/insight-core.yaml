@@ -1,0 +1,10 @@
+id: insight-core
+vendor_id: thememove
+name: Insight Core
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:insight_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_core
+  confidence: auto

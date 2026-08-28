@@ -1,0 +1,10 @@
+id: ip7160
+vendor_id: vivotek
+name: Ip7160
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ip7160:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip7160
+  confidence: auto

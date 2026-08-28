@@ -1,0 +1,10 @@
+id: energy-savings-estimator
+vendor_id: fujielectric
+name: Energy Savings Estimator
+type: software
+tags: []
+cpe: cpe:2.3:a:fujielectric:energy_savings_estimator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: energy_savings_estimator
+  confidence: auto

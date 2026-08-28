@@ -1,0 +1,10 @@
+id: saia-pg5-controls-suite
+vendor_id: honeywell
+name: Saia Pg5 Controls Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:saia_pg5_controls_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: saia_pg5_controls_suite
+  confidence: auto

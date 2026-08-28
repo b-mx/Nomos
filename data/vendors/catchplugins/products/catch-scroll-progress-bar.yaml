@@ -1,0 +1,10 @@
+id: catch-scroll-progress-bar
+vendor_id: catchplugins
+name: Catch Scroll Progress Bar
+type: software
+tags: []
+cpe: cpe:2.3:a:catchplugins:catch_scroll_progress_bar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catch_scroll_progress_bar
+  confidence: auto

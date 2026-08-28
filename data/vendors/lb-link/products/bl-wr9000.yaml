@@ -1,0 +1,10 @@
+id: bl-wr9000
+vendor_id: lb-link
+name: Bl-Wr9000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lb\-link:bl\-wr9000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-wr9000
+  confidence: auto

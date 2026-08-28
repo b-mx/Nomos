@@ -1,0 +1,10 @@
+id: er200
+vendor_id: easyrobotics
+name: Er200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:easyrobotics:er200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er200
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 20b3-firmware
+vendor_id: lenovo
+name: 20B3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:20b3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20b3_firmware
+  confidence: auto

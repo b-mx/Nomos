@@ -1,0 +1,10 @@
+id: webaccess-hmi-designer
+vendor_id: advantech
+name: Webaccess Hmi Designer
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:webaccess_hmi_designer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webaccess_hmi_designer
+  confidence: auto

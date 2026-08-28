@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--libzypp",
+  "vendor_id": "novell",
+  "product_id": "libzypp",
+  "name": "Libzypp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libzypp",
+      "confidence": "auto"
+    }
+  ]
+}

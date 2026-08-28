@@ -1,0 +1,10 @@
+id: xec-dr32h-di-firmware
+vendor_id: ls-electric
+name: Xec-Dr32H/Di Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xec\-dr32h\/di_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dr32h/di_firmware
+  confidence: auto

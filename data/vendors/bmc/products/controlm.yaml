@@ -1,0 +1,13 @@
+id: controlm
+vendor_id: bmc
+name: Control-M
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:control\-m:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: controlm
+  confidence: auto
+- source: nvd
+  value: control-m
+  confidence: auto

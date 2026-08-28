@@ -1,0 +1,10 @@
+id: snc-vb632d
+vendor_id: sony
+name: Snc-Vb632D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-vb632d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-vb632d
+  confidence: auto

@@ -1,0 +1,10 @@
+id: arubaos
+vendor_id: arubanetworks
+name: Arubaos
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:arubaos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arubaos
+  confidence: auto

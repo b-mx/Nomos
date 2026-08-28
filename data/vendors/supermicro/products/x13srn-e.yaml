@@ -1,0 +1,10 @@
+id: x13srn-e
+vendor_id: supermicro
+name: X13Srn-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13srn\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13srn-e
+  confidence: auto

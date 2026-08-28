@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "forcepoint--user-id",
+  "vendor_id": "forcepoint",
+  "product_id": "user-id",
+  "name": "User Id",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "user_id",
+      "confidence": "auto"
+    }
+  ]
+}

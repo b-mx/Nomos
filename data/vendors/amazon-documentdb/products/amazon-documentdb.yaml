@@ -1,0 +1,10 @@
+id: amazon-documentdb
+vendor_id: amazon-documentdb
+name: Amazon DocumentDB
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: amazon-documentdb
+  confidence: auto

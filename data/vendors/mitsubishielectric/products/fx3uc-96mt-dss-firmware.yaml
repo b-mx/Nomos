@@ -1,0 +1,10 @@
+id: fx3uc-96mt-dss-firmware
+vendor_id: mitsubishielectric
+name: Fx3Uc-96Mt/Dss Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3uc\-96mt\/dss_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3uc-96mt/dss_firmware
+  confidence: auto

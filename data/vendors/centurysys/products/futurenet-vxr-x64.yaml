@@ -1,0 +1,10 @@
+id: futurenet-vxr-x64
+vendor_id: centurysys
+name: Futurenet Vxr-X64
+type: os
+tags: []
+cpe: cpe:2.3:o:centurysys:futurenet_vxr\-x64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: futurenet_vxr-x64
+  confidence: auto

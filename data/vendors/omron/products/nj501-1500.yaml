@@ -1,0 +1,10 @@
+id: nj501-1500
+vendor_id: omron
+name: Nj501-1500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:nj501\-1500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nj501-1500
+  confidence: auto

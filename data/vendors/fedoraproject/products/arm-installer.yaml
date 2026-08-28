@@ -1,0 +1,10 @@
+id: arm-installer
+vendor_id: fedoraproject
+name: Arm Installer
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:arm_installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arm_installer
+  confidence: auto

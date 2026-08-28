@@ -1,0 +1,10 @@
+id: authelia-bhf
+vendor_id: beckhoff
+name: Authelia-Bhf
+type: software
+tags: []
+cpe: cpe:2.3:a:beckhoff:authelia\-bhf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: authelia-bhf
+  confidence: auto

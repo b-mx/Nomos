@@ -1,0 +1,10 @@
+id: h8-heights-remote-gateway-firmware
+vendor_id: comtech
+name: H8 Heights Remote Gateway Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:comtech:h8_heights_remote_gateway_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h8_heights_remote_gateway_firmware
+  confidence: auto

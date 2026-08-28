@@ -1,0 +1,10 @@
+id: mail
+vendor_id: nextcloud
+name: Mail
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:mail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mail
+  confidence: auto

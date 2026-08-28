@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--lifeline",
+  "vendor_id": "emc",
+  "product_id": "lifeline",
+  "name": "Lifeline",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lifeline",
+      "confidence": "auto"
+    }
+  ]
+}

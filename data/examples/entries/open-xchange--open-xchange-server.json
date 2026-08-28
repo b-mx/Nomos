@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "open-xchange--open-xchange-server",
+  "vendor_id": "open-xchange",
+  "product_id": "open-xchange-server",
+  "name": "Open-Xchange Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "open-xchange_server",
+      "confidence": "auto"
+    }
+  ]
+}

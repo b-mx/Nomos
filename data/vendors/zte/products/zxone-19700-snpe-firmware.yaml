@@ -1,0 +1,10 @@
+id: zxone-19700-snpe-firmware
+vendor_id: zte
+name: Zxone 19700 Snpe Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxone_19700_snpe_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxone_19700_snpe_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fingerprint-manager
+vendor_id: lenovo
+name: Fingerprint Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:fingerprint_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fingerprint_manager
+  confidence: auto

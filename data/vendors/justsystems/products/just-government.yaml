@@ -1,0 +1,10 @@
+id: just-government
+vendor_id: justsystems
+name: Just Government
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:just_government:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: just_government
+  confidence: auto

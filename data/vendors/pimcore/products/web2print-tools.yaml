@@ -1,0 +1,10 @@
+id: web2print-tools
+vendor_id: pimcore
+name: Web2Print Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:pimcore:web2print_tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web2print_tools
+  confidence: auto

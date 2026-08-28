@@ -1,0 +1,10 @@
+id: paper
+vendor_id: lenovo
+name: Paper
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:paper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paper
+  confidence: auto

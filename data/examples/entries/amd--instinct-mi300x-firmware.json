@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--instinct-mi300x-firmware",
+  "vendor_id": "amd",
+  "product_id": "instinct-mi300x-firmware",
+  "name": "Instinct Mi300X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "instinct_mi300x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

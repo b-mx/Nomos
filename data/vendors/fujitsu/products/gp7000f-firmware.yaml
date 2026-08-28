@@ -1,0 +1,10 @@
+id: gp7000f-firmware
+vendor_id: fujitsu
+name: Gp7000F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:gp7000f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gp7000f_firmware
+  confidence: auto

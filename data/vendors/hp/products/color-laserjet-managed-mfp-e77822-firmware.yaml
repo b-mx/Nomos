@@ -1,0 +1,10 @@
+id: color-laserjet-managed-mfp-e77822-firmware
+vendor_id: hp
+name: Color Laserjet Managed Mfp E77822 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_managed_mfp_e77822_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_managed_mfp_e77822_firmware
+  confidence: auto

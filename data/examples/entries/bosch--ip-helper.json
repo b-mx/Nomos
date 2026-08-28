@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--ip-helper",
+  "vendor_id": "bosch",
+  "product_id": "ip-helper",
+  "name": "Ip Helper",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ip_helper",
+      "confidence": "auto"
+    }
+  ]
+}

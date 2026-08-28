@@ -1,0 +1,7 @@
+id: libreoffice
+name: Libreoffice
+cpe: cpe:2.3:*:libreoffice:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libreoffice
+  confidence: auto

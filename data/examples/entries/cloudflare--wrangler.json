@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudflare--wrangler",
+  "vendor_id": "cloudflare",
+  "product_id": "wrangler",
+  "name": "Wrangler",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wrangler",
+      "confidence": "auto"
+    }
+  ]
+}

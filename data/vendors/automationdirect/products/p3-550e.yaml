@@ -1,0 +1,10 @@
+id: p3-550e
+vendor_id: automationdirect
+name: P3-550E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:automationdirect:p3\-550e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3-550e
+  confidence: auto

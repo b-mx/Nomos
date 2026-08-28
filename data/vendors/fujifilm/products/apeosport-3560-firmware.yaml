@@ -1,0 +1,10 @@
+id: apeosport-3560-firmware
+vendor_id: fujifilm
+name: Apeosport 3560 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:apeosport_3560_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport_3560_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: f8b05a
+vendor_id: hp
+name: F8B05A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f8b05a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f8b05a
+  confidence: auto

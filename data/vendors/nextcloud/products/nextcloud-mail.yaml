@@ -1,0 +1,10 @@
+id: nextcloud-mail
+vendor_id: nextcloud
+name: Nextcloud Mail
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:nextcloud_mail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextcloud_mail
+  confidence: auto

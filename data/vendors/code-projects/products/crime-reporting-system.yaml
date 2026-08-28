@@ -1,0 +1,10 @@
+id: crime-reporting-system
+vendor_id: code-projects
+name: Crime Reporting System
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:crime_reporting_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crime_reporting_system
+  confidence: auto

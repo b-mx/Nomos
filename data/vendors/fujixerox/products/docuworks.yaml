@@ -1,0 +1,10 @@
+id: docuworks
+vendor_id: fujixerox
+name: Docuworks
+type: software
+tags: []
+cpe: cpe:2.3:a:fujixerox:docuworks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuworks
+  confidence: auto

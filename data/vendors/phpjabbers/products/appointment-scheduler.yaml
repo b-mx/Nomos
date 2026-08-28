@@ -1,0 +1,10 @@
+id: appointment-scheduler
+vendor_id: phpjabbers
+name: Appointment Scheduler
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:appointment_scheduler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: appointment_scheduler
+  confidence: auto

@@ -1,0 +1,10 @@
+id: coslat-rm2s200
+vendor_id: bg-tek
+name: Coslat Rm2S200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bg\-tek:coslat_rm2s200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coslat_rm2s200
+  confidence: auto

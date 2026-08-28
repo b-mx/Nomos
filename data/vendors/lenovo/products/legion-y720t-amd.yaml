@@ -1,0 +1,10 @@
+id: legion-y720t-amd
+vendor_id: lenovo
+name: Legion Y720T Amd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_y720t_amd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y720t_amd
+  confidence: auto

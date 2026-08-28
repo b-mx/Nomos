@@ -1,0 +1,10 @@
+id: rn510-firmware
+vendor_id: skyworthdigital
+name: Rn510 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:skyworthdigital:rn510_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rn510_firmware
+  confidence: auto

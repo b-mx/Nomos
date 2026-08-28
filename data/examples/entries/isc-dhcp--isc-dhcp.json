@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "isc-dhcp--isc-dhcp",
+  "vendor_id": "isc-dhcp",
+  "product_id": "isc-dhcp",
+  "name": "ISC DHCP",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "isc-dhcp",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: hcl-inotes
+vendor_id: hcltechsw
+name: Hcl Inotes
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltechsw:hcl_inotes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_inotes
+  confidence: auto

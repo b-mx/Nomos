@@ -1,0 +1,10 @@
+id: clickshare-cs-100-huddle
+vendor_id: barco
+name: Clickshare Cs-100 Huddle
+type: hardware
+tags: []
+cpe: cpe:2.3:h:barco:clickshare_cs\-100_huddle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clickshare_cs-100_huddle
+  confidence: auto

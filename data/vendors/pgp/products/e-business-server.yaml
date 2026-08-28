@@ -1,0 +1,10 @@
+id: e-business-server
+vendor_id: pgp
+name: E-Business Server
+type: software
+tags: []
+cpe: cpe:2.3:a:pgp:e\-business_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-business_server
+  confidence: auto

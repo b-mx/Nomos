@@ -1,0 +1,10 @@
+id: s8000
+vendor_id: unisoc
+name: S8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8000
+  confidence: auto

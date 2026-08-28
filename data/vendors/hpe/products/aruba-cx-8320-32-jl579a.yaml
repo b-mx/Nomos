@@ -1,0 +1,10 @@
+id: aruba-cx-8320-32-jl579a
+vendor_id: hpe
+name: Aruba Cx 8320 32 (Jl579A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_8320_32_\(jl579a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_8320_32_(jl579a)
+  confidence: auto

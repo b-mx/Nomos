@@ -1,0 +1,10 @@
+id: bladecenter-hs22-firmware
+vendor_id: lenovo
+name: Bladecenter Hs22 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:bladecenter_hs22_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bladecenter_hs22_firmware
+  confidence: auto

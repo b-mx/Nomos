@@ -1,0 +1,10 @@
+id: zxhn-f670
+vendor_id: zte
+name: Zxhn F670
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxhn_f670:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxhn_f670
+  confidence: auto

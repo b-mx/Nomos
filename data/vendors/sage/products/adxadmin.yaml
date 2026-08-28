@@ -1,0 +1,10 @@
+id: adxadmin
+vendor_id: sage
+name: Adxadmin
+type: software
+tags: []
+cpe: cpe:2.3:a:sage:adxadmin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adxadmin
+  confidence: auto

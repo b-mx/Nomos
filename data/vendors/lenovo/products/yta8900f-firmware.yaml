@@ -1,0 +1,10 @@
+id: yta8900f-firmware
+vendor_id: lenovo
+name: Yta8900F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yta8900f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yta8900f_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: envy-4502-a9t85a
+vendor_id: hp
+name: Envy 4502 A9T85A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_4502_a9t85a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_4502_a9t85a
+  confidence: auto

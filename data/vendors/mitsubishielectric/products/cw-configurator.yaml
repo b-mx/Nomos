@@ -1,0 +1,10 @@
+id: cw-configurator
+vendor_id: mitsubishielectric
+name: Cw Configurator
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:cw_configurator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cw_configurator
+  confidence: auto

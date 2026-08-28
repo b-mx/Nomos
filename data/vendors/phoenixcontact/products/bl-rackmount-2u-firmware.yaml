@@ -1,0 +1,10 @@
+id: bl-rackmount-2u-firmware
+vendor_id: phoenixcontact
+name: Bl Rackmount 2U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:bl_rackmount_2u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl_rackmount_2u_firmware
+  confidence: auto

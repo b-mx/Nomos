@@ -1,0 +1,10 @@
+id: sdg-smartos
+vendor_id: adtran
+name: Sdg Smartos
+type: os
+tags: []
+cpe: cpe:2.3:o:adtran:sdg_smartos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sdg_smartos
+  confidence: auto

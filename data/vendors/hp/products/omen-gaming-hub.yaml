@@ -1,0 +1,10 @@
+id: omen-gaming-hub
+vendor_id: hp
+name: Omen Gaming Hub
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:omen_gaming_hub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_gaming_hub
+  confidence: auto

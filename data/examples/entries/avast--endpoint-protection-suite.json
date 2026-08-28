@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avast--endpoint-protection-suite",
+  "vendor_id": "avast",
+  "product_id": "endpoint-protection-suite",
+  "name": "Endpoint Protection Suite",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "endpoint_protection_suite",
+      "confidence": "auto"
+    }
+  ]
+}

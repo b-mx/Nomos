@@ -1,0 +1,10 @@
+id: circl
+vendor_id: cloudflare
+name: Circl
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:circl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: circl
+  confidence: auto

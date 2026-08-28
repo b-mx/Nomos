@@ -1,0 +1,10 @@
+id: m602a-rgb
+vendor_id: redragon
+name: M602A-Rgb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redragon:m602a\-rgb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m602a-rgb
+  confidence: auto

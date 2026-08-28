@@ -1,0 +1,10 @@
+id: food-delivery-script
+vendor_id: phpjabbers
+name: Food Delivery Script
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:food_delivery_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: food_delivery_script
+  confidence: auto

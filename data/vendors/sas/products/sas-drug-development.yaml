@@ -1,0 +1,10 @@
+id: sas-drug-development
+vendor_id: sas
+name: Sas Drug Development
+type: software
+tags: []
+cpe: cpe:2.3:a:sas:sas_drug_development:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sas_drug_development
+  confidence: auto

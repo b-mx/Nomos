@@ -1,0 +1,10 @@
+id: wplsoft
+vendor_id: deltaww
+name: Wplsoft
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:wplsoft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wplsoft
+  confidence: auto

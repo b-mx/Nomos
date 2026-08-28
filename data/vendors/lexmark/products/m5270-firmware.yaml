@@ -1,0 +1,10 @@
+id: m5270-firmware
+vendor_id: lexmark
+name: M5270 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:m5270_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m5270_firmware
+  confidence: auto

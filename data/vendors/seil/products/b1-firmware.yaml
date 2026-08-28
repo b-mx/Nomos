@@ -1,0 +1,10 @@
+id: b1-firmware
+vendor_id: seil
+name: B1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seil:b1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b1_firmware
+  confidence: auto

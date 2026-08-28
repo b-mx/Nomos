@@ -1,0 +1,10 @@
+id: jetadvantage-security-manager
+vendor_id: hp
+name: Jetadvantage Security Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:jetadvantage_security_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetadvantage_security_manager
+  confidence: auto

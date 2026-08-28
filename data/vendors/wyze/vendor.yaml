@@ -1,0 +1,7 @@
+id: wyze
+name: Wyze
+cpe: cpe:2.3:*:wyze:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wyze
+  confidence: auto

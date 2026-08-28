@@ -1,0 +1,10 @@
+id: bloger
+vendor_id: accesspressthemes
+name: Bloger
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:bloger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bloger
+  confidence: auto

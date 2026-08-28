@@ -1,0 +1,10 @@
+id: rh-3sdhr-firmware
+vendor_id: mitsubishielectric
+name: Rh-3Sdhr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rh\-3sdhr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh-3sdhr_firmware
+  confidence: auto

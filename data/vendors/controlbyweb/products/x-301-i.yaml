@@ -1,0 +1,10 @@
+id: x-301-i
+vendor_id: controlbyweb
+name: X-301-I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:controlbyweb:x\-301\-i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-301-i
+  confidence: auto

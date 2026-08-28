@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "cakephp--cakephp",
+  "vendor_id": "cakephp",
+  "product_id": "cakephp",
+  "name": "CakePHP",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "cakephp",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "cakephp",
+      "confidence": "auto"
+    }
+  ]
+}

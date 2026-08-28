@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mandriva--business-server",
+  "vendor_id": "mandriva",
+  "product_id": "business-server",
+  "name": "Business Server",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "business_server",
+      "confidence": "auto"
+    }
+  ]
+}

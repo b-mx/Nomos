@@ -1,0 +1,10 @@
+id: first-security-bank-sleepy-eye-mobile
+vendor_id: meafinancial
+name: First Security Bank Sleepy Eye Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:first_security_bank_sleepy_eye_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: first_security_bank_sleepy_eye_mobile
+  confidence: auto

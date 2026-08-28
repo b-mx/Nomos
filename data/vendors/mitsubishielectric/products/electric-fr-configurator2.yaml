@@ -1,0 +1,10 @@
+id: electric-fr-configurator2
+vendor_id: mitsubishielectric
+name: Electric Fr Configurator2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:electric_fr_configurator2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: electric_fr_configurator2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: realsecure-guard
+vendor_id: iss
+name: Realsecure Guard
+type: software
+tags: []
+cpe: cpe:2.3:a:iss:realsecure_guard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realsecure_guard
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mbspider-mdh-905
+vendor_id: mbconnectline
+name: Mbspider Mdh 905
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbconnectline:mbspider_mdh_905:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbspider_mdh_905
+  confidence: auto

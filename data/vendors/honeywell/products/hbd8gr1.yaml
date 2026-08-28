@@ -1,0 +1,10 @@
+id: hbd8gr1
+vendor_id: honeywell
+name: Hbd8Gr1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hbd8gr1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hbd8gr1
+  confidence: auto

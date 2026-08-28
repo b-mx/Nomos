@@ -1,0 +1,10 @@
+id: tm-t88vi
+vendor_id: epson
+name: Tm-T88Vi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-t88vi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-t88vi
+  confidence: auto

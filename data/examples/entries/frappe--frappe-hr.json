@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "frappe--frappe-hr",
+  "vendor_id": "frappe",
+  "product_id": "frappe-hr",
+  "name": "Frappe Hr",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "frappe_hr",
+      "confidence": "auto"
+    }
+  ]
+}

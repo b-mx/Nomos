@@ -1,0 +1,10 @@
+id: freeflow-print-server
+vendor_id: xerox
+name: Freeflow Print Server
+type: software
+tags: []
+cpe: cpe:2.3:a:xerox:freeflow_print_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freeflow_print_server
+  confidence: auto

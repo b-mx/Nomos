@@ -1,0 +1,10 @@
+id: mycarelink-24952-patient-monitor-firmware
+vendor_id: medtronic
+name: Mycarelink 24952 Patient Monitor Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:mycarelink_24952_patient_monitor_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mycarelink_24952_patient_monitor_firmware
+  confidence: auto

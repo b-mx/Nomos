@@ -1,0 +1,10 @@
+id: skynas
+vendor_id: synology
+name: Skynas
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:skynas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skynas
+  confidence: auto

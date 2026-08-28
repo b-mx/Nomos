@@ -1,0 +1,10 @@
+id: x11ssl-cf
+vendor_id: supermicro
+name: X11Ssl-Cf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11ssl\-cf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssl-cf
+  confidence: auto

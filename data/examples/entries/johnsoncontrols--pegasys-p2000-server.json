@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "johnsoncontrols--pegasys-p2000-server",
+  "vendor_id": "johnsoncontrols",
+  "product_id": "pegasys-p2000-server",
+  "name": "Pegasys P2000 Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pegasys_p2000_server",
+      "confidence": "auto"
+    }
+  ]
+}

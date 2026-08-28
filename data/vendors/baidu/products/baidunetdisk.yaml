@@ -1,0 +1,10 @@
+id: baidunetdisk
+vendor_id: baidu
+name: Baidunetdisk
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:baidunetdisk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baidunetdisk
+  confidence: auto

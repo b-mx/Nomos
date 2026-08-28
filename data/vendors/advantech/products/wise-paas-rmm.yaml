@@ -1,0 +1,10 @@
+id: wise-paas-rmm
+vendor_id: advantech
+name: Wise-Paas/Rmm
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:wise\-paas\/rmm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wise-paas/rmm
+  confidence: auto

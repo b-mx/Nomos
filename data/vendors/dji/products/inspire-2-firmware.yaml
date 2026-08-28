@@ -1,0 +1,10 @@
+id: inspire-2-firmware
+vendor_id: dji
+name: Inspire 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dji:inspire_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inspire_2_firmware
+  confidence: auto

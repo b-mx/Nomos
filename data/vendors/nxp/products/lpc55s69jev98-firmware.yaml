@@ -1,0 +1,10 @@
+id: lpc55s69jev98-firmware
+vendor_id: nxp
+name: Lpc55S69Jev98 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:lpc55s69jev98_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lpc55s69jev98_firmware
+  confidence: auto

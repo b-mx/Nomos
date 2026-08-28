@@ -1,0 +1,10 @@
+id: stm32cubemx
+vendor_id: st
+name: Stm32Cubemx
+type: software
+tags: []
+cpe: cpe:2.3:a:st:stm32cubemx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32cubemx
+  confidence: auto

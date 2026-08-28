@@ -1,0 +1,10 @@
+id: np-p502wl-firmware
+vendor_id: sharp
+name: Np-P502Wl+ Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:np\-p502wl\+_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: np-p502wl+_firmware
+  confidence: auto

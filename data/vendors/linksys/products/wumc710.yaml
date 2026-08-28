@@ -1,0 +1,10 @@
+id: wumc710
+vendor_id: linksys
+name: Wumc710
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wumc710:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wumc710
+  confidence: auto

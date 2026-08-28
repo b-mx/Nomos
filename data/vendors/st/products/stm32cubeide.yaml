@@ -1,0 +1,10 @@
+id: stm32cubeide
+vendor_id: st
+name: Stm32Cubeide
+type: software
+tags: []
+cpe: cpe:2.3:a:st:stm32cubeide:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32cubeide
+  confidence: auto

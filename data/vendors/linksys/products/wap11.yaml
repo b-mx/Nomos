@@ -1,0 +1,10 @@
+id: wap11
+vendor_id: linksys
+name: Wap11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wap11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wap11
+  confidence: auto

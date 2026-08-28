@@ -1,0 +1,10 @@
+id: envy-6000-5se17a
+vendor_id: hp
+name: Envy 6000 5Se17A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_6000_5se17a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6000_5se17a
+  confidence: auto

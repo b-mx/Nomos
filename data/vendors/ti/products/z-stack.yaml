@@ -1,0 +1,10 @@
+id: z-stack
+vendor_id: ti
+name: Z-Stack
+type: software
+tags: []
+cpe: cpe:2.3:a:ti:z\-stack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z-stack
+  confidence: auto

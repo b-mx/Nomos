@@ -1,0 +1,10 @@
+id: s5700s-li-firmware
+vendor_id: huawei
+name: S5700S-Li Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:s5700s\-li_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5700s-li_firmware
+  confidence: auto

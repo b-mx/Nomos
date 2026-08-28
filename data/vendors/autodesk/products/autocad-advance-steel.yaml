@@ -1,0 +1,10 @@
+id: autocad-advance-steel
+vendor_id: autodesk
+name: Autocad Advance Steel
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autocad_advance_steel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocad_advance_steel
+  confidence: auto

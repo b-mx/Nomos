@@ -1,0 +1,10 @@
+id: echo-spot
+vendor_id: amazon
+name: Echo Spot
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amazon:echo_spot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echo_spot
+  confidence: auto

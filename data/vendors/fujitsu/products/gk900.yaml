@@ -1,0 +1,10 @@
+id: gk900
+vendor_id: fujitsu
+name: Gk900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:gk900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gk900
+  confidence: auto

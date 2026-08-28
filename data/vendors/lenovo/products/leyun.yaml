@@ -1,0 +1,10 @@
+id: leyun
+vendor_id: lenovo
+name: Leyun
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:leyun:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: leyun
+  confidence: auto

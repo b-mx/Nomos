@@ -1,0 +1,10 @@
+id: melsec-wincpu-setting-utility
+vendor_id: mitsubishielectric
+name: Melsec Wincpu Setting Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:melsec_wincpu_setting_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_wincpu_setting_utility
+  confidence: auto

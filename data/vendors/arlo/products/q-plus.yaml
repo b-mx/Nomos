@@ -1,0 +1,10 @@
+id: q-plus
+vendor_id: arlo
+name: Q Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arlo:q_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q_plus
+  confidence: auto

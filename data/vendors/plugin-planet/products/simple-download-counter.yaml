@@ -1,0 +1,10 @@
+id: simple-download-counter
+vendor_id: plugin-planet
+name: Simple Download Counter
+type: software
+tags: []
+cpe: cpe:2.3:a:plugin\-planet:simple_download_counter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_download_counter
+  confidence: auto

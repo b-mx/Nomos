@@ -1,0 +1,7 @@
+id: opensuse-project
+name: Opensuse Project
+cpe: cpe:2.3:*:opensuse_project:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensuse_project
+  confidence: auto

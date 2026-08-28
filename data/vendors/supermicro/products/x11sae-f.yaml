@@ -1,0 +1,10 @@
+id: x11sae-f
+vendor_id: supermicro
+name: X11Sae-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11sae\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sae-f
+  confidence: auto

@@ -1,0 +1,10 @@
+id: spectre-pro-13-g1
+vendor_id: hp
+name: Spectre Pro 13 G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_pro_13_g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_pro_13_g1
+  confidence: auto

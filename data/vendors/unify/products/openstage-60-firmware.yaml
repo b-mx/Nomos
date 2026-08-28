@@ -1,0 +1,10 @@
+id: openstage-60-firmware
+vendor_id: unify
+name: Openstage 60 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:unify:openstage_60_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstage_60_firmware
+  confidence: auto

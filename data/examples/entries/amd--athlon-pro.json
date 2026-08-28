@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--athlon-pro",
+  "vendor_id": "amd",
+  "product_id": "athlon-pro",
+  "name": "Athlon Pro",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "athlon_pro",
+      "confidence": "auto"
+    }
+  ]
+}

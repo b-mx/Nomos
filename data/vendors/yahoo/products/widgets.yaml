@@ -1,0 +1,10 @@
+id: widgets
+vendor_id: yahoo
+name: Widgets
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:widgets:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: widgets
+  confidence: auto

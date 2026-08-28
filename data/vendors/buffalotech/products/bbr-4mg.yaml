@@ -1,0 +1,10 @@
+id: bbr-4mg
+vendor_id: buffalotech
+name: Bbr-4Mg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:bbr\-4mg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bbr-4mg
+  confidence: auto

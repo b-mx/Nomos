@@ -1,0 +1,10 @@
+id: triple-x-knx-m-bus
+vendor_id: mbs-solutions
+name: Triple-X Knx+M-Bus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:triple\-x_knx\+m\-bus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: triple-x_knx+m-bus
+  confidence: auto

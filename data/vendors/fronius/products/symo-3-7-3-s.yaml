@@ -1,0 +1,10 @@
+id: symo-3-7-3-s
+vendor_id: fronius
+name: Symo 3.7-3-S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fronius:symo_3\.7\-3\-s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symo_3.7-3-s
+  confidence: auto

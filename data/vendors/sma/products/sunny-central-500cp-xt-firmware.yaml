@@ -1,0 +1,10 @@
+id: sunny-central-500cp-xt-firmware
+vendor_id: sma
+name: Sunny Central 500Cp Xt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sma:sunny_central_500cp_xt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_central_500cp_xt_firmware
+  confidence: auto

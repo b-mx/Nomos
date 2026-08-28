@@ -1,0 +1,10 @@
+id: adam-5550-firmware
+vendor_id: advantech
+name: Adam-5550 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:advantech:adam\-5550_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adam-5550_firmware
+  confidence: auto

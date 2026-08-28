@@ -1,0 +1,10 @@
+id: stm32f051r6
+vendor_id: st
+name: Stm32F051R6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32f051r6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f051r6
+  confidence: auto

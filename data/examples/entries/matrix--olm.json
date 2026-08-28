@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "matrix--olm",
+  "vendor_id": "matrix",
+  "product_id": "olm",
+  "name": "Olm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "olm",
+      "confidence": "auto"
+    }
+  ]
+}

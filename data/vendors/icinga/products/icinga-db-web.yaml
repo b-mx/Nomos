@@ -1,0 +1,10 @@
+id: icinga-db-web
+vendor_id: icinga
+name: Icinga Db Web
+type: software
+tags: []
+cpe: cpe:2.3:a:icinga:icinga_db_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icinga_db_web
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cj2h-cpu68-eip-firmware
+vendor_id: omron
+name: Cj2H-Cpu68-Eip Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cj2h\-cpu68\-eip_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cj2h-cpu68-eip_firmware
+  confidence: auto

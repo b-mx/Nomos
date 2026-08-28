@@ -1,0 +1,10 @@
+id: gallery-photoblocks
+vendor_id: wpchill
+name: Gallery Photoblocks
+type: software
+tags: []
+cpe: cpe:2.3:a:wpchill:gallery_photoblocks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gallery_photoblocks
+  confidence: auto

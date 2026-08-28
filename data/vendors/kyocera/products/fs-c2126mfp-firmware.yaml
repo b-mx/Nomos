@@ -1,0 +1,10 @@
+id: fs-c2126mfp-firmware
+vendor_id: kyocera
+name: Fs-C2126Mfp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kyocera:fs\-c2126mfp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fs-c2126mfp_firmware
+  confidence: auto

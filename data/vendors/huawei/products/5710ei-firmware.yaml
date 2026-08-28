@@ -1,0 +1,10 @@
+id: 5710ei-firmware
+vendor_id: huawei
+name: 5710Ei Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:5710ei_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5710ei_firmware
+  confidence: auto

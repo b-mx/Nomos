@@ -1,0 +1,10 @@
+id: 3320-indoor-mesh-router
+vendor_id: tropos
+name: 3320 Indoor Mesh Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tropos:3320_indoor_mesh_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3320_indoor_mesh_router
+  confidence: auto

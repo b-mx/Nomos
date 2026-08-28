@@ -1,0 +1,10 @@
+id: series-30i-firmware
+vendor_id: fanuc
+name: Series 30I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fanuc:series_30i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: series_30i_firmware
+  confidence: auto

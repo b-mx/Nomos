@@ -1,0 +1,10 @@
+id: d6310
+vendor_id: axis
+name: D6310
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:d6310:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d6310
+  confidence: auto

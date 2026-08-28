@@ -1,0 +1,10 @@
+id: b9s57c
+vendor_id: hp
+name: B9S57C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:b9s57c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b9s57c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wisprclient
+vendor_id: softbank
+name: Wisprclient
+type: software
+tags: []
+cpe: cpe:2.3:a:softbank:wisprclient:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wisprclient
+  confidence: auto

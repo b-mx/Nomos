@@ -1,0 +1,10 @@
+id: sd-advanced-8-12-16-vga-firmware
+vendor_id: netvu
+name: Sd-Advanced 8/12/16 Vga Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netvu:sd\-advanced_8\/12\/16_vga_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd-advanced_8/12/16_vga_firmware
+  confidence: auto

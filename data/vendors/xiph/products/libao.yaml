@@ -1,0 +1,10 @@
+id: libao
+vendor_id: xiph
+name: Libao
+type: software
+tags: []
+cpe: cpe:2.3:a:xiph:libao:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libao
+  confidence: auto

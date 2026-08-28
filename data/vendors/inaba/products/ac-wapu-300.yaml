@@ -1,0 +1,10 @@
+id: ac-wapu-300
+vendor_id: inaba
+name: Ac-Wapu-300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:inaba:ac\-wapu\-300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac-wapu-300
+  confidence: auto

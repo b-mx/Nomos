@@ -1,0 +1,10 @@
+id: tracker-miners
+vendor_id: gnome
+name: Tracker Miners
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:tracker_miners:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tracker_miners
+  confidence: auto

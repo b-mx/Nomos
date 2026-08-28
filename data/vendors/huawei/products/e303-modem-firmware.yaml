@@ -1,0 +1,10 @@
+id: e303-modem-firmware
+vendor_id: huawei
+name: E303 Modem Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:e303_modem_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e303_modem_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: electricity-consumption-monitoring-tool
+vendor_id: remyandrade
+name: Electricity Consumption Monitoring Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:electricity_consumption_monitoring_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: electricity_consumption_monitoring_tool
+  confidence: auto

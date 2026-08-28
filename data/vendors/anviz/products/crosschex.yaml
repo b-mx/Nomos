@@ -1,0 +1,10 @@
+id: crosschex
+vendor_id: anviz
+name: Crosschex
+type: software
+tags: []
+cpe: cpe:2.3:a:anviz:crosschex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crosschex
+  confidence: auto

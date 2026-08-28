@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--plugin-feed",
+  "vendor_id": "tenable",
+  "product_id": "plugin-feed",
+  "name": "Plugin Feed",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plugin_feed",
+      "confidence": "auto"
+    }
+  ]
+}

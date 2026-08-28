@@ -1,0 +1,10 @@
+id: interventional-workspot
+vendor_id: philips
+name: Interventional Workspot
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:interventional_workspot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interventional_workspot
+  confidence: auto

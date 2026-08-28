@@ -1,0 +1,10 @@
+id: e41-50
+vendor_id: lenovo
+name: E41-50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:e41\-50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e41-50
+  confidence: auto

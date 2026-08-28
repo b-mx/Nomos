@@ -1,0 +1,10 @@
+id: nview
+vendor_id: gentoo
+name: Nview
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:nview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nview
+  confidence: auto

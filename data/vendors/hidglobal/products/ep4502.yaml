@@ -1,0 +1,10 @@
+id: ep4502
+vendor_id: hidglobal
+name: Ep4502
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hidglobal:ep4502:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep4502
+  confidence: auto

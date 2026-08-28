@@ -1,0 +1,10 @@
+id: t420
+vendor_id: hp
+name: T420
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:t420:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t420
+  confidence: auto

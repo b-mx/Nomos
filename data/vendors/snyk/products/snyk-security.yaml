@@ -1,0 +1,10 @@
+id: snyk-security
+vendor_id: snyk
+name: Snyk Security
+type: software
+tags: []
+cpe: cpe:2.3:a:snyk:snyk_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snyk_security
+  confidence: auto

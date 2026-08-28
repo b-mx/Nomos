@@ -1,0 +1,10 @@
+id: d5510-firmware
+vendor_id: ricoh
+name: D5510 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:d5510_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d5510_firmware
+  confidence: auto

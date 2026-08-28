@@ -1,0 +1,10 @@
+id: cmt-ctrl01
+vendor_id: weintek
+name: Cmt-Ctrl01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weintek:cmt\-ctrl01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt-ctrl01
+  confidence: auto

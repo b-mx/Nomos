@@ -1,0 +1,10 @@
+id: sysmac-cj1g-cpu44p
+vendor_id: omron
+name: Sysmac Cj1G-Cpu44P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cj1g\-cpu44p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cj1g-cpu44p
+  confidence: auto

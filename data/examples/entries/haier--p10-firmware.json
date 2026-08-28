@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "haier--p10-firmware",
+  "vendor_id": "haier",
+  "product_id": "p10-firmware",
+  "name": "P10 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "p10_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

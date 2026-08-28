@@ -1,0 +1,10 @@
+id: cerebrum
+vendor_id: axiomthemes
+name: Cerebrum
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:cerebrum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cerebrum
+  confidence: auto

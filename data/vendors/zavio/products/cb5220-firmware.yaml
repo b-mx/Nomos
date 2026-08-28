@@ -1,0 +1,10 @@
+id: cb5220-firmware
+vendor_id: zavio
+name: Cb5220 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zavio:cb5220_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cb5220_firmware
+  confidence: auto

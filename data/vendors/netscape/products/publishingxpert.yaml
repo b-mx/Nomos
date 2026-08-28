@@ -1,0 +1,10 @@
+id: publishingxpert
+vendor_id: netscape
+name: Publishingxpert
+type: software
+tags: []
+cpe: cpe:2.3:a:netscape:publishingxpert:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: publishingxpert
+  confidence: auto

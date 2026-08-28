@@ -1,0 +1,10 @@
+id: lens
+vendor_id: poly
+name: Lens
+type: software
+tags: []
+cpe: cpe:2.3:a:poly:lens:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lens
+  confidence: auto

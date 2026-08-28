@@ -1,0 +1,10 @@
+id: zt610-firmware
+vendor_id: zebra
+name: Zt610 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zebra:zt610_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zt610_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jg404a-hp-msr3064-router
+vendor_id: hp
+name: Jg404A Hp Msr3064 Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg404a_hp_msr3064_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg404a_hp_msr3064_router
+  confidence: auto

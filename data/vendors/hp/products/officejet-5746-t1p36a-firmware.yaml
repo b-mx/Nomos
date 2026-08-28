@@ -1,0 +1,10 @@
+id: officejet-5746-t1p36a-firmware
+vendor_id: hp
+name: Officejet 5746 T1P36A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_5746_t1p36a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_5746_t1p36a_firmware
+  confidence: auto

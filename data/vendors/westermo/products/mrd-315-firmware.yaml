@@ -1,0 +1,10 @@
+id: mrd-315-firmware
+vendor_id: westermo
+name: Mrd-315 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westermo:mrd\-315_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mrd-315_firmware
+  confidence: auto

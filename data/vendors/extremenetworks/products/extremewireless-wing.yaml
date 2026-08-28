@@ -1,0 +1,10 @@
+id: extremewireless-wing
+vendor_id: extremenetworks
+name: Extremewireless Wing
+type: os
+tags: []
+cpe: cpe:2.3:o:extremenetworks:extremewireless_wing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: extremewireless_wing
+  confidence: auto

@@ -1,0 +1,10 @@
+id: td5130v2
+vendor_id: technicolor
+name: Td5130V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:td5130v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: td5130v2
+  confidence: auto

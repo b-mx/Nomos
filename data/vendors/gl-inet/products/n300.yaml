@@ -1,0 +1,10 @@
+id: n300
+vendor_id: gl-inet
+name: N300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:n300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n300
+  confidence: auto

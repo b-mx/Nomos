@@ -1,0 +1,10 @@
+id: topografix-data-plugin
+vendor_id: ni
+name: Topografix Data Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:topografix_data_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: topografix_data_plugin
+  confidence: auto

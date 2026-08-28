@@ -1,0 +1,10 @@
+id: reference-application
+vendor_id: openmrs
+name: Reference Application
+type: software
+tags: []
+cpe: cpe:2.3:a:openmrs:reference_application:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reference_application
+  confidence: auto

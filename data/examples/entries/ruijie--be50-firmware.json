@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ruijie--be50-firmware",
+  "vendor_id": "ruijie",
+  "product_id": "be50-firmware",
+  "name": "Be50 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "be50_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: f1h97
+vendor_id: hp
+name: F1H97
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f1h97:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f1h97
+  confidence: auto

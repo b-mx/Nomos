@@ -1,0 +1,10 @@
+id: notebook
+vendor_id: jupyter
+name: Notebook
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:notebook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook
+  confidence: auto

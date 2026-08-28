@@ -1,0 +1,10 @@
+id: sas-intrnet
+vendor_id: sas
+name: Sas/Intrnet
+type: software
+tags: []
+cpe: cpe:2.3:a:sas:sas\/intrnet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sas/intrnet
+  confidence: auto

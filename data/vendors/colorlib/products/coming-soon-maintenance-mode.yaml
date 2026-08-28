@@ -1,0 +1,10 @@
+id: coming-soon-maintenance-mode
+vendor_id: colorlib
+name: Coming Soon & Maintenance Mode
+type: software
+tags: []
+cpe: cpe:2.3:a:colorlib:coming_soon_\&_maintenance_mode:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coming_soon_&_maintenance_mode
+  confidence: auto

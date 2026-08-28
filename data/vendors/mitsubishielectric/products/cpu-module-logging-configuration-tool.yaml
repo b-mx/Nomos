@@ -1,0 +1,10 @@
+id: cpu-module-logging-configuration-tool
+vendor_id: mitsubishielectric
+name: Cpu Module Logging Configuration Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:cpu_module_logging_configuration_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpu_module_logging_configuration_tool
+  confidence: auto

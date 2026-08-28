@@ -1,0 +1,10 @@
+id: wonderware-intouch
+vendor_id: invensys
+name: Wonderware Intouch
+type: software
+tags: []
+cpe: cpe:2.3:a:invensys:wonderware_intouch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wonderware_intouch
+  confidence: auto

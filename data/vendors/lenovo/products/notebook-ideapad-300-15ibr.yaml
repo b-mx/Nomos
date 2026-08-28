@@ -1,0 +1,10 @@
+id: notebook-ideapad-300-15ibr
+vendor_id: lenovo
+name: Notebook Ideapad 300 15Ibr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:notebook_ideapad_300_15ibr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_ideapad_300_15ibr
+  confidence: auto

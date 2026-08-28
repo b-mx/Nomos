@@ -1,0 +1,10 @@
+id: panda3d
+vendor_id: cmu
+name: Panda3D
+type: software
+tags: []
+cpe: cpe:2.3:a:cmu:panda3d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: panda3d
+  confidence: auto

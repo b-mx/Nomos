@@ -1,0 +1,10 @@
+id: one-administration-server
+vendor_id: sun
+name: One Administration Server
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:one_administration_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_administration_server
+  confidence: auto

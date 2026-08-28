@@ -1,0 +1,10 @@
+id: dtmail
+vendor_id: sun
+name: Dtmail
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:dtmail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dtmail
+  confidence: auto

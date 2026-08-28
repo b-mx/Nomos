@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-network-controller",
+  "vendor_id": "ui",
+  "product_id": "unifi-network-controller",
+  "name": "Unifi Network Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_network_controller",
+      "confidence": "auto"
+    }
+  ]
+}

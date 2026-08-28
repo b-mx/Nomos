@@ -1,0 +1,10 @@
+id: zxiptv-ucm-firmware
+vendor_id: zte
+name: Zxiptv-Ucm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxiptv\-ucm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxiptv-ucm_firmware
+  confidence: auto

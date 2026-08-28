@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--local-path-provisioner",
+  "vendor_id": "suse",
+  "product_id": "local-path-provisioner",
+  "name": "Local Path Provisioner",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "local_path_provisioner",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: integrated-data-protection-appliance
+vendor_id: emc
+name: Integrated Data Protection Appliance
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:integrated_data_protection_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_data_protection_appliance
+  confidence: auto

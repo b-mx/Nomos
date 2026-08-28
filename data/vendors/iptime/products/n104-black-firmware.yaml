@@ -1,0 +1,10 @@
+id: n104-black-firmware
+vendor_id: iptime
+name: N104 Black Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n104_black_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n104_black_firmware
+  confidence: auto

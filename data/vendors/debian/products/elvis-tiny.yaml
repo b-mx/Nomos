@@ -1,0 +1,10 @@
+id: elvis-tiny
+vendor_id: debian
+name: Elvis Tiny
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:elvis_tiny:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elvis_tiny
+  confidence: auto

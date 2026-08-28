@@ -1,0 +1,10 @@
+id: x360-310-g2-convertible-pc
+vendor_id: hp
+name: X360 310 G2 Convertible Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:x360_310_g2_convertible_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x360_310_g2_convertible_pc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: epx-firmware
+vendor_id: peplink
+name: Epx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:epx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epx_firmware
+  confidence: auto

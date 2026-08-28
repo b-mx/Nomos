@@ -1,0 +1,10 @@
+id: bfsb1s0
+vendor_id: beronet
+name: Bfsb1S0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:beronet:bfsb1s0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bfsb1s0
+  confidence: auto

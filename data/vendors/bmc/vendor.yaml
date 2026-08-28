@@ -1,0 +1,7 @@
+id: bmc
+name: Bmc
+cpe: cpe:2.3:*:bmc:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bmc
+  confidence: auto

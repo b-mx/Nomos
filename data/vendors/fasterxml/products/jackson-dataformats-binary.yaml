@@ -1,0 +1,10 @@
+id: jackson-dataformats-binary
+vendor_id: fasterxml
+name: Jackson-Dataformats-Binary
+type: software
+tags: []
+cpe: cpe:2.3:a:fasterxml:jackson\-dataformats\-binary:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jackson-dataformats-binary
+  confidence: auto

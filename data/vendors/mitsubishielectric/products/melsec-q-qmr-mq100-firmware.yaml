@@ -1,0 +1,10 @@
+id: melsec-q-qmr-mq100-firmware
+vendor_id: mitsubishielectric
+name: Melsec Q-Qmr-Mq100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:melsec_q\-qmr\-mq100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q-qmr-mq100_firmware
+  confidence: auto

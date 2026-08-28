@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--m5270-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "m5270-firmware",
+  "name": "M5270 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m5270_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: coronary-tools
+vendor_id: philips
+name: Coronary Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:coronary_tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coronary_tools
+  confidence: auto

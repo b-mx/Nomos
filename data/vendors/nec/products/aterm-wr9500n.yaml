@@ -1,0 +1,10 @@
+id: aterm-wr9500n
+vendor_id: nec
+name: Aterm Wr9500N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wr9500n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wr9500n
+  confidence: auto

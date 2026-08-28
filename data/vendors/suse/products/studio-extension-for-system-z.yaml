@@ -1,0 +1,10 @@
+id: studio-extension-for-system-z
+vendor_id: suse
+name: Studio Extension For System Z
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:studio_extension_for_system_z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_extension_for_system_z
+  confidence: auto

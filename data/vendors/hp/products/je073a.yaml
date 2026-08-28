@@ -1,0 +1,10 @@
+id: je073a
+vendor_id: hp
+name: Je073A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je073a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je073a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: parallels-access
+vendor_id: parallels
+name: Parallels Access
+type: software
+tags: []
+cpe: cpe:2.3:a:parallels:parallels_access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: parallels_access
+  confidence: auto

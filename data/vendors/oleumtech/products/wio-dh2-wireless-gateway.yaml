@@ -1,0 +1,10 @@
+id: wio-dh2-wireless-gateway
+vendor_id: oleumtech
+name: Wio Dh2 Wireless Gateway
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oleumtech:wio_dh2_wireless_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wio_dh2_wireless_gateway
+  confidence: auto

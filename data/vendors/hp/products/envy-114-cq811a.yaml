@@ -1,0 +1,10 @@
+id: envy-114-cq811a
+vendor_id: hp
+name: Envy 114 Cq811A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_114_cq811a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_114_cq811a
+  confidence: auto

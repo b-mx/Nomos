@@ -1,0 +1,10 @@
+id: q304
+vendor_id: iptime
+name: Q304
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:q304:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q304
+  confidence: auto

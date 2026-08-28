@@ -1,0 +1,10 @@
+id: hb9908-firmware
+vendor_id: hbgk
+name: Hb9908 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb9908_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb9908_firmware
+  confidence: auto

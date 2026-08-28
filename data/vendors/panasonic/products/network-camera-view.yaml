@@ -1,0 +1,10 @@
+id: network-camera-view
+vendor_id: panasonic
+name: Network Camera View
+type: software
+tags: []
+cpe: cpe:2.3:a:panasonic:network_camera_view:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_camera_view
+  confidence: auto

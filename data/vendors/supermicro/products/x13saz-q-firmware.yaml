@@ -1,0 +1,10 @@
+id: x13saz-q-firmware
+vendor_id: supermicro
+name: X13Saz-Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x13saz\-q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13saz-q_firmware
+  confidence: auto

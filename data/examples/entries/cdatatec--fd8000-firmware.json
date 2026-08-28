@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cdatatec--fd8000-firmware",
+  "vendor_id": "cdatatec",
+  "product_id": "fd8000-firmware",
+  "name": "Fd8000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fd8000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

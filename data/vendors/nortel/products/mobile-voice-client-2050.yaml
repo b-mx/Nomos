@@ -1,0 +1,10 @@
+id: mobile-voice-client-2050
+vendor_id: nortel
+name: Mobile Voice Client 2050
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:mobile_voice_client_2050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile_voice_client_2050
+  confidence: auto

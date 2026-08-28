@@ -1,0 +1,10 @@
+id: linear-emerge-essential-firmware
+vendor_id: nortekcontrol
+name: Linear Emerge Essential Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nortekcontrol:linear_emerge_essential_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linear_emerge_essential_firmware
+  confidence: auto

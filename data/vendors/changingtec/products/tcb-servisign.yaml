@@ -1,0 +1,10 @@
+id: tcb-servisign
+vendor_id: changingtec
+name: Tcb Servisign
+type: software
+tags: []
+cpe: cpe:2.3:a:changingtec:tcb_servisign:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tcb_servisign
+  confidence: auto

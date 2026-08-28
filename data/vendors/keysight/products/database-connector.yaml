@@ -1,0 +1,10 @@
+id: database-connector
+vendor_id: keysight
+name: Database Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:keysight:database_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: database_connector
+  confidence: auto

@@ -1,0 +1,10 @@
+id: p1468-xle
+vendor_id: axis
+name: P1468-Xle
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p1468\-xle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p1468-xle
+  confidence: auto

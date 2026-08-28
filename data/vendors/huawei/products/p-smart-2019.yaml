@@ -1,0 +1,10 @@
+id: p-smart-2019
+vendor_id: huawei
+name: P Smart 2019
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p_smart_2019:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p_smart_2019
+  confidence: auto

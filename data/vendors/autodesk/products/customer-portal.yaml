@@ -1,0 +1,10 @@
+id: customer-portal
+vendor_id: autodesk
+name: Customer Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:customer_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: customer_portal
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--records-client",
+  "vendor_id": "emc",
+  "product_id": "records-client",
+  "name": "Records Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "records_client",
+      "confidence": "auto"
+    }
+  ]
+}

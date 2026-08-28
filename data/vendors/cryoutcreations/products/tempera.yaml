@@ -1,0 +1,10 @@
+id: tempera
+vendor_id: cryoutcreations
+name: Tempera
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:tempera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tempera
+  confidence: auto

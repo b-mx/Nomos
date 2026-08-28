@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--minimed-508-firmware",
+  "vendor_id": "medtronic",
+  "product_id": "minimed-508-firmware",
+  "name": "Minimed 508 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "minimed_508_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

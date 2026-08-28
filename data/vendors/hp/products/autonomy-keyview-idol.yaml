@@ -1,0 +1,10 @@
+id: autonomy-keyview-idol
+vendor_id: hp
+name: Autonomy Keyview Idol
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:autonomy_keyview_idol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autonomy_keyview_idol
+  confidence: auto

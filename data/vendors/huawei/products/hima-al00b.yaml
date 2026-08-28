@@ -1,0 +1,10 @@
+id: hima-al00b
+vendor_id: huawei
+name: Hima-Al00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hima\-al00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hima-al00b
+  confidence: auto

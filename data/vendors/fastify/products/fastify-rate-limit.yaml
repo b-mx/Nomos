@@ -1,0 +1,10 @@
+id: fastify-rate-limit
+vendor_id: fastify
+name: Fastify/Rate-Limit
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:fastify\/rate\-limit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastify/rate-limit
+  confidence: auto

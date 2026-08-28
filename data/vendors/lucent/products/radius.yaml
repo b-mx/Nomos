@@ -1,0 +1,10 @@
+id: radius
+vendor_id: lucent
+name: Radius
+type: software
+tags: []
+cpe: cpe:2.3:a:lucent:radius:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radius
+  confidence: auto

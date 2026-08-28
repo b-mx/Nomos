@@ -1,0 +1,10 @@
+id: deeplearning4j
+vendor_id: eclipse
+name: Deeplearning4J
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:deeplearning4j:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deeplearning4j
+  confidence: auto

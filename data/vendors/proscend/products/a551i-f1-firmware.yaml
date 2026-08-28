@@ -1,0 +1,10 @@
+id: a551i-f1-firmware
+vendor_id: proscend
+name: A551I-F1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:proscend:a551i\-f1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a551i-f1_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: uc-3430a-t-lte-wifi
+vendor_id: moxa
+name: Uc-3430A-T-Lte-Wifi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:uc\-3430a\-t\-lte\-wifi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-3430a-t-lte-wifi
+  confidence: auto

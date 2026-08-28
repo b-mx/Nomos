@@ -1,0 +1,10 @@
+id: workforce-optimization
+vendor_id: verint
+name: Workforce Optimization
+type: software
+tags: []
+cpe: cpe:2.3:a:verint:workforce_optimization:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workforce_optimization
+  confidence: auto

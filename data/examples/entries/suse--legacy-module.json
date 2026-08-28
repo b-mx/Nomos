@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--legacy-module",
+  "vendor_id": "suse",
+  "product_id": "legacy-module",
+  "name": "Legacy Module",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "legacy_module",
+      "confidence": "auto"
+    }
+  ]
+}

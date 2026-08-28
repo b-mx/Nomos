@@ -1,0 +1,10 @@
+id: elitebook-840-g6-healthcare-edition
+vendor_id: hp
+name: Elitebook 840 G6 Healthcare Edition
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_840_g6_healthcare_edition:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_840_g6_healthcare_edition
+  confidence: auto

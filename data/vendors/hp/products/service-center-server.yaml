@@ -1,0 +1,10 @@
+id: service-center-server
+vendor_id: hp
+name: Service Center Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:service_center_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_center_server
+  confidence: auto

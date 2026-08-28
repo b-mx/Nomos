@@ -1,0 +1,10 @@
+id: custom-admin-page
+vendor_id: bestwebsoft
+name: Custom Admin Page
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:custom_admin_page:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: custom_admin_page
+  confidence: auto

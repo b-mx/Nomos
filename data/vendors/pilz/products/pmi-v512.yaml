@@ -1,0 +1,10 @@
+id: pmi-v512
+vendor_id: pilz
+name: Pmi V512
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pilz:pmi_v512:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pmi_v512
+  confidence: auto

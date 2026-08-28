@@ -1,0 +1,10 @@
+id: slim-7-16arh7-firmware
+vendor_id: lenovo
+name: Slim 7 16Arh7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:slim_7_16arh7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slim_7_16arh7_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: twitter-kit
+vendor_id: twitter
+name: Twitter Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:twitter:twitter_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twitter_kit
+  confidence: auto

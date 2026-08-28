@@ -1,0 +1,10 @@
+id: k7s37a
+vendor_id: hp
+name: K7S37A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k7s37a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7s37a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tvmediahelper
+vendor_id: swisscom
+name: Tvmediahelper
+type: software
+tags: []
+cpe: cpe:2.3:a:swisscom:tvmediahelper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvmediahelper
+  confidence: auto

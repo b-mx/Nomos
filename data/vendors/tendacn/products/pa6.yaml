@@ -1,0 +1,10 @@
+id: pa6
+vendor_id: tendacn
+name: Pa6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:pa6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pa6
+  confidence: auto

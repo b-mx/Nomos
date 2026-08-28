@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "webfactoryltd--wp-force-ssl",
+  "vendor_id": "webfactoryltd",
+  "product_id": "wp-force-ssl",
+  "name": "Wp Force Ssl",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wp_force_ssl",
+      "confidence": "auto"
+    }
+  ]
+}

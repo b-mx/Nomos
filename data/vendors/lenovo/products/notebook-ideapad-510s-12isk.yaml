@@ -1,0 +1,10 @@
+id: notebook-ideapad-510s-12isk
+vendor_id: lenovo
+name: Notebook Ideapad 510S 12Isk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:notebook_ideapad_510s_12isk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_ideapad_510s_12isk
+  confidence: auto

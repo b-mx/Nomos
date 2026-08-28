@@ -1,0 +1,10 @@
+id: webarena-service-formmail
+vendor_id: ntt
+name: Webarena Service Formmail
+type: software
+tags: []
+cpe: cpe:2.3:a:ntt:webarena_service_formmail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webarena_service_formmail
+  confidence: auto

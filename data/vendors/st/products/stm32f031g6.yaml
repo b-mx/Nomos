@@ -1,0 +1,10 @@
+id: stm32f031g6
+vendor_id: st
+name: Stm32F031G6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32f031g6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f031g6
+  confidence: auto

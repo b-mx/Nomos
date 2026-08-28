@@ -1,0 +1,10 @@
+id: s2
+vendor_id: sonos
+name: S2
+type: software
+tags: []
+cpe: cpe:2.3:a:sonos:s2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s2
+  confidence: auto

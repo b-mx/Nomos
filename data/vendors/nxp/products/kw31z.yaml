@@ -1,0 +1,10 @@
+id: kw31z
+vendor_id: nxp
+name: Kw31Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:kw31z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kw31z
+  confidence: auto

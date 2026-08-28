@@ -1,0 +1,10 @@
+id: designjet-t930-l2y22a-firmware
+vendor_id: hp
+name: Designjet T930 L2Y22A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:designjet_t930_l2y22a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_t930_l2y22a_firmware
+  confidence: auto

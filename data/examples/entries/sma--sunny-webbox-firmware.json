@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sma--sunny-webbox-firmware",
+  "vendor_id": "sma",
+  "product_id": "sunny-webbox-firmware",
+  "name": "Sunny Webbox Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sunny_webbox_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

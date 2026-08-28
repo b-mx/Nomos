@@ -1,0 +1,10 @@
+id: optima-advance-firmware
+vendor_id: gehealthcare
+name: Optima Advance Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:optima_advance_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_advance_firmware
+  confidence: auto

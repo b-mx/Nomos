@@ -1,0 +1,10 @@
+id: discovery-530c-firmware
+vendor_id: gehealthcare
+name: Discovery 530C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:discovery_530c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_530c_firmware
+  confidence: auto

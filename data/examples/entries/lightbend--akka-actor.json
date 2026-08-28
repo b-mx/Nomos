@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lightbend--akka-actor",
+  "vendor_id": "lightbend",
+  "product_id": "akka-actor",
+  "name": "Akka Actor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "akka_actor",
+      "confidence": "auto"
+    }
+  ]
+}

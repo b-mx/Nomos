@@ -1,0 +1,10 @@
+id: cloud-backup
+vendor_id: netapp
+name: Cloud Backup
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:cloud_backup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_backup
+  confidence: auto

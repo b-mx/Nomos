@@ -1,0 +1,10 @@
+id: p99-firmware
+vendor_id: panasonic
+name: P99 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:panasonic:p99_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p99_firmware
+  confidence: auto

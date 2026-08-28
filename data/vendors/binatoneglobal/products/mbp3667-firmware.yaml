@@ -1,0 +1,10 @@
+id: mbp3667-firmware
+vendor_id: binatoneglobal
+name: Mbp3667 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:mbp3667_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbp3667_firmware
+  confidence: auto

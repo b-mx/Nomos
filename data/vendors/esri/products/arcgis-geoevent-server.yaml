@@ -1,0 +1,10 @@
+id: arcgis-geoevent-server
+vendor_id: esri
+name: Arcgis Geoevent Server
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:arcgis_geoevent_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcgis_geoevent_server
+  confidence: auto

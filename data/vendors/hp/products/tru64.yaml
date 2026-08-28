@@ -1,0 +1,10 @@
+id: tru64
+vendor_id: hp
+name: Tru64
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:tru64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tru64
+  confidence: auto

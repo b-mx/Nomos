@@ -1,0 +1,10 @@
+id: i-mx-8m-quad-firmware
+vendor_id: nxp
+name: I.Mx 8M Quad Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:i\.mx_8m_quad_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_8m_quad_firmware
+  confidence: auto

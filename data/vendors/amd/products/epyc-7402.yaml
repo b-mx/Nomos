@@ -1,0 +1,10 @@
+id: epyc-7402
+vendor_id: amd
+name: Epyc 7402
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_7402:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7402
+  confidence: auto

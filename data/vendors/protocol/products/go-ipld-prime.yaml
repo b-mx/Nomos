@@ -1,0 +1,10 @@
+id: go-ipld-prime
+vendor_id: protocol
+name: Go-Ipld-Prime
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:go\-ipld\-prime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go-ipld-prime
+  confidence: auto

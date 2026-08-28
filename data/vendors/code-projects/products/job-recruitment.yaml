@@ -1,0 +1,10 @@
+id: job-recruitment
+vendor_id: code-projects
+name: Job Recruitment
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:job_recruitment:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: job_recruitment
+  confidence: auto

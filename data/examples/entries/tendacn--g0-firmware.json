@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tendacn--g0-firmware",
+  "vendor_id": "tendacn",
+  "product_id": "g0-firmware",
+  "name": "G0 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "g0_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

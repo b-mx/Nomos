@@ -1,0 +1,10 @@
+id: viola-systems-arctic
+vendor_id: abb
+name: Viola Systems Arctic
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:viola_systems_arctic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viola_systems_arctic
+  confidence: auto

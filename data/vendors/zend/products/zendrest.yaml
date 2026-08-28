@@ -1,0 +1,10 @@
+id: zendrest
+vendor_id: zend
+name: Zendrest
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zendrest:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendrest
+  confidence: auto

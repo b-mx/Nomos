@@ -1,0 +1,10 @@
+id: helix-sync
+vendor_id: perforce
+name: Helix Sync
+type: software
+tags: []
+cpe: cpe:2.3:a:perforce:helix_sync:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: helix_sync
+  confidence: auto

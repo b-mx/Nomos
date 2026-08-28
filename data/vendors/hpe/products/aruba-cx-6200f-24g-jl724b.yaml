@@ -1,0 +1,10 @@
+id: aruba-cx-6200f-24g-jl724b
+vendor_id: hpe
+name: Aruba Cx 6200F 24G (Jl724B)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6200f_24g_\(jl724b\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6200f_24g_(jl724b)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: power-advisor
+vendor_id: hp
+name: Power Advisor
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:power_advisor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: power_advisor
+  confidence: auto

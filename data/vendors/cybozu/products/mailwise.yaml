@@ -1,0 +1,10 @@
+id: mailwise
+vendor_id: cybozu
+name: Mailwise
+type: software
+tags: []
+cpe: cpe:2.3:a:cybozu:mailwise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mailwise
+  confidence: auto

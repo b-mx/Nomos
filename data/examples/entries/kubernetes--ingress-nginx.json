@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--ingress-nginx",
+  "vendor_id": "kubernetes",
+  "product_id": "ingress-nginx",
+  "name": "Ingress-Nginx",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ingress-nginx",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: im-430fb
+vendor_id: ricoh
+name: Im 430Fb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_430fb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_430fb
+  confidence: auto

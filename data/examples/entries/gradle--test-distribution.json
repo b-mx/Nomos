@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gradle--test-distribution",
+  "vendor_id": "gradle",
+  "product_id": "test-distribution",
+  "name": "Test Distribution",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "test_distribution",
+      "confidence": "auto"
+    }
+  ]
+}

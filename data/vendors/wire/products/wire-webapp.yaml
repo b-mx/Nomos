@@ -1,0 +1,10 @@
+id: wire-webapp
+vendor_id: wire
+name: Wire-Webapp
+type: software
+tags: []
+cpe: cpe:2.3:a:wire:wire\-webapp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wire-webapp
+  confidence: auto

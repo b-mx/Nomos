@@ -1,0 +1,10 @@
+id: manager
+vendor_id: suse
+name: Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manager
+  confidence: auto

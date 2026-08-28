@@ -1,0 +1,10 @@
+id: mandrake-multi-network-firewall
+vendor_id: mandrakesoft
+name: Mandrake Multi Network Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:mandrakesoft:mandrake_multi_network_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mandrake_multi_network_firewall
+  confidence: auto

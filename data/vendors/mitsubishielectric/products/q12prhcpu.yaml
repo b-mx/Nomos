@@ -1,0 +1,10 @@
+id: q12prhcpu
+vendor_id: mitsubishielectric
+name: Q12Prhcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:q12prhcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q12prhcpu
+  confidence: auto

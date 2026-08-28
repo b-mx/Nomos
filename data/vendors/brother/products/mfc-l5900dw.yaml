@@ -1,0 +1,10 @@
+id: mfc-l5900dw
+vendor_id: brother
+name: Mfc-L5900Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-l5900dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l5900dw
+  confidence: auto

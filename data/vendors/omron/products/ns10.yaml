@@ -1,0 +1,10 @@
+id: ns10
+vendor_id: omron
+name: Ns10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:ns10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ns10
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--pivotal-container-service",
+  "vendor_id": "pivotal-software",
+  "product_id": "pivotal-container-service",
+  "name": "Pivotal Container Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pivotal_container_service",
+      "confidence": "auto"
+    }
+  ]
+}

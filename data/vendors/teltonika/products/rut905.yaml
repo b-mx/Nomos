@@ -1,0 +1,10 @@
+id: rut905
+vendor_id: teltonika
+name: Rut905
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika:rut905:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rut905
+  confidence: auto

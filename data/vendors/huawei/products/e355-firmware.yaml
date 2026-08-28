@@ -1,0 +1,10 @@
+id: e355-firmware
+vendor_id: huawei
+name: E355 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:e355_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e355_firmware
+  confidence: auto

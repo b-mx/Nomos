@@ -1,0 +1,10 @@
+id: soapui
+vendor_id: smartbear
+name: Soapui
+type: software
+tags: []
+cpe: cpe:2.3:a:smartbear:soapui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soapui
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hdx-7002
+vendor_id: polycom
+name: Hdx 7002
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:hdx_7002:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdx_7002
+  confidence: auto

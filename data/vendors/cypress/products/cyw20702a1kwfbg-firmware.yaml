@@ -1,0 +1,10 @@
+id: cyw20702a1kwfbg-firmware
+vendor_id: cypress
+name: Cyw20702A1Kwfbg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cypress:cyw20702a1kwfbg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyw20702a1kwfbg_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 20hu
+vendor_id: lenovo
+name: 20Hu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20hu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20hu
+  confidence: auto

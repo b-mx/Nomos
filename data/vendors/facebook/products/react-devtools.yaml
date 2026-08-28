@@ -1,0 +1,10 @@
+id: react-devtools
+vendor_id: facebook
+name: React-Devtools
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:react\-devtools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: react-devtools
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x9drd-c-n-t-firmware
+vendor_id: supermicro
+name: X9Drd-C(N)T+ Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9drd\-c\(n\)t\+_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drd-c(n)t+_firmware
+  confidence: auto

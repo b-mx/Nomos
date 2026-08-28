@@ -1,0 +1,10 @@
+id: rocket-chip-generator
+vendor_id: linuxfoundation
+name: Rocket Chip Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:rocket_chip_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rocket_chip_generator
+  confidence: auto

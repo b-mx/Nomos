@@ -1,0 +1,10 @@
+id: ionic
+vendor_id: ionic
+name: Ionic Framework
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: ionic
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bm2hp
+vendor_id: ui
+name: Bm2Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:bm2hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm2hp
+  confidence: auto

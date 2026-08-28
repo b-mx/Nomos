@@ -1,0 +1,10 @@
+id: elements-for-microsoft-365
+vendor_id: f-secure
+name: Elements For Microsoft 365
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:elements_for_microsoft_365:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elements_for_microsoft_365
+  confidence: auto

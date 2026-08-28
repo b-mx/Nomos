@@ -1,0 +1,10 @@
+id: performa
+vendor_id: bd
+name: Performa
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:performa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: performa
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 710s-plus-13ikb-16g-firmware
+vendor_id: hp
+name: 710S Plus-13Ikb 16G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:710s_plus\-13ikb_16g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 710s_plus-13ikb_16g_firmware
+  confidence: auto

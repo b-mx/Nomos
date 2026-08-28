@@ -1,0 +1,10 @@
+id: adaptive-server-anywhere
+vendor_id: sybase
+name: Adaptive Server Anywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:sybase:adaptive_server_anywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adaptive_server_anywhere
+  confidence: auto

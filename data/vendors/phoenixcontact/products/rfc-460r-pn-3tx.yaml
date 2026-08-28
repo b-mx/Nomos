@@ -1,0 +1,10 @@
+id: rfc-460r-pn-3tx
+vendor_id: phoenixcontact
+name: Rfc 460R Pn 3Tx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:rfc_460r_pn_3tx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfc_460r_pn_3tx
+  confidence: auto

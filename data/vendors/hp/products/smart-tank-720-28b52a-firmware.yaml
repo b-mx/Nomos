@@ -1,0 +1,10 @@
+id: smart-tank-720-28b52a-firmware
+vendor_id: hp
+name: Smart Tank 720 28B52A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:smart_tank_720_28b52a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_720_28b52a_firmware
+  confidence: auto

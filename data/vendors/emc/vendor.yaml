@@ -1,0 +1,7 @@
+id: emc
+name: Emc
+cpe: cpe:2.3:*:emc:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emc
+  confidence: auto

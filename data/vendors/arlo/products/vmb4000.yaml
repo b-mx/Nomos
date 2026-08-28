@@ -1,0 +1,10 @@
+id: vmb4000
+vendor_id: arlo
+name: Vmb4000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arlo:vmb4000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vmb4000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: omen-2s-15-dg0xxx
+vendor_id: hp
+name: Omen 2S 15-Dg0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_2s_15\-dg0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_2s_15-dg0xxx
+  confidence: auto

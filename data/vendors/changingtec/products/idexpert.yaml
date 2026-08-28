@@ -1,0 +1,10 @@
+id: idexpert
+vendor_id: changingtec
+name: Idexpert
+type: software
+tags: []
+cpe: cpe:2.3:a:changingtec:idexpert:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: idexpert
+  confidence: auto

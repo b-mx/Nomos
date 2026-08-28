@@ -1,0 +1,12 @@
+id: cnspec
+vendor_id: cnspec
+name: cnspec
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: cnspec
+  confidence: auto
+- source: nvd
+  value: cnspec
+  confidence: auto

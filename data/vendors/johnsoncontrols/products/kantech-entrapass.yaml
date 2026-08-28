@@ -1,0 +1,10 @@
+id: kantech-entrapass
+vendor_id: johnsoncontrols
+name: Kantech Entrapass
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:kantech_entrapass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kantech_entrapass
+  confidence: auto

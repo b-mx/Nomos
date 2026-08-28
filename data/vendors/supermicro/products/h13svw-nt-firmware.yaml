@@ -1,0 +1,10 @@
+id: h13svw-nt-firmware
+vendor_id: supermicro
+name: H13Svw-Nt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:h13svw\-nt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h13svw-nt_firmware
+  confidence: auto

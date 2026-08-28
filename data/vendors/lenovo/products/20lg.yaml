@@ -1,0 +1,10 @@
+id: 20lg
+vendor_id: lenovo
+name: 20Lg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20lg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20lg
+  confidence: auto

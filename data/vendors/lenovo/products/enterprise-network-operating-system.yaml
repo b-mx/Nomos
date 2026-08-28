@@ -1,0 +1,10 @@
+id: enterprise-network-operating-system
+vendor_id: lenovo
+name: Enterprise Network Operating System
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:enterprise_network_operating_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_network_operating_system
+  confidence: auto

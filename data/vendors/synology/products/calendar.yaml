@@ -1,0 +1,10 @@
+id: calendar
+vendor_id: synology
+name: Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: calendar
+  confidence: auto

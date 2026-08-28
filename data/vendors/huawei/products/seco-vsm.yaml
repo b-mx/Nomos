@@ -1,0 +1,10 @@
+id: seco-vsm
+vendor_id: huawei
+name: Seco Vsm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:seco_vsm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seco_vsm
+  confidence: auto

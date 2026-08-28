@@ -1,0 +1,10 @@
+id: x12sca-5f
+vendor_id: supermicro
+name: X12Sca-5F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12sca\-5f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12sca-5f
+  confidence: auto

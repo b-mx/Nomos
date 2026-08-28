@@ -1,0 +1,10 @@
+id: web-security-content-gateway
+vendor_id: forcepoint
+name: Web Security Content Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:web_security_content_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_security_content_gateway
+  confidence: auto

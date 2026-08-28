@@ -1,0 +1,10 @@
+id: rentic
+vendor_id: axiomthemes
+name: Rentic
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:rentic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rentic
+  confidence: auto

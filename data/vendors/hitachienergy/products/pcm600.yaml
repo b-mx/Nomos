@@ -1,0 +1,10 @@
+id: pcm600
+vendor_id: hitachienergy
+name: Pcm600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:pcm600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcm600
+  confidence: auto

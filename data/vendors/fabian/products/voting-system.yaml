@@ -1,0 +1,10 @@
+id: voting-system
+vendor_id: fabian
+name: Voting System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:voting_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: voting_system
+  confidence: auto

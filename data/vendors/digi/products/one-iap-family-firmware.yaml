@@ -1,0 +1,10 @@
+id: one-iap-family-firmware
+vendor_id: digi
+name: One Iap Family Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:one_iap_family_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_iap_family_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xarm-studio
+vendor_id: ufactory
+name: Xarm Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:ufactory:xarm_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xarm_studio
+  confidence: auto

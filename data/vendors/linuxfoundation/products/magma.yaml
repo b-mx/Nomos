@@ -1,0 +1,10 @@
+id: magma
+vendor_id: linuxfoundation
+name: Magma
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:magma:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magma
+  confidence: auto

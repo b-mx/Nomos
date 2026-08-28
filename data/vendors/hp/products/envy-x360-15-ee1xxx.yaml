@@ -1,0 +1,10 @@
+id: envy-x360-15-ee1xxx
+vendor_id: hp
+name: Envy X360 15-Ee1Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_x360_15\-ee1xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_x360_15-ee1xxx
+  confidence: auto

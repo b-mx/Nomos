@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudflare--zlib",
+  "vendor_id": "cloudflare",
+  "product_id": "zlib",
+  "name": "Zlib",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zlib",
+      "confidence": "auto"
+    }
+  ]
+}

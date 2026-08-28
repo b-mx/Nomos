@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opentext--netiq-privileged-account-manager",
+  "vendor_id": "opentext",
+  "product_id": "netiq-privileged-account-manager",
+  "name": "Netiq Privileged Account Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "netiq_privileged_account_manager",
+      "confidence": "auto"
+    }
+  ]
+}

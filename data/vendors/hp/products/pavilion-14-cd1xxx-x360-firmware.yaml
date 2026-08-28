@@ -1,0 +1,10 @@
+id: pavilion-14-cd1xxx-x360-firmware
+vendor_id: hp
+name: Pavilion 14-Cd1Xxx X360 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:pavilion_14\-cd1xxx_x360_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_14-cd1xxx_x360_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mx-5070v-firmware
+vendor_id: sharp
+name: Mx-5070V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-5070v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-5070v_firmware
+  confidence: auto

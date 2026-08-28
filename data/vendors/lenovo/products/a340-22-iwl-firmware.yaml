@@ -1,0 +1,10 @@
+id: a340-22-iwl-firmware
+vendor_id: lenovo
+name: A340-22 Iwl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:a340\-22_iwl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a340-22_iwl_firmware
+  confidence: auto

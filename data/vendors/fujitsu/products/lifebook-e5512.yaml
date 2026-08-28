@@ -1,0 +1,10 @@
+id: lifebook-e5512
+vendor_id: fujitsu
+name: Lifebook E5512
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:lifebook_e5512:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lifebook_e5512
+  confidence: auto

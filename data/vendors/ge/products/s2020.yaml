@@ -1,0 +1,10 @@
+id: s2020
+vendor_id: ge
+name: S2020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:s2020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s2020
+  confidence: auto

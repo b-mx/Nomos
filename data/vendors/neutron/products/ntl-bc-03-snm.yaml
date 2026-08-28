@@ -1,0 +1,10 @@
+id: ntl-bc-03-snm
+vendor_id: neutron
+name: Ntl-Bc-03-Snm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:neutron:ntl\-bc\-03\-snm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ntl-bc-03-snm
+  confidence: auto

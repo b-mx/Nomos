@@ -1,0 +1,10 @@
+id: service-desk
+vendor_id: novell
+name: Service Desk
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:service_desk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_desk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xperius
+vendor_id: philips
+name: Xperius
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:xperius:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xperius
+  confidence: auto

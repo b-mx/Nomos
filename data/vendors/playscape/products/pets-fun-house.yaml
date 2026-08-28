@@ -1,0 +1,10 @@
+id: pets-fun-house
+vendor_id: playscape
+name: Pets Fun House
+type: software
+tags: []
+cpe: cpe:2.3:a:playscape:pets_fun_house:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pets_fun_house
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--ftp-print-server",
+  "vendor_id": "hp",
+  "product_id": "ftp-print-server",
+  "name": "Ftp Print Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ftp_print_server",
+      "confidence": "auto"
+    }
+  ]
+}

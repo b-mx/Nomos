@@ -1,0 +1,10 @@
+id: breeze
+vendor_id: macromedia
+name: Breeze
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:breeze:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: breeze
+  confidence: auto

@@ -1,0 +1,10 @@
+id: print
+vendor_id: canon
+name: Print
+type: software
+tags: []
+cpe: cpe:2.3:a:canon:print:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: print
+  confidence: auto

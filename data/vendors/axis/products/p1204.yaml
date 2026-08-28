@@ -1,0 +1,10 @@
+id: p1204
+vendor_id: axis
+name: P1204
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p1204:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p1204
+  confidence: auto

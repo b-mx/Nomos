@@ -1,0 +1,13 @@
+id: kde-plasma
+vendor_id: kde
+name: KDE Plasma
+type: os
+tags: []
+cpe: cpe:2.3:a:kde:plasma:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: kde-plasma
+  confidence: auto
+- source: nvd
+  value: plasma
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ewave-servletexec
+vendor_id: unify
+name: Ewave Servletexec
+type: software
+tags: []
+cpe: cpe:2.3:a:unify:ewave_servletexec:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ewave_servletexec
+  confidence: auto

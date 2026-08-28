@@ -1,0 +1,10 @@
+id: control-for-linux-sl
+vendor_id: codesys
+name: Control For Linux Sl
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_for_linux_sl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_for_linux_sl
+  confidence: auto

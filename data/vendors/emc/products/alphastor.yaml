@@ -1,0 +1,10 @@
+id: alphastor
+vendor_id: emc
+name: Alphastor
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:alphastor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alphastor
+  confidence: auto

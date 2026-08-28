@@ -1,0 +1,10 @@
+id: nextseq-500-firmware
+vendor_id: illumina
+name: Nextseq 500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:illumina:nextseq_500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextseq_500_firmware
+  confidence: auto

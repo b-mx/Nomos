@@ -1,0 +1,10 @@
+id: s8500
+vendor_id: huawei
+name: S8500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s8500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8500
+  confidence: auto

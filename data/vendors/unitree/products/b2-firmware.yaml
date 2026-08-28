@@ -1,0 +1,10 @@
+id: b2-firmware
+vendor_id: unitree
+name: B2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:unitree:b2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b2_firmware
+  confidence: auto

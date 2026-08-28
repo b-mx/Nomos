@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--jumpstart",
+  "vendor_id": "hp",
+  "product_id": "jumpstart",
+  "name": "Jumpstart",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jumpstart",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: eluga-ray-600
+vendor_id: panasonic
+name: Eluga Ray 600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:panasonic:eluga_ray_600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eluga_ray_600
+  confidence: auto

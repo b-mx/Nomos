@@ -1,0 +1,10 @@
+id: cobol2002-net-server-suite
+vendor_id: hitachi
+name: Cobol2002 Net Server Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:cobol2002_net_server_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cobol2002_net_server_suite
+  confidence: auto

@@ -1,0 +1,10 @@
+id: elitedisplay-e202-20-inch-firmware
+vendor_id: hp
+name: Elitedisplay E202 20-Inch Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitedisplay_e202_20\-inch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitedisplay_e202_20-inch_firmware
+  confidence: auto

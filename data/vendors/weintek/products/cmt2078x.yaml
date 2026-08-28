@@ -1,0 +1,10 @@
+id: cmt2078x
+vendor_id: weintek
+name: Cmt2078X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weintek:cmt2078x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt2078x
+  confidence: auto

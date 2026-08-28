@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--vagrant-vmware-utility",
+  "vendor_id": "hashicorp",
+  "product_id": "vagrant-vmware-utility",
+  "name": "Vagrant Vmware Utility",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vagrant_vmware_utility",
+      "confidence": "auto"
+    }
+  ]
+}

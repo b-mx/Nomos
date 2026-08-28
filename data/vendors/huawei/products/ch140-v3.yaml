@@ -1,0 +1,10 @@
+id: ch140-v3
+vendor_id: huawei
+name: Ch140 V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ch140_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch140_v3
+  confidence: auto

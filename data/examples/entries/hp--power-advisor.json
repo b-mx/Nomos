@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--power-advisor",
+  "vendor_id": "hp",
+  "product_id": "power-advisor",
+  "name": "Power Advisor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "power_advisor",
+      "confidence": "auto"
+    }
+  ]
+}

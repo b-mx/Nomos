@@ -1,0 +1,10 @@
+id: msa-1060-storage-firmware
+vendor_id: hpe
+name: Msa 1060 Storage Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:msa_1060_storage_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msa_1060_storage_firmware
+  confidence: auto

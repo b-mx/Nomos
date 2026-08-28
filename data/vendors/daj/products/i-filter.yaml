@@ -1,0 +1,10 @@
+id: i-filter
+vendor_id: daj
+name: I-Filter
+type: software
+tags: []
+cpe: cpe:2.3:a:daj:i\-filter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i-filter
+  confidence: auto

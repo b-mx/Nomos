@@ -1,9 +1,8 @@
 id: ac11-router
 vendor_id: tenda
 name: AC11 Router
-type: hardware
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: AC11 Router

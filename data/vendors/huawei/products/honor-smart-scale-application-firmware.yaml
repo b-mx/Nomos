@@ -1,0 +1,10 @@
+id: honor-smart-scale-application-firmware
+vendor_id: huawei
+name: Honor Smart Scale Application Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:honor_smart_scale_application_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_smart_scale_application_firmware
+  confidence: auto

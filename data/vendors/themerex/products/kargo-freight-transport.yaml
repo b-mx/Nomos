@@ -1,0 +1,10 @@
+id: kargo-freight-transport
+vendor_id: themerex
+name: Kargo-Freight Transport
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:kargo\-freight_transport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kargo-freight_transport
+  confidence: auto

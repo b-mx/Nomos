@@ -1,0 +1,10 @@
+id: active-iq-unified-manager
+vendor_id: netapp
+name: Active Iq Unified Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_iq_unified_manager
+  confidence: auto

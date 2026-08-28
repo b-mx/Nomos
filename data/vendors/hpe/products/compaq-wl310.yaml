@@ -1,0 +1,10 @@
+id: compaq-wl310
+vendor_id: hpe
+name: Compaq Wl310
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:compaq_wl310:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compaq_wl310
+  confidence: auto

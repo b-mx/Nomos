@@ -1,0 +1,10 @@
+id: synergy-a-firmware
+vendor_id: synel
+name: Synergy/A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:synel:synergy\/a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy/a_firmware
+  confidence: auto

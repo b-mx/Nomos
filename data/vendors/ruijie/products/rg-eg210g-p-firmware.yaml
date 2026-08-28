@@ -1,0 +1,10 @@
+id: rg-eg210g-p-firmware
+vendor_id: ruijie
+name: Rg-Eg210G-P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-eg210g\-p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-eg210g-p_firmware
+  confidence: auto

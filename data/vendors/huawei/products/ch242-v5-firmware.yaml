@@ -1,0 +1,10 @@
+id: ch242-v5-firmware
+vendor_id: huawei
+name: Ch242 V5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ch242_v5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch242_v5_firmware
+  confidence: auto

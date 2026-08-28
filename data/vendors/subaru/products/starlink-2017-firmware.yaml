@@ -1,0 +1,10 @@
+id: starlink-2017-firmware
+vendor_id: subaru
+name: Starlink 2017 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:subaru:starlink_2017_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: starlink_2017_firmware
+  confidence: auto

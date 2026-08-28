@@ -1,0 +1,10 @@
+id: bus-node-cpx-fb32-firmware
+vendor_id: festo
+name: Bus Node Cpx-Fb32 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:bus_node_cpx\-fb32_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bus_node_cpx-fb32_firmware
+  confidence: auto

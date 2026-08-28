@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--reportbug",
+  "vendor_id": "debian",
+  "product_id": "reportbug",
+  "name": "Reportbug",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "reportbug",
+      "confidence": "auto"
+    }
+  ]
+}

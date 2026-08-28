@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eset--endpoint-encryption",
+  "vendor_id": "eset",
+  "product_id": "endpoint-encryption",
+  "name": "Endpoint Encryption",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "endpoint_encryption",
+      "confidence": "auto"
+    }
+  ]
+}

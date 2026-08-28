@@ -1,0 +1,7 @@
+id: insteon
+name: Insteon
+cpe: cpe:2.3:*:insteon:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insteon
+  confidence: auto

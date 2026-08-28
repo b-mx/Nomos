@@ -1,0 +1,10 @@
+id: cp1l-l10dt-a-firmware
+vendor_id: omron
+name: Cp1L-L10Dt-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1l\-l10dt\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1l-l10dt-a_firmware
+  confidence: auto

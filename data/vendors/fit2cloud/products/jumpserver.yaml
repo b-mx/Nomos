@@ -1,0 +1,10 @@
+id: jumpserver
+vendor_id: fit2cloud
+name: Jumpserver
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:jumpserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jumpserver
+  confidence: auto

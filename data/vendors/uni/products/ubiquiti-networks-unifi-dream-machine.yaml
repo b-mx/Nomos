@@ -1,0 +1,10 @@
+id: ubiquiti-networks-unifi-dream-machine
+vendor_id: uni
+name: Ubiquiti Networks Unifi Dream Machine
+type: hardware
+tags: []
+cpe: cpe:2.3:h:uni:ubiquiti_networks_unifi_dream_machine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubiquiti_networks_unifi_dream_machine
+  confidence: auto

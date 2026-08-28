@@ -1,0 +1,10 @@
+id: nova-3i
+vendor_id: huawei
+name: Nova 3I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nova_3i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova_3i
+  confidence: auto

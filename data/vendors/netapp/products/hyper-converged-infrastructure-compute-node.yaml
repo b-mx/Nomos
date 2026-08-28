@@ -1,0 +1,10 @@
+id: hyper-converged-infrastructure-compute-node
+vendor_id: netapp
+name: Hyper Converged Infrastructure Compute Node
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:hyper_converged_infrastructure_compute_node:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hyper_converged_infrastructure_compute_node
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rg-es216gc-v2-firmware
+vendor_id: ruijie
+name: Rg-Es216Gc-V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-es216gc\-v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-es216gc-v2_firmware
+  confidence: auto

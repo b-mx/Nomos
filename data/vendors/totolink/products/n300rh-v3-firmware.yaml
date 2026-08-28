@@ -1,0 +1,10 @@
+id: n300rh-v3-firmware
+vendor_id: totolink
+name: N300Rh-V3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:n300rh\-v3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n300rh-v3_firmware
+  confidence: auto

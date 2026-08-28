@@ -1,0 +1,10 @@
+id: sel-3620-firmware
+vendor_id: selinc
+name: Sel-3620 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:selinc:sel\-3620_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sel-3620_firmware
+  confidence: auto

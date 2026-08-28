@@ -1,0 +1,10 @@
+id: synergy-10
+vendor_id: synel
+name: Synergy 10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synel:synergy_10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy_10
+  confidence: auto

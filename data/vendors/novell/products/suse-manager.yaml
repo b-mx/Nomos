@@ -1,0 +1,10 @@
+id: suse-manager
+vendor_id: novell
+name: Suse Manager
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:suse_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_manager
+  confidence: auto

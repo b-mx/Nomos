@@ -1,0 +1,10 @@
+id: jetwave-2311
+vendor_id: korenix
+name: Jetwave 2311
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetwave_2311:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_2311
+  confidence: auto

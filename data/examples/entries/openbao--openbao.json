@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openbao--openbao",
+  "vendor_id": "openbao",
+  "product_id": "openbao",
+  "name": "OpenBao",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "openbao",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: a1srm-2558f-firmware
+vendor_id: supermicro
+name: A1Srm-2558F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:a1srm\-2558f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1srm-2558f_firmware
+  confidence: auto

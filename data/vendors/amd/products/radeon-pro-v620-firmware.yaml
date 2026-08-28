@@ -1,0 +1,10 @@
+id: radeon-pro-v620-firmware
+vendor_id: amd
+name: Radeon Pro V620 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:radeon_pro_v620_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radeon_pro_v620_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tendacn--i29-firmware",
+  "vendor_id": "tendacn",
+  "product_id": "i29-firmware",
+  "name": "I29 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "i29_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

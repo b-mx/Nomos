@@ -1,0 +1,10 @@
+id: ideacentre-e96z
+vendor_id: lenovo
+name: Ideacentre E96Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_e96z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_e96z
+  confidence: auto

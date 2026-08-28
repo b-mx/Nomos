@@ -1,0 +1,10 @@
+id: ms826
+vendor_id: lexmark
+name: Ms826
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms826:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms826
+  confidence: auto

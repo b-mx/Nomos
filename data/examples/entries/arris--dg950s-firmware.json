@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arris--dg950s-firmware",
+  "vendor_id": "arris",
+  "product_id": "dg950s-firmware",
+  "name": "Dg950S Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dg950s_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

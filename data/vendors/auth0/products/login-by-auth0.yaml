@@ -1,0 +1,10 @@
+id: login-by-auth0
+vendor_id: auth0
+name: Login By Auth0
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:login_by_auth0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: login_by_auth0
+  confidence: auto

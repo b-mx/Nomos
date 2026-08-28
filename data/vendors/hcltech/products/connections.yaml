@@ -1,0 +1,10 @@
+id: connections
+vendor_id: hcltech
+name: Connections
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:connections:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connections
+  confidence: auto

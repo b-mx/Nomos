@@ -1,0 +1,7 @@
+id: avast
+name: Avast
+cpe: cpe:2.3:*:avast:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avast
+  confidence: auto

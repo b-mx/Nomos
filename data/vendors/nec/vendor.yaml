@@ -1,0 +1,7 @@
+id: nec
+name: Nec
+cpe: cpe:2.3:*:nec:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec
+  confidence: auto

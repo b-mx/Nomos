@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pickplugins--user-verification",
+  "vendor_id": "pickplugins",
+  "product_id": "user-verification",
+  "name": "User Verification",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "user_verification",
+      "confidence": "auto"
+    }
+  ]
+}

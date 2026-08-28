@@ -1,0 +1,10 @@
+id: x12scz-f
+vendor_id: supermicro
+name: X12Scz-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12scz\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12scz-f
+  confidence: auto

@@ -1,0 +1,10 @@
+id: envy-6052-5se18a
+vendor_id: hp
+name: Envy 6052 5Se18A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_6052_5se18a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6052_5se18a
+  confidence: auto

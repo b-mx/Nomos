@@ -1,0 +1,10 @@
+id: wd-my-book-live-duo-firmware
+vendor_id: westerndigital
+name: Wd My Book Live Duo Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westerndigital:wd_my_book_live_duo_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wd_my_book_live_duo_firmware
+  confidence: auto

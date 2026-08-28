@@ -1,0 +1,10 @@
+id: ar2200
+vendor_id: huawei
+name: Ar2200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar2200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar2200
+  confidence: auto

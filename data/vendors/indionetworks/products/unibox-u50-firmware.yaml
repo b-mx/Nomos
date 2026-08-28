@@ -1,0 +1,10 @@
+id: unibox-u50-firmware
+vendor_id: indionetworks
+name: Unibox U50 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:indionetworks:unibox_u50_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unibox_u50_firmware
+  confidence: auto

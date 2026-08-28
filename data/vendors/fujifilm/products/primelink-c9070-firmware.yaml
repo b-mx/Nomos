@@ -1,0 +1,10 @@
+id: primelink-c9070-firmware
+vendor_id: fujifilm
+name: Primelink C9070 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:primelink_c9070_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primelink_c9070_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: check-bin-grader-firmware
+vendor_id: marel
+name: Check Bin Grader Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:check_bin_grader_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: check_bin_grader_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--backstage-backend-common",
+  "vendor_id": "linuxfoundation",
+  "product_id": "backstage-backend-common",
+  "name": "Backstage Backend-Common",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "backstage_backend-common",
+      "confidence": "auto"
+    }
+  ]
+}

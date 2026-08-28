@@ -1,0 +1,10 @@
+id: x-320m-i-firmware
+vendor_id: controlbyweb
+name: X-320M-I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:controlbyweb:x\-320m\-i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-320m-i_firmware
+  confidence: auto

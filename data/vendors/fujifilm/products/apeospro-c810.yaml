@@ -1,0 +1,10 @@
+id: apeospro-c810
+vendor_id: fujifilm
+name: Apeospro C810
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeospro_c810:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeospro_c810
+  confidence: auto

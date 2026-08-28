@@ -1,0 +1,10 @@
+id: niagara-enterprise-security
+vendor_id: tridium
+name: Niagara Enterprise Security
+type: software
+tags: []
+cpe: cpe:2.3:a:tridium:niagara_enterprise_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: niagara_enterprise_security
+  confidence: auto

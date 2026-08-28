@@ -1,0 +1,10 @@
+id: rv-12sq
+vendor_id: mitsubishielectric
+name: Rv-12Sq
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv\-12sq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-12sq
+  confidence: auto

@@ -1,0 +1,10 @@
+id: m80-firmware
+vendor_id: mitsubishielectric
+name: M80 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:m80_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m80_firmware
+  confidence: auto

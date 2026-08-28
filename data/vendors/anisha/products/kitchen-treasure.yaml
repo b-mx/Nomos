@@ -1,0 +1,10 @@
+id: kitchen-treasure
+vendor_id: anisha
+name: Kitchen Treasure
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:kitchen_treasure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kitchen_treasure
+  confidence: auto

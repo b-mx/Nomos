@@ -1,0 +1,10 @@
+id: optima-ct520
+vendor_id: gehealthcare
+name: Optima Ct520
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:optima_ct520:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_ct520
+  confidence: auto

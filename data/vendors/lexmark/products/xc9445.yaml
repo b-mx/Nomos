@@ -1,0 +1,10 @@
+id: xc9445
+vendor_id: lexmark
+name: Xc9445
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xc9445:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xc9445
+  confidence: auto

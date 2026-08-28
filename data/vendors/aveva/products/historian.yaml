@@ -1,0 +1,10 @@
+id: historian
+vendor_id: aveva
+name: Historian
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:historian:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: historian
+  confidence: auto

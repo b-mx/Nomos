@@ -1,0 +1,10 @@
+id: tencent
+vendor_id: tencent
+name: Tencent
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:tencent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tencent
+  confidence: auto

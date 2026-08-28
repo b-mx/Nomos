@@ -1,0 +1,10 @@
+id: cz258a
+vendor_id: hp
+name: Cz258A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz258a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz258a
+  confidence: auto

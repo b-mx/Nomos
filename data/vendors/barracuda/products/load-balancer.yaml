@@ -1,0 +1,10 @@
+id: load-balancer
+vendor_id: barracuda
+name: Load Balancer
+type: software
+tags: []
+cpe: cpe:2.3:a:barracuda:load_balancer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: load_balancer
+  confidence: auto

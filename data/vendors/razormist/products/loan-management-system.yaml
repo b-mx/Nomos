@@ -1,0 +1,10 @@
+id: loan-management-system
+vendor_id: razormist
+name: Loan Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:razormist:loan_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: loan_management_system
+  confidence: auto

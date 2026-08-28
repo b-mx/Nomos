@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fabian--chat-system",
+  "vendor_id": "fabian",
+  "product_id": "chat-system",
+  "name": "Chat System",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "chat_system",
+      "confidence": "auto"
+    }
+  ]
+}

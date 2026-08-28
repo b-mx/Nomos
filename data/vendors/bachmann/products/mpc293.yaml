@@ -1,0 +1,10 @@
+id: mpc293
+vendor_id: bachmann
+name: Mpc293
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mpc293:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mpc293
+  confidence: auto

@@ -1,0 +1,10 @@
+id: freebox-mini-firmware
+vendor_id: free
+name: Freebox Mini Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:free:freebox_mini_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freebox_mini_firmware
+  confidence: auto

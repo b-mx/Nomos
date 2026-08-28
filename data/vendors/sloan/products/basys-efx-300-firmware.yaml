@@ -1,0 +1,10 @@
+id: basys-efx-300-firmware
+vendor_id: sloan
+name: Basys Efx-300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sloan:basys_efx\-300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: basys_efx-300_firmware
+  confidence: auto

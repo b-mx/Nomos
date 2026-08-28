@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "redhat-satellite--redhat-satellite",
+  "vendor_id": "redhat-satellite",
+  "product_id": "redhat-satellite",
+  "name": "Red Hat Satellite",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "redhat-satellite",
+      "confidence": "auto"
+    }
+  ]
+}

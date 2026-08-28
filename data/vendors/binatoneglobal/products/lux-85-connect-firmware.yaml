@@ -1,0 +1,10 @@
+id: lux-85-connect-firmware
+vendor_id: binatoneglobal
+name: Lux 85 Connect Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:lux_85_connect_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lux_85_connect_firmware
+  confidence: auto

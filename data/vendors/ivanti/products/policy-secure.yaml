@@ -1,0 +1,9 @@
+id: policy-secure
+vendor_id: ivanti
+name: Policy Secure
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Policy Secure
+  confidence: auto

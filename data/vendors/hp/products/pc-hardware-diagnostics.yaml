@@ -1,0 +1,10 @@
+id: pc-hardware-diagnostics
+vendor_id: hp
+name: Pc Hardware Diagnostics
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:pc_hardware_diagnostics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc_hardware_diagnostics
+  confidence: auto

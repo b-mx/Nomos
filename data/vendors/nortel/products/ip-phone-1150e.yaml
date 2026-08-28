@@ -1,0 +1,10 @@
+id: ip-phone-1150e
+vendor_id: nortel
+name: Ip Phone 1150E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:ip_phone_1150e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_phone_1150e
+  confidence: auto

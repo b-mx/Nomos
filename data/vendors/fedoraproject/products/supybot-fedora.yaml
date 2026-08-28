@@ -1,0 +1,10 @@
+id: supybot-fedora
+vendor_id: fedoraproject
+name: Supybot-Fedora
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:supybot\-fedora:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: supybot-fedora
+  confidence: auto

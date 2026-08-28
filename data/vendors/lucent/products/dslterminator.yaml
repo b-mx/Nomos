@@ -1,0 +1,10 @@
+id: dslterminator
+vendor_id: lucent
+name: Dslterminator
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lucent:dslterminator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dslterminator
+  confidence: auto

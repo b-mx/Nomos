@@ -1,0 +1,10 @@
+id: proliant-ws460c-gen9-workstation
+vendor_id: hp
+name: Proliant Ws460C Gen9 Workstation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_ws460c_gen9_workstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_ws460c_gen9_workstation
+  confidence: auto

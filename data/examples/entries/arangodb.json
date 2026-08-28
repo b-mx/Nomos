@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "arangodb",
+  "vendor_id": "arangodb",
+  "name": "Arangodb",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arangodb",
+      "confidence": "auto"
+    }
+  ]
+}

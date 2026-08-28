@@ -1,0 +1,10 @@
+id: remote-access-server
+vendor_id: etictelecom
+name: Remote Access Server
+type: software
+tags: []
+cpe: cpe:2.3:a:etictelecom:remote_access_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_access_server
+  confidence: auto

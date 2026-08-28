@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--office-server",
+  "vendor_id": "suse",
+  "product_id": "office-server",
+  "name": "Office Server",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "office_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: hubshare
+vendor_id: m-files
+name: Hubshare
+type: software
+tags: []
+cpe: cpe:2.3:a:m\-files:hubshare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hubshare
+  confidence: auto

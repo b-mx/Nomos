@@ -1,0 +1,10 @@
+id: ec-cube
+vendor_id: ec-cube
+name: Ec-Cube
+type: software
+tags: []
+cpe: cpe:2.3:a:ec\-cube:ec\-cube:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ec-cube
+  confidence: auto

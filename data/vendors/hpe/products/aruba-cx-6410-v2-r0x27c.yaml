@@ -1,0 +1,10 @@
+id: aruba-cx-6410-v2-r0x27c
+vendor_id: hpe
+name: Aruba Cx 6410 V2 (R0X27C)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6410_v2_\(r0x27c\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6410_v2_(r0x27c)
+  confidence: auto

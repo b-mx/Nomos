@@ -1,0 +1,10 @@
+id: iq3xcite
+vendor_id: honeywell
+name: Iq3Xcite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:iq3xcite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq3xcite
+  confidence: auto

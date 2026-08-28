@@ -1,0 +1,10 @@
+id: miix-525-12ikb
+vendor_id: lenovo
+name: Miix 525-12Ikb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:miix_525\-12ikb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miix_525-12ikb
+  confidence: auto

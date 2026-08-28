@@ -1,0 +1,10 @@
+id: legion-t530-28apr-firmware
+vendor_id: lenovo
+name: Legion T530-28Apr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_t530\-28apr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_t530-28apr_firmware
+  confidence: auto

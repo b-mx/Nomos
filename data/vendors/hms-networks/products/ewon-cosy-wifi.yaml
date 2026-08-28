@@ -1,0 +1,10 @@
+id: ewon-cosy-wifi
+vendor_id: hms-networks
+name: Ewon Cosy+ Wifi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hms\-networks:ewon_cosy\+_wifi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ewon_cosy+_wifi
+  confidence: auto

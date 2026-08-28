@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ssh--tectia-client",
+  "vendor_id": "ssh",
+  "product_id": "tectia-client",
+  "name": "Tectia Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tectia_client",
+      "confidence": "auto"
+    }
+  ]
+}

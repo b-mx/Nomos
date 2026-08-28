@@ -1,0 +1,10 @@
+id: icr890-3-firmware
+vendor_id: sick
+name: Icr890-3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:icr890\-3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icr890-3_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: at-0823s-firmware
+vendor_id: nadatel
+name: At-0823S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nadatel:at\-0823s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: at-0823s_firmware
+  confidence: auto

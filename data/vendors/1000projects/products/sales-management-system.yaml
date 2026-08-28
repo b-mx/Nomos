@@ -1,0 +1,10 @@
+id: sales-management-system
+vendor_id: 1000projects
+name: Sales Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:1000projects:sales_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sales_management_system
+  confidence: auto

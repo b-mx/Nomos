@@ -1,0 +1,10 @@
+id: nem-al10
+vendor_id: huawei
+name: Nem-Al10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nem\-al10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nem-al10
+  confidence: auto

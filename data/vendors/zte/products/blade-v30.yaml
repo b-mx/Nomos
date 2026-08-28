@@ -1,0 +1,10 @@
+id: blade-v30
+vendor_id: zte
+name: Blade V30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:blade_v30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_v30
+  confidence: auto

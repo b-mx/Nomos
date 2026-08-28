@@ -1,0 +1,10 @@
+id: wireless-speakers
+vendor_id: roku
+name: Wireless Speakers
+type: hardware
+tags: []
+cpe: cpe:2.3:h:roku:wireless_speakers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireless_speakers
+  confidence: auto

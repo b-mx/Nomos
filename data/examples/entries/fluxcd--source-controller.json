@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fluxcd--source-controller",
+  "vendor_id": "fluxcd",
+  "product_id": "source-controller",
+  "name": "Source-Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "source-controller",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: wrn-150
+vendor_id: intelbras
+name: Wrn 150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:wrn_150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrn_150
+  confidence: auto

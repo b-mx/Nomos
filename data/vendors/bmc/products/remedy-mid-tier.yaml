@@ -1,0 +1,10 @@
+id: remedy-mid-tier
+vendor_id: bmc
+name: Remedy Mid-Tier
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:remedy_mid\-tier:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remedy_mid-tier
+  confidence: auto

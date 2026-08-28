@@ -1,0 +1,10 @@
+id: smart-pim
+vendor_id: powertekpdus
+name: Smart Pim
+type: hardware
+tags: []
+cpe: cpe:2.3:h:powertekpdus:smart_pim:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_pim
+  confidence: auto

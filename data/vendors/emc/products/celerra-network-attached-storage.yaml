@@ -1,0 +1,10 @@
+id: celerra-network-attached-storage
+vendor_id: emc
+name: Celerra Network Attached Storage
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emc:celerra_network_attached_storage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: celerra_network_attached_storage
+  confidence: auto

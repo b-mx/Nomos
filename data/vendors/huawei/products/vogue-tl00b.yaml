@@ -1,0 +1,10 @@
+id: vogue-tl00b
+vendor_id: huawei
+name: Vogue-Tl00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:vogue\-tl00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vogue-tl00b
+  confidence: auto

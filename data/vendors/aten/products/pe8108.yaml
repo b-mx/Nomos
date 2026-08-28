@@ -1,0 +1,10 @@
+id: pe8108
+vendor_id: aten
+name: Pe8108
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aten:pe8108:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pe8108
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--base-software",
+  "vendor_id": "abb",
+  "product_id": "base-software",
+  "name": "Base Software",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "base_software",
+      "confidence": "auto"
+    }
+  ]
+}

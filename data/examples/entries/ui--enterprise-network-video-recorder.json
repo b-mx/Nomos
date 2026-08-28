@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--enterprise-network-video-recorder",
+  "vendor_id": "ui",
+  "product_id": "enterprise-network-video-recorder",
+  "name": "Enterprise Network Video Recorder",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise_network_video_recorder",
+      "confidence": "auto"
+    }
+  ]
+}

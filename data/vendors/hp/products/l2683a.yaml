@@ -1,0 +1,10 @@
+id: l2683a
+vendor_id: hp
+name: L2683A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:l2683a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l2683a
+  confidence: auto

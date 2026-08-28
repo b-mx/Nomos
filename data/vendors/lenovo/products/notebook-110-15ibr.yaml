@@ -1,0 +1,10 @@
+id: notebook-110-15ibr
+vendor_id: lenovo
+name: Notebook 110 15Ibr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:notebook_110_15ibr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_110_15ibr
+  confidence: auto

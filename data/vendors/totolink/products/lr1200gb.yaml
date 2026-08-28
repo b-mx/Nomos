@@ -1,0 +1,10 @@
+id: lr1200gb
+vendor_id: totolink
+name: Lr1200Gb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:lr1200gb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lr1200gb
+  confidence: auto

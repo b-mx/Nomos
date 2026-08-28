@@ -1,0 +1,10 @@
+id: pc10p-tcc-6372-firmware
+vendor_id: jtekt
+name: Pc10P Tcc-6372 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:pc10p_tcc\-6372_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10p_tcc-6372_firmware
+  confidence: auto

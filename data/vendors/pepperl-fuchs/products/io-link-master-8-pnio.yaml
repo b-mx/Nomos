@@ -1,0 +1,10 @@
+id: io-link-master-8-pnio
+vendor_id: pepperl-fuchs
+name: Io-Link Master 8-Pnio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pepperl\-fuchs:io\-link_master_8\-pnio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: io-link_master_8-pnio
+  confidence: auto

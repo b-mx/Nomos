@@ -1,0 +1,10 @@
+id: pdf-poster
+vendor_id: bplugins
+name: Pdf Poster
+type: software
+tags: []
+cpe: cpe:2.3:a:bplugins:pdf_poster:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdf_poster
+  confidence: auto

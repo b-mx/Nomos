@@ -1,0 +1,10 @@
+id: lefthand-virtual-san-appliance-hydra
+vendor_id: hp
+name: Lefthand Virtual San Appliance Hydra
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:lefthand_virtual_san_appliance_hydra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lefthand_virtual_san_appliance_hydra
+  confidence: auto

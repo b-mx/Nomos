@@ -1,0 +1,9 @@
+id: vmware-harbor-registry
+vendor_id: vmware-harbor-registry
+name: VMware Harbor Registry
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: vmware-harbor-registry
+  confidence: auto

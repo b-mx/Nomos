@@ -1,0 +1,10 @@
+id: bla-tl00b-firmware
+vendor_id: huawei
+name: Bla-Tl00B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:bla\-tl00b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bla-tl00b_firmware
+  confidence: auto

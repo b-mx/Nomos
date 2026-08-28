@@ -1,0 +1,10 @@
+id: libglx
+vendor_id: x
+name: Libglx
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libglx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libglx
+  confidence: auto

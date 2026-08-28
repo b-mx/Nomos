@@ -1,0 +1,10 @@
+id: lip-me201
+vendor_id: loytec
+name: Lip-Me201
+type: hardware
+tags: []
+cpe: cpe:2.3:h:loytec:lip\-me201:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lip-me201
+  confidence: auto

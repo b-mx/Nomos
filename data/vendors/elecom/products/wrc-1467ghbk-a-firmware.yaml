@@ -1,0 +1,10 @@
+id: wrc-1467ghbk-a-firmware
+vendor_id: elecom
+name: Wrc-1467Ghbk-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wrc\-1467ghbk\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrc-1467ghbk-a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: c2s12v
+vendor_id: hp
+name: C2S12V-
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:c2s12v\-:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c2s12v-
+  confidence: auto

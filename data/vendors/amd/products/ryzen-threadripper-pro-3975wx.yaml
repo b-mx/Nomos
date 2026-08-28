@@ -1,0 +1,10 @@
+id: ryzen-threadripper-pro-3975wx
+vendor_id: amd
+name: Ryzen Threadripper Pro 3975Wx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_threadripper_pro_3975wx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_threadripper_pro_3975wx
+  confidence: auto

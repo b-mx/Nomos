@@ -1,0 +1,10 @@
+id: plugin-publishing
+vendor_id: gradle
+name: Plugin Publishing
+type: software
+tags: []
+cpe: cpe:2.3:a:gradle:plugin_publishing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plugin_publishing
+  confidence: auto

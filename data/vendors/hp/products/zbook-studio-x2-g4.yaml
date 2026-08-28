@@ -1,0 +1,10 @@
+id: zbook-studio-x2-g4
+vendor_id: hp
+name: Zbook Studio X2 G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_studio_x2_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_studio_x2_g4
+  confidence: auto

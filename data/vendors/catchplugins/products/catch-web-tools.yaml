@@ -1,0 +1,10 @@
+id: catch-web-tools
+vendor_id: catchplugins
+name: Catch Web Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:catchplugins:catch_web_tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catch_web_tools
+  confidence: auto

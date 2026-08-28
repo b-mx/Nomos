@@ -1,0 +1,10 @@
+id: x11ssz
+vendor_id: supermicro
+name: X11Ssz
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11ssz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssz
+  confidence: auto

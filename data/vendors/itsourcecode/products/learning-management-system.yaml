@@ -1,0 +1,10 @@
+id: learning-management-system
+vendor_id: itsourcecode
+name: Learning Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:itsourcecode:learning_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: learning_management_system
+  confidence: auto

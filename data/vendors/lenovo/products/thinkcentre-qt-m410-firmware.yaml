@@ -1,0 +1,10 @@
+id: thinkcentre-qt-m410-firmware
+vendor_id: lenovo
+name: Thinkcentre Qt M410 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkcentre_qt_m410_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_qt_m410_firmware
+  confidence: auto

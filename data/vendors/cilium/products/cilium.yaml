@@ -1,0 +1,13 @@
+id: cilium
+vendor_id: cilium
+name: Cilium
+type: software
+tags: []
+cpe: cpe:2.3:a:cilium:cilium:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: cilium
+  confidence: auto
+- source: nvd
+  value: cilium
+  confidence: auto

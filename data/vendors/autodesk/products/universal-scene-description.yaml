@@ -1,0 +1,10 @@
+id: universal-scene-description
+vendor_id: autodesk
+name: Universal Scene Description
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:universal_scene_description:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_scene_description
+  confidence: auto

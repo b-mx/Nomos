@@ -1,0 +1,10 @@
+id: f9a29a-firmware
+vendor_id: hp
+name: F9A29A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:f9a29a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f9a29a_firmware
+  confidence: auto

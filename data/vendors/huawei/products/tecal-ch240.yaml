@@ -1,0 +1,10 @@
+id: tecal-ch240
+vendor_id: huawei
+name: Tecal Ch240
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tecal_ch240:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_ch240
+  confidence: auto

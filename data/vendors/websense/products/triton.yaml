@@ -1,0 +1,10 @@
+id: triton
+vendor_id: websense
+name: Triton
+type: software
+tags: []
+cpe: cpe:2.3:a:websense:triton:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: triton
+  confidence: auto

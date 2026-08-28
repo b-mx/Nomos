@@ -1,0 +1,10 @@
+id: net-print
+vendor_id: epson
+name: Net Print
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:net_print:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: net_print
+  confidence: auto

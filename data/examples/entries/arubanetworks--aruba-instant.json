@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arubanetworks--aruba-instant",
+  "vendor_id": "arubanetworks",
+  "product_id": "aruba-instant",
+  "name": "Aruba Instant",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aruba_instant",
+      "confidence": "auto"
+    }
+  ]
+}

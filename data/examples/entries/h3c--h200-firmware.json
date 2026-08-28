@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "h3c--h200-firmware",
+  "vendor_id": "h3c",
+  "product_id": "h200-firmware",
+  "name": "H200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

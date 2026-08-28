@@ -1,0 +1,10 @@
+id: v-server-vpr-firmware
+vendor_id: fujielectric
+name: V-Server Vpr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujielectric:v\-server_vpr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v-server_vpr_firmware
+  confidence: auto

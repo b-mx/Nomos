@@ -1,0 +1,10 @@
+id: tg1672g-firmware
+vendor_id: arris
+name: Tg1672G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arris:tg1672g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg1672g_firmware
+  confidence: auto

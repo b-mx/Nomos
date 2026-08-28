@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nlnetlabs--nsd",
+  "vendor_id": "nlnetlabs",
+  "product_id": "nsd",
+  "name": "Nsd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nsd",
+      "confidence": "auto"
+    }
+  ]
+}

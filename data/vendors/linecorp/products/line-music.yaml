@@ -1,0 +1,10 @@
+id: line-music
+vendor_id: linecorp
+name: Line Music
+type: software
+tags: []
+cpe: cpe:2.3:a:linecorp:line_music:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: line_music
+  confidence: auto

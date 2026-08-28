@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "commscope--ruckus-network-director",
+  "vendor_id": "commscope",
+  "product_id": "ruckus-network-director",
+  "name": "Ruckus Network Director",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ruckus_network_director",
+      "confidence": "auto"
+    }
+  ]
+}

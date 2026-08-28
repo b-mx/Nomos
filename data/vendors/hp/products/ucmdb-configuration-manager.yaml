@@ -1,0 +1,10 @@
+id: ucmdb-configuration-manager
+vendor_id: hp
+name: Ucmdb Configuration Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:ucmdb_configuration_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ucmdb_configuration_manager
+  confidence: auto

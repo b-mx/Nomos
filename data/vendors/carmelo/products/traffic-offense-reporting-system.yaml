@@ -1,0 +1,10 @@
+id: traffic-offense-reporting-system
+vendor_id: carmelo
+name: Traffic Offense Reporting System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:traffic_offense_reporting_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: traffic_offense_reporting_system
+  confidence: auto

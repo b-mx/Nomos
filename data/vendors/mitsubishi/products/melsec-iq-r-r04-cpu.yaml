@@ -1,0 +1,10 @@
+id: melsec-iq-r-r04-cpu
+vendor_id: mitsubishi
+name: Melsec Iq-R R04 Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_iq\-r_r04_cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-r_r04_cpu
+  confidence: auto

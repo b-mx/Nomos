@@ -1,0 +1,7 @@
+id: fastify
+name: Fastify
+cpe: cpe:2.3:*:fastify:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastify
+  confidence: auto

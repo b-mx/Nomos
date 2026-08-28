@@ -1,0 +1,10 @@
+id: netkit
+vendor_id: debian
+name: Netkit
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:netkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netkit
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wg2600hp2
+vendor_id: aterm
+name: Wg2600Hp2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aterm:wg2600hp2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wg2600hp2
+  confidence: auto

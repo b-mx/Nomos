@@ -1,0 +1,14 @@
+id: ffmpeg
+vendor_id: ffmpeg
+name: FFmpeg
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:ffmpeg:ffmpeg:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: ffmpeg
+  confidence: auto
+- source: nvd
+  value: ffmpeg
+  confidence: auto

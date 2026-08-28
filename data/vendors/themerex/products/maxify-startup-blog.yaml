@@ -1,0 +1,10 @@
+id: maxify-startup-blog
+vendor_id: themerex
+name: Maxify-Startup Blog
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:maxify\-startup_blog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxify-startup_blog
+  confidence: auto

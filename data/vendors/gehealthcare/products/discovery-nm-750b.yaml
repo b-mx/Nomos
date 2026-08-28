@@ -1,0 +1,10 @@
+id: discovery-nm-750b
+vendor_id: gehealthcare
+name: Discovery Nm 750B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:discovery_nm_750b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_nm_750b
+  confidence: auto

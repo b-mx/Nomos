@@ -1,0 +1,10 @@
+id: convergedsystem-cs700
+vendor_id: hp
+name: Convergedsystem Cs700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:convergedsystem_cs700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: convergedsystem_cs700
+  confidence: auto

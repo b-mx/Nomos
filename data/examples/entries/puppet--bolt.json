@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "puppet--bolt",
+  "vendor_id": "puppet",
+  "product_id": "bolt",
+  "name": "Bolt",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bolt",
+      "confidence": "auto"
+    }
+  ]
+}

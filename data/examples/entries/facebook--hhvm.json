@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "facebook--hhvm",
+  "vendor_id": "facebook",
+  "product_id": "hhvm",
+  "name": "Hhvm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hhvm",
+      "confidence": "auto"
+    }
+  ]
+}

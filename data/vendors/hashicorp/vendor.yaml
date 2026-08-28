@@ -1,0 +1,7 @@
+id: hashicorp
+name: Hashicorp
+cpe: cpe:2.3:*:hashicorp:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hashicorp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: reds-anytime-bail
+vendor_id: onesolutionapps
+name: Reds Anytime Bail
+type: software
+tags: []
+cpe: cpe:2.3:a:onesolutionapps:reds_anytime_bail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reds_anytime_bail
+  confidence: auto

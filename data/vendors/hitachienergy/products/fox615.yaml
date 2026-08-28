@@ -1,0 +1,10 @@
+id: fox615
+vendor_id: hitachienergy
+name: Fox615
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:fox615:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fox615
+  confidence: auto

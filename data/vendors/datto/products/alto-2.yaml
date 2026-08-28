@@ -1,0 +1,10 @@
+id: alto-2
+vendor_id: datto
+name: Alto 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:datto:alto_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alto_2
+  confidence: auto

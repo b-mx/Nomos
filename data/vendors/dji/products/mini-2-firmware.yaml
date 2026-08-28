@@ -1,0 +1,10 @@
+id: mini-2-firmware
+vendor_id: dji
+name: Mini 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dji:mini_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mini_2_firmware
+  confidence: auto

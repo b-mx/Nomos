@@ -1,0 +1,10 @@
+id: apeosport-c5570
+vendor_id: fujifilm
+name: Apeosport C5570
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeosport_c5570:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport_c5570
+  confidence: auto

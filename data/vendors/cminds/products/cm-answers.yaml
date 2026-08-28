@@ -1,0 +1,10 @@
+id: cm-answers
+vendor_id: cminds
+name: Cm Answers
+type: software
+tags: []
+cpe: cpe:2.3:a:cminds:cm_answers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm_answers
+  confidence: auto

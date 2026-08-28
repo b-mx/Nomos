@@ -1,0 +1,10 @@
+id: donate
+vendor_id: bestwebsoft
+name: Donate
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:donate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: donate
+  confidence: auto

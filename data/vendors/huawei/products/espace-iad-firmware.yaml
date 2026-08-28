@@ -1,0 +1,10 @@
+id: espace-iad-firmware
+vendor_id: huawei
+name: Espace Iad Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:espace_iad_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espace_iad_firmware
+  confidence: auto

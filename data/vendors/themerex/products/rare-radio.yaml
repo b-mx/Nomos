@@ -1,0 +1,10 @@
+id: rare-radio
+vendor_id: themerex
+name: Rare Radio
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:rare_radio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rare_radio
+  confidence: auto

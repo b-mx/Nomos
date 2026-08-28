@@ -1,0 +1,10 @@
+id: t130q
+vendor_id: intelliantech
+name: T130Q
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelliantech:t130q:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t130q
+  confidence: auto

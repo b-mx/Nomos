@@ -1,0 +1,10 @@
+id: img646bd-firmware
+vendor_id: alliedtelesis
+name: Img646Bd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:alliedtelesis:img646bd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: img646bd_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ipam-transmitter-f-dmc-2000-firmware
+vendor_id: mirion
+name: Ipam Transmitter F/Dmc 2000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mirion:ipam_transmitter_f\/dmc_2000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipam_transmitter_f/dmc_2000_firmware
+  confidence: auto

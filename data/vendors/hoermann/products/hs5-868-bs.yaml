@@ -1,0 +1,10 @@
+id: hs5-868-bs
+vendor_id: hoermann
+name: Hs5-868-Bs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hoermann:hs5\-868\-bs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hs5-868-bs
+  confidence: auto

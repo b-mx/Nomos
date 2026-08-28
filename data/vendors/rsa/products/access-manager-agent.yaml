@@ -1,0 +1,10 @@
+id: access-manager-agent
+vendor_id: rsa
+name: Access Manager Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:access_manager_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_manager_agent
+  confidence: auto

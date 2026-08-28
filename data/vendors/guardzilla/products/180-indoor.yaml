@@ -1,0 +1,10 @@
+id: 180-indoor
+vendor_id: guardzilla
+name: 180 Indoor
+type: hardware
+tags: []
+cpe: cpe:2.3:h:guardzilla:180_indoor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 180_indoor
+  confidence: auto

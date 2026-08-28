@@ -1,0 +1,9 @@
+id: edge
+vendor_id: microsoft
+name: Edge
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Edge
+  confidence: auto

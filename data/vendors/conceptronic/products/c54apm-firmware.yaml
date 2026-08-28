@@ -1,0 +1,10 @@
+id: c54apm-firmware
+vendor_id: conceptronic
+name: C54Apm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:conceptronic:c54apm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c54apm_firmware
+  confidence: auto

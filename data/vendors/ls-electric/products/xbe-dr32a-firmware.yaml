@@ -1,0 +1,10 @@
+id: xbe-dr32a-firmware
+vendor_id: ls-electric
+name: Xbe-Dr32A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbe\-dr32a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbe-dr32a_firmware
+  confidence: auto

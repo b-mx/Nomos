@@ -1,0 +1,10 @@
+id: grpc-swift
+vendor_id: linuxfoundation
+name: Grpc Swift
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:grpc_swift:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: grpc_swift
+  confidence: auto

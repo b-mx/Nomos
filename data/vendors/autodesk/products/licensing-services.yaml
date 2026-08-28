@@ -1,0 +1,10 @@
+id: licensing-services
+vendor_id: autodesk
+name: Licensing Services
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:licensing_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: licensing_services
+  confidence: auto

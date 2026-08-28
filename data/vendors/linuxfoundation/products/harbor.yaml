@@ -1,0 +1,13 @@
+id: harbor
+vendor_id: linuxfoundation
+name: Harbor
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:harbor:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: harbor
+  confidence: auto
+- source: nvd
+  value: harbor
+  confidence: auto

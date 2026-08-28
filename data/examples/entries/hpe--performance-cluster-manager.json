@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--performance-cluster-manager",
+  "vendor_id": "hpe",
+  "product_id": "performance-cluster-manager",
+  "name": "Performance Cluster Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "performance_cluster_manager",
+      "confidence": "auto"
+    }
+  ]
+}

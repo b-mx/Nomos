@@ -1,0 +1,10 @@
+id: puppet-dashboard
+vendor_id: puppet
+name: Puppet Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:puppet_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppet_dashboard
+  confidence: auto

@@ -1,0 +1,10 @@
+id: protouch-icon-firmware
+vendor_id: pdqinc
+name: Protouch Icon Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pdqinc:protouch_icon_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protouch_icon_firmware
+  confidence: auto

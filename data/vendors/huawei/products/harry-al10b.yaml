@@ -1,0 +1,10 @@
+id: harry-al10b
+vendor_id: huawei
+name: Harry-Al10B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:harry\-al10b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: harry-al10b
+  confidence: auto

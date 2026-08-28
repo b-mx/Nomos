@@ -1,0 +1,10 @@
+id: jetnet-6710g-hvdc
+vendor_id: korenix
+name: Jetnet 6710G-Hvdc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetnet_6710g\-hvdc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_6710g-hvdc
+  confidence: auto

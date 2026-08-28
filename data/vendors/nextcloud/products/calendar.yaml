@@ -1,0 +1,10 @@
+id: calendar
+vendor_id: nextcloud
+name: Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: calendar
+  confidence: auto

@@ -1,0 +1,10 @@
+id: drivelogix-5560
+vendor_id: rockwellautomation
+name: Drivelogix 5560
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:drivelogix_5560:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: drivelogix_5560
+  confidence: auto

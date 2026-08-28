@@ -1,0 +1,10 @@
+id: uipath-cli
+vendor_id: uipath
+name: Uipath/Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/cli
+  confidence: auto

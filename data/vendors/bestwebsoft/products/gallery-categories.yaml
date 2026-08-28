@@ -1,0 +1,10 @@
+id: gallery-categories
+vendor_id: bestwebsoft
+name: Gallery Categories
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:gallery_categories:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gallery_categories
+  confidence: auto

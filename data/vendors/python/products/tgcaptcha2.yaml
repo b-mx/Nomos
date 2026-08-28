@@ -1,0 +1,10 @@
+id: tgcaptcha2
+vendor_id: python
+name: Tgcaptcha2
+type: software
+tags: []
+cpe: cpe:2.3:a:python:tgcaptcha2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tgcaptcha2
+  confidence: auto

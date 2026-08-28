@@ -1,0 +1,9 @@
+id: sapmachine
+vendor_id: sapmachine
+name: SapMachine
+type: library
+tags: []
+aliases:
+- source: endoflife
+  value: sapmachine
+  confidence: auto

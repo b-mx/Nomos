@@ -1,0 +1,10 @@
+id: currency-exchange-system
+vendor_id: fabian
+name: Currency Exchange System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:currency_exchange_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: currency_exchange_system
+  confidence: auto

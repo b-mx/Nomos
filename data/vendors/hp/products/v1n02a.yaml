@@ -1,0 +1,10 @@
+id: v1n02a
+vendor_id: hp
+name: V1N02A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:v1n02a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v1n02a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nubia-z50
+vendor_id: zte
+name: Nubia Z50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:nubia_z50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nubia_z50
+  confidence: auto

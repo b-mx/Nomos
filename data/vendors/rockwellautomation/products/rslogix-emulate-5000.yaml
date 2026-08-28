@@ -1,0 +1,10 @@
+id: rslogix-emulate-5000
+vendor_id: rockwellautomation
+name: Rslogix Emulate 5000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:rslogix_emulate_5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rslogix_emulate_5000
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "golang--crypto",
+  "vendor_id": "golang",
+  "product_id": "crypto",
+  "name": "Crypto",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "crypto",
+      "confidence": "auto"
+    }
+  ]
+}

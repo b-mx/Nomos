@@ -1,0 +1,10 @@
+id: probook-x360-440-g1-firmware
+vendor_id: hp
+name: Probook X360 440 G1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:probook_x360_440_g1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: probook_x360_440_g1_firmware
+  confidence: auto

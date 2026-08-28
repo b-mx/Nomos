@@ -1,0 +1,10 @@
+id: gm265dn
+vendor_id: lenovo
+name: Gm265Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:gm265dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gm265dn
+  confidence: auto

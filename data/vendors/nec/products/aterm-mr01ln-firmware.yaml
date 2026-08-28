@@ -1,0 +1,10 @@
+id: aterm-mr01ln-firmware
+vendor_id: nec
+name: Aterm Mr01Ln Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:aterm_mr01ln_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_mr01ln_firmware
+  confidence: auto

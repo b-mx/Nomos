@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "digi--xbee-2-firmware",
+  "vendor_id": "digi",
+  "product_id": "xbee-2-firmware",
+  "name": "Xbee 2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xbee_2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

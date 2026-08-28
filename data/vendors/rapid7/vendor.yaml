@@ -1,0 +1,7 @@
+id: rapid7
+name: Rapid7
+cpe: cpe:2.3:*:rapid7:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rapid7
+  confidence: auto

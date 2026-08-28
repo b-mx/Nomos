@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sma--sunny-tripower-core1-firmware",
+  "vendor_id": "sma",
+  "product_id": "sunny-tripower-core1-firmware",
+  "name": "Sunny Tripower Core1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sunny_tripower_core1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

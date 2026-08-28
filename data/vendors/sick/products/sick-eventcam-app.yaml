@@ -1,0 +1,10 @@
+id: sick-eventcam-app
+vendor_id: sick
+name: Sick Eventcam App
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:sick_eventcam_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sick_eventcam_app
+  confidence: auto

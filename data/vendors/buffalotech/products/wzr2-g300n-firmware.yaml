@@ -1,0 +1,10 @@
+id: wzr2-g300n-firmware
+vendor_id: buffalotech
+name: Wzr2-G300N Firmware
+type: software
+tags: []
+cpe: cpe:2.3:a:buffalotech:wzr2\-g300n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr2-g300n_firmware
+  confidence: auto

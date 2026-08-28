@@ -1,0 +1,10 @@
+id: message-archiver
+vendor_id: barracuda
+name: Message Archiver
+type: software
+tags: []
+cpe: cpe:2.3:a:barracuda:message_archiver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: message_archiver
+  confidence: auto

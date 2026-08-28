@@ -1,0 +1,10 @@
+id: meow-gallery
+vendor_id: meowapps
+name: Meow Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:meowapps:meow_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meow_gallery
+  confidence: auto

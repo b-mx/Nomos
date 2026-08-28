@@ -1,0 +1,10 @@
+id: cs-qr20
+vendor_id: planex
+name: Cs-Qr20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:planex:cs\-qr20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs-qr20
+  confidence: auto

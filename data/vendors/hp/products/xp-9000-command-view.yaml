@@ -1,0 +1,10 @@
+id: xp-9000-command-view
+vendor_id: hp
+name: Xp 9000 Command View
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:xp_9000_command_view:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp_9000_command_view
+  confidence: auto

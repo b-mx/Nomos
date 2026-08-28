@@ -1,0 +1,10 @@
+id: laserjet-managed-e50145-1pv86a
+vendor_id: hp
+name: Laserjet Managed E50145 1Pv86A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_e50145_1pv86a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_e50145_1pv86a
+  confidence: auto

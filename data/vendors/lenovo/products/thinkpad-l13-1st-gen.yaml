@@ -1,0 +1,10 @@
+id: thinkpad-l13-1st-gen
+vendor_id: lenovo
+name: Thinkpad L13 1St Gen
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_l13_1st_gen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_l13_1st_gen
+  confidence: auto

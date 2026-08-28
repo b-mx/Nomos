@@ -1,0 +1,10 @@
+id: hydra
+vendor_id: ory
+name: Hydra
+type: software
+tags: []
+cpe: cpe:2.3:a:ory:hydra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hydra
+  confidence: auto

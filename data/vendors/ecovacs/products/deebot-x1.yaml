@@ -1,0 +1,10 @@
+id: deebot-x1
+vendor_id: ecovacs
+name: Deebot X1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_x1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_x1
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--icehouse",
+  "vendor_id": "openstack",
+  "product_id": "icehouse",
+  "name": "Icehouse",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icehouse",
+      "confidence": "auto"
+    }
+  ]
+}

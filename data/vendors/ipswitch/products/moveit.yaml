@@ -1,0 +1,10 @@
+id: moveit
+vendor_id: ipswitch
+name: Moveit
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:moveit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moveit
+  confidence: auto

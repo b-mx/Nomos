@@ -1,0 +1,10 @@
+id: d3q17a-firmware
+vendor_id: hp
+name: D3Q17A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:d3q17a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d3q17a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: frenic-multi
+vendor_id: fujielectric
+name: Frenic-Multi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujielectric:frenic\-multi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frenic-multi
+  confidence: auto

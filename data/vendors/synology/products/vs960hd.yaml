@@ -1,0 +1,10 @@
+id: vs960hd
+vendor_id: synology
+name: Vs960Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synology:vs960hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vs960hd
+  confidence: auto

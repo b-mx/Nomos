@@ -1,0 +1,10 @@
+id: sne110l0-firmware
+vendor_id: johnsoncontrols
+name: Sne110L0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:johnsoncontrols:sne110l0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sne110l0_firmware
+  confidence: auto

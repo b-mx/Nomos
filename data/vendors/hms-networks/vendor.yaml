@@ -1,0 +1,7 @@
+id: hms-networks
+name: Hms-Networks
+cpe: cpe:2.3:*:hms\-networks:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hms-networks
+  confidence: auto

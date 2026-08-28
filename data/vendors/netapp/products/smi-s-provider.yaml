@@ -1,0 +1,10 @@
+id: smi-s-provider
+vendor_id: netapp
+name: Smi-S Provider
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:smi\-s_provider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smi-s_provider
+  confidence: auto

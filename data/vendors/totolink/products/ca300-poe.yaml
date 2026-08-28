@@ -1,0 +1,10 @@
+id: ca300-poe
+vendor_id: totolink
+name: Ca300-Poe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:ca300\-poe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ca300-poe
+  confidence: auto

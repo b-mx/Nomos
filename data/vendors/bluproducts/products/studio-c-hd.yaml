@@ -1,0 +1,10 @@
+id: studio-c-hd
+vendor_id: bluproducts
+name: Studio C Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bluproducts:studio_c_hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_c_hd
+  confidence: auto

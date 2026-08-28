@@ -1,0 +1,10 @@
+id: contact-form-email
+vendor_id: codepeople
+name: Contact Form Email
+type: software
+tags: []
+cpe: cpe:2.3:a:codepeople:contact_form_email:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contact_form_email
+  confidence: auto

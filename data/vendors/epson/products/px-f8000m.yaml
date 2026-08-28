@@ -1,0 +1,10 @@
+id: px-f8000m
+vendor_id: epson
+name: Px-F8000M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-f8000m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-f8000m
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cx317
+vendor_id: lexmark
+name: Cx317
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx317:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx317
+  confidence: auto

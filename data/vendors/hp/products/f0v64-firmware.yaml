@@ -1,0 +1,10 @@
+id: f0v64-firmware
+vendor_id: hp
+name: F0V64 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:f0v64_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f0v64_firmware
+  confidence: auto

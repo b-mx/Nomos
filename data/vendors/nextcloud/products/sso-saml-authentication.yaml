@@ -1,0 +1,10 @@
+id: sso-saml-authentication
+vendor_id: nextcloud
+name: Sso & Saml Authentication
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:sso_\&_saml_authentication:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sso_&_saml_authentication
+  confidence: auto

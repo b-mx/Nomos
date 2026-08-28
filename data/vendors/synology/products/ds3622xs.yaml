@@ -1,0 +1,10 @@
+id: ds3622xs
+vendor_id: synology
+name: Ds3622Xs+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synology:ds3622xs\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds3622xs+
+  confidence: auto

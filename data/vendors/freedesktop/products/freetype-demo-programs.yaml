@@ -1,0 +1,10 @@
+id: freetype-demo-programs
+vendor_id: freedesktop
+name: Freetype Demo Programs
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:freetype_demo_programs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freetype_demo_programs
+  confidence: auto

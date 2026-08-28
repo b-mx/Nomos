@@ -1,0 +1,10 @@
+id: netcadops
+vendor_id: abb
+name: Netcadops
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:netcadops:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netcadops
+  confidence: auto

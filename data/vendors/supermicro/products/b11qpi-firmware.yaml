@@ -1,0 +1,10 @@
+id: b11qpi-firmware
+vendor_id: supermicro
+name: B11Qpi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:b11qpi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b11qpi_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: interstage-application-server
+vendor_id: fujitsu
+name: Interstage Application Server
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:interstage_application_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interstage_application_server
+  confidence: auto

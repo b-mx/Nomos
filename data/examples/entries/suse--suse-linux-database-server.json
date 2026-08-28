@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--suse-linux-database-server",
+  "vendor_id": "suse",
+  "product_id": "suse-linux-database-server",
+  "name": "Suse Linux Database Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_linux_database_server",
+      "confidence": "auto"
+    }
+  ]
+}

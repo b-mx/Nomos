@@ -1,0 +1,10 @@
+id: jg238a
+vendor_id: hp
+name: Jg238A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg238a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg238a
+  confidence: auto

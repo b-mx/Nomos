@@ -1,0 +1,10 @@
+id: cz175a
+vendor_id: hp
+name: Cz175A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz175a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz175a
+  confidence: auto

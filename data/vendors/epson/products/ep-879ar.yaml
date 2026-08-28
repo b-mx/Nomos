@@ -1,0 +1,10 @@
+id: ep-879ar
+vendor_id: epson
+name: Ep-879Ar
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ep\-879ar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep-879ar
+  confidence: auto

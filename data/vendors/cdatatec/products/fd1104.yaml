@@ -1,0 +1,10 @@
+id: fd1104
+vendor_id: cdatatec
+name: Fd1104
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cdatatec:fd1104:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd1104
+  confidence: auto

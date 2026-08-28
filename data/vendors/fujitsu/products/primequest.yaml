@@ -1,0 +1,10 @@
+id: primequest
+vendor_id: fujitsu
+name: Primequest
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:primequest:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primequest
+  confidence: auto

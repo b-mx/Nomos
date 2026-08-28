@@ -1,0 +1,10 @@
+id: vivid
+vendor_id: htc
+name: Vivid
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:vivid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vivid
+  confidence: auto

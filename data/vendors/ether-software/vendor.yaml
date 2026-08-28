@@ -1,0 +1,7 @@
+id: ether-software
+name: Ether Software
+cpe: cpe:2.3:*:ether_software:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ether_software
+  confidence: auto

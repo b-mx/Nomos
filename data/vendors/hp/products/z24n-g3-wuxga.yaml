@@ -1,0 +1,10 @@
+id: z24n-g3-wuxga
+vendor_id: hp
+name: Z24N G3 Wuxga
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:z24n_g3_wuxga:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z24n_g3_wuxga
+  confidence: auto

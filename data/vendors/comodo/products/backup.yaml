@@ -1,0 +1,10 @@
+id: backup
+vendor_id: comodo
+name: Backup
+type: software
+tags: []
+cpe: cpe:2.3:a:comodo:backup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backup
+  confidence: auto

@@ -1,0 +1,9 @@
+id: sharepoint
+vendor_id: sharepoint
+name: Microsoft SharePoint
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: sharepoint
+  confidence: auto

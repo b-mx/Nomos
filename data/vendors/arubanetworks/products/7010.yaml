@@ -1,0 +1,10 @@
+id: '7010'
+vendor_id: arubanetworks
+name: '7010'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:7010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '7010'
+  confidence: auto

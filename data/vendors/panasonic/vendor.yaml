@@ -1,0 +1,7 @@
+id: panasonic
+name: Panasonic
+cpe: cpe:2.3:*:panasonic:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: panasonic
+  confidence: auto

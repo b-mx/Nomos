@@ -1,0 +1,10 @@
+id: nx1w-adb21-firmware
+vendor_id: omron
+name: Nx1W-Adb21 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:nx1w\-adb21_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx1w-adb21_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zhan-99-pro-g1-microtower-rom-family-ssid-843c-firmware
+vendor_id: hp
+name: Zhan 99 Pro G1 Microtower (Rom Family Ssid 843C) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zhan_99_pro_g1_microtower_\(rom_family_ssid_843c\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhan_99_pro_g1_microtower_(rom_family_ssid_843c)_firmware
+  confidence: auto

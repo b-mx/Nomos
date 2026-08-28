@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-protect-firmware",
+  "vendor_id": "ui",
+  "product_id": "unifi-protect-firmware",
+  "name": "Unifi Protect Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_protect_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

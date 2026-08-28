@@ -1,0 +1,10 @@
+id: disksavvy
+vendor_id: flexense
+name: Disksavvy
+type: software
+tags: []
+cpe: cpe:2.3:a:flexense:disksavvy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: disksavvy
+  confidence: auto

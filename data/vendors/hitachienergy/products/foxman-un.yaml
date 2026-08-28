@@ -1,0 +1,10 @@
+id: foxman-un
+vendor_id: hitachienergy
+name: Foxman-Un
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:foxman\-un:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foxman-un
+  confidence: auto

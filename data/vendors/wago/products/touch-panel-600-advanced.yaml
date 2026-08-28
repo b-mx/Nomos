@@ -1,0 +1,10 @@
+id: touch-panel-600-advanced
+vendor_id: wago
+name: Touch Panel 600 Advanced
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:touch_panel_600_advanced:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: touch_panel_600_advanced
+  confidence: auto

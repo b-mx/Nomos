@@ -1,0 +1,10 @@
+id: johnson-tl00d
+vendor_id: huawei
+name: Johnson-Tl00D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:johnson\-tl00d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: johnson-tl00d
+  confidence: auto

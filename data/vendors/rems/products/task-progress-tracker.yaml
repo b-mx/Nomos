@@ -1,0 +1,10 @@
+id: task-progress-tracker
+vendor_id: rems
+name: Task Progress Tracker
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:task_progress_tracker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: task_progress_tracker
+  confidence: auto

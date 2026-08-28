@@ -1,0 +1,10 @@
+id: asset-manager
+vendor_id: hp
+name: Asset Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:asset_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asset_manager
+  confidence: auto

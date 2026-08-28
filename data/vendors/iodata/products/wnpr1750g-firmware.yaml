@@ -1,0 +1,10 @@
+id: wnpr1750g-firmware
+vendor_id: iodata
+name: Wnpr1750G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:wnpr1750g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wnpr1750g_firmware
+  confidence: auto

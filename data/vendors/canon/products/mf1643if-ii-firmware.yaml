@@ -1,0 +1,10 @@
+id: mf1643if-ii-firmware
+vendor_id: canon
+name: Mf1643If Ii Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:mf1643if_ii_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf1643if_ii_firmware
+  confidence: auto

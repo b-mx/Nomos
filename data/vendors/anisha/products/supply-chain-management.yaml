@@ -1,0 +1,10 @@
+id: supply-chain-management
+vendor_id: anisha
+name: Supply Chain Management
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:supply_chain_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: supply_chain_management
+  confidence: auto

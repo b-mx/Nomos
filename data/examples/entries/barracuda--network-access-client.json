@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "barracuda--network-access-client",
+  "vendor_id": "barracuda",
+  "product_id": "network-access-client",
+  "name": "Network Access Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_access_client",
+      "confidence": "auto"
+    }
+  ]
+}

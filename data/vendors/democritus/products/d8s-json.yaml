@@ -1,0 +1,10 @@
+id: d8s-json
+vendor_id: democritus
+name: D8S-Json
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-json:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-json
+  confidence: auto

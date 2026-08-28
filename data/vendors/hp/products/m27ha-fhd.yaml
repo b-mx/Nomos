@@ -1,0 +1,10 @@
+id: m27ha-fhd
+vendor_id: hp
+name: M27Ha Fhd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m27ha_fhd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m27ha_fhd
+  confidence: auto

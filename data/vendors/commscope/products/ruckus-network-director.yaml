@@ -1,0 +1,10 @@
+id: ruckus-network-director
+vendor_id: commscope
+name: Ruckus Network Director
+type: software
+tags: []
+cpe: cpe:2.3:a:commscope:ruckus_network_director:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_network_director
+  confidence: auto

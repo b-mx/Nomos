@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "blackbox--icompel",
+  "vendor_id": "blackbox",
+  "product_id": "icompel",
+  "name": "Icompel",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icompel",
+      "confidence": "auto"
+    }
+  ]
+}

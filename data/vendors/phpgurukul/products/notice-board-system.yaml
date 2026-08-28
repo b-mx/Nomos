@@ -1,0 +1,10 @@
+id: notice-board-system
+vendor_id: phpgurukul
+name: Notice Board System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:notice_board_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notice_board_system
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bus-node-cpx-m-fb44
+vendor_id: festo
+name: Bus Node Cpx-M-Fb44
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:bus_node_cpx\-m\-fb44:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bus_node_cpx-m-fb44
+  confidence: auto

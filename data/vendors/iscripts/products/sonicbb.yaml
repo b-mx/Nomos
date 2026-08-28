@@ -1,0 +1,10 @@
+id: sonicbb
+vendor_id: iscripts
+name: Sonicbb
+type: software
+tags: []
+cpe: cpe:2.3:a:iscripts:sonicbb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sonicbb
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mirro-icd-firmware
+vendor_id: medtronic
+name: Mirro Icd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:mirro_icd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mirro_icd_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fd9367-htv-epoc-firmware
+vendor_id: vivotek
+name: Fd9367-Htv(Epoc) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fd9367\-htv\(epoc\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd9367-htv(epoc)_firmware
+  confidence: auto

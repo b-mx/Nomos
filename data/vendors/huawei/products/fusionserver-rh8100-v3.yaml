@@ -1,0 +1,10 @@
+id: fusionserver-rh8100-v3
+vendor_id: huawei
+name: Fusionserver Rh8100 V3
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:fusionserver_rh8100_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionserver_rh8100_v3
+  confidence: auto

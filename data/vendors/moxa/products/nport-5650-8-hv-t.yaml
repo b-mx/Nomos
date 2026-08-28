@@ -1,0 +1,10 @@
+id: nport-5650-8-hv-t
+vendor_id: moxa
+name: Nport 5650-8-Hv-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_5650\-8\-hv\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5650-8-hv-t
+  confidence: auto

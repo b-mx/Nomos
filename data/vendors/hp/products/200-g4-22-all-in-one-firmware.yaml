@@ -1,0 +1,10 @@
+id: 200-g4-22-all-in-one-firmware
+vendor_id: hp
+name: 200 G4 22 All-In-One Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:200_g4_22_all\-in\-one_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 200_g4_22_all-in-one_firmware
+  confidence: auto

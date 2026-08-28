@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intelbras--ncloud-300-firmware",
+  "vendor_id": "intelbras",
+  "product_id": "ncloud-300-firmware",
+  "name": "Ncloud 300 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ncloud_300_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

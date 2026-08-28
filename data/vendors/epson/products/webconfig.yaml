@@ -1,0 +1,10 @@
+id: webconfig
+vendor_id: epson
+name: Webconfig
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:webconfig:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webconfig
+  confidence: auto

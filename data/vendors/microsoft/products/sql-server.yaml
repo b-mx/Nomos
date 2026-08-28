@@ -1,0 +1,9 @@
+id: sql-server
+vendor_id: microsoft
+name: SQL Server
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SQL Server
+  confidence: auto

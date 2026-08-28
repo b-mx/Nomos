@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gradle--enterprise-cache-node",
+  "vendor_id": "gradle",
+  "product_id": "enterprise-cache-node",
+  "name": "Enterprise Cache Node",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise_cache_node",
+      "confidence": "auto"
+    }
+  ]
+}

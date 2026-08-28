@@ -1,0 +1,10 @@
+id: rutx08-firmware
+vendor_id: teltonika-networks
+name: Rutx08 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teltonika\-networks:rutx08_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rutx08_firmware
+  confidence: auto

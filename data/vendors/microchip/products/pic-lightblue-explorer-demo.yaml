@@ -1,0 +1,10 @@
+id: pic-lightblue-explorer-demo
+vendor_id: microchip
+name: Pic Lightblue Explorer Demo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:pic_lightblue_explorer_demo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pic_lightblue_explorer_demo
+  confidence: auto

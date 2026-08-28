@@ -1,0 +1,10 @@
+id: zbook-studio-15-g8
+vendor_id: hp
+name: Zbook Studio 15 G8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_studio_15_g8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_studio_15_g8
+  confidence: auto

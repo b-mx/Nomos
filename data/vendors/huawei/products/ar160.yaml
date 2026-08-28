@@ -1,0 +1,10 @@
+id: ar160
+vendor_id: huawei
+name: Ar160
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar160:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar160
+  confidence: auto

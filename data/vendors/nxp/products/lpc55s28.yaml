@@ -1,0 +1,10 @@
+id: lpc55s28
+vendor_id: nxp
+name: Lpc55S28
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:lpc55s28:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lpc55s28
+  confidence: auto

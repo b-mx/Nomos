@@ -1,0 +1,10 @@
+id: ib-wra150n-firmware
+vendor_id: iball
+name: Ib-Wra150N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iball:ib\-wra150n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib-wra150n_firmware
+  confidence: auto

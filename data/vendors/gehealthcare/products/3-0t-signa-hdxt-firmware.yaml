@@ -1,0 +1,10 @@
+id: 3-0t-signa-hdxt-firmware
+vendor_id: gehealthcare
+name: 3.0T Signa Hdxt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:3\.0t_signa_hdxt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3.0t_signa_hdxt_firmware
+  confidence: auto

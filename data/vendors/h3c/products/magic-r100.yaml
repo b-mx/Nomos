@@ -1,0 +1,10 @@
+id: magic-r100
+vendor_id: h3c
+name: Magic R100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:magic_r100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_r100
+  confidence: auto

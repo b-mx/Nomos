@@ -1,0 +1,10 @@
+id: wp-hotel-booking
+vendor_id: thimpress
+name: Wp Hotel Booking
+type: software
+tags: []
+cpe: cpe:2.3:a:thimpress:wp_hotel_booking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_hotel_booking
+  confidence: auto

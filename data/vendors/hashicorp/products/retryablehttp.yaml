@@ -1,0 +1,10 @@
+id: retryablehttp
+vendor_id: hashicorp
+name: Retryablehttp
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:retryablehttp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: retryablehttp
+  confidence: auto

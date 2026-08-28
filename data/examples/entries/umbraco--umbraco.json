@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "umbraco--umbraco",
+  "vendor_id": "umbraco",
+  "product_id": "umbraco",
+  "name": "Umbraco CMS",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "umbraco",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "umbraco_cms",
+      "confidence": "auto"
+    }
+  ]
+}

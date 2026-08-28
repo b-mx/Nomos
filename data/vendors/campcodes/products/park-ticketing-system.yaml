@@ -1,0 +1,10 @@
+id: park-ticketing-system
+vendor_id: campcodes
+name: Park Ticketing System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:park_ticketing_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: park_ticketing_system
+  confidence: auto

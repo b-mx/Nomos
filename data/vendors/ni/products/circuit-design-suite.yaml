@@ -1,0 +1,10 @@
+id: circuit-design-suite
+vendor_id: ni
+name: Circuit Design Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:circuit_design_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: circuit_design_suite
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--axis-communications-firmware",
+  "vendor_id": "axis",
+  "product_id": "axis-communications-firmware",
+  "name": "Axis Communications Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "axis_communications_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

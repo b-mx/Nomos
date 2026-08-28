@@ -1,0 +1,10 @@
+id: i-mx-8m-nano
+vendor_id: nxp
+name: I.Mx 8M Nano
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:i\.mx_8m_nano:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_8m_nano
+  confidence: auto

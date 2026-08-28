@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m28-y5s50a
+vendor_id: hp
+name: Laserjet Pro Mfp M28 Y5S50A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_mfp_m28_y5s50a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m28_y5s50a
+  confidence: auto

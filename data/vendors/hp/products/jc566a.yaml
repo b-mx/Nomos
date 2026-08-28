@@ -1,0 +1,10 @@
+id: jc566a
+vendor_id: hp
+name: Jc566A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc566a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc566a
+  confidence: auto

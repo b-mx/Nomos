@@ -1,0 +1,10 @@
+id: e8372
+vendor_id: huawei
+name: E8372
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e8372:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e8372
+  confidence: auto

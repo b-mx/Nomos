@@ -1,0 +1,10 @@
+id: ec-01-firmware
+vendor_id: epson
+name: Ec-01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:ec\-01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ec-01_firmware
+  confidence: auto

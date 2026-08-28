@@ -1,0 +1,10 @@
+id: hiapp
+vendor_id: huawei
+name: Hiapp
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hiapp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hiapp
+  confidence: auto

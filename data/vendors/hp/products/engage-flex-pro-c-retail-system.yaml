@@ -1,0 +1,10 @@
+id: engage-flex-pro-c-retail-system
+vendor_id: hp
+name: Engage Flex Pro-C Retail System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:engage_flex_pro\-c_retail_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engage_flex_pro-c_retail_system
+  confidence: auto

@@ -1,0 +1,10 @@
+id: s3500
+vendor_id: huawei
+name: S3500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s3500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s3500
+  confidence: auto

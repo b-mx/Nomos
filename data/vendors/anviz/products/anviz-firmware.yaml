@@ -1,0 +1,10 @@
+id: anviz-firmware
+vendor_id: anviz
+name: Anviz Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:anviz:anviz_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anviz_firmware
+  confidence: auto

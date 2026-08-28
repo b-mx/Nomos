@@ -1,0 +1,10 @@
+id: msh30q-firmware
+vendor_id: meross
+name: Msh30Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meross:msh30q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msh30q_firmware
+  confidence: auto

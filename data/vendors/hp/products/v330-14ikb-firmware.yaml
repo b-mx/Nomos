@@ -1,0 +1,10 @@
+id: v330-14ikb-firmware
+vendor_id: hp
+name: V330-14Ikb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:v330\-14ikb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v330-14ikb_firmware
+  confidence: auto

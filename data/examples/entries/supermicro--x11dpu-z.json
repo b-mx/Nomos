@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11dpu-z",
+  "vendor_id": "supermicro",
+  "product_id": "x11dpu-z",
+  "name": "X11Dpu-Z+",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11dpu-z+",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: director
+vendor_id: macromedia
+name: Director
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:director:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: director
+  confidence: auto

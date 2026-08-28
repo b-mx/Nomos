@@ -1,0 +1,10 @@
+id: campus-s6300
+vendor_id: huawei
+name: Campus S6300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:campus_s6300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: campus_s6300
+  confidence: auto

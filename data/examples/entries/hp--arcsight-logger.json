@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--arcsight-logger",
+  "vendor_id": "hp",
+  "product_id": "arcsight-logger",
+  "name": "Arcsight Logger",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arcsight_logger",
+      "confidence": "auto"
+    }
+  ]
+}

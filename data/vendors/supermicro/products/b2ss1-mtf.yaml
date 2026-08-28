@@ -1,0 +1,10 @@
+id: b2ss1-mtf
+vendor_id: supermicro
+name: B2Ss1-Mtf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b2ss1\-mtf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b2ss1-mtf
+  confidence: auto

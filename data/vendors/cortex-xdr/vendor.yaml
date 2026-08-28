@@ -1,0 +1,6 @@
+id: cortex-xdr
+name: Palo Alto Networks Cortex XDR agent
+aliases:
+- source: endoflife
+  value: cortex-xdr
+  confidence: auto

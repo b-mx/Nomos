@@ -1,0 +1,10 @@
+id: prodesk-400-g4-desktop-mini-pc-firmware
+vendor_id: hp
+name: Prodesk 400 G4 Desktop Mini Pc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:prodesk_400_g4_desktop_mini_pc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_400_g4_desktop_mini_pc_firmware
+  confidence: auto

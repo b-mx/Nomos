@@ -1,0 +1,10 @@
+id: tc7001-10-firmware
+vendor_id: huawei
+name: Tc7001-10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:tc7001\-10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7001-10_firmware
+  confidence: auto

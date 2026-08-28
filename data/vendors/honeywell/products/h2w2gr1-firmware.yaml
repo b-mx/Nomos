@@ -1,0 +1,10 @@
+id: h2w2gr1-firmware
+vendor_id: honeywell
+name: H2W2Gr1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:h2w2gr1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h2w2gr1_firmware
+  confidence: auto

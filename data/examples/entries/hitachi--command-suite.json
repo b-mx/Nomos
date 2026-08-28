@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachi--command-suite",
+  "vendor_id": "hitachi",
+  "product_id": "command-suite",
+  "name": "Command Suite",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "command_suite",
+      "confidence": "auto"
+    }
+  ]
+}

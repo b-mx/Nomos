@@ -1,0 +1,10 @@
+id: matomo
+vendor_id: mediawiki
+name: Matomo
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:matomo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matomo
+  confidence: auto

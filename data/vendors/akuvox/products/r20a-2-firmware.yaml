@@ -1,0 +1,10 @@
+id: r20a-2-firmware
+vendor_id: akuvox
+name: R20A-2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:akuvox:r20a\-2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r20a-2_firmware
+  confidence: auto

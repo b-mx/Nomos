@@ -1,0 +1,10 @@
+id: m5074
+vendor_id: axis
+name: M5074
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m5074:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m5074
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bazaar
+vendor_id: canonical
+name: Bazaar
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:bazaar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bazaar
+  confidence: auto

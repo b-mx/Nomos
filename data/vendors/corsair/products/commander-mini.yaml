@@ -1,0 +1,10 @@
+id: commander-mini
+vendor_id: corsair
+name: Commander Mini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:commander_mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: commander_mini
+  confidence: auto

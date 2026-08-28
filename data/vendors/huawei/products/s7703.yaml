@@ -1,0 +1,10 @@
+id: s7703
+vendor_id: huawei
+name: S7703
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s7703:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s7703
+  confidence: auto

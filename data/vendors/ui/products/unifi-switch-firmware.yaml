@@ -1,0 +1,10 @@
+id: unifi-switch-firmware
+vendor_id: ui
+name: Unifi Switch Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:unifi_switch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_switch_firmware
+  confidence: auto

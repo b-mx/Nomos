@@ -1,0 +1,10 @@
+id: eos-m3
+vendor_id: canon
+name: Eos M3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_m3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_m3
+  confidence: auto

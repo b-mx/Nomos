@@ -1,0 +1,10 @@
+id: cecx-x-m1-modular-controller
+vendor_id: festo
+name: Cecx-X-M1 Modular Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:cecx\-x\-m1_modular_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cecx-x-m1_modular_controller
+  confidence: auto

@@ -1,0 +1,10 @@
+id: libxrandr
+vendor_id: x-org
+name: Libxrandr
+type: software
+tags: []
+cpe: cpe:2.3:a:x\.org:libxrandr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxrandr
+  confidence: auto

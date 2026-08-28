@@ -1,0 +1,10 @@
+id: k4u04b
+vendor_id: hp
+name: K4U04B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k4u04b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k4u04b
+  confidence: auto

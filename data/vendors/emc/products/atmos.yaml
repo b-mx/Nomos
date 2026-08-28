@@ -1,0 +1,10 @@
+id: atmos
+vendor_id: emc
+name: Atmos
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:atmos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atmos
+  confidence: auto

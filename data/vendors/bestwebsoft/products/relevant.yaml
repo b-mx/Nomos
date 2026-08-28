@@ -1,0 +1,10 @@
+id: relevant
+vendor_id: bestwebsoft
+name: Relevant
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:relevant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: relevant
+  confidence: auto

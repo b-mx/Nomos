@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-6600hs",
+  "vendor_id": "amd",
+  "product_id": "ryzen-6600hs",
+  "name": "Ryzen 6600Hs",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_6600hs",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: apeospro-c810-firmware
+vendor_id: fujifilm
+name: Apeospro C810 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:apeospro_c810_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeospro_c810_firmware
+  confidence: auto

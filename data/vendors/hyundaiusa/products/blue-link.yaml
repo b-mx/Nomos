@@ -1,0 +1,10 @@
+id: blue-link
+vendor_id: hyundaiusa
+name: Blue Link
+type: software
+tags: []
+cpe: cpe:2.3:a:hyundaiusa:blue_link:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blue_link
+  confidence: auto

@@ -1,0 +1,10 @@
+id: l340-15iwltouch-firmware
+vendor_id: lenovo
+name: L340-15Iwltouch Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:l340\-15iwltouch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l340-15iwltouch_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hc-ip9100hd-firmware
+vendor_id: hitachi
+name: Hc-Ip9100Hd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitachi:hc\-ip9100hd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hc-ip9100hd_firmware
+  confidence: auto

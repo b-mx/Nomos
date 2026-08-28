@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "prestashop--prestashop-checkout",
+  "vendor_id": "prestashop",
+  "product_id": "prestashop-checkout",
+  "name": "Prestashop Checkout",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "prestashop_checkout",
+      "confidence": "auto"
+    }
+  ]
+}

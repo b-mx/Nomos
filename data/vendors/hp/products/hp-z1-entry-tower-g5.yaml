@@ -1,0 +1,10 @@
+id: hp-z1-entry-tower-g5
+vendor_id: hp
+name: Hp Z1 Entry Tower G5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_z1_entry_tower_g5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_z1_entry_tower_g5
+  confidence: auto

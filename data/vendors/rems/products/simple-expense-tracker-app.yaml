@@ -1,0 +1,10 @@
+id: simple-expense-tracker-app
+vendor_id: rems
+name: Simple Expense Tracker App
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:simple_expense_tracker_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_expense_tracker_app
+  confidence: auto

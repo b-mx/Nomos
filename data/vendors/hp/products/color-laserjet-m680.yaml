@@ -1,0 +1,10 @@
+id: color-laserjet-m680
+vendor_id: hp
+name: Color Laserjet M680
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_m680:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_m680
+  confidence: auto

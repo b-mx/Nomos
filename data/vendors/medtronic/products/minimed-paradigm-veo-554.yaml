@@ -1,0 +1,10 @@
+id: minimed-paradigm-veo-554
+vendor_id: medtronic
+name: Minimed Paradigm Veo 554
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:minimed_paradigm_veo_554:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_paradigm_veo_554
+  confidence: auto

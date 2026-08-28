@@ -1,0 +1,10 @@
+id: v60xl-firmware
+vendor_id: valuehd
+name: V60Xl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:valuehd:v60xl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v60xl_firmware
+  confidence: auto

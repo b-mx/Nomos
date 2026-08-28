@@ -1,0 +1,10 @@
+id: sd-8-16-front-panel-kbd-m3r-firmware
+vendor_id: netvu
+name: Sd 8/16 Front Panel Kbd (M3R) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netvu:sd_8\/16_front_panel_kbd_\(m3r\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd_8/16_front_panel_kbd_(m3r)_firmware
+  confidence: auto

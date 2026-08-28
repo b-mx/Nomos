@@ -1,0 +1,10 @@
+id: epyc-75f3
+vendor_id: amd
+name: Epyc 75F3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_75f3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_75f3
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wrc-x6000xs-g
+vendor_id: elecom
+name: Wrc-X6000Xs-G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:wrc\-x6000xs\-g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrc-x6000xs-g
+  confidence: auto

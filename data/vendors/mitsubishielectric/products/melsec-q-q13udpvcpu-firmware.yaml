@@ -1,0 +1,10 @@
+id: melsec-q-q13udpvcpu-firmware
+vendor_id: mitsubishielectric
+name: Melsec Q-Q13Udpvcpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:melsec_q\-q13udpvcpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q-q13udpvcpu_firmware
+  confidence: auto

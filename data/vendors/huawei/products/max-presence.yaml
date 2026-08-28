@@ -1,0 +1,10 @@
+id: max-presence
+vendor_id: huawei
+name: Max Presence
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:max_presence:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_presence
+  confidence: auto

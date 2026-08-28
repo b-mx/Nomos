@@ -1,0 +1,10 @@
+id: fx3g-3a-adp-firmware
+vendor_id: mitsubishielectric
+name: Fx3G-3A-Adp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3g\-3a\-adp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3g-3a-adp_firmware
+  confidence: auto

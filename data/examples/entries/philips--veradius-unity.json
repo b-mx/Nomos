@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--veradius-unity",
+  "vendor_id": "philips",
+  "product_id": "veradius-unity",
+  "name": "Veradius Unity",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "veradius_unity",
+      "confidence": "auto"
+    }
+  ]
+}

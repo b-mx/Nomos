@@ -1,0 +1,10 @@
+id: probook-635-aero-g8-firmware
+vendor_id: hp
+name: Probook 635 Aero G8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:probook_635_aero_g8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: probook_635_aero_g8_firmware
+  confidence: auto

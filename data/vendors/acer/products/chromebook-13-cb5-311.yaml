@@ -1,0 +1,10 @@
+id: chromebook-13-cb5-311
+vendor_id: acer
+name: Chromebook 13 Cb5-311
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:chromebook_13_cb5\-311:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chromebook_13_cb5-311
+  confidence: auto

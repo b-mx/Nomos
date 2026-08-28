@@ -1,0 +1,10 @@
+id: pcoip-soft-client
+vendor_id: teradici
+name: Pcoip Soft Client
+type: software
+tags: []
+cpe: cpe:2.3:a:teradici:pcoip_soft_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcoip_soft_client
+  confidence: auto

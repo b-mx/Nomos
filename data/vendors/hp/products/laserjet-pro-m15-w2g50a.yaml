@@ -1,0 +1,10 @@
+id: laserjet-pro-m15-w2g50a
+vendor_id: hp
+name: Laserjet Pro M15 W2G50A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m15_w2g50a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m15_w2g50a
+  confidence: auto

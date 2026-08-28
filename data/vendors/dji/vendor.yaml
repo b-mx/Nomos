@@ -1,0 +1,7 @@
+id: dji
+name: Dji
+cpe: cpe:2.3:*:dji:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dji
+  confidence: auto

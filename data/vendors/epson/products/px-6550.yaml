@@ -1,0 +1,10 @@
+id: px-6550
+vendor_id: epson
+name: Px-6550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-6550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-6550
+  confidence: auto

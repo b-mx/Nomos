@@ -1,0 +1,10 @@
+id: thinkpad-a275
+vendor_id: lenovo
+name: Thinkpad A275
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_a275:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_a275
+  confidence: auto

@@ -1,0 +1,10 @@
+id: camera-assistant
+vendor_id: elecom
+name: Camera Assistant
+type: software
+tags: []
+cpe: cpe:2.3:a:elecom:camera_assistant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: camera_assistant
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abus--tvip-22500-firmware",
+  "vendor_id": "abus",
+  "product_id": "tvip-22500-firmware",
+  "name": "Tvip 22500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tvip_22500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

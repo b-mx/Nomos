@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--package-hub",
+  "vendor_id": "suse",
+  "product_id": "package-hub",
+  "name": "Package Hub",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "package_hub",
+      "confidence": "auto"
+    }
+  ]
+}

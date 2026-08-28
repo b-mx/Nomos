@@ -1,0 +1,10 @@
+id: rv-440ne
+vendor_id: ntt-west
+name: Rv-440Ne
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-west:rv\-440ne:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-440ne
+  confidence: auto

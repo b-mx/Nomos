@@ -1,0 +1,10 @@
+id: changxiang-7s
+vendor_id: huawei
+name: Changxiang 7S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:changxiang_7s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: changxiang_7s
+  confidence: auto

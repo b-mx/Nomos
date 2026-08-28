@@ -1,0 +1,10 @@
+id: laserjet-managed-e50145-1pu51a-firmware
+vendor_id: hp
+name: Laserjet Managed E50145 1Pu51A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_e50145_1pu51a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_e50145_1pu51a_firmware
+  confidence: auto

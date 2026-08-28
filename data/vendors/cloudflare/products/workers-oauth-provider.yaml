@@ -1,0 +1,10 @@
+id: workers-oauth-provider
+vendor_id: cloudflare
+name: Workers-Oauth-Provider
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:workers\-oauth\-provider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workers-oauth-provider
+  confidence: auto

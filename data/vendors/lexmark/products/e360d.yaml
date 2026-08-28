@@ -1,0 +1,10 @@
+id: e360d
+vendor_id: lexmark
+name: E360D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:e360d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e360d
+  confidence: auto

@@ -1,0 +1,9 @@
+id: veeam-backup-for-microsoft-365
+vendor_id: veeam-backup-for-microsoft-365
+name: Veeam Backup for Microsoft 365
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: veeam-backup-for-microsoft-365
+  confidence: auto

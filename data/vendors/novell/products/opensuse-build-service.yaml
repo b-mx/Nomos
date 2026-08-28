@@ -1,0 +1,10 @@
+id: opensuse-build-service
+vendor_id: novell
+name: Opensuse Build Service
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:opensuse_build_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensuse_build_service
+  confidence: auto

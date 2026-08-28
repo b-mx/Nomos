@@ -1,0 +1,10 @@
+id: ideacentre-m70a-gen-3
+vendor_id: lenovo
+name: Ideacentre M70A Gen 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_m70a_gen_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_m70a_gen_3
+  confidence: auto

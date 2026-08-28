@@ -1,0 +1,10 @@
+id: action-rf-1200-firmware
+vendor_id: intelbras
+name: Action Rf 1200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelbras:action_rf_1200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: action_rf_1200_firmware
+  confidence: auto

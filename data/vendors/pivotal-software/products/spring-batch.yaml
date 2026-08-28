@@ -1,0 +1,10 @@
+id: spring-batch
+vendor_id: pivotal-software
+name: Spring Batch
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:spring_batch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spring_batch
+  confidence: auto

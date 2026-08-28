@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "compaq--insight-management-agent",
+  "vendor_id": "compaq",
+  "product_id": "insight-management-agent",
+  "name": "Insight Management Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "insight_management_agent",
+      "confidence": "auto"
+    }
+  ]
+}

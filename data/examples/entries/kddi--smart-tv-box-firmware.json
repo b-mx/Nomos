@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kddi--smart-tv-box-firmware",
+  "vendor_id": "kddi",
+  "product_id": "smart-tv-box-firmware",
+  "name": "Smart Tv Box Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_tv_box_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: cmc-iii-processing-units-firmware
+vendor_id: rittal
+name: Cmc Iii Processing Units Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rittal:cmc_iii_processing_units_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmc_iii_processing_units_firmware
+  confidence: auto

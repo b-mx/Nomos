@@ -1,0 +1,10 @@
+id: lp-s7100
+vendor_id: epson
+name: Lp-S7100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:lp\-s7100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-s7100
+  confidence: auto

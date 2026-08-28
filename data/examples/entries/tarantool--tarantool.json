@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "tarantool--tarantool",
+  "vendor_id": "tarantool",
+  "product_id": "tarantool",
+  "name": "Tarantool",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "tarantool",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "tarantool",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: stratalink
+vendor_id: gotrango
+name: Stratalink
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gotrango:stratalink:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stratalink
+  confidence: auto

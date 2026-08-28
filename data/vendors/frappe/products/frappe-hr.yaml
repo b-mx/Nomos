@@ -1,0 +1,10 @@
+id: frappe-hr
+vendor_id: frappe
+name: Frappe Hr
+type: software
+tags: []
+cpe: cpe:2.3:a:frappe:frappe_hr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frappe_hr
+  confidence: auto

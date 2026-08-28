@@ -1,0 +1,10 @@
+id: mbd6304t-firmware
+vendor_id: xiongmaitech
+name: Mbd6304T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:mbd6304t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbd6304t_firmware
+  confidence: auto

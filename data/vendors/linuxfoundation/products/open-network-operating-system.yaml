@@ -1,0 +1,10 @@
+id: open-network-operating-system
+vendor_id: linuxfoundation
+name: Open Network Operating System
+type: os
+tags: []
+cpe: cpe:2.3:o:linuxfoundation:open_network_operating_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_network_operating_system
+  confidence: auto

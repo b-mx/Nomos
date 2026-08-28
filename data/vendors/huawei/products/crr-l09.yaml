@@ -1,0 +1,10 @@
+id: crr-l09
+vendor_id: huawei
+name: Crr-L09
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:crr\-l09:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crr-l09
+  confidence: auto

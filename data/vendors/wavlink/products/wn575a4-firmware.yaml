@@ -1,0 +1,10 @@
+id: wn575a4-firmware
+vendor_id: wavlink
+name: Wn575A4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wavlink:wn575a4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn575a4_firmware
+  confidence: auto

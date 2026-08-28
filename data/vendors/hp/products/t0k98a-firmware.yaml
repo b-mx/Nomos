@@ -1,0 +1,10 @@
+id: t0k98a-firmware
+vendor_id: hp
+name: T0K98A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:t0k98a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t0k98a_firmware
+  confidence: auto

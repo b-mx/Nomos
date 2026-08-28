@@ -1,0 +1,10 @@
+id: nas4
+vendor_id: iptime
+name: Nas4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:nas4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nas4
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wordpress-com-editing-toolkit
+vendor_id: automattic
+name: Wordpress.Com Editing Toolkit
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:wordpress\.com_editing_toolkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wordpress.com_editing_toolkit
+  confidence: auto

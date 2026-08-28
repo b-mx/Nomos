@@ -1,0 +1,10 @@
+id: r-30ia-mate
+vendor_id: fanuc
+name: R-30Ia Mate
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:r\-30ia_mate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r-30ia_mate
+  confidence: auto

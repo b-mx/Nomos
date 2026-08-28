@@ -1,0 +1,10 @@
+id: saros
+vendor_id: digi
+name: Saros
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:saros:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: saros
+  confidence: auto

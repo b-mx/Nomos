@@ -1,0 +1,10 @@
+id: fluida
+vendor_id: cryoutcreations
+name: Fluida
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:fluida:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fluida
+  confidence: auto

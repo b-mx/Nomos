@@ -1,0 +1,10 @@
+id: google-1
+vendor_id: bestwebsoft
+name: Google +1
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:google_\+1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: google_+1
+  confidence: auto

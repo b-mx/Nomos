@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--fx3g-firmware",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "fx3g-firmware",
+  "name": "Fx3G Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fx3g_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

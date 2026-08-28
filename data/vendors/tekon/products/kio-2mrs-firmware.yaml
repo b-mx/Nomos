@@ -1,0 +1,10 @@
+id: kio-2mrs-firmware
+vendor_id: tekon
+name: Kio-2Mrs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tekon:kio\-2mrs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kio-2mrs_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: oncommand-unified-manager-for-clustered-data-ontap
+vendor_id: netapp
+name: Oncommand Unified Manager For Clustered Data Ontap
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:oncommand_unified_manager_for_clustered_data_ontap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncommand_unified_manager_for_clustered_data_ontap
+  confidence: auto

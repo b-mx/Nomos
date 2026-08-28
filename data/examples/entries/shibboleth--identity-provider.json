@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "shibboleth--identity-provider",
+  "vendor_id": "shibboleth",
+  "product_id": "identity-provider",
+  "name": "Identity Provider",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "identity_provider",
+      "confidence": "auto"
+    }
+  ]
+}

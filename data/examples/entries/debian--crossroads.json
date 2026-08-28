@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--crossroads",
+  "vendor_id": "debian",
+  "product_id": "crossroads",
+  "name": "Crossroads",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "crossroads",
+      "confidence": "auto"
+    }
+  ]
+}

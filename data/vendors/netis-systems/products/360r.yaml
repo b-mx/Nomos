@@ -1,0 +1,10 @@
+id: 360r
+vendor_id: netis-systems
+name: 360R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netis\-systems:360r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 360r
+  confidence: auto

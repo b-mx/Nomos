@@ -1,0 +1,10 @@
+id: gigaswitch-642-desk-v5-sfp-2vi-firmware
+vendor_id: nexans
+name: Gigaswitch 642 Desk V5 Sfp-2Vi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nexans:gigaswitch_642_desk_v5_sfp\-2vi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gigaswitch_642_desk_v5_sfp-2vi_firmware
+  confidence: auto

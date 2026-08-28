@@ -1,0 +1,10 @@
+id: chassis-management-module
+vendor_id: lenovo
+name: Chassis Management Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:chassis_management_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chassis_management_module
+  confidence: auto

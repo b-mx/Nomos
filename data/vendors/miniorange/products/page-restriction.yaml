@@ -1,0 +1,10 @@
+id: page-restriction
+vendor_id: miniorange
+name: Page Restriction
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:page_restriction:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: page_restriction
+  confidence: auto

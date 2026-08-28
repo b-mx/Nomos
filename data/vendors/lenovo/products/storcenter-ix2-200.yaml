@@ -1,0 +1,10 @@
+id: storcenter-ix2-200
+vendor_id: lenovo
+name: Storcenter Ix2-200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:storcenter_ix2\-200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storcenter_ix2-200
+  confidence: auto

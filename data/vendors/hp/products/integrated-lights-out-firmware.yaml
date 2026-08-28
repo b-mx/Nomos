@@ -1,0 +1,10 @@
+id: integrated-lights-out-firmware
+vendor_id: hp
+name: Integrated Lights-Out Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:integrated_lights\-out_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_lights-out_firmware
+  confidence: auto

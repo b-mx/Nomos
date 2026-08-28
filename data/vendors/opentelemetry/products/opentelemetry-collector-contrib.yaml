@@ -1,0 +1,10 @@
+id: opentelemetry-collector-contrib
+vendor_id: opentelemetry
+name: Opentelemetry Collector Contrib
+type: software
+tags: []
+cpe: cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentelemetry_collector_contrib
+  confidence: auto

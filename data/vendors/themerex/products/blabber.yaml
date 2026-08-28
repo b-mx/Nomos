@@ -1,0 +1,10 @@
+id: blabber
+vendor_id: themerex
+name: Blabber
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:blabber:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blabber
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mp-c4504ex
+vendor_id: ricoh
+name: Mp C4504Ex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_c4504ex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c4504ex
+  confidence: auto

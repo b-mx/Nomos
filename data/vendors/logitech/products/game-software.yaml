@@ -1,0 +1,10 @@
+id: game-software
+vendor_id: logitech
+name: Game Software
+type: software
+tags: []
+cpe: cpe:2.3:a:logitech:game_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: game_software
+  confidence: auto

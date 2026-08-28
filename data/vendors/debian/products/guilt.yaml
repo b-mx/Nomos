@@ -1,0 +1,10 @@
+id: guilt
+vendor_id: debian
+name: Guilt
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:guilt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: guilt
+  confidence: auto

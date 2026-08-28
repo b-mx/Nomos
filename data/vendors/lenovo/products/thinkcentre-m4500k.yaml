@@ -1,0 +1,10 @@
+id: thinkcentre-m4500k
+vendor_id: lenovo
+name: Thinkcentre M4500K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m4500k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m4500k
+  confidence: auto

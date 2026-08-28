@@ -1,0 +1,10 @@
+id: realpresence-cloudaxis-suite
+vendor_id: polycom
+name: Realpresence Cloudaxis Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:polycom:realpresence_cloudaxis_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realpresence_cloudaxis_suite
+  confidence: auto

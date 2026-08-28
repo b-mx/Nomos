@@ -1,0 +1,10 @@
+id: storeeasy-1660-expanded-storage
+vendor_id: hpe
+name: Storeeasy 1660 Expanded Storage
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:storeeasy_1660_expanded_storage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeeasy_1660_expanded_storage
+  confidence: auto

@@ -1,0 +1,10 @@
+id: snc25150-0-firmware
+vendor_id: johnsoncontrols
+name: Snc25150-0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:johnsoncontrols:snc25150\-0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc25150-0_firmware
+  confidence: auto

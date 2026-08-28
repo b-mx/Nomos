@@ -1,0 +1,10 @@
+id: fr-configurator-sw3
+vendor_id: mitsubishielectric
+name: Fr Configurator Sw3
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:fr_configurator_sw3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fr_configurator_sw3
+  confidence: auto

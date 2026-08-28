@@ -1,0 +1,10 @@
+id: optima-expert-professional-firmware
+vendor_id: gehealthcare
+name: Optima Expert & Professional Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:optima_expert_\&_professional_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_expert_&_professional_firmware
+  confidence: auto

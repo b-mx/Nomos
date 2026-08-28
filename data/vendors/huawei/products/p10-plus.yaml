@@ -1,0 +1,10 @@
+id: p10-plus
+vendor_id: huawei
+name: P10 Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p10_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p10_plus
+  confidence: auto

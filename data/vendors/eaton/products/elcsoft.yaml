@@ -1,0 +1,10 @@
+id: elcsoft
+vendor_id: eaton
+name: Elcsoft
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:elcsoft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elcsoft
+  confidence: auto

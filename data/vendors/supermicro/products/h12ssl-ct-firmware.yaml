@@ -1,0 +1,10 @@
+id: h12ssl-ct-firmware
+vendor_id: supermicro
+name: H12Ssl-Ct Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:h12ssl\-ct_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12ssl-ct_firmware
+  confidence: auto

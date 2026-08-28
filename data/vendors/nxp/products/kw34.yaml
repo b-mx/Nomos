@@ -1,0 +1,10 @@
+id: kw34
+vendor_id: nxp
+name: Kw34
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:kw34:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kw34
+  confidence: auto

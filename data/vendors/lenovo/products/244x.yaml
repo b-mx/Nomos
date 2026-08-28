@@ -1,0 +1,10 @@
+id: 244x
+vendor_id: lenovo
+name: 244X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:244x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 244x
+  confidence: auto

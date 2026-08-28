@@ -1,0 +1,10 @@
+id: elements-endpoint-detection-and-response
+vendor_id: f-secure
+name: Elements Endpoint Detection And Response
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:elements_endpoint_detection_and_response:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elements_endpoint_detection_and_response
+  confidence: auto

@@ -1,0 +1,10 @@
+id: delta-xl-firmware
+vendor_id: draeger
+name: Delta Xl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:draeger:delta_xl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: delta_xl_firmware
+  confidence: auto

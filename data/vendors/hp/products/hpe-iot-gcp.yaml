@@ -1,0 +1,10 @@
+id: hpe-iot-gcp
+vendor_id: hp
+name: Hpe Iot + Gcp
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:hpe_iot_\+_gcp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpe_iot_+_gcp
+  confidence: auto

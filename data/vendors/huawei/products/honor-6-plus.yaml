@@ -1,0 +1,10 @@
+id: honor-6-plus
+vendor_id: huawei
+name: Honor 6 Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:honor_6_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_6_plus
+  confidence: auto

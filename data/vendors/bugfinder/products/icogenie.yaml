@@ -1,0 +1,10 @@
+id: icogenie
+vendor_id: bugfinder
+name: Icogenie
+type: software
+tags: []
+cpe: cpe:2.3:a:bugfinder:icogenie:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icogenie
+  confidence: auto

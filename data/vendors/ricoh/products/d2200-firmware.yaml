@@ -1,0 +1,10 @@
+id: d2200-firmware
+vendor_id: ricoh
+name: D2200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:d2200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d2200_firmware
+  confidence: auto

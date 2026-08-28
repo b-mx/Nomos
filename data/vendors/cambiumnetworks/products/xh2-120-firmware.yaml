@@ -1,0 +1,10 @@
+id: xh2-120-firmware
+vendor_id: cambiumnetworks
+name: Xh2-120 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cambiumnetworks:xh2\-120_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xh2-120_firmware
+  confidence: auto

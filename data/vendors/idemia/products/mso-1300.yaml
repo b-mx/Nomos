@@ -1,0 +1,10 @@
+id: mso-1300
+vendor_id: idemia
+name: Mso 1300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idemia:mso_1300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mso_1300
+  confidence: auto

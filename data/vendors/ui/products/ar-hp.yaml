@@ -1,0 +1,10 @@
+id: ar-hp
+vendor_id: ui
+name: Ar-Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:ar\-hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar-hp
+  confidence: auto

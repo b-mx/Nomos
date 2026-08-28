@@ -1,0 +1,10 @@
+id: cmc-iii-firmware
+vendor_id: rittal
+name: Cmc Iii Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rittal:cmc_iii_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmc_iii_firmware
+  confidence: auto

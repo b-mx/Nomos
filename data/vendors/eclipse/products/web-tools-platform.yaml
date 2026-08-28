@@ -1,0 +1,10 @@
+id: web-tools-platform
+vendor_id: eclipse
+name: Web Tools Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:web_tools_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_tools_platform
+  confidence: auto

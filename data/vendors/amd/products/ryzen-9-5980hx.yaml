@@ -1,0 +1,10 @@
+id: ryzen-9-5980hx
+vendor_id: amd
+name: Ryzen 9 5980Hx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_9_5980hx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_9_5980hx
+  confidence: auto

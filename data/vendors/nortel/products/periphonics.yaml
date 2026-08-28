@@ -1,0 +1,10 @@
+id: periphonics
+vendor_id: nortel
+name: Periphonics
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:periphonics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: periphonics
+  confidence: auto

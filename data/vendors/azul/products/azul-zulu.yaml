@@ -1,0 +1,13 @@
+id: azul-zulu
+vendor_id: azul
+name: Azul Zulu
+type: library
+tags: []
+cpe: cpe:2.3:a:azul:zulu:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: azul-zulu
+  confidence: auto
+- source: nvd
+  value: zulu
+  confidence: auto

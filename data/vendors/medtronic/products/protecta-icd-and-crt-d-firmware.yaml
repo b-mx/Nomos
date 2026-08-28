@@ -1,0 +1,10 @@
+id: protecta-icd-and-crt-d-firmware
+vendor_id: medtronic
+name: Protecta Icd And Crt-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:protecta_icd_and_crt\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protecta_icd_and_crt-d_firmware
+  confidence: auto

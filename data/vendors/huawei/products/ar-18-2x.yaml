@@ -1,0 +1,10 @@
+id: ar-18-2x
+vendor_id: huawei
+name: Ar 18-2X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar_18\-2x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar_18-2x
+  confidence: auto

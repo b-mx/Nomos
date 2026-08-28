@@ -1,0 +1,10 @@
+id: financial-fusion-consumer-banking-solution
+vendor_id: sybase
+name: Financial Fusion Consumer Banking Solution
+type: software
+tags: []
+cpe: cpe:2.3:a:sybase:financial_fusion_consumer_banking_solution:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: financial_fusion_consumer_banking_solution
+  confidence: auto

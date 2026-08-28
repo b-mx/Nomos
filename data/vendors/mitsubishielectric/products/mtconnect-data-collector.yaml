@@ -1,0 +1,10 @@
+id: mtconnect-data-collector
+vendor_id: mitsubishielectric
+name: Mtconnect Data Collector
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mtconnect_data_collector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mtconnect_data_collector
+  confidence: auto

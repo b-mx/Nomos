@@ -1,0 +1,10 @@
+id: k3c
+vendor_id: phicomm
+name: K3C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phicomm:k3c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k3c
+  confidence: auto

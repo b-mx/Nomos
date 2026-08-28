@@ -1,0 +1,10 @@
+id: workcentre
+vendor_id: xerox
+name: Workcentre
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:workcentre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre
+  confidence: auto

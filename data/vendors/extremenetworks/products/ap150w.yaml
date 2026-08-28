@@ -1,0 +1,10 @@
+id: ap150w
+vendor_id: extremenetworks
+name: Ap150W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap150w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap150w
+  confidence: auto

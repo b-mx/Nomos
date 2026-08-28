@@ -1,0 +1,6 @@
+id: netbackup-appliance-os
+name: NetBackup Appliance OS
+aliases:
+- source: endoflife
+  value: netbackup-appliance-os
+  confidence: auto

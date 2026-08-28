@@ -1,0 +1,10 @@
+id: k120s
+vendor_id: ls-electric
+name: K120S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:k120s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k120s
+  confidence: auto

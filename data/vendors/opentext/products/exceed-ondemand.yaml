@@ -1,0 +1,10 @@
+id: exceed-ondemand
+vendor_id: opentext
+name: Exceed Ondemand
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:exceed_ondemand:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exceed_ondemand
+  confidence: auto

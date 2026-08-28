@@ -1,0 +1,10 @@
+id: controledge-virtual-unit-operations-controller
+vendor_id: honeywell
+name: Controledge Virtual Unit Operations Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:controledge_virtual_unit_operations_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controledge_virtual_unit_operations_controller
+  confidence: auto

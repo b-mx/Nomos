@@ -1,0 +1,10 @@
+id: elle-al00b
+vendor_id: huawei
+name: Elle-Al00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:elle\-al00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elle-al00b
+  confidence: auto

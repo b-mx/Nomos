@@ -1,0 +1,10 @@
+id: planet
+vendor_id: planet
+name: Planet
+type: software
+tags: []
+cpe: cpe:2.3:a:planet:planet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: planet
+  confidence: auto

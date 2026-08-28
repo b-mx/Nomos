@@ -1,0 +1,10 @@
+id: a3100r
+vendor_id: totolink
+name: A3100R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a3100r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3100r
+  confidence: auto

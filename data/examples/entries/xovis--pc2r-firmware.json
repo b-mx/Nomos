@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "xovis--pc2r-firmware",
+  "vendor_id": "xovis",
+  "product_id": "pc2r-firmware",
+  "name": "Pc2R Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pc2r_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

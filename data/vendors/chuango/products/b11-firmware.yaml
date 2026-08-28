@@ -1,0 +1,10 @@
+id: b11-firmware
+vendor_id: chuango
+name: B11 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chuango:b11_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b11_firmware
+  confidence: auto

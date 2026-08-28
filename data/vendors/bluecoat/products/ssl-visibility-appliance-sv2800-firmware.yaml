@@ -1,0 +1,10 @@
+id: ssl-visibility-appliance-sv2800-firmware
+vendor_id: bluecoat
+name: Ssl Visibility Appliance Sv2800 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bluecoat:ssl_visibility_appliance_sv2800_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ssl_visibility_appliance_sv2800_firmware
+  confidence: auto

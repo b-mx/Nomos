@@ -1,0 +1,10 @@
+id: hostel
+vendor_id: kibokolabs
+name: Hostel
+type: software
+tags: []
+cpe: cpe:2.3:a:kibokolabs:hostel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hostel
+  confidence: auto

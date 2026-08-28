@@ -1,0 +1,10 @@
+id: ax8004m
+vendor_id: iptime
+name: Ax8004M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:ax8004m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax8004m
+  confidence: auto

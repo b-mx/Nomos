@@ -1,0 +1,10 @@
+id: anthem
+vendor_id: abbott
+name: Anthem
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abbott:anthem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anthem
+  confidence: auto

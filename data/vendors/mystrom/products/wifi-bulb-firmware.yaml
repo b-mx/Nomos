@@ -1,0 +1,10 @@
+id: wifi-bulb-firmware
+vendor_id: mystrom
+name: Wifi Bulb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mystrom:wifi_bulb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifi_bulb_firmware
+  confidence: auto

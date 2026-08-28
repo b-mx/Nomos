@@ -1,0 +1,10 @@
+id: power-motion-i-model-a
+vendor_id: fanuc
+name: Power Motion I-Model A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:power_motion_i\-model_a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: power_motion_i-model_a
+  confidence: auto

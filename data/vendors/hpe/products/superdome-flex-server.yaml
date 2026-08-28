@@ -1,0 +1,10 @@
+id: superdome-flex-server
+vendor_id: hpe
+name: Superdome Flex Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:superdome_flex_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: superdome_flex_server
+  confidence: auto

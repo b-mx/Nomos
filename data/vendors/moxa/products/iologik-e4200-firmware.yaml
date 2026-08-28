@@ -1,0 +1,10 @@
+id: iologik-e4200-firmware
+vendor_id: moxa
+name: Iologik E4200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:iologik_e4200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iologik_e4200_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: merlin-home-ex1100
+vendor_id: abbott
+name: Merlin@Home Ex1100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abbott:merlin\@home_ex1100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: merlin@home_ex1100
+  confidence: auto

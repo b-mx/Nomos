@@ -1,0 +1,10 @@
+id: wab-s300
+vendor_id: elecom
+name: Wab-S300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:wab\-s300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wab-s300
+  confidence: auto

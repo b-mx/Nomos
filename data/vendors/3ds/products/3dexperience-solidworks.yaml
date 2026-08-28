@@ -1,0 +1,10 @@
+id: 3dexperience-solidworks
+vendor_id: 3ds
+name: 3Dexperience Solidworks
+type: software
+tags: []
+cpe: cpe:2.3:a:3ds:3dexperience_solidworks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3dexperience_solidworks
+  confidence: auto

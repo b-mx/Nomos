@@ -1,0 +1,10 @@
+id: school-management-software
+vendor_id: campcodes
+name: School Management Software
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:school_management_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: school_management_software
+  confidence: auto

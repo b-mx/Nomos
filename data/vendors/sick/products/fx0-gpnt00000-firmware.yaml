@@ -1,0 +1,10 @@
+id: fx0-gpnt00000-firmware
+vendor_id: sick
+name: Fx0-Gpnt00000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:fx0\-gpnt00000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx0-gpnt00000_firmware
+  confidence: auto

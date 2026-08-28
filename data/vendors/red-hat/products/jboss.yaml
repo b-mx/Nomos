@@ -1,0 +1,9 @@
+id: jboss
+vendor_id: red-hat
+name: JBoss
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: JBoss
+  confidence: auto

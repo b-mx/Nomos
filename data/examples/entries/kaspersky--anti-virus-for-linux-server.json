@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kaspersky--anti-virus-for-linux-server",
+  "vendor_id": "kaspersky",
+  "product_id": "anti-virus-for-linux-server",
+  "name": "Anti-Virus For Linux Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "anti-virus_for_linux_server",
+      "confidence": "auto"
+    }
+  ]
+}

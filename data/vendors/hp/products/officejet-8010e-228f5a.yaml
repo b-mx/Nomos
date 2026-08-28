@@ -1,0 +1,10 @@
+id: officejet-8010e-228f5a
+vendor_id: hp
+name: Officejet 8010E 228F5A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_8010e_228f5a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_8010e_228f5a
+  confidence: auto

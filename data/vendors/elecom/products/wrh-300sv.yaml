@@ -1,0 +1,10 @@
+id: wrh-300sv
+vendor_id: elecom
+name: Wrh-300Sv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:wrh\-300sv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrh-300sv
+  confidence: auto

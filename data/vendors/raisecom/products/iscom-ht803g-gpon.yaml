@@ -1,0 +1,10 @@
+id: iscom-ht803g-gpon
+vendor_id: raisecom
+name: Iscom Ht803G Gpon
+type: hardware
+tags: []
+cpe: cpe:2.3:h:raisecom:iscom_ht803g_gpon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iscom_ht803g_gpon
+  confidence: auto

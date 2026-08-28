@@ -1,0 +1,10 @@
+id: sensorprobe2
+vendor_id: akcp
+name: Sensorprobe2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akcp:sensorprobe2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensorprobe2
+  confidence: auto

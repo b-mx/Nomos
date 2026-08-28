@@ -1,0 +1,10 @@
+id: ce503a
+vendor_id: hp
+name: Ce503A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:ce503a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ce503a
+  confidence: auto

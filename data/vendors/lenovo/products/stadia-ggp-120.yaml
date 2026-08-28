@@ -1,0 +1,10 @@
+id: stadia-ggp-120
+vendor_id: lenovo
+name: Stadia Ggp-120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:stadia_ggp\-120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stadia_ggp-120
+  confidence: auto

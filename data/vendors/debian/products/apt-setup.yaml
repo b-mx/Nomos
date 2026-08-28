@@ -1,0 +1,10 @@
+id: apt-setup
+vendor_id: debian
+name: Apt-Setup
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:apt\-setup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apt-setup
+  confidence: auto

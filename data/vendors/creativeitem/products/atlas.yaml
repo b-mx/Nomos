@@ -1,0 +1,10 @@
+id: atlas
+vendor_id: creativeitem
+name: Atlas
+type: software
+tags: []
+cpe: cpe:2.3:a:creativeitem:atlas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atlas
+  confidence: auto

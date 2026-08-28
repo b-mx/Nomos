@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "coder--coder",
+  "vendor_id": "coder",
+  "product_id": "coder",
+  "name": "Coder",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "coder",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "coder",
+      "confidence": "auto"
+    }
+  ]
+}

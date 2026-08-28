@@ -1,0 +1,10 @@
+id: it-operations-director
+vendor_id: hitachi
+name: It Operations Director
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:it_operations_director:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: it_operations_director
+  confidence: auto

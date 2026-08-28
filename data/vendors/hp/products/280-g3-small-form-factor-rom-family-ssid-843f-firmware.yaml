@@ -1,0 +1,10 @@
+id: 280-g3-small-form-factor-rom-family-ssid-843f-firmware
+vendor_id: hp
+name: 280 G3 Small Form Factor (Rom Family Ssid 843F) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:280_g3_small_form_factor_\(rom_family_ssid_843f\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 280_g3_small_form_factor_(rom_family_ssid_843f)_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dg-hr1400-firmware
+vendor_id: digisol
+name: Dg-Hr1400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digisol:dg\-hr1400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dg-hr1400_firmware
+  confidence: auto

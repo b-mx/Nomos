@@ -1,0 +1,13 @@
+id: moodle
+vendor_id: moodle
+name: Moodle
+type: software
+tags: []
+cpe: cpe:2.3:a:moodle:moodle:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: moodle
+  confidence: auto
+- source: nvd
+  value: moodle
+  confidence: auto

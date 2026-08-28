@@ -1,0 +1,10 @@
+id: k7s37a-firmware
+vendor_id: hp
+name: K7S37A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:k7s37a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7s37a_firmware
+  confidence: auto

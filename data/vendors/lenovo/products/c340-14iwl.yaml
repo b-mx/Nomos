@@ -1,0 +1,10 @@
+id: c340-14iwl
+vendor_id: lenovo
+name: C340-14Iwl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:c340\-14iwl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c340-14iwl
+  confidence: auto

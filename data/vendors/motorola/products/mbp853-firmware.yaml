@@ -1,0 +1,10 @@
+id: mbp853-firmware
+vendor_id: motorola
+name: Mbp853 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:mbp853_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbp853_firmware
+  confidence: auto

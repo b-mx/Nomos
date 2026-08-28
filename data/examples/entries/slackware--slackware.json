@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "slackware--slackware",
+  "vendor_id": "slackware",
+  "product_id": "slackware",
+  "name": "Slackware Linux",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "slackware",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "slackware_linux",
+      "confidence": "auto"
+    }
+  ]
+}

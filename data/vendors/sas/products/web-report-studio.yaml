@@ -1,0 +1,10 @@
+id: web-report-studio
+vendor_id: sas
+name: Web Report Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:sas:web_report_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_report_studio
+  confidence: auto

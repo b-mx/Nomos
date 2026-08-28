@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--webconfig",
+  "vendor_id": "epson",
+  "product_id": "webconfig",
+  "name": "Webconfig",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "webconfig",
+      "confidence": "auto"
+    }
+  ]
+}

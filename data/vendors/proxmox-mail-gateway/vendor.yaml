@@ -1,0 +1,6 @@
+id: proxmox-mail-gateway
+name: Proxmox Mail Gateway
+aliases:
+- source: endoflife
+  value: proxmox-mail-gateway
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vantara-pentaho-business-intelligence-server
+vendor_id: hitachi
+name: Vantara Pentaho Business Intelligence Server
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:vantara_pentaho_business_intelligence_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vantara_pentaho_business_intelligence_server
+  confidence: auto

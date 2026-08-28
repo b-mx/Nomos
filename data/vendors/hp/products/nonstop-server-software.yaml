@@ -1,0 +1,10 @@
+id: nonstop-server-software
+vendor_id: hp
+name: Nonstop Server Software
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:nonstop_server_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nonstop_server_software
+  confidence: auto

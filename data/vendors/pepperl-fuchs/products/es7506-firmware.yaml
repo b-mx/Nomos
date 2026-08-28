@@ -1,0 +1,10 @@
+id: es7506-firmware
+vendor_id: pepperl-fuchs
+name: Es7506 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:es7506_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: es7506_firmware
+  confidence: auto

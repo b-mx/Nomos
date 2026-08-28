@@ -1,0 +1,10 @@
+id: win-pak
+vendor_id: honeywell
+name: Win-Pak
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:win\-pak:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: win-pak
+  confidence: auto

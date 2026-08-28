@@ -1,0 +1,10 @@
+id: tempo
+vendor_id: grafana
+name: Tempo
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:tempo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tempo
+  confidence: auto

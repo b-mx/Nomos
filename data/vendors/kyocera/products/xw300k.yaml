@@ -1,0 +1,10 @@
+id: xw300k
+vendor_id: kyocera
+name: Xw300K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kyocera:xw300k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xw300k
+  confidence: auto

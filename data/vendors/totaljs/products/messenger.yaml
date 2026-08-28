@@ -1,0 +1,10 @@
+id: messenger
+vendor_id: totaljs
+name: Messenger
+type: software
+tags: []
+cpe: cpe:2.3:a:totaljs:messenger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: messenger
+  confidence: auto

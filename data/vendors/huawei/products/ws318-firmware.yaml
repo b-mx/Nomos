@@ -1,0 +1,10 @@
+id: ws318-firmware
+vendor_id: huawei
+name: Ws318 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ws318_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws318_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nport-iaw5150a-6i-o-firmware
+vendor_id: moxa
+name: Nport Iaw5150A-6I/O Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_iaw5150a\-6i\/o_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_iaw5150a-6i/o_firmware
+  confidence: auto

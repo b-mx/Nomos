@@ -1,0 +1,10 @@
+id: vt5-wx12-firmware
+vendor_id: keyence
+name: Vt5-Wx12 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:keyence:vt5\-wx12_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vt5-wx12_firmware
+  confidence: auto

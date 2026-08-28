@@ -1,0 +1,10 @@
+id: iq
+vendor_id: avaya
+name: Iq
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:iq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq
+  confidence: auto

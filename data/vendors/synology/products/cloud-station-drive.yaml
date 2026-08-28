@@ -1,0 +1,10 @@
+id: cloud-station-drive
+vendor_id: synology
+name: Cloud Station Drive
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:cloud_station_drive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_station_drive
+  confidence: auto

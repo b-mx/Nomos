@@ -1,0 +1,10 @@
+id: futurenet-nxr-650
+vendor_id: centurysys
+name: Futurenet Nxr-650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:centurysys:futurenet_nxr\-650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: futurenet_nxr-650
+  confidence: auto

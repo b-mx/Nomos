@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--athlon-3150g-firmware",
+  "vendor_id": "amd",
+  "product_id": "athlon-3150g-firmware",
+  "name": "Athlon 3150G Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "athlon_3150g_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

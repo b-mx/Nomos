@@ -1,0 +1,10 @@
+id: wrt1900acs
+vendor_id: linksys
+name: Wrt1900Acs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wrt1900acs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrt1900acs
+  confidence: auto

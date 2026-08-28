@@ -1,0 +1,10 @@
+id: mx-virtual
+vendor_id: zultys
+name: Mx-Virtual
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zultys:mx\-virtual:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-virtual
+  confidence: auto

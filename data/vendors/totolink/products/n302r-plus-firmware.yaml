@@ -1,0 +1,10 @@
+id: n302r-plus-firmware
+vendor_id: totolink
+name: N302R Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:n302r_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n302r_plus_firmware
+  confidence: auto

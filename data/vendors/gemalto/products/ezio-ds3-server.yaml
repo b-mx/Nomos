@@ -1,0 +1,10 @@
+id: ezio-ds3-server
+vendor_id: gemalto
+name: Ezio Ds3 Server
+type: software
+tags: []
+cpe: cpe:2.3:a:gemalto:ezio_ds3_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ezio_ds3_server
+  confidence: auto

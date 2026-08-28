@@ -1,0 +1,10 @@
+id: pcmanager
+vendor_id: huawei
+name: Pcmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:pcmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcmanager
+  confidence: auto

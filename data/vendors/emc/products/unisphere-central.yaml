@@ -1,0 +1,10 @@
+id: unisphere-central
+vendor_id: emc
+name: Unisphere Central
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:unisphere_central:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unisphere_central
+  confidence: auto

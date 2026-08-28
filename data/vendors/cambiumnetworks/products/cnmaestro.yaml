@@ -1,0 +1,10 @@
+id: cnmaestro
+vendor_id: cambiumnetworks
+name: Cnmaestro
+type: os
+tags: []
+cpe: cpe:2.3:o:cambiumnetworks:cnmaestro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cnmaestro
+  confidence: auto

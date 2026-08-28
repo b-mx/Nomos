@@ -1,0 +1,10 @@
+id: pegasys-p2000-server-software
+vendor_id: johnsoncontrols
+name: Pegasys P2000 Server Software
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:pegasys_p2000_server_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pegasys_p2000_server_software
+  confidence: auto

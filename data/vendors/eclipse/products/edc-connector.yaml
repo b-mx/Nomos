@@ -1,0 +1,10 @@
+id: edc-connector
+vendor_id: eclipse
+name: Edc Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:edc_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edc_connector
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ep-707a
+vendor_id: epson
+name: Ep-707A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ep\-707a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep-707a
+  confidence: auto

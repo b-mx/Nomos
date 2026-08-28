@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-protect",
+  "vendor_id": "ui",
+  "product_id": "unifi-protect",
+  "name": "Unifi Protect",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_protect",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bitdefender--internet-security",
+  "vendor_id": "bitdefender",
+  "product_id": "internet-security",
+  "name": "Internet Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "internet_security",
+      "confidence": "auto"
+    }
+  ]
+}

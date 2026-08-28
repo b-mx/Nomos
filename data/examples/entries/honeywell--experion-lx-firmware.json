@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--experion-lx-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "experion-lx-firmware",
+  "name": "Experion Lx Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "experion_lx_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

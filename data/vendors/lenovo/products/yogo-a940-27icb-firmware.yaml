@@ -1,0 +1,10 @@
+id: yogo-a940-27icb-firmware
+vendor_id: lenovo
+name: Yogo A940-27Icb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yogo_a940\-27icb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yogo_a940-27icb_firmware
+  confidence: auto

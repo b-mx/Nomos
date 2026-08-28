@@ -1,0 +1,10 @@
+id: balance-20x-firmware
+vendor_id: peplink
+name: Balance 20X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:balance_20x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: balance_20x_firmware
+  confidence: auto

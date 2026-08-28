@@ -1,0 +1,10 @@
+id: levistudio-hmi-editor-firmware
+vendor_id: we-con
+name: Levistudio Hmi Editor Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:we\-con:levistudio_hmi_editor_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: levistudio_hmi_editor_firmware
+  confidence: auto

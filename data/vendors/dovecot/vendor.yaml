@@ -1,0 +1,7 @@
+id: dovecot
+name: Dovecot
+cpe: cpe:2.3:*:dovecot:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dovecot
+  confidence: auto

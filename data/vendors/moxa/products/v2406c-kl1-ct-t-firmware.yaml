@@ -1,0 +1,10 @@
+id: v2406c-kl1-ct-t-firmware
+vendor_id: moxa
+name: V2406C-Kl1-Ct-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:v2406c\-kl1\-ct\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v2406c-kl1-ct-t_firmware
+  confidence: auto

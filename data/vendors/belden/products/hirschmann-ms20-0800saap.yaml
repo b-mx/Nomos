@@ -1,0 +1,10 @@
+id: hirschmann-ms20-0800saap
+vendor_id: belden
+name: Hirschmann Ms20-0800Saap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_ms20\-0800saap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_ms20-0800saap
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zendservice-technorati
+vendor_id: zend
+name: Zendservice Technorati
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zendservice_technorati:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendservice_technorati
+  confidence: auto

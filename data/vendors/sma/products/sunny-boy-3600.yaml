@@ -1,0 +1,10 @@
+id: sunny-boy-3600
+vendor_id: sma
+name: Sunny Boy 3600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sma:sunny_boy_3600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_boy_3600
+  confidence: auto

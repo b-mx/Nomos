@@ -1,0 +1,10 @@
+id: x18-firmware
+vendor_id: totolink
+name: X18 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:x18_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x18_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: data-engineering
+vendor_id: cloudera
+name: Data Engineering
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudera:data_engineering:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_engineering
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkpad-tablet-10-bios
+vendor_id: lenovo
+name: Thinkpad Tablet 10 Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_tablet_10_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_tablet_10_bios
+  confidence: auto

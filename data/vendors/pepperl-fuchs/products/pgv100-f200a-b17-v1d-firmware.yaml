@@ -1,0 +1,10 @@
+id: pgv100-f200a-b17-v1d-firmware
+vendor_id: pepperl-fuchs
+name: Pgv100-F200A-B17-V1D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:pgv100\-f200a\-b17\-v1d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pgv100-f200a-b17-v1d_firmware
+  confidence: auto

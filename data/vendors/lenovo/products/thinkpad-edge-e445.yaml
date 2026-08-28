@@ -1,0 +1,10 @@
+id: thinkpad-edge-e445
+vendor_id: lenovo
+name: Thinkpad Edge E445
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_edge_e445:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_edge_e445
+  confidence: auto

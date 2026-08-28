@@ -1,0 +1,10 @@
+id: microstation-connect
+vendor_id: bentley
+name: Microstation Connect
+type: software
+tags: []
+cpe: cpe:2.3:a:bentley:microstation_connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microstation_connect
+  confidence: auto

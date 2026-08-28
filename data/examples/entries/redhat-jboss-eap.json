@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "redhat-jboss-eap",
+  "vendor_id": "redhat-jboss-eap",
+  "name": "Red Hat JBoss Enterprise Application Platform",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "redhat-jboss-eap",
+      "confidence": "auto"
+    }
+  ]
+}

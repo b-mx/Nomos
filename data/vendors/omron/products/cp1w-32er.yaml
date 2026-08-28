@@ -1,0 +1,10 @@
+id: cp1w-32er
+vendor_id: omron
+name: Cp1W-32Er
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp1w\-32er:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-32er
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mt31
+vendor_id: hp
+name: Mt31
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mt31:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt31
+  confidence: auto

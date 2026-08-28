@@ -1,0 +1,10 @@
+id: advanced-secure-gateway
+vendor_id: bluecoat
+name: Advanced Secure Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:advanced_secure_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_secure_gateway
+  confidence: auto

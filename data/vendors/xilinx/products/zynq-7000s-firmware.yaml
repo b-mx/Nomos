@@ -1,0 +1,10 @@
+id: zynq-7000s-firmware
+vendor_id: xilinx
+name: Zynq-7000S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xilinx:zynq\-7000s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zynq-7000s_firmware
+  confidence: auto

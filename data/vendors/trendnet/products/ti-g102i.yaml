@@ -1,0 +1,10 @@
+id: ti-g102i
+vendor_id: trendnet
+name: Ti-G102I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:ti\-g102i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ti-g102i
+  confidence: auto

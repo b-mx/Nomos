@@ -1,0 +1,10 @@
+id: primelink-b9136
+vendor_id: xerox
+name: Primelink B9136
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:primelink_b9136:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primelink_b9136
+  confidence: auto

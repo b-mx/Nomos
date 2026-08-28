@@ -1,0 +1,10 @@
+id: iboot-pdu8a-2n15-firmware
+vendor_id: dataprobe
+name: Iboot-Pdu8A-2N15 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dataprobe:iboot\-pdu8a\-2n15_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iboot-pdu8a-2n15_firmware
+  confidence: auto

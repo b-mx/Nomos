@@ -1,0 +1,10 @@
+id: one-iap-family
+vendor_id: digi
+name: One Iap Family
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:one_iap_family:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_iap_family
+  confidence: auto

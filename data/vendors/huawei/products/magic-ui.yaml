@@ -1,0 +1,10 @@
+id: magic-ui
+vendor_id: huawei
+name: Magic Ui
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:magic_ui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_ui
+  confidence: auto

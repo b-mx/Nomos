@@ -1,0 +1,10 @@
+id: transform-ndn-211-lite
+vendor_id: barco
+name: Transform Ndn-211 Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:barco:transform_ndn\-211_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: transform_ndn-211_lite
+  confidence: auto

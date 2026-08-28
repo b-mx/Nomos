@@ -1,0 +1,10 @@
+id: callback-widget
+vendor_id: phpjabbers
+name: Callback Widget
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:callback_widget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: callback_widget
+  confidence: auto

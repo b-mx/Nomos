@@ -1,0 +1,10 @@
+id: '9106'
+vendor_id: arubanetworks
+name: '9106'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:9106:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '9106'
+  confidence: auto

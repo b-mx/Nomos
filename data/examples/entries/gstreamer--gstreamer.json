@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "gstreamer--gstreamer",
+  "vendor_id": "gstreamer",
+  "product_id": "gstreamer",
+  "name": "GStreamer",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "gstreamer",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "gstreamer",
+      "confidence": "auto"
+    }
+  ]
+}

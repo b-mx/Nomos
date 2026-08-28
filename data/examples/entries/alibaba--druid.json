@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "alibaba--druid",
+  "vendor_id": "alibaba",
+  "product_id": "druid",
+  "name": "Druid",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "druid",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: j3e145-m64
+vendor_id: nxp
+name: J3E145 M64
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:j3e145_m64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j3e145_m64
+  confidence: auto

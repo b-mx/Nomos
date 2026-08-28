@@ -1,0 +1,10 @@
+id: a403
+vendor_id: kongtop
+name: A403
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kongtop:a403:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a403
+  confidence: auto

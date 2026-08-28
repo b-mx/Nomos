@@ -1,0 +1,10 @@
+id: bus-node-cteu-ep
+vendor_id: festo
+name: Bus Node Cteu-Ep
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:bus_node_cteu\-ep:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bus_node_cteu-ep
+  confidence: auto

@@ -1,0 +1,10 @@
+id: libgsf
+vendor_id: gnome
+name: Libgsf
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:libgsf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libgsf
+  confidence: auto

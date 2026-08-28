@@ -1,0 +1,10 @@
+id: qnx-momentics-tool-suite
+vendor_id: blackberry
+name: Qnx Momentics Tool Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:qnx_momentics_tool_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnx_momentics_tool_suite
+  confidence: auto

@@ -1,0 +1,10 @@
+id: drasimucad
+vendor_id: deltaww
+name: Drasimucad
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:drasimucad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: drasimucad
+  confidence: auto

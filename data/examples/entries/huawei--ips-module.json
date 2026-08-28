@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--ips-module",
+  "vendor_id": "huawei",
+  "product_id": "ips-module",
+  "name": "Ips Module",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ips_module",
+      "confidence": "auto"
+    }
+  ]
+}

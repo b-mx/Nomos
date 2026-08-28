@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "aterm--w1200ex-firmware",
+  "vendor_id": "aterm",
+  "product_id": "w1200ex-firmware",
+  "name": "W1200Ex Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "w1200ex_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

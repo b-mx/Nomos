@@ -1,0 +1,10 @@
+id: fd9165-ht-a-firmware
+vendor_id: vivotek
+name: Fd9165-Ht-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fd9165\-ht\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd9165-ht-a_firmware
+  confidence: auto

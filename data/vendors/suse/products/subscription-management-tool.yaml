@@ -1,0 +1,10 @@
+id: subscription-management-tool
+vendor_id: suse
+name: Subscription Management Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:subscription_management_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: subscription_management_tool
+  confidence: auto

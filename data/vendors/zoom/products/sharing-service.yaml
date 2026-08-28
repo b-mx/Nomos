@@ -1,0 +1,10 @@
+id: sharing-service
+vendor_id: zoom
+name: Sharing Service
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:sharing_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sharing_service
+  confidence: auto

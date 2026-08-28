@@ -1,0 +1,10 @@
+id: s340-14iwl-touch
+vendor_id: lenovo
+name: S340-14Iwl Touch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s340\-14iwl_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s340-14iwl_touch
+  confidence: auto

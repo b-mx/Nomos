@@ -1,0 +1,10 @@
+id: desktop-security
+vendor_id: pgp
+name: Desktop Security
+type: software
+tags: []
+cpe: cpe:2.3:a:pgp:desktop_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_security
+  confidence: auto

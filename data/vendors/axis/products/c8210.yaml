@@ -1,0 +1,10 @@
+id: c8210
+vendor_id: axis
+name: C8210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:c8210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c8210
+  confidence: auto

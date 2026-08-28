@@ -1,0 +1,10 @@
+id: infinity-explorer-c700
+vendor_id: draeger
+name: Infinity Explorer C700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:draeger:infinity_explorer_c700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infinity_explorer_c700
+  confidence: auto

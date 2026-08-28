@@ -1,0 +1,10 @@
+id: jg362b-hp-hsr6804-router-chassis
+vendor_id: hp
+name: Jg362B Hp Hsr6804 Router Chassis
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg362b_hp_hsr6804_router_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg362b_hp_hsr6804_router_chassis
+  confidence: auto

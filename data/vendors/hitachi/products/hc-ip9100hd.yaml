@@ -1,0 +1,10 @@
+id: hc-ip9100hd
+vendor_id: hitachi
+name: Hc-Ip9100Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachi:hc\-ip9100hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hc-ip9100hd
+  confidence: auto

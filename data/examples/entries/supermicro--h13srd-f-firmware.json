@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--h13srd-f-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "h13srd-f-firmware",
+  "name": "H13Srd-F Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h13srd-f_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

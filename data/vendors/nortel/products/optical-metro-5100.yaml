@@ -1,0 +1,10 @@
+id: optical-metro-5100
+vendor_id: nortel
+name: Optical Metro 5100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:optical_metro_5100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optical_metro_5100
+  confidence: auto

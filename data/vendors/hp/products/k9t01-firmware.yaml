@@ -1,0 +1,10 @@
+id: k9t01-firmware
+vendor_id: hp
+name: K9T01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:k9t01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k9t01_firmware
+  confidence: auto

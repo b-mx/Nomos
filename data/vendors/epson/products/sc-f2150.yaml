@@ -1,0 +1,10 @@
+id: sc-f2150
+vendor_id: epson
+name: Sc-F2150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-f2150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-f2150
+  confidence: auto

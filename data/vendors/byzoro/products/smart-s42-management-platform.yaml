@@ -1,0 +1,10 @@
+id: smart-s42-management-platform
+vendor_id: byzoro
+name: Smart S42 Management Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:byzoro:smart_s42_management_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_s42_management_platform
+  confidence: auto

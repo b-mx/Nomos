@@ -1,0 +1,10 @@
+id: maas
+vendor_id: canonical
+name: Maas
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:maas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maas
+  confidence: auto

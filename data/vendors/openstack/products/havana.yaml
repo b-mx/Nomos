@@ -1,0 +1,10 @@
+id: havana
+vendor_id: openstack
+name: Havana
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:havana:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: havana
+  confidence: auto

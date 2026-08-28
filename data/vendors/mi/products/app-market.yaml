@@ -1,0 +1,10 @@
+id: app-market
+vendor_id: mi
+name: App Market
+type: software
+tags: []
+cpe: cpe:2.3:a:mi:app_market:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: app_market
+  confidence: auto

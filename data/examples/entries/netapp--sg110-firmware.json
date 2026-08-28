@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--sg110-firmware",
+  "vendor_id": "netapp",
+  "product_id": "sg110-firmware",
+  "name": "Sg110 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sg110_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

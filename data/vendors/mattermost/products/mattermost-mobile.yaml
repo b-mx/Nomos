@@ -1,0 +1,10 @@
+id: mattermost-mobile
+vendor_id: mattermost
+name: Mattermost Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:mattermost_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mattermost_mobile
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dvr08b
+vendor_id: swann
+name: Dvr08B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:swann:dvr08b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvr08b
+  confidence: auto

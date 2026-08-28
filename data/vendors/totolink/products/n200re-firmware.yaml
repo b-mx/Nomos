@@ -1,0 +1,10 @@
+id: n200re-firmware
+vendor_id: totolink
+name: N200Re Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:n200re_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n200re_firmware
+  confidence: auto

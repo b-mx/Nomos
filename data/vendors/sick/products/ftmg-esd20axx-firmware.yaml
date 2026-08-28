@@ -1,0 +1,10 @@
+id: ftmg-esd20axx-firmware
+vendor_id: sick
+name: Ftmg-Esd20Axx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:ftmg\-esd20axx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ftmg-esd20axx_firmware
+  confidence: auto

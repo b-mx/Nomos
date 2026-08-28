@@ -1,0 +1,10 @@
+id: food-ordering-system
+vendor_id: code-projects
+name: Food Ordering System
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:food_ordering_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: food_ordering_system
+  confidence: auto

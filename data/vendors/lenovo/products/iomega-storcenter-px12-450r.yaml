@@ -1,0 +1,10 @@
+id: iomega-storcenter-px12-450r
+vendor_id: lenovo
+name: Iomega Storcenter Px12-450R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:iomega_storcenter_px12\-450r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iomega_storcenter_px12-450r
+  confidence: auto

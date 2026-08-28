@@ -1,0 +1,10 @@
+id: mr-gm2
+vendor_id: mrl
+name: Mr-Gm2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mrl:mr\-gm2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mr-gm2
+  confidence: auto

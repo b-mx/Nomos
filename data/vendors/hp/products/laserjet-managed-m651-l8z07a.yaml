@@ -1,0 +1,10 @@
+id: laserjet-managed-m651-l8z07a
+vendor_id: hp
+name: Laserjet Managed M651 L8Z07A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_m651_l8z07a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_m651_l8z07a
+  confidence: auto

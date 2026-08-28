@@ -1,0 +1,10 @@
+id: melsec-iq-fx5u-80mr-dss
+vendor_id: mitsubishielectric
+name: Melsec Iq-Fx5U-80Mr/Dss
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_iq\-fx5u\-80mr\/dss:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-fx5u-80mr/dss
+  confidence: auto

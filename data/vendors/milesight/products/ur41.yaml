@@ -1,0 +1,10 @@
+id: ur41
+vendor_id: milesight
+name: Ur41
+type: hardware
+tags: []
+cpe: cpe:2.3:h:milesight:ur41:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ur41
+  confidence: auto

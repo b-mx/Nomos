@@ -1,0 +1,10 @@
+id: 20nt
+vendor_id: lenovo
+name: 20Nt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20nt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20nt
+  confidence: auto

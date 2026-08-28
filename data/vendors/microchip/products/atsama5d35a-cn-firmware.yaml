@@ -1,0 +1,10 @@
+id: atsama5d35a-cn-firmware
+vendor_id: microchip
+name: Atsama5D35A-Cn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:atsama5d35a\-cn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atsama5d35a-cn_firmware
+  confidence: auto

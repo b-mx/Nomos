@@ -1,0 +1,10 @@
+id: infinity-delta-firmware
+vendor_id: draeger
+name: Infinity Delta Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:draeger:infinity_delta_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infinity_delta_firmware
+  confidence: auto

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "freebsd",
+  "vendor_id": "freebsd",
+  "name": "Freebsd",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "freebsd",
+      "confidence": "auto"
+    }
+  ]
+}

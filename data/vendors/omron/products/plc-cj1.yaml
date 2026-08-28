@@ -1,0 +1,10 @@
+id: plc-cj1
+vendor_id: omron
+name: Plc Cj1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:plc_cj1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plc_cj1
+  confidence: auto

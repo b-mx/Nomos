@@ -1,0 +1,10 @@
+id: cx-programmer
+vendor_id: omron
+name: Cx-Programmer
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:cx\-programmer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-programmer
+  confidence: auto

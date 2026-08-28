@@ -1,0 +1,10 @@
+id: cron
+vendor_id: debian
+name: Cron
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:cron:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cron
+  confidence: auto

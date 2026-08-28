@@ -1,0 +1,10 @@
+id: clinical-information-center-mp100r
+vendor_id: gehealthcare
+name: Clinical Information Center Mp100R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:clinical_information_center_mp100r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clinical_information_center_mp100r
+  confidence: auto

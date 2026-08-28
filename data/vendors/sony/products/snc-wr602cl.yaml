@@ -1,0 +1,10 @@
+id: snc-wr602cl
+vendor_id: sony
+name: Snc-Wr602Cl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-wr602cl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-wr602cl
+  confidence: auto

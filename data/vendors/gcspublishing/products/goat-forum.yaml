@@ -1,0 +1,10 @@
+id: goat-forum
+vendor_id: gcspublishing
+name: Goat Forum
+type: software
+tags: []
+cpe: cpe:2.3:a:gcspublishing:goat_forum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: goat_forum
+  confidence: auto

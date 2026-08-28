@@ -1,0 +1,10 @@
+id: blackberry-7270
+vendor_id: rim
+name: Blackberry 7270
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rim:blackberry_7270:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry_7270
+  confidence: auto

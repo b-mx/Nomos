@@ -1,0 +1,10 @@
+id: pre-publish-checklist
+vendor_id: brainstormforce
+name: Pre-Publish Checklist
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:pre\-publish_checklist:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pre-publish_checklist
+  confidence: auto

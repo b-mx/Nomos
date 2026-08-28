@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cmu--opendiamond",
+  "vendor_id": "cmu",
+  "product_id": "opendiamond",
+  "name": "Opendiamond",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opendiamond",
+      "confidence": "auto"
+    }
+  ]
+}

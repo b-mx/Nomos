@@ -1,0 +1,10 @@
+id: hyper
+vendor_id: python
+name: Hyper
+type: software
+tags: []
+cpe: cpe:2.3:a:python:hyper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hyper
+  confidence: auto

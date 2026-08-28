@@ -1,0 +1,10 @@
+id: hills-comnav-firmware
+vendor_id: carrier
+name: Hills Comnav Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:carrier:hills_comnav_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hills_comnav_firmware
+  confidence: auto

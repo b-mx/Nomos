@@ -1,0 +1,10 @@
+id: officejet-pro-6960-j7k33a
+vendor_id: hp
+name: Officejet Pro 6960 J7K33A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_6960_j7k33a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_6960_j7k33a
+  confidence: auto

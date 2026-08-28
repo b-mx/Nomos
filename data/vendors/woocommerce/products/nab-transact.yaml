@@ -1,0 +1,10 @@
+id: nab-transact
+vendor_id: woocommerce
+name: Nab Transact
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:nab_transact:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nab_transact
+  confidence: auto

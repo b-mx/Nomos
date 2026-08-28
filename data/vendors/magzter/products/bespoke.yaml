@@ -1,0 +1,10 @@
+id: bespoke
+vendor_id: magzter
+name: Bespoke
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:bespoke:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bespoke
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pepperl-fuchs--eip-modbus-firmware",
+  "vendor_id": "pepperl-fuchs",
+  "product_id": "eip-modbus-firmware",
+  "name": "Eip/Modbus Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eip/modbus_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

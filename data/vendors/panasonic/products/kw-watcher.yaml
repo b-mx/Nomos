@@ -1,0 +1,10 @@
+id: kw-watcher
+vendor_id: panasonic
+name: Kw Watcher
+type: software
+tags: []
+cpe: cpe:2.3:a:panasonic:kw_watcher:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kw_watcher
+  confidence: auto

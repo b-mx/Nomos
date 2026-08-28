@@ -1,0 +1,10 @@
+id: sp-325dnw
+vendor_id: ricoh
+name: Sp 325Dnw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_325dnw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_325dnw
+  confidence: auto

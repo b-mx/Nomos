@@ -1,0 +1,10 @@
+id: laserjet-enterprise-color-flow-mfp-m575c-firmware
+vendor_id: hp
+name: Laserjet Enterprise Color Flow Mfp M575C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_enterprise_color_flow_mfp_m575c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_color_flow_mfp_m575c_firmware
+  confidence: auto

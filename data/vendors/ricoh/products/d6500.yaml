@@ -1,0 +1,10 @@
+id: d6500
+vendor_id: ricoh
+name: D6500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:d6500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d6500
+  confidence: auto

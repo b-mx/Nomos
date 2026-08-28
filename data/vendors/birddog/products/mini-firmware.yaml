@@ -1,0 +1,10 @@
+id: mini-firmware
+vendor_id: birddog
+name: Mini Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:birddog:mini_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mini_firmware
+  confidence: auto

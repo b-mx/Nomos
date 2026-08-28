@@ -1,0 +1,10 @@
+id: enterprise-security-manager
+vendor_id: trellix
+name: Enterprise Security Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:trellix:enterprise_security_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_security_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tr118-firmware
+vendor_id: tecno-mobile
+name: Tr118 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tecno\-mobile:tr118_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tr118_firmware
+  confidence: auto

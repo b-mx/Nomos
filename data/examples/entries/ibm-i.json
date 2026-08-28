@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "ibm-i",
+  "vendor_id": "ibm-i",
+  "name": "IBM iSeries",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "ibm-i",
+      "confidence": "auto"
+    }
+  ]
+}

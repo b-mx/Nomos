@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bitmain--antminer-d3-firmware",
+  "vendor_id": "bitmain",
+  "product_id": "antminer-d3-firmware",
+  "name": "Antminer D3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "antminer_d3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

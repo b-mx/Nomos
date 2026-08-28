@@ -1,0 +1,10 @@
+id: oslo-middleware
+vendor_id: openstack
+name: Oslo.Middleware
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:oslo\.middleware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oslo.middleware
+  confidence: auto

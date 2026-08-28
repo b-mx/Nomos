@@ -1,0 +1,10 @@
+id: xperia-l1-firmware
+vendor_id: sony
+name: Xperia L1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:xperia_l1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xperia_l1_firmware
+  confidence: auto

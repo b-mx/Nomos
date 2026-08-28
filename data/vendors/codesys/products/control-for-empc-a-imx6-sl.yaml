@@ -1,0 +1,10 @@
+id: control-for-empc-a-imx6-sl
+vendor_id: codesys
+name: Control For Empc-A/Imx6 Sl
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_for_empc\-a\/imx6_sl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_for_empc-a/imx6_sl
+  confidence: auto

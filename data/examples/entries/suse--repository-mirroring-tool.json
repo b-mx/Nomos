@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--repository-mirroring-tool",
+  "vendor_id": "suse",
+  "product_id": "repository-mirroring-tool",
+  "name": "Repository Mirroring Tool",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "repository_mirroring_tool",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: fluid
+vendor_id: typo3
+name: Fluid
+type: software
+tags: []
+cpe: cpe:2.3:a:typo3:fluid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fluid
+  confidence: auto

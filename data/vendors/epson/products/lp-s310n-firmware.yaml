@@ -1,0 +1,10 @@
+id: lp-s310n-firmware
+vendor_id: epson
+name: Lp-S310N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:lp\-s310n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-s310n_firmware
+  confidence: auto

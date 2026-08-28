@@ -1,0 +1,10 @@
+id: centralview-dealer-performance-audit
+vendor_id: hp
+name: Centralview Dealer Performance Audit
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:centralview_dealer_performance_audit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centralview_dealer_performance_audit
+  confidence: auto

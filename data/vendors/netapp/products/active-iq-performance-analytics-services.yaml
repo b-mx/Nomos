@@ -1,0 +1,10 @@
+id: active-iq-performance-analytics-services
+vendor_id: netapp
+name: Active Iq Performance Analytics Services
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:active_iq_performance_analytics_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_iq_performance_analytics_services
+  confidence: auto

@@ -1,0 +1,10 @@
+id: apt
+vendor_id: debian
+name: Apt
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:apt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apt
+  confidence: auto

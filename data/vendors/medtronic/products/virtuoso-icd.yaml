@@ -1,0 +1,10 @@
+id: virtuoso-icd
+vendor_id: medtronic
+name: Virtuoso Icd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:virtuoso_icd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtuoso_icd
+  confidence: auto

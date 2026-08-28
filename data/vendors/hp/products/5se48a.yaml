@@ -1,0 +1,10 @@
+id: 5se48a
+vendor_id: hp
+name: 5Se48A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:5se48a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5se48a
+  confidence: auto

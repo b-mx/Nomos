@@ -1,0 +1,10 @@
+id: recipe-management
+vendor_id: aveva
+name: Recipe Management
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:recipe_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recipe_management
+  confidence: auto

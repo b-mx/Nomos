@@ -1,0 +1,13 @@
+id: scala
+vendor_id: scala-lang
+name: Scala
+type: library
+tags: []
+cpe: cpe:2.3:a:scala\-lang:scala:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: scala
+  confidence: auto
+- source: nvd
+  value: scala
+  confidence: auto

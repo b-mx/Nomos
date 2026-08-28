@@ -1,0 +1,10 @@
+id: sparc-enterprise-m3000-firmware
+vendor_id: fujitsu
+name: Sparc Enterprise M3000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:sparc_enterprise_m3000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sparc_enterprise_m3000_firmware
+  confidence: auto

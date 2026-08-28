@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudflare--cloudflared",
+  "vendor_id": "cloudflare",
+  "product_id": "cloudflared",
+  "name": "Cloudflared",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloudflared",
+      "confidence": "auto"
+    }
+  ]
+}

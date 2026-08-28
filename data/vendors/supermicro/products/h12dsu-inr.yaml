@@ -1,0 +1,10 @@
+id: h12dsu-inr
+vendor_id: supermicro
+name: H12Dsu-Inr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h12dsu\-inr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12dsu-inr
+  confidence: auto

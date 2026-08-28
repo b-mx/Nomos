@@ -1,0 +1,10 @@
+id: snc-er550c
+vendor_id: sony
+name: Snc-Er550C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-er550c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-er550c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: icewall-sso-agent-option
+vendor_id: hp
+name: Icewall Sso Agent Option
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:icewall_sso_agent_option:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icewall_sso_agent_option
+  confidence: auto

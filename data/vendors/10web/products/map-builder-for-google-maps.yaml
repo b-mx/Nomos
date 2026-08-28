@@ -1,0 +1,10 @@
+id: map-builder-for-google-maps
+vendor_id: 10web
+name: Map Builder For Google Maps
+type: software
+tags: []
+cpe: cpe:2.3:a:10web:map_builder_for_google_maps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: map_builder_for_google_maps
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iss--realsecure-network-sensor",
+  "vendor_id": "iss",
+  "product_id": "realsecure-network-sensor",
+  "name": "Realsecure Network Sensor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "realsecure_network_sensor",
+      "confidence": "auto"
+    }
+  ]
+}

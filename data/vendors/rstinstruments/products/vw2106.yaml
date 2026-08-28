@@ -1,0 +1,10 @@
+id: vw2106
+vendor_id: rstinstruments
+name: Vw2106
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:vw2106:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vw2106
+  confidence: auto

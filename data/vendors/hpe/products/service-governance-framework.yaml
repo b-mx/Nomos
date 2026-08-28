@@ -1,0 +1,10 @@
+id: service-governance-framework
+vendor_id: hpe
+name: Service Governance Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:service_governance_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_governance_framework
+  confidence: auto

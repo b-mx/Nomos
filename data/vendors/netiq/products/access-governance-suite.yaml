@@ -1,0 +1,10 @@
+id: access-governance-suite
+vendor_id: netiq
+name: Access Governance Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:netiq:access_governance_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_governance_suite
+  confidence: auto

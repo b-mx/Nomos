@@ -1,0 +1,10 @@
+id: srg2320e
+vendor_id: huawei
+name: Srg2320E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:srg2320e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srg2320e
+  confidence: auto

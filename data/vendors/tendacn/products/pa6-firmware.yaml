@@ -1,0 +1,10 @@
+id: pa6-firmware
+vendor_id: tendacn
+name: Pa6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tendacn:pa6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pa6_firmware
+  confidence: auto

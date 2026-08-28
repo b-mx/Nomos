@@ -1,0 +1,10 @@
+id: xm51xx
+vendor_id: lexmark
+name: Xm51Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xm51xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm51xx
+  confidence: auto

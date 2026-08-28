@@ -1,0 +1,10 @@
+id: adaptive-server-enterprise
+vendor_id: sybase
+name: Adaptive Server Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:sybase:adaptive_server_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adaptive_server_enterprise
+  confidence: auto

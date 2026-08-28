@@ -1,0 +1,10 @@
+id: fastgate-gpon-fga2130fwb-firmware
+vendor_id: fastweb
+name: Fastgate Gpon Fga2130Fwb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fastweb:fastgate_gpon_fga2130fwb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastgate_gpon_fga2130fwb_firmware
+  confidence: auto

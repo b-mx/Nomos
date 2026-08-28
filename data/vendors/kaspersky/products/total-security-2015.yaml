@@ -1,0 +1,10 @@
+id: total-security-2015
+vendor_id: kaspersky
+name: Total Security 2015
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:total_security_2015:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: total_security_2015
+  confidence: auto

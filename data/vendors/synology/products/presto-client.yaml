@@ -1,0 +1,10 @@
+id: presto-client
+vendor_id: synology
+name: Presto Client
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:presto_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: presto_client
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rg-eap202
+vendor_id: ruijie
+name: Rg-Eap202
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-eap202:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-eap202
+  confidence: auto

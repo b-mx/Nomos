@@ -1,0 +1,10 @@
+id: abc-lounge-webradio
+vendor_id: nobexrc
+name: Abc Lounge Webradio
+type: software
+tags: []
+cpe: cpe:2.3:a:nobexrc:abc_lounge_webradio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: abc_lounge_webradio
+  confidence: auto

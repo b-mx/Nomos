@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--r04encpu-firmware",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "r04encpu-firmware",
+  "name": "R04Encpu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "r04encpu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

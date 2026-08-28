@@ -1,0 +1,10 @@
+id: rslogix-micro-developer
+vendor_id: rockwellautomation
+name: Rslogix Micro Developer
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:rslogix_micro_developer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rslogix_micro_developer
+  confidence: auto

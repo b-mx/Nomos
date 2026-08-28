@@ -1,0 +1,10 @@
+id: ot-235-firmware
+vendor_id: greenpacket
+name: Ot-235 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:greenpacket:ot\-235_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ot-235_firmware
+  confidence: auto

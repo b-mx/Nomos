@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--futuresmart-firmware",
+  "vendor_id": "hp",
+  "product_id": "futuresmart-firmware",
+  "name": "Futuresmart Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "futuresmart_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

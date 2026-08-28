@@ -1,0 +1,10 @@
+id: retail-operations
+vendor_id: hitachienergy
+name: Retail Operations
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:retail_operations:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: retail_operations
+  confidence: auto

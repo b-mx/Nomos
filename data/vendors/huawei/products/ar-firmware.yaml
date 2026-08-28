@@ -1,0 +1,10 @@
+id: ar-firmware
+vendor_id: huawei
+name: Ar Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ar_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar_firmware
+  confidence: auto

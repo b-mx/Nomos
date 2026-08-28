@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--scan-icm-updater",
+  "vendor_id": "epson",
+  "product_id": "scan-icm-updater",
+  "name": "Scan Icm Updater",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "scan_icm_updater",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: esp32
+vendor_id: espressif
+name: Esp32
+type: hardware
+tags: []
+cpe: cpe:2.3:h:espressif:esp32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32
+  confidence: auto

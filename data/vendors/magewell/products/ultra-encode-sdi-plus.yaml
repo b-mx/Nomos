@@ -1,0 +1,10 @@
+id: ultra-encode-sdi-plus
+vendor_id: magewell
+name: Ultra Encode Sdi Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:magewell:ultra_encode_sdi_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultra_encode_sdi_plus
+  confidence: auto

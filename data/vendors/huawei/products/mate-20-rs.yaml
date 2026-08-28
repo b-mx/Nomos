@@ -1,0 +1,10 @@
+id: mate-20-rs
+vendor_id: huawei
+name: Mate 20 Rs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:mate_20_rs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mate_20_rs
+  confidence: auto

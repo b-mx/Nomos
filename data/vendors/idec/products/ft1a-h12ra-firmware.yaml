@@ -1,0 +1,10 @@
+id: ft1a-h12ra-firmware
+vendor_id: idec
+name: Ft1A-H12Ra Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idec:ft1a\-h12ra_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ft1a-h12ra_firmware
+  confidence: auto

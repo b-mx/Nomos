@@ -1,0 +1,10 @@
+id: yoga-c930-glass-firmware
+vendor_id: lenovo
+name: Yoga C930 Glass Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yoga_c930_glass_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_c930_glass_firmware
+  confidence: auto

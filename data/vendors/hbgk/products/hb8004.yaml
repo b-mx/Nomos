@@ -1,0 +1,10 @@
+id: hb8004
+vendor_id: hbgk
+name: Hb8004
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hbgk:hb8004:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb8004
+  confidence: auto

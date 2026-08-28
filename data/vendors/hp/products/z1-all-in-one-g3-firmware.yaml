@@ -1,0 +1,10 @@
+id: z1-all-in-one-g3-firmware
+vendor_id: hp
+name: Z1 All-In-One G3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:z1_all\-in\-one_g3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z1_all-in-one_g3_firmware
+  confidence: auto

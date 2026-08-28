@@ -1,0 +1,10 @@
+id: atune
+vendor_id: huawei
+name: Atune
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:atune:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atune
+  confidence: auto

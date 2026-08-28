@@ -1,0 +1,10 @@
+id: bios
+vendor_id: lenovo
+name: Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bios
+  confidence: auto

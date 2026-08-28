@@ -1,0 +1,10 @@
+id: host-agent
+vendor_id: netapp
+name: Host Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:host_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: host_agent
+  confidence: auto

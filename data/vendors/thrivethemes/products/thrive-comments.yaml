@@ -1,0 +1,10 @@
+id: thrive-comments
+vendor_id: thrivethemes
+name: Thrive Comments
+type: software
+tags: []
+cpe: cpe:2.3:a:thrivethemes:thrive_comments:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thrive_comments
+  confidence: auto

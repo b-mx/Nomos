@@ -1,0 +1,10 @@
+id: crossroads
+vendor_id: debian
+name: Crossroads
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:crossroads:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crossroads
+  confidence: auto

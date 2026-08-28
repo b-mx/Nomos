@@ -1,0 +1,10 @@
+id: xgk-cpuun
+vendor_id: ls-electric
+name: Xgk-Cpuun
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xgk\-cpuun:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgk-cpuun
+  confidence: auto

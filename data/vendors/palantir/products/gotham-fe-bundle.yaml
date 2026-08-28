@@ -1,0 +1,10 @@
+id: gotham-fe-bundle
+vendor_id: palantir
+name: Gotham-Fe-Bundle
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:gotham\-fe\-bundle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gotham-fe-bundle
+  confidence: auto

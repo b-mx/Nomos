@@ -1,0 +1,10 @@
+id: ac2000
+vendor_id: johnsoncontrols
+name: Ac2000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:ac2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac2000
+  confidence: auto

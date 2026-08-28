@@ -1,0 +1,10 @@
+id: univerge-sv9100-webpro-firmware
+vendor_id: nec
+name: Univerge Sv9100 Webpro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:univerge_sv9100_webpro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: univerge_sv9100_webpro_firmware
+  confidence: auto

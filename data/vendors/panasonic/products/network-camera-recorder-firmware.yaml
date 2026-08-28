@@ -1,0 +1,10 @@
+id: network-camera-recorder-firmware
+vendor_id: panasonic
+name: Network Camera Recorder Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:panasonic:network_camera_recorder_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_camera_recorder_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: collection-factory
+vendor_id: thephpfactory
+name: Collection Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:collection_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: collection_factory
+  confidence: auto

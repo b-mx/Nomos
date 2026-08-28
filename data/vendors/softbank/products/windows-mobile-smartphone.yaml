@@ -1,0 +1,10 @@
+id: windows-mobile-smartphone
+vendor_id: softbank
+name: Windows Mobile Smartphone
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softbank:windows_mobile_smartphone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: windows_mobile_smartphone
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "att--u-verse-firmware",
+  "vendor_id": "att",
+  "product_id": "u-verse-firmware",
+  "name": "U-Verse Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "u-verse_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

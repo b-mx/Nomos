@@ -1,0 +1,10 @@
+id: band-3
+vendor_id: huawei
+name: Band 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:band_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: band_3
+  confidence: auto

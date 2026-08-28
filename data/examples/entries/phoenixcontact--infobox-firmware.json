@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phoenixcontact--infobox-firmware",
+  "vendor_id": "phoenixcontact",
+  "product_id": "infobox-firmware",
+  "name": "Infobox Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "infobox_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

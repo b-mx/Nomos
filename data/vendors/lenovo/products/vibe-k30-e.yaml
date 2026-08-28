@@ -1,0 +1,10 @@
+id: vibe-k30-e
+vendor_id: lenovo
+name: Vibe K30-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:vibe_k30\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vibe_k30-e
+  confidence: auto

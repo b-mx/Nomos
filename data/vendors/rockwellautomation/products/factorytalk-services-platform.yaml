@@ -1,0 +1,10 @@
+id: factorytalk-services-platform
+vendor_id: rockwellautomation
+name: Factorytalk Services Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:factorytalk_services_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_services_platform
+  confidence: auto

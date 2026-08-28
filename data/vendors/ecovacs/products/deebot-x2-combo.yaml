@@ -1,0 +1,10 @@
+id: deebot-x2-combo
+vendor_id: ecovacs
+name: Deebot X2 Combo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_x2_combo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_x2_combo
+  confidence: auto

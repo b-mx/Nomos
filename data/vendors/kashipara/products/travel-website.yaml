@@ -1,0 +1,10 @@
+id: travel-website
+vendor_id: kashipara
+name: Travel Website
+type: software
+tags: []
+cpe: cpe:2.3:a:kashipara:travel_website:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: travel_website
+  confidence: auto

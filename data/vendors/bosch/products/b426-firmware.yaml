@@ -1,0 +1,10 @@
+id: b426-firmware
+vendor_id: bosch
+name: B426 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:b426_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b426_firmware
+  confidence: auto

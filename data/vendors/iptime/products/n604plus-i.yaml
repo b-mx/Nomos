@@ -1,0 +1,10 @@
+id: n604plus-i
+vendor_id: iptime
+name: N604Plus-I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:n604plus\-i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n604plus-i
+  confidence: auto

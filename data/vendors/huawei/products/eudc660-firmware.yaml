@@ -1,0 +1,10 @@
+id: eudc660-firmware
+vendor_id: huawei
+name: Eudc660 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:eudc660_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eudc660_firmware
+  confidence: auto

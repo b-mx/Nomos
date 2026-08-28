@@ -1,0 +1,10 @@
+id: photo-engine
+vendor_id: meowapps
+name: Photo Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:meowapps:photo_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photo_engine
+  confidence: auto

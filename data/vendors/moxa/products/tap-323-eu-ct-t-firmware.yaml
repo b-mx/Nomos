@@ -1,0 +1,10 @@
+id: tap-323-eu-ct-t-firmware
+vendor_id: moxa
+name: Tap-323-Eu-Ct-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:tap\-323\-eu\-ct\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tap-323-eu-ct-t_firmware
+  confidence: auto

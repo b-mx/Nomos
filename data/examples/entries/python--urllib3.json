@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "python--urllib3",
+  "vendor_id": "python",
+  "product_id": "urllib3",
+  "name": "Urllib3",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "urllib3",
+      "confidence": "auto"
+    }
+  ]
+}

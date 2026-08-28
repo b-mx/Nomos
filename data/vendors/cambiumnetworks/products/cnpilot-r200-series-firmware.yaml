@@ -1,0 +1,10 @@
+id: cnpilot-r200-series-firmware
+vendor_id: cambiumnetworks
+name: Cnpilot R200 Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cambiumnetworks:cnpilot_r200_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cnpilot_r200_series_firmware
+  confidence: auto

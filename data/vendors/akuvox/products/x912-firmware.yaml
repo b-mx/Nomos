@@ -1,0 +1,10 @@
+id: x912-firmware
+vendor_id: akuvox
+name: X912 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:akuvox:x912_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x912_firmware
+  confidence: auto

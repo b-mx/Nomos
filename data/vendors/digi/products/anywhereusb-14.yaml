@@ -1,0 +1,10 @@
+id: anywhereusb-14
+vendor_id: digi
+name: Anywhereusb/14
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:anywhereusb\/14:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anywhereusb/14
+  confidence: auto

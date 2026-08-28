@@ -1,0 +1,10 @@
+id: dinion-ip-4000-hd
+vendor_id: bosch
+name: Dinion Ip 4000 Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:dinion_ip_4000_hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_ip_4000_hd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: systemd
+vendor_id: freedesktop
+name: Systemd
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:systemd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: systemd
+  confidence: auto

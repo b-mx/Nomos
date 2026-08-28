@@ -1,0 +1,10 @@
+id: q1615-le-mk-iii
+vendor_id: axis
+name: Q1615-Le Mk Iii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q1615\-le_mk_iii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q1615-le_mk_iii
+  confidence: auto

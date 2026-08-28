@@ -1,0 +1,10 @@
+id: mandrake-lam-runtime
+vendor_id: mandrakesoft
+name: Mandrake Lam-Runtime
+type: software
+tags: []
+cpe: cpe:2.3:a:mandrakesoft:mandrake_lam\-runtime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mandrake_lam-runtime
+  confidence: auto

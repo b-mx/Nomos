@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--p27v-g4-firmware",
+  "vendor_id": "hp",
+  "product_id": "p27v-g4-firmware",
+  "name": "P27V G4 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "p27v_g4_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

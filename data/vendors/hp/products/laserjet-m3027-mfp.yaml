@@ -1,0 +1,10 @@
+id: laserjet-m3027-mfp
+vendor_id: hp
+name: Laserjet M3027 Mfp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m3027_mfp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m3027_mfp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: arn-1610s
+vendor_id: hanwhavision
+name: Arn-1610S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:arn\-1610s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arn-1610s
+  confidence: auto

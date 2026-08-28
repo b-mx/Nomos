@@ -1,0 +1,10 @@
+id: security-center-web-console
+vendor_id: kaspersky
+name: Security Center Web Console
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:security_center_web_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: security_center_web_console
+  confidence: auto

@@ -1,0 +1,10 @@
+id: video-client
+vendor_id: bosch
+name: Video Client
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:video_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_client
+  confidence: auto

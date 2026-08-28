@@ -1,0 +1,10 @@
+id: g70-80
+vendor_id: lenovo
+name: G70-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:g70\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g70-80
+  confidence: auto

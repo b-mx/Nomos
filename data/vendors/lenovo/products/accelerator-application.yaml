@@ -1,0 +1,10 @@
+id: accelerator-application
+vendor_id: lenovo
+name: Accelerator Application
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:accelerator_application:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accelerator_application
+  confidence: auto

@@ -1,0 +1,10 @@
+id: etherhaul-5500fd
+vendor_id: siklu
+name: Etherhaul-5500Fd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:siklu:etherhaul\-5500fd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: etherhaul-5500fd
+  confidence: auto

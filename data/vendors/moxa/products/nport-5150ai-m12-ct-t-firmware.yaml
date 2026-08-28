@@ -1,0 +1,10 @@
+id: nport-5150ai-m12-ct-t-firmware
+vendor_id: moxa
+name: Nport 5150Ai-M12-Ct-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_5150ai\-m12\-ct\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5150ai-m12-ct-t_firmware
+  confidence: auto

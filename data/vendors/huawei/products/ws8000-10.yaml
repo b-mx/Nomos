@@ -1,0 +1,10 @@
+id: ws8000-10
+vendor_id: huawei
+name: Ws8000-10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ws8000\-10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws8000-10
+  confidence: auto

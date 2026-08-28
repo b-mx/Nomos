@@ -1,0 +1,10 @@
+id: totalys-multiprocessor
+vendor_id: bd
+name: Totalys Multiprocessor
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:totalys_multiprocessor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: totalys_multiprocessor
+  confidence: auto

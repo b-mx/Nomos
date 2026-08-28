@@ -1,0 +1,10 @@
+id: arr600a3252na-firmware
+vendor_id: abb
+name: Arr600A3252Na Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:arr600a3252na_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arr600a3252na_firmware
+  confidence: auto

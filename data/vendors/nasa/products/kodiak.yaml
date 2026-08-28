@@ -1,0 +1,10 @@
+id: kodiak
+vendor_id: nasa
+name: Kodiak
+type: software
+tags: []
+cpe: cpe:2.3:a:nasa:kodiak:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kodiak
+  confidence: auto

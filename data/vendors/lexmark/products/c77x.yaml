@@ -1,0 +1,10 @@
+id: c77x
+vendor_id: lexmark
+name: C77X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c77x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c77x
+  confidence: auto

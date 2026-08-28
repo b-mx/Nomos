@@ -1,0 +1,10 @@
+id: opera-mobile
+vendor_id: opera
+name: Opera Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:opera:opera_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opera_mobile
+  confidence: auto

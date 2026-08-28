@@ -1,0 +1,7 @@
+id: quarkus
+name: Quarkus
+cpe: cpe:2.3:*:quarkus:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quarkus
+  confidence: auto

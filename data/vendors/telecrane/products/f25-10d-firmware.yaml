@@ -1,0 +1,10 @@
+id: f25-10d-firmware
+vendor_id: telecrane
+name: F25-10D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:telecrane:f25\-10d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f25-10d_firmware
+  confidence: auto

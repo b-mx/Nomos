@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "motorola--mbts-site-controller-firmware",
+  "vendor_id": "motorola",
+  "product_id": "mbts-site-controller-firmware",
+  "name": "Mbts Site Controller Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mbts_site_controller_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

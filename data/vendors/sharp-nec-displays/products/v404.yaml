@@ -1,0 +1,10 @@
+id: v404
+vendor_id: sharp-nec-displays
+name: V404
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp\-nec\-displays:v404:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v404
+  confidence: auto

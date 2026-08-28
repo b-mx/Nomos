@@ -1,0 +1,10 @@
+id: sh024
+vendor_id: sricam
+name: Sh024
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sricam:sh024:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sh024
+  confidence: auto

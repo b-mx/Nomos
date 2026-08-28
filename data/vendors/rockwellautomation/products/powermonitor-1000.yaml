@@ -1,0 +1,10 @@
+id: powermonitor-1000
+vendor_id: rockwellautomation
+name: Powermonitor 1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:powermonitor_1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powermonitor_1000
+  confidence: auto

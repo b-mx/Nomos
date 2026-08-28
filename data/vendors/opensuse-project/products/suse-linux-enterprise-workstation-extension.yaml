@@ -1,0 +1,10 @@
+id: suse-linux-enterprise-workstation-extension
+vendor_id: opensuse-project
+name: Suse Linux Enterprise Workstation Extension
+type: os
+tags: []
+cpe: cpe:2.3:o:opensuse_project:suse_linux_enterprise_workstation_extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_enterprise_workstation_extension
+  confidence: auto

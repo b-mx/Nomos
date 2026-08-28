@@ -1,0 +1,10 @@
+id: container-network-interface
+vendor_id: linuxfoundation
+name: Container Network Interface
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:container_network_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: container_network_interface
+  confidence: auto

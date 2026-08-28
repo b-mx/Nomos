@@ -1,0 +1,10 @@
+id: wlr-300-nm
+vendor_id: corega
+name: Wlr 300 Nm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corega:wlr_300_nm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlr_300_nm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jh-rvb1
+vendor_id: sharp
+name: Jh-Rvb1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:jh\-rvb1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jh-rvb1
+  confidence: auto

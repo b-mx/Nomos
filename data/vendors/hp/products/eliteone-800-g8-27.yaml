@@ -1,0 +1,10 @@
+id: eliteone-800-g8-27
+vendor_id: hp
+name: Eliteone 800 G8 27
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:eliteone_800_g8_27:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eliteone_800_g8_27
+  confidence: auto

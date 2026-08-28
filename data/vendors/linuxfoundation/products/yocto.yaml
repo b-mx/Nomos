@@ -1,0 +1,13 @@
+id: yocto
+vendor_id: linuxfoundation
+name: Yocto Project
+type: os
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:yocto:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: yocto
+  confidence: auto
+- source: nvd
+  value: yocto
+  confidence: auto

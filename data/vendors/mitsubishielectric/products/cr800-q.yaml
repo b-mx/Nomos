@@ -1,0 +1,10 @@
+id: cr800-q
+vendor_id: mitsubishielectric
+name: Cr800-Q
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:cr800\-q:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cr800-q
+  confidence: auto

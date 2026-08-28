@@ -1,0 +1,6 @@
+id: clickhouse
+name: ClickHouse
+aliases:
+- source: endoflife
+  value: clickhouse
+  confidence: auto

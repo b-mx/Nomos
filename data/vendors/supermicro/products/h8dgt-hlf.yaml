@@ -1,0 +1,10 @@
+id: h8dgt-hlf
+vendor_id: supermicro
+name: H8Dgt-Hlf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h8dgt\-hlf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h8dgt-hlf
+  confidence: auto

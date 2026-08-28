@@ -1,0 +1,10 @@
+id: woot
+vendor_id: pluginus
+name: Woot
+type: software
+tags: []
+cpe: cpe:2.3:a:pluginus:woot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woot
+  confidence: auto

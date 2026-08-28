@@ -1,0 +1,10 @@
+id: sp-330sn-firmware
+vendor_id: ricoh
+name: Sp 330Sn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:sp_330sn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_330sn_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: slmp-data-collector
+vendor_id: mitsubishielectric
+name: Slmp Data Collector
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:slmp_data_collector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slmp_data_collector
+  confidence: auto

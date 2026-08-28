@@ -1,0 +1,10 @@
+id: f-st-3486-router
+vendor_id: sagemcom
+name: F@St 3486 Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sagemcom:f\@st_3486_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f@st_3486_router
+  confidence: auto

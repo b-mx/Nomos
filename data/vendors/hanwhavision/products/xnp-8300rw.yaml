@@ -1,0 +1,10 @@
+id: xnp-8300rw
+vendor_id: hanwhavision
+name: Xnp-8300Rw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnp\-8300rw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnp-8300rw
+  confidence: auto

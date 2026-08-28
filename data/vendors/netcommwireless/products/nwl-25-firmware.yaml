@@ -1,0 +1,10 @@
+id: nwl-25-firmware
+vendor_id: netcommwireless
+name: Nwl-25 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netcommwireless:nwl\-25_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nwl-25_firmware
+  confidence: auto

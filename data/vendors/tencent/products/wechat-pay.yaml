@@ -1,0 +1,10 @@
+id: wechat-pay
+vendor_id: tencent
+name: Wechat Pay
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:wechat_pay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wechat_pay
+  confidence: auto

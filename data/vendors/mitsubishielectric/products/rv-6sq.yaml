@@ -1,0 +1,10 @@
+id: rv-6sq
+vendor_id: mitsubishielectric
+name: Rv-6Sq
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv\-6sq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-6sq
+  confidence: auto

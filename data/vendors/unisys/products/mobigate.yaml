@@ -1,0 +1,10 @@
+id: mobigate
+vendor_id: unisys
+name: Mobigate
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:mobigate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobigate
+  confidence: auto

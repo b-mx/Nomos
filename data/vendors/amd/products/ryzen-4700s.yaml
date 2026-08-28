@@ -1,0 +1,10 @@
+id: ryzen-4700s
+vendor_id: amd
+name: Ryzen 4700S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_4700s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_4700s
+  confidence: auto

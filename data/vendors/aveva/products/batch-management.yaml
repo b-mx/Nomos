@@ -1,0 +1,10 @@
+id: batch-management
+vendor_id: aveva
+name: Batch Management
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:batch_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: batch_management
+  confidence: auto

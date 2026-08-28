@@ -1,0 +1,6 @@
+id: azure-database-for-mysql
+name: Azure Database for MySQL
+aliases:
+- source: endoflife
+  value: azure-database-for-mysql
+  confidence: auto

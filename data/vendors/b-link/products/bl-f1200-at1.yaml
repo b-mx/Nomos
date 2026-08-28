@@ -1,0 +1,10 @@
+id: bl-f1200-at1
+vendor_id: b-link
+name: Bl-F1200 At1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:b\-link:bl\-f1200_at1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-f1200_at1
+  confidence: auto

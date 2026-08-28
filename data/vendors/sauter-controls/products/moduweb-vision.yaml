@@ -1,0 +1,10 @@
+id: moduweb-vision
+vendor_id: sauter-controls
+name: Moduweb Vision
+type: software
+tags: []
+cpe: cpe:2.3:a:sauter\-controls:moduweb_vision:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moduweb_vision
+  confidence: auto

@@ -1,0 +1,13 @@
+id: concrete-cms
+vendor_id: concretecms
+name: Concrete CMS
+type: software
+tags: []
+cpe: cpe:2.3:a:concretecms:concrete_cms:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: concrete-cms
+  confidence: auto
+- source: nvd
+  value: concrete_cms
+  confidence: auto

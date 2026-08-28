@@ -1,0 +1,10 @@
+id: loopback-connector-postgresql
+vendor_id: linuxfoundation
+name: Loopback-Connector-Postgresql
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:loopback\-connector\-postgresql:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: loopback-connector-postgresql
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nexus-3-264
+vendor_id: abb
+name: Nexus-3-264
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:nexus\-3\-264:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexus-3-264
+  confidence: auto

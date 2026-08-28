@@ -1,0 +1,9 @@
+id: isc-dhcp
+vendor_id: isc-dhcp
+name: ISC DHCP
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: isc-dhcp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wlan-handset-2211
+vendor_id: nortel
+name: Wlan Handset 2211
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:wlan_handset_2211:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlan_handset_2211
+  confidence: auto

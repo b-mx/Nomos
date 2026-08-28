@@ -1,0 +1,10 @@
+id: com-server-highspeed-lc
+vendor_id: wut
+name: Com-Server Highspeed Lc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wut:com\-server_highspeed_lc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: com-server_highspeed_lc
+  confidence: auto

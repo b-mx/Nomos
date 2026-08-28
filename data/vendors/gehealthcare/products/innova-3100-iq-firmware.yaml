@@ -1,0 +1,10 @@
+id: innova-3100-iq-firmware
+vendor_id: gehealthcare
+name: Innova 3100-Iq Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:innova_3100\-iq_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: innova_3100-iq_firmware
+  confidence: auto

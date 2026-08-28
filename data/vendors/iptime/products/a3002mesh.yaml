@@ -1,0 +1,10 @@
+id: a3002mesh
+vendor_id: iptime
+name: A3002Mesh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a3002mesh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3002mesh
+  confidence: auto

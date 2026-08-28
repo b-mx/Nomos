@@ -1,0 +1,10 @@
+id: gateway
+vendor_id: codesys
+name: Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gateway
+  confidence: auto

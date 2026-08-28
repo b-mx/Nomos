@@ -1,0 +1,10 @@
+id: a220
+vendor_id: netapp
+name: A220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:a220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a220
+  confidence: auto

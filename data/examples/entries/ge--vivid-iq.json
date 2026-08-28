@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--vivid-iq",
+  "vendor_id": "ge",
+  "product_id": "vivid-iq",
+  "name": "Vivid Iq",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vivid_iq",
+      "confidence": "auto"
+    }
+  ]
+}

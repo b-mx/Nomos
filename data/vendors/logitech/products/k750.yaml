@@ -1,0 +1,10 @@
+id: k750
+vendor_id: logitech
+name: K750
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:k750:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k750
+  confidence: auto

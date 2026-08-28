@@ -1,0 +1,10 @@
+id: express5800-t110j-s-2nd-gen
+vendor_id: nec
+name: Express5800/T110J-S (2Nd-Gen)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:express5800\/t110j\-s_\(2nd\-gen\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: express5800/t110j-s_(2nd-gen)
+  confidence: auto

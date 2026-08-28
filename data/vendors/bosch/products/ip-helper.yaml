@@ -1,0 +1,10 @@
+id: ip-helper
+vendor_id: bosch
+name: Ip Helper
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:ip_helper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_helper
+  confidence: auto

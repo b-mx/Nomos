@@ -1,0 +1,10 @@
+id: simple-online-hotel-reservation-system
+vendor_id: fabian
+name: Simple Online Hotel Reservation System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_online_hotel_reservation_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_online_hotel_reservation_system
+  confidence: auto

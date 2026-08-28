@@ -1,0 +1,10 @@
+id: huawei-y6
+vendor_id: huawei
+name: Huawei Y6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:huawei_y6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: huawei_y6
+  confidence: auto

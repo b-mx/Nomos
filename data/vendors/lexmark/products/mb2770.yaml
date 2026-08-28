@@ -1,0 +1,10 @@
+id: mb2770
+vendor_id: lexmark
+name: Mb2770
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mb2770:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mb2770
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserwash-g5
+vendor_id: pdqinc
+name: Laserwash G5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pdqinc:laserwash_g5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserwash_g5
+  confidence: auto

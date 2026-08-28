@@ -1,0 +1,10 @@
+id: qcs-ax3-s5-firmware
+vendor_id: onsemi
+name: Qcs-Ax3-S5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:onsemi:qcs\-ax3\-s5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qcs-ax3-s5_firmware
+  confidence: auto

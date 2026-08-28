@@ -1,0 +1,10 @@
+id: q3819-pve
+vendor_id: axis
+name: Q3819-Pve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q3819\-pve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q3819-pve
+  confidence: auto

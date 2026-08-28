@@ -1,0 +1,10 @@
+id: snc-eb630
+vendor_id: sony
+name: Snc-Eb630
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-eb630:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-eb630
+  confidence: auto

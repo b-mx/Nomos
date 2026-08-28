@@ -1,0 +1,10 @@
+id: smart-security-premium
+vendor_id: eset
+name: Smart Security Premium
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:smart_security_premium:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_security_premium
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rancher-fleet
+vendor_id: suse
+name: Rancher Fleet
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:rancher_fleet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rancher_fleet
+  confidence: auto

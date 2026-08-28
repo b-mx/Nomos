@@ -1,0 +1,10 @@
+id: pcoweb-card-firmware
+vendor_id: carel
+name: Pcoweb Card Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:carel:pcoweb_card_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcoweb_card_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hl-2560dn
+vendor_id: brother
+name: Hl-2560Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:hl\-2560dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hl-2560dn
+  confidence: auto

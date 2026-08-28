@@ -1,0 +1,10 @@
+id: px-7500n
+vendor_id: epson
+name: Px-7500N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-7500n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-7500n
+  confidence: auto

@@ -1,0 +1,9 @@
+id: windows-powershell
+vendor_id: windows-powershell
+name: Microsoft Windows PowerShell
+type: library
+tags: []
+aliases:
+- source: endoflife
+  value: windows-powershell
+  confidence: auto

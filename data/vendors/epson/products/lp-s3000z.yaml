@@ -1,0 +1,10 @@
+id: lp-s3000z
+vendor_id: epson
+name: Lp-S3000Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:lp\-s3000z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-s3000z
+  confidence: auto

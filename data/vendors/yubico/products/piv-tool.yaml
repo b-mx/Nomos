@@ -1,0 +1,10 @@
+id: piv-tool
+vendor_id: yubico
+name: Piv Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:piv_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: piv_tool
+  confidence: auto

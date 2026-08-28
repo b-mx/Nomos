@@ -1,0 +1,10 @@
+id: aspire-e5-475g
+vendor_id: acer
+name: Aspire E5-475G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_e5\-475g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_e5-475g
+  confidence: auto

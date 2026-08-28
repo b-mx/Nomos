@@ -1,0 +1,10 @@
+id: vsp-e1090
+vendor_id: hitachi
+name: Vsp E1090
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachi:vsp_e1090:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsp_e1090
+  confidence: auto

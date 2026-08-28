@@ -1,0 +1,9 @@
+id: ibm-i
+vendor_id: ibm-i
+name: IBM iSeries
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: ibm-i
+  confidence: auto

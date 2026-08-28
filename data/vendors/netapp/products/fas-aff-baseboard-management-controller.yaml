@@ -1,0 +1,10 @@
+id: fas-aff-baseboard-management-controller
+vendor_id: netapp
+name: Fas/Aff Baseboard Management Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:fas\/aff_baseboard_management_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fas/aff_baseboard_management_controller
+  confidence: auto

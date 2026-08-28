@@ -1,0 +1,10 @@
+id: bl-lte300-firmware
+vendor_id: b-link
+name: Bl-Lte300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:b\-link:bl\-lte300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-lte300_firmware
+  confidence: auto

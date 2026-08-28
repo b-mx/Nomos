@@ -1,0 +1,10 @@
+id: im-c400f
+vendor_id: ricoh
+name: Im C400F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_c400f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_c400f
+  confidence: auto

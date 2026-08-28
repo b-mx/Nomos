@@ -1,0 +1,10 @@
+id: video-security
+vendor_id: bosch
+name: Video Security
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:video_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_security
+  confidence: auto

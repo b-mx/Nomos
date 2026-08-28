@@ -1,0 +1,10 @@
+id: wifiber-120ac-inmesh
+vendor_id: intelbras
+name: Wifiber 120Ac Inmesh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:wifiber_120ac_inmesh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifiber_120ac_inmesh
+  confidence: auto

@@ -1,0 +1,10 @@
+id: erpoe-5-firmware
+vendor_id: ui
+name: Erpoe-5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:erpoe\-5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: erpoe-5_firmware
+  confidence: auto

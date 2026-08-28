@@ -1,0 +1,10 @@
+id: kappa-firmware
+vendor_id: draeger
+name: Kappa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:draeger:kappa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kappa_firmware
+  confidence: auto

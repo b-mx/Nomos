@@ -1,0 +1,10 @@
+id: seil-plus-firmware
+vendor_id: iij
+name: Seil Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iij:seil_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil_plus_firmware
+  confidence: auto

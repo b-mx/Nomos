@@ -1,0 +1,10 @@
+id: online-shop-store
+vendor_id: code-projects
+name: Online Shop Store
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:online_shop_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_shop_store
+  confidence: auto

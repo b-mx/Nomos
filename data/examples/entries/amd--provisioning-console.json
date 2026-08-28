@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--provisioning-console",
+  "vendor_id": "amd",
+  "product_id": "provisioning-console",
+  "name": "Provisioning Console",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "provisioning_console",
+      "confidence": "auto"
+    }
+  ]
+}

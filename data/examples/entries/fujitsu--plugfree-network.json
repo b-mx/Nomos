@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--plugfree-network",
+  "vendor_id": "fujitsu",
+  "product_id": "plugfree-network",
+  "name": "Plugfree Network",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plugfree_network",
+      "confidence": "auto"
+    }
+  ]
+}

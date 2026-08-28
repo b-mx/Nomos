@@ -1,0 +1,10 @@
+id: i-sensys-mf453dw
+vendor_id: canon
+name: I-Sensys Mf453Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:i\-sensys_mf453dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i-sensys_mf453dw
+  confidence: auto

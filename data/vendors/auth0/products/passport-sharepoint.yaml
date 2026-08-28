@@ -1,0 +1,10 @@
+id: passport-sharepoint
+vendor_id: auth0
+name: Passport-Sharepoint
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:passport\-sharepoint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: passport-sharepoint
+  confidence: auto

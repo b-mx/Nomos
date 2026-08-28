@@ -1,0 +1,10 @@
+id: membership
+vendor_id: ithemes
+name: Membership
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:membership:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: membership
+  confidence: auto

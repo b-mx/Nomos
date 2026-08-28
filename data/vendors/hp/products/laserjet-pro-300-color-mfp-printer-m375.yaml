@@ -1,0 +1,10 @@
+id: laserjet-pro-300-color-mfp-printer-m375
+vendor_id: hp
+name: Laserjet Pro 300 Color Mfp Printer M375
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_300_color_mfp_printer_m375:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_300_color_mfp_printer_m375
+  confidence: auto

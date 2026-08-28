@@ -1,0 +1,10 @@
+id: ccu3-firmware
+vendor_id: eq-3
+name: Ccu3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eq\-3:ccu3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ccu3_firmware
+  confidence: auto

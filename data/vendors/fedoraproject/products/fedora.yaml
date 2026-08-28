@@ -1,0 +1,13 @@
+id: fedora
+vendor_id: fedoraproject
+name: Fedora Linux
+type: os
+tags: []
+cpe: cpe:2.3:o:fedoraproject:fedora:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: fedora
+  confidence: auto
+- source: nvd
+  value: fedora
+  confidence: auto

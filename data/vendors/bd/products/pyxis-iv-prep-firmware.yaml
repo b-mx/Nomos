@@ -1,0 +1,10 @@
+id: pyxis-iv-prep-firmware
+vendor_id: bd
+name: Pyxis Iv Prep Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:pyxis_iv_prep_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_iv_prep_firmware
+  confidence: auto

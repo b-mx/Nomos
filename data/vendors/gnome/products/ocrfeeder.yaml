@@ -1,0 +1,10 @@
+id: ocrfeeder
+vendor_id: gnome
+name: Ocrfeeder
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:ocrfeeder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ocrfeeder
+  confidence: auto

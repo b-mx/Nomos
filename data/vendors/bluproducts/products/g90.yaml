@@ -1,0 +1,10 @@
+id: g90
+vendor_id: bluproducts
+name: G90
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bluproducts:g90:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g90
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--terraform-enterprise",
+  "vendor_id": "hashicorp",
+  "product_id": "terraform-enterprise",
+  "name": "Terraform Enterprise",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "terraform_enterprise",
+      "confidence": "auto"
+    }
+  ]
+}

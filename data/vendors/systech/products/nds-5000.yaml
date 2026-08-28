@@ -1,0 +1,10 @@
+id: nds-5000
+vendor_id: systech
+name: Nds-5000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:systech:nds\-5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nds-5000
+  confidence: auto

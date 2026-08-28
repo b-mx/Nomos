@@ -1,0 +1,10 @@
+id: hg655m
+vendor_id: huawei
+name: Hg655M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hg655m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg655m
+  confidence: auto

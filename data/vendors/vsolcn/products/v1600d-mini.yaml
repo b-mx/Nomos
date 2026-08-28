@@ -1,0 +1,10 @@
+id: v1600d-mini
+vendor_id: vsolcn
+name: V1600D-Mini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vsolcn:v1600d\-mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v1600d-mini
+  confidence: auto

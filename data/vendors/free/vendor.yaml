@@ -1,0 +1,7 @@
+id: free
+name: Free
+cpe: cpe:2.3:*:free:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: free
+  confidence: auto

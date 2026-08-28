@@ -1,0 +1,10 @@
+id: groupwise-messenger
+vendor_id: novell
+name: Groupwise Messenger
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:groupwise_messenger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: groupwise_messenger
+  confidence: auto

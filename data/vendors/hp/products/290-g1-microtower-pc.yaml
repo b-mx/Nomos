@@ -1,0 +1,10 @@
+id: 290-g1-microtower-pc
+vendor_id: hp
+name: 290 G1 Microtower Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:290_g1_microtower_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 290_g1_microtower_pc
+  confidence: auto

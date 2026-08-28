@@ -1,0 +1,10 @@
+id: media-server
+vendor_id: avaya
+name: Media Server
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:media_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: media_server
+  confidence: auto

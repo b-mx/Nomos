@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "renovate",
+  "vendor_id": "renovate",
+  "name": "Renovate CLI",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "renovate",
+      "confidence": "auto"
+    }
+  ]
+}

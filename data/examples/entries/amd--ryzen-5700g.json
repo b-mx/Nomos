@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-5700g",
+  "vendor_id": "amd",
+  "product_id": "ryzen-5700g",
+  "name": "Ryzen 5700G",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_5700g",
+      "confidence": "auto"
+    }
+  ]
+}

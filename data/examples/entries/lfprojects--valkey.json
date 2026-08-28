@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "lfprojects--valkey",
+  "vendor_id": "lfprojects",
+  "product_id": "valkey",
+  "name": "Valkey",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "valkey",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "valkey",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: hm4l8gr1-firmware
+vendor_id: honeywell
+name: Hm4L8Gr1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hm4l8gr1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hm4l8gr1_firmware
+  confidence: auto

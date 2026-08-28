@@ -1,0 +1,10 @@
+id: lxd
+vendor_id: canonical
+name: Lxd
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:lxd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lxd
+  confidence: auto

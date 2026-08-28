@@ -1,0 +1,10 @@
+id: stm32f071rb-firmware
+vendor_id: st
+name: Stm32F071Rb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:st:stm32f071rb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f071rb_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: qcs-800xa
+vendor_id: abb
+name: Qcs 800Xa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:qcs_800xa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qcs_800xa
+  confidence: auto

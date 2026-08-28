@@ -1,0 +1,10 @@
+id: epyc-9384x-firmware
+vendor_id: amd
+name: Epyc 9384X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:epyc_9384x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_9384x_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ddr4-sdram
+vendor_id: micron
+name: Ddr4 Sdram
+type: hardware
+tags: []
+cpe: cpe:2.3:h:micron:ddr4_sdram:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ddr4_sdram
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pagewide-color-755-firmware
+vendor_id: hp
+name: Pagewide Color 755 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:pagewide_color_755_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pagewide_color_755_firmware
+  confidence: auto

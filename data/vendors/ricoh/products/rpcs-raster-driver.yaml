@@ -1,0 +1,10 @@
+id: rpcs-raster-driver
+vendor_id: ricoh
+name: Rpcs Raster Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:rpcs_raster_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rpcs_raster_driver
+  confidence: auto

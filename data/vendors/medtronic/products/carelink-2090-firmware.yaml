@@ -1,0 +1,10 @@
+id: carelink-2090-firmware
+vendor_id: medtronic
+name: Carelink 2090 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:carelink_2090_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carelink_2090_firmware
+  confidence: auto

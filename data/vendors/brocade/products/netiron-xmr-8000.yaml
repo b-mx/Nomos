@@ -1,0 +1,10 @@
+id: netiron-xmr-8000
+vendor_id: brocade
+name: Netiron Xmr 8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brocade:netiron_xmr_8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netiron_xmr_8000
+  confidence: auto

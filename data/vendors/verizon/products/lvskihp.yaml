@@ -1,0 +1,10 @@
+id: lvskihp
+vendor_id: verizon
+name: Lvskihp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verizon:lvskihp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lvskihp
+  confidence: auto

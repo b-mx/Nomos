@@ -1,0 +1,10 @@
+id: review-schema
+vendor_id: radiustheme
+name: Review Schema
+type: software
+tags: []
+cpe: cpe:2.3:a:radiustheme:review_schema:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: review_schema
+  confidence: auto

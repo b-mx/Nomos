@@ -1,0 +1,10 @@
+id: slider
+vendor_id: supsystic
+name: Slider
+type: software
+tags: []
+cpe: cpe:2.3:a:supsystic:slider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slider
+  confidence: auto

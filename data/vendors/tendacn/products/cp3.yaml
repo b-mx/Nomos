@@ -1,0 +1,10 @@
+id: cp3
+vendor_id: tendacn
+name: Cp3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:cp3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp3
+  confidence: auto

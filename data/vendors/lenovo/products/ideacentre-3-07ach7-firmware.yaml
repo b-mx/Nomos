@@ -1,0 +1,10 @@
+id: ideacentre-3-07ach7-firmware
+vendor_id: lenovo
+name: Ideacentre 3 07Ach7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_3_07ach7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_3_07ach7_firmware
+  confidence: auto

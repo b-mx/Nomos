@@ -1,0 +1,10 @@
+id: smartrtu
+vendor_id: mitsubishielectric
+name: Smartrtu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:smartrtu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartrtu
+  confidence: auto

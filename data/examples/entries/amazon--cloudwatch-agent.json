@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--cloudwatch-agent",
+  "vendor_id": "amazon",
+  "product_id": "cloudwatch-agent",
+  "name": "Cloudwatch Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloudwatch_agent",
+      "confidence": "auto"
+    }
+  ]
+}

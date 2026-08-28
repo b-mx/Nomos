@@ -1,0 +1,10 @@
+id: veriton-m2110g
+vendor_id: acer
+name: Veriton M2110G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:veriton_m2110g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: veriton_m2110g
+  confidence: auto

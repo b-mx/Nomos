@@ -1,0 +1,10 @@
+id: q2111-e
+vendor_id: axis
+name: Q2111-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q2111\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q2111-e
+  confidence: auto

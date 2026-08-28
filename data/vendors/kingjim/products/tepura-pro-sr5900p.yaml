@@ -1,0 +1,10 @@
+id: tepura-pro-sr5900p
+vendor_id: kingjim
+name: Tepura Pro Sr5900P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kingjim:tepura_pro_sr5900p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tepura_pro_sr5900p
+  confidence: auto

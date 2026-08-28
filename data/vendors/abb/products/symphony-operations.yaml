@@ -1,0 +1,10 @@
+id: symphony-operations
+vendor_id: abb
+name: Symphony + Operations
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:symphony_\+_operations:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symphony_+_operations
+  confidence: auto

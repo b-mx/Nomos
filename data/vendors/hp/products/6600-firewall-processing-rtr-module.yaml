@@ -1,0 +1,10 @@
+id: 6600-firewall-processing-rtr-module
+vendor_id: hp
+name: 6600 Firewall Processing Rtr Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:6600_firewall_processing_rtr_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 6600_firewall_processing_rtr_module
+  confidence: auto

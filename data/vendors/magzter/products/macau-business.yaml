@@ -1,0 +1,10 @@
+id: macau-business
+vendor_id: magzter
+name: Macau Business
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:macau_business:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: macau_business
+  confidence: auto

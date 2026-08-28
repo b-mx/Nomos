@@ -1,0 +1,10 @@
+id: sim1012-0p0g200-firmware
+vendor_id: sick
+name: Sim1012-0P0G200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:sim1012\-0p0g200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim1012-0p0g200_firmware
+  confidence: auto

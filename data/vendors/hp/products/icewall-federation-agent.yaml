@@ -1,0 +1,10 @@
+id: icewall-federation-agent
+vendor_id: hp
+name: Icewall Federation Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:icewall_federation_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icewall_federation_agent
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bordermanager
+vendor_id: novell
+name: Bordermanager
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:bordermanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bordermanager
+  confidence: auto

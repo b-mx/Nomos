@@ -1,0 +1,10 @@
+id: welcome
+vendor_id: opensuse
+name: Welcome
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:welcome:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: welcome
+  confidence: auto

@@ -1,0 +1,10 @@
+id: d9l19a
+vendor_id: hp
+name: D9L19A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:d9l19a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d9l19a
+  confidence: auto

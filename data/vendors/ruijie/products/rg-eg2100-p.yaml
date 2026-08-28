@@ -1,0 +1,10 @@
+id: rg-eg2100-p
+vendor_id: ruijie
+name: Rg-Eg2100-P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-eg2100\-p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-eg2100-p
+  confidence: auto

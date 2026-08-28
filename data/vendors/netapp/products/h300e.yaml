@@ -1,0 +1,10 @@
+id: h300e
+vendor_id: netapp
+name: H300E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:h300e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h300e
+  confidence: auto

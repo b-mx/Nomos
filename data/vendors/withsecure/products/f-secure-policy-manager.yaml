@@ -1,0 +1,10 @@
+id: f-secure-policy-manager
+vendor_id: withsecure
+name: F-Secure Policy Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:withsecure:f\-secure_policy_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f-secure_policy_manager
+  confidence: auto

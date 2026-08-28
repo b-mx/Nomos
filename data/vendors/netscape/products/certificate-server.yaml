@@ -1,0 +1,10 @@
+id: certificate-server
+vendor_id: netscape
+name: Certificate Server
+type: software
+tags: []
+cpe: cpe:2.3:a:netscape:certificate_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: certificate_server
+  confidence: auto

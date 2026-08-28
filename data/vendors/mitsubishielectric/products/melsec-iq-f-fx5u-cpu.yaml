@@ -1,0 +1,10 @@
+id: melsec-iq-f-fx5u-cpu
+vendor_id: mitsubishielectric
+name: Melsec Iq-F Fx5U Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_iq\-f_fx5u_cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-f_fx5u_cpu
+  confidence: auto

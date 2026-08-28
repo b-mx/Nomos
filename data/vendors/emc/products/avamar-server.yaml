@@ -1,0 +1,10 @@
+id: avamar-server
+vendor_id: emc
+name: Avamar Server
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:avamar_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avamar_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 243x
+vendor_id: lenovo
+name: 243X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:243x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 243x
+  confidence: auto

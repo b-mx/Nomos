@@ -1,0 +1,10 @@
+id: jf430a-hp-a12518-switch-chassis
+vendor_id: hp
+name: Jf430A Hp A12518 Switch Chassis
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf430a_hp_a12518_switch_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf430a_hp_a12518_switch_chassis
+  confidence: auto

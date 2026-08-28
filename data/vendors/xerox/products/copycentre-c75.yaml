@@ -1,0 +1,10 @@
+id: copycentre-c75
+vendor_id: xerox
+name: Copycentre C75
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:copycentre_c75:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: copycentre_c75
+  confidence: auto

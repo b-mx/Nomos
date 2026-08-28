@@ -1,0 +1,10 @@
+id: kerberos-ftp-client
+vendor_id: mit
+name: Kerberos Ftp Client
+type: software
+tags: []
+cpe: cpe:2.3:a:mit:kerberos_ftp_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kerberos_ftp_client
+  confidence: auto

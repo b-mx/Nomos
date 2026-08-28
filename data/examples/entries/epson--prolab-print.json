@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--prolab-print",
+  "vendor_id": "epson",
+  "product_id": "prolab-print",
+  "name": "Prolab Print",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "prolab_print",
+      "confidence": "auto"
+    }
+  ]
+}

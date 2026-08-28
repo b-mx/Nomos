@@ -1,0 +1,10 @@
+id: flexidome-indoor-5100i-ir
+vendor_id: bosch
+name: Flexidome Indoor 5100I Ir
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_indoor_5100i_ir:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_indoor_5100i_ir
+  confidence: auto

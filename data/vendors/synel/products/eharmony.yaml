@@ -1,0 +1,10 @@
+id: eharmony
+vendor_id: synel
+name: Eharmony
+type: software
+tags: []
+cpe: cpe:2.3:a:synel:eharmony:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eharmony
+  confidence: auto

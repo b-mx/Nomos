@@ -1,0 +1,10 @@
+id: arena
+vendor_id: rockwellautomation
+name: Arena
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:arena:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arena
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--zcentral-4r-firmware",
+  "vendor_id": "hp",
+  "product_id": "zcentral-4r-firmware",
+  "name": "Zcentral 4R Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zcentral_4r_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: bizhub-c364e-firmware
+vendor_id: konicaminolta
+name: Bizhub C364E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:konicaminolta:bizhub_c364e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c364e_firmware
+  confidence: auto

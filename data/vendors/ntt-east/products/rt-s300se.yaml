@@ -1,0 +1,10 @@
+id: rt-s300se
+vendor_id: ntt-east
+name: Rt-S300Se
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-east:rt\-s300se:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-s300se
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-pro-400-mfp-m425-cf286a
+vendor_id: hp
+name: Laserjet Pro 400 Mfp M425 Cf286A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_400_mfp_m425_cf286a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_400_mfp_m425_cf286a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkpad-x1-carbon-5th-gen-skylake-firmware
+vendor_id: lenovo
+name: Thinkpad X1 Carbon 5Th Gen Skylake Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_x1_carbon_5th_gen_skylake_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_carbon_5th_gen_skylake_firmware
+  confidence: auto

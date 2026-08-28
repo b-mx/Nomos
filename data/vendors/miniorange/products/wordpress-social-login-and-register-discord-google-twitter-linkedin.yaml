@@ -1,0 +1,10 @@
+id: wordpress-social-login-and-register-discord-google-twitter-linkedin
+vendor_id: miniorange
+name: Wordpress Social Login And Register (Discord, Google, Twitter, Linkedin)
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:wordpress_social_login_and_register_\(discord\,_google\,_twitter\,_linkedin\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wordpress_social_login_and_register_(discord,_google,_twitter,_linkedin)
+  confidence: auto

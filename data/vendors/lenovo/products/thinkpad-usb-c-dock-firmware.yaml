@@ -1,0 +1,10 @@
+id: thinkpad-usb-c-dock-firmware
+vendor_id: lenovo
+name: Thinkpad Usb-C Dock Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_usb\-c_dock_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_usb-c_dock_firmware
+  confidence: auto

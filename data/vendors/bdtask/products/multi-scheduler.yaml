@@ -1,0 +1,10 @@
+id: multi-scheduler
+vendor_id: bdtask
+name: Multi-Scheduler
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:multi\-scheduler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multi-scheduler
+  confidence: auto

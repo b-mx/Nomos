@@ -1,0 +1,10 @@
+id: px-s860
+vendor_id: epson
+name: Px-S860
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-s860:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-s860
+  confidence: auto

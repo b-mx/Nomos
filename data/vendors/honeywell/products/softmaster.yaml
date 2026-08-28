@@ -1,0 +1,10 @@
+id: softmaster
+vendor_id: honeywell
+name: Softmaster
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:softmaster:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softmaster
+  confidence: auto

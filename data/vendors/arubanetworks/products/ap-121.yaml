@@ -1,0 +1,10 @@
+id: ap-121
+vendor_id: arubanetworks
+name: Ap-121
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-121:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-121
+  confidence: auto

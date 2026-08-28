@@ -1,0 +1,10 @@
+id: uap-ac-lr
+vendor_id: ui
+name: Uap-Ac-Lr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:uap\-ac\-lr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uap-ac-lr
+  confidence: auto

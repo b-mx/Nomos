@@ -1,0 +1,10 @@
+id: kantech-kt-1-door-controller
+vendor_id: johnsoncontrols
+name: Kantech Kt-1 Door Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:kantech_kt\-1_door_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kantech_kt-1_door_controller
+  confidence: auto

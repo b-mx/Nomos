@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--zenworks-patch-management-server",
+  "vendor_id": "novell",
+  "product_id": "zenworks-patch-management-server",
+  "name": "Zenworks Patch Management Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zenworks_patch_management_server",
+      "confidence": "auto"
+    }
+  ]
+}

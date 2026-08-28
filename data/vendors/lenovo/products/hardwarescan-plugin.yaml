@@ -1,0 +1,10 @@
+id: hardwarescan-plugin
+vendor_id: lenovo
+name: Hardwarescan Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:hardwarescan_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hardwarescan_plugin
+  confidence: auto

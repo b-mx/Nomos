@@ -1,0 +1,10 @@
+id: open-desktop-server
+vendor_id: novell
+name: Open Desktop Server
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:open_desktop_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_desktop_server
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--rer615-firmware",
+  "vendor_id": "abb",
+  "product_id": "rer615-firmware",
+  "name": "Rer615 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rer615_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: job-diary
+vendor_id: anisha
+name: Job Diary
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:job_diary:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: job_diary
+  confidence: auto

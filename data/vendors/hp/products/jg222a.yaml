@@ -1,0 +1,10 @@
+id: jg222a
+vendor_id: hp
+name: Jg222A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg222a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg222a
+  confidence: auto

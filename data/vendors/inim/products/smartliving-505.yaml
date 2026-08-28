@@ -1,0 +1,10 @@
+id: smartliving-505
+vendor_id: inim
+name: Smartliving 505
+type: hardware
+tags: []
+cpe: cpe:2.3:h:inim:smartliving_505:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartliving_505
+  confidence: auto

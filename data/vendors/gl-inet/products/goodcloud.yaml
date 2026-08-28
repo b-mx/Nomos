@@ -1,0 +1,10 @@
+id: goodcloud
+vendor_id: gl-inet
+name: Goodcloud
+type: software
+tags: []
+cpe: cpe:2.3:a:gl\-inet:goodcloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: goodcloud
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cncsoft-g2
+vendor_id: deltaww
+name: Cncsoft-G2
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:cncsoft\-g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cncsoft-g2
+  confidence: auto

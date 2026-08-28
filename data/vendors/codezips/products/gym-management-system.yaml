@@ -1,0 +1,10 @@
+id: gym-management-system
+vendor_id: codezips
+name: Gym Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:codezips:gym_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gym_management_system
+  confidence: auto

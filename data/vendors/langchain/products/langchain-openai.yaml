@@ -1,0 +1,10 @@
+id: langchain-openai
+vendor_id: langchain
+name: Langchain-Openai
+type: software
+tags: []
+cpe: cpe:2.3:a:langchain:langchain\-openai:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: langchain-openai
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "raritan--power-iq",
+  "vendor_id": "raritan",
+  "product_id": "power-iq",
+  "name": "Power Iq",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "power_iq",
+      "confidence": "auto"
+    }
+  ]
+}

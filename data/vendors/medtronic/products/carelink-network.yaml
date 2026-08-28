@@ -1,0 +1,10 @@
+id: carelink-network
+vendor_id: medtronic
+name: Carelink Network
+type: software
+tags: []
+cpe: cpe:2.3:a:medtronic:carelink_network:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carelink_network
+  confidence: auto

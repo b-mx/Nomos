@@ -1,0 +1,10 @@
+id: cc3130
+vendor_id: ti
+name: Cc3130
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:cc3130:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc3130
+  confidence: auto

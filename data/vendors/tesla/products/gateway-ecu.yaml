@@ -1,0 +1,10 @@
+id: gateway-ecu
+vendor_id: tesla
+name: Gateway Ecu
+type: os
+tags: []
+cpe: cpe:2.3:o:tesla:gateway_ecu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gateway_ecu
+  confidence: auto

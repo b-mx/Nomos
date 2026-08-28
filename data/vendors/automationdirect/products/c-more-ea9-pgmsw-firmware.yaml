@@ -1,0 +1,10 @@
+id: c-more-ea9-pgmsw-firmware
+vendor_id: automationdirect
+name: C-More Ea9-Pgmsw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:c\-more_ea9\-pgmsw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c-more_ea9-pgmsw_firmware
+  confidence: auto

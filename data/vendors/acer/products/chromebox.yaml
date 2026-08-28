@@ -1,0 +1,10 @@
+id: chromebox
+vendor_id: acer
+name: Chromebox
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:chromebox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chromebox
+  confidence: auto

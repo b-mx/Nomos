@@ -1,0 +1,10 @@
+id: cx31x
+vendor_id: lexmark
+name: Cx31X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx31x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx31x
+  confidence: auto

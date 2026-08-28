@@ -1,0 +1,10 @@
+id: x-dock-firmware
+vendor_id: draeger
+name: X-Dock Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:draeger:x\-dock_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-dock_firmware
+  confidence: auto

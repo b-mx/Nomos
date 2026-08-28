@@ -1,0 +1,10 @@
+id: time-clock
+vendor_id: wpplugin
+name: Time Clock
+type: software
+tags: []
+cpe: cpe:2.3:a:wpplugin:time_clock:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: time_clock
+  confidence: auto

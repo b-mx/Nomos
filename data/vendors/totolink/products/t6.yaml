@@ -1,0 +1,10 @@
+id: t6
+vendor_id: totolink
+name: T6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:t6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t6
+  confidence: auto

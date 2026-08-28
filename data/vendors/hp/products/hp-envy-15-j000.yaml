@@ -1,0 +1,10 @@
+id: hp-envy-15-j000
+vendor_id: hp
+name: Hp Envy 15-J000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_envy_15\-j000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_envy_15-j000
+  confidence: auto

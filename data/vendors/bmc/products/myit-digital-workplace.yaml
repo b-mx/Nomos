@@ -1,0 +1,10 @@
+id: myit-digital-workplace
+vendor_id: bmc
+name: Myit Digital Workplace
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:myit_digital_workplace:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: myit_digital_workplace
+  confidence: auto

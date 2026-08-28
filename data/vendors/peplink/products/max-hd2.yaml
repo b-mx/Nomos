@@ -1,0 +1,10 @@
+id: max-hd2
+vendor_id: peplink
+name: Max Hd2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:max_hd2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_hd2
+  confidence: auto

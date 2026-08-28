@@ -1,0 +1,10 @@
+id: thinkstation-c30-refresh
+vendor_id: lenovo
+name: Thinkstation C30 Refresh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkstation_c30_refresh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkstation_c30_refresh
+  confidence: auto

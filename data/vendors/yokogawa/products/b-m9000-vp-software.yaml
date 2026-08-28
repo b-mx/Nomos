@@ -1,0 +1,10 @@
+id: b-m9000-vp-software
+vendor_id: yokogawa
+name: B/M9000 Vp Software
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:b\/m9000_vp_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b/m9000_vp_software
+  confidence: auto

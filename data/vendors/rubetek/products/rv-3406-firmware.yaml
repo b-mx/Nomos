@@ -1,0 +1,10 @@
+id: rv-3406-firmware
+vendor_id: rubetek
+name: Rv-3406 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rubetek:rv\-3406_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-3406_firmware
+  confidence: auto

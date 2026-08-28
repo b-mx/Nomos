@@ -1,0 +1,10 @@
+id: lx390
+vendor_id: fujitsu
+name: Lx390
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:lx390:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lx390
+  confidence: auto

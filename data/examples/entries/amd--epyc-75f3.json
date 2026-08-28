@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-75f3",
+  "vendor_id": "amd",
+  "product_id": "epyc-75f3",
+  "name": "Epyc 75F3",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_75f3",
+      "confidence": "auto"
+    }
+  ]
+}

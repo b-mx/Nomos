@@ -1,0 +1,10 @@
+id: optical-bb-unit-e-wmta
+vendor_id: softbank
+name: Optical Bb Unit E-Wmta
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softbank:optical_bb_unit_e\-wmta:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optical_bb_unit_e-wmta
+  confidence: auto

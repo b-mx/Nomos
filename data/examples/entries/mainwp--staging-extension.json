@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mainwp--staging-extension",
+  "vendor_id": "mainwp",
+  "product_id": "staging-extension",
+  "name": "Staging Extension",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "staging_extension",
+      "confidence": "auto"
+    }
+  ]
+}

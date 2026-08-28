@@ -1,0 +1,10 @@
+id: elite-slice-firmware
+vendor_id: hp
+name: Elite Slice Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elite_slice_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_slice_firmware
+  confidence: auto

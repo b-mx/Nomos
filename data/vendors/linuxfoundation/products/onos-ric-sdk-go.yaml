@@ -1,0 +1,10 @@
+id: onos-ric-sdk-go
+vendor_id: linuxfoundation
+name: Onos-Ric-Sdk-Go
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:onos\-ric\-sdk\-go:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: onos-ric-sdk-go
+  confidence: auto

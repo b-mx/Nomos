@@ -1,0 +1,10 @@
+id: hota-fara-b19
+vendor_id: huawei
+name: Hota-Fara-B19
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hota\-fara\-b19:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hota-fara-b19
+  confidence: auto

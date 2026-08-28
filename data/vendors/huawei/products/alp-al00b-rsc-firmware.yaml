@@ -1,0 +1,10 @@
+id: alp-al00b-rsc-firmware
+vendor_id: huawei
+name: Alp-Al00B-Rsc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:alp\-al00b\-rsc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alp-al00b-rsc_firmware
+  confidence: auto

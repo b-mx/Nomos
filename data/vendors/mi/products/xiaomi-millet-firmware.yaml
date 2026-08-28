@@ -1,0 +1,10 @@
+id: xiaomi-millet-firmware
+vendor_id: mi
+name: Xiaomi Millet Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:xiaomi_millet_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaomi_millet_firmware
+  confidence: auto

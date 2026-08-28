@@ -1,0 +1,10 @@
+id: cj1g-cpu45p-firmware
+vendor_id: omron
+name: Cj1G-Cpu45P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cj1g\-cpu45p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cj1g-cpu45p_firmware
+  confidence: auto

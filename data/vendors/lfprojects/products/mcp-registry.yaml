@@ -1,0 +1,10 @@
+id: mcp-registry
+vendor_id: lfprojects
+name: Mcp Registry
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:mcp_registry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcp_registry
+  confidence: auto

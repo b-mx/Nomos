@@ -1,0 +1,10 @@
+id: yoga-530-14arr
+vendor_id: lenovo
+name: Yoga 530-14Arr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yoga_530\-14arr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_530-14arr
+  confidence: auto

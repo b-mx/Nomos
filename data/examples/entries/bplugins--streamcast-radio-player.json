@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bplugins--streamcast-radio-player",
+  "vendor_id": "bplugins",
+  "product_id": "streamcast-radio-player",
+  "name": "Streamcast Radio Player",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "streamcast_radio_player",
+      "confidence": "auto"
+    }
+  ]
+}

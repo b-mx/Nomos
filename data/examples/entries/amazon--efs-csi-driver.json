@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--efs-csi-driver",
+  "vendor_id": "amazon",
+  "product_id": "efs-csi-driver",
+  "name": "Efs Csi Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "efs_csi_driver",
+      "confidence": "auto"
+    }
+  ]
+}

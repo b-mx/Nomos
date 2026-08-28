@@ -1,0 +1,10 @@
+id: prestashop-link
+vendor_id: prestashop
+name: Prestashop Link
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:prestashop_link:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prestashop_link
+  confidence: auto

@@ -1,0 +1,10 @@
+id: data-tables-generator
+vendor_id: supsystic
+name: Data Tables Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:supsystic:data_tables_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_tables_generator
+  confidence: auto

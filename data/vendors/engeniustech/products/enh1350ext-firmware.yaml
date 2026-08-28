@@ -1,0 +1,10 @@
+id: enh1350ext-firmware
+vendor_id: engeniustech
+name: Enh1350Ext Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:engeniustech:enh1350ext_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enh1350ext_firmware
+  confidence: auto

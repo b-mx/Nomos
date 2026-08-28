@@ -1,0 +1,10 @@
+id: amd-3020e
+vendor_id: amd
+name: Amd 3020E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:amd_3020e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amd_3020e
+  confidence: auto

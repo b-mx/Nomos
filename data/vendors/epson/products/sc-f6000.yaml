@@ -1,0 +1,10 @@
+id: sc-f6000
+vendor_id: epson
+name: Sc-F6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-f6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-f6000
+  confidence: auto

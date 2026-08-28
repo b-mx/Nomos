@@ -1,0 +1,10 @@
+id: 218-pro-g5-mt-firmware
+vendor_id: hp
+name: 218 Pro G5 Mt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:218_pro_g5_mt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 218_pro_g5_mt_firmware
+  confidence: auto

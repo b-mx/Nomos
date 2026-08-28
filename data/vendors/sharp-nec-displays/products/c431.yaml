@@ -1,0 +1,10 @@
+id: c431
+vendor_id: sharp-nec-displays
+name: C431
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp\-nec\-displays:c431:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c431
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x3-hr-payroll
+vendor_id: sage
+name: X3 Hr & Payroll
+type: software
+tags: []
+cpe: cpe:2.3:a:sage:x3_hr_\&_payroll:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x3_hr_&_payroll
+  confidence: auto

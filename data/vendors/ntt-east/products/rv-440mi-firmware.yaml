@@ -1,0 +1,10 @@
+id: rv-440mi-firmware
+vendor_id: ntt-east
+name: Rv-440Mi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ntt\-east:rv\-440mi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-440mi_firmware
+  confidence: auto

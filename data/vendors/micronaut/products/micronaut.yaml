@@ -1,0 +1,10 @@
+id: micronaut
+vendor_id: micronaut
+name: Micronaut Framework
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: micronaut
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mandrakesoft--mandrakesoft-corporate-server",
+  "vendor_id": "mandrakesoft",
+  "product_id": "mandrakesoft-corporate-server",
+  "name": "Mandrakesoft Corporate Server",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mandrakesoft_corporate_server",
+      "confidence": "auto"
+    }
+  ]
+}

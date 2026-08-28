@@ -1,0 +1,10 @@
+id: compactlogix-5370-l1-firmware
+vendor_id: rockwellautomation
+name: Compactlogix 5370 L1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:compactlogix_5370_l1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactlogix_5370_l1_firmware
+  confidence: auto

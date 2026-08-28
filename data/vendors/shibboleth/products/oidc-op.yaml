@@ -1,0 +1,10 @@
+id: oidc-op
+vendor_id: shibboleth
+name: Oidc Op
+type: software
+tags: []
+cpe: cpe:2.3:a:shibboleth:oidc_op:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oidc_op
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wordperfect-office-x6
+vendor_id: corel
+name: Wordperfect Office X6
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:wordperfect_office_x6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wordperfect_office_x6
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bloodbank
+vendor_id: phpscriptpoint
+name: Bloodbank
+type: software
+tags: []
+cpe: cpe:2.3:a:phpscriptpoint:bloodbank:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bloodbank
+  confidence: auto

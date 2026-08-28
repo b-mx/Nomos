@@ -1,0 +1,10 @@
+id: assurity
+vendor_id: abbott
+name: Assurity
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abbott:assurity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: assurity
+  confidence: auto

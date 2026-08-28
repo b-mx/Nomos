@@ -1,0 +1,13 @@
+id: statamic
+vendor_id: statamic
+name: Statamic
+type: software
+tags: []
+cpe: cpe:2.3:a:statamic:statamic:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: statamic
+  confidence: auto
+- source: nvd
+  value: statamic
+  confidence: auto

@@ -1,0 +1,10 @@
+id: debmake
+vendor_id: debian
+name: Debmake
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:debmake:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: debmake
+  confidence: auto

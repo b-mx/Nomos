@@ -1,0 +1,10 @@
+id: hd-ma20ty
+vendor_id: toshiba
+name: Hd-Ma20Ty
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshiba:hd\-ma20ty:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hd-ma20ty
+  confidence: auto

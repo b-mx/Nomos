@@ -1,0 +1,10 @@
+id: riverbed-optimization-system
+vendor_id: riverbed
+name: Riverbed Optimization System
+type: os
+tags: []
+cpe: cpe:2.3:o:riverbed:riverbed_optimization_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: riverbed_optimization_system
+  confidence: auto

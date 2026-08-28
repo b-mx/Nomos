@@ -1,0 +1,10 @@
+id: php-gz-hotel-booking-script
+vendor_id: gzscripts
+name: Php Gz Hotel Booking Script
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:php_gz_hotel_booking_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: php_gz_hotel_booking_script
+  confidence: auto

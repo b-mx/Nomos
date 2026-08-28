@@ -1,0 +1,10 @@
+id: wonderware-historian
+vendor_id: invensys
+name: Wonderware Historian
+type: software
+tags: []
+cpe: cpe:2.3:a:invensys:wonderware_historian:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wonderware_historian
+  confidence: auto

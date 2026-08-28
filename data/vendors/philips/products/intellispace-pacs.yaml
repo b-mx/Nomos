@@ -1,0 +1,10 @@
+id: intellispace-pacs
+vendor_id: philips
+name: Intellispace Pacs
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:intellispace_pacs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellispace_pacs
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 762-4205-8000-001-firmware
+vendor_id: wago
+name: 762-4205/8000-001 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:762\-4205\/8000\-001_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 762-4205/8000-001_firmware
+  confidence: auto

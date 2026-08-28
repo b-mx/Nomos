@@ -1,0 +1,7 @@
+id: ecovacs
+name: Ecovacs
+cpe: cpe:2.3:*:ecovacs:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecovacs
+  confidence: auto

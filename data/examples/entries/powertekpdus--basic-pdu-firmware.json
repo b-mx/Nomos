@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "powertekpdus--basic-pdu-firmware",
+  "vendor_id": "powertekpdus",
+  "product_id": "basic-pdu-firmware",
+  "name": "Basic Pdu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "basic_pdu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

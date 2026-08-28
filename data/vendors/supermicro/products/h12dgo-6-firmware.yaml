@@ -1,0 +1,10 @@
+id: h12dgo-6-firmware
+vendor_id: supermicro
+name: H12Dgo-6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:h12dgo\-6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12dgo-6_firmware
+  confidence: auto

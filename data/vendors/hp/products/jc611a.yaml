@@ -1,0 +1,10 @@
+id: jc611a
+vendor_id: hp
+name: Jc611A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc611a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc611a
+  confidence: auto

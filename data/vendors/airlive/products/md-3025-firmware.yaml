@@ -1,0 +1,10 @@
+id: md-3025-firmware
+vendor_id: airlive
+name: Md-3025 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airlive:md\-3025_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: md-3025_firmware
+  confidence: auto

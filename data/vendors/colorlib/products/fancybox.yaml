@@ -1,0 +1,10 @@
+id: fancybox
+vendor_id: colorlib
+name: Fancybox
+type: software
+tags: []
+cpe: cpe:2.3:a:colorlib:fancybox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fancybox
+  confidence: auto

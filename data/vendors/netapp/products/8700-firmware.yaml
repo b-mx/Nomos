@@ -1,0 +1,10 @@
+id: 8700-firmware
+vendor_id: netapp
+name: 8700 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:8700_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 8700_firmware
+  confidence: auto

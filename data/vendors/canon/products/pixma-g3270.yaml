@@ -1,0 +1,10 @@
+id: pixma-g3270
+vendor_id: canon
+name: Pixma G3270
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:pixma_g3270:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pixma_g3270
+  confidence: auto

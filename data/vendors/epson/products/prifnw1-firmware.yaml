@@ -1,0 +1,10 @@
+id: prifnw1-firmware
+vendor_id: epson
+name: Prifnw1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:prifnw1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prifnw1_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: iq3xcite-firmware
+vendor_id: honeywell
+name: Iq3Xcite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:iq3xcite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq3xcite_firmware
+  confidence: auto

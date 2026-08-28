@@ -1,0 +1,10 @@
+id: jd356a
+vendor_id: hp
+name: Jd356A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd356a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd356a
+  confidence: auto

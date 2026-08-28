@@ -1,0 +1,10 @@
+id: rl01
+vendor_id: irz
+name: Rl01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:irz:rl01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rl01
+  confidence: auto

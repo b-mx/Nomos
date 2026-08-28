@@ -1,0 +1,10 @@
+id: wincom-lpd
+vendor_id: ipswitch
+name: Wincom Lpd
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:wincom_lpd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wincom_lpd
+  confidence: auto

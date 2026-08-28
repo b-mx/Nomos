@@ -1,0 +1,10 @@
+id: amazon-aurora-mysql
+vendor_id: amazon-aurora-mysql
+name: Amazon Aurora MySQL
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: amazon-aurora-mysql
+  confidence: auto

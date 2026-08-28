@@ -1,0 +1,10 @@
+id: event-booking-calendar
+vendor_id: gzscripts
+name: Event Booking Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:event_booking_calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: event_booking_calendar
+  confidence: auto

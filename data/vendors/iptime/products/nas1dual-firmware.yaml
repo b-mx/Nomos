@@ -1,0 +1,10 @@
+id: nas1dual-firmware
+vendor_id: iptime
+name: Nas1Dual Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:nas1dual_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nas1dual_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x10slx-f-firmware
+vendor_id: supermicro
+name: X10Slx-F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10slx\-f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10slx-f_firmware
+  confidence: auto

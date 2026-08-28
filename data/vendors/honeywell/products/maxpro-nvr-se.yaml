@@ -1,0 +1,10 @@
+id: maxpro-nvr-se
+vendor_id: honeywell
+name: Maxpro Nvr Se
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:maxpro_nvr_se:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxpro_nvr_se
+  confidence: auto

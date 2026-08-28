@@ -1,0 +1,10 @@
+id: ryzen-pro-4750ge
+vendor_id: amd
+name: Ryzen Pro 4750Ge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_pro_4750ge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_pro_4750ge
+  confidence: auto

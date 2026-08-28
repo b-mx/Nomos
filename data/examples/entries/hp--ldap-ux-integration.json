@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--ldap-ux-integration",
+  "vendor_id": "hp",
+  "product_id": "ldap-ux-integration",
+  "name": "Ldap-Ux Integration",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ldap-ux_integration",
+      "confidence": "auto"
+    }
+  ]
+}

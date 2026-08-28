@@ -1,0 +1,10 @@
+id: fusionsphere-openstack
+vendor_id: huawei
+name: Fusionsphere Openstack
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:fusionsphere_openstack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionsphere_openstack
+  confidence: auto

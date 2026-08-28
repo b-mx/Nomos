@@ -1,0 +1,10 @@
+id: proone-400-g2-aio-firmware
+vendor_id: hp
+name: Proone 400 G2 Aio Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:proone_400_g2_aio_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_400_g2_aio_firmware
+  confidence: auto

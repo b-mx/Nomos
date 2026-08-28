@@ -1,0 +1,10 @@
+id: yubiserver
+vendor_id: debian
+name: Yubiserver
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:yubiserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yubiserver
+  confidence: auto

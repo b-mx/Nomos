@@ -1,0 +1,10 @@
+id: nport-6610-32-firmware
+vendor_id: moxa
+name: Nport 6610-32 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_6610\-32_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_6610-32_firmware
+  confidence: auto

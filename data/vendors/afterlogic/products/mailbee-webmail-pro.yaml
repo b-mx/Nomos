@@ -1,0 +1,10 @@
+id: mailbee-webmail-pro
+vendor_id: afterlogic
+name: Mailbee Webmail Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:afterlogic:mailbee_webmail_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mailbee_webmail_pro
+  confidence: auto

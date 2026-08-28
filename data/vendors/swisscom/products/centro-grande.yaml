@@ -1,0 +1,10 @@
+id: centro-grande
+vendor_id: swisscom
+name: Centro Grande
+type: hardware
+tags: []
+cpe: cpe:2.3:h:swisscom:centro_grande:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centro_grande
+  confidence: auto

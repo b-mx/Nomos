@@ -1,0 +1,10 @@
+id: laserjet-mfp-m236e-6gx00e-firmware
+vendor_id: hp
+name: Laserjet Mfp M236E 6Gx00E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_mfp_m236e_6gx00e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m236e_6gx00e_firmware
+  confidence: auto

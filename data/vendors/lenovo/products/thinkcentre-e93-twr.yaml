@@ -1,0 +1,10 @@
+id: thinkcentre-e93-twr
+vendor_id: lenovo
+name: Thinkcentre E93 (Twr)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_e93_\(twr\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_e93_(twr)
+  confidence: auto

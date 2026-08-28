@@ -1,0 +1,10 @@
+id: p0r21a-firmware
+vendor_id: hp
+name: P0R21A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:p0r21a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p0r21a_firmware
+  confidence: auto

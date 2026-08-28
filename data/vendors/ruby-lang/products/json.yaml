@@ -1,0 +1,10 @@
+id: json
+vendor_id: ruby-lang
+name: Json
+type: software
+tags: []
+cpe: cpe:2.3:a:ruby\-lang:json:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: json
+  confidence: auto

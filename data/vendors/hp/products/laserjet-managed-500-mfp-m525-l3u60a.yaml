@@ -1,0 +1,10 @@
+id: laserjet-managed-500-mfp-m525-l3u60a
+vendor_id: hp
+name: Laserjet Managed 500 Mfp M525 L3U60A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_500_mfp_m525_l3u60a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_500_mfp_m525_l3u60a
+  confidence: auto

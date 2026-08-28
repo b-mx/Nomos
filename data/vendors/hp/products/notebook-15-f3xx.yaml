@@ -1,0 +1,10 @@
+id: notebook-15-f3xx
+vendor_id: hp
+name: Notebook 15-F3Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:notebook_15\-f3xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_15-f3xx
+  confidence: auto

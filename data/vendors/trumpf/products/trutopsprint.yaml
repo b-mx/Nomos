@@ -1,0 +1,10 @@
+id: trutopsprint
+vendor_id: trumpf
+name: Trutopsprint
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:trutopsprint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trutopsprint
+  confidence: auto

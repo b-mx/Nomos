@@ -1,0 +1,10 @@
+id: g-cam-ebc-2110
+vendor_id: geutebrueck
+name: G-Cam Ebc-2110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:geutebrueck:g\-cam_ebc\-2110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g-cam_ebc-2110
+  confidence: auto

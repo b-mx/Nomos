@@ -1,0 +1,10 @@
+id: video-management-systems
+vendor_id: milesight
+name: Video Management Systems
+type: hardware
+tags: []
+cpe: cpe:2.3:h:milesight:video_management_systems:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_management_systems
+  confidence: auto

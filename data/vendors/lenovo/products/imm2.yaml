@@ -1,0 +1,10 @@
+id: imm2
+vendor_id: lenovo
+name: Imm2
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:imm2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imm2
+  confidence: auto

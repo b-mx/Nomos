@@ -1,0 +1,10 @@
+id: gpn2-4p21-c-cn-firmware
+vendor_id: chinamobile
+name: Gpn2.4P21-C-Cn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chinamobile:gpn2\.4p21\-c\-cn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gpn2.4p21-c-cn_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a830r
+vendor_id: totolink
+name: A830R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a830r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a830r
+  confidence: auto

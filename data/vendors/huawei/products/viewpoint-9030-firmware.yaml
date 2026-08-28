@@ -1,0 +1,10 @@
+id: viewpoint-9030-firmware
+vendor_id: huawei
+name: Viewpoint 9030 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:viewpoint_9030_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viewpoint_9030_firmware
+  confidence: auto

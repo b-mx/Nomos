@@ -1,0 +1,10 @@
+id: modelina
+vendor_id: lfprojects
+name: Modelina
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:modelina:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modelina
+  confidence: auto

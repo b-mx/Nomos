@@ -1,0 +1,10 @@
+id: thinkagile-hx5521-c
+vendor_id: lenovo
+name: Thinkagile Hx5521-C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_hx5521\-c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_hx5521-c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ops-center-api-configuration-manager
+vendor_id: hitachi
+name: Ops Center Api Configuration Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:ops_center_api_configuration_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ops_center_api_configuration_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: better-together-over-ethernet-connector
+vendor_id: polycom
+name: Better Together Over Ethernet Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:polycom:better_together_over_ethernet_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: better_together_over_ethernet_connector
+  confidence: auto

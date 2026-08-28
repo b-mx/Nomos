@@ -1,0 +1,10 @@
+id: laserjet-mfp-m436-w7u01a
+vendor_id: hp
+name: Laserjet Mfp M436 W7U01A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m436_w7u01a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m436_w7u01a
+  confidence: auto

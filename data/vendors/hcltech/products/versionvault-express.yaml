@@ -1,0 +1,10 @@
+id: versionvault-express
+vendor_id: hcltech
+name: Versionvault Express
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:versionvault_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: versionvault_express
+  confidence: auto

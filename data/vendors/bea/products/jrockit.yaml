@@ -1,0 +1,10 @@
+id: jrockit
+vendor_id: bea
+name: Jrockit
+type: software
+tags: []
+cpe: cpe:2.3:a:bea:jrockit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jrockit
+  confidence: auto

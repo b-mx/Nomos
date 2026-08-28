@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "polycom--vvx-601-firmware",
+  "vendor_id": "polycom",
+  "product_id": "vvx-601-firmware",
+  "name": "Vvx 601 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vvx_601_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

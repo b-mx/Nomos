@@ -1,0 +1,10 @@
+id: rx3i-cpe-400
+vendor_id: ge
+name: Rx3I Cpe 400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:rx3i_cpe_400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx3i_cpe_400
+  confidence: auto

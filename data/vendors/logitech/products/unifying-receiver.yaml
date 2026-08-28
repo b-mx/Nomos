@@ -1,0 +1,10 @@
+id: unifying-receiver
+vendor_id: logitech
+name: Unifying Receiver
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:unifying_receiver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifying_receiver
+  confidence: auto

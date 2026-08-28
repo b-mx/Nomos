@@ -1,0 +1,10 @@
+id: x11dpd-m25
+vendor_id: supermicro
+name: X11Dpd-M25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11dpd\-m25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dpd-m25
+  confidence: auto

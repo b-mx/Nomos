@@ -1,0 +1,10 @@
+id: motive-home-device-manager
+vendor_id: alcatel-lucent
+name: Motive Home Device Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:alcatel\-lucent:motive_home_device_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: motive_home_device_manager
+  confidence: auto

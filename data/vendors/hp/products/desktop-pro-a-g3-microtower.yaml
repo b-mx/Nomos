@@ -1,0 +1,10 @@
+id: desktop-pro-a-g3-microtower
+vendor_id: hp
+name: Desktop Pro A G3 Microtower
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:desktop_pro_a_g3_microtower:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_pro_a_g3_microtower
+  confidence: auto

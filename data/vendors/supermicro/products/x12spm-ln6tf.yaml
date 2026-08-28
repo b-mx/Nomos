@@ -1,0 +1,10 @@
+id: x12spm-ln6tf
+vendor_id: supermicro
+name: X12Spm-Ln6Tf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12spm\-ln6tf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12spm-ln6tf
+  confidence: auto

@@ -1,0 +1,10 @@
+id: survey-utility
+vendor_id: compaq
+name: Survey Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:survey_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: survey_utility
+  confidence: auto

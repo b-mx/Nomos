@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--skynas-firmware",
+  "vendor_id": "synology",
+  "product_id": "skynas-firmware",
+  "name": "Skynas Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "skynas_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

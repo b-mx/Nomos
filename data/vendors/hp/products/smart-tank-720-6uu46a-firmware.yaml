@@ -1,0 +1,10 @@
+id: smart-tank-720-6uu46a-firmware
+vendor_id: hp
+name: Smart Tank 720 6Uu46A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:smart_tank_720_6uu46a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_720_6uu46a_firmware
+  confidence: auto

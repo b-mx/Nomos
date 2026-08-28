@@ -1,0 +1,10 @@
+id: hg150-ub-firmware
+vendor_id: fiberhome
+name: Hg150-Ub Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fiberhome:hg150\-ub_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg150-ub_firmware
+  confidence: auto

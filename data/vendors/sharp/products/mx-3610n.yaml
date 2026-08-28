@@ -1,0 +1,10 @@
+id: mx-3610n
+vendor_id: sharp
+name: Mx-3610N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-3610n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-3610n
+  confidence: auto

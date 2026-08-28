@@ -1,0 +1,10 @@
+id: pc10ge
+vendor_id: jtekt
+name: Pc10Ge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:pc10ge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10ge
+  confidence: auto

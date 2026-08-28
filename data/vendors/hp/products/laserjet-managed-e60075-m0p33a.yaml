@@ -1,0 +1,10 @@
+id: laserjet-managed-e60075-m0p33a
+vendor_id: hp
+name: Laserjet Managed E60075 M0P33A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_e60075_m0p33a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_e60075_m0p33a
+  confidence: auto

@@ -1,0 +1,14 @@
+id: valkey
+vendor_id: lfprojects
+name: Valkey
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:lfprojects:valkey:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: valkey
+  confidence: auto
+- source: nvd
+  value: valkey
+  confidence: auto

@@ -1,0 +1,10 @@
+id: linkhub-mesh-wifi-ac1200
+vendor_id: tcl
+name: Linkhub Mesh Wifi Ac1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tcl:linkhub_mesh_wifi_ac1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linkhub_mesh_wifi_ac1200
+  confidence: auto

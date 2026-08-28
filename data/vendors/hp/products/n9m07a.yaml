@@ -1,0 +1,10 @@
+id: n9m07a
+vendor_id: hp
+name: N9M07A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:n9m07a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n9m07a
+  confidence: auto

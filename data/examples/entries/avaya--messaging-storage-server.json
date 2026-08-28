@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--messaging-storage-server",
+  "vendor_id": "avaya",
+  "product_id": "messaging-storage-server",
+  "name": "Messaging Storage Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "messaging_storage_server",
+      "confidence": "auto"
+    }
+  ]
+}

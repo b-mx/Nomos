@@ -1,0 +1,10 @@
+id: kio-2mrs
+vendor_id: tekon
+name: Kio-2Mrs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tekon:kio\-2mrs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kio-2mrs
+  confidence: auto

@@ -1,0 +1,9 @@
+id: xr
+vendor_id: cisco
+name: XR
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: XR
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--secura-icd",
+  "vendor_id": "medtronic",
+  "product_id": "secura-icd",
+  "name": "Secura Icd",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "secura_icd",
+      "confidence": "auto"
+    }
+  ]
+}

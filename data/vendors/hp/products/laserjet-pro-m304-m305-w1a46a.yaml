@@ -1,0 +1,10 @@
+id: laserjet-pro-m304-m305-w1a46a
+vendor_id: hp
+name: Laserjet Pro M304-M305 W1A46A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m304\-m305_w1a46a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m304-m305_w1a46a
+  confidence: auto

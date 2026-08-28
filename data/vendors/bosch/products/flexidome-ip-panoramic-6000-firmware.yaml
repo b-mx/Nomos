@@ -1,0 +1,10 @@
+id: flexidome-ip-panoramic-6000-firmware
+vendor_id: bosch
+name: Flexidome Ip Panoramic 6000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:flexidome_ip_panoramic_6000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_ip_panoramic_6000_firmware
+  confidence: auto

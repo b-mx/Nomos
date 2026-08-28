@@ -1,0 +1,10 @@
+id: cajun-m770-atm
+vendor_id: avaya
+name: Cajun M770-Atm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:cajun_m770\-atm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cajun_m770-atm
+  confidence: auto

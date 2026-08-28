@@ -1,0 +1,10 @@
+id: my-cloud-mirror-gen2-firmware
+vendor_id: westerndigital
+name: My Cloud Mirror Gen2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westerndigital:my_cloud_mirror_gen2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_cloud_mirror_gen2_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bizhub-c3351
+vendor_id: konicaminolta
+name: Bizhub C3351
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_c3351:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c3351
+  confidence: auto

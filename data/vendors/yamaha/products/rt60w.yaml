@@ -1,0 +1,10 @@
+id: rt60w
+vendor_id: yamaha
+name: Rt60W
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rt60w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt60w
+  confidence: auto

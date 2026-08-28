@@ -1,0 +1,10 @@
+id: laserjet-mfp-m129-g3q64a
+vendor_id: hp
+name: Laserjet Mfp M129 G3Q64A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m129_g3q64a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m129_g3q64a
+  confidence: auto

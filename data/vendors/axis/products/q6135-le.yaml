@@ -1,0 +1,10 @@
+id: q6135-le
+vendor_id: axis
+name: Q6135-Le
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q6135\-le:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q6135-le
+  confidence: auto

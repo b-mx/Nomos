@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--fedmsg",
+  "vendor_id": "fedoraproject",
+  "product_id": "fedmsg",
+  "name": "Fedmsg",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fedmsg",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--retrospect-client",
+  "vendor_id": "emc",
+  "product_id": "retrospect-client",
+  "name": "Retrospect Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "retrospect_client",
+      "confidence": "auto"
+    }
+  ]
+}

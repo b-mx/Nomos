@@ -1,0 +1,10 @@
+id: trucluster-server
+vendor_id: hp
+name: Trucluster Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:trucluster_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trucluster_server
+  confidence: auto

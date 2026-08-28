@@ -1,0 +1,10 @@
+id: cloud-foundry-smoke-test
+vendor_id: pivotal
+name: Cloud Foundry Smoke Test
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:cloud_foundry_smoke_test:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_smoke_test
+  confidence: auto

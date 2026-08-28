@@ -1,0 +1,10 @@
+id: factorytalk-linx
+vendor_id: rockwellautomation
+name: Factorytalk Linx
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:factorytalk_linx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_linx
+  confidence: auto

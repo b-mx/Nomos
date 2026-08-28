@@ -1,0 +1,10 @@
+id: instinct-mi300x-firmware
+vendor_id: amd
+name: Instinct Mi300X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:instinct_mi300x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instinct_mi300x_firmware
+  confidence: auto

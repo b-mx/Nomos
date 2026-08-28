@@ -1,0 +1,10 @@
+id: all-in-one-wp-security-firewall
+vendor_id: tipsandtricks-hq
+name: All In One Wp Security & Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:tipsandtricks\-hq:all_in_one_wp_security_\&_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: all_in_one_wp_security_&_firewall
+  confidence: auto

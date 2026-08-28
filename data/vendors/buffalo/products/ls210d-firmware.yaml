@@ -1,0 +1,10 @@
+id: ls210d-firmware
+vendor_id: buffalo
+name: Ls210D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:ls210d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ls210d_firmware
+  confidence: auto

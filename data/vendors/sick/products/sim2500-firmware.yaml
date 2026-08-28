@@ -1,0 +1,10 @@
+id: sim2500-firmware
+vendor_id: sick
+name: Sim2500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:sim2500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim2500_firmware
+  confidence: auto

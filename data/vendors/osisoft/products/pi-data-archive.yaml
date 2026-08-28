@@ -1,0 +1,10 @@
+id: pi-data-archive
+vendor_id: osisoft
+name: Pi Data Archive
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_data_archive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_data_archive
+  confidence: auto

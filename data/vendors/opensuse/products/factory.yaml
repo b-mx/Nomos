@@ -1,0 +1,10 @@
+id: factory
+vendor_id: opensuse
+name: Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factory
+  confidence: auto

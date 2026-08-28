@@ -1,0 +1,10 @@
+id: g3-gsm-sms-alarm-system-firmware
+vendor_id: chuango
+name: G3 Gsm/Sms Alarm System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chuango:g3_gsm\/sms_alarm_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g3_gsm/sms_alarm_system_firmware
+  confidence: auto

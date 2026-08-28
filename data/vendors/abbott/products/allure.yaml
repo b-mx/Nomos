@@ -1,0 +1,10 @@
+id: allure
+vendor_id: abbott
+name: Allure
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abbott:allure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: allure
+  confidence: auto

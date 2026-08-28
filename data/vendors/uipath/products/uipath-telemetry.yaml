@@ -1,0 +1,10 @@
+id: uipath-telemetry
+vendor_id: uipath
+name: Uipath/Telemetry
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/telemetry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/telemetry
+  confidence: auto

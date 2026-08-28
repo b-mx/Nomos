@@ -1,0 +1,10 @@
+id: xgi-a21c
+vendor_id: ls-electric
+name: Xgi-A21C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xgi\-a21c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgi-a21c
+  confidence: auto

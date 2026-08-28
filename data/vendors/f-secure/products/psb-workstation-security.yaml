@@ -1,0 +1,10 @@
+id: psb-workstation-security
+vendor_id: f-secure
+name: Psb Workstation Security
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:psb_workstation_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: psb_workstation_security
+  confidence: auto

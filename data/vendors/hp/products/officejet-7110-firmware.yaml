@@ -1,0 +1,10 @@
+id: officejet-7110-firmware
+vendor_id: hp
+name: Officejet 7110 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_7110_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_7110_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--systemwalker-security-control",
+  "vendor_id": "fujitsu",
+  "product_id": "systemwalker-security-control",
+  "name": "Systemwalker Security Control",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "systemwalker_security_control",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: mirage-firewall
+vendor_id: linuxfoundation
+name: Mirage Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:mirage_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mirage_firewall
+  confidence: auto

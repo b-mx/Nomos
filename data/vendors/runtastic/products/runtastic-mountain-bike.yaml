@@ -1,0 +1,10 @@
+id: runtastic-mountain-bike
+vendor_id: runtastic
+name: Runtastic Mountain Bike
+type: software
+tags: []
+cpe: cpe:2.3:a:runtastic:runtastic_mountain_bike:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: runtastic_mountain_bike
+  confidence: auto

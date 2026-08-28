@@ -1,0 +1,10 @@
+id: easy-twitter-feed
+vendor_id: bplugins
+name: Easy Twitter Feed
+type: software
+tags: []
+cpe: cpe:2.3:a:bplugins:easy_twitter_feed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_twitter_feed
+  confidence: auto

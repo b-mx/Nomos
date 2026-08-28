@@ -1,0 +1,10 @@
+id: jetnet-4706f
+vendor_id: korenix
+name: Jetnet 4706F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetnet_4706f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_4706f
+  confidence: auto

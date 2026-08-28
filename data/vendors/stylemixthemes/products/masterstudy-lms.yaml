@@ -1,0 +1,10 @@
+id: masterstudy-lms
+vendor_id: stylemixthemes
+name: Masterstudy Lms
+type: software
+tags: []
+cpe: cpe:2.3:a:stylemixthemes:masterstudy_lms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: masterstudy_lms
+  confidence: auto

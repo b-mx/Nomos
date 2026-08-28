@@ -1,0 +1,10 @@
+id: fds-wi-firmware
+vendor_id: rletech
+name: Fds-Wi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rletech:fds\-wi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fds-wi_firmware
+  confidence: auto

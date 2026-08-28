@@ -1,0 +1,10 @@
+id: hunk-companion
+vendor_id: themehunk
+name: Hunk Companion
+type: software
+tags: []
+cpe: cpe:2.3:a:themehunk:hunk_companion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hunk_companion
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nas-gateway-nh4a-firmware
+vendor_id: nec
+name: Nas Gateway Nh4A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:nas_gateway_nh4a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nas_gateway_nh4a_firmware
+  confidence: auto

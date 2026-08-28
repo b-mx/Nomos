@@ -1,0 +1,10 @@
+id: zend-server
+vendor_id: zend
+name: Zend Server
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zend_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zend_server
+  confidence: auto

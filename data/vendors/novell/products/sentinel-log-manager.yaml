@@ -1,0 +1,10 @@
+id: sentinel-log-manager
+vendor_id: novell
+name: Sentinel Log Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:sentinel_log_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sentinel_log_manager
+  confidence: auto

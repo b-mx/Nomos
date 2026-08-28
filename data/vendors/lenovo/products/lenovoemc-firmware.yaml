@@ -1,0 +1,10 @@
+id: lenovoemc-firmware
+vendor_id: lenovo
+name: Lenovoemc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:lenovoemc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovoemc_firmware
+  confidence: auto

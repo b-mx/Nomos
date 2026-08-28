@@ -1,0 +1,10 @@
+id: software-updater
+vendor_id: avira
+name: Software Updater
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:software_updater:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: software_updater
+  confidence: auto

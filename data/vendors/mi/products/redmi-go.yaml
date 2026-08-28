@@ -1,0 +1,10 @@
+id: redmi-go
+vendor_id: mi
+name: Redmi Go
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:redmi_go:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_go
+  confidence: auto

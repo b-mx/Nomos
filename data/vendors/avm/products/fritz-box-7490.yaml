@@ -1,0 +1,10 @@
+id: fritz-box-7490
+vendor_id: avm
+name: Fritz!Box 7490
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avm:fritz\!box_7490:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fritz!box_7490
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fx9500-firmware
+vendor_id: zebra
+name: Fx9500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zebra:fx9500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx9500_firmware
+  confidence: auto

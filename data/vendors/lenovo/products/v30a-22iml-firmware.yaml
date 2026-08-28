@@ -1,0 +1,10 @@
+id: v30a-22iml-firmware
+vendor_id: lenovo
+name: V30A-22Iml Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v30a\-22iml_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v30a-22iml_firmware
+  confidence: auto

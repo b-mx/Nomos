@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-libcrypto",
+  "vendor_id": "amazon",
+  "product_id": "aws-libcrypto",
+  "name": "Aws Libcrypto",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws_libcrypto",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: eva-l19-firmware
+vendor_id: huawei
+name: Eva-L19 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:eva\-l19_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eva-l19_firmware
+  confidence: auto

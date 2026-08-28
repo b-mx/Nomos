@@ -1,0 +1,10 @@
+id: clockwork-sms-notfications
+vendor_id: mediaburst
+name: Clockwork Sms Notfications
+type: software
+tags: []
+cpe: cpe:2.3:a:mediaburst:clockwork_sms_notfications:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clockwork_sms_notfications
+  confidence: auto

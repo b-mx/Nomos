@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eset--endpoint-security",
+  "vendor_id": "eset",
+  "product_id": "endpoint-security",
+  "name": "Endpoint Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "endpoint_security",
+      "confidence": "auto"
+    }
+  ]
+}

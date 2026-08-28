@@ -1,0 +1,10 @@
+id: nj-pa3001
+vendor_id: omron
+name: Nj-Pa3001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:nj\-pa3001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nj-pa3001
+  confidence: auto

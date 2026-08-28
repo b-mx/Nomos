@@ -1,0 +1,10 @@
+id: arcsight-logger-appliance-firmware
+vendor_id: hp
+name: Arcsight Logger Appliance Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:arcsight_logger_appliance_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcsight_logger_appliance_firmware
+  confidence: auto

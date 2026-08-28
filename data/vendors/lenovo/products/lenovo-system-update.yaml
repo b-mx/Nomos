@@ -1,0 +1,10 @@
+id: lenovo-system-update
+vendor_id: lenovo
+name: Lenovo System Update
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:lenovo_system_update:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_system_update
+  confidence: auto

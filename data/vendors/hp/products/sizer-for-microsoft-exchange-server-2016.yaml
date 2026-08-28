@@ -1,0 +1,10 @@
+id: sizer-for-microsoft-exchange-server-2016
+vendor_id: hp
+name: Sizer For Microsoft Exchange Server 2016
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:sizer_for_microsoft_exchange_server_2016:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sizer_for_microsoft_exchange_server_2016
+  confidence: auto

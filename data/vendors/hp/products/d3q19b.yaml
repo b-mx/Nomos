@@ -1,0 +1,10 @@
+id: d3q19b
+vendor_id: hp
+name: D3Q19B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:d3q19b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d3q19b
+  confidence: auto

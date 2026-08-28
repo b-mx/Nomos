@@ -1,0 +1,10 @@
+id: b9qr7-tp-firmware
+vendor_id: supermicro
+name: B9Qr7(-Tp) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:b9qr7\(\-tp\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b9qr7(-tp)_firmware
+  confidence: auto

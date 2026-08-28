@@ -1,0 +1,10 @@
+id: freshlinks-module
+vendor_id: php-fusion
+name: Freshlinks Module
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-fusion:freshlinks_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freshlinks_module
+  confidence: auto

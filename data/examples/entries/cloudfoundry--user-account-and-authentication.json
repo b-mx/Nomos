@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--user-account-and-authentication",
+  "vendor_id": "cloudfoundry",
+  "product_id": "user-account-and-authentication",
+  "name": "User Account And Authentication",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "user_account_and_authentication",
+      "confidence": "auto"
+    }
+  ]
+}

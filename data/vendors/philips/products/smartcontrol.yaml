@@ -1,0 +1,10 @@
+id: smartcontrol
+vendor_id: philips
+name: Smartcontrol
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:smartcontrol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartcontrol
+  confidence: auto

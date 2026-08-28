@@ -1,0 +1,10 @@
+id: fresh
+vendor_id: devsaran
+name: Fresh
+type: software
+tags: []
+cpe: cpe:2.3:a:devsaran:fresh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fresh
+  confidence: auto

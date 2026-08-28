@@ -1,0 +1,10 @@
+id: innova-3100
+vendor_id: gehealthcare
+name: Innova 3100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:innova_3100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: innova_3100
+  confidence: auto

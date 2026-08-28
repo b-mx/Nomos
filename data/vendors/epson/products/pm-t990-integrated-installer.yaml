@@ -1,0 +1,10 @@
+id: pm-t990-integrated-installer
+vendor_id: epson
+name: Pm-T990 Integrated Installer
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:pm\-t990_integrated_installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm-t990_integrated_installer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rv-440ki
+vendor_id: ntt-east
+name: Rv-440Ki
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-east:rv\-440ki:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-440ki
+  confidence: auto

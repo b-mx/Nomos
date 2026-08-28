@@ -1,0 +1,10 @@
+id: satcom-sailor-250
+vendor_id: cobham
+name: Satcom Sailor 250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cobham:satcom_sailor_250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: satcom_sailor_250
+  confidence: auto

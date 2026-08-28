@@ -1,0 +1,10 @@
+id: base-sas
+vendor_id: sas
+name: Base Sas
+type: software
+tags: []
+cpe: cpe:2.3:a:sas:base_sas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: base_sas
+  confidence: auto

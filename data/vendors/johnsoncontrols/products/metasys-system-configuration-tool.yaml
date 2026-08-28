@@ -1,0 +1,10 @@
+id: metasys-system-configuration-tool
+vendor_id: johnsoncontrols
+name: Metasys System Configuration Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:metasys_system_configuration_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: metasys_system_configuration_tool
+  confidence: auto

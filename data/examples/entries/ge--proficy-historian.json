@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--proficy-historian",
+  "vendor_id": "ge",
+  "product_id": "proficy-historian",
+  "name": "Proficy Historian",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proficy_historian",
+      "confidence": "auto"
+    }
+  ]
+}

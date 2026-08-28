@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--advanced-server-9000",
+  "vendor_id": "hp",
+  "product_id": "advanced-server-9000",
+  "name": "Advanced Server 9000",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "advanced_server_9000",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+id: backdrop
+vendor_id: backdropcms
+name: Backdrop
+type: software
+tags: []
+cpe: cpe:2.3:a:backdropcms:backdrop_cms:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: backdrop
+  confidence: auto
+- source: nvd
+  value: backdrop_cms
+  confidence: auto

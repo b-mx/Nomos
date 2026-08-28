@@ -1,0 +1,10 @@
+id: officejet-pro-9020e-1g5m0a
+vendor_id: hp
+name: Officejet Pro 9020E 1G5M0A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_9020e_1g5m0a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_9020e_1g5m0a
+  confidence: auto

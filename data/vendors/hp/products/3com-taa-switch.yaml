@@ -1,0 +1,10 @@
+id: 3com-taa-switch
+vendor_id: hp
+name: 3Com Taa Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:3com_taa_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3com_taa_switch
+  confidence: auto

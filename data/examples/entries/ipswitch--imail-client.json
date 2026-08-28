@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ipswitch--imail-client",
+  "vendor_id": "ipswitch",
+  "product_id": "imail-client",
+  "name": "Imail Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "imail_client",
+      "confidence": "auto"
+    }
+  ]
+}

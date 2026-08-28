@@ -1,0 +1,10 @@
+id: mr9600
+vendor_id: linksys
+name: Mr9600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:mr9600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mr9600
+  confidence: auto

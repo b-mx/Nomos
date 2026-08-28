@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "qsan--storage-manager",
+  "vendor_id": "qsan",
+  "product_id": "storage-manager",
+  "name": "Storage Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storage_manager",
+      "confidence": "auto"
+    }
+  ]
+}

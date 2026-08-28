@@ -1,0 +1,10 @@
+id: sio-mb04thms
+vendor_id: automationdirect
+name: Sio-Mb04Thms
+type: hardware
+tags: []
+cpe: cpe:2.3:h:automationdirect:sio\-mb04thms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sio-mb04thms
+  confidence: auto

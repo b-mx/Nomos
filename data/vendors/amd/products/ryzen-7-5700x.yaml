@@ -1,0 +1,10 @@
+id: ryzen-7-5700x
+vendor_id: amd
+name: Ryzen 7 5700X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_5700x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_5700x
+  confidence: auto

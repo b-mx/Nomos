@@ -1,0 +1,10 @@
+id: camon-x-firmware
+vendor_id: tecno-mobile
+name: Camon X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tecno\-mobile:camon_x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: camon_x_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: quicklancer
+vendor_id: bylancer
+name: Quicklancer
+type: software
+tags: []
+cpe: cpe:2.3:a:bylancer:quicklancer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quicklancer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: safenet-authentication-client
+vendor_id: thalesgroup
+name: Safenet Authentication Client
+type: software
+tags: []
+cpe: cpe:2.3:a:thalesgroup:safenet_authentication_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safenet_authentication_client
+  confidence: auto

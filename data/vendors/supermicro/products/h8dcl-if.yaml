@@ -1,0 +1,10 @@
+id: h8dcl-if
+vendor_id: supermicro
+name: H8Dcl-If
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h8dcl\-if:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h8dcl-if
+  confidence: auto

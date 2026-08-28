@@ -1,0 +1,10 @@
+id: sel-compass
+vendor_id: selinc
+name: Sel Compass
+type: software
+tags: []
+cpe: cpe:2.3:a:selinc:sel_compass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sel_compass
+  confidence: auto

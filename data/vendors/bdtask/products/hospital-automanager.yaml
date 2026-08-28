@@ -1,0 +1,10 @@
+id: hospital-automanager
+vendor_id: bdtask
+name: Hospital Automanager
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:hospital_automanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hospital_automanager
+  confidence: auto

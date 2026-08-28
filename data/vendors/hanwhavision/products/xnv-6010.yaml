@@ -1,0 +1,10 @@
+id: xnv-6010
+vendor_id: hanwhavision
+name: Xnv-6010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-6010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-6010
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x746
+vendor_id: lexmark
+name: X746
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x746:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x746
+  confidence: auto

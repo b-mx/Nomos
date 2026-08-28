@@ -1,0 +1,10 @@
+id: atlant
+vendor_id: f-secure
+name: Atlant
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:atlant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atlant
+  confidence: auto

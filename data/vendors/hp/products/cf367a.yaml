@@ -1,0 +1,10 @@
+id: cf367a
+vendor_id: hp
+name: Cf367A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cf367a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf367a
+  confidence: auto

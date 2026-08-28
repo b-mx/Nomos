@@ -1,0 +1,10 @@
+id: ycbl03
+vendor_id: y-cam
+name: Ycbl03
+type: hardware
+tags: []
+cpe: cpe:2.3:h:y\-cam:ycbl03:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ycbl03
+  confidence: auto

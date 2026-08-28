@@ -1,0 +1,10 @@
+id: smart-home
+vendor_id: bosch
+name: Smart Home
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:smart_home:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_home
+  confidence: auto

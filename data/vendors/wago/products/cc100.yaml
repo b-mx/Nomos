@@ -1,0 +1,10 @@
+id: cc100
+vendor_id: wago
+name: Cc100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:cc100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc100
+  confidence: auto

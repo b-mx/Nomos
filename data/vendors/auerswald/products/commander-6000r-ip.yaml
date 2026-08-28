@@ -1,0 +1,10 @@
+id: commander-6000r-ip
+vendor_id: auerswald
+name: Commander 6000R Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:auerswald:commander_6000r_ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: commander_6000r_ip
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wac-2004
+vendor_id: moxa
+name: Wac-2004
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:wac\-2004:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wac-2004
+  confidence: auto

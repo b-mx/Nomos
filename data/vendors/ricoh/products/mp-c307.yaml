@@ -1,0 +1,10 @@
+id: mp-c307
+vendor_id: ricoh
+name: Mp C307
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_c307:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c307
+  confidence: auto

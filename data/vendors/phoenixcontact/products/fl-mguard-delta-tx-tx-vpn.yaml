@@ -1,0 +1,10 @@
+id: fl-mguard-delta-tx-tx-vpn
+vendor_id: phoenixcontact
+name: Fl Mguard Delta Tx/Tx Vpn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_mguard_delta_tx\/tx_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_delta_tx/tx_vpn
+  confidence: auto

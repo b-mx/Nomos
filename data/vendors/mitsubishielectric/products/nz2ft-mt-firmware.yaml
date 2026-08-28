@@ -1,0 +1,10 @@
+id: nz2ft-mt-firmware
+vendor_id: mitsubishielectric
+name: Nz2Ft-Mt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:nz2ft\-mt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nz2ft-mt_firmware
+  confidence: auto

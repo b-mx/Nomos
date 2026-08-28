@@ -1,0 +1,10 @@
+id: caas-platform
+vendor_id: suse
+name: Caas Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:caas_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: caas_platform
+  confidence: auto

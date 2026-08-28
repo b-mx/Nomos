@@ -1,0 +1,10 @@
+id: htaccess-file-editor
+vendor_id: wpchill
+name: Htaccess File Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:wpchill:htaccess_file_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: htaccess_file_editor
+  confidence: auto

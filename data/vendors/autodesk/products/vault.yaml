@@ -1,0 +1,10 @@
+id: vault
+vendor_id: autodesk
+name: Vault
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:vault:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vault
+  confidence: auto

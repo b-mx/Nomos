@@ -1,0 +1,7 @@
+id: couchbase
+name: Couchbase
+cpe: cpe:2.3:*:couchbase:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: couchbase
+  confidence: auto

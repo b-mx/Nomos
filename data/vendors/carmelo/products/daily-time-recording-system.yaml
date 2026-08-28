@@ -1,0 +1,10 @@
+id: daily-time-recording-system
+vendor_id: carmelo
+name: Daily Time Recording System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:daily_time_recording_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: daily_time_recording_system
+  confidence: auto

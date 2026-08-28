@@ -1,0 +1,10 @@
+id: online-notice-board
+vendor_id: fabian
+name: Online Notice Board
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_notice_board:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_notice_board
+  confidence: auto

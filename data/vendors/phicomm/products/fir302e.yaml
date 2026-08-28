@@ -1,0 +1,10 @@
+id: fir302e
+vendor_id: phicomm
+name: Fir302E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phicomm:fir302e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fir302e
+  confidence: auto

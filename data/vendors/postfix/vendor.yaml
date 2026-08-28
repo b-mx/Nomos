@@ -1,0 +1,7 @@
+id: postfix
+name: Postfix
+cpe: cpe:2.3:*:postfix:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: postfix
+  confidence: auto

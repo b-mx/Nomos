@@ -1,0 +1,9 @@
+id: zta-gateways
+vendor_id: ivanti
+name: ZTA Gateways
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: ZTA Gateways
+  confidence: auto

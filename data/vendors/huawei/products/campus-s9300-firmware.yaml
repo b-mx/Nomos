@@ -1,0 +1,10 @@
+id: campus-s9300-firmware
+vendor_id: huawei
+name: Campus S9300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:campus_s9300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: campus_s9300_firmware
+  confidence: auto

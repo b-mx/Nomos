@@ -1,0 +1,10 @@
+id: astra-widgets
+vendor_id: brainstormforce
+name: Astra Widgets
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:astra_widgets:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: astra_widgets
+  confidence: auto

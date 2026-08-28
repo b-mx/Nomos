@@ -1,0 +1,10 @@
+id: american-waterfowler
+vendor_id: pocketmags
+name: American Waterfowler
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:american_waterfowler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: american_waterfowler
+  confidence: auto

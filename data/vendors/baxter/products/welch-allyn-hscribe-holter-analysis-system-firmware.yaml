@@ -1,0 +1,10 @@
+id: welch-allyn-hscribe-holter-analysis-system-firmware
+vendor_id: baxter
+name: Welch Allyn Hscribe Holter Analysis System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baxter:welch_allyn_hscribe_holter_analysis_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: welch_allyn_hscribe_holter_analysis_system_firmware
+  confidence: auto

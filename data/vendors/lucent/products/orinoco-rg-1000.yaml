@@ -1,0 +1,10 @@
+id: orinoco-rg-1000
+vendor_id: lucent
+name: Orinoco Rg-1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lucent:orinoco_rg\-1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: orinoco_rg-1000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 20ey
+vendor_id: lenovo
+name: 20Ey
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20ey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20ey
+  confidence: auto

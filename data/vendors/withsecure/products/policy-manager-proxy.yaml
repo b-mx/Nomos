@@ -1,0 +1,10 @@
+id: policy-manager-proxy
+vendor_id: withsecure
+name: Policy Manager Proxy
+type: software
+tags: []
+cpe: cpe:2.3:a:withsecure:policy_manager_proxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: policy_manager_proxy
+  confidence: auto

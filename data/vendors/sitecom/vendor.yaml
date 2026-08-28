@@ -1,0 +1,7 @@
+id: sitecom
+name: Sitecom
+cpe: cpe:2.3:*:sitecom:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sitecom
+  confidence: auto

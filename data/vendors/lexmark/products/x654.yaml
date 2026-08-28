@@ -1,0 +1,10 @@
+id: x654
+vendor_id: lexmark
+name: X654
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x654:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x654
+  confidence: auto

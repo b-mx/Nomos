@@ -1,0 +1,10 @@
+id: j6u63-firmware
+vendor_id: hp
+name: J6U63 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:j6u63_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j6u63_firmware
+  confidence: auto

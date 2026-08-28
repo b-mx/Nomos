@@ -1,0 +1,10 @@
+id: sbr-ac1900p-firmware
+vendor_id: arris
+name: Sbr-Ac1900P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arris:sbr\-ac1900p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sbr-ac1900p_firmware
+  confidence: auto

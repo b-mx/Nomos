@@ -1,0 +1,10 @@
+id: mt6000-firmware
+vendor_id: gl-inet
+name: Mt6000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:mt6000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt6000_firmware
+  confidence: auto

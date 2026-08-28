@@ -1,0 +1,10 @@
+id: omen-desktop-900-1xx
+vendor_id: hp
+name: Omen Desktop 900-1Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_desktop_900\-1xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_desktop_900-1xx
+  confidence: auto

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "weechat--weechat",
+  "vendor_id": "weechat",
+  "product_id": "weechat",
+  "name": "WeeChat",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "weechat",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "weechat",
+      "confidence": "auto"
+    }
+  ]
+}

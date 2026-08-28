@@ -1,0 +1,10 @@
+id: cwa0101
+vendor_id: technicolor
+name: Cwa0101
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:cwa0101:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cwa0101
+  confidence: auto

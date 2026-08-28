@@ -1,0 +1,10 @@
+id: penguin-aurora-box-firmware
+vendor_id: skyworth
+name: Penguin Aurora Box Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:skyworth:penguin_aurora_box_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: penguin_aurora_box_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sp-r50p
+vendor_id: akuvox
+name: Sp-R50P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akuvox:sp\-r50p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp-r50p
+  confidence: auto

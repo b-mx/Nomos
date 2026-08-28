@@ -1,9 +1,8 @@
 id: enhanced-multimedia-router-emr
 vendor_id: sumavision
 name: Enhanced Multimedia Router (EMR)
-type: hardware
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: Enhanced Multimedia Router (EMR)

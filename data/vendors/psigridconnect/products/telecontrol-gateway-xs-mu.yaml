@@ -1,0 +1,10 @@
+id: telecontrol-gateway-xs-mu
+vendor_id: psigridconnect
+name: Telecontrol Gateway Xs-Mu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:psigridconnect:telecontrol_gateway_xs\-mu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: telecontrol_gateway_xs-mu
+  confidence: auto

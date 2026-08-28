@@ -1,0 +1,10 @@
+id: web-filter
+vendor_id: barracuda
+name: Web Filter
+type: software
+tags: []
+cpe: cpe:2.3:a:barracuda:web_filter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_filter
+  confidence: auto

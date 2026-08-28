@@ -1,0 +1,10 @@
+id: psoc-4
+vendor_id: cypress
+name: Psoc 4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cypress:psoc_4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: psoc_4
+  confidence: auto

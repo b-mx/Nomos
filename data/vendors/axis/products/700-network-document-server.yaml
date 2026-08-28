@@ -1,0 +1,10 @@
+id: 700-network-document-server
+vendor_id: axis
+name: 700 Network Document Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:700_network_document_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 700_network_document_server
+  confidence: auto

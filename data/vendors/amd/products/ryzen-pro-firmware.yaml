@@ -1,0 +1,10 @@
+id: ryzen-pro-firmware
+vendor_id: amd
+name: Ryzen Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_pro_firmware
+  confidence: auto

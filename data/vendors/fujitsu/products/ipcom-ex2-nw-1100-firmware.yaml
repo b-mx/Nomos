@@ -1,0 +1,10 @@
+id: ipcom-ex2-nw-1100-firmware
+vendor_id: fujitsu
+name: Ipcom Ex2 Nw 1100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:ipcom_ex2_nw_1100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipcom_ex2_nw_1100_firmware
+  confidence: auto

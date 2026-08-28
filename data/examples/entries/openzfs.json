@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "openzfs",
+  "vendor_id": "openzfs",
+  "name": "Openzfs",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openzfs",
+      "confidence": "auto"
+    }
+  ]
+}

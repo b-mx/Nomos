@@ -1,0 +1,10 @@
+id: 255-g6-notebook-pc
+vendor_id: hp
+name: 255 G6 Notebook Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:255_g6_notebook_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 255_g6_notebook_pc
+  confidence: auto

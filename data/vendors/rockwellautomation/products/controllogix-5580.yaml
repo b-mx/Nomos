@@ -1,0 +1,10 @@
+id: controllogix-5580
+vendor_id: rockwellautomation
+name: Controllogix 5580
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:controllogix_5580:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controllogix_5580
+  confidence: auto

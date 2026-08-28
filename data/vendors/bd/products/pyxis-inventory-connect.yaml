@@ -1,0 +1,10 @@
+id: pyxis-inventory-connect
+vendor_id: bd
+name: Pyxis Inventory Connect
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_inventory_connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_inventory_connect
+  confidence: auto

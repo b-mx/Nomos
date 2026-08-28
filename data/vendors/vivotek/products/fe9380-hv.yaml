@@ -1,0 +1,10 @@
+id: fe9380-hv
+vendor_id: vivotek
+name: Fe9380-Hv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fe9380\-hv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fe9380-hv
+  confidence: auto

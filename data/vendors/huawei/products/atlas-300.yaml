@@ -1,0 +1,10 @@
+id: atlas-300
+vendor_id: huawei
+name: Atlas 300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:atlas_300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atlas_300
+  confidence: auto

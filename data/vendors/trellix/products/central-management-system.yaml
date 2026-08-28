@@ -1,0 +1,10 @@
+id: central-management-system
+vendor_id: trellix
+name: Central Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:trellix:central_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: central_management_system
+  confidence: auto

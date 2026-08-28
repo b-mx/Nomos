@@ -1,0 +1,10 @@
+id: spiet800
+vendor_id: abb
+name: Spiet800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:spiet800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spiet800
+  confidence: auto

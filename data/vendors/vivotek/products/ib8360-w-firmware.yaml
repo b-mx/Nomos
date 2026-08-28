@@ -1,0 +1,10 @@
+id: ib8360-w-firmware
+vendor_id: vivotek
+name: Ib8360-W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ib8360\-w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib8360-w_firmware
+  confidence: auto

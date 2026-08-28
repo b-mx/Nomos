@@ -1,0 +1,10 @@
+id: piechart-panel
+vendor_id: grafana
+name: Piechart-Panel
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:piechart\-panel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: piechart-panel
+  confidence: auto

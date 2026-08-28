@@ -1,0 +1,10 @@
+id: x12spg-nf
+vendor_id: supermicro
+name: X12Spg-Nf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12spg\-nf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12spg-nf
+  confidence: auto

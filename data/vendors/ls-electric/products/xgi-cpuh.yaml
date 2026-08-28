@@ -1,0 +1,10 @@
+id: xgi-cpuh
+vendor_id: ls-electric
+name: Xgi-Cpuh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xgi\-cpuh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgi-cpuh
+  confidence: auto

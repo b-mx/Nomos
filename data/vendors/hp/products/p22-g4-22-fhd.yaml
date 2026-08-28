@@ -1,0 +1,10 @@
+id: p22-g4-22-fhd
+vendor_id: hp
+name: P22 G4 22 Fhd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:p22_g4_22_fhd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p22_g4_22_fhd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: appscan-presence
+vendor_id: hcltech
+name: Appscan Presence
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:appscan_presence:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: appscan_presence
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--geary",
+  "vendor_id": "gnome",
+  "product_id": "geary",
+  "name": "Geary",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "geary",
+      "confidence": "auto"
+    }
+  ]
+}

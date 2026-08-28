@@ -1,0 +1,10 @@
+id: pm566
+vendor_id: abb
+name: Pm566
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm566:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm566
+  confidence: auto

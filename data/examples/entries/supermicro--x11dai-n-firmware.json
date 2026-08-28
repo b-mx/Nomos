@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11dai-n-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11dai-n-firmware",
+  "name": "X11Dai-N Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11dai-n_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

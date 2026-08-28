@@ -1,0 +1,10 @@
+id: wsr-600dhp
+vendor_id: buffalotech
+name: Wsr-600Dhp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:wsr\-600dhp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wsr-600dhp
+  confidence: auto

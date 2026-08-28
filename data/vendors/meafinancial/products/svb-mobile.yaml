@@ -1,0 +1,10 @@
+id: svb-mobile
+vendor_id: meafinancial
+name: Svb Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:svb_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: svb_mobile
+  confidence: auto

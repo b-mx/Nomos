@@ -1,0 +1,10 @@
+id: intelligent-platforms-proficy-historian
+vendor_id: ge
+name: Intelligent Platforms Proficy Historian
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:intelligent_platforms_proficy_historian:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_platforms_proficy_historian
+  confidence: auto

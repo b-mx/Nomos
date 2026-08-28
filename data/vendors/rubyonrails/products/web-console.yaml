@@ -1,0 +1,10 @@
+id: web-console
+vendor_id: rubyonrails
+name: Web Console
+type: software
+tags: []
+cpe: cpe:2.3:a:rubyonrails:web_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_console
+  confidence: auto

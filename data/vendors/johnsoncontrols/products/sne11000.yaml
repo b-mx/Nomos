@@ -1,0 +1,10 @@
+id: sne11000
+vendor_id: johnsoncontrols
+name: Sne11000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:sne11000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sne11000
+  confidence: auto

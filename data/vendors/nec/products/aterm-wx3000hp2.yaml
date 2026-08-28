@@ -1,0 +1,10 @@
+id: aterm-wx3000hp2
+vendor_id: nec
+name: Aterm Wx3000Hp2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wx3000hp2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wx3000hp2
+  confidence: auto

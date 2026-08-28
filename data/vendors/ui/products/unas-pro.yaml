@@ -1,0 +1,10 @@
+id: unas-pro
+vendor_id: ui
+name: Unas Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:unas_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unas_pro
+  confidence: auto

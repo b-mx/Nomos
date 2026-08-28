@@ -1,0 +1,10 @@
+id: coslat-bx5s1d4
+vendor_id: bg-tek
+name: Coslat Bx5S1D4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bg\-tek:coslat_bx5s1d4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coslat_bx5s1d4
+  confidence: auto

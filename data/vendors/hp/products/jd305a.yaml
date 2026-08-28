@@ -1,0 +1,10 @@
+id: jd305a
+vendor_id: hp
+name: Jd305A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd305a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd305a
+  confidence: auto

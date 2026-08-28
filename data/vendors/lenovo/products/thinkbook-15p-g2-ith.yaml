@@ -1,0 +1,10 @@
+id: thinkbook-15p-g2-ith
+vendor_id: lenovo
+name: Thinkbook 15P G2 Ith
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkbook_15p_g2_ith:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_15p_g2_ith
+  confidence: auto

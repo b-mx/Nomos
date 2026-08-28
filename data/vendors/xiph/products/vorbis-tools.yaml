@@ -1,0 +1,10 @@
+id: vorbis-tools
+vendor_id: xiph
+name: Vorbis-Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:xiph:vorbis\-tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vorbis-tools
+  confidence: auto

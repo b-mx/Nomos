@@ -1,0 +1,10 @@
+id: brilliance
+vendor_id: wpchill
+name: Brilliance
+type: software
+tags: []
+cpe: cpe:2.3:a:wpchill:brilliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brilliance
+  confidence: auto

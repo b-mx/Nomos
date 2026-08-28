@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x10dscp-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x10dscp-firmware",
+  "name": "X10Dscp Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x10dscp_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

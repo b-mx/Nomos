@@ -1,0 +1,10 @@
+id: cz255a
+vendor_id: hp
+name: Cz255A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz255a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz255a
+  confidence: auto

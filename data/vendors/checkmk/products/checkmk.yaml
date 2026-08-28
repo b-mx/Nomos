@@ -1,0 +1,10 @@
+id: checkmk
+vendor_id: checkmk
+name: Checkmk
+type: software
+tags:
+- monitoring
+aliases:
+- source: endoflife
+  value: checkmk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: edgemarc-4601
+vendor_id: ribboncommunications
+name: Edgemarc 4601
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ribboncommunications:edgemarc_4601:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgemarc_4601
+  confidence: auto

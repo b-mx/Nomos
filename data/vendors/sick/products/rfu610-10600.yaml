@@ -1,0 +1,10 @@
+id: rfu610-10600
+vendor_id: sick
+name: Rfu610-10600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:rfu610\-10600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfu610-10600
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mfc-l3745cdw-firmware
+vendor_id: brother
+name: Mfc-L3745Cdw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-l3745cdw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l3745cdw_firmware
+  confidence: auto

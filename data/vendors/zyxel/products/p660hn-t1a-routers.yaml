@@ -1,9 +1,8 @@
 id: p660hn-t1a-routers
 vendor_id: zyxel
 name: P660HN-T1A Routers
-type: hardware
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: P660HN-T1A Routers

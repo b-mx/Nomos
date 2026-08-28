@@ -1,0 +1,10 @@
+id: fusionhub
+vendor_id: peplink
+name: Fusionhub
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:fusionhub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionhub
+  confidence: auto

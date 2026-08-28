@@ -1,0 +1,10 @@
+id: laserjet-enterprise-flow-mfp-m632z
+vendor_id: hp
+name: Laserjet Enterprise Flow Mfp M632Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_flow_mfp_m632z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_flow_mfp_m632z
+  confidence: auto

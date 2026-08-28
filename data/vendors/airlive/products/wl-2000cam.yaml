@@ -1,0 +1,10 @@
+id: wl-2000cam
+vendor_id: airlive
+name: Wl-2000Cam
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airlive:wl\-2000cam:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-2000cam
+  confidence: auto

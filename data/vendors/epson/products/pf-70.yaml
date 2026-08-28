@@ -1,0 +1,10 @@
+id: pf-70
+vendor_id: epson
+name: Pf-70
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:pf\-70:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pf-70
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cmt-fhd-firmware
+vendor_id: weintek
+name: Cmt-Fhd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:weintek:cmt\-fhd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt-fhd_firmware
+  confidence: auto

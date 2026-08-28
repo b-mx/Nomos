@@ -1,0 +1,10 @@
+id: sw1dnd-emsdk-b-firmware
+vendor_id: mitsubishielectric
+name: Sw1Dnd-Emsdk-B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:sw1dnd\-emsdk\-b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sw1dnd-emsdk-b_firmware
+  confidence: auto

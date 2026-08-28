@@ -1,0 +1,10 @@
+id: vyatta-vrouter-software
+vendor_id: brocade
+name: Vyatta Vrouter Software
+type: software
+tags: []
+cpe: cpe:2.3:a:brocade:vyatta_vrouter_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vyatta_vrouter_software
+  confidence: auto

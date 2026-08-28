@@ -1,0 +1,10 @@
+id: mix-firmware
+vendor_id: doogee
+name: Mix Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:doogee:mix_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mix_firmware
+  confidence: auto

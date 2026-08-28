@@ -1,0 +1,10 @@
+id: oppo-reno4-5g
+vendor_id: oppo
+name: Oppo Reno4 5G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_reno4_5g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_reno4_5g
+  confidence: auto

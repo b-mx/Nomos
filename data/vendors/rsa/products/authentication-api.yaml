@@ -1,0 +1,10 @@
+id: authentication-api
+vendor_id: rsa
+name: Authentication Api
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:authentication_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: authentication_api
+  confidence: auto

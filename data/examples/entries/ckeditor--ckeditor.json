@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "ckeditor--ckeditor",
+  "vendor_id": "ckeditor",
+  "product_id": "ckeditor",
+  "name": "CKEditor",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "ckeditor",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "ckeditor",
+      "confidence": "auto"
+    }
+  ]
+}

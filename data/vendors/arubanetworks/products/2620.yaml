@@ -1,0 +1,10 @@
+id: '2620'
+vendor_id: arubanetworks
+name: '2620'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:2620:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '2620'
+  confidence: auto

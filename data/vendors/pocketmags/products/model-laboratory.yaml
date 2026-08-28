@@ -1,0 +1,10 @@
+id: model-laboratory
+vendor_id: pocketmags
+name: Model Laboratory
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:model_laboratory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: model_laboratory
+  confidence: auto

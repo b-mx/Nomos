@@ -1,0 +1,10 @@
+id: f9111-r-mk-ii-main-unit
+vendor_id: axis
+name: F9111-R Mk Ii Main Unit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:f9111\-r_mk_ii_main_unit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f9111-r_mk_ii_main_unit
+  confidence: auto

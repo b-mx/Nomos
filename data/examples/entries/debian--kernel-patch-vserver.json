@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--kernel-patch-vserver",
+  "vendor_id": "debian",
+  "product_id": "kernel-patch-vserver",
+  "name": "Kernel-Patch-Vserver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kernel-patch-vserver",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: simple-chatbox
+vendor_id: angeljudesuarez
+name: Simple Chatbox
+type: software
+tags: []
+cpe: cpe:2.3:a:angeljudesuarez:simple_chatbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_chatbox
+  confidence: auto

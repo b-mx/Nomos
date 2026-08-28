@@ -1,0 +1,10 @@
+id: steelstore
+vendor_id: netapp
+name: Steelstore
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:steelstore:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: steelstore
+  confidence: auto

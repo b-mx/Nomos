@@ -1,0 +1,10 @@
+id: m-c250fw-firmware
+vendor_id: ricoh
+name: M C250Fw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:m_c250fw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m_c250fw_firmware
+  confidence: auto

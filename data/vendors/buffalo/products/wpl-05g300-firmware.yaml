@@ -1,0 +1,10 @@
+id: wpl-05g300-firmware
+vendor_id: buffalo
+name: Wpl-05G300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wpl\-05g300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wpl-05g300_firmware
+  confidence: auto

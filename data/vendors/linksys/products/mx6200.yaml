@@ -1,0 +1,10 @@
+id: mx6200
+vendor_id: linksys
+name: Mx6200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:mx6200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx6200
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pwr-q200
+vendor_id: ntt-east
+name: Pwr-Q200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-east:pwr\-q200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pwr-q200
+  confidence: auto

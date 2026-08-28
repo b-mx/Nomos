@@ -1,0 +1,10 @@
+id: honor-9i
+vendor_id: huawei
+name: Honor 9I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:honor_9i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_9i
+  confidence: auto

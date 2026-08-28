@@ -1,0 +1,10 @@
+id: fl-switch-3012e-2sfx-firmware
+vendor_id: phoenixcontact
+name: Fl Switch 3012E-2Sfx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fl_switch_3012e\-2sfx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_switch_3012e-2sfx_firmware
+  confidence: auto

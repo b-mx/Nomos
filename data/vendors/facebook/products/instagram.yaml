@@ -1,0 +1,10 @@
+id: instagram
+vendor_id: facebook
+name: Instagram
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:instagram:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instagram
+  confidence: auto

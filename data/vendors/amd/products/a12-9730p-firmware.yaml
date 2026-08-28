@@ -1,0 +1,10 @@
+id: a12-9730p-firmware
+vendor_id: amd
+name: A12-9730P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:a12\-9730p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a12-9730p_firmware
+  confidence: auto

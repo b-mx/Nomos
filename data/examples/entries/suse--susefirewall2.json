@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--susefirewall2",
+  "vendor_id": "suse",
+  "product_id": "susefirewall2",
+  "name": "Susefirewall2",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "susefirewall2",
+      "confidence": "auto"
+    }
+  ]
+}

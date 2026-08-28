@@ -1,0 +1,10 @@
+id: carelink-2090-programmer
+vendor_id: medtronic
+name: Carelink 2090 Programmer
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:carelink_2090_programmer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carelink_2090_programmer
+  confidence: auto

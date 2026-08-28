@@ -1,0 +1,10 @@
+id: trutops-boost
+vendor_id: trumpf
+name: Trutops Boost
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:trutops_boost:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trutops_boost
+  confidence: auto

@@ -1,0 +1,10 @@
+id: apeosport-vii-5021-firmware
+vendor_id: fujifilm
+name: Apeosport-Vii 5021 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:apeosport\-vii_5021_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport-vii_5021_firmware
+  confidence: auto

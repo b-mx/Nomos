@@ -1,0 +1,7 @@
+id: istio
+name: Istio
+cpe: cpe:2.3:*:istio:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: istio
+  confidence: auto

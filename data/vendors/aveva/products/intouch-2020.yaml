@@ -1,0 +1,10 @@
+id: intouch-2020
+vendor_id: aveva
+name: Intouch 2020
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:intouch_2020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intouch_2020
+  confidence: auto

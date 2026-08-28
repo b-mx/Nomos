@@ -1,0 +1,10 @@
+id: btp-2043w-firmware
+vendor_id: phoenixcontact
+name: Btp 2043W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:btp_2043w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: btp_2043w_firmware
+  confidence: auto

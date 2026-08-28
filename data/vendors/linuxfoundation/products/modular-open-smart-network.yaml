@@ -1,0 +1,10 @@
+id: modular-open-smart-network
+vendor_id: linuxfoundation
+name: Modular Open Smart Network
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:modular_open_smart_network:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modular_open_smart_network
+  confidence: auto

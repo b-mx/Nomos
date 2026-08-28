@@ -1,0 +1,10 @@
+id: gen-10-servers
+vendor_id: hp
+name: Gen 10 Servers
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:gen_10_servers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gen_10_servers
+  confidence: auto

@@ -1,0 +1,10 @@
+id: j7k33a-firmware
+vendor_id: hp
+name: J7K33A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:j7k33a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j7k33a_firmware
+  confidence: auto

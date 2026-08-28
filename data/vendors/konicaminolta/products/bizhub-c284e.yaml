@@ -1,0 +1,10 @@
+id: bizhub-c284e
+vendor_id: konicaminolta
+name: Bizhub C284E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_c284e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c284e
+  confidence: auto

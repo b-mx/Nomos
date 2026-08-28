@@ -1,0 +1,10 @@
+id: desktop-pro-a-g2-microtower-firmware
+vendor_id: hp
+name: Desktop Pro A G2 Microtower Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:desktop_pro_a_g2_microtower_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_pro_a_g2_microtower_firmware
+  confidence: auto

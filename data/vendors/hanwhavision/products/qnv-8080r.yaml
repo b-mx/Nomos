@@ -1,0 +1,10 @@
+id: qnv-8080r
+vendor_id: hanwhavision
+name: Qnv-8080R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:qnv\-8080r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnv-8080r
+  confidence: auto

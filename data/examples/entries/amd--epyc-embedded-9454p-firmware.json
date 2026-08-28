@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-embedded-9454p-firmware",
+  "vendor_id": "amd",
+  "product_id": "epyc-embedded-9454p-firmware",
+  "name": "Epyc Embedded 9454P Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_embedded_9454p_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

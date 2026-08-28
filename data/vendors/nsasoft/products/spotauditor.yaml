@@ -1,0 +1,10 @@
+id: spotauditor
+vendor_id: nsasoft
+name: Spotauditor
+type: software
+tags: []
+cpe: cpe:2.3:a:nsasoft:spotauditor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spotauditor
+  confidence: auto

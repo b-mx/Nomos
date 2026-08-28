@@ -1,0 +1,10 @@
+id: sdk
+vendor_id: sun
+name: Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sdk
+  confidence: auto

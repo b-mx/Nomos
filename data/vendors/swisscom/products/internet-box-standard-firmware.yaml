@@ -1,0 +1,10 @@
+id: internet-box-standard-firmware
+vendor_id: swisscom
+name: Internet-Box Standard Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:swisscom:internet\-box_standard_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet-box_standard_firmware
+  confidence: auto

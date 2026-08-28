@@ -1,0 +1,10 @@
+id: ampereone-a96-36x
+vendor_id: amperecomputing
+name: Ampereone A96-36X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amperecomputing:ampereone_a96\-36x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ampereone_a96-36x
+  confidence: auto

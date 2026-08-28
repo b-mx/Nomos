@@ -1,0 +1,10 @@
+id: tripleo-ansible
+vendor_id: openstack
+name: Tripleo Ansible
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:tripleo_ansible:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tripleo_ansible
+  confidence: auto

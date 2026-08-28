@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--portus",
+  "vendor_id": "suse",
+  "product_id": "portus",
+  "name": "Portus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "portus",
+      "confidence": "auto"
+    }
+  ]
+}

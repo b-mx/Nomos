@@ -1,0 +1,10 @@
+id: networkmanager
+vendor_id: gnome
+name: Networkmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:networkmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: networkmanager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zu42dr
+vendor_id: amd
+name: Zu42Dr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:zu42dr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu42dr
+  confidence: auto

@@ -1,0 +1,10 @@
+id: enterprise-firewall-core
+vendor_id: ui
+name: Enterprise Firewall Core
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:enterprise_firewall_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_firewall_core
+  confidence: auto

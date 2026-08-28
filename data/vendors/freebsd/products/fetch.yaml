@@ -1,0 +1,10 @@
+id: fetch
+vendor_id: freebsd
+name: Fetch
+type: software
+tags: []
+cpe: cpe:2.3:a:freebsd:fetch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fetch
+  confidence: auto

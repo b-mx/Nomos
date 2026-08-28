@@ -1,0 +1,10 @@
+id: opentelemetry-exporter-zipkin
+vendor_id: opentelemetry
+name: Opentelemetry.Exporter.Zipkin
+type: software
+tags: []
+cpe: cpe:2.3:a:opentelemetry:opentelemetry\.exporter\.zipkin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentelemetry.exporter.zipkin
+  confidence: auto

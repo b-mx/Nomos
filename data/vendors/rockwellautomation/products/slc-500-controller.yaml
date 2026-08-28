@@ -1,0 +1,10 @@
+id: slc-500-controller
+vendor_id: rockwellautomation
+name: Slc 500 Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:slc_500_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slc_500_controller
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lddr4-firmware
+vendor_id: micron
+name: Lddr4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:micron:lddr4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lddr4_firmware
+  confidence: auto

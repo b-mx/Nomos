@@ -1,0 +1,10 @@
+id: s550-14iil
+vendor_id: lenovo
+name: S550-14Iil
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s550\-14iil:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s550-14iil
+  confidence: auto

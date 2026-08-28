@@ -1,0 +1,10 @@
+id: keystone-json-assignment
+vendor_id: suse
+name: Keystone-Json-Assignment
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:keystone\-json\-assignment:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keystone-json-assignment
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mbp853
+vendor_id: motorola
+name: Mbp853
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:mbp853:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbp853
+  confidence: auto

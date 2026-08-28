@@ -1,0 +1,10 @@
+id: reflection-for-hp
+vendor_id: attachmate
+name: Reflection For Hp
+type: software
+tags: []
+cpe: cpe:2.3:a:attachmate:reflection_for_hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reflection_for_hp
+  confidence: auto

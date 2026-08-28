@@ -1,0 +1,10 @@
+id: z6-g4-workstation-firmware
+vendor_id: hp
+name: Z6 G4 Workstation Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:z6_g4_workstation_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z6_g4_workstation_firmware
+  confidence: auto

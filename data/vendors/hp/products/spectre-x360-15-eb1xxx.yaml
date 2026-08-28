@@ -1,0 +1,10 @@
+id: spectre-x360-15-eb1xxx
+vendor_id: hp
+name: Spectre X360 15-Eb1Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_x360_15\-eb1xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_x360_15-eb1xxx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: w1200ex-firmware
+vendor_id: aterm
+name: W1200Ex Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:aterm:w1200ex_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1200ex_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: shareit
+vendor_id: lenovo
+name: Shareit
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:shareit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shareit
+  confidence: auto

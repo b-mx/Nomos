@@ -1,0 +1,10 @@
+id: laserjet-9500mfp
+vendor_id: hp
+name: Laserjet 9500Mfp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_9500mfp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_9500mfp
+  confidence: auto

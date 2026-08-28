@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--pyxis-medstation-es-firmware",
+  "vendor_id": "bd",
+  "product_id": "pyxis-medstation-es-firmware",
+  "name": "Pyxis Medstation Es Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyxis_medstation_es_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

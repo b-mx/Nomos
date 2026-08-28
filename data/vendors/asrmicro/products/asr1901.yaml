@@ -1,0 +1,10 @@
+id: asr1901
+vendor_id: asrmicro
+name: Asr1901
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asrmicro:asr1901:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asr1901
+  confidence: auto

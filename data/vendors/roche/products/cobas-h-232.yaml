@@ -1,0 +1,10 @@
+id: cobas-h-232
+vendor_id: roche
+name: Cobas H 232
+type: hardware
+tags: []
+cpe: cpe:2.3:h:roche:cobas_h_232:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cobas_h_232
+  confidence: auto

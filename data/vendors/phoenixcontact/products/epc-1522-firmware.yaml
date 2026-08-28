@@ -1,0 +1,10 @@
+id: epc-1522-firmware
+vendor_id: phoenixcontact
+name: Epc 1522 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:epc_1522_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epc_1522_firmware
+  confidence: auto

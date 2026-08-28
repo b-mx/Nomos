@@ -1,0 +1,10 @@
+id: a800r
+vendor_id: totolink
+name: A800R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a800r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a800r
+  confidence: auto

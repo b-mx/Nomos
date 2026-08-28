@@ -1,0 +1,10 @@
+id: 9px-ups
+vendor_id: eaton
+name: 9Px Ups
+type: hardware
+tags: []
+cpe: cpe:2.3:h:eaton:9px_ups:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9px_ups
+  confidence: auto

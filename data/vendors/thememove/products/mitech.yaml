@@ -1,0 +1,10 @@
+id: mitech
+vendor_id: thememove
+name: Mitech
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:mitech:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mitech
+  confidence: auto

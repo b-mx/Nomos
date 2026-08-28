@@ -1,0 +1,10 @@
+id: redmi-y3
+vendor_id: mi
+name: Redmi Y3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:redmi_y3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_y3
+  confidence: auto

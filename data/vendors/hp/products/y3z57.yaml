@@ -1,0 +1,10 @@
+id: y3z57
+vendor_id: hp
+name: Y3Z57
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:y3z57:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y3z57
+  confidence: auto

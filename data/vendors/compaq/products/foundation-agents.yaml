@@ -1,0 +1,10 @@
+id: foundation-agents
+vendor_id: compaq
+name: Foundation Agents
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:foundation_agents:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foundation_agents
+  confidence: auto

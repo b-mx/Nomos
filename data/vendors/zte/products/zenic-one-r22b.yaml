@@ -1,0 +1,10 @@
+id: zenic-one-r22b
+vendor_id: zte
+name: Zenic One R22B
+type: software
+tags: []
+cpe: cpe:2.3:a:zte:zenic_one_r22b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenic_one_r22b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: insightconnect-finger
+vendor_id: rapid7
+name: Insightconnect Finger
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:insightconnect_finger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insightconnect_finger
+  confidence: auto

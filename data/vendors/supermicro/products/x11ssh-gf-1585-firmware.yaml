@@ -1,0 +1,10 @@
+id: x11ssh-gf-1585-firmware
+vendor_id: supermicro
+name: X11Ssh-Gf-1585 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11ssh\-gf\-1585_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssh-gf-1585_firmware
+  confidence: auto

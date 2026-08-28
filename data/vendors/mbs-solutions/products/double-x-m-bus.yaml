@@ -1,0 +1,10 @@
+id: double-x-m-bus
+vendor_id: mbs-solutions
+name: Double-X M-Bus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:double\-x_m\-bus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: double-x_m-bus
+  confidence: auto

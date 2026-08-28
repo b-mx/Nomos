@@ -1,0 +1,10 @@
+id: daily-expense-manager
+vendor_id: code-projects
+name: Daily Expense Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:daily_expense_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: daily_expense_manager
+  confidence: auto

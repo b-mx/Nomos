@@ -1,0 +1,10 @@
+id: product-image-bulk-upload
+vendor_id: ec-cube
+name: Product Image Bulk Upload
+type: software
+tags: []
+cpe: cpe:2.3:a:ec\-cube:product_image_bulk_upload:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_image_bulk_upload
+  confidence: auto

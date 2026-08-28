@@ -1,0 +1,10 @@
+id: rtx1000
+vendor_id: yamaha
+name: Rtx1000
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rtx1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtx1000
+  confidence: auto

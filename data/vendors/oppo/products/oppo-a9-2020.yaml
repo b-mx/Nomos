@@ -1,0 +1,10 @@
+id: oppo-a9-2020
+vendor_id: oppo
+name: Oppo A9 2020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_a9_2020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_a9_2020
+  confidence: auto

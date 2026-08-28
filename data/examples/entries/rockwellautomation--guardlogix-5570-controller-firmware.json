@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rockwellautomation--guardlogix-5570-controller-firmware",
+  "vendor_id": "rockwellautomation",
+  "product_id": "guardlogix-5570-controller-firmware",
+  "name": "Guardlogix 5570 Controller Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "guardlogix_5570_controller_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

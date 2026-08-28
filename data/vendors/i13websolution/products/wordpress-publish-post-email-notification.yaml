@@ -1,0 +1,10 @@
+id: wordpress-publish-post-email-notification
+vendor_id: i13websolution
+name: Wordpress Publish Post Email Notification
+type: software
+tags: []
+cpe: cpe:2.3:a:i13websolution:wordpress_publish_post_email_notification:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wordpress_publish_post_email_notification
+  confidence: auto

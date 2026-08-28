@@ -1,0 +1,10 @@
+id: nds-5000-firmware
+vendor_id: systech
+name: Nds-5000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:systech:nds\-5000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nds-5000_firmware
+  confidence: auto

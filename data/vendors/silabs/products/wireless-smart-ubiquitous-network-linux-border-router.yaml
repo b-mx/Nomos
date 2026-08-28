@@ -1,0 +1,10 @@
+id: wireless-smart-ubiquitous-network-linux-border-router
+vendor_id: silabs
+name: Wireless Smart Ubiquitous Network Linux Border Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:silabs:wireless_smart_ubiquitous_network_linux_border_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireless_smart_ubiquitous_network_linux_border_router
+  confidence: auto

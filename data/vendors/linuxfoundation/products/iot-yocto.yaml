@@ -1,0 +1,10 @@
+id: iot-yocto
+vendor_id: linuxfoundation
+name: Iot-Yocto
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:iot\-yocto:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iot-yocto
+  confidence: auto

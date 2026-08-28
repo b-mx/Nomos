@@ -1,0 +1,10 @@
+id: civil-design
+vendor_id: autodesk
+name: Civil Design
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:civil_design:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: civil_design
+  confidence: auto

@@ -1,0 +1,10 @@
+id: indy-node
+vendor_id: linuxfoundation
+name: Indy-Node
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:indy\-node:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: indy-node
+  confidence: auto

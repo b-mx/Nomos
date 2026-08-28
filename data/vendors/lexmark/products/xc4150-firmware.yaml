@@ -1,0 +1,10 @@
+id: xc4150-firmware
+vendor_id: lexmark
+name: Xc4150 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:xc4150_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xc4150_firmware
+  confidence: auto

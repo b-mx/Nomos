@@ -1,0 +1,10 @@
+id: compactlogix-5380-process
+vendor_id: rockwellautomation
+name: Compactlogix 5380 Process
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:compactlogix_5380_process:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactlogix_5380_process
+  confidence: auto

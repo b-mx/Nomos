@@ -1,0 +1,10 @@
+id: balance-2500
+vendor_id: peplink
+name: Balance 2500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:balance_2500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: balance_2500
+  confidence: auto

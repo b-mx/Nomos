@@ -1,0 +1,10 @@
+id: i-filter-installer
+vendor_id: daj
+name: I-Filter Installer
+type: software
+tags: []
+cpe: cpe:2.3:a:daj:i\-filter_installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i-filter_installer
+  confidence: auto

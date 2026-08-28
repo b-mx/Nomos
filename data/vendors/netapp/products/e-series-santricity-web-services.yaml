@@ -1,0 +1,10 @@
+id: e-series-santricity-web-services
+vendor_id: netapp
+name: E-Series Santricity Web Services
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:e\-series_santricity_web_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-series_santricity_web_services
+  confidence: auto

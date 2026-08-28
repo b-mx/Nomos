@@ -1,0 +1,10 @@
+id: thinkcentre-e75-t-s
+vendor_id: lenovo
+name: Thinkcentre E75 T/S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_e75_t\/s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_e75_t/s
+  confidence: auto

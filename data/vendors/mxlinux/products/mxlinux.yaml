@@ -1,0 +1,9 @@
+id: mxlinux
+vendor_id: mxlinux
+name: MX Linux
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: mxlinux
+  confidence: auto

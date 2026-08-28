@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "liquibase--liquibase",
+  "vendor_id": "liquibase",
+  "product_id": "liquibase",
+  "name": "Liquibase",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "liquibase",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "liquibase",
+      "confidence": "auto"
+    }
+  ]
+}

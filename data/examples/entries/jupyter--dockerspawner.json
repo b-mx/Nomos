@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--dockerspawner",
+  "vendor_id": "jupyter",
+  "product_id": "dockerspawner",
+  "name": "Dockerspawner",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dockerspawner",
+      "confidence": "auto"
+    }
+  ]
+}

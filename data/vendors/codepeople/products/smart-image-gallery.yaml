@@ -1,0 +1,10 @@
+id: smart-image-gallery
+vendor_id: codepeople
+name: Smart Image Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:codepeople:smart_image_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_image_gallery
+  confidence: auto

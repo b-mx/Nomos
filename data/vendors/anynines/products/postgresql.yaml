@@ -1,0 +1,10 @@
+id: postgresql
+vendor_id: anynines
+name: Postgresql
+type: software
+tags: []
+cpe: cpe:2.3:a:anynines:postgresql:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: postgresql
+  confidence: auto

@@ -1,0 +1,10 @@
+id: radeon-instinct-mi25
+vendor_id: amd
+name: Radeon Instinct Mi25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:radeon_instinct_mi25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radeon_instinct_mi25
+  confidence: auto

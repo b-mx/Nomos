@@ -1,0 +1,10 @@
+id: kerio-control
+vendor_id: gfi
+name: Kerio Control
+type: software
+tags: []
+cpe: cpe:2.3:a:gfi:kerio_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kerio_control
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rg-eap101-v2
+vendor_id: ruijie
+name: Rg-Eap101 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-eap101_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-eap101_v2
+  confidence: auto

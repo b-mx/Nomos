@@ -1,0 +1,10 @@
+id: ea9-rhmi
+vendor_id: automationdirect
+name: Ea9-Rhmi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:automationdirect:ea9\-rhmi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ea9-rhmi
+  confidence: auto

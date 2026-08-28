@@ -1,0 +1,10 @@
+id: fusion
+vendor_id: autodesk
+name: Fusion
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:fusion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusion
+  confidence: auto

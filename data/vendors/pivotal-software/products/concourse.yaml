@@ -1,0 +1,10 @@
+id: concourse
+vendor_id: pivotal-software
+name: Concourse
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:concourse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: concourse
+  confidence: auto

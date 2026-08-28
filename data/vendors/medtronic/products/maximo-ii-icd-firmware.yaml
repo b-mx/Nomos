@@ -1,0 +1,10 @@
+id: maximo-ii-icd-firmware
+vendor_id: medtronic
+name: Maximo Ii Icd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:maximo_ii_icd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maximo_ii_icd_firmware
+  confidence: auto

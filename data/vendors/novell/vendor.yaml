@@ -1,0 +1,7 @@
+id: novell
+name: Novell
+cpe: cpe:2.3:*:novell:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: novell
+  confidence: auto

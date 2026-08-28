@@ -1,0 +1,7 @@
+id: hanwha-security
+name: Hanwha-Security
+cpe: cpe:2.3:*:hanwha\-security:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hanwha-security
+  confidence: auto

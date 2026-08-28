@@ -1,0 +1,10 @@
+id: pcs-xg77-firmware
+vendor_id: sony
+name: Pcs-Xg77 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:pcs\-xg77_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcs-xg77_firmware
+  confidence: auto

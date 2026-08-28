@@ -1,0 +1,10 @@
+id: unas-4
+vendor_id: ui
+name: Unas 4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:unas_4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unas_4
+  confidence: auto

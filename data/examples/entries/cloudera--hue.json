@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudera--hue",
+  "vendor_id": "cloudera",
+  "product_id": "hue",
+  "name": "Hue",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hue",
+      "confidence": "auto"
+    }
+  ]
+}

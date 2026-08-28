@@ -1,0 +1,10 @@
+id: integrated-management
+vendor_id: avaya
+name: Integrated Management
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:integrated_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_management
+  confidence: auto

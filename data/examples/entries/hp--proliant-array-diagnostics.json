@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-array-diagnostics",
+  "vendor_id": "hp",
+  "product_id": "proliant-array-diagnostics",
+  "name": "Proliant Array Diagnostics",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_array_diagnostics",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: ryzen-5700g
+vendor_id: amd
+name: Ryzen 5700G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5700g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5700g
+  confidence: auto

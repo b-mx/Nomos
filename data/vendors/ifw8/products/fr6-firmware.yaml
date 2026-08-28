@@ -1,0 +1,10 @@
+id: fr6-firmware
+vendor_id: ifw8
+name: Fr6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ifw8:fr6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fr6_firmware
+  confidence: auto

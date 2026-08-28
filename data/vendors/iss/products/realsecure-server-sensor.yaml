@@ -1,0 +1,10 @@
+id: realsecure-server-sensor
+vendor_id: iss
+name: Realsecure Server Sensor
+type: software
+tags: []
+cpe: cpe:2.3:a:iss:realsecure_server_sensor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realsecure_server_sensor
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ryzen-3-5125c
+vendor_id: amd
+name: Ryzen 3 5125C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3_5125c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3_5125c
+  confidence: auto

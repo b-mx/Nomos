@@ -1,0 +1,10 @@
+id: n12-firmware
+vendor_id: h3c
+name: N12 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:n12_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n12_firmware
+  confidence: auto

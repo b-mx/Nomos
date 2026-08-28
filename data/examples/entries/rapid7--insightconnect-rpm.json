@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rapid7--insightconnect-rpm",
+  "vendor_id": "rapid7",
+  "product_id": "insightconnect-rpm",
+  "name": "Insightconnect Rpm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "insightconnect_rpm",
+      "confidence": "auto"
+    }
+  ]
+}

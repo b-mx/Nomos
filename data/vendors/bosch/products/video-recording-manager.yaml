@@ -1,0 +1,10 @@
+id: video-recording-manager
+vendor_id: bosch
+name: Video Recording Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:video_recording_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_recording_manager
+  confidence: auto

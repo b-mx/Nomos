@@ -1,0 +1,10 @@
+id: librest
+vendor_id: gnome
+name: Librest
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:librest:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: librest
+  confidence: auto

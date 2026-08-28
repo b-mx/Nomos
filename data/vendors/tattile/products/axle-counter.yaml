@@ -1,0 +1,10 @@
+id: axle-counter
+vendor_id: tattile
+name: Axle Counter
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tattile:axle_counter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axle_counter
+  confidence: auto

@@ -1,0 +1,10 @@
+id: secure-global-desktop
+vendor_id: sun
+name: Secure Global Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:secure_global_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_global_desktop
+  confidence: auto

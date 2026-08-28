@@ -1,0 +1,10 @@
+id: softlogix-controllers-firmware
+vendor_id: rockwellautomation
+name: Softlogix Controllers Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:softlogix_controllers_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softlogix_controllers_firmware
+  confidence: auto

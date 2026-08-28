@@ -1,0 +1,10 @@
+id: thinkcentre-m90n-1
+vendor_id: lenovo
+name: Thinkcentre M90N-1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m90n\-1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m90n-1
+  confidence: auto

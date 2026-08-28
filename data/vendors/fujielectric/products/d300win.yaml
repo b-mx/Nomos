@@ -1,0 +1,10 @@
+id: d300win
+vendor_id: fujielectric
+name: D300Win
+type: software
+tags: []
+cpe: cpe:2.3:a:fujielectric:d300win:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d300win
+  confidence: auto

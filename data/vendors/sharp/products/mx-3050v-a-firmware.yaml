@@ -1,0 +1,10 @@
+id: mx-3050v-a-firmware
+vendor_id: sharp
+name: Mx-3050V A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-3050v_a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-3050v_a_firmware
+  confidence: auto

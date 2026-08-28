@@ -1,0 +1,10 @@
+id: x792
+vendor_id: lexmark
+name: X792
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x792:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x792
+  confidence: auto

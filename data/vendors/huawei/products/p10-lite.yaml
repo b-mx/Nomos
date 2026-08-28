@@ -1,0 +1,10 @@
+id: p10-lite
+vendor_id: huawei
+name: P10 Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p10_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p10_lite
+  confidence: auto

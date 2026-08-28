@@ -1,0 +1,10 @@
+id: imaging-workshop
+vendor_id: epson
+name: Imaging Workshop
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:imaging_workshop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imaging_workshop
+  confidence: auto

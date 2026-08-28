@@ -1,0 +1,10 @@
+id: ad1
+vendor_id: oleumtech
+name: Ad1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oleumtech:ad1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ad1
+  confidence: auto

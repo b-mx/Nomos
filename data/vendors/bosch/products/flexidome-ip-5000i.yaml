@@ -1,0 +1,10 @@
+id: flexidome-ip-5000i
+vendor_id: bosch
+name: Flexidome Ip 5000I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_ip_5000i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_ip_5000i
+  confidence: auto

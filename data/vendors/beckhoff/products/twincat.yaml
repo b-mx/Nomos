@@ -1,0 +1,10 @@
+id: twincat
+vendor_id: beckhoff
+name: Twincat
+type: software
+tags: []
+cpe: cpe:2.3:a:beckhoff:twincat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twincat
+  confidence: auto

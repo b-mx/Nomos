@@ -1,0 +1,10 @@
+id: sc-p10050
+vendor_id: epson
+name: Sc-P10050
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-p10050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-p10050
+  confidence: auto

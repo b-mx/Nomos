@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11sca",
+  "vendor_id": "supermicro",
+  "product_id": "x11sca",
+  "name": "X11Sca",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11sca",
+      "confidence": "auto"
+    }
+  ]
+}

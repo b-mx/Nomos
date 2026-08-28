@@ -1,0 +1,10 @@
+id: rsa-netwitness
+vendor_id: emc
+name: Rsa Netwitness
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_netwitness:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_netwitness
+  confidence: auto

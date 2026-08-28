@@ -1,0 +1,10 @@
+id: x13dem-firmware
+vendor_id: supermicro
+name: X13Dem Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x13dem_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13dem_firmware
+  confidence: auto

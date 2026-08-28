@@ -1,0 +1,7 @@
+id: comodo
+name: Comodo
+cpe: cpe:2.3:*:comodo:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comodo
+  confidence: auto

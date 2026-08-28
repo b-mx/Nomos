@@ -1,0 +1,10 @@
+id: vs960hd-firmware
+vendor_id: synology
+name: Vs960Hd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:synology:vs960hd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vs960hd_firmware
+  confidence: auto

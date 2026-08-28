@@ -1,0 +1,10 @@
+id: xnp-8300rw-firmware
+vendor_id: hanwhavision
+name: Xnp-8300Rw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:xnp\-8300rw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnp-8300rw_firmware
+  confidence: auto

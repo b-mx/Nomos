@@ -1,0 +1,10 @@
+id: legion-5-pro-16ach6
+vendor_id: lenovo
+name: Legion 5 Pro-16Ach6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_5_pro\-16ach6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_5_pro-16ach6
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "auth0--jsonwebtoken",
+  "vendor_id": "auth0",
+  "product_id": "jsonwebtoken",
+  "name": "Jsonwebtoken",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jsonwebtoken",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: bp-50m50
+vendor_id: sharp
+name: Bp-50M50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:bp\-50m50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bp-50m50
+  confidence: auto

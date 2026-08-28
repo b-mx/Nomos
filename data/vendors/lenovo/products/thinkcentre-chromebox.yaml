@@ -1,0 +1,10 @@
+id: thinkcentre-chromebox
+vendor_id: lenovo
+name: Thinkcentre Chromebox
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_chromebox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_chromebox
+  confidence: auto

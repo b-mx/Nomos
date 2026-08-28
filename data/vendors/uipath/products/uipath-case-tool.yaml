@@ -1,0 +1,10 @@
+id: uipath-case-tool
+vendor_id: uipath
+name: Uipath/Case-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/case\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/case-tool
+  confidence: auto

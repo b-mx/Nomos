@@ -1,0 +1,10 @@
+id: eyes-outdoor-camera
+vendor_id: bosch
+name: Eyes Outdoor Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:eyes_outdoor_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eyes_outdoor_camera
+  confidence: auto

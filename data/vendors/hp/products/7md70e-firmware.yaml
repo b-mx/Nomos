@@ -1,0 +1,10 @@
+id: 7md70e-firmware
+vendor_id: hp
+name: 7Md70E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:7md70e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 7md70e_firmware
+  confidence: auto

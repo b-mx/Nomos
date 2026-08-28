@@ -1,0 +1,10 @@
+id: alm-octane
+vendor_id: opentext
+name: Alm Octane
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:alm_octane:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alm_octane
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fit2cloud--kubeoperator",
+  "vendor_id": "fit2cloud",
+  "product_id": "kubeoperator",
+  "name": "Kubeoperator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kubeoperator",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: wp-gravity-forms-salesforce
+vendor_id: crmperks
+name: Wp Gravity Forms Salesforce
+type: software
+tags: []
+cpe: cpe:2.3:a:crmperks:wp_gravity_forms_salesforce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_gravity_forms_salesforce
+  confidence: auto

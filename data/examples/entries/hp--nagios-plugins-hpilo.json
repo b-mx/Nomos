@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--nagios-plugins-hpilo",
+  "vendor_id": "hp",
+  "product_id": "nagios-plugins-hpilo",
+  "name": "Nagios-Plugins-Hpilo",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nagios-plugins-hpilo",
+      "confidence": "auto"
+    }
+  ]
+}

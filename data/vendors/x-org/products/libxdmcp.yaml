@@ -1,0 +1,10 @@
+id: libxdmcp
+vendor_id: x-org
+name: Libxdmcp
+type: software
+tags: []
+cpe: cpe:2.3:a:x\.org:libxdmcp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxdmcp
+  confidence: auto

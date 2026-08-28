@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--cx50-firmware",
+  "vendor_id": "philips",
+  "product_id": "cx50-firmware",
+  "name": "Cx50 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cx50_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

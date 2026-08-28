@@ -1,0 +1,10 @@
+id: ryzen-5-7500f
+vendor_id: amd
+name: Ryzen 5 7500F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_7500f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_7500f
+  confidence: auto

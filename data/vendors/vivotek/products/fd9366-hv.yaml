@@ -1,0 +1,10 @@
+id: fd9366-hv
+vendor_id: vivotek
+name: Fd9366-Hv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fd9366\-hv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd9366-hv
+  confidence: auto

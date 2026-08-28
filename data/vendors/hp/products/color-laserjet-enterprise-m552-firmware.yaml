@@ -1,0 +1,10 @@
+id: color-laserjet-enterprise-m552-firmware
+vendor_id: hp
+name: Color Laserjet Enterprise M552 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_enterprise_m552_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_enterprise_m552_firmware
+  confidence: auto

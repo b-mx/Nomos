@@ -1,0 +1,10 @@
+id: coda-4582u-firmware
+vendor_id: hitrontech
+name: Coda-4582U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitrontech:coda\-4582u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coda-4582u_firmware
+  confidence: auto

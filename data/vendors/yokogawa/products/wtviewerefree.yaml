@@ -1,0 +1,10 @@
+id: wtviewerefree
+vendor_id: yokogawa
+name: Wtviewerefree
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:wtviewerefree:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wtviewerefree
+  confidence: auto

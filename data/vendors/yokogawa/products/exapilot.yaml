@@ -1,0 +1,10 @@
+id: exapilot
+vendor_id: yokogawa
+name: Exapilot
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:exapilot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exapilot
+  confidence: auto

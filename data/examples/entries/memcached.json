@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "memcached",
+  "vendor_id": "memcached",
+  "name": "Memcached",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "memcached",
+      "confidence": "auto"
+    }
+  ]
+}

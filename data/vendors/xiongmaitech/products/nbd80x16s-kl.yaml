@@ -1,0 +1,10 @@
+id: nbd80x16s-kl
+vendor_id: xiongmaitech
+name: Nbd80X16S-Kl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xiongmaitech:nbd80x16s\-kl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbd80x16s-kl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lq-05
+vendor_id: wayos
+name: Lq-05
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wayos:lq\-05:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lq-05
+  confidence: auto

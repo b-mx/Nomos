@@ -1,0 +1,10 @@
+id: one-net-firmware
+vendor_id: digitalalertsystems
+name: One-Net Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digitalalertsystems:one\-net_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one-net_firmware
+  confidence: auto

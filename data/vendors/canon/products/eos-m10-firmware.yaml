@@ -1,0 +1,10 @@
+id: eos-m10-firmware
+vendor_id: canon
+name: Eos M10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:eos_m10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_m10_firmware
+  confidence: auto

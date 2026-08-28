@@ -1,0 +1,10 @@
+id: whr-hp-g54
+vendor_id: buffalotech
+name: Whr-Hp-G54
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:whr\-hp\-g54:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-hp-g54
+  confidence: auto

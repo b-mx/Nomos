@@ -1,0 +1,10 @@
+id: credhub-cli
+vendor_id: cloudfoundry
+name: Credhub Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:credhub_cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: credhub_cli
+  confidence: auto

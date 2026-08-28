@@ -1,0 +1,10 @@
+id: samsung-m2070
+vendor_id: hp
+name: Samsung M2070
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:samsung_m2070:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: samsung_m2070
+  confidence: auto

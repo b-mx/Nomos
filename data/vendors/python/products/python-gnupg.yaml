@@ -1,0 +1,10 @@
+id: python-gnupg
+vendor_id: python
+name: Python-Gnupg
+type: software
+tags: []
+cpe: cpe:2.3:a:python:python\-gnupg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: python-gnupg
+  confidence: auto

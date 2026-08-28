@@ -1,0 +1,10 @@
+id: wsr-3200ax4s
+vendor_id: buffalo
+name: Wsr-3200Ax4S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wsr\-3200ax4s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wsr-3200ax4s
+  confidence: auto

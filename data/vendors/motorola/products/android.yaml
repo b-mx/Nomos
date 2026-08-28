@@ -1,0 +1,10 @@
+id: android
+vendor_id: motorola
+name: Android
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:android:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: android
+  confidence: auto

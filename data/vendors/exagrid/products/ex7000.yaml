@@ -1,0 +1,10 @@
+id: ex7000
+vendor_id: exagrid
+name: Ex7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:exagrid:ex7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex7000
+  confidence: auto

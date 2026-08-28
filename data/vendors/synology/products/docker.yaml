@@ -1,0 +1,10 @@
+id: docker
+vendor_id: synology
+name: Docker
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:docker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docker
+  confidence: auto

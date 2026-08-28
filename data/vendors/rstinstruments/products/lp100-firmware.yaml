@@ -1,0 +1,10 @@
+id: lp100-firmware
+vendor_id: rstinstruments
+name: Lp100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:lp100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp100_firmware
+  confidence: auto

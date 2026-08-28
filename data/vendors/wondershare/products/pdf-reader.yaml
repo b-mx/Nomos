@@ -1,0 +1,10 @@
+id: pdf-reader
+vendor_id: wondershare
+name: Pdf Reader
+type: software
+tags: []
+cpe: cpe:2.3:a:wondershare:pdf_reader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdf_reader
+  confidence: auto

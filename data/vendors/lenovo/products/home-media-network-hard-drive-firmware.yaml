@@ -1,0 +1,10 @@
+id: home-media-network-hard-drive-firmware
+vendor_id: lenovo
+name: Home Media Network Hard Drive Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:home_media_network_hard_drive_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: home_media_network_hard_drive_firmware
+  confidence: auto

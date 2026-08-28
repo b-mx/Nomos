@@ -1,0 +1,10 @@
+id: cloud-foundry-uaa-bosh
+vendor_id: cloudfoundry
+name: Cloud Foundry Uaa Bosh
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_uaa_bosh
+  confidence: auto

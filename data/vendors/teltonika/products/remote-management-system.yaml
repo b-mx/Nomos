@@ -1,0 +1,10 @@
+id: remote-management-system
+vendor_id: teltonika
+name: Remote Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:teltonika:remote_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_management_system
+  confidence: auto

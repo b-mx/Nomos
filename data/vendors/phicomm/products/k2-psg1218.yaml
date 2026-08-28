@@ -1,0 +1,10 @@
+id: k2-psg1218
+vendor_id: phicomm
+name: K2(Psg1218)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phicomm:k2\(psg1218\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k2(psg1218)
+  confidence: auto

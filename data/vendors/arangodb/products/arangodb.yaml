@@ -1,0 +1,14 @@
+id: arangodb
+vendor_id: arangodb
+name: ArangoDB
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:arangodb:arangodb:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: arangodb
+  confidence: auto
+- source: nvd
+  value: arangodb
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cn577a
+vendor_id: hp
+name: Cn577A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cn577a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn577a
+  confidence: auto

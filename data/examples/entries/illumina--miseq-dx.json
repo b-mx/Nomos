@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "illumina--miseq-dx",
+  "vendor_id": "illumina",
+  "product_id": "miseq-dx",
+  "name": "Miseq Dx",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "miseq_dx",
+      "confidence": "auto"
+    }
+  ]
+}

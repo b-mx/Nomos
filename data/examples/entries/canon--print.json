@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canon--print",
+  "vendor_id": "canon",
+  "product_id": "print",
+  "name": "Print",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "print",
+      "confidence": "auto"
+    }
+  ]
+}

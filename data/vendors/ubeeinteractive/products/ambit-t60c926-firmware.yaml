@@ -1,0 +1,10 @@
+id: ambit-t60c926-firmware
+vendor_id: ubeeinteractive
+name: Ambit T60C926 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ubeeinteractive:ambit_t60c926_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ambit_t60c926_firmware
+  confidence: auto

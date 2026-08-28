@@ -1,0 +1,10 @@
+id: at-1623r-firmware
+vendor_id: nadatel
+name: At-1623R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nadatel:at\-1623r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: at-1623r_firmware
+  confidence: auto

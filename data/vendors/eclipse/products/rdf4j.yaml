@@ -1,0 +1,10 @@
+id: rdf4j
+vendor_id: eclipse
+name: Rdf4J
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:rdf4j:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rdf4j
+  confidence: auto

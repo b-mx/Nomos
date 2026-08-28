@@ -1,0 +1,10 @@
+id: rh2288h-v3-server-firmware
+vendor_id: huawei
+name: Rh2288H V3 Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:rh2288h_v3_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh2288h_v3_server_firmware
+  confidence: auto

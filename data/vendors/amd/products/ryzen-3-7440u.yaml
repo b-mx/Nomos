@@ -1,0 +1,10 @@
+id: ryzen-3-7440u
+vendor_id: amd
+name: Ryzen 3 7440U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3_7440u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3_7440u
+  confidence: auto

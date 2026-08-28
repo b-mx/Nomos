@@ -1,0 +1,10 @@
+id: maxicharger-ac-pro-firmware
+vendor_id: autel
+name: Maxicharger Ac Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:autel:maxicharger_ac_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxicharger_ac_pro_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lodash-es
+vendor_id: lodash
+name: Lodash-Es
+type: software
+tags: []
+cpe: cpe:2.3:a:lodash:lodash\-es:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lodash-es
+  confidence: auto

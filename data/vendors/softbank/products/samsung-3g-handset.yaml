@@ -1,0 +1,10 @@
+id: samsung-3g-handset
+vendor_id: softbank
+name: Samsung 3G Handset
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softbank:samsung_3g_handset:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: samsung_3g_handset
+  confidence: auto

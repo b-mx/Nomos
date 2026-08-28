@@ -1,0 +1,10 @@
+id: nextjs-auth0
+vendor_id: auth0
+name: Nextjs-Auth0
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:nextjs\-auth0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextjs-auth0
+  confidence: auto

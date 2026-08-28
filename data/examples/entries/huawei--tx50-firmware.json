@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--tx50-firmware",
+  "vendor_id": "huawei",
+  "product_id": "tx50-firmware",
+  "name": "Tx50 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tx50_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

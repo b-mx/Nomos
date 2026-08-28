@@ -1,0 +1,10 @@
+id: tumbleweed
+vendor_id: opensuse
+name: Tumbleweed
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:tumbleweed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tumbleweed
+  confidence: auto

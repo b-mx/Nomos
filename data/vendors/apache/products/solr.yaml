@@ -2,8 +2,7 @@ id: solr
 vendor_id: apache
 name: Solr
 type: software
-tags:
-- database
+tags: []
 aliases:
 - source: cisa_kev
   value: Solr

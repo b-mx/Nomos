@@ -1,0 +1,10 @@
+id: arconte-aurea
+vendor_id: fujitsu
+name: Arconte Aurea
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:arconte_aurea:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arconte_aurea
+  confidence: auto

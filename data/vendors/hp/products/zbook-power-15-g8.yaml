@@ -1,0 +1,10 @@
+id: zbook-power-15-g8
+vendor_id: hp
+name: Zbook Power 15 G8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_power_15_g8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_power_15_g8
+  confidence: auto

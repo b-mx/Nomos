@@ -1,0 +1,10 @@
+id: melfa-works
+vendor_id: mitsubishielectric
+name: Melfa-Works
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:melfa\-works:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melfa-works
+  confidence: auto

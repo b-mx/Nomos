@@ -1,0 +1,10 @@
+id: camon-iair-2-firmware
+vendor_id: tecno-mobile
+name: Camon Iair 2+ Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tecno\-mobile:camon_iair_2\+_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: camon_iair_2+_firmware
+  confidence: auto

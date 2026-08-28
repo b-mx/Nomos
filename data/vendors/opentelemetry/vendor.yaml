@@ -1,0 +1,7 @@
+id: opentelemetry
+name: Opentelemetry
+cpe: cpe:2.3:*:opentelemetry:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentelemetry
+  confidence: auto

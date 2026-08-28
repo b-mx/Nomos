@@ -1,0 +1,10 @@
+id: tc-router-3002t-4g
+vendor_id: phoenixcontact
+name: Tc Router 3002T-4G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:tc_router_3002t\-4g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc_router_3002t-4g
+  confidence: auto

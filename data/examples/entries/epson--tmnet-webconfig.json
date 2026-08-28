@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--tmnet-webconfig",
+  "vendor_id": "epson",
+  "product_id": "tmnet-webconfig",
+  "name": "Tmnet Webconfig",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tmnet_webconfig",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: f5r95
+vendor_id: hp
+name: F5R95
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f5r95:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f5r95
+  confidence: auto

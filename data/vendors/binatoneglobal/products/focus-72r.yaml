@@ -1,0 +1,10 @@
+id: focus-72r
+vendor_id: binatoneglobal
+name: Focus 72R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:binatoneglobal:focus_72r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: focus_72r
+  confidence: auto

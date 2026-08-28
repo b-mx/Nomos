@@ -1,0 +1,10 @@
+id: jp1-serverconductor-deploymentmanager
+vendor_id: hitachi
+name: Jp1/Serverconductor/Deploymentmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:jp1\/serverconductor\/deploymentmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jp1/serverconductor/deploymentmanager
+  confidence: auto

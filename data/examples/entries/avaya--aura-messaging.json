@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--aura-messaging",
+  "vendor_id": "avaya",
+  "product_id": "aura-messaging",
+  "name": "Aura Messaging",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aura_messaging",
+      "confidence": "auto"
+    }
+  ]
+}

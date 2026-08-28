@@ -1,0 +1,10 @@
+id: saleserp
+vendor_id: bdtask
+name: Saleserp
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:saleserp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: saleserp
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ericsson--network-manager",
+  "vendor_id": "ericsson",
+  "product_id": "network-manager",
+  "name": "Network Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_manager",
+      "confidence": "auto"
+    }
+  ]
+}

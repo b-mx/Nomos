@@ -1,0 +1,10 @@
+id: programmingtube
+vendor_id: trumpf
+name: Programmingtube
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:programmingtube:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: programmingtube
+  confidence: auto

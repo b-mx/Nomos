@@ -1,0 +1,10 @@
+id: laserjet-pro-m521-a8p80a-firmware
+vendor_id: hp
+name: Laserjet Pro M521 A8P80A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m521_a8p80a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m521_a8p80a_firmware
+  confidence: auto

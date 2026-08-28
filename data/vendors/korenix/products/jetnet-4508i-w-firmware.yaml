@@ -1,0 +1,10 @@
+id: jetnet-4508i-w-firmware
+vendor_id: korenix
+name: Jetnet 4508I-W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetnet_4508i\-w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_4508i-w_firmware
+  confidence: auto

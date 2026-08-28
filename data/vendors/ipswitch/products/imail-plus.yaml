@@ -1,0 +1,10 @@
+id: imail-plus
+vendor_id: ipswitch
+name: Imail Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:imail_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imail_plus
+  confidence: auto

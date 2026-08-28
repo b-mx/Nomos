@@ -1,0 +1,10 @@
+id: sgos
+vendor_id: bluecoat
+name: Sgos
+type: os
+tags: []
+cpe: cpe:2.3:o:bluecoat:sgos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sgos
+  confidence: auto

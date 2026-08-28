@@ -1,0 +1,10 @@
+id: 330-14igm-firmware
+vendor_id: lenovo
+name: 330-14Igm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:330\-14igm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 330-14igm_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: duplicity
+vendor_id: debian
+name: Duplicity
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:duplicity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: duplicity
+  confidence: auto

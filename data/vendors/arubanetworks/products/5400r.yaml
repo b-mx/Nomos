@@ -1,0 +1,10 @@
+id: 5400r
+vendor_id: arubanetworks
+name: 5400R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:5400r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5400r
+  confidence: auto

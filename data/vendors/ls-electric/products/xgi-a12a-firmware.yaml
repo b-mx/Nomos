@@ -1,0 +1,10 @@
+id: xgi-a12a-firmware
+vendor_id: ls-electric
+name: Xgi-A12A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgi\-a12a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgi-a12a_firmware
+  confidence: auto

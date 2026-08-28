@@ -1,0 +1,10 @@
+id: color-laserjet-cm4540-mfp-cc420a
+vendor_id: hp
+name: Color Laserjet Cm4540 Mfp Cc420A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_cm4540_mfp_cc420a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_cm4540_mfp_cc420a
+  confidence: auto

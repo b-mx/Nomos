@@ -1,0 +1,10 @@
+id: elitebook-836-g6
+vendor_id: hp
+name: Elitebook 836 G6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_836_g6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_836_g6
+  confidence: auto

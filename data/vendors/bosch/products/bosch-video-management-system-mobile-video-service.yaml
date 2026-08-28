@@ -1,0 +1,10 @@
+id: bosch-video-management-system-mobile-video-service
+vendor_id: bosch
+name: Bosch Video Management System Mobile Video Service
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:bosch_video_management_system_mobile_video_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bosch_video_management_system_mobile_video_service
+  confidence: auto

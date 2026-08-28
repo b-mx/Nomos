@@ -1,0 +1,10 @@
+id: zxmp-m721-dx-firmware
+vendor_id: zte
+name: Zxmp M721 Dx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxmp_m721_dx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxmp_m721_dx_firmware
+  confidence: auto

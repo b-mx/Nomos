@@ -1,0 +1,10 @@
+id: echo-plus
+vendor_id: amazon
+name: Echo Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amazon:echo_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echo_plus
+  confidence: auto

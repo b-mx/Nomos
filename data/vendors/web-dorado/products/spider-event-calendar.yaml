@@ -1,0 +1,10 @@
+id: spider-event-calendar
+vendor_id: web-dorado
+name: Spider Event Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:spider_event_calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spider_event_calendar
+  confidence: auto

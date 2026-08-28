@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--ubuntu-core-launcher",
+  "vendor_id": "canonical",
+  "product_id": "ubuntu-core-launcher",
+  "name": "Ubuntu-Core-Launcher",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ubuntu-core-launcher",
+      "confidence": "auto"
+    }
+  ]
+}

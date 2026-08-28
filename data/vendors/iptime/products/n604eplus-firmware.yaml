@@ -1,0 +1,10 @@
+id: n604eplus-firmware
+vendor_id: iptime
+name: N604Eplus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n604eplus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n604eplus_firmware
+  confidence: auto

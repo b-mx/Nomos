@@ -1,0 +1,10 @@
+id: uaa-release
+vendor_id: cloudfoundry
+name: Uaa Release
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:uaa_release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uaa_release
+  confidence: auto

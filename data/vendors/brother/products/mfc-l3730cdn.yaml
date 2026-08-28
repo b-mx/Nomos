@@ -1,0 +1,10 @@
+id: mfc-l3730cdn
+vendor_id: brother
+name: Mfc-L3730Cdn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-l3730cdn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l3730cdn
+  confidence: auto

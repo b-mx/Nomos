@@ -1,0 +1,10 @@
+id: rg-rap1200-p
+vendor_id: ruijie
+name: Rg-Rap1200(P)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-rap1200\(p\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-rap1200(p)
+  confidence: auto

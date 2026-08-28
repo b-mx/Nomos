@@ -1,0 +1,10 @@
+id: runtime
+vendor_id: codesys
+name: Runtime
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:runtime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: runtime
+  confidence: auto

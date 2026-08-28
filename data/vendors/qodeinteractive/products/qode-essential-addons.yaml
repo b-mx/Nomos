@@ -1,0 +1,10 @@
+id: qode-essential-addons
+vendor_id: qodeinteractive
+name: Qode Essential Addons
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:qode_essential_addons:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qode_essential_addons
+  confidence: auto

@@ -1,0 +1,10 @@
+id: qnf-c9010
+vendor_id: hanwhavision
+name: Qnf-C9010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:qnf\-c9010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnf-c9010
+  confidence: auto

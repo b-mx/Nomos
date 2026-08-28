@@ -1,0 +1,10 @@
+id: mx-2615-a
+vendor_id: sharp
+name: Mx-2615 A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-2615_a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-2615_a
+  confidence: auto

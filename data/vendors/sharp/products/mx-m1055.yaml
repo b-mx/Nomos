@@ -1,0 +1,10 @@
+id: mx-m1055
+vendor_id: sharp
+name: Mx-M1055
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-m1055:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m1055
+  confidence: auto

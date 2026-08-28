@@ -1,0 +1,10 @@
+id: ns5
+vendor_id: omron
+name: Ns5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:ns5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ns5
+  confidence: auto

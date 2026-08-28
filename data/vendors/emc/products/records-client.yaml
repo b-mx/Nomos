@@ -1,0 +1,10 @@
+id: records-client
+vendor_id: emc
+name: Records Client
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:records_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: records_client
+  confidence: auto

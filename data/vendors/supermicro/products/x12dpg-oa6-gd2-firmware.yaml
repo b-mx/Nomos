@@ -1,0 +1,10 @@
+id: x12dpg-oa6-gd2-firmware
+vendor_id: supermicro
+name: X12Dpg-Oa6-Gd2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x12dpg\-oa6\-gd2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dpg-oa6-gd2_firmware
+  confidence: auto

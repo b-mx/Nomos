@@ -1,0 +1,10 @@
+id: dfu-library
+vendor_id: nordicsemi
+name: Dfu Library
+type: software
+tags: []
+cpe: cpe:2.3:a:nordicsemi:dfu_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dfu_library
+  confidence: auto

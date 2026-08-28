@@ -1,0 +1,10 @@
+id: ryzen-7-7645hx
+vendor_id: amd
+name: Ryzen 7 7645Hx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_7645hx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_7645hx
+  confidence: auto

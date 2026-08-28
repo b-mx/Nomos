@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--cookbook",
+  "vendor_id": "nextcloud",
+  "product_id": "cookbook",
+  "name": "Cookbook",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cookbook",
+      "confidence": "auto"
+    }
+  ]
+}

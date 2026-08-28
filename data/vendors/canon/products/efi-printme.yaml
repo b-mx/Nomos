@@ -1,0 +1,10 @@
+id: efi-printme
+vendor_id: canon
+name: Efi Printme
+type: software
+tags: []
+cpe: cpe:2.3:a:canon:efi_printme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: efi_printme
+  confidence: auto

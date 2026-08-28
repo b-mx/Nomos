@@ -1,0 +1,10 @@
+id: cx825
+vendor_id: lexmark
+name: Cx825
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx825:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx825
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mi-true-wireless-earbuds-basic-2-firmware
+vendor_id: mi
+name: Mi True Wireless Earbuds Basic 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:mi_true_wireless_earbuds_basic_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mi_true_wireless_earbuds_basic_2_firmware
+  confidence: auto

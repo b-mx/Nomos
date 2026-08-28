@@ -1,0 +1,10 @@
+id: a3700r
+vendor_id: totolink
+name: A3700R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a3700r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3700r
+  confidence: auto

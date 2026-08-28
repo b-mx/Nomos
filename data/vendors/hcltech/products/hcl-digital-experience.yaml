@@ -1,0 +1,10 @@
+id: hcl-digital-experience
+vendor_id: hcltech
+name: Hcl Digital Experience
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:hcl_digital_experience:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_digital_experience
+  confidence: auto

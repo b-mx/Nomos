@@ -1,0 +1,10 @@
+id: laserjet-m211e-6gw62er
+vendor_id: hp
+name: Laserjet M211E 6Gw62Er
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m211e_6gw62er:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m211e_6gw62er
+  confidence: auto

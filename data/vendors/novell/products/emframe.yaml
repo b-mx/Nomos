@@ -1,0 +1,10 @@
+id: emframe
+vendor_id: novell
+name: Emframe
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:emframe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emframe
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ubuntu-pipewire-pulse
+vendor_id: canonical
+name: Ubuntu Pipewire-Pulse
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:ubuntu_pipewire\-pulse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubuntu_pipewire-pulse
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dr-4fx1-firmware
+vendor_id: cbc
+name: Dr-4Fx1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cbc:dr\-4fx1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-4fx1_firmware
+  confidence: auto

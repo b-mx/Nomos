@@ -1,0 +1,10 @@
+id: qnd-7080r-firmware
+vendor_id: hanwhavision
+name: Qnd-7080R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:qnd\-7080r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnd-7080r_firmware
+  confidence: auto

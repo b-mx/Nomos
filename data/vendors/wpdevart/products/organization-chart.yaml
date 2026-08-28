@@ -1,0 +1,10 @@
+id: organization-chart
+vendor_id: wpdevart
+name: Organization Chart
+type: software
+tags: []
+cpe: cpe:2.3:a:wpdevart:organization_chart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: organization_chart
+  confidence: auto

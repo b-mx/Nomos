@@ -1,0 +1,10 @@
+id: x3
+vendor_id: sage
+name: X3
+type: software
+tags: []
+cpe: cpe:2.3:a:sage:x3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x3
+  confidence: auto

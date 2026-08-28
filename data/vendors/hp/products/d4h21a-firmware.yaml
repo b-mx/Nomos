@@ -1,0 +1,10 @@
+id: d4h21a-firmware
+vendor_id: hp
+name: D4H21A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:d4h21a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d4h21a_firmware
+  confidence: auto

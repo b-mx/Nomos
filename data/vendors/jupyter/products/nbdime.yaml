@@ -1,0 +1,10 @@
+id: nbdime
+vendor_id: jupyter
+name: Nbdime
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:nbdime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbdime
+  confidence: auto

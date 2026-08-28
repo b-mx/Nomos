@@ -1,0 +1,10 @@
+id: edge-keyboard-driver
+vendor_id: lenovo
+name: Edge Keyboard Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:edge_keyboard_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edge_keyboard_driver
+  confidence: auto

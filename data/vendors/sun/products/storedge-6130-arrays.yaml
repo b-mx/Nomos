@@ -1,0 +1,10 @@
+id: storedge-6130-arrays
+vendor_id: sun
+name: Storedge 6130 Arrays
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sun:storedge_6130_arrays:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storedge_6130_arrays
+  confidence: auto

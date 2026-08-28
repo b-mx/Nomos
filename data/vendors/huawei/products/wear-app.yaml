@@ -1,0 +1,10 @@
+id: wear-app
+vendor_id: huawei
+name: Wear App
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:wear_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wear_app
+  confidence: auto

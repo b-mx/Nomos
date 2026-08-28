@@ -1,0 +1,10 @@
+id: secvest-wireless-remote-control-fube50014-firmware
+vendor_id: abus
+name: Secvest Wireless Remote Control Fube50014 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abus:secvest_wireless_remote_control_fube50014_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secvest_wireless_remote_control_fube50014_firmware
+  confidence: auto

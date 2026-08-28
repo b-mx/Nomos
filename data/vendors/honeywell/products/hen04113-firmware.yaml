@@ -1,0 +1,10 @@
+id: hen04113-firmware
+vendor_id: honeywell
+name: Hen04113 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hen04113_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hen04113_firmware
+  confidence: auto

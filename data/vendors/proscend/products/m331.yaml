@@ -1,0 +1,10 @@
+id: m331
+vendor_id: proscend
+name: M331
+type: hardware
+tags: []
+cpe: cpe:2.3:h:proscend:m331:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m331
+  confidence: auto

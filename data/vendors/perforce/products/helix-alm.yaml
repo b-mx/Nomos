@@ -1,0 +1,10 @@
+id: helix-alm
+vendor_id: perforce
+name: Helix Alm
+type: software
+tags: []
+cpe: cpe:2.3:a:perforce:helix_alm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: helix_alm
+  confidence: auto

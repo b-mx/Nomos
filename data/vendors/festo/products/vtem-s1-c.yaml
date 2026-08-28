@@ -1,0 +1,10 @@
+id: vtem-s1-c
+vendor_id: festo
+name: Vtem-S1-C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:vtem\-s1\-c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vtem-s1-c
+  confidence: auto

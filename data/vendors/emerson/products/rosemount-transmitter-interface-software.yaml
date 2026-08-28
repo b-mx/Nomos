@@ -1,0 +1,10 @@
+id: rosemount-transmitter-interface-software
+vendor_id: emerson
+name: Rosemount Transmitter Interface Software
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:rosemount_transmitter_interface_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rosemount_transmitter_interface_software
+  confidence: auto

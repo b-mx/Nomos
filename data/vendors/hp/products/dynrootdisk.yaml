@@ -1,0 +1,10 @@
+id: dynrootdisk
+vendor_id: hp
+name: Dynrootdisk
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:dynrootdisk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dynrootdisk
+  confidence: auto

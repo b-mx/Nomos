@@ -1,0 +1,10 @@
+id: aspnet-owin
+vendor_id: auth0
+name: Aspnet-Owin
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:aspnet\-owin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspnet-owin
+  confidence: auto

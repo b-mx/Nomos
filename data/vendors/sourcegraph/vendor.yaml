@@ -1,0 +1,7 @@
+id: sourcegraph
+name: Sourcegraph
+cpe: cpe:2.3:*:sourcegraph:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sourcegraph
+  confidence: auto

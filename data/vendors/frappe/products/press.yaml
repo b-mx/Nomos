@@ -1,0 +1,10 @@
+id: press
+vendor_id: frappe
+name: Press
+type: software
+tags: []
+cpe: cpe:2.3:a:frappe:press:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: press
+  confidence: auto

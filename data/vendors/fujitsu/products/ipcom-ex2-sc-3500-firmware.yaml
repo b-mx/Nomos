@@ -1,0 +1,10 @@
+id: ipcom-ex2-sc-3500-firmware
+vendor_id: fujitsu
+name: Ipcom Ex2 Sc 3500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:ipcom_ex2_sc_3500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipcom_ex2_sc_3500_firmware
+  confidence: auto

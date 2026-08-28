@@ -1,0 +1,10 @@
+id: mycarelink-monitor-24950
+vendor_id: medtronic
+name: Mycarelink Monitor 24950
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:mycarelink_monitor_24950:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mycarelink_monitor_24950
+  confidence: auto

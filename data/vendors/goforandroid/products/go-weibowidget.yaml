@@ -1,0 +1,10 @@
+id: go-weibowidget
+vendor_id: goforandroid
+name: Go Weibowidget
+type: software
+tags: []
+cpe: cpe:2.3:a:goforandroid:go_weibowidget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_weibowidget
+  confidence: auto

@@ -1,0 +1,10 @@
+id: configuration-manager
+vendor_id: bosch
+name: Configuration Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:configuration_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: configuration_manager
+  confidence: auto

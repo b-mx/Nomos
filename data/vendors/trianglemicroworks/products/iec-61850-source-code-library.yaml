@@ -1,0 +1,10 @@
+id: iec-61850-source-code-library
+vendor_id: trianglemicroworks
+name: Iec 61850 Source Code Library
+type: software
+tags: []
+cpe: cpe:2.3:a:trianglemicroworks:iec_61850_source_code_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iec_61850_source_code_library
+  confidence: auto

@@ -1,0 +1,10 @@
+id: realpresence-web-suite
+vendor_id: polycom
+name: Realpresence Web Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:polycom:realpresence_web_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realpresence_web_suite
+  confidence: auto

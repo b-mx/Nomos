@@ -1,0 +1,10 @@
+id: extreme-management-center
+vendor_id: extremenetworks
+name: Extreme Management Center
+type: software
+tags: []
+cpe: cpe:2.3:a:extremenetworks:extreme_management_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: extreme_management_center
+  confidence: auto

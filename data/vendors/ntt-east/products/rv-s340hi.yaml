@@ -1,0 +1,10 @@
+id: rv-s340hi
+vendor_id: ntt-east
+name: Rv-S340Hi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-east:rv\-s340hi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-s340hi
+  confidence: auto

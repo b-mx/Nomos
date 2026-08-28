@@ -1,0 +1,10 @@
+id: tengine
+vendor_id: alibaba
+name: Tengine
+type: software
+tags: []
+cpe: cpe:2.3:a:alibaba:tengine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tengine
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wicked
+vendor_id: opensuse
+name: Wicked
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:wicked:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wicked
+  confidence: auto

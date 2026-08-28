@@ -1,0 +1,10 @@
+id: fs030w
+vendor_id: fsi
+name: Fs030W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fsi:fs030w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fs030w
+  confidence: auto

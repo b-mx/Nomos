@@ -1,0 +1,10 @@
+id: woocommerce-stripe
+vendor_id: automattic
+name: Woocommerce Stripe
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:woocommerce_stripe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_stripe
+  confidence: auto

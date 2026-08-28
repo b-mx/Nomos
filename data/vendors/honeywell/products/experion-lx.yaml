@@ -1,0 +1,10 @@
+id: experion-lx
+vendor_id: honeywell
+name: Experion Lx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:experion_lx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: experion_lx
+  confidence: auto

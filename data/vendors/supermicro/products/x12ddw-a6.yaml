@@ -1,0 +1,10 @@
+id: x12ddw-a6
+vendor_id: supermicro
+name: X12Ddw-A6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12ddw\-a6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12ddw-a6
+  confidence: auto

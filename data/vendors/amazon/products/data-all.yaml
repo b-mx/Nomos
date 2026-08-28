@@ -1,0 +1,10 @@
+id: data-all
+vendor_id: amazon
+name: Data.All
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:data\.all:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data.all
+  confidence: auto

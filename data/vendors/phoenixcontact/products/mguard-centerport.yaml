@@ -1,0 +1,10 @@
+id: mguard-centerport
+vendor_id: phoenixcontact
+name: Mguard Centerport
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:mguard_centerport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_centerport
+  confidence: auto

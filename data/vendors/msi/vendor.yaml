@@ -1,0 +1,7 @@
+id: msi
+name: Msi
+cpe: cpe:2.3:*:msi:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msi
+  confidence: auto

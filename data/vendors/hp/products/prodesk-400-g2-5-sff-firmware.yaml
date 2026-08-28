@@ -1,0 +1,10 @@
+id: prodesk-400-g2-5-sff-firmware
+vendor_id: hp
+name: Prodesk 400 G2.5 Sff Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:prodesk_400_g2\.5_sff_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_400_g2.5_sff_firmware
+  confidence: auto

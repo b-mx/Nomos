@@ -1,0 +1,10 @@
+id: openscape-desk-phone-ip-35g-firmware
+vendor_id: atos
+name: Openscape Desk Phone Ip 35G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:atos:openscape_desk_phone_ip_35g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openscape_desk_phone_ip_35g_firmware
+  confidence: auto

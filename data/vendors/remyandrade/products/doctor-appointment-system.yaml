@@ -1,0 +1,10 @@
+id: doctor-appointment-system
+vendor_id: remyandrade
+name: Doctor Appointment System
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:doctor_appointment_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: doctor_appointment_system
+  confidence: auto

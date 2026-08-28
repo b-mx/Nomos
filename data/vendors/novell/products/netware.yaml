@@ -1,0 +1,10 @@
+id: netware
+vendor_id: novell
+name: Netware
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:netware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netware
+  confidence: auto

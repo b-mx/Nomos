@@ -1,0 +1,10 @@
+id: gecko-software-development-kit
+vendor_id: silabs
+name: Gecko Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:gecko_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gecko_software_development_kit
+  confidence: auto

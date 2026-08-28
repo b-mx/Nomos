@@ -1,0 +1,10 @@
+id: vivid-software
+vendor_id: htc
+name: Vivid Software
+type: software
+tags: []
+cpe: cpe:2.3:a:htc:vivid_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vivid_software
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--python-muranoclient",
+  "vendor_id": "openstack",
+  "product_id": "python-muranoclient",
+  "name": "Python-Muranoclient",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "python-muranoclient",
+      "confidence": "auto"
+    }
+  ]
+}

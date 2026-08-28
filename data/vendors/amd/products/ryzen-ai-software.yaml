@@ -1,0 +1,10 @@
+id: ryzen-ai-software
+vendor_id: amd
+name: Ryzen Ai Software
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:ryzen_ai_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_ai_software
+  confidence: auto

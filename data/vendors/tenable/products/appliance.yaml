@@ -1,0 +1,10 @@
+id: appliance
+vendor_id: tenable
+name: Appliance
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: appliance
+  confidence: auto

@@ -1,0 +1,10 @@
+id: legion-5-15ach6
+vendor_id: lenovo
+name: Legion 5-15Ach6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_5\-15ach6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_5-15ach6
+  confidence: auto

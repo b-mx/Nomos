@@ -1,0 +1,7 @@
+id: woocommerce
+name: Woocommerce
+cpe: cpe:2.3:*:woocommerce:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce
+  confidence: auto

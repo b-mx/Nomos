@@ -1,0 +1,10 @@
+id: b11-dual-network-alarm-system-firmware
+vendor_id: chuango
+name: B11 Dual-Network Alarm System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chuango:b11_dual\-network_alarm_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b11_dual-network_alarm_system_firmware
+  confidence: auto

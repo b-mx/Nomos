@@ -1,0 +1,10 @@
+id: s340-14
+vendor_id: lenovo
+name: S340-14
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s340\-14:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s340-14
+  confidence: auto

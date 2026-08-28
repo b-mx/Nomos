@@ -1,0 +1,10 @@
+id: prodesk-405-g6
+vendor_id: hp
+name: Prodesk 405 G6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_405_g6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_405_g6
+  confidence: auto

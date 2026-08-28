@@ -1,0 +1,7 @@
+id: neos
+name: Neos
+cpe: cpe:2.3:*:neos:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neos
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ris-11-firmware
+vendor_id: secutech-project
+name: Ris-11 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:secutech_project:ris\-11_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ris-11_firmware
+  confidence: auto

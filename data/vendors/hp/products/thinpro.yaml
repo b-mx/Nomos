@@ -1,0 +1,10 @@
+id: thinpro
+vendor_id: hp
+name: Thinpro
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:thinpro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinpro
+  confidence: auto

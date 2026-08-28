@@ -1,0 +1,10 @@
+id: tc7110-ar
+vendor_id: technicolor
+name: Tc7110.Ar
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tc7110\.ar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7110.ar
+  confidence: auto

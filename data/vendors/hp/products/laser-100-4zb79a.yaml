@@ -1,0 +1,10 @@
+id: laser-100-4zb79a
+vendor_id: hp
+name: Laser 100 4Zb79A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laser_100_4zb79a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laser_100_4zb79a
+  confidence: auto

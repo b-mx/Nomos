@@ -1,0 +1,10 @@
+id: melsec-q-q170mscpu-s1-firmware
+vendor_id: mitsubishielectric
+name: Melsec Q-Q170Mscpu-S1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:melsec_q\-q170mscpu\-s1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q-q170mscpu-s1_firmware
+  confidence: auto

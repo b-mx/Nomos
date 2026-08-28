@@ -1,0 +1,10 @@
+id: mini-conferencing-pc
+vendor_id: hp
+name: Mini Conferencing Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mini_conferencing_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mini_conferencing_pc
+  confidence: auto

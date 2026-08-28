@@ -1,0 +1,10 @@
+id: stm32l475vc
+vendor_id: st
+name: Stm32L475Vc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l475vc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l475vc
+  confidence: auto

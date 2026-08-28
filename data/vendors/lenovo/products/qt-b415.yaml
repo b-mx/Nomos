@@ -1,0 +1,10 @@
+id: qt-b415
+vendor_id: lenovo
+name: Qt B415
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:qt_b415:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qt_b415
+  confidence: auto

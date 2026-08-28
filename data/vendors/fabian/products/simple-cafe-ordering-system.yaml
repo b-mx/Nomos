@@ -1,0 +1,10 @@
+id: simple-cafe-ordering-system
+vendor_id: fabian
+name: Simple Cafe Ordering System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_cafe_ordering_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_cafe_ordering_system
+  confidence: auto

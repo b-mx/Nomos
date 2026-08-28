@@ -1,0 +1,10 @@
+id: rtretrievalframework
+vendor_id: nasa
+name: Rtretrievalframework
+type: software
+tags: []
+cpe: cpe:2.3:a:nasa:rtretrievalframework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtretrievalframework
+  confidence: auto

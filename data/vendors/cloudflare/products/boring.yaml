@@ -1,0 +1,10 @@
+id: boring
+vendor_id: cloudflare
+name: Boring
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:boring:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: boring
+  confidence: auto

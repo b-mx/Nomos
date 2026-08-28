@@ -1,0 +1,10 @@
+id: spring-security-oauth
+vendor_id: pivotal-software
+name: Spring Security Oauth
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:spring_security_oauth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spring_security_oauth
+  confidence: auto

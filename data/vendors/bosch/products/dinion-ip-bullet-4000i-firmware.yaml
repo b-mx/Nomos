@@ -1,0 +1,10 @@
+id: dinion-ip-bullet-4000i-firmware
+vendor_id: bosch
+name: Dinion Ip Bullet 4000I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:dinion_ip_bullet_4000i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_ip_bullet_4000i_firmware
+  confidence: auto

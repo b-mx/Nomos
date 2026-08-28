@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--fedora-core",
+  "vendor_id": "fedoraproject",
+  "product_id": "fedora-core",
+  "name": "Fedora Core",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fedora_core",
+      "confidence": "auto"
+    }
+  ]
+}

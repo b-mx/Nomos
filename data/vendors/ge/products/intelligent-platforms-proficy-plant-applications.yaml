@@ -1,0 +1,10 @@
+id: intelligent-platforms-proficy-plant-applications
+vendor_id: ge
+name: Intelligent Platforms Proficy Plant Applications
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:intelligent_platforms_proficy_plant_applications:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_platforms_proficy_plant_applications
+  confidence: auto

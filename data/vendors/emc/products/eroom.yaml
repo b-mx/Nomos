@@ -1,0 +1,10 @@
+id: eroom
+vendor_id: emc
+name: Eroom
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:eroom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eroom
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lux-64-firmware
+vendor_id: binatoneglobal
+name: Lux 64 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:lux_64_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lux_64_firmware
+  confidence: auto

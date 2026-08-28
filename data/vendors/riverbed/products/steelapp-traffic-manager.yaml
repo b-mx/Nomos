@@ -1,0 +1,10 @@
+id: steelapp-traffic-manager
+vendor_id: riverbed
+name: Steelapp Traffic Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:riverbed:steelapp_traffic_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: steelapp_traffic_manager
+  confidence: auto

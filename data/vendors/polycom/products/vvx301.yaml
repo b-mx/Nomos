@@ -1,0 +1,10 @@
+id: vvx301
+vendor_id: polycom
+name: Vvx301
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx301:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx301
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "protocol--libp2p",
+  "vendor_id": "protocol",
+  "product_id": "libp2p",
+  "name": "Libp2P",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libp2p",
+      "confidence": "auto"
+    }
+  ]
+}

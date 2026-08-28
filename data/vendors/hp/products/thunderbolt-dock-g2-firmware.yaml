@@ -1,0 +1,10 @@
+id: thunderbolt-dock-g2-firmware
+vendor_id: hp
+name: Thunderbolt Dock G2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:thunderbolt_dock_g2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thunderbolt_dock_g2_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sales-management-system
+vendor_id: codezips
+name: Sales Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:codezips:sales_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sales_management_system
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pgp--corporate-desktop",
+  "vendor_id": "pgp",
+  "product_id": "corporate-desktop",
+  "name": "Corporate Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "corporate_desktop",
+      "confidence": "auto"
+    }
+  ]
+}

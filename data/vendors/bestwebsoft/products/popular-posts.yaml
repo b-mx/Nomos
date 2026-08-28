@@ -1,0 +1,10 @@
+id: popular-posts
+vendor_id: bestwebsoft
+name: Popular Posts
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:popular_posts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: popular_posts
+  confidence: auto

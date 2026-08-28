@@ -1,0 +1,10 @@
+id: wanderland
+vendor_id: qodeinteractive
+name: Wanderland
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:wanderland:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wanderland
+  confidence: auto

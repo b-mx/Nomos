@@ -1,0 +1,10 @@
+id: uc-4454a-t-5g-firmware
+vendor_id: moxa
+name: Uc-4454A-T-5G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-4454a\-t\-5g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-4454a-t-5g_firmware
+  confidence: auto

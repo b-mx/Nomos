@@ -1,0 +1,7 @@
+id: seagate
+name: Seagate
+cpe: cpe:2.3:*:seagate:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seagate
+  confidence: auto

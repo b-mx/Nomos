@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--alice-6-firmware",
+  "vendor_id": "philips",
+  "product_id": "alice-6-firmware",
+  "name": "Alice 6 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alice_6_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

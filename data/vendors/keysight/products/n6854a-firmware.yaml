@@ -1,0 +1,10 @@
+id: n6854a-firmware
+vendor_id: keysight
+name: N6854A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:keysight:n6854a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n6854a_firmware
+  confidence: auto

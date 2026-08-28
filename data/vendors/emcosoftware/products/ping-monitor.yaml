@@ -1,0 +1,10 @@
+id: ping-monitor
+vendor_id: emcosoftware
+name: Ping Monitor
+type: software
+tags: []
+cpe: cpe:2.3:a:emcosoftware:ping_monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ping_monitor
+  confidence: auto

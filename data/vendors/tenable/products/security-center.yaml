@@ -1,0 +1,10 @@
+id: security-center
+vendor_id: tenable
+name: Security Center
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:security_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: security_center
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rt-12n
+vendor_id: especmic
+name: Rt-12N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:especmic:rt\-12n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-12n
+  confidence: auto

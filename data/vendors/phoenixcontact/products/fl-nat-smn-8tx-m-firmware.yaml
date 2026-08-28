@@ -1,0 +1,10 @@
+id: fl-nat-smn-8tx-m-firmware
+vendor_id: phoenixcontact
+name: Fl Nat Smn 8Tx-M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fl_nat_smn_8tx\-m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_nat_smn_8tx-m_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: yacht-listing-script
+vendor_id: phpjabbers
+name: Yacht Listing Script
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:yacht_listing_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yacht_listing_script
+  confidence: auto

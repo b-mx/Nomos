@@ -1,0 +1,10 @@
+id: foton
+vendor_id: qodeinteractive
+name: Foton
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:foton:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foton
+  confidence: auto

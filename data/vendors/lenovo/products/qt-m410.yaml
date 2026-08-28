@@ -1,0 +1,10 @@
+id: qt-m410
+vendor_id: lenovo
+name: Qt M410
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:qt_m410:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qt_m410
+  confidence: auto

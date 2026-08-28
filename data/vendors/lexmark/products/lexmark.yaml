@@ -1,0 +1,10 @@
+id: lexmark
+vendor_id: lexmark
+name: Lexmark
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:lexmark:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lexmark
+  confidence: auto

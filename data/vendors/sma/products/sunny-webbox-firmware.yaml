@@ -1,0 +1,10 @@
+id: sunny-webbox-firmware
+vendor_id: sma
+name: Sunny Webbox Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sma:sunny_webbox_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_webbox_firmware
+  confidence: auto

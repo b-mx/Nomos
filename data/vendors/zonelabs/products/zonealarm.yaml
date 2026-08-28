@@ -1,0 +1,10 @@
+id: zonealarm
+vendor_id: zonelabs
+name: Zonealarm
+type: software
+tags: []
+cpe: cpe:2.3:a:zonelabs:zonealarm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zonealarm
+  confidence: auto

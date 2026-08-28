@@ -1,0 +1,10 @@
+id: thinkpad-yoga-370
+vendor_id: lenovo
+name: Thinkpad Yoga 370
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_yoga_370:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_yoga_370
+  confidence: auto

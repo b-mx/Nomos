@@ -1,0 +1,7 @@
+id: openpolicyagent
+name: Openpolicyagent
+cpe: cpe:2.3:*:openpolicyagent:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openpolicyagent
+  confidence: auto

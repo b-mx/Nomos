@@ -1,0 +1,10 @@
+id: vp9660
+vendor_id: huawei
+name: Vp9660
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:vp9660:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vp9660
+  confidence: auto

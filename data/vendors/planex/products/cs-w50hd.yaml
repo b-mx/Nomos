@@ -1,0 +1,10 @@
+id: cs-w50hd
+vendor_id: planex
+name: Cs-W50Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:planex:cs\-w50hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs-w50hd
+  confidence: auto

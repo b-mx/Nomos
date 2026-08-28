@@ -1,0 +1,10 @@
+id: protouch-icon
+vendor_id: pdqinc
+name: Protouch Icon
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pdqinc:protouch_icon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protouch_icon
+  confidence: auto

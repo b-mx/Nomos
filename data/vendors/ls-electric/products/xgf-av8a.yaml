@@ -1,0 +1,10 @@
+id: xgf-av8a
+vendor_id: ls-electric
+name: Xgf-Av8A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xgf\-av8a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgf-av8a
+  confidence: auto

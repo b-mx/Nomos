@@ -1,0 +1,10 @@
+id: sunny-tripower-60
+vendor_id: sma
+name: Sunny Tripower 60
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sma:sunny_tripower_60:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_tripower_60
+  confidence: auto

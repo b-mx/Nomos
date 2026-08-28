@@ -1,0 +1,10 @@
+id: classic-racer
+vendor_id: pocketmags
+name: Classic Racer
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:classic_racer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: classic_racer
+  confidence: auto

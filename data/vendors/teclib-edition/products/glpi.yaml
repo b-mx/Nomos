@@ -1,0 +1,10 @@
+id: glpi
+vendor_id: teclib-edition
+name: Glpi
+type: software
+tags: []
+cpe: cpe:2.3:a:teclib\-edition:glpi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: glpi
+  confidence: auto

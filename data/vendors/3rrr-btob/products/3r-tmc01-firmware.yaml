@@ -1,0 +1,10 @@
+id: 3r-tmc01-firmware
+vendor_id: 3rrr-btob
+name: 3R-Tmc01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:3rrr\-btob:3r\-tmc01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3r-tmc01_firmware
+  confidence: auto

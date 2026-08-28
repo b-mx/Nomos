@@ -1,0 +1,10 @@
+id: goat-g1-firmware
+vendor_id: ecovacs
+name: Goat G1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ecovacs:goat_g1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: goat_g1_firmware
+  confidence: auto

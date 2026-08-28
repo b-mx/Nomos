@@ -1,0 +1,10 @@
+id: debian-goodies
+vendor_id: debian
+name: Debian-Goodies
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:debian\-goodies:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: debian-goodies
+  confidence: auto

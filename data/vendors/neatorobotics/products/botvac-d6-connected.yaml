@@ -1,0 +1,10 @@
+id: botvac-d6-connected
+vendor_id: neatorobotics
+name: Botvac D6 Connected
+type: hardware
+tags: []
+cpe: cpe:2.3:h:neatorobotics:botvac_d6_connected:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: botvac_d6_connected
+  confidence: auto

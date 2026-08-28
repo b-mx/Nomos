@@ -1,0 +1,10 @@
+id: safeguard
+vendor_id: avg
+name: Safeguard
+type: software
+tags: []
+cpe: cpe:2.3:a:avg:safeguard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safeguard
+  confidence: auto

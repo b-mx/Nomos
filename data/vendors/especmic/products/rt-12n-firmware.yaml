@@ -1,0 +1,10 @@
+id: rt-12n-firmware
+vendor_id: especmic
+name: Rt-12N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:especmic:rt\-12n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-12n_firmware
+  confidence: auto

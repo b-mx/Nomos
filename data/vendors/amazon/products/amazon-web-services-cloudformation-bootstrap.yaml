@@ -1,0 +1,10 @@
+id: amazon-web-services-cloudformation-bootstrap
+vendor_id: amazon
+name: Amazon Web Services Cloudformation Bootstrap
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:amazon_web_services_cloudformation_bootstrap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_web_services_cloudformation_bootstrap
+  confidence: auto

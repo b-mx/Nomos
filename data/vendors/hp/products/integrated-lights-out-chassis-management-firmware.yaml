@@ -1,0 +1,10 @@
+id: integrated-lights-out-chassis-management-firmware
+vendor_id: hp
+name: Integrated Lights-Out Chassis Management Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:integrated_lights\-out_chassis_management_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_lights-out_chassis_management_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e2500
+vendor_id: linksys
+name: E2500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:e2500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e2500
+  confidence: auto

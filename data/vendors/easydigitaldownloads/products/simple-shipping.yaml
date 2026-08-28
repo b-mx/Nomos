@@ -1,0 +1,10 @@
+id: simple-shipping
+vendor_id: easydigitaldownloads
+name: Simple Shipping
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:simple_shipping:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_shipping
+  confidence: auto

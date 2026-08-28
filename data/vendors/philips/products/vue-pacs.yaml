@@ -1,0 +1,10 @@
+id: vue-pacs
+vendor_id: philips
+name: Vue Pacs
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:vue_pacs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vue_pacs
+  confidence: auto

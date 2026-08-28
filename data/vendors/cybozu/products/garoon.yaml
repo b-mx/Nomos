@@ -1,0 +1,10 @@
+id: garoon
+vendor_id: cybozu
+name: Garoon
+type: software
+tags: []
+cpe: cpe:2.3:a:cybozu:garoon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: garoon
+  confidence: auto

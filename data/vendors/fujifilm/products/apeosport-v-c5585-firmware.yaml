@@ -1,0 +1,10 @@
+id: apeosport-v-c5585-firmware
+vendor_id: fujifilm
+name: Apeosport-V C5585 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:apeosport\-v_c5585_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport-v_c5585_firmware
+  confidence: auto

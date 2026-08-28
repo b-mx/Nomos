@@ -1,0 +1,10 @@
+id: control-id-rhid
+vendor_id: assaabloy
+name: Control Id Rhid
+type: software
+tags: []
+cpe: cpe:2.3:a:assaabloy:control_id_rhid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_id_rhid
+  confidence: auto

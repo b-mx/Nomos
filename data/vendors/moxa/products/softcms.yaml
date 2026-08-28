@@ -1,0 +1,10 @@
+id: softcms
+vendor_id: moxa
+name: Softcms
+type: software
+tags: []
+cpe: cpe:2.3:a:moxa:softcms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softcms
+  confidence: auto

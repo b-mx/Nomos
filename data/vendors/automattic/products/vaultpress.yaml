@@ -1,0 +1,10 @@
+id: vaultpress
+vendor_id: automattic
+name: Vaultpress
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:vaultpress:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vaultpress
+  confidence: auto

@@ -1,0 +1,10 @@
+id: onboard-administrator
+vendor_id: hp
+name: Onboard Administrator
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:onboard_administrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: onboard_administrator
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microsoft--client-server-run-time-subsystem-csrss",
+  "vendor_id": "microsoft",
+  "product_id": "client-server-run-time-subsystem-csrss",
+  "name": "Client-Server Run-time Subsystem (CSRSS)",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Client-Server Run-time Subsystem (CSRSS)",
+      "confidence": "auto"
+    }
+  ]
+}

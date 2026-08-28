@@ -1,0 +1,10 @@
+id: mx-4070n-a
+vendor_id: sharp
+name: Mx-4070N A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-4070n_a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-4070n_a
+  confidence: auto

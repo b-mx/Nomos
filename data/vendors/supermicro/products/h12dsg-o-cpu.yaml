@@ -1,0 +1,10 @@
+id: h12dsg-o-cpu
+vendor_id: supermicro
+name: H12Dsg-O-Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h12dsg\-o\-cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12dsg-o-cpu
+  confidence: auto

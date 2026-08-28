@@ -1,0 +1,10 @@
+id: firewall-analyzer
+vendor_id: zohocorp
+name: Firewall Analyzer
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:firewall_analyzer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: firewall_analyzer
+  confidence: auto

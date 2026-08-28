@@ -1,0 +1,10 @@
+id: officejet-pro-7745-t1p99a-firmware
+vendor_id: hp
+name: Officejet Pro 7745 T1P99A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_pro_7745_t1p99a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_7745_t1p99a_firmware
+  confidence: auto

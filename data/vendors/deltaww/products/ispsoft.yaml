@@ -1,0 +1,10 @@
+id: ispsoft
+vendor_id: deltaww
+name: Ispsoft
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:ispsoft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ispsoft
+  confidence: auto

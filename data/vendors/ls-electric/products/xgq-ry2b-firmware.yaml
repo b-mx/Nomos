@@ -1,0 +1,10 @@
+id: xgq-ry2b-firmware
+vendor_id: ls-electric
+name: Xgq-Ry2B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgq\-ry2b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgq-ry2b_firmware
+  confidence: auto

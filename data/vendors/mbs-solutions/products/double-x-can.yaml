@@ -1,0 +1,10 @@
+id: double-x-can
+vendor_id: mbs-solutions
+name: Double-X Can
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:double\-x_can:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: double-x_can
+  confidence: auto

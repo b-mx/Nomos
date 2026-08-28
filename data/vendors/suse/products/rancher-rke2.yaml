@@ -1,0 +1,10 @@
+id: rancher-rke2
+vendor_id: suse
+name: Rancher Rke2
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:rancher_rke2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rancher_rke2
+  confidence: auto

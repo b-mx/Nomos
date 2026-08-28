@@ -1,0 +1,10 @@
+id: devtools
+vendor_id: nuxt
+name: Devtools
+type: software
+tags: []
+cpe: cpe:2.3:a:nuxt:devtools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: devtools
+  confidence: auto

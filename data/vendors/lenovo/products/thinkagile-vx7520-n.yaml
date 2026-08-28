@@ -1,0 +1,10 @@
+id: thinkagile-vx7520-n
+vendor_id: lenovo
+name: Thinkagile Vx7520-N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_vx7520\-n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_vx7520-n
+  confidence: auto

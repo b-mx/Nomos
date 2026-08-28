@@ -1,0 +1,10 @@
+id: r700-laser-presentation-remote
+vendor_id: logitech
+name: R700 Laser Presentation Remote
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:r700_laser_presentation_remote:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r700_laser_presentation_remote
+  confidence: auto

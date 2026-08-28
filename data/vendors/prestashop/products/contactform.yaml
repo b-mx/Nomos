@@ -1,0 +1,10 @@
+id: contactform
+vendor_id: prestashop
+name: Contactform
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:contactform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contactform
+  confidence: auto

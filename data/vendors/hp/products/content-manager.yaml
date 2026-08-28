@@ -1,0 +1,10 @@
+id: content-manager
+vendor_id: hp
+name: Content Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:content_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: content_manager
+  confidence: auto

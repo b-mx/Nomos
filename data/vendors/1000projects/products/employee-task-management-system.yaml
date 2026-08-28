@@ -1,0 +1,10 @@
+id: employee-task-management-system
+vendor_id: 1000projects
+name: Employee Task Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:1000projects:employee_task_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: employee_task_management_system
+  confidence: auto

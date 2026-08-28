@@ -1,0 +1,10 @@
+id: embedded-target-visu-toolkit
+vendor_id: codesys
+name: Embedded Target Visu Toolkit
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:embedded_target_visu_toolkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: embedded_target_visu_toolkit
+  confidence: auto

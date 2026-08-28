@@ -1,0 +1,10 @@
+id: x12dhm-6
+vendor_id: supermicro
+name: X12Dhm-6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12dhm\-6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dhm-6
+  confidence: auto

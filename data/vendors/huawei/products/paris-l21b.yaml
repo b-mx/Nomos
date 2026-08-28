@@ -1,0 +1,10 @@
+id: paris-l21b
+vendor_id: huawei
+name: Paris-L21B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:paris\-l21b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paris-l21b
+  confidence: auto

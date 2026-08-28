@@ -1,0 +1,10 @@
+id: wer-ag54
+vendor_id: buffalo
+name: Wer-Ag54
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wer\-ag54:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wer-ag54
+  confidence: auto

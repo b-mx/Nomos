@@ -1,0 +1,10 @@
+id: classified
+vendor_id: jextn
+name: Classified
+type: software
+tags: []
+cpe: cpe:2.3:a:jextn:classified:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: classified
+  confidence: auto

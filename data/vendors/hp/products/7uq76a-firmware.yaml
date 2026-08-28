@@ -1,0 +1,10 @@
+id: 7uq76a-firmware
+vendor_id: hp
+name: 7Uq76A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:7uq76a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 7uq76a_firmware
+  confidence: auto

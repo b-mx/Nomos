@@ -1,0 +1,10 @@
+id: k7c84
+vendor_id: hp
+name: K7C84
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k7c84:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7c84
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 280-pro-g1-firmware
+vendor_id: hp
+name: 280 Pro G1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:280_pro_g1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 280_pro_g1_firmware
+  confidence: auto

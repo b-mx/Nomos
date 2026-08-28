@@ -1,0 +1,10 @@
+id: software-for-open-networking-in-the-cloud
+vendor_id: linuxfoundation
+name: Software For Open Networking In The Cloud
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:software_for_open_networking_in_the_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: software_for_open_networking_in_the_cloud
+  confidence: auto

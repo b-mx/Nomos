@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--max-on-the-go-firmware",
+  "vendor_id": "peplink",
+  "product_id": "max-on-the-go-firmware",
+  "name": "Max On-The-Go Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "max_on-the-go_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

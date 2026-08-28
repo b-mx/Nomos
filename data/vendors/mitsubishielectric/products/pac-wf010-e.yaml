@@ -1,0 +1,10 @@
+id: pac-wf010-e
+vendor_id: mitsubishielectric
+name: Pac-Wf010-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:pac\-wf010\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pac-wf010-e
+  confidence: auto

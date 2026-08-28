@@ -1,0 +1,10 @@
+id: dosewise
+vendor_id: philips
+name: Dosewise
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:dosewise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dosewise
+  confidence: auto

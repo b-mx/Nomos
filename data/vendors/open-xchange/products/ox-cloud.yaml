@@ -1,0 +1,10 @@
+id: ox-cloud
+vendor_id: open-xchange
+name: Ox Cloud
+type: software
+tags: []
+cpe: cpe:2.3:a:open\-xchange:ox_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ox_cloud
+  confidence: auto

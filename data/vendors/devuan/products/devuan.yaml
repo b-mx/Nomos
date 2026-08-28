@@ -1,0 +1,9 @@
+id: devuan
+vendor_id: devuan
+name: Devuan
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: devuan
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--avamar-data-store",
+  "vendor_id": "emc",
+  "product_id": "avamar-data-store",
+  "name": "Avamar Data Store",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "avamar_data_store",
+      "confidence": "auto"
+    }
+  ]
+}

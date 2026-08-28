@@ -1,0 +1,10 @@
+id: osca-550
+vendor_id: huawei
+name: Osca-550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:osca\-550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: osca-550
+  confidence: auto

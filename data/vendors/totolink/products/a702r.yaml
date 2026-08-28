@@ -1,0 +1,10 @@
+id: a702r
+vendor_id: totolink
+name: A702R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a702r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a702r
+  confidence: auto

@@ -1,0 +1,10 @@
+id: yale-keyless-smart-lock
+vendor_id: assaabloy
+name: Yale Keyless Smart Lock
+type: hardware
+tags: []
+cpe: cpe:2.3:h:assaabloy:yale_keyless_smart_lock:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale_keyless_smart_lock
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ht-menu
+vendor_id: hasthemes
+name: Ht Menu
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:ht_menu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ht_menu
+  confidence: auto

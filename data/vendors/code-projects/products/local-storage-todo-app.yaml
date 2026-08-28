@@ -1,0 +1,10 @@
+id: local-storage-todo-app
+vendor_id: code-projects
+name: Local Storage Todo App
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:local_storage_todo_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: local_storage_todo_app
+  confidence: auto

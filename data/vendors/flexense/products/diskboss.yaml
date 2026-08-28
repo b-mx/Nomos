@@ -1,0 +1,10 @@
+id: diskboss
+vendor_id: flexense
+name: Diskboss
+type: software
+tags: []
+cpe: cpe:2.3:a:flexense:diskboss:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diskboss
+  confidence: auto

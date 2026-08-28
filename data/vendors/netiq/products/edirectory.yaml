@@ -1,0 +1,10 @@
+id: edirectory
+vendor_id: netiq
+name: Edirectory
+type: software
+tags: []
+cpe: cpe:2.3:a:netiq:edirectory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edirectory
+  confidence: auto

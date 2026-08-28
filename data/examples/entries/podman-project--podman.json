@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "podman-project--podman",
+  "vendor_id": "podman-project",
+  "product_id": "podman",
+  "name": "Podman",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "podman",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "podman",
+      "confidence": "auto"
+    }
+  ]
+}

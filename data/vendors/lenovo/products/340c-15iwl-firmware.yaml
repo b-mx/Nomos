@@ -1,0 +1,10 @@
+id: 340c-15iwl-firmware
+vendor_id: lenovo
+name: 340C-15Iwl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:340c\-15iwl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 340c-15iwl_firmware
+  confidence: auto

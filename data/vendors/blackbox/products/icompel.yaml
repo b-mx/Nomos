@@ -1,0 +1,10 @@
+id: icompel
+vendor_id: blackbox
+name: Icompel
+type: hardware
+tags: []
+cpe: cpe:2.3:h:blackbox:icompel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icompel
+  confidence: auto

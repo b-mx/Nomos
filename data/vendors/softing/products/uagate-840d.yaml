@@ -1,0 +1,10 @@
+id: uagate-840d
+vendor_id: softing
+name: Uagate 840D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softing:uagate_840d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uagate_840d
+  confidence: auto

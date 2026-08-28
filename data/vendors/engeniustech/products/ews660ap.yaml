@@ -1,0 +1,10 @@
+id: ews660ap
+vendor_id: engeniustech
+name: Ews660Ap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:engeniustech:ews660ap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ews660ap
+  confidence: auto

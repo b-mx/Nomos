@@ -1,0 +1,10 @@
+id: open-distro
+vendor_id: amazon
+name: Open Distro
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:open_distro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_distro
+  confidence: auto

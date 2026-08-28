@@ -1,0 +1,13 @@
+id: opensuse
+vendor_id: opensuse
+name: openSUSE
+type: os
+tags: []
+cpe: cpe:2.3:o:opensuse:opensuse:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: opensuse
+  confidence: auto
+- source: nvd
+  value: opensuse
+  confidence: auto

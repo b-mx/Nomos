@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bouncycastle--bcjmail-fips",
+  "vendor_id": "bouncycastle",
+  "product_id": "bcjmail-fips",
+  "name": "Bcjmail-Fips",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bcjmail-fips",
+      "confidence": "auto"
+    }
+  ]
+}

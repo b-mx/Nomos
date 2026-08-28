@@ -1,0 +1,10 @@
+id: uc-2222a-t
+vendor_id: moxa
+name: Uc-2222A-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:uc\-2222a\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-2222a-t
+  confidence: auto

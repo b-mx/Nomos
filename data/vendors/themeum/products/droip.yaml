@@ -1,0 +1,10 @@
+id: droip
+vendor_id: themeum
+name: Droip
+type: software
+tags: []
+cpe: cpe:2.3:a:themeum:droip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: droip
+  confidence: auto

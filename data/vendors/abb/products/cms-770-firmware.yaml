@@ -1,0 +1,10 @@
+id: cms-770-firmware
+vendor_id: abb
+name: Cms-770 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:cms\-770_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cms-770_firmware
+  confidence: auto

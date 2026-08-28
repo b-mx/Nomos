@@ -1,0 +1,10 @@
+id: sim4000
+vendor_id: sick
+name: Sim4000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:sim4000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim4000
+  confidence: auto

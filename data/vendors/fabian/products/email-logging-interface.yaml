@@ -1,0 +1,10 @@
+id: email-logging-interface
+vendor_id: fabian
+name: Email Logging Interface
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:email_logging_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: email_logging_interface
+  confidence: auto

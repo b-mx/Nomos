@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kaspersky--protection",
+  "vendor_id": "kaspersky",
+  "product_id": "protection",
+  "name": "Protection",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "protection",
+      "confidence": "auto"
+    }
+  ]
+}

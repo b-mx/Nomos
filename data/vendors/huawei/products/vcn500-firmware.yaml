@@ -1,0 +1,10 @@
+id: vcn500-firmware
+vendor_id: huawei
+name: Vcn500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:vcn500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vcn500_firmware
+  confidence: auto

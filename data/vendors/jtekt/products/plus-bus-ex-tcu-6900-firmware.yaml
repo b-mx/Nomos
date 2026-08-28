@@ -1,0 +1,10 @@
+id: plus-bus-ex-tcu-6900-firmware
+vendor_id: jtekt
+name: Plus Bus-Ex Tcu-6900 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:plus_bus\-ex_tcu\-6900_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plus_bus-ex_tcu-6900_firmware
+  confidence: auto

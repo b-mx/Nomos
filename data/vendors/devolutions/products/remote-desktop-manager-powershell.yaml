@@ -1,0 +1,10 @@
+id: remote-desktop-manager-powershell
+vendor_id: devolutions
+name: Remote Desktop Manager Powershell
+type: software
+tags: []
+cpe: cpe:2.3:a:devolutions:remote_desktop_manager_powershell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_desktop_manager_powershell
+  confidence: auto

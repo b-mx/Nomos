@@ -1,0 +1,10 @@
+id: smart-firmware
+vendor_id: iptime
+name: Smart Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:smart_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: container-runtime
+vendor_id: cloudfoundry
+name: Container Runtime
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:container_runtime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: container_runtime
+  confidence: auto

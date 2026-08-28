@@ -1,0 +1,10 @@
+id: hirschmann-octopus-os3x-xx16xxx
+vendor_id: belden
+name: Hirschmann Octopus Os3X-Xx16Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_octopus_os3x\-xx16xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_octopus_os3x-xx16xxx
+  confidence: auto

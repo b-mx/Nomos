@@ -1,0 +1,10 @@
+id: wi-mgr
+vendor_id: rletech
+name: Wi-Mgr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rletech:wi\-mgr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wi-mgr
+  confidence: auto

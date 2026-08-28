@@ -1,0 +1,10 @@
+id: si-r-g211
+vendor_id: fujitsu
+name: Si-R G211
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:si\-r_g211:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: si-r_g211
+  confidence: auto

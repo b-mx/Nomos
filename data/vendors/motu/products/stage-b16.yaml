@@ -1,0 +1,10 @@
+id: stage-b16
+vendor_id: motu
+name: Stage-B16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:stage\-b16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stage-b16
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vibe-a3800-d
+vendor_id: lenovo
+name: Vibe A3800-D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:vibe_a3800\-d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vibe_a3800-d
+  confidence: auto

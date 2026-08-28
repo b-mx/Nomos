@@ -1,0 +1,10 @@
+id: qnx-os-for-safety
+vendor_id: blackberry
+name: Qnx Os For Safety
+type: os
+tags: []
+cpe: cpe:2.3:o:blackberry:qnx_os_for_safety:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnx_os_for_safety
+  confidence: auto

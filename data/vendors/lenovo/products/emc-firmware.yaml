@@ -1,0 +1,10 @@
+id: emc-firmware
+vendor_id: lenovo
+name: Emc Firmware
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:emc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emc_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkfree-office-neo
+vendor_id: hancom
+name: Thinkfree Office Neo
+type: software
+tags: []
+cpe: cpe:2.3:a:hancom:thinkfree_office_neo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkfree_office_neo
+  confidence: auto

@@ -1,0 +1,10 @@
+id: foomatic-filters
+vendor_id: linuxfoundation
+name: Foomatic-Filters
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:foomatic\-filters:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foomatic-filters
+  confidence: auto

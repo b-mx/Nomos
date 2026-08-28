@@ -1,0 +1,10 @@
+id: animal-crossing-new-horizons
+vendor_id: nintendo
+name: 'Animal Crossing: New Horizons'
+type: software
+tags: []
+cpe: cpe:2.3:a:nintendo:animal_crossing\:_new_horizons:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: animal_crossing:_new_horizons
+  confidence: auto

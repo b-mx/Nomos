@@ -1,0 +1,10 @@
+id: biovia-materials-studio
+vendor_id: 3ds
+name: Biovia Materials Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:3ds:biovia_materials_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biovia_materials_studio
+  confidence: auto

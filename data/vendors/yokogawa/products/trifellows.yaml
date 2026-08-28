@@ -1,0 +1,10 @@
+id: trifellows
+vendor_id: yokogawa
+name: Trifellows
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:trifellows:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trifellows
+  confidence: auto

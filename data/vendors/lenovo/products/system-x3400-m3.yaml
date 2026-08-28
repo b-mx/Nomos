@@ -1,0 +1,10 @@
+id: system-x3400-m3
+vendor_id: lenovo
+name: System X3400 M3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:system_x3400_m3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_x3400_m3
+  confidence: auto

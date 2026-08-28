@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--external-provisioner",
+  "vendor_id": "kubernetes",
+  "product_id": "external-provisioner",
+  "name": "External-Provisioner",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "external-provisioner",
+      "confidence": "auto"
+    }
+  ]
+}

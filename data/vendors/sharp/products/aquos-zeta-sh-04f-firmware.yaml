@@ -1,0 +1,10 @@
+id: aquos-zeta-sh-04f-firmware
+vendor_id: sharp
+name: Aquos Zeta Sh-04F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:aquos_zeta_sh\-04f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_zeta_sh-04f_firmware
+  confidence: auto

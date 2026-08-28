@@ -1,0 +1,10 @@
+id: air-4920
+vendor_id: airties
+name: Air 4920
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airties:air_4920:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air_4920
+  confidence: auto

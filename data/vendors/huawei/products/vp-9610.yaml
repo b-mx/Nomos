@@ -1,0 +1,10 @@
+id: vp-9610
+vendor_id: huawei
+name: Vp 9610
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:vp_9610:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vp_9610
+  confidence: auto

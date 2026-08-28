@@ -1,0 +1,10 @@
+id: ex1200t
+vendor_id: totolink
+name: Ex1200T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:ex1200t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex1200t
+  confidence: auto

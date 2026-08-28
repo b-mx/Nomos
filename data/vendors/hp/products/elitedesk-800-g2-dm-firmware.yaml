@@ -1,0 +1,10 @@
+id: elitedesk-800-g2-dm-firmware
+vendor_id: hp
+name: Elitedesk 800 G2 Dm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitedesk_800_g2_dm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitedesk_800_g2_dm_firmware
+  confidence: auto

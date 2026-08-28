@@ -1,0 +1,10 @@
+id: jetnet-6828gf-2dc48-firmware
+vendor_id: korenix
+name: Jetnet 6828Gf-2Dc48 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetnet_6828gf\-2dc48_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_6828gf-2dc48_firmware
+  confidence: auto

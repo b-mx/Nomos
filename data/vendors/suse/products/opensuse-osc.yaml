@@ -1,0 +1,10 @@
+id: opensuse-osc
+vendor_id: suse
+name: Opensuse Osc
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:opensuse_osc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensuse_osc
+  confidence: auto

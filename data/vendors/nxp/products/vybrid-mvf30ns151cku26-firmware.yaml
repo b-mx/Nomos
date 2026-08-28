@@ -1,0 +1,10 @@
+id: vybrid-mvf30ns151cku26-firmware
+vendor_id: nxp
+name: Vybrid Mvf30Ns151Cku26 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:vybrid_mvf30ns151cku26_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vybrid_mvf30ns151cku26_firmware
+  confidence: auto

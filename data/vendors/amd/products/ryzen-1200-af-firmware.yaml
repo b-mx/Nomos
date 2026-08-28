@@ -1,0 +1,10 @@
+id: ryzen-1200-af-firmware
+vendor_id: amd
+name: Ryzen 1200 (Af) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_1200_\(af\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_1200_(af)_firmware
+  confidence: auto

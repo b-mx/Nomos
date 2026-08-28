@@ -1,0 +1,10 @@
+id: hl-t4000dw-firmware
+vendor_id: brother
+name: Hl-T4000Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:hl\-t4000dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hl-t4000dw_firmware
+  confidence: auto

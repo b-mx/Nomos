@@ -1,0 +1,10 @@
+id: poly-ccx-700
+vendor_id: zoom
+name: Poly Ccx 700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zoom:poly_ccx_700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_ccx_700
+  confidence: auto

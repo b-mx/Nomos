@@ -1,0 +1,10 @@
+id: budget-management
+vendor_id: code-projects
+name: Budget Management
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:budget_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: budget_management
+  confidence: auto

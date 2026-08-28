@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "openpolicyagent",
+  "vendor_id": "openpolicyagent",
+  "name": "Openpolicyagent",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openpolicyagent",
+      "confidence": "auto"
+    }
+  ]
+}

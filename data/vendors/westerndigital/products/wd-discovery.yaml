@@ -1,0 +1,10 @@
+id: wd-discovery
+vendor_id: westerndigital
+name: Wd Discovery
+type: software
+tags: []
+cpe: cpe:2.3:a:westerndigital:wd_discovery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wd_discovery
+  confidence: auto

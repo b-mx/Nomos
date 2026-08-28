@@ -1,0 +1,10 @@
+id: opera-mail
+vendor_id: opera
+name: Opera Mail
+type: software
+tags: []
+cpe: cpe:2.3:a:opera:opera_mail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opera_mail
+  confidence: auto

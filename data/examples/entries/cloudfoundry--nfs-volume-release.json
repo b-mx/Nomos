@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--nfs-volume-release",
+  "vendor_id": "cloudfoundry",
+  "product_id": "nfs-volume-release",
+  "name": "Nfs Volume Release",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nfs_volume_release",
+      "confidence": "auto"
+    }
+  ]
+}

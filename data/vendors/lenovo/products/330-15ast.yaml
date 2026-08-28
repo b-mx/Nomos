@@ -1,0 +1,10 @@
+id: 330-15ast
+vendor_id: lenovo
+name: 330-15Ast
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:330\-15ast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 330-15ast
+  confidence: auto

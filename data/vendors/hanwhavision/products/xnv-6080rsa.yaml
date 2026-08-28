@@ -1,0 +1,10 @@
+id: xnv-6080rsa
+vendor_id: hanwhavision
+name: Xnv-6080Rsa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-6080rsa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-6080rsa
+  confidence: auto

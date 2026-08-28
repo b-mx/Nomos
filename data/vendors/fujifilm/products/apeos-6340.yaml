@@ -1,0 +1,10 @@
+id: apeos-6340
+vendor_id: fujifilm
+name: Apeos 6340
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_6340:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_6340
+  confidence: auto

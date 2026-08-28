@@ -1,0 +1,10 @@
+id: osca-550-firmware
+vendor_id: huawei
+name: Osca-550 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:osca\-550_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: osca-550_firmware
+  confidence: auto

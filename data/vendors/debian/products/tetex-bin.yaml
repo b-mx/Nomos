@@ -1,0 +1,10 @@
+id: tetex-bin
+vendor_id: debian
+name: Tetex-Bin
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:tetex\-bin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tetex-bin
+  confidence: auto

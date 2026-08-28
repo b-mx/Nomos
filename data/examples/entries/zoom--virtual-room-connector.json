@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zoom--virtual-room-connector",
+  "vendor_id": "zoom",
+  "product_id": "virtual-room-connector",
+  "name": "Virtual Room Connector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "virtual_room_connector",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: realarcade-installer
+vendor_id: realnetworks
+name: Realarcade Installer
+type: software
+tags: []
+cpe: cpe:2.3:a:realnetworks:realarcade_installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realarcade_installer
+  confidence: auto

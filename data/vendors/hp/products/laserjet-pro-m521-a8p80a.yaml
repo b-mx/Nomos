@@ -1,0 +1,10 @@
+id: laserjet-pro-m521-a8p80a
+vendor_id: hp
+name: Laserjet Pro M521 A8P80A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m521_a8p80a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m521_a8p80a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jd332a
+vendor_id: hp
+name: Jd332A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd332a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd332a
+  confidence: auto

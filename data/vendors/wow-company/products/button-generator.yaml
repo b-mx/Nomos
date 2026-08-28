@@ -1,0 +1,10 @@
+id: button-generator
+vendor_id: wow-company
+name: Button Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:button_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: button_generator
+  confidence: auto

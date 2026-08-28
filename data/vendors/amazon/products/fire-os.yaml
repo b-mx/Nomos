@@ -1,0 +1,10 @@
+id: fire-os
+vendor_id: amazon
+name: Fire Os
+type: os
+tags: []
+cpe: cpe:2.3:o:amazon:fire_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fire_os
+  confidence: auto

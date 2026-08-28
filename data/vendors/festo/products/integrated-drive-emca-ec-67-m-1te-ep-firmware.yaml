@@ -1,0 +1,10 @@
+id: integrated-drive-emca-ec-67-m-1te-ep-firmware
+vendor_id: festo
+name: Integrated Drive Emca-Ec-67-M-1Te-Ep Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:integrated_drive_emca\-ec\-67\-m\-1te\-ep_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_drive_emca-ec-67-m-1te-ep_firmware
+  confidence: auto

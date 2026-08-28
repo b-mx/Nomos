@@ -1,0 +1,10 @@
+id: websense-content-content-gateway
+vendor_id: websense
+name: Websense Content Content Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:websense:websense_content_content_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: websense_content_content_gateway
+  confidence: auto

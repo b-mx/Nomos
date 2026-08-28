@@ -1,0 +1,10 @@
+id: b9drg-e
+vendor_id: supermicro
+name: B9Drg-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b9drg\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b9drg-e
+  confidence: auto

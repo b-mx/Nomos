@@ -1,0 +1,10 @@
+id: email-and-server-security
+vendor_id: f-secure
+name: Email And Server Security
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:email_and_server_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: email_and_server_security
+  confidence: auto

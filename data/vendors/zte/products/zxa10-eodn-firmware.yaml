@@ -1,0 +1,10 @@
+id: zxa10-eodn-firmware
+vendor_id: zte
+name: Zxa10 Eodn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxa10_eodn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxa10_eodn_firmware
+  confidence: auto

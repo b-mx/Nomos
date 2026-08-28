@@ -1,0 +1,10 @@
+id: wf-2750
+vendor_id: epson
+name: Wf-2750
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:wf\-2750:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wf-2750
+  confidence: auto

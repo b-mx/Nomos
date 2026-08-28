@@ -1,0 +1,10 @@
+id: openenterprise-scada-server
+vendor_id: emerson
+name: Openenterprise Scada Server
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:openenterprise_scada_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openenterprise_scada_server
+  confidence: auto

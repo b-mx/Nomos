@@ -1,0 +1,10 @@
+id: grilo
+vendor_id: gnome
+name: Grilo
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:grilo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: grilo
+  confidence: auto

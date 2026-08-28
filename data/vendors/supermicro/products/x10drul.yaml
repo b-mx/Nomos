@@ -1,0 +1,10 @@
+id: x10drul
+vendor_id: supermicro
+name: X10Drul
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10drul:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drul
+  confidence: auto

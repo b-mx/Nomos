@@ -1,0 +1,10 @@
+id: symfony
+vendor_id: auth0
+name: Symfony
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:symfony:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symfony
+  confidence: auto

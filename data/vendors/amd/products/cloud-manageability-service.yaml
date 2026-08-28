@@ -1,0 +1,10 @@
+id: cloud-manageability-service
+vendor_id: amd
+name: Cloud Manageability Service
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:cloud_manageability_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_manageability_service
+  confidence: auto

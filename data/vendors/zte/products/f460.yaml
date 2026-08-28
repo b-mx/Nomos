@@ -1,0 +1,10 @@
+id: f460
+vendor_id: zte
+name: F460
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:f460:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f460
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--mirage-firewall",
+  "vendor_id": "linuxfoundation",
+  "product_id": "mirage-firewall",
+  "name": "Mirage Firewall",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mirage_firewall",
+      "confidence": "auto"
+    }
+  ]
+}

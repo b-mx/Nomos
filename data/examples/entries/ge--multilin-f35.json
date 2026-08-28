@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--multilin-f35",
+  "vendor_id": "ge",
+  "product_id": "multilin-f35",
+  "name": "Multilin F35",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "multilin_f35",
+      "confidence": "auto"
+    }
+  ]
+}

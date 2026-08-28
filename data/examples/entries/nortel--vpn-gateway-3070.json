@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nortel--vpn-gateway-3070",
+  "vendor_id": "nortel",
+  "product_id": "vpn-gateway-3070",
+  "name": "Vpn Gateway 3070",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vpn_gateway_3070",
+      "confidence": "auto"
+    }
+  ]
+}

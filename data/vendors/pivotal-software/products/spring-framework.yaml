@@ -1,0 +1,10 @@
+id: spring-framework
+vendor_id: pivotal-software
+name: Spring Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:spring_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spring_framework
+  confidence: auto

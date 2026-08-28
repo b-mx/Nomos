@@ -1,0 +1,10 @@
+id: epg5000-firmware
+vendor_id: engeniustech
+name: Epg5000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:engeniustech:epg5000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epg5000_firmware
+  confidence: auto

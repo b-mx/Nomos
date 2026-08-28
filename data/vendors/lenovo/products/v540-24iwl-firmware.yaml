@@ -1,0 +1,10 @@
+id: v540-24iwl-firmware
+vendor_id: lenovo
+name: V540-24Iwl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v540\-24iwl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v540-24iwl_firmware
+  confidence: auto

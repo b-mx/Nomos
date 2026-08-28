@@ -1,0 +1,10 @@
+id: knt
+vendor_id: huawei
+name: Knt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:knt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: knt
+  confidence: auto

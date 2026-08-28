@@ -1,0 +1,10 @@
+id: mobilehmi
+vendor_id: iconics
+name: Mobilehmi
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:mobilehmi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobilehmi
+  confidence: auto

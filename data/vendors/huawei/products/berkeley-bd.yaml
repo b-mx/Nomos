@@ -1,0 +1,10 @@
+id: berkeley-bd
+vendor_id: huawei
+name: Berkeley-Bd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:berkeley\-bd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: berkeley-bd
+  confidence: auto

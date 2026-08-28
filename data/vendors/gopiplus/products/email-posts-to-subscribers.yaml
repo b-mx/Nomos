@@ -1,0 +1,10 @@
+id: email-posts-to-subscribers
+vendor_id: gopiplus
+name: Email Posts To Subscribers
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:email_posts_to_subscribers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: email_posts_to_subscribers
+  confidence: auto

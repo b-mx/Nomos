@@ -1,0 +1,13 @@
+id: typo3
+vendor_id: typo3
+name: TYPO3
+type: software
+tags: []
+cpe: cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: typo3
+  confidence: auto
+- source: nvd
+  value: typo3
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trellix--intrusion-prevention-system-manager",
+  "vendor_id": "trellix",
+  "product_id": "intrusion-prevention-system-manager",
+  "name": "Intrusion Prevention System Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "intrusion_prevention_system_manager",
+      "confidence": "auto"
+    }
+  ]
+}

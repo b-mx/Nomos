@@ -1,0 +1,10 @@
+id: securelogin
+vendor_id: novell
+name: Securelogin
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:securelogin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: securelogin
+  confidence: auto

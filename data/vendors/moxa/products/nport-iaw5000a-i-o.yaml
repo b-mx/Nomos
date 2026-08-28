@@ -1,0 +1,10 @@
+id: nport-iaw5000a-i-o
+vendor_id: moxa
+name: Nport Iaw5000A-I/O
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_iaw5000a\-i\/o:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_iaw5000a-i/o
+  confidence: auto

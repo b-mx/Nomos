@@ -1,0 +1,10 @@
+id: openscape-voice-trace-manager
+vendor_id: unify
+name: Openscape Voice Trace Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:unify:openscape_voice_trace_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openscape_voice_trace_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tc5200-10
+vendor_id: huawei
+name: Tc5200-10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tc5200\-10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc5200-10
+  confidence: auto

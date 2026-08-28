@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gfi--kerio-control",
+  "vendor_id": "gfi",
+  "product_id": "kerio-control",
+  "name": "Kerio Control",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kerio_control",
+      "confidence": "auto"
+    }
+  ]
+}

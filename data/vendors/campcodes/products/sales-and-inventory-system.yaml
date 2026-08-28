@@ -1,0 +1,10 @@
+id: sales-and-inventory-system
+vendor_id: campcodes
+name: Sales And Inventory System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:sales_and_inventory_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sales_and_inventory_system
+  confidence: auto

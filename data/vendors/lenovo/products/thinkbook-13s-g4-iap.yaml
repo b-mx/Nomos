@@ -1,0 +1,10 @@
+id: thinkbook-13s-g4-iap
+vendor_id: lenovo
+name: Thinkbook 13S G4 Iap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkbook_13s_g4_iap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_13s_g4_iap
+  confidence: auto

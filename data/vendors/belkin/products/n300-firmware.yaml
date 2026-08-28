@@ -1,0 +1,10 @@
+id: n300-firmware
+vendor_id: belkin
+name: N300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:n300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n300_firmware
+  confidence: auto

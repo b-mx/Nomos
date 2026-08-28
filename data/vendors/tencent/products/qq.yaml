@@ -1,0 +1,10 @@
+id: qq
+vendor_id: tencent
+name: Qq
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:qq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qq
+  confidence: auto

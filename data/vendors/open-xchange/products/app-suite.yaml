@@ -1,0 +1,10 @@
+id: app-suite
+vendor_id: open-xchange
+name: App Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:open\-xchange:app_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: app_suite
+  confidence: auto

@@ -1,0 +1,10 @@
+id: morphowave-compact-md-firmware
+vendor_id: idemia
+name: Morphowave Compact Md Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idemia:morphowave_compact_md_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: morphowave_compact_md_firmware
+  confidence: auto

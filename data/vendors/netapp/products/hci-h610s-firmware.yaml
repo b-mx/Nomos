@@ -1,0 +1,10 @@
+id: hci-h610s-firmware
+vendor_id: netapp
+name: Hci H610S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:hci_h610s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hci_h610s_firmware
+  confidence: auto

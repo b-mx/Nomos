@@ -1,0 +1,10 @@
+id: thinksmart-hub-teams-firmware
+vendor_id: lenovo
+name: Thinksmart Hub Teams Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksmart_hub_teams_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksmart_hub_teams_firmware
+  confidence: auto

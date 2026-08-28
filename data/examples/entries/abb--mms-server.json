@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--mms-server",
+  "vendor_id": "abb",
+  "product_id": "mms-server",
+  "name": "Mms Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mms_server",
+      "confidence": "auto"
+    }
+  ]
+}

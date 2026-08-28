@@ -1,0 +1,10 @@
+id: toby-l200
+vendor_id: u-blox
+name: Toby-L200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:u\-blox:toby\-l200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toby-l200
+  confidence: auto

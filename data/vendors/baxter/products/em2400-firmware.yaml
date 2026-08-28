@@ -1,0 +1,10 @@
+id: em2400-firmware
+vendor_id: baxter
+name: Em2400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baxter:em2400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: em2400_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ryzen-7-3780u
+vendor_id: amd
+name: Ryzen 7 3780U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_3780u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_3780u
+  confidence: auto

@@ -1,0 +1,10 @@
+id: asuswrt-merlin
+vendor_id: asuswrt-merlin
+name: Asuswrt-Merlin
+type: os
+tags: []
+cpe: cpe:2.3:o:asuswrt\-merlin:asuswrt\-merlin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asuswrt-merlin
+  confidence: auto

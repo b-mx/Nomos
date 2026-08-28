@@ -1,0 +1,10 @@
+id: x9drgqf-firmware
+vendor_id: supermicro
+name: X9Drgqf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9drgqf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drgqf_firmware
+  confidence: auto

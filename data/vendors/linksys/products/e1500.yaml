@@ -1,0 +1,10 @@
+id: e1500
+vendor_id: linksys
+name: E1500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:e1500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e1500
+  confidence: auto

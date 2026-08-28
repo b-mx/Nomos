@@ -1,0 +1,10 @@
+id: espace-ecs
+vendor_id: huawei
+name: Espace Ecs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:espace_ecs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espace_ecs
+  confidence: auto

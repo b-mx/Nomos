@@ -1,0 +1,10 @@
+id: cyberdocs
+vendor_id: hummingbird
+name: Cyberdocs
+type: software
+tags: []
+cpe: cpe:2.3:a:hummingbird:cyberdocs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyberdocs
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aruba-cx-6200m-24g-r8v08a
+vendor_id: hpe
+name: Aruba Cx 6200M 24G (R8V08A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6200m_24g_\(r8v08a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6200m_24g_(r8v08a)
+  confidence: auto

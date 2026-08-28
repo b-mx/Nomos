@@ -1,0 +1,10 @@
+id: connectport-x2e
+vendor_id: digi
+name: Connectport X2E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:connectport_x2e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connectport_x2e
+  confidence: auto

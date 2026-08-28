@@ -1,0 +1,7 @@
+id: proxmox
+name: Proxmox
+cpe: cpe:2.3:*:proxmox:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proxmox
+  confidence: auto

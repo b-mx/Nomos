@@ -1,0 +1,10 @@
+id: communication-server
+vendor_id: fatek
+name: Communication Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fatek:communication_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: communication_server
+  confidence: auto

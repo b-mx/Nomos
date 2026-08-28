@@ -1,0 +1,10 @@
+id: spidercontacts
+vendor_id: 10web
+name: Spidercontacts
+type: software
+tags: []
+cpe: cpe:2.3:a:10web:spidercontacts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spidercontacts
+  confidence: auto

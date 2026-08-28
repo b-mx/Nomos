@@ -1,0 +1,10 @@
+id: itech-travel-script
+vendor_id: ambittechnologies
+name: Itech Travel Script
+type: software
+tags: []
+cpe: cpe:2.3:a:ambittechnologies:itech_travel_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itech_travel_script
+  confidence: auto

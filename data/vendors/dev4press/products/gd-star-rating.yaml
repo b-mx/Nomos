@@ -1,0 +1,10 @@
+id: gd-star-rating
+vendor_id: dev4press
+name: Gd Star Rating
+type: software
+tags: []
+cpe: cpe:2.3:a:dev4press:gd_star_rating:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gd_star_rating
+  confidence: auto

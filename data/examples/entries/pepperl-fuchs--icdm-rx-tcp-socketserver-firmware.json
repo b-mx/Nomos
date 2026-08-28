@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pepperl-fuchs--icdm-rx-tcp-socketserver-firmware",
+  "vendor_id": "pepperl-fuchs",
+  "product_id": "icdm-rx-tcp-socketserver-firmware",
+  "name": "Icdm-Rx/Tcp Socketserver Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icdm-rx/tcp_socketserver_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

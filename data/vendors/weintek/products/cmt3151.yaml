@@ -1,0 +1,10 @@
+id: cmt3151
+vendor_id: weintek
+name: Cmt3151
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weintek:cmt3151:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt3151
+  confidence: auto

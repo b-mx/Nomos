@@ -1,0 +1,10 @@
+id: rer615
+vendor_id: abb
+name: Rer615
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:rer615:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rer615
+  confidence: auto

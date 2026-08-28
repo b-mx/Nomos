@@ -1,0 +1,10 @@
+id: er-flex
+vendor_id: easyrobotics
+name: Er-Flex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:easyrobotics:er\-flex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er-flex
+  confidence: auto

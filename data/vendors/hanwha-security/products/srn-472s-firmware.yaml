@@ -1,0 +1,10 @@
+id: srn-472s-firmware
+vendor_id: hanwha-security
+name: Srn-472S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwha\-security:srn\-472s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srn-472s_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sydney-l22br
+vendor_id: huawei
+name: Sydney-L22Br
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:sydney\-l22br:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sydney-l22br
+  confidence: auto

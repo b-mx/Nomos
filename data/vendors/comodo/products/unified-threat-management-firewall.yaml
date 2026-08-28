@@ -1,0 +1,10 @@
+id: unified-threat-management-firewall
+vendor_id: comodo
+name: Unified Threat Management Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:comodo:unified_threat_management_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unified_threat_management_firewall
+  confidence: auto

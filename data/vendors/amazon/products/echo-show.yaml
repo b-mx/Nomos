@@ -1,0 +1,10 @@
+id: echo-show
+vendor_id: amazon
+name: Echo Show
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amazon:echo_show:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echo_show
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a8004t-xr
+vendor_id: iptime
+name: A8004T-Xr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a8004t\-xr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a8004t-xr
+  confidence: auto

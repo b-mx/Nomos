@@ -1,0 +1,10 @@
+id: iscflashx64-sys
+vendor_id: insyde
+name: Iscflashx64.Sys
+type: software
+tags: []
+cpe: cpe:2.3:a:insyde:iscflashx64\.sys:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iscflashx64.sys
+  confidence: auto

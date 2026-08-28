@@ -1,0 +1,10 @@
+id: k7av-sentry-device-driver
+vendor_id: k7computing
+name: K7Av Sentry Device Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:k7computing:k7av_sentry_device_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7av_sentry_device_driver
+  confidence: auto

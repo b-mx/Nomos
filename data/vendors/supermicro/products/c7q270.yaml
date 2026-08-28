@@ -1,0 +1,10 @@
+id: c7q270
+vendor_id: supermicro
+name: C7Q270
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:c7q270:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c7q270
+  confidence: auto

@@ -1,0 +1,10 @@
+id: soundstation2-direct-connect-for-nortel
+vendor_id: polycom
+name: Soundstation2 Direct Connect For Nortel
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:soundstation2_direct_connect_for_nortel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soundstation2_direct_connect_for_nortel
+  confidence: auto

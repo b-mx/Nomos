@@ -1,0 +1,10 @@
+id: flexfabric-5945
+vendor_id: hpe
+name: Flexfabric 5945
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:flexfabric_5945:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexfabric_5945
+  confidence: auto

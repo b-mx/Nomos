@@ -1,0 +1,10 @@
+id: one-xl-firmware
+vendor_id: varta
+name: One Xl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:varta:one_xl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_xl_firmware
+  confidence: auto

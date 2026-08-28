@@ -1,0 +1,10 @@
+id: colorqube-9301
+vendor_id: xerox
+name: Colorqube 9301
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:colorqube_9301:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: colorqube_9301
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tm-h6000v
+vendor_id: epson
+name: Tm-H6000V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-h6000v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-h6000v
+  confidence: auto

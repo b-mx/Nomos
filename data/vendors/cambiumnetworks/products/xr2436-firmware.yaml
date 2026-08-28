@@ -1,0 +1,10 @@
+id: xr2436-firmware
+vendor_id: cambiumnetworks
+name: Xr2436 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cambiumnetworks:xr2436_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xr2436_firmware
+  confidence: auto

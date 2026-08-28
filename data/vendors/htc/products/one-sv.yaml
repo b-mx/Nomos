@@ -1,0 +1,10 @@
+id: one-sv
+vendor_id: htc
+name: One Sv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:one_sv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_sv
+  confidence: auto

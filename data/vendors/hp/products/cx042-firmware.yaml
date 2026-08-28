@@ -1,0 +1,10 @@
+id: cx042-firmware
+vendor_id: hp
+name: Cx042 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cx042_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx042_firmware
+  confidence: auto

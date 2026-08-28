@@ -1,0 +1,10 @@
+id: b1300
+vendor_id: gl-inet
+name: B1300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:b1300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b1300
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "powertekpdus--pm-pdu",
+  "vendor_id": "powertekpdus",
+  "product_id": "pm-pdu",
+  "name": "Pm Pdu",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pm_pdu",
+      "confidence": "auto"
+    }
+  ]
+}

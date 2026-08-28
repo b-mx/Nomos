@@ -1,0 +1,10 @@
+id: tecal-xh311-v2-firmware
+vendor_id: huawei
+name: Tecal Xh311 V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:tecal_xh311_v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_xh311_v2_firmware
+  confidence: auto

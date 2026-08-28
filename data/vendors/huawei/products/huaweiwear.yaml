@@ -1,0 +1,10 @@
+id: huaweiwear
+vendor_id: huawei
+name: Huaweiwear
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:huaweiwear:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: huaweiwear
+  confidence: auto

@@ -1,0 +1,10 @@
+id: unp
+vendor_id: debian
+name: Unp
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:unp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unp
+  confidence: auto

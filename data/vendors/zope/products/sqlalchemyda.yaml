@@ -1,0 +1,10 @@
+id: sqlalchemyda
+vendor_id: zope
+name: Sqlalchemyda
+type: software
+tags: []
+cpe: cpe:2.3:a:zope:sqlalchemyda:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sqlalchemyda
+  confidence: auto

@@ -1,0 +1,10 @@
+id: icingaweb2-module-incubator
+vendor_id: icinga
+name: Icingaweb2-Module-Incubator
+type: software
+tags: []
+cpe: cpe:2.3:a:icinga:icingaweb2\-module\-incubator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icingaweb2-module-incubator
+  confidence: auto

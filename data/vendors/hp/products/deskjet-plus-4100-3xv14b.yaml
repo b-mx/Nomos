@@ -1,0 +1,10 @@
+id: deskjet-plus-4100-3xv14b
+vendor_id: hp
+name: Deskjet Plus 4100 3Xv14B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_plus_4100_3xv14b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_plus_4100_3xv14b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: brava-desktop
+vendor_id: opentext
+name: Brava! Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:brava\!_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brava!_desktop
+  confidence: auto

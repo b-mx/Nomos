@@ -1,0 +1,10 @@
+id: blade-a31
+vendor_id: zte
+name: Blade A31
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:blade_a31:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_a31
+  confidence: auto

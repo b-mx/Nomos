@@ -1,0 +1,10 @@
+id: tm-t20iii-firmware
+vendor_id: epson
+name: Tm-T20Iii Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:tm\-t20iii_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-t20iii_firmware
+  confidence: auto

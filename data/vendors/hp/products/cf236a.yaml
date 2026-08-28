@@ -1,0 +1,10 @@
+id: cf236a
+vendor_id: hp
+name: Cf236A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cf236a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf236a
+  confidence: auto

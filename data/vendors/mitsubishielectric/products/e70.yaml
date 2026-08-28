@@ -1,0 +1,10 @@
+id: e70
+vendor_id: mitsubishielectric
+name: E70
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:e70:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e70
+  confidence: auto

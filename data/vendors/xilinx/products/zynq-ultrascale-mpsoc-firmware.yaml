@@ -1,0 +1,10 @@
+id: zynq-ultrascale-mpsoc-firmware
+vendor_id: xilinx
+name: Zynq Ultrascale+ Mpsoc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xilinx:zynq_ultrascale\+_mpsoc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zynq_ultrascale+_mpsoc_firmware
+  confidence: auto

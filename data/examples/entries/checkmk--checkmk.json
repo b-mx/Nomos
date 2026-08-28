@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "checkmk--checkmk",
+  "vendor_id": "checkmk",
+  "product_id": "checkmk",
+  "name": "Checkmk",
+  "type": "software",
+  "tags": [
+    "monitoring"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "checkmk",
+      "confidence": "auto"
+    }
+  ]
+}

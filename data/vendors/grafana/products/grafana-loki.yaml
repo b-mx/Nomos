@@ -1,0 +1,13 @@
+id: grafana-loki
+vendor_id: grafana
+name: Grafana Loki
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:loki:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: grafana-loki
+  confidence: auto
+- source: nvd
+  value: loki
+  confidence: auto

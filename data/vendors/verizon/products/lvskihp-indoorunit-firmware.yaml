@@ -1,0 +1,10 @@
+id: lvskihp-indoorunit-firmware
+vendor_id: verizon
+name: Lvskihp Indoorunit Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:verizon:lvskihp_indoorunit_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lvskihp_indoorunit_firmware
+  confidence: auto

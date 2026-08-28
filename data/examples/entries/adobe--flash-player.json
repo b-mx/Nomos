@@ -6,13 +6,13 @@
   "name": "Flash Player",
   "type": "software",
   "tags": [],
-  "icon": "logos:adobe-icon",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Flash Player",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

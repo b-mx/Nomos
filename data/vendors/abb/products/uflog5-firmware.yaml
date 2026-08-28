@@ -1,0 +1,10 @@
+id: uflog5-firmware
+vendor_id: abb
+name: Uflog5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:uflog5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uflog5_firmware
+  confidence: auto

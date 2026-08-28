@@ -1,0 +1,10 @@
+id: easy-access-keyboard-software
+vendor_id: compaq
+name: Easy Access Keyboard Software
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:easy_access_keyboard_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_access_keyboard_software
+  confidence: auto

@@ -1,0 +1,10 @@
+id: n-tron-702-w-firmware
+vendor_id: redlion
+name: N-Tron 702-W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:redlion:n\-tron_702\-w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n-tron_702-w_firmware
+  confidence: auto

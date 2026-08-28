@@ -1,0 +1,10 @@
+id: vogue-al00a-preload
+vendor_id: huawei
+name: Vogue-Al00A-Preload
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:vogue\-al00a\-preload:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vogue-al00a-preload
+  confidence: auto

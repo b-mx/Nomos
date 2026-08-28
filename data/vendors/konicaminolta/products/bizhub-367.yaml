@@ -1,0 +1,10 @@
+id: bizhub-367
+vendor_id: konicaminolta
+name: Bizhub 367
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_367:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_367
+  confidence: auto

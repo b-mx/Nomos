@@ -1,0 +1,10 @@
+id: controllogix-5570-redundant-controller-firmware
+vendor_id: rockwellautomation
+name: Controllogix 5570 Redundant Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:controllogix_5570_redundant_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controllogix_5570_redundant_controller_firmware
+  confidence: auto

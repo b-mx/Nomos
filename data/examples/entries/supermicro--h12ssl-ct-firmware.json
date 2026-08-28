@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--h12ssl-ct-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "h12ssl-ct-firmware",
+  "name": "H12Ssl-Ct Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h12ssl-ct_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

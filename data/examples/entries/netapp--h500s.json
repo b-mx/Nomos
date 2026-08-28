@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--h500s",
+  "vendor_id": "netapp",
+  "product_id": "h500s",
+  "name": "H500S",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h500s",
+      "confidence": "auto"
+    }
+  ]
+}

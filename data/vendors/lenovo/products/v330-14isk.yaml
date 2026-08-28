@@ -1,0 +1,10 @@
+id: v330-14isk
+vendor_id: lenovo
+name: V330-14Isk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v330\-14isk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v330-14isk
+  confidence: auto

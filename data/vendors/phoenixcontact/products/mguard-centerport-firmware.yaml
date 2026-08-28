@@ -1,0 +1,10 @@
+id: mguard-centerport-firmware
+vendor_id: phoenixcontact
+name: Mguard Centerport Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:mguard_centerport_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_centerport_firmware
+  confidence: auto

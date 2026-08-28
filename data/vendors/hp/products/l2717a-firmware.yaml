@@ -1,0 +1,10 @@
+id: l2717a-firmware
+vendor_id: hp
+name: L2717A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:l2717a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l2717a_firmware
+  confidence: auto

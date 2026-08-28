@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "dovecot--pigeonhole",
+  "vendor_id": "dovecot",
+  "product_id": "pigeonhole",
+  "name": "Pigeonhole",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "pigeonhole",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "pigeonhole",
+      "confidence": "auto"
+    }
+  ]
+}

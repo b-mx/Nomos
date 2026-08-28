@@ -1,0 +1,10 @@
+id: s5306
+vendor_id: huawei
+name: S5306
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s5306:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5306
+  confidence: auto

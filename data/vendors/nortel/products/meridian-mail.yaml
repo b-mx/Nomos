@@ -1,0 +1,10 @@
+id: meridian-mail
+vendor_id: nortel
+name: Meridian Mail
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:meridian_mail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meridian_mail
+  confidence: auto

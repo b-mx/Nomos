@@ -1,0 +1,10 @@
+id: aespire-7900-firmware
+vendor_id: ge
+name: Aespire 7900 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:aespire_7900_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aespire_7900_firmware
+  confidence: auto

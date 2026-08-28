@@ -1,0 +1,6 @@
+id: kubernetes-csi-node-driver-registrar
+name: Kubernetes CSI Node Driver Registrar
+aliases:
+- source: endoflife
+  value: kubernetes-csi-node-driver-registrar
+  confidence: auto

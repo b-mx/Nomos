@@ -1,0 +1,10 @@
+id: omen-15t-dc200
+vendor_id: hp
+name: Omen 15T-Dc200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_15t\-dc200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_15t-dc200
+  confidence: auto

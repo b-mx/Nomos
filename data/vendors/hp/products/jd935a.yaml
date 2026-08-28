@@ -1,0 +1,10 @@
+id: jd935a
+vendor_id: hp
+name: Jd935A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd935a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd935a
+  confidence: auto

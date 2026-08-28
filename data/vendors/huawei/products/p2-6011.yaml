@@ -1,0 +1,10 @@
+id: p2-6011
+vendor_id: huawei
+name: P2-6011
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p2\-6011:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p2-6011
+  confidence: auto

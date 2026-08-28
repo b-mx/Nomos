@@ -1,0 +1,10 @@
+id: simple-photo-gallery
+vendor_id: fabian
+name: Simple Photo Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_photo_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_photo_gallery
+  confidence: auto

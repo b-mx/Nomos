@@ -1,0 +1,10 @@
+id: e23x
+vendor_id: lexmark
+name: E23X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:e23x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e23x
+  confidence: auto

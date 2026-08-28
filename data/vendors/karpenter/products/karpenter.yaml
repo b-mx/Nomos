@@ -1,0 +1,9 @@
+id: karpenter
+vendor_id: karpenter
+name: Karpenter
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: karpenter
+  confidence: auto

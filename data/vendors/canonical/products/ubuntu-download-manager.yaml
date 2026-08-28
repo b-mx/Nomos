@@ -1,0 +1,10 @@
+id: ubuntu-download-manager
+vendor_id: canonical
+name: Ubuntu Download Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:ubuntu_download_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubuntu_download_manager
+  confidence: auto

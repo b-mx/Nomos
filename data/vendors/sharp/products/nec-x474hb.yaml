@@ -1,0 +1,10 @@
+id: nec-x474hb
+vendor_id: sharp
+name: Nec X474Hb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:nec_x474hb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_x474hb
+  confidence: auto

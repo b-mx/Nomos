@@ -1,0 +1,9 @@
+id: kindle
+vendor_id: kindle
+name: Amazon Kindle
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: kindle
+  confidence: auto

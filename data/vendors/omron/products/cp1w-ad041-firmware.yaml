@@ -1,0 +1,10 @@
+id: cp1w-ad041-firmware
+vendor_id: omron
+name: Cp1W-Ad041 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1w\-ad041_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-ad041_firmware
+  confidence: auto

@@ -1,0 +1,7 @@
+id: sony
+name: Sony
+cpe: cpe:2.3:*:sony:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sony
+  confidence: auto

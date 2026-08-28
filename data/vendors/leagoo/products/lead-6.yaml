@@ -1,0 +1,10 @@
+id: lead-6
+vendor_id: leagoo
+name: Lead 6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:leagoo:lead_6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lead_6
+  confidence: auto

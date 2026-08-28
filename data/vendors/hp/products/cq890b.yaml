@@ -1,0 +1,10 @@
+id: cq890b
+vendor_id: hp
+name: Cq890B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cq890b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cq890b
+  confidence: auto

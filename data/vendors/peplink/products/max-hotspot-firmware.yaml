@@ -1,0 +1,10 @@
+id: max-hotspot-firmware
+vendor_id: peplink
+name: Max Hotspot Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:max_hotspot_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_hotspot_firmware
+  confidence: auto

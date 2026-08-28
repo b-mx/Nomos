@@ -1,0 +1,10 @@
+id: xf70
+vendor_id: sony
+name: Xf70
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:xf70:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xf70
+  confidence: auto

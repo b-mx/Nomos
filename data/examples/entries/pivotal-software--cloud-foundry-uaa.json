@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--cloud-foundry-uaa",
+  "vendor_id": "pivotal-software",
+  "product_id": "cloud-foundry-uaa",
+  "name": "Cloud Foundry Uaa",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_foundry_uaa",
+      "confidence": "auto"
+    }
+  ]
+}

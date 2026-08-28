@@ -1,0 +1,10 @@
+id: langgraph-sdk
+vendor_id: langchain
+name: Langgraph-Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:langchain:langgraph\-sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: langgraph-sdk
+  confidence: auto

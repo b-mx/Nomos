@@ -1,0 +1,10 @@
+id: enterprise-security-manager-express
+vendor_id: hp
+name: Enterprise Security Manager Express
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:enterprise_security_manager_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_security_manager_express
+  confidence: auto

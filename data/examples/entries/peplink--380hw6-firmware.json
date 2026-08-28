@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--380hw6-firmware",
+  "vendor_id": "peplink",
+  "product_id": "380hw6-firmware",
+  "name": "380Hw6 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "380hw6_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

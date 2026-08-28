@@ -1,0 +1,10 @@
+id: essential-content-types
+vendor_id: catchplugins
+name: Essential Content Types
+type: software
+tags: []
+cpe: cpe:2.3:a:catchplugins:essential_content_types:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: essential_content_types
+  confidence: auto

@@ -1,0 +1,10 @@
+id: code-snippets-extension
+vendor_id: mainwp
+name: Code Snippets Extension
+type: software
+tags: []
+cpe: cpe:2.3:a:mainwp:code_snippets_extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: code_snippets_extension
+  confidence: auto

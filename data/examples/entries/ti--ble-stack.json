@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ti--ble-stack",
+  "vendor_id": "ti",
+  "product_id": "ble-stack",
+  "name": "Ble-Stack",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ble-stack",
+      "confidence": "auto"
+    }
+  ]
+}

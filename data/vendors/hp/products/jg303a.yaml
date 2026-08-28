@@ -1,0 +1,10 @@
+id: jg303a
+vendor_id: hp
+name: Jg303A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg303a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg303a
+  confidence: auto

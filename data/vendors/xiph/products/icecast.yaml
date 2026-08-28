@@ -1,0 +1,10 @@
+id: icecast
+vendor_id: xiph
+name: Icecast
+type: software
+tags: []
+cpe: cpe:2.3:a:xiph:icecast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icecast
+  confidence: auto

@@ -1,0 +1,7 @@
+id: echelon
+name: Echelon
+cpe: cpe:2.3:*:echelon:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echelon
+  confidence: auto

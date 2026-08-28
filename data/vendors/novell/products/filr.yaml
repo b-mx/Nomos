@@ -1,0 +1,10 @@
+id: filr
+vendor_id: novell
+name: Filr
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:filr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: filr
+  confidence: auto

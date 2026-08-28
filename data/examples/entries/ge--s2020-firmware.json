@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--s2020-firmware",
+  "vendor_id": "ge",
+  "product_id": "s2020-firmware",
+  "name": "S2020 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "s2020_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

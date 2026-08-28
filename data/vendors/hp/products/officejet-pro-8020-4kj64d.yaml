@@ -1,0 +1,10 @@
+id: officejet-pro-8020-4kj64d
+vendor_id: hp
+name: Officejet Pro 8020 4Kj64D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_8020_4kj64d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_8020_4kj64d
+  confidence: auto

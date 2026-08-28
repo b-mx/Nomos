@@ -1,0 +1,10 @@
+id: ruh2
+vendor_id: irz
+name: Ruh2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:irz:ruh2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruh2
+  confidence: auto

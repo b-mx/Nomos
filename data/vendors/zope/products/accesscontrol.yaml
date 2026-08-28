@@ -1,0 +1,10 @@
+id: accesscontrol
+vendor_id: zope
+name: Accesscontrol
+type: software
+tags: []
+cpe: cpe:2.3:a:zope:accesscontrol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accesscontrol
+  confidence: auto

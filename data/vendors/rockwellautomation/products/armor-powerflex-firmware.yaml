@@ -1,0 +1,10 @@
+id: armor-powerflex-firmware
+vendor_id: rockwellautomation
+name: Armor Powerflex Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:armor_powerflex_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: armor_powerflex_firmware
+  confidence: auto

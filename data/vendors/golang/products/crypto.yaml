@@ -1,0 +1,10 @@
+id: crypto
+vendor_id: golang
+name: Crypto
+type: software
+tags: []
+cpe: cpe:2.3:a:golang:crypto:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crypto
+  confidence: auto

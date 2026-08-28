@@ -1,0 +1,10 @@
+id: velop
+vendor_id: linksys
+name: Velop
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:velop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: velop
+  confidence: auto

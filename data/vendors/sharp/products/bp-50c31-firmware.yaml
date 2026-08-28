@@ -1,0 +1,10 @@
+id: bp-50c31-firmware
+vendor_id: sharp
+name: Bp-50C31 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:bp\-50c31_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bp-50c31_firmware
+  confidence: auto

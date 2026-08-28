@@ -1,0 +1,10 @@
+id: x10ddwi
+vendor_id: supermicro
+name: X10Ddwi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10ddwi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10ddwi
+  confidence: auto

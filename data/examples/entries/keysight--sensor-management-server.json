@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "keysight--sensor-management-server",
+  "vendor_id": "keysight",
+  "product_id": "sensor-management-server",
+  "name": "Sensor Management Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sensor_management_server",
+      "confidence": "auto"
+    }
+  ]
+}

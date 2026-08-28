@@ -1,0 +1,10 @@
+id: sage-xrt-business-exchange
+vendor_id: sage
+name: Sage Xrt Business Exchange
+type: software
+tags: []
+cpe: cpe:2.3:a:sage:sage_xrt_business_exchange:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sage_xrt_business_exchange
+  confidence: auto

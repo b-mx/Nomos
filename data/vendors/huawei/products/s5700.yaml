@@ -1,0 +1,10 @@
+id: s5700
+vendor_id: huawei
+name: S5700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s5700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5700
+  confidence: auto

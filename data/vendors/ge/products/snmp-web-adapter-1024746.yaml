@@ -1,0 +1,10 @@
+id: snmp-web-adapter-1024746
+vendor_id: ge
+name: Snmp/Web Adapter 1024746
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:snmp\/web_adapter_1024746:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snmp/web_adapter_1024746
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ecosys-p6026cdn
+vendor_id: kyocera
+name: Ecosys P6026Cdn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kyocera:ecosys_p6026cdn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecosys_p6026cdn
+  confidence: auto

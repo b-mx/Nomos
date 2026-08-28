@@ -1,0 +1,10 @@
+id: call-of-duty-elite
+vendor_id: activision
+name: Call Of Duty Elite
+type: software
+tags: []
+cpe: cpe:2.3:a:activision:call_of_duty_elite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: call_of_duty_elite
+  confidence: auto

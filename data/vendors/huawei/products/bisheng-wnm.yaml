@@ -1,0 +1,10 @@
+id: bisheng-wnm
+vendor_id: huawei
+name: Bisheng-Wnm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:bisheng\-wnm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bisheng-wnm
+  confidence: auto

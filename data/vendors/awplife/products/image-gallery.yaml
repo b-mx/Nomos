@@ -1,0 +1,10 @@
+id: image-gallery
+vendor_id: awplife
+name: Image Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:awplife:image_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: image_gallery
+  confidence: auto

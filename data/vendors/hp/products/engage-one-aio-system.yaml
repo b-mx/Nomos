@@ -1,0 +1,10 @@
+id: engage-one-aio-system
+vendor_id: hp
+name: Engage One Aio System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:engage_one_aio_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engage_one_aio_system
+  confidence: auto

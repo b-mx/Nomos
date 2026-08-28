@@ -1,0 +1,10 @@
+id: connex-health-portal
+vendor_id: baxter
+name: Connex Health Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:baxter:connex_health_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connex_health_portal
+  confidence: auto

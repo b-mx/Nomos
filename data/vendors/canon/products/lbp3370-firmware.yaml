@@ -1,0 +1,10 @@
+id: lbp3370-firmware
+vendor_id: canon
+name: Lbp3370 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:lbp3370_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lbp3370_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: i7020
+vendor_id: axis
+name: I7020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:i7020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i7020
+  confidence: auto

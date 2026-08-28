@@ -1,0 +1,10 @@
+id: tracer-concierge
+vendor_id: trane
+name: Tracer Concierge
+type: software
+tags: []
+cpe: cpe:2.3:a:trane:tracer_concierge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tracer_concierge
+  confidence: auto

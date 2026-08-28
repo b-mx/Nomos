@@ -1,0 +1,10 @@
+id: esr600
+vendor_id: engeniustech
+name: Esr600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:engeniustech:esr600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esr600
+  confidence: auto

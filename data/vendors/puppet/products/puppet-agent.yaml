@@ -1,0 +1,10 @@
+id: puppet-agent
+vendor_id: puppet
+name: Puppet Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:puppet_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppet_agent
+  confidence: auto

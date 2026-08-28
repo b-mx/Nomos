@@ -1,0 +1,10 @@
+id: bigfix-webui-insights
+vendor_id: hcltech
+name: Bigfix Webui Insights
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:bigfix_webui_insights:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bigfix_webui_insights
+  confidence: auto

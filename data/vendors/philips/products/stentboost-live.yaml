@@ -1,0 +1,10 @@
+id: stentboost-live
+vendor_id: philips
+name: Stentboost Live
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:stentboost_live:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stentboost_live
+  confidence: auto

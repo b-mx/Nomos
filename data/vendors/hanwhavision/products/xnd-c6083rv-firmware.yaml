@@ -1,0 +1,10 @@
+id: xnd-c6083rv-firmware
+vendor_id: hanwhavision
+name: Xnd-C6083Rv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:xnd\-c6083rv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnd-c6083rv_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkagile-vx-dense
+vendor_id: lenovo
+name: Thinkagile Vx Dense
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_vx_dense:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_vx_dense
+  confidence: auto

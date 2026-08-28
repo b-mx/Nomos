@@ -1,0 +1,10 @@
+id: pinterest-feeds
+vendor_id: weblizar
+name: Pinterest-Feeds
+type: software
+tags: []
+cpe: cpe:2.3:a:weblizar:pinterest\-feeds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pinterest-feeds
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microchip--timeprovider-4100-firmware",
+  "vendor_id": "microchip",
+  "product_id": "timeprovider-4100-firmware",
+  "name": "Timeprovider 4100 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "timeprovider_4100_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

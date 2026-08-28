@@ -1,0 +1,10 @@
+id: n23-yoga-11-chromebook
+vendor_id: lenovo
+name: N23 Yoga 11 Chromebook
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:n23_yoga_11_chromebook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n23_yoga_11_chromebook
+  confidence: auto

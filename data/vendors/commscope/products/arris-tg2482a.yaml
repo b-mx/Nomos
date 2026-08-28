@@ -1,0 +1,10 @@
+id: arris-tg2482a
+vendor_id: commscope
+name: Arris Tg2482A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:arris_tg2482a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_tg2482a
+  confidence: auto

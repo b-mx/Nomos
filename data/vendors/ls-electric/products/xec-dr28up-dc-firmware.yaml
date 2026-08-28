@@ -1,0 +1,10 @@
+id: xec-dr28up-dc-firmware
+vendor_id: ls-electric
+name: Xec-Dr28Up/Dc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xec\-dr28up\/dc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dr28up/dc_firmware
+  confidence: auto

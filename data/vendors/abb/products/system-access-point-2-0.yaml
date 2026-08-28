@@ -1,0 +1,10 @@
+id: system-access-point-2-0
+vendor_id: abb
+name: System Access Point 2.0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:system_access_point_2\.0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_access_point_2.0
+  confidence: auto

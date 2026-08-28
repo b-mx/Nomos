@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "plone--plone-docker-official-image",
+  "vendor_id": "plone",
+  "product_id": "plone-docker-official-image",
+  "name": "Plone Docker Official Image",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plone_docker_official_image",
+      "confidence": "auto"
+    }
+  ]
+}

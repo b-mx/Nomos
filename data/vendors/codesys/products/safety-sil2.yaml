@@ -1,0 +1,10 @@
+id: safety-sil2
+vendor_id: codesys
+name: Safety Sil2
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:safety_sil2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safety_sil2
+  confidence: auto

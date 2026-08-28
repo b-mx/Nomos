@@ -1,0 +1,10 @@
+id: wp-super-cache
+vendor_id: automattic
+name: Wp Super Cache
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:wp_super_cache:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_super_cache
+  confidence: auto

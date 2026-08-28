@@ -1,0 +1,10 @@
+id: x11ssn-e-vdc
+vendor_id: supermicro
+name: X11Ssn-E-Vdc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11ssn\-e\-vdc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssn-e-vdc
+  confidence: auto

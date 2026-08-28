@@ -1,0 +1,10 @@
+id: gc-a24
+vendor_id: jtekt
+name: Gc-A24
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:gc\-a24:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gc-a24
+  confidence: auto

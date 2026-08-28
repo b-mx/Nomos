@@ -1,0 +1,10 @@
+id: sea-tel-4009-vsat-broadband-at-sea-firmware
+vendor_id: cobham
+name: Sea Tel 4009 Vsat Broadband-At-Sea Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cobham:sea_tel_4009_vsat_broadband\-at\-sea_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sea_tel_4009_vsat_broadband-at-sea_firmware
+  confidence: auto

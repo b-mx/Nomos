@@ -1,0 +1,10 @@
+id: d303
+vendor_id: kongtop
+name: D303
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kongtop:d303:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d303
+  confidence: auto

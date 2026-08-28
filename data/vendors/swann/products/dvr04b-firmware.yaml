@@ -1,0 +1,10 @@
+id: dvr04b-firmware
+vendor_id: swann
+name: Dvr04B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:swann:dvr04b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvr04b_firmware
+  confidence: auto

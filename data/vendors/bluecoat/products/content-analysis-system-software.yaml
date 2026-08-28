@@ -1,0 +1,10 @@
+id: content-analysis-system-software
+vendor_id: bluecoat
+name: Content Analysis System Software
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:content_analysis_system_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: content_analysis_system_software
+  confidence: auto

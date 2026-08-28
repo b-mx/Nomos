@@ -1,0 +1,10 @@
+id: music-gallery-site
+vendor_id: oretnom23
+name: Music Gallery Site
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:music_gallery_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: music_gallery_site
+  confidence: auto

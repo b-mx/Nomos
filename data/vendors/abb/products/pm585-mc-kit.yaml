@@ -1,0 +1,10 @@
+id: pm585-mc-kit
+vendor_id: abb
+name: Pm585-Mc-Kit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm585\-mc\-kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm585-mc-kit
+  confidence: auto

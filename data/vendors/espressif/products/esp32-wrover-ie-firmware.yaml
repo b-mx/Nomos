@@ -1,0 +1,10 @@
+id: esp32-wrover-ie-firmware
+vendor_id: espressif
+name: Esp32-Wrover-Ie Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:espressif:esp32\-wrover\-ie_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32-wrover-ie_firmware
+  confidence: auto

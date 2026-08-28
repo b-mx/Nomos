@@ -1,0 +1,10 @@
+id: backup-wd
+vendor_id: web-dorado
+name: Backup-Wd
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:backup\-wd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backup-wd
+  confidence: auto

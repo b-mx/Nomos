@@ -1,0 +1,10 @@
+id: nonstop-safeguard-h-series
+vendor_id: hp
+name: Nonstop Safeguard H Series
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:nonstop_safeguard_h_series:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nonstop_safeguard_h_series
+  confidence: auto

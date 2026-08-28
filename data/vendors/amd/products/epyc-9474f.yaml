@@ -1,0 +1,10 @@
+id: epyc-9474f
+vendor_id: amd
+name: Epyc 9474F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_9474f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_9474f
+  confidence: auto

@@ -1,0 +1,10 @@
+id: portserver-ts-16-firmware
+vendor_id: digi
+name: Portserver Ts 16 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:portserver_ts_16_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portserver_ts_16_firmware
+  confidence: auto

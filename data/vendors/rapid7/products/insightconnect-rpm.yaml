@@ -1,0 +1,10 @@
+id: insightconnect-rpm
+vendor_id: rapid7
+name: Insightconnect Rpm
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:insightconnect_rpm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insightconnect_rpm
+  confidence: auto

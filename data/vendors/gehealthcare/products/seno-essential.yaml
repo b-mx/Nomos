@@ -1,0 +1,10 @@
+id: seno-essential
+vendor_id: gehealthcare
+name: Seno Essential
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:seno_essential:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seno_essential
+  confidence: auto

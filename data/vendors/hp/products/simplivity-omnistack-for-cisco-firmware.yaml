@@ -1,0 +1,10 @@
+id: simplivity-omnistack-for-cisco-firmware
+vendor_id: hp
+name: Simplivity Omnistack For Cisco Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:simplivity_omnistack_for_cisco_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplivity_omnistack_for_cisco_firmware
+  confidence: auto

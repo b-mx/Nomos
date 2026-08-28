@@ -1,0 +1,10 @@
+id: cipcamptiwl-1-0-firmware
+vendor_id: conceptronic
+name: Cipcamptiwl 1.0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:conceptronic:cipcamptiwl_1\.0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cipcamptiwl_1.0_firmware
+  confidence: auto

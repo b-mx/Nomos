@@ -1,0 +1,10 @@
+id: yale-ia-210
+vendor_id: assaabloy
+name: Yale Ia-210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:assaabloy:yale_ia\-210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale_ia-210
+  confidence: auto

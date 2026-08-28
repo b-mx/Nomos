@@ -1,0 +1,10 @@
+id: network-power-avocent-mergepoint-unity-2016-firmware
+vendor_id: emerson
+name: Network Power Avocent Mergepoint Unity 2016 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:network_power_avocent_mergepoint_unity_2016_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_power_avocent_mergepoint_unity_2016_firmware
+  confidence: auto

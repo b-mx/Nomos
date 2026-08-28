@@ -1,0 +1,10 @@
+id: ms421
+vendor_id: lexmark
+name: Ms421
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms421:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms421
+  confidence: auto

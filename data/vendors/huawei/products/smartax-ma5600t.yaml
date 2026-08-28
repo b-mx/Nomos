@@ -1,0 +1,10 @@
+id: smartax-ma5600t
+vendor_id: huawei
+name: Smartax Ma5600T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:smartax_ma5600t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartax_ma5600t
+  confidence: auto

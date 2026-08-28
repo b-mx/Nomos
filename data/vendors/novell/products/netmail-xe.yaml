@@ -1,0 +1,10 @@
+id: netmail-xe
+vendor_id: novell
+name: Netmail Xe
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:netmail_xe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netmail_xe
+  confidence: auto

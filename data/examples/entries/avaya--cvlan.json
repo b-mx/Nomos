@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--cvlan",
+  "vendor_id": "avaya",
+  "product_id": "cvlan",
+  "name": "Cvlan",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cvlan",
+      "confidence": "auto"
+    }
+  ]
+}

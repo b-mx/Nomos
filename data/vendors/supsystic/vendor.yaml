@@ -1,0 +1,7 @@
+id: supsystic
+name: Supsystic
+cpe: cpe:2.3:*:supsystic:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: supsystic
+  confidence: auto

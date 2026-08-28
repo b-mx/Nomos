@@ -1,0 +1,10 @@
+id: hirschmann-prp-redbox
+vendor_id: belden
+name: Hirschmann Prp Redbox
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_prp_redbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_prp_redbox
+  confidence: auto

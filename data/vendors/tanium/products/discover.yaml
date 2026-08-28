@@ -1,0 +1,10 @@
+id: discover
+vendor_id: tanium
+name: Discover
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:discover:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discover
+  confidence: auto

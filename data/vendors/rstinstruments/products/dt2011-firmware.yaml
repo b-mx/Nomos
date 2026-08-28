@@ -1,0 +1,10 @@
+id: dt2011-firmware
+vendor_id: rstinstruments
+name: Dt2011 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:dt2011_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt2011_firmware
+  confidence: auto

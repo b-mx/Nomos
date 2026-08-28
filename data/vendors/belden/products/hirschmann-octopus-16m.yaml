@@ -1,0 +1,10 @@
+id: hirschmann-octopus-16m
+vendor_id: belden
+name: Hirschmann Octopus 16M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_octopus_16m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_octopus_16m
+  confidence: auto

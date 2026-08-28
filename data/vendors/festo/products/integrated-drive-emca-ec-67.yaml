@@ -1,0 +1,10 @@
+id: integrated-drive-emca-ec-67
+vendor_id: festo
+name: Integrated Drive Emca-Ec-67
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:integrated_drive_emca\-ec\-67:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_drive_emca-ec-67
+  confidence: auto

@@ -1,0 +1,10 @@
+id: silkworm-24000-director
+vendor_id: brocade
+name: Silkworm 24000 Director
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brocade:silkworm_24000_director:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: silkworm_24000_director
+  confidence: auto

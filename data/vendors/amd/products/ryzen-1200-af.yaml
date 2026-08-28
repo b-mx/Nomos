@@ -1,0 +1,10 @@
+id: ryzen-1200-af
+vendor_id: amd
+name: Ryzen 1200 (Af)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_1200_\(af\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_1200_(af)
+  confidence: auto

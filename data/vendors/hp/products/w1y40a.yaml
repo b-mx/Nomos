@@ -1,0 +1,10 @@
+id: w1y40a
+vendor_id: hp
+name: W1Y40A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:w1y40a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1y40a
+  confidence: auto

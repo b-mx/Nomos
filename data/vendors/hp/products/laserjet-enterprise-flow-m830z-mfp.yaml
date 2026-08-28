@@ -1,0 +1,10 @@
+id: laserjet-enterprise-flow-m830z-mfp
+vendor_id: hp
+name: Laserjet Enterprise Flow M830Z Mfp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_flow_m830z_mfp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_flow_m830z_mfp
+  confidence: auto

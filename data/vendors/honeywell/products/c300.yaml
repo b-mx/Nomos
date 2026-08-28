@@ -1,0 +1,10 @@
+id: c300
+vendor_id: honeywell
+name: C300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:c300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c300
+  confidence: auto

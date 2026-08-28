@@ -1,0 +1,10 @@
+id: ch221
+vendor_id: huawei
+name: Ch221
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ch221:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch221
+  confidence: auto

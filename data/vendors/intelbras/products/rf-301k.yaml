@@ -1,0 +1,10 @@
+id: rf-301k
+vendor_id: intelbras
+name: Rf 301K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:rf_301k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rf_301k
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aurora-files
+vendor_id: afterlogic
+name: Aurora Files
+type: software
+tags: []
+cpe: cpe:2.3:a:afterlogic:aurora_files:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aurora_files
+  confidence: auto

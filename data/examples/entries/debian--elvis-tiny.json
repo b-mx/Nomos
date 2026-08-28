@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--elvis-tiny",
+  "vendor_id": "debian",
+  "product_id": "elvis-tiny",
+  "name": "Elvis Tiny",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "elvis_tiny",
+      "confidence": "auto"
+    }
+  ]
+}

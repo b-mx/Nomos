@@ -1,0 +1,10 @@
+id: moto-avb-switch
+vendor_id: motu
+name: Moto Avb Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:moto_avb_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moto_avb_switch
+  confidence: auto

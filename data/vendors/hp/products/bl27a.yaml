@@ -1,0 +1,10 @@
+id: bl27a
+vendor_id: hp
+name: Bl27A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:bl27a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl27a
+  confidence: auto

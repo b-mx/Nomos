@@ -1,0 +1,10 @@
+id: envy-6000e-2k4w1a-firmware
+vendor_id: hp
+name: Envy 6000E 2K4W1A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_6000e_2k4w1a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6000e_2k4w1a_firmware
+  confidence: auto

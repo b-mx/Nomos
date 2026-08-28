@@ -1,0 +1,10 @@
+id: wifi-button
+vendor_id: mystrom
+name: Wifi Button
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mystrom:wifi_button:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifi_button
+  confidence: auto

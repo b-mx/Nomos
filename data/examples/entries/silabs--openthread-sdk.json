@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--openthread-sdk",
+  "vendor_id": "silabs",
+  "product_id": "openthread-sdk",
+  "name": "Openthread Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openthread_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

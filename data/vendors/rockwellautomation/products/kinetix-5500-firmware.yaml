@@ -1,0 +1,10 @@
+id: kinetix-5500-firmware
+vendor_id: rockwellautomation
+name: Kinetix 5500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:kinetix_5500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kinetix_5500_firmware
+  confidence: auto

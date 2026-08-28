@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "owasp--java-html-sanitizer",
+  "vendor_id": "owasp",
+  "product_id": "java-html-sanitizer",
+  "name": "Java Html Sanitizer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "java_html_sanitizer",
+      "confidence": "auto"
+    }
+  ]
+}

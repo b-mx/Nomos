@@ -1,0 +1,10 @@
+id: ub-e04-firmware
+vendor_id: epson
+name: Ub-E04 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:ub\-e04_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ub-e04_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cp1w-dab21v-firmware
+vendor_id: omron
+name: Cp1W-Dab21V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1w\-dab21v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-dab21v_firmware
+  confidence: auto

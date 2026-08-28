@@ -1,0 +1,7 @@
+id: sqlite
+name: Sqlite
+cpe: cpe:2.3:*:sqlite:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sqlite
+  confidence: auto

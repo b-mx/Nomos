@@ -1,0 +1,10 @@
+id: z70-80-firmware
+vendor_id: lenovo
+name: Z70-80 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:z70\-80_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z70-80_firmware
+  confidence: auto

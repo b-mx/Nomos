@@ -1,0 +1,10 @@
+id: sv-cpt-mc310-firmware
+vendor_id: contec
+name: Sv-Cpt-Mc310 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:contec:sv\-cpt\-mc310_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sv-cpt-mc310_firmware
+  confidence: auto

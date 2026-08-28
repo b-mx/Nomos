@@ -1,0 +1,10 @@
+id: workcentre-238
+vendor_id: xerox
+name: Workcentre 238
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:workcentre_238:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_238
+  confidence: auto

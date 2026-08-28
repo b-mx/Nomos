@@ -1,0 +1,10 @@
+id: travel-support-program
+vendor_id: opensuse
+name: Travel Support Program
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:travel_support_program:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: travel_support_program
+  confidence: auto

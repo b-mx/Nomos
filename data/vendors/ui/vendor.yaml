@@ -1,0 +1,7 @@
+id: ui
+name: Ui
+cpe: cpe:2.3:*:ui:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ui
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x792-firmware
+vendor_id: lexmark
+name: X792 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:x792_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x792_firmware
+  confidence: auto

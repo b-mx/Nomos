@@ -1,0 +1,10 @@
+id: mfc-l2715dw-twn-firmware
+vendor_id: brother
+name: Mfc-L2715Dw(Twn) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-l2715dw\(twn\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l2715dw(twn)_firmware
+  confidence: auto

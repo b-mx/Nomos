@@ -1,0 +1,10 @@
+id: mate-x
+vendor_id: ecovacs
+name: Mate X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:mate_x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mate_x
+  confidence: auto

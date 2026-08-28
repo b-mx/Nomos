@@ -1,0 +1,10 @@
+id: microk8s
+vendor_id: canonical
+name: Microk8S
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:microk8s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microk8s
+  confidence: auto

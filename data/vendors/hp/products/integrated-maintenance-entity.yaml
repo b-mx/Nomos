@@ -1,0 +1,10 @@
+id: integrated-maintenance-entity
+vendor_id: hp
+name: Integrated Maintenance Entity
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:integrated_maintenance_entity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_maintenance_entity
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pyxis-pharmopack-firmware
+vendor_id: bd
+name: Pyxis Pharmopack Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:pyxis_pharmopack_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_pharmopack_firmware
+  confidence: auto

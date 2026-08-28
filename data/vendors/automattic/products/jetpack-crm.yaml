@@ -1,0 +1,10 @@
+id: jetpack-crm
+vendor_id: automattic
+name: Jetpack Crm
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:jetpack_crm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetpack_crm
+  confidence: auto

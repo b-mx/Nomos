@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--k9u05b-firmware",
+  "vendor_id": "hp",
+  "product_id": "k9u05b-firmware",
+  "name": "K9U05B Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k9u05b_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

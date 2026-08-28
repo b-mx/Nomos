@@ -1,0 +1,10 @@
+id: simple-forum-discussion-system
+vendor_id: oretnom23
+name: Simple Forum/Discussion System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:simple_forum\/discussion_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_forum/discussion_system
+  confidence: auto

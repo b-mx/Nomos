@@ -1,0 +1,10 @@
+id: qne-6080rvw-firmware
+vendor_id: hanwhavision
+name: Qne-6080Rvw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:qne\-6080rvw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qne-6080rvw_firmware
+  confidence: auto

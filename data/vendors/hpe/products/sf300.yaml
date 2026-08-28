@@ -1,0 +1,10 @@
+id: sf300
+vendor_id: hpe
+name: Sf300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:sf300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sf300
+  confidence: auto

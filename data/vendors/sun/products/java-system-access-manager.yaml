@@ -1,0 +1,10 @@
+id: java-system-access-manager
+vendor_id: sun
+name: Java System Access Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_system_access_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_system_access_manager
+  confidence: auto

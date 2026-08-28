@@ -1,0 +1,9 @@
+id: citrix-vad
+vendor_id: citrix-vad
+name: Citrix Virtual Apps and Desktops
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: citrix-vad
+  confidence: auto

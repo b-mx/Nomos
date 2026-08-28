@@ -1,0 +1,10 @@
+id: horde-form
+vendor_id: horde
+name: Horde Form
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:horde_form:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: horde_form
+  confidence: auto

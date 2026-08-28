@@ -1,0 +1,10 @@
+id: pavilion-x360-firmware
+vendor_id: hp
+name: Pavilion X360 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:pavilion_x360_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_x360_firmware
+  confidence: auto

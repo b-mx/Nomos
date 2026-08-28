@@ -1,0 +1,10 @@
+id: mybuildings
+vendor_id: abb
+name: Mybuildings
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:mybuildings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mybuildings
+  confidence: auto

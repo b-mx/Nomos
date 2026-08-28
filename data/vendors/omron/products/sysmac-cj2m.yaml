@@ -1,0 +1,10 @@
+id: sysmac-cj2m
+vendor_id: omron
+name: Sysmac Cj2M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cj2m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cj2m
+  confidence: auto

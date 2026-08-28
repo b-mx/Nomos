@@ -1,0 +1,10 @@
+id: ops-center-automator
+vendor_id: hitachi
+name: Ops Center Automator
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:ops_center_automator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ops_center_automator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gt23
+vendor_id: mitsubishielectric
+name: Gt23
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:gt23:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gt23
+  confidence: auto

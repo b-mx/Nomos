@@ -1,0 +1,10 @@
+id: emerge-e3-firmware
+vendor_id: nortekcontrol
+name: Emerge E3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nortekcontrol:emerge_e3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emerge_e3_firmware
+  confidence: auto

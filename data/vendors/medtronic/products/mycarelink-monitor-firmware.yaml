@@ -1,0 +1,10 @@
+id: mycarelink-monitor-firmware
+vendor_id: medtronic
+name: Mycarelink Monitor Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:mycarelink_monitor_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mycarelink_monitor_firmware
+  confidence: auto

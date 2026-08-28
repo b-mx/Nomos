@@ -1,0 +1,10 @@
+id: tg852g-firmware
+vendor_id: arris
+name: Tg852G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arris:tg852g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg852g_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ibootbar-firmware
+vendor_id: dataprobe
+name: Ibootbar Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dataprobe:ibootbar_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ibootbar_firmware
+  confidence: auto

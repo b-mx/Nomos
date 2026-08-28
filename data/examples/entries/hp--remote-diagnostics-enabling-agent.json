@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--remote-diagnostics-enabling-agent",
+  "vendor_id": "hp",
+  "product_id": "remote-diagnostics-enabling-agent",
+  "name": "Remote Diagnostics Enabling Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remote_diagnostics_enabling_agent",
+      "confidence": "auto"
+    }
+  ]
+}

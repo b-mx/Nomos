@@ -1,0 +1,10 @@
+id: zoo-management-system
+vendor_id: phpgurukul
+name: Zoo Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:zoo_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zoo_management_system
+  confidence: auto

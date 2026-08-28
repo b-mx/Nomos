@@ -1,0 +1,10 @@
+id: allen-bradley-stratix-8300-industrial-managed-ethernet-switch
+vendor_id: rockwellautomation
+name: Allen-Bradley Stratix 8300 Industrial Managed Ethernet Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:allen\-bradley_stratix_8300_industrial_managed_ethernet_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: allen-bradley_stratix_8300_industrial_managed_ethernet_switch
+  confidence: auto

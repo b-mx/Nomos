@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11spm-tpf",
+  "vendor_id": "supermicro",
+  "product_id": "x11spm-tpf",
+  "name": "X11Spm-Tpf",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11spm-tpf",
+      "confidence": "auto"
+    }
+  ]
+}

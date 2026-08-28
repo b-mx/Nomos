@@ -1,0 +1,10 @@
+id: lenovo-v720-14ikb-firmware
+vendor_id: lenovo
+name: Lenovo V720-14Ikb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:lenovo_v720\-14ikb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_v720-14ikb_firmware
+  confidence: auto

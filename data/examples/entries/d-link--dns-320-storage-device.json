@@ -4,21 +4,14 @@
   "vendor_id": "d-link",
   "product_id": "dns-320-storage-device",
   "name": "DNS-320 Storage Device",
-  "type": "hardware",
-  "tags": [
-    "dns"
-  ],
+  "type": "software",
+  "tags": [],
   "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "DNS-320 Storage Device",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "DNS-320 Device",
       "confidence": "auto"
     }
   ]

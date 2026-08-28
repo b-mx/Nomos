@@ -1,0 +1,10 @@
+id: honor-view-10
+vendor_id: huawei
+name: Honor View 10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:honor_view_10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_view_10
+  confidence: auto

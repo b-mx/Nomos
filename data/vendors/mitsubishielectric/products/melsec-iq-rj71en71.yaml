@@ -1,0 +1,10 @@
+id: melsec-iq-rj71en71
+vendor_id: mitsubishielectric
+name: Melsec Iq-Rj71En71
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_iq\-rj71en71:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-rj71en71
+  confidence: auto

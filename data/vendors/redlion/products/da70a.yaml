@@ -1,0 +1,10 @@
+id: da70a
+vendor_id: redlion
+name: Da70A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redlion:da70a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: da70a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tr4400
+vendor_id: commscope
+name: Tr4400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:tr4400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tr4400
+  confidence: auto

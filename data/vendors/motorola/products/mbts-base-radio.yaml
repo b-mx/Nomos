@@ -1,0 +1,10 @@
+id: mbts-base-radio
+vendor_id: motorola
+name: Mbts Base Radio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:mbts_base_radio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbts_base_radio
+  confidence: auto

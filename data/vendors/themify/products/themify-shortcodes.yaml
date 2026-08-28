@@ -1,0 +1,10 @@
+id: themify-shortcodes
+vendor_id: themify
+name: Themify Shortcodes
+type: software
+tags: []
+cpe: cpe:2.3:a:themify:themify_shortcodes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: themify_shortcodes
+  confidence: auto

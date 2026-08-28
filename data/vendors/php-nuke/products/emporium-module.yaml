@@ -1,0 +1,10 @@
+id: emporium-module
+vendor_id: php-nuke
+name: Emporium Module
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-nuke:emporium_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emporium_module
+  confidence: auto

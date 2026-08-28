@@ -1,0 +1,10 @@
+id: chec
+vendor_id: toshiba
+name: Chec
+type: software
+tags: []
+cpe: cpe:2.3:a:toshiba:chec:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chec
+  confidence: auto

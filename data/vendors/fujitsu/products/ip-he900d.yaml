@@ -1,0 +1,10 @@
+id: ip-he900d
+vendor_id: fujitsu
+name: Ip-He900D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:ip\-he900d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip-he900d
+  confidence: auto

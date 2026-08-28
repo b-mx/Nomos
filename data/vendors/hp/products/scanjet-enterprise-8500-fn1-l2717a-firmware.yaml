@@ -1,0 +1,10 @@
+id: scanjet-enterprise-8500-fn1-l2717a-firmware
+vendor_id: hp
+name: Scanjet Enterprise 8500 Fn1 L2717A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:scanjet_enterprise_8500_fn1_l2717a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scanjet_enterprise_8500_fn1_l2717a_firmware
+  confidence: auto

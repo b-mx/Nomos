@@ -1,0 +1,10 @@
+id: wn-g300r3-firmware
+vendor_id: iodata
+name: Wn-G300R3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:wn\-g300r3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn-g300r3_firmware
+  confidence: auto

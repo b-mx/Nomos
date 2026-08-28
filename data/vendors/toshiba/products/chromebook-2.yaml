@@ -1,0 +1,10 @@
+id: chromebook-2
+vendor_id: toshiba
+name: Chromebook 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshiba:chromebook_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chromebook_2
+  confidence: auto

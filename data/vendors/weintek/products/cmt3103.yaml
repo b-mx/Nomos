@@ -1,0 +1,10 @@
+id: cmt3103
+vendor_id: weintek
+name: Cmt3103
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weintek:cmt3103:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt3103
+  confidence: auto

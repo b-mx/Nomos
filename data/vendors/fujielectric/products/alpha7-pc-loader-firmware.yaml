@@ -1,0 +1,10 @@
+id: alpha7-pc-loader-firmware
+vendor_id: fujielectric
+name: Alpha7 Pc Loader Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujielectric:alpha7_pc_loader_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alpha7_pc_loader_firmware
+  confidence: auto

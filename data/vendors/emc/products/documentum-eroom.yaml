@@ -1,0 +1,10 @@
+id: documentum-eroom
+vendor_id: emc
+name: Documentum Eroom
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_eroom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_eroom
+  confidence: auto

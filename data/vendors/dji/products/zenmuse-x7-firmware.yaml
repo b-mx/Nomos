@@ -1,0 +1,10 @@
+id: zenmuse-x7-firmware
+vendor_id: dji
+name: Zenmuse X7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dji:zenmuse_x7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenmuse_x7_firmware
+  confidence: auto

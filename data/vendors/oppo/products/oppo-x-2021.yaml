@@ -1,0 +1,10 @@
+id: oppo-x-2021
+vendor_id: oppo
+name: Oppo X 2021
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_x_2021:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_x_2021
+  confidence: auto

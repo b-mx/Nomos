@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--rpc-ruserd",
+  "vendor_id": "sun",
+  "product_id": "rpc-ruserd",
+  "name": "Rpc.Ruserd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rpc.ruserd",
+      "confidence": "auto"
+    }
+  ]
+}

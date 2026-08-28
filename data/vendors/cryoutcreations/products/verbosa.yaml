@@ -1,0 +1,10 @@
+id: verbosa
+vendor_id: cryoutcreations
+name: Verbosa
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:verbosa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: verbosa
+  confidence: auto

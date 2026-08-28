@@ -1,0 +1,10 @@
+id: pacsystems-rsti-ep-cpe-100-firmware
+vendor_id: ge
+name: Pacsystems Rsti-Ep Cpe 100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:pacsystems_rsti\-ep_cpe_100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pacsystems_rsti-ep_cpe_100_firmware
+  confidence: auto

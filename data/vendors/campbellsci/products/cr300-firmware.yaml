@@ -1,0 +1,10 @@
+id: cr300-firmware
+vendor_id: campbellsci
+name: Cr300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:campbellsci:cr300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cr300_firmware
+  confidence: auto

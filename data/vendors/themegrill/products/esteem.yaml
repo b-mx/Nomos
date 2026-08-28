@@ -1,0 +1,10 @@
+id: esteem
+vendor_id: themegrill
+name: Esteem
+type: software
+tags: []
+cpe: cpe:2.3:a:themegrill:esteem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esteem
+  confidence: auto

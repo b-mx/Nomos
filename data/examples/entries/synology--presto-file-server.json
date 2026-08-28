@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--presto-file-server",
+  "vendor_id": "synology",
+  "product_id": "presto-file-server",
+  "name": "Presto File Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "presto_file_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: product-inventory-system
+vendor_id: fabian
+name: Product Inventory System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:product_inventory_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_inventory_system
+  confidence: auto

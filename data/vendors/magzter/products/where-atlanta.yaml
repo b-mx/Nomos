@@ -1,0 +1,10 @@
+id: where-atlanta
+vendor_id: magzter
+name: Where Atlanta
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:where_atlanta:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: where_atlanta
+  confidence: auto

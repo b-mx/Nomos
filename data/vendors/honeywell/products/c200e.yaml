@@ -1,0 +1,10 @@
+id: c200e
+vendor_id: honeywell
+name: C200E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:c200e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c200e
+  confidence: auto

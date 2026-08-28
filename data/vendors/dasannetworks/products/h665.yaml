@@ -1,0 +1,10 @@
+id: h665
+vendor_id: dasannetworks
+name: H665
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dasannetworks:h665:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h665
+  confidence: auto

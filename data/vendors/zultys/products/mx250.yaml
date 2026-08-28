@@ -1,0 +1,10 @@
+id: mx250
+vendor_id: zultys
+name: Mx250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zultys:mx250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx250
+  confidence: auto

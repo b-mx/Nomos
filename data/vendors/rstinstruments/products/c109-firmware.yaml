@@ -1,0 +1,10 @@
+id: c109-firmware
+vendor_id: rstinstruments
+name: C109 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:c109_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c109_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: daily-calories-monitoring-tool
+vendor_id: rems
+name: Daily Calories Monitoring Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:daily_calories_monitoring_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: daily_calories_monitoring_tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ui-library
+vendor_id: yahoo
+name: Ui Library
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:ui_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ui_library
+  confidence: auto

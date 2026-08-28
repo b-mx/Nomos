@@ -1,0 +1,7 @@
+id: fujitsu
+name: Fujitsu
+cpe: cpe:2.3:*:fujitsu:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fujitsu
+  confidence: auto

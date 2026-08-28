@@ -1,0 +1,10 @@
+id: ds-780n
+vendor_id: epson
+name: Ds-780N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ds\-780n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds-780n
+  confidence: auto

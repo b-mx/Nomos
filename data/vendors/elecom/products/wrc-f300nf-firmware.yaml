@@ -1,0 +1,10 @@
+id: wrc-f300nf-firmware
+vendor_id: elecom
+name: Wrc-F300Nf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wrc\-f300nf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrc-f300nf_firmware
+  confidence: auto

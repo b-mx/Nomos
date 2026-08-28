@@ -1,0 +1,10 @@
+id: officejet-8010-3uc58d
+vendor_id: hp
+name: Officejet 8010 3Uc58D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_8010_3uc58d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_8010_3uc58d
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--patrol-perform-agent",
+  "vendor_id": "bmc",
+  "product_id": "patrol-perform-agent",
+  "name": "Patrol Perform Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "patrol_perform_agent",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: extend-director
+vendor_id: novell
+name: Extend Director
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:extend_director:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: extend_director
+  confidence: auto

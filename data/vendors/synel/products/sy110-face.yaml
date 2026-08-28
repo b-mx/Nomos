@@ -1,0 +1,10 @@
+id: sy110-face
+vendor_id: synel
+name: Sy110 Face
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synel:sy110_face:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sy110_face
+  confidence: auto

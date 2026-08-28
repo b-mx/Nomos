@@ -1,0 +1,10 @@
+id: z61-turbo
+vendor_id: lavamobiles
+name: Z61 Turbo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lavamobiles:z61_turbo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z61_turbo
+  confidence: auto

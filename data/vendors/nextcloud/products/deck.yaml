@@ -1,0 +1,10 @@
+id: deck
+vendor_id: nextcloud
+name: Deck
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:deck:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deck
+  confidence: auto

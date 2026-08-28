@@ -1,0 +1,10 @@
+id: esp-eye-firmware
+vendor_id: espressif
+name: Esp-Eye Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:espressif:esp\-eye_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp-eye_firmware
+  confidence: auto

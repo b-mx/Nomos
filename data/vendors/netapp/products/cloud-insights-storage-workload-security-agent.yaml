@@ -1,0 +1,10 @@
+id: cloud-insights-storage-workload-security-agent
+vendor_id: netapp
+name: Cloud Insights Storage Workload Security Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:cloud_insights_storage_workload_security_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_insights_storage_workload_security_agent
+  confidence: auto

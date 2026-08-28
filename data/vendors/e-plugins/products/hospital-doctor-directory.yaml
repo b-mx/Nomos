@@ -1,0 +1,10 @@
+id: hospital-doctor-directory
+vendor_id: e-plugins
+name: Hospital & Doctor Directory
+type: software
+tags: []
+cpe: cpe:2.3:a:e\-plugins:hospital_\&_doctor_directory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hospital_&_doctor_directory
+  confidence: auto

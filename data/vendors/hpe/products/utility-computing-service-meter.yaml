@@ -1,0 +1,10 @@
+id: utility-computing-service-meter
+vendor_id: hpe
+name: Utility Computing Service Meter
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:utility_computing_service_meter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: utility_computing_service_meter
+  confidence: auto

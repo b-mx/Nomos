@@ -1,0 +1,14 @@
+id: yarn
+vendor_id: yarnpkg
+name: Yarn
+type: software
+tags:
+- build-tool
+cpe: cpe:2.3:a:yarnpkg:yarn:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: yarn
+  confidence: auto
+- source: nvd
+  value: yarn
+  confidence: auto

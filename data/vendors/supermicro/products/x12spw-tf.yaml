@@ -1,0 +1,10 @@
+id: x12spw-tf
+vendor_id: supermicro
+name: X12Spw-Tf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12spw\-tf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12spw-tf
+  confidence: auto

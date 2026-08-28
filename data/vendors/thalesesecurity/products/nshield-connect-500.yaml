@@ -1,0 +1,10 @@
+id: nshield-connect-500
+vendor_id: thalesesecurity
+name: Nshield Connect 500+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:thalesesecurity:nshield_connect_500\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nshield_connect_500+
+  confidence: auto

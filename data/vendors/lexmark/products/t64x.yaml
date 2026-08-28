@@ -1,0 +1,10 @@
+id: t64x
+vendor_id: lexmark
+name: T64X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:t64x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t64x
+  confidence: auto

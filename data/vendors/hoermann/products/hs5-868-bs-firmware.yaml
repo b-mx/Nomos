@@ -1,0 +1,10 @@
+id: hs5-868-bs-firmware
+vendor_id: hoermann
+name: Hs5-868-Bs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hoermann:hs5\-868\-bs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hs5-868-bs_firmware
+  confidence: auto

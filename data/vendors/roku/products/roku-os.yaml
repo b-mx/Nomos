@@ -1,0 +1,10 @@
+id: roku-os
+vendor_id: roku
+name: Roku Os
+type: os
+tags: []
+cpe: cpe:2.3:o:roku:roku_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roku_os
+  confidence: auto

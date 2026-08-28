@@ -1,0 +1,10 @@
+id: hb8008r-firmware
+vendor_id: hbgk
+name: Hb8008R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb8008r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb8008r_firmware
+  confidence: auto

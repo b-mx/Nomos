@@ -1,0 +1,10 @@
+id: jd444a
+vendor_id: hp
+name: Jd444A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd444a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd444a
+  confidence: auto

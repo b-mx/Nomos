@@ -1,0 +1,10 @@
+id: aruba-8325-48y8c
+vendor_id: hpe
+name: Aruba 8325-48Y8C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_8325\-48y8c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_8325-48y8c
+  confidence: auto

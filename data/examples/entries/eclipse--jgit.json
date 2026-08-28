@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--jgit",
+  "vendor_id": "eclipse",
+  "product_id": "jgit",
+  "name": "Jgit",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jgit",
+      "confidence": "auto"
+    }
+  ]
+}

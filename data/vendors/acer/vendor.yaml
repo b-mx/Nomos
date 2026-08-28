@@ -1,0 +1,7 @@
+id: acer
+name: Acer
+cpe: cpe:2.3:*:acer:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acer
+  confidence: auto

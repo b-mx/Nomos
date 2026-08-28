@@ -1,0 +1,13 @@
+id: opnsense
+vendor_id: opnsense
+name: OPNsense
+type: software
+tags: []
+cpe: cpe:2.3:a:opnsense:opnsense:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: opnsense
+  confidence: auto
+- source: nvd
+  value: opnsense
+  confidence: auto

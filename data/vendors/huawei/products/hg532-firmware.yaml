@@ -1,0 +1,10 @@
+id: hg532-firmware
+vendor_id: huawei
+name: Hg532 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hg532_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg532_firmware
+  confidence: auto

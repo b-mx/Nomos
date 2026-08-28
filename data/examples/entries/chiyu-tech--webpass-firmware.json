@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "chiyu-tech--webpass-firmware",
+  "vendor_id": "chiyu-tech",
+  "product_id": "webpass-firmware",
+  "name": "Webpass Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "webpass_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

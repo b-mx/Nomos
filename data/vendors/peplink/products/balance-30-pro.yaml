@@ -1,0 +1,10 @@
+id: balance-30-pro
+vendor_id: peplink
+name: Balance 30 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:balance_30_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: balance_30_pro
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hdi-4000-firmware
+vendor_id: philips
+name: Hdi 4000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:hdi_4000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdi_4000_firmware
+  confidence: auto

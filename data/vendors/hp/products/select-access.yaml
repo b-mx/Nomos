@@ -1,0 +1,10 @@
+id: select-access
+vendor_id: hp
+name: Select Access
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:select_access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: select_access
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fritz-box-6840-lte
+vendor_id: avm
+name: Fritz!Box 6840 Lte
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avm:fritz\!box_6840_lte:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fritz!box_6840_lte
+  confidence: auto

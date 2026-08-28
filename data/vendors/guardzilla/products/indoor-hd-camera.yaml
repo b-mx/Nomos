@@ -1,0 +1,10 @@
+id: indoor-hd-camera
+vendor_id: guardzilla
+name: Indoor Hd Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:guardzilla:indoor_hd_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: indoor_hd_camera
+  confidence: auto

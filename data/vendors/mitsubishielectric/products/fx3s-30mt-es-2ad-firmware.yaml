@@ -1,0 +1,10 @@
+id: fx3s-30mt-es-2ad-firmware
+vendor_id: mitsubishielectric
+name: Fx3S-30Mt/Es-2Ad Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3s\-30mt\/es\-2ad_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3s-30mt/es-2ad_firmware
+  confidence: auto

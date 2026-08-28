@@ -1,0 +1,10 @@
+id: audio-video-and-signaling
+vendor_id: wire
+name: Audio, Video, And Signaling
+type: software
+tags: []
+cpe: cpe:2.3:a:wire:audio\,_video\,_and_signaling:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: audio,_video,_and_signaling
+  confidence: auto

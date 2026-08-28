@@ -5,16 +5,14 @@
   "product_id": "runtime",
   "name": "Runtime",
   "type": "software",
-  "tags": [
-    "runtime"
-  ],
-  "icon": "logos:android-icon",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Runtime",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

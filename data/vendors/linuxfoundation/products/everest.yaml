@@ -1,0 +1,10 @@
+id: everest
+vendor_id: linuxfoundation
+name: Everest
+type: os
+tags: []
+cpe: cpe:2.3:o:linuxfoundation:everest:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: everest
+  confidence: auto

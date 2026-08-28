@@ -1,0 +1,7 @@
+id: opera
+name: Opera
+cpe: cpe:2.3:*:opera:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opera
+  confidence: auto

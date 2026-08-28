@@ -1,0 +1,14 @@
+id: api-platform
+vendor_id: api-platform
+name: API Platform
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:api\-platform:core:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: api-platform
+  confidence: auto
+- source: nvd
+  value: core
+  confidence: auto

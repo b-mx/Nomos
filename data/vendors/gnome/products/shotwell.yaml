@@ -1,0 +1,10 @@
+id: shotwell
+vendor_id: gnome
+name: Shotwell
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:shotwell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shotwell
+  confidence: auto

@@ -1,0 +1,10 @@
+id: integrated-lights-out-amplifier
+vendor_id: hpe
+name: Integrated Lights-Out Amplifier
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:integrated_lights\-out_amplifier:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_lights-out_amplifier
+  confidence: auto

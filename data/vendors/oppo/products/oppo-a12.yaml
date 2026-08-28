@@ -1,0 +1,10 @@
+id: oppo-a12
+vendor_id: oppo
+name: Oppo A12
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_a12:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_a12
+  confidence: auto

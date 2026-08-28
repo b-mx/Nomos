@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "twitter--twitter-server",
+  "vendor_id": "twitter",
+  "product_id": "twitter-server",
+  "name": "Twitter-Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "twitter-server",
+      "confidence": "auto"
+    }
+  ]
+}

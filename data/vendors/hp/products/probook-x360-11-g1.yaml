@@ -1,0 +1,10 @@
+id: probook-x360-11-g1
+vendor_id: hp
+name: Probook X360 11 G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:probook_x360_11_g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: probook_x360_11_g1
+  confidence: auto

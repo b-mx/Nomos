@@ -1,0 +1,10 @@
+id: hdx-9006
+vendor_id: polycom
+name: Hdx 9006
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:hdx_9006:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdx_9006
+  confidence: auto

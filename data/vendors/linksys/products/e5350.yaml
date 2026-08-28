@@ -1,0 +1,10 @@
+id: e5350
+vendor_id: linksys
+name: E5350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:e5350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e5350
+  confidence: auto

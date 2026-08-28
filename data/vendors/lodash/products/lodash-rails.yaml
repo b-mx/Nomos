@@ -1,0 +1,10 @@
+id: lodash-rails
+vendor_id: lodash
+name: Lodash-Rails
+type: software
+tags: []
+cpe: cpe:2.3:a:lodash:lodash\-rails:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lodash-rails
+  confidence: auto

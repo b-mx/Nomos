@@ -1,0 +1,10 @@
+id: cs1000e
+vendor_id: avaya
+name: Cs1000E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:cs1000e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1000e
+  confidence: auto

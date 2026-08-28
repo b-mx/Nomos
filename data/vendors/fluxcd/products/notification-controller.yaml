@@ -1,0 +1,10 @@
+id: notification-controller
+vendor_id: fluxcd
+name: Notification-Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:fluxcd:notification\-controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notification-controller
+  confidence: auto

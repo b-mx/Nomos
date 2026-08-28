@@ -1,0 +1,10 @@
+id: sw1dnn-eipct-bd-firmware
+vendor_id: mitsubishielectric
+name: Sw1Dnn-Eipct-Bd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:sw1dnn\-eipct\-bd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sw1dnn-eipct-bd_firmware
+  confidence: auto

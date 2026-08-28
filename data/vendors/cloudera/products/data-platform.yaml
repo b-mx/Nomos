@@ -1,0 +1,10 @@
+id: data-platform
+vendor_id: cloudera
+name: Data Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudera:data_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_platform
+  confidence: auto

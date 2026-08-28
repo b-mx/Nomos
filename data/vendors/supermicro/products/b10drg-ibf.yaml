@@ -1,0 +1,10 @@
+id: b10drg-ibf
+vendor_id: supermicro
+name: B10Drg-Ibf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b10drg\-ibf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b10drg-ibf
+  confidence: auto

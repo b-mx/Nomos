@@ -1,0 +1,10 @@
+id: clerk-nuxt
+vendor_id: clerk
+name: Clerk/Nuxt
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/nuxt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/nuxt
+  confidence: auto

@@ -1,0 +1,7 @@
+id: suse
+name: Suse
+cpe: cpe:2.3:*:suse:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse
+  confidence: auto

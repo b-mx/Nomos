@@ -1,0 +1,10 @@
+id: hpack
+vendor_id: golang
+name: Hpack
+type: software
+tags: []
+cpe: cpe:2.3:a:golang:hpack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpack
+  confidence: auto

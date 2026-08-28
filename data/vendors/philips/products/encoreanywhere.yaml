@@ -1,0 +1,10 @@
+id: encoreanywhere
+vendor_id: philips
+name: Encoreanywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:encoreanywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: encoreanywhere
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nonstop
+vendor_id: hpe
+name: Nonstop
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:nonstop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nonstop
+  confidence: auto

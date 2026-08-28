@@ -1,0 +1,10 @@
+id: x-dock-6600
+vendor_id: draeger
+name: X-Dock 6600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:draeger:x\-dock_6600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-dock_6600
+  confidence: auto

@@ -1,0 +1,10 @@
+id: stanza
+vendor_id: lutron
+name: Stanza
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lutron:stanza:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stanza
+  confidence: auto

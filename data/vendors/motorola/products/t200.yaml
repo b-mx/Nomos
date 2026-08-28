@@ -1,0 +1,10 @@
+id: t200
+vendor_id: motorola
+name: T200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:t200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t200
+  confidence: auto

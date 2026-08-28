@@ -1,0 +1,10 @@
+id: lms153
+vendor_id: sick
+name: Lms153
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:lms153:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lms153
+  confidence: auto

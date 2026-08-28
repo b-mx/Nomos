@@ -1,0 +1,10 @@
+id: recommended-products
+vendor_id: easydigitaldownloads
+name: Recommended Products
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:recommended_products:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recommended_products
+  confidence: auto

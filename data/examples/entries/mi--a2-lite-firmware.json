@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mi--a2-lite-firmware",
+  "vendor_id": "mi",
+  "product_id": "a2-lite-firmware",
+  "name": "A2 Lite Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a2_lite_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

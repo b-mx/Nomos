@@ -1,0 +1,10 @@
+id: workstationst
+vendor_id: ge
+name: Workstationst
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:workstationst:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workstationst
+  confidence: auto

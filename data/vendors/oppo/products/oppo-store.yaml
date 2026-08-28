@@ -1,0 +1,10 @@
+id: oppo-store
+vendor_id: oppo
+name: Oppo Store
+type: software
+tags: []
+cpe: cpe:2.3:a:oppo:oppo_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_store
+  confidence: auto

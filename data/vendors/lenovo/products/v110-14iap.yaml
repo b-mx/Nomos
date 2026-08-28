@@ -1,0 +1,10 @@
+id: v110-14iap
+vendor_id: lenovo
+name: V110-14Iap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v110\-14iap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v110-14iap
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mccgq01lm-firmware
+vendor_id: mi
+name: Mccgq01Lm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:mccgq01lm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mccgq01lm_firmware
+  confidence: auto

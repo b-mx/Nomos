@@ -1,0 +1,7 @@
+id: secutech-project
+name: Secutech Project
+cpe: cpe:2.3:*:secutech_project:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secutech_project
+  confidence: auto

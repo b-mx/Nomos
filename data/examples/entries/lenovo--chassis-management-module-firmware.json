@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--chassis-management-module-firmware",
+  "vendor_id": "lenovo",
+  "product_id": "chassis-management-module-firmware",
+  "name": "Chassis Management Module Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "chassis_management_module_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

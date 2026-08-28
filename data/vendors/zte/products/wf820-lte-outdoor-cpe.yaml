@@ -1,0 +1,10 @@
+id: wf820-lte-outdoor-cpe
+vendor_id: zte
+name: Wf820+ Lte Outdoor Cpe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:wf820\+_lte_outdoor_cpe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wf820+_lte_outdoor_cpe
+  confidence: auto

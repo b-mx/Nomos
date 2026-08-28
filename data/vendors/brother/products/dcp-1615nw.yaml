@@ -1,0 +1,10 @@
+id: dcp-1615nw
+vendor_id: brother
+name: Dcp-1615Nw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-1615nw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-1615nw
+  confidence: auto

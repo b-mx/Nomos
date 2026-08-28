@@ -1,0 +1,10 @@
+id: xm1135
+vendor_id: lexmark
+name: Xm1135
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xm1135:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm1135
+  confidence: auto

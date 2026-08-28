@@ -1,0 +1,10 @@
+id: midas-black-firmware
+vendor_id: honeywell
+name: Midas Black Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:midas_black_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: midas_black_firmware
+  confidence: auto

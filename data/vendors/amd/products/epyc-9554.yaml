@@ -1,0 +1,10 @@
+id: epyc-9554
+vendor_id: amd
+name: Epyc 9554
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_9554:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_9554
+  confidence: auto

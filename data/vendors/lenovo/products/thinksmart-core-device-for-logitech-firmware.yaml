@@ -1,0 +1,10 @@
+id: thinksmart-core-device-for-logitech-firmware
+vendor_id: lenovo
+name: Thinksmart Core Device For Logitech Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksmart_core_device_for_logitech_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksmart_core_device_for_logitech_firmware
+  confidence: auto

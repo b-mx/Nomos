@@ -1,0 +1,10 @@
+id: vbios-flash-tool-software-development-kit
+vendor_id: amd
+name: Vbios Flash Tool Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:vbios_flash_tool_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vbios_flash_tool_software_development_kit
+  confidence: auto

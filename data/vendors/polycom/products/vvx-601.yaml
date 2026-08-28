@@ -1,0 +1,10 @@
+id: vvx-601
+vendor_id: polycom
+name: Vvx 601
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx_601:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx_601
+  confidence: auto

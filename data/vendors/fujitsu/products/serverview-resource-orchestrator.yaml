@@ -1,0 +1,10 @@
+id: serverview-resource-orchestrator
+vendor_id: fujitsu
+name: Serverview Resource Orchestrator
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:serverview_resource_orchestrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: serverview_resource_orchestrator
+  confidence: auto

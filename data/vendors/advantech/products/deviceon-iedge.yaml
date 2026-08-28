@@ -1,0 +1,10 @@
+id: deviceon-iedge
+vendor_id: advantech
+name: Deviceon/Iedge
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:deviceon\/iedge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deviceon/iedge
+  confidence: auto

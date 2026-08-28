@@ -1,0 +1,10 @@
+id: snapmanager
+vendor_id: netapp
+name: Snapmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:snapmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snapmanager
+  confidence: auto

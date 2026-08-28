@@ -1,0 +1,10 @@
+id: snmp-agents-for-linux
+vendor_id: hp
+name: Snmp Agents For Linux
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:snmp_agents_for_linux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snmp_agents_for_linux
+  confidence: auto

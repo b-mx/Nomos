@@ -1,0 +1,10 @@
+id: v-simulator
+vendor_id: fujielectric
+name: V-Simulator
+type: software
+tags: []
+cpe: cpe:2.3:a:fujielectric:v\-simulator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v-simulator
+  confidence: auto

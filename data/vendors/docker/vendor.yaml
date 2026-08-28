@@ -1,7 +1,6 @@
 id: docker
 name: Docker
-icon: logos:docker-icon
 aliases:
-  - source: nvd
-    value: docker
-    confidence: curated
+- source: cisa_kev
+  value: Docker
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zigbee-emberznet
+vendor_id: silabs
+name: Zigbee Emberznet
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:zigbee_emberznet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zigbee_emberznet
+  confidence: auto

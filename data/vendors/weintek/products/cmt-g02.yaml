@@ -1,0 +1,10 @@
+id: cmt-g02
+vendor_id: weintek
+name: Cmt-G02
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weintek:cmt\-g02:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt-g02
+  confidence: auto

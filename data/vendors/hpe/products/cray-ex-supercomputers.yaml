@@ -1,0 +1,10 @@
+id: cray-ex-supercomputers
+vendor_id: hpe
+name: Cray Ex Supercomputers
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:cray_ex_supercomputers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cray_ex_supercomputers
+  confidence: auto

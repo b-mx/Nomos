@@ -1,0 +1,10 @@
+id: tm-c3500
+vendor_id: epson
+name: Tm-C3500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-c3500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-c3500
+  confidence: auto

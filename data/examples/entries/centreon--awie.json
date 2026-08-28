@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "centreon--awie",
+  "vendor_id": "centreon",
+  "product_id": "awie",
+  "name": "Awie",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "awie",
+      "confidence": "auto"
+    }
+  ]
+}

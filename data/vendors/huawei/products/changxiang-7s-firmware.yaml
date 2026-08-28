@@ -1,0 +1,10 @@
+id: changxiang-7s-firmware
+vendor_id: huawei
+name: Changxiang 7S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:changxiang_7s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: changxiang_7s_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkpad-l380
+vendor_id: lenovo
+name: Thinkpad L380
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_l380:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_l380
+  confidence: auto

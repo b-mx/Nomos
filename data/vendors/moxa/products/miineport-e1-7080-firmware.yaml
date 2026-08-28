@@ -1,0 +1,10 @@
+id: miineport-e1-7080-firmware
+vendor_id: moxa
+name: Miineport E1 7080 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:miineport_e1_7080_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miineport_e1_7080_firmware
+  confidence: auto

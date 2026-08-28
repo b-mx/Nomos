@@ -1,0 +1,10 @@
+id: elitebook-revolve-810-g2
+vendor_id: hp
+name: Elitebook Revolve 810 G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_revolve_810_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_revolve_810_g2
+  confidence: auto

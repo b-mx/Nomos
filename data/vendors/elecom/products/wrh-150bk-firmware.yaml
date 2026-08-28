@@ -1,0 +1,10 @@
+id: wrh-150bk-firmware
+vendor_id: elecom
+name: Wrh-150Bk Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wrh\-150bk_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrh-150bk_firmware
+  confidence: auto

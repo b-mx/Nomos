@@ -1,0 +1,10 @@
+id: vipr-srm
+vendor_id: emc
+name: Vipr Srm
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:vipr_srm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vipr_srm
+  confidence: auto

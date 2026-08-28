@@ -1,0 +1,10 @@
+id: ips-module-firmware
+vendor_id: huawei
+name: Ips Module Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ips_module_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ips_module_firmware
+  confidence: auto

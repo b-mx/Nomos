@@ -1,0 +1,7 @@
+id: comtrend
+name: Comtrend
+cpe: cpe:2.3:*:comtrend:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comtrend
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ghosts
+vendor_id: cmu
+name: Ghosts
+type: software
+tags: []
+cpe: cpe:2.3:a:cmu:ghosts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ghosts
+  confidence: auto

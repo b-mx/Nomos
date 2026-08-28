@@ -1,0 +1,10 @@
+id: m750vs
+vendor_id: mitsubishielectric
+name: M750Vs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:m750vs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m750vs
+  confidence: auto

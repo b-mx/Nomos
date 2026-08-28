@@ -1,0 +1,10 @@
+id: californium
+vendor_id: eclipse
+name: Californium
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:californium:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: californium
+  confidence: auto

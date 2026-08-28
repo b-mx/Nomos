@@ -1,0 +1,10 @@
+id: ambit-ddw2600
+vendor_id: ubeeinteractive
+name: Ambit Ddw2600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ubeeinteractive:ambit_ddw2600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ambit_ddw2600
+  confidence: auto

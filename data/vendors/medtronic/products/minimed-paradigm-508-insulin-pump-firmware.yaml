@@ -1,0 +1,10 @@
+id: minimed-paradigm-508-insulin-pump-firmware
+vendor_id: medtronic
+name: Minimed Paradigm 508 Insulin Pump Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:minimed_paradigm_508_insulin_pump_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_paradigm_508_insulin_pump_firmware
+  confidence: auto

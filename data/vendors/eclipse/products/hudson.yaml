@@ -1,0 +1,10 @@
+id: hudson
+vendor_id: eclipse
+name: Hudson
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:hudson:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hudson
+  confidence: auto

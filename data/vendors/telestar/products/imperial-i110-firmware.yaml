@@ -1,0 +1,10 @@
+id: imperial-i110-firmware
+vendor_id: telestar
+name: Imperial I110 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:telestar:imperial_i110_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imperial_i110_firmware
+  confidence: auto

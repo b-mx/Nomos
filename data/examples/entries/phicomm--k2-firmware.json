@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phicomm--k2-firmware",
+  "vendor_id": "phicomm",
+  "product_id": "k2-firmware",
+  "name": "K2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

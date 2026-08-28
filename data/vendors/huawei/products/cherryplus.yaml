@@ -1,0 +1,10 @@
+id: cherryplus
+vendor_id: huawei
+name: Cherryplus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cherryplus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cherryplus
+  confidence: auto

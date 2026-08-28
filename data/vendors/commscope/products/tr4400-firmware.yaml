@@ -1,0 +1,10 @@
+id: tr4400-firmware
+vendor_id: commscope
+name: Tr4400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:commscope:tr4400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tr4400_firmware
+  confidence: auto

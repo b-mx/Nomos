@@ -1,0 +1,10 @@
+id: hd-mb10ty
+vendor_id: toshiba
+name: Hd-Mb10Ty
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshiba:hd\-mb10ty:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hd-mb10ty
+  confidence: auto

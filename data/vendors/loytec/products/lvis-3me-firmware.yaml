@@ -1,0 +1,10 @@
+id: lvis-3me-firmware
+vendor_id: loytec
+name: Lvis-3Me Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:loytec:lvis\-3me_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lvis-3me_firmware
+  confidence: auto

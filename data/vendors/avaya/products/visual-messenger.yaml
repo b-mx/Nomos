@@ -1,0 +1,10 @@
+id: visual-messenger
+vendor_id: avaya
+name: Visual Messenger
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:visual_messenger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visual_messenger
+  confidence: auto

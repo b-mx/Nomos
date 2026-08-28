@@ -1,0 +1,10 @@
+id: vmware-vforums-2014
+vendor_id: core-apps
+name: Vmware Vforums 2014
+type: software
+tags: []
+cpe: cpe:2.3:a:core\-apps:vmware_vforums_2014:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vmware_vforums_2014
+  confidence: auto

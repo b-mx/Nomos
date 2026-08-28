@@ -1,0 +1,10 @@
+id: agentgateway
+vendor_id: lfprojects
+name: Agentgateway
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:agentgateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: agentgateway
+  confidence: auto

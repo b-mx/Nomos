@@ -1,0 +1,10 @@
+id: reviewx
+vendor_id: wpdeveloper
+name: Reviewx
+type: software
+tags: []
+cpe: cpe:2.3:a:wpdeveloper:reviewx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reviewx
+  confidence: auto

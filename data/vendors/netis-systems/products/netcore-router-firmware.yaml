@@ -1,0 +1,10 @@
+id: netcore-router-firmware
+vendor_id: netis-systems
+name: Netcore Router Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netis\-systems:netcore_router_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netcore_router_firmware
+  confidence: auto

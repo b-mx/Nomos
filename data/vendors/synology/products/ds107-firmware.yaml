@@ -1,0 +1,10 @@
+id: ds107-firmware
+vendor_id: synology
+name: Ds107 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:synology:ds107_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds107_firmware
+  confidence: auto

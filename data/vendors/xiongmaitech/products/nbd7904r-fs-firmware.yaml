@@ -1,0 +1,10 @@
+id: nbd7904r-fs-firmware
+vendor_id: xiongmaitech
+name: Nbd7904R-Fs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:nbd7904r\-fs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbd7904r-fs_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xec-dn64h
+vendor_id: ls-electric
+name: Xec-Dn64H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xec\-dn64h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dn64h
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cx-drive
+vendor_id: omron
+name: Cx-Drive
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:cx\-drive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-drive
+  confidence: auto

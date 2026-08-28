@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openmrs--reference-application",
+  "vendor_id": "openmrs",
+  "product_id": "reference-application",
+  "name": "Reference Application",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "reference_application",
+      "confidence": "auto"
+    }
+  ]
+}

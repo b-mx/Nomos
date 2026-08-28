@@ -1,0 +1,10 @@
+id: customer-support-system
+vendor_id: oretnom23
+name: Customer Support System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:customer_support_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: customer_support_system
+  confidence: auto

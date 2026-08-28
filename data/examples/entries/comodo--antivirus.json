@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "comodo--antivirus",
+  "vendor_id": "comodo",
+  "product_id": "antivirus",
+  "name": "Antivirus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "antivirus",
+      "confidence": "auto"
+    }
+  ]
+}

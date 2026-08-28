@@ -1,0 +1,10 @@
+id: enzoh-w5611t-firmware
+vendor_id: huawei
+name: Enzoh-W5611T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:enzoh\-w5611t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enzoh-w5611t_firmware
+  confidence: auto

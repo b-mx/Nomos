@@ -1,0 +1,10 @@
+id: whr-600d
+vendor_id: buffalotech
+name: Whr-600D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:whr\-600d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-600d
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nbd7808t-pl-firmware
+vendor_id: xiongmaitech
+name: Nbd7808T-Pl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:nbd7808t\-pl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbd7808t-pl_firmware
+  confidence: auto

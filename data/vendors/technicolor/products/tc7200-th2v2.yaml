@@ -1,0 +1,10 @@
+id: tc7200-th2v2
+vendor_id: technicolor
+name: Tc7200.Th2V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tc7200\.th2v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7200.th2v2
+  confidence: auto

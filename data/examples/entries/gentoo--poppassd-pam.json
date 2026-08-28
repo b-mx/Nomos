@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gentoo--poppassd-pam",
+  "vendor_id": "gentoo",
+  "product_id": "poppassd-pam",
+  "name": "Poppassd Pam",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "poppassd_pam",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: ilc-171-eth-2tx
+vendor_id: phoenixcontact
+name: Ilc 171 Eth 2Tx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:ilc_171_eth_2tx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilc_171_eth_2tx
+  confidence: auto

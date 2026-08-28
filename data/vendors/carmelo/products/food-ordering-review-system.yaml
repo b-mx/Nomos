@@ -1,0 +1,10 @@
+id: food-ordering-review-system
+vendor_id: carmelo
+name: Food Ordering Review System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:food_ordering_review_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: food_ordering_review_system
+  confidence: auto

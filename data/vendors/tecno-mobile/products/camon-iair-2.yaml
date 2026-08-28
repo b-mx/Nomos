@@ -1,0 +1,10 @@
+id: camon-iair-2
+vendor_id: tecno-mobile
+name: Camon Iair 2+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tecno\-mobile:camon_iair_2\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: camon_iair_2+
+  confidence: auto

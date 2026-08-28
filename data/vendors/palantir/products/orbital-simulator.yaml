@@ -1,0 +1,10 @@
+id: orbital-simulator
+vendor_id: palantir
+name: Orbital Simulator
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:orbital_simulator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: orbital_simulator
+  confidence: auto

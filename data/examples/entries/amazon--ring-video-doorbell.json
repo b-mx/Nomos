@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--ring-video-doorbell",
+  "vendor_id": "amazon",
+  "product_id": "ring-video-doorbell",
+  "name": "Ring Video Doorbell",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ring_video_doorbell",
+      "confidence": "auto"
+    }
+  ]
+}

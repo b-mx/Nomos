@@ -1,0 +1,10 @@
+id: channel-export
+vendor_id: mattermost
+name: Channel Export
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:channel_export:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: channel_export
+  confidence: auto

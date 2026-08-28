@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "joyent--triton-datacenter",
+  "vendor_id": "joyent",
+  "product_id": "triton-datacenter",
+  "name": "Triton Datacenter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "triton_datacenter",
+      "confidence": "auto"
+    }
+  ]
+}

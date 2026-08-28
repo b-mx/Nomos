@@ -1,0 +1,10 @@
+id: softco
+vendor_id: huawei
+name: Softco
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:softco:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softco
+  confidence: auto

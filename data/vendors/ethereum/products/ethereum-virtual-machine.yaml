@@ -1,0 +1,10 @@
+id: ethereum-virtual-machine
+vendor_id: ethereum
+name: Ethereum Virtual Machine
+type: software
+tags: []
+cpe: cpe:2.3:a:ethereum:ethereum_virtual_machine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ethereum_virtual_machine
+  confidence: auto

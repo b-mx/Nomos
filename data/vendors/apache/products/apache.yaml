@@ -1,0 +1,9 @@
+id: apache
+vendor_id: apache
+name: Apache
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Apache
+  confidence: auto

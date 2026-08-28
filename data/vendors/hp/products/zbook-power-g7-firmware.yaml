@@ -1,0 +1,10 @@
+id: zbook-power-g7-firmware
+vendor_id: hp
+name: Zbook Power G7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zbook_power_g7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_power_g7_firmware
+  confidence: auto

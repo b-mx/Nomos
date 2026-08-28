@@ -1,0 +1,10 @@
+id: ohv-f230-b17-firmware
+vendor_id: pepperl-fuchs
+name: Ohv-F230-B17 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:ohv\-f230\-b17_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ohv-f230-b17_firmware
+  confidence: auto

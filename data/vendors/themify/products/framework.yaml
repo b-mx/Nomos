@@ -1,0 +1,10 @@
+id: framework
+vendor_id: themify
+name: Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:themify:framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: framework
+  confidence: auto

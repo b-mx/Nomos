@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--instantos",
+  "vendor_id": "hp",
+  "product_id": "instantos",
+  "name": "Instantos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "instantos",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: opensearch-notifications
+vendor_id: amazon
+name: Opensearch Notifications
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:opensearch_notifications:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensearch_notifications
+  confidence: auto

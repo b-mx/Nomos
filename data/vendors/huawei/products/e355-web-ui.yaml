@@ -1,0 +1,10 @@
+id: e355-web-ui
+vendor_id: huawei
+name: E355 Web Ui
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:e355_web_ui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e355_web_ui
+  confidence: auto

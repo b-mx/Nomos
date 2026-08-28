@@ -1,0 +1,10 @@
+id: jetnet-5612gp-4f
+vendor_id: korenix
+name: Jetnet 5612Gp-4F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetnet_5612gp\-4f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_5612gp-4f
+  confidence: auto

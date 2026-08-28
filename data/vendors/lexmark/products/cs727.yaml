@@ -1,0 +1,10 @@
+id: cs727
+vendor_id: lexmark
+name: Cs727
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs727:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs727
+  confidence: auto

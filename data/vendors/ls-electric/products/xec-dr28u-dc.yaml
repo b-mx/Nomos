@@ -1,0 +1,10 @@
+id: xec-dr28u-dc
+vendor_id: ls-electric
+name: Xec-Dr28U/Dc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xec\-dr28u\/dc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dr28u/dc
+  confidence: auto

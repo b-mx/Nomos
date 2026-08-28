@@ -1,0 +1,10 @@
+id: event-registration-calendar-by-vcita
+vendor_id: vcita
+name: Event Registration Calendar By Vcita
+type: software
+tags: []
+cpe: cpe:2.3:a:vcita:event_registration_calendar_by_vcita:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: event_registration_calendar_by_vcita
+  confidence: auto

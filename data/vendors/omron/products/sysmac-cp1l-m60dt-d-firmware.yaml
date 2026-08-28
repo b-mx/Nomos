@@ -1,0 +1,10 @@
+id: sysmac-cp1l-m60dt-d-firmware
+vendor_id: omron
+name: Sysmac Cp1L-M60Dt-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:sysmac_cp1l\-m60dt\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cp1l-m60dt-d_firmware
+  confidence: auto

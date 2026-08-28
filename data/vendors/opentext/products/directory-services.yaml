@@ -1,0 +1,10 @@
+id: directory-services
+vendor_id: opentext
+name: Directory Services
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:directory_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: directory_services
+  confidence: auto

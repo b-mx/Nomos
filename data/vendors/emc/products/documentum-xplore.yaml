@@ -1,0 +1,10 @@
+id: documentum-xplore
+vendor_id: emc
+name: Documentum Xplore
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_xplore:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_xplore
+  confidence: auto

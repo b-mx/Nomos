@@ -1,0 +1,10 @@
+id: centricity-pacs-ra1000
+vendor_id: ge
+name: Centricity Pacs Ra1000
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:centricity_pacs_ra1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centricity_pacs_ra1000
+  confidence: auto

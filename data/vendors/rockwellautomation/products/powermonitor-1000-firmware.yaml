@@ -1,0 +1,10 @@
+id: powermonitor-1000-firmware
+vendor_id: rockwellautomation
+name: Powermonitor 1000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:powermonitor_1000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powermonitor_1000_firmware
+  confidence: auto

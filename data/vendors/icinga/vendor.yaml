@@ -1,0 +1,7 @@
+id: icinga
+name: Icinga
+cpe: cpe:2.3:*:icinga:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icinga
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nec-md551c8-firmware
+vendor_id: sharp
+name: Nec Md551C8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:nec_md551c8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_md551c8_firmware
+  confidence: auto

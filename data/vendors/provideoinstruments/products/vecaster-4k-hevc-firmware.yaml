@@ -1,0 +1,10 @@
+id: vecaster-4k-hevc-firmware
+vendor_id: provideoinstruments
+name: Vecaster-4K-Hevc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:provideoinstruments:vecaster\-4k\-hevc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vecaster-4k-hevc_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: icdm-rx-pn1-db9-rj45-pm
+vendor_id: pepperl-fuchs
+name: Icdm-Rx/Pn1-Db9/Rj45-Pm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pepperl\-fuchs:icdm\-rx\/pn1\-db9\/rj45\-pm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icdm-rx/pn1-db9/rj45-pm
+  confidence: auto

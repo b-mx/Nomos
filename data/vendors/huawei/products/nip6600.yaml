@@ -1,0 +1,10 @@
+id: nip6600
+vendor_id: huawei
+name: Nip6600
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:nip6600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nip6600
+  confidence: auto

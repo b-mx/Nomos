@@ -1,0 +1,10 @@
+id: rackswitch-ne0152t
+vendor_id: lenovo
+name: Rackswitch Ne0152T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:rackswitch_ne0152t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rackswitch_ne0152t
+  confidence: auto

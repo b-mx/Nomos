@@ -1,0 +1,10 @@
+id: redmi-ax6
+vendor_id: mi
+name: Redmi Ax6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:redmi_ax6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_ax6
+  confidence: auto

@@ -1,0 +1,10 @@
+id: b305hw2-firmware
+vendor_id: peplink
+name: B305Hw2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:b305hw2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b305hw2_firmware
+  confidence: auto

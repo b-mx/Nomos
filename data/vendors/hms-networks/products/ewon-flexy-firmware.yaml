@@ -1,0 +1,10 @@
+id: ewon-flexy-firmware
+vendor_id: hms-networks
+name: Ewon Flexy Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hms\-networks:ewon_flexy_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ewon_flexy_firmware
+  confidence: auto

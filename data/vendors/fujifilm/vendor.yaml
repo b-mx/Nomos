@@ -1,0 +1,7 @@
+id: fujifilm
+name: Fujifilm
+cpe: cpe:2.3:*:fujifilm:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fujifilm
+  confidence: auto

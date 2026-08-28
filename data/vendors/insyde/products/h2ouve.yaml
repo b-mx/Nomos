@@ -1,0 +1,10 @@
+id: h2ouve
+vendor_id: insyde
+name: H2Ouve
+type: software
+tags: []
+cpe: cpe:2.3:a:insyde:h2ouve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h2ouve
+  confidence: auto

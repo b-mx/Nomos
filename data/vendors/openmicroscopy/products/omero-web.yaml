@@ -1,0 +1,10 @@
+id: omero-web
+vendor_id: openmicroscopy
+name: Omero.Web
+type: software
+tags: []
+cpe: cpe:2.3:a:openmicroscopy:omero\.web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omero.web
+  confidence: auto

@@ -1,0 +1,10 @@
+id: uc-5111-lx
+vendor_id: moxa
+name: Uc-5111-Lx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:uc\-5111\-lx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-5111-lx
+  confidence: auto

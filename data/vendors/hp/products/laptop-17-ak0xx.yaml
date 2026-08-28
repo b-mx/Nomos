@@ -1,0 +1,10 @@
+id: laptop-17-ak0xx
+vendor_id: hp
+name: Laptop 17-Ak0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_17\-ak0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_17-ak0xx
+  confidence: auto

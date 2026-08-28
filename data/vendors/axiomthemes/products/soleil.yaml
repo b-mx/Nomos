@@ -1,0 +1,10 @@
+id: soleil
+vendor_id: axiomthemes
+name: Soleil
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:soleil:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soleil
+  confidence: auto

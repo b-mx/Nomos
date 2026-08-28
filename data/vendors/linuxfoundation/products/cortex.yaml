@@ -1,0 +1,10 @@
+id: cortex
+vendor_id: linuxfoundation
+name: Cortex
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:cortex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cortex
+  confidence: auto

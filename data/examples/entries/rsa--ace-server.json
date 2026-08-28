@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--ace-server",
+  "vendor_id": "rsa",
+  "product_id": "ace-server",
+  "name": "Ace Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ace_server",
+      "confidence": "auto"
+    }
+  ]
+}

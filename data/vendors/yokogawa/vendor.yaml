@@ -1,0 +1,7 @@
+id: yokogawa
+name: Yokogawa
+cpe: cpe:2.3:*:yokogawa:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yokogawa
+  confidence: auto

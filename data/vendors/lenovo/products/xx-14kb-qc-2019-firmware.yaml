@@ -1,0 +1,10 @@
+id: xx-14kb-qc-2019-firmware
+vendor_id: lenovo
+name: Xx-14Kb Qc 2019 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:xx\-14kb_qc_2019_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xx-14kb_qc_2019_firmware
+  confidence: auto

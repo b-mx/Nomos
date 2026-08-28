@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "forcepoint--web-security",
+  "vendor_id": "forcepoint",
+  "product_id": "web-security",
+  "name": "Web Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web_security",
+      "confidence": "auto"
+    }
+  ]
+}

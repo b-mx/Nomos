@@ -1,0 +1,10 @@
+id: telepole-2-firmware
+vendor_id: mirion
+name: Telepole 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mirion:telepole_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: telepole_2_firmware
+  confidence: auto

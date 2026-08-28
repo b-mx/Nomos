@@ -1,0 +1,10 @@
+id: g50-80
+vendor_id: lenovo
+name: G50-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:g50\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g50-80
+  confidence: auto

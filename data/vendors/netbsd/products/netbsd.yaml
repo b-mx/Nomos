@@ -1,0 +1,13 @@
+id: netbsd
+vendor_id: netbsd
+name: NetBSD
+type: os
+tags: []
+cpe: cpe:2.3:o:netbsd:netbsd:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: netbsd
+  confidence: auto
+- source: nvd
+  value: netbsd
+  confidence: auto

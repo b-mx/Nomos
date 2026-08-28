@@ -1,0 +1,10 @@
+id: 5400r-firmware
+vendor_id: arubanetworks
+name: 5400R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:5400r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5400r_firmware
+  confidence: auto

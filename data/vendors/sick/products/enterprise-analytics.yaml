@@ -1,0 +1,10 @@
+id: enterprise-analytics
+vendor_id: sick
+name: Enterprise Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:enterprise_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_analytics
+  confidence: auto

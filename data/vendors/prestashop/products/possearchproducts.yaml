@@ -1,0 +1,10 @@
+id: possearchproducts
+vendor_id: prestashop
+name: Possearchproducts
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:possearchproducts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: possearchproducts
+  confidence: auto

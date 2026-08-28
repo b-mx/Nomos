@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--lintian",
+  "vendor_id": "debian",
+  "product_id": "lintian",
+  "name": "Lintian",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lintian",
+      "confidence": "auto"
+    }
+  ]
+}

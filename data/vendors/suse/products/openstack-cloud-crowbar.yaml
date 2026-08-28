@@ -1,0 +1,10 @@
+id: openstack-cloud-crowbar
+vendor_id: suse
+name: Openstack Cloud Crowbar
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:openstack_cloud_crowbar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstack_cloud_crowbar
+  confidence: auto

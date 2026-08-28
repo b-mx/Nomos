@@ -1,0 +1,10 @@
+id: myxalytics
+vendor_id: hcltech
+name: Myxalytics
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:myxalytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: myxalytics
+  confidence: auto

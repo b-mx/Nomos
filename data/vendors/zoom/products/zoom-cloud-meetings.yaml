@@ -1,0 +1,10 @@
+id: zoom-cloud-meetings
+vendor_id: zoom
+name: Zoom Cloud Meetings
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:zoom_cloud_meetings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zoom_cloud_meetings
+  confidence: auto

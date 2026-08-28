@@ -1,0 +1,10 @@
+id: array-diagnostics-utility
+vendor_id: hp
+name: Array Diagnostics Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:array_diagnostics_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: array_diagnostics_utility
+  confidence: auto

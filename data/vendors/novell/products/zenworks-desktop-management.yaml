@@ -1,0 +1,10 @@
+id: zenworks-desktop-management
+vendor_id: novell
+name: Zenworks Desktop Management
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:zenworks_desktop_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenworks_desktop_management
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sio-mb12cdr-firmware
+vendor_id: automationdirect
+name: Sio-Mb12Cdr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:sio\-mb12cdr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sio-mb12cdr_firmware
+  confidence: auto

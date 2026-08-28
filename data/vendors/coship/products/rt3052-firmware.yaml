@@ -1,0 +1,10 @@
+id: rt3052-firmware
+vendor_id: coship
+name: Rt3052 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:coship:rt3052_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt3052_firmware
+  confidence: auto

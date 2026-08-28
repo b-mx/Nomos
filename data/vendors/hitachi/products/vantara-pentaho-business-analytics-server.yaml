@@ -1,0 +1,10 @@
+id: vantara-pentaho-business-analytics-server
+vendor_id: hitachi
+name: Vantara Pentaho Business Analytics Server
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:vantara_pentaho_business_analytics_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vantara_pentaho_business_analytics_server
+  confidence: auto

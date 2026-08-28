@@ -1,0 +1,10 @@
+id: blade-l210
+vendor_id: zte
+name: Blade L210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:blade_l210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_l210
+  confidence: auto

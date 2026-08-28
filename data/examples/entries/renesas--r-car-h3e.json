@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "renesas--r-car-h3e",
+  "vendor_id": "renesas",
+  "product_id": "r-car-h3e",
+  "name": "R-Car H3E",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "r-car_h3e",
+      "confidence": "auto"
+    }
+  ]
+}

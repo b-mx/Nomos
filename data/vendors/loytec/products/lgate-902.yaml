@@ -1,0 +1,10 @@
+id: lgate-902
+vendor_id: loytec
+name: Lgate-902
+type: hardware
+tags: []
+cpe: cpe:2.3:h:loytec:lgate\-902:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lgate-902
+  confidence: auto

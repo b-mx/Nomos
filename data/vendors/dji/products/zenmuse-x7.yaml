@@ -1,0 +1,10 @@
+id: zenmuse-x7
+vendor_id: dji
+name: Zenmuse X7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dji:zenmuse_x7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenmuse_x7
+  confidence: auto

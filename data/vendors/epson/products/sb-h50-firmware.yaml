@@ -1,0 +1,10 @@
+id: sb-h50-firmware
+vendor_id: epson
+name: Sb-H50 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:sb\-h50_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sb-h50_firmware
+  confidence: auto

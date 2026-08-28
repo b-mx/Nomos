@@ -1,0 +1,10 @@
+id: dr-fone
+vendor_id: wondershare
+name: Dr.Fone
+type: software
+tags: []
+cpe: cpe:2.3:a:wondershare:dr\.fone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr.fone
+  confidence: auto

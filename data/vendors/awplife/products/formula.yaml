@@ -1,0 +1,10 @@
+id: formula
+vendor_id: awplife
+name: Formula
+type: software
+tags: []
+cpe: cpe:2.3:a:awplife:formula:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: formula
+  confidence: auto

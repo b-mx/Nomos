@@ -1,0 +1,10 @@
+id: mguard-smart-hw-101020
+vendor_id: innominate
+name: Mguard Smart Hw-101020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:innominate:mguard_smart_hw\-101020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_smart_hw-101020
+  confidence: auto

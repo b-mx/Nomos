@@ -1,0 +1,13 @@
+id: antix
+vendor_id: antixlinux
+name: antiX Linux
+type: os
+tags: []
+cpe: cpe:2.3:o:antixlinux:antix_linux:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: antix
+  confidence: auto
+- source: nvd
+  value: antix_linux
+  confidence: auto

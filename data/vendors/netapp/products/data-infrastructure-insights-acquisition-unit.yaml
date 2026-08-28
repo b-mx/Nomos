@@ -1,0 +1,10 @@
+id: data-infrastructure-insights-acquisition-unit
+vendor_id: netapp
+name: Data Infrastructure Insights Acquisition Unit
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:data_infrastructure_insights_acquisition_unit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_infrastructure_insights_acquisition_unit
+  confidence: auto

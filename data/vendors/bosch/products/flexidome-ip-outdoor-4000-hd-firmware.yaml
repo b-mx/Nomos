@@ -1,0 +1,10 @@
+id: flexidome-ip-outdoor-4000-hd-firmware
+vendor_id: bosch
+name: Flexidome Ip Outdoor 4000 Hd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:flexidome_ip_outdoor_4000_hd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_ip_outdoor_4000_hd_firmware
+  confidence: auto

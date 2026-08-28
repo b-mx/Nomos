@@ -1,0 +1,10 @@
+id: pr-400ki-firmware
+vendor_id: ntt-west
+name: Pr-400Ki Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ntt\-west:pr\-400ki_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pr-400ki_firmware
+  confidence: auto

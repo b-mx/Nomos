@@ -1,0 +1,10 @@
+id: s200
+vendor_id: gl-inet
+name: S200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:s200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s200
+  confidence: auto

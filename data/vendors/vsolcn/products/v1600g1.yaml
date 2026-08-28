@@ -1,0 +1,10 @@
+id: v1600g1
+vendor_id: vsolcn
+name: V1600G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vsolcn:v1600g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v1600g1
+  confidence: auto

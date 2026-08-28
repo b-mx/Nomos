@@ -1,0 +1,10 @@
+id: 209u7a-firmware
+vendor_id: hp
+name: 209U7A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:209u7a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 209u7a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: f9d36
+vendor_id: hp
+name: F9D36
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f9d36:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f9d36
+  confidence: auto

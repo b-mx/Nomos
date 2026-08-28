@@ -1,0 +1,10 @@
+id: elitedesk-705-g3-sff-pc
+vendor_id: hp
+name: Elitedesk 705 G3 Sff Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitedesk_705_g3_sff_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitedesk_705_g3_sff_pc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: football-espana-magazine
+vendor_id: pocketmags
+name: Football Espana Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:football_espana_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: football_espana_magazine
+  confidence: auto

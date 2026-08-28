@@ -1,0 +1,10 @@
+id: ewon-cosy-firmware
+vendor_id: hms-networks
+name: Ewon Cosy Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hms\-networks:ewon_cosy_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ewon_cosy_firmware
+  confidence: auto

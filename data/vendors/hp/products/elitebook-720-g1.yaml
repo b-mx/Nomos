@@ -1,0 +1,10 @@
+id: elitebook-720-g1
+vendor_id: hp
+name: 'Elitebook 720 G1 '
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_720_g1_:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_720_g1_
+  confidence: auto

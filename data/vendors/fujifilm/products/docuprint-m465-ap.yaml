@@ -1,0 +1,10 @@
+id: docuprint-m465-ap
+vendor_id: fujifilm
+name: Docuprint M465 Ap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:docuprint_m465_ap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_m465_ap
+  confidence: auto

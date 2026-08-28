@@ -1,0 +1,10 @@
+id: session-border-controller
+vendor_id: unify
+name: Session Border Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:unify:session_border_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: session_border_controller
+  confidence: auto

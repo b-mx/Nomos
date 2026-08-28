@@ -1,0 +1,10 @@
+id: 1288h-v5
+vendor_id: huawei
+name: 1288H V5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:1288h_v5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1288h_v5
+  confidence: auto

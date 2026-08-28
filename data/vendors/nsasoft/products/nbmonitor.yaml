@@ -1,0 +1,10 @@
+id: nbmonitor
+vendor_id: nsasoft
+name: Nbmonitor
+type: software
+tags: []
+cpe: cpe:2.3:a:nsasoft:nbmonitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbmonitor
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rp-210e-firmware
+vendor_id: auto-maskin
+name: Rp 210E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:auto\-maskin:rp_210e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rp_210e_firmware
+  confidence: auto

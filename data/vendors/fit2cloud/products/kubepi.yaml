@@ -1,0 +1,10 @@
+id: kubepi
+vendor_id: fit2cloud
+name: Kubepi
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:kubepi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kubepi
+  confidence: auto

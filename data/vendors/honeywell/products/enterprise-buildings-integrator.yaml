@@ -1,0 +1,10 @@
+id: enterprise-buildings-integrator
+vendor_id: honeywell
+name: Enterprise Buildings Integrator
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:enterprise_buildings_integrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_buildings_integrator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mbnet
+vendor_id: mbconnectline
+name: Mbnet
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbconnectline:mbnet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbnet
+  confidence: auto

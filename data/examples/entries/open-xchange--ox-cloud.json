@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "open-xchange--ox-cloud",
+  "vendor_id": "open-xchange",
+  "product_id": "ox-cloud",
+  "name": "Ox Cloud",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ox_cloud",
+      "confidence": "auto"
+    }
+  ]
+}

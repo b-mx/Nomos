@@ -1,0 +1,10 @@
+id: thomson-tcw710
+vendor_id: technicolor
+name: Thomson Tcw710
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:thomson_tcw710:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thomson_tcw710
+  confidence: auto

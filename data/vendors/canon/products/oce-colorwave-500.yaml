@@ -1,0 +1,10 @@
+id: oce-colorwave-500
+vendor_id: canon
+name: Oce Colorwave 500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:oce_colorwave_500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oce_colorwave_500
+  confidence: auto

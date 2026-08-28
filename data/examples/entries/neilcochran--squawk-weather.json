@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "neilcochran--squawk-weather",
+  "vendor_id": "neilcochran",
+  "product_id": "squawk-weather",
+  "name": "Squawk/Weather",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "squawk/weather",
+      "confidence": "auto"
+    }
+  ]
+}

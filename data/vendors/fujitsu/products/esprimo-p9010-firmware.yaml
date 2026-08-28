@@ -1,0 +1,10 @@
+id: esprimo-p9010-firmware
+vendor_id: fujitsu
+name: Esprimo P9010 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:esprimo_p9010_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esprimo_p9010_firmware
+  confidence: auto

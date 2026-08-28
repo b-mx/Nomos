@@ -1,0 +1,9 @@
+id: dbt-core
+vendor_id: dbt-core
+name: dbt Core
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: dbt-core
+  confidence: auto

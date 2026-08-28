@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "github--pull-requests-and-issues",
+  "vendor_id": "github",
+  "product_id": "pull-requests-and-issues",
+  "name": "Pull Requests And Issues",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pull_requests_and_issues",
+      "confidence": "auto"
+    }
+  ]
+}

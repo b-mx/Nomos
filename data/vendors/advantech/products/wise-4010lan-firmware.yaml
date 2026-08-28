@@ -1,0 +1,10 @@
+id: wise-4010lan-firmware
+vendor_id: advantech
+name: Wise-4010Lan Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:advantech:wise\-4010lan_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wise-4010lan_firmware
+  confidence: auto

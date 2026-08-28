@@ -1,0 +1,7 @@
+id: privatebin
+name: Privatebin
+cpe: cpe:2.3:*:privatebin:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: privatebin
+  confidence: auto

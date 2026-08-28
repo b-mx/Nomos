@@ -1,0 +1,10 @@
+id: a9u19a-firmware
+vendor_id: hp
+name: A9U19A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:a9u19a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a9u19a_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--ibmc",
+  "vendor_id": "huawei",
+  "product_id": "ibmc",
+  "name": "Ibmc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ibmc",
+      "confidence": "auto"
+    }
+  ]
+}

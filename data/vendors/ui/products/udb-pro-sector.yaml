@@ -1,0 +1,10 @@
+id: udb-pro-sector
+vendor_id: ui
+name: Udb-Pro-Sector
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:udb\-pro\-sector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: udb-pro-sector
+  confidence: auto

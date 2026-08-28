@@ -1,0 +1,10 @@
+id: nfs-volume-release
+vendor_id: cloudfoundry
+name: Nfs Volume Release
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:nfs_volume_release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nfs_volume_release
+  confidence: auto

@@ -1,0 +1,10 @@
+id: drive-composer
+vendor_id: abb
+name: Drive Composer
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:drive_composer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: drive_composer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: spider-catalog
+vendor_id: web-dorado
+name: Spider Catalog
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:spider_catalog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spider_catalog
+  confidence: auto

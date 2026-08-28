@@ -1,0 +1,10 @@
+id: air-5650
+vendor_id: airties
+name: Air 5650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airties:air_5650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air_5650
+  confidence: auto

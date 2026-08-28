@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11dpt-bh-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11dpt-bh-firmware",
+  "name": "X11Dpt-Bh Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11dpt-bh_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: gx-logviewer
+vendor_id: mitsubishielectric
+name: Gx Logviewer
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:gx_logviewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gx_logviewer
+  confidence: auto

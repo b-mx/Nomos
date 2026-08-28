@@ -1,0 +1,10 @@
+id: matrikon-opc-server
+vendor_id: honeywell
+name: Matrikon Opc Server
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:matrikon_opc_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matrikon_opc_server
+  confidence: auto

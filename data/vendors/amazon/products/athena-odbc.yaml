@@ -1,0 +1,10 @@
+id: athena-odbc
+vendor_id: amazon
+name: Athena Odbc
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:athena_odbc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athena_odbc
+  confidence: auto

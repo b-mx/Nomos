@@ -1,0 +1,10 @@
+id: rg-es205gc-firmware
+vendor_id: ruijie
+name: Rg-Es205Gc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-es205gc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-es205gc_firmware
+  confidence: auto

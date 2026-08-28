@@ -1,0 +1,7 @@
+id: advantech
+name: Advantech
+cpe: cpe:2.3:*:advantech:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advantech
+  confidence: auto

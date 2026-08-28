@@ -1,0 +1,10 @@
+id: id-charger-pro
+vendor_id: vw
+name: Id.Charger Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vw:id\.charger_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: id.charger_pro
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aerial-x-1200m
+vendor_id: wavlink
+name: Aerial X 1200M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wavlink:aerial_x_1200m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aerial_x_1200m
+  confidence: auto

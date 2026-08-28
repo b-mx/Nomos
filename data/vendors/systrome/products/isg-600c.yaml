@@ -1,0 +1,10 @@
+id: isg-600c
+vendor_id: systrome
+name: Isg-600C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:systrome:isg\-600c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isg-600c
+  confidence: auto

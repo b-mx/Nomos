@@ -1,0 +1,10 @@
+id: deskjet-2700-7fr58a-firmware
+vendor_id: hp
+name: Deskjet 2700 7Fr58A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:deskjet_2700_7fr58a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_2700_7fr58a_firmware
+  confidence: auto

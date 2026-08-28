@@ -1,0 +1,10 @@
+id: taxi-booking-script
+vendor_id: phpjabbers
+name: Taxi Booking Script
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:taxi_booking_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: taxi_booking_script
+  confidence: auto

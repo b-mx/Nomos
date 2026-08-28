@@ -1,0 +1,10 @@
+id: mguard-delta-bd-201000
+vendor_id: innominate
+name: Mguard Delta Bd-201000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:innominate:mguard_delta_bd\-201000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_delta_bd-201000
+  confidence: auto

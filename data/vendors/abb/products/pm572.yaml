@@ -1,0 +1,10 @@
+id: pm572
+vendor_id: abb
+name: Pm572
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm572:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm572
+  confidence: auto

@@ -1,0 +1,10 @@
+id: charx-sec-3000
+vendor_id: phoenixcontact
+name: Charx Sec-3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:charx_sec\-3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: charx_sec-3000
+  confidence: auto

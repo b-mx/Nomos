@@ -1,0 +1,10 @@
+id: speex
+vendor_id: xiph
+name: Speex
+type: software
+tags: []
+cpe: cpe:2.3:a:xiph:speex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: speex
+  confidence: auto

@@ -1,0 +1,10 @@
+id: chromebook-r11
+vendor_id: acer
+name: Chromebook R11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:chromebook_r11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chromebook_r11
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pc10p-tcc-6372
+vendor_id: jtekt
+name: Pc10P Tcc-6372
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:pc10p_tcc\-6372:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10p_tcc-6372
+  confidence: auto

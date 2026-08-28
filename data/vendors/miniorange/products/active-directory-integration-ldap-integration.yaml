@@ -1,0 +1,10 @@
+id: active-directory-integration-ldap-integration
+vendor_id: miniorange
+name: Active Directory Integration / Ldap Integration
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:active_directory_integration_\/_ldap_integration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_directory_integration_/_ldap_integration
+  confidence: auto

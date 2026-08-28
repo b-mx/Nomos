@@ -1,0 +1,10 @@
+id: brl-04r
+vendor_id: planex
+name: Brl-04R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:planex:brl\-04r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brl-04r
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x64xef
+vendor_id: lexmark
+name: X64Xef
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x64xef:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x64xef
+  confidence: auto

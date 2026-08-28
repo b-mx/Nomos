@@ -1,0 +1,10 @@
+id: discount-coupon
+vendor_id: ec-cube
+name: Discount Coupon
+type: software
+tags: []
+cpe: cpe:2.3:a:ec\-cube:discount_coupon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discount_coupon
+  confidence: auto

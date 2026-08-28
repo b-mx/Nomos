@@ -1,0 +1,10 @@
+id: arcmap
+vendor_id: esri
+name: Arcmap
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:arcmap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcmap
+  confidence: auto

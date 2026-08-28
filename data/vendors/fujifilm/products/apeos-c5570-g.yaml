@@ -1,0 +1,10 @@
+id: apeos-c5570-g
+vendor_id: fujifilm
+name: Apeos C5570 G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_c5570_g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_c5570_g
+  confidence: auto

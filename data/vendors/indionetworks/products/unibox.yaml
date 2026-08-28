@@ -1,0 +1,10 @@
+id: unibox
+vendor_id: indionetworks
+name: Unibox
+type: hardware
+tags: []
+cpe: cpe:2.3:h:indionetworks:unibox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unibox
+  confidence: auto

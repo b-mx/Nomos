@@ -1,0 +1,10 @@
+id: pdu-3c002dec
+vendor_id: rittal
+name: Pdu-3C002Dec
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rittal:pdu\-3c002dec:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdu-3c002dec
+  confidence: auto

@@ -1,0 +1,10 @@
+id: suse-linux-enterprise-live-patching
+vendor_id: novell
+name: Suse Linux Enterprise Live Patching
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:suse_linux_enterprise_live_patching:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_enterprise_live_patching
+  confidence: auto

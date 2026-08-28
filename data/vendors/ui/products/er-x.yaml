@@ -1,0 +1,10 @@
+id: er-x
+vendor_id: ui
+name: Er-X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:er\-x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er-x
+  confidence: auto

@@ -1,0 +1,10 @@
+id: md-404aa-firmware
+vendor_id: c-first
+name: Md-404Aa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:c\-first:md\-404aa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: md-404aa_firmware
+  confidence: auto

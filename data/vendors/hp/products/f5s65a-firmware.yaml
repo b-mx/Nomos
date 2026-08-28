@@ -1,0 +1,10 @@
+id: f5s65a-firmware
+vendor_id: hp
+name: F5S65A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:f5s65a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f5s65a_firmware
+  confidence: auto

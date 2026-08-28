@@ -1,0 +1,10 @@
+id: g3-firmware
+vendor_id: chuango
+name: G3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chuango:g3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g3_firmware
+  confidence: auto

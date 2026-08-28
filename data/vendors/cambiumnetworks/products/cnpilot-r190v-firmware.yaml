@@ -1,0 +1,10 @@
+id: cnpilot-r190v-firmware
+vendor_id: cambiumnetworks
+name: Cnpilot R190V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cambiumnetworks:cnpilot_r190v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cnpilot_r190v_firmware
+  confidence: auto

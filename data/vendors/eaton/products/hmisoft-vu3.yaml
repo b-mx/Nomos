@@ -1,0 +1,10 @@
+id: hmisoft-vu3
+vendor_id: eaton
+name: Hmisoft Vu3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:eaton:hmisoft_vu3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hmisoft_vu3
+  confidence: auto

@@ -1,0 +1,10 @@
+id: online-course-registration
+vendor_id: phpgurukul
+name: Online Course Registration
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:online_course_registration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_course_registration
+  confidence: auto

@@ -1,0 +1,10 @@
+id: deebot-x1s-pro-firmware
+vendor_id: ecovacs
+name: Deebot X1S Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ecovacs:deebot_x1s_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_x1s_pro_firmware
+  confidence: auto

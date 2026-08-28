@@ -1,0 +1,10 @@
+id: thinkpad-e450c-bios
+vendor_id: lenovo
+name: Thinkpad E450C Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_e450c_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_e450c_bios
+  confidence: auto

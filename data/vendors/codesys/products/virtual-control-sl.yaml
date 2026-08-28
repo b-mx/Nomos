@@ -1,0 +1,10 @@
+id: virtual-control-sl
+vendor_id: codesys
+name: Virtual Control Sl
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:virtual_control_sl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_control_sl
+  confidence: auto

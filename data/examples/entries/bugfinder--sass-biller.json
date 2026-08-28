@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bugfinder--sass-biller",
+  "vendor_id": "bugfinder",
+  "product_id": "sass-biller",
+  "name": "Sass Biller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sass_biller",
+      "confidence": "auto"
+    }
+  ]
+}

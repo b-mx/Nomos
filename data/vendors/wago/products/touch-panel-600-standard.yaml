@@ -1,0 +1,10 @@
+id: touch-panel-600-standard
+vendor_id: wago
+name: Touch Panel 600 Standard
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:touch_panel_600_standard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: touch_panel_600_standard
+  confidence: auto

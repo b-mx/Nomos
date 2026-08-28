@@ -1,0 +1,10 @@
+id: ne40e-firmware
+vendor_id: huawei
+name: Ne40E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ne40e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ne40e_firmware
+  confidence: auto

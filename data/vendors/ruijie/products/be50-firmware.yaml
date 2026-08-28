@@ -1,0 +1,10 @@
+id: be50-firmware
+vendor_id: ruijie
+name: Be50 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:be50_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: be50_firmware
+  confidence: auto

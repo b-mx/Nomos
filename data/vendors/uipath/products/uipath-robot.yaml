@@ -1,0 +1,10 @@
+id: uipath-robot
+vendor_id: uipath
+name: Uipath/Robot
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/robot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/robot
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hue
+vendor_id: cloudera
+name: Hue
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudera:hue:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hue
+  confidence: auto

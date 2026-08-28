@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trellix--data-loss-prevention",
+  "vendor_id": "trellix",
+  "product_id": "data-loss-prevention",
+  "name": "Data Loss Prevention",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "data_loss_prevention",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: proliant-sl160z-g6
+vendor_id: hp
+name: Proliant Sl160Z G6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_sl160z_g6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_sl160z_g6
+  confidence: auto

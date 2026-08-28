@@ -1,0 +1,10 @@
+id: v540-24iwl-all-in-one
+vendor_id: lenovo
+name: V540-24Iwl All-In-One
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v540\-24iwl_all\-in\-one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v540-24iwl_all-in-one
+  confidence: auto

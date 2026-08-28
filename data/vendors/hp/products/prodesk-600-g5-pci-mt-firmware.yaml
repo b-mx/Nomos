@@ -1,0 +1,10 @@
+id: prodesk-600-g5-pci-mt-firmware
+vendor_id: hp
+name: Prodesk 600 G5 Pci Mt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:prodesk_600_g5_pci_mt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_600_g5_pci_mt_firmware
+  confidence: auto

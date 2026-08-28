@@ -1,0 +1,10 @@
+id: watch-boot-nino-rpc-m2c
+vendor_id: meikyo
+name: Watch Boot Nino Rpc-M2C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meikyo:watch_boot_nino_rpc\-m2c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: watch_boot_nino_rpc-m2c
+  confidence: auto

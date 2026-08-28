@@ -1,0 +1,10 @@
+id: wdr-7
+vendor_id: tandd
+name: Wdr-7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tandd:wdr\-7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wdr-7
+  confidence: auto

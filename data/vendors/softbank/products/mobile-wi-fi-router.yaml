@@ -1,0 +1,10 @@
+id: mobile-wi-fi-router
+vendor_id: softbank
+name: Mobile Wi-Fi Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softbank:mobile_wi\-fi_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile_wi-fi_router
+  confidence: auto

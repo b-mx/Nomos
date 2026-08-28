@@ -4,10 +4,8 @@
   "vendor_id": "check-point",
   "product_id": "security-gateway",
   "name": "Security Gateway",
-  "type": "appliance",
-  "tags": [
-    "network-device"
-  ],
+  "type": "software",
+  "tags": [],
   "icon": null,
   "services": [],
   "aliases": [

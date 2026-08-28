@@ -1,0 +1,10 @@
+id: ipl-256-3u
+vendor_id: slican
+name: Ipl-256.3U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:slican:ipl\-256\.3u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipl-256.3u
+  confidence: auto

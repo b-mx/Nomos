@@ -2,10 +2,8 @@ id: litellm
 vendor_id: berriai
 name: LiteLLM
 type: software
-tags:
-- ai-ml
+tags: []
 aliases:
 - source: cisa_kev
   value: LiteLLM
-  confidence: curated
-icon: selfhst:litellm
+  confidence: auto

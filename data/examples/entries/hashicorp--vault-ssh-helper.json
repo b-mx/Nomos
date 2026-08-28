@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--vault-ssh-helper",
+  "vendor_id": "hashicorp",
+  "product_id": "vault-ssh-helper",
+  "name": "Vault-Ssh-Helper",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vault-ssh-helper",
+      "confidence": "auto"
+    }
+  ]
+}

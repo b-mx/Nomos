@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "htc--sdk-api",
+  "vendor_id": "htc",
+  "product_id": "sdk-api",
+  "name": "Sdk Api",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sdk_api",
+      "confidence": "auto"
+    }
+  ]
+}

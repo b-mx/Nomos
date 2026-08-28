@@ -1,0 +1,10 @@
+id: envy-17-ce1xxx
+vendor_id: hp
+name: Envy 17-Ce1Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_17\-ce1xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_17-ce1xxx
+  confidence: auto

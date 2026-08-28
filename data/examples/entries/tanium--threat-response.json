@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tanium--threat-response",
+  "vendor_id": "tanium",
+  "product_id": "threat-response",
+  "name": "Threat Response",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "threat_response",
+      "confidence": "auto"
+    }
+  ]
+}

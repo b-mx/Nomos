@@ -1,0 +1,10 @@
+id: active-backup-for-business-recovery-media-creator
+vendor_id: synology
+name: Active Backup For Business Recovery Media Creator
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:active_backup_for_business_recovery_media_creator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_backup_for_business_recovery_media_creator
+  confidence: auto

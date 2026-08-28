@@ -1,0 +1,10 @@
+id: quidway-s9300-firmware
+vendor_id: huawei
+name: Quidway S9300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:quidway_s9300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quidway_s9300_firmware
+  confidence: auto

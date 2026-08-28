@@ -1,0 +1,10 @@
+id: approval
+vendor_id: nextcloud
+name: Approval
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:approval:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: approval
+  confidence: auto

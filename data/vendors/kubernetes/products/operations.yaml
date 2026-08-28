@@ -1,0 +1,10 @@
+id: operations
+vendor_id: kubernetes
+name: Operations
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:operations:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: operations
+  confidence: auto

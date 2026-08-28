@@ -1,0 +1,10 @@
+id: patrol
+vendor_id: bmc
+name: Patrol
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:patrol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: patrol
+  confidence: auto

@@ -1,0 +1,10 @@
+id: max-br1-mk2-firmware
+vendor_id: peplink
+name: Max Br1 Mk2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:max_br1_mk2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_br1_mk2_firmware
+  confidence: auto

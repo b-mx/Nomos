@@ -1,0 +1,10 @@
+id: youth-incorporated
+vendor_id: magzter
+name: Youth Incorporated
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:youth_incorporated:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: youth_incorporated
+  confidence: auto

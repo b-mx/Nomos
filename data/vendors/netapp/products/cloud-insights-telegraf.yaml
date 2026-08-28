@@ -1,0 +1,10 @@
+id: cloud-insights-telegraf
+vendor_id: netapp
+name: Cloud Insights Telegraf
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:cloud_insights_telegraf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_insights_telegraf
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vericentre-web-console
+vendor_id: verifone
+name: Vericentre Web Console
+type: software
+tags: []
+cpe: cpe:2.3:a:verifone:vericentre_web_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vericentre_web_console
+  confidence: auto

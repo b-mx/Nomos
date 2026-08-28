@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "softing--uagate-si-firmware",
+  "vendor_id": "softing",
+  "product_id": "uagate-si-firmware",
+  "name": "Uagate Si Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "uagate_si_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

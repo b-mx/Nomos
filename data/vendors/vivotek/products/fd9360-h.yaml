@@ -1,0 +1,10 @@
+id: fd9360-h
+vendor_id: vivotek
+name: Fd9360-H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fd9360\-h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd9360-h
+  confidence: auto

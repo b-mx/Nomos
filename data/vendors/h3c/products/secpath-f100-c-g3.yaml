@@ -1,0 +1,10 @@
+id: secpath-f100-c-g3
+vendor_id: h3c
+name: Secpath F100-C-G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:secpath_f100\-c\-g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secpath_f100-c-g3
+  confidence: auto

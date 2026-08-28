@@ -1,0 +1,10 @@
+id: egrt-00-firmware
+vendor_id: huawei
+name: Egrt-00 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:egrt\-00_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: egrt-00_firmware
+  confidence: auto

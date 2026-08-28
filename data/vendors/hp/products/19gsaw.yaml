@@ -1,0 +1,10 @@
+id: 19gsaw
+vendor_id: hp
+name: 19Gsaw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:19gsaw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 19gsaw
+  confidence: auto

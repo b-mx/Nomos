@@ -1,0 +1,10 @@
+id: w1b38
+vendor_id: hp
+name: W1B38
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:w1b38:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1b38
+  confidence: auto

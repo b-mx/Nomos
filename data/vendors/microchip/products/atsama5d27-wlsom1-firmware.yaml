@@ -1,0 +1,10 @@
+id: atsama5d27-wlsom1-firmware
+vendor_id: microchip
+name: Atsama5D27-Wlsom1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:atsama5d27\-wlsom1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atsama5d27-wlsom1_firmware
+  confidence: auto

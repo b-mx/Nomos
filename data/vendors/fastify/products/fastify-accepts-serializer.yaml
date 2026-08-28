@@ -1,0 +1,10 @@
+id: fastify-accepts-serializer
+vendor_id: fastify
+name: Fastify/Accepts-Serializer
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:fastify\/accepts\-serializer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastify/accepts-serializer
+  confidence: auto

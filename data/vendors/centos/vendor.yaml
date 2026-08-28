@@ -1,0 +1,7 @@
+id: centos
+name: Centos
+cpe: cpe:2.3:*:centos:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centos
+  confidence: auto

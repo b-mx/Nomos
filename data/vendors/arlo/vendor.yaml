@@ -1,0 +1,7 @@
+id: arlo
+name: Arlo
+cpe: cpe:2.3:*:arlo:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arlo
+  confidence: auto

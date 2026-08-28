@@ -1,0 +1,10 @@
+id: transform-ndn-210-pro
+vendor_id: barco
+name: Transform Ndn-210 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:barco:transform_ndn\-210_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: transform_ndn-210_pro
+  confidence: auto

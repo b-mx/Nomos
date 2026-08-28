@@ -1,0 +1,10 @@
+id: sass-biller
+vendor_id: bugfinder
+name: Sass Biller
+type: software
+tags: []
+cpe: cpe:2.3:a:bugfinder:sass_biller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sass_biller
+  confidence: auto

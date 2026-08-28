@@ -1,0 +1,10 @@
+id: x12scv-w
+vendor_id: supermicro
+name: X12Scv-W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12scv\-w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12scv-w
+  confidence: auto

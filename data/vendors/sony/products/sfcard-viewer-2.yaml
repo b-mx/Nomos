@@ -1,0 +1,10 @@
+id: sfcard-viewer-2
+vendor_id: sony
+name: Sfcard Viewer 2
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:sfcard_viewer_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sfcard_viewer_2
+  confidence: auto

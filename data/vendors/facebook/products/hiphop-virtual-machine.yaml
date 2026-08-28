@@ -1,0 +1,10 @@
+id: hiphop-virtual-machine
+vendor_id: facebook
+name: Hiphop Virtual Machine
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:hiphop_virtual_machine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hiphop_virtual_machine
+  confidence: auto

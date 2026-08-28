@@ -1,0 +1,10 @@
+id: yubihsm-connector
+vendor_id: yubico
+name: Yubihsm Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:yubihsm_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yubihsm_connector
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cps-mg341-adsc1-111-firmware
+vendor_id: contec
+name: Cps-Mg341-Adsc1-111 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:contec:cps\-mg341\-adsc1\-111_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cps-mg341-adsc1-111_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--kconfig",
+  "vendor_id": "kde",
+  "product_id": "kconfig",
+  "name": "Kconfig",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kconfig",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: totalys-multiprocessor-firmware
+vendor_id: bd
+name: Totalys Multiprocessor Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:totalys_multiprocessor_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: totalys_multiprocessor_firmware
+  confidence: auto

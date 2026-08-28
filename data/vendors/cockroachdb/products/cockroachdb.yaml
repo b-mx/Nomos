@@ -1,0 +1,10 @@
+id: cockroachdb
+vendor_id: cockroachdb
+name: CockroachDB
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: cockroachdb
+  confidence: auto

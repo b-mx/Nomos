@@ -1,0 +1,10 @@
+id: c-cure-9000-firmware
+vendor_id: johnsoncontrols
+name: C-Cure 9000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:johnsoncontrols:c\-cure_9000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c-cure_9000_firmware
+  confidence: auto

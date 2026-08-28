@@ -1,0 +1,10 @@
+id: halibut
+vendor_id: octopus
+name: Halibut
+type: software
+tags: []
+cpe: cpe:2.3:a:octopus:halibut:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: halibut
+  confidence: auto

@@ -1,0 +1,10 @@
+id: streamline-nx-client-tool
+vendor_id: ricoh
+name: Streamline Nx Client Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:streamline_nx_client_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: streamline_nx_client_tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ryzen-5-pro-4400g-firmware
+vendor_id: amd
+name: Ryzen 5 Pro 4400G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_5_pro_4400g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_pro_4400g_firmware
+  confidence: auto

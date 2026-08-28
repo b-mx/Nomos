@@ -1,0 +1,10 @@
+id: vp9660-firmware
+vendor_id: huawei
+name: Vp9660 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:vp9660_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vp9660_firmware
+  confidence: auto

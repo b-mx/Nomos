@@ -1,0 +1,10 @@
+id: runtime-plcwinnt
+vendor_id: codesys
+name: Runtime Plcwinnt
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:runtime_plcwinnt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: runtime_plcwinnt
+  confidence: auto

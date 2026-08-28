@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--edgemax-edgerouter-firmware",
+  "vendor_id": "ui",
+  "product_id": "edgemax-edgerouter-firmware",
+  "name": "Edgemax Edgerouter Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edgemax_edgerouter_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

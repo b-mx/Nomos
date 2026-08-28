@@ -1,0 +1,10 @@
+id: logcenter
+vendor_id: huawei
+name: Logcenter
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:logcenter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logcenter
+  confidence: auto

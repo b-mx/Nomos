@@ -1,0 +1,10 @@
+id: optima-ct580rt
+vendor_id: gehealthcare
+name: Optima Ct580Rt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:optima_ct580rt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_ct580rt
+  confidence: auto

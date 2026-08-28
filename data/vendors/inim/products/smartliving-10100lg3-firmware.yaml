@@ -1,0 +1,10 @@
+id: smartliving-10100lg3-firmware
+vendor_id: inim
+name: Smartliving 10100Lg3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:inim:smartliving_10100lg3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartliving_10100lg3_firmware
+  confidence: auto

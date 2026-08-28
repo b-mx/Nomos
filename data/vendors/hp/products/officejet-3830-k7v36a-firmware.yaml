@@ -1,0 +1,10 @@
+id: officejet-3830-k7v36a-firmware
+vendor_id: hp
+name: Officejet 3830 K7V36A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_3830_k7v36a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_3830_k7v36a_firmware
+  confidence: auto

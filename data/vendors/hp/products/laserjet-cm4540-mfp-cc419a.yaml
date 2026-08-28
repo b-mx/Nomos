@@ -1,0 +1,10 @@
+id: laserjet-cm4540-mfp-cc419a
+vendor_id: hp
+name: Laserjet Cm4540 Mfp Cc419A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_cm4540_mfp_cc419a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_cm4540_mfp_cc419a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nec-un551s
+vendor_id: sharp
+name: Nec Un551S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:nec_un551s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_un551s
+  confidence: auto

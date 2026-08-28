@@ -1,0 +1,10 @@
+id: ethernetip
+vendor_id: codesys
+name: Ethernetip
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:ethernetip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ethernetip
+  confidence: auto

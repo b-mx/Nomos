@@ -1,0 +1,10 @@
+id: enterprise-volume-manager-command-scripter
+vendor_id: compaq
+name: Enterprise Volume Manager-Command Scripter
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:enterprise_volume_manager\-command_scripter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_volume_manager-command_scripter
+  confidence: auto

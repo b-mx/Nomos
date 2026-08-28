@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "endress--echo-curve-viewer",
+  "vendor_id": "endress",
+  "product_id": "echo-curve-viewer",
+  "name": "Echo Curve Viewer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "echo_curve_viewer",
+      "confidence": "auto"
+    }
+  ]
+}

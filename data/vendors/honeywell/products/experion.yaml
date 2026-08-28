@@ -1,0 +1,10 @@
+id: experion
+vendor_id: honeywell
+name: Experion
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:experion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: experion
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--knative-func",
+  "vendor_id": "linuxfoundation",
+  "product_id": "knative-func",
+  "name": "Knative Func",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "knative_func",
+      "confidence": "auto"
+    }
+  ]
+}

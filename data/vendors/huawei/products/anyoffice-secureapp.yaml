@@ -1,0 +1,10 @@
+id: anyoffice-secureapp
+vendor_id: huawei
+name: Anyoffice Secureapp
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:anyoffice_secureapp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anyoffice_secureapp
+  confidence: auto

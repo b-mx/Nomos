@@ -1,0 +1,10 @@
+id: ls2100e
+vendor_id: ge
+name: Ls2100E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:ls2100e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ls2100e
+  confidence: auto

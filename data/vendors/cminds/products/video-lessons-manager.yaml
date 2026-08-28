@@ -1,0 +1,10 @@
+id: video-lessons-manager
+vendor_id: cminds
+name: Video Lessons Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:cminds:video_lessons_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_lessons_manager
+  confidence: auto

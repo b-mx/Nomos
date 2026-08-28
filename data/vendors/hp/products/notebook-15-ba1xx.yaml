@@ -1,0 +1,10 @@
+id: notebook-15-ba1xx
+vendor_id: hp
+name: Notebook 15-Ba1Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:notebook_15\-ba1xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_15-ba1xx
+  confidence: auto

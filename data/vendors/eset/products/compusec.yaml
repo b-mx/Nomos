@@ -1,0 +1,10 @@
+id: compusec
+vendor_id: eset
+name: Compusec
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:compusec:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compusec
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bonkozoo-zoo
+vendor_id: themerex
+name: Bonkozoo Zoo
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:bonkozoo_zoo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bonkozoo_zoo
+  confidence: auto

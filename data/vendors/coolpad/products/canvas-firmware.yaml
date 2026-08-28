@@ -1,0 +1,10 @@
+id: canvas-firmware
+vendor_id: coolpad
+name: Canvas Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:coolpad:canvas_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: canvas_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: easylobby-solo
+vendor_id: hidglobal
+name: Easylobby Solo
+type: software
+tags: []
+cpe: cpe:2.3:a:hidglobal:easylobby_solo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easylobby_solo
+  confidence: auto

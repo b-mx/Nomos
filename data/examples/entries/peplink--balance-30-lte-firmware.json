@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--balance-30-lte-firmware",
+  "vendor_id": "peplink",
+  "product_id": "balance-30-lte-firmware",
+  "name": "Balance 30 Lte Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "balance_30_lte_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

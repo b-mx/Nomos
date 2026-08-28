@@ -1,0 +1,10 @@
+id: ideacentre-700
+vendor_id: lenovo
+name: Ideacentre 700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_700
+  confidence: auto

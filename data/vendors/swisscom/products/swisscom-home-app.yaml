@@ -1,0 +1,10 @@
+id: swisscom-home-app
+vendor_id: swisscom
+name: Swisscom Home App
+type: software
+tags: []
+cpe: cpe:2.3:a:swisscom:swisscom_home_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swisscom_home_app
+  confidence: auto

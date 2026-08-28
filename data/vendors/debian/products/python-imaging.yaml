@@ -1,0 +1,10 @@
+id: python-imaging
+vendor_id: debian
+name: Python-Imaging
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:python\-imaging:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: python-imaging
+  confidence: auto

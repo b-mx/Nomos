@@ -1,0 +1,10 @@
+id: thinkpad-helix-firmware
+vendor_id: lenovo
+name: Thinkpad Helix Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_helix_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_helix_firmware
+  confidence: auto

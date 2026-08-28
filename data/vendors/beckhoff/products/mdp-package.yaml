@@ -1,0 +1,10 @@
+id: mdp-package
+vendor_id: beckhoff
+name: Mdp Package
+type: software
+tags: []
+cpe: cpe:2.3:a:beckhoff:mdp_package:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mdp_package
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wzr-hp-ag300h
+vendor_id: buffalo
+name: Wzr-Hp-Ag300H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wzr\-hp\-ag300h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr-hp-ag300h
+  confidence: auto

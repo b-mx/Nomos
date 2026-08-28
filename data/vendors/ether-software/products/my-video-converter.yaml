@@ -1,0 +1,10 @@
+id: my-video-converter
+vendor_id: ether-software
+name: My Video Converter
+type: software
+tags: []
+cpe: cpe:2.3:a:ether_software:my_video_converter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_video_converter
+  confidence: auto

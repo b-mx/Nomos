@@ -1,0 +1,10 @@
+id: e24mv-g4-fhd
+vendor_id: hp
+name: E24Mv G4 Fhd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:e24mv_g4_fhd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e24mv_g4_fhd
+  confidence: auto

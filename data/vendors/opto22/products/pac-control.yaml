@@ -1,0 +1,10 @@
+id: pac-control
+vendor_id: opto22
+name: Pac Control
+type: software
+tags: []
+cpe: cpe:2.3:a:opto22:pac_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pac_control
+  confidence: auto

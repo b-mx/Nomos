@@ -1,0 +1,10 @@
+id: gaug-es
+vendor_id: github
+name: Gaug.Es
+type: software
+tags: []
+cpe: cpe:2.3:a:github:gaug\.es:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gaug.es
+  confidence: auto

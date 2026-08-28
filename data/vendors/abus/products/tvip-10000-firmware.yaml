@@ -1,0 +1,10 @@
+id: tvip-10000-firmware
+vendor_id: abus
+name: Tvip 10000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abus:tvip_10000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_10000_firmware
+  confidence: auto

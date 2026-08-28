@@ -1,0 +1,10 @@
+id: sb-h50
+vendor_id: epson
+name: Sb-H50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sb\-h50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sb-h50
+  confidence: auto

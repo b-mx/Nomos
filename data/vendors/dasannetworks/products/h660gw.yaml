@@ -1,0 +1,10 @@
+id: h660gw
+vendor_id: dasannetworks
+name: H660Gw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dasannetworks:h660gw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h660gw
+  confidence: auto

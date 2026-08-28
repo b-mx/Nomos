@@ -1,0 +1,10 @@
+id: 3par-storeserv-management-console
+vendor_id: hp
+name: 3Par Storeserv Management Console
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:3par_storeserv_management_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3par_storeserv_management_console
+  confidence: auto

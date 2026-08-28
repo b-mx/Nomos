@@ -1,0 +1,10 @@
+id: x12dpd-a6m25-firmware
+vendor_id: supermicro
+name: X12Dpd-A6M25 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x12dpd\-a6m25_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dpd-a6m25_firmware
+  confidence: auto

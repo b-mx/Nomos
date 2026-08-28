@@ -1,0 +1,7 @@
+id: discourse
+name: Discourse
+cpe: cpe:2.3:*:discourse:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discourse
+  confidence: auto

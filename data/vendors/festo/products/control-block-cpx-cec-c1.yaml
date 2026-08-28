@@ -1,0 +1,10 @@
+id: control-block-cpx-cec-c1
+vendor_id: festo
+name: Control Block Cpx-Cec-C1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:control_block_cpx\-cec\-c1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_block_cpx-cec-c1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: secure-remote-services
+vendor_id: emc
+name: Secure Remote Services
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:secure_remote_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_remote_services
+  confidence: auto

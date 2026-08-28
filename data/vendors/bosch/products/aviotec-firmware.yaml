@@ -1,0 +1,10 @@
+id: aviotec-firmware
+vendor_id: bosch
+name: Aviotec Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:aviotec_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aviotec_firmware
+  confidence: auto

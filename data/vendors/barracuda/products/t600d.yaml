@@ -1,0 +1,10 @@
+id: t600d
+vendor_id: barracuda
+name: T600D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:barracuda:t600d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t600d
+  confidence: auto

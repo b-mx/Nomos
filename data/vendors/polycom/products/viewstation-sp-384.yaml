@@ -1,0 +1,10 @@
+id: viewstation-sp-384
+vendor_id: polycom
+name: Viewstation Sp 384
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:viewstation_sp_384:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viewstation_sp_384
+  confidence: auto

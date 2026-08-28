@@ -1,0 +1,10 @@
+id: mf810cdn-firmware
+vendor_id: canon
+name: Mf810Cdn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:mf810cdn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf810cdn_firmware
+  confidence: auto

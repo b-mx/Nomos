@@ -1,0 +1,10 @@
+id: cp661
+vendor_id: abb
+name: Cp661
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:cp661:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp661
+  confidence: auto

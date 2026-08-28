@@ -1,0 +1,10 @@
+id: nec-3g-handset
+vendor_id: softbank
+name: Nec 3G Handset
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softbank:nec_3g_handset:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_3g_handset
+  confidence: auto

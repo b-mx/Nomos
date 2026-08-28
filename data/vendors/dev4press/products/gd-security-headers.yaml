@@ -1,0 +1,10 @@
+id: gd-security-headers
+vendor_id: dev4press
+name: Gd Security Headers
+type: software
+tags: []
+cpe: cpe:2.3:a:dev4press:gd_security_headers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gd_security_headers
+  confidence: auto

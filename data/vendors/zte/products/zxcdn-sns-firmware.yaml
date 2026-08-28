@@ -1,0 +1,10 @@
+id: zxcdn-sns-firmware
+vendor_id: zte
+name: Zxcdn-Sns Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxcdn\-sns_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxcdn-sns_firmware
+  confidence: auto

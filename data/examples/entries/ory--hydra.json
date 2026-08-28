@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ory--hydra",
+  "vendor_id": "ory",
+  "product_id": "hydra",
+  "name": "Hydra",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hydra",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: zu21dr
+vendor_id: amd
+name: Zu21Dr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:zu21dr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu21dr
+  confidence: auto

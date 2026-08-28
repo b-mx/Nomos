@@ -1,0 +1,10 @@
+id: fire-x4200m2-server
+vendor_id: sun
+name: Fire X4200M2 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sun:fire_x4200m2_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fire_x4200m2_server
+  confidence: auto

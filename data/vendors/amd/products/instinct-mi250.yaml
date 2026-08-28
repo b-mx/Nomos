@@ -1,0 +1,10 @@
+id: instinct-mi250
+vendor_id: amd
+name: Instinct Mi250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:instinct_mi250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instinct_mi250
+  confidence: auto

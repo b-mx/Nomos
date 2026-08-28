@@ -1,0 +1,10 @@
+id: care-center
+vendor_id: acer
+name: Care Center
+type: software
+tags: []
+cpe: cpe:2.3:a:acer:care_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: care_center
+  confidence: auto

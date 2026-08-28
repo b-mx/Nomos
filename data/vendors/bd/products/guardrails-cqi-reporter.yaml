@@ -1,0 +1,10 @@
+id: guardrails-cqi-reporter
+vendor_id: bd
+name: Guardrails Cqi Reporter
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:guardrails_cqi_reporter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: guardrails_cqi_reporter
+  confidence: auto

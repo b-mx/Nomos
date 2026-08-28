@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zoom--rooms-controller",
+  "vendor_id": "zoom",
+  "product_id": "rooms-controller",
+  "name": "Rooms Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rooms_controller",
+      "confidence": "auto"
+    }
+  ]
+}

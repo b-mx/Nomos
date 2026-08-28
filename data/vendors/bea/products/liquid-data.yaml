@@ -1,0 +1,10 @@
+id: liquid-data
+vendor_id: bea
+name: Liquid Data
+type: software
+tags: []
+cpe: cpe:2.3:a:bea:liquid_data:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: liquid_data
+  confidence: auto

@@ -1,0 +1,10 @@
+id: amazon-s3
+vendor_id: easydigitaldownloads
+name: Amazon S3
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:amazon_s3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_s3
+  confidence: auto

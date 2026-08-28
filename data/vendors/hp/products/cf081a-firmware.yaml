@@ -1,0 +1,10 @@
+id: cf081a-firmware
+vendor_id: hp
+name: Cf081A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cf081a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf081a_firmware
+  confidence: auto

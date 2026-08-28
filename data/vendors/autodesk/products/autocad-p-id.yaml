@@ -1,0 +1,10 @@
+id: autocad-p-id
+vendor_id: autodesk
+name: Autocad P&Id
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autocad_p\&id:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocad_p&id
+  confidence: auto

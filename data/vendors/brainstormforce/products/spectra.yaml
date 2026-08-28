@@ -1,0 +1,10 @@
+id: spectra
+vendor_id: brainstormforce
+name: Spectra
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:spectra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectra
+  confidence: auto

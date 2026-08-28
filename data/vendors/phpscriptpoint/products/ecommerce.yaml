@@ -1,0 +1,10 @@
+id: ecommerce
+vendor_id: phpscriptpoint
+name: Ecommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:phpscriptpoint:ecommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecommerce
+  confidence: auto

@@ -1,0 +1,10 @@
+id: prodesk-400-g1-dm
+vendor_id: hp
+name: Prodesk 400 G1 Dm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_400_g1_dm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_400_g1_dm
+  confidence: auto

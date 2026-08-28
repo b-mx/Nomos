@@ -1,0 +1,10 @@
+id: ir420
+vendor_id: rstinstruments
+name: Ir420
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:ir420:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ir420
+  confidence: auto

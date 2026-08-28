@@ -1,0 +1,10 @@
+id: bbr-4hg
+vendor_id: buffalo
+name: Bbr-4Hg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:bbr\-4hg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bbr-4hg
+  confidence: auto

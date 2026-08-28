@@ -1,0 +1,10 @@
+id: free-security-suite
+vendor_id: avira
+name: Free Security Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:free_security_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: free_security_suite
+  confidence: auto

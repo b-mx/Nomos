@@ -1,0 +1,10 @@
+id: rslogix-500-starter-edition
+vendor_id: rockwellautomation
+name: Rslogix 500 Starter Edition
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:rslogix_500_starter_edition:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rslogix_500_starter_edition
+  confidence: auto

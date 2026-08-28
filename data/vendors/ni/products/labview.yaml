@@ -1,0 +1,10 @@
+id: labview
+vendor_id: ni
+name: Labview
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:labview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: labview
+  confidence: auto

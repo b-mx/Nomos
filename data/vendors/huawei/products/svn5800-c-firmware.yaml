@@ -1,0 +1,10 @@
+id: svn5800-c-firmware
+vendor_id: huawei
+name: Svn5800-C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:svn5800\-c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: svn5800-c_firmware
+  confidence: auto

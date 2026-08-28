@@ -1,0 +1,10 @@
+id: intellivue-np90
+vendor_id: philips
+name: Intellivue Np90
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:intellivue_np90:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellivue_np90
+  confidence: auto

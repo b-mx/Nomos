@@ -1,0 +1,10 @@
+id: iomega-storcenter-ix2
+vendor_id: lenovo
+name: Iomega Storcenter Ix2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:iomega_storcenter_ix2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iomega_storcenter_ix2
+  confidence: auto

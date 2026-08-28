@@ -1,0 +1,10 @@
+id: bm83
+vendor_id: microchip
+name: Bm83
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:bm83:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm83
+  confidence: auto

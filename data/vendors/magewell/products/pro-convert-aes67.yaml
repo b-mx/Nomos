@@ -1,0 +1,10 @@
+id: pro-convert-aes67
+vendor_id: magewell
+name: Pro Convert Aes67
+type: hardware
+tags: []
+cpe: cpe:2.3:h:magewell:pro_convert_aes67:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_convert_aes67
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ambientlink-mslo64-firmware
+vendor_id: msi
+name: Ambientlink Mslo64 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:msi:ambientlink_mslo64_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ambientlink_mslo64_firmware
+  confidence: auto

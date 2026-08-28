@@ -1,0 +1,10 @@
+id: fastify-forwarded
+vendor_id: fastify
+name: Fastify/Forwarded
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:fastify\/forwarded:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastify/forwarded
+  confidence: auto

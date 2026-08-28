@@ -1,0 +1,10 @@
+id: tcl-tk
+vendor_id: tcl
+name: Tcl/Tk
+type: software
+tags: []
+cpe: cpe:2.3:a:tcl:tcl\/tk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tcl/tk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pyxis-rapid-rx-firmware
+vendor_id: bd
+name: Pyxis Rapid Rx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:pyxis_rapid_rx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_rapid_rx_firmware
+  confidence: auto

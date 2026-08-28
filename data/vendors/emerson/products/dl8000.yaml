@@ -1,0 +1,10 @@
+id: dl8000
+vendor_id: emerson
+name: Dl8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:dl8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dl8000
+  confidence: auto

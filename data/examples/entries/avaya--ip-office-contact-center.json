@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--ip-office-contact-center",
+  "vendor_id": "avaya",
+  "product_id": "ip-office-contact-center",
+  "name": "Ip Office Contact Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ip_office_contact_center",
+      "confidence": "auto"
+    }
+  ]
+}

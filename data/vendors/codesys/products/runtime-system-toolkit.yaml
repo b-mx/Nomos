@@ -1,0 +1,10 @@
+id: runtime-system-toolkit
+vendor_id: codesys
+name: Runtime System Toolkit
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:runtime_system_toolkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: runtime_system_toolkit
+  confidence: auto

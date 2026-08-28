@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nortel--contact-center",
+  "vendor_id": "nortel",
+  "product_id": "contact-center",
+  "name": "Contact Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "contact_center",
+      "confidence": "auto"
+    }
+  ]
+}

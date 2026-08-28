@@ -1,0 +1,10 @@
+id: 7fr52a-firmware
+vendor_id: hp
+name: 7Fr52A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:7fr52a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 7fr52a_firmware
+  confidence: auto

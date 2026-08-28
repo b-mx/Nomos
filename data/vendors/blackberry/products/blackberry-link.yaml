@@ -1,0 +1,10 @@
+id: blackberry-link
+vendor_id: blackberry
+name: Blackberry Link
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:blackberry_link:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry_link
+  confidence: auto

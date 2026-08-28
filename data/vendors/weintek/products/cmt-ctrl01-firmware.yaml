@@ -1,0 +1,10 @@
+id: cmt-ctrl01-firmware
+vendor_id: weintek
+name: Cmt-Ctrl01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:weintek:cmt\-ctrl01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt-ctrl01_firmware
+  confidence: auto

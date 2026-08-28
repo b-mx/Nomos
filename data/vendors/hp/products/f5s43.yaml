@@ -1,0 +1,10 @@
+id: f5s43
+vendor_id: hp
+name: F5S43
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f5s43:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f5s43
+  confidence: auto

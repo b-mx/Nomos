@@ -1,0 +1,10 @@
+id: heat
+vendor_id: openstack
+name: Heat
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:heat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: heat
+  confidence: auto

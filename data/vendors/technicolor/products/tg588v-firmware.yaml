@@ -1,0 +1,10 @@
+id: tg588v-firmware
+vendor_id: technicolor
+name: Tg588V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:tg588v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg588v_firmware
+  confidence: auto

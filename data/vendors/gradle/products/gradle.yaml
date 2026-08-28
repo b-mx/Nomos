@@ -1,0 +1,14 @@
+id: gradle
+vendor_id: gradle
+name: Gradle
+type: software
+tags:
+- build-tool
+cpe: cpe:2.3:a:gradle:gradle:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: gradle
+  confidence: auto
+- source: nvd
+  value: gradle
+  confidence: auto

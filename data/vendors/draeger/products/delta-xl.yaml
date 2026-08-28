@@ -1,0 +1,10 @@
+id: delta-xl
+vendor_id: draeger
+name: Delta Xl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:draeger:delta_xl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: delta_xl
+  confidence: auto

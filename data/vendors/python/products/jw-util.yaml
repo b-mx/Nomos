@@ -1,0 +1,10 @@
+id: jw-util
+vendor_id: python
+name: Jw.Util
+type: software
+tags: []
+cpe: cpe:2.3:a:python:jw\.util:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jw.util
+  confidence: auto

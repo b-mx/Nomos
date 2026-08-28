@@ -1,0 +1,10 @@
+id: matrix-216
+vendor_id: abb
+name: Matrix-216
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:matrix\-216:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matrix-216
+  confidence: auto

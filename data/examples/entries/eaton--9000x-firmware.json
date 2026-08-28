@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eaton--9000x-firmware",
+  "vendor_id": "eaton",
+  "product_id": "9000x-firmware",
+  "name": "9000X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "9000x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

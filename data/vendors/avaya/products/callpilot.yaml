@@ -1,0 +1,10 @@
+id: callpilot
+vendor_id: avaya
+name: Callpilot
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:callpilot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: callpilot
+  confidence: auto

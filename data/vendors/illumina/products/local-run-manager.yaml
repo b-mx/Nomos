@@ -1,0 +1,10 @@
+id: local-run-manager
+vendor_id: illumina
+name: Local Run Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:illumina:local_run_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: local_run_manager
+  confidence: auto

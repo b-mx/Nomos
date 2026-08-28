@@ -1,0 +1,10 @@
+id: smart-tank-510-1tj10a
+vendor_id: hp
+name: Smart Tank 510 1Tj10A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_510_1tj10a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_510_1tj10a
+  confidence: auto

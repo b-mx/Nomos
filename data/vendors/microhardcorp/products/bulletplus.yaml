@@ -1,0 +1,10 @@
+id: bulletplus
+vendor_id: microhardcorp
+name: Bulletplus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microhardcorp:bulletplus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bulletplus
+  confidence: auto

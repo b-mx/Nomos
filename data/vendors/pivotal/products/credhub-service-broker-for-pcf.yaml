@@ -1,0 +1,10 @@
+id: credhub-service-broker-for-pcf
+vendor_id: pivotal
+name: Credhub Service Broker For Pcf
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:credhub_service_broker_for_pcf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: credhub_service_broker_for_pcf
+  confidence: auto

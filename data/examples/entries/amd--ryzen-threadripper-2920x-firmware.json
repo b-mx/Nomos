@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-threadripper-2920x-firmware",
+  "vendor_id": "amd",
+  "product_id": "ryzen-threadripper-2920x-firmware",
+  "name": "Ryzen Threadripper 2920X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_threadripper_2920x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

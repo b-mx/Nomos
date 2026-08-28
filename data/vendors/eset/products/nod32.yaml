@@ -1,0 +1,10 @@
+id: nod32
+vendor_id: eset
+name: Nod32
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:nod32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nod32
+  confidence: auto

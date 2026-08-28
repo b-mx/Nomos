@@ -1,0 +1,10 @@
+id: sunny-central-2200
+vendor_id: sma
+name: Sunny Central 2200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sma:sunny_central_2200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_central_2200
+  confidence: auto

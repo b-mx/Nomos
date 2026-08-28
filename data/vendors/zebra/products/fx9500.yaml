@@ -1,0 +1,10 @@
+id: fx9500
+vendor_id: zebra
+name: Fx9500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zebra:fx9500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx9500
+  confidence: auto

@@ -1,0 +1,10 @@
+id: csrfguard
+vendor_id: owasp
+name: Csrfguard
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:csrfguard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: csrfguard
+  confidence: auto

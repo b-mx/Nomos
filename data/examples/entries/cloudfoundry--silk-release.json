@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--silk-release",
+  "vendor_id": "cloudfoundry",
+  "product_id": "silk-release",
+  "name": "Silk-Release",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "silk-release",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: officejet-258-n4l17a
+vendor_id: hp
+name: Officejet 258 N4L17A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_258_n4l17a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_258_n4l17a
+  confidence: auto

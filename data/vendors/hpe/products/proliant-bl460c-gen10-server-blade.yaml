@@ -1,0 +1,10 @@
+id: proliant-bl460c-gen10-server-blade
+vendor_id: hpe
+name: Proliant Bl460C Gen10 Server Blade
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_bl460c_gen10_server_blade:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_bl460c_gen10_server_blade
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pebble
+vendor_id: canonical
+name: Pebble
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:pebble:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pebble
+  confidence: auto

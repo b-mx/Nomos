@@ -1,9 +1,8 @@
 id: mobile-devices
 vendor_id: samsung
 name: Mobile Devices
-type: hardware
+type: software
 tags: []
-icon: logos:samsung
 aliases:
 - source: cisa_kev
   value: Mobile Devices

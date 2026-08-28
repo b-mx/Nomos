@@ -1,0 +1,10 @@
+id: pcoip-connection-manager-and-security-gateway
+vendor_id: teradici
+name: Pcoip Connection Manager And Security Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:teradici:pcoip_connection_manager_and_security_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcoip_connection_manager_and_security_gateway
+  confidence: auto

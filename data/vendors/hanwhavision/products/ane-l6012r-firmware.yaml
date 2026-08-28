@@ -1,0 +1,10 @@
+id: ane-l6012r-firmware
+vendor_id: hanwhavision
+name: Ane-L6012R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:ane\-l6012r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ane-l6012r_firmware
+  confidence: auto

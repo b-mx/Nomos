@@ -1,0 +1,10 @@
+id: 8rk11a-firmware
+vendor_id: hp
+name: 8Rk11A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:8rk11a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 8rk11a_firmware
+  confidence: auto

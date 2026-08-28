@@ -1,0 +1,10 @@
+id: backstage-core-components
+vendor_id: linuxfoundation
+name: Backstage Core-Components
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:backstage_core\-components:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backstage_core-components
+  confidence: auto

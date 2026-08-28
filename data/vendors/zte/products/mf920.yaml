@@ -1,0 +1,10 @@
+id: mf920
+vendor_id: zte
+name: Mf920
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:mf920:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf920
+  confidence: auto

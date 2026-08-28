@@ -1,0 +1,10 @@
+id: jetport-web-manager
+vendor_id: korenix
+name: Jetport Web Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:korenix:jetport_web_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetport_web_manager
+  confidence: auto

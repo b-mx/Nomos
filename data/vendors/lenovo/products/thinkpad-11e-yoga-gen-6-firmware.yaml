@@ -1,0 +1,10 @@
+id: thinkpad-11e-yoga-gen-6-firmware
+vendor_id: lenovo
+name: Thinkpad 11E Yoga Gen 6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_11e_yoga_gen_6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_11e_yoga_gen_6_firmware
+  confidence: auto

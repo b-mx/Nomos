@@ -1,0 +1,10 @@
+id: primergy-gx2460-m1
+vendor_id: fujitsu
+name: Primergy Gx2460 M1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:primergy_gx2460_m1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primergy_gx2460_m1
+  confidence: auto

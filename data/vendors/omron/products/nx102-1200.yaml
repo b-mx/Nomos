@@ -1,0 +1,10 @@
+id: nx102-1200
+vendor_id: omron
+name: Nx102-1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:nx102\-1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx102-1200
+  confidence: auto

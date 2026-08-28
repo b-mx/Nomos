@@ -1,0 +1,10 @@
+id: eds-4012
+vendor_id: moxa
+name: Eds-4012
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:eds\-4012:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eds-4012
+  confidence: auto

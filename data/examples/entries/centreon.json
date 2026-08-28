@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "centreon",
+  "vendor_id": "centreon",
+  "name": "Centreon",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "centreon",
+      "confidence": "auto"
+    }
+  ]
+}

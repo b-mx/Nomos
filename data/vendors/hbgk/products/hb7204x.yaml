@@ -1,0 +1,10 @@
+id: hb7204x
+vendor_id: hbgk
+name: Hb7204X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hbgk:hb7204x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb7204x
+  confidence: auto

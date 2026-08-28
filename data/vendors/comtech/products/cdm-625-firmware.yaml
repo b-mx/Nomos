@@ -1,0 +1,10 @@
+id: cdm-625-firmware
+vendor_id: comtech
+name: Cdm-625 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:comtech:cdm\-625_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cdm-625_firmware
+  confidence: auto

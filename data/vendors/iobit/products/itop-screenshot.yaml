@@ -1,0 +1,10 @@
+id: itop-screenshot
+vendor_id: iobit
+name: Itop Screenshot
+type: software
+tags: []
+cpe: cpe:2.3:a:iobit:itop_screenshot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itop_screenshot
+  confidence: auto

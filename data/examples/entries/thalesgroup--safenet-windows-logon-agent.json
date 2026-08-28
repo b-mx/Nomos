@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "thalesgroup--safenet-windows-logon-agent",
+  "vendor_id": "thalesgroup",
+  "product_id": "safenet-windows-logon-agent",
+  "name": "Safenet Windows Logon Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "safenet_windows_logon_agent",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: studio-x-plus-firmware
+vendor_id: bluproducts
+name: Studio X Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bluproducts:studio_x_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_x_plus_firmware
+  confidence: auto

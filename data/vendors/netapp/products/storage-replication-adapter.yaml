@@ -1,0 +1,10 @@
+id: storage-replication-adapter
+vendor_id: netapp
+name: Storage Replication Adapter
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:storage_replication_adapter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_replication_adapter
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x11spm-tpf
+vendor_id: supermicro
+name: X11Spm-Tpf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11spm\-tpf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11spm-tpf
+  confidence: auto

@@ -1,0 +1,10 @@
+id: marketing-campaign
+vendor_id: hcltech
+name: Marketing Campaign
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:marketing_campaign:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: marketing_campaign
+  confidence: auto

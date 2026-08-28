@@ -1,0 +1,10 @@
+id: y6-prime-2018-firmware
+vendor_id: huawei
+name: Y6 Prime 2018 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:y6_prime_2018_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y6_prime_2018_firmware
+  confidence: auto

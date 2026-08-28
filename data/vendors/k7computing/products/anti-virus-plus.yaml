@@ -1,0 +1,10 @@
+id: anti-virus-plus
+vendor_id: k7computing
+name: Anti-Virus Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:k7computing:anti\-virus_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anti-virus_plus
+  confidence: auto

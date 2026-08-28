@@ -1,0 +1,13 @@
+id: eclipse-jetty
+vendor_id: eclipse
+name: Eclipse Jetty
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: eclipse-jetty
+  confidence: auto
+- source: nvd
+  value: jetty
+  confidence: auto

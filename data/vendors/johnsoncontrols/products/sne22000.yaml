@@ -1,0 +1,10 @@
+id: sne22000
+vendor_id: johnsoncontrols
+name: Sne22000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:sne22000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sne22000
+  confidence: auto

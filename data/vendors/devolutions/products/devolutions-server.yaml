@@ -1,0 +1,10 @@
+id: devolutions-server
+vendor_id: devolutions
+name: Devolutions Server
+type: software
+tags: []
+cpe: cpe:2.3:a:devolutions:devolutions_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: devolutions_server
+  confidence: auto

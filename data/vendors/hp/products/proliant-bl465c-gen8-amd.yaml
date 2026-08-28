@@ -1,0 +1,10 @@
+id: proliant-bl465c-gen8-amd
+vendor_id: hp
+name: Proliant Bl465C Gen8 (Amd)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_bl465c_gen8_\(amd\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_bl465c_gen8_(amd)
+  confidence: auto

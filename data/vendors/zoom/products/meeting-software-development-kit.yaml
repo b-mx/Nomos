@@ -1,0 +1,10 @@
+id: meeting-software-development-kit
+vendor_id: zoom
+name: Meeting Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:meeting_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meeting_software_development_kit
+  confidence: auto

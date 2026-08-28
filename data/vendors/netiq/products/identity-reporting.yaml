@@ -1,0 +1,10 @@
+id: identity-reporting
+vendor_id: netiq
+name: Identity Reporting
+type: software
+tags: []
+cpe: cpe:2.3:a:netiq:identity_reporting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: identity_reporting
+  confidence: auto

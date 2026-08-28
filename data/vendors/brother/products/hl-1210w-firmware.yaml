@@ -1,0 +1,10 @@
+id: hl-1210w-firmware
+vendor_id: brother
+name: Hl-1210W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:hl\-1210w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hl-1210w_firmware
+  confidence: auto

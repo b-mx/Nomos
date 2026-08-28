@@ -1,0 +1,10 @@
+id: usg-pro-4
+vendor_id: ui
+name: Usg-Pro-4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:usg\-pro\-4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usg-pro-4
+  confidence: auto

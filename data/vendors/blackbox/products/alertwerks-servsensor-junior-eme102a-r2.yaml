@@ -1,0 +1,10 @@
+id: alertwerks-servsensor-junior-eme102a-r2
+vendor_id: blackbox
+name: Alertwerks Servsensor Junior Eme102A-R2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:blackbox:alertwerks_servsensor_junior_eme102a\-r2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alertwerks_servsensor_junior_eme102a-r2
+  confidence: auto

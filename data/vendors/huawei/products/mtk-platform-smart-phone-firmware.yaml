@@ -1,0 +1,10 @@
+id: mtk-platform-smart-phone-firmware
+vendor_id: huawei
+name: Mtk Platform Smart Phone Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:mtk_platform_smart_phone_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mtk_platform_smart_phone_firmware
+  confidence: auto

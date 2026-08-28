@@ -1,0 +1,10 @@
+id: antivir-sharepoint
+vendor_id: avira
+name: Antivir Sharepoint
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:antivir_sharepoint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivir_sharepoint
+  confidence: auto

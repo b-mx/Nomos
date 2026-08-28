@@ -1,0 +1,10 @@
+id: carescape-central-station-mai700-firmware
+vendor_id: gehealthcare
+name: Carescape Central Station Mai700 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:carescape_central_station_mai700_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carescape_central_station_mai700_firmware
+  confidence: auto

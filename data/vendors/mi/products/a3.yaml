@@ -1,0 +1,10 @@
+id: a3
+vendor_id: mi
+name: A3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:a3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3
+  confidence: auto

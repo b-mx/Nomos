@@ -1,0 +1,10 @@
+id: n600-firmware
+vendor_id: iptime
+name: N600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n600_firmware
+  confidence: auto

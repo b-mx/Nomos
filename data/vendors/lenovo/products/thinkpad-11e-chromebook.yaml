@@ -1,0 +1,10 @@
+id: thinkpad-11e-chromebook
+vendor_id: lenovo
+name: Thinkpad 11E Chromebook
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_11e_chromebook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_11e_chromebook
+  confidence: auto

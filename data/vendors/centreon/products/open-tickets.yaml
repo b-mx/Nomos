@@ -1,0 +1,10 @@
+id: open-tickets
+vendor_id: centreon
+name: Open Tickets
+type: software
+tags: []
+cpe: cpe:2.3:a:centreon:open_tickets:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_tickets
+  confidence: auto

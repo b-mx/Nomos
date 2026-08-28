@@ -1,0 +1,10 @@
+id: mcrouter
+vendor_id: facebook
+name: Mcrouter
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:mcrouter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcrouter
+  confidence: auto

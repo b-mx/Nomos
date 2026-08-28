@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arubanetworks--fabric-composer",
+  "vendor_id": "arubanetworks",
+  "product_id": "fabric-composer",
+  "name": "Fabric Composer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fabric_composer",
+      "confidence": "auto"
+    }
+  ]
+}

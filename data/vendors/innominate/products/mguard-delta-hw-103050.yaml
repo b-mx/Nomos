@@ -1,0 +1,10 @@
+id: mguard-delta-hw-103050
+vendor_id: innominate
+name: Mguard Delta Hw-103050
+type: hardware
+tags: []
+cpe: cpe:2.3:h:innominate:mguard_delta_hw\-103050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_delta_hw-103050
+  confidence: auto

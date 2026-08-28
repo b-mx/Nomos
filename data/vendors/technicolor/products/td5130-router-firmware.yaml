@@ -1,0 +1,10 @@
+id: td5130-router-firmware
+vendor_id: technicolor
+name: Td5130 Router Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:td5130_router_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: td5130_router_firmware
+  confidence: auto

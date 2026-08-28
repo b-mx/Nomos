@@ -1,0 +1,10 @@
+id: countercept
+vendor_id: f-secure
+name: Countercept
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:countercept:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: countercept
+  confidence: auto

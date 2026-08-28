@@ -1,0 +1,10 @@
+id: defiant-firmware
+vendor_id: coolpad
+name: Defiant Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:coolpad:defiant_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: defiant_firmware
+  confidence: auto

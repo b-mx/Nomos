@@ -1,0 +1,10 @@
+id: rn4871
+vendor_id: microchip
+name: Rn4871
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:rn4871:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rn4871
+  confidence: auto

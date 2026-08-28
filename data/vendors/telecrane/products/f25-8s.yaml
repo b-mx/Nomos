@@ -1,0 +1,10 @@
+id: f25-8s
+vendor_id: telecrane
+name: F25-8S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telecrane:f25\-8s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f25-8s
+  confidence: auto

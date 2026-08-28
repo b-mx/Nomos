@@ -1,0 +1,10 @@
+id: online-hotel-booking
+vendor_id: anisha
+name: Online Hotel Booking
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:online_hotel_booking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_hotel_booking
+  confidence: auto

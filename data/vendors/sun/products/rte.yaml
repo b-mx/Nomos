@@ -1,0 +1,10 @@
+id: rte
+vendor_id: sun
+name: Rte
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:rte:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rte
+  confidence: auto

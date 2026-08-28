@@ -1,0 +1,10 @@
+id: pr-500mi
+vendor_id: ntt-west
+name: Pr-500Mi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-west:pr\-500mi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pr-500mi
+  confidence: auto

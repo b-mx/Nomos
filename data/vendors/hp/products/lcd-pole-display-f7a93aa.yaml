@@ -1,0 +1,10 @@
+id: lcd-pole-display-f7a93aa
+vendor_id: hp
+name: Lcd Pole Display F7A93Aa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:lcd_pole_display_f7a93aa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lcd_pole_display_f7a93aa
+  confidence: auto

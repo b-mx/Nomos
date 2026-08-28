@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freedesktop--xdg-user-dirs",
+  "vendor_id": "freedesktop",
+  "product_id": "xdg-user-dirs",
+  "name": "Xdg-User-Dirs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xdg-user-dirs",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--z-wave-pc-based-controller",
+  "vendor_id": "silabs",
+  "product_id": "z-wave-pc-based-controller",
+  "name": "Z-Wave Pc-Based Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "z-wave_pc-based_controller",
+      "confidence": "auto"
+    }
+  ]
+}

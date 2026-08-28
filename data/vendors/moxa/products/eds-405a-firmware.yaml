@@ -1,0 +1,10 @@
+id: eds-405a-firmware
+vendor_id: moxa
+name: Eds-405A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:eds\-405a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eds-405a_firmware
+  confidence: auto

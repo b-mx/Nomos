@@ -1,0 +1,10 @@
+id: psoc-4-ble
+vendor_id: cypress
+name: Psoc 4 Ble
+type: software
+tags: []
+cpe: cpe:2.3:a:cypress:psoc_4_ble:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: psoc_4_ble
+  confidence: auto

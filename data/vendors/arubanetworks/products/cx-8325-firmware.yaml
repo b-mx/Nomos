@@ -1,0 +1,10 @@
+id: cx-8325-firmware
+vendor_id: arubanetworks
+name: Cx 8325 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:cx_8325_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx_8325_firmware
+  confidence: auto

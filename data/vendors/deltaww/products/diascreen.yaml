@@ -1,0 +1,10 @@
+id: diascreen
+vendor_id: deltaww
+name: Diascreen
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:diascreen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diascreen
+  confidence: auto

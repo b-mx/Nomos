@@ -1,0 +1,10 @@
+id: kcoreaddons
+vendor_id: kde
+name: Kcoreaddons
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kcoreaddons:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kcoreaddons
+  confidence: auto

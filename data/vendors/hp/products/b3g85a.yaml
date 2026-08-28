@@ -1,0 +1,10 @@
+id: b3g85a
+vendor_id: hp
+name: B3G85A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:b3g85a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b3g85a
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--evince",
+  "vendor_id": "gnome",
+  "product_id": "evince",
+  "name": "Evince",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "evince",
+      "confidence": "auto"
+    }
+  ]
+}

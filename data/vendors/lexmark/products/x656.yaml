@@ -1,0 +1,10 @@
+id: x656
+vendor_id: lexmark
+name: X656
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x656:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x656
+  confidence: auto

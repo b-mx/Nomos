@@ -1,0 +1,10 @@
+id: m18-ew-firmware
+vendor_id: ruijie
+name: M18-Ew Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:m18\-ew_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m18-ew_firmware
+  confidence: auto

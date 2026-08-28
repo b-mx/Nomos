@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--b429-cn-firmware",
+  "vendor_id": "bosch",
+  "product_id": "b429-cn-firmware",
+  "name": "B429-Cn Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b429-cn_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

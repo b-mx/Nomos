@@ -1,0 +1,10 @@
+id: semac-s2-firmware
+vendor_id: chiyu-tech
+name: Semac S2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chiyu\-tech:semac_s2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: semac_s2_firmware
+  confidence: auto

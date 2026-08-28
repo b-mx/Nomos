@@ -1,0 +1,10 @@
+id: online-reviewer-system
+vendor_id: fabian
+name: Online Reviewer System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_reviewer_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_reviewer_system
+  confidence: auto

@@ -1,0 +1,10 @@
+id: h-264-hi3510-11-12-ip-camera
+vendor_id: foscam
+name: H.264 Hi3510/11/12 Ip Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:foscam:h\.264_hi3510\/11\/12_ip_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h.264_hi3510/11/12_ip_camera
+  confidence: auto

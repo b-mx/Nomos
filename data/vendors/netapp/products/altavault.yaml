@@ -1,0 +1,10 @@
+id: altavault
+vendor_id: netapp
+name: Altavault
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:altavault:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: altavault
+  confidence: auto

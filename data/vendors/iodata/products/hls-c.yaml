@@ -1,0 +1,10 @@
+id: hls-c
+vendor_id: iodata
+name: Hls-C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:hls\-c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hls-c
+  confidence: auto

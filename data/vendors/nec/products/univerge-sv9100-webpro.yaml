@@ -1,0 +1,10 @@
+id: univerge-sv9100-webpro
+vendor_id: nec
+name: Univerge Sv9100 Webpro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:univerge_sv9100_webpro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: univerge_sv9100_webpro
+  confidence: auto

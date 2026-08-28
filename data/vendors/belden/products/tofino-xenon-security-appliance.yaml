@@ -1,0 +1,10 @@
+id: tofino-xenon-security-appliance
+vendor_id: belden
+name: Tofino Xenon Security Appliance
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:tofino_xenon_security_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tofino_xenon_security_appliance
+  confidence: auto

@@ -1,0 +1,10 @@
+id: counter-box
+vendor_id: wow-company
+name: Counter Box
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:counter_box:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: counter_box
+  confidence: auto

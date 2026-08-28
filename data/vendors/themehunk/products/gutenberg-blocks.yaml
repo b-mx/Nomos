@@ -1,0 +1,10 @@
+id: gutenberg-blocks
+vendor_id: themehunk
+name: Gutenberg Blocks
+type: software
+tags: []
+cpe: cpe:2.3:a:themehunk:gutenberg_blocks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gutenberg_blocks
+  confidence: auto

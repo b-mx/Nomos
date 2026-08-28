@@ -1,0 +1,10 @@
+id: besu
+vendor_id: linuxfoundation
+name: Besu
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:besu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: besu
+  confidence: auto

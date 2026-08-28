@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--onboard-administrator",
+  "vendor_id": "hp",
+  "product_id": "onboard-administrator",
+  "name": "Onboard Administrator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "onboard_administrator",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: fgw3000-ah-firmware
+vendor_id: linksys
+name: Fgw3000-Ah Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:fgw3000\-ah_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fgw3000-ah_firmware
+  confidence: auto

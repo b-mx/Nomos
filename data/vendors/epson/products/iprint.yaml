@@ -1,0 +1,10 @@
+id: iprint
+vendor_id: epson
+name: Iprint
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:iprint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iprint
+  confidence: auto

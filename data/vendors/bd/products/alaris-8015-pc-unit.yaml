@@ -1,0 +1,10 @@
+id: alaris-8015-pc-unit
+vendor_id: bd
+name: Alaris 8015 Pc Unit
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:alaris_8015_pc_unit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_8015_pc_unit
+  confidence: auto

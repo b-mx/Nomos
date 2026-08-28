@@ -1,0 +1,10 @@
+id: i-mx-6sololite
+vendor_id: nxp
+name: I.Mx 6Sololite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:i\.mx_6sololite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_6sololite
+  confidence: auto

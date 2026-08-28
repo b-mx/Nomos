@@ -1,0 +1,10 @@
+id: prosafe-rs
+vendor_id: yokogawa
+name: Prosafe-Rs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yokogawa:prosafe\-rs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prosafe-rs
+  confidence: auto

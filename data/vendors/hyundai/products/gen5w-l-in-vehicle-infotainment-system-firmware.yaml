@@ -1,0 +1,10 @@
+id: gen5w-l-in-vehicle-infotainment-system-firmware
+vendor_id: hyundai
+name: Gen5W L In-Vehicle Infotainment System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hyundai:gen5w_l_in\-vehicle_infotainment_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gen5w_l_in-vehicle_infotainment_system_firmware
+  confidence: auto

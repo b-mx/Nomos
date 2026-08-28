@@ -1,0 +1,10 @@
+id: ezpublish-legacy
+vendor_id: ibexa
+name: Ezpublish Legacy
+type: software
+tags: []
+cpe: cpe:2.3:a:ibexa:ezpublish_legacy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ezpublish_legacy
+  confidence: auto

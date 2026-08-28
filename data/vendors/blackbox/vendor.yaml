@@ -1,0 +1,7 @@
+id: blackbox
+name: Blackbox
+cpe: cpe:2.3:*:blackbox:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackbox
+  confidence: auto

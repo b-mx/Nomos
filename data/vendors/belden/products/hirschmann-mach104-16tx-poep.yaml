@@ -1,0 +1,10 @@
+id: hirschmann-mach104-16tx-poep
+vendor_id: belden
+name: Hirschmann Mach104-16Tx-Poep
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_mach104\-16tx\-poep:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_mach104-16tx-poep
+  confidence: auto

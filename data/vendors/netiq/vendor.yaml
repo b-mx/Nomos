@@ -1,0 +1,7 @@
+id: netiq
+name: Netiq
+cpe: cpe:2.3:*:netiq:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netiq
+  confidence: auto

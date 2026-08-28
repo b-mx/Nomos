@@ -1,0 +1,10 @@
+id: mx-virtual-firmware
+vendor_id: zultys
+name: Mx-Virtual Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zultys:mx\-virtual_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-virtual_firmware
+  confidence: auto

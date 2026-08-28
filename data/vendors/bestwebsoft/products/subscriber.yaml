@@ -1,0 +1,10 @@
+id: subscriber
+vendor_id: bestwebsoft
+name: Subscriber
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:subscriber:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: subscriber
+  confidence: auto

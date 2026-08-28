@@ -1,0 +1,10 @@
+id: mpc240
+vendor_id: bachmann
+name: Mpc240
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mpc240:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mpc240
+  confidence: auto

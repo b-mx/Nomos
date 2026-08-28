@@ -1,0 +1,10 @@
+id: rc-s310-ed4c
+vendor_id: sony
+name: Rc-S310/Ed4C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:rc\-s310\/ed4c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rc-s310/ed4c
+  confidence: auto

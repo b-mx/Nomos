@@ -1,0 +1,10 @@
+id: gigaswitch-v5-sfp-2vi-230vac
+vendor_id: nexans
+name: Gigaswitch V5 Sfp-2Vi 230Vac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nexans:gigaswitch_v5_sfp\-2vi_230vac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gigaswitch_v5_sfp-2vi_230vac
+  confidence: auto

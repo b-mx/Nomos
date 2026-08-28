@@ -1,0 +1,10 @@
+id: kerio-connect
+vendor_id: gfi
+name: Kerio Connect
+type: software
+tags: []
+cpe: cpe:2.3:a:gfi:kerio_connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kerio_connect
+  confidence: auto

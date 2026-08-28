@@ -1,0 +1,10 @@
+id: uagate-si-firmware
+vendor_id: softing
+name: Uagate Si Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:softing:uagate_si_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uagate_si_firmware
+  confidence: auto

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "jekyllrb--jekyll",
+  "vendor_id": "jekyllrb",
+  "product_id": "jekyll",
+  "name": "Jekyll",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "jekyll",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "jekyll",
+      "confidence": "auto"
+    }
+  ]
+}

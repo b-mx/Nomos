@@ -1,0 +1,10 @@
+id: re170
+vendor_id: multilaser
+name: Re170
+type: hardware
+tags: []
+cpe: cpe:2.3:h:multilaser:re170:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re170
+  confidence: auto

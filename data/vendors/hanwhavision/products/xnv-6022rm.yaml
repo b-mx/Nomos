@@ -1,0 +1,10 @@
+id: xnv-6022rm
+vendor_id: hanwhavision
+name: Xnv-6022Rm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-6022rm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-6022rm
+  confidence: auto

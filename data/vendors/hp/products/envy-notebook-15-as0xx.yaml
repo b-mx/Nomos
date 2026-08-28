@@ -1,0 +1,10 @@
+id: envy-notebook-15-as0xx
+vendor_id: hp
+name: Envy Notebook 15-As0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_notebook_15\-as0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_notebook_15-as0xx
+  confidence: auto

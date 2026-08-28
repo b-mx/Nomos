@@ -1,0 +1,10 @@
+id: epyc-embedded-3101-firmware
+vendor_id: amd
+name: Epyc Embedded 3101 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:epyc_embedded_3101_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_embedded_3101_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: affiniti-70-firmware
+vendor_id: philips
+name: Affiniti 70 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:affiniti_70_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: affiniti_70_firmware
+  confidence: auto

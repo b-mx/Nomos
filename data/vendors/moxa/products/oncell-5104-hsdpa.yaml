@@ -1,0 +1,10 @@
+id: oncell-5104-hsdpa
+vendor_id: moxa
+name: Oncell 5104-Hsdpa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:oncell_5104\-hsdpa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncell_5104-hsdpa
+  confidence: auto

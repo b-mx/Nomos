@@ -1,0 +1,10 @@
+id: event-monitoring-service
+vendor_id: hp
+name: Event Monitoring Service
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:event_monitoring_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: event_monitoring_service
+  confidence: auto

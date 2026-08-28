@@ -1,0 +1,10 @@
+id: one-x-client-enablement-services
+vendor_id: avaya
+name: One-X Client Enablement Services
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:one\-x_client_enablement_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one-x_client_enablement_services
+  confidence: auto

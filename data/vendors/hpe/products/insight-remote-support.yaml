@@ -1,0 +1,10 @@
+id: insight-remote-support
+vendor_id: hpe
+name: Insight Remote Support
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:insight_remote_support:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_remote_support
+  confidence: auto

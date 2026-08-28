@@ -1,0 +1,10 @@
+id: hpack
+vendor_id: python
+name: Hpack
+type: software
+tags: []
+cpe: cpe:2.3:a:python:hpack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpack
+  confidence: auto

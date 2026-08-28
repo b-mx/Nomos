@@ -1,0 +1,10 @@
+id: snyk-cocoapods-cli
+vendor_id: snyk
+name: Snyk Cocoapods Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:snyk:snyk_cocoapods_cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snyk_cocoapods_cli
+  confidence: auto

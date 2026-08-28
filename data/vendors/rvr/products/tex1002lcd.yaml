@@ -1,0 +1,10 @@
+id: tex1002lcd
+vendor_id: rvr
+name: Tex1002Lcd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rvr:tex1002lcd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tex1002lcd
+  confidence: auto

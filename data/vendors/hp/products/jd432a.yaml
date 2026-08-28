@@ -1,0 +1,10 @@
+id: jd432a
+vendor_id: hp
+name: Jd432A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd432a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd432a
+  confidence: auto

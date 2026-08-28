@@ -1,0 +1,10 @@
+id: antivirus-and-antispyware
+vendor_id: eset
+name: Antivirus And Antispyware
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:antivirus_and_antispyware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivirus_and_antispyware
+  confidence: auto

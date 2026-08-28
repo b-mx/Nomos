@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-5-4600h-firmware",
+  "vendor_id": "amd",
+  "product_id": "ryzen-5-4600h-firmware",
+  "name": "Ryzen 5 4600H Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_5_4600h_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

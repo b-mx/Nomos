@@ -1,0 +1,10 @@
+id: simple-leave-manager
+vendor_id: carmelo
+name: Simple Leave Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:simple_leave_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_leave_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ultralite-mk4
+vendor_id: motu
+name: Ultralite-Mk4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:ultralite\-mk4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultralite-mk4
+  confidence: auto

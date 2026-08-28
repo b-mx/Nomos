@@ -1,0 +1,10 @@
+id: mix
+vendor_id: mi
+name: Mix
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:mix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mix
+  confidence: auto

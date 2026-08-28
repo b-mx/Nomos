@@ -1,0 +1,10 @@
+id: inp
+vendor_id: php-nuke
+name: Inp
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-nuke:inp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inp
+  confidence: auto

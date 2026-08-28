@@ -1,0 +1,10 @@
+id: event-calendar-wd
+vendor_id: web-dorado
+name: Event Calendar Wd
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:event_calendar_wd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: event_calendar_wd
+  confidence: auto

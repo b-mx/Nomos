@@ -1,0 +1,10 @@
+id: rtu500
+vendor_id: hitachienergy
+name: Rtu500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:rtu500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtu500
+  confidence: auto

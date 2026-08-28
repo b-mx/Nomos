@@ -1,0 +1,10 @@
+id: modbus-server-firmware
+vendor_id: pepperl-fuchs
+name: Modbus Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:modbus_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modbus_server_firmware
+  confidence: auto

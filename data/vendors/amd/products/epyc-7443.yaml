@@ -1,0 +1,10 @@
+id: epyc-7443
+vendor_id: amd
+name: Epyc 7443
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_7443:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7443
+  confidence: auto

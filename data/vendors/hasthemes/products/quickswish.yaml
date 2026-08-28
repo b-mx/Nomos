@@ -1,0 +1,10 @@
+id: quickswish
+vendor_id: hasthemes
+name: Quickswish
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:quickswish:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quickswish
+  confidence: auto

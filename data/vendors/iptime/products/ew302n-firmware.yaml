@@ -1,0 +1,10 @@
+id: ew302n-firmware
+vendor_id: iptime
+name: Ew302N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:ew302n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ew302n_firmware
+  confidence: auto

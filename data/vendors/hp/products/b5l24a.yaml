@@ -1,0 +1,10 @@
+id: b5l24a
+vendor_id: hp
+name: B5L24A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:b5l24a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b5l24a
+  confidence: auto

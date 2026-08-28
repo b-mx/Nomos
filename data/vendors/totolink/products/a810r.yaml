@@ -1,0 +1,10 @@
+id: a810r
+vendor_id: totolink
+name: A810R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a810r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a810r
+  confidence: auto

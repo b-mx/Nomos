@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--consul-template",
+  "vendor_id": "hashicorp",
+  "product_id": "consul-template",
+  "name": "Consul Template",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "consul_template",
+      "confidence": "auto"
+    }
+  ]
+}

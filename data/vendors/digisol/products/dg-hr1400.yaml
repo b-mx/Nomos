@@ -1,0 +1,10 @@
+id: dg-hr1400
+vendor_id: digisol
+name: Dg-Hr1400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digisol:dg\-hr1400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dg-hr1400
+  confidence: auto

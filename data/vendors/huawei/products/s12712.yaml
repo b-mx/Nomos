@@ -1,0 +1,10 @@
+id: s12712
+vendor_id: huawei
+name: S12712
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s12712:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s12712
+  confidence: auto

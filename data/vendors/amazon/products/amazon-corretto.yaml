@@ -1,0 +1,12 @@
+id: amazon-corretto
+vendor_id: amazon
+name: Amazon Corretto
+type: library
+tags: []
+aliases:
+- source: endoflife
+  value: amazon-corretto
+  confidence: auto
+- source: nvd
+  value: corretto
+  confidence: auto

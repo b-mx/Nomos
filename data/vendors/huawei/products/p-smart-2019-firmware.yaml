@@ -1,0 +1,10 @@
+id: p-smart-2019-firmware
+vendor_id: huawei
+name: P Smart 2019 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:p_smart_2019_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p_smart_2019_firmware
+  confidence: auto

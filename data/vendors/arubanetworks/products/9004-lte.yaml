@@ -1,0 +1,10 @@
+id: 9004-lte
+vendor_id: arubanetworks
+name: 9004-Lte
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:9004\-lte:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9004-lte
+  confidence: auto

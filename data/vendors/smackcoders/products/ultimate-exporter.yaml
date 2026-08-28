@@ -1,0 +1,10 @@
+id: ultimate-exporter
+vendor_id: smackcoders
+name: Ultimate Exporter
+type: software
+tags: []
+cpe: cpe:2.3:a:smackcoders:ultimate_exporter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultimate_exporter
+  confidence: auto

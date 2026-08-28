@@ -1,0 +1,10 @@
+id: 3ds-max
+vendor_id: autodesk
+name: 3Ds Max
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:3ds_max:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3ds_max
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkcentre-neo-50s-gen-3-firmware
+vendor_id: lenovo
+name: Thinkcentre Neo 50S Gen 3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkcentre_neo_50s_gen_3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_neo_50s_gen_3_firmware
+  confidence: auto

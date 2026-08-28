@@ -1,0 +1,10 @@
+id: design-review-2011
+vendor_id: autodesk
+name: Design Review 2011
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:design_review_2011:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: design_review_2011
+  confidence: auto

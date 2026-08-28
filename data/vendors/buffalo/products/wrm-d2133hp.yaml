@@ -1,0 +1,10 @@
+id: wrm-d2133hp
+vendor_id: buffalo
+name: Wrm-D2133Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wrm\-d2133hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrm-d2133hp
+  confidence: auto

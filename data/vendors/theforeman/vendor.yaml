@@ -1,0 +1,7 @@
+id: theforeman
+name: Theforeman
+cpe: cpe:2.3:*:theforeman:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: theforeman
+  confidence: auto

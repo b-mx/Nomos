@@ -1,0 +1,10 @@
+id: k32-80-kbl
+vendor_id: lenovo
+name: K32-80 Kbl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:k32\-80_kbl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k32-80_kbl
+  confidence: auto

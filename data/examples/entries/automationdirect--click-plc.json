@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "automationdirect--click-plc",
+  "vendor_id": "automationdirect",
+  "product_id": "click-plc",
+  "name": "Click Plc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "click_plc",
+      "confidence": "auto"
+    }
+  ]
+}

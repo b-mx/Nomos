@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "golang--go",
+  "vendor_id": "golang",
+  "product_id": "go",
+  "name": "Go",
+  "type": "library",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "go",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "go",
+      "confidence": "auto"
+    }
+  ]
+}

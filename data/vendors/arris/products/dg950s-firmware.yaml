@@ -1,0 +1,10 @@
+id: dg950s-firmware
+vendor_id: arris
+name: Dg950S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arris:dg950s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dg950s_firmware
+  confidence: auto

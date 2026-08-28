@@ -1,0 +1,10 @@
+id: wow-forms
+vendor_id: wow-company
+name: Wow Forms
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:wow_forms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wow_forms
+  confidence: auto

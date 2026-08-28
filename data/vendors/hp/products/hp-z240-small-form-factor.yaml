@@ -1,0 +1,10 @@
+id: hp-z240-small-form-factor
+vendor_id: hp
+name: Hp Z240 Small Form Factor
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_z240_small_form_factor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_z240_small_form_factor
+  confidence: auto

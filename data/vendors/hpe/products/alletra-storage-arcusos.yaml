@@ -1,0 +1,10 @@
+id: alletra-storage-arcusos
+vendor_id: hpe
+name: Alletra Storage Arcusos
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:alletra_storage_arcusos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alletra_storage_arcusos
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "realnetworks--helix-player",
+  "vendor_id": "realnetworks",
+  "product_id": "helix-player",
+  "name": "Helix Player",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "helix_player",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: supplier-management-system
+vendor_id: campcodes
+name: Supplier Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:supplier_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: supplier_management_system
+  confidence: auto

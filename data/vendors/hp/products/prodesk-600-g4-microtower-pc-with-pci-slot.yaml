@@ -1,0 +1,10 @@
+id: prodesk-600-g4-microtower-pc-with-pci-slot
+vendor_id: hp
+name: Prodesk 600 G4 Microtower Pc(With Pci Slot)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_600_g4_microtower_pc\(with_pci_slot\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_600_g4_microtower_pc(with_pci_slot)
+  confidence: auto

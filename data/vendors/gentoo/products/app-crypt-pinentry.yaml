@@ -1,0 +1,10 @@
+id: app-crypt-pinentry
+vendor_id: gentoo
+name: App-Crypt Pinentry
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:app\-crypt_pinentry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: app-crypt_pinentry
+  confidence: auto

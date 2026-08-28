@@ -1,0 +1,7 @@
+id: medtronic
+name: Medtronic
+cpe: cpe:2.3:*:medtronic:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: medtronic
+  confidence: auto

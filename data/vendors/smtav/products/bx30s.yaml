@@ -1,0 +1,10 @@
+id: bx30s
+vendor_id: smtav
+name: Bx30S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:smtav:bx30s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bx30s
+  confidence: auto

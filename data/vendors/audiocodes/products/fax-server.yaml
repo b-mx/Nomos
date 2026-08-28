@@ -1,0 +1,10 @@
+id: fax-server
+vendor_id: audiocodes
+name: Fax Server
+type: software
+tags: []
+cpe: cpe:2.3:a:audiocodes:fax_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fax_server
+  confidence: auto

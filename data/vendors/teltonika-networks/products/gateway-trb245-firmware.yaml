@@ -1,0 +1,10 @@
+id: gateway-trb245-firmware
+vendor_id: teltonika-networks
+name: Gateway Trb245 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teltonika\-networks:gateway_trb245_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gateway_trb245_firmware
+  confidence: auto

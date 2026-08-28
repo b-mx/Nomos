@@ -1,0 +1,10 @@
+id: wg300hp
+vendor_id: aterm
+name: Wg300Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aterm:wg300hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wg300hp
+  confidence: auto

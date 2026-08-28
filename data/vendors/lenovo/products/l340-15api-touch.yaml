@@ -1,0 +1,10 @@
+id: l340-15api-touch
+vendor_id: lenovo
+name: L340-15Api Touch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:l340\-15api_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l340-15api_touch
+  confidence: auto

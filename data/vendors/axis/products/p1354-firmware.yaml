@@ -1,0 +1,10 @@
+id: p1354-firmware
+vendor_id: axis
+name: P1354 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:p1354_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p1354_firmware
+  confidence: auto

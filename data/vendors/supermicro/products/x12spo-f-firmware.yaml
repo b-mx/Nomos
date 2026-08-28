@@ -1,0 +1,10 @@
+id: x12spo-f-firmware
+vendor_id: supermicro
+name: X12Spo-F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x12spo\-f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12spo-f_firmware
+  confidence: auto

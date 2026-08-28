@@ -1,0 +1,10 @@
+id: elastic-runtime
+vendor_id: pivotal
+name: Elastic Runtime
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:elastic_runtime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elastic_runtime
+  confidence: auto

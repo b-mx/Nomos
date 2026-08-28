@@ -1,0 +1,10 @@
+id: j7z13a
+vendor_id: hp
+name: J7Z13A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:j7z13a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j7z13a
+  confidence: auto

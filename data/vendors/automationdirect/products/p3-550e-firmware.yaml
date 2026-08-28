@@ -1,0 +1,10 @@
+id: p3-550e-firmware
+vendor_id: automationdirect
+name: P3-550E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:p3\-550e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3-550e_firmware
+  confidence: auto

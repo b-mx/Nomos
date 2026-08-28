@@ -1,0 +1,10 @@
+id: workcentre-m55
+vendor_id: xerox
+name: Workcentre M55
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:workcentre_m55:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_m55
+  confidence: auto

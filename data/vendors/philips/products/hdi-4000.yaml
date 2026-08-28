@@ -1,0 +1,10 @@
+id: hdi-4000
+vendor_id: philips
+name: Hdi 4000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:hdi_4000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdi_4000
+  confidence: auto

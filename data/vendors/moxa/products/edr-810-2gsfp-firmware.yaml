@@ -1,0 +1,10 @@
+id: edr-810-2gsfp-firmware
+vendor_id: moxa
+name: Edr-810-2Gsfp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:edr\-810\-2gsfp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edr-810-2gsfp_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: photo-gallery-php
+vendor_id: simplephpscripts
+name: Photo Gallery Php
+type: software
+tags: []
+cpe: cpe:2.3:a:simplephpscripts:photo_gallery_php:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photo_gallery_php
+  confidence: auto

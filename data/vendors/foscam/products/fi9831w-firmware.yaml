@@ -1,0 +1,10 @@
+id: fi9831w-firmware
+vendor_id: foscam
+name: Fi9831W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:foscam:fi9831w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fi9831w_firmware
+  confidence: auto

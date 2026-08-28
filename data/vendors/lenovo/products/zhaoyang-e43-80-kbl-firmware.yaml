@@ -1,0 +1,10 @@
+id: zhaoyang-e43-80-kbl-firmware
+vendor_id: lenovo
+name: Zhaoyang E43-80 Kbl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:zhaoyang_e43\-80_kbl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhaoyang_e43-80_kbl_firmware
+  confidence: auto

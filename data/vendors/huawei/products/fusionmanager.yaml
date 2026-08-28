@@ -1,0 +1,10 @@
+id: fusionmanager
+vendor_id: huawei
+name: Fusionmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:fusionmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionmanager
+  confidence: auto

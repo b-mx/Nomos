@@ -1,0 +1,10 @@
+id: linux-imaging-and-printing-project
+vendor_id: hp
+name: Linux Imaging And Printing Project
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:linux_imaging_and_printing_project:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_imaging_and_printing_project
+  confidence: auto

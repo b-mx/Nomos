@@ -1,0 +1,10 @@
+id: wemo-insight-switch-firmware
+vendor_id: belkin
+name: Wemo Insight Switch Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:wemo_insight_switch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wemo_insight_switch_firmware
+  confidence: auto

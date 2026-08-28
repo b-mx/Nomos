@@ -1,0 +1,7 @@
+id: dataprobe
+name: Dataprobe
+cpe: cpe:2.3:*:dataprobe:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dataprobe
+  confidence: auto

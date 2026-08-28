@@ -1,0 +1,10 @@
+id: elastic-load-balancing
+vendor_id: amazon
+name: Elastic Load Balancing
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:elastic_load_balancing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elastic_load_balancing
+  confidence: auto

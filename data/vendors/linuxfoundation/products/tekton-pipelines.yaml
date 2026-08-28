@@ -1,0 +1,10 @@
+id: tekton-pipelines
+vendor_id: linuxfoundation
+name: Tekton Pipelines
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:tekton_pipelines:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tekton_pipelines
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--serverview-resource-orchestrator",
+  "vendor_id": "fujitsu",
+  "product_id": "serverview-resource-orchestrator",
+  "name": "Serverview Resource Orchestrator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "serverview_resource_orchestrator",
+      "confidence": "auto"
+    }
+  ]
+}

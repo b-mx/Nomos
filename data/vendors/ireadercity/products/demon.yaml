@@ -1,0 +1,10 @@
+id: demon
+vendor_id: ireadercity
+name: Demon
+type: software
+tags: []
+cpe: cpe:2.3:a:ireadercity:demon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: demon
+  confidence: auto

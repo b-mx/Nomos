@@ -1,0 +1,10 @@
+id: susefirewall2
+vendor_id: suse
+name: Susefirewall2
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:susefirewall2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: susefirewall2
+  confidence: auto

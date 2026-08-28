@@ -1,0 +1,10 @@
+id: 248x
+vendor_id: lenovo
+name: 248X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:248x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 248x
+  confidence: auto

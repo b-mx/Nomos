@@ -1,0 +1,10 @@
+id: cscreen
+vendor_id: opensuse
+name: Cscreen
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:cscreen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cscreen
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sim1012-firmware
+vendor_id: sick
+name: Sim1012 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:sim1012_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim1012_firmware
+  confidence: auto

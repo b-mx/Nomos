@@ -1,0 +1,10 @@
+id: swatchly
+vendor_id: hasthemes
+name: Swatchly
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:swatchly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swatchly
+  confidence: auto

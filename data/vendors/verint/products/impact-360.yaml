@@ -1,0 +1,10 @@
+id: impact-360
+vendor_id: verint
+name: Impact 360
+type: software
+tags: []
+cpe: cpe:2.3:a:verint:impact_360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: impact_360
+  confidence: auto

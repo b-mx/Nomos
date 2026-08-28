@@ -1,0 +1,10 @@
+id: g-cam-ebc-2110-firmware
+vendor_id: geutebrueck
+name: G-Cam Ebc-2110 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:geutebrueck:g\-cam_ebc\-2110_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g-cam_ebc-2110_firmware
+  confidence: auto

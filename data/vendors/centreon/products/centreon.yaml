@@ -1,0 +1,13 @@
+id: centreon
+vendor_id: centreon
+name: Centreon
+type: software
+tags: []
+cpe: cpe:2.3:a:centreon:centreon:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: centreon
+  confidence: auto
+- source: nvd
+  value: centreon
+  confidence: auto

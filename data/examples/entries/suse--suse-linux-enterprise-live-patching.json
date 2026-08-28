@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--suse-linux-enterprise-live-patching",
+  "vendor_id": "suse",
+  "product_id": "suse-linux-enterprise-live-patching",
+  "name": "Suse Linux Enterprise Live Patching",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_linux_enterprise_live_patching",
+      "confidence": "auto"
+    }
+  ]
+}

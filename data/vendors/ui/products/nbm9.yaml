@@ -1,0 +1,10 @@
+id: nbm9
+vendor_id: ui
+name: Nbm9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:nbm9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbm9
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dr-8h
+vendor_id: cbc
+name: Dr-8H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:dr\-8h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-8h
+  confidence: auto

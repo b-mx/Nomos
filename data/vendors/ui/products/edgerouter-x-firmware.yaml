@@ -1,0 +1,10 @@
+id: edgerouter-x-firmware
+vendor_id: ui
+name: Edgerouter X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:edgerouter_x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgerouter_x_firmware
+  confidence: auto

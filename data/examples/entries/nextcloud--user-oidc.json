@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--user-oidc",
+  "vendor_id": "nextcloud",
+  "product_id": "user-oidc",
+  "name": "User Oidc",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "user_oidc",
+      "confidence": "auto"
+    }
+  ]
+}

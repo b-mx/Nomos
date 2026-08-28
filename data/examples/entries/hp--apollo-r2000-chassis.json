@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--apollo-r2000-chassis",
+  "vendor_id": "hp",
+  "product_id": "apollo-r2000-chassis",
+  "name": "Apollo R2000 Chassis",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apollo_r2000_chassis",
+      "confidence": "auto"
+    }
+  ]
+}

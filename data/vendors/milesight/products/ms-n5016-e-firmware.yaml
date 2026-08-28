@@ -1,0 +1,10 @@
+id: ms-n5016-e-firmware
+vendor_id: milesight
+name: Ms-N5016-E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:milesight:ms\-n5016\-e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms-n5016-e_firmware
+  confidence: auto

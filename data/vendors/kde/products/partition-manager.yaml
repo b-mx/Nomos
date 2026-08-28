@@ -1,0 +1,10 @@
+id: partition-manager
+vendor_id: kde
+name: Partition Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:partition_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: partition_manager
+  confidence: auto

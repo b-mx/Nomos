@@ -1,0 +1,10 @@
+id: f8b09
+vendor_id: hp
+name: F8B09
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f8b09:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f8b09
+  confidence: auto

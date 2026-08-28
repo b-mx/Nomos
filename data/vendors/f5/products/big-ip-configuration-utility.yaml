@@ -1,10 +1,8 @@
 id: big-ip-configuration-utility
 vendor_id: f5
 name: BIG-IP Configuration Utility
-type: appliance
-tags:
-- load-balancer
-icon: simple-icons:f5
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: BIG-IP Configuration Utility

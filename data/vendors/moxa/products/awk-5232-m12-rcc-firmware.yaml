@@ -1,0 +1,10 @@
+id: awk-5232-m12-rcc-firmware
+vendor_id: moxa
+name: Awk-5232-M12-Rcc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:awk\-5232\-m12\-rcc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awk-5232-m12-rcc_firmware
+  confidence: auto

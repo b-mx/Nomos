@@ -1,0 +1,9 @@
+id: smbv1-server
+vendor_id: microsoft
+name: SMBv1 server
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SMBv1 server
+  confidence: auto

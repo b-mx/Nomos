@@ -1,0 +1,7 @@
+id: dev4press
+name: Dev4Press
+cpe: cpe:2.3:*:dev4press:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dev4press
+  confidence: auto

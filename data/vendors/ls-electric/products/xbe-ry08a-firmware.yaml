@@ -1,0 +1,10 @@
+id: xbe-ry08a-firmware
+vendor_id: ls-electric
+name: Xbe-Ry08A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbe\-ry08a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbe-ry08a_firmware
+  confidence: auto

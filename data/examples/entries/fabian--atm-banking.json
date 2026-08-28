@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fabian--atm-banking",
+  "vendor_id": "fabian",
+  "product_id": "atm-banking",
+  "name": "Atm Banking",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "atm_banking",
+      "confidence": "auto"
+    }
+  ]
+}

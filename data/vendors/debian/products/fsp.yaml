@@ -1,0 +1,10 @@
+id: fsp
+vendor_id: debian
+name: Fsp
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:fsp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fsp
+  confidence: auto

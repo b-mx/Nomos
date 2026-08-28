@@ -1,0 +1,10 @@
+id: pro-x360-fortis-g10-firmware
+vendor_id: hp
+name: Pro X360 Fortis G10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:pro_x360_fortis_g10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_x360_fortis_g10_firmware
+  confidence: auto

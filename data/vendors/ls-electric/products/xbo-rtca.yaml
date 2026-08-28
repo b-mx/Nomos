@@ -1,0 +1,10 @@
+id: xbo-rtca
+vendor_id: ls-electric
+name: Xbo-Rtca
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xbo\-rtca:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbo-rtca
+  confidence: auto

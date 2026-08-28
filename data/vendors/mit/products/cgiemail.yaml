@@ -1,0 +1,10 @@
+id: cgiemail
+vendor_id: mit
+name: Cgiemail
+type: software
+tags: []
+cpe: cpe:2.3:a:mit:cgiemail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cgiemail
+  confidence: auto

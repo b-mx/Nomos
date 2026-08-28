@@ -1,0 +1,10 @@
+id: rt-210-firmware
+vendor_id: airties
+name: Rt-210 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airties:rt\-210_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-210_firmware
+  confidence: auto

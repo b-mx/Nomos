@@ -1,0 +1,10 @@
+id: invenia-abus-scan-station-firmware
+vendor_id: ge
+name: Invenia Abus Scan Station Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:invenia_abus_scan_station_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: invenia_abus_scan_station_firmware
+  confidence: auto

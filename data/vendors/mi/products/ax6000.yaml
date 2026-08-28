@@ -1,0 +1,10 @@
+id: ax6000
+vendor_id: mi
+name: Ax6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:ax6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax6000
+  confidence: auto

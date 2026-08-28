@@ -1,0 +1,10 @@
+id: realsecure-network-sensor
+vendor_id: iss
+name: Realsecure Network Sensor
+type: software
+tags: []
+cpe: cpe:2.3:a:iss:realsecure_network_sensor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realsecure_network_sensor
+  confidence: auto

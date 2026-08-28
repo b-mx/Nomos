@@ -1,0 +1,10 @@
+id: thinkpad-t495-drift
+vendor_id: lenovo
+name: Thinkpad T495 Drift
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_t495_drift:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t495_drift
+  confidence: auto

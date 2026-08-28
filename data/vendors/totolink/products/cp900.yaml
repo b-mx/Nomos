@@ -1,0 +1,10 @@
+id: cp900
+vendor_id: totolink
+name: Cp900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:cp900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp900
+  confidence: auto

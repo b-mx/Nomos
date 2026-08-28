@@ -1,0 +1,10 @@
+id: eki-1522
+vendor_id: advantech
+name: Eki-1522
+type: hardware
+tags: []
+cpe: cpe:2.3:h:advantech:eki\-1522:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eki-1522
+  confidence: auto

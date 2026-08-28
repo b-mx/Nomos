@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--array-diagnostics-utility",
+  "vendor_id": "hp",
+  "product_id": "array-diagnostics-utility",
+  "name": "Array Diagnostics Utility",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "array_diagnostics_utility",
+      "confidence": "auto"
+    }
+  ]
+}

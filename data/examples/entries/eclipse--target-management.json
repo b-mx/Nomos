@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--target-management",
+  "vendor_id": "eclipse",
+  "product_id": "target-management",
+  "name": "Target Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "target_management",
+      "confidence": "auto"
+    }
+  ]
+}

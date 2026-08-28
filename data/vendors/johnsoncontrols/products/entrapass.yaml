@@ -1,0 +1,10 @@
+id: entrapass
+vendor_id: johnsoncontrols
+name: Entrapass
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:entrapass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: entrapass
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-4700s",
+  "vendor_id": "amd",
+  "product_id": "ryzen-4700s",
+  "name": "Ryzen 4700S",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_4700s",
+      "confidence": "auto"
+    }
+  ]
+}

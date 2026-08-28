@@ -1,0 +1,10 @@
+id: fx3u-128mt-dss
+vendor_id: mitsubishielectric
+name: Fx3U-128Mt/Dss
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:fx3u\-128mt\/dss:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3u-128mt/dss
+  confidence: auto

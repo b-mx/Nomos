@@ -1,0 +1,10 @@
+id: micropayments
+vendor_id: videowhisper
+name: Micropayments
+type: software
+tags: []
+cpe: cpe:2.3:a:videowhisper:micropayments:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: micropayments
+  confidence: auto

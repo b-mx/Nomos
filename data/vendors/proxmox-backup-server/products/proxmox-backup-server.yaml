@@ -1,0 +1,9 @@
+id: proxmox-backup-server
+vendor_id: proxmox-backup-server
+name: Proxmox Backup Server
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: proxmox-backup-server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: authentication-manager
+vendor_id: rsa
+name: Authentication Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:authentication_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: authentication_manager
+  confidence: auto

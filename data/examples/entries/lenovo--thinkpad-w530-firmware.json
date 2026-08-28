@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--thinkpad-w530-firmware",
+  "vendor_id": "lenovo",
+  "product_id": "thinkpad-w530-firmware",
+  "name": "Thinkpad W530 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "thinkpad_w530_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

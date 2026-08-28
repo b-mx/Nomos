@@ -1,0 +1,10 @@
+id: simplesamlphp
+vendor_id: simplesamlphp
+name: Simplesamlphp
+type: software
+tags: []
+cpe: cpe:2.3:a:simplesamlphp:simplesamlphp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplesamlphp
+  confidence: auto

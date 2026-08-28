@@ -1,0 +1,10 @@
+id: rtx5000-firmware
+vendor_id: yamaha
+name: Rtx5000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rtx5000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtx5000_firmware
+  confidence: auto

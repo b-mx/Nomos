@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "automattic--woocommerce",
+  "vendor_id": "automattic",
+  "product_id": "woocommerce",
+  "name": "Woocommerce",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "woocommerce",
+      "confidence": "auto"
+    }
+  ]
+}

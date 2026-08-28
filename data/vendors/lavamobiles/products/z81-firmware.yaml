@@ -1,0 +1,10 @@
+id: z81-firmware
+vendor_id: lavamobiles
+name: Z81 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lavamobiles:z81_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z81_firmware
+  confidence: auto

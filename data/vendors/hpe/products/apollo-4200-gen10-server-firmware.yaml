@@ -1,0 +1,10 @@
+id: apollo-4200-gen10-server-firmware
+vendor_id: hpe
+name: Apollo 4200 Gen10 Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:apollo_4200_gen10_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_4200_gen10_server_firmware
+  confidence: auto

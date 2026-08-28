@@ -1,0 +1,10 @@
+id: er-lite-firmware
+vendor_id: easyrobotics
+name: Er-Lite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:easyrobotics:er\-lite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er-lite_firmware
+  confidence: auto

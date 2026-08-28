@@ -1,0 +1,10 @@
+id: series-30i
+vendor_id: fanuc
+name: Series 30I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:series_30i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: series_30i
+  confidence: auto

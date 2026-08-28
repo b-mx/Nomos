@@ -1,0 +1,10 @@
+id: mf6160dw-firmware
+vendor_id: canon
+name: Mf6160Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:mf6160dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf6160dw_firmware
+  confidence: auto

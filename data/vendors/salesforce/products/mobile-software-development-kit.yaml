@@ -1,0 +1,10 @@
+id: mobile-software-development-kit
+vendor_id: salesforce
+name: Mobile Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:salesforce:mobile_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile_software_development_kit
+  confidence: auto

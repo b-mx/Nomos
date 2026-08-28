@@ -1,0 +1,10 @@
+id: enterprise-security-api
+vendor_id: owasp
+name: Enterprise Security Api
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:enterprise_security_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_security_api
+  confidence: auto

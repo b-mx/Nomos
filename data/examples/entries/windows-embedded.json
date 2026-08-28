@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "windows-embedded",
+  "vendor_id": "windows-embedded",
+  "name": "Microsoft Windows Embedded",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "windows-embedded",
+      "confidence": "auto"
+    }
+  ]
+}

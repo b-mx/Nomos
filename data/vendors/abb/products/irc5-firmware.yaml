@@ -1,0 +1,10 @@
+id: irc5-firmware
+vendor_id: abb
+name: Irc5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:irc5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: irc5_firmware
+  confidence: auto

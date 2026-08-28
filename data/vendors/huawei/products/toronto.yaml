@@ -1,0 +1,10 @@
+id: toronto
+vendor_id: huawei
+name: Toronto
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:toronto:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toronto
+  confidence: auto

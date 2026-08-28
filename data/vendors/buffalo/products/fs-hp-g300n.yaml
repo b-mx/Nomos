@@ -1,0 +1,10 @@
+id: fs-hp-g300n
+vendor_id: buffalo
+name: Fs-Hp-G300N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:fs\-hp\-g300n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fs-hp-g300n
+  confidence: auto

@@ -1,0 +1,10 @@
+id: oppo-f11-pro
+vendor_id: oppo
+name: Oppo F11 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_f11_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_f11_pro
+  confidence: auto

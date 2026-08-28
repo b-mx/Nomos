@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--zigbee-emberznet",
+  "vendor_id": "silabs",
+  "product_id": "zigbee-emberznet",
+  "name": "Zigbee Emberznet",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zigbee_emberznet",
+      "confidence": "auto"
+    }
+  ]
+}

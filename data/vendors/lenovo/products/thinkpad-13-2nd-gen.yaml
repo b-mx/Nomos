@@ -1,0 +1,10 @@
+id: thinkpad-13-2nd-gen
+vendor_id: lenovo
+name: Thinkpad 13 2Nd Gen
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_13_2nd_gen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_13_2nd_gen
+  confidence: auto

@@ -1,0 +1,10 @@
+id: chaos-monkey
+vendor_id: netflix
+name: Chaos Monkey
+type: software
+tags: []
+cpe: cpe:2.3:a:netflix:chaos_monkey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chaos_monkey
+  confidence: auto

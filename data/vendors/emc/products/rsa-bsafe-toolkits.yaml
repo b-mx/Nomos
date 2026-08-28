@@ -1,0 +1,10 @@
+id: rsa-bsafe-toolkits
+vendor_id: emc
+name: Rsa Bsafe Toolkits
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_bsafe_toolkits:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_bsafe_toolkits
+  confidence: auto

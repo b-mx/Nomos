@@ -1,0 +1,10 @@
+id: project-assistant
+vendor_id: bosch
+name: Project Assistant
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:project_assistant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: project_assistant
+  confidence: auto

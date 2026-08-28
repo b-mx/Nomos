@@ -1,0 +1,10 @@
+id: zxhn-h196q-firmware
+vendor_id: zte
+name: Zxhn H196Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxhn_h196q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxhn_h196q_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hilink-ai-life
+vendor_id: huawei
+name: Hilink Ai Life
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hilink_ai_life:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hilink_ai_life
+  confidence: auto

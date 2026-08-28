@@ -1,0 +1,10 @@
+id: bizmanager
+vendor_id: opentext
+name: Bizmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:bizmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizmanager
+  confidence: auto

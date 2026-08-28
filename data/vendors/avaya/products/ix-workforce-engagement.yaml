@@ -1,0 +1,10 @@
+id: ix-workforce-engagement
+vendor_id: avaya
+name: Ix Workforce Engagement
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:ix_workforce_engagement:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ix_workforce_engagement
+  confidence: auto

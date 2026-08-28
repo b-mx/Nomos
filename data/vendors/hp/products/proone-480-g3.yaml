@@ -1,0 +1,10 @@
+id: proone-480-g3
+vendor_id: hp
+name: Proone 480 G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proone_480_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_480_g3
+  confidence: auto

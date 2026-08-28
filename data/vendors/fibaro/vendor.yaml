@@ -1,0 +1,7 @@
+id: fibaro
+name: Fibaro
+cpe: cpe:2.3:*:fibaro:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fibaro
+  confidence: auto

@@ -1,0 +1,10 @@
+id: webyast
+vendor_id: suse
+name: Webyast
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:webyast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webyast
+  confidence: auto

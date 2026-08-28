@@ -1,0 +1,10 @@
+id: thinkpad-x390
+vendor_id: lenovo
+name: Thinkpad X390
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x390:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x390
+  confidence: auto

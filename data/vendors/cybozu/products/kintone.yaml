@@ -1,0 +1,10 @@
+id: kintone
+vendor_id: cybozu
+name: Kintone
+type: software
+tags: []
+cpe: cpe:2.3:a:cybozu:kintone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kintone
+  confidence: auto

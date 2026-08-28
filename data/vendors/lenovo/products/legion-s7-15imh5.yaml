@@ -1,0 +1,10 @@
+id: legion-s7-15imh5
+vendor_id: lenovo
+name: Legion S7-15Imh5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_s7\-15imh5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_s7-15imh5
+  confidence: auto

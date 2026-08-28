@@ -1,0 +1,10 @@
+id: melipc-mi5122-vw-firmware
+vendor_id: mitsubishi
+name: Melipc Mi5122-Vw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishi:melipc_mi5122\-vw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melipc_mi5122-vw_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: opera-browser
+vendor_id: opera
+name: Opera Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:opera:opera_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opera_browser
+  confidence: auto

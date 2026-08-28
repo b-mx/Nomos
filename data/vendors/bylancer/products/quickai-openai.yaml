@@ -1,0 +1,10 @@
+id: quickai-openai
+vendor_id: bylancer
+name: Quickai Openai
+type: software
+tags: []
+cpe: cpe:2.3:a:bylancer:quickai_openai:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quickai_openai
+  confidence: auto

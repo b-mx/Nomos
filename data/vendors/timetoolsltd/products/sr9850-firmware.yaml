@@ -1,0 +1,10 @@
+id: sr9850-firmware
+vendor_id: timetoolsltd
+name: Sr9850 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:timetoolsltd:sr9850_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sr9850_firmware
+  confidence: auto

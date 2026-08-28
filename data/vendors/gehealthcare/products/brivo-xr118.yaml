@@ -1,0 +1,10 @@
+id: brivo-xr118
+vendor_id: gehealthcare
+name: Brivo Xr118
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:brivo_xr118:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brivo_xr118
+  confidence: auto

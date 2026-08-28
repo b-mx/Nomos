@@ -1,0 +1,10 @@
+id: magritte-rest-source-bundle
+vendor_id: palantir
+name: Magritte-Rest-Source-Bundle
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:magritte\-rest\-source\-bundle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magritte-rest-source-bundle
+  confidence: auto

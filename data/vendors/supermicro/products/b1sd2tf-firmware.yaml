@@ -1,0 +1,10 @@
+id: b1sd2tf-firmware
+vendor_id: supermicro
+name: B1Sd2Tf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:b1sd2tf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b1sd2tf_firmware
+  confidence: auto

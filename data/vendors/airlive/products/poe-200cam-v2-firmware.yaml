@@ -1,0 +1,10 @@
+id: poe-200cam-v2-firmware
+vendor_id: airlive
+name: Poe-200Cam V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airlive:poe\-200cam_v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poe-200cam_v2_firmware
+  confidence: auto

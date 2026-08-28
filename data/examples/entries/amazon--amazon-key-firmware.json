@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--amazon-key-firmware",
+  "vendor_id": "amazon",
+  "product_id": "amazon-key-firmware",
+  "name": "Amazon Key Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amazon_key_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

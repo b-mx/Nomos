@@ -1,0 +1,10 @@
+id: ap-305
+vendor_id: arubanetworks
+name: Ap-305
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-305:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-305
+  confidence: auto

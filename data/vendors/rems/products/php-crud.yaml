@@ -1,0 +1,10 @@
+id: php-crud
+vendor_id: rems
+name: Php Crud
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:php_crud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: php_crud
+  confidence: auto

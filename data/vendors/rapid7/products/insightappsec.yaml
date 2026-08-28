@@ -1,0 +1,10 @@
+id: insightappsec
+vendor_id: rapid7
+name: Insightappsec
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:insightappsec:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insightappsec
+  confidence: auto

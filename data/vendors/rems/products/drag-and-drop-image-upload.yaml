@@ -1,0 +1,10 @@
+id: drag-and-drop-image-upload
+vendor_id: rems
+name: Drag And Drop Image Upload
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:drag_and_drop_image_upload:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: drag_and_drop_image_upload
+  confidence: auto

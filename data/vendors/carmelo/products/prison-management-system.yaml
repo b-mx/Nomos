@@ -1,0 +1,10 @@
+id: prison-management-system
+vendor_id: carmelo
+name: Prison Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:prison_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prison_management_system
+  confidence: auto

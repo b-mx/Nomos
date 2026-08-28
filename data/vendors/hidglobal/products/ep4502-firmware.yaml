@@ -1,0 +1,10 @@
+id: ep4502-firmware
+vendor_id: hidglobal
+name: Ep4502 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hidglobal:ep4502_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep4502_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: skybridge-basic-mb-a130
+vendor_id: seiko-sol
+name: Skybridge Basic Mb-A130
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seiko\-sol:skybridge_basic_mb\-a130:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skybridge_basic_mb-a130
+  confidence: auto

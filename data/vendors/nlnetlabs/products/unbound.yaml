@@ -1,0 +1,10 @@
+id: unbound
+vendor_id: nlnetlabs
+name: Unbound
+type: software
+tags: []
+cpe: cpe:2.3:a:nlnetlabs:unbound:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unbound
+  confidence: auto

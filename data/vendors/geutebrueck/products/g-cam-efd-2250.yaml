@@ -1,0 +1,10 @@
+id: g-cam-efd-2250
+vendor_id: geutebrueck
+name: G-Cam/Efd-2250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:geutebrueck:g\-cam\/efd\-2250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g-cam/efd-2250
+  confidence: auto

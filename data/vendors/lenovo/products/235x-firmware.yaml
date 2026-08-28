@@ -1,0 +1,10 @@
+id: 235x-firmware
+vendor_id: lenovo
+name: 235X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:235x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 235x_firmware
+  confidence: auto

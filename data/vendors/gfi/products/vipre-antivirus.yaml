@@ -1,0 +1,10 @@
+id: vipre-antivirus
+vendor_id: gfi
+name: Vipre Antivirus
+type: software
+tags: []
+cpe: cpe:2.3:a:gfi:vipre_antivirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vipre_antivirus
+  confidence: auto

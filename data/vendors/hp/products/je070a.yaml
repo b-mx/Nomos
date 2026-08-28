@@ -1,0 +1,10 @@
+id: je070a
+vendor_id: hp
+name: Je070A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je070a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je070a
+  confidence: auto

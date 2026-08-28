@@ -1,0 +1,10 @@
+id: school-log-management-system
+vendor_id: campcodes
+name: School Log Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:school_log_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: school_log_management_system
+  confidence: auto

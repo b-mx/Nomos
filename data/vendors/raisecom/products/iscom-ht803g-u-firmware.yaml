@@ -1,0 +1,10 @@
+id: iscom-ht803g-u-firmware
+vendor_id: raisecom
+name: Iscom Ht803G-U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:raisecom:iscom_ht803g\-u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iscom_ht803g-u_firmware
+  confidence: auto

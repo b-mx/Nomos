@@ -1,0 +1,10 @@
+id: quiche
+vendor_id: cloudflare
+name: Quiche
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:quiche:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quiche
+  confidence: auto

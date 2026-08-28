@@ -1,0 +1,10 @@
+id: vx-1000
+vendor_id: arubanetworks
+name: Vx-1000
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:vx\-1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx-1000
+  confidence: auto

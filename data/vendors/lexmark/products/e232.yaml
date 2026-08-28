@@ -1,0 +1,10 @@
+id: e232
+vendor_id: lexmark
+name: E232
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:e232:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e232
+  confidence: auto

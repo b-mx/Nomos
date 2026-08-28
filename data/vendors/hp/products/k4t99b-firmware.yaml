@@ -1,0 +1,10 @@
+id: k4t99b-firmware
+vendor_id: hp
+name: K4T99B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:k4t99b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k4t99b_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: arms
+vendor_id: nintendo
+name: Arms
+type: software
+tags: []
+cpe: cpe:2.3:a:nintendo:arms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arms
+  confidence: auto

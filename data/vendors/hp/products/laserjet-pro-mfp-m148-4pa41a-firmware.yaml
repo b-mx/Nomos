@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m148-4pa41a-firmware
+vendor_id: hp
+name: Laserjet Pro Mfp M148 4Pa41A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_mfp_m148_4pa41a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m148_4pa41a_firmware
+  confidence: auto

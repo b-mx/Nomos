@@ -1,0 +1,10 @@
+id: memberhero
+vendor_id: najeebmedia
+name: Memberhero
+type: software
+tags: []
+cpe: cpe:2.3:a:najeebmedia:memberhero:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: memberhero
+  confidence: auto

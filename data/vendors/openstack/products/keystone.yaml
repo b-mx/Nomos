@@ -1,0 +1,10 @@
+id: keystone
+vendor_id: openstack
+name: Keystone
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:keystone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keystone
+  confidence: auto

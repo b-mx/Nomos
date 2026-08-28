@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x12dsc-6-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x12dsc-6-firmware",
+  "name": "X12Dsc-6 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x12dsc-6_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

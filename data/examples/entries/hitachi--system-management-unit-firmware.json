@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachi--system-management-unit-firmware",
+  "vendor_id": "hitachi",
+  "product_id": "system-management-unit-firmware",
+  "name": "System Management Unit Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "system_management_unit_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

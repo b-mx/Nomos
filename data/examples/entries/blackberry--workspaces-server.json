@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "blackberry--workspaces-server",
+  "vendor_id": "blackberry",
+  "product_id": "workspaces-server",
+  "name": "Workspaces Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "workspaces_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--3xxx-firmware",
+  "vendor_id": "lenovo",
+  "product_id": "3xxx-firmware",
+  "name": "3Xxx Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "3xxx_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

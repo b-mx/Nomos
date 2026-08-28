@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "redlion--hmi-panel-firmware",
+  "vendor_id": "redlion",
+  "product_id": "hmi-panel-firmware",
+  "name": "Hmi Panel Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hmi_panel_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

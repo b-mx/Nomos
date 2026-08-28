@@ -1,0 +1,6 @@
+id: amazon-rds-postgresql
+name: Amazon RDS for PostgreSQL
+aliases:
+- source: endoflife
+  value: amazon-rds-postgresql
+  confidence: auto

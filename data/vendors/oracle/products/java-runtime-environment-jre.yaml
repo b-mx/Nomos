@@ -2,9 +2,7 @@ id: java-runtime-environment-jre
 vendor_id: oracle
 name: Java Runtime Environment (JRE)
 type: software
-tags:
-- runtime
-icon: logos:oracle
+tags: []
 aliases:
 - source: cisa_kev
   value: Java Runtime Environment (JRE)

@@ -1,0 +1,10 @@
+id: rd78ghv-firmware
+vendor_id: mitsubishielectric
+name: Rd78Ghv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rd78ghv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rd78ghv_firmware
+  confidence: auto

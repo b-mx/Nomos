@@ -1,0 +1,10 @@
+id: openstack
+vendor_id: openstack
+name: Openstack
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:openstack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstack
+  confidence: auto

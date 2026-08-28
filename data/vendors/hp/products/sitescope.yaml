@@ -1,0 +1,10 @@
+id: sitescope
+vendor_id: hp
+name: Sitescope
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:sitescope:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sitescope
+  confidence: auto

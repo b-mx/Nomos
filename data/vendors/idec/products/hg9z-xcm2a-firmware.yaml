@@ -1,0 +1,10 @@
+id: hg9z-xcm2a-firmware
+vendor_id: idec
+name: Hg9Z-Xcm2A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idec:hg9z\-xcm2a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg9z-xcm2a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mrzjw3-mc2-utl-firmware
+vendor_id: mitsubishielectric
+name: Mrzjw3-Mc2-Utl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:mrzjw3\-mc2\-utl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mrzjw3-mc2-utl_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fusionhub-firmware
+vendor_id: peplink
+name: Fusionhub Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:fusionhub_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionhub_firmware
+  confidence: auto

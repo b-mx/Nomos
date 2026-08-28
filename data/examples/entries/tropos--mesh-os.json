@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tropos--mesh-os",
+  "vendor_id": "tropos",
+  "product_id": "mesh-os",
+  "name": "Mesh Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mesh_os",
+      "confidence": "auto"
+    }
+  ]
+}

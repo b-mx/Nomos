@@ -1,0 +1,10 @@
+id: hf60c
+vendor_id: hpe
+name: Hf60C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:hf60c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hf60c
+  confidence: auto

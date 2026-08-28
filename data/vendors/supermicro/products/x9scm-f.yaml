@@ -1,0 +1,10 @@
+id: x9scm-f
+vendor_id: supermicro
+name: X9Scm(-F)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9scm\(\-f\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9scm(-f)
+  confidence: auto

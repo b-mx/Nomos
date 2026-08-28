@@ -1,0 +1,10 @@
+id: wemail
+vendor_id: wedevs
+name: Wemail
+type: software
+tags: []
+cpe: cpe:2.3:a:wedevs:wemail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wemail
+  confidence: auto

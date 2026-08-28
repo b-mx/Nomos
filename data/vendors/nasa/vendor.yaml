@@ -1,0 +1,7 @@
+id: nasa
+name: Nasa
+cpe: cpe:2.3:*:nasa:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nasa
+  confidence: auto

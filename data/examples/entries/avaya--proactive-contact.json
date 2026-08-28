@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--proactive-contact",
+  "vendor_id": "avaya",
+  "product_id": "proactive-contact",
+  "name": "Proactive Contact",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proactive_contact",
+      "confidence": "auto"
+    }
+  ]
+}

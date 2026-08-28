@@ -1,0 +1,10 @@
+id: vibe-a2560
+vendor_id: lenovo
+name: Vibe A2560
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:vibe_a2560:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vibe_a2560
+  confidence: auto

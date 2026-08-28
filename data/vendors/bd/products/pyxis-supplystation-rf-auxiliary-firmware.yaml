@@ -1,0 +1,10 @@
+id: pyxis-supplystation-rf-auxiliary-firmware
+vendor_id: bd
+name: Pyxis Supplystation Rf Auxiliary Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:pyxis_supplystation_rf_auxiliary_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_supplystation_rf_auxiliary_firmware
+  confidence: auto

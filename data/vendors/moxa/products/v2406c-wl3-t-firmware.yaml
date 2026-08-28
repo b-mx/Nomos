@@ -1,0 +1,10 @@
+id: v2406c-wl3-t-firmware
+vendor_id: moxa
+name: V2406C-Wl3-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:v2406c\-wl3\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v2406c-wl3-t_firmware
+  confidence: auto

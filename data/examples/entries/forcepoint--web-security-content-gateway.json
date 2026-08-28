@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "forcepoint--web-security-content-gateway",
+  "vendor_id": "forcepoint",
+  "product_id": "web-security-content-gateway",
+  "name": "Web Security Content Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web_security_content_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

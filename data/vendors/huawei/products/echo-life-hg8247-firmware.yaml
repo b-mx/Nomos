@@ -1,0 +1,10 @@
+id: echo-life-hg8247-firmware
+vendor_id: huawei
+name: Echo Life Hg8247 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:echo_life_hg8247_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echo_life_hg8247_firmware
+  confidence: auto

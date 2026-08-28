@@ -1,0 +1,10 @@
+id: ez-media-backup-center-firmware
+vendor_id: lenovo
+name: Ez Media & Backup Center Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ez_media_\&_backup_center_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ez_media_&_backup_center_firmware
+  confidence: auto

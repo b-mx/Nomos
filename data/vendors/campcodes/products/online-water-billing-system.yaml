@@ -1,0 +1,10 @@
+id: online-water-billing-system
+vendor_id: campcodes
+name: Online Water Billing System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:online_water_billing_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_water_billing_system
+  confidence: auto

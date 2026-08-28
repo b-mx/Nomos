@@ -1,0 +1,10 @@
+id: actions-artifact
+vendor_id: github
+name: Actions/Artifact
+type: software
+tags: []
+cpe: cpe:2.3:a:github:actions\/artifact:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: actions/artifact
+  confidence: auto

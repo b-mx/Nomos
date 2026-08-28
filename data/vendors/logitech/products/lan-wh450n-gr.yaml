@@ -1,0 +1,10 @@
+id: lan-wh450n-gr
+vendor_id: logitech
+name: Lan-Wh450N/Gr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:lan\-wh450n\/gr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-wh450n/gr
+  confidence: auto

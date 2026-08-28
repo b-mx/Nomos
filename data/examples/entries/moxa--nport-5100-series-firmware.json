@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--nport-5100-series-firmware",
+  "vendor_id": "moxa",
+  "product_id": "nport-5100-series-firmware",
+  "name": "Nport 5100 Series Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nport_5100_series_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

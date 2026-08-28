@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--z2-mini-g5-workstation-firmware",
+  "vendor_id": "hp",
+  "product_id": "z2-mini-g5-workstation-firmware",
+  "name": "Z2 Mini G5 Workstation Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "z2_mini_g5_workstation_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

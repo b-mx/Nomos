@@ -1,0 +1,10 @@
+id: simplivity-omnicube
+vendor_id: hp
+name: Simplivity Omnicube
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:simplivity_omnicube:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplivity_omnicube
+  confidence: auto

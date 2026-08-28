@@ -1,0 +1,10 @@
+id: veriton-n2620g
+vendor_id: acer
+name: Veriton N2620G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:veriton_n2620g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: veriton_n2620g
+  confidence: auto

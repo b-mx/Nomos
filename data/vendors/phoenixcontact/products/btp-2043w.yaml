@@ -1,0 +1,10 @@
+id: btp-2043w
+vendor_id: phoenixcontact
+name: Btp 2043W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:btp_2043w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: btp_2043w
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x12stl-if
+vendor_id: supermicro
+name: X12Stl-If
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12stl\-if:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12stl-if
+  confidence: auto

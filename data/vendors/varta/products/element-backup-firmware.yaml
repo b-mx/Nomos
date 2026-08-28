@@ -1,0 +1,10 @@
+id: element-backup-firmware
+vendor_id: varta
+name: Element Backup Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:varta:element_backup_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: element_backup_firmware
+  confidence: auto

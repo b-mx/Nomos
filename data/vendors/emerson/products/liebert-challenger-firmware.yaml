@@ -1,0 +1,10 @@
+id: liebert-challenger-firmware
+vendor_id: emerson
+name: Liebert Challenger Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:liebert_challenger_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: liebert_challenger_firmware
+  confidence: auto

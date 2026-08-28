@@ -1,0 +1,10 @@
+id: smartliving-10100l
+vendor_id: inim
+name: Smartliving 10100L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:inim:smartliving_10100l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartliving_10100l
+  confidence: auto

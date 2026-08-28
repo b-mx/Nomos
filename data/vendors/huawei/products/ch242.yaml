@@ -1,0 +1,10 @@
+id: ch242
+vendor_id: huawei
+name: Ch242
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ch242:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch242
+  confidence: auto

@@ -1,0 +1,10 @@
+id: message-archiver-firmware
+vendor_id: barracuda
+name: Message Archiver Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:barracuda:message_archiver_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: message_archiver_firmware
+  confidence: auto

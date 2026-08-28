@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "panos",
+  "vendor_id": "panos",
+  "name": "Palo Alto Networks PAN-OS",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "panos",
+      "confidence": "auto"
+    }
+  ]
+}

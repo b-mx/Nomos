@@ -1,0 +1,10 @@
+id: exceed
+vendor_id: hummingbird
+name: Exceed
+type: software
+tags: []
+cpe: cpe:2.3:a:hummingbird:exceed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exceed
+  confidence: auto

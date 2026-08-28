@@ -1,0 +1,10 @@
+id: viral-signup
+vendor_id: wow-company
+name: Viral Signup
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:viral_signup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viral_signup
+  confidence: auto

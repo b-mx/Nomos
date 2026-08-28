@@ -1,0 +1,10 @@
+id: sg-2404-poe-firmware
+vendor_id: intelbras
+name: Sg 2404 Poe Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelbras:sg_2404_poe_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg_2404_poe_firmware
+  confidence: auto

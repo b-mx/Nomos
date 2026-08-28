@@ -1,0 +1,10 @@
+id: x11-common
+vendor_id: debian
+name: X11-Common
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:x11\-common:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11-common
+  confidence: auto

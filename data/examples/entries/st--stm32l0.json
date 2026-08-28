@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32l0",
+  "vendor_id": "st",
+  "product_id": "stm32l0",
+  "name": "Stm32L0",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32l0",
+      "confidence": "auto"
+    }
+  ]
+}

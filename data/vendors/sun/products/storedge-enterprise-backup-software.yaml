@@ -1,0 +1,10 @@
+id: storedge-enterprise-backup-software
+vendor_id: sun
+name: Storedge Enterprise Backup Software
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:storedge_enterprise_backup_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storedge_enterprise_backup_software
+  confidence: auto

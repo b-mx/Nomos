@@ -1,0 +1,10 @@
+id: uipath-integrationservice-sdk
+vendor_id: uipath
+name: Uipath/Integrationservice-Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/integrationservice\-sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/integrationservice-sdk
+  confidence: auto

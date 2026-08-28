@@ -1,0 +1,10 @@
+id: bus-node-cteu-ep-firmware
+vendor_id: festo
+name: Bus Node Cteu-Ep Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:bus_node_cteu\-ep_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bus_node_cteu-ep_firmware
+  confidence: auto

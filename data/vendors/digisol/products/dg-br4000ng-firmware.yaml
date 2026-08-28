@@ -1,0 +1,10 @@
+id: dg-br4000ng-firmware
+vendor_id: digisol
+name: Dg-Br4000Ng Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digisol:dg\-br4000ng_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dg-br4000ng_firmware
+  confidence: auto

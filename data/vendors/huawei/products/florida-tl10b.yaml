@@ -1,0 +1,10 @@
+id: florida-tl10b
+vendor_id: huawei
+name: Florida-Tl10B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:florida\-tl10b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: florida-tl10b
+  confidence: auto

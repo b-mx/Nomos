@@ -1,0 +1,10 @@
+id: ethernet-ip-interface-cpx-ap-i-ep-m12
+vendor_id: festo
+name: Ethernet/Ip Interface Cpx-Ap-I-Ep-M12
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:ethernet\/ip_interface_cpx\-ap\-i\-ep\-m12:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ethernet/ip_interface_cpx-ap-i-ep-m12
+  confidence: auto

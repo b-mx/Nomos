@@ -1,0 +1,10 @@
+id: libxxf86dga
+vendor_id: x
+name: Libxxf86Dga
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxxf86dga:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxxf86dga
+  confidence: auto

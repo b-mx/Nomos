@@ -1,0 +1,10 @@
+id: thinkcentre-x1-aio
+vendor_id: lenovo
+name: Thinkcentre X1 Aio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_x1_aio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_x1_aio
+  confidence: auto

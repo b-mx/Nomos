@@ -1,0 +1,10 @@
+id: laserjet-m208-6gw61a
+vendor_id: hp
+name: Laserjet M208 6Gw61A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m208_6gw61a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m208_6gw61a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: px-s840x
+vendor_id: epson
+name: Px-S840X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-s840x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-s840x
+  confidence: auto

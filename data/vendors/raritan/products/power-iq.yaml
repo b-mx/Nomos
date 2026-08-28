@@ -1,0 +1,10 @@
+id: power-iq
+vendor_id: raritan
+name: Power Iq
+type: software
+tags: []
+cpe: cpe:2.3:a:raritan:power_iq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: power_iq
+  confidence: auto

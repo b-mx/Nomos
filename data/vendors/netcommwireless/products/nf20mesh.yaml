@@ -1,0 +1,10 @@
+id: nf20mesh
+vendor_id: netcommwireless
+name: Nf20Mesh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netcommwireless:nf20mesh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nf20mesh
+  confidence: auto

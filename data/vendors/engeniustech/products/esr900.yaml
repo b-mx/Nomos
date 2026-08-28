@@ -1,0 +1,10 @@
+id: esr900
+vendor_id: engeniustech
+name: Esr900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:engeniustech:esr900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esr900
+  confidence: auto

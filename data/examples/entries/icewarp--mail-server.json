@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "icewarp--mail-server",
+  "vendor_id": "icewarp",
+  "product_id": "mail-server",
+  "name": "Mail Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mail_server",
+      "confidence": "auto"
+    }
+  ]
+}

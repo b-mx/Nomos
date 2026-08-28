@@ -1,0 +1,10 @@
+id: rss-aggregator-by-feedzy
+vendor_id: themeisle
+name: Rss Aggregator By Feedzy
+type: software
+tags: []
+cpe: cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rss_aggregator_by_feedzy
+  confidence: auto

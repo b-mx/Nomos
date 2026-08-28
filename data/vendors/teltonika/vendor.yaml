@@ -1,0 +1,7 @@
+id: teltonika
+name: Teltonika
+cpe: cpe:2.3:*:teltonika:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: teltonika
+  confidence: auto

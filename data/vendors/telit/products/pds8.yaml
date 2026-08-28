@@ -1,0 +1,10 @@
+id: pds8
+vendor_id: telit
+name: Pds8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telit:pds8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pds8
+  confidence: auto

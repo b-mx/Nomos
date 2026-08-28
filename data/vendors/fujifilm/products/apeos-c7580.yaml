@@ -1,0 +1,10 @@
+id: apeos-c7580
+vendor_id: fujifilm
+name: Apeos C7580
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_c7580:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_c7580
+  confidence: auto

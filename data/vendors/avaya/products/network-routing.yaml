@@ -1,0 +1,10 @@
+id: network-routing
+vendor_id: avaya
+name: Network Routing
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:network_routing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_routing
+  confidence: auto

@@ -1,0 +1,10 @@
+id: customer-reassurance-block
+vendor_id: prestashop
+name: Customer Reassurance Block
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:customer_reassurance_block:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: customer_reassurance_block
+  confidence: auto

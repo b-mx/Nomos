@@ -1,0 +1,10 @@
+id: eb-50gu-a-firmware
+vendor_id: mitsubishi
+name: Eb-50Gu-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishi:eb\-50gu\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eb-50gu-a_firmware
+  confidence: auto

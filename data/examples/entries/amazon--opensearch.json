@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--opensearch",
+  "vendor_id": "amazon",
+  "product_id": "opensearch",
+  "name": "OpenSearch",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "opensearch",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "opensearch",
+      "confidence": "auto"
+    }
+  ]
+}

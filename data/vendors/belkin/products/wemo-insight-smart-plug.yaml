@@ -1,0 +1,10 @@
+id: wemo-insight-smart-plug
+vendor_id: belkin
+name: Wemo Insight Smart Plug
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belkin:wemo_insight_smart_plug:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wemo_insight_smart_plug
+  confidence: auto

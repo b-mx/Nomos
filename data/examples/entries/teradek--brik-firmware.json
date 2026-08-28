@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teradek--brik-firmware",
+  "vendor_id": "teradek",
+  "product_id": "brik-firmware",
+  "name": "Brik Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "brik_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

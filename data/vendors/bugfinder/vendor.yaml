@@ -1,0 +1,7 @@
+id: bugfinder
+name: Bugfinder
+cpe: cpe:2.3:*:bugfinder:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bugfinder
+  confidence: auto

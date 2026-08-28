@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hcltech--appscan-source",
+  "vendor_id": "hcltech",
+  "product_id": "appscan-source",
+  "name": "Appscan Source",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "appscan_source",
+      "confidence": "auto"
+    }
+  ]
+}

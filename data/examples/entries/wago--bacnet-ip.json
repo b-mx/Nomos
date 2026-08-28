@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wago--bacnet-ip",
+  "vendor_id": "wago",
+  "product_id": "bacnet-ip",
+  "name": "Bacnet/Ip",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bacnet/ip",
+      "confidence": "auto"
+    }
+  ]
+}

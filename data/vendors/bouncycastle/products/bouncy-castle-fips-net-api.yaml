@@ -1,0 +1,10 @@
+id: bouncy-castle-fips-net-api
+vendor_id: bouncycastle
+name: Bouncy Castle Fips .Net Api
+type: software
+tags: []
+cpe: cpe:2.3:a:bouncycastle:bouncy_castle_fips_\.net_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bouncy_castle_fips_.net_api
+  confidence: auto

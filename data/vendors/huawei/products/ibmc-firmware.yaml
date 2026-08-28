@@ -1,0 +1,10 @@
+id: ibmc-firmware
+vendor_id: huawei
+name: Ibmc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ibmc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ibmc_firmware
+  confidence: auto

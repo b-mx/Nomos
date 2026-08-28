@@ -1,0 +1,10 @@
+id: sdx
+vendor_id: peplink
+name: Sdx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:sdx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sdx
+  confidence: auto

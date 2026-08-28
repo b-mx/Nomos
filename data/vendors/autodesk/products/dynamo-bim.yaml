@@ -1,0 +1,10 @@
+id: dynamo-bim
+vendor_id: autodesk
+name: Dynamo Bim
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:dynamo_bim:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dynamo_bim
+  confidence: auto

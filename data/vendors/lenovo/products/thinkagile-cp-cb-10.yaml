@@ -1,0 +1,10 @@
+id: thinkagile-cp-cb-10
+vendor_id: lenovo
+name: Thinkagile Cp-Cb-10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_cp\-cb\-10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_cp-cb-10
+  confidence: auto

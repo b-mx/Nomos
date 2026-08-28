@@ -1,0 +1,10 @@
+id: system-setup
+vendor_id: netapp
+name: System Setup
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:system_setup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_setup
+  confidence: auto

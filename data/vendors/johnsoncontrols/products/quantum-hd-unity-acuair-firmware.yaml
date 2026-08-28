@@ -1,0 +1,10 @@
+id: quantum-hd-unity-acuair-firmware
+vendor_id: johnsoncontrols
+name: Quantum Hd Unity Acuair Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:johnsoncontrols:quantum_hd_unity_acuair_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quantum_hd_unity_acuair_firmware
+  confidence: auto

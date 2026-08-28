@@ -1,0 +1,10 @@
+id: documentum-administrator
+vendor_id: opentext
+name: Documentum Administrator
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:documentum_administrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_administrator
+  confidence: auto

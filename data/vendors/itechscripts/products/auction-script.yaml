@@ -1,0 +1,10 @@
+id: auction-script
+vendor_id: itechscripts
+name: Auction Script
+type: software
+tags: []
+cpe: cpe:2.3:a:itechscripts:auction_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: auction_script
+  confidence: auto

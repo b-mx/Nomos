@@ -1,0 +1,10 @@
+id: fx3ga-24mt-cm-firmware
+vendor_id: mitsubishielectric
+name: Fx3Ga-24Mt-Cm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3ga\-24mt\-cm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3ga-24mt-cm_firmware
+  confidence: auto

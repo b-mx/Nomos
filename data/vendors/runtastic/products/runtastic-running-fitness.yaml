@@ -1,0 +1,10 @@
+id: runtastic-running-fitness
+vendor_id: runtastic
+name: Runtastic Running & Fitness
+type: software
+tags: []
+cpe: cpe:2.3:a:runtastic:runtastic_running_\&_fitness:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: runtastic_running_&_fitness
+  confidence: auto

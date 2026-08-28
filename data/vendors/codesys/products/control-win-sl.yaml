@@ -1,0 +1,10 @@
+id: control-win-sl
+vendor_id: codesys
+name: Control Win Sl
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_win_sl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_win_sl
+  confidence: auto

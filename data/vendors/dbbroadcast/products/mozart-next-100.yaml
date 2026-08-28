@@ -1,0 +1,10 @@
+id: mozart-next-100
+vendor_id: dbbroadcast
+name: Mozart Next 100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dbbroadcast:mozart_next_100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mozart_next_100
+  confidence: auto

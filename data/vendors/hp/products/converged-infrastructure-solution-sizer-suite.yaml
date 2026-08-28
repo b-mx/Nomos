@@ -1,0 +1,10 @@
+id: converged-infrastructure-solution-sizer-suite
+vendor_id: hp
+name: Converged Infrastructure Solution Sizer Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:converged_infrastructure_solution_sizer_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: converged_infrastructure_solution_sizer_suite
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aria6xx-firmware
+vendor_id: amino
+name: Aria6Xx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amino:aria6xx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aria6xx_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opto22--pac-control",
+  "vendor_id": "opto22",
+  "product_id": "pac-control",
+  "name": "Pac Control",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pac_control",
+      "confidence": "auto"
+    }
+  ]
+}

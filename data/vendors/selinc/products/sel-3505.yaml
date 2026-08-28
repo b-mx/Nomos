@@ -1,0 +1,10 @@
+id: sel-3505
+vendor_id: selinc
+name: Sel-3505
+type: hardware
+tags: []
+cpe: cpe:2.3:h:selinc:sel\-3505:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sel-3505
+  confidence: auto

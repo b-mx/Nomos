@@ -1,0 +1,10 @@
+id: bbc-knowledge-magazine
+vendor_id: magzter
+name: Bbc Knowledge Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:bbc_knowledge_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bbc_knowledge_magazine
+  confidence: auto

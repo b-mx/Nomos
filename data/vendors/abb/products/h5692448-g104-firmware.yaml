@@ -1,0 +1,10 @@
+id: h5692448-g104-firmware
+vendor_id: abb
+name: H5692448 G104 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:h5692448_g104_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h5692448_g104_firmware
+  confidence: auto

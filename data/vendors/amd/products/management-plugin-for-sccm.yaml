@@ -1,0 +1,10 @@
+id: management-plugin-for-sccm
+vendor_id: amd
+name: Management Plugin For Sccm
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:management_plugin_for_sccm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: management_plugin_for_sccm
+  confidence: auto

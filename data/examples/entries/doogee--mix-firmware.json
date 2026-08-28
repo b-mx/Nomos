@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "doogee--mix-firmware",
+  "vendor_id": "doogee",
+  "product_id": "mix-firmware",
+  "name": "Mix Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mix_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

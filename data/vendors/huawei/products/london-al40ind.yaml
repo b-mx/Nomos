@@ -1,0 +1,10 @@
+id: london-al40ind
+vendor_id: huawei
+name: London-Al40Ind
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:london\-al40ind:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: london-al40ind
+  confidence: auto

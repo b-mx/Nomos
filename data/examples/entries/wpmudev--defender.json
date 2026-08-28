@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wpmudev--defender",
+  "vendor_id": "wpmudev",
+  "product_id": "defender",
+  "name": "Defender",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "defender",
+      "confidence": "auto"
+    }
+  ]
+}

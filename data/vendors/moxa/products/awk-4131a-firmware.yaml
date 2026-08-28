@@ -1,0 +1,10 @@
+id: awk-4131a-firmware
+vendor_id: moxa
+name: Awk-4131A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:awk\-4131a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awk-4131a_firmware
+  confidence: auto

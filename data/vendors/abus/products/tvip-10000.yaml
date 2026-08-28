@@ -1,0 +1,10 @@
+id: tvip-10000
+vendor_id: abus
+name: Tvip 10000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abus:tvip_10000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_10000
+  confidence: auto

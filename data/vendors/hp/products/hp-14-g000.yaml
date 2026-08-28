@@ -1,0 +1,10 @@
+id: hp-14-g000
+vendor_id: hp
+name: Hp 14-G000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_14\-g000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_14-g000
+  confidence: auto

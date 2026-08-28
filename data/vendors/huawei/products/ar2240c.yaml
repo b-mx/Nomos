@@ -1,0 +1,10 @@
+id: ar2240c
+vendor_id: huawei
+name: Ar2240C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar2240c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar2240c
+  confidence: auto

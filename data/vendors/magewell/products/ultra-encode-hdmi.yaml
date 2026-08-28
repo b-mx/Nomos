@@ -1,0 +1,10 @@
+id: ultra-encode-hdmi
+vendor_id: magewell
+name: Ultra Encode Hdmi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:magewell:ultra_encode_hdmi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultra_encode_hdmi
+  confidence: auto

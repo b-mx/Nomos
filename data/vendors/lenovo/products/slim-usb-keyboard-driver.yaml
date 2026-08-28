@@ -1,0 +1,10 @@
+id: slim-usb-keyboard-driver
+vendor_id: lenovo
+name: Slim Usb Keyboard Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:slim_usb_keyboard_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slim_usb_keyboard_driver
+  confidence: auto

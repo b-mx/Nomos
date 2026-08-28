@@ -1,0 +1,10 @@
+id: laserwash-autoxpress
+vendor_id: pdqinc
+name: Laserwash Autoxpress
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pdqinc:laserwash_autoxpress:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserwash_autoxpress
+  confidence: auto

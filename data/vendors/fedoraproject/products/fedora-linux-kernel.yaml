@@ -1,0 +1,10 @@
+id: fedora-linux-kernel
+vendor_id: fedoraproject
+name: Fedora Linux Kernel
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:fedora_linux_kernel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fedora_linux_kernel
+  confidence: auto

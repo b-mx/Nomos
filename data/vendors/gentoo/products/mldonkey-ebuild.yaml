@@ -1,0 +1,10 @@
+id: mldonkey-ebuild
+vendor_id: gentoo
+name: Mldonkey Ebuild
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:mldonkey_ebuild:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mldonkey_ebuild
+  confidence: auto

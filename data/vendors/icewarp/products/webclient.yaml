@@ -1,0 +1,10 @@
+id: webclient
+vendor_id: icewarp
+name: Webclient
+type: software
+tags: []
+cpe: cpe:2.3:a:icewarp:webclient:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webclient
+  confidence: auto

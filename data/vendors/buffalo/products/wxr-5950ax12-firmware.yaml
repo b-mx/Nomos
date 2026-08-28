@@ -1,0 +1,10 @@
+id: wxr-5950ax12-firmware
+vendor_id: buffalo
+name: Wxr-5950Ax12 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wxr\-5950ax12_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wxr-5950ax12_firmware
+  confidence: auto

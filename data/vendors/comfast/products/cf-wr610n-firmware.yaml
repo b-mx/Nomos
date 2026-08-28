@@ -1,0 +1,10 @@
+id: cf-wr610n-firmware
+vendor_id: comfast
+name: Cf-Wr610N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:comfast:cf\-wr610n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf-wr610n_firmware
+  confidence: auto

@@ -1,0 +1,7 @@
+id: ffmpeg
+name: Ffmpeg
+cpe: cpe:2.3:*:ffmpeg:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ffmpeg
+  confidence: auto

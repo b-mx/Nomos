@@ -1,0 +1,10 @@
+id: wlx222-firmware
+vendor_id: yamaha
+name: Wlx222 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:wlx222_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlx222_firmware
+  confidence: auto

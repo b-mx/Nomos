@@ -1,0 +1,10 @@
+id: fuji-xerox-color-c60-firmware
+vendor_id: fujifilm
+name: Fuji Xerox Color C60 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:fuji_xerox_color_c60_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fuji_xerox_color_c60_firmware
+  confidence: auto

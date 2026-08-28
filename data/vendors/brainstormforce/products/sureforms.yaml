@@ -1,0 +1,10 @@
+id: sureforms
+vendor_id: brainstormforce
+name: Sureforms
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:sureforms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sureforms
+  confidence: auto

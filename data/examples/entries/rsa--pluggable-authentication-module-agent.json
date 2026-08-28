@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--pluggable-authentication-module-agent",
+  "vendor_id": "rsa",
+  "product_id": "pluggable-authentication-module-agent",
+  "name": "Pluggable Authentication Module Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pluggable_authentication_module_agent",
+      "confidence": "auto"
+    }
+  ]
+}

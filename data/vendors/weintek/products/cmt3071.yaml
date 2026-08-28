@@ -1,0 +1,10 @@
+id: cmt3071
+vendor_id: weintek
+name: Cmt3071
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weintek:cmt3071:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt3071
+  confidence: auto

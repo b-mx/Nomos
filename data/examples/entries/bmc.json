@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "bmc",
+  "vendor_id": "bmc",
+  "name": "Bmc",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bmc",
+      "confidence": "auto"
+    }
+  ]
+}

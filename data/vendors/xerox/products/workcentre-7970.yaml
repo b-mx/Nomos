@@ -1,0 +1,10 @@
+id: workcentre-7970
+vendor_id: xerox
+name: Workcentre 7970
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:workcentre_7970:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_7970
+  confidence: auto

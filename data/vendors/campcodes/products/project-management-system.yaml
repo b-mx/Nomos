@@ -1,0 +1,10 @@
+id: project-management-system
+vendor_id: campcodes
+name: Project Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:project_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: project_management_system
+  confidence: auto

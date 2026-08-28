@@ -1,0 +1,10 @@
+id: eps-tse-server-8
+vendor_id: epson
+name: Eps Tse Server 8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:eps_tse_server_8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eps_tse_server_8
+  confidence: auto

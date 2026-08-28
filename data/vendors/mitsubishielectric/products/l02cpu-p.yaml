@@ -1,0 +1,10 @@
+id: l02cpu-p
+vendor_id: mitsubishielectric
+name: L02Cpu-P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:l02cpu\-p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l02cpu-p
+  confidence: auto

@@ -1,0 +1,10 @@
+id: compact-controller-100
+vendor_id: wago
+name: Compact Controller 100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:compact_controller_100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compact_controller_100
+  confidence: auto

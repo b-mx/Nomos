@@ -1,0 +1,10 @@
+id: aleth
+vendor_id: ethereum
+name: Aleth
+type: software
+tags: []
+cpe: cpe:2.3:a:ethereum:aleth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aleth
+  confidence: auto

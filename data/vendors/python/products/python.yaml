@@ -1,13 +1,13 @@
 id: python
 vendor_id: python
 name: Python
-type: software
-tags: [programming-language, runtime]
-icon: logos:python
+type: library
+tags: []
+cpe: cpe:2.3:a:python:python:*:*:*:*:*:*:*:*
 aliases:
-  - source: nvd
-    value: python
-    confidence: curated
-  - source: endoflife
-    value: python
-    confidence: curated
+- source: endoflife
+  value: python
+  confidence: auto
+- source: nvd
+  value: python
+  confidence: auto

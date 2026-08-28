@@ -1,0 +1,10 @@
+id: redmi-7
+vendor_id: mi
+name: Redmi 7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:redmi_7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_7
+  confidence: auto

@@ -1,0 +1,10 @@
+id: carddav-server
+vendor_id: synology
+name: Carddav Server
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:carddav_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carddav_server
+  confidence: auto

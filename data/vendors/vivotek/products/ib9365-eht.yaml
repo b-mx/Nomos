@@ -1,0 +1,10 @@
+id: ib9365-eht
+vendor_id: vivotek
+name: Ib9365-Eht
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ib9365\-eht:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib9365-eht
+  confidence: auto

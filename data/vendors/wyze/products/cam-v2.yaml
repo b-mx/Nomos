@@ -1,0 +1,10 @@
+id: cam-v2
+vendor_id: wyze
+name: Cam V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wyze:cam_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cam_v2
+  confidence: auto

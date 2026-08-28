@@ -1,0 +1,7 @@
+id: sybase
+name: Sybase
+cpe: cpe:2.3:*:sybase:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sybase
+  confidence: auto

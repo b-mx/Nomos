@@ -1,0 +1,10 @@
+id: jg214a
+vendor_id: hp
+name: Jg214A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg214a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg214a
+  confidence: auto

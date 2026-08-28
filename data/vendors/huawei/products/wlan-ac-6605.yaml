@@ -1,0 +1,10 @@
+id: wlan-ac-6605
+vendor_id: huawei
+name: Wlan Ac 6605
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:wlan_ac_6605:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlan_ac_6605
+  confidence: auto

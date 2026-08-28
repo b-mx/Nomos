@@ -1,0 +1,10 @@
+id: eda50
+vendor_id: honeywell
+name: Eda50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:eda50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eda50
+  confidence: auto

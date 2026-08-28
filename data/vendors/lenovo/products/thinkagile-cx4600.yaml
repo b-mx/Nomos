@@ -1,0 +1,10 @@
+id: thinkagile-cx4600
+vendor_id: lenovo
+name: Thinkagile Cx4600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_cx4600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_cx4600
+  confidence: auto

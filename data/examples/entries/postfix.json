@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "postfix",
+  "vendor_id": "postfix",
+  "name": "Postfix",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "postfix",
+      "confidence": "auto"
+    }
+  ]
+}

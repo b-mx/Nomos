@@ -1,0 +1,10 @@
+id: rexroth-indraworks
+vendor_id: bosch
+name: Rexroth Indraworks
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:rexroth_indraworks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rexroth_indraworks
+  confidence: auto

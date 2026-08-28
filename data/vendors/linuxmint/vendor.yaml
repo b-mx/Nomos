@@ -1,0 +1,7 @@
+id: linuxmint
+name: Linuxmint
+cpe: cpe:2.3:*:linuxmint:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linuxmint
+  confidence: auto

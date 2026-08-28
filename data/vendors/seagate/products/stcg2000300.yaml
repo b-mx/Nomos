@@ -1,0 +1,10 @@
+id: stcg2000300
+vendor_id: seagate
+name: Stcg2000300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seagate:stcg2000300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stcg2000300
+  confidence: auto

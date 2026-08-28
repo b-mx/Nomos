@@ -1,0 +1,10 @@
+id: thinkcentre-m72e
+vendor_id: lenovo
+name: Thinkcentre M72E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m72e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m72e
+  confidence: auto

@@ -1,0 +1,10 @@
+id: itop-screen-recorder
+vendor_id: iobit
+name: Itop Screen Recorder
+type: software
+tags: []
+cpe: cpe:2.3:a:iobit:itop_screen_recorder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itop_screen_recorder
+  confidence: auto

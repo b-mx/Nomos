@@ -1,0 +1,10 @@
+id: ta-8035-firmware
+vendor_id: safescan
+name: Ta-8035 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:safescan:ta\-8035_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ta-8035_firmware
+  confidence: auto

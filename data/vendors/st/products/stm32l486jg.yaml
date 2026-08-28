@@ -1,0 +1,10 @@
+id: stm32l486jg
+vendor_id: st
+name: Stm32L486Jg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l486jg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l486jg
+  confidence: auto

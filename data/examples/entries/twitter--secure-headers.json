@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "twitter--secure-headers",
+  "vendor_id": "twitter",
+  "product_id": "secure-headers",
+  "name": "Secure Headers",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "secure_headers",
+      "confidence": "auto"
+    }
+  ]
+}

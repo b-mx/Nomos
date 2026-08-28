@@ -1,0 +1,10 @@
+id: s7800
+vendor_id: huawei
+name: S7800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s7800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s7800
+  confidence: auto

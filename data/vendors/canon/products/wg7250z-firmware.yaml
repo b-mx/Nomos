@@ -1,0 +1,10 @@
+id: wg7250z-firmware
+vendor_id: canon
+name: Wg7250Z Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:wg7250z_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wg7250z_firmware
+  confidence: auto

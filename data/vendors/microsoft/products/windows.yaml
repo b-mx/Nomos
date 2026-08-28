@@ -1,0 +1,9 @@
+id: windows
+vendor_id: microsoft
+name: Windows
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Windows
+  confidence: auto

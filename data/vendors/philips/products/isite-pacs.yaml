@@ -1,0 +1,10 @@
+id: isite-pacs
+vendor_id: philips
+name: Isite Pacs
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:isite_pacs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isite_pacs
+  confidence: auto

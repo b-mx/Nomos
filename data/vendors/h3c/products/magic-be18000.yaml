@@ -1,0 +1,10 @@
+id: magic-be18000
+vendor_id: h3c
+name: Magic Be18000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:magic_be18000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_be18000
+  confidence: auto

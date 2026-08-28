@@ -1,0 +1,10 @@
+id: edge-15
+vendor_id: lenovo
+name: Edge 15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:edge_15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edge_15
+  confidence: auto

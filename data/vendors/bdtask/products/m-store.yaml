@@ -1,0 +1,10 @@
+id: m-store
+vendor_id: bdtask
+name: M-Store
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:m\-store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m-store
+  confidence: auto

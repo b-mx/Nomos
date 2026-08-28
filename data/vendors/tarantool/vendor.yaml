@@ -1,0 +1,7 @@
+id: tarantool
+name: Tarantool
+cpe: cpe:2.3:*:tarantool:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tarantool
+  confidence: auto

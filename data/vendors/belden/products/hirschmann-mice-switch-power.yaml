@@ -1,0 +1,10 @@
+id: hirschmann-mice-switch-power
+vendor_id: belden
+name: Hirschmann Mice Switch Power
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_mice_switch_power:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_mice_switch_power
+  confidence: auto

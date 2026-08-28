@@ -1,0 +1,10 @@
+id: files
+vendor_id: huawei
+name: Files
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:files:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: files
+  confidence: auto

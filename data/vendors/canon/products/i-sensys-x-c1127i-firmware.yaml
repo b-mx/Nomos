@@ -1,0 +1,10 @@
+id: i-sensys-x-c1127i-firmware
+vendor_id: canon
+name: I-Sensys X C1127I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:i\-sensys_x_c1127i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i-sensys_x_c1127i_firmware
+  confidence: auto

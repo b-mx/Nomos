@@ -1,0 +1,10 @@
+id: invoices
+vendor_id: ithemes
+name: Invoices
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:invoices:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: invoices
+  confidence: auto

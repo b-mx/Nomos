@@ -1,0 +1,10 @@
+id: ip-camera-firmware
+vendor_id: foscam
+name: Ip Camera Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:foscam:ip_camera_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_camera_firmware
+  confidence: auto

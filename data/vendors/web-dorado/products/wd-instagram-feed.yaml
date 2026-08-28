@@ -1,0 +1,10 @@
+id: wd-instagram-feed
+vendor_id: web-dorado
+name: Wd Instagram Feed
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:wd_instagram_feed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wd_instagram_feed
+  confidence: auto

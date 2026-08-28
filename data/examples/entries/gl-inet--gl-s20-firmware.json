@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gl-inet--gl-s20-firmware",
+  "vendor_id": "gl-inet",
+  "product_id": "gl-s20-firmware",
+  "name": "Gl-S20 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gl-s20_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

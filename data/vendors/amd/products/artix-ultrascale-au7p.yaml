@@ -1,0 +1,10 @@
+id: artix-ultrascale-au7p
+vendor_id: amd
+name: Artix Ultrascale+ Au7P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:artix_ultrascale\+_au7p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: artix_ultrascale+_au7p
+  confidence: auto

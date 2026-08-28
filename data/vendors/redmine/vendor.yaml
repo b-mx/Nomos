@@ -1,0 +1,7 @@
+id: redmine
+name: Redmine
+cpe: cpe:2.3:*:redmine:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmine
+  confidence: auto

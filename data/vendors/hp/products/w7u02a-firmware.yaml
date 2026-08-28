@@ -1,0 +1,10 @@
+id: w7u02a-firmware
+vendor_id: hp
+name: W7U02A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:w7u02a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w7u02a_firmware
+  confidence: auto

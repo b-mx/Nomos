@@ -1,0 +1,10 @@
+id: f1h96
+vendor_id: hp
+name: F1H96
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f1h96:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f1h96
+  confidence: auto

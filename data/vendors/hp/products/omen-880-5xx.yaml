@@ -1,0 +1,10 @@
+id: omen-880-5xx
+vendor_id: hp
+name: Omen 880-5Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_880\-5xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_880-5xx
+  confidence: auto

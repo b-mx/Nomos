@@ -1,0 +1,10 @@
+id: wd-cloud
+vendor_id: westerndigital
+name: Wd Cloud
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westerndigital:wd_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wd_cloud
+  confidence: auto

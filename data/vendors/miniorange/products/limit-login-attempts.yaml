@@ -1,0 +1,10 @@
+id: limit-login-attempts
+vendor_id: miniorange
+name: Limit Login Attempts
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:limit_login_attempts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: limit_login_attempts
+  confidence: auto

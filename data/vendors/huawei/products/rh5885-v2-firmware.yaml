@@ -1,0 +1,10 @@
+id: rh5885-v2-firmware
+vendor_id: huawei
+name: Rh5885 V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:rh5885_v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh5885_v2_firmware
+  confidence: auto

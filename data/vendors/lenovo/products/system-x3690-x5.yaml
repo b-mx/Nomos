@@ -1,0 +1,10 @@
+id: system-x3690-x5
+vendor_id: lenovo
+name: System X3690 X5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:system_x3690_x5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_x3690_x5
+  confidence: auto

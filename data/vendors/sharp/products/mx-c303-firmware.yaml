@@ -1,0 +1,10 @@
+id: mx-c303-firmware
+vendor_id: sharp
+name: Mx-C303 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-c303_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-c303_firmware
+  confidence: auto

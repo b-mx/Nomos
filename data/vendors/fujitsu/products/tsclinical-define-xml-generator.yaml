@@ -1,0 +1,10 @@
+id: tsclinical-define-xml-generator
+vendor_id: fujitsu
+name: Tsclinical Define.Xml Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:tsclinical_define\.xml_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tsclinical_define.xml_generator
+  confidence: auto

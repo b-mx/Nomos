@@ -1,0 +1,10 @@
+id: availability-booking-calendar
+vendor_id: phpjabbers
+name: Availability Booking Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:availability_booking_calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: availability_booking_calendar
+  confidence: auto

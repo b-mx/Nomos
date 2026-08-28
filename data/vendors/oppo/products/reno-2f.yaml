@@ -1,0 +1,10 @@
+id: reno-2f
+vendor_id: oppo
+name: Reno 2F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:reno_2f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reno_2f
+  confidence: auto

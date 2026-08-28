@@ -1,0 +1,10 @@
+id: zhaoyang-e53-80
+vendor_id: lenovo
+name: Zhaoyang E53-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:zhaoyang_e53\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhaoyang_e53-80
+  confidence: auto

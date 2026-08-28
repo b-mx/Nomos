@@ -1,0 +1,10 @@
+id: exmage
+vendor_id: villatheme
+name: Exmage
+type: software
+tags: []
+cpe: cpe:2.3:a:villatheme:exmage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exmage
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wrangler
+vendor_id: cloudflare
+name: Wrangler
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:wrangler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrangler
+  confidence: auto

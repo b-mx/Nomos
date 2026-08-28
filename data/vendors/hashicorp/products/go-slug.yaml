@@ -1,0 +1,10 @@
+id: go-slug
+vendor_id: hashicorp
+name: Go-Slug
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:go\-slug:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go-slug
+  confidence: auto

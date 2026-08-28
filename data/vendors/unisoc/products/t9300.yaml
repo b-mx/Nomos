@@ -1,0 +1,10 @@
+id: t9300
+vendor_id: unisoc
+name: T9300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:t9300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t9300
+  confidence: auto

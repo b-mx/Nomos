@@ -1,0 +1,10 @@
+id: 320s-15isk
+vendor_id: hp
+name: 320S-15Isk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:320s\-15isk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 320s-15isk
+  confidence: auto

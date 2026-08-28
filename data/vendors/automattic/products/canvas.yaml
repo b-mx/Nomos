@@ -1,0 +1,10 @@
+id: canvas
+vendor_id: automattic
+name: Canvas
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:canvas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: canvas
+  confidence: auto

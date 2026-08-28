@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--firecracker",
+  "vendor_id": "amazon",
+  "product_id": "firecracker",
+  "name": "Firecracker",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "firecracker",
+      "confidence": "auto"
+    }
+  ]
+}

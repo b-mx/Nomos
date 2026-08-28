@@ -1,0 +1,10 @@
+id: matrix-appservice-bridge
+vendor_id: matrix
+name: Matrix-Appservice-Bridge
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:matrix\-appservice\-bridge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matrix-appservice-bridge
+  confidence: auto

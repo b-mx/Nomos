@@ -1,0 +1,10 @@
+id: thomson-tcw710-firmware
+vendor_id: technicolor
+name: Thomson Tcw710 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:thomson_tcw710_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thomson_tcw710_firmware
+  confidence: auto

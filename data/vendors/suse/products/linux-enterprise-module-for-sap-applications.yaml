@@ -1,0 +1,10 @@
+id: linux-enterprise-module-for-sap-applications
+vendor_id: suse
+name: Linux Enterprise Module For Sap Applications
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:linux_enterprise_module_for_sap_applications:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_module_for_sap_applications
+  confidence: auto

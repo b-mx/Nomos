@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--uc-tcp-ip",
+  "vendor_id": "silabs",
+  "product_id": "uc-tcp-ip",
+  "name": "Uc/Tcp-Ip",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "uc/tcp-ip",
+      "confidence": "auto"
+    }
+  ]
+}

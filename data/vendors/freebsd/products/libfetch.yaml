@@ -1,0 +1,10 @@
+id: libfetch
+vendor_id: freebsd
+name: Libfetch
+type: software
+tags: []
+cpe: cpe:2.3:a:freebsd:libfetch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libfetch
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cp2e-e14dr-a
+vendor_id: omron
+name: Cp2E-E14Dr-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp2e\-e14dr\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp2e-e14dr-a
+  confidence: auto

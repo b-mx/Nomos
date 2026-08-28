@@ -1,0 +1,10 @@
+id: sc-t3255
+vendor_id: epson
+name: Sc-T3255
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-t3255:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-t3255
+  confidence: auto

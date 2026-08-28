@@ -1,0 +1,10 @@
+id: outbound-contact-management
+vendor_id: avaya
+name: Outbound Contact Management
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:outbound_contact_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: outbound_contact_management
+  confidence: auto

@@ -1,0 +1,10 @@
+id: clickhouse
+vendor_id: clickhouse
+name: ClickHouse
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: clickhouse
+  confidence: auto

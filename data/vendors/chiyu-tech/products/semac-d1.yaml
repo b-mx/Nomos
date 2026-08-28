@@ -1,0 +1,10 @@
+id: semac-d1
+vendor_id: chiyu-tech
+name: Semac D1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chiyu\-tech:semac_d1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: semac_d1
+  confidence: auto

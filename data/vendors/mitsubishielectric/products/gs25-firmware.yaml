@@ -1,0 +1,10 @@
+id: gs25-firmware
+vendor_id: mitsubishielectric
+name: Gs25 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:gs25_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gs25_firmware
+  confidence: auto

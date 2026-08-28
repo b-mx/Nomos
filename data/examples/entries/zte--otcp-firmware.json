@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zte--otcp-firmware",
+  "vendor_id": "zte",
+  "product_id": "otcp-firmware",
+  "name": "Otcp Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "otcp_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

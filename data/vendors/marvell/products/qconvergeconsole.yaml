@@ -1,0 +1,10 @@
+id: qconvergeconsole
+vendor_id: marvell
+name: Qconvergeconsole
+type: software
+tags: []
+cpe: cpe:2.3:a:marvell:qconvergeconsole:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qconvergeconsole
+  confidence: auto

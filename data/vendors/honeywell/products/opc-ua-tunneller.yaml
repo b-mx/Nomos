@@ -1,0 +1,10 @@
+id: opc-ua-tunneller
+vendor_id: honeywell
+name: Opc Ua Tunneller
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:opc_ua_tunneller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opc_ua_tunneller
+  confidence: auto

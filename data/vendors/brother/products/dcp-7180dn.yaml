@@ -1,0 +1,10 @@
+id: dcp-7180dn
+vendor_id: brother
+name: Dcp-7180Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-7180dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-7180dn
+  confidence: auto

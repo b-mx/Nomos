@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--k7v35-firmware",
+  "vendor_id": "hp",
+  "product_id": "k7v35-firmware",
+  "name": "K7V35 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k7v35_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

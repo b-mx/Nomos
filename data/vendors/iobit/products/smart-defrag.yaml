@@ -1,0 +1,10 @@
+id: smart-defrag
+vendor_id: iobit
+name: Smart Defrag
+type: software
+tags: []
+cpe: cpe:2.3:a:iobit:smart_defrag:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_defrag
+  confidence: auto

@@ -1,0 +1,10 @@
+id: eos-m6-china-firmware
+vendor_id: canon
+name: Eos M6(China) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:eos_m6\(china\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_m6(china)_firmware
+  confidence: auto

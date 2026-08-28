@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--glib",
+  "vendor_id": "gnome",
+  "product_id": "glib",
+  "name": "Glib",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "glib",
+      "confidence": "auto"
+    }
+  ]
+}

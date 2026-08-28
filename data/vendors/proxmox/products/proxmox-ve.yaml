@@ -1,0 +1,13 @@
+id: proxmox-ve
+vendor_id: proxmox
+name: Proxmox VE
+type: os
+tags: []
+cpe: cpe:2.3:a:proxmox:virtual_environment:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: proxmox-ve
+  confidence: auto
+- source: nvd
+  value: virtual_environment
+  confidence: auto

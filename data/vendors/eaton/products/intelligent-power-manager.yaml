@@ -1,0 +1,10 @@
+id: intelligent-power-manager
+vendor_id: eaton
+name: Intelligent Power Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:intelligent_power_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_power_manager
+  confidence: auto

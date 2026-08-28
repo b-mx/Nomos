@@ -1,0 +1,10 @@
+id: wl-111
+vendor_id: sitecom
+name: Wl-111
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sitecom:wl\-111:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-111
+  confidence: auto

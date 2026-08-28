@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--ironic-python-agent",
+  "vendor_id": "openstack",
+  "product_id": "ironic-python-agent",
+  "name": "Ironic Python Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ironic_python_agent",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: isg-600c-firmware
+vendor_id: systrome
+name: Isg-600C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:systrome:isg\-600c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isg-600c_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "poly--cx5500-firmware",
+  "vendor_id": "poly",
+  "product_id": "cx5500-firmware",
+  "name": "Cx5500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cx5500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

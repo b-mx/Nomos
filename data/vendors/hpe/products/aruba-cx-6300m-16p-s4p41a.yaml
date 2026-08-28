@@ -1,0 +1,10 @@
+id: aruba-cx-6300m-16p-s4p41a
+vendor_id: hpe
+name: Aruba Cx 6300M 16P (S4P41A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6300m_16p_\(s4p41a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6300m_16p_(s4p41a)
+  confidence: auto

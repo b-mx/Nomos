@@ -1,0 +1,10 @@
+id: c200e-firmware
+vendor_id: honeywell
+name: C200E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:c200e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c200e_firmware
+  confidence: auto

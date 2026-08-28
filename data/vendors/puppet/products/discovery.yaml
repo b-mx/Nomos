@@ -1,0 +1,10 @@
+id: discovery
+vendor_id: puppet
+name: Discovery
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:discovery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery
+  confidence: auto

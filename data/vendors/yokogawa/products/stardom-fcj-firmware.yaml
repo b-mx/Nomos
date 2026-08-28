@@ -1,0 +1,10 @@
+id: stardom-fcj-firmware
+vendor_id: yokogawa
+name: Stardom Fcj Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yokogawa:stardom_fcj_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stardom_fcj_firmware
+  confidence: auto

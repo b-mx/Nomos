@@ -1,0 +1,7 @@
+id: wire
+name: Wire
+cpe: cpe:2.3:*:wire:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wire
+  confidence: auto

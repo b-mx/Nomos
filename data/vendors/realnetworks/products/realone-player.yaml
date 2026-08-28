@@ -1,0 +1,10 @@
+id: realone-player
+vendor_id: realnetworks
+name: Realone Player
+type: software
+tags: []
+cpe: cpe:2.3:a:realnetworks:realone_player:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realone_player
+  confidence: auto

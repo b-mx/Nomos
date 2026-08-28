@@ -1,0 +1,10 @@
+id: rsnetworx
+vendor_id: rockwellautomation
+name: Rsnetworx
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:rsnetworx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsnetworx
+  confidence: auto

@@ -1,0 +1,7 @@
+id: meowapps
+name: Meowapps
+cpe: cpe:2.3:*:meowapps:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meowapps
+  confidence: auto

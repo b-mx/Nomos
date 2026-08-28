@@ -1,0 +1,10 @@
+id: ap5100w
+vendor_id: askey
+name: Ap5100W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:askey:ap5100w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap5100w
+  confidence: auto

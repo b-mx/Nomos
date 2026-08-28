@@ -1,0 +1,10 @@
+id: control-center
+vendor_id: emc
+name: Control Center
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:control_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_center
+  confidence: auto

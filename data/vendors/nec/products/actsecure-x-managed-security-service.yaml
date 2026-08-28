@@ -1,0 +1,10 @@
+id: actsecure-x-managed-security-service
+vendor_id: nec
+name: Actsecure X Managed Security Service
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:actsecure_x_managed_security_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: actsecure_x_managed_security_service
+  confidence: auto

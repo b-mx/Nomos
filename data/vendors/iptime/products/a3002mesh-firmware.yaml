@@ -1,0 +1,10 @@
+id: a3002mesh-firmware
+vendor_id: iptime
+name: A3002Mesh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:a3002mesh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3002mesh_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: edr-g903
+vendor_id: moxa
+name: Edr-G903
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:edr\-g903:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edr-g903
+  confidence: auto

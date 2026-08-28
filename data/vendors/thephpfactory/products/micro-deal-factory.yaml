@@ -1,0 +1,10 @@
+id: micro-deal-factory
+vendor_id: thephpfactory
+name: Micro Deal Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:micro_deal_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: micro_deal_factory
+  confidence: auto

@@ -1,0 +1,10 @@
+id: focalboard
+vendor_id: mattermost
+name: Focalboard
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:focalboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: focalboard
+  confidence: auto

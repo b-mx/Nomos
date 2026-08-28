@@ -1,0 +1,10 @@
+id: bl-wr1300h
+vendor_id: lb-link
+name: Bl-Wr1300H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lb\-link:bl\-wr1300h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-wr1300h
+  confidence: auto

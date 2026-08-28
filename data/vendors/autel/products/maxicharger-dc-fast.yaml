@@ -1,0 +1,10 @@
+id: maxicharger-dc-fast
+vendor_id: autel
+name: Maxicharger Dc Fast
+type: hardware
+tags: []
+cpe: cpe:2.3:h:autel:maxicharger_dc_fast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxicharger_dc_fast
+  confidence: auto

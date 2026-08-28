@@ -1,0 +1,10 @@
+id: mf262dw-ii-firmware
+vendor_id: canon
+name: Mf262Dw Ii Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:mf262dw_ii_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf262dw_ii_firmware
+  confidence: auto

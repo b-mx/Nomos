@@ -1,0 +1,10 @@
+id: dcme-720-firmware
+vendor_id: dcnetworks
+name: Dcme-720 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dcnetworks:dcme\-720_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcme-720_firmware
+  confidence: auto

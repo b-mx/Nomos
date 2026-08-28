@@ -1,0 +1,10 @@
+id: easy-tools
+vendor_id: hp
+name: Easy Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:easy_tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_tools
+  confidence: auto

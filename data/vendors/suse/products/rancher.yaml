@@ -1,0 +1,13 @@
+id: rancher
+vendor_id: suse
+name: Rancher
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:rancher:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: rancher
+  confidence: auto
+- source: nvd
+  value: rancher
+  confidence: auto

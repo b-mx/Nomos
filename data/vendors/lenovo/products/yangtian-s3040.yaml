@@ -1,0 +1,10 @@
+id: yangtian-s3040
+vendor_id: lenovo
+name: Yangtian S3040
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yangtian_s3040:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_s3040
+  confidence: auto

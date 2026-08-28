@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--secure-remote-services",
+  "vendor_id": "emc",
+  "product_id": "secure-remote-services",
+  "name": "Secure Remote Services",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "secure_remote_services",
+      "confidence": "auto"
+    }
+  ]
+}

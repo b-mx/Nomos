@@ -1,0 +1,10 @@
+id: b12dpe-6
+vendor_id: supermicro
+name: B12Dpe-6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b12dpe\-6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b12dpe-6
+  confidence: auto

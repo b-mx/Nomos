@@ -1,0 +1,10 @@
+id: 512w
+vendor_id: utt
+name: 512W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:utt:512w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 512w
+  confidence: auto

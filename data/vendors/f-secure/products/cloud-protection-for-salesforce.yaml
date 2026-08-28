@@ -1,0 +1,10 @@
+id: cloud-protection-for-salesforce
+vendor_id: f-secure
+name: Cloud Protection For Salesforce
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:cloud_protection_for_salesforce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_protection_for_salesforce
+  confidence: auto

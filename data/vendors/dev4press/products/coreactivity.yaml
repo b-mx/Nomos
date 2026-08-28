@@ -1,0 +1,10 @@
+id: coreactivity
+vendor_id: dev4press
+name: Coreactivity
+type: software
+tags: []
+cpe: cpe:2.3:a:dev4press:coreactivity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coreactivity
+  confidence: auto

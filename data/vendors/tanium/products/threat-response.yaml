@@ -1,0 +1,10 @@
+id: threat-response
+vendor_id: tanium
+name: Threat Response
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:threat_response:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: threat_response
+  confidence: auto

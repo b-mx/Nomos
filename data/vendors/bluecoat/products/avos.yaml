@@ -1,0 +1,10 @@
+id: avos
+vendor_id: bluecoat
+name: Avos
+type: os
+tags: []
+cpe: cpe:2.3:o:bluecoat:avos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avos
+  confidence: auto

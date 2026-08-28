@@ -1,0 +1,10 @@
+id: fvb-mobile-banking
+vendor_id: meafinancial
+name: Fvb Mobile Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:fvb_mobile_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fvb_mobile_banking
+  confidence: auto

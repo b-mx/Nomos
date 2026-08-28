@@ -1,0 +1,10 @@
+id: zxr10-9916-firmware
+vendor_id: zte
+name: Zxr10 9916 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxr10_9916_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxr10_9916_firmware
+  confidence: auto

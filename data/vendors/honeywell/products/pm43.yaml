@@ -1,0 +1,10 @@
+id: pm43
+vendor_id: honeywell
+name: Pm43
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:pm43:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm43
+  confidence: auto

@@ -1,0 +1,10 @@
+id: iboot-pdu8sa-n15
+vendor_id: dataprobe
+name: Iboot-Pdu8Sa-N15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dataprobe:iboot\-pdu8sa\-n15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iboot-pdu8sa-n15
+  confidence: auto

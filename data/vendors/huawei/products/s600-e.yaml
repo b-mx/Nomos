@@ -1,0 +1,10 @@
+id: s600-e
+vendor_id: huawei
+name: S600-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s600\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s600-e
+  confidence: auto

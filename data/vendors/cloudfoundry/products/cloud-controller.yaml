@@ -1,0 +1,10 @@
+id: cloud-controller
+vendor_id: cloudfoundry
+name: Cloud Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cloudfoundry:cloud_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_controller
+  confidence: auto

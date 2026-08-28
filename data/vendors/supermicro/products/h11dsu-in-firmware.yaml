@@ -1,0 +1,10 @@
+id: h11dsu-in-firmware
+vendor_id: supermicro
+name: H11Dsu-In Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:h11dsu\-in_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h11dsu-in_firmware
+  confidence: auto

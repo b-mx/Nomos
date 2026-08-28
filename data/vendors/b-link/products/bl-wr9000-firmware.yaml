@@ -1,0 +1,10 @@
+id: bl-wr9000-firmware
+vendor_id: b-link
+name: Bl-Wr9000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:b\-link:bl\-wr9000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-wr9000_firmware
+  confidence: auto

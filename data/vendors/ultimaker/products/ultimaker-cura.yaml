@@ -1,0 +1,10 @@
+id: ultimaker-cura
+vendor_id: ultimaker
+name: Ultimaker Cura
+type: software
+tags: []
+cpe: cpe:2.3:a:ultimaker:ultimaker_cura:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultimaker_cura
+  confidence: auto

@@ -1,0 +1,10 @@
+id: loggregator
+vendor_id: cloudfoundry
+name: Loggregator
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:loggregator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: loggregator
+  confidence: auto

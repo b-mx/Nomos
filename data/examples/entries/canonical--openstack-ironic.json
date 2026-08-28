@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--openstack-ironic",
+  "vendor_id": "canonical",
+  "product_id": "openstack-ironic",
+  "name": "Openstack Ironic",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openstack_ironic",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: v14-are-firmware
+vendor_id: lenovo
+name: V14-Are Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v14\-are_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v14-are_firmware
+  confidence: auto

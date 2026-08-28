@@ -1,0 +1,10 @@
+id: pi-server
+vendor_id: aveva
+name: Pi Server
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:pi_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wrt310n
+vendor_id: linksys
+name: Wrt310N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wrt310n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrt310n
+  confidence: auto

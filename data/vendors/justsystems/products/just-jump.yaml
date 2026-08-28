@@ -1,0 +1,10 @@
+id: just-jump
+vendor_id: justsystems
+name: Just Jump
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:just_jump:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: just_jump
+  confidence: auto

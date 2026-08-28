@@ -1,0 +1,10 @@
+id: pi-connector-relay
+vendor_id: osisoft
+name: Pi Connector Relay
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_connector_relay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_connector_relay
+  confidence: auto

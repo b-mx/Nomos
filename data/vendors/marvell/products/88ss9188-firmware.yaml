@@ -1,0 +1,10 @@
+id: 88ss9188-firmware
+vendor_id: marvell
+name: 88Ss9188 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marvell:88ss9188_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 88ss9188_firmware
+  confidence: auto

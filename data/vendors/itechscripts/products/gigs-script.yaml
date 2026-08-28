@@ -1,0 +1,10 @@
+id: gigs-script
+vendor_id: itechscripts
+name: Gigs Script
+type: software
+tags: []
+cpe: cpe:2.3:a:itechscripts:gigs_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gigs_script
+  confidence: auto

@@ -1,0 +1,10 @@
+id: autostart
+vendor_id: emc
+name: Autostart
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:autostart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autostart
+  confidence: auto

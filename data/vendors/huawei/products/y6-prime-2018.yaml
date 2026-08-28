@@ -1,0 +1,10 @@
+id: y6-prime-2018
+vendor_id: huawei
+name: Y6 Prime 2018
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:y6_prime_2018:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y6_prime_2018
+  confidence: auto

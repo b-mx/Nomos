@@ -1,0 +1,10 @@
+id: quality-analytix
+vendor_id: iconics
+name: Quality Analytix
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:quality_analytix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quality_analytix
+  confidence: auto

@@ -1,0 +1,10 @@
+id: healsoul
+vendor_id: thememove
+name: Healsoul
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:healsoul:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: healsoul
+  confidence: auto

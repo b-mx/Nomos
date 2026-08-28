@@ -1,0 +1,10 @@
+id: dinion-imager-9000-hd-firmware
+vendor_id: bosch
+name: Dinion Imager 9000 Hd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:dinion_imager_9000_hd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_imager_9000_hd_firmware
+  confidence: auto

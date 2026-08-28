@@ -1,0 +1,10 @@
+id: infocage-siteshell
+vendor_id: nec
+name: Infocage Siteshell
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:infocage_siteshell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infocage_siteshell
+  confidence: auto

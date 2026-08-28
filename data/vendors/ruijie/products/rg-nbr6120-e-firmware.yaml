@@ -1,0 +1,10 @@
+id: rg-nbr6120-e-firmware
+vendor_id: ruijie
+name: Rg-Nbr6120-E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-nbr6120\-e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-nbr6120-e_firmware
+  confidence: auto

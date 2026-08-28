@@ -1,0 +1,10 @@
+id: ichitaro-2022
+vendor_id: justsystems
+name: Ichitaro 2022
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:ichitaro_2022:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ichitaro_2022
+  confidence: auto

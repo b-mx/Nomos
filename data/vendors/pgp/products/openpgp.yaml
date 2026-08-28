@@ -1,0 +1,10 @@
+id: openpgp
+vendor_id: pgp
+name: Openpgp
+type: software
+tags: []
+cpe: cpe:2.3:a:pgp:openpgp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openpgp
+  confidence: auto

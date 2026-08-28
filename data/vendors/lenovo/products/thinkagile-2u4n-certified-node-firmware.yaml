@@ -1,0 +1,10 @@
+id: thinkagile-2u4n-certified-node-firmware
+vendor_id: lenovo
+name: Thinkagile 2U4N Certified Node Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkagile_2u4n_certified_node_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_2u4n_certified_node_firmware
+  confidence: auto

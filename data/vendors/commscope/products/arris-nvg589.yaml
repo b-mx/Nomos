@@ -1,0 +1,10 @@
+id: arris-nvg589
+vendor_id: commscope
+name: Arris Nvg589
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:arris_nvg589:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_nvg589
+  confidence: auto

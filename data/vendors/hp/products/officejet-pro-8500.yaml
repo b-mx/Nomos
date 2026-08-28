@@ -1,0 +1,10 @@
+id: officejet-pro-8500
+vendor_id: hp
+name: Officejet Pro 8500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_8500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_8500
+  confidence: auto

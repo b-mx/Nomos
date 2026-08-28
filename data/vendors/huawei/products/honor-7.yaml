@@ -1,0 +1,10 @@
+id: honor-7
+vendor_id: huawei
+name: Honor 7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:honor_7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_7
+  confidence: auto

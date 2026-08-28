@@ -1,0 +1,10 @@
+id: hygia
+vendor_id: axiomthemes
+name: Hygia
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:hygia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hygia
+  confidence: auto

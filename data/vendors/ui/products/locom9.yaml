@@ -1,0 +1,10 @@
+id: locom9
+vendor_id: ui
+name: Locom9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:locom9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: locom9
+  confidence: auto

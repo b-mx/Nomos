@@ -1,0 +1,10 @@
+id: eudemon8000e-firmware
+vendor_id: huawei
+name: Eudemon8000E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:eudemon8000e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eudemon8000e_firmware
+  confidence: auto

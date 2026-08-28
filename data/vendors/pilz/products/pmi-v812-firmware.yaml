@@ -1,0 +1,10 @@
+id: pmi-v812-firmware
+vendor_id: pilz
+name: Pmi V812 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pilz:pmi_v812_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pmi_v812_firmware
+  confidence: auto

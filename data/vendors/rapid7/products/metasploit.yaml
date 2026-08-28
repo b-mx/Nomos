@@ -1,0 +1,10 @@
+id: metasploit
+vendor_id: rapid7
+name: Metasploit
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:metasploit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: metasploit
+  confidence: auto

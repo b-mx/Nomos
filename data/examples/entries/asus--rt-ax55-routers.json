@@ -4,11 +4,9 @@
   "vendor_id": "asus",
   "product_id": "rt-ax55-routers",
   "name": "RT-AX55 Routers",
-  "type": "hardware",
-  "tags": [
-    "network-device"
-  ],
-  "icon": "simple-icons:asus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

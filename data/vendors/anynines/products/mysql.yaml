@@ -1,0 +1,10 @@
+id: mysql
+vendor_id: anynines
+name: Mysql
+type: software
+tags: []
+cpe: cpe:2.3:a:anynines:mysql:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mysql
+  confidence: auto

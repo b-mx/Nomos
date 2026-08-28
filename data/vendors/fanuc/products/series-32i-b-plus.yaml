@@ -1,0 +1,10 @@
+id: series-32i-b-plus
+vendor_id: fanuc
+name: Series 32I-B Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:series_32i\-b_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: series_32i-b_plus
+  confidence: auto

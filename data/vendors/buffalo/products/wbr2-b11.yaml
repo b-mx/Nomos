@@ -1,0 +1,10 @@
+id: wbr2-b11
+vendor_id: buffalo
+name: Wbr2-B11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wbr2\-b11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wbr2-b11
+  confidence: auto

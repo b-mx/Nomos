@@ -1,0 +1,10 @@
+id: avg-antitrack
+vendor_id: avast
+name: Avg Antitrack
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:avg_antitrack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avg_antitrack
+  confidence: auto

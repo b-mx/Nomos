@@ -1,0 +1,10 @@
+id: litespeed-cache
+vendor_id: litespeedtech
+name: Litespeed Cache
+type: software
+tags: []
+cpe: cpe:2.3:a:litespeedtech:litespeed_cache:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: litespeed_cache
+  confidence: auto

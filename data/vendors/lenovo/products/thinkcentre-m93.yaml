@@ -1,0 +1,10 @@
+id: thinkcentre-m93
+vendor_id: lenovo
+name: Thinkcentre M93
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m93:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m93
+  confidence: auto

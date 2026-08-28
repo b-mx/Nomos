@@ -1,0 +1,10 @@
+id: rg-uac-6000-isg02
+vendor_id: ruijie
+name: Rg-Uac 6000-Isg02
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-uac_6000\-isg02:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-uac_6000-isg02
+  confidence: auto

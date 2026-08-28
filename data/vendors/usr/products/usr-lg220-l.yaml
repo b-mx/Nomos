@@ -1,0 +1,10 @@
+id: usr-lg220-l
+vendor_id: usr
+name: Usr-Lg220-L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:usr:usr\-lg220\-l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usr-lg220-l
+  confidence: auto

@@ -1,0 +1,10 @@
+id: stylistic-q7311
+vendor_id: fujitsu
+name: Stylistic Q7311
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:stylistic_q7311:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stylistic_q7311
+  confidence: auto

@@ -1,0 +1,10 @@
+id: inside-crochet
+vendor_id: pocketmags
+name: Inside Crochet
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:inside_crochet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inside_crochet
+  confidence: auto

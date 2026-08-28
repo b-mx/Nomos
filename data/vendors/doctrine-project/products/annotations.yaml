@@ -1,0 +1,10 @@
+id: annotations
+vendor_id: doctrine-project
+name: Annotations
+type: software
+tags: []
+cpe: cpe:2.3:a:doctrine\-project:annotations:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: annotations
+  confidence: auto

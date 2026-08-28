@@ -1,0 +1,10 @@
+id: elearning-system
+vendor_id: oretnom23
+name: Elearning System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:elearning_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elearning_system
+  confidence: auto

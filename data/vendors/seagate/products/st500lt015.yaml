@@ -1,0 +1,10 @@
+id: st500lt015
+vendor_id: seagate
+name: St500Lt015
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seagate:st500lt015:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: st500lt015
+  confidence: auto

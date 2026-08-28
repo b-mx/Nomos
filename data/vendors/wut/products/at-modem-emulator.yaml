@@ -1,0 +1,10 @@
+id: at-modem-emulator
+vendor_id: wut
+name: At-Modem-Emulator
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wut:at\-modem\-emulator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: at-modem-emulator
+  confidence: auto

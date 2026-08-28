@@ -1,0 +1,10 @@
+id: pr-400ki
+vendor_id: ntt-west
+name: Pr-400Ki
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-west:pr\-400ki:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pr-400ki
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cvsweb
+vendor_id: freebsd
+name: Cvsweb
+type: software
+tags: []
+cpe: cpe:2.3:a:freebsd:cvsweb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cvsweb
+  confidence: auto

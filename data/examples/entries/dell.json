@@ -3,12 +3,12 @@
   "slug": "dell",
   "vendor_id": "dell",
   "name": "Dell",
-  "icon": "selfhst:dell",
+  "icon": null,
   "aliases": [
     {
-      "source": "nvd",
-      "value": "dell",
-      "confidence": "curated"
+      "source": "cisa_kev",
+      "value": "Dell",
+      "confidence": "auto"
     }
   ]
 }

@@ -1,0 +1,10 @@
+id: wei5-14ikb-firmware
+vendor_id: lenovo
+name: Wei5-14Ikb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:wei5\-14ikb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wei5-14ikb_firmware
+  confidence: auto

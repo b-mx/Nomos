@@ -1,0 +1,10 @@
+id: fas-8300
+vendor_id: netapp
+name: Fas 8300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:fas_8300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fas_8300
+  confidence: auto

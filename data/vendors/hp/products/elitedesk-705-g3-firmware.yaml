@@ -1,0 +1,10 @@
+id: elitedesk-705-g3-firmware
+vendor_id: hp
+name: Elitedesk 705 G3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitedesk_705_g3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitedesk_705_g3_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: heart
+vendor_id: axiomthemes
+name: Heart
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:heart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: heart
+  confidence: auto

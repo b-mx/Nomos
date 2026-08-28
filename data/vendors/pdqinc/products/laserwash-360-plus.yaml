@@ -1,0 +1,10 @@
+id: laserwash-360-plus
+vendor_id: pdqinc
+name: Laserwash 360 Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pdqinc:laserwash_360_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserwash_360_plus
+  confidence: auto

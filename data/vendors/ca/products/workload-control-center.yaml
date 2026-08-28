@@ -1,0 +1,10 @@
+id: workload-control-center
+vendor_id: ca
+name: Workload Control Center
+type: software
+tags: []
+cpe: cpe:2.3:a:ca:workload_control_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workload_control_center
+  confidence: auto

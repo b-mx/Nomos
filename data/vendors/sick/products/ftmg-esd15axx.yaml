@@ -1,0 +1,10 @@
+id: ftmg-esd15axx
+vendor_id: sick
+name: Ftmg-Esd15Axx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:ftmg\-esd15axx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ftmg-esd15axx
+  confidence: auto

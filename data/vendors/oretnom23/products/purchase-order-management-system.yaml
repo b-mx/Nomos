@@ -1,0 +1,10 @@
+id: purchase-order-management-system
+vendor_id: oretnom23
+name: Purchase Order Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:purchase_order_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: purchase_order_management_system
+  confidence: auto

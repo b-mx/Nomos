@@ -1,0 +1,10 @@
+id: x8sil
+vendor_id: supermicro
+name: X8Sil
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x8sil:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x8sil
+  confidence: auto

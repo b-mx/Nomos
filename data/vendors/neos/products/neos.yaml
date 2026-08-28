@@ -1,0 +1,13 @@
+id: neos
+vendor_id: neos
+name: Neos
+type: software
+tags: []
+cpe: cpe:2.3:a:neos:neos_cms:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: neos
+  confidence: auto
+- source: nvd
+  value: neos_cms
+  confidence: auto

@@ -1,0 +1,10 @@
+id: matching-type-test
+vendor_id: remyandrade
+name: Matching Type Test
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:matching_type_test:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matching_type_test
+  confidence: auto

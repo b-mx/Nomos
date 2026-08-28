@@ -1,0 +1,10 @@
+id: ryzen
+vendor_id: amd
+name: Ryzen
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen
+  confidence: auto

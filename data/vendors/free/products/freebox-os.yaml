@@ -1,0 +1,10 @@
+id: freebox-os
+vendor_id: free
+name: Freebox Os
+type: software
+tags: []
+cpe: cpe:2.3:a:free:freebox_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freebox_os
+  confidence: auto

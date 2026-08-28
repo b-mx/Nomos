@@ -1,0 +1,10 @@
+id: aerohive-netconfig
+vendor_id: extremenetworks
+name: Aerohive Netconfig
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:aerohive_netconfig:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aerohive_netconfig
+  confidence: auto

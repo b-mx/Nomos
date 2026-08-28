@@ -1,0 +1,10 @@
+id: n4k99c-firmware
+vendor_id: hp
+name: N4K99C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:n4k99c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n4k99c_firmware
+  confidence: auto

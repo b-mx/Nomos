@@ -1,0 +1,10 @@
+id: wl-wn535k2-firmware
+vendor_id: wavlink
+name: Wl-Wn535K2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wavlink:wl\-wn535k2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-wn535k2_firmware
+  confidence: auto

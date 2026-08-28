@@ -1,0 +1,10 @@
+id: facebook-button
+vendor_id: bestwebsoft
+name: Facebook Button
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:facebook_button:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: facebook_button
+  confidence: auto

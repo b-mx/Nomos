@@ -1,0 +1,10 @@
+id: welch-allyn-q-stress-cardiac-stress-testing-system-firmware
+vendor_id: baxter
+name: Welch Allyn Q-Stress Cardiac Stress Testing System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baxter:welch_allyn_q\-stress_cardiac_stress_testing_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: welch_allyn_q-stress_cardiac_stress_testing_system_firmware
+  confidence: auto

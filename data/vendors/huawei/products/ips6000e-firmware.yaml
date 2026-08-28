@@ -1,0 +1,10 @@
+id: ips6000e-firmware
+vendor_id: huawei
+name: Ips6000E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ips6000e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ips6000e_firmware
+  confidence: auto

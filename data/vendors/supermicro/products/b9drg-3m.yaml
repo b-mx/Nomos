@@ -1,0 +1,10 @@
+id: b9drg-3m
+vendor_id: supermicro
+name: B9Drg-3M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b9drg\-3m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b9drg-3m
+  confidence: auto

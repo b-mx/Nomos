@@ -1,0 +1,10 @@
+id: ubuntu-core-launcher
+vendor_id: canonical
+name: Ubuntu-Core-Launcher
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:ubuntu\-core\-launcher:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubuntu-core-launcher
+  confidence: auto

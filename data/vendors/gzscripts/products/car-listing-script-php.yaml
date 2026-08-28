@@ -1,0 +1,10 @@
+id: car-listing-script-php
+vendor_id: gzscripts
+name: Car Listing Script Php
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:car_listing_script_php:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: car_listing_script_php
+  confidence: auto

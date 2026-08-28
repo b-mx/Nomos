@@ -1,0 +1,10 @@
+id: passport-wsfed-saml2
+vendor_id: auth0
+name: Passport-Wsfed-Saml2
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:passport\-wsfed\-saml2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: passport-wsfed-saml2
+  confidence: auto

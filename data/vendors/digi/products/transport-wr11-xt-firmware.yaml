@@ -1,0 +1,10 @@
+id: transport-wr11-xt-firmware
+vendor_id: digi
+name: Transport Wr11 Xt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:transport_wr11_xt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: transport_wr11_xt_firmware
+  confidence: auto

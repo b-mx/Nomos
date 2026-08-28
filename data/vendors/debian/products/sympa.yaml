@@ -1,0 +1,10 @@
+id: sympa
+vendor_id: debian
+name: Sympa
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:sympa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sympa
+  confidence: auto

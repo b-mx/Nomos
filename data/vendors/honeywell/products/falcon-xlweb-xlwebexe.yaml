@@ -1,0 +1,10 @@
+id: falcon-xlweb-xlwebexe
+vendor_id: honeywell
+name: Falcon Xlweb Xlwebexe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:falcon_xlweb_xlwebexe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: falcon_xlweb_xlwebexe
+  confidence: auto

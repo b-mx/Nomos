@@ -1,0 +1,10 @@
+id: enhanced-internet-usage-manager
+vendor_id: hp
+name: Enhanced Internet Usage Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:enhanced_internet_usage_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enhanced_internet_usage_manager
+  confidence: auto

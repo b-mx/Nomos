@@ -1,0 +1,10 @@
+id: zm5202
+vendor_id: silabs
+name: Zm5202
+type: hardware
+tags: []
+cpe: cpe:2.3:h:silabs:zm5202:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zm5202
+  confidence: auto

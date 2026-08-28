@@ -1,0 +1,10 @@
+id: small-crm
+vendor_id: phpgurukul
+name: Small Crm
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:small_crm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: small_crm
+  confidence: auto

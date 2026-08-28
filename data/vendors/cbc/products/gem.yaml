@@ -1,0 +1,10 @@
+id: gem
+vendor_id: cbc
+name: Gem
+type: software
+tags: []
+cpe: cpe:2.3:a:cbc:gem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gem
+  confidence: auto

@@ -1,0 +1,10 @@
+id: elitebook-folio-1040-g3
+vendor_id: hp
+name: Elitebook Folio 1040 G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_folio_1040_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_folio_1040_g3
+  confidence: auto

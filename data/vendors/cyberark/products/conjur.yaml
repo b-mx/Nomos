@@ -1,0 +1,10 @@
+id: conjur
+vendor_id: cyberark
+name: Conjur
+type: software
+tags: []
+cpe: cpe:2.3:a:cyberark:conjur:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: conjur
+  confidence: auto

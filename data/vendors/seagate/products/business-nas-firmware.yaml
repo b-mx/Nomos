@@ -1,0 +1,10 @@
+id: business-nas-firmware
+vendor_id: seagate
+name: Business Nas Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seagate:business_nas_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_nas_firmware
+  confidence: auto

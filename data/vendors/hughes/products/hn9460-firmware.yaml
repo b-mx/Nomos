@@ -1,0 +1,10 @@
+id: hn9460-firmware
+vendor_id: hughes
+name: Hn9460 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hughes:hn9460_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hn9460_firmware
+  confidence: auto

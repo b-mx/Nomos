@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gl-inet--b2200-firmware",
+  "vendor_id": "gl-inet",
+  "product_id": "b2200-firmware",
+  "name": "B2200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b2200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

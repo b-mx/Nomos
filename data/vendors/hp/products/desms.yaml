@@ -1,0 +1,10 @@
+id: desms
+vendor_id: hp
+name: Desms
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:desms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desms
+  confidence: auto

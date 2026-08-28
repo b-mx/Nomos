@@ -1,0 +1,10 @@
+id: repute-arforms
+vendor_id: reputeinfosystems
+name: Repute Arforms
+type: software
+tags: []
+cpe: cpe:2.3:a:reputeinfosystems:repute_arforms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: repute_arforms
+  confidence: auto

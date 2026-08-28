@@ -1,0 +1,10 @@
+id: avira-mobile-security
+vendor_id: avira
+name: Avira Mobile Security
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:avira_mobile_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avira_mobile_security
+  confidence: auto

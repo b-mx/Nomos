@@ -1,0 +1,10 @@
+id: proliant-xl270d-firmware
+vendor_id: hp
+name: Proliant Xl270D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:proliant_xl270d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_xl270d_firmware
+  confidence: auto

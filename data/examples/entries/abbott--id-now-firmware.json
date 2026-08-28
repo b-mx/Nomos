@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abbott--id-now-firmware",
+  "vendor_id": "abbott",
+  "product_id": "id-now-firmware",
+  "name": "Id Now Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "id_now_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

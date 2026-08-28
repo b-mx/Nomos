@@ -1,0 +1,10 @@
+id: katran
+vendor_id: facebook
+name: Katran
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:katran:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: katran
+  confidence: auto

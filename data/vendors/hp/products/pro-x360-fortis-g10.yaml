@@ -1,0 +1,10 @@
+id: pro-x360-fortis-g10
+vendor_id: hp
+name: Pro X360 Fortis G10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pro_x360_fortis_g10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_x360_fortis_g10
+  confidence: auto

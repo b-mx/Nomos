@@ -1,0 +1,10 @@
+id: thinkcentre-m8250z-firmware
+vendor_id: lenovo
+name: Thinkcentre M8250Z Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkcentre_m8250z_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m8250z_firmware
+  confidence: auto

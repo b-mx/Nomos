@@ -1,0 +1,10 @@
+id: client-portal
+vendor_id: cozmoslabs
+name: Client Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:cozmoslabs:client_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: client_portal
+  confidence: auto

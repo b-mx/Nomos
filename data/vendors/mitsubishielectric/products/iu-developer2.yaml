@@ -1,0 +1,10 @@
+id: iu-developer2
+vendor_id: mitsubishielectric
+name: Iu Developer2
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:iu_developer2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iu_developer2
+  confidence: auto

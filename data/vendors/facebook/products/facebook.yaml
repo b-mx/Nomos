@@ -1,0 +1,10 @@
+id: facebook
+vendor_id: facebook
+name: Facebook
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:facebook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: facebook
+  confidence: auto

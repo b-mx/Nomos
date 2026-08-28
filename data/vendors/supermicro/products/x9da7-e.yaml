@@ -1,0 +1,10 @@
+id: x9da7-e
+vendor_id: supermicro
+name: X9Da7/E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9da7\/e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9da7/e
+  confidence: auto

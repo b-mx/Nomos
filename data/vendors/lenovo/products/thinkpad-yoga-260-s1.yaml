@@ -1,0 +1,10 @@
+id: thinkpad-yoga-260-s1
+vendor_id: lenovo
+name: Thinkpad Yoga 260-S1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_yoga_260\-s1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_yoga_260-s1
+  confidence: auto

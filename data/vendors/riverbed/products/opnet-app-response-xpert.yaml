@@ -1,0 +1,10 @@
+id: opnet-app-response-xpert
+vendor_id: riverbed
+name: Opnet App Response Xpert
+type: software
+tags: []
+cpe: cpe:2.3:a:riverbed:opnet_app_response_xpert:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opnet_app_response_xpert
+  confidence: auto

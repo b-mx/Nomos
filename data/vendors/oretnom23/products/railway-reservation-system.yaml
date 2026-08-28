@@ -1,0 +1,10 @@
+id: railway-reservation-system
+vendor_id: oretnom23
+name: Railway Reservation System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:railway_reservation_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: railway_reservation_system
+  confidence: auto

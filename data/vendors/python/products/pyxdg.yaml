@@ -1,0 +1,10 @@
+id: pyxdg
+vendor_id: python
+name: Pyxdg
+type: software
+tags: []
+cpe: cpe:2.3:a:python:pyxdg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxdg
+  confidence: auto

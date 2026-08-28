@@ -1,0 +1,10 @@
+id: laserjet-pro-200-color-m251-cf146a
+vendor_id: hp
+name: Laserjet Pro 200 Color M251 Cf146A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_200_color_m251_cf146a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_200_color_m251_cf146a
+  confidence: auto

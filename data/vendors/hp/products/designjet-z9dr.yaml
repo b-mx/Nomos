@@ -1,0 +1,10 @@
+id: designjet-z9dr
+vendor_id: hp
+name: Designjet Z9Dr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_z9dr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z9dr
+  confidence: auto

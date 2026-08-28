@@ -1,0 +1,10 @@
+id: mozart-dds-next-2000
+vendor_id: dbbroadcast
+name: Mozart Dds Next 2000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dbbroadcast:mozart_dds_next_2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mozart_dds_next_2000
+  confidence: auto

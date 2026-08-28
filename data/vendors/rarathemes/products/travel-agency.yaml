@@ -1,0 +1,10 @@
+id: travel-agency
+vendor_id: rarathemes
+name: Travel Agency
+type: software
+tags: []
+cpe: cpe:2.3:a:rarathemes:travel_agency:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: travel_agency
+  confidence: auto

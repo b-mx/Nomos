@@ -1,0 +1,10 @@
+id: mime-support
+vendor_id: debian
+name: Mime-Support
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:mime\-support:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mime-support
+  confidence: auto

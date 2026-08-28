@@ -1,0 +1,10 @@
+id: clearvue-850
+vendor_id: philips
+name: Clearvue 850
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:clearvue_850:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clearvue_850
+  confidence: auto

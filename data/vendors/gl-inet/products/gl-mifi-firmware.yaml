@@ -1,0 +1,10 @@
+id: gl-mifi-firmware
+vendor_id: gl-inet
+name: Gl-Mifi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:gl\-mifi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-mifi_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tutor-lms
+vendor_id: themeum
+name: Tutor Lms
+type: software
+tags: []
+cpe: cpe:2.3:a:themeum:tutor_lms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tutor_lms
+  confidence: auto

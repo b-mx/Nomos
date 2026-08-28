@@ -1,0 +1,10 @@
+id: cloudexplorer-lite
+vendor_id: fit2cloud
+name: Cloudexplorer Lite
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:cloudexplorer_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudexplorer_lite
+  confidence: auto

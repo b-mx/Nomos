@@ -1,0 +1,10 @@
+id: hmi-panel-firmware
+vendor_id: redlion
+name: Hmi Panel Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:redlion:hmi_panel_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hmi_panel_firmware
+  confidence: auto

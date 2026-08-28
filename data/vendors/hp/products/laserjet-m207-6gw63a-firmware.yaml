@@ -1,0 +1,10 @@
+id: laserjet-m207-6gw63a-firmware
+vendor_id: hp
+name: Laserjet M207 6Gw63A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_m207_6gw63a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m207_6gw63a_firmware
+  confidence: auto

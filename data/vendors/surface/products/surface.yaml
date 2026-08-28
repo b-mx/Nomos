@@ -1,0 +1,9 @@
+id: surface
+vendor_id: surface
+name: Microsoft Surface
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: surface
+  confidence: auto

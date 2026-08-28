@@ -1,0 +1,10 @@
+id: zxdsl-831cii-firmware
+vendor_id: zte
+name: Zxdsl 831Cii Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxdsl_831cii_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxdsl_831cii_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xml-mapper
+vendor_id: sas
+name: Xml Mapper
+type: software
+tags: []
+cpe: cpe:2.3:a:sas:xml_mapper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xml_mapper
+  confidence: auto

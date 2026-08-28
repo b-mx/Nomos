@@ -1,0 +1,10 @@
+id: sip-enablement-services
+vendor_id: avaya
+name: Sip Enablement Services
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:sip_enablement_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sip_enablement_services
+  confidence: auto

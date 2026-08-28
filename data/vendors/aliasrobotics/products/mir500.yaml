@@ -1,0 +1,10 @@
+id: mir500
+vendor_id: aliasrobotics
+name: Mir500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aliasrobotics:mir500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mir500
+  confidence: auto

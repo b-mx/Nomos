@@ -1,0 +1,10 @@
+id: visia-af-icd
+vendor_id: medtronic
+name: Visia Af Icd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:visia_af_icd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visia_af_icd
+  confidence: auto

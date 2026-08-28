@@ -1,0 +1,10 @@
+id: popup-contact-form
+vendor_id: gopiplus
+name: Popup Contact Form
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:popup_contact_form:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: popup_contact_form
+  confidence: auto

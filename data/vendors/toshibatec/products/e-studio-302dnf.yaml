@@ -1,0 +1,10 @@
+id: e-studio-302dnf
+vendor_id: toshibatec
+name: E-Studio 302Dnf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshibatec:e\-studio_302dnf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-studio_302dnf
+  confidence: auto

@@ -1,0 +1,10 @@
+id: asterisk-gui
+vendor_id: digium
+name: Asterisk Gui
+type: software
+tags: []
+cpe: cpe:2.3:a:digium:asterisk_gui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asterisk_gui
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "github--actions-artifact",
+  "vendor_id": "github",
+  "product_id": "actions-artifact",
+  "name": "Actions/Artifact",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "actions/artifact",
+      "confidence": "auto"
+    }
+  ]
+}

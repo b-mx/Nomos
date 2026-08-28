@@ -1,0 +1,10 @@
+id: uipath-project-packager
+vendor_id: uipath
+name: Uipath/Project-Packager
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/project\-packager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/project-packager
+  confidence: auto

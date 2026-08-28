@@ -1,0 +1,10 @@
+id: gameloop
+vendor_id: tencent
+name: Gameloop
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:gameloop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gameloop
+  confidence: auto

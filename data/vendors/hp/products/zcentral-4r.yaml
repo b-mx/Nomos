@@ -1,0 +1,10 @@
+id: zcentral-4r
+vendor_id: hp
+name: Zcentral 4R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zcentral_4r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zcentral_4r
+  confidence: auto

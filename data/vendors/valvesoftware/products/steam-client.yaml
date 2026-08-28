@@ -1,0 +1,10 @@
+id: steam-client
+vendor_id: valvesoftware
+name: Steam Client
+type: software
+tags: []
+cpe: cpe:2.3:a:valvesoftware:steam_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: steam_client
+  confidence: auto

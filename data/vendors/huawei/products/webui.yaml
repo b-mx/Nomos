@@ -1,0 +1,10 @@
+id: webui
+vendor_id: huawei
+name: Webui
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:webui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webui
+  confidence: auto

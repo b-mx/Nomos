@@ -1,0 +1,10 @@
+id: woocommerce-products-filter
+vendor_id: pluginus
+name: Woocommerce Products Filter
+type: software
+tags: []
+cpe: cpe:2.3:a:pluginus:woocommerce_products_filter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_products_filter
+  confidence: auto

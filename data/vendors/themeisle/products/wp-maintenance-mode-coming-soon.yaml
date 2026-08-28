@@ -1,0 +1,10 @@
+id: wp-maintenance-mode-coming-soon
+vendor_id: themeisle
+name: Wp Maintenance Mode & Coming Soon
+type: software
+tags: []
+cpe: cpe:2.3:a:themeisle:wp_maintenance_mode_\&_coming_soon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_maintenance_mode_&_coming_soon
+  confidence: auto

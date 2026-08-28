@@ -1,0 +1,10 @@
+id: a340-22-iwl
+vendor_id: lenovo
+name: A340-22 Iwl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:a340\-22_iwl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a340-22_iwl
+  confidence: auto

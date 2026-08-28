@@ -1,0 +1,10 @@
+id: mrd-315
+vendor_id: westermo
+name: Mrd-315
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westermo:mrd\-315:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mrd-315
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jp1-netm-dm-manager
+vendor_id: hitachi
+name: Jp1/Netm/Dm Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:jp1\/netm\/dm_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jp1/netm/dm_manager
+  confidence: auto

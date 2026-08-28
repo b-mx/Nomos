@@ -1,0 +1,10 @@
+id: freebox-pop-firmware
+vendor_id: free
+name: Freebox Pop Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:free:freebox_pop_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freebox_pop_firmware
+  confidence: auto

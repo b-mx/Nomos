@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microchip--gridtime-3000-firmware",
+  "vendor_id": "microchip",
+  "product_id": "gridtime-3000-firmware",
+  "name": "Gridtime 3000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gridtime_3000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

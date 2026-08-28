@@ -1,0 +1,10 @@
+id: datafeed-opc-suite
+vendor_id: softing
+name: Datafeed Opc Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:softing:datafeed_opc_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: datafeed_opc_suite
+  confidence: auto

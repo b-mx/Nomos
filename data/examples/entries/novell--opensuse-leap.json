@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--opensuse-leap",
+  "vendor_id": "novell",
+  "product_id": "opensuse-leap",
+  "name": "Opensuse Leap",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opensuse_leap",
+      "confidence": "auto"
+    }
+  ]
+}

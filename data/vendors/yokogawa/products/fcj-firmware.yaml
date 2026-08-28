@@ -1,0 +1,10 @@
+id: fcj-firmware
+vendor_id: yokogawa
+name: Fcj Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yokogawa:fcj_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fcj_firmware
+  confidence: auto

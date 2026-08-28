@@ -1,0 +1,10 @@
+id: watch-boot-light-rpc-m5c
+vendor_id: meikyo
+name: Watch Boot Light Rpc-M5C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meikyo:watch_boot_light_rpc\-m5c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: watch_boot_light_rpc-m5c
+  confidence: auto

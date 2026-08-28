@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freedesktop--dbus-glib",
+  "vendor_id": "freedesktop",
+  "product_id": "dbus-glib",
+  "name": "Dbus-Glib",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dbus-glib",
+      "confidence": "auto"
+    }
+  ]
+}

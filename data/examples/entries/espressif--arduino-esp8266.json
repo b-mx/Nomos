@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--arduino-esp8266",
+  "vendor_id": "espressif",
+  "product_id": "arduino-esp8266",
+  "name": "Arduino Esp8266",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arduino_esp8266",
+      "confidence": "auto"
+    }
+  ]
+}

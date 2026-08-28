@@ -1,0 +1,10 @@
+id: rse6500
+vendor_id: huawei
+name: Rse6500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rse6500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rse6500
+  confidence: auto

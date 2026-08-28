@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--oslo-utils",
+  "vendor_id": "openstack",
+  "product_id": "oslo-utils",
+  "name": "Oslo.Utils",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "oslo.utils",
+      "confidence": "auto"
+    }
+  ]
+}

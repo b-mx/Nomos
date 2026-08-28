@@ -1,0 +1,10 @@
+id: lead-3i
+vendor_id: leagoo
+name: Lead 3I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:leagoo:lead_3i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lead_3i
+  confidence: auto

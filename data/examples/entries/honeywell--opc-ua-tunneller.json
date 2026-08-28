@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--opc-ua-tunneller",
+  "vendor_id": "honeywell",
+  "product_id": "opc-ua-tunneller",
+  "name": "Opc Ua Tunneller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opc_ua_tunneller",
+      "confidence": "auto"
+    }
+  ]
+}

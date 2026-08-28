@@ -1,0 +1,10 @@
+id: x10sdv-2c-7tp4f-firmware
+vendor_id: supermicro
+name: X10Sdv-2C-7Tp4F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10sdv\-2c\-7tp4f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10sdv-2c-7tp4f_firmware
+  confidence: auto

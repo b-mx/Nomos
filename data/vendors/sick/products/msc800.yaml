@@ -1,0 +1,10 @@
+id: msc800
+vendor_id: sick
+name: Msc800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:msc800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msc800
+  confidence: auto

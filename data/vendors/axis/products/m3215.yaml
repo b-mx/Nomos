@@ -1,0 +1,10 @@
+id: m3215
+vendor_id: axis
+name: M3215
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m3215:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3215
+  confidence: auto

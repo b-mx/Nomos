@@ -1,0 +1,10 @@
+id: jetnet-7310g-v2-firmware
+vendor_id: korenix
+name: Jetnet 7310G-V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetnet_7310g\-v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_7310g-v2_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dynamic-coronary-roadmap
+vendor_id: philips
+name: Dynamic Coronary Roadmap
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:dynamic_coronary_roadmap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dynamic_coronary_roadmap
+  confidence: auto

@@ -1,0 +1,10 @@
+id: live-chat
+vendor_id: 3cx
+name: Live Chat
+type: software
+tags: []
+cpe: cpe:2.3:a:3cx:live_chat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: live_chat
+  confidence: auto

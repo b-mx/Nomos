@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "videowhisper--video-conference",
+  "vendor_id": "videowhisper",
+  "product_id": "video-conference",
+  "name": "Video Conference",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "video_conference",
+      "confidence": "auto"
+    }
+  ]
+}

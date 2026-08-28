@@ -1,0 +1,10 @@
+id: thinkpad-11e-skylake
+vendor_id: lenovo
+name: Thinkpad 11E Skylake
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_11e_skylake:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_11e_skylake
+  confidence: auto

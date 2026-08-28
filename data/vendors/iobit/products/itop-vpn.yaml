@@ -1,0 +1,10 @@
+id: itop-vpn
+vendor_id: iobit
+name: Itop Vpn
+type: software
+tags: []
+cpe: cpe:2.3:a:iobit:itop_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itop_vpn
+  confidence: auto

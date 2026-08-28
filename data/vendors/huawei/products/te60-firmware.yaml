@@ -1,0 +1,10 @@
+id: te60-firmware
+vendor_id: huawei
+name: Te60 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:te60_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: te60_firmware
+  confidence: auto

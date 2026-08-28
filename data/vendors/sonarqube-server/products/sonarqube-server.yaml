@@ -1,0 +1,9 @@
+id: sonarqube-server
+vendor_id: sonarqube-server
+name: SonarQube Server
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: sonarqube-server
+  confidence: auto

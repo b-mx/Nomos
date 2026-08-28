@@ -1,0 +1,10 @@
+id: hirschmann-rspe35
+vendor_id: belden
+name: Hirschmann Rspe35
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_rspe35:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_rspe35
+  confidence: auto

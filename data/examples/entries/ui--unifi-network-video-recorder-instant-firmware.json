@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-network-video-recorder-instant-firmware",
+  "vendor_id": "ui",
+  "product_id": "unifi-network-video-recorder-instant-firmware",
+  "name": "Unifi Network Video Recorder Instant Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_network_video_recorder_instant_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: huawei-firmware
+vendor_id: huawei
+name: Huawei Firmware
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:huawei_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: huawei_firmware
+  confidence: auto

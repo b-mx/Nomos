@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--arduino-esp32",
+  "vendor_id": "espressif",
+  "product_id": "arduino-esp32",
+  "name": "Arduino-Esp32",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arduino-esp32",
+      "confidence": "auto"
+    }
+  ]
+}

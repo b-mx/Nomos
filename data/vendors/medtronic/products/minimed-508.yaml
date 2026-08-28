@@ -1,0 +1,10 @@
+id: minimed-508
+vendor_id: medtronic
+name: Minimed 508
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:minimed_508:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_508
+  confidence: auto

@@ -1,0 +1,10 @@
+id: access-professional-edition
+vendor_id: bosch
+name: Access Professional Edition
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:access_professional_edition:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_professional_edition
+  confidence: auto

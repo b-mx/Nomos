@@ -1,0 +1,10 @@
+id: 3pz35a
+vendor_id: hp
+name: 3Pz35A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:3pz35a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3pz35a
+  confidence: auto

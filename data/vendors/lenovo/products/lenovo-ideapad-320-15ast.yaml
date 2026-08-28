@@ -1,0 +1,10 @@
+id: lenovo-ideapad-320-15ast
+vendor_id: lenovo
+name: Lenovo Ideapad 320-15Ast
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:lenovo_ideapad_320\-15ast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_ideapad_320-15ast
+  confidence: auto

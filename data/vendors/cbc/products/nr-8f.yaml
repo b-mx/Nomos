@@ -1,0 +1,10 @@
+id: nr-8f
+vendor_id: cbc
+name: Nr-8F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:nr\-8f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr-8f
+  confidence: auto

@@ -1,0 +1,10 @@
+id: semac-s1-osdp-firmware
+vendor_id: chiyu-tech
+name: Semac S1 Osdp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chiyu\-tech:semac_s1_osdp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: semac_s1_osdp_firmware
+  confidence: auto

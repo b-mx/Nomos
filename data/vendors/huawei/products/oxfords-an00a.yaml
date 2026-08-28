@@ -1,0 +1,10 @@
+id: oxfords-an00a
+vendor_id: huawei
+name: Oxfords-An00A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:oxfords\-an00a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oxfords-an00a
+  confidence: auto

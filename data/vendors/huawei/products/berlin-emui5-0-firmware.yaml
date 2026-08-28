@@ -1,0 +1,10 @@
+id: berlin-emui5-0-firmware
+vendor_id: huawei
+name: Berlin-Emui5.0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:berlin\-emui5\.0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: berlin-emui5.0_firmware
+  confidence: auto

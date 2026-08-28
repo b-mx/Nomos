@@ -1,0 +1,10 @@
+id: aura-conferencing-standard-edition
+vendor_id: avaya
+name: Aura Conferencing Standard Edition
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura_conferencing_standard_edition:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_conferencing_standard_edition
+  confidence: auto

@@ -1,0 +1,7 @@
+id: autel
+name: Autel
+cpe: cpe:2.3:*:autel:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autel
+  confidence: auto

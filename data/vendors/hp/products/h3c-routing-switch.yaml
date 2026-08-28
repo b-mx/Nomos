@@ -1,0 +1,10 @@
+id: h3c-routing-switch
+vendor_id: hp
+name: H3C Routing Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:h3c_routing_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h3c_routing_switch
+  confidence: auto

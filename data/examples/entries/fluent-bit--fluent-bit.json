@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fluent-bit--fluent-bit",
+  "vendor_id": "fluent-bit",
+  "product_id": "fluent-bit",
+  "name": "Fluent Bit",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "fluent-bit",
+      "confidence": "auto"
+    }
+  ]
+}

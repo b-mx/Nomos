@@ -1,0 +1,10 @@
+id: printer-software-g4
+vendor_id: lexmark
+name: Printer Software G4
+type: software
+tags: []
+cpe: cpe:2.3:a:lexmark:printer_software_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: printer_software_g4
+  confidence: auto

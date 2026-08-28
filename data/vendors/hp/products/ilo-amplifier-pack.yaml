@@ -1,0 +1,10 @@
+id: ilo-amplifier-pack
+vendor_id: hp
+name: Ilo Amplifier Pack
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:ilo_amplifier_pack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilo_amplifier_pack
+  confidence: auto

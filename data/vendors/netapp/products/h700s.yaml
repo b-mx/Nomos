@@ -1,0 +1,10 @@
+id: h700s
+vendor_id: netapp
+name: H700S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:h700s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h700s
+  confidence: auto

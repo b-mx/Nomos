@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--ucmdb-browser",
+  "vendor_id": "hp",
+  "product_id": "ucmdb-browser",
+  "name": "Ucmdb Browser",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ucmdb_browser",
+      "confidence": "auto"
+    }
+  ]
+}

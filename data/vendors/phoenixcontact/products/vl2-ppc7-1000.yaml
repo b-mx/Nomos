@@ -1,0 +1,10 @@
+id: vl2-ppc7-1000
+vendor_id: phoenixcontact
+name: Vl2 Ppc7 1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:vl2_ppc7_1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vl2_ppc7_1000
+  confidence: auto

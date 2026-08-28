@@ -1,0 +1,10 @@
+id: kit-fc6a-16-ra-firmware
+vendor_id: idec
+name: Kit-Fc6A-16-Ra Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idec:kit\-fc6a\-16\-ra_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kit-fc6a-16-ra_firmware
+  confidence: auto

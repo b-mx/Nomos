@@ -1,0 +1,10 @@
+id: fire-x2100-m2
+vendor_id: sun
+name: Fire X2100 M2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sun:fire_x2100_m2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fire_x2100_m2
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--org-eclipse-core-runtime",
+  "vendor_id": "eclipse",
+  "product_id": "org-eclipse-core-runtime",
+  "name": "Org.Eclipse.Core.Runtime",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "org.eclipse.core.runtime",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: x5000r
+vendor_id: totolink
+name: X5000R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:x5000r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x5000r
+  confidence: auto

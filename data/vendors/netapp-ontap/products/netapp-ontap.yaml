@@ -1,0 +1,9 @@
+id: netapp-ontap
+vendor_id: netapp-ontap
+name: NetApp ONTAP
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: netapp-ontap
+  confidence: auto

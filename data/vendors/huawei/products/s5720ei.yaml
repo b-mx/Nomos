@@ -1,0 +1,10 @@
+id: s5720ei
+vendor_id: huawei
+name: S5720Ei
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s5720ei:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5720ei
+  confidence: auto

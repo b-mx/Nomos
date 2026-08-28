@@ -1,0 +1,7 @@
+id: jfrog
+name: Jfrog
+cpe: cpe:2.3:*:jfrog:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jfrog
+  confidence: auto

@@ -1,0 +1,10 @@
+id: libxpm
+vendor_id: x-org
+name: Libxpm
+type: software
+tags: []
+cpe: cpe:2.3:a:x\.org:libxpm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxpm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bubble-menu
+vendor_id: wow-company
+name: Bubble Menu
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:bubble_menu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bubble_menu
+  confidence: auto

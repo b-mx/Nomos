@@ -1,0 +1,10 @@
+id: q9307-lv
+vendor_id: axis
+name: Q9307-Lv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q9307\-lv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q9307-lv
+  confidence: auto

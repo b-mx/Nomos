@@ -1,0 +1,10 @@
+id: paypal-pro
+vendor_id: ithemes
+name: Paypal Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:paypal_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paypal_pro
+  confidence: auto

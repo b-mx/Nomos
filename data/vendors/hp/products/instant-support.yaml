@@ -1,0 +1,10 @@
+id: instant-support
+vendor_id: hp
+name: Instant Support
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:instant_support:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instant_support
+  confidence: auto

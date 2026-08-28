@@ -1,0 +1,10 @@
+id: cnpilot-r190v
+vendor_id: cambiumnetworks
+name: Cnpilot R190V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cambiumnetworks:cnpilot_r190v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cnpilot_r190v
+  confidence: auto

@@ -1,0 +1,10 @@
+id: telepathy-idle
+vendor_id: canonical
+name: Telepathy-Idle
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:telepathy\-idle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: telepathy-idle
+  confidence: auto

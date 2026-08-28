@@ -1,0 +1,10 @@
+id: hdx-system-software
+vendor_id: polycom
+name: Hdx System Software
+type: software
+tags: []
+cpe: cpe:2.3:a:polycom:hdx_system_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdx_system_software
+  confidence: auto

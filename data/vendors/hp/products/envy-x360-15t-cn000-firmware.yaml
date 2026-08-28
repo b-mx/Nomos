@@ -1,0 +1,10 @@
+id: envy-x360-15t-cn000-firmware
+vendor_id: hp
+name: Envy X360 - 15T-Cn000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_x360_\-_15t\-cn000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_x360_-_15t-cn000_firmware
+  confidence: auto

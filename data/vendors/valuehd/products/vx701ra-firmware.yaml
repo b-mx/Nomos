@@ -1,0 +1,10 @@
+id: vx701ra-firmware
+vendor_id: valuehd
+name: Vx701Ra Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:valuehd:vx701ra_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx701ra_firmware
+  confidence: auto

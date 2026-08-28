@@ -1,0 +1,10 @@
+id: sysmac-cs1w-nc-71
+vendor_id: omron
+name: Sysmac Cs1W-Nc[]71
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cs1w\-nc\[\]71:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cs1w-nc[]71
+  confidence: auto

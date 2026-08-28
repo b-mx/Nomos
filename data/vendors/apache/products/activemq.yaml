@@ -2,8 +2,7 @@ id: activemq
 vendor_id: apache
 name: ActiveMQ
 type: software
-tags:
-- message-queue
+tags: []
 aliases:
 - source: cisa_kev
   value: ActiveMQ

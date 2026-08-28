@@ -1,0 +1,10 @@
+id: msg2300
+vendor_id: raisecom
+name: Msg2300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:raisecom:msg2300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msg2300
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--rancher-backup-and-restore-operator",
+  "vendor_id": "suse",
+  "product_id": "rancher-backup-and-restore-operator",
+  "name": "Rancher Backup And Restore Operator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rancher_backup_and_restore_operator",
+      "confidence": "auto"
+    }
+  ]
+}

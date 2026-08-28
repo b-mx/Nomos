@@ -1,0 +1,10 @@
+id: charlotte-l09c
+vendor_id: huawei
+name: Charlotte-L09C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:charlotte\-l09c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: charlotte-l09c
+  confidence: auto

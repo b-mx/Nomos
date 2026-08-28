@@ -1,0 +1,10 @@
+id: ryzen-7-5800u
+vendor_id: amd
+name: Ryzen 7 5800U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_5800u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_5800u
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "milesight--ip-security-camera-firmware",
+  "vendor_id": "milesight",
+  "product_id": "ip-security-camera-firmware",
+  "name": "Ip Security Camera Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ip_security_camera_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

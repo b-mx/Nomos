@@ -1,0 +1,9 @@
+id: pulse-connect-secure
+vendor_id: pulse-secure
+name: Pulse Connect Secure
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Pulse Connect Secure
+  confidence: auto

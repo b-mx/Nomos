@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ti--tm4c123-firmware",
+  "vendor_id": "ti",
+  "product_id": "tm4c123-firmware",
+  "name": "Tm4C123 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tm4c123_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

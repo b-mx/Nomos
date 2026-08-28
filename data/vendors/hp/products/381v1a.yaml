@@ -1,0 +1,10 @@
+id: 381v1a
+vendor_id: hp
+name: 381V1A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:381v1a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 381v1a
+  confidence: auto

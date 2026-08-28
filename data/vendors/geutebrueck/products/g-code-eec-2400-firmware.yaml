@@ -1,0 +1,10 @@
+id: g-code-eec-2400-firmware
+vendor_id: geutebrueck
+name: G-Code Eec-2400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:geutebrueck:g\-code_eec\-2400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g-code_eec-2400_firmware
+  confidence: auto

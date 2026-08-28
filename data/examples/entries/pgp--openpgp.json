@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pgp--openpgp",
+  "vendor_id": "pgp",
+  "product_id": "openpgp",
+  "name": "Openpgp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openpgp",
+      "confidence": "auto"
+    }
+  ]
+}

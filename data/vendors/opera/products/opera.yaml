@@ -1,0 +1,10 @@
+id: opera
+vendor_id: opera
+name: Opera
+type: software
+tags: []
+cpe: cpe:2.3:a:opera:opera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opera
+  confidence: auto

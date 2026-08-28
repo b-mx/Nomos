@@ -1,0 +1,10 @@
+id: electronics-for-you
+vendor_id: magzter
+name: Electronics For You
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:electronics_for_you:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: electronics_for_you
+  confidence: auto

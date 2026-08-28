@@ -1,0 +1,10 @@
+id: mmt-1151-firmware
+vendor_id: medtronic
+name: Mmt-1151 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:mmt\-1151_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mmt-1151_firmware
+  confidence: auto

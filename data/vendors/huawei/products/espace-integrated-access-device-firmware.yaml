@@ -1,0 +1,10 @@
+id: espace-integrated-access-device-firmware
+vendor_id: huawei
+name: Espace Integrated Access Device Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:espace_integrated_access_device_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espace_integrated_access_device_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--service-center",
+  "vendor_id": "hp",
+  "product_id": "service-center",
+  "name": "Service Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_center",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+id: squid-cache
+name: Squid-Cache
+cpe: cpe:2.3:*:squid\-cache:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squid-cache
+  confidence: auto

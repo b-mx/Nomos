@@ -1,0 +1,10 @@
+id: nbm-d88n
+vendor_id: patlite
+name: Nbm-D88N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:patlite:nbm\-d88n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbm-d88n
+  confidence: auto

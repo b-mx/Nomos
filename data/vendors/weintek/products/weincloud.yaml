@@ -1,0 +1,10 @@
+id: weincloud
+vendor_id: weintek
+name: Weincloud
+type: software
+tags: []
+cpe: cpe:2.3:a:weintek:weincloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: weincloud
+  confidence: auto

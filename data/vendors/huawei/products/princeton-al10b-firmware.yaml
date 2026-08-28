@@ -1,0 +1,10 @@
+id: princeton-al10b-firmware
+vendor_id: huawei
+name: Princeton-Al10B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:princeton\-al10b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: princeton-al10b_firmware
+  confidence: auto

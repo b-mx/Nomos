@@ -1,0 +1,10 @@
+id: cm-firmware
+vendor_id: digi
+name: Cm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:cm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm_firmware
+  confidence: auto

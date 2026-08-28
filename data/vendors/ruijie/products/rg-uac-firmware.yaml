@@ -1,0 +1,10 @@
+id: rg-uac-firmware
+vendor_id: ruijie
+name: Rg-Uac Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-uac_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-uac_firmware
+  confidence: auto

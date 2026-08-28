@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rittal--iot-interface-firmware",
+  "vendor_id": "rittal",
+  "product_id": "iot-interface-firmware",
+  "name": "Iot Interface Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iot_interface_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

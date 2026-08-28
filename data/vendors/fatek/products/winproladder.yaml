@@ -1,0 +1,10 @@
+id: winproladder
+vendor_id: fatek
+name: Winproladder
+type: software
+tags: []
+cpe: cpe:2.3:a:fatek:winproladder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: winproladder
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pivotal-application-service
+vendor_id: pivotal-software
+name: Pivotal Application Service
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pivotal_application_service
+  confidence: auto

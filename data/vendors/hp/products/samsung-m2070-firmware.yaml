@@ -1,0 +1,10 @@
+id: samsung-m2070-firmware
+vendor_id: hp
+name: Samsung M2070 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:samsung_m2070_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: samsung_m2070_firmware
+  confidence: auto

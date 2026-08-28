@@ -1,0 +1,10 @@
+id: insight-diagnostics
+vendor_id: hp
+name: Insight Diagnostics
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:insight_diagnostics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_diagnostics
+  confidence: auto

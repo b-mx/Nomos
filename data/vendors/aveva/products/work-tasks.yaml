@@ -1,0 +1,10 @@
+id: work-tasks
+vendor_id: aveva
+name: Work Tasks
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:work_tasks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: work_tasks
+  confidence: auto

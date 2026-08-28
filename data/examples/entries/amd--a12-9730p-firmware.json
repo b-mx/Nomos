@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--a12-9730p-firmware",
+  "vendor_id": "amd",
+  "product_id": "a12-9730p-firmware",
+  "name": "A12-9730P Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a12-9730p_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

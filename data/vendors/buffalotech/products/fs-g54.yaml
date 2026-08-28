@@ -1,0 +1,10 @@
+id: fs-g54
+vendor_id: buffalotech
+name: Fs-G54
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:fs\-g54:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fs-g54
+  confidence: auto

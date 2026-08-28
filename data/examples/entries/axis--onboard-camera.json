@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--onboard-camera",
+  "vendor_id": "axis",
+  "product_id": "onboard-camera",
+  "name": "Onboard Camera",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "onboard_camera",
+      "confidence": "auto"
+    }
+  ]
+}

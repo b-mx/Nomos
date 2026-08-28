@@ -1,0 +1,10 @@
+id: portfolio-gallery
+vendor_id: huge-it
+name: Portfolio Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:huge\-it:portfolio_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portfolio_gallery
+  confidence: auto

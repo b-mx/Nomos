@@ -1,0 +1,10 @@
+id: terra-ac-wallbox-ul40-firmware
+vendor_id: abb
+name: Terra Ac Wallbox Ul40 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:terra_ac_wallbox_ul40_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: terra_ac_wallbox_ul40_firmware
+  confidence: auto

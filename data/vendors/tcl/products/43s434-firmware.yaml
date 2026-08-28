@@ -1,0 +1,10 @@
+id: 43s434-firmware
+vendor_id: tcl
+name: 43S434 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tcl:43s434_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 43s434_firmware
+  confidence: auto

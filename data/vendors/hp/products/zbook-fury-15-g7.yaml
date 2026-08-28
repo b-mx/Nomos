@@ -1,0 +1,10 @@
+id: zbook-fury-15-g7
+vendor_id: hp
+name: Zbook Fury 15 G7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_fury_15_g7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_fury_15_g7
+  confidence: auto

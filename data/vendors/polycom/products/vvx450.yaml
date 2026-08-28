@@ -1,0 +1,10 @@
+id: vvx450
+vendor_id: polycom
+name: Vvx450
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx450:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx450
+  confidence: auto

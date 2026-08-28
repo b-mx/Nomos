@@ -1,0 +1,10 @@
+id: envy-5547-j6u64a
+vendor_id: hp
+name: Envy 5547 J6U64A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5547_j6u64a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5547_j6u64a
+  confidence: auto

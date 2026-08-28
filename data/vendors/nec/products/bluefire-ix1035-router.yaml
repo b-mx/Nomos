@@ -1,0 +1,10 @@
+id: bluefire-ix1035-router
+vendor_id: nec
+name: Bluefire Ix1035 Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:bluefire_ix1035_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bluefire_ix1035_router
+  confidence: auto

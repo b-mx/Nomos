@@ -1,0 +1,10 @@
+id: xgk-cpuun-firmware
+vendor_id: ls-electric
+name: Xgk-Cpuun Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgk\-cpuun_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgk-cpuun_firmware
+  confidence: auto

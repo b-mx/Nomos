@@ -1,0 +1,10 @@
+id: axon-40-ultra
+vendor_id: zte
+name: Axon 40 Ultra
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:axon_40_ultra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axon_40_ultra
+  confidence: auto

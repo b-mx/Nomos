@@ -1,0 +1,10 @@
+id: rt-ac68p
+vendor_id: asuswrt-merlin
+name: Rt-Ac68P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-ac68p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-ac68p
+  confidence: auto

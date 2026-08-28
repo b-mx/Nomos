@@ -1,0 +1,10 @@
+id: free-antivirus
+vendor_id: avira
+name: Free Antivirus
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:free_antivirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: free_antivirus
+  confidence: auto

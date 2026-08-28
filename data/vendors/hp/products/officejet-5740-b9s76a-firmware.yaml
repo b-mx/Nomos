@@ -1,0 +1,10 @@
+id: officejet-5740-b9s76a-firmware
+vendor_id: hp
+name: Officejet 5740 B9S76A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_5740_b9s76a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_5740_b9s76a_firmware
+  confidence: auto

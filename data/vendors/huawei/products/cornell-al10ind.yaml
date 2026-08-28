@@ -1,0 +1,10 @@
+id: cornell-al10ind
+vendor_id: huawei
+name: Cornell-Al10Ind
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cornell\-al10ind:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cornell-al10ind
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tinycheck
+vendor_id: kaspersky
+name: Tinycheck
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:tinycheck:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tinycheck
+  confidence: auto

@@ -1,0 +1,10 @@
+id: prodesk-680-g6-firmware
+vendor_id: hp
+name: Prodesk 680 G6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:prodesk_680_g6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_680_g6_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: credhub-service-broker
+vendor_id: pivotal-software
+name: Credhub Service Broker
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:credhub_service_broker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: credhub_service_broker
+  confidence: auto

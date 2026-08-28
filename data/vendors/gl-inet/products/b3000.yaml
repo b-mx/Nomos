@@ -1,0 +1,10 @@
+id: b3000
+vendor_id: gl-inet
+name: B3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:b3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b3000
+  confidence: auto

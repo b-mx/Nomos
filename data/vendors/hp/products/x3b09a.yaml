@@ -1,0 +1,10 @@
+id: x3b09a
+vendor_id: hp
+name: X3B09A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:x3b09a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x3b09a
+  confidence: auto

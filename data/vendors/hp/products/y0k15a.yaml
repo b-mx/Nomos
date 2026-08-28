@@ -1,0 +1,10 @@
+id: y0k15a
+vendor_id: hp
+name: Y0K15A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:y0k15a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y0k15a
+  confidence: auto

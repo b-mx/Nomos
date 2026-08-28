@@ -1,0 +1,10 @@
+id: farm-management-system
+vendor_id: janobe
+name: Farm Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:farm_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: farm_management_system
+  confidence: auto

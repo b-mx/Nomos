@@ -1,0 +1,10 @@
+id: milesightvpn
+vendor_id: milesight
+name: Milesightvpn
+type: software
+tags: []
+cpe: cpe:2.3:a:milesight:milesightvpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: milesightvpn
+  confidence: auto

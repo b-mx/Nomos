@@ -1,0 +1,10 @@
+id: linear-emerge-elite-firmware
+vendor_id: nortekcontrol
+name: Linear Emerge Elite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nortekcontrol:linear_emerge_elite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linear_emerge_elite_firmware
+  confidence: auto

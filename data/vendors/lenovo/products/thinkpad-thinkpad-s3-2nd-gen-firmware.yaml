@@ -1,0 +1,10 @@
+id: thinkpad-thinkpad-s3-2nd-gen-firmware
+vendor_id: lenovo
+name: Thinkpad Thinkpad S3 2Nd Gen Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_thinkpad_s3_2nd_gen_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_thinkpad_s3_2nd_gen_firmware
+  confidence: auto

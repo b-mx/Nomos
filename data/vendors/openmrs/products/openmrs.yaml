@@ -1,0 +1,10 @@
+id: openmrs
+vendor_id: openmrs
+name: Openmrs
+type: software
+tags: []
+cpe: cpe:2.3:a:openmrs:openmrs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openmrs
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e585
+vendor_id: huawei
+name: E585
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e585:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e585
+  confidence: auto

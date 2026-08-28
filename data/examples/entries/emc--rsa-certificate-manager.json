@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--rsa-certificate-manager",
+  "vendor_id": "emc",
+  "product_id": "rsa-certificate-manager",
+  "name": "Rsa Certificate Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rsa_certificate_manager",
+      "confidence": "auto"
+    }
+  ]
+}

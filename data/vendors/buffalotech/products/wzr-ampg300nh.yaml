@@ -1,0 +1,10 @@
+id: wzr-ampg300nh
+vendor_id: buffalotech
+name: Wzr-Ampg300Nh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:wzr\-ampg300nh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr-ampg300nh
+  confidence: auto

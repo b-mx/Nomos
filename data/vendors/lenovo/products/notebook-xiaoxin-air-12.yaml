@@ -1,0 +1,10 @@
+id: notebook-xiaoxin-air-12
+vendor_id: lenovo
+name: Notebook Xiaoxin Air 12
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:notebook_xiaoxin_air_12:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_xiaoxin_air_12
+  confidence: auto

@@ -1,0 +1,10 @@
+id: simple-blog
+vendor_id: simplephpscripts
+name: Simple Blog
+type: software
+tags: []
+cpe: cpe:2.3:a:simplephpscripts:simple_blog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_blog
+  confidence: auto

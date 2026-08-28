@@ -1,0 +1,10 @@
+id: mailpoet
+vendor_id: automattic
+name: Mailpoet
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:mailpoet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mailpoet
+  confidence: auto

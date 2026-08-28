@@ -1,0 +1,10 @@
+id: inventory-management
+vendor_id: code-projects
+name: Inventory Management
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:inventory_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inventory_management
+  confidence: auto

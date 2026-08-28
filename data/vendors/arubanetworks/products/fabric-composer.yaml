@@ -1,0 +1,10 @@
+id: fabric-composer
+vendor_id: arubanetworks
+name: Fabric Composer
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:fabric_composer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fabric_composer
+  confidence: auto

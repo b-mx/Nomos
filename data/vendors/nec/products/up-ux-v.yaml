@@ -1,0 +1,10 @@
+id: up-ux-v
+vendor_id: nec
+name: Up-Ux V
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:up\-ux_v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: up-ux_v
+  confidence: auto

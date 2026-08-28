@@ -1,0 +1,10 @@
+id: neverstop-laser-1200a-4qd21a
+vendor_id: hp
+name: Neverstop Laser 1200A 4Qd21A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:neverstop_laser_1200a_4qd21a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neverstop_laser_1200a_4qd21a
+  confidence: auto

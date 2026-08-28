@@ -1,0 +1,7 @@
+id: okta
+name: Okta
+cpe: cpe:2.3:*:okta:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: okta
+  confidence: auto

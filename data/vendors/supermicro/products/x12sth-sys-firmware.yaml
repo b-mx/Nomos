@@ -1,0 +1,10 @@
+id: x12sth-sys-firmware
+vendor_id: supermicro
+name: X12Sth-Sys Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x12sth\-sys_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12sth-sys_firmware
+  confidence: auto

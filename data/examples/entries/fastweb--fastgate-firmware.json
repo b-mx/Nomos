@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fastweb--fastgate-firmware",
+  "vendor_id": "fastweb",
+  "product_id": "fastgate-firmware",
+  "name": "Fastgate Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fastgate_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

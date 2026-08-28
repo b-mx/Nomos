@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--device-manager",
+  "vendor_id": "axis",
+  "product_id": "device-manager",
+  "name": "Device Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "device_manager",
+      "confidence": "auto"
+    }
+  ]
+}

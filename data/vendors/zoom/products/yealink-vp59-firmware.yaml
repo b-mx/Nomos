@@ -1,0 +1,10 @@
+id: yealink-vp59-firmware
+vendor_id: zoom
+name: Yealink Vp59 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zoom:yealink_vp59_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yealink_vp59_firmware
+  confidence: auto

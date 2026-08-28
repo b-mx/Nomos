@@ -1,0 +1,7 @@
+id: naver
+name: Naver
+cpe: cpe:2.3:*:naver:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: naver
+  confidence: auto

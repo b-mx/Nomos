@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--f5r95-firmware",
+  "vendor_id": "hp",
+  "product_id": "f5r95-firmware",
+  "name": "F5R95 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "f5r95_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

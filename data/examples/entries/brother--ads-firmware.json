@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "brother--ads-firmware",
+  "vendor_id": "brother",
+  "product_id": "ads-firmware",
+  "name": "Ads Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ads_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

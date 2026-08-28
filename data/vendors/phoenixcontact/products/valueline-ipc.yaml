@@ -1,0 +1,10 @@
+id: valueline-ipc
+vendor_id: phoenixcontact
+name: Valueline Ipc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:valueline_ipc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: valueline_ipc
+  confidence: auto

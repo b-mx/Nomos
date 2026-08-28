@@ -1,0 +1,10 @@
+id: device-entitlement-gateway
+vendor_id: hpe
+name: Device Entitlement Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:device_entitlement_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: device_entitlement_gateway
+  confidence: auto

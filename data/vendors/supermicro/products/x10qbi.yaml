@@ -1,0 +1,10 @@
+id: x10qbi
+vendor_id: supermicro
+name: X10Qbi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10qbi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10qbi
+  confidence: auto

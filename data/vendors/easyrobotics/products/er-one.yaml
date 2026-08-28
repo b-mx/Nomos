@@ -1,0 +1,10 @@
+id: er-one
+vendor_id: easyrobotics
+name: Er-One
+type: hardware
+tags: []
+cpe: cpe:2.3:h:easyrobotics:er\-one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er-one
+  confidence: auto

@@ -1,0 +1,10 @@
+id: f30-03x-cpu-yy
+vendor_id: hima
+name: F30 03X (Cpu) Yy
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hima:f30_03x_\(cpu\)_yy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f30_03x_(cpu)_yy
+  confidence: auto

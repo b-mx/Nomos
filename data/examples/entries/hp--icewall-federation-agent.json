@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--icewall-federation-agent",
+  "vendor_id": "hp",
+  "product_id": "icewall-federation-agent",
+  "name": "Icewall Federation Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icewall_federation_agent",
+      "confidence": "auto"
+    }
+  ]
+}

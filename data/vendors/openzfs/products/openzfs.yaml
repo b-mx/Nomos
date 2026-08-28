@@ -1,0 +1,13 @@
+id: openzfs
+vendor_id: openzfs
+name: OpenZFS
+type: software
+tags: []
+cpe: cpe:2.3:a:openzfs:openzfs:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: openzfs
+  confidence: auto
+- source: nvd
+  value: openzfs
+  confidence: auto

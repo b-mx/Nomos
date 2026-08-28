@@ -1,0 +1,10 @@
+id: dspa-2000-m4
+vendor_id: daj
+name: Dspa-2000 M4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:daj:dspa\-2000_m4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dspa-2000_m4
+  confidence: auto

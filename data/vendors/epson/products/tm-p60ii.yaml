@@ -1,0 +1,10 @@
+id: tm-p60ii
+vendor_id: epson
+name: Tm-P60Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-p60ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-p60ii
+  confidence: auto

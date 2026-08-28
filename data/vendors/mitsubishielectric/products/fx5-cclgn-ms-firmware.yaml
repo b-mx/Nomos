@@ -1,0 +1,10 @@
+id: fx5-cclgn-ms-firmware
+vendor_id: mitsubishielectric
+name: Fx5-Cclgn-Ms Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx5\-cclgn\-ms_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx5-cclgn-ms_firmware
+  confidence: auto

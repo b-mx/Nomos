@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--kindle",
+  "vendor_id": "amazon",
+  "product_id": "kindle",
+  "name": "Kindle",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kindle",
+      "confidence": "auto"
+    }
+  ]
+}

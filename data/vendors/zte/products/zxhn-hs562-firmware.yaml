@@ -1,0 +1,10 @@
+id: zxhn-hs562-firmware
+vendor_id: zte
+name: Zxhn Hs562 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxhn_hs562_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxhn_hs562_firmware
+  confidence: auto

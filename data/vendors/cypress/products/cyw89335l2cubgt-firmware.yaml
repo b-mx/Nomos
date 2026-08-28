@@ -1,0 +1,10 @@
+id: cyw89335l2cubgt-firmware
+vendor_id: cypress
+name: Cyw89335L2Cubgt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cypress:cyw89335l2cubgt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyw89335l2cubgt_firmware
+  confidence: auto

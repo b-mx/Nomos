@@ -1,0 +1,10 @@
+id: ws7290-15-firmware
+vendor_id: huawei
+name: Ws7290-15 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ws7290\-15_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws7290-15_firmware
+  confidence: auto

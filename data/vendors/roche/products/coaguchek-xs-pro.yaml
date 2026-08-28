@@ -1,0 +1,10 @@
+id: coaguchek-xs-pro
+vendor_id: roche
+name: Coaguchek Xs Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:roche:coaguchek_xs_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coaguchek_xs_pro
+  confidence: auto

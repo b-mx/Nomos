@@ -1,0 +1,10 @@
+id: dvp32es200r-firmware
+vendor_id: deltaww
+name: Dvp32Es200R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:deltaww:dvp32es200r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvp32es200r_firmware
+  confidence: auto

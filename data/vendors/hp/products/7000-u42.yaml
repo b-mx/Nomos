@@ -1,0 +1,10 @@
+id: 7000-u42
+vendor_id: hp
+name: 7000 U42
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:7000_u42:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 7000_u42
+  confidence: auto

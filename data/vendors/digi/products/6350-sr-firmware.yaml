@@ -1,0 +1,10 @@
+id: 6350-sr-firmware
+vendor_id: digi
+name: 6350-Sr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:6350\-sr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 6350-sr_firmware
+  confidence: auto

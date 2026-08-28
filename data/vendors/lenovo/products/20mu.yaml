@@ -1,0 +1,10 @@
+id: 20mu
+vendor_id: lenovo
+name: 20Mu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20mu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20mu
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "protocol--go-unixfs",
+  "vendor_id": "protocol",
+  "product_id": "go-unixfs",
+  "name": "Go-Unixfs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "go-unixfs",
+      "confidence": "auto"
+    }
+  ]
+}

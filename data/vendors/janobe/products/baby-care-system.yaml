@@ -1,0 +1,10 @@
+id: baby-care-system
+vendor_id: janobe
+name: Baby Care System
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:baby_care_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baby_care_system
+  confidence: auto

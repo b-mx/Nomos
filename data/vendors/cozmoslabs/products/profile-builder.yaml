@@ -1,0 +1,10 @@
+id: profile-builder
+vendor_id: cozmoslabs
+name: Profile Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:cozmoslabs:profile_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: profile_builder
+  confidence: auto

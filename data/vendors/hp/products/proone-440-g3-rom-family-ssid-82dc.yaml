@@ -1,0 +1,10 @@
+id: proone-440-g3-rom-family-ssid-82dc
+vendor_id: hp
+name: Proone 440 G3 (Rom Family Ssid 82Dc)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proone_440_g3_\(rom_family_ssid_82dc\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_440_g3_(rom_family_ssid_82dc)
+  confidence: auto

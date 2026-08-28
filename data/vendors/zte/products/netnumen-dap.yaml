@@ -1,0 +1,10 @@
+id: netnumen-dap
+vendor_id: zte
+name: Netnumen Dap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:netnumen_dap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netnumen_dap
+  confidence: auto

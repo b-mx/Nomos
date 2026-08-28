@@ -1,0 +1,10 @@
+id: appspider-pro
+vendor_id: rapid7
+name: Appspider Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:appspider_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: appspider_pro
+  confidence: auto

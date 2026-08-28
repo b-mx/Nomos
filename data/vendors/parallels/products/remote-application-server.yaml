@@ -1,0 +1,10 @@
+id: remote-application-server
+vendor_id: parallels
+name: Remote Application Server
+type: software
+tags: []
+cpe: cpe:2.3:a:parallels:remote_application_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_application_server
+  confidence: auto

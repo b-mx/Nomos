@@ -1,0 +1,10 @@
+id: rios
+vendor_id: riverbed
+name: Rios
+type: os
+tags: []
+cpe: cpe:2.3:o:riverbed:rios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rios
+  confidence: auto

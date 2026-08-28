@@ -1,0 +1,10 @@
+id: m3024-lve
+vendor_id: axis
+name: M3024-Lve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m3024\-lve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3024-lve
+  confidence: auto

@@ -1,0 +1,10 @@
+id: seil-x86
+vendor_id: iij
+name: Seil/X86
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iij:seil\/x86:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil/x86
+  confidence: auto

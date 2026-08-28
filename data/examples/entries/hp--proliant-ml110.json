@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-ml110",
+  "vendor_id": "hp",
+  "product_id": "proliant-ml110",
+  "name": "Proliant Ml110",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_ml110",
+      "confidence": "auto"
+    }
+  ]
+}

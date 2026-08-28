@@ -1,0 +1,10 @@
+id: timeprovider-4100-firmware
+vendor_id: microchip
+name: Timeprovider 4100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:timeprovider_4100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: timeprovider_4100_firmware
+  confidence: auto

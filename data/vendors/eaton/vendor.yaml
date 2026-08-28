@@ -1,0 +1,7 @@
+id: eaton
+name: Eaton
+cpe: cpe:2.3:*:eaton:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eaton
+  confidence: auto

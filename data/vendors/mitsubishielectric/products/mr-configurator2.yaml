@@ -1,0 +1,10 @@
+id: mr-configurator2
+vendor_id: mitsubishielectric
+name: Mr Configurator2
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mr_configurator2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mr_configurator2
+  confidence: auto

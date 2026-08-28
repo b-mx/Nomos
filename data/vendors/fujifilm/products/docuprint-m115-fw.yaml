@@ -1,0 +1,10 @@
+id: docuprint-m115-fw
+vendor_id: fujifilm
+name: Docuprint M115 Fw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:docuprint_m115_fw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_m115_fw
+  confidence: auto

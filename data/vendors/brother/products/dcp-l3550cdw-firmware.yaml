@@ -1,0 +1,10 @@
+id: dcp-l3550cdw-firmware
+vendor_id: brother
+name: Dcp-L3550Cdw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp\-l3550cdw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-l3550cdw_firmware
+  confidence: auto

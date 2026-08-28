@@ -1,0 +1,10 @@
+id: dcp-j572n
+vendor_id: brother
+name: Dcp-J572N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-j572n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-j572n
+  confidence: auto

@@ -1,0 +1,10 @@
+id: yangtian-me-we-h110
+vendor_id: lenovo
+name: Yangtian Me/We H110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yangtian_me\/we_h110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_me/we_h110
+  confidence: auto

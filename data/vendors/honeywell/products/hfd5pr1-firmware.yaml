@@ -1,0 +1,10 @@
+id: hfd5pr1-firmware
+vendor_id: honeywell
+name: Hfd5Pr1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hfd5pr1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hfd5pr1_firmware
+  confidence: auto

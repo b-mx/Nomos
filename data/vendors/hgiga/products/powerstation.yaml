@@ -1,0 +1,10 @@
+id: powerstation
+vendor_id: hgiga
+name: Powerstation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hgiga:powerstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powerstation
+  confidence: auto

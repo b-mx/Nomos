@@ -1,0 +1,10 @@
+id: multilink-ml1600
+vendor_id: ge
+name: Multilink Ml1600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:multilink_ml1600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilink_ml1600
+  confidence: auto

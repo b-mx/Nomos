@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "owasp",
+  "vendor_id": "owasp",
+  "name": "Owasp",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "owasp",
+      "confidence": "auto"
+    }
+  ]
+}

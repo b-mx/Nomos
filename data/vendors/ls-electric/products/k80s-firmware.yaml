@@ -1,0 +1,10 @@
+id: k80s-firmware
+vendor_id: ls-electric
+name: K80S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:k80s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k80s_firmware
+  confidence: auto

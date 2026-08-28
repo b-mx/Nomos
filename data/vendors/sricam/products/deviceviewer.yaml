@@ -1,0 +1,10 @@
+id: deviceviewer
+vendor_id: sricam
+name: Deviceviewer
+type: software
+tags: []
+cpe: cpe:2.3:a:sricam:deviceviewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deviceviewer
+  confidence: auto

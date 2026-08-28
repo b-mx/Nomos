@@ -1,0 +1,10 @@
+id: x300b
+vendor_id: gl-inet
+name: X300B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:x300b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x300b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 25xxn
+vendor_id: lexmark
+name: 25Xxn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:25xxn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 25xxn
+  confidence: auto

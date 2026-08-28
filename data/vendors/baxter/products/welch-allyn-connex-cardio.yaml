@@ -1,0 +1,10 @@
+id: welch-allyn-connex-cardio
+vendor_id: baxter
+name: Welch Allyn Connex Cardio
+type: software
+tags: []
+cpe: cpe:2.3:a:baxter:welch_allyn_connex_cardio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: welch_allyn_connex_cardio
+  confidence: auto

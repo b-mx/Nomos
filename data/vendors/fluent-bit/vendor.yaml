@@ -1,0 +1,6 @@
+id: fluent-bit
+name: Fluent Bit
+aliases:
+- source: endoflife
+  value: fluent-bit
+  confidence: auto

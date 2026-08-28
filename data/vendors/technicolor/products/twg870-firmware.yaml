@@ -1,0 +1,10 @@
+id: twg870-firmware
+vendor_id: technicolor
+name: Twg870 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:twg870_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twg870_firmware
+  confidence: auto

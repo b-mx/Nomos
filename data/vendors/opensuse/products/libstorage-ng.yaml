@@ -1,0 +1,10 @@
+id: libstorage-ng
+vendor_id: opensuse
+name: Libstorage-Ng
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:libstorage\-ng:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libstorage-ng
+  confidence: auto

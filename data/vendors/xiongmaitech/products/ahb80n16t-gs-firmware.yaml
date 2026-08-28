@@ -1,0 +1,10 @@
+id: ahb80n16t-gs-firmware
+vendor_id: xiongmaitech
+name: Ahb80N16T-Gs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:ahb80n16t\-gs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ahb80n16t-gs_firmware
+  confidence: auto

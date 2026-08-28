@@ -1,0 +1,10 @@
+id: matrix-irc-bridge
+vendor_id: matrix
+name: Matrix Irc Bridge
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:matrix_irc_bridge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matrix_irc_bridge
+  confidence: auto

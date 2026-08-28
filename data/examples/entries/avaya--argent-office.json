@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--argent-office",
+  "vendor_id": "avaya",
+  "product_id": "argent-office",
+  "name": "Argent Office",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "argent_office",
+      "confidence": "auto"
+    }
+  ]
+}

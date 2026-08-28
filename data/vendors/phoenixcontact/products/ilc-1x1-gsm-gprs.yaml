@@ -1,0 +1,10 @@
+id: ilc-1x1-gsm-gprs
+vendor_id: phoenixcontact
+name: Ilc 1X1 Gsm/Gprs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:ilc_1x1_gsm\/gprs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilc_1x1_gsm/gprs
+  confidence: auto

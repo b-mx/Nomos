@@ -1,0 +1,7 @@
+id: teltonika-networks
+name: Teltonika-Networks
+cpe: cpe:2.3:*:teltonika\-networks:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: teltonika-networks
+  confidence: auto

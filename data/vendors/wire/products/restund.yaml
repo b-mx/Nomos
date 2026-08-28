@@ -1,0 +1,10 @@
+id: restund
+vendor_id: wire
+name: Restund
+type: software
+tags: []
+cpe: cpe:2.3:a:wire:restund:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: restund
+  confidence: auto

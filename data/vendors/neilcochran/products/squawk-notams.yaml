@@ -1,0 +1,10 @@
+id: squawk-notams
+vendor_id: neilcochran
+name: Squawk/Notams
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/notams:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/notams
+  confidence: auto

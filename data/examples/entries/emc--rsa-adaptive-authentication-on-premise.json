@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--rsa-adaptive-authentication-on-premise",
+  "vendor_id": "emc",
+  "product_id": "rsa-adaptive-authentication-on-premise",
+  "name": "Rsa Adaptive Authentication On-Premise",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rsa_adaptive_authentication_on-premise",
+      "confidence": "auto"
+    }
+  ]
+}

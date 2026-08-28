@@ -1,0 +1,10 @@
+id: 310s-14isk-firmware
+vendor_id: hp
+name: 310S-14Isk Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:310s\-14isk_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 310s-14isk_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 20n8
+vendor_id: lenovo
+name: 20N8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20n8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20n8
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nbd8009s-ula-v2-firmware
+vendor_id: xiongmaitech
+name: Nbd8009S-Ula-V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:nbd8009s\-ula\-v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbd8009s-ula-v2_firmware
+  confidence: auto

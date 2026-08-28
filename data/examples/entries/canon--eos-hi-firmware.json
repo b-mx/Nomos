@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canon--eos-hi-firmware",
+  "vendor_id": "canon",
+  "product_id": "eos-hi-firmware",
+  "name": "Eos Hi Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eos_hi_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

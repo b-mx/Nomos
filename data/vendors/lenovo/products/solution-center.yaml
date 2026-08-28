@@ -1,0 +1,10 @@
+id: solution-center
+vendor_id: lenovo
+name: Solution Center
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:solution_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solution_center
+  confidence: auto

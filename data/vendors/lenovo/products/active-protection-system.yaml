@@ -1,0 +1,10 @@
+id: active-protection-system
+vendor_id: lenovo
+name: Active Protection System
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:active_protection_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_protection_system
+  confidence: auto

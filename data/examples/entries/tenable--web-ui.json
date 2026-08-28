@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--web-ui",
+  "vendor_id": "tenable",
+  "product_id": "web-ui",
+  "name": "Web Ui",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web_ui",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: nj501-r400
+vendor_id: omron
+name: Nj501-R400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:nj501\-r400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nj501-r400
+  confidence: auto

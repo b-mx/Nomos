@@ -1,0 +1,10 @@
+id: clerk-chrome-extension
+vendor_id: clerk
+name: Clerk/Chrome-Extension
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/chrome\-extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/chrome-extension
+  confidence: auto

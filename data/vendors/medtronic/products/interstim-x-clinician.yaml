@@ -1,0 +1,10 @@
+id: interstim-x-clinician
+vendor_id: medtronic
+name: Interstim X Clinician
+type: software
+tags: []
+cpe: cpe:2.3:a:medtronic:interstim_x_clinician:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interstim_x_clinician
+  confidence: auto

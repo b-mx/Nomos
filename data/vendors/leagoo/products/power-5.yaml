@@ -1,0 +1,10 @@
+id: power-5
+vendor_id: leagoo
+name: Power 5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:leagoo:power_5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: power_5
+  confidence: auto

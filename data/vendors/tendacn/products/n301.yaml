@@ -1,0 +1,10 @@
+id: n301
+vendor_id: tendacn
+name: N301
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:n301:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n301
+  confidence: auto

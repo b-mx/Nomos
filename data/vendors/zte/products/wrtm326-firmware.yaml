@@ -1,0 +1,10 @@
+id: wrtm326-firmware
+vendor_id: zte
+name: Wrtm326 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:wrtm326_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrtm326_firmware
+  confidence: auto

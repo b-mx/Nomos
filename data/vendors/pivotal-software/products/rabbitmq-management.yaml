@@ -1,0 +1,10 @@
+id: rabbitmq-management
+vendor_id: pivotal-software
+name: Rabbitmq Management
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:rabbitmq_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rabbitmq_management
+  confidence: auto

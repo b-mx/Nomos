@@ -1,0 +1,10 @@
+id: a6-9220c-firmware
+vendor_id: amd
+name: A6-9220C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:a6\-9220c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a6-9220c_firmware
+  confidence: auto

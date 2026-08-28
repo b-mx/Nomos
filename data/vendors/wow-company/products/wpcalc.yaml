@@ -1,0 +1,10 @@
+id: wpcalc
+vendor_id: wow-company
+name: Wpcalc
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:wpcalc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wpcalc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hr-v-2017-firmware
+vendor_id: honda
+name: Hr-V 2017 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honda:hr\-v_2017_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hr-v_2017_firmware
+  confidence: auto

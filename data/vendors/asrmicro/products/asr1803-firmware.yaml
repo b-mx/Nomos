@@ -1,0 +1,10 @@
+id: asr1803-firmware
+vendor_id: asrmicro
+name: Asr1803 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:asrmicro:asr1803_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asr1803_firmware
+  confidence: auto

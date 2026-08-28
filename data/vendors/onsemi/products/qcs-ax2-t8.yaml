@@ -1,0 +1,10 @@
+id: qcs-ax2-t8
+vendor_id: onsemi
+name: Qcs-Ax2-T8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:onsemi:qcs\-ax2\-t8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qcs-ax2-t8
+  confidence: auto

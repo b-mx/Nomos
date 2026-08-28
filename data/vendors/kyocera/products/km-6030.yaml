@@ -1,0 +1,10 @@
+id: km-6030
+vendor_id: kyocera
+name: Km-6030
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kyocera:km\-6030:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: km-6030
+  confidence: auto

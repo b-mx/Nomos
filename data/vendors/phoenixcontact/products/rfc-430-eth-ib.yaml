@@ -1,0 +1,10 @@
+id: rfc-430-eth-ib
+vendor_id: phoenixcontact
+name: Rfc 430 Eth-Ib
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:rfc_430_eth\-ib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfc_430_eth-ib
+  confidence: auto

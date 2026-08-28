@@ -1,0 +1,10 @@
+id: sim1004-0p0g311-firmware
+vendor_id: sick
+name: Sim1004-0P0G311 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:sim1004\-0p0g311_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim1004-0p0g311_firmware
+  confidence: auto

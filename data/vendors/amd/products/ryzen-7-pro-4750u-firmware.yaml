@@ -1,0 +1,10 @@
+id: ryzen-7-pro-4750u-firmware
+vendor_id: amd
+name: Ryzen 7 Pro 4750U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_7_pro_4750u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_pro_4750u_firmware
+  confidence: auto

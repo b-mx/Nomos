@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "bigbluebutton--bigbluebutton",
+  "vendor_id": "bigbluebutton",
+  "product_id": "bigbluebutton",
+  "name": "BigBlueButton",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "bigbluebutton",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "bigbluebutton",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: sy-711
+vendor_id: synel
+name: Sy-711
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synel:sy\-711:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sy-711
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mybb--trash-bin",
+  "vendor_id": "mybb",
+  "product_id": "trash-bin",
+  "name": "Trash Bin",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "trash_bin",
+      "confidence": "auto"
+    }
+  ]
+}

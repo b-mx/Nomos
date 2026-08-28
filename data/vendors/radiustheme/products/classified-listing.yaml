@@ -1,0 +1,10 @@
+id: classified-listing
+vendor_id: radiustheme
+name: Classified Listing
+type: software
+tags: []
+cpe: cpe:2.3:a:radiustheme:classified_listing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: classified_listing
+  confidence: auto

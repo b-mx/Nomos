@@ -1,0 +1,10 @@
+id: elitebook-1040-g2
+vendor_id: hp
+name: Elitebook 1040 G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_1040_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_1040_g2
+  confidence: auto

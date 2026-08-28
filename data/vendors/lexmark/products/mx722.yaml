@@ -1,0 +1,10 @@
+id: mx722
+vendor_id: lexmark
+name: Mx722
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx722:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx722
+  confidence: auto

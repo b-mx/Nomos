@@ -1,0 +1,10 @@
+id: cdh
+vendor_id: cloudera
+name: Cdh
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudera:cdh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cdh
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x46x
+vendor_id: lexmark
+name: X46X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x46x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x46x
+  confidence: auto

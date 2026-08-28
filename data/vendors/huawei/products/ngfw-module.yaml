@@ -1,0 +1,10 @@
+id: ngfw-module
+vendor_id: huawei
+name: Ngfw Module
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ngfw_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ngfw_module
+  confidence: auto

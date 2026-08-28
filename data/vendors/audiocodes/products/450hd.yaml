@@ -1,0 +1,10 @@
+id: 450hd
+vendor_id: audiocodes
+name: 450Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:audiocodes:450hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 450hd
+  confidence: auto

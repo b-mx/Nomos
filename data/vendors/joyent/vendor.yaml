@@ -1,0 +1,7 @@
+id: joyent
+name: Joyent
+cpe: cpe:2.3:*:joyent:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: joyent
+  confidence: auto

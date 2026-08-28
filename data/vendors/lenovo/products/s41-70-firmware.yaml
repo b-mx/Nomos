@@ -1,0 +1,10 @@
+id: s41-70-firmware
+vendor_id: lenovo
+name: S41-70 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s41\-70_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s41-70_firmware
+  confidence: auto

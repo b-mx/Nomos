@@ -1,0 +1,10 @@
+id: si-r220d-firmware
+vendor_id: fujitsu
+name: Si-R220D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:si\-r220d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: si-r220d_firmware
+  confidence: auto

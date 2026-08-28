@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--vagrant",
+  "vendor_id": "hashicorp",
+  "product_id": "vagrant",
+  "name": "Vagrant",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vagrant",
+      "confidence": "auto"
+    }
+  ]
+}

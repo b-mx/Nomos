@@ -1,0 +1,10 @@
+id: github
+vendor_id: github
+name: Github
+type: software
+tags: []
+cpe: cpe:2.3:a:github:github:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: github
+  confidence: auto

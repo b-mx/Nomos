@@ -1,0 +1,10 @@
+id: m2u86-firmware
+vendor_id: hp
+name: M2U86 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:m2u86_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2u86_firmware
+  confidence: auto

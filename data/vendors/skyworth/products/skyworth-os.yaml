@@ -1,0 +1,10 @@
+id: skyworth-os
+vendor_id: skyworth
+name: Skyworth Os
+type: os
+tags: []
+cpe: cpe:2.3:o:skyworth:skyworth_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skyworth_os
+  confidence: auto

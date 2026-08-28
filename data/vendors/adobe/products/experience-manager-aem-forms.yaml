@@ -3,8 +3,7 @@ vendor_id: adobe
 name: Experience Manager (AEM) Forms
 type: software
 tags: []
-icon: logos:adobe-icon
 aliases:
 - source: cisa_kev
   value: Experience Manager (AEM) Forms
-  confidence: curated
+  confidence: auto

@@ -1,0 +1,10 @@
+id: m4215-lv
+vendor_id: axis
+name: M4215-Lv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m4215\-lv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m4215-lv
+  confidence: auto

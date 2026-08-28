@@ -1,0 +1,10 @@
+id: cyber-cafe-management-system
+vendor_id: phpgurukul
+name: Cyber Cafe Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:cyber_cafe_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyber_cafe_management_system
+  confidence: auto

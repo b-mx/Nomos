@@ -1,0 +1,10 @@
+id: 260-g1-dm
+vendor_id: hp
+name: 260 G1 Dm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:260_g1_dm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 260_g1_dm
+  confidence: auto

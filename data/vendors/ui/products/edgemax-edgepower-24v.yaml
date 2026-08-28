@@ -1,0 +1,10 @@
+id: edgemax-edgepower-24v
+vendor_id: ui
+name: Edgemax Edgepower 24V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:edgemax_edgepower_24v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgemax_edgepower_24v
+  confidence: auto

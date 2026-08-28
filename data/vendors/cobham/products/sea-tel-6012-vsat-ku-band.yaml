@@ -1,0 +1,10 @@
+id: sea-tel-6012-vsat-ku-band
+vendor_id: cobham
+name: Sea Tel 6012 Vsat Ku-Band
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cobham:sea_tel_6012_vsat_ku\-band:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sea_tel_6012_vsat_ku-band
+  confidence: auto

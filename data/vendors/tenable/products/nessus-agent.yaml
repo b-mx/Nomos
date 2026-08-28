@@ -1,0 +1,10 @@
+id: nessus-agent
+vendor_id: tenable
+name: Nessus Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:nessus_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nessus_agent
+  confidence: auto

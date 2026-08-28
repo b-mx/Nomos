@@ -1,0 +1,10 @@
+id: logi-options
+vendor_id: logitech
+name: Logi Options+
+type: software
+tags: []
+cpe: cpe:2.3:a:logitech:logi_options\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logi_options+
+  confidence: auto

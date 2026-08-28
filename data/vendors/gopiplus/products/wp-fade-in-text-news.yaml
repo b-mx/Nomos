@@ -1,0 +1,10 @@
+id: wp-fade-in-text-news
+vendor_id: gopiplus
+name: Wp Fade In Text News
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:wp_fade_in_text_news:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_fade_in_text_news
+  confidence: auto

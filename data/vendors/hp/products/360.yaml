@@ -1,0 +1,10 @@
+id: '360'
+vendor_id: hp
+name: '360'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '360'
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cifs-9000-server
+vendor_id: hp
+name: Cifs-9000 Server
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:cifs\-9000_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cifs-9000_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sft1200-firmware
+vendor_id: gl-inet
+name: Sft1200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:sft1200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sft1200_firmware
+  confidence: auto

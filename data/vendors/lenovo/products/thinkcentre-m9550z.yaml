@@ -1,0 +1,10 @@
+id: thinkcentre-m9550z
+vendor_id: lenovo
+name: Thinkcentre M9550Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m9550z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m9550z
+  confidence: auto

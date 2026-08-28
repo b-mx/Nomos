@@ -1,0 +1,10 @@
+id: m3045-firmware
+vendor_id: axis
+name: M3045 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:m3045_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3045_firmware
+  confidence: auto

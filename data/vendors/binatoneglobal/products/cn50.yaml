@@ -1,0 +1,10 @@
+id: cn50
+vendor_id: binatoneglobal
+name: Cn50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:binatoneglobal:cn50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn50
+  confidence: auto

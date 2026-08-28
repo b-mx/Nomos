@@ -1,0 +1,10 @@
+id: x9dbl-firmware
+vendor_id: supermicro
+name: X9Dbl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9dbl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9dbl_firmware
+  confidence: auto

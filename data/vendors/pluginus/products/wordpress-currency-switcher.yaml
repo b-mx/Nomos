@@ -1,0 +1,10 @@
+id: wordpress-currency-switcher
+vendor_id: pluginus
+name: Wordpress Currency Switcher
+type: software
+tags: []
+cpe: cpe:2.3:a:pluginus:wordpress_currency_switcher:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wordpress_currency_switcher
+  confidence: auto

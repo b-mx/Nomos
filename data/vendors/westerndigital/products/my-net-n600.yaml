@@ -1,0 +1,10 @@
+id: my-net-n600
+vendor_id: westerndigital
+name: My Net N600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westerndigital:my_net_n600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_net_n600
+  confidence: auto

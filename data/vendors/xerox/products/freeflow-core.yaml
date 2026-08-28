@@ -1,0 +1,10 @@
+id: freeflow-core
+vendor_id: xerox
+name: Freeflow Core
+type: software
+tags: []
+cpe: cpe:2.3:a:xerox:freeflow_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freeflow_core
+  confidence: auto

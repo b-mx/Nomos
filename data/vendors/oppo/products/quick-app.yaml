@@ -1,0 +1,10 @@
+id: quick-app
+vendor_id: oppo
+name: Quick App
+type: software
+tags: []
+cpe: cpe:2.3:a:oppo:quick_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quick_app
+  confidence: auto

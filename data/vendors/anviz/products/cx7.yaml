@@ -1,0 +1,10 @@
+id: cx7
+vendor_id: anviz
+name: Cx7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:anviz:cx7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx7
+  confidence: auto

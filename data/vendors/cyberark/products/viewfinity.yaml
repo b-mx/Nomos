@@ -1,0 +1,10 @@
+id: viewfinity
+vendor_id: cyberark
+name: Viewfinity
+type: software
+tags: []
+cpe: cpe:2.3:a:cyberark:viewfinity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viewfinity
+  confidence: auto

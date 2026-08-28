@@ -1,0 +1,10 @@
+id: knative-func
+vendor_id: linuxfoundation
+name: Knative Func
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:knative_func:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: knative_func
+  confidence: auto

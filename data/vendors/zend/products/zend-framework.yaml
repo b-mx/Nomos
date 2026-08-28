@@ -1,0 +1,10 @@
+id: zend-framework
+vendor_id: zend
+name: Zend Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zend_framework
+  confidence: auto

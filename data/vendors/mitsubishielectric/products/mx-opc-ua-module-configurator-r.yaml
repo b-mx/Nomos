@@ -1,0 +1,10 @@
+id: mx-opc-ua-module-configurator-r
+vendor_id: mitsubishielectric
+name: Mx Opc Ua Module Configurator-R
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mx_opc_ua_module_configurator\-r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx_opc_ua_module_configurator-r
+  confidence: auto

@@ -1,0 +1,10 @@
+id: healthhub
+vendor_id: ancorathemes
+name: Healthhub
+type: software
+tags: []
+cpe: cpe:2.3:a:ancorathemes:healthhub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: healthhub
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jf809a
+vendor_id: hp
+name: Jf809A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf809a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf809a
+  confidence: auto

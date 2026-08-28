@@ -1,0 +1,10 @@
+id: cpo-companion
+vendor_id: machothemes
+name: Cpo Companion
+type: software
+tags: []
+cpe: cpe:2.3:a:machothemes:cpo_companion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpo_companion
+  confidence: auto

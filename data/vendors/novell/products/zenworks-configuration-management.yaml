@@ -1,0 +1,10 @@
+id: zenworks-configuration-management
+vendor_id: novell
+name: Zenworks Configuration Management
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:zenworks_configuration_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenworks_configuration_management
+  confidence: auto

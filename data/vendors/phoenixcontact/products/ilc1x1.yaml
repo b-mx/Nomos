@@ -1,0 +1,10 @@
+id: ilc1x1
+vendor_id: phoenixcontact
+name: Ilc1X1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:ilc1x1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilc1x1
+  confidence: auto

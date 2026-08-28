@@ -1,0 +1,10 @@
+id: x95x-firmware
+vendor_id: lexmark
+name: X95X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:x95x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x95x_firmware
+  confidence: auto

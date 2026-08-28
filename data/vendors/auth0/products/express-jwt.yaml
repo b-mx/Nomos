@@ -1,0 +1,10 @@
+id: express-jwt
+vendor_id: auth0
+name: Express-Jwt
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:express\-jwt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: express-jwt
+  confidence: auto

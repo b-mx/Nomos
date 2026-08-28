@@ -1,0 +1,10 @@
+id: nshield-connect-firmware
+vendor_id: thalesesecurity
+name: Nshield Connect Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:thalesesecurity:nshield_connect_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nshield_connect_firmware
+  confidence: auto

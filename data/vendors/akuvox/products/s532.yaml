@@ -1,0 +1,10 @@
+id: s532
+vendor_id: akuvox
+name: S532
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akuvox:s532:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s532
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fastify--passport",
+  "vendor_id": "fastify",
+  "product_id": "passport",
+  "name": "Passport",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "passport",
+      "confidence": "auto"
+    }
+  ]
+}

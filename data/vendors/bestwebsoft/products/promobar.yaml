@@ -1,0 +1,10 @@
+id: promobar
+vendor_id: bestwebsoft
+name: Promobar
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:promobar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: promobar
+  confidence: auto

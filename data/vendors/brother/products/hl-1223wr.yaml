@@ -1,0 +1,10 @@
+id: hl-1223wr
+vendor_id: brother
+name: Hl-1223Wr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:hl\-1223wr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hl-1223wr
+  confidence: auto

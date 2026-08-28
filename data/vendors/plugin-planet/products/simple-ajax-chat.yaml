@@ -1,0 +1,10 @@
+id: simple-ajax-chat
+vendor_id: plugin-planet
+name: Simple Ajax Chat
+type: software
+tags: []
+cpe: cpe:2.3:a:plugin\-planet:simple_ajax_chat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_ajax_chat
+  confidence: auto

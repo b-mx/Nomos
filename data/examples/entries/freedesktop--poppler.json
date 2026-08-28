@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freedesktop--poppler",
+  "vendor_id": "freedesktop",
+  "product_id": "poppler",
+  "name": "Poppler",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "poppler",
+      "confidence": "auto"
+    }
+  ]
+}

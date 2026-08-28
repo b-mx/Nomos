@@ -1,0 +1,10 @@
+id: astra
+vendor_id: brainstormforce
+name: Astra
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:astra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: astra
+  confidence: auto

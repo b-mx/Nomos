@@ -1,0 +1,10 @@
+id: xec-dr20su-firmware
+vendor_id: ls-electric
+name: Xec-Dr20Su Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xec\-dr20su_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dr20su_firmware
+  confidence: auto

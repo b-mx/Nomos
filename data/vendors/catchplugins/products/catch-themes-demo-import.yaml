@@ -1,0 +1,10 @@
+id: catch-themes-demo-import
+vendor_id: catchplugins
+name: Catch Themes Demo Import
+type: software
+tags: []
+cpe: cpe:2.3:a:catchplugins:catch_themes_demo_import:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catch_themes_demo_import
+  confidence: auto

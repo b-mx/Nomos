@@ -1,0 +1,10 @@
+id: sc-s60650l
+vendor_id: epson
+name: Sc-S60650L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-s60650l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-s60650l
+  confidence: auto

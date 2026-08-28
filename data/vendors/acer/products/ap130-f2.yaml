@@ -1,0 +1,10 @@
+id: ap130-f2
+vendor_id: acer
+name: Ap130 F2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:ap130_f2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap130_f2
+  confidence: auto

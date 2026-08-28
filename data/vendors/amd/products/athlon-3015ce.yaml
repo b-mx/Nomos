@@ -1,0 +1,10 @@
+id: athlon-3015ce
+vendor_id: amd
+name: Athlon 3015Ce
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_3015ce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_3015ce
+  confidence: auto

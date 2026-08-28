@@ -1,0 +1,10 @@
+id: bl-ac1900-firmware
+vendor_id: lb-link
+name: Bl-Ac1900 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lb\-link:bl\-ac1900_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-ac1900_firmware
+  confidence: auto

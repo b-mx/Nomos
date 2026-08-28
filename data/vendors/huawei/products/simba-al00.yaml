@@ -1,0 +1,10 @@
+id: simba-al00
+vendor_id: huawei
+name: Simba-Al00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:simba\-al00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simba-al00
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xh321-v5-firmware
+vendor_id: huawei
+name: Xh321 V5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:xh321_v5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xh321_v5_firmware
+  confidence: auto

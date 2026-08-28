@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lightbend--alpakka-kafka",
+  "vendor_id": "lightbend",
+  "product_id": "alpakka-kafka",
+  "name": "Alpakka Kafka",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alpakka_kafka",
+      "confidence": "auto"
+    }
+  ]
+}

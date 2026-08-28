@@ -1,0 +1,10 @@
+id: wp-e-commerce
+vendor_id: mediaburst
+name: Wp E-Commerce
+type: software
+tags: []
+cpe: cpe:2.3:a:mediaburst:wp_e\-commerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_e-commerce
+  confidence: auto

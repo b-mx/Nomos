@@ -1,0 +1,10 @@
+id: google-sheets
+vendor_id: grafana
+name: Google Sheets
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:google_sheets:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: google_sheets
+  confidence: auto

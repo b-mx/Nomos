@@ -1,0 +1,10 @@
+id: rescuer-r720-15ikbm
+vendor_id: hp
+name: Rescuer R720-15Ikbm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:rescuer_r720\-15ikbm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rescuer_r720-15ikbm
+  confidence: auto

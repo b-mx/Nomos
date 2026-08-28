@@ -1,0 +1,10 @@
+id: mx-3100g-firmware
+vendor_id: sharp
+name: Mx-3100G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-3100g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-3100g_firmware
+  confidence: auto

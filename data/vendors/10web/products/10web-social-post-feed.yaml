@@ -1,0 +1,10 @@
+id: 10web-social-post-feed
+vendor_id: 10web
+name: 10Web Social Post Feed
+type: software
+tags: []
+cpe: cpe:2.3:a:10web:10web_social_post_feed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 10web_social_post_feed
+  confidence: auto

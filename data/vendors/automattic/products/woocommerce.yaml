@@ -1,0 +1,10 @@
+id: woocommerce
+vendor_id: automattic
+name: Woocommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:woocommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce
+  confidence: auto

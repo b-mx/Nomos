@@ -1,0 +1,10 @@
+id: v71uvs-firmware
+vendor_id: valuehd
+name: V71Uvs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:valuehd:v71uvs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v71uvs_firmware
+  confidence: auto

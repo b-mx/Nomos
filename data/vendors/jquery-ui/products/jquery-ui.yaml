@@ -1,0 +1,10 @@
+id: jquery-ui
+vendor_id: jquery-ui
+name: jQuery UI
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: jquery-ui
+  confidence: auto

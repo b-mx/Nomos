@@ -1,0 +1,10 @@
+id: esifnw1
+vendor_id: epson
+name: Esifnw1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:esifnw1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esifnw1
+  confidence: auto

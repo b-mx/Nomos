@@ -1,0 +1,10 @@
+id: legion-y730-17ich-firmware
+vendor_id: lenovo
+name: Legion Y730-17Ich Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_y730\-17ich_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y730-17ich_firmware
+  confidence: auto

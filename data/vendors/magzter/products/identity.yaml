@@ -1,0 +1,10 @@
+id: identity
+vendor_id: magzter
+name: Identity
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:identity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: identity
+  confidence: auto

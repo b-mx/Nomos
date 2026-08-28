@@ -1,0 +1,10 @@
+id: frontend-post-wordpress-plugin
+vendor_id: accesspressthemes
+name: Frontend Post Wordpress Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:frontend_post_wordpress_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frontend_post_wordpress_plugin
+  confidence: auto

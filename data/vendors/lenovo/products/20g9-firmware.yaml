@@ -1,0 +1,10 @@
+id: 20g9-firmware
+vendor_id: lenovo
+name: 20G9 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:20g9_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20g9_firmware
+  confidence: auto

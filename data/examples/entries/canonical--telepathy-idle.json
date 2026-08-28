@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--telepathy-idle",
+  "vendor_id": "canonical",
+  "product_id": "telepathy-idle",
+  "name": "Telepathy-Idle",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "telepathy-idle",
+      "confidence": "auto"
+    }
+  ]
+}

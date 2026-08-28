@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x10srl",
+  "vendor_id": "supermicro",
+  "product_id": "x10srl",
+  "name": "X10Srl",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x10srl",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openjsf--node-version-manager",
+  "vendor_id": "openjsf",
+  "product_id": "node-version-manager",
+  "name": "Node Version Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "node_version_manager",
+      "confidence": "auto"
+    }
+  ]
+}

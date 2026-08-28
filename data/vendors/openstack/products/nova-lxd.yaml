@@ -1,0 +1,10 @@
+id: nova-lxd
+vendor_id: openstack
+name: Nova-Lxd
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:nova\-lxd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova-lxd
+  confidence: auto

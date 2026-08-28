@@ -1,0 +1,10 @@
+id: uipath-rpa-tool
+vendor_id: uipath
+name: Uipath/Rpa-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/rpa\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/rpa-tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rslogix
+vendor_id: rockwellautomation
+name: Rslogix
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:rslogix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rslogix
+  confidence: auto

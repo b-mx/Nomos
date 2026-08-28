@@ -1,0 +1,10 @@
+id: hp2910al-48g
+vendor_id: hp
+name: Hp2910Al-48G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp2910al\-48g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp2910al-48g
+  confidence: auto

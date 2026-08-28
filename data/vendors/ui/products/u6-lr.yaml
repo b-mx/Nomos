@@ -1,0 +1,10 @@
+id: u6-lr
+vendor_id: ui
+name: U6-Lr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:u6\-lr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: u6-lr
+  confidence: auto

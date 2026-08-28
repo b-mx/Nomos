@@ -1,0 +1,10 @@
+id: viewstation-512
+vendor_id: polycom
+name: Viewstation 512
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:viewstation_512:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viewstation_512
+  confidence: auto

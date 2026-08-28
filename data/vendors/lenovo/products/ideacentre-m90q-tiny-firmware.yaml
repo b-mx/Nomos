@@ -1,0 +1,10 @@
+id: ideacentre-m90q-tiny-firmware
+vendor_id: lenovo
+name: Ideacentre M90Q Tiny Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_m90q_tiny_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_m90q_tiny_firmware
+  confidence: auto

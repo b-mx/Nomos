@@ -1,0 +1,10 @@
+id: lr1200gb-firmware
+vendor_id: totolink
+name: Lr1200Gb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:lr1200gb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lr1200gb_firmware
+  confidence: auto

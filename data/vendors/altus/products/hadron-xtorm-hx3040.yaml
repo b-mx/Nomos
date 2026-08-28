@@ -1,0 +1,10 @@
+id: hadron-xtorm-hx3040
+vendor_id: altus
+name: Hadron Xtorm Hx3040
+type: hardware
+tags: []
+cpe: cpe:2.3:h:altus:hadron_xtorm_hx3040:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hadron_xtorm_hx3040
+  confidence: auto

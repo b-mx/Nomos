@@ -1,0 +1,10 @@
+id: sydney-l21
+vendor_id: huawei
+name: Sydney-L21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:sydney\-l21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sydney-l21
+  confidence: auto

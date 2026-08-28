@@ -1,0 +1,10 @@
+id: laserjet-managed-mfp-m775-cc522a
+vendor_id: hp
+name: Laserjet Managed Mfp M775 Cc522A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_mfp_m775_cc522a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_mfp_m775_cc522a
+  confidence: auto

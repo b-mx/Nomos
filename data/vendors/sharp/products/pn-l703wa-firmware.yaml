@@ -1,0 +1,10 @@
+id: pn-l703wa-firmware
+vendor_id: sharp
+name: Pn-L703Wa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:pn\-l703wa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pn-l703wa_firmware
+  confidence: auto

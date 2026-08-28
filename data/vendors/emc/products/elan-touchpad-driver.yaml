@@ -1,0 +1,10 @@
+id: elan-touchpad-driver
+vendor_id: emc
+name: Elan Touchpad Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:elan_touchpad_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elan_touchpad_driver
+  confidence: auto

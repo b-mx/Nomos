@@ -1,0 +1,10 @@
+id: cherryplus-firmware
+vendor_id: huawei
+name: Cherryplus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:cherryplus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cherryplus_firmware
+  confidence: auto

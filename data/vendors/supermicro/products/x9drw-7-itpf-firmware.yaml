@@ -1,0 +1,10 @@
+id: x9drw-7-itpf-firmware
+vendor_id: supermicro
+name: X9Drw-7/Itpf+ Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9drw\-7\/itpf\+_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drw-7/itpf+_firmware
+  confidence: auto

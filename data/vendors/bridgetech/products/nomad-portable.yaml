@@ -1,0 +1,10 @@
+id: nomad-portable
+vendor_id: bridgetech
+name: Nomad Portable
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bridgetech:nomad_portable:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nomad_portable
+  confidence: auto

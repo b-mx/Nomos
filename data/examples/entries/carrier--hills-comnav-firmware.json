@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "carrier--hills-comnav-firmware",
+  "vendor_id": "carrier",
+  "product_id": "hills-comnav-firmware",
+  "name": "Hills Comnav Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hills_comnav_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

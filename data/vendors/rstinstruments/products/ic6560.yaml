@@ -1,0 +1,10 @@
+id: ic6560
+vendor_id: rstinstruments
+name: Ic6560
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:ic6560:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ic6560
+  confidence: auto

@@ -1,0 +1,10 @@
+id: johnson-al00ic
+vendor_id: huawei
+name: Johnson-Al00Ic
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:johnson\-al00ic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: johnson-al00ic
+  confidence: auto

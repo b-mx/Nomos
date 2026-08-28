@@ -1,0 +1,10 @@
+id: powershell-universal
+vendor_id: devolutions
+name: Powershell Universal
+type: software
+tags: []
+cpe: cpe:2.3:a:devolutions:powershell_universal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powershell_universal
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rutx50
+vendor_id: teltonika-networks
+name: Rutx50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika\-networks:rutx50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rutx50
+  confidence: auto

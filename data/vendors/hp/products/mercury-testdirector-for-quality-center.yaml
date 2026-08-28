@@ -1,0 +1,10 @@
+id: mercury-testdirector-for-quality-center
+vendor_id: hp
+name: Mercury Testdirector For Quality Center
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:mercury_testdirector_for_quality_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mercury_testdirector_for_quality_center
+  confidence: auto

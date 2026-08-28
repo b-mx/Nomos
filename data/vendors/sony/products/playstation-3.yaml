@@ -1,0 +1,10 @@
+id: playstation-3
+vendor_id: sony
+name: Playstation 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:playstation_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: playstation_3
+  confidence: auto

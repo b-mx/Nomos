@@ -1,0 +1,10 @@
+id: unifi-dream-router-7-firmware
+vendor_id: ui
+name: Unifi Dream Router 7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:unifi_dream_router_7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_dream_router_7_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hg150-ub
+vendor_id: fiberhome
+name: Hg150-Ub
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fiberhome:hg150\-ub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg150-ub
+  confidence: auto

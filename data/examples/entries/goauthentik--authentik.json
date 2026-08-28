@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "goauthentik--authentik",
+  "vendor_id": "goauthentik",
+  "product_id": "authentik",
+  "name": "authentik",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "authentik",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "authentik",
+      "confidence": "auto"
+    }
+  ]
+}

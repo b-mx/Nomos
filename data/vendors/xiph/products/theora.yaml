@@ -1,0 +1,10 @@
+id: theora
+vendor_id: xiph
+name: Theora
+type: software
+tags: []
+cpe: cpe:2.3:a:xiph:theora:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: theora
+  confidence: auto

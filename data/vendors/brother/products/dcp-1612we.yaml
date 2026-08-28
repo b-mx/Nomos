@@ -1,0 +1,10 @@
+id: dcp-1612we
+vendor_id: brother
+name: Dcp-1612We
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-1612we:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-1612we
+  confidence: auto

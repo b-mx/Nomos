@@ -1,0 +1,10 @@
+id: nexus-264-a
+vendor_id: abb
+name: Nexus-264-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:nexus\-264\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexus-264-a
+  confidence: auto

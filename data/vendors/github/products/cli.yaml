@@ -1,0 +1,10 @@
+id: cli
+vendor_id: github
+name: Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:github:cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cli
+  confidence: auto

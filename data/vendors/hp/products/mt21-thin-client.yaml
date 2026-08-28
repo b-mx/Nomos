@@ -1,0 +1,10 @@
+id: mt21-thin-client
+vendor_id: hp
+name: Mt21 Thin Client
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mt21_thin_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt21_thin_client
+  confidence: auto

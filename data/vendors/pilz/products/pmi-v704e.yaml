@@ -1,0 +1,10 @@
+id: pmi-v704e
+vendor_id: pilz
+name: Pmi V704E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pilz:pmi_v704e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pmi_v704e
+  confidence: auto

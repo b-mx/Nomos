@@ -1,0 +1,10 @@
+id: adm
+vendor_id: asustor
+name: Adm
+type: software
+tags: []
+cpe: cpe:2.3:a:asustor:adm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adm
+  confidence: auto

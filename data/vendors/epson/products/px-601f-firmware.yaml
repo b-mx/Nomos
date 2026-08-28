@@ -1,0 +1,10 @@
+id: px-601f-firmware
+vendor_id: epson
+name: Px-601F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:px\-601f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-601f_firmware
+  confidence: auto

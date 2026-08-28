@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--epiq-7-firmware",
+  "vendor_id": "philips",
+  "product_id": "epiq-7-firmware",
+  "name": "Epiq 7 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epiq_7_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

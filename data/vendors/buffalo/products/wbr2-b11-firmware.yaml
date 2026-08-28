@@ -1,0 +1,10 @@
+id: wbr2-b11-firmware
+vendor_id: buffalo
+name: Wbr2-B11 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wbr2\-b11_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wbr2-b11_firmware
+  confidence: auto

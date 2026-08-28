@@ -1,0 +1,10 @@
+id: realsecure-sentry
+vendor_id: iss
+name: Realsecure Sentry
+type: software
+tags: []
+cpe: cpe:2.3:a:iss:realsecure_sentry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realsecure_sentry
+  confidence: auto

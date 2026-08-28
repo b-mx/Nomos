@@ -1,0 +1,10 @@
+id: uc-5102-lx
+vendor_id: moxa
+name: Uc-5102-Lx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:uc\-5102\-lx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-5102-lx
+  confidence: auto

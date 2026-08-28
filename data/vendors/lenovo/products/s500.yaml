@@ -1,0 +1,10 @@
+id: s500
+vendor_id: lenovo
+name: S500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s500
+  confidence: auto

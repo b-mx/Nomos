@@ -1,0 +1,10 @@
+id: preferred-providers
+vendor_id: nextcloud
+name: Preferred Providers
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:preferred_providers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: preferred_providers
+  confidence: auto

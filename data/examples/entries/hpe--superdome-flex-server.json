@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--superdome-flex-server",
+  "vendor_id": "hpe",
+  "product_id": "superdome-flex-server",
+  "name": "Superdome Flex Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "superdome_flex_server",
+      "confidence": "auto"
+    }
+  ]
+}

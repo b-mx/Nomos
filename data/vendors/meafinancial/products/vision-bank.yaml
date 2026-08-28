@@ -1,0 +1,10 @@
+id: vision-bank
+vendor_id: meafinancial
+name: Vision Bank
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:vision_bank:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vision_bank
+  confidence: auto

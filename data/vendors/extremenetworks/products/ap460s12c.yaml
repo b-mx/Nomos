@@ -1,0 +1,10 @@
+id: ap460s12c
+vendor_id: extremenetworks
+name: Ap460S12C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap460s12c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap460s12c
+  confidence: auto

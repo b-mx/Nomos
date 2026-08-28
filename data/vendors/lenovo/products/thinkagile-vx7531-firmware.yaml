@@ -1,0 +1,10 @@
+id: thinkagile-vx7531-firmware
+vendor_id: lenovo
+name: Thinkagile Vx7531 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkagile_vx7531_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_vx7531_firmware
+  confidence: auto

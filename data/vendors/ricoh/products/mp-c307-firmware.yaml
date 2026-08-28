@@ -1,0 +1,10 @@
+id: mp-c307-firmware
+vendor_id: ricoh
+name: Mp C307 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:mp_c307_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c307_firmware
+  confidence: auto

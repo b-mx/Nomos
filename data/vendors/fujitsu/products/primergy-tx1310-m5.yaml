@@ -1,0 +1,10 @@
+id: primergy-tx1310-m5
+vendor_id: fujitsu
+name: Primergy Tx1310 M5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:primergy_tx1310_m5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primergy_tx1310_m5
+  confidence: auto

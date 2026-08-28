@@ -1,0 +1,10 @@
+id: ssd-dashboard
+vendor_id: westerndigital
+name: Ssd Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:westerndigital:ssd_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ssd_dashboard
+  confidence: auto

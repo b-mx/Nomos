@@ -1,0 +1,10 @@
+id: hci-h410c
+vendor_id: netapp
+name: Hci H410C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:hci_h410c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hci_h410c
+  confidence: auto

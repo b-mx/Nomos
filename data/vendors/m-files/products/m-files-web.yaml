@@ -1,0 +1,10 @@
+id: m-files-web
+vendor_id: m-files
+name: M-Files Web
+type: software
+tags: []
+cpe: cpe:2.3:a:m\-files:m\-files_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m-files_web
+  confidence: auto

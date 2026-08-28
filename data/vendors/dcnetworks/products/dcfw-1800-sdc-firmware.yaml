@@ -1,0 +1,10 @@
+id: dcfw-1800-sdc-firmware
+vendor_id: dcnetworks
+name: Dcfw-1800-Sdc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dcnetworks:dcfw\-1800\-sdc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcfw-1800-sdc_firmware
+  confidence: auto

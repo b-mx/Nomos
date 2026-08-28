@@ -1,0 +1,10 @@
+id: thinkbook-15-g3-acl-firmware
+vendor_id: lenovo
+name: Thinkbook 15 G3 Acl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkbook_15_g3_acl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_15_g3_acl_firmware
+  confidence: auto

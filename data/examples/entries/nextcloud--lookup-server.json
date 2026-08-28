@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--lookup-server",
+  "vendor_id": "nextcloud",
+  "product_id": "lookup-server",
+  "name": "Lookup-Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lookup-server",
+      "confidence": "auto"
+    }
+  ]
+}

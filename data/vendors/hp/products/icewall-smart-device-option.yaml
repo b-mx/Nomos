@@ -1,0 +1,10 @@
+id: icewall-smart-device-option
+vendor_id: hp
+name: Icewall Smart Device Option
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:icewall_smart_device_option:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icewall_smart_device_option
+  confidence: auto

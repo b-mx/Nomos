@@ -1,0 +1,10 @@
+id: 290-g3-rom-family-ssid-86e9-firmware
+vendor_id: hp
+name: 290 G3 (Rom Family Ssid 86E9) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:290_g3_\(rom_family_ssid_86e9\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 290_g3_(rom_family_ssid_86e9)_firmware
+  confidence: auto

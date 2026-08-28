@@ -1,0 +1,10 @@
+id: 74p25a-firmware
+vendor_id: hp
+name: 74P25A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:74p25a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 74p25a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gedit
+vendor_id: gnome
+name: Gedit
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gedit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gedit
+  confidence: auto

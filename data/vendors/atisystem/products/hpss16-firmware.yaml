@@ -1,0 +1,10 @@
+id: hpss16-firmware
+vendor_id: atisystem
+name: Hpss16 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:atisystem:hpss16_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpss16_firmware
+  confidence: auto

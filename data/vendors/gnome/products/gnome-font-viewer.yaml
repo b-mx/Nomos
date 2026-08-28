@@ -1,0 +1,10 @@
+id: gnome-font-viewer
+vendor_id: gnome
+name: Gnome-Font-Viewer
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-font\-viewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-font-viewer
+  confidence: auto

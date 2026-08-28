@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-3-5400u",
+  "vendor_id": "amd",
+  "product_id": "ryzen-3-5400u",
+  "name": "Ryzen 3 5400U",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_3_5400u",
+      "confidence": "auto"
+    }
+  ]
+}

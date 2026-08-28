@@ -1,0 +1,9 @@
+id: pixel
+vendor_id: pixel
+name: Google Pixel
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: pixel
+  confidence: auto

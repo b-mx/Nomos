@@ -1,0 +1,7 @@
+id: grafana
+name: Grafana
+cpe: cpe:2.3:*:grafana:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: grafana
+  confidence: auto

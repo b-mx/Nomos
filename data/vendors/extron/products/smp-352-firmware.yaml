@@ -1,0 +1,10 @@
+id: smp-352-firmware
+vendor_id: extron
+name: Smp 352 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:extron:smp_352_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smp_352_firmware
+  confidence: auto

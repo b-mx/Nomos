@@ -1,0 +1,10 @@
+id: gl-ar300m-lite
+vendor_id: gl-inet
+name: Gl-Ar300M-Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-ar300m\-lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-ar300m-lite
+  confidence: auto

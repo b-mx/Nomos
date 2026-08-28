@@ -1,0 +1,10 @@
+id: print-image-framer-tool
+vendor_id: epson
+name: Print Image Framer Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:print_image_framer_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: print_image_framer_tool
+  confidence: auto

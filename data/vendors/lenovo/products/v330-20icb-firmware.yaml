@@ -1,0 +1,10 @@
+id: v330-20icb-firmware
+vendor_id: lenovo
+name: V330-20Icb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v330\-20icb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v330-20icb_firmware
+  confidence: auto

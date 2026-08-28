@@ -1,0 +1,10 @@
+id: touchstone-tg862g-ct-firmware
+vendor_id: arris
+name: Touchstone Tg862G/Ct Firmware
+type: software
+tags: []
+cpe: cpe:2.3:a:arris:touchstone_tg862g\/ct_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: touchstone_tg862g/ct_firmware
+  confidence: auto

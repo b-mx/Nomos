@@ -1,0 +1,10 @@
+id: tinydtls
+vendor_id: eclipse
+name: Tinydtls
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:tinydtls:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tinydtls
+  confidence: auto

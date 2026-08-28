@@ -1,0 +1,10 @@
+id: x11sdw-4c-tp13f-firmware
+vendor_id: supermicro
+name: X11Sdw-4C-Tp13F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11sdw\-4c\-tp13f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sdw-4c-tp13f_firmware
+  confidence: auto

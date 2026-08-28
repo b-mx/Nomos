@@ -1,0 +1,10 @@
+id: pcmanager-oversea
+vendor_id: huawei
+name: Pcmanager(Oversea)
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:pcmanager\(oversea\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcmanager(oversea)
+  confidence: auto

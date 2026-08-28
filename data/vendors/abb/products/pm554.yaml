@@ -1,0 +1,10 @@
+id: pm554
+vendor_id: abb
+name: Pm554
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm554:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm554
+  confidence: auto

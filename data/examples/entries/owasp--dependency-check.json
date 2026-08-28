@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "owasp--dependency-check",
+  "vendor_id": "owasp",
+  "product_id": "dependency-check",
+  "name": "Dependency-Check",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dependency-check",
+      "confidence": "auto"
+    }
+  ]
+}

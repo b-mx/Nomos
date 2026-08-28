@@ -1,0 +1,10 @@
+id: workload-automation
+vendor_id: hcltech
+name: Workload Automation
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:workload_automation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workload_automation
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 203rp
+vendor_id: arubanetworks
+name: 203Rp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:203rp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 203rp
+  confidence: auto

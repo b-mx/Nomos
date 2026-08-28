@@ -1,0 +1,10 @@
+id: drive-client
+vendor_id: synology
+name: Drive Client
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:drive_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: drive_client
+  confidence: auto

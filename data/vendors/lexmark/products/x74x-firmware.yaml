@@ -1,0 +1,10 @@
+id: x74x-firmware
+vendor_id: lexmark
+name: X74X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:x74x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x74x_firmware
+  confidence: auto

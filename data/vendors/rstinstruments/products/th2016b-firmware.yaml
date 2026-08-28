@@ -1,0 +1,10 @@
+id: th2016b-firmware
+vendor_id: rstinstruments
+name: Th2016B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:th2016b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: th2016b_firmware
+  confidence: auto

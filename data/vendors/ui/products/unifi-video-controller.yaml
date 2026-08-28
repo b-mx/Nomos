@@ -1,0 +1,10 @@
+id: unifi-video-controller
+vendor_id: ui
+name: Unifi Video Controller
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:unifi_video_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_video_controller
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkserver-ts440
+vendor_id: lenovo
+name: Thinkserver Ts440
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkserver_ts440:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkserver_ts440
+  confidence: auto

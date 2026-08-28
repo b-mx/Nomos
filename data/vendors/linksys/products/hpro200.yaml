@@ -1,0 +1,10 @@
+id: hpro200
+vendor_id: linksys
+name: Hpro200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:hpro200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpro200
+  confidence: auto

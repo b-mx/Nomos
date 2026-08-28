@@ -1,0 +1,10 @@
+id: sft-dab-600-c-bios
+vendor_id: dbbroadcast
+name: Sft Dab 600/C Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:dbbroadcast:sft_dab_600\/c_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sft_dab_600/c_bios
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dapr-dashboard
+vendor_id: linuxfoundation
+name: Dapr Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:dapr_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dapr_dashboard
+  confidence: auto

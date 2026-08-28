@@ -1,0 +1,10 @@
+id: simple-user-registration
+vendor_id: najeebmedia
+name: Simple User Registration
+type: software
+tags: []
+cpe: cpe:2.3:a:najeebmedia:simple_user_registration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_user_registration
+  confidence: auto

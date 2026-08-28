@@ -1,0 +1,10 @@
+id: ngeniusone
+vendor_id: netscout
+name: Ngeniusone
+type: software
+tags: []
+cpe: cpe:2.3:a:netscout:ngeniusone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ngeniusone
+  confidence: auto

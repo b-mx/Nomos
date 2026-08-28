@@ -1,0 +1,10 @@
+id: file-reporter
+vendor_id: novell
+name: File Reporter
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:file_reporter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: file_reporter
+  confidence: auto

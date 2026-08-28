@@ -1,0 +1,10 @@
+id: ruckus-smartzone-144-federal
+vendor_id: commscope
+name: Ruckus Smartzone 144-Federal
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:ruckus_smartzone_144\-federal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_smartzone_144-federal
+  confidence: auto

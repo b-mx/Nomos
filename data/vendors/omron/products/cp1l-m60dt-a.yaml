@@ -1,0 +1,10 @@
+id: cp1l-m60dt-a
+vendor_id: omron
+name: Cp1L-M60Dt-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp1l\-m60dt\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1l-m60dt-a
+  confidence: auto

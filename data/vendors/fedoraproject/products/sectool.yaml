@@ -1,0 +1,10 @@
+id: sectool
+vendor_id: fedoraproject
+name: Sectool
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:sectool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sectool
+  confidence: auto

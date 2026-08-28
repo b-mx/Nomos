@@ -1,0 +1,10 @@
+id: form-creator
+vendor_id: teclib-edition
+name: Form Creator
+type: software
+tags: []
+cpe: cpe:2.3:a:teclib\-edition:form_creator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: form_creator
+  confidence: auto

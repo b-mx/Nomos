@@ -1,0 +1,10 @@
+id: actionview
+vendor_id: rubyonrails
+name: Actionview
+type: software
+tags: []
+cpe: cpe:2.3:a:rubyonrails:actionview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: actionview
+  confidence: auto

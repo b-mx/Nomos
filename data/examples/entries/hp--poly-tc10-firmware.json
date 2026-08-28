@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--poly-tc10-firmware",
+  "vendor_id": "hp",
+  "product_id": "poly-tc10-firmware",
+  "name": "Poly Tc10 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "poly_tc10_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

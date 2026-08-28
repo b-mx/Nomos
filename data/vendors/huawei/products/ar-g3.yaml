@@ -1,0 +1,10 @@
+id: ar-g3
+vendor_id: huawei
+name: Ar G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar_g3
+  confidence: auto

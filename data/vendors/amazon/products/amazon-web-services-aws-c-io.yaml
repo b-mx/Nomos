@@ -1,0 +1,10 @@
+id: amazon-web-services-aws-c-io
+vendor_id: amazon
+name: Amazon Web Services Aws-C-Io
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:amazon_web_services_aws\-c\-io:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_web_services_aws-c-io
+  confidence: auto

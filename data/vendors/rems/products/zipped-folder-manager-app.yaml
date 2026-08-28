@@ -1,0 +1,10 @@
+id: zipped-folder-manager-app
+vendor_id: rems
+name: Zipped Folder Manager App
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:zipped_folder_manager_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zipped_folder_manager_app
+  confidence: auto

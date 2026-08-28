@@ -1,0 +1,10 @@
+id: g5w-3g
+vendor_id: chuango
+name: G5W 3G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chuango:g5w_3g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g5w_3g
+  confidence: auto

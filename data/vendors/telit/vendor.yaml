@@ -1,0 +1,7 @@
+id: telit
+name: Telit
+cpe: cpe:2.3:*:telit:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: telit
+  confidence: auto

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "caddyserver--caddy",
+  "vendor_id": "caddyserver",
+  "product_id": "caddy",
+  "name": "Caddy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "caddy",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "caddy",
+      "confidence": "auto"
+    }
+  ]
+}

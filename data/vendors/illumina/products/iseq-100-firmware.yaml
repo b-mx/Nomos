@@ -1,0 +1,10 @@
+id: iseq-100-firmware
+vendor_id: illumina
+name: Iseq 100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:illumina:iseq_100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iseq_100_firmware
+  confidence: auto

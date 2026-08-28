@@ -1,0 +1,10 @@
+id: jd922a
+vendor_id: hp
+name: Jd922A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd922a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd922a
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--suse-manager-proxy",
+  "vendor_id": "novell",
+  "product_id": "suse-manager-proxy",
+  "name": "Suse Manager Proxy",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_manager_proxy",
+      "confidence": "auto"
+    }
+  ]
+}

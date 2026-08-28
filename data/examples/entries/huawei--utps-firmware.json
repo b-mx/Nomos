@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--utps-firmware",
+  "vendor_id": "huawei",
+  "product_id": "utps-firmware",
+  "name": "Utps Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "utps_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

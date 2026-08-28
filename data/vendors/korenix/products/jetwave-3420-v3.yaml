@@ -1,0 +1,10 @@
+id: jetwave-3420-v3
+vendor_id: korenix
+name: Jetwave 3420 V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetwave_3420_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_3420_v3
+  confidence: auto

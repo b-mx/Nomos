@@ -1,0 +1,10 @@
+id: leland-tl10b
+vendor_id: huawei
+name: Leland-Tl10B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:leland\-tl10b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: leland-tl10b
+  confidence: auto

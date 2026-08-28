@@ -1,0 +1,10 @@
+id: siris-virtual-firmware
+vendor_id: datto
+name: Siris Virtual Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:datto:siris_virtual_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: siris_virtual_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: appbuilder
+vendor_id: opentext
+name: Appbuilder
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:appbuilder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: appbuilder
+  confidence: auto

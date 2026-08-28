@@ -1,0 +1,10 @@
+id: sim1012
+vendor_id: sick
+name: Sim1012
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:sim1012:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim1012
+  confidence: auto

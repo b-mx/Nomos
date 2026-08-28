@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "redhat-build-of-openjdk",
+  "vendor_id": "redhat-build-of-openjdk",
+  "name": "Red Hat build of OpenJDK",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "redhat-build-of-openjdk",
+      "confidence": "auto"
+    }
+  ]
+}

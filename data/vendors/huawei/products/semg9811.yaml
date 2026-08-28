@@ -1,0 +1,10 @@
+id: semg9811
+vendor_id: huawei
+name: Semg9811
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:semg9811:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: semg9811
+  confidence: auto

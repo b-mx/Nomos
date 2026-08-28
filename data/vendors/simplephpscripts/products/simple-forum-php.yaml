@@ -1,0 +1,10 @@
+id: simple-forum-php
+vendor_id: simplephpscripts
+name: Simple Forum Php
+type: software
+tags: []
+cpe: cpe:2.3:a:simplephpscripts:simple_forum_php:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_forum_php
+  confidence: auto

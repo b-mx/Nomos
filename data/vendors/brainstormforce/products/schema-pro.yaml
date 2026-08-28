@@ -1,0 +1,10 @@
+id: schema-pro
+vendor_id: brainstormforce
+name: Schema Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:schema_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: schema_pro
+  confidence: auto

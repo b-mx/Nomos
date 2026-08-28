@@ -1,0 +1,10 @@
+id: apeos-c5240
+vendor_id: fujifilm
+name: Apeos C5240
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_c5240:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_c5240
+  confidence: auto

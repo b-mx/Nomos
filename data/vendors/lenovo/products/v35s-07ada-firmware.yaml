@@ -1,0 +1,10 @@
+id: v35s-07ada-firmware
+vendor_id: lenovo
+name: V35S-07Ada Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v35s\-07ada_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v35s-07ada_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: series-0i-model-f-plus-firmware
+vendor_id: fanuc
+name: Series 0I-Model F Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fanuc:series_0i\-model_f_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: series_0i-model_f_plus_firmware
+  confidence: auto

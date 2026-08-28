@@ -1,0 +1,10 @@
+id: wr-1200-firmware
+vendor_id: greenpacket
+name: Wr-1200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:greenpacket:wr\-1200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wr-1200_firmware
+  confidence: auto

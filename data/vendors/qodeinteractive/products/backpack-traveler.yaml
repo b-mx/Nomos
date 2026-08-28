@@ -1,0 +1,10 @@
+id: backpack-traveler
+vendor_id: qodeinteractive
+name: Backpack Traveler
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:backpack_traveler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backpack_traveler
+  confidence: auto

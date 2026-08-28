@@ -1,0 +1,10 @@
+id: hcw2g
+vendor_id: honeywell
+name: Hcw2G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hcw2g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcw2g
+  confidence: auto

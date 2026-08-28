@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--network-automation",
+  "vendor_id": "hp",
+  "product_id": "network-automation",
+  "name": "Network Automation",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_automation",
+      "confidence": "auto"
+    }
+  ]
+}

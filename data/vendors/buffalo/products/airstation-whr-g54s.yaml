@@ -1,0 +1,10 @@
+id: airstation-whr-g54s
+vendor_id: buffalo
+name: Airstation Whr-G54S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:airstation_whr\-g54s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airstation_whr-g54s
+  confidence: auto

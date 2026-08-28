@@ -1,0 +1,10 @@
+id: apex-firmware
+vendor_id: gotrango
+name: Apex Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gotrango:apex_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apex_firmware
+  confidence: auto

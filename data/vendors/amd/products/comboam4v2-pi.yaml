@@ -1,0 +1,10 @@
+id: comboam4v2-pi
+vendor_id: amd
+name: Comboam4V2 Pi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:comboam4v2_pi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comboam4v2_pi
+  confidence: auto

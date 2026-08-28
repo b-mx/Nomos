@@ -1,0 +1,10 @@
+id: brocade-fabric-operating-system-firmware
+vendor_id: netapp
+name: Brocade Fabric Operating System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:brocade_fabric_operating_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brocade_fabric_operating_system_firmware
+  confidence: auto

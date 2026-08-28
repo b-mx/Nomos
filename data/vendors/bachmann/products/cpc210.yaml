@@ -1,0 +1,10 @@
+id: cpc210
+vendor_id: bachmann
+name: Cpc210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:cpc210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpc210
+  confidence: auto

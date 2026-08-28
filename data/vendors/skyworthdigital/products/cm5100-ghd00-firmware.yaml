@@ -1,0 +1,10 @@
+id: cm5100-ghd00-firmware
+vendor_id: skyworthdigital
+name: Cm5100-Ghd00 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:skyworthdigital:cm5100\-ghd00_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm5100-ghd00_firmware
+  confidence: auto

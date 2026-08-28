@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-8024pn",
+  "vendor_id": "amd",
+  "product_id": "epyc-8024pn",
+  "name": "Epyc 8024Pn",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_8024pn",
+      "confidence": "auto"
+    }
+  ]
+}

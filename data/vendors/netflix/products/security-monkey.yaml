@@ -1,0 +1,10 @@
+id: security-monkey
+vendor_id: netflix
+name: Security Monkey
+type: software
+tags: []
+cpe: cpe:2.3:a:netflix:security_monkey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: security_monkey
+  confidence: auto

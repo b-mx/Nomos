@@ -1,0 +1,10 @@
+id: storage-performance-file-controller
+vendor_id: hpe
+name: Storage Performance File Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:storage_performance_file_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_performance_file_controller
+  confidence: auto

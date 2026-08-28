@@ -1,0 +1,10 @@
+id: b5-mini
+vendor_id: h3c
+name: B5 Mini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:b5_mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b5_mini
+  confidence: auto

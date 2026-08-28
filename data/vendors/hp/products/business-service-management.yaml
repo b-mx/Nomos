@@ -1,0 +1,10 @@
+id: business-service-management
+vendor_id: hp
+name: Business Service Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:business_service_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_service_management
+  confidence: auto

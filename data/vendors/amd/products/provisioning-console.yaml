@@ -1,0 +1,10 @@
+id: provisioning-console
+vendor_id: amd
+name: Provisioning Console
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:provisioning_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: provisioning_console
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-p1100-ce651a
+vendor_id: hp
+name: Laserjet P1100 Ce651A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_p1100_ce651a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_p1100_ce651a
+  confidence: auto

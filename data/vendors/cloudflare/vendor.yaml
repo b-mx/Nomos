@@ -1,0 +1,7 @@
+id: cloudflare
+name: Cloudflare
+cpe: cpe:2.3:*:cloudflare:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudflare
+  confidence: auto

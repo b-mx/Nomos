@@ -1,0 +1,10 @@
+id: max-hd2-ip67-firmware
+vendor_id: peplink
+name: Max Hd2 Ip67 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:max_hd2_ip67_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_hd2_ip67_firmware
+  confidence: auto

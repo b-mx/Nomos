@@ -1,0 +1,10 @@
+id: mx6500e
+vendor_id: lexmark
+name: Mx6500E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx6500e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx6500e
+  confidence: auto

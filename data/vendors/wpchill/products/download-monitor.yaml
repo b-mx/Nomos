@@ -1,0 +1,10 @@
+id: download-monitor
+vendor_id: wpchill
+name: Download Monitor
+type: software
+tags: []
+cpe: cpe:2.3:a:wpchill:download_monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: download_monitor
+  confidence: auto

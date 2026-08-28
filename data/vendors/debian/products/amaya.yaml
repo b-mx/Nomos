@@ -1,0 +1,10 @@
+id: amaya
+vendor_id: debian
+name: Amaya
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:amaya:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amaya
+  confidence: auto

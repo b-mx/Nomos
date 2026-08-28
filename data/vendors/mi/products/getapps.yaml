@@ -1,0 +1,10 @@
+id: getapps
+vendor_id: mi
+name: Getapps
+type: software
+tags: []
+cpe: cpe:2.3:a:mi:getapps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: getapps
+  confidence: auto

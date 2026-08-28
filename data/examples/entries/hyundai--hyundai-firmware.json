@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hyundai--hyundai-firmware",
+  "vendor_id": "hyundai",
+  "product_id": "hyundai-firmware",
+  "name": "Hyundai Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hyundai_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

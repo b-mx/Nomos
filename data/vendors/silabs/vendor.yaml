@@ -1,0 +1,7 @@
+id: silabs
+name: Silabs
+cpe: cpe:2.3:*:silabs:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: silabs
+  confidence: auto

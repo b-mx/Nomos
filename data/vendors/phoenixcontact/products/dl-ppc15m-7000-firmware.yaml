@@ -1,0 +1,10 @@
+id: dl-ppc15m-7000-firmware
+vendor_id: phoenixcontact
+name: Dl Ppc15M 7000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:dl_ppc15m_7000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dl_ppc15m_7000_firmware
+  confidence: auto

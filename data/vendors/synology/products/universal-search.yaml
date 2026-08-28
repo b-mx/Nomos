@@ -1,0 +1,10 @@
+id: universal-search
+vendor_id: synology
+name: Universal Search
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:universal_search:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_search
+  confidence: auto

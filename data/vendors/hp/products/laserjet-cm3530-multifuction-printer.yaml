@@ -1,0 +1,10 @@
+id: laserjet-cm3530-multifuction-printer
+vendor_id: hp
+name: Laserjet Cm3530 Multifuction Printer
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_cm3530_multifuction_printer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_cm3530_multifuction_printer
+  confidence: auto

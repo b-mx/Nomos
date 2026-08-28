@@ -1,0 +1,10 @@
+id: wn-ac1167gr-firmware
+vendor_id: iodata
+name: Wn-Ac1167Gr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:wn\-ac1167gr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn-ac1167gr_firmware
+  confidence: auto

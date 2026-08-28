@@ -1,0 +1,10 @@
+id: wpc300n-wireless-n-notebook-adapter-driver
+vendor_id: linksys
+name: Wpc300N Wireless-N Notebook Adapter Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:linksys:wpc300n_wireless\-n_notebook_adapter_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wpc300n_wireless-n_notebook_adapter_driver
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mymbconnect24
+vendor_id: mbconnectline
+name: Mymbconnect24
+type: software
+tags: []
+cpe: cpe:2.3:a:mbconnectline:mymbconnect24:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mymbconnect24
+  confidence: auto

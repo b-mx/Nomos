@@ -1,0 +1,10 @@
+id: 300w-gen-3-firmware
+vendor_id: lenovo
+name: 300W Gen 3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:300w_gen_3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 300w_gen_3_firmware
+  confidence: auto

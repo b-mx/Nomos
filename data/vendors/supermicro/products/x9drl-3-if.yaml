@@ -1,0 +1,10 @@
+id: x9drl-3-if
+vendor_id: supermicro
+name: X9Drl-3/If
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9drl\-3\/if:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drl-3/if
+  confidence: auto

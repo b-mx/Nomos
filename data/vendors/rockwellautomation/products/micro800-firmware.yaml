@@ -1,0 +1,10 @@
+id: micro800-firmware
+vendor_id: rockwellautomation
+name: Micro800 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:micro800_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: micro800_firmware
+  confidence: auto

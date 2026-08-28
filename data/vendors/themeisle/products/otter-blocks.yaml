@@ -1,0 +1,10 @@
+id: otter-blocks
+vendor_id: themeisle
+name: Otter Blocks
+type: software
+tags: []
+cpe: cpe:2.3:a:themeisle:otter_blocks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: otter_blocks
+  confidence: auto

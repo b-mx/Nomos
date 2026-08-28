@@ -1,0 +1,10 @@
+id: prismax
+vendor_id: baxter
+name: Prismax
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baxter:prismax:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prismax
+  confidence: auto

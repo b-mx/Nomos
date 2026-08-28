@@ -1,0 +1,10 @@
+id: cf-wr610n
+vendor_id: comfast
+name: Cf-Wr610N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:comfast:cf\-wr610n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf-wr610n
+  confidence: auto

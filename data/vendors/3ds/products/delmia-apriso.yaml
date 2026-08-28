@@ -1,0 +1,10 @@
+id: delmia-apriso
+vendor_id: 3ds
+name: Delmia Apriso
+type: software
+tags: []
+cpe: cpe:2.3:a:3ds:delmia_apriso:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: delmia_apriso
+  confidence: auto

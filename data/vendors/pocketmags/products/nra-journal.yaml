@@ -1,0 +1,10 @@
+id: nra-journal
+vendor_id: pocketmags
+name: Nra Journal
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:nra_journal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nra_journal
+  confidence: auto

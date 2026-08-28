@@ -1,0 +1,10 @@
+id: itk-8lcx-1-bk-tel-firmware
+vendor_id: nec
+name: Itk-8Lcx-1(Bk)Tel Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:itk\-8lcx\-1\(bk\)tel_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itk-8lcx-1(bk)tel_firmware
+  confidence: auto

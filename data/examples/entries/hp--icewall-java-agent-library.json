@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--icewall-java-agent-library",
+  "vendor_id": "hp",
+  "product_id": "icewall-java-agent-library",
+  "name": "Icewall Java Agent Library",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icewall_java_agent_library",
+      "confidence": "auto"
+    }
+  ]
+}

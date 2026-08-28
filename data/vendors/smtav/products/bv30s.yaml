@@ -1,0 +1,10 @@
+id: bv30s
+vendor_id: smtav
+name: Bv30S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:smtav:bv30s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bv30s
+  confidence: auto

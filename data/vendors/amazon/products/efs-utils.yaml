@@ -1,0 +1,10 @@
+id: efs-utils
+vendor_id: amazon
+name: Efs-Utils
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:efs\-utils:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: efs-utils
+  confidence: auto

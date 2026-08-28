@@ -1,0 +1,10 @@
+id: spectre-laptop-13-af0xx
+vendor_id: hp
+name: Spectre Laptop 13-Af0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_laptop_13\-af0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_laptop_13-af0xx
+  confidence: auto

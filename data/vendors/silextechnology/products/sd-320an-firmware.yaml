@@ -1,0 +1,10 @@
+id: sd-320an-firmware
+vendor_id: silextechnology
+name: Sd-320An Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:silextechnology:sd\-320an_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd-320an_firmware
+  confidence: auto

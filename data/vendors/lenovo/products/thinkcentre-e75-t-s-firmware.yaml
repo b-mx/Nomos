@@ -1,0 +1,10 @@
+id: thinkcentre-e75-t-s-firmware
+vendor_id: lenovo
+name: Thinkcentre E75 T/S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkcentre_e75_t\/s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_e75_t/s_firmware
+  confidence: auto

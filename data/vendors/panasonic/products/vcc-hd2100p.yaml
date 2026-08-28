@@ -1,0 +1,10 @@
+id: vcc-hd2100p
+vendor_id: panasonic
+name: Vcc-Hd2100P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:panasonic:vcc\-hd2100p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vcc-hd2100p
+  confidence: auto

@@ -1,0 +1,10 @@
+id: metric-registrar-release
+vendor_id: pivotal
+name: Metric Registrar Release
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:metric_registrar_release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: metric_registrar_release
+  confidence: auto

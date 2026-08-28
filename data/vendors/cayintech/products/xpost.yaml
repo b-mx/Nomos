@@ -1,0 +1,10 @@
+id: xpost
+vendor_id: cayintech
+name: Xpost
+type: software
+tags: []
+cpe: cpe:2.3:a:cayintech:xpost:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xpost
+  confidence: auto

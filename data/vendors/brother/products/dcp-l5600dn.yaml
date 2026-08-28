@@ -1,0 +1,10 @@
+id: dcp-l5600dn
+vendor_id: brother
+name: Dcp-L5600Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-l5600dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-l5600dn
+  confidence: auto

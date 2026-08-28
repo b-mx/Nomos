@@ -1,0 +1,10 @@
+id: connect-java-software-development-kit
+vendor_id: squareup
+name: Connect Java Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:squareup:connect_java_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect_java_software_development_kit
+  confidence: auto

@@ -1,0 +1,10 @@
+id: proxysg-sg510-25
+vendor_id: bluecoat
+name: Proxysg Sg510-25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bluecoat:proxysg_sg510\-25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proxysg_sg510-25
+  confidence: auto

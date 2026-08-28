@@ -1,0 +1,10 @@
+id: a1001-firmware
+vendor_id: axis
+name: A1001 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:a1001_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1001_firmware
+  confidence: auto

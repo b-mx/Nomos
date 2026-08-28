@@ -1,0 +1,10 @@
+id: y5z00a-firmware
+vendor_id: hp
+name: Y5Z00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:y5z00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y5z00a_firmware
+  confidence: auto

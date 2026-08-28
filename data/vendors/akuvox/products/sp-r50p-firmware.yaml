@@ -1,0 +1,10 @@
+id: sp-r50p-firmware
+vendor_id: akuvox
+name: Sp-R50P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:akuvox:sp\-r50p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp-r50p_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jsse
+vendor_id: sun
+name: Jsse
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:jsse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jsse
+  confidence: auto

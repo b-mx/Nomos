@@ -1,0 +1,10 @@
+id: plc5-1785-lx-firmware
+vendor_id: rockwellautomation
+name: Plc5 1785-Lx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:plc5_1785\-lx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plc5_1785-lx_firmware
+  confidence: auto

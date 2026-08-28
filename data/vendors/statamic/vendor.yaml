@@ -1,0 +1,7 @@
+id: statamic
+name: Statamic
+cpe: cpe:2.3:*:statamic:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: statamic
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ht-event
+vendor_id: hasthemes
+name: Ht Event
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:ht_event:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ht_event
+  confidence: auto

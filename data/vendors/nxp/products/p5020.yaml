@@ -1,0 +1,10 @@
+id: p5020
+vendor_id: nxp
+name: P5020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:p5020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p5020
+  confidence: auto

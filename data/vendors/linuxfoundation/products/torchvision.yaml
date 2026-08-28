@@ -1,0 +1,10 @@
+id: torchvision
+vendor_id: linuxfoundation
+name: Torchvision
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:torchvision:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: torchvision
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ideapad
+vendor_id: lenovo
+name: Ideapad
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideapad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad
+  confidence: auto

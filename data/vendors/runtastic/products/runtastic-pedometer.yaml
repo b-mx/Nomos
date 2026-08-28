@@ -1,0 +1,10 @@
+id: runtastic-pedometer
+vendor_id: runtastic
+name: Runtastic Pedometer
+type: software
+tags: []
+cpe: cpe:2.3:a:runtastic:runtastic_pedometer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: runtastic_pedometer
+  confidence: auto

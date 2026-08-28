@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudflare--warp-mobile-client",
+  "vendor_id": "cloudflare",
+  "product_id": "warp-mobile-client",
+  "name": "Warp Mobile Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "warp_mobile_client",
+      "confidence": "auto"
+    }
+  ]
+}

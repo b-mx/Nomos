@@ -1,0 +1,10 @@
+id: master-mix
+vendor_id: nobexrc
+name: Master Mix
+type: software
+tags: []
+cpe: cpe:2.3:a:nobexrc:master_mix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: master_mix
+  confidence: auto

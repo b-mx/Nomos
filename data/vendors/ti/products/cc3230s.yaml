@@ -1,0 +1,10 @@
+id: cc3230s
+vendor_id: ti
+name: Cc3230S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:cc3230s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc3230s
+  confidence: auto

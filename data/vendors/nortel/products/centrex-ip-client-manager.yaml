@@ -1,0 +1,10 @@
+id: centrex-ip-client-manager
+vendor_id: nortel
+name: Centrex Ip Client Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:centrex_ip_client_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centrex_ip_client_manager
+  confidence: auto

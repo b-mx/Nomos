@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "baxter--phoenix-x36-firmware",
+  "vendor_id": "baxter",
+  "product_id": "phoenix-x36-firmware",
+  "name": "Phoenix X36 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "phoenix_x36_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

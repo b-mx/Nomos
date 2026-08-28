@@ -1,0 +1,10 @@
+id: epyc-7282
+vendor_id: amd
+name: Epyc 7282
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_7282:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7282
+  confidence: auto

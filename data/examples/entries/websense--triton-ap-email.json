@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "websense--triton-ap-email",
+  "vendor_id": "websense",
+  "product_id": "triton-ap-email",
+  "name": "Triton Ap Email",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "triton_ap_email",
+      "confidence": "auto"
+    }
+  ]
+}

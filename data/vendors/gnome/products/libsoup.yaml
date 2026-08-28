@@ -1,0 +1,10 @@
+id: libsoup
+vendor_id: gnome
+name: Libsoup
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:libsoup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libsoup
+  confidence: auto

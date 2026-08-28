@@ -1,0 +1,10 @@
+id: rt-visualbox
+vendor_id: mitsubishielectric
+name: Rt Visualbox
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:rt_visualbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt_visualbox
+  confidence: auto

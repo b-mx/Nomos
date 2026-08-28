@@ -1,0 +1,10 @@
+id: elite-x360-1040-g9
+vendor_id: hp
+name: Elite X360 1040 G9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elite_x360_1040_g9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_x360_1040_g9
+  confidence: auto

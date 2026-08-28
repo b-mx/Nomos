@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "shibboleth--service-provider",
+  "vendor_id": "shibboleth",
+  "product_id": "service-provider",
+  "name": "Service Provider",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_provider",
+      "confidence": "auto"
+    }
+  ]
+}

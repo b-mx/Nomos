@@ -1,0 +1,10 @@
+id: polo-firmware
+vendor_id: vw
+name: Polo Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vw:polo_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: polo_firmware
+  confidence: auto

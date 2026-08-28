@@ -1,0 +1,10 @@
+id: uberforx
+vendor_id: iscripts
+name: Uberforx
+type: software
+tags: []
+cpe: cpe:2.3:a:iscripts:uberforx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uberforx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: logiq-s8
+vendor_id: ge
+name: Logiq S8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:logiq_s8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logiq_s8
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mediamail
+vendor_id: sgi
+name: Mediamail
+type: software
+tags: []
+cpe: cpe:2.3:a:sgi:mediamail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mediamail
+  confidence: auto

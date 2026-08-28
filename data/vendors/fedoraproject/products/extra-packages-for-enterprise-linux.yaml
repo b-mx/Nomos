@@ -1,0 +1,10 @@
+id: extra-packages-for-enterprise-linux
+vendor_id: fedoraproject
+name: Extra Packages For Enterprise Linux
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:extra_packages_for_enterprise_linux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: extra_packages_for_enterprise_linux
+  confidence: auto

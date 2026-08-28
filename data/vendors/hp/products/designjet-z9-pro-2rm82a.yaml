@@ -1,0 +1,10 @@
+id: designjet-z9-pro-2rm82a
+vendor_id: hp
+name: Designjet Z9+ Pro 2Rm82A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_z9\+_pro_2rm82a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z9+_pro_2rm82a
+  confidence: auto

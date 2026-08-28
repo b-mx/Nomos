@@ -1,0 +1,10 @@
+id: dx-c311j-firmware
+vendor_id: sharp
+name: Dx-C311J Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:dx\-c311j_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dx-c311j_firmware
+  confidence: auto

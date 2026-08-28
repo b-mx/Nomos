@@ -1,0 +1,10 @@
+id: berlin-emui5-0
+vendor_id: huawei
+name: Berlin-Emui5.0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:berlin\-emui5\.0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: berlin-emui5.0
+  confidence: auto

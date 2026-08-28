@@ -1,0 +1,10 @@
+id: thinkpad-p43s-20rx-firmware
+vendor_id: lenovo
+name: Thinkpad P43S (20Rx) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_p43s_\(20rx\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_p43s_(20rx)_firmware
+  confidence: auto

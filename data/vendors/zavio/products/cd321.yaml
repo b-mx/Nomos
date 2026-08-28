@@ -1,0 +1,10 @@
+id: cd321
+vendor_id: zavio
+name: Cd321
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zavio:cd321:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cd321
+  confidence: auto

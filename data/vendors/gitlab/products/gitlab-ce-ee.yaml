@@ -1,0 +1,9 @@
+id: gitlab-ce-ee
+vendor_id: gitlab
+name: GitLab CE/EE
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: GitLab CE/EE
+  confidence: auto

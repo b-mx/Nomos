@@ -1,0 +1,10 @@
+id: pcf
+vendor_id: free5gc
+name: Pcf
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:pcf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcf
+  confidence: auto

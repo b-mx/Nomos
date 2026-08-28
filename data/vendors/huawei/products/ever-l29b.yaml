@@ -1,0 +1,10 @@
+id: ever-l29b
+vendor_id: huawei
+name: Ever-L29B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ever\-l29b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ever-l29b
+  confidence: auto

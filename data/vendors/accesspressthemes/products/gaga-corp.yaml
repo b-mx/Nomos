@@ -1,0 +1,10 @@
+id: gaga-corp
+vendor_id: accesspressthemes
+name: Gaga Corp
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:gaga_corp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gaga_corp
+  confidence: auto

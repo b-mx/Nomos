@@ -1,0 +1,10 @@
+id: wrt1900acs-firmware
+vendor_id: linksys
+name: Wrt1900Acs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:wrt1900acs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrt1900acs_firmware
+  confidence: auto

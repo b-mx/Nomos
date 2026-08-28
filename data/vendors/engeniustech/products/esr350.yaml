@@ -1,0 +1,10 @@
+id: esr350
+vendor_id: engeniustech
+name: Esr350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:engeniustech:esr350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esr350
+  confidence: auto

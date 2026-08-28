@@ -1,0 +1,10 @@
+id: zoho-forms
+vendor_id: zohocorp
+name: Zoho Forms
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:zoho_forms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zoho_forms
+  confidence: auto

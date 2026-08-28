@@ -1,0 +1,10 @@
+id: new-gen
+vendor_id: asuswrt-merlin
+name: New Gen
+type: os
+tags: []
+cpe: cpe:2.3:o:asuswrt\-merlin:new_gen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: new_gen
+  confidence: auto

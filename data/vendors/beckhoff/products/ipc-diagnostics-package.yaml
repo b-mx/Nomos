@@ -1,0 +1,10 @@
+id: ipc-diagnostics-package
+vendor_id: beckhoff
+name: Ipc Diagnostics Package
+type: software
+tags: []
+cpe: cpe:2.3:a:beckhoff:ipc_diagnostics_package:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipc_diagnostics_package
+  confidence: auto

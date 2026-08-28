@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "ffmpeg--ffmpeg",
+  "vendor_id": "ffmpeg",
+  "product_id": "ffmpeg",
+  "name": "FFmpeg",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "ffmpeg",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "ffmpeg",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: w1200ex
+vendor_id: aterm
+name: W1200Ex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aterm:w1200ex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1200ex
+  confidence: auto

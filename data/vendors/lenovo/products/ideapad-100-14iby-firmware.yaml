@@ -1,0 +1,10 @@
+id: ideapad-100-14iby-firmware
+vendor_id: lenovo
+name: Ideapad 100-14Iby Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_100\-14iby_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_100-14iby_firmware
+  confidence: auto

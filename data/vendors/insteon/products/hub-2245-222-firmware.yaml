@@ -1,0 +1,10 @@
+id: hub-2245-222-firmware
+vendor_id: insteon
+name: Hub 2245-222 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:insteon:hub_2245\-222_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hub_2245-222_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nr8000tr-firmware
+vendor_id: zte
+name: Nr8000Tr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:nr8000tr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr8000tr_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--unified-messenger",
+  "vendor_id": "avaya",
+  "product_id": "unified-messenger",
+  "name": "Unified Messenger",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unified_messenger",
+      "confidence": "auto"
+    }
+  ]
+}

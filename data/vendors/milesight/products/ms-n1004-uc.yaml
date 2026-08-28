@@ -1,0 +1,10 @@
+id: ms-n1004-uc
+vendor_id: milesight
+name: Ms-N1004-Uc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:milesight:ms\-n1004\-uc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms-n1004-uc
+  confidence: auto

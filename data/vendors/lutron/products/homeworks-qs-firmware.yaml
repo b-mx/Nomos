@@ -1,0 +1,10 @@
+id: homeworks-qs-firmware
+vendor_id: lutron
+name: Homeworks Qs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lutron:homeworks_qs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: homeworks_qs_firmware
+  confidence: auto

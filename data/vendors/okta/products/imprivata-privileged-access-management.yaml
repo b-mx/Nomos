@@ -1,0 +1,10 @@
+id: imprivata-privileged-access-management
+vendor_id: okta
+name: Imprivata Privileged Access Management
+type: software
+tags: []
+cpe: cpe:2.3:a:okta:imprivata_privileged_access_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imprivata_privileged_access_management
+  confidence: auto

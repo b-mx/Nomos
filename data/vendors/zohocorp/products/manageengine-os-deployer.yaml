@@ -1,0 +1,10 @@
+id: manageengine-os-deployer
+vendor_id: zohocorp
+name: Manageengine Os Deployer
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_os_deployer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_os_deployer
+  confidence: auto

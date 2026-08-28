@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "proxmox--proxmox-ve",
+  "vendor_id": "proxmox",
+  "product_id": "proxmox-ve",
+  "name": "Proxmox VE",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "proxmox-ve",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "virtual_environment",
+      "confidence": "auto"
+    }
+  ]
+}

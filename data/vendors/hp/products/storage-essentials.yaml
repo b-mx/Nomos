@@ -1,0 +1,10 @@
+id: storage-essentials
+vendor_id: hp
+name: Storage Essentials
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:storage_essentials:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_essentials
+  confidence: auto

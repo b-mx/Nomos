@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zonelabs--zonealarm-security-suite",
+  "vendor_id": "zonelabs",
+  "product_id": "zonealarm-security-suite",
+  "name": "Zonealarm Security Suite",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zonealarm_security_suite",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--partition-manager",
+  "vendor_id": "kde",
+  "product_id": "partition-manager",
+  "name": "Partition Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "partition_manager",
+      "confidence": "auto"
+    }
+  ]
+}

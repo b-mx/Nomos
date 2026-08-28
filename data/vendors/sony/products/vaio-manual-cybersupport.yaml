@@ -1,0 +1,10 @@
+id: vaio-manual-cybersupport
+vendor_id: sony
+name: Vaio Manual Cybersupport
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:vaio_manual_cybersupport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vaio_manual_cybersupport
+  confidence: auto

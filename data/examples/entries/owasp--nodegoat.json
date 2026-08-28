@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "owasp--nodegoat",
+  "vendor_id": "owasp",
+  "product_id": "nodegoat",
+  "name": "Nodegoat",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nodegoat",
+      "confidence": "auto"
+    }
+  ]
+}

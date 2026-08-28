@@ -1,0 +1,7 @@
+id: baxter
+name: Baxter
+cpe: cpe:2.3:*:baxter:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baxter
+  confidence: auto

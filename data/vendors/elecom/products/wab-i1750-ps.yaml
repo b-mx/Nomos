@@ -1,0 +1,10 @@
+id: wab-i1750-ps
+vendor_id: elecom
+name: Wab-I1750-Ps
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:wab\-i1750\-ps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wab-i1750-ps
+  confidence: auto

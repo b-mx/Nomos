@@ -1,0 +1,10 @@
+id: xav-ax5500-firmware
+vendor_id: sony
+name: Xav-Ax5500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:xav\-ax5500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xav-ax5500_firmware
+  confidence: auto

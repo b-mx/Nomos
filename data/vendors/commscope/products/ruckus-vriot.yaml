@@ -1,0 +1,10 @@
+id: ruckus-vriot
+vendor_id: commscope
+name: Ruckus Vriot
+type: software
+tags: []
+cpe: cpe:2.3:a:commscope:ruckus_vriot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_vriot
+  confidence: auto

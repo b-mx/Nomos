@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--energy-driver-for-linux",
+  "vendor_id": "amd",
+  "product_id": "energy-driver-for-linux",
+  "name": "Energy Driver For Linux",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "energy_driver_for_linux",
+      "confidence": "auto"
+    }
+  ]
+}

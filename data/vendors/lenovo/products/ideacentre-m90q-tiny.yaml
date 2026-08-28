@@ -1,0 +1,10 @@
+id: ideacentre-m90q-tiny
+vendor_id: lenovo
+name: Ideacentre M90Q Tiny
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_m90q_tiny:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_m90q_tiny
+  confidence: auto

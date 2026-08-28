@@ -1,0 +1,10 @@
+id: x9drg-o-t-f-cpu
+vendor_id: supermicro
+name: X9Drg-O(T)F-Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9drg\-o\(t\)f\-cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drg-o(t)f-cpu
+  confidence: auto

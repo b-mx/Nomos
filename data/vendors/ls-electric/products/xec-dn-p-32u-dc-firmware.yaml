@@ -1,0 +1,10 @@
+id: xec-dn-p-32u-dc-firmware
+vendor_id: ls-electric
+name: Xec-Dn(P)32U/Dc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xec\-dn\(p\)32u\/dc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dn(p)32u/dc_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e5350-firmware
+vendor_id: linksys
+name: E5350 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:e5350_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e5350_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linksys--ea4500-firmware",
+  "vendor_id": "linksys",
+  "product_id": "ea4500-firmware",
+  "name": "Ea4500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ea4500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

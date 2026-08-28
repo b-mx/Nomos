@@ -1,0 +1,10 @@
+id: predator-connect-w6x
+vendor_id: acer
+name: Predator Connect W6X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:predator_connect_w6x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: predator_connect_w6x
+  confidence: auto

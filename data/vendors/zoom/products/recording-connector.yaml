@@ -1,0 +1,10 @@
+id: recording-connector
+vendor_id: zoom
+name: Recording Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:recording_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recording_connector
+  confidence: auto

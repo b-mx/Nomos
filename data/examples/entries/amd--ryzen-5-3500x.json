@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-5-3500x",
+  "vendor_id": "amd",
+  "product_id": "ryzen-5-3500x",
+  "name": "Ryzen 5 3500X",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_5_3500x",
+      "confidence": "auto"
+    }
+  ]
+}

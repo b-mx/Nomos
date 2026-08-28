@@ -1,0 +1,10 @@
+id: bond-al00c
+vendor_id: huawei
+name: Bond-Al00C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:bond\-al00c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bond-al00c
+  confidence: auto

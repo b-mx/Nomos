@@ -1,0 +1,10 @@
+id: b426
+vendor_id: bosch
+name: B426
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:b426:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b426
+  confidence: auto

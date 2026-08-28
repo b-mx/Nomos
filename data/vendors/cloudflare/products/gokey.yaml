@@ -1,0 +1,10 @@
+id: gokey
+vendor_id: cloudflare
+name: Gokey
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:gokey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gokey
+  confidence: auto

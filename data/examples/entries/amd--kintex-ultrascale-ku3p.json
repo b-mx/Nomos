@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--kintex-ultrascale-ku3p",
+  "vendor_id": "amd",
+  "product_id": "kintex-ultrascale-ku3p",
+  "name": "Kintex Ultrascale+ Ku3P",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kintex_ultrascale+_ku3p",
+      "confidence": "auto"
+    }
+  ]
+}

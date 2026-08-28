@@ -1,0 +1,10 @@
+id: gl-ar150
+vendor_id: gl-inet
+name: Gl-Ar150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-ar150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-ar150
+  confidence: auto

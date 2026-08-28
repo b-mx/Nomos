@@ -1,0 +1,10 @@
+id: pam-module
+vendor_id: yubico
+name: Pam Module
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:pam_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pam_module
+  confidence: auto

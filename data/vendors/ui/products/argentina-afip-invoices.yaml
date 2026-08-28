@@ -1,0 +1,10 @@
+id: argentina-afip-invoices
+vendor_id: ui
+name: Argentina Afip Invoices
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:argentina_afip_invoices:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: argentina_afip_invoices
+  confidence: auto

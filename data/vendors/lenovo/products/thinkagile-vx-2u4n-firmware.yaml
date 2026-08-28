@@ -1,0 +1,10 @@
+id: thinkagile-vx-2u4n-firmware
+vendor_id: lenovo
+name: Thinkagile Vx 2U4N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkagile_vx_2u4n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_vx_2u4n_firmware
+  confidence: auto

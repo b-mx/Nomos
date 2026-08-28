@@ -1,0 +1,10 @@
+id: samsung-m436dn
+vendor_id: hp
+name: Samsung M436Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:samsung_m436dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: samsung_m436dn
+  confidence: auto

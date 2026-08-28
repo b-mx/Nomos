@@ -1,0 +1,10 @@
+id: bp-b550wd-firmware
+vendor_id: sharp
+name: Bp-B550Wd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:bp\-b550wd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bp-b550wd_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gc-enet-com
+vendor_id: mitsubishielectric
+name: Gc-Enet-Com
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:gc\-enet\-com:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gc-enet-com
+  confidence: auto

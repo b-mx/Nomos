@@ -1,0 +1,10 @@
+id: mail
+vendor_id: htc
+name: Mail
+type: software
+tags: []
+cpe: cpe:2.3:a:htc:mail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mail
+  confidence: auto

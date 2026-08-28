@@ -1,0 +1,10 @@
+id: securid
+vendor_id: rsa
+name: Securid
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rsa:securid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: securid
+  confidence: auto

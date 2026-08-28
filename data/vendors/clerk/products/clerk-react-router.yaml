@@ -1,0 +1,10 @@
+id: clerk-react-router
+vendor_id: clerk
+name: Clerk/React-Router
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/react\-router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/react-router
+  confidence: auto

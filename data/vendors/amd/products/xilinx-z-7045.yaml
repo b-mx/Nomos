@@ -1,0 +1,10 @@
+id: xilinx-z-7045
+vendor_id: amd
+name: Xilinx Z-7045
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:xilinx_z\-7045:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xilinx_z-7045
+  confidence: auto

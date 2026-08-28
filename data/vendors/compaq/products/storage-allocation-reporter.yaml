@@ -1,0 +1,10 @@
+id: storage-allocation-reporter
+vendor_id: compaq
+name: Storage Allocation Reporter
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:storage_allocation_reporter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_allocation_reporter
+  confidence: auto

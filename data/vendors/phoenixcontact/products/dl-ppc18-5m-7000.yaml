@@ -1,0 +1,10 @@
+id: dl-ppc18-5m-7000
+vendor_id: phoenixcontact
+name: Dl Ppc18.5M 7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:dl_ppc18\.5m_7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dl_ppc18.5m_7000
+  confidence: auto

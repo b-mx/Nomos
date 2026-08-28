@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "octopus--octopus-deploy",
+  "vendor_id": "octopus",
+  "product_id": "octopus-deploy",
+  "name": "Octopus Deploy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "octopus_deploy",
+      "confidence": "auto"
+    }
+  ]
+}

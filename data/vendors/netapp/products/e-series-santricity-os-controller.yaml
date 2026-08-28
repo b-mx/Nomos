@@ -1,0 +1,10 @@
+id: e-series-santricity-os-controller
+vendor_id: netapp
+name: E-Series Santricity Os Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:e\-series_santricity_os_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-series_santricity_os_controller
+  confidence: auto

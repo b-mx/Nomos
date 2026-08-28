@@ -1,0 +1,10 @@
+id: dx-3021l9-firmware
+vendor_id: deltaww
+name: Dx-3021L9 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:deltaww:dx\-3021l9_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dx-3021l9_firmware
+  confidence: auto

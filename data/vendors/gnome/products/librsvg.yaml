@@ -1,0 +1,10 @@
+id: librsvg
+vendor_id: gnome
+name: Librsvg
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:librsvg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: librsvg
+  confidence: auto

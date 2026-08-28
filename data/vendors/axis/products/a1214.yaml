@@ -1,0 +1,10 @@
+id: a1214
+vendor_id: axis
+name: A1214
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:a1214:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1214
+  confidence: auto

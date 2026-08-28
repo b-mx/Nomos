@@ -1,0 +1,10 @@
+id: logcheck
+vendor_id: debian
+name: Logcheck
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:logcheck:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logcheck
+  confidence: auto

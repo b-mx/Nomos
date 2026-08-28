@@ -1,0 +1,10 @@
+id: whr-hp-g
+vendor_id: buffalo
+name: Whr-Hp-G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:whr\-hp\-g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-hp-g
+  confidence: auto

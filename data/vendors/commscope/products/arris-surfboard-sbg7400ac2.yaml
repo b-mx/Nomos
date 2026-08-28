@@ -1,0 +1,10 @@
+id: arris-surfboard-sbg7400ac2
+vendor_id: commscope
+name: Arris Surfboard Sbg7400Ac2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:arris_surfboard_sbg7400ac2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_surfboard_sbg7400ac2
+  confidence: auto

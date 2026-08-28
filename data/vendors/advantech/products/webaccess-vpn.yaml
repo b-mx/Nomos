@@ -1,0 +1,10 @@
+id: webaccess-vpn
+vendor_id: advantech
+name: Webaccess/Vpn
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:webaccess\/vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webaccess/vpn
+  confidence: auto

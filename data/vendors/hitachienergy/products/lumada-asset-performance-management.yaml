@@ -1,0 +1,10 @@
+id: lumada-asset-performance-management
+vendor_id: hitachienergy
+name: Lumada Asset Performance Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:lumada_asset_performance_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lumada_asset_performance_management
+  confidence: auto

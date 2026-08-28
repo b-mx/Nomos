@@ -1,0 +1,9 @@
+id: excel
+vendor_id: microsoft
+name: Excel
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Excel
+  confidence: auto

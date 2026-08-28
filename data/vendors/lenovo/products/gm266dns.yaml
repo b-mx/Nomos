@@ -1,0 +1,10 @@
+id: gm266dns
+vendor_id: lenovo
+name: Gm266Dns
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:gm266dns:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gm266dns
+  confidence: auto

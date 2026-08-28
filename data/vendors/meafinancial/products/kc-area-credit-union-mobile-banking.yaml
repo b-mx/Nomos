@@ -1,0 +1,10 @@
+id: kc-area-credit-union-mobile-banking
+vendor_id: meafinancial
+name: Kc Area Credit Union Mobile Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:kc_area_credit_union_mobile_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kc_area_credit_union_mobile_banking
+  confidence: auto

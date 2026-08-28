@@ -1,0 +1,10 @@
+id: apt-listchanges
+vendor_id: debian
+name: Apt-Listchanges
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:apt\-listchanges:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apt-listchanges
+  confidence: auto

@@ -1,0 +1,10 @@
+id: melsec-q172dscpu
+vendor_id: mitsubishi
+name: Melsec Q172Dscpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_q172dscpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q172dscpu
+  confidence: auto

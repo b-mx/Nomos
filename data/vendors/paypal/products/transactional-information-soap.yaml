@@ -1,0 +1,10 @@
+id: transactional-information-soap
+vendor_id: paypal
+name: Transactional Information Soap
+type: software
+tags: []
+cpe: cpe:2.3:a:paypal:transactional_information_soap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: transactional_information_soap
+  confidence: auto

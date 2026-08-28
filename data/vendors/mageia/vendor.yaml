@@ -1,0 +1,7 @@
+id: mageia
+name: Mageia
+cpe: cpe:2.3:*:mageia:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mageia
+  confidence: auto

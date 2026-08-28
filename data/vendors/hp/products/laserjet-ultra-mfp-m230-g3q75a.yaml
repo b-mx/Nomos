@@ -1,0 +1,10 @@
+id: laserjet-ultra-mfp-m230-g3q75a
+vendor_id: hp
+name: Laserjet Ultra Mfp M230 G3Q75A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_ultra_mfp_m230_g3q75a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_ultra_mfp_m230_g3q75a
+  confidence: auto

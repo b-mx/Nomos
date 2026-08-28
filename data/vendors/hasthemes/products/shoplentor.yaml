@@ -1,0 +1,10 @@
+id: shoplentor
+vendor_id: hasthemes
+name: Shoplentor
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:shoplentor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shoplentor
+  confidence: auto

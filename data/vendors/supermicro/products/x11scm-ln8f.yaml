@@ -1,0 +1,10 @@
+id: x11scm-ln8f
+vendor_id: supermicro
+name: X11Scm-Ln8F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11scm\-ln8f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11scm-ln8f
+  confidence: auto

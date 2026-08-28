@@ -1,0 +1,10 @@
+id: wmc-2hc-w
+vendor_id: elecom
+name: Wmc-2Hc-W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:wmc\-2hc\-w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wmc-2hc-w
+  confidence: auto

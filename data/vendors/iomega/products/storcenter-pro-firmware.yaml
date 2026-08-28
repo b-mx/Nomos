@@ -1,0 +1,10 @@
+id: storcenter-pro-firmware
+vendor_id: iomega
+name: Storcenter Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iomega:storcenter_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storcenter_pro_firmware
+  confidence: auto

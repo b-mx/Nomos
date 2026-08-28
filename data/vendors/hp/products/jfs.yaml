@@ -1,0 +1,10 @@
+id: jfs
+vendor_id: hp
+name: Jfs
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:jfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jfs
+  confidence: auto

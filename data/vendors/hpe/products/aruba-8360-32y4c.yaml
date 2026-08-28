@@ -1,0 +1,10 @@
+id: aruba-8360-32y4c
+vendor_id: hpe
+name: Aruba 8360-32Y4C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_8360\-32y4c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_8360-32y4c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: qnv-c8012
+vendor_id: hanwhavision
+name: Qnv-C8012
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:qnv\-c8012:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnv-c8012
+  confidence: auto

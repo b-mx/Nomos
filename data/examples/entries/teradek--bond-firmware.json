@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teradek--bond-firmware",
+  "vendor_id": "teradek",
+  "product_id": "bond-firmware",
+  "name": "Bond Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bond_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

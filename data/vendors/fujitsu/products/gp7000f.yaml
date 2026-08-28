@@ -1,0 +1,10 @@
+id: gp7000f
+vendor_id: fujitsu
+name: Gp7000F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:gp7000f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gp7000f
+  confidence: auto

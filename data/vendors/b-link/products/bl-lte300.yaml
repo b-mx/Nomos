@@ -1,0 +1,10 @@
+id: bl-lte300
+vendor_id: b-link
+name: Bl-Lte300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:b\-link:bl\-lte300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-lte300
+  confidence: auto

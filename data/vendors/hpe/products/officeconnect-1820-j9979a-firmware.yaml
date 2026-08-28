@@ -1,0 +1,10 @@
+id: officeconnect-1820-j9979a-firmware
+vendor_id: hpe
+name: Officeconnect 1820 J9979A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:officeconnect_1820_j9979a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officeconnect_1820_j9979a_firmware
+  confidence: auto

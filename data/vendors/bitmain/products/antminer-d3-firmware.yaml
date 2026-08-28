@@ -1,0 +1,10 @@
+id: antminer-d3-firmware
+vendor_id: bitmain
+name: Antminer D3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bitmain:antminer_d3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antminer_d3_firmware
+  confidence: auto

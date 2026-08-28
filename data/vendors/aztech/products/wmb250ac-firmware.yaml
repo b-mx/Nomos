@@ -1,0 +1,10 @@
+id: wmb250ac-firmware
+vendor_id: aztech
+name: Wmb250Ac Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:aztech:wmb250ac_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wmb250ac_firmware
+  confidence: auto

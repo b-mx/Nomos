@@ -1,0 +1,10 @@
+id: afterburner
+vendor_id: msi
+name: Afterburner
+type: software
+tags: []
+cpe: cpe:2.3:a:msi:afterburner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: afterburner
+  confidence: auto

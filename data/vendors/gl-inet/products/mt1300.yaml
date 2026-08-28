@@ -1,0 +1,10 @@
+id: mt1300
+vendor_id: gl-inet
+name: Mt1300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:mt1300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt1300
+  confidence: auto

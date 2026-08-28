@@ -1,0 +1,7 @@
+id: jupyter
+name: Jupyter
+cpe: cpe:2.3:*:jupyter:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jupyter
+  confidence: auto

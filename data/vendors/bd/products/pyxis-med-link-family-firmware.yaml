@@ -1,0 +1,10 @@
+id: pyxis-med-link-family-firmware
+vendor_id: bd
+name: Pyxis Med Link Family Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:pyxis_med_link_family_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_med_link_family_firmware
+  confidence: auto

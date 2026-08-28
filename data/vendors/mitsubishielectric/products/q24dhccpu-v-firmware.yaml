@@ -1,0 +1,10 @@
+id: q24dhccpu-v-firmware
+vendor_id: mitsubishielectric
+name: Q24Dhccpu-V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:q24dhccpu\-v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q24dhccpu-v_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: k7v42c-firmware
+vendor_id: hp
+name: K7V42C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:k7v42c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7v42c_firmware
+  confidence: auto

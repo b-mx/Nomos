@@ -1,0 +1,10 @@
+id: ef600a-firmware
+vendor_id: netapp
+name: Ef600A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:ef600a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ef600a_firmware
+  confidence: auto

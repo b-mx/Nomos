@@ -1,0 +1,9 @@
+id: netlogon
+vendor_id: microsoft
+name: Netlogon
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Netlogon
+  confidence: auto

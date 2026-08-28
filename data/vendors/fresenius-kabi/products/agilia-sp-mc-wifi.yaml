@@ -1,0 +1,10 @@
+id: agilia-sp-mc-wifi
+vendor_id: fresenius-kabi
+name: Agilia Sp Mc Wifi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fresenius\-kabi:agilia_sp_mc_wifi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: agilia_sp_mc_wifi
+  confidence: auto

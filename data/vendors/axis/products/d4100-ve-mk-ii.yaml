@@ -1,0 +1,10 @@
+id: d4100-ve-mk-ii
+vendor_id: axis
+name: D4100-Ve Mk Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:d4100\-ve_mk_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d4100-ve_mk_ii
+  confidence: auto

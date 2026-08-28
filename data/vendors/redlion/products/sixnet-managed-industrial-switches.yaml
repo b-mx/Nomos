@@ -1,0 +1,10 @@
+id: sixnet-managed-industrial-switches
+vendor_id: redlion
+name: Sixnet-Managed Industrial Switches
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redlion:sixnet\-managed_industrial_switches:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sixnet-managed_industrial_switches
+  confidence: auto

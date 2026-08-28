@@ -1,0 +1,10 @@
+id: pcdl-tkc-6688-firmware
+vendor_id: jtekt
+name: Pcdl Tkc-6688 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:pcdl_tkc\-6688_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcdl_tkc-6688_firmware
+  confidence: auto

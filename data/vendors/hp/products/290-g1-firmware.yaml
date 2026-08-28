@@ -1,0 +1,10 @@
+id: 290-g1-firmware
+vendor_id: hp
+name: 290 G1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:290_g1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 290_g1_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: securid-web-agent
+vendor_id: rsa
+name: Securid Web Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:securid_web_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: securid_web_agent
+  confidence: auto

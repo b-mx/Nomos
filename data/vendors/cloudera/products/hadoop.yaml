@@ -1,0 +1,10 @@
+id: hadoop
+vendor_id: cloudera
+name: Hadoop
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudera:hadoop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hadoop
+  confidence: auto

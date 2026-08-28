@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jtekt--pc10pe-firmware",
+  "vendor_id": "jtekt",
+  "product_id": "pc10pe-firmware",
+  "name": "Pc10Pe Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pc10pe_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

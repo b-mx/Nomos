@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "duckdb--duckdb",
+  "vendor_id": "duckdb",
+  "product_id": "duckdb",
+  "name": "DuckDB",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "duckdb",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "duckdb",
+      "confidence": "auto"
+    }
+  ]
+}

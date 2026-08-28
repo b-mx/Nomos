@@ -1,0 +1,10 @@
+id: proone-400-g5
+vendor_id: hp
+name: Proone 400 G5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proone_400_g5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_400_g5
+  confidence: auto

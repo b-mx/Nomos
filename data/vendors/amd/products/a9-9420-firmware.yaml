@@ -1,0 +1,10 @@
+id: a9-9420-firmware
+vendor_id: amd
+name: A9-9420 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:a9\-9420_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a9-9420_firmware
+  confidence: auto

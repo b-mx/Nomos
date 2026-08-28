@@ -1,0 +1,10 @@
+id: bigfix-bare-osd-metal-server-webui
+vendor_id: hcltechsw
+name: Bigfix Bare Osd Metal Server Webui
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltechsw:bigfix_bare_osd_metal_server_webui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bigfix_bare_osd_metal_server_webui
+  confidence: auto

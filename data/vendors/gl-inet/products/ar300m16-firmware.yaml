@@ -1,0 +1,10 @@
+id: ar300m16-firmware
+vendor_id: gl-inet
+name: Ar300M16 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:ar300m16_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar300m16_firmware
+  confidence: auto

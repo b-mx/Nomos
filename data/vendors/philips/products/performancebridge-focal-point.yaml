@@ -1,0 +1,10 @@
+id: performancebridge-focal-point
+vendor_id: philips
+name: Performancebridge Focal Point
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:performancebridge_focal_point:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: performancebridge_focal_point
+  confidence: auto

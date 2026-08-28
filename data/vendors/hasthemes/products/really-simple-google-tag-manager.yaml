@@ -1,0 +1,10 @@
+id: really-simple-google-tag-manager
+vendor_id: hasthemes
+name: Really Simple Google Tag Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:really_simple_google_tag_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: really_simple_google_tag_manager
+  confidence: auto

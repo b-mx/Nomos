@@ -1,0 +1,10 @@
+id: internet-scanner
+vendor_id: iss
+name: Internet Scanner
+type: software
+tags: []
+cpe: cpe:2.3:a:iss:internet_scanner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet_scanner
+  confidence: auto

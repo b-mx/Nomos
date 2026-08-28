@@ -1,0 +1,10 @@
+id: dx-2100l1-cn-firmware
+vendor_id: deltaww
+name: Dx-2100L1-Cn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:deltaww:dx\-2100l1\-cn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dx-2100l1-cn_firmware
+  confidence: auto

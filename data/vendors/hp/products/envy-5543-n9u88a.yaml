@@ -1,0 +1,10 @@
+id: envy-5543-n9u88a
+vendor_id: hp
+name: Envy 5543 N9U88A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5543_n9u88a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5543_n9u88a
+  confidence: auto

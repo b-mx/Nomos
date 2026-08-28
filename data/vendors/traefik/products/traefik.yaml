@@ -1,0 +1,13 @@
+id: traefik
+vendor_id: traefik
+name: Traefik
+type: software
+tags: []
+cpe: cpe:2.3:a:traefik:traefik:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: traefik
+  confidence: auto
+- source: nvd
+  value: traefik
+  confidence: auto

@@ -1,0 +1,10 @@
+id: comfortlink-ii-firmware
+vendor_id: trane
+name: Comfortlink Ii Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trane:comfortlink_ii_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comfortlink_ii_firmware
+  confidence: auto

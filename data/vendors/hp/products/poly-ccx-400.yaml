@@ -1,0 +1,10 @@
+id: poly-ccx-400
+vendor_id: hp
+name: Poly Ccx 400
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:poly_ccx_400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_ccx_400
+  confidence: auto

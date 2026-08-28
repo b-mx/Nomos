@@ -1,0 +1,10 @@
+id: self-service-application
+vendor_id: hcltech
+name: Self-Service Application
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:self\-service_application:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: self-service_application
+  confidence: auto

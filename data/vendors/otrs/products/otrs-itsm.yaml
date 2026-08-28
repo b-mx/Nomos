@@ -1,0 +1,10 @@
+id: otrs-itsm
+vendor_id: otrs
+name: Otrs Itsm
+type: software
+tags: []
+cpe: cpe:2.3:a:otrs:otrs_itsm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: otrs_itsm
+  confidence: auto

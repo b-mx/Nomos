@@ -1,0 +1,10 @@
+id: mqx
+vendor_id: nxp
+name: Mqx
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:mqx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mqx
+  confidence: auto

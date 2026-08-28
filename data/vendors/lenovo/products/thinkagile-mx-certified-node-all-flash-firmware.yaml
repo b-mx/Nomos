@@ -1,0 +1,10 @@
+id: thinkagile-mx-certified-node-all-flash-firmware
+vendor_id: lenovo
+name: Thinkagile Mx Certified Node All Flash Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkagile_mx_certified_node_all_flash_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_mx_certified_node_all_flash_firmware
+  confidence: auto

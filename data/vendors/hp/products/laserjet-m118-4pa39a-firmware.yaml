@@ -1,0 +1,10 @@
+id: laserjet-m118-4pa39a-firmware
+vendor_id: hp
+name: Laserjet M118 4Pa39A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_m118_4pa39a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m118_4pa39a_firmware
+  confidence: auto

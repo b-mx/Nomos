@@ -1,0 +1,10 @@
+id: sunos
+vendor_id: sun
+name: Sunos
+type: os
+tags: []
+cpe: cpe:2.3:o:sun:sunos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunos
+  confidence: auto

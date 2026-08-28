@@ -1,0 +1,10 @@
+id: synapse
+vendor_id: matrix
+name: Synapse
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:synapse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synapse
+  confidence: auto

@@ -1,0 +1,10 @@
+id: merlin-home-firmware
+vendor_id: abbott
+name: Merlin@Home Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abbott:merlin\@home_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: merlin@home_firmware
+  confidence: auto

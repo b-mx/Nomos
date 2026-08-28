@@ -1,0 +1,10 @@
+id: ever-al00b-firmware
+vendor_id: huawei
+name: Ever-Al00B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ever\-al00b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ever-al00b_firmware
+  confidence: auto

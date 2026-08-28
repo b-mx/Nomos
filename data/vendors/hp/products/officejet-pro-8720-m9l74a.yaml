@@ -1,0 +1,10 @@
+id: officejet-pro-8720-m9l74a
+vendor_id: hp
+name: Officejet Pro 8720 M9L74A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_8720_m9l74a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_8720_m9l74a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: echopac-bt06-firmware
+vendor_id: gehealthcare
+name: Echopac Bt06 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:echopac_bt06_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echopac_bt06_firmware
+  confidence: auto

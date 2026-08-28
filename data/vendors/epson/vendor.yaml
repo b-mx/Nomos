@@ -1,0 +1,7 @@
+id: epson
+name: Epson
+cpe: cpe:2.3:*:epson:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epson
+  confidence: auto

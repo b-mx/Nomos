@@ -1,0 +1,10 @@
+id: avira-secure-backup
+vendor_id: avira
+name: Avira Secure Backup
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:avira_secure_backup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avira_secure_backup
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rb-1732-firmware
+vendor_id: sapido
+name: Rb-1732 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sapido:rb\-1732_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rb-1732_firmware
+  confidence: auto

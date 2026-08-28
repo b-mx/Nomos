@@ -1,0 +1,10 @@
+id: swwhd-intcam-hd
+vendor_id: swann
+name: Swwhd-Intcam-Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:swann:swwhd\-intcam\-hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swwhd-intcam-hd
+  confidence: auto

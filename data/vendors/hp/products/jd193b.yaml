@@ -1,0 +1,10 @@
+id: jd193b
+vendor_id: hp
+name: Jd193B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd193b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd193b
+  confidence: auto

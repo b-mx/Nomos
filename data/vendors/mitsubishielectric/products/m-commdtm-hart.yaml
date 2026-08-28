@@ -1,0 +1,10 @@
+id: m-commdtm-hart
+vendor_id: mitsubishielectric
+name: M Commdtm-Hart
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:m_commdtm\-hart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m_commdtm-hart
+  confidence: auto

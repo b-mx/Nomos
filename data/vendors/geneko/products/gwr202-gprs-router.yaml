@@ -1,0 +1,10 @@
+id: gwr202-gprs-router
+vendor_id: geneko
+name: Gwr202 Gprs Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:geneko:gwr202_gprs_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gwr202_gprs_router
+  confidence: auto

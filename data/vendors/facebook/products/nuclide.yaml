@@ -1,0 +1,10 @@
+id: nuclide
+vendor_id: facebook
+name: Nuclide
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:nuclide:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nuclide
+  confidence: auto

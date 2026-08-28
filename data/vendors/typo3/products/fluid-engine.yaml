@@ -1,0 +1,10 @@
+id: fluid-engine
+vendor_id: typo3
+name: Fluid Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:typo3:fluid_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fluid_engine
+  confidence: auto

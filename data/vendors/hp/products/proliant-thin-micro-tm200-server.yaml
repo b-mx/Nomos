@@ -1,0 +1,10 @@
+id: proliant-thin-micro-tm200-server
+vendor_id: hp
+name: Proliant Thin Micro Tm200 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_thin_micro_tm200_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_thin_micro_tm200_server
+  confidence: auto

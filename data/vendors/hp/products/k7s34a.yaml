@@ -1,0 +1,10 @@
+id: k7s34a
+vendor_id: hp
+name: K7S34A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k7s34a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7s34a
+  confidence: auto

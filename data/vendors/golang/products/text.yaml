@@ -1,0 +1,10 @@
+id: text
+vendor_id: golang
+name: Text
+type: software
+tags: []
+cpe: cpe:2.3:a:golang:text:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: text
+  confidence: auto

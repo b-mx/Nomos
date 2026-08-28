@@ -1,0 +1,10 @@
+id: process-optimization
+vendor_id: aveva
+name: Process Optimization
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:process_optimization:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: process_optimization
+  confidence: auto

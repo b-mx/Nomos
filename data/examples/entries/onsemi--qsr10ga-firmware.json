@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "onsemi--qsr10ga-firmware",
+  "vendor_id": "onsemi",
+  "product_id": "qsr10ga-firmware",
+  "name": "Qsr10Ga Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "qsr10ga_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: test-distribution
+vendor_id: gradle
+name: Test Distribution
+type: software
+tags: []
+cpe: cpe:2.3:a:gradle:test_distribution:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: test_distribution
+  confidence: auto

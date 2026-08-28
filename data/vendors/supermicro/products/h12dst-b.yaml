@@ -1,0 +1,10 @@
+id: h12dst-b
+vendor_id: supermicro
+name: H12Dst-B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h12dst\-b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12dst-b
+  confidence: auto

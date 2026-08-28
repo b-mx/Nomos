@@ -1,0 +1,10 @@
+id: enterprise-network-disk
+vendor_id: lenovo
+name: Enterprise Network Disk
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:enterprise_network_disk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_network_disk
+  confidence: auto

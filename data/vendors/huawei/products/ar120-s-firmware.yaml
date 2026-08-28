@@ -1,0 +1,10 @@
+id: ar120-s-firmware
+vendor_id: huawei
+name: Ar120-S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ar120\-s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar120-s_firmware
+  confidence: auto

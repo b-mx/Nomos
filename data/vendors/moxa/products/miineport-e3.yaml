@@ -1,0 +1,10 @@
+id: miineport-e3
+vendor_id: moxa
+name: Miineport E3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:miineport_e3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miineport_e3
+  confidence: auto

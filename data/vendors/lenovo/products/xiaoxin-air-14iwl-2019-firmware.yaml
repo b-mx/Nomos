@@ -1,0 +1,10 @@
+id: xiaoxin-air-14iwl-2019-firmware
+vendor_id: lenovo
+name: Xiaoxin Air-14Iwl 2019 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:xiaoxin_air\-14iwl_2019_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaoxin_air-14iwl_2019_firmware
+  confidence: auto

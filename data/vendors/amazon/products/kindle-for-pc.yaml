@@ -1,0 +1,10 @@
+id: kindle-for-pc
+vendor_id: amazon
+name: Kindle For Pc
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:kindle_for_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kindle_for_pc
+  confidence: auto

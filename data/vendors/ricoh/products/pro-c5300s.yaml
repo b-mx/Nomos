@@ -1,0 +1,10 @@
+id: pro-c5300s
+vendor_id: ricoh
+name: Pro C5300S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:pro_c5300s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_c5300s
+  confidence: auto

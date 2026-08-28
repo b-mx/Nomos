@@ -1,0 +1,10 @@
+id: sssd
+vendor_id: fedoraproject
+name: Sssd
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:sssd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sssd
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--virtual-rooms",
+  "vendor_id": "hp",
+  "product_id": "virtual-rooms",
+  "name": "Virtual Rooms",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "virtual_rooms",
+      "confidence": "auto"
+    }
+  ]
+}

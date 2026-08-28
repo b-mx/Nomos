@@ -1,0 +1,7 @@
+id: golang
+name: Golang
+cpe: cpe:2.3:*:golang:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: golang
+  confidence: auto

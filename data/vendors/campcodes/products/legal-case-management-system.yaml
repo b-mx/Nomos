@@ -1,0 +1,10 @@
+id: legal-case-management-system
+vendor_id: campcodes
+name: Legal Case Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:legal_case_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legal_case_management_system
+  confidence: auto

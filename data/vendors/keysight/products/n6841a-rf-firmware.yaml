@@ -1,0 +1,10 @@
+id: n6841a-rf-firmware
+vendor_id: keysight
+name: N6841A Rf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:keysight:n6841a_rf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n6841a_rf_firmware
+  confidence: auto

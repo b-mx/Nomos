@@ -1,0 +1,10 @@
+id: linux-protection
+vendor_id: f-secure
+name: Linux Protection
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:linux_protection:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_protection
+  confidence: auto

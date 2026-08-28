@@ -1,0 +1,10 @@
+id: my-control-system
+vendor_id: abb
+name: My Control System
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:my_control_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_control_system
+  confidence: auto

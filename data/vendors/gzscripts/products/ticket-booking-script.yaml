@@ -1,0 +1,10 @@
+id: ticket-booking-script
+vendor_id: gzscripts
+name: Ticket Booking Script
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:ticket_booking_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ticket_booking_script
+  confidence: auto

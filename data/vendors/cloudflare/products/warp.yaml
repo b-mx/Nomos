@@ -1,0 +1,10 @@
+id: warp
+vendor_id: cloudflare
+name: Warp
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:warp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: warp
+  confidence: auto

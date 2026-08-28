@@ -1,0 +1,10 @@
+id: gen5w-l
+vendor_id: hyundai
+name: Gen5W L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hyundai:gen5w_l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gen5w_l
+  confidence: auto

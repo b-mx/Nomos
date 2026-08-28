@@ -1,0 +1,10 @@
+id: pavilion-15-bc500-laptop
+vendor_id: hp
+name: Pavilion 15-Bc500 Laptop
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_15\-bc500_laptop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_15-bc500_laptop
+  confidence: auto

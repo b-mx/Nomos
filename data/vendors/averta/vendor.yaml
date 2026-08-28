@@ -1,0 +1,7 @@
+id: averta
+name: Averta
+cpe: cpe:2.3:*:averta:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: averta
+  confidence: auto

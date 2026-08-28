@@ -1,0 +1,10 @@
+id: dominion-kx-ii-101-firmware
+vendor_id: raritan
+name: Dominion Kx Ii-101 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:raritan:dominion_kx_ii\-101_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dominion_kx_ii-101_firmware
+  confidence: auto

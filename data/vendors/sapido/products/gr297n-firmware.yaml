@@ -1,0 +1,10 @@
+id: gr297n-firmware
+vendor_id: sapido
+name: Gr297N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sapido:gr297n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gr297n_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: libx11
+vendor_id: x-org
+name: Libx11
+type: software
+tags: []
+cpe: cpe:2.3:a:x\.org:libx11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libx11
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkpad-yoga-260-s1-bios
+vendor_id: lenovo
+name: Thinkpad Yoga 260 S1 Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_yoga_260_s1_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_yoga_260_s1_bios
+  confidence: auto

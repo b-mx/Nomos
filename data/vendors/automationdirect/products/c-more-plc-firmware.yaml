@@ -1,0 +1,10 @@
+id: c-more-plc-firmware
+vendor_id: automationdirect
+name: C-More Plc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:c\-more_plc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c-more_plc_firmware
+  confidence: auto

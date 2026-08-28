@@ -1,0 +1,10 @@
+id: wikisource-category-browser
+vendor_id: mediawiki
+name: Wikisource Category Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:wikisource_category_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wikisource_category_browser
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ac18
+vendor_id: tendacn
+name: Ac18
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:ac18:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac18
+  confidence: auto

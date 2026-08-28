@@ -1,0 +1,10 @@
+id: webdriverio
+vendor_id: openjsf
+name: Webdriverio
+type: software
+tags: []
+cpe: cpe:2.3:a:openjsf:webdriverio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webdriverio
+  confidence: auto

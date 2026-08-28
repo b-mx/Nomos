@@ -1,0 +1,10 @@
+id: x10dax
+vendor_id: supermicro
+name: X10Dax
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10dax:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10dax
+  confidence: auto

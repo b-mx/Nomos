@@ -1,0 +1,10 @@
+id: se4101-simplex-ethernet-i-o-card-eioc-assembly
+vendor_id: emerson
+name: Se4101 Simplex Ethernet I/O Card (Eioc) Assembly
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:se4101_simplex_ethernet_i\/o_card_\(eioc\)_assembly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se4101_simplex_ethernet_i/o_card_(eioc)_assembly
+  confidence: auto

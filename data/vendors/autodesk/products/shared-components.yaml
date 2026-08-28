@@ -1,0 +1,10 @@
+id: shared-components
+vendor_id: autodesk
+name: Shared Components
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:shared_components:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shared_components
+  confidence: auto

@@ -1,0 +1,10 @@
+id: alaris-guardrails-editor
+vendor_id: bd
+name: Alaris Guardrails Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:alaris_guardrails_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_guardrails_editor
+  confidence: auto

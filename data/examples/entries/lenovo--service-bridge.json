@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--service-bridge",
+  "vendor_id": "lenovo",
+  "product_id": "service-bridge",
+  "name": "Service Bridge",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_bridge",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--coreos",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "coreos",
+  "name": "Coreos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "coreos",
+      "confidence": "auto"
+    }
+  ]
+}

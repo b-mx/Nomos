@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--notebook",
+  "vendor_id": "jupyter",
+  "product_id": "notebook",
+  "name": "Notebook",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "notebook",
+      "confidence": "auto"
+    }
+  ]
+}

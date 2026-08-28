@@ -1,0 +1,10 @@
+id: freertos-plus-tcp
+vendor_id: amazon
+name: Freertos-Plus-Tcp
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:freertos\-plus\-tcp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freertos-plus-tcp
+  confidence: auto

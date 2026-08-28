@@ -1,0 +1,10 @@
+id: zxr10-160
+vendor_id: zte
+name: Zxr10 160
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxr10_160:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxr10_160
+  confidence: auto

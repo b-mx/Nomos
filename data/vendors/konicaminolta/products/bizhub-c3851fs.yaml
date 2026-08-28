@@ -1,0 +1,10 @@
+id: bizhub-c3851fs
+vendor_id: konicaminolta
+name: Bizhub C3851Fs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_c3851fs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c3851fs
+  confidence: auto

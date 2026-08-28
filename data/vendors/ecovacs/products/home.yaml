@@ -1,0 +1,10 @@
+id: home
+vendor_id: ecovacs
+name: Home
+type: software
+tags: []
+cpe: cpe:2.3:a:ecovacs:home:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: home
+  confidence: auto

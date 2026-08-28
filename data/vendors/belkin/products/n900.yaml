@@ -1,0 +1,10 @@
+id: n900
+vendor_id: belkin
+name: N900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belkin:n900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n900
+  confidence: auto

@@ -1,0 +1,10 @@
+id: patrolflow-am-2530pro-firmware
+vendor_id: byzoro
+name: Patrolflow-Am-2530Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:byzoro:patrolflow\-am\-2530pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: patrolflow-am-2530pro_firmware
+  confidence: auto

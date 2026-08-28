@@ -1,0 +1,10 @@
+id: moldflow-adviser
+vendor_id: autodesk
+name: Moldflow Adviser
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:moldflow_adviser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moldflow_adviser
+  confidence: auto

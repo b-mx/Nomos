@@ -1,0 +1,10 @@
+id: berkeley-tl10
+vendor_id: huawei
+name: Berkeley-Tl10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:berkeley\-tl10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: berkeley-tl10
+  confidence: auto

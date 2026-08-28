@@ -1,0 +1,10 @@
+id: mx310
+vendor_id: lexmark
+name: Mx310
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx310:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx310
+  confidence: auto

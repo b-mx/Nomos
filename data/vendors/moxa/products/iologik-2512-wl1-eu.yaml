@@ -1,0 +1,10 @@
+id: iologik-2512-wl1-eu
+vendor_id: moxa
+name: Iologik 2512-Wl1-Eu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:iologik_2512\-wl1\-eu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iologik_2512-wl1-eu
+  confidence: auto

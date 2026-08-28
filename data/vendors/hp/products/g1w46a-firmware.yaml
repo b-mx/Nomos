@@ -1,0 +1,10 @@
+id: g1w46a-firmware
+vendor_id: hp
+name: G1W46A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:g1w46a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g1w46a_firmware
+  confidence: auto

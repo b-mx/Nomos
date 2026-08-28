@@ -1,0 +1,10 @@
+id: ir420-firmware
+vendor_id: rstinstruments
+name: Ir420 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:ir420_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ir420_firmware
+  confidence: auto

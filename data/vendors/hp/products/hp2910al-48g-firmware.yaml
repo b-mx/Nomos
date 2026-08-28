@@ -1,0 +1,10 @@
+id: hp2910al-48g-firmware
+vendor_id: hp
+name: Hp2910Al-48G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:hp2910al\-48g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp2910al-48g_firmware
+  confidence: auto

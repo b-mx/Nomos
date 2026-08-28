@@ -1,0 +1,10 @@
+id: remedy-ar-system-server
+vendor_id: bmc
+name: Remedy Ar System Server
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:remedy_ar_system_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remedy_ar_system_server
+  confidence: auto

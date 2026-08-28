@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--intelligent-provisioning",
+  "vendor_id": "hpe",
+  "product_id": "intelligent-provisioning",
+  "name": "Intelligent Provisioning",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "intelligent_provisioning",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: rl21
+vendor_id: irz
+name: Rl21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:irz:rl21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rl21
+  confidence: auto

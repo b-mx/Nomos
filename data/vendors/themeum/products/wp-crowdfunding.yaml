@@ -1,0 +1,10 @@
+id: wp-crowdfunding
+vendor_id: themeum
+name: Wp Crowdfunding
+type: software
+tags: []
+cpe: cpe:2.3:a:themeum:wp_crowdfunding:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_crowdfunding
+  confidence: auto

@@ -1,0 +1,10 @@
+id: deskjet-3700-t8x00b
+vendor_id: hp
+name: Deskjet 3700 T8X00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_3700_t8x00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3700_t8x00b
+  confidence: auto

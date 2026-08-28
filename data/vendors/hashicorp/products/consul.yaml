@@ -1,0 +1,13 @@
+id: consul
+vendor_id: hashicorp
+name: Hashicorp Consul
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:consul:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: consul
+  confidence: auto
+- source: nvd
+  value: consul
+  confidence: auto

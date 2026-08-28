@@ -1,0 +1,6 @@
+id: amazon-elasticache-redis
+name: Amazon ElastiCache for Redis OSS
+aliases:
+- source: endoflife
+  value: amazon-elasticache-redis
+  confidence: auto

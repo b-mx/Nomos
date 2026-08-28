@@ -1,0 +1,10 @@
+id: wp-emember
+vendor_id: tipsandtricks-hq
+name: Wp Emember
+type: software
+tags: []
+cpe: cpe:2.3:a:tipsandtricks\-hq:wp_emember:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_emember
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xmill
+vendor_id: att
+name: Xmill
+type: software
+tags: []
+cpe: cpe:2.3:a:att:xmill:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xmill
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dockerspawner
+vendor_id: jupyter
+name: Dockerspawner
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:dockerspawner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dockerspawner
+  confidence: auto

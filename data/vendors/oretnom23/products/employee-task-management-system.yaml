@@ -1,0 +1,10 @@
+id: employee-task-management-system
+vendor_id: oretnom23
+name: Employee Task Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:employee_task_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: employee_task_management_system
+  confidence: auto

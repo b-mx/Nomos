@@ -1,0 +1,10 @@
+id: gl-s20
+vendor_id: gl-inet
+name: Gl-S20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-s20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-s20
+  confidence: auto

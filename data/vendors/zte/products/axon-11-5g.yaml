@@ -1,0 +1,10 @@
+id: axon-11-5g
+vendor_id: zte
+name: Axon 11 5G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:axon_11_5g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axon_11_5g
+  confidence: auto

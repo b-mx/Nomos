@@ -1,0 +1,10 @@
+id: ryzen-5-3580u
+vendor_id: amd
+name: Ryzen 5 3580U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_3580u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_3580u
+  confidence: auto

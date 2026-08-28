@@ -1,0 +1,10 @@
+id: vky-l29-firmware
+vendor_id: huawei
+name: Vky-L29 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:vky\-l29_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vky-l29_firmware
+  confidence: auto

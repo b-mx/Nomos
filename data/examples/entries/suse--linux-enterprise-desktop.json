@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--linux-enterprise-desktop",
+  "vendor_id": "suse",
+  "product_id": "linux-enterprise-desktop",
+  "name": "Linux Enterprise Desktop",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux_enterprise_desktop",
+      "confidence": "auto"
+    }
+  ]
+}

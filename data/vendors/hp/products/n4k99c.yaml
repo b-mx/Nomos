@@ -1,0 +1,10 @@
+id: n4k99c
+vendor_id: hp
+name: N4K99C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:n4k99c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n4k99c
+  confidence: auto

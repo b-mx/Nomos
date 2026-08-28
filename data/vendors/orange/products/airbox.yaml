@@ -1,0 +1,10 @@
+id: airbox
+vendor_id: orange
+name: Airbox
+type: hardware
+tags: []
+cpe: cpe:2.3:h:orange:airbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airbox
+  confidence: auto

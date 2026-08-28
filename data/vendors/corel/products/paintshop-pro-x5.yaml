@@ -1,0 +1,10 @@
+id: paintshop-pro-x5
+vendor_id: corel
+name: Paintshop Pro X5
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:paintshop_pro_x5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paintshop_pro_x5
+  confidence: auto

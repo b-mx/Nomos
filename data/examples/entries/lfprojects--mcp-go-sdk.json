@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lfprojects--mcp-go-sdk",
+  "vendor_id": "lfprojects",
+  "product_id": "mcp-go-sdk",
+  "name": "Mcp Go Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mcp_go_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

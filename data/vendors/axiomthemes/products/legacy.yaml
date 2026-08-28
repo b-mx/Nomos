@@ -1,0 +1,10 @@
+id: legacy
+vendor_id: axiomthemes
+name: Legacy
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:legacy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legacy
+  confidence: auto

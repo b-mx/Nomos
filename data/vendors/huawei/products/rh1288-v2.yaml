@@ -1,0 +1,10 @@
+id: rh1288-v2
+vendor_id: huawei
+name: Rh1288 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rh1288_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh1288_v2
+  confidence: auto

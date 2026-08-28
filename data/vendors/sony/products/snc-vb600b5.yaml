@@ -1,0 +1,10 @@
+id: snc-vb600b5
+vendor_id: sony
+name: Snc-Vb600B5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-vb600b5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-vb600b5
+  confidence: auto

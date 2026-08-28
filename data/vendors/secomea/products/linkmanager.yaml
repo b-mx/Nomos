@@ -1,0 +1,10 @@
+id: linkmanager
+vendor_id: secomea
+name: Linkmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:secomea:linkmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linkmanager
+  confidence: auto

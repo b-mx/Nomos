@@ -1,0 +1,10 @@
+id: proman-xpress
+vendor_id: itechscripts
+name: Proman Xpress
+type: software
+tags: []
+cpe: cpe:2.3:a:itechscripts:proman_xpress:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proman_xpress
+  confidence: auto

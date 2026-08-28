@@ -1,0 +1,10 @@
+id: pcs
+vendor_id: clusterlabs
+name: Pcs
+type: software
+tags: []
+cpe: cpe:2.3:a:clusterlabs:pcs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcs
+  confidence: auto

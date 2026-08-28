@@ -1,0 +1,10 @@
+id: mobile-security
+vendor_id: eset
+name: Mobile Security
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:mobile_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile_security
+  confidence: auto

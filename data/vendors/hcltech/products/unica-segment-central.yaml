@@ -1,0 +1,10 @@
+id: unica-segment-central
+vendor_id: hcltech
+name: Unica Segment Central
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:unica_segment_central:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unica_segment_central
+  confidence: auto

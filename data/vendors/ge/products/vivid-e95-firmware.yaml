@@ -1,0 +1,10 @@
+id: vivid-e95-firmware
+vendor_id: ge
+name: Vivid E95 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:vivid_e95_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vivid_e95_firmware
+  confidence: auto

@@ -8,25 +8,18 @@
   "tags": [
     "database"
   ],
-  "icon": "logos:postgresql",
-  "services": [
-    {
-      "protocol": "tcp",
-      "port": 5432,
-      "name": "postgresql",
-      "default": true
-    }
-  ],
+  "icon": null,
+  "services": [],
   "aliases": [
-    {
-      "source": "nvd",
-      "value": "postgresql",
-      "confidence": "curated"
-    },
     {
       "source": "endoflife",
       "value": "postgresql",
-      "confidence": "curated"
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "postgresql",
+      "confidence": "auto"
     }
   ]
 }

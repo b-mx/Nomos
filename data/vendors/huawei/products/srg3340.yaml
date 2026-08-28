@@ -1,0 +1,10 @@
+id: srg3340
+vendor_id: huawei
+name: Srg3340
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:srg3340:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srg3340
+  confidence: auto

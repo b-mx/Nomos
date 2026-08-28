@@ -1,0 +1,10 @@
+id: sunny-boy-5000tl
+vendor_id: sma
+name: Sunny Boy 5000Tl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sma:sunny_boy_5000tl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_boy_5000tl
+  confidence: auto

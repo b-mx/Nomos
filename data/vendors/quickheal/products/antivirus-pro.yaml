@@ -1,0 +1,10 @@
+id: antivirus-pro
+vendor_id: quickheal
+name: Antivirus Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:quickheal:antivirus_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivirus_pro
+  confidence: auto

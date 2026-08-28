@@ -1,0 +1,10 @@
+id: thinksystem-sn550-firmware
+vendor_id: lenovo
+name: Thinksystem Sn550 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksystem_sn550_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_sn550_firmware
+  confidence: auto

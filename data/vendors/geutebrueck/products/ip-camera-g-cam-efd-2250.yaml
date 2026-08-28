@@ -1,0 +1,10 @@
+id: ip-camera-g-cam-efd-2250
+vendor_id: geutebrueck
+name: Ip Camera G-Cam Efd-2250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:geutebrueck:ip_camera_g\-cam_efd\-2250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_camera_g-cam_efd-2250
+  confidence: auto

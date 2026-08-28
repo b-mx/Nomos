@@ -1,0 +1,10 @@
+id: pcoip-management-console
+vendor_id: teradici
+name: Pcoip Management Console
+type: software
+tags: []
+cpe: cpe:2.3:a:teradici:pcoip_management_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcoip_management_console
+  confidence: auto

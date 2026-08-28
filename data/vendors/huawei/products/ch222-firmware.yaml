@@ -1,0 +1,10 @@
+id: ch222-firmware
+vendor_id: huawei
+name: Ch222 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ch222_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch222_firmware
+  confidence: auto

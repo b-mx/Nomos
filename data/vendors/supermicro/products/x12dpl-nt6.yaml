@@ -1,0 +1,10 @@
+id: x12dpl-nt6
+vendor_id: supermicro
+name: X12Dpl-Nt6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12dpl\-nt6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dpl-nt6
+  confidence: auto

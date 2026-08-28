@@ -1,0 +1,10 @@
+id: kilo
+vendor_id: openstack
+name: Kilo
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:kilo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kilo
+  confidence: auto

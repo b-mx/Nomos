@@ -1,0 +1,10 @@
+id: worldmap-panel
+vendor_id: grafana
+name: Worldmap Panel
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:worldmap_panel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: worldmap_panel
+  confidence: auto

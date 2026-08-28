@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rapid7--velociraptor",
+  "vendor_id": "rapid7",
+  "product_id": "velociraptor",
+  "name": "Velociraptor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "velociraptor",
+      "confidence": "auto"
+    }
+  ]
+}

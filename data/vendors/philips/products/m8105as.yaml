@@ -1,0 +1,10 @@
+id: m8105as
+vendor_id: philips
+name: M8105As
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:m8105as:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m8105as
+  confidence: auto

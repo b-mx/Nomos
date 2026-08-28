@@ -1,0 +1,10 @@
+id: cepheus
+vendor_id: mi
+name: Cepheus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:cepheus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cepheus
+  confidence: auto

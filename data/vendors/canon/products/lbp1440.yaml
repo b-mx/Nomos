@@ -1,0 +1,10 @@
+id: lbp1440
+vendor_id: canon
+name: Lbp1440
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:lbp1440:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lbp1440
+  confidence: auto

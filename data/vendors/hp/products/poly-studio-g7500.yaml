@@ -1,0 +1,10 @@
+id: poly-studio-g7500
+vendor_id: hp
+name: Poly Studio G7500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:poly_studio_g7500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_studio_g7500
+  confidence: auto

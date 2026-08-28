@@ -1,0 +1,10 @@
+id: nts-al00
+vendor_id: huawei
+name: Nts-Al00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nts\-al00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nts-al00
+  confidence: auto

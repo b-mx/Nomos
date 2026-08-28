@@ -1,0 +1,10 @@
+id: cf-ac100
+vendor_id: comfast
+name: Cf-Ac100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:comfast:cf\-ac100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf-ac100
+  confidence: auto

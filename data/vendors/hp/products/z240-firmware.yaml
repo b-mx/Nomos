@@ -1,0 +1,10 @@
+id: z240-firmware
+vendor_id: hp
+name: Z240 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:z240_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z240_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nova227
+vendor_id: baicells
+name: Nova227
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baicells:nova227:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova227
+  confidence: auto

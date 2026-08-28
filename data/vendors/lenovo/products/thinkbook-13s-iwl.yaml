@@ -1,0 +1,10 @@
+id: thinkbook-13s-iwl
+vendor_id: lenovo
+name: Thinkbook 13S-Iwl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkbook_13s\-iwl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_13s-iwl
+  confidence: auto

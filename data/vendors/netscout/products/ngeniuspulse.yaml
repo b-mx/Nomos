@@ -1,0 +1,10 @@
+id: ngeniuspulse
+vendor_id: netscout
+name: Ngeniuspulse
+type: software
+tags: []
+cpe: cpe:2.3:a:netscout:ngeniuspulse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ngeniuspulse
+  confidence: auto

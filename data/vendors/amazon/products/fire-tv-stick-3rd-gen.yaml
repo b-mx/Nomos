@@ -1,0 +1,10 @@
+id: fire-tv-stick-3rd-gen
+vendor_id: amazon
+name: Fire Tv Stick 3Rd Gen
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amazon:fire_tv_stick_3rd_gen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fire_tv_stick_3rd_gen
+  confidence: auto

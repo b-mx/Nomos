@@ -1,0 +1,10 @@
+id: ms610dn
+vendor_id: lexmark
+name: Ms610Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms610dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms610dn
+  confidence: auto

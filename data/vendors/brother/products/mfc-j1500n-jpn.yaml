@@ -1,0 +1,10 @@
+id: mfc-j1500n-jpn
+vendor_id: brother
+name: Mfc-J1500N(Jpn)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-j1500n\(jpn\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-j1500n(jpn)
+  confidence: auto

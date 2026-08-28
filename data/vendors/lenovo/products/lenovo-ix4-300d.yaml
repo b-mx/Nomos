@@ -1,0 +1,10 @@
+id: lenovo-ix4-300d
+vendor_id: lenovo
+name: Lenovo Ix4-300D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:lenovo_ix4\-300d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_ix4-300d
+  confidence: auto

@@ -1,0 +1,10 @@
+id: v320-15iap-firmware
+vendor_id: lenovo
+name: V320-15Iap Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v320\-15iap_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v320-15iap_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: proone-400-g6-20-all-in-one-pc
+vendor_id: hp
+name: Proone 400 G6 20 All-In-One Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proone_400_g6_20_all\-in\-one_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_400_g6_20_all-in-one_pc
+  confidence: auto

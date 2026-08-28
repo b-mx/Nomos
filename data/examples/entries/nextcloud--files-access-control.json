@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--files-access-control",
+  "vendor_id": "nextcloud",
+  "product_id": "files-access-control",
+  "name": "Files Access Control",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "files_access_control",
+      "confidence": "auto"
+    }
+  ]
+}

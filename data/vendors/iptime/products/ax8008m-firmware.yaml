@@ -1,0 +1,10 @@
+id: ax8008m-firmware
+vendor_id: iptime
+name: Ax8008M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:ax8008m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax8008m_firmware
+  confidence: auto

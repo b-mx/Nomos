@@ -1,0 +1,10 @@
+id: stardom-fcn-fcj
+vendor_id: yokogawa
+name: Stardom Fcn/Fcj
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:stardom_fcn\/fcj:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stardom_fcn/fcj
+  confidence: auto

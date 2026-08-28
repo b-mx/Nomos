@@ -1,0 +1,10 @@
+id: vsp-g130
+vendor_id: hitachi
+name: Vsp G130
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachi:vsp_g130:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsp_g130
+  confidence: auto

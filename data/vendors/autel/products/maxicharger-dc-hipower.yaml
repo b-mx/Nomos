@@ -1,0 +1,10 @@
+id: maxicharger-dc-hipower
+vendor_id: autel
+name: Maxicharger Dc Hipower
+type: hardware
+tags: []
+cpe: cpe:2.3:h:autel:maxicharger_dc_hipower:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxicharger_dc_hipower
+  confidence: auto

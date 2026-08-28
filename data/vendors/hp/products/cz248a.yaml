@@ -1,0 +1,10 @@
+id: cz248a
+vendor_id: hp
+name: Cz248A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz248a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz248a
+  confidence: auto

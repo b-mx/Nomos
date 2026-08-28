@@ -1,0 +1,10 @@
+id: laserjet-mfp-m230-q3q75a-firmware
+vendor_id: hp
+name: Laserjet Mfp M230 Q3Q75A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_mfp_m230_q3q75a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m230_q3q75a_firmware
+  confidence: auto

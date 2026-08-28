@@ -1,7 +1,6 @@
 id: wordpress
 name: WordPress
-icon: skill-icons:wordpress
 aliases:
 - source: cisa_kev
   value: WordPress
-  confidence: curated
+  confidence: auto

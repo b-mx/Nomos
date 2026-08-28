@@ -1,0 +1,10 @@
+id: advanced-server-access
+vendor_id: okta
+name: Advanced Server Access
+type: software
+tags: []
+cpe: cpe:2.3:a:okta:advanced_server_access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_server_access
+  confidence: auto

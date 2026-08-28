@@ -1,0 +1,10 @@
+id: hx200-firmware
+vendor_id: hughes
+name: Hx200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hughes:hx200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hx200_firmware
+  confidence: auto

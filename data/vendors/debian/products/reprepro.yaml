@@ -1,0 +1,10 @@
+id: reprepro
+vendor_id: debian
+name: Reprepro
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:reprepro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reprepro
+  confidence: auto

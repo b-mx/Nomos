@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microchip--wbz451-firmware",
+  "vendor_id": "microchip",
+  "product_id": "wbz451-firmware",
+  "name": "Wbz451 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wbz451_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

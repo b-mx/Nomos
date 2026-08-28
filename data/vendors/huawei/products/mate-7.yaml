@@ -1,0 +1,10 @@
+id: mate-7
+vendor_id: huawei
+name: Mate 7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:mate_7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mate_7
+  confidence: auto

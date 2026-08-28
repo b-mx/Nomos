@@ -1,0 +1,10 @@
+id: p-smart
+vendor_id: huawei
+name: P-Smart
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p\-smart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p-smart
+  confidence: auto

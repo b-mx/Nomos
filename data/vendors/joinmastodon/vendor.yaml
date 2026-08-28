@@ -1,0 +1,7 @@
+id: joinmastodon
+name: Joinmastodon
+cpe: cpe:2.3:*:joinmastodon:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: joinmastodon
+  confidence: auto

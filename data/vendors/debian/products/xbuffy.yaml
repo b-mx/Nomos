@@ -1,0 +1,10 @@
+id: xbuffy
+vendor_id: debian
+name: Xbuffy
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:xbuffy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbuffy
+  confidence: auto

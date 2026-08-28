@@ -1,0 +1,10 @@
+id: ubr-01-mk-ii
+vendor_id: mbs-solutions
+name: Ubr-01 Mk Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:ubr\-01_mk_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubr-01_mk_ii
+  confidence: auto

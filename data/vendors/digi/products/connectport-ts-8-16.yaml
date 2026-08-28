@@ -1,0 +1,10 @@
+id: connectport-ts-8-16
+vendor_id: digi
+name: Connectport Ts 8/16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:connectport_ts_8\/16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connectport_ts_8/16
+  confidence: auto

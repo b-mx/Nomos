@@ -1,0 +1,10 @@
+id: comand
+vendor_id: mercedes-benz
+name: Comand
+type: os
+tags: []
+cpe: cpe:2.3:o:mercedes\-benz:comand:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comand
+  confidence: auto

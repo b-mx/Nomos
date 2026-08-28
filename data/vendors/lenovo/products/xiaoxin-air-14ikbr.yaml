@@ -1,0 +1,10 @@
+id: xiaoxin-air-14ikbr
+vendor_id: lenovo
+name: Xiaoxin Air 14Ikbr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:xiaoxin_air_14ikbr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaoxin_air_14ikbr
+  confidence: auto

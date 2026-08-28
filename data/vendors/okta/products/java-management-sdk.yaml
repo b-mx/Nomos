@@ -1,0 +1,10 @@
+id: java-management-sdk
+vendor_id: okta
+name: Java Management Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:okta:java_management_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_management_sdk
+  confidence: auto

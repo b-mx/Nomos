@@ -1,0 +1,10 @@
+id: v80g
+vendor_id: intelliantech
+name: V80G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelliantech:v80g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v80g
+  confidence: auto

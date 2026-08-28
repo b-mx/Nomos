@@ -1,0 +1,10 @@
+id: education-zone
+vendor_id: rarathemes
+name: Education Zone
+type: software
+tags: []
+cpe: cpe:2.3:a:rarathemes:education_zone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: education_zone
+  confidence: auto

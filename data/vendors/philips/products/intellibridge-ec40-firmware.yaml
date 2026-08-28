@@ -1,0 +1,10 @@
+id: intellibridge-ec40-firmware
+vendor_id: philips
+name: Intellibridge Ec40 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:intellibridge_ec40_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellibridge_ec40_firmware
+  confidence: auto

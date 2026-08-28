@@ -1,0 +1,10 @@
+id: 759v0e-firmware
+vendor_id: hp
+name: 759V0E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:759v0e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 759v0e_firmware
+  confidence: auto

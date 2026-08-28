@@ -1,0 +1,10 @@
+id: laserjet-managed-500-color-mfp-m575-l3u46a-firmware
+vendor_id: hp
+name: Laserjet Managed 500 Color Mfp M575 L3U46A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_500_color_mfp_m575_l3u46a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_500_color_mfp_m575_l3u46a_firmware
+  confidence: auto

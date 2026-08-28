@@ -1,0 +1,10 @@
+id: 15-4-stack
+vendor_id: ti
+name: 15.4-Stack
+type: software
+tags: []
+cpe: cpe:2.3:a:ti:15\.4\-stack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 15.4-stack
+  confidence: auto

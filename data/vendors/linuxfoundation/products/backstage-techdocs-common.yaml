@@ -1,0 +1,10 @@
+id: backstage-techdocs-common
+vendor_id: linuxfoundation
+name: '@Backstage/Techdocs-Common'
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:\@backstage\/techdocs\-common:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '@backstage/techdocs-common'
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ip-900iid
+vendor_id: fujitsu
+name: Ip-900Iid
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:ip\-900iid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip-900iid
+  confidence: auto

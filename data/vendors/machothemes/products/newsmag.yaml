@@ -1,0 +1,10 @@
+id: newsmag
+vendor_id: machothemes
+name: Newsmag
+type: software
+tags: []
+cpe: cpe:2.3:a:machothemes:newsmag:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: newsmag
+  confidence: auto

@@ -1,0 +1,10 @@
+id: b9s57c-firmware
+vendor_id: hp
+name: B9S57C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:b9s57c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b9s57c_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-8024pn-firmware",
+  "vendor_id": "amd",
+  "product_id": "epyc-8024pn-firmware",
+  "name": "Epyc 8024Pn Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_8024pn_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

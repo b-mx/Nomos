@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rstinstruments--ic6560-firmware",
+  "vendor_id": "rstinstruments",
+  "product_id": "ic6560-firmware",
+  "name": "Ic6560 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ic6560_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

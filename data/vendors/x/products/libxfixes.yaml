@@ -1,0 +1,10 @@
+id: libxfixes
+vendor_id: x
+name: Libxfixes
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxfixes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxfixes
+  confidence: auto

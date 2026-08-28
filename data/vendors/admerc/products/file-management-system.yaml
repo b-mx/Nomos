@@ -1,0 +1,10 @@
+id: file-management-system
+vendor_id: admerc
+name: File Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:admerc:file_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: file_management_system
+  confidence: auto

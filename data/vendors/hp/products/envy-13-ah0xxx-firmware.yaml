@@ -1,0 +1,10 @@
+id: envy-13-ah0xxx-firmware
+vendor_id: hp
+name: Envy 13-Ah0Xxx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_13\-ah0xxx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_13-ah0xxx_firmware
+  confidence: auto

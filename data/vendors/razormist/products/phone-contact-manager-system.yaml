@@ -1,0 +1,10 @@
+id: phone-contact-manager-system
+vendor_id: razormist
+name: Phone Contact Manager System
+type: software
+tags: []
+cpe: cpe:2.3:a:razormist:phone_contact_manager_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phone_contact_manager_system
+  confidence: auto

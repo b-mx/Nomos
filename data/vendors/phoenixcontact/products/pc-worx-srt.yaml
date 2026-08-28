@@ -1,0 +1,10 @@
+id: pc-worx-srt
+vendor_id: phoenixcontact
+name: Pc Worx Srt
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:pc_worx_srt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc_worx_srt
+  confidence: auto

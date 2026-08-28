@@ -1,0 +1,10 @@
+id: debmany
+vendor_id: debian
+name: Debmany
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:debmany:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: debmany
+  confidence: auto

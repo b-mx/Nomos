@@ -1,0 +1,10 @@
+id: rancher-k3s
+vendor_id: suse
+name: Rancher K3S
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:rancher_k3s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rancher_k3s
+  confidence: auto

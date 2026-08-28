@@ -1,0 +1,6 @@
+id: windows-powershell
+name: Microsoft Windows PowerShell
+aliases:
+- source: endoflife
+  value: windows-powershell
+  confidence: auto

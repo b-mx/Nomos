@@ -1,0 +1,10 @@
+id: gorilla
+vendor_id: gorilla
+name: Gorilla Toolkit
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: gorilla
+  confidence: auto

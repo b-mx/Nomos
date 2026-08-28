@@ -1,0 +1,10 @@
+id: arcgis-engine
+vendor_id: esri
+name: Arcgis Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:arcgis_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcgis_engine
+  confidence: auto

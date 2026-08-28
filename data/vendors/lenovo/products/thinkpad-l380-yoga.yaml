@@ -1,0 +1,10 @@
+id: thinkpad-l380-yoga
+vendor_id: lenovo
+name: Thinkpad L380 Yoga
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_l380_yoga:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_l380_yoga
+  confidence: auto

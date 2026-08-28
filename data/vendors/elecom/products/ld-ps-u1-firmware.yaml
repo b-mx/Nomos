@@ -1,0 +1,10 @@
+id: ld-ps-u1-firmware
+vendor_id: elecom
+name: Ld-Ps/U1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:ld\-ps\/u1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ld-ps/u1_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: compia-crt-d
+vendor_id: medtronic
+name: Compia Crt-D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:compia_crt\-d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compia_crt-d
+  confidence: auto

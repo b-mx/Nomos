@@ -1,0 +1,10 @@
+id: cs1w-nc271-firmware
+vendor_id: omron
+name: Cs1W-Nc271 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cs1w\-nc271_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1w-nc271_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bluecoat--proxyav",
+  "vendor_id": "bluecoat",
+  "product_id": "proxyav",
+  "name": "Proxyav",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proxyav",
+      "confidence": "auto"
+    }
+  ]
+}

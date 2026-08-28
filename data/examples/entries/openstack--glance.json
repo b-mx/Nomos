@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--glance",
+  "vendor_id": "openstack",
+  "product_id": "glance",
+  "name": "Glance",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "glance",
+      "confidence": "auto"
+    }
+  ]
+}

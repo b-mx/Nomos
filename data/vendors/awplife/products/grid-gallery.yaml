@@ -1,0 +1,10 @@
+id: grid-gallery
+vendor_id: awplife
+name: Grid Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:awplife:grid_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: grid_gallery
+  confidence: auto

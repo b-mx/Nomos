@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "snowflake--snowflake-jdbc",
+  "vendor_id": "snowflake",
+  "product_id": "snowflake-jdbc",
+  "name": "Snowflake Jdbc",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "snowflake_jdbc",
+      "confidence": "auto"
+    }
+  ]
+}

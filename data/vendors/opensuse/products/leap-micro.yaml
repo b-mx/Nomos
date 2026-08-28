@@ -1,0 +1,10 @@
+id: leap-micro
+vendor_id: opensuse
+name: Leap Micro
+type: os
+tags: []
+cpe: cpe:2.3:o:opensuse:leap_micro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: leap_micro
+  confidence: auto

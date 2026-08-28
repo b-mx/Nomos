@@ -1,0 +1,10 @@
+id: bhr-4rv
+vendor_id: buffalotech
+name: Bhr-4Rv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:bhr\-4rv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bhr-4rv
+  confidence: auto

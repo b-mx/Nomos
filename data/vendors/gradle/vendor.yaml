@@ -1,0 +1,7 @@
+id: gradle
+name: Gradle
+cpe: cpe:2.3:*:gradle:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gradle
+  confidence: auto

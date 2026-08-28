@@ -1,0 +1,10 @@
+id: a804ns-mu
+vendor_id: iptime
+name: A804Ns-Mu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a804ns\-mu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a804ns-mu
+  confidence: auto

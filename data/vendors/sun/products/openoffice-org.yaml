@@ -1,0 +1,10 @@
+id: openoffice-org
+vendor_id: sun
+name: Openoffice.Org
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:openoffice\.org:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openoffice.org
+  confidence: auto

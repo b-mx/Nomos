@@ -1,0 +1,10 @@
+id: id-now
+vendor_id: abbott
+name: Id Now
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abbott:id_now:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: id_now
+  confidence: auto

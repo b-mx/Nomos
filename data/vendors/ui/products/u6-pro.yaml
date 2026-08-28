@@ -1,0 +1,10 @@
+id: u6-pro
+vendor_id: ui
+name: U6-Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:u6\-pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: u6-pro
+  confidence: auto

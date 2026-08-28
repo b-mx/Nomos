@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "amazon-mq-rabbitmq",
+  "vendor_id": "amazon-mq-rabbitmq",
+  "name": "Amazon MQ for RabbitMQ",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "amazon-mq-rabbitmq",
+      "confidence": "auto"
+    }
+  ]
+}

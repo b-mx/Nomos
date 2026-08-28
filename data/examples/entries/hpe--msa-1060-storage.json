@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--msa-1060-storage",
+  "vendor_id": "hpe",
+  "product_id": "msa-1060-storage",
+  "name": "Msa 1060 Storage",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "msa_1060_storage",
+      "confidence": "auto"
+    }
+  ]
+}

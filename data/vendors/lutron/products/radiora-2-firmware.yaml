@@ -1,0 +1,10 @@
+id: radiora-2-firmware
+vendor_id: lutron
+name: Radiora 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lutron:radiora_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radiora_2_firmware
+  confidence: auto

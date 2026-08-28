@@ -1,0 +1,10 @@
+id: kratos
+vendor_id: ory
+name: Kratos
+type: software
+tags: []
+cpe: cpe:2.3:a:ory:kratos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kratos
+  confidence: auto

@@ -1,0 +1,10 @@
+id: eagle-1200ac
+vendor_id: jensenofscandinavia
+name: Eagle 1200Ac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jensenofscandinavia:eagle_1200ac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eagle_1200ac
+  confidence: auto

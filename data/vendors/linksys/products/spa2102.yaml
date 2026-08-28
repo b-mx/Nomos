@@ -1,0 +1,10 @@
+id: spa2102
+vendor_id: linksys
+name: Spa2102
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:spa2102:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spa2102
+  confidence: auto

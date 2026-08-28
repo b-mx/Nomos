@@ -1,0 +1,10 @@
+id: ar3260
+vendor_id: huawei
+name: Ar3260
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar3260:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar3260
+  confidence: auto

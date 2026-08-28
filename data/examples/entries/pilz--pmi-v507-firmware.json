@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pilz--pmi-v507-firmware",
+  "vendor_id": "pilz",
+  "product_id": "pmi-v507-firmware",
+  "name": "Pmi V507 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pmi_v507_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

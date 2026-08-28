@@ -1,0 +1,10 @@
+id: 5s-plus
+vendor_id: mi
+name: 5S Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:5s_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5s_plus
+  confidence: auto

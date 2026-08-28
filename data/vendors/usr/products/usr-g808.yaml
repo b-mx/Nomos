@@ -1,0 +1,10 @@
+id: usr-g808
+vendor_id: usr
+name: Usr-G808
+type: hardware
+tags: []
+cpe: cpe:2.3:h:usr:usr\-g808:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usr-g808
+  confidence: auto

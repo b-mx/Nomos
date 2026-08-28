@@ -1,0 +1,10 @@
+id: connect
+vendor_id: tanium
+name: Connect
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect
+  confidence: auto

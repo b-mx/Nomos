@@ -1,0 +1,10 @@
+id: language-server-protocol-integration
+vendor_id: jupyter
+name: Language Server Protocol Integration
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:language_server_protocol_integration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: language_server_protocol_integration
+  confidence: auto

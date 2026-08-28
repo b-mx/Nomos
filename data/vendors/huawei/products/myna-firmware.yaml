@@ -1,0 +1,10 @@
+id: myna-firmware
+vendor_id: huawei
+name: Myna Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:myna_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: myna_firmware
+  confidence: auto

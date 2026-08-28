@@ -1,0 +1,10 @@
+id: epyc-9654p
+vendor_id: amd
+name: Epyc 9654P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_9654p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_9654p
+  confidence: auto

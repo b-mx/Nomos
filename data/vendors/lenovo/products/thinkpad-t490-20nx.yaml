@@ -1,0 +1,10 @@
+id: thinkpad-t490-20nx
+vendor_id: lenovo
+name: Thinkpad T490 (20Nx)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_t490_\(20nx\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t490_(20nx)
+  confidence: auto

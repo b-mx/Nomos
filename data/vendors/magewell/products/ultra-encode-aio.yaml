@@ -1,0 +1,10 @@
+id: ultra-encode-aio
+vendor_id: magewell
+name: Ultra Encode Aio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:magewell:ultra_encode_aio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultra_encode_aio
+  confidence: auto

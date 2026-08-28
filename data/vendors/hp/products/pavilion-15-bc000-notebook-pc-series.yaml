@@ -1,0 +1,10 @@
+id: pavilion-15-bc000-notebook-pc-series
+vendor_id: hp
+name: Pavilion 15-Bc000 Notebook Pc Series
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_15\-bc000_notebook_pc_series:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_15-bc000_notebook_pc_series
+  confidence: auto

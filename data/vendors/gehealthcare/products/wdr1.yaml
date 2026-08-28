@@ -1,0 +1,10 @@
+id: wdr1
+vendor_id: gehealthcare
+name: Wdr1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:wdr1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wdr1
+  confidence: auto

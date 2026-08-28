@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "perforce--helix-core",
+  "vendor_id": "perforce",
+  "product_id": "helix-core",
+  "name": "Helix Core",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "helix_core",
+      "confidence": "auto"
+    }
+  ]
+}

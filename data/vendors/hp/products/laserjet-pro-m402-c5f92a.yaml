@@ -1,0 +1,10 @@
+id: laserjet-pro-m402-c5f92a
+vendor_id: hp
+name: Laserjet Pro M402 C5F92A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m402_c5f92a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m402_c5f92a
+  confidence: auto

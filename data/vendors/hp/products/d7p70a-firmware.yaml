@@ -1,0 +1,10 @@
+id: d7p70a-firmware
+vendor_id: hp
+name: D7P70A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:d7p70a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d7p70a_firmware
+  confidence: auto

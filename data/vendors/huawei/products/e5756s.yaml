@@ -1,0 +1,10 @@
+id: e5756s
+vendor_id: huawei
+name: E5756S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e5756s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e5756s
+  confidence: auto

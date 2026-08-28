@@ -1,0 +1,10 @@
+id: cg-wgr-1200-firmware
+vendor_id: corega
+name: Cg-Wgr 1200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:corega:cg\-wgr_1200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cg-wgr_1200_firmware
+  confidence: auto

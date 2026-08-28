@@ -1,0 +1,14 @@
+id: neo4j
+vendor_id: neo4j
+name: Neo4j
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:neo4j:neo4j:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: neo4j
+  confidence: auto
+- source: nvd
+  value: neo4j
+  confidence: auto

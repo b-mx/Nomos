@@ -1,0 +1,10 @@
+id: limedio
+vendor_id: ricoh
+name: Limedio
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:limedio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: limedio
+  confidence: auto

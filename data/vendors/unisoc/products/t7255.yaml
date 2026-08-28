@@ -1,0 +1,10 @@
+id: t7255
+vendor_id: unisoc
+name: T7255
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:t7255:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t7255
+  confidence: auto

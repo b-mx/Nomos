@@ -1,0 +1,10 @@
+id: magic-nx400
+vendor_id: h3c
+name: Magic Nx400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:magic_nx400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_nx400
+  confidence: auto

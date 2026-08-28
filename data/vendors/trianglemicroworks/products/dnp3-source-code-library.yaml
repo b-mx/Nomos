@@ -1,0 +1,10 @@
+id: dnp3-source-code-library
+vendor_id: trianglemicroworks
+name: Dnp3 Source Code Library
+type: software
+tags: []
+cpe: cpe:2.3:a:trianglemicroworks:dnp3_source_code_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dnp3_source_code_library
+  confidence: auto

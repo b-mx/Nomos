@@ -1,0 +1,10 @@
+id: aspire-z3-615
+vendor_id: acer
+name: Aspire Z3-615
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_z3\-615:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_z3-615
+  confidence: auto

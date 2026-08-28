@@ -1,0 +1,10 @@
+id: jd273a
+vendor_id: hp
+name: Jd273A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd273a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd273a
+  confidence: auto

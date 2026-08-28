@@ -1,0 +1,10 @@
+id: en-1dbc
+vendor_id: amag
+name: En-1Dbc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amag:en\-1dbc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: en-1dbc
+  confidence: auto

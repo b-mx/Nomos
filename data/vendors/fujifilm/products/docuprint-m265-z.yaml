@@ -1,0 +1,10 @@
+id: docuprint-m265-z
+vendor_id: fujifilm
+name: Docuprint M265 Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:docuprint_m265_z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_m265_z
+  confidence: auto

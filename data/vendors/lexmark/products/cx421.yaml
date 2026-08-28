@@ -1,0 +1,10 @@
+id: cx421
+vendor_id: lexmark
+name: Cx421
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx421:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx421
+  confidence: auto

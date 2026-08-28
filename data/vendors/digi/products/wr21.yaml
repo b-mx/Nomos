@@ -1,0 +1,10 @@
+id: wr21
+vendor_id: digi
+name: Wr21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:wr21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wr21
+  confidence: auto

@@ -1,0 +1,10 @@
+id: esptool
+vendor_id: espressif
+name: Esptool
+type: software
+tags: []
+cpe: cpe:2.3:a:espressif:esptool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esptool
+  confidence: auto

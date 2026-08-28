@@ -1,0 +1,10 @@
+id: sunny-explorer
+vendor_id: sma
+name: Sunny Explorer
+type: software
+tags: []
+cpe: cpe:2.3:a:sma:sunny_explorer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_explorer
+  confidence: auto

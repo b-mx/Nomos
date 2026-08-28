@@ -1,0 +1,10 @@
+id: fx3s
+vendor_id: mitsubishielectric
+name: Fx3S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:fx3s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3s
+  confidence: auto

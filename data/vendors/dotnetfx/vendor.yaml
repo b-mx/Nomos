@@ -1,0 +1,6 @@
+id: dotnetfx
+name: Microsoft .NET Framework
+aliases:
+- source: endoflife
+  value: dotnetfx
+  confidence: auto

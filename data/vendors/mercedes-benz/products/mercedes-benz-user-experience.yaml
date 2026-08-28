@@ -1,0 +1,10 @@
+id: mercedes-benz-user-experience
+vendor_id: mercedes-benz
+name: Mercedes-Benz User Experience
+type: software
+tags: []
+cpe: cpe:2.3:a:mercedes\-benz:mercedes\-benz_user_experience:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mercedes-benz_user_experience
+  confidence: auto

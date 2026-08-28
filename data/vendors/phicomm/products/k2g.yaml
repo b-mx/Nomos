@@ -1,0 +1,10 @@
+id: k2g
+vendor_id: phicomm
+name: K2G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phicomm:k2g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k2g
+  confidence: auto

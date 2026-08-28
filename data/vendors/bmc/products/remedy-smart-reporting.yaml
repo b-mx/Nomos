@@ -1,0 +1,10 @@
+id: remedy-smart-reporting
+vendor_id: bmc
+name: Remedy Smart Reporting
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:remedy_smart_reporting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remedy_smart_reporting
+  confidence: auto

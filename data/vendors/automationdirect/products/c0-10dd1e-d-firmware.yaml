@@ -1,0 +1,10 @@
+id: c0-10dd1e-d-firmware
+vendor_id: automationdirect
+name: C0-10Dd1E-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:c0\-10dd1e\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c0-10dd1e-d_firmware
+  confidence: auto

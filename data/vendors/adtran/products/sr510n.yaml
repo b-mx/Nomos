@@ -1,0 +1,10 @@
+id: sr510n
+vendor_id: adtran
+name: Sr510N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:adtran:sr510n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sr510n
+  confidence: auto

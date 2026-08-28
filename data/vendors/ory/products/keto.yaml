@@ -1,0 +1,10 @@
+id: keto
+vendor_id: ory
+name: Keto
+type: software
+tags: []
+cpe: cpe:2.3:a:ory:keto:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keto
+  confidence: auto

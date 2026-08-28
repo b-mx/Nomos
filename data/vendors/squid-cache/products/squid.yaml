@@ -1,0 +1,13 @@
+id: squid
+vendor_id: squid-cache
+name: Squid
+type: software
+tags: []
+cpe: cpe:2.3:a:squid\-cache:squid:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: squid
+  confidence: auto
+- source: nvd
+  value: squid
+  confidence: auto

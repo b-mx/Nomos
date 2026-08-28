@@ -1,0 +1,10 @@
+id: dominion-sx4-firmware
+vendor_id: raritan
+name: Dominion Sx4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:raritan:dominion_sx4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dominion_sx4_firmware
+  confidence: auto

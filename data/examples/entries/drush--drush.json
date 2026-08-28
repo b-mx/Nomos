@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "drush--drush",
+  "vendor_id": "drush",
+  "product_id": "drush",
+  "name": "Drush",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "drush",
+      "confidence": "auto"
+    }
+  ]
+}

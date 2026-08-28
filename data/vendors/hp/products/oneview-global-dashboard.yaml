@@ -1,0 +1,10 @@
+id: oneview-global-dashboard
+vendor_id: hp
+name: Oneview Global Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:oneview_global_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oneview_global_dashboard
+  confidence: auto

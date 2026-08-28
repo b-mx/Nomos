@@ -1,0 +1,10 @@
+id: 20k4
+vendor_id: lenovo
+name: 20K4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20k4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20k4
+  confidence: auto

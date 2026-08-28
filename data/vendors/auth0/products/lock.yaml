@@ -1,0 +1,10 @@
+id: lock
+vendor_id: auth0
+name: Lock
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:lock:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lock
+  confidence: auto

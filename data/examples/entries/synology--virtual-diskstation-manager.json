@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--virtual-diskstation-manager",
+  "vendor_id": "synology",
+  "product_id": "virtual-diskstation-manager",
+  "name": "Virtual Diskstation Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "virtual_diskstation_manager",
+      "confidence": "auto"
+    }
+  ]
+}

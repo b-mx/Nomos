@@ -1,0 +1,10 @@
+id: aerial-x-1200m-firmware
+vendor_id: wavlink
+name: Aerial X 1200M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wavlink:aerial_x_1200m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aerial_x_1200m_firmware
+  confidence: auto

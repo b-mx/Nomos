@@ -1,0 +1,10 @@
+id: evolution-rss
+vendor_id: gnome
+name: Evolution-Rss
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:evolution\-rss:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evolution-rss
+  confidence: auto

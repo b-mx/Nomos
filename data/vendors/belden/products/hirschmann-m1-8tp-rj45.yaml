@@ -1,0 +1,10 @@
+id: hirschmann-m1-8tp-rj45
+vendor_id: belden
+name: Hirschmann M1-8Tp-Rj45
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_m1\-8tp\-rj45:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_m1-8tp-rj45
+  confidence: auto

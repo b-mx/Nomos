@@ -1,0 +1,10 @@
+id: 20aq
+vendor_id: lenovo
+name: 20Aq
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20aq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20aq
+  confidence: auto

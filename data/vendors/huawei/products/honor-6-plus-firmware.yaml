@@ -1,0 +1,10 @@
+id: honor-6-plus-firmware
+vendor_id: huawei
+name: Honor 6 Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:honor_6_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_6_plus_firmware
+  confidence: auto

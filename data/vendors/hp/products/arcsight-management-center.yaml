@@ -1,0 +1,10 @@
+id: arcsight-management-center
+vendor_id: hp
+name: Arcsight Management Center
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:arcsight_management_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcsight_management_center
+  confidence: auto

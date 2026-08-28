@@ -1,0 +1,10 @@
+id: nx1p2-9024dt1-firmware
+vendor_id: omron
+name: Nx1P2-9024Dt1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:nx1p2\-9024dt1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx1p2-9024dt1_firmware
+  confidence: auto

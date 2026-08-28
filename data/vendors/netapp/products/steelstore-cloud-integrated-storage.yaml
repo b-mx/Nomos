@@ -1,0 +1,10 @@
+id: steelstore-cloud-integrated-storage
+vendor_id: netapp
+name: Steelstore Cloud Integrated Storage
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:steelstore_cloud_integrated_storage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: steelstore_cloud_integrated_storage
+  confidence: auto

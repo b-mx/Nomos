@@ -1,0 +1,10 @@
+id: mb3280
+vendor_id: moxa
+name: Mb3280
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:mb3280:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mb3280
+  confidence: auto

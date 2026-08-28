@@ -1,0 +1,10 @@
+id: aruba-2930m
+vendor_id: arubanetworks
+name: Aruba 2930M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:aruba_2930m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_2930m
+  confidence: auto

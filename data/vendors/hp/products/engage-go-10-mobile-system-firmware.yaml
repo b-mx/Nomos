@@ -1,0 +1,10 @@
+id: engage-go-10-mobile-system-firmware
+vendor_id: hp
+name: Engage Go 10 Mobile System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:engage_go_10_mobile_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engage_go_10_mobile_system_firmware
+  confidence: auto

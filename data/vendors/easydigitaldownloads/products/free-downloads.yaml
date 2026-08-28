@@ -1,0 +1,10 @@
+id: free-downloads
+vendor_id: easydigitaldownloads
+name: Free Downloads
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:free_downloads:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: free_downloads
+  confidence: auto

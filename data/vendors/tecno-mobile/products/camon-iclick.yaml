@@ -1,0 +1,10 @@
+id: camon-iclick
+vendor_id: tecno-mobile
+name: Camon Iclick
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tecno\-mobile:camon_iclick:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: camon_iclick
+  confidence: auto

@@ -1,0 +1,9 @@
+id: amazon-eks
+vendor_id: amazon-eks
+name: Amazon EKS
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: amazon-eks
+  confidence: auto

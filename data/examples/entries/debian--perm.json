@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--perm",
+  "vendor_id": "debian",
+  "product_id": "perm",
+  "name": "Perm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "perm",
+      "confidence": "auto"
+    }
+  ]
+}

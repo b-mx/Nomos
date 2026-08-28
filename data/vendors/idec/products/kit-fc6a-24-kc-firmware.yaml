@@ -1,0 +1,10 @@
+id: kit-fc6a-24-kc-firmware
+vendor_id: idec
+name: Kit-Fc6A-24-Kc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idec:kit\-fc6a\-24\-kc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kit-fc6a-24-kc_firmware
+  confidence: auto

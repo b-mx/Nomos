@@ -1,0 +1,9 @@
+id: kerberos-key-distribution-center-kdc
+vendor_id: microsoft
+name: Kerberos Key Distribution Center (KDC)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Kerberos Key Distribution Center (KDC)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: heartstar
+vendor_id: axiomthemes
+name: Heartstar
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:heartstar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: heartstar
+  confidence: auto

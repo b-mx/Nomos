@@ -1,0 +1,10 @@
+id: exceed-turbox
+vendor_id: opentext
+name: Exceed Turbox
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:exceed_turbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exceed_turbox
+  confidence: auto

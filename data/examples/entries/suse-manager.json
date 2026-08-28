@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "suse-manager",
+  "vendor_id": "suse-manager",
+  "name": "SUSE Multi-Linux Manager",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "suse-manager",
+      "confidence": "auto"
+    }
+  ]
+}

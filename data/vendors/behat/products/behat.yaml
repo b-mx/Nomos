@@ -1,0 +1,10 @@
+id: behat
+vendor_id: behat
+name: Behat
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: behat
+  confidence: auto

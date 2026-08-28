@@ -1,0 +1,10 @@
+id: yith-maintenance-mode
+vendor_id: yithemes
+name: Yith Maintenance Mode
+type: software
+tags: []
+cpe: cpe:2.3:a:yithemes:yith_maintenance_mode:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yith_maintenance_mode
+  confidence: auto

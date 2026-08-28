@@ -1,0 +1,10 @@
+id: murano
+vendor_id: openstack
+name: Murano
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:murano:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: murano
+  confidence: auto

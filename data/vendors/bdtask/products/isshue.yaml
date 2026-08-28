@@ -1,0 +1,10 @@
+id: isshue
+vendor_id: bdtask
+name: Isshue
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:isshue:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isshue
+  confidence: auto

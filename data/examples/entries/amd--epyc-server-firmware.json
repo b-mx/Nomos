@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-server-firmware",
+  "vendor_id": "amd",
+  "product_id": "epyc-server-firmware",
+  "name": "Epyc Server Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_server_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

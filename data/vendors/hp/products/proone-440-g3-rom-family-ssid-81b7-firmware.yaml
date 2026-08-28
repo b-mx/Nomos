@@ -1,0 +1,10 @@
+id: proone-440-g3-rom-family-ssid-81b7-firmware
+vendor_id: hp
+name: Proone 440 G3 (Rom Family Ssid 81B7) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:proone_440_g3_\(rom_family_ssid_81b7\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_440_g3_(rom_family_ssid_81b7)_firmware
+  confidence: auto

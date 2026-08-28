@@ -1,0 +1,10 @@
+id: flexlogix-l34-controller-firmware
+vendor_id: rockwellautomation
+name: Flexlogix L34 Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:flexlogix_l34_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexlogix_l34_controller_firmware
+  confidence: auto

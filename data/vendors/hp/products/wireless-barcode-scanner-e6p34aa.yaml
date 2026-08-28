@@ -1,0 +1,10 @@
+id: wireless-barcode-scanner-e6p34aa
+vendor_id: hp
+name: Wireless Barcode Scanner E6P34Aa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:wireless_barcode_scanner_e6p34aa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireless_barcode_scanner_e6p34aa
+  confidence: auto

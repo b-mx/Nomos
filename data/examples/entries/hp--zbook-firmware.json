@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--zbook-firmware",
+  "vendor_id": "hp",
+  "product_id": "zbook-firmware",
+  "name": "Zbook Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zbook_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "cnspec--cnspec",
+  "vendor_id": "cnspec",
+  "product_id": "cnspec",
+  "name": "cnspec",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "cnspec",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "cnspec",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+id: hibernate-orm
+vendor_id: hibernate
+name: Hibernate ORM
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:hibernate:hibernate_orm:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: hibernate-orm
+  confidence: auto
+- source: nvd
+  value: hibernate_orm
+  confidence: auto

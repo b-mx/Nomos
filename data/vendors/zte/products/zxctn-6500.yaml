@@ -1,0 +1,10 @@
+id: zxctn-6500
+vendor_id: zte
+name: Zxctn 6500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxctn_6500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxctn_6500
+  confidence: auto

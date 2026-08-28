@@ -1,0 +1,10 @@
+id: m5270
+vendor_id: lexmark
+name: M5270
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:m5270:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m5270
+  confidence: auto

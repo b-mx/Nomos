@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "keysight--database-connector",
+  "vendor_id": "keysight",
+  "product_id": "database-connector",
+  "name": "Database Connector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "database_connector",
+      "confidence": "auto"
+    }
+  ]
+}

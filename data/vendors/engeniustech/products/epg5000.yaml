@@ -1,0 +1,10 @@
+id: epg5000
+vendor_id: engeniustech
+name: Epg5000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:engeniustech:epg5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epg5000
+  confidence: auto

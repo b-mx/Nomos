@@ -1,0 +1,10 @@
+id: trash-bin
+vendor_id: mybb
+name: Trash Bin
+type: software
+tags: []
+cpe: cpe:2.3:a:mybb:trash_bin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trash_bin
+  confidence: auto

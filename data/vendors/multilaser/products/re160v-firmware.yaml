@@ -1,0 +1,10 @@
+id: re160v-firmware
+vendor_id: multilaser
+name: Re160V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:multilaser:re160v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re160v_firmware
+  confidence: auto

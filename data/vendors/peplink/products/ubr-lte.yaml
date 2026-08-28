@@ -1,0 +1,10 @@
+id: ubr-lte
+vendor_id: peplink
+name: Ubr Lte
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:ubr_lte:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubr_lte
+  confidence: auto

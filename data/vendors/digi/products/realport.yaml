@@ -1,0 +1,10 @@
+id: realport
+vendor_id: digi
+name: Realport
+type: software
+tags: []
+cpe: cpe:2.3:a:digi:realport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realport
+  confidence: auto

@@ -1,0 +1,10 @@
+id: folsom
+vendor_id: openstack
+name: Folsom
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:folsom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: folsom
+  confidence: auto

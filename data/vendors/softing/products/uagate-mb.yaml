@@ -1,0 +1,10 @@
+id: uagate-mb
+vendor_id: softing
+name: Uagate Mb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softing:uagate_mb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uagate_mb
+  confidence: auto

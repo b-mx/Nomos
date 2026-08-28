@@ -1,0 +1,10 @@
+id: leads-manager-tool
+vendor_id: rems
+name: Leads Manager Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:leads_manager_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: leads_manager_tool
+  confidence: auto

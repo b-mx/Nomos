@@ -1,0 +1,10 @@
+id: hbw2per1
+vendor_id: honeywell
+name: Hbw2Per1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hbw2per1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hbw2per1
+  confidence: auto

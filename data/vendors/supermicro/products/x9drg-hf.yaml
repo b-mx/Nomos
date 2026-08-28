@@ -1,0 +1,10 @@
+id: x9drg-hf
+vendor_id: supermicro
+name: X9Drg-Hf+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9drg\-hf\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drg-hf+
+  confidence: auto

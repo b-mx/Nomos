@@ -1,0 +1,10 @@
+id: divar-ip-all-in-one-4000-firmware
+vendor_id: bosch
+name: Divar Ip All-In-One 4000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:divar_ip_all\-in\-one_4000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: divar_ip_all-in-one_4000_firmware
+  confidence: auto

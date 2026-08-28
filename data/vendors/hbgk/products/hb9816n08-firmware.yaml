@@ -1,0 +1,10 @@
+id: hb9816n08-firmware
+vendor_id: hbgk
+name: Hb9816N08 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb9816n08_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb9816n08_firmware
+  confidence: auto

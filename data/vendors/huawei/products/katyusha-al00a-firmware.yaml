@@ -1,0 +1,10 @@
+id: katyusha-al00a-firmware
+vendor_id: huawei
+name: Katyusha-Al00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:katyusha\-al00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: katyusha-al00a_firmware
+  confidence: auto

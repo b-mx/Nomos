@@ -1,0 +1,13 @@
+id: mastodon
+vendor_id: joinmastodon
+name: Mastodon
+type: software
+tags: []
+cpe: cpe:2.3:a:joinmastodon:mastodon:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: mastodon
+  confidence: auto
+- source: nvd
+  value: mastodon
+  confidence: auto

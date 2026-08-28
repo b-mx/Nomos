@@ -1,0 +1,10 @@
+id: got2000-gt2508-vtwa-firmware
+vendor_id: mitsubishielectric
+name: Got2000 Gt2508-Vtwa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:got2000_gt2508\-vtwa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: got2000_gt2508-vtwa_firmware
+  confidence: auto

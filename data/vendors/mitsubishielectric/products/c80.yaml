@@ -1,0 +1,10 @@
+id: c80
+vendor_id: mitsubishielectric
+name: C80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:c80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c80
+  confidence: auto

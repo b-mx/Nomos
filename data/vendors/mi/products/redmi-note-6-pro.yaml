@@ -1,0 +1,10 @@
+id: redmi-note-6-pro
+vendor_id: mi
+name: Redmi Note 6 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:redmi_note_6_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_note_6_pro
+  confidence: auto

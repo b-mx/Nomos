@@ -1,0 +1,10 @@
+id: restaurant-pos-system
+vendor_id: codeastro
+name: Restaurant Pos System
+type: software
+tags: []
+cpe: cpe:2.3:a:codeastro:restaurant_pos_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: restaurant_pos_system
+  confidence: auto

@@ -1,0 +1,10 @@
+id: trio-c60
+vendor_id: poly
+name: Trio C60
+type: hardware
+tags: []
+cpe: cpe:2.3:h:poly:trio_c60:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trio_c60
+  confidence: auto

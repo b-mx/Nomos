@@ -1,0 +1,10 @@
+id: versalink-b400
+vendor_id: xerox
+name: Versalink B400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:versalink_b400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: versalink_b400
+  confidence: auto

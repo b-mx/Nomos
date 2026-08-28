@@ -1,0 +1,10 @@
+id: cm-download-manager
+vendor_id: cminds
+name: Cm Download Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:cminds:cm_download_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm_download_manager
+  confidence: auto

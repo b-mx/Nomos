@@ -1,0 +1,7 @@
+id: lutron
+name: Lutron
+cpe: cpe:2.3:*:lutron:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lutron
+  confidence: auto

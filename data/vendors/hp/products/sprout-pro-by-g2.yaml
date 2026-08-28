@@ -1,0 +1,10 @@
+id: sprout-pro-by-g2
+vendor_id: hp
+name: Sprout Pro By G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:sprout_pro_by_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sprout_pro_by_g2
+  confidence: auto

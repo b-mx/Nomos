@@ -1,0 +1,10 @@
+id: linux-enterprise-debuginfo
+vendor_id: suse
+name: Linux Enterprise Debuginfo
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:linux_enterprise_debuginfo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_debuginfo
+  confidence: auto

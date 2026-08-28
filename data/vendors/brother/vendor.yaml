@@ -1,0 +1,7 @@
+id: brother
+name: Brother
+cpe: cpe:2.3:*:brother:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brother
+  confidence: auto

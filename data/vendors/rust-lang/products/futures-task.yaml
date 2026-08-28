@@ -1,0 +1,10 @@
+id: futures-task
+vendor_id: rust-lang
+name: Futures-Task
+type: software
+tags: []
+cpe: cpe:2.3:a:rust\-lang:futures\-task:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: futures-task
+  confidence: auto

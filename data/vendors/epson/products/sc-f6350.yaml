@@ -1,0 +1,10 @@
+id: sc-f6350
+vendor_id: epson
+name: Sc-F6350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-f6350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-f6350
+  confidence: auto

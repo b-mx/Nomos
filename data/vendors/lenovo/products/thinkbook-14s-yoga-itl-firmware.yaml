@@ -1,0 +1,10 @@
+id: thinkbook-14s-yoga-itl-firmware
+vendor_id: lenovo
+name: Thinkbook 14S Yoga Itl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkbook_14s_yoga_itl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_14s_yoga_itl_firmware
+  confidence: auto

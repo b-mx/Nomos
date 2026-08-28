@@ -1,0 +1,10 @@
+id: got2000-gt2512-stba
+vendor_id: mitsubishielectric
+name: Got2000 Gt2512-Stba
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:got2000_gt2512\-stba:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: got2000_gt2512-stba
+  confidence: auto

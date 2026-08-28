@@ -1,0 +1,10 @@
+id: stripe-payment-plugin-for-woocommerce
+vendor_id: webtoffee
+name: Stripe Payment Plugin For Woocommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:webtoffee:stripe_payment_plugin_for_woocommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stripe_payment_plugin_for_woocommerce
+  confidence: auto

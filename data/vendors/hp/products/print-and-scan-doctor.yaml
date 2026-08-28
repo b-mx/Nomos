@@ -1,0 +1,10 @@
+id: print-and-scan-doctor
+vendor_id: hp
+name: Print And Scan Doctor
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:print_and_scan_doctor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: print_and_scan_doctor
+  confidence: auto

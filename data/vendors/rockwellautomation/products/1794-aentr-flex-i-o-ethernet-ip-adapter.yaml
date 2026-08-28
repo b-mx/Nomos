@@ -1,0 +1,10 @@
+id: 1794-aentr-flex-i-o-ethernet-ip-adapter
+vendor_id: rockwellautomation
+name: 1794-Aentr Flex I/O Ethernet/Ip Adapter
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:1794\-aentr_flex_i\/o_ethernet\/ip_adapter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1794-aentr_flex_i/o_ethernet/ip_adapter
+  confidence: auto

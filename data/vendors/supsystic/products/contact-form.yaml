@@ -1,0 +1,10 @@
+id: contact-form
+vendor_id: supsystic
+name: Contact Form
+type: software
+tags: []
+cpe: cpe:2.3:a:supsystic:contact_form:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contact_form
+  confidence: auto

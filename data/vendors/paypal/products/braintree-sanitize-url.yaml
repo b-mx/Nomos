@@ -1,0 +1,10 @@
+id: braintree-sanitize-url
+vendor_id: paypal
+name: Braintree/Sanitize-Url
+type: software
+tags: []
+cpe: cpe:2.3:a:paypal:braintree\/sanitize\-url:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: braintree/sanitize-url
+  confidence: auto

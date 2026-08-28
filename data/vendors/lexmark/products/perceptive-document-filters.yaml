@@ -1,0 +1,10 @@
+id: perceptive-document-filters
+vendor_id: lexmark
+name: Perceptive Document Filters
+type: software
+tags: []
+cpe: cpe:2.3:a:lexmark:perceptive_document_filters:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: perceptive_document_filters
+  confidence: auto

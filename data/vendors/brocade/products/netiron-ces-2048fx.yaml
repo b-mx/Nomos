@@ -1,0 +1,10 @@
+id: netiron-ces-2048fx
+vendor_id: brocade
+name: Netiron Ces 2048Fx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brocade:netiron_ces_2048fx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netiron_ces_2048fx
+  confidence: auto

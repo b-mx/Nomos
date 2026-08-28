@@ -1,0 +1,10 @@
+id: ecosys-m5526cdw-firmware
+vendor_id: kyocera
+name: Ecosys M5526Cdw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kyocera:ecosys_m5526cdw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecosys_m5526cdw_firmware
+  confidence: auto

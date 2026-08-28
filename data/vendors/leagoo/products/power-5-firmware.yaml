@@ -1,0 +1,10 @@
+id: power-5-firmware
+vendor_id: leagoo
+name: Power 5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:leagoo:power_5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: power_5_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--hardware-scan",
+  "vendor_id": "lenovo",
+  "product_id": "hardware-scan",
+  "name": "Hardware Scan",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hardware_scan",
+      "confidence": "auto"
+    }
+  ]
+}

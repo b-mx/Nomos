@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--acpi-support",
+  "vendor_id": "canonical",
+  "product_id": "acpi-support",
+  "name": "Acpi-Support",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "acpi-support",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: thinkpad-x1-yoga-gen-2
+vendor_id: lenovo
+name: Thinkpad X1 Yoga Gen 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x1_yoga_gen_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_yoga_gen_2
+  confidence: auto

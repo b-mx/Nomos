@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--docker",
+  "vendor_id": "synology",
+  "product_id": "docker",
+  "name": "Docker",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "docker",
+      "confidence": "auto"
+    }
+  ]
+}

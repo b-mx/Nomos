@@ -1,0 +1,10 @@
+id: 5710hi
+vendor_id: huawei
+name: 5710Hi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:5710hi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5710hi
+  confidence: auto

@@ -1,0 +1,10 @@
+id: color-laserjet-m680-firmware
+vendor_id: hp
+name: Color Laserjet M680 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_m680_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_m680_firmware
+  confidence: auto

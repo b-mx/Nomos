@@ -1,0 +1,10 @@
+id: skytone
+vendor_id: huawei
+name: Skytone
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:skytone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skytone
+  confidence: auto

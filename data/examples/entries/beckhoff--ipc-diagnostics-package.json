@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "beckhoff--ipc-diagnostics-package",
+  "vendor_id": "beckhoff",
+  "product_id": "ipc-diagnostics-package",
+  "name": "Ipc Diagnostics Package",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ipc_diagnostics_package",
+      "confidence": "auto"
+    }
+  ]
+}

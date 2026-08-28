@@ -1,0 +1,10 @@
+id: y9-2019
+vendor_id: huawei
+name: Y9 2019
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:y9_2019:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y9_2019
+  confidence: auto

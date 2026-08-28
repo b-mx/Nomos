@@ -1,0 +1,10 @@
+id: elite-x2-1011-g1-firmware
+vendor_id: hp
+name: Elite X2 1011 G1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elite_x2_1011_g1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_x2_1011_g1_firmware
+  confidence: auto

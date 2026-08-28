@@ -1,0 +1,10 @@
+id: essential-blocks
+vendor_id: wpdeveloper
+name: Essential Blocks
+type: software
+tags: []
+cpe: cpe:2.3:a:wpdeveloper:essential_blocks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: essential_blocks
+  confidence: auto

@@ -1,0 +1,10 @@
+id: compactlogix-5480
+vendor_id: rockwellautomation
+name: Compactlogix 5480
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:compactlogix_5480:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactlogix_5480
+  confidence: auto

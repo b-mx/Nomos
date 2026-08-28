@@ -1,0 +1,10 @@
+id: lp32
+vendor_id: motu
+name: Lp32
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:lp32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp32
+  confidence: auto

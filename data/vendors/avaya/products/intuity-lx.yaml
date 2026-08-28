@@ -1,0 +1,10 @@
+id: intuity-lx
+vendor_id: avaya
+name: Intuity Lx
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:intuity_lx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intuity_lx
+  confidence: auto

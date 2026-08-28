@@ -1,0 +1,10 @@
+id: p3818-pve
+vendor_id: axis
+name: P3818-Pve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p3818\-pve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3818-pve
+  confidence: auto

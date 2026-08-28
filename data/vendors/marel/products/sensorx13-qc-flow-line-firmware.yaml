@@ -1,0 +1,10 @@
+id: sensorx13-qc-flow-line-firmware
+vendor_id: marel
+name: Sensorx13 Qc Flow Line Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:sensorx13_qc_flow_line_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensorx13_qc_flow_line_firmware
+  confidence: auto

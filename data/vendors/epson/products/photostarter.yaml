@@ -1,0 +1,10 @@
+id: photostarter
+vendor_id: epson
+name: Photostarter
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:photostarter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photostarter
+  confidence: auto

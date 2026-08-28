@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "getkirby--kirby",
+  "vendor_id": "getkirby",
+  "product_id": "kirby",
+  "name": "Kirby",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "kirby",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "kirby",
+      "confidence": "auto"
+    }
+  ]
+}

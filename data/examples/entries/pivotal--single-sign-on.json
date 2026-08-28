@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--single-sign-on",
+  "vendor_id": "pivotal",
+  "product_id": "single-sign-on",
+  "name": "Single Sign-On",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "single_sign-on",
+      "confidence": "auto"
+    }
+  ]
+}

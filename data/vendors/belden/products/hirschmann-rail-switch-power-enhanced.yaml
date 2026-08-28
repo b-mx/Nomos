@@ -1,0 +1,10 @@
+id: hirschmann-rail-switch-power-enhanced
+vendor_id: belden
+name: Hirschmann Rail Switch Power Enhanced
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_rail_switch_power_enhanced:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_rail_switch_power_enhanced
+  confidence: auto

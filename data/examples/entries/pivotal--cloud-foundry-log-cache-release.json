@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--cloud-foundry-log-cache-release",
+  "vendor_id": "pivotal",
+  "product_id": "cloud-foundry-log-cache-release",
+  "name": "Cloud Foundry Log Cache Release",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_foundry_log_cache_release",
+      "confidence": "auto"
+    }
+  ]
+}

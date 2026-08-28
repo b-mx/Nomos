@@ -1,0 +1,10 @@
+id: customer-management-framework
+vendor_id: pimcore
+name: Customer Management Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:pimcore:customer_management_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: customer_management_framework
+  confidence: auto

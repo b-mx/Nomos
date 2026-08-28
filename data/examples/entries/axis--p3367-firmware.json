@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--p3367-firmware",
+  "vendor_id": "axis",
+  "product_id": "p3367-firmware",
+  "name": "P3367 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "p3367_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

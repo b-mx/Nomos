@@ -1,0 +1,10 @@
+id: endpoint-privilege-manager
+vendor_id: cyberark
+name: Endpoint Privilege Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:cyberark:endpoint_privilege_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: endpoint_privilege_manager
+  confidence: auto

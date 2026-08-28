@@ -1,0 +1,9 @@
+id: active-directory
+vendor_id: microsoft
+name: Active Directory
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Active Directory
+  confidence: auto

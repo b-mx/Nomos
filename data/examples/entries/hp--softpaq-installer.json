@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--softpaq-installer",
+  "vendor_id": "hp",
+  "product_id": "softpaq-installer",
+  "name": "Softpaq Installer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "softpaq_installer",
+      "confidence": "auto"
+    }
+  ]
+}

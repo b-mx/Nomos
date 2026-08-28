@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "debian",
+  "vendor_id": "debian",
+  "name": "Debian",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "debian",
+      "confidence": "auto"
+    }
+  ]
+}

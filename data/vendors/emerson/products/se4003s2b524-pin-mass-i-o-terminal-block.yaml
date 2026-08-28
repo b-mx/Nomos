@@ -1,0 +1,10 @@
+id: se4003s2b524-pin-mass-i-o-terminal-block
+vendor_id: emerson
+name: Se4003S2B524-Pin Mass I/O Terminal Block
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:se4003s2b524\-pin_mass_i\/o_terminal_block:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se4003s2b524-pin_mass_i/o_terminal_block
+  confidence: auto

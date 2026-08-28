@@ -1,0 +1,10 @@
+id: prodesk-485-g2-mt-firmware
+vendor_id: hp
+name: Prodesk 485 G2 Mt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:prodesk_485_g2_mt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_485_g2_mt_firmware
+  confidence: auto

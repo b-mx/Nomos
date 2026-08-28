@@ -1,0 +1,10 @@
+id: fukunaga-memberscard
+vendor_id: linecorp
+name: Fukunaga Memberscard
+type: software
+tags: []
+cpe: cpe:2.3:a:linecorp:fukunaga_memberscard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fukunaga_memberscard
+  confidence: auto

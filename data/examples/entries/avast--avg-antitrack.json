@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avast--avg-antitrack",
+  "vendor_id": "avast",
+  "product_id": "avg-antitrack",
+  "name": "Avg Antitrack",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "avg_antitrack",
+      "confidence": "auto"
+    }
+  ]
+}

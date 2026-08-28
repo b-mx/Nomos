@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "qsan--sanos",
+  "vendor_id": "qsan",
+  "product_id": "sanos",
+  "name": "Sanos",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sanos",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: fd9171-ht
+vendor_id: vivotek
+name: Fd9171-Ht
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fd9171\-ht:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd9171-ht
+  confidence: auto

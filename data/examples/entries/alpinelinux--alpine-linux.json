@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "alpinelinux--alpine-linux",
+  "vendor_id": "alpinelinux",
+  "product_id": "alpine-linux",
+  "name": "Alpine Linux",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "alpine-linux",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "alpine_linux",
+      "confidence": "auto"
+    }
+  ]
+}

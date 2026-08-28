@@ -1,0 +1,10 @@
+id: jd448b
+vendor_id: hp
+name: Jd448B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd448b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd448b
+  confidence: auto

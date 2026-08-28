@@ -1,0 +1,10 @@
+id: 1-5t-brivo-mr355-firmware
+vendor_id: gehealthcare
+name: 1.5T Brivo Mr355 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:1\.5t_brivo_mr355_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1.5t_brivo_mr355_firmware
+  confidence: auto

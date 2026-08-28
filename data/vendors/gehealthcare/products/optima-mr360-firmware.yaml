@@ -1,0 +1,10 @@
+id: optima-mr360-firmware
+vendor_id: gehealthcare
+name: Optima Mr360 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:optima_mr360_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_mr360_firmware
+  confidence: auto

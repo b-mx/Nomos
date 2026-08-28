@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--uflog5-firmware",
+  "vendor_id": "abb",
+  "product_id": "uflog5-firmware",
+  "name": "Uflog5 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "uflog5_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

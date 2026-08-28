@@ -1,0 +1,10 @@
+id: clearpass
+vendor_id: arubanetworks
+name: Clearpass
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:clearpass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clearpass
+  confidence: auto

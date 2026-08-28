@@ -1,0 +1,10 @@
+id: image-vault-firmware
+vendor_id: gehealthcare
+name: Image Vault Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:image_vault_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: image_vault_firmware
+  confidence: auto

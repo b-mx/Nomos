@@ -1,0 +1,10 @@
+id: atrix-hd
+vendor_id: motorola
+name: Atrix Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:atrix_hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atrix_hd
+  confidence: auto

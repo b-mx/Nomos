@@ -1,0 +1,10 @@
+id: nem-l22
+vendor_id: huawei
+name: Nem-L22
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nem\-l22:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nem-l22
+  confidence: auto

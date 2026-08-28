@@ -1,0 +1,10 @@
+id: cs1000e-cs1000m-signaling-server
+vendor_id: avaya
+name: Cs1000E/Cs1000M Signaling Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:cs1000e\/cs1000m_signaling_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1000e/cs1000m_signaling_server
+  confidence: auto

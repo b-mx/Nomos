@@ -1,0 +1,10 @@
+id: laserjet-pro-m501-j8h61a-firmware
+vendor_id: hp
+name: Laserjet Pro M501 J8H61A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m501_j8h61a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m501_j8h61a_firmware
+  confidence: auto

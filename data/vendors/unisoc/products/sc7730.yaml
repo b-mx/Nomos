@@ -1,0 +1,10 @@
+id: sc7730
+vendor_id: unisoc
+name: Sc7730
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:sc7730:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc7730
+  confidence: auto

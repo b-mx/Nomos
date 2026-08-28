@@ -1,0 +1,10 @@
+id: systemwalker-desktop-keeper
+vendor_id: fujitsu
+name: Systemwalker Desktop Keeper
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:systemwalker_desktop_keeper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: systemwalker_desktop_keeper
+  confidence: auto

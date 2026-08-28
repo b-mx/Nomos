@@ -1,0 +1,10 @@
+id: t650
+vendor_id: lexmark
+name: T650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:t650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t650
+  confidence: auto

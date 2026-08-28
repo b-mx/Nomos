@@ -1,0 +1,10 @@
+id: secpath-f5030
+vendor_id: h3c
+name: Secpath F5030
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:secpath_f5030:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secpath_f5030
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vsu
+vendor_id: avaya
+name: Vsu
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:vsu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsu
+  confidence: auto

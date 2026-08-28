@@ -1,0 +1,10 @@
+id: lawyer-directory
+vendor_id: e-plugins
+name: Lawyer Directory
+type: software
+tags: []
+cpe: cpe:2.3:a:e\-plugins:lawyer_directory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lawyer_directory
+  confidence: auto

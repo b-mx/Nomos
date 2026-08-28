@@ -1,0 +1,10 @@
+id: aws-lambda
+vendor_id: amazon
+name: Aws Lambda
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_lambda:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_lambda
+  confidence: auto

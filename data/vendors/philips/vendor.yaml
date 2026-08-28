@@ -1,0 +1,7 @@
+id: philips
+name: Philips
+cpe: cpe:2.3:*:philips:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: philips
+  confidence: auto

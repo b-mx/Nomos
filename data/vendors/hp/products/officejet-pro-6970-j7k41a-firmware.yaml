@@ -1,0 +1,10 @@
+id: officejet-pro-6970-j7k41a-firmware
+vendor_id: hp
+name: Officejet Pro 6970 J7K41A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_pro_6970_j7k41a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_6970_j7k41a_firmware
+  confidence: auto

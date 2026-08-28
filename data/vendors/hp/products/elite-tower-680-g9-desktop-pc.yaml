@@ -1,0 +1,10 @@
+id: elite-tower-680-g9-desktop-pc
+vendor_id: hp
+name: Elite Tower 680 G9 Desktop Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elite_tower_680_g9_desktop_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_tower_680_g9_desktop_pc
+  confidence: auto

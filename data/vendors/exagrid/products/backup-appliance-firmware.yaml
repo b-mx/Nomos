@@ -1,0 +1,10 @@
+id: backup-appliance-firmware
+vendor_id: exagrid
+name: Backup Appliance Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:exagrid:backup_appliance_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backup_appliance_firmware
+  confidence: auto

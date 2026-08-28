@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teradek--vidiu-firmware",
+  "vendor_id": "teradek",
+  "product_id": "vidiu-firmware",
+  "name": "Vidiu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vidiu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

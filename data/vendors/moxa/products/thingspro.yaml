@@ -1,0 +1,10 @@
+id: thingspro
+vendor_id: moxa
+name: Thingspro
+type: software
+tags: []
+cpe: cpe:2.3:a:moxa:thingspro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thingspro
+  confidence: auto

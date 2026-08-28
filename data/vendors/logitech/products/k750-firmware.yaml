@@ -1,0 +1,10 @@
+id: k750-firmware
+vendor_id: logitech
+name: K750 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:logitech:k750_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k750_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: icehouse
+vendor_id: openstack
+name: Icehouse
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:icehouse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icehouse
+  confidence: auto

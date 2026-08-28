@@ -1,0 +1,10 @@
+id: x11sdv-16c-tp8f-firmware
+vendor_id: supermicro
+name: X11Sdv-16C-Tp8F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11sdv\-16c\-tp8f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sdv-16c-tp8f_firmware
+  confidence: auto

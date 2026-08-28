@@ -1,0 +1,10 @@
+id: plc5-1785-lx
+vendor_id: rockwellautomation
+name: Plc5 1785-Lx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:plc5_1785\-lx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plc5_1785-lx
+  confidence: auto

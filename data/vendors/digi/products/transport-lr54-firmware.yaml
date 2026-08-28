@@ -1,0 +1,10 @@
+id: transport-lr54-firmware
+vendor_id: digi
+name: Transport Lr54 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:transport_lr54_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: transport_lr54_firmware
+  confidence: auto

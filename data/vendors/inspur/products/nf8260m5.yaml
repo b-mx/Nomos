@@ -1,0 +1,10 @@
+id: nf8260m5
+vendor_id: inspur
+name: Nf8260M5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:inspur:nf8260m5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nf8260m5
+  confidence: auto

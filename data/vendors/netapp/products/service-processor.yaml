@@ -1,0 +1,10 @@
+id: service-processor
+vendor_id: netapp
+name: Service Processor
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:service_processor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_processor
+  confidence: auto

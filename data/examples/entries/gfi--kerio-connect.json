@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gfi--kerio-connect",
+  "vendor_id": "gfi",
+  "product_id": "kerio-connect",
+  "name": "Kerio Connect",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kerio_connect",
+      "confidence": "auto"
+    }
+  ]
+}

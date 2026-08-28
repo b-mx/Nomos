@@ -1,0 +1,10 @@
+id: dcme-720
+vendor_id: dcnetworks
+name: Dcme-720
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dcnetworks:dcme\-720:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcme-720
+  confidence: auto

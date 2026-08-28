@@ -1,0 +1,10 @@
+id: x13srn-e-firmware
+vendor_id: supermicro
+name: X13Srn-E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x13srn\-e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13srn-e_firmware
+  confidence: auto

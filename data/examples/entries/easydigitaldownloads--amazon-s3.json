@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "easydigitaldownloads--amazon-s3",
+  "vendor_id": "easydigitaldownloads",
+  "product_id": "amazon-s3",
+  "name": "Amazon S3",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amazon_s3",
+      "confidence": "auto"
+    }
+  ]
+}

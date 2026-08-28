@@ -1,0 +1,10 @@
+id: intelligent-management-center-network-traffic-analyzer
+vendor_id: hp
+name: Intelligent Management Center Network Traffic Analyzer
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:intelligent_management_center_network_traffic_analyzer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_management_center_network_traffic_analyzer
+  confidence: auto

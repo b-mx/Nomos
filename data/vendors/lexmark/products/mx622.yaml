@@ -1,0 +1,10 @@
+id: mx622
+vendor_id: lexmark
+name: Mx622
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx622:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx622
+  confidence: auto

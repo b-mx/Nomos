@@ -1,0 +1,10 @@
+id: internet-gatekeeper
+vendor_id: f-secure
+name: Internet Gatekeeper
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:internet_gatekeeper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet_gatekeeper
+  confidence: auto

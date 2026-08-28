@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--video-security",
+  "vendor_id": "bosch",
+  "product_id": "video-security",
+  "name": "Video Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "video_security",
+      "confidence": "auto"
+    }
+  ]
+}

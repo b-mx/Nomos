@@ -1,0 +1,10 @@
+id: id-charger-connect-firmware
+vendor_id: vw
+name: Id.Charger Connect Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vw:id\.charger_connect_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: id.charger_connect_firmware
+  confidence: auto

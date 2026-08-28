@@ -1,0 +1,10 @@
+id: online-timesheet-app
+vendor_id: rems
+name: Online Timesheet App
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:online_timesheet_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_timesheet_app
+  confidence: auto

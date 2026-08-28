@@ -1,0 +1,10 @@
+id: ac500-cpu-firmware
+vendor_id: abb
+name: Ac500 Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:ac500_cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac500_cpu_firmware
+  confidence: auto

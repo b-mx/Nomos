@@ -1,0 +1,10 @@
+id: content-analysis-system
+vendor_id: bluecoat
+name: Content Analysis System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bluecoat:content_analysis_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: content_analysis_system
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x2
+vendor_id: seil
+name: X2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seil:x2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x2
+  confidence: auto

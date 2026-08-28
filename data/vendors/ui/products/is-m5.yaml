@@ -1,0 +1,10 @@
+id: is-m5
+vendor_id: ui
+name: Is-M5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:is\-m5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: is-m5
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ivg-hp203y-ae-firmware
+vendor_id: xiongmaitech
+name: Ivg-Hp203Y-Ae Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:ivg\-hp203y\-ae_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ivg-hp203y-ae_firmware
+  confidence: auto

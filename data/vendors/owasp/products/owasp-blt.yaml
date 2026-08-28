@@ -1,0 +1,10 @@
+id: owasp-blt
+vendor_id: owasp
+name: Owasp Blt
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:owasp_blt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: owasp_blt
+  confidence: auto

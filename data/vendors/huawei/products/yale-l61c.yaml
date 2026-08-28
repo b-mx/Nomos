@@ -1,0 +1,10 @@
+id: yale-l61c
+vendor_id: huawei
+name: Yale-L61C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:yale\-l61c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale-l61c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tencentos-tiny
+vendor_id: tencent
+name: Tencentos-Tiny
+type: os
+tags: []
+cpe: cpe:2.3:o:tencent:tencentos\-tiny:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tencentos-tiny
+  confidence: auto

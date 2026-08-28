@@ -1,0 +1,10 @@
+id: simple-car-rental-system
+vendor_id: fabian
+name: Simple Car Rental System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_car_rental_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_car_rental_system
+  confidence: auto

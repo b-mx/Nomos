@@ -1,0 +1,10 @@
+id: yangtian-mc-h81
+vendor_id: lenovo
+name: Yangtian Mc H81
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yangtian_mc_h81:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_mc_h81
+  confidence: auto

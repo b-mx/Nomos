@@ -1,0 +1,10 @@
+id: strapi
+vendor_id: strapi
+name: Strapi
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: strapi
+  confidence: auto

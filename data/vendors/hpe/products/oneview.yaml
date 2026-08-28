@@ -1,0 +1,10 @@
+id: oneview
+vendor_id: hpe
+name: Oneview
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:oneview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oneview
+  confidence: auto

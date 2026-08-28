@@ -1,0 +1,10 @@
+id: mt882
+vendor_id: huawei
+name: Mt882
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:mt882:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt882
+  confidence: auto

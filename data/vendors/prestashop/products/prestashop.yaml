@@ -1,0 +1,10 @@
+id: prestashop
+vendor_id: prestashop
+name: Prestashop
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:prestashop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prestashop
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hwatai-servisign
+vendor_id: changingtec
+name: Hwatai Servisign
+type: software
+tags: []
+cpe: cpe:2.3:a:changingtec:hwatai_servisign:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hwatai_servisign
+  confidence: auto

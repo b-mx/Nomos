@@ -1,0 +1,10 @@
+id: d4j85b-firmware
+vendor_id: hp
+name: D4J85B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:d4j85b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d4j85b_firmware
+  confidence: auto

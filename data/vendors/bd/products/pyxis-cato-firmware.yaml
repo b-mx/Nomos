@@ -1,0 +1,10 @@
+id: pyxis-cato-firmware
+vendor_id: bd
+name: Pyxis Cato Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:pyxis_cato_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_cato_firmware
+  confidence: auto

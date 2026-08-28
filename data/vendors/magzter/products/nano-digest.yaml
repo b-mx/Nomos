@@ -1,0 +1,10 @@
+id: nano-digest
+vendor_id: magzter
+name: Nano Digest
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:nano_digest:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nano_digest
+  confidence: auto

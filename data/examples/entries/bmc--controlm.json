@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--controlm",
+  "vendor_id": "bmc",
+  "product_id": "controlm",
+  "name": "Control-M",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "controlm",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "control-m",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: ls-3140mfp-firmware
+vendor_id: kyocera
+name: Ls-3140Mfp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kyocera:ls\-3140mfp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ls-3140mfp_firmware
+  confidence: auto

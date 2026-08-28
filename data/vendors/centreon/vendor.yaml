@@ -1,0 +1,7 @@
+id: centreon
+name: Centreon
+cpe: cpe:2.3:*:centreon:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centreon
+  confidence: auto

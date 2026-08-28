@@ -1,0 +1,10 @@
+id: confluence
+vendor_id: mattermost
+name: Confluence
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:confluence:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: confluence
+  confidence: auto

@@ -1,0 +1,10 @@
+id: airstation-extreme-n600-firmware
+vendor_id: buffalotech
+name: Airstation Extreme N600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalotech:airstation_extreme_n600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airstation_extreme_n600_firmware
+  confidence: auto

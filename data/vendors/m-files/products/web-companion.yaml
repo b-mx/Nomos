@@ -1,0 +1,10 @@
+id: web-companion
+vendor_id: m-files
+name: Web Companion
+type: software
+tags: []
+cpe: cpe:2.3:a:m\-files:web_companion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_companion
+  confidence: auto

@@ -1,0 +1,10 @@
+id: swagger-ui-dist
+vendor_id: smartbear
+name: Swagger-Ui-Dist
+type: software
+tags: []
+cpe: cpe:2.3:a:smartbear:swagger\-ui\-dist:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swagger-ui-dist
+  confidence: auto

@@ -1,0 +1,10 @@
+id: go-upf
+vendor_id: free5gc
+name: Go-Upf
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:go\-upf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go-upf
+  confidence: auto

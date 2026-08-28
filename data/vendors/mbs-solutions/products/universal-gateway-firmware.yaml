@@ -1,0 +1,10 @@
+id: universal-gateway-firmware
+vendor_id: mbs-solutions
+name: Universal Gateway Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mbs\-solutions:universal_gateway_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_gateway_firmware
+  confidence: auto

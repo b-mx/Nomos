@@ -1,0 +1,10 @@
+id: ds213
+vendor_id: synology
+name: Ds213
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synology:ds213:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds213
+  confidence: auto

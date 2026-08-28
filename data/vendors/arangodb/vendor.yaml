@@ -1,0 +1,7 @@
+id: arangodb
+name: Arangodb
+cpe: cpe:2.3:*:arangodb:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arangodb
+  confidence: auto

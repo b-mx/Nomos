@@ -1,0 +1,10 @@
+id: online-quiz-site
+vendor_id: fabian
+name: Online Quiz Site
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_quiz_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_quiz_site
+  confidence: auto

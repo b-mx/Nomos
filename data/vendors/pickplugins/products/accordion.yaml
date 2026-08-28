@@ -1,0 +1,10 @@
+id: accordion
+vendor_id: pickplugins
+name: Accordion
+type: software
+tags: []
+cpe: cpe:2.3:a:pickplugins:accordion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accordion
+  confidence: auto

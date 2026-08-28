@@ -1,0 +1,10 @@
+id: hem-gw26a
+vendor_id: toshiba
+name: Hem-Gw26A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshiba:hem\-gw26a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hem-gw26a
+  confidence: auto

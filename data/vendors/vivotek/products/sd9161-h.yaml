@@ -1,0 +1,10 @@
+id: sd9161-h
+vendor_id: vivotek
+name: Sd9161-H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:sd9161\-h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd9161-h
+  confidence: auto

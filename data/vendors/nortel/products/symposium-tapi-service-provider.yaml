@@ -1,0 +1,10 @@
+id: symposium-tapi-service-provider
+vendor_id: nortel
+name: Symposium Tapi Service Provider
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:symposium_tapi_service_provider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symposium_tapi_service_provider
+  confidence: auto

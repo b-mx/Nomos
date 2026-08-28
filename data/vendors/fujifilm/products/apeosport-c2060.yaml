@@ -1,0 +1,10 @@
+id: apeosport-c2060
+vendor_id: fujifilm
+name: Apeosport C2060
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeosport_c2060:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport_c2060
+  confidence: auto

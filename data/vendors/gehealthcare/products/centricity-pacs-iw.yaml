@@ -1,0 +1,10 @@
+id: centricity-pacs-iw
+vendor_id: gehealthcare
+name: Centricity Pacs-Iw
+type: software
+tags: []
+cpe: cpe:2.3:a:gehealthcare:centricity_pacs\-iw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centricity_pacs-iw
+  confidence: auto

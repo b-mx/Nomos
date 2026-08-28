@@ -1,0 +1,10 @@
+id: tc7337net
+vendor_id: technicolor
+name: Tc7337Net
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tc7337net:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7337net
+  confidence: auto

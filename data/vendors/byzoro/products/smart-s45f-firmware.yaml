@@ -1,0 +1,10 @@
+id: smart-s45f-firmware
+vendor_id: byzoro
+name: Smart S45F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:byzoro:smart_s45f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_s45f_firmware
+  confidence: auto

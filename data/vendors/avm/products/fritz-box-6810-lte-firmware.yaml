@@ -1,0 +1,10 @@
+id: fritz-box-6810-lte-firmware
+vendor_id: avm
+name: Fritz!Box 6810 Lte Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:avm:fritz\!box_6810_lte_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fritz!box_6810_lte_firmware
+  confidence: auto

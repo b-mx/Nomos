@@ -1,0 +1,10 @@
+id: magic-nx18-plus
+vendor_id: h3c
+name: Magic Nx18 Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:magic_nx18_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_nx18_plus
+  confidence: auto

@@ -1,0 +1,10 @@
+id: athlon-x4-835
+vendor_id: amd
+name: Athlon X4 835
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_x4_835:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_x4_835
+  confidence: auto

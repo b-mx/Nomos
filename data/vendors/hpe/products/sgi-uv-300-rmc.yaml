@@ -1,0 +1,10 @@
+id: sgi-uv-300-rmc
+vendor_id: hpe
+name: Sgi Uv 300 Rmc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:sgi_uv_300_rmc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sgi_uv_300_rmc
+  confidence: auto

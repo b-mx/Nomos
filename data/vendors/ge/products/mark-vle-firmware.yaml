@@ -1,0 +1,10 @@
+id: mark-vle-firmware
+vendor_id: ge
+name: Mark Vle Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:mark_vle_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mark_vle_firmware
+  confidence: auto

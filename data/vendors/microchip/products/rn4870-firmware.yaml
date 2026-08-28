@@ -1,0 +1,10 @@
+id: rn4870-firmware
+vendor_id: microchip
+name: Rn4870 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:rn4870_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rn4870_firmware
+  confidence: auto

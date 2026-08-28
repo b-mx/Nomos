@@ -1,0 +1,10 @@
+id: tx50
+vendor_id: huawei
+name: Tx50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tx50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tx50
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ds107
+vendor_id: synology
+name: Ds107
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synology:ds107:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds107
+  confidence: auto

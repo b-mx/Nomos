@@ -1,0 +1,10 @@
+id: r12ccpu-v
+vendor_id: mitsubishielectric
+name: R12Ccpu-V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:r12ccpu\-v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r12ccpu-v
+  confidence: auto

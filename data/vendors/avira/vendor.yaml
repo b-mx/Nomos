@@ -1,0 +1,7 @@
+id: avira
+name: Avira
+cpe: cpe:2.3:*:avira:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avira
+  confidence: auto

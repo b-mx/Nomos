@@ -1,0 +1,10 @@
+id: a9u23-firmware
+vendor_id: hp
+name: A9U23 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:a9u23_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a9u23_firmware
+  confidence: auto

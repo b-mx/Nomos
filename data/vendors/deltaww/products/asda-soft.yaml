@@ -1,0 +1,10 @@
+id: asda-soft
+vendor_id: deltaww
+name: Asda Soft
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:asda_soft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asda_soft
+  confidence: auto

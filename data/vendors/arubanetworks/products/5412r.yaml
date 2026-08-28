@@ -1,0 +1,10 @@
+id: 5412r
+vendor_id: arubanetworks
+name: 5412R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:5412r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5412r
+  confidence: auto

@@ -1,0 +1,10 @@
+id: webnms-framework
+vendor_id: zohocorp
+name: Webnms Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:webnms_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webnms_framework
+  confidence: auto

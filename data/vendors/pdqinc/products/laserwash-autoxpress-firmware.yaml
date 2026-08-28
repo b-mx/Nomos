@@ -1,0 +1,10 @@
+id: laserwash-autoxpress-firmware
+vendor_id: pdqinc
+name: Laserwash Autoxpress Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pdqinc:laserwash_autoxpress_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserwash_autoxpress_firmware
+  confidence: auto

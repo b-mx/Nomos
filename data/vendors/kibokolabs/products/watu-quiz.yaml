@@ -1,0 +1,10 @@
+id: watu-quiz
+vendor_id: kibokolabs
+name: Watu Quiz
+type: software
+tags: []
+cpe: cpe:2.3:a:kibokolabs:watu_quiz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: watu_quiz
+  confidence: auto

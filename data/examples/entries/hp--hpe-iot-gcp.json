@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--hpe-iot-gcp",
+  "vendor_id": "hp",
+  "product_id": "hpe-iot-gcp",
+  "name": "Hpe Iot + Gcp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hpe_iot_+_gcp",
+      "confidence": "auto"
+    }
+  ]
+}

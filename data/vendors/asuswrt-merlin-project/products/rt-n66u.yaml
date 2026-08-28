@@ -1,0 +1,10 @@
+id: rt-n66u
+vendor_id: asuswrt-merlin-project
+name: Rt-N66U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin_project:rt\-n66u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-n66u
+  confidence: auto

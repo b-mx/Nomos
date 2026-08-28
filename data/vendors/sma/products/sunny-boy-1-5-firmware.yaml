@@ -1,0 +1,10 @@
+id: sunny-boy-1-5-firmware
+vendor_id: sma
+name: Sunny Boy 1.5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sma:sunny_boy_1\.5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_boy_1.5_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: usw-industrial
+vendor_id: ui
+name: Usw-Industrial
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:usw\-industrial:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usw-industrial
+  confidence: auto

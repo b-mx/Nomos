@@ -1,0 +1,10 @@
+id: jc653a
+vendor_id: hp
+name: Jc653A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc653a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc653a
+  confidence: auto

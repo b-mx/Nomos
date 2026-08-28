@@ -1,0 +1,10 @@
+id: laserjet-pro-m701-k9g91a-firmware
+vendor_id: hp
+name: Laserjet Pro M701 K9G91A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m701_k9g91a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m701_k9g91a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: media-control-activex-control
+vendor_id: axis
+name: Media Control Activex Control
+type: software
+tags: []
+cpe: cpe:2.3:a:axis:media_control_activex_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: media_control_activex_control
+  confidence: auto

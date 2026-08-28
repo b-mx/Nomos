@@ -1,0 +1,10 @@
+id: bulletlte-na2-firmware
+vendor_id: microhardcorp
+name: Bulletlte-Na2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microhardcorp:bulletlte\-na2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bulletlte-na2_firmware
+  confidence: auto

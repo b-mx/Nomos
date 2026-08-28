@@ -1,0 +1,10 @@
+id: nas-gateway-nh4a
+vendor_id: nec
+name: Nas Gateway Nh4A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:nas_gateway_nh4a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nas_gateway_nh4a
+  confidence: auto

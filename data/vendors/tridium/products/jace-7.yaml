@@ -1,0 +1,10 @@
+id: jace-7
+vendor_id: tridium
+name: Jace 7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tridium:jace_7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jace_7
+  confidence: auto

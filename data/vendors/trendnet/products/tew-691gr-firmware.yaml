@@ -1,0 +1,10 @@
+id: tew-691gr-firmware
+vendor_id: trendnet
+name: Tew-691Gr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:tew\-691gr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tew-691gr_firmware
+  confidence: auto

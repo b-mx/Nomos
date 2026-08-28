@@ -1,0 +1,10 @@
+id: sysmac-cj2h-cpu67
+vendor_id: omron
+name: Sysmac Cj2H-Cpu67
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cj2h\-cpu67:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cj2h-cpu67
+  confidence: auto

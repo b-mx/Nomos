@@ -1,0 +1,10 @@
+id: uw-302vp-firmware
+vendor_id: uniwayinfo
+name: Uw-302Vp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:uniwayinfo:uw\-302vp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uw-302vp_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "seil--x2-firmware",
+  "vendor_id": "seil",
+  "product_id": "x2-firmware",
+  "name": "X2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

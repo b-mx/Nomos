@@ -1,0 +1,10 @@
+id: masmobile-asp-net-services
+vendor_id: honeywell
+name: Masmobile Asp.Net Services
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:masmobile_asp\.net_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: masmobile_asp.net_services
+  confidence: auto

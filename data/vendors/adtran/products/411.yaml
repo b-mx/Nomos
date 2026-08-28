@@ -1,0 +1,10 @@
+id: '411'
+vendor_id: adtran
+name: '411'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:adtran:411:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '411'
+  confidence: auto

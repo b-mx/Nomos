@@ -1,0 +1,10 @@
+id: n904
+vendor_id: iptime
+name: N904
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:n904:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n904
+  confidence: auto

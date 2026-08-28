@@ -1,0 +1,10 @@
+id: columbia-l29d
+vendor_id: huawei
+name: Columbia-L29D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:columbia\-l29d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: columbia-l29d
+  confidence: auto

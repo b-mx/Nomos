@@ -1,0 +1,10 @@
+id: petrol-pump-management
+vendor_id: mayurik
+name: Petrol Pump Management
+type: software
+tags: []
+cpe: cpe:2.3:a:mayurik:petrol_pump_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: petrol_pump_management
+  confidence: auto

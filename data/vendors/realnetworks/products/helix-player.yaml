@@ -1,0 +1,10 @@
+id: helix-player
+vendor_id: realnetworks
+name: Helix Player
+type: software
+tags: []
+cpe: cpe:2.3:a:realnetworks:helix_player:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: helix_player
+  confidence: auto

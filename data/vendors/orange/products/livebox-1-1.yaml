@@ -1,0 +1,10 @@
+id: livebox-1-1
+vendor_id: orange
+name: Livebox 1.1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:orange:livebox_1\.1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: livebox_1.1
+  confidence: auto

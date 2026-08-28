@@ -1,0 +1,10 @@
+id: h4l2gr1
+vendor_id: honeywell
+name: H4L2Gr1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:h4l2gr1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h4l2gr1
+  confidence: auto

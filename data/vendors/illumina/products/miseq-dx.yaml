@@ -1,0 +1,10 @@
+id: miseq-dx
+vendor_id: illumina
+name: Miseq Dx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:illumina:miseq_dx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miseq_dx
+  confidence: auto

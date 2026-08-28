@@ -1,0 +1,10 @@
+id: modern-bag
+vendor_id: code-projects
+name: Modern Bag
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:modern_bag:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modern_bag
+  confidence: auto

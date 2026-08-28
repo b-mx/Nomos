@@ -1,0 +1,10 @@
+id: laya-al00ep-firmware
+vendor_id: huawei
+name: Laya-Al00Ep Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:laya\-al00ep_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laya-al00ep_firmware
+  confidence: auto

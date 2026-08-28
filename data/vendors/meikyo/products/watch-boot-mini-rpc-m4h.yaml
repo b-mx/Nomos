@@ -1,0 +1,10 @@
+id: watch-boot-mini-rpc-m4h
+vendor_id: meikyo
+name: Watch Boot Mini Rpc-M4H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meikyo:watch_boot_mini_rpc\-m4h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: watch_boot_mini_rpc-m4h
+  confidence: auto

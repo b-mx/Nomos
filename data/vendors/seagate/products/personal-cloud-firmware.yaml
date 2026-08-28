@@ -1,0 +1,10 @@
+id: personal-cloud-firmware
+vendor_id: seagate
+name: Personal Cloud Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seagate:personal_cloud_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: personal_cloud_firmware
+  confidence: auto

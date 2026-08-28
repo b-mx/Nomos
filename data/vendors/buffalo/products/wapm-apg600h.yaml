@@ -1,0 +1,10 @@
+id: wapm-apg600h
+vendor_id: buffalo
+name: Wapm-Apg600H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wapm\-apg600h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wapm-apg600h
+  confidence: auto

@@ -1,0 +1,10 @@
+id: milo
+vendor_id: eclipse
+name: Milo
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:milo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: milo
+  confidence: auto

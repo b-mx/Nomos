@@ -1,0 +1,10 @@
+id: sim1000-fx-firmware
+vendor_id: sick
+name: Sim1000 Fx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:sim1000_fx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim1000_fx_firmware
+  confidence: auto

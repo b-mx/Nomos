@@ -1,0 +1,10 @@
+id: opc-toolbox
+vendor_id: softing
+name: Opc Toolbox
+type: software
+tags: []
+cpe: cpe:2.3:a:softing:opc_toolbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opc_toolbox
+  confidence: auto

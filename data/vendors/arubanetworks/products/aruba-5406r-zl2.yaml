@@ -1,0 +1,10 @@
+id: aruba-5406r-zl2
+vendor_id: arubanetworks
+name: Aruba 5406R Zl2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:aruba_5406r_zl2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_5406r_zl2
+  confidence: auto

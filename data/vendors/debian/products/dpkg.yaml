@@ -1,0 +1,10 @@
+id: dpkg
+vendor_id: debian
+name: Dpkg
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:dpkg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dpkg
+  confidence: auto

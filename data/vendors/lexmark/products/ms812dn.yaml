@@ -1,0 +1,10 @@
+id: ms812dn
+vendor_id: lexmark
+name: Ms812Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms812dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms812dn
+  confidence: auto

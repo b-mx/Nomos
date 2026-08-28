@@ -1,0 +1,10 @@
+id: honor-4c
+vendor_id: huawei
+name: Honor 4C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:honor_4c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_4c
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--snmp-web-adapter-firmware",
+  "vendor_id": "ge",
+  "product_id": "snmp-web-adapter-firmware",
+  "name": "Snmp/Web Adapter Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "snmp/web_adapter_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

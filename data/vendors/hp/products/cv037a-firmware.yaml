@@ -1,0 +1,10 @@
+id: cv037a-firmware
+vendor_id: hp
+name: Cv037A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cv037a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cv037a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: b3g85a-firmware
+vendor_id: hp
+name: B3G85A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:b3g85a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b3g85a_firmware
+  confidence: auto

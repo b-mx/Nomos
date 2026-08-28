@@ -1,0 +1,10 @@
+id: defiant
+vendor_id: coolpad
+name: Defiant
+type: hardware
+tags: []
+cpe: cpe:2.3:h:coolpad:defiant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: defiant
+  confidence: auto

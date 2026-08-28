@@ -1,0 +1,10 @@
+id: ispyoo
+vendor_id: 1byte
+name: Ispyoo
+type: software
+tags: []
+cpe: cpe:2.3:a:1byte:ispyoo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ispyoo
+  confidence: auto

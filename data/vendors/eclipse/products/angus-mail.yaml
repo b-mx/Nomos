@@ -1,0 +1,10 @@
+id: angus-mail
+vendor_id: eclipse
+name: Angus Mail
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:angus_mail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: angus_mail
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cf-deployment
+vendor_id: cloudfoundry
+name: Cf-Deployment
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:cf\-deployment:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf-deployment
+  confidence: auto

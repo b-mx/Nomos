@@ -1,0 +1,10 @@
+id: mpa2-firmware
+vendor_id: honeywell
+name: Mpa2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:mpa2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mpa2_firmware
+  confidence: auto

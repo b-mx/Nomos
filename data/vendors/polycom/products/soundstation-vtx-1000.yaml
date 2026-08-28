@@ -1,0 +1,10 @@
+id: soundstation-vtx-1000
+vendor_id: polycom
+name: Soundstation Vtx 1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:soundstation_vtx_1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soundstation_vtx_1000
+  confidence: auto

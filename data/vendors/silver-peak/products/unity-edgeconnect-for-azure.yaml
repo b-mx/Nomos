@@ -1,0 +1,10 @@
+id: unity-edgeconnect-for-azure
+vendor_id: silver-peak
+name: Unity Edgeconnect For Azure
+type: software
+tags: []
+cpe: cpe:2.3:a:silver\-peak:unity_edgeconnect_for_azure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unity_edgeconnect_for_azure
+  confidence: auto

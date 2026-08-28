@@ -1,0 +1,10 @@
+id: protobuf
+vendor_id: golang
+name: Protobuf
+type: software
+tags: []
+cpe: cpe:2.3:a:golang:protobuf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protobuf
+  confidence: auto

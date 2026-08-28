@@ -1,0 +1,10 @@
+id: celsius-firmware
+vendor_id: fujitsu
+name: Celsius Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:celsius_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: celsius_firmware
+  confidence: auto

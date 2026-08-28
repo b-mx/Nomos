@@ -1,0 +1,10 @@
+id: cloud-manager
+vendor_id: netapp
+name: Cloud Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:cloud_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_manager
+  confidence: auto

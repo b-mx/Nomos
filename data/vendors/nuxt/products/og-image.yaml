@@ -1,0 +1,10 @@
+id: og-image
+vendor_id: nuxt
+name: Og Image
+type: software
+tags: []
+cpe: cpe:2.3:a:nuxt:og_image:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: og_image
+  confidence: auto

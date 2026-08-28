@@ -1,0 +1,10 @@
+id: time-slots-booking-calendar
+vendor_id: phpjabbers
+name: Time Slots Booking Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:time_slots_booking_calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: time_slots_booking_calendar
+  confidence: auto

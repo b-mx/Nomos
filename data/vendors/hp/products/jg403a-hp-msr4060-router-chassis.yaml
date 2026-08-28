@@ -1,0 +1,10 @@
+id: jg403a-hp-msr4060-router-chassis
+vendor_id: hp
+name: Jg403A Hp Msr4060 Router Chassis
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg403a_hp_msr4060_router_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg403a_hp_msr4060_router_chassis
+  confidence: auto

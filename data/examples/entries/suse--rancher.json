@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--rancher",
+  "vendor_id": "suse",
+  "product_id": "rancher",
+  "name": "Rancher",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "rancher",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "rancher",
+      "confidence": "auto"
+    }
+  ]
+}

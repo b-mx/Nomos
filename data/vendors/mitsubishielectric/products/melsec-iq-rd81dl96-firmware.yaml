@@ -1,0 +1,10 @@
+id: melsec-iq-rd81dl96-firmware
+vendor_id: mitsubishielectric
+name: Melsec Iq-Rd81Dl96 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:melsec_iq\-rd81dl96_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-rd81dl96_firmware
+  confidence: auto

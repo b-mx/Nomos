@@ -1,0 +1,10 @@
+id: e8450
+vendor_id: linksys
+name: E8450
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:e8450:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e8450
+  confidence: auto

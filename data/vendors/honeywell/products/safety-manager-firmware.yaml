@@ -1,0 +1,10 @@
+id: safety-manager-firmware
+vendor_id: honeywell
+name: Safety Manager Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:safety_manager_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safety_manager_firmware
+  confidence: auto

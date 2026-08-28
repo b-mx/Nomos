@@ -1,0 +1,10 @@
+id: student-project-allocation-system
+vendor_id: projectworlds
+name: Student Project Allocation System
+type: software
+tags: []
+cpe: cpe:2.3:a:projectworlds:student_project_allocation_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: student_project_allocation_system
+  confidence: auto

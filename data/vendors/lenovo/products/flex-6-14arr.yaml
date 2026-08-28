@@ -1,0 +1,10 @@
+id: flex-6-14arr
+vendor_id: lenovo
+name: Flex 6-14Arr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:flex_6\-14arr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_6-14arr
+  confidence: auto

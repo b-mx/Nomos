@@ -1,0 +1,10 @@
+id: mifare-ultralight-nano
+vendor_id: nxp
+name: Mifare Ultralight Nano
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:mifare_ultralight_nano:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mifare_ultralight_nano
+  confidence: auto

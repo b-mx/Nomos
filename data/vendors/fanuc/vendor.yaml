@@ -1,0 +1,7 @@
+id: fanuc
+name: Fanuc
+cpe: cpe:2.3:*:fanuc:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fanuc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sg110-firmware
+vendor_id: netapp
+name: Sg110 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:sg110_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg110_firmware
+  confidence: auto

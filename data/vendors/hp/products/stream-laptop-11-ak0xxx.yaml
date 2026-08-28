@@ -1,0 +1,10 @@
+id: stream-laptop-11-ak0xxx
+vendor_id: hp
+name: Stream Laptop 11-Ak0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:stream_laptop_11\-ak0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stream_laptop_11-ak0xxx
+  confidence: auto

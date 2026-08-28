@@ -1,0 +1,10 @@
+id: fe9182-h-firmware
+vendor_id: vivotek
+name: Fe9182-H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fe9182\-h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fe9182-h_firmware
+  confidence: auto

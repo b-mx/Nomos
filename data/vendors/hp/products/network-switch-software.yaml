@@ -1,0 +1,10 @@
+id: network-switch-software
+vendor_id: hp
+name: Network Switch Software
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:network_switch_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_switch_software
+  confidence: auto

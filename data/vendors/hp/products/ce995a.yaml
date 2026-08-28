@@ -1,0 +1,10 @@
+id: ce995a
+vendor_id: hp
+name: Ce995A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:ce995a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ce995a
+  confidence: auto

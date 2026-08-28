@@ -1,0 +1,10 @@
+id: proliant-sl4545-g7-server-amd-firmware
+vendor_id: hp
+name: Proliant Sl4545 G7 Server (Amd) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:proliant_sl4545_g7_server_\(amd\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_sl4545_g7_server_(amd)_firmware
+  confidence: auto

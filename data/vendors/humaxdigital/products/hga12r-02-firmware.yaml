@@ -1,0 +1,10 @@
+id: hga12r-02-firmware
+vendor_id: humaxdigital
+name: Hga12R-02 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:humaxdigital:hga12r\-02_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hga12r-02_firmware
+  confidence: auto

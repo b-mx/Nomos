@@ -1,0 +1,10 @@
+id: lifebook-e736-vpro
+vendor_id: fujitsu
+name: Lifebook E736 Vpro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:lifebook_e736_vpro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lifebook_e736_vpro
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xcelera
+vendor_id: philips
+name: Xcelera
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:xcelera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xcelera
+  confidence: auto

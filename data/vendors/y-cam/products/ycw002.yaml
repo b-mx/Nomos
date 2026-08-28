@@ -1,0 +1,10 @@
+id: ycw002
+vendor_id: y-cam
+name: Ycw002
+type: hardware
+tags: []
+cpe: cpe:2.3:h:y\-cam:ycw002:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ycw002
+  confidence: auto

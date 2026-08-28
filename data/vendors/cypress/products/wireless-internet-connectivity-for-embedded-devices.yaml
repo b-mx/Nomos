@@ -1,0 +1,10 @@
+id: wireless-internet-connectivity-for-embedded-devices
+vendor_id: cypress
+name: Wireless Internet Connectivity For Embedded Devices
+type: os
+tags: []
+cpe: cpe:2.3:o:cypress:wireless_internet_connectivity_for_embedded_devices:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireless_internet_connectivity_for_embedded_devices
+  confidence: auto

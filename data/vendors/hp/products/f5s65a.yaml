@@ -1,0 +1,10 @@
+id: f5s65a
+vendor_id: hp
+name: F5S65A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f5s65a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f5s65a
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp-eye-firmware",
+  "vendor_id": "espressif",
+  "product_id": "esp-eye-firmware",
+  "name": "Esp-Eye Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp-eye_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

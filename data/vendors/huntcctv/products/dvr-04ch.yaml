@@ -1,0 +1,10 @@
+id: dvr-04ch
+vendor_id: huntcctv
+name: Dvr-04Ch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huntcctv:dvr\-04ch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvr-04ch
+  confidence: auto

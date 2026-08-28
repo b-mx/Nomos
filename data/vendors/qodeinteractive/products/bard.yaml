@@ -1,0 +1,10 @@
+id: bard
+vendor_id: qodeinteractive
+name: Bard
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:bard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bard
+  confidence: auto

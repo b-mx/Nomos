@@ -1,0 +1,10 @@
+id: dt2040
+vendor_id: rstinstruments
+name: Dt2040
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:dt2040:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt2040
+  confidence: auto

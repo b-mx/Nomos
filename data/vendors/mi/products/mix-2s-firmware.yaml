@@ -1,0 +1,10 @@
+id: mix-2s-firmware
+vendor_id: mi
+name: Mix 2S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:mix_2s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mix_2s_firmware
+  confidence: auto

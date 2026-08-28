@@ -1,0 +1,10 @@
+id: i-mx-rt1015
+vendor_id: nxp
+name: I.Mx Rt1015
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:i\.mx_rt1015:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_rt1015
+  confidence: auto

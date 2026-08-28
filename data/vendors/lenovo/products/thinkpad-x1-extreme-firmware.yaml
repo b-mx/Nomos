@@ -1,0 +1,10 @@
+id: thinkpad-x1-extreme-firmware
+vendor_id: lenovo
+name: Thinkpad X1 Extreme Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_x1_extreme_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_extreme_firmware
+  confidence: auto

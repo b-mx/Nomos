@@ -1,0 +1,10 @@
+id: primergy-rx2530-m5-firmware
+vendor_id: fujitsu
+name: Primergy Rx2530 M5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:primergy_rx2530_m5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primergy_rx2530_m5_firmware
+  confidence: auto

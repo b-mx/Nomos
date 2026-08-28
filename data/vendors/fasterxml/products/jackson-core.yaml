@@ -1,0 +1,10 @@
+id: jackson-core
+vendor_id: fasterxml
+name: Jackson-Core
+type: software
+tags: []
+cpe: cpe:2.3:a:fasterxml:jackson\-core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jackson-core
+  confidence: auto

@@ -1,0 +1,7 @@
+id: iss
+name: Iss
+cpe: cpe:2.3:*:iss:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iss
+  confidence: auto

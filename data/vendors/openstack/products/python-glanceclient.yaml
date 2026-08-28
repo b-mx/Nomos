@@ -1,0 +1,10 @@
+id: python-glanceclient
+vendor_id: openstack
+name: Python Glanceclient
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:python_glanceclient:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: python_glanceclient
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pmaa
+vendor_id: adtran
+name: Pmaa
+type: software
+tags: []
+cpe: cpe:2.3:a:adtran:pmaa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pmaa
+  confidence: auto

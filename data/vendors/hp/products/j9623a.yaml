@@ -1,0 +1,10 @@
+id: j9623a
+vendor_id: hp
+name: J9623A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:j9623a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j9623a
+  confidence: auto

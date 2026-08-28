@@ -1,0 +1,10 @@
+id: prg-av4202n
+vendor_id: adbglobal
+name: Prg Av4202N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:adbglobal:prg_av4202n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prg_av4202n
+  confidence: auto

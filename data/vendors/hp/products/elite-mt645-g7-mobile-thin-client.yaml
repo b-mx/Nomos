@@ -1,0 +1,10 @@
+id: elite-mt645-g7-mobile-thin-client
+vendor_id: hp
+name: Elite Mt645 G7 Mobile Thin Client
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elite_mt645_g7_mobile_thin_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_mt645_g7_mobile_thin_client
+  confidence: auto

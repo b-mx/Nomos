@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--service-manager-web-tier",
+  "vendor_id": "hp",
+  "product_id": "service-manager-web-tier",
+  "name": "Service Manager Web Tier",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_manager_web_tier",
+      "confidence": "auto"
+    }
+  ]
+}

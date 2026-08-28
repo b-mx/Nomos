@@ -1,0 +1,10 @@
+id: q304-firmware
+vendor_id: iptime
+name: Q304 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:q304_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q304_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: claria-crt-d
+vendor_id: medtronic
+name: Claria Crt-D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:claria_crt\-d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: claria_crt-d
+  confidence: auto

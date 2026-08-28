@@ -1,0 +1,10 @@
+id: workspaces
+vendor_id: blackberry
+name: Workspaces
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:workspaces:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workspaces
+  confidence: auto

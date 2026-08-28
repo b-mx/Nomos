@@ -1,0 +1,10 @@
+id: uf-260
+vendor_id: lancom-systems
+name: Uf-260
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lancom\-systems:uf\-260:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uf-260
+  confidence: auto

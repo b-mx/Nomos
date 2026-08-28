@@ -1,0 +1,10 @@
+id: pimcore
+vendor_id: pimcore
+name: Pimcore
+type: software
+tags: []
+cpe: cpe:2.3:a:pimcore:pimcore:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pimcore
+  confidence: auto

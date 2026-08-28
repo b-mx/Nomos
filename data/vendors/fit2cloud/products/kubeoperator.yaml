@@ -1,0 +1,10 @@
+id: kubeoperator
+vendor_id: fit2cloud
+name: Kubeoperator
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:kubeoperator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kubeoperator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: proliant-rl300-gen11
+vendor_id: hpe
+name: Proliant Rl300 Gen11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_rl300_gen11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_rl300_gen11
+  confidence: auto

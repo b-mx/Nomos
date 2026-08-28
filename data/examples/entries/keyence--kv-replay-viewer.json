@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "keyence--kv-replay-viewer",
+  "vendor_id": "keyence",
+  "product_id": "kv-replay-viewer",
+  "name": "Kv Replay Viewer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kv_replay_viewer",
+      "confidence": "auto"
+    }
+  ]
+}

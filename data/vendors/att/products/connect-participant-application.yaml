@@ -1,0 +1,10 @@
+id: connect-participant-application
+vendor_id: att
+name: Connect Participant Application
+type: software
+tags: []
+cpe: cpe:2.3:a:att:connect_participant_application:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect_participant_application
+  confidence: auto

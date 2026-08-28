@@ -1,0 +1,10 @@
+id: ryzen-5950x-firmware
+vendor_id: amd
+name: Ryzen 5950X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_5950x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5950x_firmware
+  confidence: auto

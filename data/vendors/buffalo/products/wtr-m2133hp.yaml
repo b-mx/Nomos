@@ -1,0 +1,10 @@
+id: wtr-m2133hp
+vendor_id: buffalo
+name: Wtr-M2133Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wtr\-m2133hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wtr-m2133hp
+  confidence: auto

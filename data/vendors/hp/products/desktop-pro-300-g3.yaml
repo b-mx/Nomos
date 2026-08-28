@@ -1,0 +1,10 @@
+id: desktop-pro-300-g3
+vendor_id: hp
+name: Desktop Pro 300 G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:desktop_pro_300_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_pro_300_g3
+  confidence: auto

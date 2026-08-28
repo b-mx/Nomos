@@ -1,0 +1,10 @@
+id: vesp211-eu
+vendor_id: advantech
+name: Vesp211-Eu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:advantech:vesp211\-eu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vesp211-eu
+  confidence: auto

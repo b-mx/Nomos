@@ -1,0 +1,10 @@
+id: mp-112
+vendor_id: audiocodes
+name: Mp-112
+type: hardware
+tags: []
+cpe: cpe:2.3:h:audiocodes:mp\-112:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp-112
+  confidence: auto

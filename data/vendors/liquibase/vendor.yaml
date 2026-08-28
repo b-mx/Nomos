@@ -1,0 +1,7 @@
+id: liquibase
+name: Liquibase
+cpe: cpe:2.3:*:liquibase:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: liquibase
+  confidence: auto

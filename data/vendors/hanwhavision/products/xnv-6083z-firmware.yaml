@@ -1,0 +1,10 @@
+id: xnv-6083z-firmware
+vendor_id: hanwhavision
+name: Xnv-6083Z Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:xnv\-6083z_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-6083z_firmware
+  confidence: auto

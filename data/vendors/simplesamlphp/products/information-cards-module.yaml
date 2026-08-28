@@ -1,0 +1,10 @@
+id: information-cards-module
+vendor_id: simplesamlphp
+name: Information Cards Module
+type: software
+tags: []
+cpe: cpe:2.3:a:simplesamlphp:information_cards_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: information_cards_module
+  confidence: auto

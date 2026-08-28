@@ -1,9 +1,8 @@
 id: dwl-2600ap-access-point
 vendor_id: d-link
 name: DWL-2600AP Access Point
-type: hardware
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: DWL-2600AP Access Point

@@ -1,0 +1,10 @@
+id: ahb7804r-els-firmware
+vendor_id: xiongmaitech
+name: Ahb7804R-Els Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:ahb7804r\-els_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ahb7804r-els_firmware
+  confidence: auto

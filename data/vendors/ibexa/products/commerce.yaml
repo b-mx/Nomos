@@ -1,0 +1,10 @@
+id: commerce
+vendor_id: ibexa
+name: Commerce
+type: software
+tags: []
+cpe: cpe:2.3:a:ibexa:commerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: commerce
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flexfabric-5700-40xg-2qsfp-firmware
+vendor_id: hpe
+name: Flexfabric 5700 40Xg 2Qsfp+ Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:flexfabric_5700_40xg_2qsfp\+_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexfabric_5700_40xg_2qsfp+_firmware
+  confidence: auto

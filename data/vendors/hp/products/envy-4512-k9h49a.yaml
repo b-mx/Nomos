@@ -1,0 +1,10 @@
+id: envy-4512-k9h49a
+vendor_id: hp
+name: Envy 4512 K9H49A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_4512_k9h49a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_4512_k9h49a
+  confidence: auto

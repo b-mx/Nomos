@@ -1,0 +1,10 @@
+id: toronto-firmware
+vendor_id: huawei
+name: Toronto Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:toronto_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toronto_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: biosense
+vendor_id: chiyu-tech
+name: Biosense
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chiyu\-tech:biosense:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biosense
+  confidence: auto

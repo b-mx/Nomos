@@ -1,0 +1,10 @@
+id: eg-2000se-firmware
+vendor_id: ruijie
+name: Eg-2000Se Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:eg\-2000se_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eg-2000se_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: v6d27-firmware
+vendor_id: hp
+name: V6D27 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:v6d27_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v6d27_firmware
+  confidence: auto

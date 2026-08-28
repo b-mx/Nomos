@@ -1,0 +1,10 @@
+id: matrimonial-site
+vendor_id: carmelogarcia
+name: Matrimonial Site
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelogarcia:matrimonial_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matrimonial_site
+  confidence: auto

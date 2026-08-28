@@ -1,0 +1,10 @@
+id: jd274a
+vendor_id: hp
+name: Jd274A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd274a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd274a
+  confidence: auto

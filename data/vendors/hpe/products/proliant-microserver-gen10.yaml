@@ -1,0 +1,10 @@
+id: proliant-microserver-gen10
+vendor_id: hpe
+name: Proliant Microserver Gen10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_microserver_gen10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_microserver_gen10
+  confidence: auto

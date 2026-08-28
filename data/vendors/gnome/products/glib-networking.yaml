@@ -1,0 +1,10 @@
+id: glib-networking
+vendor_id: gnome
+name: Glib-Networking
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:glib\-networking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: glib-networking
+  confidence: auto

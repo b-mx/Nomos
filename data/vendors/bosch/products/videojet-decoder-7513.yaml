@@ -1,0 +1,10 @@
+id: videojet-decoder-7513
+vendor_id: bosch
+name: Videojet Decoder 7513
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:videojet_decoder_7513:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: videojet_decoder_7513
+  confidence: auto

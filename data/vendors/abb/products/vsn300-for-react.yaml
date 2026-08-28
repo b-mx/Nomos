@@ -1,0 +1,10 @@
+id: vsn300-for-react
+vendor_id: abb
+name: Vsn300 For React
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:vsn300_for_react:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsn300_for_react
+  confidence: auto

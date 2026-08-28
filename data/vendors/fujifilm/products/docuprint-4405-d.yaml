@@ -1,0 +1,10 @@
+id: docuprint-4405-d
+vendor_id: fujifilm
+name: Docuprint 4405 D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:docuprint_4405_d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_4405_d
+  confidence: auto

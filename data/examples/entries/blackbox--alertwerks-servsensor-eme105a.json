@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "blackbox--alertwerks-servsensor-eme105a",
+  "vendor_id": "blackbox",
+  "product_id": "alertwerks-servsensor-eme105a",
+  "name": "Alertwerks Servsensor Eme105A",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alertwerks_servsensor_eme105a",
+      "confidence": "auto"
+    }
+  ]
+}

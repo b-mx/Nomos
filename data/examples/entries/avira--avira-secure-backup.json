@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avira--avira-secure-backup",
+  "vendor_id": "avira",
+  "product_id": "avira-secure-backup",
+  "name": "Avira Secure Backup",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "avira_secure_backup",
+      "confidence": "auto"
+    }
+  ]
+}

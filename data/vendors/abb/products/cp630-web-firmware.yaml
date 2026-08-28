@@ -1,0 +1,10 @@
+id: cp630-web-firmware
+vendor_id: abb
+name: Cp630-Web Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:cp630\-web_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp630-web_firmware
+  confidence: auto

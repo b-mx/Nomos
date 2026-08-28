@@ -1,0 +1,10 @@
+id: hotjava-browser
+vendor_id: sun
+name: Hotjava Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:hotjava_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hotjava_browser
+  confidence: auto

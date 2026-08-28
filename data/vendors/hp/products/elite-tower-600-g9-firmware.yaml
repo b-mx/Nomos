@@ -1,0 +1,10 @@
+id: elite-tower-600-g9-firmware
+vendor_id: hp
+name: Elite Tower 600 G9 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elite_tower_600_g9_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_tower_600_g9_firmware
+  confidence: auto

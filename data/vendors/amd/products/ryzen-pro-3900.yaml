@@ -1,0 +1,10 @@
+id: ryzen-pro-3900
+vendor_id: amd
+name: Ryzen Pro 3900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_pro_3900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_pro_3900
+  confidence: auto

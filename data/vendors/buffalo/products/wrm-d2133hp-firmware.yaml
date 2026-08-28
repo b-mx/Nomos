@@ -1,0 +1,10 @@
+id: wrm-d2133hp-firmware
+vendor_id: buffalo
+name: Wrm-D2133Hp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wrm\-d2133hp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrm-d2133hp_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: linux
+vendor_id: suse
+name: Linux
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux
+  confidence: auto

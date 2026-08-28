@@ -1,0 +1,10 @@
+id: gatemanager
+vendor_id: secomea
+name: Gatemanager
+type: software
+tags: []
+cpe: cpe:2.3:a:secomea:gatemanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gatemanager
+  confidence: auto

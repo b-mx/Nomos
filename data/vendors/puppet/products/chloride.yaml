@@ -1,0 +1,10 @@
+id: chloride
+vendor_id: puppet
+name: Chloride
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:chloride:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chloride
+  confidence: auto

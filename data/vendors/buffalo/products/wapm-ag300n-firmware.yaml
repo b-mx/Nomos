@@ -1,0 +1,10 @@
+id: wapm-ag300n-firmware
+vendor_id: buffalo
+name: Wapm-Ag300N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wapm\-ag300n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wapm-ag300n_firmware
+  confidence: auto

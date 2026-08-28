@@ -1,0 +1,10 @@
+id: xe3000-firmware
+vendor_id: gl-inet
+name: Xe3000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:xe3000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xe3000_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wp-pdf-generator
+vendor_id: wpexperts
+name: Wp Pdf Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:wpexperts:wp_pdf_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_pdf_generator
+  confidence: auto

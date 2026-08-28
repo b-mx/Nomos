@@ -1,0 +1,10 @@
+id: espace-8950
+vendor_id: huawei
+name: Espace 8950
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:espace_8950:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espace_8950
+  confidence: auto

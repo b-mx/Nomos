@@ -1,0 +1,10 @@
+id: ryzen-threadripper-2920x-firmware
+vendor_id: amd
+name: Ryzen Threadripper 2920X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_threadripper_2920x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_threadripper_2920x_firmware
+  confidence: auto

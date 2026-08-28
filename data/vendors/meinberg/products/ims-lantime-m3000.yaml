@@ -1,0 +1,10 @@
+id: ims-lantime-m3000
+vendor_id: meinberg
+name: Ims-Lantime M3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meinberg:ims\-lantime_m3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ims-lantime_m3000
+  confidence: auto

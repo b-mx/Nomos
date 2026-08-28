@@ -1,0 +1,10 @@
+id: x650
+vendor_id: lexmark
+name: X650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x650
+  confidence: auto

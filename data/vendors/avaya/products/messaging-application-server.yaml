@@ -1,0 +1,10 @@
+id: messaging-application-server
+vendor_id: avaya
+name: Messaging Application Server
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:messaging_application_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: messaging_application_server
+  confidence: auto

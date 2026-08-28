@@ -1,0 +1,10 @@
+id: kiro-cli
+vendor_id: amazon
+name: Kiro Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:kiro_cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kiro_cli
+  confidence: auto

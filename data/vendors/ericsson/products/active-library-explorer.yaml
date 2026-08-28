@@ -1,0 +1,10 @@
+id: active-library-explorer
+vendor_id: ericsson
+name: Active Library Explorer
+type: software
+tags: []
+cpe: cpe:2.3:a:ericsson:active_library_explorer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_library_explorer
+  confidence: auto

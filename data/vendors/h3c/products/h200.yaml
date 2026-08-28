@@ -1,0 +1,10 @@
+id: h200
+vendor_id: h3c
+name: H200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:h200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h200
+  confidence: auto

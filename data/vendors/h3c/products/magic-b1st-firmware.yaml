@@ -1,0 +1,10 @@
+id: magic-b1st-firmware
+vendor_id: h3c
+name: Magic B1St Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:magic_b1st_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_b1st_firmware
+  confidence: auto

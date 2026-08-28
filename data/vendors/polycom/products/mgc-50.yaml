@@ -1,0 +1,10 @@
+id: mgc-50
+vendor_id: polycom
+name: Mgc-50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:mgc\-50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mgc-50
+  confidence: auto

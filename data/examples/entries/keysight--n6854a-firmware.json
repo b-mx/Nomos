@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "keysight--n6854a-firmware",
+  "vendor_id": "keysight",
+  "product_id": "n6854a-firmware",
+  "name": "N6854A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "n6854a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

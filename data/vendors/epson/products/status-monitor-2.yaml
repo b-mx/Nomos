@@ -1,0 +1,10 @@
+id: status-monitor-2
+vendor_id: epson
+name: Status Monitor 2
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:status_monitor_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: status_monitor_2
+  confidence: auto

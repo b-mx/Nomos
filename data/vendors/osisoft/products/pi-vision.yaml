@@ -1,0 +1,10 @@
+id: pi-vision
+vendor_id: osisoft
+name: Pi Vision
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_vision:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_vision
+  confidence: auto

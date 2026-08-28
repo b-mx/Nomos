@@ -1,0 +1,10 @@
+id: wc-builder
+vendor_id: hasthemes
+name: Wc Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:wc_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wc_builder
+  confidence: auto

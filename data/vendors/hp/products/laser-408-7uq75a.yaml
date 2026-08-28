@@ -1,0 +1,10 @@
+id: laser-408-7uq75a
+vendor_id: hp
+name: Laser 408 7Uq75A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laser_408_7uq75a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laser_408_7uq75a
+  confidence: auto

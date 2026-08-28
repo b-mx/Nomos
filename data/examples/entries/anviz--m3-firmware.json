@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "anviz--m3-firmware",
+  "vendor_id": "anviz",
+  "product_id": "m3-firmware",
+  "name": "M3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

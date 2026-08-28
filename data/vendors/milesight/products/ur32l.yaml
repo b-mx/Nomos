@@ -1,0 +1,10 @@
+id: ur32l
+vendor_id: milesight
+name: Ur32L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:milesight:ur32l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ur32l
+  confidence: auto

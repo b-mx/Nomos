@@ -1,0 +1,10 @@
+id: r16psfcpu
+vendor_id: mitsubishielectric
+name: R16Psfcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:r16psfcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r16psfcpu
+  confidence: auto

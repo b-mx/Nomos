@@ -1,0 +1,10 @@
+id: bail-bonds
+vendor_id: onesolutionapps
+name: Bail Bonds
+type: software
+tags: []
+cpe: cpe:2.3:a:onesolutionapps:bail_bonds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bail_bonds
+  confidence: auto

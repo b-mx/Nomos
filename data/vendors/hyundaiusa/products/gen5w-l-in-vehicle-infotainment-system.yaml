@@ -1,0 +1,10 @@
+id: gen5w-l-in-vehicle-infotainment-system
+vendor_id: hyundaiusa
+name: Gen5W L In-Vehicle Infotainment System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hyundaiusa:gen5w_l_in\-vehicle_infotainment_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gen5w_l_in-vehicle_infotainment_system
+  confidence: auto

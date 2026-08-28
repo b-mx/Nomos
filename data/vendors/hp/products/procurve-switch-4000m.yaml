@@ -1,0 +1,10 @@
+id: procurve-switch-4000m
+vendor_id: hp
+name: Procurve Switch 4000M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:procurve_switch_4000m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: procurve_switch_4000m
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mx-4061s-firmware
+vendor_id: sharp
+name: Mx-4061S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-4061s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-4061s_firmware
+  confidence: auto

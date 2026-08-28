@@ -1,0 +1,10 @@
+id: autopilot-seo
+vendor_id: xforwoocommerce
+name: Autopilot Seo
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:autopilot_seo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autopilot_seo
+  confidence: auto

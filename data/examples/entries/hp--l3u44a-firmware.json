@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--l3u44a-firmware",
+  "vendor_id": "hp",
+  "product_id": "l3u44a-firmware",
+  "name": "L3U44A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "l3u44a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

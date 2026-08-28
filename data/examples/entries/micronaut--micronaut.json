@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "micronaut--micronaut",
+  "vendor_id": "micronaut",
+  "product_id": "micronaut",
+  "name": "Micronaut Framework",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "micronaut",
+      "confidence": "auto"
+    }
+  ]
+}

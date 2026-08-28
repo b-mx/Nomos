@@ -1,0 +1,10 @@
+id: communication-drivers
+vendor_id: aveva
+name: Communication Drivers
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:communication_drivers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: communication_drivers
+  confidence: auto

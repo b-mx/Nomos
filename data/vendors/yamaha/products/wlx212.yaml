@@ -1,0 +1,10 @@
+id: wlx212
+vendor_id: yamaha
+name: Wlx212
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:wlx212:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlx212
+  confidence: auto

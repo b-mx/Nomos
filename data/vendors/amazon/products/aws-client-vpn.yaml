@@ -1,0 +1,10 @@
+id: aws-client-vpn
+vendor_id: amazon
+name: Aws Client Vpn
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_client_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_client_vpn
+  confidence: auto

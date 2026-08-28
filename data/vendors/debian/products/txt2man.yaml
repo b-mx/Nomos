@@ -1,0 +1,10 @@
+id: txt2man
+vendor_id: debian
+name: Txt2Man
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:txt2man:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: txt2man
+  confidence: auto

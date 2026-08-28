@@ -1,0 +1,10 @@
+id: f-st-5260-firmware
+vendor_id: sagemcom
+name: F@St 5260 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sagemcom:f\@st_5260_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f@st_5260_firmware
+  confidence: auto

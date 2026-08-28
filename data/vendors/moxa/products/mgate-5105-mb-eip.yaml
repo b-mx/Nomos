@@ -1,0 +1,10 @@
+id: mgate-5105-mb-eip
+vendor_id: moxa
+name: Mgate 5105-Mb-Eip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:mgate_5105\-mb\-eip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mgate_5105-mb-eip
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "broadcom--vmware-vcenter-server",
+  "vendor_id": "broadcom",
+  "product_id": "vmware-vcenter-server",
+  "name": "VMware vCenter Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "VMware vCenter Server",
+      "confidence": "auto"
+    }
+  ]
+}

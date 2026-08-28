@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--aviotec-firmware",
+  "vendor_id": "bosch",
+  "product_id": "aviotec-firmware",
+  "name": "Aviotec Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aviotec_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

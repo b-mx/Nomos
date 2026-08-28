@@ -1,0 +1,10 @@
+id: s14-g2-itl
+vendor_id: lenovo
+name: S14 G2 Itl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s14_g2_itl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s14_g2_itl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: one
+vendor_id: sonos
+name: One
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sonos:one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one
+  confidence: auto

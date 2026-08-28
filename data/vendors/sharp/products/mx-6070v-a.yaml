@@ -1,0 +1,10 @@
+id: mx-6070v-a
+vendor_id: sharp
+name: Mx-6070V A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-6070v_a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-6070v_a
+  confidence: auto

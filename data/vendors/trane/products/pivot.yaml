@@ -1,0 +1,10 @@
+id: pivot
+vendor_id: trane
+name: Pivot
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trane:pivot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pivot
+  confidence: auto

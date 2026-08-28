@@ -1,0 +1,10 @@
+id: pcd-controllers
+vendor_id: saia-burgess-controls
+name: Pcd Controllers
+type: hardware
+tags: []
+cpe: cpe:2.3:h:saia_burgess_controls:pcd_controllers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcd_controllers
+  confidence: auto

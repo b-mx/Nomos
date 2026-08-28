@@ -1,0 +1,10 @@
+id: romepi
+vendor_id: amd
+name: Romepi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:romepi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: romepi
+  confidence: auto

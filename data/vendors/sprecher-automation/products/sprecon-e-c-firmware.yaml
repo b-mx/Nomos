@@ -1,0 +1,10 @@
+id: sprecon-e-c-firmware
+vendor_id: sprecher-automation
+name: Sprecon-E-C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sprecher\-automation:sprecon\-e\-c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sprecon-e-c_firmware
+  confidence: auto

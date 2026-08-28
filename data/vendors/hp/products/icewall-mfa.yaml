@@ -1,0 +1,10 @@
+id: icewall-mfa
+vendor_id: hp
+name: Icewall Mfa
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:icewall_mfa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icewall_mfa
+  confidence: auto

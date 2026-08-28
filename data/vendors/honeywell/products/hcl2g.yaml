@@ -1,0 +1,10 @@
+id: hcl2g
+vendor_id: honeywell
+name: Hcl2G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hcl2g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl2g
+  confidence: auto

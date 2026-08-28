@@ -1,0 +1,10 @@
+id: hp-spectre-13-h200
+vendor_id: hp
+name: Hp Spectre 13-H200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_spectre_13\-h200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_spectre_13-h200
+  confidence: auto

@@ -1,0 +1,10 @@
+id: builder-theme-depot
+vendor_id: ithemes
+name: Builder Theme Depot
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:builder_theme_depot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: builder_theme_depot
+  confidence: auto

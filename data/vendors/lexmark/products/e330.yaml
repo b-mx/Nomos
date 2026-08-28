@@ -1,0 +1,10 @@
+id: e330
+vendor_id: lexmark
+name: E330
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:e330:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e330
+  confidence: auto

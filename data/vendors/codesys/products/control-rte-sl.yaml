@@ -1,0 +1,10 @@
+id: control-rte-sl
+vendor_id: codesys
+name: Control Rte Sl
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_rte_sl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_rte_sl
+  confidence: auto

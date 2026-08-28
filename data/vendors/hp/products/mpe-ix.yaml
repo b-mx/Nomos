@@ -1,0 +1,10 @@
+id: mpe-ix
+vendor_id: hp
+name: Mpe Ix
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:mpe_ix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mpe_ix
+  confidence: auto

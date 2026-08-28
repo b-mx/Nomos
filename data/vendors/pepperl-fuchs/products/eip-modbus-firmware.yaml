@@ -1,0 +1,10 @@
+id: eip-modbus-firmware
+vendor_id: pepperl-fuchs
+name: Eip/Modbus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:eip\/modbus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eip/modbus_firmware
+  confidence: auto

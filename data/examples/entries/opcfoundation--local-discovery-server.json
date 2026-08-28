@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opcfoundation--local-discovery-server",
+  "vendor_id": "opcfoundation",
+  "product_id": "local-discovery-server",
+  "name": "Local Discovery Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "local_discovery_server",
+      "confidence": "auto"
+    }
+  ]
+}

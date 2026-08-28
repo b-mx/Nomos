@@ -1,0 +1,10 @@
+id: wh-1000xm2
+vendor_id: sony
+name: Wh-1000Xm2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:wh\-1000xm2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wh-1000xm2
+  confidence: auto

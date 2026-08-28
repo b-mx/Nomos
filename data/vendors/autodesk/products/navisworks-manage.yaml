@@ -1,0 +1,10 @@
+id: navisworks-manage
+vendor_id: autodesk
+name: Navisworks Manage
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:navisworks_manage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: navisworks_manage
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mirro-icd
+vendor_id: medtronic
+name: Mirro Icd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:mirro_icd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mirro_icd
+  confidence: auto

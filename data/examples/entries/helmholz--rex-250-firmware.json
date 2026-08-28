@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "helmholz--rex-250-firmware",
+  "vendor_id": "helmholz",
+  "product_id": "rex-250-firmware",
+  "name": "Rex 250 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rex_250_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

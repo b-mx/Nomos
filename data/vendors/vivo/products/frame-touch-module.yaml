@@ -1,0 +1,10 @@
+id: frame-touch-module
+vendor_id: vivo
+name: Frame Touch Module
+type: software
+tags: []
+cpe: cpe:2.3:a:vivo:frame_touch_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frame_touch_module
+  confidence: auto

@@ -1,0 +1,10 @@
+id: opensuse-factory
+vendor_id: suse
+name: Opensuse Factory
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:opensuse_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensuse_factory
+  confidence: auto

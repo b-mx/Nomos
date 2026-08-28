@@ -1,0 +1,10 @@
+id: max-hd2-mini
+vendor_id: peplink
+name: Max Hd2 Mini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:max_hd2_mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_hd2_mini
+  confidence: auto

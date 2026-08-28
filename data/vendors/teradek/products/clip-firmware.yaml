@@ -1,0 +1,10 @@
+id: clip-firmware
+vendor_id: teradek
+name: Clip Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teradek:clip_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clip_firmware
+  confidence: auto

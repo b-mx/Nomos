@@ -1,0 +1,10 @@
+id: esp8266
+vendor_id: espressif
+name: Esp8266
+type: hardware
+tags: []
+cpe: cpe:2.3:h:espressif:esp8266:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp8266
+  confidence: auto

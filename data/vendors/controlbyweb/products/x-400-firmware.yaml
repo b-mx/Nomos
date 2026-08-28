@@ -1,0 +1,10 @@
+id: x-400-firmware
+vendor_id: controlbyweb
+name: X-400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:controlbyweb:x\-400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-400_firmware
+  confidence: auto

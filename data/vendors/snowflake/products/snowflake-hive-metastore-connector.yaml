@@ -1,0 +1,10 @@
+id: snowflake-hive-metastore-connector
+vendor_id: snowflake
+name: Snowflake Hive Metastore Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:snowflake:snowflake_hive_metastore_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snowflake_hive_metastore_connector
+  confidence: auto

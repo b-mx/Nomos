@@ -1,0 +1,10 @@
+id: ota-bisheng-firmware
+vendor_id: huawei
+name: Ota-Bisheng Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ota\-bisheng_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ota-bisheng_firmware
+  confidence: auto

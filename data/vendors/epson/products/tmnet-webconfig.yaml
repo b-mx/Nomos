@@ -1,0 +1,10 @@
+id: tmnet-webconfig
+vendor_id: epson
+name: Tmnet Webconfig
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:tmnet_webconfig:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tmnet_webconfig
+  confidence: auto

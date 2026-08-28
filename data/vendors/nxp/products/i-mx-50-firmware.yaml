@@ -1,0 +1,10 @@
+id: i-mx-50-firmware
+vendor_id: nxp
+name: I.Mx 50 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:i\.mx_50_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_50_firmware
+  confidence: auto

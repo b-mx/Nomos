@@ -1,0 +1,10 @@
+id: laserjet-tank-2502-381v4a-firmware
+vendor_id: hp
+name: Laserjet Tank 2502 381V4A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_tank_2502_381v4a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_tank_2502_381v4a_firmware
+  confidence: auto

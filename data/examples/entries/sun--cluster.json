@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--cluster",
+  "vendor_id": "sun",
+  "product_id": "cluster",
+  "name": "Cluster",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cluster",
+      "confidence": "auto"
+    }
+  ]
+}

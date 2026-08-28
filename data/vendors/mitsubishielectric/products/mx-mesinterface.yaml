@@ -1,0 +1,10 @@
+id: mx-mesinterface
+vendor_id: mitsubishielectric
+name: Mx Mesinterface
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mx_mesinterface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx_mesinterface
+  confidence: auto

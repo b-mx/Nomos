@@ -1,0 +1,10 @@
+id: gt27-firmware
+vendor_id: mitsubishielectric
+name: Gt27 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:gt27_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gt27_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a7f65a
+vendor_id: hp
+name: A7F65A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:a7f65a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a7f65a
+  confidence: auto

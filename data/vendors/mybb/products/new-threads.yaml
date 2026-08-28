@@ -1,0 +1,10 @@
+id: new-threads
+vendor_id: mybb
+name: New Threads
+type: software
+tags: []
+cpe: cpe:2.3:a:mybb:new_threads:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: new_threads
+  confidence: auto

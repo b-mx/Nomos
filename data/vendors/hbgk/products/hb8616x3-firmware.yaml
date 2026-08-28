@@ -1,0 +1,10 @@
+id: hb8616x3-firmware
+vendor_id: hbgk
+name: Hb8616X3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb8616x3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb8616x3_firmware
+  confidence: auto

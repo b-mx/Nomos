@@ -1,0 +1,10 @@
+id: fx5-enet
+vendor_id: mitsubishielectric
+name: Fx5-Enet
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:fx5\-enet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx5-enet
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-mfp-m433-1vr14a
+vendor_id: hp
+name: Laserjet Mfp M433 1Vr14A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m433_1vr14a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m433_1vr14a
+  confidence: auto

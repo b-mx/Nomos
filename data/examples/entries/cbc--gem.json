@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cbc--gem",
+  "vendor_id": "cbc",
+  "product_id": "gem",
+  "name": "Gem",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gem",
+      "confidence": "auto"
+    }
+  ]
+}

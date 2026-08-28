@@ -1,0 +1,10 @@
+id: aura-device-services
+vendor_id: avaya
+name: Aura Device Services
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura_device_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_device_services
+  confidence: auto

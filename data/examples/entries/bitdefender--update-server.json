@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bitdefender--update-server",
+  "vendor_id": "bitdefender",
+  "product_id": "update-server",
+  "name": "Update Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "update_server",
+      "confidence": "auto"
+    }
+  ]
+}

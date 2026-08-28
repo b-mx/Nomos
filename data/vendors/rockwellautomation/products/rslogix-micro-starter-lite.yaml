@@ -1,0 +1,10 @@
+id: rslogix-micro-starter-lite
+vendor_id: rockwellautomation
+name: Rslogix Micro Starter Lite
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:rslogix_micro_starter_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rslogix_micro_starter_lite
+  confidence: auto

@@ -1,0 +1,10 @@
+id: upf
+vendor_id: free5gc
+name: Upf
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:upf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: upf
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nano-10gx-firmware
+vendor_id: jtekt
+name: Nano 10Gx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:nano_10gx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nano_10gx_firmware
+  confidence: auto

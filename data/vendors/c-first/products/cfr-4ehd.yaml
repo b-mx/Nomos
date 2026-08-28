@@ -1,0 +1,10 @@
+id: cfr-4ehd
+vendor_id: c-first
+name: Cfr-4Ehd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:c\-first:cfr\-4ehd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cfr-4ehd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wn-gdn-r3-firmware
+vendor_id: iodata
+name: Wn-Gdn/R3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:wn\-gdn\/r3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn-gdn/r3_firmware
+  confidence: auto

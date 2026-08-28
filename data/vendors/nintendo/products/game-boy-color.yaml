@@ -1,0 +1,10 @@
+id: game-boy-color
+vendor_id: nintendo
+name: Game Boy Color
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nintendo:game_boy_color:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: game_boy_color
+  confidence: auto

@@ -1,0 +1,10 @@
+id: forms
+vendor_id: nextcloud
+name: Forms
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:forms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: forms
+  confidence: auto

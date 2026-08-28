@@ -1,0 +1,10 @@
+id: roc827
+vendor_id: emerson
+name: Roc827
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:roc827:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roc827
+  confidence: auto

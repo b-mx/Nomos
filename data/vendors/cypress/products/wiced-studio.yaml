@@ -1,0 +1,10 @@
+id: wiced-studio
+vendor_id: cypress
+name: Wiced Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:cypress:wiced_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wiced_studio
+  confidence: auto

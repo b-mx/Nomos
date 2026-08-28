@@ -1,0 +1,14 @@
+id: numpy
+vendor_id: numpy
+name: NumPy
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:numpy:numpy:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: numpy
+  confidence: auto
+- source: nvd
+  value: numpy
+  confidence: auto

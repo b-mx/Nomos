@@ -1,0 +1,10 @@
+id: f660
+vendor_id: zte
+name: F660
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:f660:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f660
+  confidence: auto

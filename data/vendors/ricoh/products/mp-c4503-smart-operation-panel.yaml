@@ -1,0 +1,10 @@
+id: mp-c4503-smart-operation-panel
+vendor_id: ricoh
+name: Mp C4503 Smart Operation Panel
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_c4503_smart_operation_panel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c4503_smart_operation_panel
+  confidence: auto

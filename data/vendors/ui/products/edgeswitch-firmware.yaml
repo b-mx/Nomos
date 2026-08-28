@@ -1,0 +1,10 @@
+id: edgeswitch-firmware
+vendor_id: ui
+name: Edgeswitch Firmware
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:edgeswitch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgeswitch_firmware
+  confidence: auto

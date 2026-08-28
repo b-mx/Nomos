@@ -1,0 +1,10 @@
+id: fi9800xe
+vendor_id: foscam
+name: Fi9800Xe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:foscam:fi9800xe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fi9800xe
+  confidence: auto

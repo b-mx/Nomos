@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tendacn--pa6-firmware",
+  "vendor_id": "tendacn",
+  "product_id": "pa6-firmware",
+  "name": "Pa6 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pa6_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

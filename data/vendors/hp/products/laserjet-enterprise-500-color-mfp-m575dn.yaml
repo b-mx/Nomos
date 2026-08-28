@@ -1,0 +1,10 @@
+id: laserjet-enterprise-500-color-mfp-m575dn
+vendor_id: hp
+name: Laserjet Enterprise 500 Color Mfp M575Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_500_color_mfp_m575dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_500_color_mfp_m575dn
+  confidence: auto

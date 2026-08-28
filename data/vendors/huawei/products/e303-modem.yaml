@@ -1,0 +1,10 @@
+id: e303-modem
+vendor_id: huawei
+name: E303 Modem
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e303_modem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e303_modem
+  confidence: auto

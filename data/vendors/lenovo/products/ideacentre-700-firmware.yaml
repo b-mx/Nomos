@@ -1,0 +1,10 @@
+id: ideacentre-700-firmware
+vendor_id: lenovo
+name: Ideacentre 700 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_700_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_700_firmware
+  confidence: auto

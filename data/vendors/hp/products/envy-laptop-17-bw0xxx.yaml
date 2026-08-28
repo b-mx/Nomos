@@ -1,0 +1,10 @@
+id: envy-laptop-17-bw0xxx
+vendor_id: hp
+name: Envy Laptop 17-Bw0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_laptop_17\-bw0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_laptop_17-bw0xxx
+  confidence: auto

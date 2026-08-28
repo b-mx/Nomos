@@ -1,0 +1,10 @@
+id: firewall
+vendor_id: puppet
+name: Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: firewall
+  confidence: auto

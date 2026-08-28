@@ -1,0 +1,10 @@
+id: twitter
+vendor_id: bestwebsoft
+name: Twitter
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:twitter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twitter
+  confidence: auto

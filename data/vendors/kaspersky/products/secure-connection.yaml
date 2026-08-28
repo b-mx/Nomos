@@ -1,0 +1,10 @@
+id: secure-connection
+vendor_id: kaspersky
+name: Secure Connection
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:secure_connection:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_connection
+  confidence: auto

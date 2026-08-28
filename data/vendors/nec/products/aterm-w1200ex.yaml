@@ -1,0 +1,10 @@
+id: aterm-w1200ex
+vendor_id: nec
+name: Aterm W1200Ex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_w1200ex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_w1200ex
+  confidence: auto

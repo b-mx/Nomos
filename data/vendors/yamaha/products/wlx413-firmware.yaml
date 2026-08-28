@@ -1,0 +1,10 @@
+id: wlx413-firmware
+vendor_id: yamaha
+name: Wlx413 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:wlx413_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlx413_firmware
+  confidence: auto

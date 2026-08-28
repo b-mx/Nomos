@@ -1,0 +1,10 @@
+id: ecosys-p4040dn
+vendor_id: kyocera
+name: Ecosys P4040Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kyocera:ecosys_p4040dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecosys_p4040dn
+  confidence: auto

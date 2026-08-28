@@ -1,0 +1,10 @@
+id: ilc-3xx-firmware
+vendor_id: phoenixcontact
+name: Ilc 3Xx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:ilc_3xx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilc_3xx_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: c12
+vendor_id: polycom
+name: C12
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:c12:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c12
+  confidence: auto

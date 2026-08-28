@@ -1,0 +1,10 @@
+id: e11
+vendor_id: akuvox
+name: E11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akuvox:e11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e11
+  confidence: auto

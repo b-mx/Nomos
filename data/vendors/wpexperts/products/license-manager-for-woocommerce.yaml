@@ -1,0 +1,10 @@
+id: license-manager-for-woocommerce
+vendor_id: wpexperts
+name: License Manager For Woocommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:wpexperts:license_manager_for_woocommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: license_manager_for_woocommerce
+  confidence: auto

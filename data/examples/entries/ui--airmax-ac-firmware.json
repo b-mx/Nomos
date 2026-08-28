@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--airmax-ac-firmware",
+  "vendor_id": "ui",
+  "product_id": "airmax-ac-firmware",
+  "name": "Airmax Ac Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "airmax_ac_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

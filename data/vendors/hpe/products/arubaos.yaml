@@ -1,0 +1,10 @@
+id: arubaos
+vendor_id: hpe
+name: Arubaos
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:arubaos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arubaos
+  confidence: auto

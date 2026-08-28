@@ -1,0 +1,10 @@
+id: k22-80
+vendor_id: lenovo
+name: K22-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:k22\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k22-80
+  confidence: auto

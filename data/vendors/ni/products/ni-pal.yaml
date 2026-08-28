@@ -1,0 +1,10 @@
+id: ni-pal
+vendor_id: ni
+name: Ni-Pal
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:ni\-pal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ni-pal
+  confidence: auto

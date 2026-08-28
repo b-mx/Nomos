@@ -1,0 +1,10 @@
+id: dezie
+vendor_id: cybozu
+name: Dezie
+type: software
+tags: []
+cpe: cpe:2.3:a:cybozu:dezie:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dezie
+  confidence: auto

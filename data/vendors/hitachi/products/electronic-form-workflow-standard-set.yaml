@@ -1,0 +1,10 @@
+id: electronic-form-workflow-standard-set
+vendor_id: hitachi
+name: Electronic Form Workflow-Standard Set
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:electronic_form_workflow\-standard_set:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: electronic_form_workflow-standard_set
+  confidence: auto

@@ -1,0 +1,13 @@
+id: puppet
+vendor_id: puppet
+name: Puppet
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:puppet:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: puppet
+  confidence: auto
+- source: nvd
+  value: puppet
+  confidence: auto

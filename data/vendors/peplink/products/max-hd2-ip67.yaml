@@ -1,0 +1,10 @@
+id: max-hd2-ip67
+vendor_id: peplink
+name: Max Hd2 Ip67
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:max_hd2_ip67:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_hd2_ip67
+  confidence: auto

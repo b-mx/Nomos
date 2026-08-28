@@ -1,0 +1,10 @@
+id: pc10ge-tcc-6464
+vendor_id: jtekt
+name: Pc10Ge Tcc-6464
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:pc10ge_tcc\-6464:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10ge_tcc-6464
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cs-qr20-firmware
+vendor_id: planex
+name: Cs-Qr20 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:planex:cs\-qr20_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs-qr20_firmware
+  confidence: auto

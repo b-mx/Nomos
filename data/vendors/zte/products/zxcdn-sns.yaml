@@ -1,0 +1,10 @@
+id: zxcdn-sns
+vendor_id: zte
+name: Zxcdn-Sns
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxcdn\-sns:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxcdn-sns
+  confidence: auto

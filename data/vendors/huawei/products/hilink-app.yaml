@@ -1,0 +1,10 @@
+id: hilink-app
+vendor_id: huawei
+name: Hilink App
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hilink_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hilink_app
+  confidence: auto

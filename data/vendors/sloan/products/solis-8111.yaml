@@ -1,0 +1,10 @@
+id: solis-8111
+vendor_id: sloan
+name: Solis 8111
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:solis_8111:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solis_8111
+  confidence: auto

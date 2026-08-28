@@ -1,0 +1,10 @@
+id: eqc
+vendor_id: mercedes-benz
+name: Eqc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mercedes\-benz:eqc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eqc
+  confidence: auto

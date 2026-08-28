@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rust-lang--socket2",
+  "vendor_id": "rust-lang",
+  "product_id": "socket2",
+  "name": "Socket2",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "socket2",
+      "confidence": "auto"
+    }
+  ]
+}

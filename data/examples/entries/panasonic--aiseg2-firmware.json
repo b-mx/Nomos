@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "panasonic--aiseg2-firmware",
+  "vendor_id": "panasonic",
+  "product_id": "aiseg2-firmware",
+  "name": "Aiseg2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aiseg2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

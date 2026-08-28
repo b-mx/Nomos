@@ -1,0 +1,10 @@
+id: plantumi
+vendor_id: snyk
+name: Plantumi
+type: software
+tags: []
+cpe: cpe:2.3:a:snyk:plantumi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plantumi
+  confidence: auto

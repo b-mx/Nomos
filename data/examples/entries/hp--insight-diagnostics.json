@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--insight-diagnostics",
+  "vendor_id": "hp",
+  "product_id": "insight-diagnostics",
+  "name": "Insight Diagnostics",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "insight_diagnostics",
+      "confidence": "auto"
+    }
+  ]
+}

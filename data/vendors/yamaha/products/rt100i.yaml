@@ -1,0 +1,10 @@
+id: rt100i
+vendor_id: yamaha
+name: Rt100I
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rt100i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt100i
+  confidence: auto

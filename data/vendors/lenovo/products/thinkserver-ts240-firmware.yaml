@@ -1,0 +1,10 @@
+id: thinkserver-ts240-firmware
+vendor_id: lenovo
+name: Thinkserver Ts240 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkserver_ts240_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkserver_ts240_firmware
+  confidence: auto

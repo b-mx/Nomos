@@ -1,0 +1,10 @@
+id: apeos-4830
+vendor_id: fujifilm
+name: Apeos 4830
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_4830:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_4830
+  confidence: auto

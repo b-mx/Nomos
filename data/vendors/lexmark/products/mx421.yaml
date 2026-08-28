@@ -1,0 +1,10 @@
+id: mx421
+vendor_id: lexmark
+name: Mx421
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx421:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx421
+  confidence: auto

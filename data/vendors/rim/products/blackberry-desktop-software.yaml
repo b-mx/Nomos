@@ -1,0 +1,10 @@
+id: blackberry-desktop-software
+vendor_id: rim
+name: Blackberry Desktop Software
+type: software
+tags: []
+cpe: cpe:2.3:a:rim:blackberry_desktop_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry_desktop_software
+  confidence: auto

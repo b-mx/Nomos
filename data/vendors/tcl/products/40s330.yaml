@@ -1,0 +1,10 @@
+id: 40s330
+vendor_id: tcl
+name: 40S330
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tcl:40s330:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 40s330
+  confidence: auto

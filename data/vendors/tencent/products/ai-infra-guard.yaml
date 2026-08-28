@@ -1,0 +1,10 @@
+id: ai-infra-guard
+vendor_id: tencent
+name: Ai-Infra-Guard
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:ai\-infra\-guard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ai-infra-guard
+  confidence: auto

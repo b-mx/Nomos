@@ -1,0 +1,10 @@
+id: elite-sff-800-g9-firmware
+vendor_id: hp
+name: Elite Sff 800 G9 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elite_sff_800_g9_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_sff_800_g9_firmware
+  confidence: auto

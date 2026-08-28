@@ -1,0 +1,10 @@
+id: data-record-ad
+vendor_id: emerson
+name: Data Record Ad
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:data_record_ad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_record_ad
+  confidence: auto

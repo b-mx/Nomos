@@ -1,0 +1,10 @@
+id: mfc-t810w-china
+vendor_id: brother
+name: Mfc-T810W(China)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-t810w\(china\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-t810w(china)
+  confidence: auto

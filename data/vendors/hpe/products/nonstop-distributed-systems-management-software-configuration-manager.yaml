@@ -1,0 +1,10 @@
+id: nonstop-distributed-systems-management-software-configuration-manager
+vendor_id: hpe
+name: Nonstop Distributed Systems Management / Software Configuration Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:nonstop_distributed_systems_management_\/_software_configuration_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nonstop_distributed_systems_management_/_software_configuration_manager
+  confidence: auto

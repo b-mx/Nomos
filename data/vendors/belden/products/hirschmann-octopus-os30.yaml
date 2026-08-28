@@ -1,0 +1,10 @@
+id: hirschmann-octopus-os30
+vendor_id: belden
+name: Hirschmann Octopus Os30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_octopus_os30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_octopus_os30
+  confidence: auto

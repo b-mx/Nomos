@@ -1,0 +1,10 @@
+id: kw38
+vendor_id: nxp
+name: Kw38
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:kw38:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kw38
+  confidence: auto

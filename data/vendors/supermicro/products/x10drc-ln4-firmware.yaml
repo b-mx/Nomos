@@ -1,0 +1,10 @@
+id: x10drc-ln4-firmware
+vendor_id: supermicro
+name: X10Drc-Ln4+ Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10drc\-ln4\+_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drc-ln4+_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ef600a
+vendor_id: netapp
+name: Ef600A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:ef600a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ef600a
+  confidence: auto

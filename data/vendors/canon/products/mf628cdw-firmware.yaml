@@ -1,0 +1,10 @@
+id: mf628cdw-firmware
+vendor_id: canon
+name: Mf628Cdw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:mf628cdw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf628cdw_firmware
+  confidence: auto

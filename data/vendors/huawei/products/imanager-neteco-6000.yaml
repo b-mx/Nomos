@@ -1,0 +1,10 @@
+id: imanager-neteco-6000
+vendor_id: huawei
+name: Imanager Neteco 6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:imanager_neteco_6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imanager_neteco_6000
+  confidence: auto

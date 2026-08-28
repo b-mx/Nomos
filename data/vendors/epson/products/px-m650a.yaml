@@ -1,0 +1,10 @@
+id: px-m650a
+vendor_id: epson
+name: Px-M650A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-m650a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-m650a
+  confidence: auto

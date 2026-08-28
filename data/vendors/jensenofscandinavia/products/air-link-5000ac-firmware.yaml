@@ -1,0 +1,10 @@
+id: air-link-5000ac-firmware
+vendor_id: jensenofscandinavia
+name: Air:Link 5000Ac Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jensenofscandinavia:air\:link_5000ac_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air:link_5000ac_firmware
+  confidence: auto

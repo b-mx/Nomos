@@ -1,0 +1,10 @@
+id: ryzen-pro
+vendor_id: amd
+name: Ryzen Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_pro
+  confidence: auto

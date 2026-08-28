@@ -1,0 +1,10 @@
+id: ez-platform-kernel
+vendor_id: ibexa
+name: Ez Platform Kernel
+type: os
+tags: []
+cpe: cpe:2.3:o:ibexa:ez_platform_kernel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ez_platform_kernel
+  confidence: auto

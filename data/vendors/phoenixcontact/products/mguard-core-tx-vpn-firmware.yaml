@@ -1,0 +1,10 @@
+id: mguard-core-tx-vpn-firmware
+vendor_id: phoenixcontact
+name: Mguard Core Tx Vpn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:mguard_core_tx_vpn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_core_tx_vpn_firmware
+  confidence: auto

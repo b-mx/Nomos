@@ -1,0 +1,10 @@
+id: evince
+vendor_id: gnome
+name: Evince
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:evince:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evince
+  confidence: auto

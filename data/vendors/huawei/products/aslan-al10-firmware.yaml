@@ -1,0 +1,10 @@
+id: aslan-al10-firmware
+vendor_id: huawei
+name: Aslan-Al10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:aslan\-al10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aslan-al10_firmware
+  confidence: auto

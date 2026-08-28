@@ -1,0 +1,10 @@
+id: optima-igs-320
+vendor_id: gehealthcare
+name: Optima Igs 320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:optima_igs_320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_igs_320
+  confidence: auto

@@ -1,0 +1,10 @@
+id: es8508f-firmware
+vendor_id: pepperl-fuchs
+name: Es8508F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:es8508f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: es8508f_firmware
+  confidence: auto

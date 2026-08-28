@@ -1,0 +1,10 @@
+id: tv-live-hub
+vendor_id: westerndigital
+name: Tv Live Hub
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westerndigital:tv_live_hub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv_live_hub
+  confidence: auto

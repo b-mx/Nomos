@@ -1,0 +1,10 @@
+id: credhub
+vendor_id: cloudfoundry
+name: Credhub
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:credhub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: credhub
+  confidence: auto

@@ -1,0 +1,10 @@
+id: epyc-7251
+vendor_id: amd
+name: Epyc 7251
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_7251:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7251
+  confidence: auto

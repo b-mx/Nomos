@@ -1,0 +1,10 @@
+id: nr-16f85-8pra-firmware
+vendor_id: cbc
+name: Nr-16F85-8Pra Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cbc:nr\-16f85\-8pra_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr-16f85-8pra_firmware
+  confidence: auto

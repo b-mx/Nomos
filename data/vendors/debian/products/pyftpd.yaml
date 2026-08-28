@@ -1,0 +1,10 @@
+id: pyftpd
+vendor_id: debian
+name: Pyftpd
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:pyftpd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyftpd
+  confidence: auto

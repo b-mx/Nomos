@@ -1,0 +1,10 @@
+id: i-lon-vision
+vendor_id: echelon
+name: I.Lon Vision
+type: software
+tags: []
+cpe: cpe:2.3:a:echelon:i\.lon_vision:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.lon_vision
+  confidence: auto

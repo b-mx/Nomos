@@ -1,0 +1,10 @@
+id: ckeditor5-font
+vendor_id: ckeditor
+name: Ckeditor5-Font
+type: software
+tags: []
+cpe: cpe:2.3:a:ckeditor:ckeditor5\-font:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ckeditor5-font
+  confidence: auto

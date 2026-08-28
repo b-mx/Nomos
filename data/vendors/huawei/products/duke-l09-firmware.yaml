@@ -1,0 +1,10 @@
+id: duke-l09-firmware
+vendor_id: huawei
+name: Duke-L09 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:duke\-l09_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: duke-l09_firmware
+  confidence: auto

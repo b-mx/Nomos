@@ -1,0 +1,10 @@
+id: s5300
+vendor_id: huawei
+name: S5300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s5300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5300
+  confidence: auto

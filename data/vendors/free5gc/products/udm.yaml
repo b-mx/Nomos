@@ -1,0 +1,10 @@
+id: udm
+vendor_id: free5gc
+name: Udm
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:udm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: udm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: insight-control-server-deployment
+vendor_id: hp
+name: Insight Control Server Deployment
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:insight_control_server_deployment:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_control_server_deployment
+  confidence: auto

@@ -1,0 +1,10 @@
+id: m-320fb-firmware
+vendor_id: ricoh
+name: M 320Fb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:m_320fb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m_320fb_firmware
+  confidence: auto

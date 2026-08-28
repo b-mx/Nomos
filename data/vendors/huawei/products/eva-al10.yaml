@@ -1,0 +1,10 @@
+id: eva-al10
+vendor_id: huawei
+name: Eva-Al10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:eva\-al10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eva-al10
+  confidence: auto

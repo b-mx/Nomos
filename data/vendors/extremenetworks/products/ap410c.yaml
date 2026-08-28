@@ -1,0 +1,10 @@
+id: ap410c
+vendor_id: extremenetworks
+name: Ap410C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap410c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap410c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: counter-strike-global-offensive
+vendor_id: valvesoftware
+name: 'Counter-Strike: Global Offensive'
+type: software
+tags: []
+cpe: cpe:2.3:a:valvesoftware:counter\-strike\:_global_offensive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: counter-strike:_global_offensive
+  confidence: auto

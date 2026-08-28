@@ -1,0 +1,10 @@
+id: s9312e
+vendor_id: huawei
+name: S9312E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s9312e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s9312e
+  confidence: auto

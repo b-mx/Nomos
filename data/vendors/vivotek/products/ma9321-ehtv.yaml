@@ -1,0 +1,10 @@
+id: ma9321-ehtv
+vendor_id: vivotek
+name: Ma9321-Ehtv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ma9321\-ehtv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ma9321-ehtv
+  confidence: auto

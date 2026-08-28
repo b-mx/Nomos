@@ -1,0 +1,10 @@
+id: b9s58a
+vendor_id: hp
+name: B9S58A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:b9s58a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b9s58a
+  confidence: auto

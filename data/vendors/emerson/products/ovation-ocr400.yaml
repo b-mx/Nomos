@@ -1,0 +1,10 @@
+id: ovation-ocr400
+vendor_id: emerson
+name: Ovation Ocr400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:ovation_ocr400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ovation_ocr400
+  confidence: auto

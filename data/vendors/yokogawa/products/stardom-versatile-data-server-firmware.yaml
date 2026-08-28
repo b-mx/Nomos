@@ -1,0 +1,10 @@
+id: stardom-versatile-data-server-firmware
+vendor_id: yokogawa
+name: Stardom Versatile Data Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yokogawa:stardom_versatile_data_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stardom_versatile_data_server_firmware
+  confidence: auto

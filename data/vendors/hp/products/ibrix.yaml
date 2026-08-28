@@ -1,0 +1,10 @@
+id: ibrix
+vendor_id: hp
+name: Ibrix
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:ibrix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ibrix
+  confidence: auto

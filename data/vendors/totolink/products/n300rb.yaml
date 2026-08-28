@@ -1,0 +1,10 @@
+id: n300rb
+vendor_id: totolink
+name: N300Rb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:n300rb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n300rb
+  confidence: auto

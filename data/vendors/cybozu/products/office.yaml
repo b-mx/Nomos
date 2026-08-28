@@ -1,0 +1,10 @@
+id: office
+vendor_id: cybozu
+name: Office
+type: software
+tags: []
+cpe: cpe:2.3:a:cybozu:office:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: office
+  confidence: auto

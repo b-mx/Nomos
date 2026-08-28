@@ -1,0 +1,10 @@
+id: nexto-nx5100
+vendor_id: altus
+name: Nexto Nx5100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:altus:nexto_nx5100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexto_nx5100
+  confidence: auto

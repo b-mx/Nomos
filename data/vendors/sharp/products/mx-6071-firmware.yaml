@@ -1,0 +1,10 @@
+id: mx-6071-firmware
+vendor_id: sharp
+name: Mx-6071 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-6071_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-6071_firmware
+  confidence: auto

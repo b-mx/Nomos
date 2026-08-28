@@ -1,0 +1,10 @@
+id: edgeos
+vendor_id: ui
+name: Edgeos
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:edgeos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgeos
+  confidence: auto

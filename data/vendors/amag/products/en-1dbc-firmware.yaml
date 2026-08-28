@@ -1,0 +1,10 @@
+id: en-1dbc-firmware
+vendor_id: amag
+name: En-1Dbc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amag:en\-1dbc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: en-1dbc_firmware
+  confidence: auto

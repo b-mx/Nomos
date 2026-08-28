@@ -1,0 +1,10 @@
+id: victor-web
+vendor_id: johnsoncontrols
+name: Victor Web
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:victor_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: victor_web
+  confidence: auto

@@ -1,0 +1,10 @@
+id: iq-engine
+vendor_id: extremenetworks
+name: Iq Engine
+type: os
+tags: []
+cpe: cpe:2.3:o:extremenetworks:iq_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq_engine
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vb440
+vendor_id: bridgetech
+name: Vb440
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bridgetech:vb440:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vb440
+  confidence: auto

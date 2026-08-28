@@ -1,0 +1,10 @@
+id: akismet
+vendor_id: automattic
+name: Akismet
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:akismet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: akismet
+  confidence: auto

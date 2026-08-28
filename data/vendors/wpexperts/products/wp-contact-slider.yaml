@@ -1,0 +1,10 @@
+id: wp-contact-slider
+vendor_id: wpexperts
+name: Wp Contact Slider
+type: software
+tags: []
+cpe: cpe:2.3:a:wpexperts:wp_contact_slider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_contact_slider
+  confidence: auto

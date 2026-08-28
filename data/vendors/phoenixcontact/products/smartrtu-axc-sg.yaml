@@ -1,0 +1,10 @@
+id: smartrtu-axc-sg
+vendor_id: phoenixcontact
+name: Smartrtu Axc Sg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:smartrtu_axc_sg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartrtu_axc_sg
+  confidence: auto

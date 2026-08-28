@@ -1,0 +1,10 @@
+id: java-studio-enterprise
+vendor_id: sun
+name: Java Studio Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_studio_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_studio_enterprise
+  confidence: auto

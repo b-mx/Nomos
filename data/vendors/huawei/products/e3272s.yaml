@@ -1,0 +1,10 @@
+id: e3272s
+vendor_id: huawei
+name: E3272S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e3272s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e3272s
+  confidence: auto

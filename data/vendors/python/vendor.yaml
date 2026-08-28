@@ -1,10 +1,7 @@
 id: python
 name: Python
-icon: logos:python
+cpe: cpe:2.3:*:python:*:*:*:*:*:*:*:*:*
 aliases:
-  - source: nvd
-    value: python
-    confidence: curated
-  - source: endoflife
-    value: python
-    confidence: curated
+- source: nvd
+  value: python
+  confidence: auto

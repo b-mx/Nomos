@@ -1,0 +1,13 @@
+id: mageia
+vendor_id: mageia
+name: Mageia
+type: os
+tags: []
+cpe: cpe:2.3:o:mageia:mageia:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: mageia
+  confidence: auto
+- source: nvd
+  value: mageia
+  confidence: auto

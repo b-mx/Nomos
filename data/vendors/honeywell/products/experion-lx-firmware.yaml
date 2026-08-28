@@ -1,0 +1,10 @@
+id: experion-lx-firmware
+vendor_id: honeywell
+name: Experion Lx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:experion_lx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: experion_lx_firmware
+  confidence: auto

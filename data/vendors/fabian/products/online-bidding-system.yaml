@@ -1,0 +1,10 @@
+id: online-bidding-system
+vendor_id: fabian
+name: Online Bidding System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_bidding_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_bidding_system
+  confidence: auto

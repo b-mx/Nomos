@@ -1,0 +1,10 @@
+id: bus-node-cteu-pn-ex1c
+vendor_id: festo
+name: Bus Node Cteu-Pn-Ex1C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:bus_node_cteu\-pn\-ex1c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bus_node_cteu-pn-ex1c
+  confidence: auto

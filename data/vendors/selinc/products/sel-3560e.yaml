@@ -1,0 +1,10 @@
+id: sel-3560e
+vendor_id: selinc
+name: Sel-3560E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:selinc:sel\-3560e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sel-3560e
+  confidence: auto

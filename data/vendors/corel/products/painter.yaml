@@ -1,0 +1,10 @@
+id: painter
+vendor_id: corel
+name: Painter
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:painter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: painter
+  confidence: auto

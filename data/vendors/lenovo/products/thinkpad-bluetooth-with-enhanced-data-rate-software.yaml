@@ -1,0 +1,10 @@
+id: thinkpad-bluetooth-with-enhanced-data-rate-software
+vendor_id: lenovo
+name: Thinkpad Bluetooth With Enhanced Data Rate Software
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:thinkpad_bluetooth_with_enhanced_data_rate_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_bluetooth_with_enhanced_data_rate_software
+  confidence: auto

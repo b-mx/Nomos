@@ -1,0 +1,10 @@
+id: hdl-a-e
+vendor_id: iodata
+name: Hdl-A/E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:hdl\-a\/e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdl-a/e
+  confidence: auto

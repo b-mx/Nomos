@@ -1,0 +1,10 @@
+id: officejet-pro-6970-t0f33a
+vendor_id: hp
+name: Officejet Pro 6970 T0F33A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_6970_t0f33a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_6970_t0f33a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rv2fr-firmware
+vendor_id: mitsubishielectric
+name: Rv2Fr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rv2fr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv2fr_firmware
+  confidence: auto

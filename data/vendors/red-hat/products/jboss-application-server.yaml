@@ -1,0 +1,9 @@
+id: jboss-application-server
+vendor_id: red-hat
+name: JBoss Application Server
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: JBoss Application Server
+  confidence: auto

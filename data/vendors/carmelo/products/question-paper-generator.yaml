@@ -1,0 +1,10 @@
+id: question-paper-generator
+vendor_id: carmelo
+name: Question Paper Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:question_paper_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: question_paper_generator
+  confidence: auto

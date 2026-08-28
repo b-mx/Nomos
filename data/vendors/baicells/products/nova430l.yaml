@@ -1,0 +1,10 @@
+id: nova430l
+vendor_id: baicells
+name: Nova430L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baicells:nova430l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova430l
+  confidence: auto

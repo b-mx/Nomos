@@ -1,0 +1,10 @@
+id: seahorse
+vendor_id: gnome
+name: Seahorse
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:seahorse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seahorse
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gloss-blog
+vendor_id: themerex
+name: Gloss Blog
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:gloss_blog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gloss_blog
+  confidence: auto

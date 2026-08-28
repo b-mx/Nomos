@@ -1,0 +1,10 @@
+id: sentry
+vendor_id: mobileiron
+name: Sentry
+type: software
+tags: []
+cpe: cpe:2.3:a:mobileiron:sentry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sentry
+  confidence: auto

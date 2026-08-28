@@ -1,0 +1,10 @@
+id: yalep-al10b
+vendor_id: huawei
+name: Yalep-Al10B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:yalep\-al10b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yalep-al10b
+  confidence: auto

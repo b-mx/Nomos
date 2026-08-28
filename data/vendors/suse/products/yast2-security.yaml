@@ -1,0 +1,10 @@
+id: yast2-security
+vendor_id: suse
+name: Yast2-Security
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:yast2\-security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yast2-security
+  confidence: auto

@@ -1,0 +1,10 @@
+id: alaris-gs
+vendor_id: bd
+name: Alaris Gs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:alaris_gs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_gs
+  confidence: auto

@@ -1,0 +1,10 @@
+id: n602e
+vendor_id: iptime
+name: N602E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:n602e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n602e
+  confidence: auto

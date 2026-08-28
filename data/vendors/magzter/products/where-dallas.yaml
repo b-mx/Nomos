@@ -1,0 +1,10 @@
+id: where-dallas
+vendor_id: magzter
+name: Where Dallas
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:where_dallas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: where_dallas
+  confidence: auto

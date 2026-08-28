@@ -1,0 +1,10 @@
+id: cache
+vendor_id: doctrine-project
+name: Cache
+type: software
+tags: []
+cpe: cpe:2.3:a:doctrine\-project:cache:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cache
+  confidence: auto

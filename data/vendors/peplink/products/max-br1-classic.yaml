@@ -1,0 +1,10 @@
+id: max-br1-classic
+vendor_id: peplink
+name: Max Br1 Classic
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:max_br1_classic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_br1_classic
+  confidence: auto

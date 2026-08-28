@@ -1,0 +1,10 @@
+id: thinkcentre-m70a-gen-2-firmware
+vendor_id: lenovo
+name: Thinkcentre M70A Gen 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkcentre_m70a_gen_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m70a_gen_2_firmware
+  confidence: auto

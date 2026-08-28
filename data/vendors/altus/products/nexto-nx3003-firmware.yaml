@@ -1,0 +1,10 @@
+id: nexto-nx3003-firmware
+vendor_id: altus
+name: Nexto Nx3003 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:altus:nexto_nx3003_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexto_nx3003_firmware
+  confidence: auto

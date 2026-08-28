@@ -1,0 +1,10 @@
+id: webaccess-nms
+vendor_id: advantech
+name: Webaccess/Nms
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:webaccess\/nms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webaccess/nms
+  confidence: auto

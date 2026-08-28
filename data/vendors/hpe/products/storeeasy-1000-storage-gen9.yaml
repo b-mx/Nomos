@@ -1,0 +1,10 @@
+id: storeeasy-1000-storage-gen9
+vendor_id: hpe
+name: Storeeasy 1000 Storage Gen9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:storeeasy_1000_storage_gen9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeeasy_1000_storage_gen9
+  confidence: auto

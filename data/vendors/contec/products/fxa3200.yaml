@@ -1,0 +1,10 @@
+id: fxa3200
+vendor_id: contec
+name: Fxa3200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:contec:fxa3200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fxa3200
+  confidence: auto

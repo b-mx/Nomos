@@ -1,0 +1,10 @@
+id: nip6000e
+vendor_id: huawei
+name: Nip6000E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nip6000e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nip6000e
+  confidence: auto

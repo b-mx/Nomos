@@ -1,0 +1,10 @@
+id: starsuite
+vendor_id: sun
+name: Starsuite
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:starsuite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: starsuite
+  confidence: auto

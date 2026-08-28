@@ -1,0 +1,10 @@
+id: al5000ac-firmware
+vendor_id: jensenofscandinavia
+name: Al5000Ac Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jensenofscandinavia:al5000ac_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: al5000ac_firmware
+  confidence: auto

@@ -1,0 +1,14 @@
+id: quarkus-framework
+vendor_id: quarkus
+name: Quarkus
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:quarkus:quarkus:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: quarkus-framework
+  confidence: auto
+- source: nvd
+  value: quarkus
+  confidence: auto

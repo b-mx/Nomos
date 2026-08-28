@@ -1,0 +1,10 @@
+id: mfc-firmware
+vendor_id: brother
+name: Mfc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc_firmware
+  confidence: auto

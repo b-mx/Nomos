@@ -1,0 +1,10 @@
+id: series-0i-model-f-plus
+vendor_id: fanuc
+name: Series 0I-Model F Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:series_0i\-model_f_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: series_0i-model_f_plus
+  confidence: auto

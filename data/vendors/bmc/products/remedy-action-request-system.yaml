@@ -1,0 +1,10 @@
+id: remedy-action-request-system
+vendor_id: bmc
+name: Remedy Action Request System
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:remedy_action_request_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remedy_action_request_system
+  confidence: auto

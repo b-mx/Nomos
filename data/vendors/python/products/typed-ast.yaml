@@ -1,0 +1,10 @@
+id: typed-ast
+vendor_id: python
+name: Typed Ast
+type: software
+tags: []
+cpe: cpe:2.3:a:python:typed_ast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: typed_ast
+  confidence: auto

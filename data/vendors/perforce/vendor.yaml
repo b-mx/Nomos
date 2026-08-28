@@ -1,0 +1,7 @@
+id: perforce
+name: Perforce
+cpe: cpe:2.3:*:perforce:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: perforce
+  confidence: auto

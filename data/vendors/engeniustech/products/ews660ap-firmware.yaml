@@ -1,0 +1,10 @@
+id: ews660ap-firmware
+vendor_id: engeniustech
+name: Ews660Ap Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:engeniustech:ews660ap_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ews660ap_firmware
+  confidence: auto

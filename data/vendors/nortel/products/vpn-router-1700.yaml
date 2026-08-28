@@ -1,0 +1,10 @@
+id: vpn-router-1700
+vendor_id: nortel
+name: Vpn Router 1700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:vpn_router_1700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vpn_router_1700
+  confidence: auto

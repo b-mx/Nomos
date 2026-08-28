@@ -1,0 +1,10 @@
+id: ti-rp262i-firmware
+vendor_id: trendnet
+name: Ti-Rp262I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:ti\-rp262i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ti-rp262i_firmware
+  confidence: auto

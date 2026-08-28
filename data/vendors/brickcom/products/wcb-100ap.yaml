@@ -1,0 +1,10 @@
+id: wcb-100ap
+vendor_id: brickcom
+name: Wcb-100Ap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brickcom:wcb\-100ap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wcb-100ap
+  confidence: auto

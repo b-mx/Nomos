@@ -1,0 +1,10 @@
+id: online-shopping-store
+vendor_id: fabian
+name: Online Shopping Store
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_shopping_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_shopping_store
+  confidence: auto

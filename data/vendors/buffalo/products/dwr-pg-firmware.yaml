@@ -1,0 +1,10 @@
+id: dwr-pg-firmware
+vendor_id: buffalo
+name: Dwr-Pg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:dwr\-pg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dwr-pg_firmware
+  confidence: auto

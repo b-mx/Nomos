@@ -1,0 +1,10 @@
+id: vvx250
+vendor_id: polycom
+name: Vvx250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx250
+  confidence: auto

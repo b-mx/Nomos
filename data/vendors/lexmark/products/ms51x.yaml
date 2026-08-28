@@ -1,0 +1,10 @@
+id: ms51x
+vendor_id: lexmark
+name: Ms51X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms51x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms51x
+  confidence: auto

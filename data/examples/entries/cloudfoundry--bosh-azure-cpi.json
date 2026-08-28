@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--bosh-azure-cpi",
+  "vendor_id": "cloudfoundry",
+  "product_id": "bosh-azure-cpi",
+  "name": "Bosh Azure Cpi",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bosh_azure_cpi",
+      "confidence": "auto"
+    }
+  ]
+}

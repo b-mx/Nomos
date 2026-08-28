@@ -1,0 +1,10 @@
+id: call-flow-designer
+vendor_id: 3cx
+name: Call Flow Designer
+type: software
+tags: []
+cpe: cpe:2.3:a:3cx:call_flow_designer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: call_flow_designer
+  confidence: auto

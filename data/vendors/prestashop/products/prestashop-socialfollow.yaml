@@ -1,0 +1,10 @@
+id: prestashop-socialfollow
+vendor_id: prestashop
+name: Prestashop Socialfollow
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:prestashop_socialfollow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prestashop_socialfollow
+  confidence: auto

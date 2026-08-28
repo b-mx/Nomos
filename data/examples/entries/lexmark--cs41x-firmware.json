@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--cs41x-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "cs41x-firmware",
+  "name": "Cs41X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cs41x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

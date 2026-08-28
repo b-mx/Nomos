@@ -1,0 +1,10 @@
+id: mfc-l2700dw-oce-firmware
+vendor_id: brother
+name: Mfc-L2700Dw(Oce) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-l2700dw\(oce\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l2700dw(oce)_firmware
+  confidence: auto

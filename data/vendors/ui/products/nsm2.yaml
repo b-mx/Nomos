@@ -1,0 +1,10 @@
+id: nsm2
+vendor_id: ui
+name: Nsm2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:nsm2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nsm2
+  confidence: auto

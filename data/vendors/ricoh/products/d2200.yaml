@@ -1,0 +1,10 @@
+id: d2200
+vendor_id: ricoh
+name: D2200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:d2200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d2200
+  confidence: auto

@@ -1,0 +1,10 @@
+id: waps-ax4
+vendor_id: buffalo
+name: Waps-Ax4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:waps\-ax4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: waps-ax4
+  confidence: auto

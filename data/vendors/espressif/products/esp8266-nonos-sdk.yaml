@@ -1,0 +1,10 @@
+id: esp8266-nonos-sdk
+vendor_id: espressif
+name: Esp8266 Nonos Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:espressif:esp8266_nonos_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp8266_nonos_sdk
+  confidence: auto

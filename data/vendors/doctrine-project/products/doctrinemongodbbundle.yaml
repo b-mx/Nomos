@@ -1,0 +1,10 @@
+id: doctrinemongodbbundle
+vendor_id: doctrine-project
+name: Doctrinemongodbbundle
+type: software
+tags: []
+cpe: cpe:2.3:a:doctrine\-project:doctrinemongodbbundle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: doctrinemongodbbundle
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pagewide-xl-4700
+vendor_id: hp
+name: Pagewide Xl 4700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pagewide_xl_4700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pagewide_xl_4700
+  confidence: auto

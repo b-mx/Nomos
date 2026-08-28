@@ -1,0 +1,10 @@
+id: ykneo-openpgp
+vendor_id: yubico
+name: Ykneo-Openpgp
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:ykneo\-openpgp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ykneo-openpgp
+  confidence: auto

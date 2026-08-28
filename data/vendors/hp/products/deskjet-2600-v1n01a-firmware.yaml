@@ -1,0 +1,10 @@
+id: deskjet-2600-v1n01a-firmware
+vendor_id: hp
+name: Deskjet 2600 V1N01A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:deskjet_2600_v1n01a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_2600_v1n01a_firmware
+  confidence: auto

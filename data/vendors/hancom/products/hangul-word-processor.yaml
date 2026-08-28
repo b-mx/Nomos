@@ -1,0 +1,10 @@
+id: hangul-word-processor
+vendor_id: hancom
+name: Hangul Word Processor
+type: software
+tags: []
+cpe: cpe:2.3:a:hancom:hangul_word_processor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hangul_word_processor
+  confidence: auto

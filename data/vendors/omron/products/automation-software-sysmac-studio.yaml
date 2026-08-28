@@ -1,0 +1,10 @@
+id: automation-software-sysmac-studio
+vendor_id: omron
+name: Automation Software Sysmac Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:automation_software_sysmac_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automation_software_sysmac_studio
+  confidence: auto

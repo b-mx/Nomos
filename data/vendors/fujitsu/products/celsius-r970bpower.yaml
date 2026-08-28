@@ -1,0 +1,10 @@
+id: celsius-r970bpower
+vendor_id: fujitsu
+name: Celsius R970Bpower
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:celsius_r970bpower:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: celsius_r970bpower
+  confidence: auto

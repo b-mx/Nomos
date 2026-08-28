@@ -1,0 +1,10 @@
+id: aruba-cx-8325-32c-jl626a
+vendor_id: hpe
+name: Aruba Cx 8325-32C (Jl626A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_8325\-32c_\(jl626a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_8325-32c_(jl626a)
+  confidence: auto

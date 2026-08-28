@@ -1,0 +1,10 @@
+id: xweb300d-evo-firmware
+vendor_id: emerson
+name: Xweb300D Evo Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:xweb300d_evo_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xweb300d_evo_firmware
+  confidence: auto

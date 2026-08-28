@@ -1,0 +1,10 @@
+id: premium-security
+vendor_id: avast
+name: Premium Security
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:premium_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: premium_security
+  confidence: auto

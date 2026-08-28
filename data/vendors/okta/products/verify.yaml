@@ -1,0 +1,10 @@
+id: verify
+vendor_id: okta
+name: Verify
+type: software
+tags: []
+cpe: cpe:2.3:a:okta:verify:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: verify
+  confidence: auto

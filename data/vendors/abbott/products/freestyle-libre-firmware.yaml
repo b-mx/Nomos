@@ -1,0 +1,10 @@
+id: freestyle-libre-firmware
+vendor_id: abbott
+name: Freestyle Libre Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abbott:freestyle_libre_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freestyle_libre_firmware
+  confidence: auto

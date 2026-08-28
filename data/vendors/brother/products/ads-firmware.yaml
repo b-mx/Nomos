@@ -1,0 +1,10 @@
+id: ads-firmware
+vendor_id: brother
+name: Ads Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:ads_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ads_firmware
+  confidence: auto

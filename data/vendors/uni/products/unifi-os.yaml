@@ -1,0 +1,10 @@
+id: unifi-os
+vendor_id: uni
+name: Unifi Os
+type: os
+tags: []
+cpe: cpe:2.3:o:uni:unifi_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_os
+  confidence: auto

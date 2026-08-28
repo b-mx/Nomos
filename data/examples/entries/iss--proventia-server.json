@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iss--proventia-server",
+  "vendor_id": "iss",
+  "product_id": "proventia-server",
+  "name": "Proventia Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proventia_server",
+      "confidence": "auto"
+    }
+  ]
+}

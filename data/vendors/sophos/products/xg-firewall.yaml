@@ -1,13 +1,9 @@
 id: xg-firewall
 vendor_id: sophos
 name: XG Firewall
-type: appliance
-tags:
-- firewall
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: XG Firewall
-  confidence: auto
-- source: cisa_kev
-  value: Firewall
   confidence: auto

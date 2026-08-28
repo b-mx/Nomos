@@ -1,0 +1,10 @@
+id: diablo
+vendor_id: openstack
+name: Diablo
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:diablo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diablo
+  confidence: auto

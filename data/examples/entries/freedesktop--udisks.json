@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freedesktop--udisks",
+  "vendor_id": "freedesktop",
+  "product_id": "udisks",
+  "name": "Udisks",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "udisks",
+      "confidence": "auto"
+    }
+  ]
+}

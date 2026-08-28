@@ -1,0 +1,10 @@
+id: 1410-wireless-mesh-router
+vendor_id: tropos
+name: 1410 Wireless Mesh Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tropos:1410_wireless_mesh_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1410_wireless_mesh_router
+  confidence: auto

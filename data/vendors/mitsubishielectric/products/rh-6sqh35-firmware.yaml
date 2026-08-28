@@ -1,0 +1,10 @@
+id: rh-6sqh35-firmware
+vendor_id: mitsubishielectric
+name: Rh-6Sqh35 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rh\-6sqh35_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh-6sqh35_firmware
+  confidence: auto

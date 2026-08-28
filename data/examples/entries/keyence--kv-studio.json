@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "keyence--kv-studio",
+  "vendor_id": "keyence",
+  "product_id": "kv-studio",
+  "name": "Kv Studio",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kv_studio",
+      "confidence": "auto"
+    }
+  ]
+}

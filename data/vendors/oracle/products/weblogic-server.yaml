@@ -2,9 +2,7 @@ id: weblogic-server
 vendor_id: oracle
 name: WebLogic Server
 type: software
-tags:
-- webserver
-icon: logos:oracle
+tags: []
 aliases:
 - source: cisa_kev
   value: WebLogic Server

@@ -1,0 +1,10 @@
+id: pdfunite
+vendor_id: canonical
+name: Pdfunite
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:pdfunite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdfunite
+  confidence: auto

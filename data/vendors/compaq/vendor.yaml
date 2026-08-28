@@ -1,0 +1,7 @@
+id: compaq
+name: Compaq
+cpe: cpe:2.3:*:compaq:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compaq
+  confidence: auto

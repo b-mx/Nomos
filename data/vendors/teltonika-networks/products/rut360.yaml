@@ -1,0 +1,10 @@
+id: rut360
+vendor_id: teltonika-networks
+name: Rut360
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika\-networks:rut360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rut360
+  confidence: auto

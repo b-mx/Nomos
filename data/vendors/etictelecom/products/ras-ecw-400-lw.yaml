@@ -1,0 +1,10 @@
+id: ras-ecw-400-lw
+vendor_id: etictelecom
+name: Ras-Ecw-400-Lw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:etictelecom:ras\-ecw\-400\-lw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ras-ecw-400-lw
+  confidence: auto

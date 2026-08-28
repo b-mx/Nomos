@@ -1,0 +1,10 @@
+id: smart
+vendor_id: iptime
+name: Smart
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:smart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart
+  confidence: auto

@@ -1,0 +1,7 @@
+id: ldap-account-manager
+name: Ldap-Account-Manager
+cpe: cpe:2.3:*:ldap\-account\-manager:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ldap-account-manager
+  confidence: auto

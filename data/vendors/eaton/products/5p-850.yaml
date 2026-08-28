@@ -1,0 +1,10 @@
+id: 5p-850
+vendor_id: eaton
+name: 5P 850
+type: hardware
+tags: []
+cpe: cpe:2.3:h:eaton:5p_850:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5p_850
+  confidence: auto

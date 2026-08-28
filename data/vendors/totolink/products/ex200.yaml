@@ -1,0 +1,10 @@
+id: ex200
+vendor_id: totolink
+name: Ex200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:ex200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex200
+  confidence: auto

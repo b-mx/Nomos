@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11dsn-ts-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11dsn-ts-firmware",
+  "name": "X11Dsn-Ts Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11dsn-ts_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

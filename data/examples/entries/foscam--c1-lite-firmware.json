@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "foscam--c1-lite-firmware",
+  "vendor_id": "foscam",
+  "product_id": "c1-lite-firmware",
+  "name": "C1 Lite Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c1_lite_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pgp--desktop-security",
+  "vendor_id": "pgp",
+  "product_id": "desktop-security",
+  "name": "Desktop Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "desktop_security",
+      "confidence": "auto"
+    }
+  ]
+}

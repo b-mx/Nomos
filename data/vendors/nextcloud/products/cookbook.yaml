@@ -1,0 +1,10 @@
+id: cookbook
+vendor_id: nextcloud
+name: Cookbook
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:cookbook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cookbook
+  confidence: auto

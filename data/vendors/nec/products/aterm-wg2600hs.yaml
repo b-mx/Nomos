@@ -1,0 +1,10 @@
+id: aterm-wg2600hs
+vendor_id: nec
+name: Aterm Wg2600Hs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wg2600hs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wg2600hs
+  confidence: auto

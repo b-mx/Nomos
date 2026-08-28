@@ -1,0 +1,10 @@
+id: sentinel-license-manager
+vendor_id: gemalto
+name: Sentinel License Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:gemalto:sentinel_license_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sentinel_license_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hdl-a-firmware
+vendor_id: iodata
+name: Hdl-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:hdl\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdl-a_firmware
+  confidence: auto

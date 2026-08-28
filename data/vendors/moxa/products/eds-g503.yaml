@@ -1,0 +1,10 @@
+id: eds-g503
+vendor_id: moxa
+name: Eds-G503
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:eds\-g503:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eds-g503
+  confidence: auto

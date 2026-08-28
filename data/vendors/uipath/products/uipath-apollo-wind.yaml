@@ -1,0 +1,10 @@
+id: uipath-apollo-wind
+vendor_id: uipath
+name: Uipath/Apollo-Wind
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/apollo\-wind:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/apollo-wind
+  confidence: auto

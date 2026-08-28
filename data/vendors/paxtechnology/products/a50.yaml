@@ -1,0 +1,10 @@
+id: a50
+vendor_id: paxtechnology
+name: A50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:paxtechnology:a50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a50
+  confidence: auto

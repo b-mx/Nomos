@@ -1,0 +1,10 @@
+id: yangtian-mf
+vendor_id: lenovo
+name: Yangtian Mf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yangtian_mf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_mf
+  confidence: auto

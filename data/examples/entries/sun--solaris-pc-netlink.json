@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--solaris-pc-netlink",
+  "vendor_id": "sun",
+  "product_id": "solaris-pc-netlink",
+  "name": "Solaris Pc Netlink",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "solaris_pc_netlink",
+      "confidence": "auto"
+    }
+  ]
+}

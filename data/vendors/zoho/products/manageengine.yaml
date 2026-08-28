@@ -1,0 +1,9 @@
+id: manageengine
+vendor_id: zoho
+name: ManageEngine
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: ManageEngine
+  confidence: auto

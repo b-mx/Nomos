@@ -1,0 +1,10 @@
+id: lan-w300n-rs
+vendor_id: elecom
+name: Lan-W300N/Rs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:lan\-w300n\/rs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-w300n/rs
+  confidence: auto

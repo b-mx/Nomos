@@ -1,0 +1,10 @@
+id: swr-300bg
+vendor_id: seowonintech
+name: Swr-300Bg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seowonintech:swr\-300bg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swr-300bg
+  confidence: auto

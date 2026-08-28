@@ -1,0 +1,10 @@
+id: opensuse-swamp
+vendor_id: novell
+name: Opensuse Swamp
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:opensuse_swamp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensuse_swamp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: btc14
+vendor_id: pepperl-fuchs
+name: Btc14
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pepperl\-fuchs:btc14:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: btc14
+  confidence: auto

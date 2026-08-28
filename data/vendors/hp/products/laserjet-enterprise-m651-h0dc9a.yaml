@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m651-h0dc9a
+vendor_id: hp
+name: Laserjet Enterprise M651 H0Dc9A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_m651_h0dc9a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m651_h0dc9a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cp651-web
+vendor_id: abb
+name: Cp651-Web
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:cp651\-web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp651-web
+  confidence: auto

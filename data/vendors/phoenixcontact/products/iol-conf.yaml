@@ -1,0 +1,10 @@
+id: iol-conf
+vendor_id: phoenixcontact
+name: Iol-Conf
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:iol\-conf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iol-conf
+  confidence: auto

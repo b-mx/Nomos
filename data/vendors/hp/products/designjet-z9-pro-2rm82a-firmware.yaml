@@ -1,0 +1,10 @@
+id: designjet-z9-pro-2rm82a-firmware
+vendor_id: hp
+name: Designjet Z9+ Pro 2Rm82A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:designjet_z9\+_pro_2rm82a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z9+_pro_2rm82a_firmware
+  confidence: auto

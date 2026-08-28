@@ -1,0 +1,10 @@
+id: psc-1300
+vendor_id: hp
+name: Psc 1300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:psc_1300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: psc_1300
+  confidence: auto

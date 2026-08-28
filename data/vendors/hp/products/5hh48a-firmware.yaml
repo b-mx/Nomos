@@ -1,0 +1,10 @@
+id: 5hh48a-firmware
+vendor_id: hp
+name: 5Hh48A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:5hh48a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5hh48a_firmware
+  confidence: auto

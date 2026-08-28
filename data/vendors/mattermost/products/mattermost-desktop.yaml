@@ -1,0 +1,10 @@
+id: mattermost-desktop
+vendor_id: mattermost
+name: Mattermost Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:mattermost_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mattermost_desktop
+  confidence: auto

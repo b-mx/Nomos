@@ -1,0 +1,10 @@
+id: stratos
+vendor_id: cloudfoundry
+name: Stratos
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:stratos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stratos
+  confidence: auto

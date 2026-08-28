@@ -1,0 +1,10 @@
+id: vc8101
+vendor_id: vivotek
+name: Vc8101
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:vc8101:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vc8101
+  confidence: auto

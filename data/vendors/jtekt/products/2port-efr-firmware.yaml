@@ -1,0 +1,10 @@
+id: 2port-efr-firmware
+vendor_id: jtekt
+name: 2Port-Efr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:2port\-efr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2port-efr_firmware
+  confidence: auto

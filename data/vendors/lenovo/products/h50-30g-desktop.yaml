@@ -1,0 +1,10 @@
+id: h50-30g-desktop
+vendor_id: lenovo
+name: H50-30G Desktop
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:h50\-30g_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h50-30g_desktop
+  confidence: auto

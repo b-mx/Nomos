@@ -1,0 +1,10 @@
+id: id-charger-connect
+vendor_id: vw
+name: Id.Charger Connect
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vw:id\.charger_connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: id.charger_connect
+  confidence: auto

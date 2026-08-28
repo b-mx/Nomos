@@ -1,0 +1,6 @@
+id: pci-dss
+name: PCI-DSS
+aliases:
+- source: endoflife
+  value: pci-dss
+  confidence: auto

@@ -1,0 +1,10 @@
+id: plus-2p-efr-firmware
+vendor_id: jtekt
+name: Plus 2P-Efr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:plus_2p\-efr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plus_2p-efr_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: memory-analyzer
+vendor_id: eclipse
+name: Memory Analyzer
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:memory_analyzer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: memory_analyzer
+  confidence: auto

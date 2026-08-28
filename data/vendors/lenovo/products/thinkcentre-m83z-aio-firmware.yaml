@@ -1,0 +1,10 @@
+id: thinkcentre-m83z-aio-firmware
+vendor_id: lenovo
+name: Thinkcentre M83Z (Aio) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkcentre_m83z_\(aio\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m83z_(aio)_firmware
+  confidence: auto

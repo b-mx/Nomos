@@ -1,0 +1,10 @@
+id: viewstation-mp
+vendor_id: polycom
+name: Viewstation Mp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:viewstation_mp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viewstation_mp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: blackberry-world
+vendor_id: blackberry
+name: Blackberry World
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:blackberry_world:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry_world
+  confidence: auto

@@ -1,0 +1,10 @@
+id: engines
+vendor_id: bitdefender
+name: Engines
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:engines:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engines
+  confidence: auto

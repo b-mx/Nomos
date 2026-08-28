@@ -1,0 +1,10 @@
+id: airbot-z1-firmware
+vendor_id: ecovacs
+name: Airbot Z1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ecovacs:airbot_z1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airbot_z1_firmware
+  confidence: auto

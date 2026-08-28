@@ -1,0 +1,7 @@
+id: belkin
+name: Belkin
+cpe: cpe:2.3:*:belkin:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: belkin
+  confidence: auto

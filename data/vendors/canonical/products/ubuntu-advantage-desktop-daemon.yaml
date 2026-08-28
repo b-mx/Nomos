@@ -1,0 +1,10 @@
+id: ubuntu-advantage-desktop-daemon
+vendor_id: canonical
+name: Ubuntu Advantage Desktop Daemon
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:ubuntu_advantage_desktop_daemon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubuntu_advantage_desktop_daemon
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nf5270m5-firmware
+vendor_id: inspur
+name: Nf5270M5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:inspur:nf5270m5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nf5270m5_firmware
+  confidence: auto

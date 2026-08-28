@@ -1,0 +1,10 @@
+id: m1135
+vendor_id: axis
+name: M1135
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m1135:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m1135
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gc-enet-com-firmware
+vendor_id: mitsubishielectric
+name: Gc-Enet-Com Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:gc\-enet\-com_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gc-enet-com_firmware
+  confidence: auto

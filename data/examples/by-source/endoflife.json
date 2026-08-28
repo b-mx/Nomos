@@ -1,79 +1,2708 @@
 [
   {
     "canonical_type": "vendor",
-    "vendor_id": "kubernetes",
+    "vendor_id": "adonisjs",
     "product_id": null,
-    "name": "Kubernetes",
+    "name": "AdonisJS",
     "alias": {
       "source": "endoflife",
-      "value": "kubernetes",
-      "confidence": "curated"
+      "value": "adonisjs",
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "mysql",
+    "vendor_id": "alibaba-ack",
     "product_id": null,
-    "name": "MySQL",
+    "name": "Alibaba ACK",
     "alias": {
       "source": "endoflife",
-      "value": "mysql",
-      "confidence": "curated"
+      "value": "alibaba-ack",
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "nginx",
+    "vendor_id": "alibaba-dragonwell",
     "product_id": null,
-    "name": "NGINX",
+    "name": "Alibaba Dragonwell",
     "alias": {
       "source": "endoflife",
-      "value": "nginx",
-      "confidence": "curated"
+      "value": "alibaba-dragonwell",
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "openssl",
+    "vendor_id": "amazon-aurora-mysql",
     "product_id": null,
-    "name": "OpenSSL",
+    "name": "Amazon Aurora MySQL",
     "alias": {
       "source": "endoflife",
-      "value": "openssl",
-      "confidence": "curated"
+      "value": "amazon-aurora-mysql",
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "postgresql",
+    "vendor_id": "amazon-aurora-postgresql",
     "product_id": null,
-    "name": "PostgreSQL",
+    "name": "Amazon Aurora PostgreSQL",
     "alias": {
       "source": "endoflife",
-      "value": "postgresql",
-      "confidence": "curated"
+      "value": "amazon-aurora-postgresql",
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "python",
+    "vendor_id": "amazon-documentdb",
     "product_id": null,
-    "name": "Python",
+    "name": "Amazon DocumentDB",
     "alias": {
       "source": "endoflife",
-      "value": "python",
-      "confidence": "curated"
+      "value": "amazon-documentdb",
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "redis",
+    "vendor_id": "amazon-eks",
     "product_id": null,
-    "name": "Redis",
+    "name": "Amazon EKS",
     "alias": {
       "source": "endoflife",
-      "value": "redis",
-      "confidence": "curated"
+      "value": "amazon-eks",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "amazon-elasticache-redis",
+    "product_id": null,
+    "name": "Amazon ElastiCache for Redis OSS",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-elasticache-redis",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "amazon-glue",
+    "product_id": null,
+    "name": "Amazon Glue",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-glue",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "amazon-mq-activemq",
+    "product_id": null,
+    "name": "Amazon MQ for ActiveMQ",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-mq-activemq",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "amazon-mq-rabbitmq",
+    "product_id": null,
+    "name": "Amazon MQ for RabbitMQ",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-mq-rabbitmq",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "amazon-msk",
+    "product_id": null,
+    "name": "Amazon MSK",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-msk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "amazon-neptune",
+    "product_id": null,
+    "name": "Amazon Neptune",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-neptune",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "amazon-opensearch",
+    "product_id": null,
+    "name": "Amazon OpenSearch",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-opensearch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "amazon-rds-mariadb",
+    "product_id": null,
+    "name": "Amazon RDS for MariaDB",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-rds-mariadb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "amazon-rds-mysql",
+    "product_id": null,
+    "name": "Amazon RDS for MySQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-rds-mysql",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "amazon-rds-postgresql",
+    "product_id": null,
+    "name": "Amazon RDS for PostgreSQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-rds-postgresql",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "angularjs",
+    "product_id": null,
+    "name": "AngularJS",
+    "alias": {
+      "source": "endoflife",
+      "value": "angularjs",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "apache-artemis",
+    "product_id": null,
+    "name": "Apache Artemis",
+    "alias": {
+      "source": "endoflife",
+      "value": "apache-artemis",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "apache-hop",
+    "product_id": null,
+    "name": "Apache Hop",
+    "alias": {
+      "source": "endoflife",
+      "value": "apache-hop",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "apache-subversion",
+    "product_id": null,
+    "name": "Apache Subversion",
+    "alias": {
+      "source": "endoflife",
+      "value": "apache-subversion",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "apple-watch",
+    "product_id": null,
+    "name": "Apple Watch",
+    "alias": {
+      "source": "endoflife",
+      "value": "apple-watch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "argo-cd",
+    "product_id": null,
+    "name": "Argo CD",
+    "alias": {
+      "source": "endoflife",
+      "value": "argo-cd",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "argo-workflows",
+    "product_id": null,
+    "name": "Argo Workflows",
+    "alias": {
+      "source": "endoflife",
+      "value": "argo-workflows",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "aws-lambda",
+    "product_id": null,
+    "name": "AWS Lambda",
+    "alias": {
+      "source": "endoflife",
+      "value": "aws-lambda",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "azure-database-for-mysql",
+    "product_id": null,
+    "name": "Azure Database for MySQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "azure-database-for-mysql",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "azure-database-for-postgresql",
+    "product_id": null,
+    "name": "Azure Database for PostgreSQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "azure-database-for-postgresql",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "azure-kubernetes-service",
+    "product_id": null,
+    "name": "Azure Kubernetes Service",
+    "alias": {
+      "source": "endoflife",
+      "value": "azure-kubernetes-service",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "behat",
+    "product_id": null,
+    "name": "Behat",
+    "alias": {
+      "source": "endoflife",
+      "value": "behat",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "bellsoft-liberica",
+    "product_id": null,
+    "name": "Bellsoft Liberica JDK",
+    "alias": {
+      "source": "endoflife",
+      "value": "bellsoft-liberica",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "big-ip",
+    "product_id": null,
+    "name": "BIG-IP",
+    "alias": {
+      "source": "endoflife",
+      "value": "big-ip",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "bitcoin-core",
+    "product_id": null,
+    "name": "Bitcoin Core",
+    "alias": {
+      "source": "endoflife",
+      "value": "bitcoin-core",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "bootstrap",
+    "product_id": null,
+    "name": "Bootstrap",
+    "alias": {
+      "source": "endoflife",
+      "value": "bootstrap",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "bun",
+    "product_id": null,
+    "name": "Bun",
+    "alias": {
+      "source": "endoflife",
+      "value": "bun",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "cachet",
+    "product_id": null,
+    "name": "Cachet",
+    "alias": {
+      "source": "endoflife",
+      "value": "cachet",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "cert-manager",
+    "product_id": null,
+    "name": "cert-manager",
+    "alias": {
+      "source": "endoflife",
+      "value": "cert-manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "checkmk",
+    "product_id": null,
+    "name": "Checkmk",
+    "alias": {
+      "source": "endoflife",
+      "value": "checkmk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "chef-supermarket",
+    "product_id": null,
+    "name": "Chef Supermarket",
+    "alias": {
+      "source": "endoflife",
+      "value": "chef-supermarket",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "chef-workstation",
+    "product_id": null,
+    "name": "Chef Workstation",
+    "alias": {
+      "source": "endoflife",
+      "value": "chef-workstation",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "cisco-ios-xe",
+    "product_id": null,
+    "name": "Cisco IOS XE",
+    "alias": {
+      "source": "endoflife",
+      "value": "cisco-ios-xe",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "citrix-vad",
+    "product_id": null,
+    "name": "Citrix Virtual Apps and Desktops",
+    "alias": {
+      "source": "endoflife",
+      "value": "citrix-vad",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "claude",
+    "product_id": null,
+    "name": "Anthropic Claude",
+    "alias": {
+      "source": "endoflife",
+      "value": "claude",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "clickhouse",
+    "product_id": null,
+    "name": "ClickHouse",
+    "alias": {
+      "source": "endoflife",
+      "value": "clickhouse",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "cloud-sql-auth-proxy",
+    "product_id": null,
+    "name": "Cloud SQL Auth Proxy",
+    "alias": {
+      "source": "endoflife",
+      "value": "cloud-sql-auth-proxy",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "cockroachdb",
+    "product_id": null,
+    "name": "CockroachDB",
+    "alias": {
+      "source": "endoflife",
+      "value": "cockroachdb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "cortex-xdr",
+    "product_id": null,
+    "name": "Palo Alto Networks Cortex XDR agent",
+    "alias": {
+      "source": "endoflife",
+      "value": "cortex-xdr",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "dbt-core",
+    "product_id": null,
+    "name": "dbt Core",
+    "alias": {
+      "source": "endoflife",
+      "value": "dbt-core",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "dce",
+    "product_id": null,
+    "name": "DaoCloud Enterprise",
+    "alias": {
+      "source": "endoflife",
+      "value": "dce",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "devuan",
+    "product_id": null,
+    "name": "Devuan",
+    "alias": {
+      "source": "endoflife",
+      "value": "devuan",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "dotnetfx",
+    "product_id": null,
+    "name": "Microsoft .NET Framework",
+    "alias": {
+      "source": "endoflife",
+      "value": "dotnetfx",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "dropwizard",
+    "product_id": null,
+    "name": "Dropwizard",
+    "alias": {
+      "source": "endoflife",
+      "value": "dropwizard",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "drush",
+    "product_id": null,
+    "name": "Drush",
+    "alias": {
+      "source": "endoflife",
+      "value": "drush",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "elixir",
+    "product_id": null,
+    "name": "Elixir",
+    "alias": {
+      "source": "endoflife",
+      "value": "elixir",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "etcd",
+    "product_id": null,
+    "name": "etcd",
+    "alias": {
+      "source": "endoflife",
+      "value": "etcd",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "fairphone",
+    "product_id": null,
+    "name": "Fairphone",
+    "alias": {
+      "source": "endoflife",
+      "value": "fairphone",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "filemaker",
+    "product_id": null,
+    "name": "FileMaker Platform",
+    "alias": {
+      "source": "endoflife",
+      "value": "filemaker",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "fluent-bit",
+    "product_id": null,
+    "name": "Fluent Bit",
+    "alias": {
+      "source": "endoflife",
+      "value": "fluent-bit",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "freedesktop-sdk",
+    "product_id": null,
+    "name": "Freedesktop SDK",
+    "alias": {
+      "source": "endoflife",
+      "value": "freedesktop-sdk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "ghc",
+    "product_id": null,
+    "name": "Glasgow Haskell Compiler (GHC)",
+    "alias": {
+      "source": "endoflife",
+      "value": "ghc",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "github-actions-runner-images",
+    "product_id": null,
+    "name": "GitHub Actions Runner Images",
+    "alias": {
+      "source": "endoflife",
+      "value": "github-actions-runner-images",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "gleam",
+    "product_id": null,
+    "name": "Gleam",
+    "alias": {
+      "source": "endoflife",
+      "value": "gleam",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "goaccess",
+    "product_id": null,
+    "name": "GoAccess",
+    "alias": {
+      "source": "endoflife",
+      "value": "goaccess",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "google-kubernetes-engine",
+    "product_id": null,
+    "name": "Google Kubernetes Engine",
+    "alias": {
+      "source": "endoflife",
+      "value": "google-kubernetes-engine",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "google-nexus",
+    "product_id": null,
+    "name": "Google Nexus",
+    "alias": {
+      "source": "endoflife",
+      "value": "google-nexus",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "gorilla",
+    "product_id": null,
+    "name": "Gorilla Toolkit",
+    "alias": {
+      "source": "endoflife",
+      "value": "gorilla",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "grumphp",
+    "product_id": null,
+    "name": "GrumPHP",
+    "alias": {
+      "source": "endoflife",
+      "value": "grumphp",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "haproxy-ingress",
+    "product_id": null,
+    "name": "HAProxy Ingress",
+    "alias": {
+      "source": "endoflife",
+      "value": "haproxy-ingress",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "horizon",
+    "product_id": null,
+    "name": "Omnissa Horizon",
+    "alias": {
+      "source": "endoflife",
+      "value": "horizon",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "ibm-i",
+    "product_id": null,
+    "name": "IBM iSeries",
+    "alias": {
+      "source": "endoflife",
+      "value": "ibm-i",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "ibm-semeru-runtime",
+    "product_id": null,
+    "name": "IBM Semeru Runtime",
+    "alias": {
+      "source": "endoflife",
+      "value": "ibm-semeru-runtime",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "idl",
+    "product_id": null,
+    "name": "IDL",
+    "alias": {
+      "source": "endoflife",
+      "value": "idl",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "intel-processors",
+    "product_id": null,
+    "name": "Intel Processors",
+    "alias": {
+      "source": "endoflife",
+      "value": "intel-processors",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "internet-explorer",
+    "product_id": null,
+    "name": "Internet Explorer",
+    "alias": {
+      "source": "endoflife",
+      "value": "internet-explorer",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "ionic",
+    "product_id": null,
+    "name": "Ionic Framework",
+    "alias": {
+      "source": "endoflife",
+      "value": "ionic",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "ios",
+    "product_id": null,
+    "name": "Apple iOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "ios",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "ipad",
+    "product_id": null,
+    "name": "Apple iPad",
+    "alias": {
+      "source": "endoflife",
+      "value": "ipad",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "ipados",
+    "product_id": null,
+    "name": "Apple iPadOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "ipados",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "iphone",
+    "product_id": null,
+    "name": "Apple iPhone",
+    "alias": {
+      "source": "endoflife",
+      "value": "iphone",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "isc-dhcp",
+    "product_id": null,
+    "name": "ISC DHCP",
+    "alias": {
+      "source": "endoflife",
+      "value": "isc-dhcp",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "jquery-ui",
+    "product_id": null,
+    "name": "jQuery UI",
+    "alias": {
+      "source": "endoflife",
+      "value": "jquery-ui",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "jreleaser",
+    "product_id": null,
+    "name": "JReleaser",
+    "alias": {
+      "source": "endoflife",
+      "value": "jreleaser",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "jruby",
+    "product_id": null,
+    "name": "JRuby",
+    "alias": {
+      "source": "endoflife",
+      "value": "jruby",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "karpenter",
+    "product_id": null,
+    "name": "Karpenter",
+    "alias": {
+      "source": "endoflife",
+      "value": "karpenter",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "keda",
+    "product_id": null,
+    "name": "KEDA",
+    "alias": {
+      "source": "endoflife",
+      "value": "keda",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "kindle",
+    "product_id": null,
+    "name": "Amazon Kindle",
+    "alias": {
+      "source": "endoflife",
+      "value": "kindle",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "knative",
+    "product_id": null,
+    "name": "Knative",
+    "alias": {
+      "source": "endoflife",
+      "value": "knative",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "kotlin",
+    "product_id": null,
+    "name": "Kotlin",
+    "alias": {
+      "source": "endoflife",
+      "value": "kotlin",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "kubernetes-csi-node-driver-registrar",
+    "product_id": null,
+    "name": "Kubernetes CSI Node Driver Registrar",
+    "alias": {
+      "source": "endoflife",
+      "value": "kubernetes-csi-node-driver-registrar",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "kubernetes-node-feature-discovery",
+    "product_id": null,
+    "name": "Kubernetes Node Feature Discovery",
+    "alias": {
+      "source": "endoflife",
+      "value": "kubernetes-node-feature-discovery",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "kuma",
+    "product_id": null,
+    "name": "Kuma",
+    "alias": {
+      "source": "endoflife",
+      "value": "kuma",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "kyverno",
+    "product_id": null,
+    "name": "Kyverno",
+    "alias": {
+      "source": "endoflife",
+      "value": "kyverno",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "longhorn",
+    "product_id": null,
+    "name": "Longhorn",
+    "alias": {
+      "source": "endoflife",
+      "value": "longhorn",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "mandrel",
+    "product_id": null,
+    "name": "Mandrel",
+    "alias": {
+      "source": "endoflife",
+      "value": "mandrel",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "mautic",
+    "product_id": null,
+    "name": "Mautic",
+    "alias": {
+      "source": "endoflife",
+      "value": "mautic",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "meilisearch",
+    "product_id": null,
+    "name": "Meilisearch",
+    "alias": {
+      "source": "endoflife",
+      "value": "meilisearch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "metallb",
+    "product_id": null,
+    "name": "MetalLB",
+    "alias": {
+      "source": "endoflife",
+      "value": "metallb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "micronaut",
+    "product_id": null,
+    "name": "Micronaut Framework",
+    "alias": {
+      "source": "endoflife",
+      "value": "micronaut",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "microsoft-build-of-openjdk",
+    "product_id": null,
+    "name": "Microsoft Build of OpenJDK",
+    "alias": {
+      "source": "endoflife",
+      "value": "microsoft-build-of-openjdk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "motorola-mobility",
+    "product_id": null,
+    "name": "Motorola Mobility",
+    "alias": {
+      "source": "endoflife",
+      "value": "motorola-mobility",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "mulesoft-runtime",
+    "product_id": null,
+    "name": "Mule Runtime",
+    "alias": {
+      "source": "endoflife",
+      "value": "mulesoft-runtime",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "mxlinux",
+    "product_id": null,
+    "name": "MX Linux",
+    "alias": {
+      "source": "endoflife",
+      "value": "mxlinux",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "netapp-ontap",
+    "product_id": null,
+    "name": "NetApp ONTAP",
+    "alias": {
+      "source": "endoflife",
+      "value": "netapp-ontap",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "netbackup-appliance-os",
+    "product_id": null,
+    "name": "NetBackup Appliance OS",
+    "alias": {
+      "source": "endoflife",
+      "value": "netbackup-appliance-os",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nextjs",
+    "product_id": null,
+    "name": "Next.js",
+    "alias": {
+      "source": "endoflife",
+      "value": "nextjs",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nix",
+    "product_id": null,
+    "name": "nix",
+    "alias": {
+      "source": "endoflife",
+      "value": "nix",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nokia",
+    "product_id": null,
+    "name": "Nokia Mobile",
+    "alias": {
+      "source": "endoflife",
+      "value": "nokia",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "notepad-plus-plus",
+    "product_id": null,
+    "name": "Notepad++",
+    "alias": {
+      "source": "endoflife",
+      "value": "notepad-plus-plus",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nutanix-aos",
+    "product_id": null,
+    "name": "Nutanix AOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "nutanix-aos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nutanix-files",
+    "product_id": null,
+    "name": "Nutanix Files",
+    "alias": {
+      "source": "endoflife",
+      "value": "nutanix-files",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nutanix-prism",
+    "product_id": null,
+    "name": "Nutanix Prism Central",
+    "alias": {
+      "source": "endoflife",
+      "value": "nutanix-prism",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nvidia",
+    "product_id": null,
+    "name": "NVIDIA Driver",
+    "alias": {
+      "source": "endoflife",
+      "value": "nvidia",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nvidia-gpu",
+    "product_id": null,
+    "name": "NVIDIA GPUs",
+    "alias": {
+      "source": "endoflife",
+      "value": "nvidia-gpu",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "nvm",
+    "product_id": null,
+    "name": "nvm",
+    "alias": {
+      "source": "endoflife",
+      "value": "nvm",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "oneplus",
+    "product_id": null,
+    "name": "OnePlus",
+    "alias": {
+      "source": "endoflife",
+      "value": "oneplus",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "openbao",
+    "product_id": null,
+    "name": "OpenBao",
+    "alias": {
+      "source": "endoflife",
+      "value": "openbao",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "opentofu",
+    "product_id": null,
+    "name": "OpenTofu",
+    "alias": {
+      "source": "endoflife",
+      "value": "opentofu",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "openvpn",
+    "product_id": null,
+    "name": "OpenVPN",
+    "alias": {
+      "source": "endoflife",
+      "value": "openvpn",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "openwrt",
+    "product_id": null,
+    "name": "OpenWrt",
+    "alias": {
+      "source": "endoflife",
+      "value": "openwrt",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "oracle-apex",
+    "product_id": null,
+    "name": "Oracle APEX",
+    "alias": {
+      "source": "endoflife",
+      "value": "oracle-apex",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "oracle-database",
+    "product_id": null,
+    "name": "Oracle Database",
+    "alias": {
+      "source": "endoflife",
+      "value": "oracle-database",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "oracle-graalvm",
+    "product_id": null,
+    "name": "Oracle GraalVM",
+    "alias": {
+      "source": "endoflife",
+      "value": "oracle-graalvm",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "oracle-solaris",
+    "product_id": null,
+    "name": "Oracle Solaris",
+    "alias": {
+      "source": "endoflife",
+      "value": "oracle-solaris",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "otobo",
+    "product_id": null,
+    "name": "OTOBO",
+    "alias": {
+      "source": "endoflife",
+      "value": "otobo",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "ovirt",
+    "product_id": null,
+    "name": "oVirt",
+    "alias": {
+      "source": "endoflife",
+      "value": "ovirt",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "panos",
+    "product_id": null,
+    "name": "Palo Alto Networks PAN-OS",
+    "alias": {
+      "source": "endoflife",
+      "value": "panos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "pci-dss",
+    "product_id": null,
+    "name": "PCI-DSS",
+    "alias": {
+      "source": "endoflife",
+      "value": "pci-dss",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "phoenix-framework",
+    "product_id": null,
+    "name": "Phoenix Framework",
+    "alias": {
+      "source": "endoflife",
+      "value": "phoenix-framework",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "pixel",
+    "product_id": null,
+    "name": "Google Pixel",
+    "alias": {
+      "source": "endoflife",
+      "value": "pixel",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "pixel-watch",
+    "product_id": null,
+    "name": "Google Pixel Watch",
+    "alias": {
+      "source": "endoflife",
+      "value": "pixel-watch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "pop-os",
+    "product_id": null,
+    "name": "Pop!_OS",
+    "alias": {
+      "source": "endoflife",
+      "value": "pop-os",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "postmarketos",
+    "product_id": null,
+    "name": "postmarketOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "postmarketos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "protractor",
+    "product_id": null,
+    "name": "Protractor",
+    "alias": {
+      "source": "endoflife",
+      "value": "protractor",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "proxmox-backup-server",
+    "product_id": null,
+    "name": "Proxmox Backup Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "proxmox-backup-server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "proxmox-datacenter-manager",
+    "product_id": null,
+    "name": "Proxmox Datacenter Manager",
+    "alias": {
+      "source": "endoflife",
+      "value": "proxmox-datacenter-manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "proxmox-mail-gateway",
+    "product_id": null,
+    "name": "Proxmox Mail Gateway",
+    "alias": {
+      "source": "endoflife",
+      "value": "proxmox-mail-gateway",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "quasar",
+    "product_id": null,
+    "name": "Quasar",
+    "alias": {
+      "source": "endoflife",
+      "value": "quasar",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "raspberry-pi",
+    "product_id": null,
+    "name": "Raspberry Pi",
+    "alias": {
+      "source": "endoflife",
+      "value": "raspberry-pi",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "redhat-build-of-openjdk",
+    "product_id": null,
+    "name": "Red Hat build of OpenJDK",
+    "alias": {
+      "source": "endoflife",
+      "value": "redhat-build-of-openjdk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "redhat-jboss-eap",
+    "product_id": null,
+    "name": "Red Hat JBoss Enterprise Application Platform",
+    "alias": {
+      "source": "endoflife",
+      "value": "redhat-jboss-eap",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "redhat-satellite",
+    "product_id": null,
+    "name": "Red Hat Satellite",
+    "alias": {
+      "source": "endoflife",
+      "value": "redhat-satellite",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "renovate",
+    "product_id": null,
+    "name": "Renovate CLI",
+    "alias": {
+      "source": "endoflife",
+      "value": "renovate",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "robo",
+    "product_id": null,
+    "name": "Robo",
+    "alias": {
+      "source": "endoflife",
+      "value": "robo",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "rocket-chat",
+    "product_id": null,
+    "name": "Rocket.Chat",
+    "alias": {
+      "source": "endoflife",
+      "value": "rocket-chat",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "ros",
+    "product_id": null,
+    "name": "ROS",
+    "alias": {
+      "source": "endoflife",
+      "value": "ros",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "ros-2",
+    "product_id": null,
+    "name": "ROS 2",
+    "alias": {
+      "source": "endoflife",
+      "value": "ros-2",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "rtpengine",
+    "product_id": null,
+    "name": "rtpengine",
+    "alias": {
+      "source": "endoflife",
+      "value": "rtpengine",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "samsung-galaxy-tab",
+    "product_id": null,
+    "name": "Samsung Galaxy Tab",
+    "alias": {
+      "source": "endoflife",
+      "value": "samsung-galaxy-tab",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "samsung-galaxy-watch",
+    "product_id": null,
+    "name": "Samsung Galaxy Watch",
+    "alias": {
+      "source": "endoflife",
+      "value": "samsung-galaxy-watch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "samsung-mobile",
+    "product_id": null,
+    "name": "Samsung Mobile",
+    "alias": {
+      "source": "endoflife",
+      "value": "samsung-mobile",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "sapmachine",
+    "product_id": null,
+    "name": "SapMachine",
+    "alias": {
+      "source": "endoflife",
+      "value": "sapmachine",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "sharepoint",
+    "product_id": null,
+    "name": "Microsoft SharePoint",
+    "alias": {
+      "source": "endoflife",
+      "value": "sharepoint",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "silverstripe",
+    "product_id": null,
+    "name": "Silverstripe CMS",
+    "alias": {
+      "source": "endoflife",
+      "value": "silverstripe",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "sns-firmware",
+    "product_id": null,
+    "name": "Stormshield Firmware",
+    "alias": {
+      "source": "endoflife",
+      "value": "sns-firmware",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "sns-hardware",
+    "product_id": null,
+    "name": "Stormshield Firewall",
+    "alias": {
+      "source": "endoflife",
+      "value": "sns-hardware",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "sns-smc",
+    "product_id": null,
+    "name": "Stormshield Management Center",
+    "alias": {
+      "source": "endoflife",
+      "value": "sns-smc",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "sonarqube-server",
+    "product_id": null,
+    "name": "SonarQube Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "sonarqube-server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "sony-xperia",
+    "product_id": null,
+    "name": "Sony Xperia",
+    "alias": {
+      "source": "endoflife",
+      "value": "sony-xperia",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "spring-boot",
+    "product_id": null,
+    "name": "Spring Boot",
+    "alias": {
+      "source": "endoflife",
+      "value": "spring-boot",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "spring-cloud",
+    "product_id": null,
+    "name": "Spring Cloud",
+    "alias": {
+      "source": "endoflife",
+      "value": "spring-cloud",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "spring-framework",
+    "product_id": null,
+    "name": "Spring Framework",
+    "alias": {
+      "source": "endoflife",
+      "value": "spring-framework",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "spring-security",
+    "product_id": null,
+    "name": "Spring Security",
+    "alias": {
+      "source": "endoflife",
+      "value": "spring-security",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "strapi",
+    "product_id": null,
+    "name": "Strapi",
+    "alias": {
+      "source": "endoflife",
+      "value": "strapi",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "surface",
+    "product_id": null,
+    "name": "Microsoft Surface",
+    "alias": {
+      "source": "endoflife",
+      "value": "surface",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "suse-manager",
+    "product_id": null,
+    "name": "SUSE Multi-Linux Manager",
+    "alias": {
+      "source": "endoflife",
+      "value": "suse-manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "tailwind-css",
+    "product_id": null,
+    "name": "Tailwind CSS",
+    "alias": {
+      "source": "endoflife",
+      "value": "tailwind-css",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "telegraf",
+    "product_id": null,
+    "name": "Telegraf",
+    "alias": {
+      "source": "endoflife",
+      "value": "telegraf",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "thumbor",
+    "product_id": null,
+    "name": "Thumbor",
+    "alias": {
+      "source": "endoflife",
+      "value": "thumbor",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "tls",
+    "product_id": null,
+    "name": "TLS",
+    "alias": {
+      "source": "endoflife",
+      "value": "tls",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "truenas",
+    "product_id": null,
+    "name": "TrueNAS",
+    "alias": {
+      "source": "endoflife",
+      "value": "truenas",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "twig",
+    "product_id": null,
+    "name": "Twig",
+    "alias": {
+      "source": "endoflife",
+      "value": "twig",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "unity",
+    "product_id": null,
+    "name": "Unity",
+    "alias": {
+      "source": "endoflife",
+      "value": "unity",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "veeam-backup-and-replication",
+    "product_id": null,
+    "name": "Veeam Backup & Replication",
+    "alias": {
+      "source": "endoflife",
+      "value": "veeam-backup-and-replication",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "veeam-backup-for-microsoft-365",
+    "product_id": null,
+    "name": "Veeam Backup for Microsoft 365",
+    "alias": {
+      "source": "endoflife",
+      "value": "veeam-backup-for-microsoft-365",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "veeam-one",
+    "product_id": null,
+    "name": "Veeam ONE",
+    "alias": {
+      "source": "endoflife",
+      "value": "veeam-one",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "visionos",
+    "product_id": null,
+    "name": "Apple visionOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "visionos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "visual-cobol",
+    "product_id": null,
+    "name": "Visual COBOL",
+    "alias": {
+      "source": "endoflife",
+      "value": "visual-cobol",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "visual-studio",
+    "product_id": null,
+    "name": "Microsoft Visual Studio",
+    "alias": {
+      "source": "endoflife",
+      "value": "visual-studio",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "vmware-cloud-foundation",
+    "product_id": null,
+    "name": "VMware Cloud Foundation",
+    "alias": {
+      "source": "endoflife",
+      "value": "vmware-cloud-foundation",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "vmware-harbor-registry",
+    "product_id": null,
+    "name": "VMware Harbor Registry",
+    "alias": {
+      "source": "endoflife",
+      "value": "vmware-harbor-registry",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "vmware-srm",
+    "product_id": null,
+    "name": "VMware Site Recovery Manager",
+    "alias": {
+      "source": "endoflife",
+      "value": "vmware-srm",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "vue",
+    "product_id": null,
+    "name": "Vue",
+    "alias": {
+      "source": "endoflife",
+      "value": "vue",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "weakforced",
+    "product_id": null,
+    "name": "Weakforced",
+    "alias": {
+      "source": "endoflife",
+      "value": "weakforced",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "windows-embedded",
+    "product_id": null,
+    "name": "Microsoft Windows Embedded",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-embedded",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "windows-nano-server",
+    "product_id": null,
+    "name": "Microsoft Nano Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-nano-server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "windows-powershell",
+    "product_id": null,
+    "name": "Microsoft Windows PowerShell",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-powershell",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "windows-server",
+    "product_id": null,
+    "name": "Microsoft Windows Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "windows-server-core",
+    "product_id": null,
+    "name": "Microsoft Windows Server Core",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-server-core",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "xcp-ng",
+    "product_id": null,
+    "name": "XCP-ng",
+    "alias": {
+      "source": "endoflife",
+      "value": "xcp-ng",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "youtrack",
+    "product_id": null,
+    "name": "YouTrack",
+    "alias": {
+      "source": "endoflife",
+      "value": "youtrack",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "zentyal",
+    "product_id": null,
+    "name": "Zentyal",
+    "alias": {
+      "source": "endoflife",
+      "value": "zentyal",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "zerto",
+    "product_id": null,
+    "name": "HPE Zerto",
+    "alias": {
+      "source": "endoflife",
+      "value": "zerto",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "adonisjs",
+    "product_id": "adonisjs",
+    "name": "AdonisJS",
+    "alias": {
+      "source": "endoflife",
+      "value": "adonisjs",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "akeneo",
+    "product_id": "akeneo-pim",
+    "name": "Akeneo PIM",
+    "alias": {
+      "source": "endoflife",
+      "value": "akeneo-pim",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "alibaba-ack",
+    "product_id": "alibaba-ack",
+    "name": "Alibaba ACK",
+    "alias": {
+      "source": "endoflife",
+      "value": "alibaba-ack",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "alibaba-dragonwell",
+    "product_id": "alibaba-dragonwell",
+    "name": "Alibaba Dragonwell",
+    "alias": {
+      "source": "endoflife",
+      "value": "alibaba-dragonwell",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "almalinux",
+    "product_id": "almalinux",
+    "name": "AlmaLinux OS",
+    "alias": {
+      "source": "endoflife",
+      "value": "almalinux",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "alpinelinux",
+    "product_id": "alpine-linux",
+    "name": "Alpine Linux",
+    "alias": {
+      "source": "endoflife",
+      "value": "alpine-linux",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amauri",
+    "product_id": "tarteaucitron",
+    "name": "tarteaucitron",
+    "alias": {
+      "source": "endoflife",
+      "value": "tarteaucitron",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon",
+    "product_id": "amazon-cdk",
+    "name": "Amazon CDK",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-cdk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon",
+    "product_id": "amazon-corretto",
+    "name": "Amazon Corretto",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-corretto",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon",
+    "product_id": "amazon-linux",
+    "name": "Amazon Linux",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-linux",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon",
+    "product_id": "opensearch",
+    "name": "OpenSearch",
+    "alias": {
+      "source": "endoflife",
+      "value": "opensearch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-aurora-mysql",
+    "product_id": "amazon-aurora-mysql",
+    "name": "Amazon Aurora MySQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-aurora-mysql",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-aurora-postgresql",
+    "product_id": "amazon-aurora-postgresql",
+    "name": "Amazon Aurora PostgreSQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-aurora-postgresql",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-documentdb",
+    "product_id": "amazon-documentdb",
+    "name": "Amazon DocumentDB",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-documentdb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-eks",
+    "product_id": "amazon-eks",
+    "name": "Amazon EKS",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-eks",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-elasticache-redis",
+    "product_id": "amazon-elasticache-redis",
+    "name": "Amazon ElastiCache for Redis OSS",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-elasticache-redis",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-glue",
+    "product_id": "amazon-glue",
+    "name": "Amazon Glue",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-glue",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-mq-activemq",
+    "product_id": "amazon-mq-activemq",
+    "name": "Amazon MQ for ActiveMQ",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-mq-activemq",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-mq-rabbitmq",
+    "product_id": "amazon-mq-rabbitmq",
+    "name": "Amazon MQ for RabbitMQ",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-mq-rabbitmq",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-msk",
+    "product_id": "amazon-msk",
+    "name": "Amazon MSK",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-msk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-neptune",
+    "product_id": "amazon-neptune",
+    "name": "Amazon Neptune",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-neptune",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-opensearch",
+    "product_id": "amazon-opensearch",
+    "name": "Amazon OpenSearch",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-opensearch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-rds-mariadb",
+    "product_id": "amazon-rds-mariadb",
+    "name": "Amazon RDS for MariaDB",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-rds-mariadb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-rds-mysql",
+    "product_id": "amazon-rds-mysql",
+    "name": "Amazon RDS for MySQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-rds-mysql",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "amazon-rds-postgresql",
+    "product_id": "amazon-rds-postgresql",
+    "name": "Amazon RDS for PostgreSQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "amazon-rds-postgresql",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "angular",
+    "product_id": "angular",
+    "name": "Angular",
+    "alias": {
+      "source": "endoflife",
+      "value": "angular",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "angularjs",
+    "product_id": "angularjs",
+    "name": "AngularJS",
+    "alias": {
+      "source": "endoflife",
+      "value": "angularjs",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "antixlinux",
+    "product_id": "antix",
+    "name": "antiX Linux",
+    "alias": {
+      "source": "endoflife",
+      "value": "antix",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apache-artemis",
+    "product_id": "apache-artemis",
+    "name": "Apache Artemis",
+    "alias": {
+      "source": "endoflife",
+      "value": "apache-artemis",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apache-hop",
+    "product_id": "apache-hop",
+    "name": "Apache Hop",
+    "alias": {
+      "source": "endoflife",
+      "value": "apache-hop",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apache-subversion",
+    "product_id": "apache-subversion",
+    "name": "Apache Subversion",
+    "alias": {
+      "source": "endoflife",
+      "value": "apache-subversion",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "api-platform",
+    "product_id": "api-platform",
+    "name": "API Platform",
+    "alias": {
+      "source": "endoflife",
+      "value": "api-platform",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apple-watch",
+    "product_id": "apple-watch",
+    "name": "Apple Watch",
+    "alias": {
+      "source": "endoflife",
+      "value": "apple-watch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "arangodb",
+    "product_id": "arangodb",
+    "name": "ArangoDB",
+    "alias": {
+      "source": "endoflife",
+      "value": "arangodb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "argo-cd",
+    "product_id": "argo-cd",
+    "name": "Argo CD",
+    "alias": {
+      "source": "endoflife",
+      "value": "argo-cd",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "argo-workflows",
+    "product_id": "argo-workflows",
+    "name": "Argo Workflows",
+    "alias": {
+      "source": "endoflife",
+      "value": "argo-workflows",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "aws-lambda",
+    "product_id": "aws-lambda",
+    "name": "AWS Lambda",
+    "alias": {
+      "source": "endoflife",
+      "value": "aws-lambda",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "azul",
+    "product_id": "azul-zulu",
+    "name": "Azul Zulu",
+    "alias": {
+      "source": "endoflife",
+      "value": "azul-zulu",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "azure-database-for-mysql",
+    "product_id": "azure-database-for-mysql",
+    "name": "Azure Database for MySQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "azure-database-for-mysql",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "azure-database-for-postgresql",
+    "product_id": "azure-database-for-postgresql",
+    "name": "Azure Database for PostgreSQL",
+    "alias": {
+      "source": "endoflife",
+      "value": "azure-database-for-postgresql",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "azure-kubernetes-service",
+    "product_id": "azure-kubernetes-service",
+    "name": "Azure Kubernetes Service",
+    "alias": {
+      "source": "endoflife",
+      "value": "azure-kubernetes-service",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "backdropcms",
+    "product_id": "backdrop",
+    "name": "Backdrop",
+    "alias": {
+      "source": "endoflife",
+      "value": "backdrop",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "behat",
+    "product_id": "behat",
+    "name": "Behat",
+    "alias": {
+      "source": "endoflife",
+      "value": "behat",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "bellsoft-liberica",
+    "product_id": "bellsoft-liberica",
+    "name": "Bellsoft Liberica JDK",
+    "alias": {
+      "source": "endoflife",
+      "value": "bellsoft-liberica",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "big-ip",
+    "product_id": "big-ip",
+    "name": "BIG-IP",
+    "alias": {
+      "source": "endoflife",
+      "value": "big-ip",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "bigbluebutton",
+    "product_id": "bigbluebutton",
+    "name": "BigBlueButton",
+    "alias": {
+      "source": "endoflife",
+      "value": "bigbluebutton",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "bigbluebutton",
+    "product_id": "greenlight",
+    "name": "Greenlight",
+    "alias": {
+      "source": "endoflife",
+      "value": "greenlight",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "bitcoin-core",
+    "product_id": "bitcoin-core",
+    "name": "Bitcoin Core",
+    "alias": {
+      "source": "endoflife",
+      "value": "bitcoin-core",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "blender",
+    "product_id": "blender",
+    "name": "Blender",
+    "alias": {
+      "source": "endoflife",
+      "value": "blender",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "bmc",
+    "product_id": "controlm",
+    "name": "Control-M",
+    "alias": {
+      "source": "endoflife",
+      "value": "controlm",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "bootstrap",
+    "product_id": "bootstrap",
+    "name": "Bootstrap",
+    "alias": {
+      "source": "endoflife",
+      "value": "bootstrap",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "bun",
+    "product_id": "bun",
+    "name": "Bun",
+    "alias": {
+      "source": "endoflife",
+      "value": "bun",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cachet",
+    "product_id": "cachet",
+    "name": "Cachet",
+    "alias": {
+      "source": "endoflife",
+      "value": "cachet",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "caddyserver",
+    "product_id": "caddy",
+    "name": "Caddy",
+    "alias": {
+      "source": "endoflife",
+      "value": "caddy",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cakephp",
+    "product_id": "cakephp",
+    "name": "CakePHP",
+    "alias": {
+      "source": "endoflife",
+      "value": "cakephp",
+      "confidence": "auto"
     }
   },
   {
@@ -84,18 +2713,1305 @@
     "alias": {
       "source": "endoflife",
       "value": "ubuntu",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
-    "vendor_id": "docker",
-    "product_id": "docker-engine",
-    "name": "Docker Engine",
+    "vendor_id": "centos",
+    "product_id": "centos-stream",
+    "name": "CentOS Stream",
     "alias": {
       "source": "endoflife",
-      "value": "docker-engine",
-      "confidence": "curated"
+      "value": "centos-stream",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "centos",
+    "product_id": "centos",
+    "name": "CentOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "centos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "centreon",
+    "product_id": "centreon",
+    "name": "Centreon",
+    "alias": {
+      "source": "endoflife",
+      "value": "centreon",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cert-manager",
+    "product_id": "cert-manager",
+    "name": "cert-manager",
+    "alias": {
+      "source": "endoflife",
+      "value": "cert-manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "checkmk",
+    "product_id": "checkmk",
+    "name": "Checkmk",
+    "alias": {
+      "source": "endoflife",
+      "value": "checkmk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "chef",
+    "product_id": "chef-infra-client",
+    "name": "Chef Infra Client",
+    "alias": {
+      "source": "endoflife",
+      "value": "chef-infra-client",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "chef",
+    "product_id": "chef-inspec",
+    "name": "Chef InSpec",
+    "alias": {
+      "source": "endoflife",
+      "value": "chef-inspec",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "chef-supermarket",
+    "product_id": "chef-supermarket",
+    "name": "Chef Supermarket",
+    "alias": {
+      "source": "endoflife",
+      "value": "chef-supermarket",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "chef-workstation",
+    "product_id": "chef-workstation",
+    "name": "Chef Workstation",
+    "alias": {
+      "source": "endoflife",
+      "value": "chef-workstation",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cilium",
+    "product_id": "cilium",
+    "name": "Cilium",
+    "alias": {
+      "source": "endoflife",
+      "value": "cilium",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco-ios-xe",
+    "product_id": "cisco-ios-xe",
+    "name": "Cisco IOS XE",
+    "alias": {
+      "source": "endoflife",
+      "value": "cisco-ios-xe",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "citrix-vad",
+    "product_id": "citrix-vad",
+    "name": "Citrix Virtual Apps and Desktops",
+    "alias": {
+      "source": "endoflife",
+      "value": "citrix-vad",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ckeditor",
+    "product_id": "ckeditor",
+    "name": "CKEditor",
+    "alias": {
+      "source": "endoflife",
+      "value": "ckeditor",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "clamav",
+    "product_id": "clamav",
+    "name": "ClamAV",
+    "alias": {
+      "source": "endoflife",
+      "value": "clamav",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "claude",
+    "product_id": "claude",
+    "name": "Anthropic Claude",
+    "alias": {
+      "source": "endoflife",
+      "value": "claude",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "clickhouse",
+    "product_id": "clickhouse",
+    "name": "ClickHouse",
+    "alias": {
+      "source": "endoflife",
+      "value": "clickhouse",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cloud-sql-auth-proxy",
+    "product_id": "cloud-sql-auth-proxy",
+    "name": "Cloud SQL Auth Proxy",
+    "alias": {
+      "source": "endoflife",
+      "value": "cloud-sql-auth-proxy",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cnspec",
+    "product_id": "cnspec",
+    "name": "cnspec",
+    "alias": {
+      "source": "endoflife",
+      "value": "cnspec",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cockroachdb",
+    "product_id": "cockroachdb",
+    "name": "CockroachDB",
+    "alias": {
+      "source": "endoflife",
+      "value": "cockroachdb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "coder",
+    "product_id": "coder",
+    "name": "Coder",
+    "alias": {
+      "source": "endoflife",
+      "value": "coder",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "concretecms",
+    "product_id": "concrete-cms",
+    "name": "Concrete CMS",
+    "alias": {
+      "source": "endoflife",
+      "value": "concrete-cms",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "contao",
+    "product_id": "contao",
+    "name": "Contao",
+    "alias": {
+      "source": "endoflife",
+      "value": "contao",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cortex-xdr",
+    "product_id": "cortex-xdr",
+    "name": "Palo Alto Networks Cortex XDR agent",
+    "alias": {
+      "source": "endoflife",
+      "value": "cortex-xdr",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "couchbase",
+    "product_id": "couchbase-server",
+    "name": "Couchbase Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "couchbase-server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "dbt-core",
+    "product_id": "dbt-core",
+    "name": "dbt Core",
+    "alias": {
+      "source": "endoflife",
+      "value": "dbt-core",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "dce",
+    "product_id": "dce",
+    "name": "DaoCloud Enterprise",
+    "alias": {
+      "source": "endoflife",
+      "value": "dce",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "debian",
+    "product_id": "debian",
+    "name": "Debian",
+    "alias": {
+      "source": "endoflife",
+      "value": "debian",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "deno",
+    "product_id": "deno",
+    "name": "Deno",
+    "alias": {
+      "source": "endoflife",
+      "value": "deno",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "devuan",
+    "product_id": "devuan",
+    "name": "Devuan",
+    "alias": {
+      "source": "endoflife",
+      "value": "devuan",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "discourse",
+    "product_id": "discourse",
+    "name": "Discourse",
+    "alias": {
+      "source": "endoflife",
+      "value": "discourse",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "djangoproject",
+    "product_id": "django",
+    "name": "Django",
+    "alias": {
+      "source": "endoflife",
+      "value": "django",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "dotnetfx",
+    "product_id": "dotnetfx",
+    "name": "Microsoft .NET Framework",
+    "alias": {
+      "source": "endoflife",
+      "value": "dotnetfx",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "dovecot",
+    "product_id": "dovecot",
+    "name": "Dovecot",
+    "alias": {
+      "source": "endoflife",
+      "value": "dovecot",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "dovecot",
+    "product_id": "pigeonhole",
+    "name": "Pigeonhole",
+    "alias": {
+      "source": "endoflife",
+      "value": "pigeonhole",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "dropwizard",
+    "product_id": "dropwizard",
+    "name": "Dropwizard",
+    "alias": {
+      "source": "endoflife",
+      "value": "dropwizard",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "drush",
+    "product_id": "drush",
+    "name": "Drush",
+    "alias": {
+      "source": "endoflife",
+      "value": "drush",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "duckdb",
+    "product_id": "duckdb",
+    "name": "DuckDB",
+    "alias": {
+      "source": "endoflife",
+      "value": "duckdb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "eclipse",
+    "product_id": "eclipse-jetty",
+    "name": "Eclipse Jetty",
+    "alias": {
+      "source": "endoflife",
+      "value": "eclipse-jetty",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "eclipse",
+    "product_id": "eclipse-temurin",
+    "name": "Eclipse Temurin",
+    "alias": {
+      "source": "endoflife",
+      "value": "eclipse-temurin",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "electronjs",
+    "product_id": "electron",
+    "name": "Electron",
+    "alias": {
+      "source": "endoflife",
+      "value": "electron",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "elixir",
+    "product_id": "elixir",
+    "name": "Elixir",
+    "alias": {
+      "source": "endoflife",
+      "value": "elixir",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "emberjs",
+    "product_id": "emberjs",
+    "name": "Ember",
+    "alias": {
+      "source": "endoflife",
+      "value": "emberjs",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "envoyproxy",
+    "product_id": "envoy",
+    "name": "Envoy",
+    "alias": {
+      "source": "endoflife",
+      "value": "envoy",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "etcd",
+    "product_id": "etcd",
+    "name": "etcd",
+    "alias": {
+      "source": "endoflife",
+      "value": "etcd",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "eurolinux",
+    "product_id": "eurolinux",
+    "name": "EuroLinux",
+    "alias": {
+      "source": "endoflife",
+      "value": "eurolinux",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "facebook",
+    "product_id": "react-native",
+    "name": "React Native",
+    "alias": {
+      "source": "endoflife",
+      "value": "react-native",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "facebook",
+    "product_id": "react",
+    "name": "React",
+    "alias": {
+      "source": "endoflife",
+      "value": "react",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fairphone",
+    "product_id": "fairphone",
+    "name": "Fairphone",
+    "alias": {
+      "source": "endoflife",
+      "value": "fairphone",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fedoraproject",
+    "product_id": "fedora",
+    "name": "Fedora Linux",
+    "alias": {
+      "source": "endoflife",
+      "value": "fedora",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ffmpeg",
+    "product_id": "ffmpeg",
+    "name": "FFmpeg",
+    "alias": {
+      "source": "endoflife",
+      "value": "ffmpeg",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "filemaker",
+    "product_id": "filemaker",
+    "name": "FileMaker Platform",
+    "alias": {
+      "source": "endoflife",
+      "value": "filemaker",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fluent-bit",
+    "product_id": "fluent-bit",
+    "name": "Fluent Bit",
+    "alias": {
+      "source": "endoflife",
+      "value": "fluent-bit",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fluxcd",
+    "product_id": "flux",
+    "name": "Flux",
+    "alias": {
+      "source": "endoflife",
+      "value": "flux",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fontawesome",
+    "product_id": "font-awesome",
+    "name": "Font Awesome",
+    "alias": {
+      "source": "endoflife",
+      "value": "font-awesome",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "forgejo",
+    "product_id": "forgejo",
+    "name": "Forgejo",
+    "alias": {
+      "source": "endoflife",
+      "value": "forgejo",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "freebsd",
+    "product_id": "freebsd",
+    "name": "FreeBSD",
+    "alias": {
+      "source": "endoflife",
+      "value": "freebsd",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "freedesktop-sdk",
+    "product_id": "freedesktop-sdk",
+    "name": "Freedesktop SDK",
+    "alias": {
+      "source": "endoflife",
+      "value": "freedesktop-sdk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "getcomposer",
+    "product_id": "composer",
+    "name": "Composer",
+    "alias": {
+      "source": "endoflife",
+      "value": "composer",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "getkirby",
+    "product_id": "kirby",
+    "name": "Kirby",
+    "alias": {
+      "source": "endoflife",
+      "value": "kirby",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ghc",
+    "product_id": "ghc",
+    "name": "Glasgow Haskell Compiler (GHC)",
+    "alias": {
+      "source": "endoflife",
+      "value": "ghc",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "github-actions-runner-images",
+    "product_id": "github-actions-runner-images",
+    "name": "GitHub Actions Runner Images",
+    "alias": {
+      "source": "endoflife",
+      "value": "github-actions-runner-images",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "gleam",
+    "product_id": "gleam",
+    "name": "Gleam",
+    "alias": {
+      "source": "endoflife",
+      "value": "gleam",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "goaccess",
+    "product_id": "goaccess",
+    "name": "GoAccess",
+    "alias": {
+      "source": "endoflife",
+      "value": "goaccess",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "goauthentik",
+    "product_id": "authentik",
+    "name": "authentik",
+    "alias": {
+      "source": "endoflife",
+      "value": "authentik",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "godotengine",
+    "product_id": "godot",
+    "name": "Godot",
+    "alias": {
+      "source": "endoflife",
+      "value": "godot",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "golang",
+    "product_id": "go",
+    "name": "Go",
+    "alias": {
+      "source": "endoflife",
+      "value": "go",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "google-kubernetes-engine",
+    "product_id": "google-kubernetes-engine",
+    "name": "Google Kubernetes Engine",
+    "alias": {
+      "source": "endoflife",
+      "value": "google-kubernetes-engine",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "google-nexus",
+    "product_id": "google-nexus",
+    "name": "Google Nexus",
+    "alias": {
+      "source": "endoflife",
+      "value": "google-nexus",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "gorilla",
+    "product_id": "gorilla",
+    "name": "Gorilla Toolkit",
+    "alias": {
+      "source": "endoflife",
+      "value": "gorilla",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "goteleport",
+    "product_id": "teleport",
+    "name": "Teleport",
+    "alias": {
+      "source": "endoflife",
+      "value": "teleport",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "gradle",
+    "product_id": "gradle",
+    "name": "Gradle",
+    "alias": {
+      "source": "endoflife",
+      "value": "gradle",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "grafana",
+    "product_id": "grafana-loki",
+    "name": "Grafana Loki",
+    "alias": {
+      "source": "endoflife",
+      "value": "grafana-loki",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "grafana",
+    "product_id": "grafana",
+    "name": "Grafana",
+    "alias": {
+      "source": "endoflife",
+      "value": "grafana",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "graylog",
+    "product_id": "graylog",
+    "name": "Graylog",
+    "alias": {
+      "source": "endoflife",
+      "value": "graylog",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "grumphp",
+    "product_id": "grumphp",
+    "name": "GrumPHP",
+    "alias": {
+      "source": "endoflife",
+      "value": "grumphp",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "gruntjs",
+    "product_id": "grunt",
+    "name": "Grunt",
+    "alias": {
+      "source": "endoflife",
+      "value": "grunt",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "gstreamer",
+    "product_id": "gstreamer",
+    "name": "GStreamer",
+    "alias": {
+      "source": "endoflife",
+      "value": "gstreamer",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "guzzlephp",
+    "product_id": "guzzle",
+    "name": "Guzzle",
+    "alias": {
+      "source": "endoflife",
+      "value": "guzzle",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "haproxy",
+    "product_id": "haproxy",
+    "name": "HAProxy",
+    "alias": {
+      "source": "endoflife",
+      "value": "haproxy",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "haproxy-ingress",
+    "product_id": "haproxy-ingress",
+    "name": "HAProxy Ingress",
+    "alias": {
+      "source": "endoflife",
+      "value": "haproxy-ingress",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "hashicorp",
+    "product_id": "boundary",
+    "name": "Hashicorp Boundary",
+    "alias": {
+      "source": "endoflife",
+      "value": "boundary",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "hashicorp",
+    "product_id": "consul",
+    "name": "Hashicorp Consul",
+    "alias": {
+      "source": "endoflife",
+      "value": "consul",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "hashicorp",
+    "product_id": "hashicorp-packer",
+    "name": "Hashicorp Packer",
+    "alias": {
+      "source": "endoflife",
+      "value": "hashicorp-packer",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "hashicorp",
+    "product_id": "hashicorp-vault",
+    "name": "Hashicorp Vault",
+    "alias": {
+      "source": "endoflife",
+      "value": "hashicorp-vault",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "hashicorp",
+    "product_id": "nomad",
+    "name": "Nomad",
+    "alias": {
+      "source": "endoflife",
+      "value": "nomad",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "hashicorp",
+    "product_id": "terraform",
+    "name": "Hashicorp Terraform",
+    "alias": {
+      "source": "endoflife",
+      "value": "terraform",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "hibernate",
+    "product_id": "hibernate-orm",
+    "name": "Hibernate ORM",
+    "alias": {
+      "source": "endoflife",
+      "value": "hibernate-orm",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "horizon",
+    "product_id": "horizon",
+    "name": "Omnissa Horizon",
+    "alias": {
+      "source": "endoflife",
+      "value": "horizon",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ibm-i",
+    "product_id": "ibm-i",
+    "name": "IBM iSeries",
+    "alias": {
+      "source": "endoflife",
+      "value": "ibm-i",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ibm-semeru-runtime",
+    "product_id": "ibm-semeru-runtime",
+    "name": "IBM Semeru Runtime",
+    "alias": {
+      "source": "endoflife",
+      "value": "ibm-semeru-runtime",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "icinga",
+    "product_id": "icinga-web",
+    "name": "Icinga Web",
+    "alias": {
+      "source": "endoflife",
+      "value": "icinga-web",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "icinga",
+    "product_id": "icinga",
+    "name": "Icinga",
+    "alias": {
+      "source": "endoflife",
+      "value": "icinga",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "idl",
+    "product_id": "idl",
+    "name": "IDL",
+    "alias": {
+      "source": "endoflife",
+      "value": "idl",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "influxdata",
+    "product_id": "influxdb",
+    "name": "InfluxDB",
+    "alias": {
+      "source": "endoflife",
+      "value": "influxdb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "intel-processors",
+    "product_id": "intel-processors",
+    "name": "Intel Processors",
+    "alias": {
+      "source": "endoflife",
+      "value": "intel-processors",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "internet-explorer",
+    "product_id": "internet-explorer",
+    "name": "Internet Explorer",
+    "alias": {
+      "source": "endoflife",
+      "value": "internet-explorer",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ionic",
+    "product_id": "ionic",
+    "name": "Ionic Framework",
+    "alias": {
+      "source": "endoflife",
+      "value": "ionic",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ios",
+    "product_id": "ios",
+    "name": "Apple iOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "ios",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ipad",
+    "product_id": "ipad",
+    "name": "Apple iPad",
+    "alias": {
+      "source": "endoflife",
+      "value": "ipad",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ipados",
+    "product_id": "ipados",
+    "name": "Apple iPadOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "ipados",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "iphone",
+    "product_id": "iphone",
+    "name": "Apple iPhone",
+    "alias": {
+      "source": "endoflife",
+      "value": "iphone",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "isc-dhcp",
+    "product_id": "isc-dhcp",
+    "name": "ISC DHCP",
+    "alias": {
+      "source": "endoflife",
+      "value": "isc-dhcp",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "istio",
+    "product_id": "istio",
+    "name": "Istio",
+    "alias": {
+      "source": "endoflife",
+      "value": "istio",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "jekyllrb",
+    "product_id": "jekyll",
+    "name": "Jekyll",
+    "alias": {
+      "source": "endoflife",
+      "value": "jekyll",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "jfrog",
+    "product_id": "artifactory",
+    "name": "Artifactory",
+    "alias": {
+      "source": "endoflife",
+      "value": "artifactory",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "jhipster",
+    "product_id": "jhipster",
+    "name": "JHipster",
+    "alias": {
+      "source": "endoflife",
+      "value": "jhipster",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "joinmastodon",
+    "product_id": "mastodon",
+    "name": "Mastodon",
+    "alias": {
+      "source": "endoflife",
+      "value": "mastodon",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "jquery-ui",
+    "product_id": "jquery-ui",
+    "name": "jQuery UI",
+    "alias": {
+      "source": "endoflife",
+      "value": "jquery-ui",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "jreleaser",
+    "product_id": "jreleaser",
+    "name": "JReleaser",
+    "alias": {
+      "source": "endoflife",
+      "value": "jreleaser",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "jruby",
+    "product_id": "jruby",
+    "name": "JRuby",
+    "alias": {
+      "source": "endoflife",
+      "value": "jruby",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "julialang",
+    "product_id": "julia",
+    "name": "Julia",
+    "alias": {
+      "source": "endoflife",
+      "value": "julia",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "karpenter",
+    "product_id": "karpenter",
+    "name": "Karpenter",
+    "alias": {
+      "source": "endoflife",
+      "value": "karpenter",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "kde",
+    "product_id": "kde-plasma",
+    "name": "KDE Plasma",
+    "alias": {
+      "source": "endoflife",
+      "value": "kde-plasma",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "keda",
+    "product_id": "keda",
+    "name": "KEDA",
+    "alias": {
+      "source": "endoflife",
+      "value": "keda",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "kindle",
+    "product_id": "kindle",
+    "name": "Amazon Kindle",
+    "alias": {
+      "source": "endoflife",
+      "value": "kindle",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "knative",
+    "product_id": "knative",
+    "name": "Knative",
+    "alias": {
+      "source": "endoflife",
+      "value": "knative",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "konghq",
+    "product_id": "kong-gateway",
+    "name": "Kong Gateway",
+    "alias": {
+      "source": "endoflife",
+      "value": "kong-gateway",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "kotlin",
+    "product_id": "kotlin",
+    "name": "Kotlin",
+    "alias": {
+      "source": "endoflife",
+      "value": "kotlin",
+      "confidence": "auto"
     }
   },
   {
@@ -106,51 +4022,953 @@
     "alias": {
       "source": "endoflife",
       "value": "kubernetes",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
-    "vendor_id": "microsoft",
-    "product_id": "windows-server",
-    "name": "Windows Server",
+    "vendor_id": "kubernetes-csi-node-driver-registrar",
+    "product_id": "kubernetes-csi-node-driver-registrar",
+    "name": "Kubernetes CSI Node Driver Registrar",
     "alias": {
       "source": "endoflife",
-      "value": "windows-server",
-      "confidence": "curated"
+      "value": "kubernetes-csi-node-driver-registrar",
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
-    "vendor_id": "mysql",
-    "product_id": "mysql",
-    "name": "MySQL",
+    "vendor_id": "kubernetes-node-feature-discovery",
+    "product_id": "kubernetes-node-feature-discovery",
+    "name": "Kubernetes Node Feature Discovery",
     "alias": {
       "source": "endoflife",
-      "value": "mysql",
-      "confidence": "curated"
+      "value": "kubernetes-node-feature-discovery",
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
-    "vendor_id": "nginx",
-    "product_id": "nginx",
-    "name": "NGINX",
+    "vendor_id": "kuma",
+    "product_id": "kuma",
+    "name": "Kuma",
     "alias": {
       "source": "endoflife",
-      "value": "nginx",
-      "confidence": "curated"
+      "value": "kuma",
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
-    "vendor_id": "openssl",
-    "product_id": "openssl",
-    "name": "OpenSSL",
+    "vendor_id": "kyverno",
+    "product_id": "kyverno",
+    "name": "Kyverno",
     "alias": {
       "source": "endoflife",
-      "value": "openssl",
-      "confidence": "curated"
+      "value": "kyverno",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ldap-account-manager",
+    "product_id": "ldap-account-manager",
+    "name": "LDAP Account Manager",
+    "alias": {
+      "source": "endoflife",
+      "value": "ldap-account-manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "lfprojects",
+    "product_id": "valkey",
+    "name": "Valkey",
+    "alias": {
+      "source": "endoflife",
+      "value": "valkey",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "libreoffice",
+    "product_id": "libreoffice",
+    "name": "LibreOffice",
+    "alias": {
+      "source": "endoflife",
+      "value": "libreoffice",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "lineageos",
+    "product_id": "lineageos",
+    "name": "LineageOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "lineageos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "linuxfoundation",
+    "product_id": "containerd",
+    "name": "containerd",
+    "alias": {
+      "source": "endoflife",
+      "value": "containerd",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "linuxfoundation",
+    "product_id": "harbor",
+    "name": "Harbor",
+    "alias": {
+      "source": "endoflife",
+      "value": "harbor",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "linuxfoundation",
+    "product_id": "jaeger",
+    "name": "Jaeger",
+    "alias": {
+      "source": "endoflife",
+      "value": "jaeger",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "linuxfoundation",
+    "product_id": "vitess",
+    "name": "Vitess",
+    "alias": {
+      "source": "endoflife",
+      "value": "vitess",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "linuxfoundation",
+    "product_id": "yocto",
+    "name": "Yocto Project",
+    "alias": {
+      "source": "endoflife",
+      "value": "yocto",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "linuxmint",
+    "product_id": "linuxmint",
+    "name": "Linux Mint",
+    "alias": {
+      "source": "endoflife",
+      "value": "linuxmint",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "liquibase",
+    "product_id": "liquibase",
+    "name": "Liquibase",
+    "alias": {
+      "source": "endoflife",
+      "value": "liquibase",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "longhorn",
+    "product_id": "longhorn",
+    "name": "Longhorn",
+    "alias": {
+      "source": "endoflife",
+      "value": "longhorn",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "lua",
+    "product_id": "lua",
+    "name": "Lua",
+    "alias": {
+      "source": "endoflife",
+      "value": "lua",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mageia",
+    "product_id": "mageia",
+    "name": "Mageia",
+    "alias": {
+      "source": "endoflife",
+      "value": "mageia",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "magento",
+    "product_id": "magento",
+    "name": "Magento",
+    "alias": {
+      "source": "endoflife",
+      "value": "magento",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mandrel",
+    "product_id": "mandrel",
+    "name": "Mandrel",
+    "alias": {
+      "source": "endoflife",
+      "value": "mandrel",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mariadb",
+    "product_id": "mariadb",
+    "name": "MariaDB",
+    "alias": {
+      "source": "endoflife",
+      "value": "mariadb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "matomo",
+    "product_id": "matomo",
+    "name": "Matomo",
+    "alias": {
+      "source": "endoflife",
+      "value": "matomo",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mattermost",
+    "product_id": "mattermost",
+    "name": "Mattermost",
+    "alias": {
+      "source": "endoflife",
+      "value": "mattermost",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mautic",
+    "product_id": "mautic",
+    "name": "Mautic",
+    "alias": {
+      "source": "endoflife",
+      "value": "mautic",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mediawiki",
+    "product_id": "mediawiki",
+    "name": "MediaWiki",
+    "alias": {
+      "source": "endoflife",
+      "value": "mediawiki",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "meilisearch",
+    "product_id": "meilisearch",
+    "name": "Meilisearch",
+    "alias": {
+      "source": "endoflife",
+      "value": "meilisearch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "memcached",
+    "product_id": "memcached",
+    "name": "Memcached",
+    "alias": {
+      "source": "endoflife",
+      "value": "memcached",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "metallb",
+    "product_id": "metallb",
+    "name": "MetalLB",
+    "alias": {
+      "source": "endoflife",
+      "value": "metallb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "micronaut",
+    "product_id": "micronaut",
+    "name": "Micronaut Framework",
+    "alias": {
+      "source": "endoflife",
+      "value": "micronaut",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft-build-of-openjdk",
+    "product_id": "microsoft-build-of-openjdk",
+    "name": "Microsoft Build of OpenJDK",
+    "alias": {
+      "source": "endoflife",
+      "value": "microsoft-build-of-openjdk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "moodle",
+    "product_id": "moodle",
+    "name": "Moodle",
+    "alias": {
+      "source": "endoflife",
+      "value": "moodle",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "motorola-mobility",
+    "product_id": "motorola-mobility",
+    "name": "Motorola Mobility",
+    "alias": {
+      "source": "endoflife",
+      "value": "motorola-mobility",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mulesoft-runtime",
+    "product_id": "mulesoft-runtime",
+    "name": "Mule Runtime",
+    "alias": {
+      "source": "endoflife",
+      "value": "mulesoft-runtime",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mxlinux",
+    "product_id": "mxlinux",
+    "name": "MX Linux",
+    "alias": {
+      "source": "endoflife",
+      "value": "mxlinux",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "neo4j",
+    "product_id": "neo4j",
+    "name": "Neo4j",
+    "alias": {
+      "source": "endoflife",
+      "value": "neo4j",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "neos",
+    "product_id": "neos",
+    "name": "Neos",
+    "alias": {
+      "source": "endoflife",
+      "value": "neos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "netapp-ontap",
+    "product_id": "netapp-ontap",
+    "name": "NetApp ONTAP",
+    "alias": {
+      "source": "endoflife",
+      "value": "netapp-ontap",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "netbackup-appliance-os",
+    "product_id": "netbackup-appliance-os",
+    "name": "NetBackup Appliance OS",
+    "alias": {
+      "source": "endoflife",
+      "value": "netbackup-appliance-os",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "netbsd",
+    "product_id": "netbsd",
+    "name": "NetBSD",
+    "alias": {
+      "source": "endoflife",
+      "value": "netbsd",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nextcloud",
+    "product_id": "nextcloud",
+    "name": "Nextcloud",
+    "alias": {
+      "source": "endoflife",
+      "value": "nextcloud",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nextjs",
+    "product_id": "nextjs",
+    "name": "Next.js",
+    "alias": {
+      "source": "endoflife",
+      "value": "nextjs",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nix",
+    "product_id": "nix",
+    "name": "nix",
+    "alias": {
+      "source": "endoflife",
+      "value": "nix",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nixos",
+    "product_id": "nixos",
+    "name": "NixOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "nixos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nodejs",
+    "product_id": "nodejs",
+    "name": "Node.js",
+    "alias": {
+      "source": "endoflife",
+      "value": "nodejs",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nokia",
+    "product_id": "nokia",
+    "name": "Nokia Mobile",
+    "alias": {
+      "source": "endoflife",
+      "value": "nokia",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "notepad-plus-plus",
+    "product_id": "notepad-plus-plus",
+    "name": "Notepad++",
+    "alias": {
+      "source": "endoflife",
+      "value": "notepad-plus-plus",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "numpy",
+    "product_id": "numpy",
+    "name": "NumPy",
+    "alias": {
+      "source": "endoflife",
+      "value": "numpy",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nutanix-aos",
+    "product_id": "nutanix-aos",
+    "name": "Nutanix AOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "nutanix-aos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nutanix-files",
+    "product_id": "nutanix-files",
+    "name": "Nutanix Files",
+    "alias": {
+      "source": "endoflife",
+      "value": "nutanix-files",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nutanix-prism",
+    "product_id": "nutanix-prism",
+    "name": "Nutanix Prism Central",
+    "alias": {
+      "source": "endoflife",
+      "value": "nutanix-prism",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nuxt",
+    "product_id": "nuxt",
+    "name": "Nuxt",
+    "alias": {
+      "source": "endoflife",
+      "value": "nuxt",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nvidia",
+    "product_id": "nvidia",
+    "name": "NVIDIA Driver",
+    "alias": {
+      "source": "endoflife",
+      "value": "nvidia",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nvidia-gpu",
+    "product_id": "nvidia-gpu",
+    "name": "NVIDIA GPUs",
+    "alias": {
+      "source": "endoflife",
+      "value": "nvidia-gpu",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "nvm",
+    "product_id": "nvm",
+    "name": "nvm",
+    "alias": {
+      "source": "endoflife",
+      "value": "nvm",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "oneplus",
+    "product_id": "oneplus",
+    "name": "OnePlus",
+    "alias": {
+      "source": "endoflife",
+      "value": "oneplus",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "oniguruma-project",
+    "product_id": "oniguruma",
+    "name": "Oniguruma",
+    "alias": {
+      "source": "endoflife",
+      "value": "oniguruma",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "openbao",
+    "product_id": "openbao",
+    "name": "OpenBao",
+    "alias": {
+      "source": "endoflife",
+      "value": "openbao",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "openjsf",
+    "product_id": "eslint",
+    "name": "ESLint",
+    "alias": {
+      "source": "endoflife",
+      "value": "eslint",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "openjsf",
+    "product_id": "express",
+    "name": "Express",
+    "alias": {
+      "source": "endoflife",
+      "value": "express",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "openpolicyagent",
+    "product_id": "gatekeeper",
+    "name": "Gatekeeper",
+    "alias": {
+      "source": "endoflife",
+      "value": "gatekeeper",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "opensuse",
+    "product_id": "opensuse",
+    "name": "openSUSE",
+    "alias": {
+      "source": "endoflife",
+      "value": "opensuse",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "opentofu",
+    "product_id": "opentofu",
+    "name": "OpenTofu",
+    "alias": {
+      "source": "endoflife",
+      "value": "opentofu",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "openvpn",
+    "product_id": "openvpn",
+    "name": "OpenVPN",
+    "alias": {
+      "source": "endoflife",
+      "value": "openvpn",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "openwrt",
+    "product_id": "openwrt",
+    "name": "OpenWrt",
+    "alias": {
+      "source": "endoflife",
+      "value": "openwrt",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "openzfs",
+    "product_id": "openzfs",
+    "name": "OpenZFS",
+    "alias": {
+      "source": "endoflife",
+      "value": "openzfs",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "opnsense",
+    "product_id": "opnsense",
+    "name": "OPNsense",
+    "alias": {
+      "source": "endoflife",
+      "value": "opnsense",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "oracle-apex",
+    "product_id": "oracle-apex",
+    "name": "Oracle APEX",
+    "alias": {
+      "source": "endoflife",
+      "value": "oracle-apex",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "oracle-database",
+    "product_id": "oracle-database",
+    "name": "Oracle Database",
+    "alias": {
+      "source": "endoflife",
+      "value": "oracle-database",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "oracle-graalvm",
+    "product_id": "oracle-graalvm",
+    "name": "Oracle GraalVM",
+    "alias": {
+      "source": "endoflife",
+      "value": "oracle-graalvm",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "oracle-solaris",
+    "product_id": "oracle-solaris",
+    "name": "Oracle Solaris",
+    "alias": {
+      "source": "endoflife",
+      "value": "oracle-solaris",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "otobo",
+    "product_id": "otobo",
+    "name": "OTOBO",
+    "alias": {
+      "source": "endoflife",
+      "value": "otobo",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ovirt",
+    "product_id": "ovirt",
+    "name": "oVirt",
+    "alias": {
+      "source": "endoflife",
+      "value": "ovirt",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "owasp",
+    "product_id": "dependency-track",
+    "name": "Dependency-Track",
+    "alias": {
+      "source": "endoflife",
+      "value": "dependency-track",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "panos",
+    "product_id": "panos",
+    "name": "Palo Alto Networks PAN-OS",
+    "alias": {
+      "source": "endoflife",
+      "value": "panos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "pci-dss",
+    "product_id": "pci-dss",
+    "name": "PCI-DSS",
+    "alias": {
+      "source": "endoflife",
+      "value": "pci-dss",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "phoenix-framework",
+    "product_id": "phoenix-framework",
+    "name": "Phoenix Framework",
+    "alias": {
+      "source": "endoflife",
+      "value": "phoenix-framework",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "phpbb",
+    "product_id": "phpbb",
+    "name": "phpBB",
+    "alias": {
+      "source": "endoflife",
+      "value": "phpbb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "pivotal-software",
+    "product_id": "rabbitmq",
+    "name": "RabbitMQ",
+    "alias": {
+      "source": "endoflife",
+      "value": "rabbitmq",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "pixel",
+    "product_id": "pixel",
+    "name": "Google Pixel",
+    "alias": {
+      "source": "endoflife",
+      "value": "pixel",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "pixel-watch",
+    "product_id": "pixel-watch",
+    "name": "Google Pixel Watch",
+    "alias": {
+      "source": "endoflife",
+      "value": "pixel-watch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "plesk",
+    "product_id": "plesk",
+    "name": "Plesk",
+    "alias": {
+      "source": "endoflife",
+      "value": "plesk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "plone",
+    "product_id": "plone",
+    "name": "Plone",
+    "alias": {
+      "source": "endoflife",
+      "value": "plone",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "pnpm",
+    "product_id": "pnpm",
+    "name": "pnpm",
+    "alias": {
+      "source": "endoflife",
+      "value": "pnpm",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "podman-project",
+    "product_id": "podman",
+    "name": "Podman",
+    "alias": {
+      "source": "endoflife",
+      "value": "podman",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "pop-os",
+    "product_id": "pop-os",
+    "name": "Pop!_OS",
+    "alias": {
+      "source": "endoflife",
+      "value": "pop-os",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "postfix",
+    "product_id": "postfix",
+    "name": "Postfix",
+    "alias": {
+      "source": "endoflife",
+      "value": "postfix",
+      "confidence": "auto"
     }
   },
   {
@@ -161,7 +4979,139 @@
     "alias": {
       "source": "endoflife",
       "value": "postgresql",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "postmarketos",
+    "product_id": "postmarketos",
+    "name": "postmarketOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "postmarketos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "privatebin",
+    "product_id": "privatebin",
+    "name": "PrivateBin",
+    "alias": {
+      "source": "endoflife",
+      "value": "privatebin",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "proftpd",
+    "product_id": "proftpd",
+    "name": "ProFTPD",
+    "alias": {
+      "source": "endoflife",
+      "value": "proftpd",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "projectcalico",
+    "product_id": "calico",
+    "name": "Calico",
+    "alias": {
+      "source": "endoflife",
+      "value": "calico",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "projectcontour",
+    "product_id": "contour",
+    "name": "Contour",
+    "alias": {
+      "source": "endoflife",
+      "value": "contour",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "prometheus",
+    "product_id": "prometheus",
+    "name": "Prometheus",
+    "alias": {
+      "source": "endoflife",
+      "value": "prometheus",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "protractor",
+    "product_id": "protractor",
+    "name": "Protractor",
+    "alias": {
+      "source": "endoflife",
+      "value": "protractor",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "proxmox",
+    "product_id": "proxmox-ve",
+    "name": "Proxmox VE",
+    "alias": {
+      "source": "endoflife",
+      "value": "proxmox-ve",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "proxmox-backup-server",
+    "product_id": "proxmox-backup-server",
+    "name": "Proxmox Backup Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "proxmox-backup-server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "proxmox-datacenter-manager",
+    "product_id": "proxmox-datacenter-manager",
+    "name": "Proxmox Datacenter Manager",
+    "alias": {
+      "source": "endoflife",
+      "value": "proxmox-datacenter-manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "proxmox-mail-gateway",
+    "product_id": "proxmox-mail-gateway",
+    "name": "Proxmox Mail Gateway",
+    "alias": {
+      "source": "endoflife",
+      "value": "proxmox-mail-gateway",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "puppet",
+    "product_id": "puppet",
+    "name": "Puppet",
+    "alias": {
+      "source": "endoflife",
+      "value": "puppet",
+      "confidence": "auto"
     }
   },
   {
@@ -172,29 +5122,997 @@
     "alias": {
       "source": "endoflife",
       "value": "python",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
-    "vendor_id": "redhat",
-    "product_id": "rhel",
-    "name": "Red Hat Enterprise Linux",
+    "vendor_id": "qt",
+    "product_id": "qt",
+    "name": "Qt",
     "alias": {
       "source": "endoflife",
-      "value": "rhel",
-      "confidence": "curated"
+      "value": "qt",
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
-    "vendor_id": "redis",
-    "product_id": "redis",
-    "name": "Redis",
+    "vendor_id": "quarkus",
+    "product_id": "quarkus-framework",
+    "name": "Quarkus",
     "alias": {
       "source": "endoflife",
-      "value": "redis",
-      "confidence": "curated"
+      "value": "quarkus-framework",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "quasar",
+    "product_id": "quasar",
+    "name": "Quasar",
+    "alias": {
+      "source": "endoflife",
+      "value": "quasar",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "raspberry-pi",
+    "product_id": "raspberry-pi",
+    "name": "Raspberry Pi",
+    "alias": {
+      "source": "endoflife",
+      "value": "raspberry-pi",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "redhat-build-of-openjdk",
+    "product_id": "redhat-build-of-openjdk",
+    "name": "Red Hat build of OpenJDK",
+    "alias": {
+      "source": "endoflife",
+      "value": "redhat-build-of-openjdk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "redhat-jboss-eap",
+    "product_id": "redhat-jboss-eap",
+    "name": "Red Hat JBoss Enterprise Application Platform",
+    "alias": {
+      "source": "endoflife",
+      "value": "redhat-jboss-eap",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "redhat-satellite",
+    "product_id": "redhat-satellite",
+    "name": "Red Hat Satellite",
+    "alias": {
+      "source": "endoflife",
+      "value": "redhat-satellite",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "redmine",
+    "product_id": "redmine",
+    "name": "Redmine",
+    "alias": {
+      "source": "endoflife",
+      "value": "redmine",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "renovate",
+    "product_id": "renovate",
+    "name": "Renovate CLI",
+    "alias": {
+      "source": "endoflife",
+      "value": "renovate",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "robo",
+    "product_id": "robo",
+    "name": "Robo",
+    "alias": {
+      "source": "endoflife",
+      "value": "robo",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "rocket-chat",
+    "product_id": "rocket-chat",
+    "name": "Rocket.Chat",
+    "alias": {
+      "source": "endoflife",
+      "value": "rocket-chat",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "rocky",
+    "product_id": "rocky-linux",
+    "name": "Rocky Linux",
+    "alias": {
+      "source": "endoflife",
+      "value": "rocky-linux",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ros",
+    "product_id": "ros",
+    "name": "ROS",
+    "alias": {
+      "source": "endoflife",
+      "value": "ros",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ros-2",
+    "product_id": "ros-2",
+    "name": "ROS 2",
+    "alias": {
+      "source": "endoflife",
+      "value": "ros-2",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "rtpengine",
+    "product_id": "rtpengine",
+    "name": "rtpengine",
+    "alias": {
+      "source": "endoflife",
+      "value": "rtpengine",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ruby-lang",
+    "product_id": "ruby",
+    "name": "Ruby",
+    "alias": {
+      "source": "endoflife",
+      "value": "ruby",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "rubyonrails",
+    "product_id": "rails",
+    "name": "Ruby on Rails",
+    "alias": {
+      "source": "endoflife",
+      "value": "rails",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "rust-lang",
+    "product_id": "rust",
+    "name": "Rust",
+    "alias": {
+      "source": "endoflife",
+      "value": "rust",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "samsung-galaxy-tab",
+    "product_id": "samsung-galaxy-tab",
+    "name": "Samsung Galaxy Tab",
+    "alias": {
+      "source": "endoflife",
+      "value": "samsung-galaxy-tab",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "samsung-galaxy-watch",
+    "product_id": "samsung-galaxy-watch",
+    "name": "Samsung Galaxy Watch",
+    "alias": {
+      "source": "endoflife",
+      "value": "samsung-galaxy-watch",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "samsung-mobile",
+    "product_id": "samsung-mobile",
+    "name": "Samsung Mobile",
+    "alias": {
+      "source": "endoflife",
+      "value": "samsung-mobile",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sapmachine",
+    "product_id": "sapmachine",
+    "name": "SapMachine",
+    "alias": {
+      "source": "endoflife",
+      "value": "sapmachine",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "scala-lang",
+    "product_id": "scala",
+    "name": "Scala",
+    "alias": {
+      "source": "endoflife",
+      "value": "scala",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sensiolabs",
+    "product_id": "symfony",
+    "name": "Symfony",
+    "alias": {
+      "source": "endoflife",
+      "value": "symfony",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sharepoint",
+    "product_id": "sharepoint",
+    "name": "Microsoft SharePoint",
+    "alias": {
+      "source": "endoflife",
+      "value": "sharepoint",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "shopware",
+    "product_id": "shopware",
+    "name": "Shopware",
+    "alias": {
+      "source": "endoflife",
+      "value": "shopware",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "silverstripe",
+    "product_id": "silverstripe",
+    "name": "Silverstripe CMS",
+    "alias": {
+      "source": "endoflife",
+      "value": "silverstripe",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "slackware",
+    "product_id": "slackware",
+    "name": "Slackware Linux",
+    "alias": {
+      "source": "endoflife",
+      "value": "slackware",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sns-firmware",
+    "product_id": "sns-firmware",
+    "name": "Stormshield Firmware",
+    "alias": {
+      "source": "endoflife",
+      "value": "sns-firmware",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sns-hardware",
+    "product_id": "sns-hardware",
+    "name": "Stormshield Firewall",
+    "alias": {
+      "source": "endoflife",
+      "value": "sns-hardware",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sns-smc",
+    "product_id": "sns-smc",
+    "name": "Stormshield Management Center",
+    "alias": {
+      "source": "endoflife",
+      "value": "sns-smc",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sonarqube-server",
+    "product_id": "sonarqube-server",
+    "name": "SonarQube Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "sonarqube-server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sonarsource",
+    "product_id": "sonarqube-community",
+    "name": "SonarQube Community Build",
+    "alias": {
+      "source": "endoflife",
+      "value": "sonarqube-community",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sony-xperia",
+    "product_id": "sony-xperia",
+    "name": "Sony Xperia",
+    "alias": {
+      "source": "endoflife",
+      "value": "sony-xperia",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sourcegraph",
+    "product_id": "sourcegraph",
+    "name": "Sourcegraph",
+    "alias": {
+      "source": "endoflife",
+      "value": "sourcegraph",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "spring-boot",
+    "product_id": "spring-boot",
+    "name": "Spring Boot",
+    "alias": {
+      "source": "endoflife",
+      "value": "spring-boot",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "spring-cloud",
+    "product_id": "spring-cloud",
+    "name": "Spring Cloud",
+    "alias": {
+      "source": "endoflife",
+      "value": "spring-cloud",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "spring-framework",
+    "product_id": "spring-framework",
+    "name": "Spring Framework",
+    "alias": {
+      "source": "endoflife",
+      "value": "spring-framework",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "spring-security",
+    "product_id": "spring-security",
+    "name": "Spring Security",
+    "alias": {
+      "source": "endoflife",
+      "value": "spring-security",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sqlite",
+    "product_id": "sqlite",
+    "name": "SQLite",
+    "alias": {
+      "source": "endoflife",
+      "value": "sqlite",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "squid-cache",
+    "product_id": "squid",
+    "name": "Squid",
+    "alias": {
+      "source": "endoflife",
+      "value": "squid",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "statamic",
+    "product_id": "statamic",
+    "name": "Statamic",
+    "alias": {
+      "source": "endoflife",
+      "value": "statamic",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "strapi",
+    "product_id": "strapi",
+    "name": "Strapi",
+    "alias": {
+      "source": "endoflife",
+      "value": "strapi",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "surface",
+    "product_id": "surface",
+    "name": "Microsoft Surface",
+    "alias": {
+      "source": "endoflife",
+      "value": "surface",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "suse",
+    "product_id": "rancher",
+    "name": "Rancher",
+    "alias": {
+      "source": "endoflife",
+      "value": "rancher",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "suse",
+    "product_id": "sles",
+    "name": "SUSE Linux Enterprise Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "sles",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "suse",
+    "product_id": "suse-linux-micro",
+    "name": "SUSE Linux Micro",
+    "alias": {
+      "source": "endoflife",
+      "value": "suse-linux-micro",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "suse-manager",
+    "product_id": "suse-manager",
+    "name": "SUSE Multi-Linux Manager",
+    "alias": {
+      "source": "endoflife",
+      "value": "suse-manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "svelte",
+    "product_id": "svelte",
+    "name": "Svelte",
+    "alias": {
+      "source": "endoflife",
+      "value": "svelte",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "tails-project",
+    "product_id": "tails",
+    "name": "Tails",
+    "alias": {
+      "source": "endoflife",
+      "value": "tails",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "tailwind-css",
+    "product_id": "tailwind-css",
+    "name": "Tailwind CSS",
+    "alias": {
+      "source": "endoflife",
+      "value": "tailwind-css",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "tarantool",
+    "product_id": "tarantool",
+    "name": "Tarantool",
+    "alias": {
+      "source": "endoflife",
+      "value": "tarantool",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "telegraf",
+    "product_id": "telegraf",
+    "name": "Telegraf",
+    "alias": {
+      "source": "endoflife",
+      "value": "telegraf",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "theforeman",
+    "product_id": "foreman",
+    "name": "Foreman",
+    "alias": {
+      "source": "endoflife",
+      "value": "foreman",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "thumbor",
+    "product_id": "thumbor",
+    "name": "Thumbor",
+    "alias": {
+      "source": "endoflife",
+      "value": "thumbor",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "tls",
+    "product_id": "tls",
+    "name": "TLS",
+    "alias": {
+      "source": "endoflife",
+      "value": "tls",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "torchbox",
+    "product_id": "wagtail",
+    "name": "Wagtail",
+    "alias": {
+      "source": "endoflife",
+      "value": "wagtail",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "traefik",
+    "product_id": "traefik",
+    "name": "Traefik",
+    "alias": {
+      "source": "endoflife",
+      "value": "traefik",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "truenas",
+    "product_id": "truenas",
+    "name": "TrueNAS",
+    "alias": {
+      "source": "endoflife",
+      "value": "truenas",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "twig",
+    "product_id": "twig",
+    "name": "Twig",
+    "alias": {
+      "source": "endoflife",
+      "value": "twig",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "typo3",
+    "product_id": "typo3",
+    "name": "TYPO3",
+    "alias": {
+      "source": "endoflife",
+      "value": "typo3",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "umbraco",
+    "product_id": "umbraco",
+    "name": "Umbraco CMS",
+    "alias": {
+      "source": "endoflife",
+      "value": "umbraco",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "unity",
+    "product_id": "unity",
+    "name": "Unity",
+    "alias": {
+      "source": "endoflife",
+      "value": "unity",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "unrealircd",
+    "product_id": "unrealircd",
+    "name": "UnrealIRCd",
+    "alias": {
+      "source": "endoflife",
+      "value": "unrealircd",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "valvesoftware",
+    "product_id": "steamos",
+    "name": "SteamOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "steamos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "varnish-cache-project",
+    "product_id": "vinyl-cache",
+    "name": "Vinyl Cache",
+    "alias": {
+      "source": "endoflife",
+      "value": "vinyl-cache",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "veeam-backup-and-replication",
+    "product_id": "veeam-backup-and-replication",
+    "name": "Veeam Backup & Replication",
+    "alias": {
+      "source": "endoflife",
+      "value": "veeam-backup-and-replication",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "veeam-backup-for-microsoft-365",
+    "product_id": "veeam-backup-for-microsoft-365",
+    "name": "Veeam Backup for Microsoft 365",
+    "alias": {
+      "source": "endoflife",
+      "value": "veeam-backup-for-microsoft-365",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "veeam-one",
+    "product_id": "veeam-one",
+    "name": "Veeam ONE",
+    "alias": {
+      "source": "endoflife",
+      "value": "veeam-one",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "visionos",
+    "product_id": "visionos",
+    "name": "Apple visionOS",
+    "alias": {
+      "source": "endoflife",
+      "value": "visionos",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "visual-cobol",
+    "product_id": "visual-cobol",
+    "name": "Visual COBOL",
+    "alias": {
+      "source": "endoflife",
+      "value": "visual-cobol",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "visual-studio",
+    "product_id": "visual-studio",
+    "name": "Microsoft Visual Studio",
+    "alias": {
+      "source": "endoflife",
+      "value": "visual-studio",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "vmware-cloud-foundation",
+    "product_id": "vmware-cloud-foundation",
+    "name": "VMware Cloud Foundation",
+    "alias": {
+      "source": "endoflife",
+      "value": "vmware-cloud-foundation",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "vmware-harbor-registry",
+    "product_id": "vmware-harbor-registry",
+    "name": "VMware Harbor Registry",
+    "alias": {
+      "source": "endoflife",
+      "value": "vmware-harbor-registry",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "vmware-srm",
+    "product_id": "vmware-srm",
+    "name": "VMware Site Recovery Manager",
+    "alias": {
+      "source": "endoflife",
+      "value": "vmware-srm",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "vue",
+    "product_id": "vue",
+    "name": "Vue",
+    "alias": {
+      "source": "endoflife",
+      "value": "vue",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "vuetifyjs",
+    "product_id": "vuetify",
+    "name": "Vuetify",
+    "alias": {
+      "source": "endoflife",
+      "value": "vuetify",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "weakforced",
+    "product_id": "weakforced",
+    "name": "Weakforced",
+    "alias": {
+      "source": "endoflife",
+      "value": "weakforced",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "weechat",
+    "product_id": "weechat",
+    "name": "WeeChat",
+    "alias": {
+      "source": "endoflife",
+      "value": "weechat",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "windows-embedded",
+    "product_id": "windows-embedded",
+    "name": "Microsoft Windows Embedded",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-embedded",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "windows-nano-server",
+    "product_id": "windows-nano-server",
+    "name": "Microsoft Nano Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-nano-server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "windows-powershell",
+    "product_id": "windows-powershell",
+    "name": "Microsoft Windows PowerShell",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-powershell",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "windows-server",
+    "product_id": "windows-server",
+    "name": "Microsoft Windows Server",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "windows-server-core",
+    "product_id": "windows-server-core",
+    "name": "Microsoft Windows Server Core",
+    "alias": {
+      "source": "endoflife",
+      "value": "windows-server-core",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "wireshark",
+    "product_id": "wireshark",
+    "name": "Wireshark",
+    "alias": {
+      "source": "endoflife",
+      "value": "wireshark",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "xcp-ng",
+    "product_id": "xcp-ng",
+    "name": "XCP-ng",
+    "alias": {
+      "source": "endoflife",
+      "value": "xcp-ng",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "yarnpkg",
+    "product_id": "yarn",
+    "name": "Yarn",
+    "alias": {
+      "source": "endoflife",
+      "value": "yarn",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "youtrack",
+    "product_id": "youtrack",
+    "name": "YouTrack",
+    "alias": {
+      "source": "endoflife",
+      "value": "youtrack",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "zentyal",
+    "product_id": "zentyal",
+    "name": "Zentyal",
+    "alias": {
+      "source": "endoflife",
+      "value": "zentyal",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "zerto",
+    "product_id": "zerto",
+    "name": "HPE Zerto",
+    "alias": {
+      "source": "endoflife",
+      "value": "zerto",
+      "confidence": "auto"
     }
   }
 ]

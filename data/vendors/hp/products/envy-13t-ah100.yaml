@@ -1,0 +1,10 @@
+id: envy-13t-ah100
+vendor_id: hp
+name: Envy - 13T-Ah100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_\-_13t\-ah100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_-_13t-ah100
+  confidence: auto

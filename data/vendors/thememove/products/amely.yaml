@@ -1,0 +1,10 @@
+id: amely
+vendor_id: thememove
+name: Amely
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:amely:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amely
+  confidence: auto

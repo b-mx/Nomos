@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "auto-maskin--dcu-210e-firmware",
+  "vendor_id": "auto-maskin",
+  "product_id": "dcu-210e-firmware",
+  "name": "Dcu 210E Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dcu_210e_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

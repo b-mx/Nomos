@@ -1,0 +1,10 @@
+id: matsuya
+vendor_id: linecorp
+name: Matsuya
+type: software
+tags: []
+cpe: cpe:2.3:a:linecorp:matsuya:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matsuya
+  confidence: auto

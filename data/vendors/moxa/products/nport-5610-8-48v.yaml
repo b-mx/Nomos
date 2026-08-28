@@ -1,0 +1,10 @@
+id: nport-5610-8-48v
+vendor_id: moxa
+name: Nport 5610-8-48V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_5610\-8\-48v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5610-8-48v
+  confidence: auto

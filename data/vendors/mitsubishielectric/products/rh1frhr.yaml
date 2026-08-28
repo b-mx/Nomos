@@ -1,0 +1,10 @@
+id: rh1frhr
+vendor_id: mitsubishielectric
+name: Rh1Frhr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rh1frhr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh1frhr
+  confidence: auto

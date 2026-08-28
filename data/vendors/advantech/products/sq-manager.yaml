@@ -1,0 +1,10 @@
+id: sq-manager
+vendor_id: advantech
+name: Sq Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:sq_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sq_manager
+  confidence: auto

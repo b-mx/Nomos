@@ -1,0 +1,10 @@
+id: ws318
+vendor_id: huawei
+name: Ws318
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ws318:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws318
+  confidence: auto

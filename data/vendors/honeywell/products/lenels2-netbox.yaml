@@ -1,0 +1,10 @@
+id: lenels2-netbox
+vendor_id: honeywell
+name: Lenels2 Netbox
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:lenels2_netbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenels2_netbox
+  confidence: auto

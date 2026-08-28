@@ -1,0 +1,10 @@
+id: mx-3116n-firmware
+vendor_id: sharp
+name: Mx-3116N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-3116n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-3116n_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wzr2-g300n
+vendor_id: buffalotech
+name: Wzr2-G300N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:wzr2\-g300n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr2-g300n
+  confidence: auto

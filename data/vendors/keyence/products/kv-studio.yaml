@@ -1,0 +1,10 @@
+id: kv-studio
+vendor_id: keyence
+name: Kv Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:keyence:kv_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kv_studio
+  confidence: auto

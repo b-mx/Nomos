@@ -1,0 +1,10 @@
+id: nec-x551uhd
+vendor_id: sharp
+name: Nec X551Uhd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:nec_x551uhd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_x551uhd
+  confidence: auto

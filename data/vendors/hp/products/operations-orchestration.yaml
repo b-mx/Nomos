@@ -1,0 +1,10 @@
+id: operations-orchestration
+vendor_id: hp
+name: Operations Orchestration
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:operations_orchestration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: operations_orchestration
+  confidence: auto

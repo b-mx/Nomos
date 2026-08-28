@@ -1,0 +1,10 @@
+id: a11-pstn-lcd-rfid-touch-alarm-system-firmware
+vendor_id: chuango
+name: A11 Pstn/Lcd/Rfid Touch Alarm System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chuango:a11_pstn\/lcd\/rfid_touch_alarm_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a11_pstn/lcd/rfid_touch_alarm_system_firmware
+  confidence: auto

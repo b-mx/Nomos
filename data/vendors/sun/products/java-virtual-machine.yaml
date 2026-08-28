@@ -1,0 +1,10 @@
+id: java-virtual-machine
+vendor_id: sun
+name: Java Virtual Machine
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_virtual_machine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_virtual_machine
+  confidence: auto

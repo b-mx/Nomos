@@ -1,0 +1,10 @@
+id: triton-web-filter
+vendor_id: websense
+name: Triton Web Filter
+type: software
+tags: []
+cpe: cpe:2.3:a:websense:triton_web_filter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: triton_web_filter
+  confidence: auto

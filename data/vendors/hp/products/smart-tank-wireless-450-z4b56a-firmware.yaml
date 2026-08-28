@@ -1,0 +1,10 @@
+id: smart-tank-wireless-450-z4b56a-firmware
+vendor_id: hp
+name: Smart Tank Wireless 450 Z4B56A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:smart_tank_wireless_450_z4b56a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_wireless_450_z4b56a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tvip-22500
+vendor_id: abus
+name: Tvip 22500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abus:tvip_22500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_22500
+  confidence: auto

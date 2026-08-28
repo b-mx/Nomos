@@ -1,0 +1,10 @@
+id: vr-backpack-g2
+vendor_id: hp
+name: Vr Backpack G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:vr_backpack_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vr_backpack_g2
+  confidence: auto

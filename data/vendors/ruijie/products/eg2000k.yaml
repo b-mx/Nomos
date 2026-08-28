@@ -1,0 +1,10 @@
+id: eg2000k
+vendor_id: ruijie
+name: Eg2000K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:eg2000k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eg2000k
+  confidence: auto

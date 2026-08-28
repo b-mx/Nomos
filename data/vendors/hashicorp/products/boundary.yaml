@@ -1,0 +1,13 @@
+id: boundary
+vendor_id: hashicorp
+name: Hashicorp Boundary
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:boundary:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: boundary
+  confidence: auto
+- source: nvd
+  value: boundary
+  confidence: auto

@@ -1,0 +1,10 @@
+id: interaction-center
+vendor_id: avaya
+name: Interaction Center
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:interaction_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interaction_center
+  confidence: auto

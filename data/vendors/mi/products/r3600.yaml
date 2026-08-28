@@ -1,0 +1,10 @@
+id: r3600
+vendor_id: mi
+name: R3600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:r3600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r3600
+  confidence: auto

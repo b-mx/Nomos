@@ -1,0 +1,10 @@
+id: mx-8081
+vendor_id: sharp
+name: Mx-8081
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-8081:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-8081
+  confidence: auto

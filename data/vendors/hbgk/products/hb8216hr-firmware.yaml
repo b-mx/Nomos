@@ -1,0 +1,10 @@
+id: hb8216hr-firmware
+vendor_id: hbgk
+name: Hb8216Hr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb8216hr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb8216hr_firmware
+  confidence: auto

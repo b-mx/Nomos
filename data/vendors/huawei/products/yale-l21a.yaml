@@ -1,0 +1,10 @@
+id: yale-l21a
+vendor_id: huawei
+name: Yale-L21A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:yale\-l21a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale-l21a
+  confidence: auto

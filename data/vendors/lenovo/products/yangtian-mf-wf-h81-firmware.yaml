@@ -1,0 +1,10 @@
+id: yangtian-mf-wf-h81-firmware
+vendor_id: lenovo
+name: Yangtian Mf/Wf H81 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yangtian_mf\/wf_h81_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_mf/wf_h81_firmware
+  confidence: auto

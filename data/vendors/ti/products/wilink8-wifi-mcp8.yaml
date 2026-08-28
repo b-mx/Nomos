@@ -1,0 +1,10 @@
+id: wilink8-wifi-mcp8
+vendor_id: ti
+name: Wilink8-Wifi-Mcp8
+type: software
+tags: []
+cpe: cpe:2.3:a:ti:wilink8\-wifi\-mcp8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wilink8-wifi-mcp8
+  confidence: auto

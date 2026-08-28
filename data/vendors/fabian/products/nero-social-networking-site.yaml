@@ -1,0 +1,10 @@
+id: nero-social-networking-site
+vendor_id: fabian
+name: Nero Social Networking Site
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:nero_social_networking_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nero_social_networking_site
+  confidence: auto

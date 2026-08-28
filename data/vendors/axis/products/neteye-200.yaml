@@ -1,0 +1,10 @@
+id: neteye-200
+vendor_id: axis
+name: Neteye 200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:neteye_200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neteye_200
+  confidence: auto

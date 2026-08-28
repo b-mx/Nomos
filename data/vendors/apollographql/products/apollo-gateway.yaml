@@ -1,0 +1,10 @@
+id: apollo-gateway
+vendor_id: apollographql
+name: Apollo Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:apollographql:apollo_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_gateway
+  confidence: auto

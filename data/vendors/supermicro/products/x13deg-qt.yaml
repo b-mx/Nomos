@@ -1,0 +1,10 @@
+id: x13deg-qt
+vendor_id: supermicro
+name: X13Deg-Qt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13deg\-qt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13deg-qt
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ntp-server-firmware
+vendor_id: meinberg
+name: Ntp Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meinberg:ntp_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ntp_server_firmware
+  confidence: auto

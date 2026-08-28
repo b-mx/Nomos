@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "festo--gateway-cpx-iot-firmware",
+  "vendor_id": "festo",
+  "product_id": "gateway-cpx-iot-firmware",
+  "name": "Gateway Cpx-Iot Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gateway_cpx-iot_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

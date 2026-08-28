@@ -1,0 +1,10 @@
+id: skyspider-mb-r210-firmware
+vendor_id: seiko-sol
+name: Skyspider Mb-R210 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seiko\-sol:skyspider_mb\-r210_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skyspider_mb-r210_firmware
+  confidence: auto

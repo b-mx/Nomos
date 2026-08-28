@@ -1,0 +1,10 @@
+id: responsive-blog-site
+vendor_id: fabian
+name: Responsive Blog Site
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:responsive_blog_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: responsive_blog_site
+  confidence: auto

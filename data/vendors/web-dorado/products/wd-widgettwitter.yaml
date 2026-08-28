@@ -1,0 +1,10 @@
+id: wd-widgettwitter
+vendor_id: web-dorado
+name: Wd Widgettwitter
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:wd_widgettwitter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wd_widgettwitter
+  confidence: auto

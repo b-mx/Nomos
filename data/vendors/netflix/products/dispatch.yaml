@@ -1,0 +1,10 @@
+id: dispatch
+vendor_id: netflix
+name: Dispatch
+type: software
+tags: []
+cpe: cpe:2.3:a:netflix:dispatch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dispatch
+  confidence: auto

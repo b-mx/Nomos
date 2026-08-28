@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "protocol--go-ipfs",
+  "vendor_id": "protocol",
+  "product_id": "go-ipfs",
+  "name": "Go-Ipfs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "go-ipfs",
+      "confidence": "auto"
+    }
+  ]
+}

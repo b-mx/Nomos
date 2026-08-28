@@ -1,0 +1,10 @@
+id: laserjet-m111e-7md68e-firmware
+vendor_id: hp
+name: Laserjet M111E 7Md68E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_m111e_7md68e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m111e_7md68e_firmware
+  confidence: auto

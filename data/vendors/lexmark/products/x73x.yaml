@@ -1,0 +1,10 @@
+id: x73x
+vendor_id: lexmark
+name: X73X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x73x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x73x
+  confidence: auto

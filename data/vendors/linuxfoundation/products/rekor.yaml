@@ -1,0 +1,10 @@
+id: rekor
+vendor_id: linuxfoundation
+name: Rekor
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:rekor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rekor
+  confidence: auto

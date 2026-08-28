@@ -1,0 +1,10 @@
+id: wireless-mobile-storage
+vendor_id: seagate
+name: Wireless Mobile Storage
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seagate:wireless_mobile_storage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireless_mobile_storage
+  confidence: auto

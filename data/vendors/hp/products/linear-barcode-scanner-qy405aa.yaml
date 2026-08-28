@@ -1,0 +1,10 @@
+id: linear-barcode-scanner-qy405aa
+vendor_id: hp
+name: Linear Barcode Scanner Qy405Aa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:linear_barcode_scanner_qy405aa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linear_barcode_scanner_qy405aa
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jd447a
+vendor_id: hp
+name: Jd447A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd447a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd447a
+  confidence: auto

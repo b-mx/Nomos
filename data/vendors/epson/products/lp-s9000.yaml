@@ -1,0 +1,10 @@
+id: lp-s9000
+vendor_id: epson
+name: Lp-S9000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:lp\-s9000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-s9000
+  confidence: auto

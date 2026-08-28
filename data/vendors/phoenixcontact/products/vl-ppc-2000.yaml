@@ -1,0 +1,10 @@
+id: vl-ppc-2000
+vendor_id: phoenixcontact
+name: Vl Ppc 2000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:vl_ppc_2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vl_ppc_2000
+  confidence: auto

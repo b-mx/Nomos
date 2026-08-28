@@ -1,0 +1,10 @@
+id: wapm-apg300n
+vendor_id: buffalo
+name: Wapm-Apg300N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wapm\-apg300n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wapm-apg300n
+  confidence: auto

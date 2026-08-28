@@ -1,0 +1,10 @@
+id: ep-902a
+vendor_id: epson
+name: Ep-902A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ep\-902a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep-902a
+  confidence: auto

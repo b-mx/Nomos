@@ -1,0 +1,10 @@
+id: omen-obelisk-875-1xxx
+vendor_id: hp
+name: Omen Obelisk 875-1Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_obelisk_875\-1xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_obelisk_875-1xxx
+  confidence: auto

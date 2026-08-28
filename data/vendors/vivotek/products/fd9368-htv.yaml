@@ -1,0 +1,10 @@
+id: fd9368-htv
+vendor_id: vivotek
+name: Fd9368-Htv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fd9368\-htv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd9368-htv
+  confidence: auto

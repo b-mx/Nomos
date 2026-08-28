@@ -1,0 +1,10 @@
+id: lp2500
+vendor_id: hidglobal
+name: Lp2500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hidglobal:lp2500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp2500
+  confidence: auto

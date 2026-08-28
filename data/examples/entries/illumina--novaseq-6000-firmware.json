@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "illumina--novaseq-6000-firmware",
+  "vendor_id": "illumina",
+  "product_id": "novaseq-6000-firmware",
+  "name": "Novaseq 6000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "novaseq_6000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

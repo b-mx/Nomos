@@ -1,0 +1,10 @@
+id: nexus-2128-firmware
+vendor_id: abb
+name: Nexus-2128 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:nexus\-2128_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexus-2128_firmware
+  confidence: auto

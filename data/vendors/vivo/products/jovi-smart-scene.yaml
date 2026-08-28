@@ -1,0 +1,10 @@
+id: jovi-smart-scene
+vendor_id: vivo
+name: Jovi Smart Scene
+type: software
+tags: []
+cpe: cpe:2.3:a:vivo:jovi_smart_scene:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jovi_smart_scene
+  confidence: auto

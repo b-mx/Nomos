@@ -1,0 +1,10 @@
+id: u6-iw
+vendor_id: ui
+name: U6-Iw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:u6\-iw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: u6-iw
+  confidence: auto

@@ -1,0 +1,10 @@
+id: advanced-systemcare-ultimate
+vendor_id: iobit
+name: Advanced Systemcare Ultimate
+type: software
+tags: []
+cpe: cpe:2.3:a:iobit:advanced_systemcare_ultimate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_systemcare_ultimate
+  confidence: auto

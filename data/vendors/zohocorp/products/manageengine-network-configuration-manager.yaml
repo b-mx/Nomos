@@ -1,0 +1,10 @@
+id: manageengine-network-configuration-manager
+vendor_id: zohocorp
+name: Manageengine Network Configuration Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_network_configuration_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_network_configuration_manager
+  confidence: auto

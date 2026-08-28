@@ -1,0 +1,10 @@
+id: je-paypervideo
+vendor_id: jextn
+name: Je Paypervideo
+type: software
+tags: []
+cpe: cpe:2.3:a:jextn:je_paypervideo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je_paypervideo
+  confidence: auto

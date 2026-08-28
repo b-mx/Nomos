@@ -1,0 +1,10 @@
+id: explorer-710-firmware
+vendor_id: cobham
+name: Explorer 710 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cobham:explorer_710_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: explorer_710_firmware
+  confidence: auto

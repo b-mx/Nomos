@@ -1,0 +1,10 @@
+id: tonton-tei
+vendor_id: linecorp
+name: Tonton-Tei
+type: software
+tags: []
+cpe: cpe:2.3:a:linecorp:tonton\-tei:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tonton-tei
+  confidence: auto

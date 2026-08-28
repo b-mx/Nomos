@@ -1,0 +1,10 @@
+id: wl18xx-bt-sp
+vendor_id: ti
+name: Wl18Xx-Bt-Sp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:wl18xx\-bt\-sp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl18xx-bt-sp
+  confidence: auto

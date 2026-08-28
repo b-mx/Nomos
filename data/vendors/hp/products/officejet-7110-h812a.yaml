@@ -1,0 +1,10 @@
+id: officejet-7110-h812a
+vendor_id: hp
+name: Officejet 7110 H812A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_7110_h812a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_7110_h812a
+  confidence: auto

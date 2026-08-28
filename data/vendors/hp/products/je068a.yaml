@@ -1,0 +1,10 @@
+id: je068a
+vendor_id: hp
+name: Je068A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je068a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je068a
+  confidence: auto

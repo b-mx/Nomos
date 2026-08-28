@@ -1,0 +1,10 @@
+id: sanger
+vendor_id: ancorathemes
+name: Sanger
+type: software
+tags: []
+cpe: cpe:2.3:a:ancorathemes:sanger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sanger
+  confidence: auto

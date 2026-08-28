@@ -1,0 +1,10 @@
+id: smart-camera-c2e
+vendor_id: lenovo
+name: Smart Camera C2E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:smart_camera_c2e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_camera_c2e
+  confidence: auto

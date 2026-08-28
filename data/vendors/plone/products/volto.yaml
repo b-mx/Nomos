@@ -1,0 +1,10 @@
+id: volto
+vendor_id: plone
+name: Volto
+type: software
+tags: []
+cpe: cpe:2.3:a:plone:volto:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: volto
+  confidence: auto

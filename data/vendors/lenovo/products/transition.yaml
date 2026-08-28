@@ -1,0 +1,10 @@
+id: transition
+vendor_id: lenovo
+name: Transition
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:transition:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: transition
+  confidence: auto

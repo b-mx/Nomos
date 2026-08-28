@@ -1,0 +1,10 @@
+id: nport-6610-32
+vendor_id: moxa
+name: Nport 6610-32
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_6610\-32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_6610-32
+  confidence: auto

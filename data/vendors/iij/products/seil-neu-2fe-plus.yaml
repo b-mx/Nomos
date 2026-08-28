@@ -1,0 +1,10 @@
+id: seil-neu-2fe-plus
+vendor_id: iij
+name: Seil/Neu 2Fe Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iij:seil\/neu_2fe_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil/neu_2fe_plus
+  confidence: auto

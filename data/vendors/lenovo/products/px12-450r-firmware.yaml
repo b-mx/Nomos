@@ -1,0 +1,10 @@
+id: px12-450r-firmware
+vendor_id: lenovo
+name: Px12-450R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:px12\-450r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px12-450r_firmware
+  confidence: auto

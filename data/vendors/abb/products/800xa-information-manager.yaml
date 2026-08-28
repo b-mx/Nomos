@@ -1,0 +1,10 @@
+id: 800xa-information-manager
+vendor_id: abb
+name: 800Xa Information Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:800xa_information_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 800xa_information_manager
+  confidence: auto

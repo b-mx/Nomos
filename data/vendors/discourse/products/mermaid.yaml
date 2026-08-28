@@ -1,0 +1,10 @@
+id: mermaid
+vendor_id: discourse
+name: Mermaid
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:mermaid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mermaid
+  confidence: auto

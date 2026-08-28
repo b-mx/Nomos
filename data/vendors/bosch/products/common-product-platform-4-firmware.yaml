@@ -1,0 +1,10 @@
+id: common-product-platform-4-firmware
+vendor_id: bosch
+name: Common Product Platform 4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:common_product_platform_4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: common_product_platform_4_firmware
+  confidence: auto

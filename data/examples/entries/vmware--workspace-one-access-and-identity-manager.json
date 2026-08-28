@@ -5,16 +5,14 @@
   "product_id": "workspace-one-access-and-identity-manager",
   "name": "Workspace ONE Access and Identity Manager",
   "type": "software",
-  "tags": [
-    "identity-access-management"
-  ],
-  "icon": "carbon:logo-vmware-alt",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Workspace ONE Access and Identity Manager",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

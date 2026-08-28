@@ -1,0 +1,10 @@
+id: compute-systems-manager
+vendor_id: hitachi
+name: Compute Systems Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:compute_systems_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compute_systems_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bx20s-sh
+vendor_id: smtav
+name: Bx20S-Sh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:smtav:bx20s\-sh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bx20s-sh
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sensor4-r1s1w1-e
+vendor_id: netscout
+name: Sensor4-R1S1W1-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netscout:sensor4\-r1s1w1\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensor4-r1s1w1-e
+  confidence: auto

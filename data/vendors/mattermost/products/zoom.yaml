@@ -1,0 +1,10 @@
+id: zoom
+vendor_id: mattermost
+name: Zoom
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:zoom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zoom
+  confidence: auto

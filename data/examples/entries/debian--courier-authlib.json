@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--courier-authlib",
+  "vendor_id": "debian",
+  "product_id": "courier-authlib",
+  "name": "Courier-Authlib",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "courier-authlib",
+      "confidence": "auto"
+    }
+  ]
+}

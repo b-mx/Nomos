@@ -1,0 +1,10 @@
+id: comfortel-1200-ip-firmware
+vendor_id: auerswald
+name: Comfortel 1200 Ip Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:auerswald:comfortel_1200_ip_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comfortel_1200_ip_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tbox-rm2-firmware
+vendor_id: ovarro
+name: Tbox Rm2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ovarro:tbox_rm2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tbox_rm2_firmware
+  confidence: auto

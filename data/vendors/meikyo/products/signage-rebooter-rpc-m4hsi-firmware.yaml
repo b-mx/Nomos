@@ -1,0 +1,10 @@
+id: signage-rebooter-rpc-m4hsi-firmware
+vendor_id: meikyo
+name: Signage Rebooter Rpc-M4Hsi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meikyo:signage_rebooter_rpc\-m4hsi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: signage_rebooter_rpc-m4hsi_firmware
+  confidence: auto

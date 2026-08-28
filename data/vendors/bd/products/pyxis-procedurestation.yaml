@@ -1,0 +1,10 @@
+id: pyxis-procedurestation
+vendor_id: bd
+name: Pyxis Procedurestation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_procedurestation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_procedurestation
+  confidence: auto

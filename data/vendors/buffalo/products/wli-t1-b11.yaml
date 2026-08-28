@@ -1,0 +1,10 @@
+id: wli-t1-b11
+vendor_id: buffalo
+name: Wli-T1-B11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wli\-t1\-b11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wli-t1-b11
+  confidence: auto

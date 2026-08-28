@@ -1,0 +1,10 @@
+id: x642
+vendor_id: lexmark
+name: X642
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x642:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x642
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hawkbit
+vendor_id: eclipse
+name: Hawkbit
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:hawkbit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hawkbit
+  confidence: auto

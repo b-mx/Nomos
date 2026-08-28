@@ -1,0 +1,10 @@
+id: snc-ch240
+vendor_id: sony
+name: Snc Ch240
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc_ch240:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc_ch240
+  confidence: auto

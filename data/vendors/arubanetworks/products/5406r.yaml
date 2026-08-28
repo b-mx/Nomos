@@ -1,0 +1,10 @@
+id: 5406r
+vendor_id: arubanetworks
+name: 5406R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:5406r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5406r
+  confidence: auto

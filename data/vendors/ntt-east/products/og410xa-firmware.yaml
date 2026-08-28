@@ -1,0 +1,10 @@
+id: og410xa-firmware
+vendor_id: ntt-east
+name: Og410Xa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ntt\-east:og410xa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: og410xa_firmware
+  confidence: auto

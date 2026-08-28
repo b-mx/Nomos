@@ -1,0 +1,10 @@
+id: bp-55c26-firmware
+vendor_id: sharp
+name: Bp-55C26 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:bp\-55c26_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bp-55c26_firmware
+  confidence: auto

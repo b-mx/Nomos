@@ -1,0 +1,10 @@
+id: 100ap-device-firmware
+vendor_id: brickcom
+name: 100Ap Device Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brickcom:100ap_device_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 100ap_device_firmware
+  confidence: auto

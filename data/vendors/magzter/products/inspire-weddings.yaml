@@ -1,0 +1,10 @@
+id: inspire-weddings
+vendor_id: magzter
+name: Inspire Weddings
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:inspire_weddings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inspire_weddings
+  confidence: auto

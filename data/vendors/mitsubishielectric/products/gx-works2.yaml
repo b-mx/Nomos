@@ -1,0 +1,10 @@
+id: gx-works2
+vendor_id: mitsubishielectric
+name: Gx Works2
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:gx_works2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gx_works2
+  confidence: auto

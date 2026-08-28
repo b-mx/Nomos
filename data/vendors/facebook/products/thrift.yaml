@@ -1,0 +1,10 @@
+id: thrift
+vendor_id: facebook
+name: Thrift
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:thrift:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thrift
+  confidence: auto

@@ -1,0 +1,10 @@
+id: opentext-ixos-ecm-for-sap-netweaver
+vendor_id: opentext
+name: Opentext/Ixos Ecm For Sap Netweaver
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:opentext\/ixos_ecm_for_sap_netweaver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentext/ixos_ecm_for_sap_netweaver
+  confidence: auto

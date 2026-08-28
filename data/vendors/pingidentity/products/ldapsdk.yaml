@@ -1,0 +1,10 @@
+id: ldapsdk
+vendor_id: pingidentity
+name: Ldapsdk
+type: software
+tags: []
+cpe: cpe:2.3:a:pingidentity:ldapsdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ldapsdk
+  confidence: auto

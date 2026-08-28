@@ -1,0 +1,13 @@
+id: nextcloud
+vendor_id: nextcloud
+name: Nextcloud
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:nextcloud_server:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: nextcloud
+  confidence: auto
+- source: nvd
+  value: nextcloud_server
+  confidence: auto

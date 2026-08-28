@@ -1,0 +1,10 @@
+id: openview-network-node-manager
+vendor_id: hp
+name: Openview Network Node Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:openview_network_node_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openview_network_node_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-managed-e75245-t3u43a
+vendor_id: hp
+name: Laserjet Managed E75245 T3U43A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_e75245_t3u43a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_e75245_t3u43a
+  confidence: auto

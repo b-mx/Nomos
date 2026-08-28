@@ -1,0 +1,10 @@
+id: gnome-time-tracker
+vendor_id: gnome
+name: Gnome-Time Tracker
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-time_tracker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-time_tracker
+  confidence: auto

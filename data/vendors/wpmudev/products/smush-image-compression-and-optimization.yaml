@@ -1,0 +1,10 @@
+id: smush-image-compression-and-optimization
+vendor_id: wpmudev
+name: Smush Image Compression And Optimization
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmudev:smush_image_compression_and_optimization:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smush_image_compression_and_optimization
+  confidence: auto

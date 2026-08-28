@@ -1,0 +1,10 @@
+id: bcjmail-fips
+vendor_id: bouncycastle
+name: Bcjmail-Fips
+type: software
+tags: []
+cpe: cpe:2.3:a:bouncycastle:bcjmail\-fips:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcjmail-fips
+  confidence: auto

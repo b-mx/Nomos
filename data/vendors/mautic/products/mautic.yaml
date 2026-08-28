@@ -1,0 +1,9 @@
+id: mautic
+vendor_id: mautic
+name: Mautic
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: mautic
+  confidence: auto

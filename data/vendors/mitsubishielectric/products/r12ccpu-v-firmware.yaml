@@ -1,0 +1,10 @@
+id: r12ccpu-v-firmware
+vendor_id: mitsubishielectric
+name: R12Ccpu-V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:r12ccpu\-v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r12ccpu-v_firmware
+  confidence: auto

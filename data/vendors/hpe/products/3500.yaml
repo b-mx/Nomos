@@ -1,0 +1,10 @@
+id: '3500'
+vendor_id: hpe
+name: '3500'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:3500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '3500'
+  confidence: auto

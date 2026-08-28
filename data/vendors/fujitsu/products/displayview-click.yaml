@@ -1,0 +1,10 @@
+id: displayview-click
+vendor_id: fujitsu
+name: Displayview Click
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:displayview_click:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: displayview_click
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flexnetwork-5130-ei
+vendor_id: hpe
+name: Flexnetwork 5130 Ei
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:flexnetwork_5130_ei:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexnetwork_5130_ei
+  confidence: auto

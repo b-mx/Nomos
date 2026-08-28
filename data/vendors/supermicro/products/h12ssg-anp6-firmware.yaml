@@ -1,0 +1,10 @@
+id: h12ssg-anp6-firmware
+vendor_id: supermicro
+name: H12Ssg-Anp6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:h12ssg\-anp6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12ssg-anp6_firmware
+  confidence: auto

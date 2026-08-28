@@ -1,0 +1,10 @@
+id: endpoint-security
+vendor_id: fireeye
+name: Endpoint Security
+type: software
+tags: []
+cpe: cpe:2.3:a:fireeye:endpoint_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: endpoint_security
+  confidence: auto

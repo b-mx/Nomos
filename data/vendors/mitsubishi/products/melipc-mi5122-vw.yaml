@@ -1,0 +1,10 @@
+id: melipc-mi5122-vw
+vendor_id: mitsubishi
+name: Melipc Mi5122-Vw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melipc_mi5122\-vw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melipc_mi5122-vw
+  confidence: auto

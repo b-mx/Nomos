@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--nessus-agent",
+  "vendor_id": "tenable",
+  "product_id": "nessus-agent",
+  "name": "Nessus Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nessus_agent",
+      "confidence": "auto"
+    }
+  ]
+}

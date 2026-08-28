@@ -1,0 +1,10 @@
+id: universal-job-management-agent
+vendor_id: ca
+name: Universal Job Management Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:ca:universal_job_management_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_job_management_agent
+  confidence: auto

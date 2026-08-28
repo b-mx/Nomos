@@ -1,0 +1,10 @@
+id: apt-cacher
+vendor_id: debian
+name: Apt-Cacher
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:apt\-cacher:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apt-cacher
+  confidence: auto

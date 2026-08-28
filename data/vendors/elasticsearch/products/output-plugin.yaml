@@ -1,0 +1,10 @@
+id: output-plugin
+vendor_id: elasticsearch
+name: Output Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:elasticsearch:output_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: output_plugin
+  confidence: auto

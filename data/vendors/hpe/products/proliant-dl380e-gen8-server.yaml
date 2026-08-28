@@ -1,0 +1,10 @@
+id: proliant-dl380e-gen8-server
+vendor_id: hpe
+name: Proliant Dl380E Gen8 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_dl380e_gen8_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_dl380e_gen8_server
+  confidence: auto

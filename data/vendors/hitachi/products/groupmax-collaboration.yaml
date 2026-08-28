@@ -1,0 +1,10 @@
+id: groupmax-collaboration
+vendor_id: hitachi
+name: Groupmax Collaboration
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:groupmax_collaboration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: groupmax_collaboration
+  confidence: auto

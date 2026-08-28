@@ -1,0 +1,10 @@
+id: jd972a
+vendor_id: hp
+name: Jd972A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd972a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd972a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: g2
+vendor_id: t-mobile
+name: G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:t\-mobile:g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g2
+  confidence: auto

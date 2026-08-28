@@ -1,0 +1,10 @@
+id: mf258
+vendor_id: zte
+name: Mf258
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:mf258:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf258
+  confidence: auto

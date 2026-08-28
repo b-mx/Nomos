@@ -1,0 +1,10 @@
+id: barcodes-generator
+vendor_id: egavilanmedia
+name: Barcodes Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:egavilanmedia:barcodes_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: barcodes_generator
+  confidence: auto

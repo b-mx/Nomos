@@ -1,0 +1,10 @@
+id: cr771a
+vendor_id: hp
+name: Cr771A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cr771a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cr771a
+  confidence: auto

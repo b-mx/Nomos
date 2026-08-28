@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ericsson--network-location",
+  "vendor_id": "ericsson",
+  "product_id": "network-location",
+  "name": "Network Location",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_location",
+      "confidence": "auto"
+    }
+  ]
+}

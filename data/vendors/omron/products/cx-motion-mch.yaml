@@ -1,0 +1,10 @@
+id: cx-motion-mch
+vendor_id: omron
+name: Cx-Motion-Mch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cx\-motion\-mch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-motion-mch
+  confidence: auto

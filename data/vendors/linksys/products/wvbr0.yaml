@@ -1,0 +1,10 @@
+id: wvbr0
+vendor_id: linksys
+name: Wvbr0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wvbr0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wvbr0
+  confidence: auto

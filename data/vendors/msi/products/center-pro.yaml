@@ -1,0 +1,10 @@
+id: center-pro
+vendor_id: msi
+name: Center Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:msi:center_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: center_pro
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nova-2-plus
+vendor_id: huawei
+name: Nova 2 Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nova_2_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova_2_plus
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--wfs-sr01-firmware",
+  "vendor_id": "iodata",
+  "product_id": "wfs-sr01-firmware",
+  "name": "Wfs-Sr01 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wfs-sr01_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

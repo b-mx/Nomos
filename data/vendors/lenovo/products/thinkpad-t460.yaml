@@ -1,0 +1,10 @@
+id: thinkpad-t460
+vendor_id: lenovo
+name: Thinkpad T460
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_t460:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t460
+  confidence: auto

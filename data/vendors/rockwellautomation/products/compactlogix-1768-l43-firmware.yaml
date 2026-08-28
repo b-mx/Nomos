@@ -1,0 +1,10 @@
+id: compactlogix-1768-l43-firmware
+vendor_id: rockwellautomation
+name: Compactlogix 1768-L43 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:compactlogix_1768\-l43_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactlogix_1768-l43_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: smartrtu-axc-sg-firmware
+vendor_id: phoenixcontact
+name: Smartrtu Axc Sg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:smartrtu_axc_sg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartrtu_axc_sg_firmware
+  confidence: auto

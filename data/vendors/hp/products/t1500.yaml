@@ -1,0 +1,10 @@
+id: t1500
+vendor_id: hp
+name: T1500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:t1500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t1500
+  confidence: auto

@@ -1,0 +1,10 @@
+id: officejet-pro-8715-k7s37a
+vendor_id: hp
+name: Officejet Pro 8715 K7S37A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_8715_k7s37a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_8715_k7s37a
+  confidence: auto

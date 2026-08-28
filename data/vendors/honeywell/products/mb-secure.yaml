@@ -1,0 +1,10 @@
+id: mb-secure
+vendor_id: honeywell
+name: Mb-Secure
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:mb\-secure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mb-secure
+  confidence: auto

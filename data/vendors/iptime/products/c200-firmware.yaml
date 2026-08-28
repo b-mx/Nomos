@@ -1,0 +1,10 @@
+id: c200-firmware
+vendor_id: iptime
+name: C200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:c200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c200_firmware
+  confidence: auto

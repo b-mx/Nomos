@@ -1,0 +1,10 @@
+id: 130-slc
+vendor_id: seowonintech
+name: 130-Slc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seowonintech:130\-slc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 130-slc
+  confidence: auto

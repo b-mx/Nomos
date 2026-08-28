@@ -1,0 +1,10 @@
+id: sydent
+vendor_id: matrix
+name: Sydent
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:sydent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sydent
+  confidence: auto

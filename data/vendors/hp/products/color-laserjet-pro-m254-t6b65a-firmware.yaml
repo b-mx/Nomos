@@ -1,0 +1,10 @@
+id: color-laserjet-pro-m254-t6b65a-firmware
+vendor_id: hp
+name: Color Laserjet Pro M254 T6B65A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_pro_m254_t6b65a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_pro_m254_t6b65a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pdf-fusion
+vendor_id: corel
+name: Pdf Fusion
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:pdf_fusion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdf_fusion
+  confidence: auto

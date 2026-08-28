@@ -1,0 +1,10 @@
+id: cp1w-da021
+vendor_id: omron
+name: Cp1W-Da021
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp1w\-da021:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-da021
+  confidence: auto

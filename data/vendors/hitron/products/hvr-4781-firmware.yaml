@@ -1,0 +1,10 @@
+id: hvr-4781-firmware
+vendor_id: hitron
+name: Hvr-4781 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitron:hvr\-4781_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hvr-4781_firmware
+  confidence: auto

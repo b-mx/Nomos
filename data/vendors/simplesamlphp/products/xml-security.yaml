@@ -1,0 +1,10 @@
+id: xml-security
+vendor_id: simplesamlphp
+name: Xml-Security
+type: software
+tags: []
+cpe: cpe:2.3:a:simplesamlphp:xml\-security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xml-security
+  confidence: auto

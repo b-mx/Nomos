@@ -1,0 +1,10 @@
+id: halftime-magazine
+vendor_id: magzter
+name: Halftime Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:halftime_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: halftime_magazine
+  confidence: auto

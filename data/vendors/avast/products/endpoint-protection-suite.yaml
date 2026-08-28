@@ -1,0 +1,10 @@
+id: endpoint-protection-suite
+vendor_id: avast
+name: Endpoint Protection Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:endpoint_protection_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: endpoint_protection_suite
+  confidence: auto

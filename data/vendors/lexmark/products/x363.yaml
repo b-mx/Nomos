@@ -1,0 +1,10 @@
+id: x363
+vendor_id: lexmark
+name: X363
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x363:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x363
+  confidence: auto

@@ -1,0 +1,10 @@
+id: consul-template
+vendor_id: hashicorp
+name: Consul Template
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:consul_template:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: consul_template
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mandrake-linux-corporate-server
+vendor_id: mandrakesoft
+name: Mandrake Linux Corporate Server
+type: os
+tags: []
+cpe: cpe:2.3:o:mandrakesoft:mandrake_linux_corporate_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mandrake_linux_corporate_server
+  confidence: auto

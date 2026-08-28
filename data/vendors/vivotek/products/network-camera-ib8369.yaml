@@ -1,0 +1,10 @@
+id: network-camera-ib8369
+vendor_id: vivotek
+name: Network Camera Ib8369
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:network_camera_ib8369:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_camera_ib8369
+  confidence: auto

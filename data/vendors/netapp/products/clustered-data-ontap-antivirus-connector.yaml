@@ -1,0 +1,10 @@
+id: clustered-data-ontap-antivirus-connector
+vendor_id: netapp
+name: Clustered Data Ontap Antivirus Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:clustered_data_ontap_antivirus_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clustered_data_ontap_antivirus_connector
+  confidence: auto

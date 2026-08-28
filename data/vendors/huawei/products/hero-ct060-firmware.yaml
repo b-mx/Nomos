@@ -1,0 +1,10 @@
+id: hero-ct060-firmware
+vendor_id: huawei
+name: Hero-Ct060 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hero\-ct060_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hero-ct060_firmware
+  confidence: auto

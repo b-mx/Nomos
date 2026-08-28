@@ -1,0 +1,10 @@
+id: dcisoft
+vendor_id: deltaww
+name: Dcisoft
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:dcisoft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcisoft
+  confidence: auto

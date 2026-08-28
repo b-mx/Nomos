@@ -1,0 +1,10 @@
+id: secure-encrypted-virtualization-firmware
+vendor_id: amd
+name: Secure Encrypted Virtualization Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:secure_encrypted_virtualization_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_encrypted_virtualization_firmware
+  confidence: auto

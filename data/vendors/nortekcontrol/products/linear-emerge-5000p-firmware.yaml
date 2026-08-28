@@ -1,0 +1,10 @@
+id: linear-emerge-5000p-firmware
+vendor_id: nortekcontrol
+name: Linear Emerge 5000P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nortekcontrol:linear_emerge_5000p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linear_emerge_5000p_firmware
+  confidence: auto

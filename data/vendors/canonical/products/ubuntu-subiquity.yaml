@@ -1,0 +1,10 @@
+id: ubuntu-subiquity
+vendor_id: canonical
+name: Ubuntu Subiquity
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:ubuntu_subiquity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubuntu_subiquity
+  confidence: auto

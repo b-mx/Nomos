@@ -1,0 +1,10 @@
+id: tc7300-b0
+vendor_id: technicolor
+name: Tc7300.B0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tc7300\.b0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7300.b0
+  confidence: auto

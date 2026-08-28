@@ -1,0 +1,10 @@
+id: blackarmor-nas-220-firmware
+vendor_id: seagate
+name: Blackarmor Nas 220 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seagate:blackarmor_nas_220_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackarmor_nas_220_firmware
+  confidence: auto

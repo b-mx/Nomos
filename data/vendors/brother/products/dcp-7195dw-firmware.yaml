@@ -1,0 +1,10 @@
+id: dcp-7195dw-firmware
+vendor_id: brother
+name: Dcp-7195Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp\-7195dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-7195dw_firmware
+  confidence: auto

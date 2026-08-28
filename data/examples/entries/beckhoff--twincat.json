@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "beckhoff--twincat",
+  "vendor_id": "beckhoff",
+  "product_id": "twincat",
+  "name": "Twincat",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "twincat",
+      "confidence": "auto"
+    }
+  ]
+}

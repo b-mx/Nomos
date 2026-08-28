@@ -1,0 +1,10 @@
+id: uc-8112-me-t-lx1-firmware
+vendor_id: moxa
+name: Uc-8112-Me-T-Lx1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-8112\-me\-t\-lx1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-8112-me-t-lx1_firmware
+  confidence: auto

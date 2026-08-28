@@ -1,0 +1,10 @@
+id: bodyguard-323-colorvision-firmware
+vendor_id: bd
+name: Bodyguard 323 Colorvision Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:bodyguard_323_colorvision_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bodyguard_323_colorvision_firmware
+  confidence: auto

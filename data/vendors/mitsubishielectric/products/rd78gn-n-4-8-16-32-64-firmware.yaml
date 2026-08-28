@@ -1,0 +1,10 @@
+id: rd78gn-n-4-8-16-32-64-firmware
+vendor_id: mitsubishielectric
+name: Rd78Gn(N=4,8,16,32,64) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rd78gn\(n\=4\,8\,16\,32\,64\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rd78gn(n=4,8,16,32,64)_firmware
+  confidence: auto

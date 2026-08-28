@@ -1,0 +1,10 @@
+id: integrity
+vendor_id: zonelabs
+name: Integrity
+type: software
+tags: []
+cpe: cpe:2.3:a:zonelabs:integrity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrity
+  confidence: auto

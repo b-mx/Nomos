@@ -1,0 +1,10 @@
+id: x12dpg-u6
+vendor_id: supermicro
+name: X12Dpg-U6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12dpg\-u6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dpg-u6
+  confidence: auto

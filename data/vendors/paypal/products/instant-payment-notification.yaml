@@ -1,0 +1,10 @@
+id: instant-payment-notification
+vendor_id: paypal
+name: Instant Payment Notification
+type: software
+tags: []
+cpe: cpe:2.3:a:paypal:instant_payment_notification:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instant_payment_notification
+  confidence: auto

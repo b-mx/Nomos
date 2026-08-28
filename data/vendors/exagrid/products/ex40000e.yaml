@@ -1,0 +1,10 @@
+id: ex40000e
+vendor_id: exagrid
+name: Ex40000E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:exagrid:ex40000e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex40000e
+  confidence: auto

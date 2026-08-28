@@ -1,0 +1,10 @@
+id: aterm-wr7850s
+vendor_id: nec
+name: Aterm Wr7850S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wr7850s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wr7850s
+  confidence: auto

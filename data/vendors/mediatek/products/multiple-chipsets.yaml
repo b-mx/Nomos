@@ -1,0 +1,9 @@
+id: multiple-chipsets
+vendor_id: mediatek
+name: Multiple Chipsets
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Multiple Chipsets
+  confidence: auto

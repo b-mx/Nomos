@@ -1,0 +1,10 @@
+id: centralview-fraud-risk-management
+vendor_id: hp
+name: Centralview Fraud Risk Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:centralview_fraud_risk_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centralview_fraud_risk_management
+  confidence: auto

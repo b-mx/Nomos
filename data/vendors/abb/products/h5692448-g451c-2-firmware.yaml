@@ -1,0 +1,10 @@
+id: h5692448-g451c-2-firmware
+vendor_id: abb
+name: H5692448 G451C(2) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:h5692448_g451c\(2\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h5692448_g451c(2)_firmware
+  confidence: auto

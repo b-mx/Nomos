@@ -1,0 +1,10 @@
+id: 5cm63a
+vendor_id: hp
+name: 5Cm63A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:5cm63a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5cm63a
+  confidence: auto

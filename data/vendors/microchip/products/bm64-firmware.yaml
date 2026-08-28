@@ -1,0 +1,10 @@
+id: bm64-firmware
+vendor_id: microchip
+name: Bm64 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:bm64_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm64_firmware
+  confidence: auto

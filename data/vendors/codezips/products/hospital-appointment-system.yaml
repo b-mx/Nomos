@@ -1,0 +1,10 @@
+id: hospital-appointment-system
+vendor_id: codezips
+name: Hospital Appointment System
+type: software
+tags: []
+cpe: cpe:2.3:a:codezips:hospital_appointment_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hospital_appointment_system
+  confidence: auto

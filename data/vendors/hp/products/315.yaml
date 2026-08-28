@@ -1,0 +1,10 @@
+id: '315'
+vendor_id: hp
+name: '315'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:315:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '315'
+  confidence: auto

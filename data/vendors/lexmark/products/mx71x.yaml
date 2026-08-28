@@ -1,0 +1,10 @@
+id: mx71x
+vendor_id: lexmark
+name: Mx71X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx71x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx71x
+  confidence: auto

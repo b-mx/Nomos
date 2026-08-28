@@ -1,0 +1,10 @@
+id: stm32cubeg4
+vendor_id: st
+name: Stm32Cubeg4
+type: software
+tags: []
+cpe: cpe:2.3:a:st:stm32cubeg4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32cubeg4
+  confidence: auto

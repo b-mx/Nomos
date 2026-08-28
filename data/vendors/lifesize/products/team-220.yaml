@@ -1,0 +1,10 @@
+id: team-220
+vendor_id: lifesize
+name: Team 220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lifesize:team_220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: team_220
+  confidence: auto

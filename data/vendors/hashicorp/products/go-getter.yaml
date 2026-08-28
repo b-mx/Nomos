@@ -1,0 +1,10 @@
+id: go-getter
+vendor_id: hashicorp
+name: Go-Getter
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:go\-getter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go-getter
+  confidence: auto

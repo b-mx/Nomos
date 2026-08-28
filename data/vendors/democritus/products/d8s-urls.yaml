@@ -1,0 +1,10 @@
+id: d8s-urls
+vendor_id: democritus
+name: D8S-Urls
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-urls:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-urls
+  confidence: auto

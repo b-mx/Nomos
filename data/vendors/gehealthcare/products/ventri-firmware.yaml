@@ -1,0 +1,10 @@
+id: ventri-firmware
+vendor_id: gehealthcare
+name: Ventri Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:ventri_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ventri_firmware
+  confidence: auto

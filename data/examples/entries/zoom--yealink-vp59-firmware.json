@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zoom--yealink-vp59-firmware",
+  "vendor_id": "zoom",
+  "product_id": "yealink-vp59-firmware",
+  "name": "Yealink Vp59 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "yealink_vp59_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

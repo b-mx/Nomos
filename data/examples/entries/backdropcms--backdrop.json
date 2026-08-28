@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "backdropcms--backdrop",
+  "vendor_id": "backdropcms",
+  "product_id": "backdrop",
+  "name": "Backdrop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "backdrop",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "backdrop_cms",
+      "confidence": "auto"
+    }
+  ]
+}

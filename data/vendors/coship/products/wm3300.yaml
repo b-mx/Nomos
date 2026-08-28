@@ -1,0 +1,10 @@
+id: wm3300
+vendor_id: coship
+name: Wm3300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:coship:wm3300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wm3300
+  confidence: auto

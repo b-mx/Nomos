@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "typo3--fluid-engine",
+  "vendor_id": "typo3",
+  "product_id": "fluid-engine",
+  "name": "Fluid Engine",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fluid_engine",
+      "confidence": "auto"
+    }
+  ]
+}

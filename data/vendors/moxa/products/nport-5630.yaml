@@ -1,0 +1,10 @@
+id: nport-5630
+vendor_id: moxa
+name: Nport 5630
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_5630:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5630
+  confidence: auto

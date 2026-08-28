@@ -1,0 +1,10 @@
+id: x13saq
+vendor_id: supermicro
+name: X13Saq
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13saq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13saq
+  confidence: auto

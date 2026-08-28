@@ -1,0 +1,10 @@
+id: x11dsf-e
+vendor_id: supermicro
+name: X11Dsf-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11dsf\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dsf-e
+  confidence: auto

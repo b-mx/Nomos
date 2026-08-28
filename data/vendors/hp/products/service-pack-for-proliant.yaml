@@ -1,0 +1,10 @@
+id: service-pack-for-proliant
+vendor_id: hp
+name: Service Pack For Proliant
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:service_pack_for_proliant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_pack_for_proliant
+  confidence: auto

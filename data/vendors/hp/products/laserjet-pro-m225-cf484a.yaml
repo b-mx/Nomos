@@ -1,0 +1,10 @@
+id: laserjet-pro-m225-cf484a
+vendor_id: hp
+name: Laserjet Pro M225 Cf484A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m225_cf484a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m225_cf484a
+  confidence: auto

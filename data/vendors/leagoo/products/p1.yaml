@@ -1,0 +1,10 @@
+id: p1
+vendor_id: leagoo
+name: P1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:leagoo:p1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p1
+  confidence: auto

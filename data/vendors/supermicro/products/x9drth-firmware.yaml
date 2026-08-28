@@ -1,0 +1,10 @@
+id: x9drth-firmware
+vendor_id: supermicro
+name: X9Drth Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9drth_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drth_firmware
+  confidence: auto

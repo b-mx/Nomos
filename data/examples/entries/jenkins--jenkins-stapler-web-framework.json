@@ -4,12 +4,9 @@
   "vendor_id": "jenkins",
   "product_id": "jenkins-stapler-web-framework",
   "name": "Jenkins Stapler Web Framework",
-  "type": "library",
-  "tags": [
-    "ci-cd",
-    "framework"
-  ],
-  "icon": "logos:jenkins",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

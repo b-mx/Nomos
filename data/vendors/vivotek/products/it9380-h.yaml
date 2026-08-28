@@ -1,0 +1,10 @@
+id: it9380-h
+vendor_id: vivotek
+name: It9380-H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:it9380\-h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: it9380-h
+  confidence: auto

@@ -1,0 +1,10 @@
+id: packetbeat
+vendor_id: elasticsearch
+name: Packetbeat
+type: software
+tags: []
+cpe: cpe:2.3:a:elasticsearch:packetbeat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: packetbeat
+  confidence: auto

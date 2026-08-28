@@ -1,0 +1,10 @@
+id: cluster-object-manager
+vendor_id: hp
+name: Cluster Object Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:cluster_object_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cluster_object_manager
+  confidence: auto

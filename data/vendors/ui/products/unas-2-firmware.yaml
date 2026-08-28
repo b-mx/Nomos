@@ -1,0 +1,10 @@
+id: unas-2-firmware
+vendor_id: ui
+name: Unas 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:unas_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unas_2_firmware
+  confidence: auto

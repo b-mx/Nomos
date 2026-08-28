@@ -1,0 +1,10 @@
+id: mfc-l2685dw-firmware
+vendor_id: brother
+name: Mfc-L2685Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-l2685dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l2685dw_firmware
+  confidence: auto

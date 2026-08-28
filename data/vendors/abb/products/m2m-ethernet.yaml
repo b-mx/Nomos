@@ -1,0 +1,10 @@
+id: m2m-ethernet
+vendor_id: abb
+name: M2M Ethernet
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:m2m_ethernet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2m_ethernet
+  confidence: auto

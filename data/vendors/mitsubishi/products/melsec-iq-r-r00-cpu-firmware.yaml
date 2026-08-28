@@ -1,0 +1,10 @@
+id: melsec-iq-r-r00-cpu-firmware
+vendor_id: mitsubishi
+name: Melsec Iq-R R00 Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishi:melsec_iq\-r_r00_cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-r_r00_cpu_firmware
+  confidence: auto

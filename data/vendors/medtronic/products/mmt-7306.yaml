@@ -1,0 +1,10 @@
+id: mmt-7306
+vendor_id: medtronic
+name: Mmt-7306
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:mmt\-7306:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mmt-7306
+  confidence: auto

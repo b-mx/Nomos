@@ -1,0 +1,10 @@
+id: p1388-le
+vendor_id: axis
+name: P1388-Le
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p1388\-le:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p1388-le
+  confidence: auto

@@ -1,0 +1,10 @@
+id: p200
+vendor_id: verifone
+name: P200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verifone:p200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p200
+  confidence: auto

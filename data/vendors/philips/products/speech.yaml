@@ -1,0 +1,10 @@
+id: speech
+vendor_id: philips
+name: Speech
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:speech:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: speech
+  confidence: auto

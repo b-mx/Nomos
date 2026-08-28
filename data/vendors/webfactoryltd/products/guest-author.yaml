@@ -1,0 +1,10 @@
+id: guest-author
+vendor_id: webfactoryltd
+name: Guest Author
+type: software
+tags: []
+cpe: cpe:2.3:a:webfactoryltd:guest_author:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: guest_author
+  confidence: auto

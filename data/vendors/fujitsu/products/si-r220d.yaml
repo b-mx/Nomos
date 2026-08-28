@@ -1,0 +1,10 @@
+id: si-r220d
+vendor_id: fujitsu
+name: Si-R220D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:si\-r220d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: si-r220d
+  confidence: auto

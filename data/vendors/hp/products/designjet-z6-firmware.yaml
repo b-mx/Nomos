@@ -1,0 +1,10 @@
+id: designjet-z6-firmware
+vendor_id: hp
+name: Designjet Z6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:designjet_z6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z6_firmware
+  confidence: auto

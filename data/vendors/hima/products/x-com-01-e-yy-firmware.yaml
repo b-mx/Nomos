@@ -1,0 +1,10 @@
+id: x-com-01-e-yy-firmware
+vendor_id: hima
+name: X-Com 01 E Yy Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hima:x\-com_01_e_yy_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-com_01_e_yy_firmware
+  confidence: auto

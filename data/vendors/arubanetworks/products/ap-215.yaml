@@ -1,0 +1,10 @@
+id: ap-215
+vendor_id: arubanetworks
+name: Ap-215
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-215:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-215
+  confidence: auto

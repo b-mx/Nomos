@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "isc-dhcp",
+  "vendor_id": "isc-dhcp",
+  "name": "ISC DHCP",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "isc-dhcp",
+      "confidence": "auto"
+    }
+  ]
+}

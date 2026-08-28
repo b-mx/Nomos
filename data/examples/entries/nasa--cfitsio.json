@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nasa--cfitsio",
+  "vendor_id": "nasa",
+  "product_id": "cfitsio",
+  "name": "Cfitsio",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cfitsio",
+      "confidence": "auto"
+    }
+  ]
+}

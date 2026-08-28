@@ -1,0 +1,10 @@
+id: libsolv
+vendor_id: opensuse
+name: Libsolv
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:libsolv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libsolv
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netgate--pfsense",
+  "vendor_id": "netgate",
+  "product_id": "pfsense",
+  "name": "Pfsense",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pfsense",
+      "confidence": "auto"
+    }
+  ]
+}

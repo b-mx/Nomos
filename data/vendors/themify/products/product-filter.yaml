@@ -1,0 +1,10 @@
+id: product-filter
+vendor_id: themify
+name: Product Filter
+type: software
+tags: []
+cpe: cpe:2.3:a:themify:product_filter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_filter
+  confidence: auto

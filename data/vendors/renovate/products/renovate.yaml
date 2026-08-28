@@ -1,0 +1,9 @@
+id: renovate
+vendor_id: renovate
+name: Renovate CLI
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: renovate
+  confidence: auto

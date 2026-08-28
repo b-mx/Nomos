@@ -1,0 +1,10 @@
+id: branda
+vendor_id: wpmudev
+name: Branda
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmudev:branda:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: branda
+  confidence: auto

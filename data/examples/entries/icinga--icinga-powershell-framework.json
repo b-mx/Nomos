@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "icinga--icinga-powershell-framework",
+  "vendor_id": "icinga",
+  "product_id": "icinga-powershell-framework",
+  "name": "Icinga Powershell Framework",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icinga_powershell_framework",
+      "confidence": "auto"
+    }
+  ]
+}

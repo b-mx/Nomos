@@ -1,0 +1,10 @@
+id: aruba-cx-8400
+vendor_id: hpe
+name: Aruba Cx 8400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_8400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_8400
+  confidence: auto

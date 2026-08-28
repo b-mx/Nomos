@@ -1,0 +1,10 @@
+id: libxcursor
+vendor_id: x
+name: Libxcursor
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxcursor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxcursor
+  confidence: auto

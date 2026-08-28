@@ -1,0 +1,10 @@
+id: dvpsimulator-ahsim-5x0
+vendor_id: deltaww
+name: Dvpsimulator Ahsim 5X0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:deltaww:dvpsimulator_ahsim_5x0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvpsimulator_ahsim_5x0
+  confidence: auto

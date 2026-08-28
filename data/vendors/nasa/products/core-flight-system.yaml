@@ -1,0 +1,10 @@
+id: core-flight-system
+vendor_id: nasa
+name: Core Flight System
+type: software
+tags: []
+cpe: cpe:2.3:a:nasa:core_flight_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: core_flight_system
+  confidence: auto

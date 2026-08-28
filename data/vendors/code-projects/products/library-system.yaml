@@ -1,0 +1,10 @@
+id: library-system
+vendor_id: code-projects
+name: Library System
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:library_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: library_system
+  confidence: auto

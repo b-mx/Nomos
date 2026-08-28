@@ -1,0 +1,10 @@
+id: tc500
+vendor_id: synology
+name: Tc500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synology:tc500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc500
+  confidence: auto

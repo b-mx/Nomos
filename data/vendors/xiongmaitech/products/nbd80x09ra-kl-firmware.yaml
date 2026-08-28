@@ -1,0 +1,10 @@
+id: nbd80x09ra-kl-firmware
+vendor_id: xiongmaitech
+name: Nbd80X09Ra-Kl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:nbd80x09ra\-kl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbd80x09ra-kl_firmware
+  confidence: auto

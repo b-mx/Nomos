@@ -1,0 +1,10 @@
+id: tc7110-ar-firmware
+vendor_id: technicolor
+name: Tc7110.Ar Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:tc7110\.ar_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7110.ar_firmware
+  confidence: auto

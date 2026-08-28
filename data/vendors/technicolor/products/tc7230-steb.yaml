@@ -1,0 +1,10 @@
+id: tc7230-steb
+vendor_id: technicolor
+name: Tc7230 Steb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tc7230_steb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7230_steb
+  confidence: auto

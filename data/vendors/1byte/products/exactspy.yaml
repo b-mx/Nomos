@@ -1,0 +1,10 @@
+id: exactspy
+vendor_id: 1byte
+name: Exactspy
+type: software
+tags: []
+cpe: cpe:2.3:a:1byte:exactspy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exactspy
+  confidence: auto

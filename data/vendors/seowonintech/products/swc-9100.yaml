@@ -1,0 +1,10 @@
+id: swc-9100
+vendor_id: seowonintech
+name: Swc-9100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seowonintech:swc\-9100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swc-9100
+  confidence: auto

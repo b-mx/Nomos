@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "joyent--http-signature",
+  "vendor_id": "joyent",
+  "product_id": "http-signature",
+  "name": "Http-Signature",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "http-signature",
+      "confidence": "auto"
+    }
+  ]
+}

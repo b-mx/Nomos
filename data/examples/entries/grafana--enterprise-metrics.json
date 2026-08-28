@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "grafana--enterprise-metrics",
+  "vendor_id": "grafana",
+  "product_id": "enterprise-metrics",
+  "name": "Enterprise Metrics",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise_metrics",
+      "confidence": "auto"
+    }
+  ]
+}

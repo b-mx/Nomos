@@ -1,0 +1,10 @@
+id: easy-mov-converter
+vendor_id: ether-software
+name: Easy Mov Converter
+type: software
+tags: []
+cpe: cpe:2.3:a:ether_software:easy_mov_converter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_mov_converter
+  confidence: auto

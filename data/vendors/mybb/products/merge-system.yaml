@@ -1,0 +1,10 @@
+id: merge-system
+vendor_id: mybb
+name: Merge System
+type: software
+tags: []
+cpe: cpe:2.3:a:mybb:merge_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: merge_system
+  confidence: auto

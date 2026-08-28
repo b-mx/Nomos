@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32l443rc",
+  "vendor_id": "st",
+  "product_id": "stm32l443rc",
+  "name": "Stm32L443Rc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32l443rc",
+      "confidence": "auto"
+    }
+  ]
+}

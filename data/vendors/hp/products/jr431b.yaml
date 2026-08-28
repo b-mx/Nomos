@@ -1,0 +1,10 @@
+id: jr431b
+vendor_id: hp
+name: Jr431B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jr431b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jr431b
+  confidence: auto

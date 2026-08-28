@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "github--actions-toolkit",
+  "vendor_id": "github",
+  "product_id": "actions-toolkit",
+  "name": "Actions Toolkit",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "actions_toolkit",
+      "confidence": "auto"
+    }
+  ]
+}

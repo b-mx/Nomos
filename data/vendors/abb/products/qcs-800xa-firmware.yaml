@@ -1,0 +1,10 @@
+id: qcs-800xa-firmware
+vendor_id: abb
+name: Qcs 800Xa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:qcs_800xa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qcs_800xa_firmware
+  confidence: auto

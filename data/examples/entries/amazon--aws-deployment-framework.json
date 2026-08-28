@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-deployment-framework",
+  "vendor_id": "amazon",
+  "product_id": "aws-deployment-framework",
+  "name": "Aws Deployment Framework",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws_deployment_framework",
+      "confidence": "auto"
+    }
+  ]
+}

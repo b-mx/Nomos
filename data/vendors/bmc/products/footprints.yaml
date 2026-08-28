@@ -1,0 +1,10 @@
+id: footprints
+vendor_id: bmc
+name: Footprints
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:footprints:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: footprints
+  confidence: auto

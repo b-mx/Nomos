@@ -1,0 +1,10 @@
+id: m816-pro
+vendor_id: redragon
+name: M816-Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redragon:m816\-pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m816-pro
+  confidence: auto

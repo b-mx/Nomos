@@ -1,0 +1,10 @@
+id: iq-wifi-6
+vendor_id: johnsoncontrols
+name: Iq Wifi 6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:iq_wifi_6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq_wifi_6
+  confidence: auto

@@ -1,0 +1,10 @@
+id: compute
+vendor_id: openstack
+name: Compute
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:compute:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compute
+  confidence: auto

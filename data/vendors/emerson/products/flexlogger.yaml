@@ -1,0 +1,10 @@
+id: flexlogger
+vendor_id: emerson
+name: Flexlogger
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:flexlogger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexlogger
+  confidence: auto

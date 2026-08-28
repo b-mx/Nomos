@@ -1,0 +1,10 @@
+id: d190
+vendor_id: paxtechnology
+name: D190
+type: hardware
+tags: []
+cpe: cpe:2.3:h:paxtechnology:d190:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d190
+  confidence: auto

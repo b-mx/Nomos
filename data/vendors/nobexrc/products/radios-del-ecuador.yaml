@@ -1,0 +1,10 @@
+id: radios-del-ecuador
+vendor_id: nobexrc
+name: Radios Del Ecuador
+type: software
+tags: []
+cpe: cpe:2.3:a:nobexrc:radios_del_ecuador:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radios_del_ecuador
+  confidence: auto

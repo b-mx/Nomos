@@ -1,0 +1,10 @@
+id: cordless-freedom
+vendor_id: logitech
+name: Cordless Freedom
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:cordless_freedom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cordless_freedom
+  confidence: auto

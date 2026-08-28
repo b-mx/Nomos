@@ -1,0 +1,10 @@
+id: ideapad-100-14iby
+vendor_id: lenovo
+name: Ideapad 100-14Iby
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideapad_100\-14iby:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_100-14iby
+  confidence: auto

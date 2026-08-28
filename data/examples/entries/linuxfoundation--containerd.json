@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--containerd",
+  "vendor_id": "linuxfoundation",
+  "product_id": "containerd",
+  "name": "containerd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "containerd",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "containerd",
+      "confidence": "auto"
+    }
+  ]
+}

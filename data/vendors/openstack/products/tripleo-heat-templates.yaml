@@ -1,0 +1,10 @@
+id: tripleo-heat-templates
+vendor_id: openstack
+name: Tripleo Heat Templates
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:tripleo_heat_templates:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tripleo_heat_templates
+  confidence: auto

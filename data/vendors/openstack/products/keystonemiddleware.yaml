@@ -1,0 +1,10 @@
+id: keystonemiddleware
+vendor_id: openstack
+name: Keystonemiddleware
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:keystonemiddleware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keystonemiddleware
+  confidence: auto

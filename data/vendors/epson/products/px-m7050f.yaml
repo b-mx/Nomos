@@ -1,0 +1,10 @@
+id: px-m7050f
+vendor_id: epson
+name: Px-M7050F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-m7050f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-m7050f
+  confidence: auto

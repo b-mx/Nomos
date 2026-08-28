@@ -1,0 +1,10 @@
+id: simple-pizza-ordering-system
+vendor_id: carmelo
+name: Simple Pizza Ordering System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:simple_pizza_ordering_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_pizza_ordering_system
+  confidence: auto

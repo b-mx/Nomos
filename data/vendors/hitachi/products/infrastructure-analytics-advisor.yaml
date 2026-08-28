@@ -1,0 +1,10 @@
+id: infrastructure-analytics-advisor
+vendor_id: hitachi
+name: Infrastructure Analytics Advisor
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:infrastructure_analytics_advisor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infrastructure_analytics_advisor
+  confidence: auto

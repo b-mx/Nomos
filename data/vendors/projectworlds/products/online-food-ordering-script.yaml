@@ -1,0 +1,10 @@
+id: online-food-ordering-script
+vendor_id: projectworlds
+name: Online Food Ordering Script
+type: software
+tags: []
+cpe: cpe:2.3:a:projectworlds:online_food_ordering_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_food_ordering_script
+  confidence: auto

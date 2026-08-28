@@ -1,0 +1,10 @@
+id: m301-g
+vendor_id: proscend
+name: M301-G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:proscend:m301\-g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m301-g
+  confidence: auto

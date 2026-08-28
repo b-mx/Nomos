@@ -1,0 +1,10 @@
+id: bs-gsl2024-firmware
+vendor_id: buffalo
+name: Bs-Gsl2024 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:bs\-gsl2024_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bs-gsl2024_firmware
+  confidence: auto

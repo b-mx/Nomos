@@ -1,0 +1,10 @@
+id: kunai
+vendor_id: cybozu
+name: Kunai
+type: software
+tags: []
+cpe: cpe:2.3:a:cybozu:kunai:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kunai
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ssl-vpn
+vendor_id: nortel
+name: Ssl Vpn
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:ssl_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ssl_vpn
+  confidence: auto

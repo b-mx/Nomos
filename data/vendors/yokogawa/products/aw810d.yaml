@@ -1,0 +1,10 @@
+id: aw810d
+vendor_id: yokogawa
+name: Aw810D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yokogawa:aw810d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aw810d
+  confidence: auto

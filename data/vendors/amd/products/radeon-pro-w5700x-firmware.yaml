@@ -1,0 +1,10 @@
+id: radeon-pro-w5700x-firmware
+vendor_id: amd
+name: Radeon Pro W5700X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:radeon_pro_w5700x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radeon_pro_w5700x_firmware
+  confidence: auto

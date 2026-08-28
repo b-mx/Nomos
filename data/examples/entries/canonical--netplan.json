@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--netplan",
+  "vendor_id": "canonical",
+  "product_id": "netplan",
+  "name": "Netplan",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "netplan",
+      "confidence": "auto"
+    }
+  ]
+}

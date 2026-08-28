@@ -1,0 +1,10 @@
+id: tippingpoint-ips-tos
+vendor_id: 3com
+name: Tippingpoint Ips Tos
+type: os
+tags: []
+cpe: cpe:2.3:o:3com:tippingpoint_ips_tos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tippingpoint_ips_tos
+  confidence: auto

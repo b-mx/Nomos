@@ -1,0 +1,10 @@
+id: sysmac-cs1w-spu01-v2-firmware
+vendor_id: omron
+name: Sysmac Cs1W-Spu01-V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:sysmac_cs1w\-spu01\-v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cs1w-spu01-v2_firmware
+  confidence: auto

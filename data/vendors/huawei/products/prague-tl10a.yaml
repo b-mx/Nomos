@@ -1,0 +1,10 @@
+id: prague-tl10a
+vendor_id: huawei
+name: Prague-Tl10A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:prague\-tl10a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prague-tl10a
+  confidence: auto

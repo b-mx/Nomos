@@ -1,0 +1,10 @@
+id: just-office
+vendor_id: justsystems
+name: Just Office
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:just_office:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: just_office
+  confidence: auto

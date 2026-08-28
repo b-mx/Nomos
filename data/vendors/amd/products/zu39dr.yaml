@@ -1,0 +1,10 @@
+id: zu39dr
+vendor_id: amd
+name: Zu39Dr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:zu39dr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu39dr
+  confidence: auto

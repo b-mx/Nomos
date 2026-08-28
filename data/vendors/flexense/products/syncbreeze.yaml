@@ -1,0 +1,10 @@
+id: syncbreeze
+vendor_id: flexense
+name: Syncbreeze
+type: software
+tags: []
+cpe: cpe:2.3:a:flexense:syncbreeze:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: syncbreeze
+  confidence: auto

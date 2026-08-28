@@ -1,0 +1,10 @@
+id: color-calibration-utility
+vendor_id: epson
+name: Color Calibration Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:color_calibration_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_calibration_utility
+  confidence: auto

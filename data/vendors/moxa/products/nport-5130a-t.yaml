@@ -1,0 +1,10 @@
+id: nport-5130a-t
+vendor_id: moxa
+name: Nport 5130A-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_5130a\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5130a-t
+  confidence: auto

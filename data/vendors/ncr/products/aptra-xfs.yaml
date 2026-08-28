@@ -1,0 +1,10 @@
+id: aptra-xfs
+vendor_id: ncr
+name: Aptra Xfs
+type: os
+tags: []
+cpe: cpe:2.3:o:ncr:aptra_xfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aptra_xfs
+  confidence: auto

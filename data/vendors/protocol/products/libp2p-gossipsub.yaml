@@ -1,0 +1,10 @@
+id: libp2p-gossipsub
+vendor_id: protocol
+name: Libp2P-Gossipsub
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:libp2p\-gossipsub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libp2p-gossipsub
+  confidence: auto

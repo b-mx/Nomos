@@ -1,0 +1,10 @@
+id: foxit-reader
+vendor_id: foxitsoftware
+name: Foxit Reader
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:foxit_reader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foxit_reader
+  confidence: auto

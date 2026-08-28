@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--k1spes",
+  "vendor_id": "supermicro",
+  "product_id": "k1spes",
+  "name": "K1Spes",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k1spes",
+      "confidence": "auto"
+    }
+  ]
+}

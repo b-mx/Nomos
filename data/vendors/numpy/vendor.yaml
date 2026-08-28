@@ -1,0 +1,7 @@
+id: numpy
+name: Numpy
+cpe: cpe:2.3:*:numpy:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: numpy
+  confidence: auto

@@ -1,0 +1,10 @@
+id: im-350f
+vendor_id: ricoh
+name: Im 350F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_350f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_350f
+  confidence: auto

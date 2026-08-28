@@ -1,0 +1,10 @@
+id: nonstop-server
+vendor_id: hp
+name: Nonstop Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:nonstop_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nonstop_server
+  confidence: auto

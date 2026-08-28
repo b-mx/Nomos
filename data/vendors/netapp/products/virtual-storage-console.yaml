@@ -1,0 +1,10 @@
+id: virtual-storage-console
+vendor_id: netapp
+name: Virtual Storage Console
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:virtual_storage_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_storage_console
+  confidence: auto

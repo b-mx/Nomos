@@ -1,0 +1,10 @@
+id: network-camera-server-vb101
+vendor_id: canon
+name: Network Camera Server Vb101
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:network_camera_server_vb101:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_camera_server_vb101
+  confidence: auto

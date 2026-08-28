@@ -1,0 +1,10 @@
+id: efs-csi-driver
+vendor_id: amazon
+name: Efs Csi Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:efs_csi_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: efs_csi_driver
+  confidence: auto

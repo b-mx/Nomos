@@ -1,0 +1,10 @@
+id: studio-5000-logix-designer
+vendor_id: rockwellautomation
+name: Studio 5000 Logix Designer
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:studio_5000_logix_designer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_5000_logix_designer
+  confidence: auto

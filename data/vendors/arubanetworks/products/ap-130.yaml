@@ -1,0 +1,10 @@
+id: ap-130
+vendor_id: arubanetworks
+name: Ap-130
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-130:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-130
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "att--status",
+  "vendor_id": "att",
+  "product_id": "status",
+  "name": "Status",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "status",
+      "confidence": "auto"
+    }
+  ]
+}

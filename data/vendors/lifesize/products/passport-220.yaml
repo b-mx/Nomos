@@ -1,0 +1,10 @@
+id: passport-220
+vendor_id: lifesize
+name: Passport 220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lifesize:passport_220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: passport_220
+  confidence: auto

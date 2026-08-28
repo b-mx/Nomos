@@ -1,0 +1,10 @@
+id: h11dsu-in
+vendor_id: supermicro
+name: H11Dsu-In
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h11dsu\-in:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h11dsu-in
+  confidence: auto

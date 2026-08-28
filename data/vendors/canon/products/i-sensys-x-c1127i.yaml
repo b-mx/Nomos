@@ -1,0 +1,10 @@
+id: i-sensys-x-c1127i
+vendor_id: canon
+name: I-Sensys X C1127I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:i\-sensys_x_c1127i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i-sensys_x_c1127i
+  confidence: auto

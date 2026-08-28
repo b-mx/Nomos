@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--prifnw1-firmware",
+  "vendor_id": "epson",
+  "product_id": "prifnw1-firmware",
+  "name": "Prifnw1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "prifnw1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

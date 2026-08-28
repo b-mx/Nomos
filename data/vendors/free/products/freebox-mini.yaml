@@ -1,0 +1,10 @@
+id: freebox-mini
+vendor_id: free
+name: Freebox Mini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:free:freebox_mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freebox_mini
+  confidence: auto

@@ -1,0 +1,10 @@
+id: businext
+vendor_id: thememove
+name: Businext
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:businext:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: businext
+  confidence: auto

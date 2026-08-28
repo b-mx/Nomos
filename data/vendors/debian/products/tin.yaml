@@ -1,0 +1,10 @@
+id: tin
+vendor_id: debian
+name: Tin
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:tin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tin
+  confidence: auto

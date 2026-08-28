@@ -1,0 +1,10 @@
+id: case-suite
+vendor_id: sauter-controls
+name: Case Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:sauter\-controls:case_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: case_suite
+  confidence: auto

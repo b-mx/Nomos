@@ -1,0 +1,10 @@
+id: openscape-deployment-service
+vendor_id: unify
+name: Openscape Deployment Service
+type: software
+tags: []
+cpe: cpe:2.3:a:unify:openscape_deployment_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openscape_deployment_service
+  confidence: auto

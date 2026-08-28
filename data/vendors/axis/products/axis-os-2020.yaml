@@ -1,0 +1,10 @@
+id: axis-os-2020
+vendor_id: axis
+name: Axis Os 2020
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:axis_os_2020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axis_os_2020
+  confidence: auto

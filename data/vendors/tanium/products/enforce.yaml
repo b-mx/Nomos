@@ -1,0 +1,10 @@
+id: enforce
+vendor_id: tanium
+name: Enforce
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:enforce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enforce
+  confidence: auto

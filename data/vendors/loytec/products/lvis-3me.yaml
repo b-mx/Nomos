@@ -1,0 +1,10 @@
+id: lvis-3me
+vendor_id: loytec
+name: Lvis-3Me
+type: hardware
+tags: []
+cpe: cpe:2.3:h:loytec:lvis\-3me:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lvis-3me
+  confidence: auto

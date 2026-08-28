@@ -1,0 +1,10 @@
+id: platform-common-services
+vendor_id: aveva
+name: Platform Common Services
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:platform_common_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: platform_common_services
+  confidence: auto

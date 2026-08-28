@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--e-series-santricity-os-controller",
+  "vendor_id": "netapp",
+  "product_id": "e-series-santricity-os-controller",
+  "name": "E-Series Santricity Os Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "e-series_santricity_os_controller",
+      "confidence": "auto"
+    }
+  ]
+}

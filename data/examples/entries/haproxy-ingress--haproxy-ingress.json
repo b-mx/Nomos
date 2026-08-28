@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "haproxy-ingress--haproxy-ingress",
+  "vendor_id": "haproxy-ingress",
+  "product_id": "haproxy-ingress",
+  "name": "HAProxy Ingress",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "haproxy-ingress",
+      "confidence": "auto"
+    }
+  ]
+}

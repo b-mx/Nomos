@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "extremenetworks--iq-engine",
+  "vendor_id": "extremenetworks",
+  "product_id": "iq-engine",
+  "name": "Iq Engine",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iq_engine",
+      "confidence": "auto"
+    }
+  ]
+}

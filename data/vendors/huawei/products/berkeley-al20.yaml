@@ -1,0 +1,10 @@
+id: berkeley-al20
+vendor_id: huawei
+name: Berkeley-Al20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:berkeley\-al20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: berkeley-al20
+  confidence: auto

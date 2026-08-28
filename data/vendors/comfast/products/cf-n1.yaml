@@ -1,0 +1,10 @@
+id: cf-n1
+vendor_id: comfast
+name: Cf-N1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:comfast:cf\-n1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf-n1
+  confidence: auto

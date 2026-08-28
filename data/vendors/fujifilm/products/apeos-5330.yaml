@@ -1,0 +1,10 @@
+id: apeos-5330
+vendor_id: fujifilm
+name: Apeos 5330
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_5330:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_5330
+  confidence: auto

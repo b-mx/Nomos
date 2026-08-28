@@ -1,0 +1,10 @@
+id: imaster-nce-fabric-firmware
+vendor_id: huawei
+name: Imaster Nce-Fabric Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:imaster_nce\-fabric_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imaster_nce-fabric_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xc9225
+vendor_id: lexmark
+name: Xc9225
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xc9225:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xc9225
+  confidence: auto

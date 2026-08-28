@@ -1,0 +1,10 @@
+id: passport
+vendor_id: fastify
+name: Passport
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:passport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: passport
+  confidence: auto

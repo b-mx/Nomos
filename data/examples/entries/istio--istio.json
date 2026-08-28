@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "istio--istio",
+  "vendor_id": "istio",
+  "product_id": "istio",
+  "name": "Istio",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "istio",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "istio",
+      "confidence": "auto"
+    }
+  ]
+}

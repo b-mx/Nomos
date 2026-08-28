@@ -1,0 +1,10 @@
+id: meta-spark-studio
+vendor_id: facebook
+name: Meta Spark Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:meta_spark_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meta_spark_studio
+  confidence: auto

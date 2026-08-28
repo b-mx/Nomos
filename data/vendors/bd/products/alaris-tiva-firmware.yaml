@@ -1,0 +1,10 @@
+id: alaris-tiva-firmware
+vendor_id: bd
+name: Alaris Tiva Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:alaris_tiva_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_tiva_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flexible-payments-service
+vendor_id: amazon
+name: Flexible Payments Service
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:flexible_payments_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexible_payments_service
+  confidence: auto

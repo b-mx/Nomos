@@ -1,0 +1,10 @@
+id: e5572-855-firmware
+vendor_id: huawei
+name: E5572-855 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:e5572\-855_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e5572-855_firmware
+  confidence: auto

@@ -1,0 +1,7 @@
+id: frappe
+name: Frappe
+cpe: cpe:2.3:*:frappe:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frappe
+  confidence: auto

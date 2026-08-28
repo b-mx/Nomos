@@ -1,0 +1,10 @@
+id: predator-connect-w6x-firmware
+vendor_id: acer
+name: Predator Connect W6X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:predator_connect_w6x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: predator_connect_w6x_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: protouch-autogloss
+vendor_id: pdqinc
+name: Protouch Autogloss
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pdqinc:protouch_autogloss:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protouch_autogloss
+  confidence: auto

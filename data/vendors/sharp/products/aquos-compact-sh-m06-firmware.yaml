@@ -1,0 +1,10 @@
+id: aquos-compact-sh-m06-firmware
+vendor_id: sharp
+name: Aquos Compact Sh-M06 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:aquos_compact_sh\-m06_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_compact_sh-m06_firmware
+  confidence: auto

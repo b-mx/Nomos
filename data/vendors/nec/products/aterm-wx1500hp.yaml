@@ -1,0 +1,10 @@
+id: aterm-wx1500hp
+vendor_id: nec
+name: Aterm Wx1500Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wx1500hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wx1500hp
+  confidence: auto

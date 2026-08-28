@@ -1,0 +1,10 @@
+id: mfc-l2720dn
+vendor_id: brother
+name: Mfc-L2720Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-l2720dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l2720dn
+  confidence: auto

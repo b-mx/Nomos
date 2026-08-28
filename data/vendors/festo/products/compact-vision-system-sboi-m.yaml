@@ -1,0 +1,10 @@
+id: compact-vision-system-sboi-m
+vendor_id: festo
+name: Compact Vision System Sboi-M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:compact_vision_system_sboi\-m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compact_vision_system_sboi-m
+  confidence: auto

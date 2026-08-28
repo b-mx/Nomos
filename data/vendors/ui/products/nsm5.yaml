@@ -1,0 +1,10 @@
+id: nsm5
+vendor_id: ui
+name: Nsm5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:nsm5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nsm5
+  confidence: auto

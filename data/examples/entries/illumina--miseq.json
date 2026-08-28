@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "illumina--miseq",
+  "vendor_id": "illumina",
+  "product_id": "miseq",
+  "name": "Miseq",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "miseq",
+      "confidence": "auto"
+    }
+  ]
+}

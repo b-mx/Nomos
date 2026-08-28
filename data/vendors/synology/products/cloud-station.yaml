@@ -1,0 +1,10 @@
+id: cloud-station
+vendor_id: synology
+name: Cloud Station
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:cloud_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_station
+  confidence: auto

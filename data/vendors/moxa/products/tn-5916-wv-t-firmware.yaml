@@ -1,0 +1,10 @@
+id: tn-5916-wv-t-firmware
+vendor_id: moxa
+name: Tn-5916-Wv-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:tn\-5916\-wv\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tn-5916-wv-t_firmware
+  confidence: auto

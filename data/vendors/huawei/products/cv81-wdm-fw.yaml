@@ -1,0 +1,10 @@
+id: cv81-wdm-fw
+vendor_id: huawei
+name: Cv81-Wdm Fw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cv81\-wdm_fw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cv81-wdm_fw
+  confidence: auto

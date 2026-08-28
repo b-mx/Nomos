@@ -1,0 +1,10 @@
+id: system-manager
+vendor_id: netapp
+name: System Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:system_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_manager
+  confidence: auto

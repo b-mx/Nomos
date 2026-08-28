@@ -1,0 +1,10 @@
+id: cs1d-cpu44s
+vendor_id: omron
+name: Cs1D-Cpu44S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cs1d\-cpu44s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1d-cpu44s
+  confidence: auto

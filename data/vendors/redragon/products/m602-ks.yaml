@@ -1,0 +1,10 @@
+id: m602-ks
+vendor_id: redragon
+name: M602-Ks
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redragon:m602\-ks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m602-ks
+  confidence: auto

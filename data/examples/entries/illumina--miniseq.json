@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "illumina--miniseq",
+  "vendor_id": "illumina",
+  "product_id": "miniseq",
+  "name": "Miniseq",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "miniseq",
+      "confidence": "auto"
+    }
+  ]
+}

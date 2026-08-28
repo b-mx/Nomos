@@ -1,0 +1,10 @@
+id: aws-sdk-java
+vendor_id: amazon
+name: Aws-Sdk-Java
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws\-sdk\-java:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws-sdk-java
+  confidence: auto

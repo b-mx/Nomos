@@ -1,0 +1,10 @@
+id: bond-al10b
+vendor_id: huawei
+name: Bond-Al10B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:bond\-al10b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bond-al10b
+  confidence: auto

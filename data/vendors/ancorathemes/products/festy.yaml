@@ -1,0 +1,10 @@
+id: festy
+vendor_id: ancorathemes
+name: Festy
+type: software
+tags: []
+cpe: cpe:2.3:a:ancorathemes:festy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: festy
+  confidence: auto

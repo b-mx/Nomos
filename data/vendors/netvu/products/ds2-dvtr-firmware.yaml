@@ -1,0 +1,10 @@
+id: ds2-dvtr-firmware
+vendor_id: netvu
+name: Ds2 (Dvtr) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netvu:ds2_\(dvtr\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds2_(dvtr)_firmware
+  confidence: auto

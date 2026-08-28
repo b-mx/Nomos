@@ -1,0 +1,10 @@
+id: network-configurator-for-devicenet-safety
+vendor_id: omron
+name: Network Configurator For Devicenet Safety
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:network_configurator_for_devicenet_safety:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_configurator_for_devicenet_safety
+  confidence: auto

@@ -1,0 +1,13 @@
+id: chef-inspec
+vendor_id: chef
+name: Chef InSpec
+type: software
+tags: []
+cpe: cpe:2.3:a:chef:inspec:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: chef-inspec
+  confidence: auto
+- source: nvd
+  value: inspec
+  confidence: auto

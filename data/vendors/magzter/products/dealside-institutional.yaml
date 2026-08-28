@@ -1,0 +1,10 @@
+id: dealside-institutional
+vendor_id: magzter
+name: Dealside Institutional
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:dealside_institutional:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dealside_institutional
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wex-300-firmware
+vendor_id: buffalotech
+name: Wex-300 Firmware
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:wex\-300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wex-300_firmware
+  confidence: auto

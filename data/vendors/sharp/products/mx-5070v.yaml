@@ -1,0 +1,10 @@
+id: mx-5070v
+vendor_id: sharp
+name: Mx-5070V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-5070v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-5070v
+  confidence: auto

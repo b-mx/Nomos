@@ -1,0 +1,10 @@
+id: kiestra-wca
+vendor_id: bd
+name: Kiestra Wca
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:kiestra_wca:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kiestra_wca
+  confidence: auto

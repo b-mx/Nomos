@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--debmake",
+  "vendor_id": "debian",
+  "product_id": "debmake",
+  "name": "Debmake",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "debmake",
+      "confidence": "auto"
+    }
+  ]
+}

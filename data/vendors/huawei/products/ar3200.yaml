@@ -1,0 +1,10 @@
+id: ar3200
+vendor_id: huawei
+name: Ar3200
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ar3200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar3200
+  confidence: auto

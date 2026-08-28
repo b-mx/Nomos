@@ -1,0 +1,10 @@
+id: continuous-delivery
+vendor_id: puppet
+name: Continuous Delivery
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:continuous_delivery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: continuous_delivery
+  confidence: auto

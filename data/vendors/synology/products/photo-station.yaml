@@ -1,0 +1,10 @@
+id: photo-station
+vendor_id: synology
+name: Photo Station
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:photo_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photo_station
+  confidence: auto

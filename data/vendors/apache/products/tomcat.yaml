@@ -2,8 +2,7 @@ id: tomcat
 vendor_id: apache
 name: Tomcat
 type: software
-tags:
-- webserver
+tags: []
 aliases:
 - source: cisa_kev
   value: Tomcat

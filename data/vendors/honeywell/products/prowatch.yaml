@@ -1,0 +1,10 @@
+id: prowatch
+vendor_id: honeywell
+name: Prowatch
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:prowatch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prowatch
+  confidence: auto

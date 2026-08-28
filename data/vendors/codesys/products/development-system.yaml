@@ -1,0 +1,10 @@
+id: development-system
+vendor_id: codesys
+name: Development System
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:development_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: development_system
+  confidence: auto

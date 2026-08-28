@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emerson--openenterprise-scada-server",
+  "vendor_id": "emerson",
+  "product_id": "openenterprise-scada-server",
+  "name": "Openenterprise Scada Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openenterprise_scada_server",
+      "confidence": "auto"
+    }
+  ]
+}

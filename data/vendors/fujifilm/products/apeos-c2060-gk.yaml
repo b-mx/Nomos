@@ -1,0 +1,10 @@
+id: apeos-c2060-gk
+vendor_id: fujifilm
+name: Apeos C2060 Gk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_c2060_gk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_c2060_gk
+  confidence: auto

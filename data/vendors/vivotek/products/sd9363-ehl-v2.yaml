@@ -1,0 +1,10 @@
+id: sd9363-ehl-v2
+vendor_id: vivotek
+name: Sd9363-Ehl-V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:sd9363\-ehl\-v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd9363-ehl-v2
+  confidence: auto

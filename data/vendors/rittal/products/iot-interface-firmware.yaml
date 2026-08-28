@@ -1,0 +1,10 @@
+id: iot-interface-firmware
+vendor_id: rittal
+name: Iot Interface Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rittal:iot_interface_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iot_interface_firmware
+  confidence: auto

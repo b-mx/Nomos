@@ -1,0 +1,10 @@
+id: libcroco
+vendor_id: gnome
+name: Libcroco
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:libcroco:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libcroco
+  confidence: auto

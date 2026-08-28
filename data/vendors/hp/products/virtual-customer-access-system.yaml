@@ -1,0 +1,10 @@
+id: virtual-customer-access-system
+vendor_id: hp
+name: Virtual Customer Access System
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:virtual_customer_access_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_customer_access_system
+  confidence: auto

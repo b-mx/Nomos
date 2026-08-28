@@ -1,0 +1,10 @@
+id: tire-analytics
+vendor_id: sick
+name: Tire Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:tire_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tire_analytics
+  confidence: auto

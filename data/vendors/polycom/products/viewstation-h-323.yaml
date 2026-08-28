@@ -1,0 +1,10 @@
+id: viewstation-h-323
+vendor_id: polycom
+name: Viewstation H.323
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:viewstation_h\.323:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viewstation_h.323
+  confidence: auto

@@ -1,0 +1,10 @@
+id: math-game
+vendor_id: remyandrade
+name: Math Game
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:math_game:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: math_game
+  confidence: auto

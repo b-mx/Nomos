@@ -1,0 +1,10 @@
+id: blackberry-os
+vendor_id: blackberry
+name: Blackberry Os
+type: os
+tags: []
+cpe: cpe:2.3:o:blackberry:blackberry_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry_os
+  confidence: auto

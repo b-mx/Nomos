@@ -1,0 +1,10 @@
+id: ip-office
+vendor_id: avaya
+name: Ip Office
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:ip_office:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_office
+  confidence: auto

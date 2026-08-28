@@ -1,0 +1,10 @@
+id: xgi-d21a
+vendor_id: ls-electric
+name: Xgi-D21A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xgi\-d21a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgi-d21a
+  confidence: auto

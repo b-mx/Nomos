@@ -1,0 +1,10 @@
+id: tw-50a
+vendor_id: mitsubishi
+name: Tw-50A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:tw\-50a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tw-50a
+  confidence: auto

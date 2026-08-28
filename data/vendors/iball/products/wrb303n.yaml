@@ -1,0 +1,10 @@
+id: wrb303n
+vendor_id: iball
+name: Wrb303N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iball:wrb303n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrb303n
+  confidence: auto

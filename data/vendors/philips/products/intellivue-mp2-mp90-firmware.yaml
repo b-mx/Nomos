@@ -1,0 +1,10 @@
+id: intellivue-mp2-mp90-firmware
+vendor_id: philips
+name: Intellivue Mp2-Mp90 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:intellivue_mp2\-mp90_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellivue_mp2-mp90_firmware
+  confidence: auto

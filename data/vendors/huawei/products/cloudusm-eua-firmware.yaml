@@ -1,0 +1,10 @@
+id: cloudusm-eua-firmware
+vendor_id: huawei
+name: Cloudusm-Eua Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:cloudusm\-eua_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudusm-eua_firmware
+  confidence: auto

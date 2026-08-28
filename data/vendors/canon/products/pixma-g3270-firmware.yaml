@@ -1,0 +1,10 @@
+id: pixma-g3270-firmware
+vendor_id: canon
+name: Pixma G3270 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:pixma_g3270_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pixma_g3270_firmware
+  confidence: auto

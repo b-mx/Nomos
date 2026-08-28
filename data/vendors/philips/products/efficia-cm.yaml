@@ -1,0 +1,10 @@
+id: efficia-cm
+vendor_id: philips
+name: Efficia Cm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:efficia_cm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: efficia_cm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cz251a
+vendor_id: hp
+name: Cz251A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz251a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz251a
+  confidence: auto

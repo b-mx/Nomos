@@ -1,0 +1,10 @@
+id: wn531g3-firmware
+vendor_id: wavlink
+name: Wn531G3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wavlink:wn531g3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn531g3_firmware
+  confidence: auto

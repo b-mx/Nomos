@@ -1,0 +1,10 @@
+id: lenovo-ideapad-320-15abr-firmware
+vendor_id: hp
+name: Lenovo Ideapad 320-15Abr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:lenovo_ideapad_320\-15abr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_ideapad_320-15abr_firmware
+  confidence: auto

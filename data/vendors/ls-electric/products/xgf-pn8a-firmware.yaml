@@ -1,0 +1,10 @@
+id: xgf-pn8a-firmware
+vendor_id: ls-electric
+name: Xgf-Pn8A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgf\-pn8a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgf-pn8a_firmware
+  confidence: auto

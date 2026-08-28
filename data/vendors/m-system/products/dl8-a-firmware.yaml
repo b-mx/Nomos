@@ -1,0 +1,10 @@
+id: dl8-a-firmware
+vendor_id: m-system
+name: Dl8-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:m\-system:dl8\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dl8-a_firmware
+  confidence: auto

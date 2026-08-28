@@ -1,0 +1,10 @@
+id: laser-mfp-130-4zb92a
+vendor_id: hp
+name: Laser Mfp 130 4Zb92A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laser_mfp_130_4zb92a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laser_mfp_130_4zb92a
+  confidence: auto

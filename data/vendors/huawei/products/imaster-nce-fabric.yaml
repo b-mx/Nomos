@@ -1,0 +1,10 @@
+id: imaster-nce-fabric
+vendor_id: huawei
+name: Imaster Nce-Fabric
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:imaster_nce\-fabric:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imaster_nce-fabric
+  confidence: auto

@@ -1,0 +1,10 @@
+id: site24x7-mobile-network-poller
+vendor_id: zohocorp
+name: Site24X7 Mobile Network Poller
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:site24x7_mobile_network_poller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: site24x7_mobile_network_poller
+  confidence: auto

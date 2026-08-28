@@ -1,0 +1,10 @@
+id: hima-l09ca-firmware
+vendor_id: huawei
+name: Hima-L09Ca Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hima\-l09ca_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hima-l09ca_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: apollo-r2000-chassis
+vendor_id: hp
+name: Apollo R2000 Chassis
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:apollo_r2000_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_r2000_chassis
+  confidence: auto

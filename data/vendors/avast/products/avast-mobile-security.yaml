@@ -1,0 +1,10 @@
+id: avast-mobile-security
+vendor_id: avast
+name: Avast! Mobile Security
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:avast\!_mobile_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avast!_mobile_security
+  confidence: auto

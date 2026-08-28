@@ -1,0 +1,10 @@
+id: fr-e800-epa
+vendor_id: mitsubishielectric
+name: Fr-E800-Epa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:fr\-e800\-epa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fr-e800-epa
+  confidence: auto

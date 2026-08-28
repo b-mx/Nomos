@@ -1,0 +1,10 @@
+id: gfax
+vendor_id: debian
+name: Gfax
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:gfax:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gfax
+  confidence: auto

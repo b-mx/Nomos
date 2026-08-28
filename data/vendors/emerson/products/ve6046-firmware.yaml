@@ -1,0 +1,10 @@
+id: ve6046-firmware
+vendor_id: emerson
+name: Ve6046 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:ve6046_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ve6046_firmware
+  confidence: auto

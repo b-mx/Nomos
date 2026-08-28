@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--garden",
+  "vendor_id": "cloudfoundry",
+  "product_id": "garden",
+  "name": "Garden",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "garden",
+      "confidence": "auto"
+    }
+  ]
+}

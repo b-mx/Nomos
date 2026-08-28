@@ -1,0 +1,10 @@
+id: mf210
+vendor_id: canon
+name: Mf210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:mf210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf210
+  confidence: auto

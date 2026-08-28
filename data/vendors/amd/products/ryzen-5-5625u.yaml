@@ -1,0 +1,10 @@
+id: ryzen-5-5625u
+vendor_id: amd
+name: Ryzen 5 5625U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_5625u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_5625u
+  confidence: auto

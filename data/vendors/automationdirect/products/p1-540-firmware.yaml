@@ -1,0 +1,10 @@
+id: p1-540-firmware
+vendor_id: automationdirect
+name: P1-540 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:p1\-540_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p1-540_firmware
+  confidence: auto

@@ -1,0 +1,9 @@
+id: configuration-manager
+vendor_id: microsoft
+name: Configuration Manager
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Configuration Manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: panda-adaptive-defense-360
+vendor_id: pandasecurity
+name: Panda Adaptive Defense 360
+type: software
+tags: []
+cpe: cpe:2.3:a:pandasecurity:panda_adaptive_defense_360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: panda_adaptive_defense_360
+  confidence: auto

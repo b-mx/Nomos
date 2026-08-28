@@ -1,0 +1,10 @@
+id: bodyguard-epidural-999-683-firmware
+vendor_id: bd
+name: Bodyguard Epidural 999-683 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:bodyguard_epidural_999\-683_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bodyguard_epidural_999-683_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vl-ipc-p7000
+vendor_id: phoenixcontact
+name: Vl Ipc P7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:vl_ipc_p7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vl_ipc_p7000
+  confidence: auto

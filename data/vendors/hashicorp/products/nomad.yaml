@@ -1,0 +1,13 @@
+id: nomad
+vendor_id: hashicorp
+name: Nomad
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:nomad:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: nomad
+  confidence: auto
+- source: nvd
+  value: nomad
+  confidence: auto

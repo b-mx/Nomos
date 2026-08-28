@@ -1,0 +1,10 @@
+id: t8w15b
+vendor_id: hp
+name: T8W15B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:t8w15b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t8w15b
+  confidence: auto

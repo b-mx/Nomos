@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mandriva--multi-network-firewall",
+  "vendor_id": "mandriva",
+  "product_id": "multi-network-firewall",
+  "name": "Multi Network Firewall",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "multi_network_firewall",
+      "confidence": "auto"
+    }
+  ]
+}

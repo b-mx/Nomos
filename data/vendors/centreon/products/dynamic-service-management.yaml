@@ -1,0 +1,10 @@
+id: dynamic-service-management
+vendor_id: centreon
+name: Dynamic Service Management
+type: software
+tags: []
+cpe: cpe:2.3:a:centreon:dynamic_service_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dynamic_service_management
+  confidence: auto

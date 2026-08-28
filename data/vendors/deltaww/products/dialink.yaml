@@ -1,0 +1,10 @@
+id: dialink
+vendor_id: deltaww
+name: Dialink
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:dialink:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dialink
+  confidence: auto

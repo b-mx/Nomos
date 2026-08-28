@@ -1,0 +1,10 @@
+id: unifi-52
+vendor_id: ui
+name: Unifi 52
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:unifi_52:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_52
+  confidence: auto

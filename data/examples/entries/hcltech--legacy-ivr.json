@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hcltech--legacy-ivr",
+  "vendor_id": "hcltech",
+  "product_id": "legacy-ivr",
+  "name": "Legacy Ivr",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "legacy_ivr",
+      "confidence": "auto"
+    }
+  ]
+}

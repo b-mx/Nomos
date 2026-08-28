@@ -1,0 +1,10 @@
+id: mate-20-pro-ud
+vendor_id: huawei
+name: Mate 20 Pro (Ud)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:mate_20_pro_\(ud\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mate_20_pro_(ud)
+  confidence: auto

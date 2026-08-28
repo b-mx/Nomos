@@ -1,0 +1,10 @@
+id: mf641cw-firmware
+vendor_id: canon
+name: Mf641Cw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:mf641cw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf641cw_firmware
+  confidence: auto

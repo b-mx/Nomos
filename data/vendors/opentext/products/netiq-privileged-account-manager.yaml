@@ -1,0 +1,10 @@
+id: netiq-privileged-account-manager
+vendor_id: opentext
+name: Netiq Privileged Account Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:netiq_privileged_account_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netiq_privileged_account_manager
+  confidence: auto

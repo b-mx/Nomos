@@ -1,0 +1,10 @@
+id: game-boy-color-firmware
+vendor_id: nintendo
+name: Game Boy Color Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nintendo:game_boy_color_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: game_boy_color_firmware
+  confidence: auto

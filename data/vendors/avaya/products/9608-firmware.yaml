@@ -1,0 +1,10 @@
+id: 9608-firmware
+vendor_id: avaya
+name: 9608 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:avaya:9608_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9608_firmware
+  confidence: auto

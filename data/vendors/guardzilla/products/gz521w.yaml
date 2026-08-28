@@ -1,0 +1,10 @@
+id: gz521w
+vendor_id: guardzilla
+name: Gz521W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:guardzilla:gz521w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gz521w
+  confidence: auto

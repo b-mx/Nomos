@@ -1,0 +1,10 @@
+id: q-plus-firmware
+vendor_id: arlo
+name: Q Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arlo:q_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q_plus_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: geekbuddy
+vendor_id: comodo
+name: Geekbuddy
+type: software
+tags: []
+cpe: cpe:2.3:a:comodo:geekbuddy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: geekbuddy
+  confidence: auto

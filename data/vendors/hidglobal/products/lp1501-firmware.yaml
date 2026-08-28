@@ -1,0 +1,10 @@
+id: lp1501-firmware
+vendor_id: hidglobal
+name: Lp1501 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hidglobal:lp1501_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp1501_firmware
+  confidence: auto

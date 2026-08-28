@@ -1,0 +1,10 @@
+id: wdr-3124a-eu-firmware
+vendor_id: moxa
+name: Wdr-3124A-Eu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:wdr\-3124a\-eu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wdr-3124a-eu_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: elitebook-755-g3
+vendor_id: hp
+name: Elitebook 755 G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_755_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_755_g3
+  confidence: auto

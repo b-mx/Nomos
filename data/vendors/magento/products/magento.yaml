@@ -1,0 +1,13 @@
+id: magento
+vendor_id: magento
+name: Magento
+type: software
+tags: []
+cpe: cpe:2.3:a:magento:magento:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: magento
+  confidence: auto
+- source: nvd
+  value: magento
+  confidence: auto

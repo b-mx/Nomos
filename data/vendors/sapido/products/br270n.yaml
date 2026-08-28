@@ -1,0 +1,10 @@
+id: br270n
+vendor_id: sapido
+name: Br270N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sapido:br270n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: br270n
+  confidence: auto

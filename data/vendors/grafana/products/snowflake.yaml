@@ -1,0 +1,10 @@
+id: snowflake
+vendor_id: grafana
+name: Snowflake
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:snowflake:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snowflake
+  confidence: auto

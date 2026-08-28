@@ -1,0 +1,10 @@
+id: airbot-ava
+vendor_id: ecovacs
+name: Airbot Ava
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:airbot_ava:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airbot_ava
+  confidence: auto

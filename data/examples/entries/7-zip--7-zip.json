@@ -6,13 +6,13 @@
   "name": "7-Zip",
   "type": "software",
   "tags": [],
-  "icon": "simple-icons:7zip",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "7-Zip",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

@@ -1,0 +1,10 @@
+id: nrf5-sdk-for-mesh
+vendor_id: nordicsemi
+name: Nrf5 Sdk For Mesh
+type: software
+tags: []
+cpe: cpe:2.3:a:nordicsemi:nrf5_sdk_for_mesh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nrf5_sdk_for_mesh
+  confidence: auto

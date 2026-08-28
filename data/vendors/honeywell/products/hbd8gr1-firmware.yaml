@@ -1,0 +1,10 @@
+id: hbd8gr1-firmware
+vendor_id: honeywell
+name: Hbd8Gr1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hbd8gr1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hbd8gr1_firmware
+  confidence: auto

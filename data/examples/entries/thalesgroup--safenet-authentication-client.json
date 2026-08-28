@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "thalesgroup--safenet-authentication-client",
+  "vendor_id": "thalesgroup",
+  "product_id": "safenet-authentication-client",
+  "name": "Safenet Authentication Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "safenet_authentication_client",
+      "confidence": "auto"
+    }
+  ]
+}

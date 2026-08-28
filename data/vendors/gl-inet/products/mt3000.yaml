@@ -1,0 +1,10 @@
+id: mt3000
+vendor_id: gl-inet
+name: Mt3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:mt3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt3000
+  confidence: auto

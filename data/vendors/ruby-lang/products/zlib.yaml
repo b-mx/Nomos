@@ -1,0 +1,10 @@
+id: zlib
+vendor_id: ruby-lang
+name: Zlib
+type: software
+tags: []
+cpe: cpe:2.3:a:ruby\-lang:zlib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zlib
+  confidence: auto

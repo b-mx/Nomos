@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--backstage-plugin-techdocs",
+  "vendor_id": "linuxfoundation",
+  "product_id": "backstage-plugin-techdocs",
+  "name": "@Backstage/Plugin-Techdocs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "@backstage/plugin-techdocs",
+      "confidence": "auto"
+    }
+  ]
+}

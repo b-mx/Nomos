@@ -1,0 +1,10 @@
+id: inclinalysis-digital-inclinometer
+vendor_id: rstinstruments
+name: Inclinalysis Digital Inclinometer
+type: software
+tags: []
+cpe: cpe:2.3:a:rstinstruments:inclinalysis_digital_inclinometer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inclinalysis_digital_inclinometer
+  confidence: auto

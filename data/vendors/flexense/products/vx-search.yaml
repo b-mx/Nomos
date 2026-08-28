@@ -1,0 +1,10 @@
+id: vx-search
+vendor_id: flexense
+name: Vx Search
+type: software
+tags: []
+cpe: cpe:2.3:a:flexense:vx_search:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx_search
+  confidence: auto

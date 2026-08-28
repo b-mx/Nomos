@@ -1,0 +1,10 @@
+id: pa-tcu1
+vendor_id: epson
+name: Pa-Tcu1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:pa\-tcu1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pa-tcu1
+  confidence: auto

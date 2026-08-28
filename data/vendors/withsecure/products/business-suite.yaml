@@ -1,0 +1,10 @@
+id: business-suite
+vendor_id: withsecure
+name: Business Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:withsecure:business_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_suite
+  confidence: auto

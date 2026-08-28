@@ -1,0 +1,10 @@
+id: m3905-r
+vendor_id: axis
+name: M3905-R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m3905\-r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3905-r
+  confidence: auto

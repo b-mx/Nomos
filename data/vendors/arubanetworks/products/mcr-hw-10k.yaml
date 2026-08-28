@@ -1,0 +1,10 @@
+id: mcr-hw-10k
+vendor_id: arubanetworks
+name: Mcr-Hw-10K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:mcr\-hw\-10k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcr-hw-10k
+  confidence: auto

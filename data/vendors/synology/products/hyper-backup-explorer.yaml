@@ -1,0 +1,10 @@
+id: hyper-backup-explorer
+vendor_id: synology
+name: Hyper Backup Explorer
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:hyper_backup_explorer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hyper_backup_explorer
+  confidence: auto

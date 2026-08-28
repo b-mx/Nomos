@@ -1,0 +1,10 @@
+id: amazon-pay
+vendor_id: ec-cube
+name: Amazon Pay
+type: software
+tags: []
+cpe: cpe:2.3:a:ec\-cube:amazon_pay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_pay
+  confidence: auto

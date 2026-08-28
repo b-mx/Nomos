@@ -1,0 +1,10 @@
+id: h12dsg-o-cpu-firmware
+vendor_id: supermicro
+name: H12Dsg-O-Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:h12dsg\-o\-cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12dsg-o-cpu_firmware
+  confidence: auto

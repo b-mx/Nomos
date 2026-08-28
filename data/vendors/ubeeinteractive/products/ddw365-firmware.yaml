@@ -1,0 +1,10 @@
+id: ddw365-firmware
+vendor_id: ubeeinteractive
+name: Ddw365 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ubeeinteractive:ddw365_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ddw365_firmware
+  confidence: auto

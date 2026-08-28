@@ -1,0 +1,10 @@
+id: nhn-japan-naver-line
+vendor_id: naver
+name: Nhn Japan Naver Line
+type: software
+tags: []
+cpe: cpe:2.3:a:naver:nhn_japan_naver_line:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nhn_japan_naver_line
+  confidence: auto

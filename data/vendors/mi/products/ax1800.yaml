@@ -1,0 +1,10 @@
+id: ax1800
+vendor_id: mi
+name: Ax1800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:ax1800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax1800
+  confidence: auto

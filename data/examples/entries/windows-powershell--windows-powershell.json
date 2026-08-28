@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "windows-powershell--windows-powershell",
+  "vendor_id": "windows-powershell",
+  "product_id": "windows-powershell",
+  "name": "Microsoft Windows PowerShell",
+  "type": "library",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "windows-powershell",
+      "confidence": "auto"
+    }
+  ]
+}

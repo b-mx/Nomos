@@ -1,0 +1,10 @@
+id: designjet-t3500-b9e24a-firmware
+vendor_id: hp
+name: Designjet T3500 B9E24A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:designjet_t3500_b9e24a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_t3500_b9e24a_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--mt882-firmware",
+  "vendor_id": "huawei",
+  "product_id": "mt882-firmware",
+  "name": "Mt882 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mt882_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

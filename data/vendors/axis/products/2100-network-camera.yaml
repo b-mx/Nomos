@@ -1,0 +1,10 @@
+id: 2100-network-camera
+vendor_id: axis
+name: 2100 Network Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:2100_network_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2100_network_camera
+  confidence: auto

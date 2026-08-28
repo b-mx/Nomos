@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freedesktop--gst-plugins-bad",
+  "vendor_id": "freedesktop",
+  "product_id": "gst-plugins-bad",
+  "name": "Gst-Plugins-Bad",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gst-plugins-bad",
+      "confidence": "auto"
+    }
+  ]
+}

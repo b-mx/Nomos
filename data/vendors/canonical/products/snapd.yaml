@@ -1,0 +1,10 @@
+id: snapd
+vendor_id: canonical
+name: Snapd
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:snapd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snapd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: legion-y545
+vendor_id: lenovo
+name: Legion Y545
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_y545:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y545
+  confidence: auto

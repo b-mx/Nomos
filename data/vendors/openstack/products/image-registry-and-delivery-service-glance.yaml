@@ -1,0 +1,10 @@
+id: image-registry-and-delivery-service-glance
+vendor_id: openstack
+name: Image Registry And Delivery Service (Glance)
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:image_registry_and_delivery_service_\(glance\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: image_registry_and_delivery_service_(glance)
+  confidence: auto

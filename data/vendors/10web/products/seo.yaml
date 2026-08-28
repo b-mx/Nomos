@@ -1,0 +1,10 @@
+id: seo
+vendor_id: 10web
+name: Seo
+type: software
+tags: []
+cpe: cpe:2.3:a:10web:seo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seo
+  confidence: auto

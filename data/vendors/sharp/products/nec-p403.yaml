@@ -1,0 +1,10 @@
+id: nec-p403
+vendor_id: sharp
+name: Nec P403
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:nec_p403:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_p403
+  confidence: auto

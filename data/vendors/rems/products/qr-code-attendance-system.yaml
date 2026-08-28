@@ -1,0 +1,10 @@
+id: qr-code-attendance-system
+vendor_id: rems
+name: Qr Code Attendance System
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:qr_code_attendance_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qr_code_attendance_system
+  confidence: auto

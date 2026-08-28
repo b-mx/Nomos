@@ -1,0 +1,10 @@
+id: spectre-rt-ert351
+vendor_id: advantech
+name: Spectre Rt Ert351
+type: hardware
+tags: []
+cpe: cpe:2.3:h:advantech:spectre_rt_ert351:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_rt_ert351
+  confidence: auto

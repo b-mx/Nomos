@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--330-firmware",
+  "vendor_id": "hp",
+  "product_id": "330-firmware",
+  "name": "330 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "330_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: church-donation-system
+vendor_id: carmelo
+name: Church Donation System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:church_donation_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: church_donation_system
+  confidence: auto

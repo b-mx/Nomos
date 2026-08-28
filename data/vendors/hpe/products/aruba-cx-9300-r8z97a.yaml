@@ -1,0 +1,10 @@
+id: aruba-cx-9300-r8z97a
+vendor_id: hpe
+name: Aruba Cx 9300 (R8Z97A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_9300_\(r8z97a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_9300_(r8z97a)
+  confidence: auto

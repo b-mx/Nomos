@@ -1,0 +1,10 @@
+id: x11opi-cpu
+vendor_id: supermicro
+name: X11Opi-Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11opi\-cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11opi-cpu
+  confidence: auto

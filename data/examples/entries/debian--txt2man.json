@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--txt2man",
+  "vendor_id": "debian",
+  "product_id": "txt2man",
+  "name": "Txt2Man",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "txt2man",
+      "confidence": "auto"
+    }
+  ]
+}

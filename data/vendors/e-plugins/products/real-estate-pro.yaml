@@ -1,0 +1,10 @@
+id: real-estate-pro
+vendor_id: e-plugins
+name: Real Estate Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:e\-plugins:real_estate_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: real_estate_pro
+  confidence: auto

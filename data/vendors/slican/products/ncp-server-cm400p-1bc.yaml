@@ -1,0 +1,10 @@
+id: ncp-server-cm400p-1bc
+vendor_id: slican
+name: Ncp Server Cm400P.1Bc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:slican:ncp_server_cm400p\.1bc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ncp_server_cm400p.1bc
+  confidence: auto

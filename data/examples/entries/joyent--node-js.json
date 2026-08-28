@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "joyent--node-js",
+  "vendor_id": "joyent",
+  "product_id": "node-js",
+  "name": "Node.Js",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "node.js",
+      "confidence": "auto"
+    }
+  ]
+}

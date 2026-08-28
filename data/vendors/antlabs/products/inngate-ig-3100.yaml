@@ -1,0 +1,10 @@
+id: inngate-ig-3100
+vendor_id: antlabs
+name: Inngate Ig 3100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:antlabs:inngate_ig_3100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inngate_ig_3100
+  confidence: auto

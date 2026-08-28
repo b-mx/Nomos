@@ -1,0 +1,10 @@
+id: zrender
+vendor_id: baidu
+name: Zrender
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:zrender:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zrender
+  confidence: auto

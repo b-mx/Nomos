@@ -1,0 +1,10 @@
+id: v320-15iap
+vendor_id: lenovo
+name: V320-15Iap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v320\-15iap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v320-15iap
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hen08104
+vendor_id: honeywell
+name: Hen08104
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hen08104:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hen08104
+  confidence: auto

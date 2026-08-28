@@ -1,0 +1,10 @@
+id: management-console
+vendor_id: amd
+name: Management Console
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:management_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: management_console
+  confidence: auto

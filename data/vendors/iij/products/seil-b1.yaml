@@ -1,0 +1,10 @@
+id: seil-b1
+vendor_id: iij
+name: Seil B1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iij:seil_b1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil_b1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mir100
+vendor_id: mobile-industrial-robots
+name: Mir100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mobile\-industrial\-robots:mir100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mir100
+  confidence: auto

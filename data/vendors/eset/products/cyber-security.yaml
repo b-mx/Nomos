@@ -1,0 +1,10 @@
+id: cyber-security
+vendor_id: eset
+name: Cyber Security
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:cyber_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyber_security
+  confidence: auto

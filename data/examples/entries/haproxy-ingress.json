@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "haproxy-ingress",
+  "vendor_id": "haproxy-ingress",
+  "name": "HAProxy Ingress",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "haproxy-ingress",
+      "confidence": "auto"
+    }
+  ]
+}

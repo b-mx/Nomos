@@ -1,0 +1,10 @@
+id: nport-6650-32-48v
+vendor_id: moxa
+name: Nport 6650-32-48V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_6650\-32\-48v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_6650-32-48v
+  confidence: auto

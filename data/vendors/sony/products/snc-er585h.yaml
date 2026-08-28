@@ -1,0 +1,10 @@
+id: snc-er585h
+vendor_id: sony
+name: Snc-Er585H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-er585h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-er585h
+  confidence: auto

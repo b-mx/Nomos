@@ -1,0 +1,10 @@
+id: fwx120
+vendor_id: yamaha
+name: Fwx120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:fwx120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fwx120
+  confidence: auto

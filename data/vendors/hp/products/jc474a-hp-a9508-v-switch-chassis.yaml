@@ -1,0 +1,10 @@
+id: jc474a-hp-a9508-v-switch-chassis
+vendor_id: hp
+name: Jc474A Hp A9508-V Switch Chassis
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc474a_hp_a9508\-v_switch_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc474a_hp_a9508-v_switch_chassis
+  confidence: auto

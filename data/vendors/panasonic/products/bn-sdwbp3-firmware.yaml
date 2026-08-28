@@ -1,0 +1,10 @@
+id: bn-sdwbp3-firmware
+vendor_id: panasonic
+name: Bn-Sdwbp3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:panasonic:bn\-sdwbp3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bn-sdwbp3_firmware
+  confidence: auto

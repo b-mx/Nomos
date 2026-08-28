@@ -1,0 +1,10 @@
+id: knt-firmware
+vendor_id: huawei
+name: Knt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:knt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: knt_firmware
+  confidence: auto

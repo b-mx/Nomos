@@ -1,0 +1,10 @@
+id: a77
+vendor_id: paxtechnology
+name: A77
+type: hardware
+tags: []
+cpe: cpe:2.3:h:paxtechnology:a77:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a77
+  confidence: auto

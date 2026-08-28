@@ -1,0 +1,10 @@
+id: tew-800mb
+vendor_id: trendnet
+name: Tew-800Mb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tew\-800mb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tew-800mb
+  confidence: auto

@@ -1,0 +1,10 @@
+id: secondclone
+vendor_id: 1byte
+name: Secondclone
+type: software
+tags: []
+cpe: cpe:2.3:a:1byte:secondclone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secondclone
+  confidence: auto

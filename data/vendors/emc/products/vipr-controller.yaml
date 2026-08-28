@@ -1,0 +1,10 @@
+id: vipr-controller
+vendor_id: emc
+name: Vipr Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:vipr_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vipr_controller
+  confidence: auto

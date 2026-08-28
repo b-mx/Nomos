@@ -1,0 +1,10 @@
+id: es8510
+vendor_id: pepperl-fuchs
+name: Es8510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pepperl\-fuchs:es8510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: es8510
+  confidence: auto

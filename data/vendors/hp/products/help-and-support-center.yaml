@@ -1,0 +1,10 @@
+id: help-and-support-center
+vendor_id: hp
+name: Help And Support Center
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:help_and_support_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: help_and_support_center
+  confidence: auto

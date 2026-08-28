@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--xc2132-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "xc2132-firmware",
+  "name": "Xc2132 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xc2132_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

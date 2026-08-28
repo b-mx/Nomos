@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rapid7--insightconnect-sqlmap",
+  "vendor_id": "rapid7",
+  "product_id": "insightconnect-sqlmap",
+  "name": "Insightconnect Sqlmap",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "insightconnect_sqlmap",
+      "confidence": "auto"
+    }
+  ]
+}

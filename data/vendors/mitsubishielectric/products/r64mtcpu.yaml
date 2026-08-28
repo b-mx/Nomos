@@ -1,0 +1,10 @@
+id: r64mtcpu
+vendor_id: mitsubishielectric
+name: R64Mtcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:r64mtcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r64mtcpu
+  confidence: auto

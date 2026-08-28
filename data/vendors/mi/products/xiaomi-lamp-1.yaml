@@ -1,0 +1,10 @@
+id: xiaomi-lamp-1
+vendor_id: mi
+name: Xiaomi Lamp 1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:xiaomi_lamp_1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaomi_lamp_1
+  confidence: auto

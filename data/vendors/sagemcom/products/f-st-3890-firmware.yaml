@@ -1,0 +1,10 @@
+id: f-st-3890-firmware
+vendor_id: sagemcom
+name: F@St 3890 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sagemcom:f\@st_3890_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f@st_3890_firmware
+  confidence: auto

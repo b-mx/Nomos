@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--log-correlation-engine",
+  "vendor_id": "tenable",
+  "product_id": "log-correlation-engine",
+  "name": "Log Correlation Engine",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "log_correlation_engine",
+      "confidence": "auto"
+    }
+  ]
+}

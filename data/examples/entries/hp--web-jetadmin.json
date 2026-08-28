@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--web-jetadmin",
+  "vendor_id": "hp",
+  "product_id": "web-jetadmin",
+  "name": "Web Jetadmin",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "web_jetadmin",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: nano-cpu-tuc-6941
+vendor_id: jtekt
+name: Nano Cpu Tuc-6941
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:nano_cpu_tuc\-6941:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nano_cpu_tuc-6941
+  confidence: auto

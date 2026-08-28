@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--m10-1-firmware",
+  "vendor_id": "fujitsu",
+  "product_id": "m10-1-firmware",
+  "name": "M10-1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m10-1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

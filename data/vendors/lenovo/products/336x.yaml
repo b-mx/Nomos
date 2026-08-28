@@ -1,0 +1,10 @@
+id: 336x
+vendor_id: lenovo
+name: 336X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:336x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 336x
+  confidence: auto

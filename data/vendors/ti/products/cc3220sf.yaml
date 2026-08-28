@@ -1,0 +1,10 @@
+id: cc3220sf
+vendor_id: ti
+name: Cc3220Sf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:cc3220sf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc3220sf
+  confidence: auto

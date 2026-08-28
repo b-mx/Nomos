@@ -1,0 +1,10 @@
+id: axi
+vendor_id: corsair
+name: Axi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:axi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axi
+  confidence: auto

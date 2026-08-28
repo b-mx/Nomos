@@ -1,0 +1,10 @@
+id: ats2819p-firmware
+vendor_id: actions-semi
+name: Ats2819P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:actions\-semi:ats2819p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ats2819p_firmware
+  confidence: auto

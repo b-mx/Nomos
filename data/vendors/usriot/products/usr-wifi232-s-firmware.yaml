@@ -1,0 +1,10 @@
+id: usr-wifi232-s-firmware
+vendor_id: usriot
+name: Usr-Wifi232-S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:usriot:usr\-wifi232\-s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usr-wifi232-s_firmware
+  confidence: auto

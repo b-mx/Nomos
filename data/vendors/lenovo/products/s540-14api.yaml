@@ -1,0 +1,10 @@
+id: s540-14api
+vendor_id: lenovo
+name: S540-14Api
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s540\-14api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s540-14api
+  confidence: auto

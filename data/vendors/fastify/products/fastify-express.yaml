@@ -1,0 +1,10 @@
+id: fastify-express
+vendor_id: fastify
+name: Fastify/Express
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:fastify\/express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastify/express
+  confidence: auto

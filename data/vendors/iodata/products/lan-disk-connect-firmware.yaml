@@ -1,0 +1,10 @@
+id: lan-disk-connect-firmware
+vendor_id: iodata
+name: Lan Disk Connect Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:lan_disk_connect_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan_disk_connect_firmware
+  confidence: auto

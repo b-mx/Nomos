@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "discourse--rails-multisite",
+  "vendor_id": "discourse",
+  "product_id": "rails-multisite",
+  "name": "Rails Multisite",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rails_multisite",
+      "confidence": "auto"
+    }
+  ]
+}

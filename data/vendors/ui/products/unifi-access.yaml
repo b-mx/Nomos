@@ -1,0 +1,10 @@
+id: unifi-access
+vendor_id: ui
+name: Unifi Access
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:unifi_access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_access
+  confidence: auto

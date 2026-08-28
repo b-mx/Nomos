@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--totalys-multiprocessor-firmware",
+  "vendor_id": "bd",
+  "product_id": "totalys-multiprocessor-firmware",
+  "name": "Totalys Multiprocessor Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "totalys_multiprocessor_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: skyhigh-secure-web-gateway
+vendor_id: trellix
+name: Skyhigh Secure Web Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:trellix:skyhigh_secure_web_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skyhigh_secure_web_gateway
+  confidence: auto

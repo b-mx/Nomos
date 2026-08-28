@@ -1,0 +1,10 @@
+id: proficy-cimplicitiy
+vendor_id: ge
+name: Proficy Cimplicitiy
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:proficy_cimplicitiy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proficy_cimplicitiy
+  confidence: auto

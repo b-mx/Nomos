@@ -1,0 +1,10 @@
+id: p4c78a-firmware
+vendor_id: hp
+name: P4C78A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:p4c78a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p4c78a_firmware
+  confidence: auto

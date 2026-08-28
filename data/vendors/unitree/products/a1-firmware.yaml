@@ -1,0 +1,10 @@
+id: a1-firmware
+vendor_id: unitree
+name: A1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:unitree:a1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1_firmware
+  confidence: auto

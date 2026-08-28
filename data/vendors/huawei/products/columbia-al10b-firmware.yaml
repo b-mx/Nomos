@@ -1,0 +1,10 @@
+id: columbia-al10b-firmware
+vendor_id: huawei
+name: Columbia-Al10B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:columbia\-al10b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: columbia-al10b_firmware
+  confidence: auto

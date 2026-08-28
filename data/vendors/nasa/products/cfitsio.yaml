@@ -1,0 +1,10 @@
+id: cfitsio
+vendor_id: nasa
+name: Cfitsio
+type: software
+tags: []
+cpe: cpe:2.3:a:nasa:cfitsio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cfitsio
+  confidence: auto

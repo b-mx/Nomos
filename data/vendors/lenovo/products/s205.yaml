@@ -1,0 +1,10 @@
+id: s205
+vendor_id: lenovo
+name: S205
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s205:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s205
+  confidence: auto

@@ -1,0 +1,10 @@
+id: shared-asset-booking-system
+vendor_id: phpjabbers
+name: Shared Asset Booking System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:shared_asset_booking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shared_asset_booking_system
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--chaivm",
+  "vendor_id": "hp",
+  "product_id": "chaivm",
+  "name": "Chaivm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "chaivm",
+      "confidence": "auto"
+    }
+  ]
+}

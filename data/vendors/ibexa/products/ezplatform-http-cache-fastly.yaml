@@ -1,0 +1,10 @@
+id: ezplatform-http-cache-fastly
+vendor_id: ibexa
+name: Ezplatform-Http-Cache-Fastly
+type: software
+tags: []
+cpe: cpe:2.3:a:ibexa:ezplatform\-http\-cache\-fastly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ezplatform-http-cache-fastly
+  confidence: auto

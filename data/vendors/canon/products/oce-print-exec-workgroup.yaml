@@ -1,0 +1,10 @@
+id: oce-print-exec-workgroup
+vendor_id: canon
+name: Oce Print Exec Workgroup
+type: software
+tags: []
+cpe: cpe:2.3:a:canon:oce_print_exec_workgroup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oce_print_exec_workgroup
+  confidence: auto

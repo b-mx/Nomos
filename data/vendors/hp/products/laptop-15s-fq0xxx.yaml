@@ -1,0 +1,10 @@
+id: laptop-15s-fq0xxx
+vendor_id: hp
+name: Laptop 15S-Fq0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_15s\-fq0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_15s-fq0xxx
+  confidence: auto

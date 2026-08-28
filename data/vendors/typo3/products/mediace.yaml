@@ -1,0 +1,10 @@
+id: mediace
+vendor_id: typo3
+name: Mediace
+type: software
+tags: []
+cpe: cpe:2.3:a:typo3:mediace:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mediace
+  confidence: auto

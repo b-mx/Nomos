@@ -1,0 +1,10 @@
+id: scaleio
+vendor_id: emc
+name: Scaleio
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:scaleio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scaleio
+  confidence: auto

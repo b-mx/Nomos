@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--solidfire-enterprise-sds",
+  "vendor_id": "netapp",
+  "product_id": "solidfire-enterprise-sds",
+  "name": "Solidfire Enterprise Sds",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "solidfire_enterprise_sds",
+      "confidence": "auto"
+    }
+  ]
+}

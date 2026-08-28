@@ -1,0 +1,10 @@
+id: hyper-backup
+vendor_id: synology
+name: Hyper Backup
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:hyper_backup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hyper_backup
+  confidence: auto

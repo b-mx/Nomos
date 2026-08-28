@@ -1,0 +1,10 @@
+id: wn-ac583trk-firmware
+vendor_id: iodata
+name: Wn-Ac583Trk Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:wn\-ac583trk_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn-ac583trk_firmware
+  confidence: auto

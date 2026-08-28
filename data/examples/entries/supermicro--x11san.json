@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11san",
+  "vendor_id": "supermicro",
+  "product_id": "x11san",
+  "name": "X11San",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11san",
+      "confidence": "auto"
+    }
+  ]
+}

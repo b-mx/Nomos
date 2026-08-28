@@ -1,0 +1,10 @@
+id: eds-4009
+vendor_id: moxa
+name: Eds-4009
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:eds\-4009:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eds-4009
+  confidence: auto

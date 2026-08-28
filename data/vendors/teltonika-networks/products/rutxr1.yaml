@@ -1,0 +1,10 @@
+id: rutxr1
+vendor_id: teltonika-networks
+name: Rutxr1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika\-networks:rutxr1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rutxr1
+  confidence: auto

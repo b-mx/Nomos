@@ -1,0 +1,10 @@
+id: proactive-contact
+vendor_id: avaya
+name: Proactive Contact
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:proactive_contact:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proactive_contact
+  confidence: auto

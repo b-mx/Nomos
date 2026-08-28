@@ -1,0 +1,10 @@
+id: fieldmate
+vendor_id: yokogawa
+name: Fieldmate
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:fieldmate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fieldmate
+  confidence: auto

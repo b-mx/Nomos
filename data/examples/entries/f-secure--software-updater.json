@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "f-secure--software-updater",
+  "vendor_id": "f-secure",
+  "product_id": "software-updater",
+  "name": "Software Updater",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "software_updater",
+      "confidence": "auto"
+    }
+  ]
+}

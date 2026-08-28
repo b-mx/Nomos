@@ -1,0 +1,10 @@
+id: cx930
+vendor_id: lexmark
+name: Cx930
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx930:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx930
+  confidence: auto

@@ -1,0 +1,10 @@
+id: patch-endpoint-tools
+vendor_id: tanium
+name: Patch Endpoint Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:patch_endpoint_tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: patch_endpoint_tools
+  confidence: auto

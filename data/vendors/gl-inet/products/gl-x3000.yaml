@@ -1,0 +1,10 @@
+id: gl-x3000
+vendor_id: gl-inet
+name: Gl-X3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-x3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-x3000
+  confidence: auto

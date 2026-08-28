@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "commscope--arris-tr3300-firmware",
+  "vendor_id": "commscope",
+  "product_id": "arris-tr3300-firmware",
+  "name": "Arris Tr3300 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arris_tr3300_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

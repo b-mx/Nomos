@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "datto--backup-agent",
+  "vendor_id": "datto",
+  "product_id": "backup-agent",
+  "name": "Backup Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "backup_agent",
+      "confidence": "auto"
+    }
+  ]
+}

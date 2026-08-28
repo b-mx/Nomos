@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "keysight--geolocation-server",
+  "vendor_id": "keysight",
+  "product_id": "geolocation-server",
+  "name": "Geolocation Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "geolocation_server",
+      "confidence": "auto"
+    }
+  ]
+}

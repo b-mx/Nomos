@@ -1,0 +1,10 @@
+id: photo-station-uploader
+vendor_id: synology
+name: Photo Station Uploader
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:photo_station_uploader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photo_station_uploader
+  confidence: auto

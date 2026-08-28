@@ -1,0 +1,10 @@
+id: laserjet-m110e-7md66e
+vendor_id: hp
+name: Laserjet M110E 7Md66E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m110e_7md66e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m110e_7md66e
+  confidence: auto

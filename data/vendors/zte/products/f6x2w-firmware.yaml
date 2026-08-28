@@ -1,0 +1,10 @@
+id: f6x2w-firmware
+vendor_id: zte
+name: F6X2W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:f6x2w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f6x2w_firmware
+  confidence: auto

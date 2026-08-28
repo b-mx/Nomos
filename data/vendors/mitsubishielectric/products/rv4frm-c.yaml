@@ -1,0 +1,10 @@
+id: rv4frm-c
+vendor_id: mitsubishielectric
+name: Rv4Frm/C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv4frm\/c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv4frm/c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: insight-management-agents
+vendor_id: hp
+name: Insight Management Agents
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:insight_management_agents:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_management_agents
+  confidence: auto

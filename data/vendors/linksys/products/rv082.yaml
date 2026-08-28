@@ -1,0 +1,10 @@
+id: rv082
+vendor_id: linksys
+name: Rv082
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:rv082:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv082
+  confidence: auto

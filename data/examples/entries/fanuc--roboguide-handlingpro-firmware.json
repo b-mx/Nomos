@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fanuc--roboguide-handlingpro-firmware",
+  "vendor_id": "fanuc",
+  "product_id": "roboguide-handlingpro-firmware",
+  "name": "Roboguide Handlingpro Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "roboguide_handlingpro_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

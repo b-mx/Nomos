@@ -1,0 +1,10 @@
+id: safety-designer
+vendor_id: sick
+name: Safety Designer
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:safety_designer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safety_designer
+  confidence: auto

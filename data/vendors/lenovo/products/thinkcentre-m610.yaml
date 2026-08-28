@@ -1,0 +1,10 @@
+id: thinkcentre-m610
+vendor_id: lenovo
+name: Thinkcentre M610
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m610:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m610
+  confidence: auto

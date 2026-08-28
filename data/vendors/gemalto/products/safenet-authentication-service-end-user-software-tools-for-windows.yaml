@@ -1,0 +1,10 @@
+id: safenet-authentication-service-end-user-software-tools-for-windows
+vendor_id: gemalto
+name: Safenet Authentication Service End User Software Tools For Windows
+type: software
+tags: []
+cpe: cpe:2.3:a:gemalto:safenet_authentication_service_end_user_software_tools_for_windows:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safenet_authentication_service_end_user_software_tools_for_windows
+  confidence: auto

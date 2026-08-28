@@ -1,0 +1,10 @@
+id: cx9020
+vendor_id: beckhoff
+name: Cx9020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:beckhoff:cx9020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx9020
+  confidence: auto

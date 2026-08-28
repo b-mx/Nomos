@@ -1,0 +1,10 @@
+id: 2500-firmware
+vendor_id: peplink
+name: 2500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:2500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2500_firmware
+  confidence: auto

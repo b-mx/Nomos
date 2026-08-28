@@ -1,0 +1,10 @@
+id: omnivista
+vendor_id: alcatel-lucent
+name: Omnivista
+type: software
+tags: []
+cpe: cpe:2.3:a:alcatel\-lucent:omnivista:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omnivista
+  confidence: auto

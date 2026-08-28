@@ -1,0 +1,10 @@
+id: abusefilter
+vendor_id: mediawiki
+name: Abusefilter
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:abusefilter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: abusefilter
+  confidence: auto

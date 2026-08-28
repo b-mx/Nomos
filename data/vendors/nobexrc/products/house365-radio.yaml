@@ -1,0 +1,10 @@
+id: house365-radio
+vendor_id: nobexrc
+name: House365 Radio
+type: software
+tags: []
+cpe: cpe:2.3:a:nobexrc:house365_radio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: house365_radio
+  confidence: auto

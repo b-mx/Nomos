@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "concretecms--concrete-cms",
+  "vendor_id": "concretecms",
+  "product_id": "concrete-cms",
+  "name": "Concrete CMS",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "concrete-cms",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "concrete_cms",
+      "confidence": "auto"
+    }
+  ]
+}

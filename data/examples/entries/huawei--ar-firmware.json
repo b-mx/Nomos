@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--ar-firmware",
+  "vendor_id": "huawei",
+  "product_id": "ar-firmware",
+  "name": "Ar Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ar_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

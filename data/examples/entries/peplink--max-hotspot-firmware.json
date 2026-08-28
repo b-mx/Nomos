@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--max-hotspot-firmware",
+  "vendor_id": "peplink",
+  "product_id": "max-hotspot-firmware",
+  "name": "Max Hotspot Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "max_hotspot_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

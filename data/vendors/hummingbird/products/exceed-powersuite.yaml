@@ -1,0 +1,10 @@
+id: exceed-powersuite
+vendor_id: hummingbird
+name: Exceed Powersuite
+type: software
+tags: []
+cpe: cpe:2.3:a:hummingbird:exceed_powersuite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exceed_powersuite
+  confidence: auto

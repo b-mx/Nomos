@@ -1,0 +1,10 @@
+id: factorytalk-policy-manager
+vendor_id: rockwellautomation
+name: Factorytalk Policy Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:factorytalk_policy_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_policy_manager
+  confidence: auto

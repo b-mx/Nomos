@@ -1,0 +1,10 @@
+id: a850r-v1
+vendor_id: totolink
+name: A850R-V1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a850r\-v1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a850r-v1
+  confidence: auto

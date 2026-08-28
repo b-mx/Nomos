@@ -1,0 +1,10 @@
+id: navigator-key-trustee-kms
+vendor_id: cloudera
+name: Navigator Key Trustee Kms
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudera:navigator_key_trustee_kms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: navigator_key_trustee_kms
+  confidence: auto

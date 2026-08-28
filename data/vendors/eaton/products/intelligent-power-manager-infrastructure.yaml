@@ -1,0 +1,10 @@
+id: intelligent-power-manager-infrastructure
+vendor_id: eaton
+name: Intelligent Power Manager Infrastructure
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:intelligent_power_manager_infrastructure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_power_manager_infrastructure
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ib8377-h-firmware
+vendor_id: vivotek
+name: Ib8377-H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ib8377\-h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib8377-h_firmware
+  confidence: auto

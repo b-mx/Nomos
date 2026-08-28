@@ -1,0 +1,10 @@
+id: hanako-pro
+vendor_id: justsystems
+name: Hanako Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:hanako_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hanako_pro
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sell-downloads
+vendor_id: codepeople
+name: Sell Downloads
+type: software
+tags: []
+cpe: cpe:2.3:a:codepeople:sell_downloads:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sell_downloads
+  confidence: auto

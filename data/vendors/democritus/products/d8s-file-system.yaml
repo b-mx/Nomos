@@ -1,0 +1,10 @@
+id: d8s-file-system
+vendor_id: democritus
+name: D8S-File-System
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-file\-system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-file-system
+  confidence: auto

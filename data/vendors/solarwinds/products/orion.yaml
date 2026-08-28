@@ -2,9 +2,7 @@ id: orion
 vendor_id: solarwinds
 name: Orion
 type: software
-tags:
-- monitoring
-icon: logos:solarwinds
+tags: []
 aliases:
 - source: cisa_kev
   value: Orion

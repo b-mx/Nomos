@@ -1,0 +1,10 @@
+id: application-control-environment-firmware
+vendor_id: honeywell
+name: Application Control Environment Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:application_control_environment_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: application_control_environment_firmware
+  confidence: auto

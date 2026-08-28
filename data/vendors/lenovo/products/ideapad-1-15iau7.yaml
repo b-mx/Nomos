@@ -1,0 +1,10 @@
+id: ideapad-1-15iau7
+vendor_id: lenovo
+name: Ideapad 1 15Iau7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideapad_1_15iau7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_1_15iau7
+  confidence: auto

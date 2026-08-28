@@ -1,0 +1,10 @@
+id: dfxanalytics
+vendor_id: hcltech
+name: Dfxanalytics
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:dfxanalytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dfxanalytics
+  confidence: auto

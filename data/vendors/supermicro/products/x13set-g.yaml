@@ -1,0 +1,10 @@
+id: x13set-g
+vendor_id: supermicro
+name: X13Set-G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13set\-g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13set-g
+  confidence: auto

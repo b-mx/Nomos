@@ -1,0 +1,10 @@
+id: deskjet-3630-f5s43a-firmware
+vendor_id: hp
+name: Deskjet 3630 F5S43A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:deskjet_3630_f5s43a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3630_f5s43a_firmware
+  confidence: auto

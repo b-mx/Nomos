@@ -1,0 +1,10 @@
+id: simple-scheduling-system
+vendor_id: fabian
+name: Simple Scheduling System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_scheduling_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_scheduling_system
+  confidence: auto

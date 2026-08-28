@@ -1,0 +1,10 @@
+id: rs-12n
+vendor_id: especmic
+name: Rs-12N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:especmic:rs\-12n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rs-12n
+  confidence: auto

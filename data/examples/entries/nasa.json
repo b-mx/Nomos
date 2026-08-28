@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "nasa",
+  "vendor_id": "nasa",
+  "name": "Nasa",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nasa",
+      "confidence": "auto"
+    }
+  ]
+}

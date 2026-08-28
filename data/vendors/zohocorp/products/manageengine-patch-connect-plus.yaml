@@ -1,0 +1,10 @@
+id: manageengine-patch-connect-plus
+vendor_id: zohocorp
+name: Manageengine Patch Connect Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_patch_connect_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_patch_connect_plus
+  confidence: auto

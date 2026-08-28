@@ -1,0 +1,10 @@
+id: syswatch
+vendor_id: safensoft
+name: Syswatch
+type: software
+tags: []
+cpe: cpe:2.3:a:safensoft:syswatch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: syswatch
+  confidence: auto

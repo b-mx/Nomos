@@ -1,0 +1,10 @@
+id: officejet-250c-l9d57a
+vendor_id: hp
+name: Officejet 250C L9D57A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_250c_l9d57a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_250c_l9d57a
+  confidence: auto

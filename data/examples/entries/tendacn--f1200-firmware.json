@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tendacn--f1200-firmware",
+  "vendor_id": "tendacn",
+  "product_id": "f1200-firmware",
+  "name": "F1200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "f1200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

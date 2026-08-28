@@ -1,0 +1,10 @@
+id: unify-software-development-kit
+vendor_id: silabs
+name: Unify Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:unify_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unify_software_development_kit
+  confidence: auto

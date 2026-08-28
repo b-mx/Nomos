@@ -1,0 +1,10 @@
+id: wab-i1750-ps-firmware
+vendor_id: elecom
+name: Wab-I1750-Ps Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wab\-i1750\-ps_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wab-i1750-ps_firmware
+  confidence: auto

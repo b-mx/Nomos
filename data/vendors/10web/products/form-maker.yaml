@@ -1,0 +1,10 @@
+id: form-maker
+vendor_id: 10web
+name: Form Maker
+type: software
+tags: []
+cpe: cpe:2.3:a:10web:form_maker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: form_maker
+  confidence: auto

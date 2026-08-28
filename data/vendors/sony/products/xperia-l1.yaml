@@ -1,0 +1,10 @@
+id: xperia-l1
+vendor_id: sony
+name: Xperia L1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:xperia_l1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xperia_l1
+  confidence: auto

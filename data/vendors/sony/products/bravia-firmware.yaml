@@ -1,0 +1,10 @@
+id: bravia-firmware
+vendor_id: sony
+name: Bravia Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:bravia_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bravia_firmware
+  confidence: auto

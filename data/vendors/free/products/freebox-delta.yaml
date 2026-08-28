@@ -1,0 +1,10 @@
+id: freebox-delta
+vendor_id: free
+name: Freebox Delta
+type: hardware
+tags: []
+cpe: cpe:2.3:h:free:freebox_delta:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freebox_delta
+  confidence: auto

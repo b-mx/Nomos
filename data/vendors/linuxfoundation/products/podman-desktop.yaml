@@ -1,0 +1,10 @@
+id: podman-desktop
+vendor_id: linuxfoundation
+name: Podman Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:podman_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: podman_desktop
+  confidence: auto

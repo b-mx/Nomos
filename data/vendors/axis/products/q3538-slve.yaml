@@ -1,0 +1,10 @@
+id: q3538-slve
+vendor_id: axis
+name: Q3538-Slve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q3538\-slve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q3538-slve
+  confidence: auto

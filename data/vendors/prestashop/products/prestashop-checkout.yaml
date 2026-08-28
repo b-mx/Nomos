@@ -1,0 +1,10 @@
+id: prestashop-checkout
+vendor_id: prestashop
+name: Prestashop Checkout
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:prestashop_checkout:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prestashop_checkout
+  confidence: auto

@@ -1,0 +1,10 @@
+id: maxify-gx3020
+vendor_id: canon
+name: Maxify Gx3020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:maxify_gx3020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxify_gx3020
+  confidence: auto

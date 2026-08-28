@@ -1,0 +1,10 @@
+id: pe6208
+vendor_id: aten
+name: Pe6208
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aten:pe6208:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pe6208
+  confidence: auto

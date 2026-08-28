@@ -1,0 +1,10 @@
+id: cobalt-raq-3i
+vendor_id: sun
+name: Cobalt Raq 3I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sun:cobalt_raq_3i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cobalt_raq_3i
+  confidence: auto

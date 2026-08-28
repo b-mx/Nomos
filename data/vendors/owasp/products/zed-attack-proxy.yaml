@@ -1,0 +1,10 @@
+id: zed-attack-proxy
+vendor_id: owasp
+name: Zed Attack Proxy
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:zed_attack_proxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zed_attack_proxy
+  confidence: auto

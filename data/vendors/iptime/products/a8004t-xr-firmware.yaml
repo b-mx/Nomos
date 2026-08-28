@@ -1,0 +1,10 @@
+id: a8004t-xr-firmware
+vendor_id: iptime
+name: A8004T-Xr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:a8004t\-xr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a8004t-xr_firmware
+  confidence: auto

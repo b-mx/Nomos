@@ -1,0 +1,10 @@
+id: multi-store
+vendor_id: bdtask
+name: Multi-Store
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:multi\-store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multi-store
+  confidence: auto

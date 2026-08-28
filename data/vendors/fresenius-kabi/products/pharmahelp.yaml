@@ -1,0 +1,10 @@
+id: pharmahelp
+vendor_id: fresenius-kabi
+name: Pharmahelp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fresenius\-kabi:pharmahelp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pharmahelp
+  confidence: auto

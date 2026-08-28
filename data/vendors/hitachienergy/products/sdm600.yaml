@@ -1,0 +1,10 @@
+id: sdm600
+vendor_id: hitachienergy
+name: Sdm600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:sdm600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sdm600
+  confidence: auto

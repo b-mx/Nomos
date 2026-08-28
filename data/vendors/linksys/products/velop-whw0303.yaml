@@ -1,0 +1,10 @@
+id: velop-whw0303
+vendor_id: linksys
+name: Velop Whw0303
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:velop_whw0303:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: velop_whw0303
+  confidence: auto

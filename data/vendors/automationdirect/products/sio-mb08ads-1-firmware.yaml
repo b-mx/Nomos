@@ -1,0 +1,10 @@
+id: sio-mb08ads-1-firmware
+vendor_id: automationdirect
+name: Sio-Mb08Ads-1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:sio\-mb08ads\-1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sio-mb08ads-1_firmware
+  confidence: auto

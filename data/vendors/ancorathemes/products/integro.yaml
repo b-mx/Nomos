@@ -1,0 +1,10 @@
+id: integro
+vendor_id: ancorathemes
+name: Integro
+type: software
+tags: []
+cpe: cpe:2.3:a:ancorathemes:integro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integro
+  confidence: auto

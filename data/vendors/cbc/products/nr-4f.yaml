@@ -1,0 +1,10 @@
+id: nr-4f
+vendor_id: cbc
+name: Nr-4F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:nr\-4f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr-4f
+  confidence: auto

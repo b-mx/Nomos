@@ -1,0 +1,10 @@
+id: d9l64a
+vendor_id: hp
+name: D9L64A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:d9l64a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d9l64a
+  confidence: auto

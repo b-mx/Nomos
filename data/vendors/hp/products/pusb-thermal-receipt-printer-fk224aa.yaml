@@ -1,0 +1,10 @@
+id: pusb-thermal-receipt-printer-fk224aa
+vendor_id: hp
+name: Pusb Thermal Receipt Printer Fk224Aa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pusb_thermal_receipt_printer_fk224aa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pusb_thermal_receipt_printer_fk224aa
+  confidence: auto

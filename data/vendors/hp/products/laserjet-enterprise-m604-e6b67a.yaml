@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m604-e6b67a
+vendor_id: hp
+name: Laserjet Enterprise M604 E6B67A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_m604_e6b67a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m604_e6b67a
+  confidence: auto

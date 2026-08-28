@@ -1,0 +1,10 @@
+id: digital-experience-compose
+vendor_id: hcltech
+name: Digital Experience Compose
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:digital_experience_compose:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: digital_experience_compose
+  confidence: auto

@@ -1,0 +1,10 @@
+id: error-log-viewer
+vendor_id: bestwebsoft
+name: Error Log Viewer
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:error_log_viewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: error_log_viewer
+  confidence: auto

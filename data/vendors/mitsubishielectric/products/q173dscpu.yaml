@@ -1,0 +1,10 @@
+id: q173dscpu
+vendor_id: mitsubishielectric
+name: Q173Dscpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:q173dscpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q173dscpu
+  confidence: auto

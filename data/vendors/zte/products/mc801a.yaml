@@ -1,0 +1,10 @@
+id: mc801a
+vendor_id: zte
+name: Mc801A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:mc801a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc801a
+  confidence: auto

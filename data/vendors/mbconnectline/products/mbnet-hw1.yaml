@@ -1,0 +1,10 @@
+id: mbnet-hw1
+vendor_id: mbconnectline
+name: Mbnet Hw1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbconnectline:mbnet_hw1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbnet_hw1
+  confidence: auto

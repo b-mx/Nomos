@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--rapid-deployment-pack",
+  "vendor_id": "hp",
+  "product_id": "rapid-deployment-pack",
+  "name": "Rapid Deployment Pack",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rapid_deployment_pack",
+      "confidence": "auto"
+    }
+  ]
+}

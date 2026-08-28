@@ -1,0 +1,10 @@
+id: maximum-products-per-user-for-woocommerce
+vendor_id: wpfactory
+name: Maximum Products Per User For Woocommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:wpfactory:maximum_products_per_user_for_woocommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maximum_products_per_user_for_woocommerce
+  confidence: auto

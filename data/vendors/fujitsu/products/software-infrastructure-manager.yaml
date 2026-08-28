@@ -1,0 +1,10 @@
+id: software-infrastructure-manager
+vendor_id: fujitsu
+name: Software Infrastructure Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:software_infrastructure_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: software_infrastructure_manager
+  confidence: auto

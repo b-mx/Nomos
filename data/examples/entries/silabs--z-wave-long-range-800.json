@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--z-wave-long-range-800",
+  "vendor_id": "silabs",
+  "product_id": "z-wave-long-range-800",
+  "name": "Z-Wave Long Range 800",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "z-wave_long_range_800",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: fx3u-enet
+vendor_id: mitsubishielectric
+name: Fx3U-Enet
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:fx3u\-enet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3u-enet
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "valvesoftware--steam-link",
+  "vendor_id": "valvesoftware",
+  "product_id": "steam-link",
+  "name": "Steam Link",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "steam_link",
+      "confidence": "auto"
+    }
+  ]
+}

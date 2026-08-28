@@ -1,0 +1,10 @@
+id: ax2004bcm
+vendor_id: iptime
+name: Ax2004Bcm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:ax2004bcm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax2004bcm
+  confidence: auto

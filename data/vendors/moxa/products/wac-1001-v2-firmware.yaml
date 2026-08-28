@@ -1,0 +1,10 @@
+id: wac-1001-v2-firmware
+vendor_id: moxa
+name: Wac-1001 V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:wac\-1001_v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wac-1001_v2_firmware
+  confidence: auto

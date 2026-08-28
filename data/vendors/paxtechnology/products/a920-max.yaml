@@ -1,0 +1,10 @@
+id: a920-max
+vendor_id: paxtechnology
+name: A920 Max
+type: hardware
+tags: []
+cpe: cpe:2.3:h:paxtechnology:a920_max:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a920_max
+  confidence: auto

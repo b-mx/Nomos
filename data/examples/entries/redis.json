@@ -3,17 +3,12 @@
   "slug": "redis",
   "vendor_id": "redis",
   "name": "Redis",
-  "icon": "logos:redis",
+  "icon": null,
   "aliases": [
     {
-      "source": "nvd",
-      "value": "redis",
-      "confidence": "curated"
-    },
-    {
-      "source": "endoflife",
-      "value": "redis",
-      "confidence": "curated"
+      "source": "cisa_kev",
+      "value": "Redis",
+      "confidence": "auto"
     }
   ]
 }

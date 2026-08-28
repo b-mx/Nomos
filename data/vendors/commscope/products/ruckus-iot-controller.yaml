@@ -1,0 +1,10 @@
+id: ruckus-iot-controller
+vendor_id: commscope
+name: Ruckus Iot Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:commscope:ruckus_iot_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_iot_controller
+  confidence: auto

@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "spring-cloud--spring-cloud",
+  "vendor_id": "spring-cloud",
+  "product_id": "spring-cloud",
+  "name": "Spring Cloud",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "spring-cloud",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: pharstreamwrapper
+vendor_id: typo3
+name: Pharstreamwrapper
+type: software
+tags: []
+cpe: cpe:2.3:a:typo3:pharstreamwrapper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pharstreamwrapper
+  confidence: auto

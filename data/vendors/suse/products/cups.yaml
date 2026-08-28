@@ -1,0 +1,10 @@
+id: cups
+vendor_id: suse
+name: Cups
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:cups:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cups
+  confidence: auto

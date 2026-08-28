@@ -1,0 +1,10 @@
+id: f3105-firmware
+vendor_id: zavio
+name: F3105 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zavio:f3105_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f3105_firmware
+  confidence: auto

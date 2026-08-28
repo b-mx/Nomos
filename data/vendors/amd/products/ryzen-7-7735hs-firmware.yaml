@@ -1,0 +1,10 @@
+id: ryzen-7-7735hs-firmware
+vendor_id: amd
+name: Ryzen 7 7735Hs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_7_7735hs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_7735hs_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: prisma
+vendor_id: axiomthemes
+name: Prisma
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:prisma:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prisma
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--diskstation-manager",
+  "vendor_id": "synology",
+  "product_id": "diskstation-manager",
+  "name": "Diskstation Manager",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "diskstation_manager",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: v20-pro-l-01j-firmware
+vendor_id: nttdocomo
+name: V20 Pro L-01J Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nttdocomo:v20_pro_l\-01j_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v20_pro_l-01j_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: web-to-page
+vendor_id: epson
+name: Web To Page
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:web_to_page:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_to_page
+  confidence: auto

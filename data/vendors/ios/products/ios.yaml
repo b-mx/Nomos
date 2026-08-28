@@ -1,0 +1,9 @@
+id: ios
+vendor_id: ios
+name: Apple iOS
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: ios
+  confidence: auto

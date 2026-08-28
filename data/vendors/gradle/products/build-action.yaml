@@ -1,0 +1,10 @@
+id: build-action
+vendor_id: gradle
+name: Build Action
+type: software
+tags: []
+cpe: cpe:2.3:a:gradle:build_action:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: build_action
+  confidence: auto

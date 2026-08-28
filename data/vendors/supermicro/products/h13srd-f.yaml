@@ -1,0 +1,10 @@
+id: h13srd-f
+vendor_id: supermicro
+name: H13Srd-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h13srd\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h13srd-f
+  confidence: auto

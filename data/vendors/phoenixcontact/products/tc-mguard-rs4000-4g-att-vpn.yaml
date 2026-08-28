@@ -1,0 +1,10 @@
+id: tc-mguard-rs4000-4g-att-vpn
+vendor_id: phoenixcontact
+name: Tc Mguard Rs4000 4G Att Vpn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:tc_mguard_rs4000_4g_att_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc_mguard_rs4000_4g_att_vpn
+  confidence: auto

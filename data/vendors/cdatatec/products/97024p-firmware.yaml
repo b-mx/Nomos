@@ -1,0 +1,10 @@
+id: 97024p-firmware
+vendor_id: cdatatec
+name: 97024P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cdatatec:97024p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 97024p_firmware
+  confidence: auto

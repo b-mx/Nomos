@@ -1,0 +1,10 @@
+id: bus-module-cpx-e-ep-firmware
+vendor_id: festo
+name: Bus Module Cpx-E-Ep Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:bus_module_cpx\-e\-ep_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bus_module_cpx-e-ep_firmware
+  confidence: auto

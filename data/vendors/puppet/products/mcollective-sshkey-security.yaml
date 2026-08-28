@@ -1,0 +1,10 @@
+id: mcollective-sshkey-security
+vendor_id: puppet
+name: Mcollective-Sshkey-Security
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:mcollective\-sshkey\-security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcollective-sshkey-security
+  confidence: auto

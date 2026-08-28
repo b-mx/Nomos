@@ -1,0 +1,10 @@
+id: rv2fr-b
+vendor_id: mitsubishielectric
+name: Rv2Fr(B)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv2fr\(b\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv2fr(b)
+  confidence: auto

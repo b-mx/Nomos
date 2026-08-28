@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m750-d3l08a
+vendor_id: hp
+name: Laserjet Enterprise M750 D3L08A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_m750_d3l08a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m750_d3l08a
+  confidence: auto

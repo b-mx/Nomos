@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32l475vc",
+  "vendor_id": "st",
+  "product_id": "stm32l475vc",
+  "name": "Stm32L475Vc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32l475vc",
+      "confidence": "auto"
+    }
+  ]
+}

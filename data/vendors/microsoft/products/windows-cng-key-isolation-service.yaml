@@ -1,0 +1,9 @@
+id: windows-cng-key-isolation-service
+vendor_id: microsoft
+name: Windows CNG Key Isolation Service
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Windows CNG Key Isolation Service
+  confidence: auto

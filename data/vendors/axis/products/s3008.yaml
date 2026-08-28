@@ -1,0 +1,10 @@
+id: s3008
+vendor_id: axis
+name: S3008
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:s3008:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s3008
+  confidence: auto

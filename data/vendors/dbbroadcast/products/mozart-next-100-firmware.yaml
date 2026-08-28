@@ -1,0 +1,10 @@
+id: mozart-next-100-firmware
+vendor_id: dbbroadcast
+name: Mozart Next 100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dbbroadcast:mozart_next_100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mozart_next_100_firmware
+  confidence: auto

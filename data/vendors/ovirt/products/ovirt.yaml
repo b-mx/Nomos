@@ -1,0 +1,9 @@
+id: ovirt
+vendor_id: ovirt
+name: oVirt
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: ovirt
+  confidence: auto

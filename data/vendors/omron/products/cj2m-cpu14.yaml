@@ -1,0 +1,10 @@
+id: cj2m-cpu14
+vendor_id: omron
+name: Cj2M-Cpu14
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cj2m\-cpu14:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cj2m-cpu14
+  confidence: auto

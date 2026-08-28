@@ -1,0 +1,10 @@
+id: atm-banking
+vendor_id: fabian
+name: Atm Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:atm_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atm_banking
+  confidence: auto

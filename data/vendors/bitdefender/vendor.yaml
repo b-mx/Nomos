@@ -1,0 +1,7 @@
+id: bitdefender
+name: Bitdefender
+cpe: cpe:2.3:*:bitdefender:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bitdefender
+  confidence: auto

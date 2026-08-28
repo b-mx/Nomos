@@ -1,0 +1,10 @@
+id: cloud-networking-operating-system
+vendor_id: lenovo
+name: Cloud Networking Operating System
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:cloud_networking_operating_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_networking_operating_system
+  confidence: auto

@@ -1,0 +1,10 @@
+id: overall-equipment-effectiveness
+vendor_id: sick
+name: Overall Equipment Effectiveness
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:overall_equipment_effectiveness:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: overall_equipment_effectiveness
+  confidence: auto

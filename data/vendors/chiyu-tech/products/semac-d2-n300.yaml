@@ -1,0 +1,10 @@
+id: semac-d2-n300
+vendor_id: chiyu-tech
+name: Semac D2 N300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chiyu\-tech:semac_d2_n300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: semac_d2_n300
+  confidence: auto

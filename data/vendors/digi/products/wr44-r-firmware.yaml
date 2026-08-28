@@ -1,0 +1,10 @@
+id: wr44-r-firmware
+vendor_id: digi
+name: Wr44 R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:wr44_r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wr44_r_firmware
+  confidence: auto

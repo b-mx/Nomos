@@ -1,0 +1,10 @@
+id: cloud-key-gen2-plus
+vendor_id: ui
+name: Cloud Key Gen2 Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:cloud_key_gen2_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_key_gen2_plus
+  confidence: auto

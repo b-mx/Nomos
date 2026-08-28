@@ -1,0 +1,10 @@
+id: tippingpoint-sms-server
+vendor_id: 3com
+name: Tippingpoint Sms Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:3com:tippingpoint_sms_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tippingpoint_sms_server
+  confidence: auto

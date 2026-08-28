@@ -1,0 +1,10 @@
+id: virus-scanner
+vendor_id: bitdefender
+name: Virus Scanner
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:virus_scanner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virus_scanner
+  confidence: auto

@@ -1,0 +1,10 @@
+id: edgeconnect-enterprise
+vendor_id: arubanetworks
+name: Edgeconnect Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:edgeconnect_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgeconnect_enterprise
+  confidence: auto

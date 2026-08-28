@@ -1,0 +1,10 @@
+id: lightspeed-pro16-firmware
+vendor_id: gehealthcare
+name: Lightspeed Pro16 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:lightspeed_pro16_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lightspeed_pro16_firmware
+  confidence: auto

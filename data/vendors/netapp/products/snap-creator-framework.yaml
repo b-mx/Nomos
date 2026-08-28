@@ -1,0 +1,10 @@
+id: snap-creator-framework
+vendor_id: netapp
+name: Snap Creator Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:snap_creator_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snap_creator_framework
+  confidence: auto

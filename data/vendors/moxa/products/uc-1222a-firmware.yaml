@@ -1,0 +1,10 @@
+id: uc-1222a-firmware
+vendor_id: moxa
+name: Uc-1222A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-1222a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-1222a_firmware
+  confidence: auto

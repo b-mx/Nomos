@@ -1,0 +1,10 @@
+id: ops-center-administrator
+vendor_id: hitachi
+name: Ops Center Administrator
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:ops_center_administrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ops_center_administrator
+  confidence: auto

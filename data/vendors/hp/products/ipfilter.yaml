@@ -1,0 +1,10 @@
+id: ipfilter
+vendor_id: hp
+name: Ipfilter
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:ipfilter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipfilter
+  confidence: auto

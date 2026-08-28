@@ -1,0 +1,7 @@
+id: parallels
+name: Parallels
+cpe: cpe:2.3:*:parallels:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: parallels
+  confidence: auto

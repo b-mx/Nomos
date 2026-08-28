@@ -1,0 +1,10 @@
+id: unifi-dream-router
+vendor_id: uni
+name: Unifi Dream Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:uni:unifi_dream_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_dream_router
+  confidence: auto

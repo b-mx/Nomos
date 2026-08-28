@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--ip-gateway-firmware",
+  "vendor_id": "abb",
+  "product_id": "ip-gateway-firmware",
+  "name": "Ip Gateway Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ip_gateway_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

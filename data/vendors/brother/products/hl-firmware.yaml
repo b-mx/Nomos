@@ -1,0 +1,10 @@
+id: hl-firmware
+vendor_id: brother
+name: Hl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:hl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hl_firmware
+  confidence: auto

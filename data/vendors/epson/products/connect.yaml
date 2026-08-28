@@ -1,0 +1,10 @@
+id: connect
+vendor_id: epson
+name: Connect
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect
+  confidence: auto

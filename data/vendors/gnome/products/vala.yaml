@@ -1,0 +1,10 @@
+id: vala
+vendor_id: gnome
+name: Vala
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:vala:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vala
+  confidence: auto

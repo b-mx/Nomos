@@ -1,0 +1,10 @@
+id: imgcrypt
+vendor_id: linuxfoundation
+name: Imgcrypt
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:imgcrypt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imgcrypt
+  confidence: auto

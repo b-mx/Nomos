@@ -1,0 +1,10 @@
+id: r-car-m3ne
+vendor_id: renesas
+name: R-Car M3Ne
+type: hardware
+tags: []
+cpe: cpe:2.3:h:renesas:r\-car_m3ne:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r-car_m3ne
+  confidence: auto

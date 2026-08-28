@@ -1,0 +1,10 @@
+id: priam
+vendor_id: netflix
+name: Priam
+type: software
+tags: []
+cpe: cpe:2.3:a:netflix:priam:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: priam
+  confidence: auto

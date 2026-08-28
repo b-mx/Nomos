@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rstinstruments--rtu-firmware",
+  "vendor_id": "rstinstruments",
+  "product_id": "rtu-firmware",
+  "name": "Rtu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rtu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

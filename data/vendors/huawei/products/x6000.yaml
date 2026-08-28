@@ -1,0 +1,10 @@
+id: x6000
+vendor_id: huawei
+name: X6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:x6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x6000
+  confidence: auto

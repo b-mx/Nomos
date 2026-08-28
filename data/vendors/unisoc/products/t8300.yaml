@@ -1,0 +1,10 @@
+id: t8300
+vendor_id: unisoc
+name: T8300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:t8300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t8300
+  confidence: auto

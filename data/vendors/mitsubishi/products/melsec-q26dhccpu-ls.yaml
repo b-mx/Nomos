@@ -1,0 +1,10 @@
+id: melsec-q26dhccpu-ls
+vendor_id: mitsubishi
+name: Melsec Q26Dhccpu-Ls
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_q26dhccpu\-ls:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q26dhccpu-ls
+  confidence: auto

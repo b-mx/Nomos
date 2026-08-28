@@ -1,0 +1,10 @@
+id: rh2285h-v2
+vendor_id: huawei
+name: Rh2285H V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rh2285h_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh2285h_v2
+  confidence: auto

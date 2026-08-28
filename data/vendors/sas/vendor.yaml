@@ -1,0 +1,7 @@
+id: sas
+name: Sas
+cpe: cpe:2.3:*:sas:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sas
+  confidence: auto

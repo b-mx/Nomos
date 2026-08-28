@@ -1,0 +1,10 @@
+id: freertos-fat
+vendor_id: amazon
+name: Freertos+Fat
+type: os
+tags: []
+cpe: cpe:2.3:o:amazon:freertos\+fat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freertos+fat
+  confidence: auto

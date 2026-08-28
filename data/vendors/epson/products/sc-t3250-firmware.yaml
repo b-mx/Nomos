@@ -1,0 +1,10 @@
+id: sc-t3250-firmware
+vendor_id: epson
+name: Sc-T3250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:sc\-t3250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-t3250_firmware
+  confidence: auto

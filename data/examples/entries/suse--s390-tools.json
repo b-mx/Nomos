@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--s390-tools",
+  "vendor_id": "suse",
+  "product_id": "s390-tools",
+  "name": "S390-Tools",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "s390-tools",
+      "confidence": "auto"
+    }
+  ]
+}

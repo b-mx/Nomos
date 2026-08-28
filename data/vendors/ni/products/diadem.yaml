@@ -1,0 +1,10 @@
+id: diadem
+vendor_id: ni
+name: Diadem
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:diadem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diadem
+  confidence: auto

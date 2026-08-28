@@ -1,0 +1,10 @@
+id: reno3-pro-firmware
+vendor_id: oppo
+name: Reno3 Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:oppo:reno3_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reno3_pro_firmware
+  confidence: auto

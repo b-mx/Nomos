@@ -1,0 +1,10 @@
+id: vsp-f700
+vendor_id: hitachi
+name: Vsp F700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachi:vsp_f700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsp_f700
+  confidence: auto

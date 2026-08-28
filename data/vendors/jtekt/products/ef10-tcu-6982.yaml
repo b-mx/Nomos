@@ -1,0 +1,10 @@
+id: ef10-tcu-6982
+vendor_id: jtekt
+name: Ef10 Tcu-6982
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:ef10_tcu\-6982:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ef10_tcu-6982
+  confidence: auto

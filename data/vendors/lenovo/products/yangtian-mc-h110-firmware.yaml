@@ -1,0 +1,10 @@
+id: yangtian-mc-h110-firmware
+vendor_id: lenovo
+name: Yangtian Mc H110 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yangtian_mc_h110_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_mc_h110_firmware
+  confidence: auto

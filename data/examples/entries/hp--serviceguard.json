@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--serviceguard",
+  "vendor_id": "hp",
+  "product_id": "serviceguard",
+  "name": "Serviceguard",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "serviceguard",
+      "confidence": "auto"
+    }
+  ]
+}

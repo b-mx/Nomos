@@ -1,0 +1,7 @@
+id: synology
+name: Synology
+cpe: cpe:2.3:*:synology:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synology
+  confidence: auto

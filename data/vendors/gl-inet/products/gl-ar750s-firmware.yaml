@@ -1,0 +1,10 @@
+id: gl-ar750s-firmware
+vendor_id: gl-inet
+name: Gl-Ar750S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:gl\-ar750s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-ar750s_firmware
+  confidence: auto

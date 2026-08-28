@@ -1,0 +1,10 @@
+id: hirschmann-octopus-8tx-eec
+vendor_id: belden
+name: Hirschmann Octopus 8Tx-Eec
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_octopus_8tx\-eec:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_octopus_8tx-eec
+  confidence: auto

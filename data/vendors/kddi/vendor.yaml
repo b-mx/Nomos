@@ -1,0 +1,7 @@
+id: kddi
+name: Kddi
+cpe: cpe:2.3:*:kddi:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kddi
+  confidence: auto

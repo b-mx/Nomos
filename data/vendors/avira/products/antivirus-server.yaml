@@ -1,0 +1,10 @@
+id: antivirus-server
+vendor_id: avira
+name: Antivirus Server
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:antivirus_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivirus_server
+  confidence: auto

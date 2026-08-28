@@ -1,0 +1,10 @@
+id: booking-calendar
+vendor_id: mediaburst
+name: Booking Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:mediaburst:booking_calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: booking_calendar
+  confidence: auto

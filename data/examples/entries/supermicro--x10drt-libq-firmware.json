@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x10drt-libq-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x10drt-libq-firmware",
+  "name": "X10Drt-Libq Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x10drt-libq_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

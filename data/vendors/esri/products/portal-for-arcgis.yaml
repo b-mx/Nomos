@@ -1,0 +1,10 @@
+id: portal-for-arcgis
+vendor_id: esri
+name: Portal For Arcgis
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:portal_for_arcgis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portal_for_arcgis
+  confidence: auto

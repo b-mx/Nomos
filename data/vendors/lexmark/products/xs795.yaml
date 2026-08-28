@@ -1,0 +1,10 @@
+id: xs795
+vendor_id: lexmark
+name: Xs795
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xs795:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xs795
+  confidence: auto

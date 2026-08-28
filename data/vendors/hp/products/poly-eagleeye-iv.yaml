@@ -1,0 +1,10 @@
+id: poly-eagleeye-iv
+vendor_id: hp
+name: Poly Eagleeye Iv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:poly_eagleeye_iv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_eagleeye_iv
+  confidence: auto

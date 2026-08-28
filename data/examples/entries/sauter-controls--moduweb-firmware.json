@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sauter-controls--moduweb-firmware",
+  "vendor_id": "sauter-controls",
+  "product_id": "moduweb-firmware",
+  "name": "Moduweb Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "moduweb_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

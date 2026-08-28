@@ -1,0 +1,10 @@
+id: advanced-free-gifts
+vendor_id: addify
+name: Advanced Free Gifts
+type: software
+tags: []
+cpe: cpe:2.3:a:addify:advanced_free_gifts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_free_gifts
+  confidence: auto

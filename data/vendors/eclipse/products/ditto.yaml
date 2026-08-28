@@ -1,0 +1,10 @@
+id: ditto
+vendor_id: eclipse
+name: Ditto
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:ditto:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ditto
+  confidence: auto

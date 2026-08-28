@@ -1,0 +1,10 @@
+id: laserjet-managed-flow-mfp-e82560z-firmware
+vendor_id: hp
+name: Laserjet Managed Flow Mfp E82560Z Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_flow_mfp_e82560z_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_flow_mfp_e82560z_firmware
+  confidence: auto

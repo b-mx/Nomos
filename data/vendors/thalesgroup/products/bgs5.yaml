@@ -1,0 +1,10 @@
+id: bgs5
+vendor_id: thalesgroup
+name: Bgs5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:thalesgroup:bgs5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bgs5
+  confidence: auto

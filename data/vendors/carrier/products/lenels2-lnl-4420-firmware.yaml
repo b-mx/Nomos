@@ -1,0 +1,10 @@
+id: lenels2-lnl-4420-firmware
+vendor_id: carrier
+name: Lenels2 Lnl-4420 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:carrier:lenels2_lnl\-4420_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenels2_lnl-4420_firmware
+  confidence: auto

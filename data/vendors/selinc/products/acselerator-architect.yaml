@@ -1,0 +1,10 @@
+id: acselerator-architect
+vendor_id: selinc
+name: Acselerator Architect
+type: software
+tags: []
+cpe: cpe:2.3:a:selinc:acselerator_architect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acselerator_architect
+  confidence: auto

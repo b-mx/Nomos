@@ -1,0 +1,10 @@
+id: spectre-pro-x360-g2
+vendor_id: hp
+name: Spectre Pro X360 G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_pro_x360_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_pro_x360_g2
+  confidence: auto

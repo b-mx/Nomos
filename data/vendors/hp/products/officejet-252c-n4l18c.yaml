@@ -1,0 +1,10 @@
+id: officejet-252c-n4l18c
+vendor_id: hp
+name: Officejet 252C N4L18C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_252c_n4l18c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_252c_n4l18c
+  confidence: auto

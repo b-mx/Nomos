@@ -1,0 +1,10 @@
+id: flx3-cpuc2-firmware
+vendor_id: sick
+name: Flx3-Cpuc2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:flx3\-cpuc2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flx3-cpuc2_firmware
+  confidence: auto

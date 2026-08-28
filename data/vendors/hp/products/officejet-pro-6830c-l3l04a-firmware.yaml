@@ -1,0 +1,10 @@
+id: officejet-pro-6830c-l3l04a-firmware
+vendor_id: hp
+name: Officejet Pro 6830C L3L04A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_pro_6830c_l3l04a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_6830c_l3l04a_firmware
+  confidence: auto

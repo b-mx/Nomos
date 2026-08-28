@@ -1,0 +1,10 @@
+id: vt5-wx12
+vendor_id: keyence
+name: Vt5-Wx12
+type: hardware
+tags: []
+cpe: cpe:2.3:h:keyence:vt5\-wx12:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vt5-wx12
+  confidence: auto

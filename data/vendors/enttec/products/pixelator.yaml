@@ -1,0 +1,10 @@
+id: pixelator
+vendor_id: enttec
+name: Pixelator
+type: hardware
+tags: []
+cpe: cpe:2.3:h:enttec:pixelator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pixelator
+  confidence: auto

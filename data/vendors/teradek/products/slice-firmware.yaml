@@ -1,0 +1,10 @@
+id: slice-firmware
+vendor_id: teradek
+name: Slice Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teradek:slice_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slice_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: alertwerks-servsensor-junior-firmware
+vendor_id: blackbox
+name: Alertwerks Servsensor Junior Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:blackbox:alertwerks_servsensor_junior_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alertwerks_servsensor_junior_firmware
+  confidence: auto

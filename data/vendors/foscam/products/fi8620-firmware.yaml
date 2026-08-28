@@ -1,0 +1,10 @@
+id: fi8620-firmware
+vendor_id: foscam
+name: Fi8620 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:foscam:fi8620_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fi8620_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xbc-dn32h-firmware
+vendor_id: ls-electric
+name: Xbc-Dn32H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbc\-dn32h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbc-dn32h_firmware
+  confidence: auto

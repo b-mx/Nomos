@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arris--bgw210-firmware",
+  "vendor_id": "arris",
+  "product_id": "bgw210-firmware",
+  "name": "Bgw210 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bgw210_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: xv100-box-e4-dc1
+vendor_id: eaton
+name: Xv100-Box-E4-Dc1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:eaton:xv100\-box\-e4\-dc1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xv100-box-e4-dc1
+  confidence: auto

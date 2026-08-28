@@ -1,0 +1,10 @@
+id: enterprise-wi-fi
+vendor_id: cambiumnetworks
+name: Enterprise Wi-Fi
+type: software
+tags: []
+cpe: cpe:2.3:a:cambiumnetworks:enterprise_wi\-fi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_wi-fi
+  confidence: auto

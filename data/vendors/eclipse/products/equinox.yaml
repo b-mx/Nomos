@@ -1,0 +1,10 @@
+id: equinox
+vendor_id: eclipse
+name: Equinox
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:equinox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: equinox
+  confidence: auto

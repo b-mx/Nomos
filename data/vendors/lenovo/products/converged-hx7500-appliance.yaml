@@ -1,0 +1,10 @@
+id: converged-hx7500-appliance
+vendor_id: lenovo
+name: Converged Hx7500 Appliance
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:converged_hx7500_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: converged_hx7500_appliance
+  confidence: auto

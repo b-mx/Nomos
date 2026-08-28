@@ -1,0 +1,10 @@
+id: x11dsn-ts-firmware
+vendor_id: supermicro
+name: X11Dsn-Ts Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11dsn\-ts_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dsn-ts_firmware
+  confidence: auto

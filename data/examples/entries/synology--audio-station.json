@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--audio-station",
+  "vendor_id": "synology",
+  "product_id": "audio-station",
+  "name": "Audio Station",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "audio_station",
+      "confidence": "auto"
+    }
+  ]
+}

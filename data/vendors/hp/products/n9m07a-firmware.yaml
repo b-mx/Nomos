@@ -1,0 +1,10 @@
+id: n9m07a-firmware
+vendor_id: hp
+name: N9M07A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:n9m07a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n9m07a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aurora-mysql
+vendor_id: amazon
+name: Aurora Mysql
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aurora_mysql:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aurora_mysql
+  confidence: auto

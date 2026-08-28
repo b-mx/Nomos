@@ -1,0 +1,10 @@
+id: catalyst-production-suite
+vendor_id: sony
+name: Catalyst Production Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:catalyst_production_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catalyst_production_suite
+  confidence: auto

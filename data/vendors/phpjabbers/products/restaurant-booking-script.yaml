@@ -1,0 +1,10 @@
+id: restaurant-booking-script
+vendor_id: phpjabbers
+name: Restaurant Booking Script
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:restaurant_booking_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: restaurant_booking_script
+  confidence: auto

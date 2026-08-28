@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-z1-extreme",
+  "vendor_id": "amd",
+  "product_id": "ryzen-z1-extreme",
+  "name": "Ryzen Z1 Extreme",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_z1_extreme",
+      "confidence": "auto"
+    }
+  ]
+}

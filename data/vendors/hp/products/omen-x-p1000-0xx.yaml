@@ -1,0 +1,10 @@
+id: omen-x-p1000-0xx
+vendor_id: hp
+name: Omen X P1000-0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_x_p1000\-0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_x_p1000-0xx
+  confidence: auto

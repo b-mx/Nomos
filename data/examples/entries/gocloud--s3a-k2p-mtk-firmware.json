@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gocloud--s3a-k2p-mtk-firmware",
+  "vendor_id": "gocloud",
+  "product_id": "s3a-k2p-mtk-firmware",
+  "name": "S3A K2P Mtk Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "s3a_k2p_mtk_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

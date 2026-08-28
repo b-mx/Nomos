@@ -1,0 +1,10 @@
+id: ax1800-firmware
+vendor_id: mi
+name: Ax1800 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:ax1800_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax1800_firmware
+  confidence: auto

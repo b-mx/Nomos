@@ -1,0 +1,9 @@
+id: intel-processors
+vendor_id: intel-processors
+name: Intel Processors
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: intel-processors
+  confidence: auto

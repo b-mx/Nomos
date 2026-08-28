@@ -1,0 +1,7 @@
+id: openmrs
+name: Openmrs
+cpe: cpe:2.3:*:openmrs:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openmrs
+  confidence: auto

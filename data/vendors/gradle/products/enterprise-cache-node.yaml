@@ -1,0 +1,10 @@
+id: enterprise-cache-node
+vendor_id: gradle
+name: Enterprise Cache Node
+type: software
+tags: []
+cpe: cpe:2.3:a:gradle:enterprise_cache_node:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_cache_node
+  confidence: auto

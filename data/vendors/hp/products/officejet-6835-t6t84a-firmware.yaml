@@ -1,0 +1,10 @@
+id: officejet-6835-t6t84a-firmware
+vendor_id: hp
+name: Officejet 6835 T6T84A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_6835_t6t84a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_6835_t6t84a_firmware
+  confidence: auto

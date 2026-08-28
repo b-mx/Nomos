@@ -1,0 +1,7 @@
+id: wago
+name: Wago
+cpe: cpe:2.3:*:wago:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wago
+  confidence: auto

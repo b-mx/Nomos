@@ -1,0 +1,10 @@
+id: sockeye
+vendor_id: amazon
+name: Sockeye
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:sockeye:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sockeye
+  confidence: auto

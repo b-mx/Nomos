@@ -1,0 +1,10 @@
+id: hdx
+vendor_id: polycom
+name: Hdx
+type: software
+tags: []
+cpe: cpe:2.3:a:polycom:hdx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: officejet-4100
+vendor_id: hp
+name: Officejet 4100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_4100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_4100
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jd239b
+vendor_id: hp
+name: Jd239B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd239b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd239b
+  confidence: auto

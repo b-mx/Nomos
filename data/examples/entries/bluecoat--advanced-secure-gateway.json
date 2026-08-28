@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bluecoat--advanced-secure-gateway",
+  "vendor_id": "bluecoat",
+  "product_id": "advanced-secure-gateway",
+  "name": "Advanced Secure Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "advanced_secure_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

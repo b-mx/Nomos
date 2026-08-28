@@ -1,0 +1,10 @@
+id: 411-firmware
+vendor_id: adtran
+name: 411 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:adtran:411_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 411_firmware
+  confidence: auto

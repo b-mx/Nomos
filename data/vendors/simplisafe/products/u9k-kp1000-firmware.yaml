@@ -1,0 +1,10 @@
+id: u9k-kp1000-firmware
+vendor_id: simplisafe
+name: U9K-Kp1000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:simplisafe:u9k\-kp1000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: u9k-kp1000_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: user-verification
+vendor_id: pickplugins
+name: User Verification
+type: software
+tags: []
+cpe: cpe:2.3:a:pickplugins:user_verification:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: user_verification
+  confidence: auto

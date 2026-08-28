@@ -1,0 +1,10 @@
+id: connect-view-65-firmware
+vendor_id: binatoneglobal
+name: Connect View 65 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:connect_view_65_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect_view_65_firmware
+  confidence: auto

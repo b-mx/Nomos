@@ -1,0 +1,10 @@
+id: x11dpff-sn-firmware
+vendor_id: supermicro
+name: X11Dpff-Sn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11dpff\-sn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dpff-sn_firmware
+  confidence: auto

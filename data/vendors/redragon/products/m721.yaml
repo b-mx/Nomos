@@ -1,0 +1,10 @@
+id: m721
+vendor_id: redragon
+name: M721
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redragon:m721:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m721
+  confidence: auto

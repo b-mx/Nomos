@@ -1,0 +1,10 @@
+id: foxit-pdf-sdk-dll
+vendor_id: foxitsoftware
+name: Foxit Pdf Sdk Dll
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:foxit_pdf_sdk_dll:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foxit_pdf_sdk_dll
+  confidence: auto

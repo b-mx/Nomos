@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emerson--ams-device-manager",
+  "vendor_id": "emerson",
+  "product_id": "ams-device-manager",
+  "name": "Ams Device Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ams_device_manager",
+      "confidence": "auto"
+    }
+  ]
+}

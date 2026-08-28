@@ -1,0 +1,10 @@
+id: pycadf
+vendor_id: openstack
+name: Pycadf
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:pycadf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pycadf
+  confidence: auto

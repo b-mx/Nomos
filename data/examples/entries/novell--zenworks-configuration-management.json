@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--zenworks-configuration-management",
+  "vendor_id": "novell",
+  "product_id": "zenworks-configuration-management",
+  "name": "Zenworks Configuration Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zenworks_configuration_management",
+      "confidence": "auto"
+    }
+  ]
+}

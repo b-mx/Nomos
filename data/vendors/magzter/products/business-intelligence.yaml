@@ -1,0 +1,10 @@
+id: business-intelligence
+vendor_id: magzter
+name: Business Intelligence
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:business_intelligence:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_intelligence
+  confidence: auto

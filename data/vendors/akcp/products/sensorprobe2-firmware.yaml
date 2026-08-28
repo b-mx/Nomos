@@ -1,0 +1,10 @@
+id: sensorprobe2-firmware
+vendor_id: akcp
+name: Sensorprobe2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:akcp:sensorprobe2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensorprobe2_firmware
+  confidence: auto

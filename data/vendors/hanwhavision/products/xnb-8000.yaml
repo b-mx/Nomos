@@ -1,0 +1,10 @@
+id: xnb-8000
+vendor_id: hanwhavision
+name: Xnb-8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnb\-8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnb-8000
+  confidence: auto

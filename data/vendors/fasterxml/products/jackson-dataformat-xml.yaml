@@ -1,0 +1,10 @@
+id: jackson-dataformat-xml
+vendor_id: fasterxml
+name: Jackson-Dataformat-Xml
+type: software
+tags: []
+cpe: cpe:2.3:a:fasterxml:jackson\-dataformat\-xml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jackson-dataformat-xml
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ehrd
+vendor_id: sun
+name: Ehrd
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:ehrd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ehrd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: smartserver-1-firmware
+vendor_id: echelon
+name: Smartserver 1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:echelon:smartserver_1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartserver_1_firmware
+  confidence: auto

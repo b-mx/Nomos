@@ -1,0 +1,10 @@
+id: products-genericsetup
+vendor_id: zope
+name: Products.Genericsetup
+type: software
+tags: []
+cpe: cpe:2.3:a:zope:products\.genericsetup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: products.genericsetup
+  confidence: auto

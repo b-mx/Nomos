@@ -1,0 +1,10 @@
+id: ah55b08-firmware
+vendor_id: meritlilin
+name: Ah55B08 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meritlilin:ah55b08_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ah55b08_firmware
+  confidence: auto

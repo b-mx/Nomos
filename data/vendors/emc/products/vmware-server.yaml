@@ -1,0 +1,10 @@
+id: vmware-server
+vendor_id: emc
+name: Vmware Server
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:vmware_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vmware_server
+  confidence: auto

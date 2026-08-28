@@ -1,0 +1,10 @@
+id: esp32-pico-v3-zero
+vendor_id: espressif
+name: Esp32-Pico-V3-Zero
+type: hardware
+tags: []
+cpe: cpe:2.3:h:espressif:esp32\-pico\-v3\-zero:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32-pico-v3-zero
+  confidence: auto

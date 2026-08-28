@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--keystone",
+  "vendor_id": "openstack",
+  "product_id": "keystone",
+  "name": "Keystone",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "keystone",
+      "confidence": "auto"
+    }
+  ]
+}

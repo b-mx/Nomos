@@ -1,0 +1,7 @@
+id: arris
+name: Arris
+cpe: cpe:2.3:*:arris:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris
+  confidence: auto

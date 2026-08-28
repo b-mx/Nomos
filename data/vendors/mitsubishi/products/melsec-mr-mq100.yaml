@@ -1,0 +1,10 @@
+id: melsec-mr-mq100
+vendor_id: mitsubishi
+name: Melsec Mr-Mq100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_mr\-mq100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_mr-mq100
+  confidence: auto

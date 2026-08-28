@@ -1,0 +1,10 @@
+id: fd108bn
+vendor_id: cdatatec
+name: Fd108Bn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cdatatec:fd108bn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd108bn
+  confidence: auto

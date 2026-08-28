@@ -1,0 +1,10 @@
+id: g-cam-ethc-2239-firmware
+vendor_id: geutebrueck
+name: G-Cam Ethc-2239 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:geutebrueck:g\-cam_ethc\-2239_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g-cam_ethc-2239_firmware
+  confidence: auto

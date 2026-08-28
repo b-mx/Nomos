@@ -1,0 +1,10 @@
+id: edirectory
+vendor_id: novell
+name: Edirectory
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:edirectory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edirectory
+  confidence: auto

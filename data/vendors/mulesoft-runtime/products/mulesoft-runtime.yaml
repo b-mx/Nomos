@@ -1,0 +1,9 @@
+id: mulesoft-runtime
+vendor_id: mulesoft-runtime
+name: Mule Runtime
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: mulesoft-runtime
+  confidence: auto

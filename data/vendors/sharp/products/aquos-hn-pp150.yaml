@@ -1,0 +1,10 @@
+id: aquos-hn-pp150
+vendor_id: sharp
+name: Aquos Hn-Pp150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:aquos_hn\-pp150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_hn-pp150
+  confidence: auto

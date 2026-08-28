@@ -1,0 +1,10 @@
+id: kernel-patch-vserver
+vendor_id: debian
+name: Kernel-Patch-Vserver
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:kernel\-patch\-vserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kernel-patch-vserver
+  confidence: auto

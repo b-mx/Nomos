@@ -1,0 +1,10 @@
+id: xperia-xzs
+vendor_id: sony
+name: Xperia Xzs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:xperia_xzs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xperia_xzs
+  confidence: auto

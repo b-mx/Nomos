@@ -1,0 +1,10 @@
+id: lenovo-xiaoxin-rui7000
+vendor_id: lenovo
+name: Lenovo Xiaoxin Rui7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:lenovo_xiaoxin_rui7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_xiaoxin_rui7000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mguard-rs4004-tx-dtx
+vendor_id: phoenixcontact
+name: Mguard Rs4004 Tx/Dtx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:mguard_rs4004_tx\/dtx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_rs4004_tx/dtx
+  confidence: auto

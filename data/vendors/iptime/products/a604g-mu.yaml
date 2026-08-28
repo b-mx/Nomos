@@ -1,0 +1,10 @@
+id: a604g-mu
+vendor_id: iptime
+name: A604G-Mu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a604g\-mu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a604g-mu
+  confidence: auto

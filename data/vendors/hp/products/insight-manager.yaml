@@ -1,0 +1,10 @@
+id: insight-manager
+vendor_id: hp
+name: Insight Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:insight_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_manager
+  confidence: auto

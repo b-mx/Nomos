@@ -1,0 +1,10 @@
+id: centralview-roaming-fraud-control
+vendor_id: hp
+name: Centralview Roaming Fraud Control
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:centralview_roaming_fraud_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centralview_roaming_fraud_control
+  confidence: auto

@@ -1,0 +1,10 @@
+id: simple-forum-website
+vendor_id: oretnom23
+name: Simple Forum Website
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:simple_forum_website:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_forum_website
+  confidence: auto

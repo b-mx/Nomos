@@ -1,0 +1,10 @@
+id: uomasa-saiji-new
+vendor_id: linecorp
+name: Uomasa Saiji New
+type: software
+tags: []
+cpe: cpe:2.3:a:linecorp:uomasa_saiji_new:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uomasa_saiji_new
+  confidence: auto

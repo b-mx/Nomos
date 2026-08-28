@@ -1,0 +1,10 @@
+id: ss3
+vendor_id: simplisafe
+name: Ss3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:simplisafe:ss3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ss3
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mbnet-rokey
+vendor_id: mbconnectline
+name: Mbnet.Rokey
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbconnectline:mbnet\.rokey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbnet.rokey
+  confidence: auto

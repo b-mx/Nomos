@@ -1,0 +1,10 @@
+id: rt-n18u
+vendor_id: asuswrt-merlin
+name: Rt-N18U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-n18u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-n18u
+  confidence: auto

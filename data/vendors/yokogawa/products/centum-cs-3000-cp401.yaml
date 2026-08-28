@@ -1,0 +1,10 @@
+id: centum-cs-3000-cp401
+vendor_id: yokogawa
+name: Centum Cs 3000 Cp401
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yokogawa:centum_cs_3000_cp401:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centum_cs_3000_cp401
+  confidence: auto

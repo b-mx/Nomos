@@ -1,0 +1,10 @@
+id: tc-router-3002t-4g-firmware
+vendor_id: phoenixcontact
+name: Tc Router 3002T-4G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:tc_router_3002t\-4g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc_router_3002t-4g_firmware
+  confidence: auto

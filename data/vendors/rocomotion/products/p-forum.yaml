@@ -1,0 +1,10 @@
+id: p-forum
+vendor_id: rocomotion
+name: P Forum
+type: software
+tags: []
+cpe: cpe:2.3:a:rocomotion:p_forum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p_forum
+  confidence: auto

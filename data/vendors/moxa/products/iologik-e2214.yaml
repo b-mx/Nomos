@@ -1,0 +1,10 @@
+id: iologik-e2214
+vendor_id: moxa
+name: Iologik E2214
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:iologik_e2214:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iologik_e2214
+  confidence: auto

@@ -1,0 +1,10 @@
+id: m2u89b
+vendor_id: hp
+name: M2U89B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m2u89b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2u89b
+  confidence: auto

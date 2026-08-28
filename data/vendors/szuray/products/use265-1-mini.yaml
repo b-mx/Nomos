@@ -1,0 +1,10 @@
+id: use265-1-mini
+vendor_id: szuray
+name: Use265-1-Mini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:szuray:use265\-1\-mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: use265-1-mini
+  confidence: auto

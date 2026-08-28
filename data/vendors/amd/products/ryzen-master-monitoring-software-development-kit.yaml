@@ -1,0 +1,10 @@
+id: ryzen-master-monitoring-software-development-kit
+vendor_id: amd
+name: Ryzen Master Monitoring Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:ryzen_master_monitoring_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_master_monitoring_software_development_kit
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kafo
+vendor_id: theforeman
+name: Kafo
+type: software
+tags: []
+cpe: cpe:2.3:a:theforeman:kafo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kafo
+  confidence: auto

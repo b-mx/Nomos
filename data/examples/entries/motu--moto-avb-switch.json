@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "motu--moto-avb-switch",
+  "vendor_id": "motu",
+  "product_id": "moto-avb-switch",
+  "name": "Moto Avb Switch",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "moto_avb_switch",
+      "confidence": "auto"
+    }
+  ]
+}

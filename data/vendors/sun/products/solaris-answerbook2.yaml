@@ -1,0 +1,10 @@
+id: solaris-answerbook2
+vendor_id: sun
+name: Solaris Answerbook2
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:solaris_answerbook2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solaris_answerbook2
+  confidence: auto

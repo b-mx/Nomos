@@ -1,0 +1,10 @@
+id: dcp-t510w-china
+vendor_id: brother
+name: Dcp-T510W(China)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-t510w\(china\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-t510w(china)
+  confidence: auto

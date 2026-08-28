@@ -1,0 +1,10 @@
+id: veriton-b630-49-firmware
+vendor_id: acer
+name: Veriton B630 49 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:veriton_b630_49_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: veriton_b630_49_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pcmanager
+vendor_id: lenovo
+name: Pcmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:pcmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcmanager
+  confidence: auto

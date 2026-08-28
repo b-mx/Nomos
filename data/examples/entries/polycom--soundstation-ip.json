@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "polycom--soundstation-ip",
+  "vendor_id": "polycom",
+  "product_id": "soundstation-ip",
+  "name": "Soundstation Ip",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "soundstation_ip",
+      "confidence": "auto"
+    }
+  ]
+}

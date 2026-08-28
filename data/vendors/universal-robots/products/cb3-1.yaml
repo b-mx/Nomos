@@ -1,0 +1,10 @@
+id: cb3-1
+vendor_id: universal-robots
+name: Cb3.1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:universal\-robots:cb3\.1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cb3.1
+  confidence: auto

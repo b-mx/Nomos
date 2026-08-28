@@ -1,0 +1,10 @@
+id: bm77
+vendor_id: microchip
+name: Bm77
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:bm77:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm77
+  confidence: auto

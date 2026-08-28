@@ -1,0 +1,10 @@
+id: ar2204-27ge
+vendor_id: huawei
+name: Ar2204-27Ge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar2204\-27ge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar2204-27ge
+  confidence: auto

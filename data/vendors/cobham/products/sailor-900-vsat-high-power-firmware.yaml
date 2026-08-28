@@ -1,0 +1,10 @@
+id: sailor-900-vsat-high-power-firmware
+vendor_id: cobham
+name: Sailor 900 Vsat High Power Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cobham:sailor_900_vsat_high_power_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sailor_900_vsat_high_power_firmware
+  confidence: auto

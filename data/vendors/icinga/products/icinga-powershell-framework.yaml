@@ -1,0 +1,10 @@
+id: icinga-powershell-framework
+vendor_id: icinga
+name: Icinga Powershell Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:icinga:icinga_powershell_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icinga_powershell_framework
+  confidence: auto

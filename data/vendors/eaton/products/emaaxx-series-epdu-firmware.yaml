@@ -1,0 +1,10 @@
+id: emaaxx-series-epdu-firmware
+vendor_id: eaton
+name: Emaaxx Series Epdu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eaton:emaaxx_series_epdu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emaaxx_series_epdu_firmware
+  confidence: auto

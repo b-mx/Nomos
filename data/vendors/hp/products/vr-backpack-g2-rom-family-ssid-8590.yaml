@@ -1,0 +1,10 @@
+id: vr-backpack-g2-rom-family-ssid-8590
+vendor_id: hp
+name: Vr Backpack G2 (Rom Family Ssid 8590)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:vr_backpack_g2_\(rom_family_ssid_8590\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vr_backpack_g2_(rom_family_ssid_8590)
+  confidence: auto

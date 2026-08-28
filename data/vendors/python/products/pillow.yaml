@@ -1,0 +1,10 @@
+id: pillow
+vendor_id: python
+name: Pillow
+type: software
+tags: []
+cpe: cpe:2.3:a:python:pillow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pillow
+  confidence: auto

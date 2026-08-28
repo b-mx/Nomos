@@ -1,0 +1,10 @@
+id: mesh-os
+vendor_id: tropos
+name: Mesh Os
+type: os
+tags: []
+cpe: cpe:2.3:o:tropos:mesh_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mesh_os
+  confidence: auto

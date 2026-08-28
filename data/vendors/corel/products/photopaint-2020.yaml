@@ -1,0 +1,10 @@
+id: photopaint-2020
+vendor_id: corel
+name: Photopaint 2020
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:photopaint_2020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photopaint_2020
+  confidence: auto

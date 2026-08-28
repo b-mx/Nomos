@@ -1,0 +1,10 @@
+id: nx701-1600
+vendor_id: omron
+name: Nx701-1600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:nx701\-1600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx701-1600
+  confidence: auto

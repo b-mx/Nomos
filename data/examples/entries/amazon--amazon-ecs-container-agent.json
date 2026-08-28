@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--amazon-ecs-container-agent",
+  "vendor_id": "amazon",
+  "product_id": "amazon-ecs-container-agent",
+  "name": "Amazon Ecs Container Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amazon_ecs_container_agent",
+      "confidence": "auto"
+    }
+  ]
+}

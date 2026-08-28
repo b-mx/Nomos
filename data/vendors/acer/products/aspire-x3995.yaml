@@ -1,0 +1,10 @@
+id: aspire-x3995
+vendor_id: acer
+name: Aspire X3995
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_x3995:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_x3995
+  confidence: auto

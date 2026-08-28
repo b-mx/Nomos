@@ -1,0 +1,10 @@
+id: mguard-firmware
+vendor_id: innominate
+name: Mguard Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:innominate:mguard_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_firmware
+  confidence: auto

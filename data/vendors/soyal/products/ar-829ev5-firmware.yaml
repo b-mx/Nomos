@@ -1,0 +1,10 @@
+id: ar-829ev5-firmware
+vendor_id: soyal
+name: Ar-829Ev5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:soyal:ar\-829ev5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar-829ev5_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mcollective
+vendor_id: puppet
+name: Mcollective
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:mcollective:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcollective
+  confidence: auto

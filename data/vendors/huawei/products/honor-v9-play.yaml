@@ -1,0 +1,10 @@
+id: honor-v9-play
+vendor_id: huawei
+name: Honor V9 Play
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:honor_v9_play:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_v9_play
+  confidence: auto

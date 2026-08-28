@@ -1,0 +1,10 @@
+id: surf-soho
+vendor_id: peplink
+name: Surf Soho
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:surf_soho:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: surf_soho
+  confidence: auto

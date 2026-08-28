@@ -1,0 +1,10 @@
+id: open-xchange-office-web
+vendor_id: open-xchange
+name: Open-Xchange Office-Web
+type: software
+tags: []
+cpe: cpe:2.3:a:open\-xchange:open\-xchange_office\-web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open-xchange_office-web
+  confidence: auto

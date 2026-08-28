@@ -1,0 +1,10 @@
+id: safe-anywhere
+vendor_id: f-secure
+name: Safe Anywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:safe_anywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safe_anywhere
+  confidence: auto

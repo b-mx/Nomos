@@ -1,0 +1,10 @@
+id: cc9381-hv
+vendor_id: vivotek
+name: Cc9381-Hv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:cc9381\-hv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc9381-hv
+  confidence: auto

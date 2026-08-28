@@ -1,0 +1,10 @@
+id: mbp4855-firmware
+vendor_id: binatoneglobal
+name: Mbp4855 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:mbp4855_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbp4855_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: freeware
+vendor_id: pgp
+name: Freeware
+type: software
+tags: []
+cpe: cpe:2.3:a:pgp:freeware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freeware
+  confidence: auto

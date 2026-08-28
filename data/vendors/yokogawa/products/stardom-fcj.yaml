@@ -1,0 +1,10 @@
+id: stardom-fcj
+vendor_id: yokogawa
+name: Stardom Fcj
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yokogawa:stardom_fcj:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stardom_fcj
+  confidence: auto

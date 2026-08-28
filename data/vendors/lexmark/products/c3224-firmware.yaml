@@ -1,0 +1,10 @@
+id: c3224-firmware
+vendor_id: lexmark
+name: C3224 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:c3224_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c3224_firmware
+  confidence: auto

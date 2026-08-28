@@ -1,0 +1,10 @@
+id: ap-114
+vendor_id: arubanetworks
+name: Ap-114
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-114:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-114
+  confidence: auto

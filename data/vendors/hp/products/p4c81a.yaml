@@ -1,0 +1,10 @@
+id: p4c81a
+vendor_id: hp
+name: P4C81A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:p4c81a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p4c81a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wf6
+vendor_id: sony
+name: Wf6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:wf6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wf6
+  confidence: auto

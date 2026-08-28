@@ -1,0 +1,10 @@
+id: edge-g2
+vendor_id: johnsoncontrols
+name: Edge G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:edge_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edge_g2
+  confidence: auto

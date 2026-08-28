@@ -1,0 +1,10 @@
+id: l-04d
+vendor_id: nttdocomo
+name: L-04D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nttdocomo:l\-04d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l-04d
+  confidence: auto

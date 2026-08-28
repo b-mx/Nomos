@@ -1,0 +1,10 @@
+id: controllogix-5570-redundancy
+vendor_id: rockwellautomation
+name: Controllogix 5570 Redundancy
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:controllogix_5570_redundancy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controllogix_5570_redundancy
+  confidence: auto

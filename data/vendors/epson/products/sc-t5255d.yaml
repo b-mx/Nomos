@@ -1,0 +1,10 @@
+id: sc-t5255d
+vendor_id: epson
+name: Sc-T5255D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-t5255d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-t5255d
+  confidence: auto

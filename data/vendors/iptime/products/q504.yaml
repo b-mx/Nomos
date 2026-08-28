@@ -1,0 +1,10 @@
+id: q504
+vendor_id: iptime
+name: Q504
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:q504:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q504
+  confidence: auto

@@ -1,0 +1,10 @@
+id: d200
+vendor_id: ge
+name: D200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:d200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d200
+  confidence: auto

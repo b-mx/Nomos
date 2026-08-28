@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wago--ethernet",
+  "vendor_id": "wago",
+  "product_id": "ethernet",
+  "name": "Ethernet",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ethernet",
+      "confidence": "auto"
+    }
+  ]
+}

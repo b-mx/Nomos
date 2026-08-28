@@ -1,0 +1,10 @@
+id: hen16144-firmware
+vendor_id: honeywell
+name: Hen16144 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hen16144_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hen16144_firmware
+  confidence: auto

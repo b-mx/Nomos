@@ -1,0 +1,10 @@
+id: sydneym-l03
+vendor_id: huawei
+name: Sydneym-L03
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:sydneym\-l03:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sydneym-l03
+  confidence: auto

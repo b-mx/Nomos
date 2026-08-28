@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nxp--mifare-ultralight-ev1",
+  "vendor_id": "nxp",
+  "product_id": "mifare-ultralight-ev1",
+  "name": "Mifare Ultralight Ev1",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mifare_ultralight_ev1",
+      "confidence": "auto"
+    }
+  ]
+}

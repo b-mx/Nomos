@@ -1,0 +1,10 @@
+id: aterm-wr8600n
+vendor_id: nec
+name: Aterm Wr8600N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wr8600n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wr8600n
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ot-235
+vendor_id: greenpacket
+name: Ot-235
+type: hardware
+tags: []
+cpe: cpe:2.3:h:greenpacket:ot\-235:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ot-235
+  confidence: auto

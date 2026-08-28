@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--imanager-neteco-firmware",
+  "vendor_id": "huawei",
+  "product_id": "imanager-neteco-firmware",
+  "name": "Imanager Neteco Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "imanager_neteco_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

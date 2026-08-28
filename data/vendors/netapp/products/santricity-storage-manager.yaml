@@ -1,0 +1,10 @@
+id: santricity-storage-manager
+vendor_id: netapp
+name: Santricity Storage Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:santricity_storage_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: santricity_storage_manager
+  confidence: auto

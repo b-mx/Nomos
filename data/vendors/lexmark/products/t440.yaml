@@ -1,0 +1,10 @@
+id: t440
+vendor_id: lexmark
+name: T440
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:t440:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t440
+  confidence: auto

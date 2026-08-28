@@ -1,0 +1,10 @@
+id: kde
+vendor_id: kde
+name: Kde
+type: os
+tags: []
+cpe: cpe:2.3:o:kde:kde:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kde
+  confidence: auto

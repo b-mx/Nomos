@@ -1,0 +1,10 @@
+id: stm32cubewb
+vendor_id: st
+name: Stm32Cubewb
+type: software
+tags: []
+cpe: cpe:2.3:a:st:stm32cubewb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32cubewb
+  confidence: auto

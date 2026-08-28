@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ca--vet-antivirus",
+  "vendor_id": "ca",
+  "product_id": "vet-antivirus",
+  "name": "Vet Antivirus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vet_antivirus",
+      "confidence": "auto"
+    }
+  ]
+}

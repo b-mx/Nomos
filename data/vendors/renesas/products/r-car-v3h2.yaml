@@ -1,0 +1,10 @@
+id: r-car-v3h2
+vendor_id: renesas
+name: R-Car V3H2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:renesas:r\-car_v3h2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r-car_v3h2
+  confidence: auto

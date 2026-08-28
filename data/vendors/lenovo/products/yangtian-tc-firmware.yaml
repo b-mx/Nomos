@@ -1,0 +1,10 @@
+id: yangtian-tc-firmware
+vendor_id: lenovo
+name: Yangtian Tc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yangtian_tc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_tc_firmware
+  confidence: auto

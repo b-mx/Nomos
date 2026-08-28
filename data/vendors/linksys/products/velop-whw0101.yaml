@@ -1,0 +1,10 @@
+id: velop-whw0101
+vendor_id: linksys
+name: Velop Whw0101
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:velop_whw0101:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: velop_whw0101
+  confidence: auto

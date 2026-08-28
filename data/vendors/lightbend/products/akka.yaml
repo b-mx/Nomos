@@ -1,0 +1,10 @@
+id: akka
+vendor_id: lightbend
+name: Akka
+type: software
+tags: []
+cpe: cpe:2.3:a:lightbend:akka:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: akka
+  confidence: auto

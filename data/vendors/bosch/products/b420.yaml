@@ -1,0 +1,10 @@
+id: b420
+vendor_id: bosch
+name: B420
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:b420:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b420
+  confidence: auto

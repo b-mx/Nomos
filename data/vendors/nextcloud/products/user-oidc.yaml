@@ -1,0 +1,10 @@
+id: user-oidc
+vendor_id: nextcloud
+name: User Oidc
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:user_oidc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: user_oidc
+  confidence: auto

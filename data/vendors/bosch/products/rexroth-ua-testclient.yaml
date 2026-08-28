@@ -1,0 +1,10 @@
+id: rexroth-ua-testclient
+vendor_id: bosch
+name: Rexroth Ua.Testclient
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:rexroth_ua\.testclient:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rexroth_ua.testclient
+  confidence: auto

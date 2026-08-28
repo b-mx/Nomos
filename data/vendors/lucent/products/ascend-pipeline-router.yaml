@@ -1,0 +1,10 @@
+id: ascend-pipeline-router
+vendor_id: lucent
+name: Ascend Pipeline Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lucent:ascend_pipeline_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ascend_pipeline_router
+  confidence: auto

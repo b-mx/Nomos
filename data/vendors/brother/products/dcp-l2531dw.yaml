@@ -1,0 +1,10 @@
+id: dcp-l2531dw
+vendor_id: brother
+name: Dcp-L2531Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-l2531dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-l2531dw
+  confidence: auto

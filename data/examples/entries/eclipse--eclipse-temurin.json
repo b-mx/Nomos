@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--eclipse-temurin",
+  "vendor_id": "eclipse",
+  "product_id": "eclipse-temurin",
+  "name": "Eclipse Temurin",
+  "type": "library",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "eclipse-temurin",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "temurin",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: aterm-mr01ln
+vendor_id: nec
+name: Aterm Mr01Ln
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_mr01ln:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_mr01ln
+  confidence: auto

@@ -1,0 +1,10 @@
+id: eth-account
+vendor_id: ethereum
+name: Eth-Account
+type: software
+tags: []
+cpe: cpe:2.3:a:ethereum:eth\-account:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eth-account
+  confidence: auto

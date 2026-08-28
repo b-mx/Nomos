@@ -1,0 +1,10 @@
+id: omr
+vendor_id: eclipse
+name: Omr
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:omr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omr
+  confidence: auto

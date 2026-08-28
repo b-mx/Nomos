@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--controledge-plc-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "controledge-plc-firmware",
+  "name": "Controledge Plc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "controledge_plc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

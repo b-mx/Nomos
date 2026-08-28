@@ -1,0 +1,10 @@
+id: cx-position
+vendor_id: omron
+name: Cx-Position
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:cx\-position:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-position
+  confidence: auto

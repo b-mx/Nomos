@@ -1,0 +1,10 @@
+id: optima-cl323i
+vendor_id: gehealthcare
+name: Optima Cl323I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:optima_cl323i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_cl323i
+  confidence: auto

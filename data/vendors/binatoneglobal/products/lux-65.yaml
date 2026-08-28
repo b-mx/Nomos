@@ -1,0 +1,10 @@
+id: lux-65
+vendor_id: binatoneglobal
+name: Lux 65
+type: hardware
+tags: []
+cpe: cpe:2.3:h:binatoneglobal:lux_65:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lux_65
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bullet-lte
+vendor_id: microhardcorp
+name: Bullet-Lte
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microhardcorp:bullet\-lte:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bullet-lte
+  confidence: auto

@@ -1,0 +1,10 @@
+id: solis-8186-bt-firmware
+vendor_id: sloan
+name: Solis 8186 Bt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sloan:solis_8186_bt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solis_8186_bt_firmware
+  confidence: auto

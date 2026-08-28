@@ -1,0 +1,10 @@
+id: toolchain-source
+vendor_id: debian
+name: Toolchain-Source
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:toolchain\-source:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toolchain-source
+  confidence: auto

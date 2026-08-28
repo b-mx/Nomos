@@ -1,0 +1,10 @@
+id: wifi-repeater-firmware
+vendor_id: wavlink
+name: Wifi-Repeater Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wavlink:wifi\-repeater_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifi-repeater_firmware
+  confidence: auto

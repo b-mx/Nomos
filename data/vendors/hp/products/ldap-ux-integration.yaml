@@ -1,0 +1,10 @@
+id: ldap-ux-integration
+vendor_id: hp
+name: Ldap-Ux Integration
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:ldap\-ux_integration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ldap-ux_integration
+  confidence: auto

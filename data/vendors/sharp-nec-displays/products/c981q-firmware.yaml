@@ -1,0 +1,10 @@
+id: c981q-firmware
+vendor_id: sharp-nec-displays
+name: C981Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp\-nec\-displays:c981q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c981q_firmware
+  confidence: auto

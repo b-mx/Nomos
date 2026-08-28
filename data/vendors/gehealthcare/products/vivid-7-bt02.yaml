@@ -1,0 +1,10 @@
+id: vivid-7-bt02
+vendor_id: gehealthcare
+name: Vivid 7 Bt02
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:vivid_7_bt02:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vivid_7_bt02
+  confidence: auto

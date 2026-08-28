@@ -1,0 +1,10 @@
+id: laserjet-pro-cm1415fnw-color-multifunction-printer
+vendor_id: hp
+name: Laserjet Pro Cm1415Fnw Color Multifunction Printer
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_cm1415fnw_color_multifunction_printer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_cm1415fnw_color_multifunction_printer
+  confidence: auto

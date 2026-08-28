@@ -1,0 +1,10 @@
+id: 20km
+vendor_id: lenovo
+name: 20Km
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20km:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20km
+  confidence: auto

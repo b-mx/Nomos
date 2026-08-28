@@ -1,0 +1,10 @@
+id: arris-tr3300
+vendor_id: commscope
+name: Arris Tr3300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:arris_tr3300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_tr3300
+  confidence: auto

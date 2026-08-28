@@ -1,0 +1,10 @@
+id: std
+vendor_id: amag
+name: Std
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amag:std:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: std
+  confidence: auto

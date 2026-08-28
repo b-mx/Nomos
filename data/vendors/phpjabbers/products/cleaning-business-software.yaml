@@ -1,0 +1,10 @@
+id: cleaning-business-software
+vendor_id: phpjabbers
+name: Cleaning Business Software
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:cleaning_business_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cleaning_business_software
+  confidence: auto

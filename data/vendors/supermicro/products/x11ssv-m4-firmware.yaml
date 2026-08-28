@@ -1,0 +1,10 @@
+id: x11ssv-m4-firmware
+vendor_id: supermicro
+name: X11Ssv-M4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11ssv\-m4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssv-m4_firmware
+  confidence: auto

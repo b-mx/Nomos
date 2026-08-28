@@ -1,0 +1,10 @@
+id: aiter
+vendor_id: amd
+name: Aiter
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:aiter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aiter
+  confidence: auto

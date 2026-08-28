@@ -1,0 +1,10 @@
+id: hd17h-n-firmware
+vendor_id: smtav
+name: Hd17H-N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:smtav:hd17h\-n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hd17h-n_firmware
+  confidence: auto

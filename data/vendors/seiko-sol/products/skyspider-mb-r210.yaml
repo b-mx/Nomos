@@ -1,0 +1,10 @@
+id: skyspider-mb-r210
+vendor_id: seiko-sol
+name: Skyspider Mb-R210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seiko\-sol:skyspider_mb\-r210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skyspider_mb-r210
+  confidence: auto

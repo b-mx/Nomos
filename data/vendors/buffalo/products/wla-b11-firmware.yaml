@@ -1,0 +1,10 @@
+id: wla-b11-firmware
+vendor_id: buffalo
+name: Wla-B11 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wla\-b11_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wla-b11_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rncpu-n-00-01-02-t
+vendor_id: mitsubishielectric
+name: Rncpu(N=00/01/02)T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rncpu\(n\=00\/01\/02\)t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rncpu(n=00/01/02)t
+  confidence: auto

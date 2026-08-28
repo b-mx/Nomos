@@ -1,0 +1,10 @@
+id: easy-mpeg-to-dvd-burner
+vendor_id: ether-software
+name: Easy Mpeg To Dvd Burner
+type: software
+tags: []
+cpe: cpe:2.3:a:ether_software:easy_mpeg_to_dvd_burner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_mpeg_to_dvd_burner
+  confidence: auto

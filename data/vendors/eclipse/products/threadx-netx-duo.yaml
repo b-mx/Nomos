@@ -1,0 +1,10 @@
+id: threadx-netx-duo
+vendor_id: eclipse
+name: Threadx Netx Duo
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:threadx_netx_duo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: threadx_netx_duo
+  confidence: auto

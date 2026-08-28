@@ -1,0 +1,10 @@
+id: x15
+vendor_id: totolink
+name: X15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:x15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x15
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lighting-node-pro
+vendor_id: corsair
+name: Lighting Node Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:lighting_node_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lighting_node_pro
+  confidence: auto

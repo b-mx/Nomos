@@ -1,0 +1,10 @@
+id: color-laserjet-pro-4201-4203-4ra87f
+vendor_id: hp
+name: Color Laserjet Pro 4201-4203 4Ra87F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_pro_4201\-4203_4ra87f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_pro_4201-4203_4ra87f
+  confidence: auto

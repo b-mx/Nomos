@@ -1,0 +1,10 @@
+id: workspaces-vapp
+vendor_id: blackberry
+name: Workspaces Vapp
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:workspaces_vapp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workspaces_vapp
+  confidence: auto

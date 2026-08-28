@@ -1,0 +1,10 @@
+id: online-discussion-forum-site
+vendor_id: razormist
+name: Online Discussion Forum Site
+type: software
+tags: []
+cpe: cpe:2.3:a:razormist:online_discussion_forum_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_discussion_forum_site
+  confidence: auto

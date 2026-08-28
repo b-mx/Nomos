@@ -1,0 +1,10 @@
+id: cn581a
+vendor_id: hp
+name: Cn581A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cn581a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn581a
+  confidence: auto

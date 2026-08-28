@@ -1,0 +1,10 @@
+id: haproxy
+vendor_id: netgate
+name: Haproxy
+type: software
+tags: []
+cpe: cpe:2.3:a:netgate:haproxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: haproxy
+  confidence: auto

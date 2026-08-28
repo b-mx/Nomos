@@ -1,0 +1,10 @@
+id: cn460a
+vendor_id: hp
+name: Cn460A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cn460a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn460a
+  confidence: auto

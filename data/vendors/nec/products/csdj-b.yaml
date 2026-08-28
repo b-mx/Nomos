@@ -1,0 +1,10 @@
+id: csdj-b
+vendor_id: nec
+name: Csdj-B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:csdj\-b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: csdj-b
+  confidence: auto

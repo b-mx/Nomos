@@ -1,0 +1,10 @@
+id: n150-f9k1009-firmware
+vendor_id: belkin
+name: N150 F9K1009 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:n150_f9k1009_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n150_f9k1009_firmware
+  confidence: auto

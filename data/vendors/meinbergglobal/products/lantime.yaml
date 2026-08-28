@@ -1,0 +1,10 @@
+id: lantime
+vendor_id: meinbergglobal
+name: Lantime
+type: os
+tags: []
+cpe: cpe:2.3:o:meinbergglobal:lantime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lantime
+  confidence: auto

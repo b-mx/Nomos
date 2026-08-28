@@ -1,0 +1,10 @@
+id: camera-system-chb-c-n-firmware
+vendor_id: festo
+name: Camera System Chb-C-N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:camera_system_chb\-c\-n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: camera_system_chb-c-n_firmware
+  confidence: auto

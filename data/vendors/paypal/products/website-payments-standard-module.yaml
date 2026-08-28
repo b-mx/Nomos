@@ -1,0 +1,10 @@
+id: website-payments-standard-module
+vendor_id: paypal
+name: Website Payments Standard Module
+type: software
+tags: []
+cpe: cpe:2.3:a:paypal:website_payments_standard_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: website_payments_standard_module
+  confidence: auto

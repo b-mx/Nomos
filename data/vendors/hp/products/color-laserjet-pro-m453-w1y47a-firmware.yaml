@@ -1,0 +1,10 @@
+id: color-laserjet-pro-m453-w1y47a-firmware
+vendor_id: hp
+name: Color Laserjet Pro M453 W1Y47A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_pro_m453_w1y47a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_pro_m453_w1y47a_firmware
+  confidence: auto

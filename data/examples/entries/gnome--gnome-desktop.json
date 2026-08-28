@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--gnome-desktop",
+  "vendor_id": "gnome",
+  "product_id": "gnome-desktop",
+  "name": "Gnome-Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gnome-desktop",
+      "confidence": "auto"
+    }
+  ]
+}

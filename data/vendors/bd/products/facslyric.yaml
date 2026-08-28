@@ -1,0 +1,10 @@
+id: facslyric
+vendor_id: bd
+name: Facslyric
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:facslyric:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: facslyric
+  confidence: auto

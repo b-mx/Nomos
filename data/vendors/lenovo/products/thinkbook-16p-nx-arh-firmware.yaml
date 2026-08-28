@@ -1,0 +1,10 @@
+id: thinkbook-16p-nx-arh-firmware
+vendor_id: lenovo
+name: Thinkbook 16P Nx Arh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkbook_16p_nx_arh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_16p_nx_arh_firmware
+  confidence: auto

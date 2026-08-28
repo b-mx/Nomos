@@ -1,0 +1,10 @@
+id: file-server-security
+vendor_id: avast
+name: File Server Security
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:file_server_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: file_server_security
+  confidence: auto

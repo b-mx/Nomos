@@ -1,0 +1,10 @@
+id: thinkcentre
+vendor_id: lenovo
+name: Thinkcentre
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre
+  confidence: auto

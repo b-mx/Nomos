@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teltonika-networks--rut241-firmware",
+  "vendor_id": "teltonika-networks",
+  "product_id": "rut241-firmware",
+  "name": "Rut241 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rut241_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

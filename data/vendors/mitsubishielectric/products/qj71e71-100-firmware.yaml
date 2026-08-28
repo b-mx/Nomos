@@ -1,0 +1,10 @@
+id: qj71e71-100-firmware
+vendor_id: mitsubishielectric
+name: Qj71E71-100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:qj71e71\-100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qj71e71-100_firmware
+  confidence: auto

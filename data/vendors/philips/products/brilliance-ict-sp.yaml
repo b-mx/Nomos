@@ -1,0 +1,10 @@
+id: brilliance-ict-sp
+vendor_id: philips
+name: Brilliance Ict Sp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:brilliance_ict_sp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brilliance_ict_sp
+  confidence: auto

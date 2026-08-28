@@ -1,0 +1,10 @@
+id: autocad-architecture
+vendor_id: autodesk
+name: Autocad Architecture
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autocad_architecture:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocad_architecture
+  confidence: auto

@@ -1,0 +1,10 @@
+id: backstage
+vendor_id: linuxfoundation
+name: Backstage
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backstage
+  confidence: auto

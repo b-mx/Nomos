@@ -1,0 +1,10 @@
+id: htaccess-editor
+vendor_id: easydigitaldownloads
+name: Htaccess Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:htaccess_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: htaccess_editor
+  confidence: auto

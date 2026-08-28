@@ -1,0 +1,10 @@
+id: visia-af-icd-firmware
+vendor_id: medtronic
+name: Visia Af Icd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:visia_af_icd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visia_af_icd_firmware
+  confidence: auto

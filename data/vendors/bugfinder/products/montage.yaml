@@ -1,0 +1,10 @@
+id: montage
+vendor_id: bugfinder
+name: Montage
+type: software
+tags: []
+cpe: cpe:2.3:a:bugfinder:montage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: montage
+  confidence: auto

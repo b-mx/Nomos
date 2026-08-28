@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teradici--pcoip-client",
+  "vendor_id": "teradici",
+  "product_id": "pcoip-client",
+  "name": "Pcoip Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pcoip_client",
+      "confidence": "auto"
+    }
+  ]
+}

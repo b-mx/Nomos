@@ -1,0 +1,10 @@
+id: envy-5000-z4a61b
+vendor_id: hp
+name: Envy 5000 Z4A61B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5000_z4a61b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5000_z4a61b
+  confidence: auto

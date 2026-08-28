@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trane--tracer-sc-firmware",
+  "vendor_id": "trane",
+  "product_id": "tracer-sc-firmware",
+  "name": "Tracer Sc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tracer_sc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

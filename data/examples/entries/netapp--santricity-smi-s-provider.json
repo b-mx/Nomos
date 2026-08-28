@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--santricity-smi-s-provider",
+  "vendor_id": "netapp",
+  "product_id": "santricity-smi-s-provider",
+  "name": "Santricity Smi-S Provider",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "santricity_smi-s_provider",
+      "confidence": "auto"
+    }
+  ]
+}

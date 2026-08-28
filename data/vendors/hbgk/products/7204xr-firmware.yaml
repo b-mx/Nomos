@@ -1,0 +1,10 @@
+id: 7204xr-firmware
+vendor_id: hbgk
+name: 7204Xr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:7204xr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 7204xr_firmware
+  confidence: auto

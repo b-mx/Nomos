@@ -1,0 +1,10 @@
+id: x10dscp
+vendor_id: supermicro
+name: X10Dscp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10dscp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10dscp
+  confidence: auto

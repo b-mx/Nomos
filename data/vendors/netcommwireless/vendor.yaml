@@ -1,0 +1,7 @@
+id: netcommwireless
+name: Netcommwireless
+cpe: cpe:2.3:*:netcommwireless:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netcommwireless
+  confidence: auto

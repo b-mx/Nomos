@@ -1,0 +1,10 @@
+id: micrologix-1400
+vendor_id: rockwellautomation
+name: Micrologix 1400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:micrologix_1400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: micrologix_1400
+  confidence: auto

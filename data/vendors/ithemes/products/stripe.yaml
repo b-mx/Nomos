@@ -1,0 +1,10 @@
+id: stripe
+vendor_id: ithemes
+name: Stripe
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:stripe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stripe
+  confidence: auto

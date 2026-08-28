@@ -1,0 +1,10 @@
+id: poly-tc10
+vendor_id: hp
+name: Poly Tc10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:poly_tc10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_tc10
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fuji-xerox-b9100
+vendor_id: fujifilm
+name: Fuji Xerox B9100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:fuji_xerox_b9100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fuji_xerox_b9100
+  confidence: auto

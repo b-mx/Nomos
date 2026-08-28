@@ -1,0 +1,10 @@
+id: laptop-14s-dk0xxx
+vendor_id: hp
+name: Laptop 14S-Dk0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_14s\-dk0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_14s-dk0xxx
+  confidence: auto

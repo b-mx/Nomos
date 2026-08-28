@@ -1,0 +1,10 @@
+id: 750-8216-025-000-firmware
+vendor_id: wago
+name: 750-8216/025-000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:750\-8216\/025\-000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 750-8216/025-000_firmware
+  confidence: auto

@@ -1,0 +1,7 @@
+id: openzfs
+name: Openzfs
+cpe: cpe:2.3:*:openzfs:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openzfs
+  confidence: auto

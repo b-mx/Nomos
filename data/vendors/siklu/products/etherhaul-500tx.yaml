@@ -1,0 +1,10 @@
+id: etherhaul-500tx
+vendor_id: siklu
+name: Etherhaul 500Tx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:siklu:etherhaul_500tx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: etherhaul_500tx
+  confidence: auto

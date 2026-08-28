@@ -1,0 +1,10 @@
+id: j-safe3-firmware
+vendor_id: st
+name: J-Safe3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:st:j\-safe3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j-safe3_firmware
+  confidence: auto

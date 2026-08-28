@@ -1,0 +1,10 @@
+id: usw-enterprise-48-poe
+vendor_id: ui
+name: Usw-Enterprise-48-Poe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:usw\-enterprise\-48\-poe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usw-enterprise-48-poe
+  confidence: auto

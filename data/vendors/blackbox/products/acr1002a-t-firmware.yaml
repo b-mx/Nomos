@@ -1,0 +1,10 @@
+id: acr1002a-t-firmware
+vendor_id: blackbox
+name: Acr1002A-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:blackbox:acr1002a\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acr1002a-t_firmware
+  confidence: auto

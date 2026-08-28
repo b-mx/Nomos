@@ -5,15 +5,13 @@
   "product_id": "core",
   "name": "Core",
   "type": "software",
-  "tags": [
-    "cms"
-  ],
-  "icon": "logos:drupal",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
-      "value": "Drupal core",
+      "value": "Core",
       "confidence": "auto"
     }
   ]

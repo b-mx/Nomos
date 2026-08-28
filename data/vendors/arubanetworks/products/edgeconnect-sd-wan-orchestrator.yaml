@@ -1,0 +1,10 @@
+id: edgeconnect-sd-wan-orchestrator
+vendor_id: arubanetworks
+name: Edgeconnect Sd-Wan Orchestrator
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:edgeconnect_sd\-wan_orchestrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgeconnect_sd-wan_orchestrator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lms141
+vendor_id: sick
+name: Lms141
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:lms141:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lms141
+  confidence: auto

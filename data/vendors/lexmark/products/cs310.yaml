@@ -1,0 +1,10 @@
+id: cs310
+vendor_id: lexmark
+name: Cs310
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs310:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs310
+  confidence: auto

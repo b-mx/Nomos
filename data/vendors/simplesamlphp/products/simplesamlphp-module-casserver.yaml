@@ -1,0 +1,10 @@
+id: simplesamlphp-module-casserver
+vendor_id: simplesamlphp
+name: Simplesamlphp-Module-Casserver
+type: software
+tags: []
+cpe: cpe:2.3:a:simplesamlphp:simplesamlphp\-module\-casserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplesamlphp-module-casserver
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinksystem-dx1100u-firmware
+vendor_id: lenovo
+name: Thinksystem Dx1100U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksystem_dx1100u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_dx1100u_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ovrc-300-pro
+vendor_id: snapone
+name: Ovrc-300-Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:snapone:ovrc\-300\-pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ovrc-300-pro
+  confidence: auto

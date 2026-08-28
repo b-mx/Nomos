@@ -1,0 +1,10 @@
+id: portserver-ts-mei-hardened-firmware
+vendor_id: digi
+name: Portserver Ts Mei Hardened Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:portserver_ts_mei_hardened_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portserver_ts_mei_hardened_firmware
+  confidence: auto

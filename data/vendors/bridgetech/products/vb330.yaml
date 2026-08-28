@@ -1,0 +1,10 @@
+id: vb330
+vendor_id: bridgetech
+name: Vb330
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bridgetech:vb330:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vb330
+  confidence: auto

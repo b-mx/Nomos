@@ -1,0 +1,10 @@
+id: n350rt
+vendor_id: totolink
+name: N350Rt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:n350rt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n350rt
+  confidence: auto

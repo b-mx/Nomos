@@ -1,0 +1,10 @@
+id: miui-firmware
+vendor_id: mi
+name: Miui Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:miui_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miui_firmware
+  confidence: auto

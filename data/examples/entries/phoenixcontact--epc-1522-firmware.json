@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phoenixcontact--epc-1522-firmware",
+  "vendor_id": "phoenixcontact",
+  "product_id": "epc-1522-firmware",
+  "name": "Epc 1522 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epc_1522_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

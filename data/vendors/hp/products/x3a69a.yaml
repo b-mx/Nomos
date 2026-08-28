@@ -1,0 +1,10 @@
+id: x3a69a
+vendor_id: hp
+name: X3A69A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:x3a69a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x3a69a
+  confidence: auto

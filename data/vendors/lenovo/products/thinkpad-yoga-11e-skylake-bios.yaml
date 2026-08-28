@@ -1,0 +1,10 @@
+id: thinkpad-yoga-11e-skylake-bios
+vendor_id: lenovo
+name: Thinkpad Yoga 11E Skylake Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_yoga_11e_skylake_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_yoga_11e_skylake_bios
+  confidence: auto

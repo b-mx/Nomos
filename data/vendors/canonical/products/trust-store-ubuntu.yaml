@@ -1,0 +1,10 @@
+id: trust-store-ubuntu
+vendor_id: canonical
+name: Trust-Store (Ubuntu)
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:trust\-store_\(ubuntu\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trust-store_(ubuntu)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tinyon-ip-2000
+vendor_id: bosch
+name: Tinyon Ip 2000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:tinyon_ip_2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tinyon_ip_2000
+  confidence: auto

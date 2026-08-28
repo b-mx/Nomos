@@ -1,0 +1,10 @@
+id: melsec-lj71e71-100
+vendor_id: mitsubishi
+name: Melsec Lj71E71-100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_lj71e71\-100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_lj71e71-100
+  confidence: auto

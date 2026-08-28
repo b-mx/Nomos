@@ -1,0 +1,10 @@
+id: awv-plus
+vendor_id: chuango
+name: Awv Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chuango:awv_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awv_plus
+  confidence: auto

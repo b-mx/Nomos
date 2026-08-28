@@ -1,0 +1,10 @@
+id: fglrx-driver
+vendor_id: amd
+name: Fglrx-Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:fglrx\-driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fglrx-driver
+  confidence: auto

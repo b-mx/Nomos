@@ -1,0 +1,13 @@
+id: postfix
+vendor_id: postfix
+name: Postfix
+type: software
+tags: []
+cpe: cpe:2.3:a:postfix:postfix:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: postfix
+  confidence: auto
+- source: nvd
+  value: postfix
+  confidence: auto

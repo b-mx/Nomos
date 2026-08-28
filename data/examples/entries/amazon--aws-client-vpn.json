@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-client-vpn",
+  "vendor_id": "amazon",
+  "product_id": "aws-client-vpn",
+  "name": "Aws Client Vpn",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws_client_vpn",
+      "confidence": "auto"
+    }
+  ]
+}

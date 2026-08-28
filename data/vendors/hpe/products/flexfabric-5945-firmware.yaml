@@ -1,0 +1,10 @@
+id: flexfabric-5945-firmware
+vendor_id: hpe
+name: Flexfabric 5945 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:flexfabric_5945_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexfabric_5945_firmware
+  confidence: auto

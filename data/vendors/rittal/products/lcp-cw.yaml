@@ -1,0 +1,10 @@
+id: lcp-cw
+vendor_id: rittal
+name: Lcp-Cw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rittal:lcp\-cw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lcp-cw
+  confidence: auto

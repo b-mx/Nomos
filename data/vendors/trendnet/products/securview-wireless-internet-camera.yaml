@@ -1,0 +1,10 @@
+id: securview-wireless-internet-camera
+vendor_id: trendnet
+name: Securview Wireless Internet Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:securview_wireless_internet_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: securview_wireless_internet_camera
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dbs3900-tdd-lte
+vendor_id: huawei
+name: Dbs3900 Tdd Lte
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:dbs3900_tdd_lte:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dbs3900_tdd_lte
+  confidence: auto

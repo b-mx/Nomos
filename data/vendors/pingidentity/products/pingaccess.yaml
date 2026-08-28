@@ -1,0 +1,10 @@
+id: pingaccess
+vendor_id: pingidentity
+name: Pingaccess
+type: software
+tags: []
+cpe: cpe:2.3:a:pingidentity:pingaccess:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pingaccess
+  confidence: auto

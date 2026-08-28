@@ -1,0 +1,10 @@
+id: m3086-v-mic
+vendor_id: axis
+name: M3086-V Mic
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m3086\-v_mic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3086-v_mic
+  confidence: auto

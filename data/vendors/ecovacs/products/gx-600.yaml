@@ -1,0 +1,10 @@
+id: gx-600
+vendor_id: ecovacs
+name: Gx-600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:gx\-600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gx-600
+  confidence: auto

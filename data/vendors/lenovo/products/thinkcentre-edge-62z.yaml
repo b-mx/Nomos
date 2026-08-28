@@ -1,0 +1,10 @@
+id: thinkcentre-edge-62z
+vendor_id: lenovo
+name: Thinkcentre Edge 62Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_edge_62z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_edge_62z
+  confidence: auto

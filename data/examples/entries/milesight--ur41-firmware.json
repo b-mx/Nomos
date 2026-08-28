@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "milesight--ur41-firmware",
+  "vendor_id": "milesight",
+  "product_id": "ur41-firmware",
+  "name": "Ur41 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ur41_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

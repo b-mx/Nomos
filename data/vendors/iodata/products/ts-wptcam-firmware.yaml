@@ -1,0 +1,10 @@
+id: ts-wptcam-firmware
+vendor_id: iodata
+name: Ts-Wptcam Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:ts\-wptcam_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts-wptcam_firmware
+  confidence: auto

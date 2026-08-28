@@ -1,0 +1,10 @@
+id: newspack-popups
+vendor_id: automattic
+name: Newspack Popups
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:newspack_popups:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: newspack_popups
+  confidence: auto

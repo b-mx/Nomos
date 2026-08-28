@@ -1,0 +1,10 @@
+id: element-software
+vendor_id: netapp
+name: Element Software
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:element_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: element_software
+  confidence: auto

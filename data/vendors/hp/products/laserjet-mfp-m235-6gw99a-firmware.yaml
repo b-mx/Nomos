@@ -1,0 +1,10 @@
+id: laserjet-mfp-m235-6gw99a-firmware
+vendor_id: hp
+name: Laserjet Mfp M235 6Gw99A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_mfp_m235_6gw99a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m235_6gw99a_firmware
+  confidence: auto

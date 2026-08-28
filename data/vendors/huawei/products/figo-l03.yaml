@@ -1,0 +1,10 @@
+id: figo-l03
+vendor_id: huawei
+name: Figo-L03
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:figo\-l03:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: figo-l03
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ni-grpc-device-server
+vendor_id: ni
+name: Ni Grpc Device Server
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:ni_grpc_device_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ni_grpc_device_server
+  confidence: auto

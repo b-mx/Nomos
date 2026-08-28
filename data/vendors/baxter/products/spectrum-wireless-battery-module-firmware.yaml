@@ -1,0 +1,10 @@
+id: spectrum-wireless-battery-module-firmware
+vendor_id: baxter
+name: Spectrum Wireless Battery Module Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baxter:spectrum_wireless_battery_module_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectrum_wireless_battery_module_firmware
+  confidence: auto

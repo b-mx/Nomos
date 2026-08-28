@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "scala-lang--scala",
+  "vendor_id": "scala-lang",
+  "product_id": "scala",
+  "name": "Scala",
+  "type": "library",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "scala",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "scala",
+      "confidence": "auto"
+    }
+  ]
+}

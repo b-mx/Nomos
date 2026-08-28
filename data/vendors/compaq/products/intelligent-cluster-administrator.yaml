@@ -1,0 +1,10 @@
+id: intelligent-cluster-administrator
+vendor_id: compaq
+name: Intelligent Cluster Administrator
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:intelligent_cluster_administrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_cluster_administrator
+  confidence: auto

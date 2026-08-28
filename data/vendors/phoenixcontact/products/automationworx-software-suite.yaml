@@ -1,0 +1,10 @@
+id: automationworx-software-suite
+vendor_id: phoenixcontact
+name: Automationworx Software Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:automationworx_software_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automationworx_software_suite
+  confidence: auto

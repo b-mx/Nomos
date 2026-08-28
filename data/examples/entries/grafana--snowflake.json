@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "grafana--snowflake",
+  "vendor_id": "grafana",
+  "product_id": "snowflake",
+  "name": "Snowflake",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "snowflake",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+id: micron
+name: Micron
+cpe: cpe:2.3:*:micron:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: micron
+  confidence: auto

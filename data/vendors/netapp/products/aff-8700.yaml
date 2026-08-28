@@ -1,0 +1,10 @@
+id: aff-8700
+vendor_id: netapp
+name: Aff 8700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:aff_8700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aff_8700
+  confidence: auto

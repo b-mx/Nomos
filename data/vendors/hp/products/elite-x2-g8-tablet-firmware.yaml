@@ -1,0 +1,10 @@
+id: elite-x2-g8-tablet-firmware
+vendor_id: hp
+name: Elite X2 G8 Tablet Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elite_x2_g8_tablet_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_x2_g8_tablet_firmware
+  confidence: auto

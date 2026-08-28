@@ -1,0 +1,10 @@
+id: gc-a22w-cw-firmware
+vendor_id: koyoele
+name: Gc-A22W-Cw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:koyoele:gc\-a22w\-cw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gc-a22w-cw_firmware
+  confidence: auto

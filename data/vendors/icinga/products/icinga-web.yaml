@@ -1,0 +1,13 @@
+id: icinga-web
+vendor_id: icinga
+name: Icinga Web
+type: software
+tags: []
+cpe: cpe:2.3:a:icinga:icinga_web_2:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: icinga-web
+  confidence: auto
+- source: nvd
+  value: icinga_web_2
+  confidence: auto

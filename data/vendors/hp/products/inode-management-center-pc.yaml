@@ -1,0 +1,10 @@
+id: inode-management-center-pc
+vendor_id: hp
+name: Inode Management Center Pc
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:inode_management_center_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inode_management_center_pc
+  confidence: auto

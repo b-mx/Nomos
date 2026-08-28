@@ -1,0 +1,10 @@
+id: ideacentre-5-14are05-firmware
+vendor_id: lenovo
+name: Ideacentre 5-14Are05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_5\-14are05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_5-14are05_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cm-popup
+vendor_id: cminds
+name: Cm Popup
+type: software
+tags: []
+cpe: cpe:2.3:a:cminds:cm_popup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm_popup
+  confidence: auto

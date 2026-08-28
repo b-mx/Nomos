@@ -1,0 +1,10 @@
+id: ideacentre-t540-15ama-g-firmware
+vendor_id: lenovo
+name: Ideacentre T540-15Ama G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_t540\-15ama_g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_t540-15ama_g_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: g4-driver
+vendor_id: lexmark
+name: G4 Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:lexmark:g4_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g4_driver
+  confidence: auto

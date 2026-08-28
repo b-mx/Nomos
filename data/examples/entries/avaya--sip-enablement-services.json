@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--sip-enablement-services",
+  "vendor_id": "avaya",
+  "product_id": "sip-enablement-services",
+  "name": "Sip Enablement Services",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sip_enablement_services",
+      "confidence": "auto"
+    }
+  ]
+}

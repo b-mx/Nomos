@@ -1,0 +1,10 @@
+id: next-generation-firewall-security-management-center
+vendor_id: forcepoint
+name: Next Generation Firewall Security Management Center
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:next_generation_firewall_security_management_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: next_generation_firewall_security_management_center
+  confidence: auto

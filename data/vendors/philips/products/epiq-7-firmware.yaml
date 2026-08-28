@@ -1,0 +1,10 @@
+id: epiq-7-firmware
+vendor_id: philips
+name: Epiq 7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:epiq_7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epiq_7_firmware
+  confidence: auto

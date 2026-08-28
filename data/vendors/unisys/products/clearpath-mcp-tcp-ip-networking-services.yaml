@@ -1,0 +1,10 @@
+id: clearpath-mcp-tcp-ip-networking-services
+vendor_id: unisys
+name: Clearpath Mcp Tcp/Ip Networking Services
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:clearpath_mcp_tcp\/ip_networking_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clearpath_mcp_tcp/ip_networking_services
+  confidence: auto

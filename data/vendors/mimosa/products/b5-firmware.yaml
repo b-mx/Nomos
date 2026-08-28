@@ -1,0 +1,10 @@
+id: b5-firmware
+vendor_id: mimosa
+name: B5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mimosa:b5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b5_firmware
+  confidence: auto

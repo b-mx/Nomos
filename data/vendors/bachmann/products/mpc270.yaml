@@ -1,0 +1,10 @@
+id: mpc270
+vendor_id: bachmann
+name: Mpc270
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mpc270:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mpc270
+  confidence: auto

@@ -1,0 +1,10 @@
+id: arcsight-logger
+vendor_id: hp
+name: Arcsight Logger
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:arcsight_logger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcsight_logger
+  confidence: auto

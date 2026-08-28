@@ -1,0 +1,10 @@
+id: enhanced-him
+vendor_id: rockwellautomation
+name: Enhanced Him
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:enhanced_him:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enhanced_him
+  confidence: auto

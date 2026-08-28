@@ -1,0 +1,10 @@
+id: blade-a3-lite-firmware
+vendor_id: zte
+name: Blade A3 Lite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:blade_a3_lite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_a3_lite_firmware
+  confidence: auto

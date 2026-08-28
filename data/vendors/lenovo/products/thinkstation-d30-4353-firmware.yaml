@@ -1,0 +1,10 @@
+id: thinkstation-d30-4353-firmware
+vendor_id: lenovo
+name: Thinkstation D30 (4353) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkstation_d30_\(4353\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkstation_d30_(4353)_firmware
+  confidence: auto

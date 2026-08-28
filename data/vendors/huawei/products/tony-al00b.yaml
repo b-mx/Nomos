@@ -1,0 +1,10 @@
+id: tony-al00b
+vendor_id: huawei
+name: Tony-Al00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tony\-al00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tony-al00b
+  confidence: auto

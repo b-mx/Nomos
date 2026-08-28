@@ -5,10 +5,8 @@
   "product_id": "jenkins",
   "name": "Jenkins",
   "type": "software",
-  "tags": [
-    "ci-cd"
-  ],
-  "icon": "logos:jenkins",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

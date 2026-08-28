@@ -1,0 +1,10 @@
+id: vehicle-record-system
+vendor_id: phpgurukul
+name: Vehicle Record System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:vehicle_record_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vehicle_record_system
+  confidence: auto

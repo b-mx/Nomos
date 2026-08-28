@@ -1,0 +1,10 @@
+id: okhttp3
+vendor_id: squareup
+name: Okhttp3
+type: software
+tags: []
+cpe: cpe:2.3:a:squareup:okhttp3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: okhttp3
+  confidence: auto

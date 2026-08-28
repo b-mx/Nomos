@@ -1,0 +1,10 @@
+id: laserjet-p4014
+vendor_id: hp
+name: Laserjet P4014
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_p4014:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_p4014
+  confidence: auto

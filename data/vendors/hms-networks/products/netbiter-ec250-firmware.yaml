@@ -1,0 +1,10 @@
+id: netbiter-ec250-firmware
+vendor_id: hms-networks
+name: Netbiter Ec250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hms\-networks:netbiter_ec250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netbiter_ec250_firmware
+  confidence: auto

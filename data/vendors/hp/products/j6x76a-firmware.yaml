@@ -1,0 +1,10 @@
+id: j6x76a-firmware
+vendor_id: hp
+name: J6X76A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:j6x76a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j6x76a_firmware
+  confidence: auto

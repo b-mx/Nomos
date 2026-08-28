@@ -1,0 +1,10 @@
+id: backstage-plugin-catalog-backend
+vendor_id: linuxfoundation
+name: Backstage Plugin-Catalog-Backend
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:backstage_plugin\-catalog\-backend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backstage_plugin-catalog-backend
+  confidence: auto

@@ -1,0 +1,10 @@
+id: swr-300a-firmware
+vendor_id: seowonintech
+name: Swr-300A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seowonintech:swr\-300a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swr-300a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ddw365
+vendor_id: ubeeinteractive
+name: Ddw365
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ubeeinteractive:ddw365:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ddw365
+  confidence: auto

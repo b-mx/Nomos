@@ -1,0 +1,10 @@
+id: pavilion-x360-14-g1-convertible-pc
+vendor_id: hp
+name: Pavilion X360 14 G1 Convertible Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_x360_14_g1_convertible_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_x360_14_g1_convertible_pc
+  confidence: auto

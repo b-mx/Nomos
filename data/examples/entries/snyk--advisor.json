@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "snyk--advisor",
+  "vendor_id": "snyk",
+  "product_id": "advisor",
+  "name": "Advisor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "advisor",
+      "confidence": "auto"
+    }
+  ]
+}

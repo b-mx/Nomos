@@ -1,0 +1,10 @@
+id: adam-5550
+vendor_id: advantech
+name: Adam-5550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:advantech:adam\-5550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adam-5550
+  confidence: auto

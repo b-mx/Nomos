@@ -1,0 +1,10 @@
+id: ta-8025
+vendor_id: safescan
+name: Ta-8025
+type: hardware
+tags: []
+cpe: cpe:2.3:h:safescan:ta\-8025:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ta-8025
+  confidence: auto

@@ -1,0 +1,10 @@
+id: storage-automated-diagnostic-environment
+vendor_id: sun
+name: Storage Automated Diagnostic Environment
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:storage_automated_diagnostic_environment:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_automated_diagnostic_environment
+  confidence: auto

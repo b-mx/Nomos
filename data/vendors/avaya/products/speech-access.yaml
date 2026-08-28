@@ -1,0 +1,10 @@
+id: speech-access
+vendor_id: avaya
+name: Speech Access
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:speech_access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: speech_access
+  confidence: auto

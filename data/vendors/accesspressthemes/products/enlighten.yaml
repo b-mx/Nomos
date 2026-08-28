@@ -1,0 +1,10 @@
+id: enlighten
+vendor_id: accesspressthemes
+name: Enlighten
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:enlighten:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enlighten
+  confidence: auto

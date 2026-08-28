@@ -1,0 +1,10 @@
+id: stm32l432kc
+vendor_id: st
+name: Stm32L432Kc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l432kc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l432kc
+  confidence: auto

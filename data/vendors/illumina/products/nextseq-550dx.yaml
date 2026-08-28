@@ -1,0 +1,10 @@
+id: nextseq-550dx
+vendor_id: illumina
+name: Nextseq 550Dx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:illumina:nextseq_550dx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextseq_550dx
+  confidence: auto

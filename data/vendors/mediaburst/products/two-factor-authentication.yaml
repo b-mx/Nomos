@@ -1,0 +1,10 @@
+id: two-factor-authentication
+vendor_id: mediaburst
+name: Two-Factor Authentication
+type: software
+tags: []
+cpe: cpe:2.3:a:mediaburst:two\-factor_authentication:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: two-factor_authentication
+  confidence: auto

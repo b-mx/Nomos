@@ -1,0 +1,10 @@
+id: pi-integrator
+vendor_id: osisoft
+name: Pi Integrator
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_integrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_integrator
+  confidence: auto

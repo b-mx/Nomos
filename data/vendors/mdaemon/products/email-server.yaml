@@ -2,8 +2,7 @@ id: email-server
 vendor_id: mdaemon
 name: Email Server
 type: software
-tags:
-- email
+tags: []
 aliases:
 - source: cisa_kev
   value: Email Server

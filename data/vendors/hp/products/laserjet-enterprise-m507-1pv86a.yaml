@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m507-1pv86a
+vendor_id: hp
+name: Laserjet Enterprise M507 1Pv86A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_m507_1pv86a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m507_1pv86a
+  confidence: auto

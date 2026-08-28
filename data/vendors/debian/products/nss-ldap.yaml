@@ -1,0 +1,10 @@
+id: nss-ldap
+vendor_id: debian
+name: Nss-Ldap
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:nss\-ldap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nss-ldap
+  confidence: auto

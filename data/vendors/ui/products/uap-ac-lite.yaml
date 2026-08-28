@@ -1,0 +1,10 @@
+id: uap-ac-lite
+vendor_id: ui
+name: Uap-Ac-Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:uap\-ac\-lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uap-ac-lite
+  confidence: auto

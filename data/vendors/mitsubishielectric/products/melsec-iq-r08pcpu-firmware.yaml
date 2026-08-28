@@ -1,0 +1,10 @@
+id: melsec-iq-r08pcpu-firmware
+vendor_id: mitsubishielectric
+name: Melsec Iq-R08Pcpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:melsec_iq\-r08pcpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-r08pcpu_firmware
+  confidence: auto

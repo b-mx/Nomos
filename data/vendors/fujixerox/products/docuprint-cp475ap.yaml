@@ -1,0 +1,10 @@
+id: docuprint-cp475ap
+vendor_id: fujixerox
+name: Docuprint Cp475Ap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujixerox:docuprint_cp475ap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_cp475ap
+  confidence: auto

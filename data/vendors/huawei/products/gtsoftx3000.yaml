@@ -1,0 +1,10 @@
+id: gtsoftx3000
+vendor_id: huawei
+name: Gtsoftx3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:gtsoftx3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gtsoftx3000
+  confidence: auto

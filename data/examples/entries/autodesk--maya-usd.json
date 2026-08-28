@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "autodesk--maya-usd",
+  "vendor_id": "autodesk",
+  "product_id": "maya-usd",
+  "name": "Maya Usd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "maya_usd",
+      "confidence": "auto"
+    }
+  ]
+}

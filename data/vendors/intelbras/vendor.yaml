@@ -1,0 +1,7 @@
+id: intelbras
+name: Intelbras
+cpe: cpe:2.3:*:intelbras:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelbras
+  confidence: auto

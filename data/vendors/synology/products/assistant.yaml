@@ -1,0 +1,10 @@
+id: assistant
+vendor_id: synology
+name: Assistant
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:assistant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: assistant
+  confidence: auto

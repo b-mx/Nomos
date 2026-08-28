@@ -1,0 +1,10 @@
+id: oathkeeper
+vendor_id: ory
+name: Oathkeeper
+type: software
+tags: []
+cpe: cpe:2.3:a:ory:oathkeeper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oathkeeper
+  confidence: auto

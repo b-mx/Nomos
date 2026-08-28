@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--rtu500-firmware",
+  "vendor_id": "abb",
+  "product_id": "rtu500-firmware",
+  "name": "Rtu500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rtu500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

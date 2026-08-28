@@ -1,0 +1,10 @@
+id: melsec-q24dhccpu-v-g
+vendor_id: mitsubishi
+name: Melsec Q24Dhccpu-V(G)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_q24dhccpu\-v\(g\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q24dhccpu-v(g)
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lfprojects--zarf",
+  "vendor_id": "lfprojects",
+  "product_id": "zarf",
+  "name": "Zarf",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zarf",
+      "confidence": "auto"
+    }
+  ]
+}

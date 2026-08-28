@@ -1,0 +1,10 @@
+id: ac900f
+vendor_id: abb
+name: Ac900F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:ac900f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac900f
+  confidence: auto

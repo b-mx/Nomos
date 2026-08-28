@@ -1,0 +1,9 @@
+id: claude
+vendor_id: claude
+name: Anthropic Claude
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: claude
+  confidence: auto

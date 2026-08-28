@@ -1,0 +1,10 @@
+id: jf430c
+vendor_id: hp
+name: Jf430C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf430c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf430c
+  confidence: auto

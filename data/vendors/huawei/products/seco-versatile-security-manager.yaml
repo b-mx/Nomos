@@ -1,0 +1,10 @@
+id: seco-versatile-security-manager
+vendor_id: huawei
+name: Seco Versatile Security Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:seco_versatile_security_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seco_versatile_security_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: px-s05b
+vendor_id: epson
+name: Px-S05B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-s05b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-s05b
+  confidence: auto

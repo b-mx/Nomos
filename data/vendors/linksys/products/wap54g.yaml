@@ -1,0 +1,10 @@
+id: wap54g
+vendor_id: linksys
+name: Wap54G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wap54g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wap54g
+  confidence: auto

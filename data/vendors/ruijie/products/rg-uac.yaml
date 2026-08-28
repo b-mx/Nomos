@@ -1,0 +1,10 @@
+id: rg-uac
+vendor_id: ruijie
+name: Rg-Uac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-uac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-uac
+  confidence: auto

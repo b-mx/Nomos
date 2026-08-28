@@ -1,0 +1,10 @@
+id: libdbus
+vendor_id: freedesktop
+name: Libdbus
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:libdbus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libdbus
+  confidence: auto

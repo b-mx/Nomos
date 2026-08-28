@@ -1,0 +1,10 @@
+id: max-on-the-go
+vendor_id: peplink
+name: Max On-The-Go
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:max_on\-the\-go:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_on-the-go
+  confidence: auto

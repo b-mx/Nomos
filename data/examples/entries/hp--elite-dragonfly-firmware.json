@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--elite-dragonfly-firmware",
+  "vendor_id": "hp",
+  "product_id": "elite-dragonfly-firmware",
+  "name": "Elite Dragonfly Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "elite_dragonfly_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

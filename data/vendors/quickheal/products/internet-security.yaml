@@ -1,0 +1,10 @@
+id: internet-security
+vendor_id: quickheal
+name: Internet Security
+type: software
+tags: []
+cpe: cpe:2.3:a:quickheal:internet_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet_security
+  confidence: auto

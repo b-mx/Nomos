@@ -1,0 +1,10 @@
+id: ryzen-7-2700x-firmware
+vendor_id: amd
+name: Ryzen 7 2700X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_7_2700x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_2700x_firmware
+  confidence: auto

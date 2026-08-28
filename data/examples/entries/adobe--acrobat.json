@@ -6,13 +6,13 @@
   "name": "Acrobat",
   "type": "software",
   "tags": [],
-  "icon": "logos:adobe-icon",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Acrobat",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

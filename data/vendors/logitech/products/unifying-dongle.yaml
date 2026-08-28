@@ -1,0 +1,10 @@
+id: unifying-dongle
+vendor_id: logitech
+name: Unifying Dongle
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:unifying_dongle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifying_dongle
+  confidence: auto

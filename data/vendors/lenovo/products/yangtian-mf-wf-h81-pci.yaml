@@ -1,0 +1,10 @@
+id: yangtian-mf-wf-h81-pci
+vendor_id: lenovo
+name: Yangtian Mf/Wf H81 Pci
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yangtian_mf\/wf_h81_pci:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_mf/wf_h81_pci
+  confidence: auto

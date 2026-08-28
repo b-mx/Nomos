@@ -1,0 +1,10 @@
+id: stm32f030k6
+vendor_id: st
+name: Stm32F030K6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32f030k6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f030k6
+  confidence: auto

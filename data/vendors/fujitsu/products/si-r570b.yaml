@@ -1,0 +1,10 @@
+id: si-r570b
+vendor_id: fujitsu
+name: Si-R570B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:si\-r570b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: si-r570b
+  confidence: auto

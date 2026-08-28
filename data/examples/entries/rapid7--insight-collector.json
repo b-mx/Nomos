@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rapid7--insight-collector",
+  "vendor_id": "rapid7",
+  "product_id": "insight-collector",
+  "name": "Insight Collector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "insight_collector",
+      "confidence": "auto"
+    }
+  ]
+}

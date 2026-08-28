@@ -1,0 +1,10 @@
+id: gt2107-wtbd-firmware
+vendor_id: mitsubishielectric
+name: Gt2107-Wtbd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:gt2107\-wtbd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gt2107-wtbd_firmware
+  confidence: auto

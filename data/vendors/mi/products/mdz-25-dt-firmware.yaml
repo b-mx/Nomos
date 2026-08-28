@@ -1,0 +1,10 @@
+id: mdz-25-dt-firmware
+vendor_id: mi
+name: Mdz-25-Dt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:mdz\-25\-dt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mdz-25-dt_firmware
+  confidence: auto

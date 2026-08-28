@@ -1,0 +1,10 @@
+id: uc-2101-lx
+vendor_id: moxa
+name: Uc-2101-Lx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:uc\-2101\-lx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-2101-lx
+  confidence: auto

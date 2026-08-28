@@ -1,0 +1,10 @@
+id: communicator
+vendor_id: netscape
+name: Communicator
+type: software
+tags: []
+cpe: cpe:2.3:a:netscape:communicator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: communicator
+  confidence: auto

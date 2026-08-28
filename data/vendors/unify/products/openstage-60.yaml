@@ -1,0 +1,10 @@
+id: openstage-60
+vendor_id: unify
+name: Openstage 60
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unify:openstage_60:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstage_60
+  confidence: auto

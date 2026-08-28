@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "thalesgroup--sentinel-protection-installer",
+  "vendor_id": "thalesgroup",
+  "product_id": "sentinel-protection-installer",
+  "name": "Sentinel Protection Installer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sentinel_protection_installer",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: hp-455
+vendor_id: hp
+name: Hp 455
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_455:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_455
+  confidence: auto

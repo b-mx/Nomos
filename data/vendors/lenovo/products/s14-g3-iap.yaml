@@ -1,0 +1,10 @@
+id: s14-g3-iap
+vendor_id: lenovo
+name: S14 G3 Iap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s14_g3_iap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s14_g3_iap
+  confidence: auto

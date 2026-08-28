@@ -1,0 +1,10 @@
+id: mcp-python-sdk
+vendor_id: lfprojects
+name: Mcp Python Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:mcp_python_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcp_python_sdk
+  confidence: auto

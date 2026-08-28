@@ -1,0 +1,10 @@
+id: omen-x-900-2xx
+vendor_id: hp
+name: Omen X 900-2Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_x_900\-2xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_x_900-2xx
+  confidence: auto

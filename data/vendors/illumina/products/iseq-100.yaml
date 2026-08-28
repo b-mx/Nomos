@@ -1,0 +1,10 @@
+id: iseq-100
+vendor_id: illumina
+name: Iseq 100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:illumina:iseq_100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iseq_100
+  confidence: auto

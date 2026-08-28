@@ -1,0 +1,10 @@
+id: espace-u1911
+vendor_id: huawei
+name: Espace U1911
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:espace_u1911:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espace_u1911
+  confidence: auto

@@ -1,0 +1,10 @@
+id: imp
+vendor_id: horde
+name: Imp
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:imp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imp
+  confidence: auto

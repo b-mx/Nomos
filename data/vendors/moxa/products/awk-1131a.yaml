@@ -1,0 +1,10 @@
+id: awk-1131a
+vendor_id: moxa
+name: Awk-1131A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:awk\-1131a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awk-1131a
+  confidence: auto

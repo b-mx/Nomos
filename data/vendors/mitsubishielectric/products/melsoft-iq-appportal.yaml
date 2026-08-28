@@ -1,0 +1,10 @@
+id: melsoft-iq-appportal
+vendor_id: mitsubishielectric
+name: Melsoft Iq Appportal
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:melsoft_iq_appportal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsoft_iq_appportal
+  confidence: auto

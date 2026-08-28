@@ -1,0 +1,10 @@
+id: system-x3850-x6
+vendor_id: lenovo
+name: System X3850 X6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:system_x3850_x6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_x3850_x6
+  confidence: auto

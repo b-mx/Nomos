@@ -1,0 +1,10 @@
+id: xeleris-firmware
+vendor_id: gehealthcare
+name: Xeleris Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:xeleris_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xeleris_firmware
+  confidence: auto

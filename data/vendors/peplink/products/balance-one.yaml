@@ -1,0 +1,10 @@
+id: balance-one
+vendor_id: peplink
+name: Balance One
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:balance_one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: balance_one
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zxr10-8905e
+vendor_id: zte
+name: Zxr10 8905E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxr10_8905e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxr10_8905e
+  confidence: auto

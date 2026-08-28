@@ -1,0 +1,10 @@
+id: clerk-clerk-js
+vendor_id: clerk
+name: Clerk/Clerk-Js
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/clerk\-js:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/clerk-js
+  confidence: auto

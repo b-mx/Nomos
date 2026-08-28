@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--smartrtu-firmware",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "smartrtu-firmware",
+  "name": "Smartrtu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smartrtu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

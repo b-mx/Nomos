@@ -1,0 +1,10 @@
+id: nport-5610-8-48v-firmware
+vendor_id: moxa
+name: Nport 5610-8-48V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_5610\-8\-48v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5610-8-48v_firmware
+  confidence: auto

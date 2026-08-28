@@ -1,0 +1,10 @@
+id: base-config
+vendor_id: debian
+name: Base-Config
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:base\-config:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: base-config
+  confidence: auto

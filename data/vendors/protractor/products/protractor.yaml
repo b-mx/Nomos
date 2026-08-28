@@ -1,0 +1,10 @@
+id: protractor
+vendor_id: protractor
+name: Protractor
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: protractor
+  confidence: auto

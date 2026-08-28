@@ -1,0 +1,10 @@
+id: imperial-i200
+vendor_id: telestar
+name: Imperial I200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telestar:imperial_i200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imperial_i200
+  confidence: auto

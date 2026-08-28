@@ -1,0 +1,10 @@
+id: jquery-ujs
+vendor_id: rubyonrails
+name: Jquery-Ujs
+type: software
+tags: []
+cpe: cpe:2.3:a:rubyonrails:jquery\-ujs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jquery-ujs
+  confidence: auto

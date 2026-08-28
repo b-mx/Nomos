@@ -1,0 +1,10 @@
+id: flexidome-ip-micro-2000-ip
+vendor_id: bosch
+name: Flexidome Ip Micro 2000 Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_ip_micro_2000_ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_ip_micro_2000_ip
+  confidence: auto

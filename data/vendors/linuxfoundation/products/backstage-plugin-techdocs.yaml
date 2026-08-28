@@ -1,0 +1,10 @@
+id: backstage-plugin-techdocs
+vendor_id: linuxfoundation
+name: '@Backstage/Plugin-Techdocs'
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:\@backstage\/plugin\-techdocs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '@backstage/plugin-techdocs'
+  confidence: auto

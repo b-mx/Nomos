@@ -1,0 +1,10 @@
+id: apeosport-vi
+vendor_id: fujifilm
+name: Apeosport-Vi
+type: software
+tags: []
+cpe: cpe:2.3:a:fujifilm:apeosport\-vi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport-vi
+  confidence: auto

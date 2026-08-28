@@ -1,0 +1,10 @@
+id: smart-security-manager
+vendor_id: hanwha-security
+name: Smart Security Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hanwha\-security:smart_security_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_security_manager
+  confidence: auto

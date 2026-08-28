@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudflare--octorpki",
+  "vendor_id": "cloudflare",
+  "product_id": "octorpki",
+  "name": "Octorpki",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "octorpki",
+      "confidence": "auto"
+    }
+  ]
+}

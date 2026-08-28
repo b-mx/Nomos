@@ -1,0 +1,13 @@
+id: suse-linux-micro
+vendor_id: suse
+name: SUSE Linux Micro
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux_enterprise_micro:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: suse-linux-micro
+  confidence: auto
+- source: nvd
+  value: linux_enterprise_micro
+  confidence: auto

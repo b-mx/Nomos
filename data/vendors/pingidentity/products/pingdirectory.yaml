@@ -1,0 +1,10 @@
+id: pingdirectory
+vendor_id: pingidentity
+name: Pingdirectory
+type: software
+tags: []
+cpe: cpe:2.3:a:pingidentity:pingdirectory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pingdirectory
+  confidence: auto

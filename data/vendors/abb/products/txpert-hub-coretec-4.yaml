@@ -1,0 +1,10 @@
+id: txpert-hub-coretec-4
+vendor_id: abb
+name: Txpert Hub Coretec 4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:txpert_hub_coretec_4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: txpert_hub_coretec_4
+  confidence: auto

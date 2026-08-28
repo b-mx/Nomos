@@ -1,0 +1,10 @@
+id: xmpie-ustore
+vendor_id: xerox
+name: Xmpie Ustore
+type: software
+tags: []
+cpe: cpe:2.3:a:xerox:xmpie_ustore:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xmpie_ustore
+  confidence: auto

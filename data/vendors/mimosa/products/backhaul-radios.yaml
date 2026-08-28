@@ -1,0 +1,10 @@
+id: backhaul-radios
+vendor_id: mimosa
+name: Backhaul Radios
+type: os
+tags: []
+cpe: cpe:2.3:o:mimosa:backhaul_radios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backhaul_radios
+  confidence: auto

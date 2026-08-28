@@ -1,0 +1,10 @@
+id: k360
+vendor_id: logitech
+name: K360
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:k360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k360
+  confidence: auto

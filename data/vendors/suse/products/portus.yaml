@@ -1,0 +1,10 @@
+id: portus
+vendor_id: suse
+name: Portus
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:portus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portus
+  confidence: auto

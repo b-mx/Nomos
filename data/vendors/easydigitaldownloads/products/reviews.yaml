@@ -1,0 +1,10 @@
+id: reviews
+vendor_id: easydigitaldownloads
+name: Reviews
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:reviews:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reviews
+  confidence: auto

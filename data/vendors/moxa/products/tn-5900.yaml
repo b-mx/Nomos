@@ -1,0 +1,10 @@
+id: tn-5900
+vendor_id: moxa
+name: Tn-5900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:tn\-5900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tn-5900
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a210-g
+vendor_id: h3c
+name: A210-G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:a210\-g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a210-g
+  confidence: auto

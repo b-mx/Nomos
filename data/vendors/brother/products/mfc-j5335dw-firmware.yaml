@@ -1,0 +1,10 @@
+id: mfc-j5335dw-firmware
+vendor_id: brother
+name: Mfc-J5335Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-j5335dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-j5335dw_firmware
+  confidence: auto

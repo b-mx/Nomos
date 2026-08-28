@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sick--ftmg-firmware",
+  "vendor_id": "sick",
+  "product_id": "ftmg-firmware",
+  "name": "Ftmg Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ftmg_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: remix-run-react
+vendor_id: shopify
+name: Remix-Run/React
+type: software
+tags: []
+cpe: cpe:2.3:a:shopify:remix\-run\/react:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remix-run/react
+  confidence: auto

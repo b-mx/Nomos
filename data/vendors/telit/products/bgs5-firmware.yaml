@@ -1,0 +1,10 @@
+id: bgs5-firmware
+vendor_id: telit
+name: Bgs5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:telit:bgs5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bgs5_firmware
+  confidence: auto

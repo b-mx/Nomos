@@ -1,0 +1,10 @@
+id: proliant-integrated-lights-out-2
+vendor_id: hp
+name: Proliant Integrated Lights Out 2
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:proliant_integrated_lights_out_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_integrated_lights_out_2
+  confidence: auto

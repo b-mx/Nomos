@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--greenplum-command-center",
+  "vendor_id": "pivotal-software",
+  "product_id": "greenplum-command-center",
+  "name": "Greenplum Command Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "greenplum_command_center",
+      "confidence": "auto"
+    }
+  ]
+}

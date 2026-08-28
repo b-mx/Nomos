@@ -1,0 +1,10 @@
+id: aqualogic-service-bus
+vendor_id: bea
+name: Aqualogic Service Bus
+type: software
+tags: []
+cpe: cpe:2.3:a:bea:aqualogic_service_bus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aqualogic_service_bus
+  confidence: auto

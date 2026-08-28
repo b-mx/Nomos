@@ -1,0 +1,10 @@
+id: e2d42a
+vendor_id: hp
+name: E2D42A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:e2d42a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e2d42a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mfc-9970cdw-firmware
+vendor_id: brother
+name: Mfc-9970Cdw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-9970cdw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-9970cdw_firmware
+  confidence: auto

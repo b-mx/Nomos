@@ -1,0 +1,10 @@
+id: apollo-helms-charts-router
+vendor_id: apollographql
+name: Apollo Helms-Charts Router
+type: software
+tags: []
+cpe: cpe:2.3:a:apollographql:apollo_helms\-charts_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_helms-charts_router
+  confidence: auto

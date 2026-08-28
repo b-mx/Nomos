@@ -1,0 +1,10 @@
+id: primo-3-0-1
+vendor_id: fronius
+name: Primo 3.0-1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fronius:primo_3\.0\-1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primo_3.0-1
+  confidence: auto

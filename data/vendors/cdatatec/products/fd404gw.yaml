@@ -1,0 +1,10 @@
+id: fd404gw
+vendor_id: cdatatec
+name: Fd404Gw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cdatatec:fd404gw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd404gw
+  confidence: auto

@@ -1,0 +1,10 @@
+id: apache
+vendor_id: debian
+name: Apache
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:apache:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apache
+  confidence: auto

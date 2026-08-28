@@ -1,0 +1,10 @@
+id: officejet-pro-9010-y8m28d
+vendor_id: hp
+name: Officejet Pro 9010 Y8M28D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_9010_y8m28d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_9010_y8m28d
+  confidence: auto

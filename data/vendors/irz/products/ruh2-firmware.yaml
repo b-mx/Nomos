@@ -1,0 +1,10 @@
+id: ruh2-firmware
+vendor_id: irz
+name: Ruh2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:irz:ruh2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruh2_firmware
+  confidence: auto

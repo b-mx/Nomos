@@ -1,0 +1,10 @@
+id: payplug
+vendor_id: prestashop
+name: Payplug
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:payplug:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: payplug
+  confidence: auto

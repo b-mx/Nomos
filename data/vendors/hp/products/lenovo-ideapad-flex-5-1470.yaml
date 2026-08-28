@@ -1,0 +1,10 @@
+id: lenovo-ideapad-flex-5-1470
+vendor_id: hp
+name: Lenovo Ideapad Flex 5-1470
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:lenovo_ideapad_flex_5\-1470:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_ideapad_flex_5-1470
+  confidence: auto

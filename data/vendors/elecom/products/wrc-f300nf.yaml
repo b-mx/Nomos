@@ -1,0 +1,10 @@
+id: wrc-f300nf
+vendor_id: elecom
+name: Wrc-F300Nf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:wrc\-f300nf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrc-f300nf
+  confidence: auto

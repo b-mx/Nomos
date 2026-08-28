@@ -1,0 +1,10 @@
+id: i-sensys-mf655cdw
+vendor_id: canon
+name: I-Sensys Mf655Cdw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:i\-sensys_mf655cdw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i-sensys_mf655cdw
+  confidence: auto

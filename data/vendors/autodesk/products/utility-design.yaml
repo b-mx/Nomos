@@ -1,0 +1,10 @@
+id: utility-design
+vendor_id: autodesk
+name: Utility Design
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:utility_design:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: utility_design
+  confidence: auto

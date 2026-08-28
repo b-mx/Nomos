@@ -1,0 +1,10 @@
+id: ir1435i-firmware
+vendor_id: canon
+name: Ir1435I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:ir1435i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ir1435i_firmware
+  confidence: auto

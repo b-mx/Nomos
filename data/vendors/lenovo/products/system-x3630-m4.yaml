@@ -1,0 +1,10 @@
+id: system-x3630-m4
+vendor_id: lenovo
+name: System X3630 M4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:system_x3630_m4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_x3630_m4
+  confidence: auto

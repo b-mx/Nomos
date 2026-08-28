@@ -1,0 +1,10 @@
+id: hardwarescan-addin
+vendor_id: lenovo
+name: Hardwarescan Addin
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:hardwarescan_addin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hardwarescan_addin
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jetnet-6095
+vendor_id: korenix
+name: Jetnet 6095
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetnet_6095:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_6095
+  confidence: auto

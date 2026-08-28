@@ -1,0 +1,10 @@
+id: v1202-ct-t-firmware
+vendor_id: moxa
+name: V1202-Ct-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:v1202\-ct\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v1202-ct-t_firmware
+  confidence: auto

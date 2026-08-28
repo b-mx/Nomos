@@ -1,0 +1,10 @@
+id: bookstore-management-system
+vendor_id: 1000projects
+name: Bookstore Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:1000projects:bookstore_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bookstore_management_system
+  confidence: auto

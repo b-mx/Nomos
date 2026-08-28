@@ -1,0 +1,10 @@
+id: jextn-question-and-answer
+vendor_id: jextn
+name: Jextn Question And Answer
+type: software
+tags: []
+cpe: cpe:2.3:a:jextn:jextn_question_and_answer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jextn_question_and_answer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gravityzone
+vendor_id: bitdefender
+name: Gravityzone
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:gravityzone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gravityzone
+  confidence: auto

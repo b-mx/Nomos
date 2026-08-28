@@ -1,0 +1,10 @@
+id: x10slm-ln4f-firmware
+vendor_id: supermicro
+name: X10Slm+-Ln4F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10slm\+\-ln4f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10slm+-ln4f_firmware
+  confidence: auto

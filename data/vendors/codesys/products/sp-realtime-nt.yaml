@@ -1,0 +1,10 @@
+id: sp-realtime-nt
+vendor_id: codesys
+name: Sp Realtime Nt
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:sp_realtime_nt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_realtime_nt
+  confidence: auto

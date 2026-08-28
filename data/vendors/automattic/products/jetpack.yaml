@@ -1,0 +1,10 @@
+id: jetpack
+vendor_id: automattic
+name: Jetpack
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:jetpack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetpack
+  confidence: auto

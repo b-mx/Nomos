@@ -1,0 +1,10 @@
+id: verastream-process-designer
+vendor_id: attachmate
+name: Verastream Process Designer
+type: software
+tags: []
+cpe: cpe:2.3:a:attachmate:verastream_process_designer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: verastream_process_designer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: shoppette
+vendor_id: easydigitaldownloads
+name: Shoppette
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:shoppette:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shoppette
+  confidence: auto

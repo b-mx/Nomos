@@ -1,0 +1,10 @@
+id: evolution-ews
+vendor_id: gnome
+name: Evolution-Ews
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:evolution\-ews:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evolution-ews
+  confidence: auto

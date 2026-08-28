@@ -1,0 +1,10 @@
+id: '375'
+vendor_id: hp
+name: '375'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:375:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '375'
+  confidence: auto

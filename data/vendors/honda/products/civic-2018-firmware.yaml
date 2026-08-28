@@ -1,0 +1,10 @@
+id: civic-2018-firmware
+vendor_id: honda
+name: Civic 2018 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honda:civic_2018_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: civic_2018_firmware
+  confidence: auto

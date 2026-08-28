@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nec--esmpro-manager",
+  "vendor_id": "nec",
+  "product_id": "esmpro-manager",
+  "name": "Esmpro Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esmpro_manager",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rletech--wi-mgr-firmware",
+  "vendor_id": "rletech",
+  "product_id": "wi-mgr-firmware",
+  "name": "Wi-Mgr Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wi-mgr_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

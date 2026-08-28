@@ -1,0 +1,10 @@
+id: executive-fingerprint-secure-ssd
+vendor_id: verbatim
+name: Executive Fingerprint Secure Ssd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verbatim:executive_fingerprint_secure_ssd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: executive_fingerprint_secure_ssd
+  confidence: auto

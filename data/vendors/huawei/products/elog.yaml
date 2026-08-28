@@ -1,0 +1,10 @@
+id: elog
+vendor_id: huawei
+name: Elog
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:elog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elog
+  confidence: auto

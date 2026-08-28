@@ -1,0 +1,10 @@
+id: zt610
+vendor_id: zebra
+name: Zt610
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zebra:zt610:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zt610
+  confidence: auto

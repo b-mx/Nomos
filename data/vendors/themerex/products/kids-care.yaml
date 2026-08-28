@@ -1,0 +1,10 @@
+id: kids-care
+vendor_id: themerex
+name: Kids Care
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:kids_care:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kids_care
+  confidence: auto

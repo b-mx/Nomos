@@ -1,0 +1,10 @@
+id: autonomy-ultraseek
+vendor_id: hp
+name: Autonomy Ultraseek
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:autonomy_ultraseek:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autonomy_ultraseek
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cd10-10-firmware
+vendor_id: huawei
+name: Cd10-10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:cd10\-10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cd10-10_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: m9l65a-firmware
+vendor_id: hp
+name: M9L65A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:m9l65a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m9l65a_firmware
+  confidence: auto

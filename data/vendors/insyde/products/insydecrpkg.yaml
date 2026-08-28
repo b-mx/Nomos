@@ -1,0 +1,10 @@
+id: insydecrpkg
+vendor_id: insyde
+name: Insydecrpkg
+type: software
+tags: []
+cpe: cpe:2.3:a:insyde:insydecrpkg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insydecrpkg
+  confidence: auto

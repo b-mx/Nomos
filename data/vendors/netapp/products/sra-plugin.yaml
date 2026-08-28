@@ -1,0 +1,10 @@
+id: sra-plugin
+vendor_id: netapp
+name: Sra Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:sra_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sra_plugin
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 499r0f-firmware
+vendor_id: hp
+name: 499R0F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:499r0f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 499r0f_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: horde-image
+vendor_id: horde
+name: Horde Image
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:horde_image:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: horde_image
+  confidence: auto

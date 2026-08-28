@@ -1,0 +1,10 @@
+id: chilisoft
+vendor_id: sun
+name: Chilisoft
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:chilisoft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chilisoft
+  confidence: auto

@@ -1,0 +1,10 @@
+id: abandoned-cart-recovery
+vendor_id: addify
+name: Abandoned Cart Recovery
+type: software
+tags: []
+cpe: cpe:2.3:a:addify:abandoned_cart_recovery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: abandoned_cart_recovery
+  confidence: auto

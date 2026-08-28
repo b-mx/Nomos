@@ -1,0 +1,10 @@
+id: 2100-network-camera-firmware
+vendor_id: axis
+name: 2100 Network Camera Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:2100_network_camera_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2100_network_camera_firmware
+  confidence: auto

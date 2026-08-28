@@ -1,0 +1,10 @@
+id: wp-ultimate-review
+vendor_id: wpmet
+name: Wp Ultimate Review
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmet:wp_ultimate_review:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_ultimate_review
+  confidence: auto

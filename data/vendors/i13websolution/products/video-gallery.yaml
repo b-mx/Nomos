@@ -1,0 +1,10 @@
+id: video-gallery
+vendor_id: i13websolution
+name: Video Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:i13websolution:video_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_gallery
+  confidence: auto

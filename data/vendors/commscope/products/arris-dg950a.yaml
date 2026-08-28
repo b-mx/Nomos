@@ -1,0 +1,10 @@
+id: arris-dg950a
+vendor_id: commscope
+name: Arris Dg950A
+type: os
+tags: []
+cpe: cpe:2.3:o:commscope:arris_dg950a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_dg950a
+  confidence: auto

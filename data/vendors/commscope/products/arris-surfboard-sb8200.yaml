@@ -1,0 +1,10 @@
+id: arris-surfboard-sb8200
+vendor_id: commscope
+name: Arris Surfboard Sb8200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:arris_surfboard_sb8200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_surfboard_sb8200
+  confidence: auto

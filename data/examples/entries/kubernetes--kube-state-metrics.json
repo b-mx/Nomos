@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--kube-state-metrics",
+  "vendor_id": "kubernetes",
+  "product_id": "kube-state-metrics",
+  "name": "Kube-State-Metrics",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kube-state-metrics",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: swagger-codegen
+vendor_id: smartbear
+name: Swagger-Codegen
+type: software
+tags: []
+cpe: cpe:2.3:a:smartbear:swagger\-codegen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swagger-codegen
+  confidence: auto

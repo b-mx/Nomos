@@ -1,0 +1,10 @@
+id: 301-redirects
+vendor_id: webfactoryltd
+name: 301 Redirects
+type: software
+tags: []
+cpe: cpe:2.3:a:webfactoryltd:301_redirects:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 301_redirects
+  confidence: auto

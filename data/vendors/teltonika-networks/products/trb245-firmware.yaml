@@ -1,0 +1,10 @@
+id: trb245-firmware
+vendor_id: teltonika-networks
+name: Trb245 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teltonika\-networks:trb245_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trb245_firmware
+  confidence: auto

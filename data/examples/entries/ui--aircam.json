@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--aircam",
+  "vendor_id": "ui",
+  "product_id": "aircam",
+  "name": "Aircam",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aircam",
+      "confidence": "auto"
+    }
+  ]
+}

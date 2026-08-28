@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-5800x3d",
+  "vendor_id": "amd",
+  "product_id": "ryzen-5800x3d",
+  "name": "Ryzen 5800X3D",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_5800x3d",
+      "confidence": "auto"
+    }
+  ]
+}

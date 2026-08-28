@@ -1,0 +1,10 @@
+id: cs-cv248-firmware
+vendor_id: ezviz
+name: Cs-Cv248 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ezviz:cs\-cv248_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs-cv248_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkpad-t495
+vendor_id: lenovo
+name: Thinkpad T495
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_t495:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t495
+  confidence: auto

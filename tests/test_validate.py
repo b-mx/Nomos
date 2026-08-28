@@ -30,6 +30,55 @@ def test_duplicate_alias_is_caught_with_both_paths_named():
     assert "acme-two" in errors[0]
 
 
+def test_product_alias_uniqueness_is_scoped_per_vendor():
+    # CPE's own uniqueness guarantee is the (vendor, product) pair, not the
+    # product name alone — two different, unrelated real vendors legitimately
+    # sharing a product-name fragment (e.g. both having a "chat" product) is
+    # not a data error, and must not be flagged as one.
+    from pathlib import Path
+
+    from tools._common import ProductEntry
+    from tools.validate import validate_alias_uniqueness
+
+    products = [
+        ProductEntry(
+            path=Path("data/vendors/synology/products/chat.yaml"),
+            data={"aliases": [{"source": "nvd", "value": "chat", "confidence": "auto"}]},
+            vendor_id="synology",
+        ),
+        ProductEntry(
+            path=Path("data/vendors/zoom/products/chat.yaml"),
+            data={"aliases": [{"source": "nvd", "value": "chat", "confidence": "auto"}]},
+            vendor_id="zoom",
+        ),
+    ]
+    assert validate_alias_uniqueness([], products) == []
+
+
+def test_product_alias_uniqueness_still_catches_same_vendor_collision():
+    from pathlib import Path
+
+    from tools._common import ProductEntry
+    from tools.validate import validate_alias_uniqueness
+
+    products = [
+        ProductEntry(
+            path=Path("data/vendors/acme/products/widget.yaml"),
+            data={"aliases": [{"source": "nvd", "value": "thing", "confidence": "auto"}]},
+            vendor_id="acme",
+        ),
+        ProductEntry(
+            path=Path("data/vendors/acme/products/gadget.yaml"),
+            data={"aliases": [{"source": "nvd", "value": "thing", "confidence": "auto"}]},
+            vendor_id="acme",
+        ),
+    ]
+    errors = validate_alias_uniqueness([], products)
+    assert len(errors) == 1
+    assert "widget.yaml" in errors[0]
+    assert "gadget.yaml" in errors[0]
+
+
 def test_unknown_tag_is_rejected():
     from tools.validate import validate_tags_exist
 

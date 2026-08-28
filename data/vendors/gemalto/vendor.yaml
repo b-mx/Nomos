@@ -1,0 +1,7 @@
+id: gemalto
+name: Gemalto
+cpe: cpe:2.3:*:gemalto:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gemalto
+  confidence: auto

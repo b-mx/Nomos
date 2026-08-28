@@ -1,0 +1,10 @@
+id: sp-221s
+vendor_id: ricoh
+name: Sp 221S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_221s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_221s
+  confidence: auto

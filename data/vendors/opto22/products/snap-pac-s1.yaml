@@ -1,0 +1,10 @@
+id: snap-pac-s1
+vendor_id: opto22
+name: Snap Pac S1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:opto22:snap_pac_s1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snap_pac_s1
+  confidence: auto

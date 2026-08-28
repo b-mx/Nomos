@@ -1,0 +1,10 @@
+id: zu48dr
+vendor_id: amd
+name: Zu48Dr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:zu48dr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu48dr
+  confidence: auto

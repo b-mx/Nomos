@@ -1,0 +1,10 @@
+id: content-manager-assistant
+vendor_id: sony
+name: Content Manager Assistant
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:content_manager_assistant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: content_manager_assistant
+  confidence: auto

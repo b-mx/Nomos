@@ -1,0 +1,10 @@
+id: jd308a
+vendor_id: hp
+name: Jd308A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd308a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd308a
+  confidence: auto

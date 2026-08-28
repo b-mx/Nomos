@@ -1,0 +1,10 @@
+id: napoca
+vendor_id: bitdefender
+name: Napoca
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:napoca:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: napoca
+  confidence: auto

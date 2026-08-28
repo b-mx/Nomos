@@ -1,0 +1,10 @@
+id: ellipse
+vendor_id: hitachienergy
+name: Ellipse
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:ellipse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ellipse
+  confidence: auto

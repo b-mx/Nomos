@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jtekt--nano-cpu-firmware",
+  "vendor_id": "jtekt",
+  "product_id": "nano-cpu-firmware",
+  "name": "Nano Cpu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nano_cpu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

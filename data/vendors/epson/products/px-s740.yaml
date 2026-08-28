@@ -1,0 +1,10 @@
+id: px-s740
+vendor_id: epson
+name: Px-S740
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-s740:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-s740
+  confidence: auto

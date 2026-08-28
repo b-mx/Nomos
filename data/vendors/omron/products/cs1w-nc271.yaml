@@ -1,0 +1,10 @@
+id: cs1w-nc271
+vendor_id: omron
+name: Cs1W-Nc271
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cs1w\-nc271:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1w-nc271
+  confidence: auto

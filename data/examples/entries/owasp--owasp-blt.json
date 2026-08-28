@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "owasp--owasp-blt",
+  "vendor_id": "owasp",
+  "product_id": "owasp-blt",
+  "name": "Owasp Blt",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "owasp_blt",
+      "confidence": "auto"
+    }
+  ]
+}

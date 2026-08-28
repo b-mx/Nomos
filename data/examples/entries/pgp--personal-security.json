@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pgp--personal-security",
+  "vendor_id": "pgp",
+  "product_id": "personal-security",
+  "name": "Personal Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "personal_security",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: jd372a
+vendor_id: hp
+name: Jd372A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd372a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd372a
+  confidence: auto

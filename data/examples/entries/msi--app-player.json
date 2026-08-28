@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "msi--app-player",
+  "vendor_id": "msi",
+  "product_id": "app-player",
+  "name": "App Player",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "app_player",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: aio310-20iap
+vendor_id: lenovo
+name: Aio310-20Iap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:aio310\-20iap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aio310-20iap
+  confidence: auto

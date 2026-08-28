@@ -1,0 +1,10 @@
+id: n301rt-firmware
+vendor_id: totolink
+name: N301Rt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:n301rt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n301rt_firmware
+  confidence: auto

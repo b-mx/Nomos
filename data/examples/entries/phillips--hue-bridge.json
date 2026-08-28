@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phillips--hue-bridge",
+  "vendor_id": "phillips",
+  "product_id": "hue-bridge",
+  "name": "Hue Bridge",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hue_bridge",
+      "confidence": "auto"
+    }
+  ]
+}

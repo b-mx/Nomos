@@ -1,0 +1,10 @@
+id: essential-widgets
+vendor_id: catchplugins
+name: Essential Widgets
+type: software
+tags: []
+cpe: cpe:2.3:a:catchplugins:essential_widgets:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: essential_widgets
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mercury-quality-center
+vendor_id: hp
+name: Mercury Quality Center
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:mercury_quality_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mercury_quality_center
+  confidence: auto

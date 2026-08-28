@@ -1,0 +1,10 @@
+id: jc808a-hp-12500-taa-main-processing-unit
+vendor_id: hp
+name: Jc808A Hp 12500 Taa Main Processing Unit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc808a_hp_12500_taa_main_processing_unit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc808a_hp_12500_taa_main_processing_unit
+  confidence: auto

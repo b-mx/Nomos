@@ -1,0 +1,10 @@
+id: spectre-rt-ert351-firmware
+vendor_id: advantech
+name: Spectre Rt Ert351 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:advantech:spectre_rt_ert351_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_rt_ert351_firmware
+  confidence: auto

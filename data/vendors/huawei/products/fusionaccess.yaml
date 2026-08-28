@@ -1,0 +1,10 @@
+id: fusionaccess
+vendor_id: huawei
+name: Fusionaccess
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:fusionaccess:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionaccess
+  confidence: auto

@@ -1,0 +1,10 @@
+id: panoramic-camera
+vendor_id: axis
+name: Panoramic Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:panoramic_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: panoramic_camera
+  confidence: auto

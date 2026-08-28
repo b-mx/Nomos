@@ -1,0 +1,10 @@
+id: kw35
+vendor_id: nxp
+name: Kw35
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:kw35:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kw35
+  confidence: auto

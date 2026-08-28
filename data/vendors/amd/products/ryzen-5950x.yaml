@@ -1,0 +1,10 @@
+id: ryzen-5950x
+vendor_id: amd
+name: Ryzen 5950X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5950x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5950x
+  confidence: auto

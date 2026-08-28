@@ -1,0 +1,10 @@
+id: desktop-and-process-analytics
+vendor_id: verint
+name: Desktop And Process Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:verint:desktop_and_process_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_and_process_analytics
+  confidence: auto

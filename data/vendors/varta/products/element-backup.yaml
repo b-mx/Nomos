@@ -1,0 +1,10 @@
+id: element-backup
+vendor_id: varta
+name: Element Backup
+type: hardware
+tags: []
+cpe: cpe:2.3:h:varta:element_backup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: element_backup
+  confidence: auto

@@ -1,0 +1,10 @@
+id: controllogix-5580-firmware
+vendor_id: rockwellautomation
+name: Controllogix 5580 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:controllogix_5580_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controllogix_5580_firmware
+  confidence: auto

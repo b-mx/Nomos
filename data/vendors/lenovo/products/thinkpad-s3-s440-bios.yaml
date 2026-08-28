@@ -1,0 +1,10 @@
+id: thinkpad-s3-s440-bios
+vendor_id: lenovo
+name: Thinkpad S3 S440 Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_s3_s440_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_s3_s440_bios
+  confidence: auto

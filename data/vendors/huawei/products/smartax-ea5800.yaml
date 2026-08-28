@@ -1,0 +1,10 @@
+id: smartax-ea5800
+vendor_id: huawei
+name: Smartax Ea5800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:smartax_ea5800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartax_ea5800
+  confidence: auto

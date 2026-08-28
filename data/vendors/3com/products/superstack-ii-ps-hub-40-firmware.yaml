@@ -1,0 +1,10 @@
+id: superstack-ii-ps-hub-40-firmware
+vendor_id: 3com
+name: Superstack Ii Ps Hub 40 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:3com:superstack_ii_ps_hub_40_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: superstack_ii_ps_hub_40_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rv-4f
+vendor_id: mitsubishielectric
+name: Rv-4F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv\-4f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-4f
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rv4frm-c-firmware
+vendor_id: mitsubishielectric
+name: Rv4Frm/C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rv4frm\/c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv4frm/c_firmware
+  confidence: auto

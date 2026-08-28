@@ -1,0 +1,10 @@
+id: berlin-l21-firmware
+vendor_id: huawei
+name: Berlin-L21 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:berlin\-l21_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: berlin-l21_firmware
+  confidence: auto

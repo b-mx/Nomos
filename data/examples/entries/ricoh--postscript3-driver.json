@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ricoh--postscript3-driver",
+  "vendor_id": "ricoh",
+  "product_id": "postscript3-driver",
+  "name": "Postscript3 Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "postscript3_driver",
+      "confidence": "auto"
+    }
+  ]
+}

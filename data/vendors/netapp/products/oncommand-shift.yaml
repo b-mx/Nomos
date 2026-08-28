@@ -1,0 +1,10 @@
+id: oncommand-shift
+vendor_id: netapp
+name: Oncommand Shift
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:oncommand_shift:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncommand_shift
+  confidence: auto

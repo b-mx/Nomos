@@ -1,0 +1,10 @@
+id: d8s-python
+vendor_id: democritus
+name: D8S-Python
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-python:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-python
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cs-w50hd-firmware
+vendor_id: planex
+name: Cs-W50Hd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:planex:cs\-w50hd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs-w50hd_firmware
+  confidence: auto

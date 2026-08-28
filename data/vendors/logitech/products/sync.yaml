@@ -1,0 +1,10 @@
+id: sync
+vendor_id: logitech
+name: Sync
+type: software
+tags: []
+cpe: cpe:2.3:a:logitech:sync:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sync
+  confidence: auto

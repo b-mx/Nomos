@@ -1,0 +1,10 @@
+id: easylink
+vendor_id: ti
+name: Easylink
+type: software
+tags: []
+cpe: cpe:2.3:a:ti:easylink:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easylink
+  confidence: auto

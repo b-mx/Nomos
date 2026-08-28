@@ -1,0 +1,10 @@
+id: dinion-ip-starlight-6000-firmware
+vendor_id: bosch
+name: Dinion Ip Starlight 6000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:dinion_ip_starlight_6000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_ip_starlight_6000_firmware
+  confidence: auto

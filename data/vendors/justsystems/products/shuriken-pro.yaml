@@ -1,0 +1,10 @@
+id: shuriken-pro
+vendor_id: justsystems
+name: Shuriken Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:shuriken_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shuriken_pro
+  confidence: auto

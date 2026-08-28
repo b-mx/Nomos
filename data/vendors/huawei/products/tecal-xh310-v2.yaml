@@ -1,0 +1,10 @@
+id: tecal-xh310-v2
+vendor_id: huawei
+name: Tecal Xh310 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tecal_xh310_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_xh310_v2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mx-4070n-a-firmware
+vendor_id: sharp
+name: Mx-4070N A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-4070n_a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-4070n_a_firmware
+  confidence: auto

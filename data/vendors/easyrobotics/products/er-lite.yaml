@@ -1,0 +1,10 @@
+id: er-lite
+vendor_id: easyrobotics
+name: Er-Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:easyrobotics:er\-lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er-lite
+  confidence: auto

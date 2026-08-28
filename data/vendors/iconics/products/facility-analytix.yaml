@@ -1,0 +1,10 @@
+id: facility-analytix
+vendor_id: iconics
+name: Facility Analytix
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:facility_analytix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: facility_analytix
+  confidence: auto

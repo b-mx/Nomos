@@ -1,0 +1,10 @@
+id: fax-l2700dn
+vendor_id: brother
+name: Fax-L2700Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:fax\-l2700dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fax-l2700dn
+  confidence: auto

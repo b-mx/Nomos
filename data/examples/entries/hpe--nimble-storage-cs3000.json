@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--nimble-storage-cs3000",
+  "vendor_id": "hpe",
+  "product_id": "nimble-storage-cs3000",
+  "name": "Nimble Storage Cs3000",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nimble_storage_cs3000",
+      "confidence": "auto"
+    }
+  ]
+}

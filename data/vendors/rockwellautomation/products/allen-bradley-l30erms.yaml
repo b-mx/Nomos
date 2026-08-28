@@ -1,0 +1,10 @@
+id: allen-bradley-l30erms
+vendor_id: rockwellautomation
+name: Allen-Bradley L30Erms
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:allen\-bradley_l30erms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: allen-bradley_l30erms
+  confidence: auto

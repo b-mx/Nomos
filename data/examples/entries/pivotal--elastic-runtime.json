@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--elastic-runtime",
+  "vendor_id": "pivotal",
+  "product_id": "elastic-runtime",
+  "name": "Elastic Runtime",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "elastic_runtime",
+      "confidence": "auto"
+    }
+  ]
+}

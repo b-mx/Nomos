@@ -1,0 +1,10 @@
+id: ubuntu-image
+vendor_id: canonical
+name: Ubuntu-Image
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:ubuntu\-image:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubuntu-image
+  confidence: auto

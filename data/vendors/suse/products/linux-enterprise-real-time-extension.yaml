@@ -1,0 +1,10 @@
+id: linux-enterprise-real-time-extension
+vendor_id: suse
+name: Linux Enterprise Real Time Extension
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux_enterprise_real_time_extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_real_time_extension
+  confidence: auto

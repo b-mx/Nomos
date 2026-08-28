@@ -1,0 +1,10 @@
+id: pavilion-x360-14t-cd000-firmware
+vendor_id: hp
+name: Pavilion X360 - 14T-Cd000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:pavilion_x360_\-_14t\-cd000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_x360_-_14t-cd000_firmware
+  confidence: auto

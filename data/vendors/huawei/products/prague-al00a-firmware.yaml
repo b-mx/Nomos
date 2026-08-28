@@ -1,0 +1,10 @@
+id: prague-al00a-firmware
+vendor_id: huawei
+name: Prague-Al00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:prague\-al00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prague-al00a_firmware
+  confidence: auto

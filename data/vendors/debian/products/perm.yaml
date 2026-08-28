@@ -1,0 +1,10 @@
+id: perm
+vendor_id: debian
+name: Perm
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:perm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: perm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xclarity-controller
+vendor_id: lenovo
+name: Xclarity Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:xclarity_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xclarity_controller
+  confidence: auto

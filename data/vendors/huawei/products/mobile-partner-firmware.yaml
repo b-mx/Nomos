@@ -1,0 +1,10 @@
+id: mobile-partner-firmware
+vendor_id: huawei
+name: Mobile Partner Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:mobile_partner_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile_partner_firmware
+  confidence: auto

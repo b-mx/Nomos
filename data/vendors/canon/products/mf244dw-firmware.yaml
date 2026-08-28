@@ -1,0 +1,10 @@
+id: mf244dw-firmware
+vendor_id: canon
+name: Mf244Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:mf244dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf244dw_firmware
+  confidence: auto

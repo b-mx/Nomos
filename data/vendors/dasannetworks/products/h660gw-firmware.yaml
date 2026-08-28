@@ -1,0 +1,10 @@
+id: h660gw-firmware
+vendor_id: dasannetworks
+name: H660Gw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dasannetworks:h660gw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h660gw_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: my-cloud-pr4100-firmware
+vendor_id: westerndigital
+name: My Cloud Pr4100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westerndigital:my_cloud_pr4100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_cloud_pr4100_firmware
+  confidence: auto

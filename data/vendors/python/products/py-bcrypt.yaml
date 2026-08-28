@@ -1,0 +1,10 @@
+id: py-bcrypt
+vendor_id: python
+name: Py-Bcrypt
+type: software
+tags: []
+cpe: cpe:2.3:a:python:py\-bcrypt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: py-bcrypt
+  confidence: auto

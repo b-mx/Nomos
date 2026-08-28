@@ -1,0 +1,10 @@
+id: lan-w301nr
+vendor_id: elecom
+name: Lan-W301Nr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:lan\-w301nr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-w301nr
+  confidence: auto

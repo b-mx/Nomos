@@ -1,0 +1,10 @@
+id: compactrio
+vendor_id: ni
+name: Compactrio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ni:compactrio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactrio
+  confidence: auto

@@ -1,0 +1,10 @@
+id: spring-cloud
+vendor_id: spring-cloud
+name: Spring Cloud
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: spring-cloud
+  confidence: auto

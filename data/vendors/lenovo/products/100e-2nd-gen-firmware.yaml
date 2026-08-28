@@ -1,0 +1,10 @@
+id: 100e-2nd-gen-firmware
+vendor_id: lenovo
+name: 100E 2Nd Gen Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:100e_2nd_gen_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 100e_2nd_gen_firmware
+  confidence: auto

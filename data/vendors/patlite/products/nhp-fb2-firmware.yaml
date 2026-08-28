@@ -1,0 +1,10 @@
+id: nhp-fb2-firmware
+vendor_id: patlite
+name: Nhp-Fb2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:patlite:nhp\-fb2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nhp-fb2_firmware
+  confidence: auto

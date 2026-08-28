@@ -1,0 +1,10 @@
+id: alfa-6-firmware
+vendor_id: leagoo
+name: Alfa 6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:leagoo:alfa_6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alfa_6_firmware
+  confidence: auto

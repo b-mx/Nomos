@@ -1,0 +1,10 @@
+id: p10-plus-firmware
+vendor_id: huawei
+name: P10 Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:p10_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p10_plus_firmware
+  confidence: auto

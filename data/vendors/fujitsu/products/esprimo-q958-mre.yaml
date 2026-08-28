@@ -1,0 +1,10 @@
+id: esprimo-q958-mre
+vendor_id: fujitsu
+name: Esprimo Q958/Mre
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:esprimo_q958\/mre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esprimo_q958/mre
+  confidence: auto

@@ -1,0 +1,10 @@
+id: medizin
+vendor_id: thememove
+name: Medizin
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:medizin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: medizin
+  confidence: auto

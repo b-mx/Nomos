@@ -1,0 +1,10 @@
+id: usg
+vendor_id: ui
+name: Usg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:usg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usg
+  confidence: auto

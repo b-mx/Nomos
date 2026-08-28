@@ -1,0 +1,10 @@
+id: hawk
+vendor_id: clusterlabs
+name: Hawk
+type: software
+tags: []
+cpe: cpe:2.3:a:clusterlabs:hawk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hawk
+  confidence: auto

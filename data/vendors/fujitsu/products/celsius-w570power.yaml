@@ -1,0 +1,10 @@
+id: celsius-w570power
+vendor_id: fujitsu
+name: Celsius W570Power+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:celsius_w570power\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: celsius_w570power+
+  confidence: auto

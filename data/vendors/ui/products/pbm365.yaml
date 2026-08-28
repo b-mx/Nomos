@@ -1,0 +1,10 @@
+id: pbm365
+vendor_id: ui
+name: Pbm365
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:pbm365:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pbm365
+  confidence: auto

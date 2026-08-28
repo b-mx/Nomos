@@ -1,0 +1,10 @@
+id: storage-n3310
+vendor_id: lenovo
+name: Storage N3310
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:storage_n3310:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_n3310
+  confidence: auto

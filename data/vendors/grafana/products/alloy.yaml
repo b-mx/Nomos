@@ -1,0 +1,10 @@
+id: alloy
+vendor_id: grafana
+name: Alloy
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:alloy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alloy
+  confidence: auto

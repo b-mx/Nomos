@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--yubiserver",
+  "vendor_id": "debian",
+  "product_id": "yubiserver",
+  "name": "Yubiserver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "yubiserver",
+      "confidence": "auto"
+    }
+  ]
+}

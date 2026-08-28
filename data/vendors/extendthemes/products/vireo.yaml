@@ -1,0 +1,10 @@
+id: vireo
+vendor_id: extendthemes
+name: Vireo
+type: software
+tags: []
+cpe: cpe:2.3:a:extendthemes:vireo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vireo
+  confidence: auto

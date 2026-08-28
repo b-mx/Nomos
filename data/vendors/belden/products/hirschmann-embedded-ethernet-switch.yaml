@@ -1,0 +1,10 @@
+id: hirschmann-embedded-ethernet-switch
+vendor_id: belden
+name: Hirschmann Embedded Ethernet Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_embedded_ethernet_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_embedded_ethernet_switch
+  confidence: auto

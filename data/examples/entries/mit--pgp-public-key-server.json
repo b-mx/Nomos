@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mit--pgp-public-key-server",
+  "vendor_id": "mit",
+  "product_id": "pgp-public-key-server",
+  "name": "Pgp Public Key Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pgp_public_key_server",
+      "confidence": "auto"
+    }
+  ]
+}

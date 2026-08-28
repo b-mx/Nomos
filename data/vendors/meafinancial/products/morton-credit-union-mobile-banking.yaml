@@ -1,0 +1,10 @@
+id: morton-credit-union-mobile-banking
+vendor_id: meafinancial
+name: Morton Credit Union Mobile Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:morton_credit_union_mobile_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: morton_credit_union_mobile_banking
+  confidence: auto

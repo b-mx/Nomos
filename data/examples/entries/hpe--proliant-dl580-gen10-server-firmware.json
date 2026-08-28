@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--proliant-dl580-gen10-server-firmware",
+  "vendor_id": "hpe",
+  "product_id": "proliant-dl580-gen10-server-firmware",
+  "name": "Proliant Dl580 Gen10 Server Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_dl580_gen10_server_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--protecta-icd",
+  "vendor_id": "medtronic",
+  "product_id": "protecta-icd",
+  "name": "Protecta Icd",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "protecta_icd",
+      "confidence": "auto"
+    }
+  ]
+}

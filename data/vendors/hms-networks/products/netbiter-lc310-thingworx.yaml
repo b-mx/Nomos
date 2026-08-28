@@ -1,0 +1,10 @@
+id: netbiter-lc310-thingworx
+vendor_id: hms-networks
+name: Netbiter Lc310 Thingworx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hms\-networks:netbiter_lc310_thingworx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netbiter_lc310_thingworx
+  confidence: auto

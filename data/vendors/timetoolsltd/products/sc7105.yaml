@@ -1,0 +1,10 @@
+id: sc7105
+vendor_id: timetoolsltd
+name: Sc7105
+type: hardware
+tags: []
+cpe: cpe:2.3:h:timetoolsltd:sc7105:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc7105
+  confidence: auto

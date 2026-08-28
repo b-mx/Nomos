@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "draeger--kappa-firmware",
+  "vendor_id": "draeger",
+  "product_id": "kappa-firmware",
+  "name": "Kappa Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kappa_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

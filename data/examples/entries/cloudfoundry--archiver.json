@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--archiver",
+  "vendor_id": "cloudfoundry",
+  "product_id": "archiver",
+  "name": "Archiver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "archiver",
+      "confidence": "auto"
+    }
+  ]
+}

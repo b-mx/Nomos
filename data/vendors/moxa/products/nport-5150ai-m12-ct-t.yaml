@@ -1,0 +1,10 @@
+id: nport-5150ai-m12-ct-t
+vendor_id: moxa
+name: Nport 5150Ai-M12-Ct-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_5150ai\-m12\-ct\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5150ai-m12-ct-t
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ryzen-3-7335u
+vendor_id: amd
+name: Ryzen 3 7335U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3_7335u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3_7335u
+  confidence: auto

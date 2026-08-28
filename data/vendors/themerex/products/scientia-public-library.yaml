@@ -1,0 +1,10 @@
+id: scientia-public-library
+vendor_id: themerex
+name: Scientia-Public Library
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:scientia\-public_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scientia-public_library
+  confidence: auto

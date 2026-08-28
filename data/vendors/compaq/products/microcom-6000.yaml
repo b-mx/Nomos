@@ -1,0 +1,10 @@
+id: microcom-6000
+vendor_id: compaq
+name: Microcom 6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:compaq:microcom_6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microcom_6000
+  confidence: auto

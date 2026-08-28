@@ -1,0 +1,9 @@
+id: windows-nano-server
+vendor_id: windows-nano-server
+name: Microsoft Nano Server
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: windows-nano-server
+  confidence: auto

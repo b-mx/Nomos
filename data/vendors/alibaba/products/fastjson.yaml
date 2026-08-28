@@ -1,0 +1,10 @@
+id: fastjson
+vendor_id: alibaba
+name: Fastjson
+type: software
+tags: []
+cpe: cpe:2.3:a:alibaba:fastjson:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastjson
+  confidence: auto

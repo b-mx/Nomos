@@ -1,0 +1,10 @@
+id: wh-h900n
+vendor_id: sony
+name: Wh-H900N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:wh\-h900n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wh-h900n
+  confidence: auto

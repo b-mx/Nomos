@@ -1,0 +1,10 @@
+id: bl-ppc-1000
+vendor_id: phoenixcontact
+name: Bl Ppc 1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:bl_ppc_1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl_ppc_1000
+  confidence: auto

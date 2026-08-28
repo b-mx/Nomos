@@ -1,0 +1,10 @@
+id: laserjet-pro-cp1025nw
+vendor_id: hp
+name: Laserjet Pro Cp1025Nw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_cp1025nw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_cp1025nw
+  confidence: auto

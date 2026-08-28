@@ -1,0 +1,10 @@
+id: service-manager-windows-client
+vendor_id: hp
+name: Service Manager Windows Client
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:service_manager_windows_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_manager_windows_client
+  confidence: auto

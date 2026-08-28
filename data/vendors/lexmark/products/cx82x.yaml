@@ -1,0 +1,10 @@
+id: cx82x
+vendor_id: lexmark
+name: Cx82X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx82x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx82x
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ultimate-maps
+vendor_id: supsystic
+name: Ultimate Maps
+type: software
+tags: []
+cpe: cpe:2.3:a:supsystic:ultimate_maps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultimate_maps
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ryzen-5-2500u
+vendor_id: amd
+name: Ryzen 5 2500U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_2500u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_2500u
+  confidence: auto

@@ -1,0 +1,10 @@
+id: esp32-d0wdr2-v3
+vendor_id: espressif
+name: Esp32-D0Wdr2-V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:espressif:esp32\-d0wdr2\-v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32-d0wdr2-v3
+  confidence: auto

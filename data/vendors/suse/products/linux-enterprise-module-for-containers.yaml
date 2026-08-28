@@ -1,0 +1,10 @@
+id: linux-enterprise-module-for-containers
+vendor_id: suse
+name: Linux Enterprise Module For Containers
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux_enterprise_module_for_containers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_module_for_containers
+  confidence: auto

@@ -1,0 +1,10 @@
+id: id-charger-pro-firmware
+vendor_id: vw
+name: Id.Charger Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vw:id\.charger_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: id.charger_pro_firmware
+  confidence: auto

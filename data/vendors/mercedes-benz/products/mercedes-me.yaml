@@ -1,0 +1,10 @@
+id: mercedes-me
+vendor_id: mercedes-benz
+name: Mercedes Me
+type: software
+tags: []
+cpe: cpe:2.3:a:mercedes\-benz:mercedes_me:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mercedes_me
+  confidence: auto

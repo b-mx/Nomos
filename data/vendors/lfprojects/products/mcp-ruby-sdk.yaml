@@ -1,0 +1,10 @@
+id: mcp-ruby-sdk
+vendor_id: lfprojects
+name: Mcp Ruby Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:mcp_ruby_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcp_ruby_sdk
+  confidence: auto

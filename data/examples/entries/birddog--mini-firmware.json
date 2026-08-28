@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "birddog--mini-firmware",
+  "vendor_id": "birddog",
+  "product_id": "mini-firmware",
+  "name": "Mini Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mini_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

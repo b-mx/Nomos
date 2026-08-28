@@ -1,0 +1,10 @@
+id: ryzen-7-pro-5850u
+vendor_id: amd
+name: Ryzen 7 Pro 5850U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_pro_5850u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_pro_5850u
+  confidence: auto

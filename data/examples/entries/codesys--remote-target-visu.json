@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "codesys--remote-target-visu",
+  "vendor_id": "codesys",
+  "product_id": "remote-target-visu",
+  "name": "Remote Target Visu",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remote_target_visu",
+      "confidence": "auto"
+    }
+  ]
+}

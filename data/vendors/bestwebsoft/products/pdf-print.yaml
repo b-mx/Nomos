@@ -1,0 +1,10 @@
+id: pdf-print
+vendor_id: bestwebsoft
+name: Pdf & Print
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:pdf_\&_print:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdf_&_print
+  confidence: auto

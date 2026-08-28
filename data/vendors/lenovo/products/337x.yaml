@@ -1,0 +1,10 @@
+id: 337x
+vendor_id: lenovo
+name: 337X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:337x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 337x
+  confidence: auto

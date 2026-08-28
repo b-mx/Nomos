@@ -1,0 +1,10 @@
+id: hpw2p1
+vendor_id: honeywell
+name: Hpw2P1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hpw2p1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpw2p1
+  confidence: auto

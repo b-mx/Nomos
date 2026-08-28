@@ -1,0 +1,10 @@
+id: q3548-lve
+vendor_id: axis
+name: Q3548-Lve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q3548\-lve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q3548-lve
+  confidence: auto

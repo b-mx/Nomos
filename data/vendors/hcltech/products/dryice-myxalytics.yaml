@@ -1,0 +1,10 @@
+id: dryice-myxalytics
+vendor_id: hcltech
+name: Dryice Myxalytics
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:dryice_myxalytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dryice_myxalytics
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "protocol--gossipsub",
+  "vendor_id": "protocol",
+  "product_id": "gossipsub",
+  "name": "Gossipsub",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gossipsub",
+      "confidence": "auto"
+    }
+  ]
+}

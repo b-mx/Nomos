@@ -1,0 +1,10 @@
+id: gnome-online-accounts
+vendor_id: gnome
+name: Gnome Online Accounts
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome_online_accounts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome_online_accounts
+  confidence: auto

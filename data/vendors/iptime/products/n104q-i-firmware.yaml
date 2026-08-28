@@ -1,0 +1,10 @@
+id: n104q-i-firmware
+vendor_id: iptime
+name: N104Q-I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n104q\-i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n104q-i_firmware
+  confidence: auto

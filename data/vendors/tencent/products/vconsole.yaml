@@ -1,0 +1,10 @@
+id: vconsole
+vendor_id: tencent
+name: Vconsole
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:vconsole:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vconsole
+  confidence: auto

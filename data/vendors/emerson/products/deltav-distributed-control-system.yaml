@@ -1,0 +1,10 @@
+id: deltav-distributed-control-system
+vendor_id: emerson
+name: Deltav Distributed Control System
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:deltav_distributed_control_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deltav_distributed_control_system
+  confidence: auto

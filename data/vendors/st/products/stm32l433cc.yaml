@@ -1,0 +1,10 @@
+id: stm32l433cc
+vendor_id: st
+name: Stm32L433Cc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l433cc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l433cc
+  confidence: auto

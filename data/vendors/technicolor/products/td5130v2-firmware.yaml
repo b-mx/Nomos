@@ -1,0 +1,10 @@
+id: td5130v2-firmware
+vendor_id: technicolor
+name: Td5130V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:td5130v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: td5130v2_firmware
+  confidence: auto

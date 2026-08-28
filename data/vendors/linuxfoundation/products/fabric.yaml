@@ -1,0 +1,10 @@
+id: fabric
+vendor_id: linuxfoundation
+name: Fabric
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:fabric:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fabric
+  confidence: auto

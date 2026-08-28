@@ -1,0 +1,10 @@
+id: x9drff-i
+vendor_id: supermicro
+name: X9Drff-I+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9drff\-i\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drff-i+
+  confidence: auto

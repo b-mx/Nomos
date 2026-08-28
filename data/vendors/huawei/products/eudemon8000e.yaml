@@ -1,0 +1,10 @@
+id: eudemon8000e
+vendor_id: huawei
+name: Eudemon8000E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:eudemon8000e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eudemon8000e
+  confidence: auto

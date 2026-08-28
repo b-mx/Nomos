@@ -1,0 +1,10 @@
+id: x11sds-8c
+vendor_id: supermicro
+name: X11Sds-8C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11sds\-8c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sds-8c
+  confidence: auto

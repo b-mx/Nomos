@@ -1,0 +1,10 @@
+id: fas-a250
+vendor_id: netapp
+name: Fas A250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:fas_a250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fas_a250
+  confidence: auto

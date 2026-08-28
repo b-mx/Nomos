@@ -1,0 +1,10 @@
+id: ideapad-s940-14iil-firmware
+vendor_id: lenovo
+name: Ideapad S940-14Iil Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_s940\-14iil_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_s940-14iil_firmware
+  confidence: auto

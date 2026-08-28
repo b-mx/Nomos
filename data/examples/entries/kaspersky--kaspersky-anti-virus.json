@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kaspersky--kaspersky-anti-virus",
+  "vendor_id": "kaspersky",
+  "product_id": "kaspersky-anti-virus",
+  "name": "Kaspersky Anti-Virus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kaspersky_anti-virus",
+      "confidence": "auto"
+    }
+  ]
+}

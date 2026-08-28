@@ -1,0 +1,10 @@
+id: c-cure-9000
+vendor_id: johnsoncontrols
+name: C-Cure 9000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:c\-cure_9000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c-cure_9000
+  confidence: auto

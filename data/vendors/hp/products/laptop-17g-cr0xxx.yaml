@@ -1,0 +1,10 @@
+id: laptop-17g-cr0xxx
+vendor_id: hp
+name: Laptop 17G-Cr0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_17g\-cr0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_17g-cr0xxx
+  confidence: auto

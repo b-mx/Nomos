@@ -1,0 +1,10 @@
+id: legion-t730-28ico-firmware
+vendor_id: lenovo
+name: Legion T730-28Ico Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_t730\-28ico_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_t730-28ico_firmware
+  confidence: auto

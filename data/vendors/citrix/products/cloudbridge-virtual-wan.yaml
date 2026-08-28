@@ -1,0 +1,9 @@
+id: cloudbridge-virtual-wan
+vendor_id: citrix
+name: CloudBridge Virtual WAN
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: CloudBridge Virtual WAN
+  confidence: auto

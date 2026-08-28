@@ -1,0 +1,10 @@
+id: a520-slave
+vendor_id: marel
+name: A520 Slave
+type: hardware
+tags: []
+cpe: cpe:2.3:h:marel:a520_slave:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a520_slave
+  confidence: auto

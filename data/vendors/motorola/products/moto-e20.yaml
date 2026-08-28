@@ -1,0 +1,10 @@
+id: moto-e20
+vendor_id: motorola
+name: Moto E20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:moto_e20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moto_e20
+  confidence: auto

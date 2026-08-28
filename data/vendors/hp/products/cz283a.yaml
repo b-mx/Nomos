@@ -1,0 +1,10 @@
+id: cz283a
+vendor_id: hp
+name: Cz283A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz283a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz283a
+  confidence: auto

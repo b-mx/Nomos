@@ -1,0 +1,10 @@
+id: cs1w-eip21-firmware
+vendor_id: omron
+name: Cs1W-Eip21 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cs1w\-eip21_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1w-eip21_firmware
+  confidence: auto

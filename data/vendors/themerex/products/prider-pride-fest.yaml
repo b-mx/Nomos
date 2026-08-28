@@ -1,0 +1,10 @@
+id: prider-pride-fest
+vendor_id: themerex
+name: Prider-Pride Fest
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:prider\-pride_fest:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prider-pride_fest
+  confidence: auto

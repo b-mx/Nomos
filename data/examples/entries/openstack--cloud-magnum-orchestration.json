@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--cloud-magnum-orchestration",
+  "vendor_id": "openstack",
+  "product_id": "cloud-magnum-orchestration",
+  "name": "Cloud Magnum Orchestration",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_magnum_orchestration",
+      "confidence": "auto"
+    }
+  ]
+}

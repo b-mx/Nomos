@@ -1,0 +1,10 @@
+id: nova-2-firmware
+vendor_id: huawei
+name: Nova 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:nova_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova_2_firmware
+  confidence: auto

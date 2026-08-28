@@ -1,0 +1,10 @@
+id: ws024bf-firmware
+vendor_id: buffalo
+name: Ws024Bf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:ws024bf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws024bf_firmware
+  confidence: auto

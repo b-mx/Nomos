@@ -1,0 +1,10 @@
+id: w500p
+vendor_id: aterm
+name: W500P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aterm:w500p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w500p
+  confidence: auto

@@ -1,0 +1,10 @@
+id: usw-24
+vendor_id: ui
+name: Usw-24
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:usw\-24:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usw-24
+  confidence: auto

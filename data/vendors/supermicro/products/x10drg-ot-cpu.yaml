@@ -1,0 +1,10 @@
+id: x10drg-ot-cpu
+vendor_id: supermicro
+name: X10Drg-Ot+-Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10drg\-ot\+\-cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drg-ot+-cpu
+  confidence: auto

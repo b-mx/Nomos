@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--openview-reporter",
+  "vendor_id": "hp",
+  "product_id": "openview-reporter",
+  "name": "Openview Reporter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openview_reporter",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: i29-firmware
+vendor_id: tendacn
+name: I29 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tendacn:i29_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i29_firmware
+  confidence: auto

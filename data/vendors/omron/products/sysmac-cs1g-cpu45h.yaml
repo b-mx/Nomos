@@ -1,0 +1,10 @@
+id: sysmac-cs1g-cpu45h
+vendor_id: omron
+name: Sysmac Cs1G-Cpu45H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cs1g\-cpu45h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cs1g-cpu45h
+  confidence: auto

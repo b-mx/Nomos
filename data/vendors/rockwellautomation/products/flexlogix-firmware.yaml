@@ -1,0 +1,10 @@
+id: flexlogix-firmware
+vendor_id: rockwellautomation
+name: Flexlogix Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:flexlogix_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexlogix_firmware
+  confidence: auto

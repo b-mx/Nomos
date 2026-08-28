@@ -1,0 +1,10 @@
+id: wli-tx4-ag300n-firmware
+vendor_id: buffalo
+name: Wli-Tx4-Ag300N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wli\-tx4\-ag300n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wli-tx4-ag300n_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xperia-pro
+vendor_id: sony
+name: Xperia Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:xperia_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xperia_pro
+  confidence: auto

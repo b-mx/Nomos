@@ -1,0 +1,10 @@
+id: aio520-24arr-firmware
+vendor_id: lenovo
+name: Aio520-24Arr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:aio520\-24arr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aio520-24arr_firmware
+  confidence: auto

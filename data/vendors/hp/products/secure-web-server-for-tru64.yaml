@@ -1,0 +1,10 @@
+id: secure-web-server-for-tru64
+vendor_id: hp
+name: Secure Web Server For Tru64
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:secure_web_server_for_tru64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_web_server_for_tru64
+  confidence: auto

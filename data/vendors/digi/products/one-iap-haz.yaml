@@ -1,0 +1,10 @@
+id: one-iap-haz
+vendor_id: digi
+name: One Iap Haz
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:one_iap_haz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_iap_haz
+  confidence: auto

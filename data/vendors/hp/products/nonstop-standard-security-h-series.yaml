@@ -1,0 +1,10 @@
+id: nonstop-standard-security-h-series
+vendor_id: hp
+name: Nonstop Standard Security H Series
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:nonstop_standard_security_h_series:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nonstop_standard_security_h_series
+  confidence: auto

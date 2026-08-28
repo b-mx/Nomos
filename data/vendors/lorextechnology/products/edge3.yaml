@@ -1,0 +1,10 @@
+id: edge3
+vendor_id: lorextechnology
+name: Edge3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lorextechnology:edge3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edge3
+  confidence: auto

@@ -1,0 +1,10 @@
+id: arcinfo-workstation
+vendor_id: esri
+name: Arcinfo Workstation
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:arcinfo_workstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcinfo_workstation
+  confidence: auto

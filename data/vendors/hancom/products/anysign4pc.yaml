@@ -1,0 +1,10 @@
+id: anysign4pc
+vendor_id: hancom
+name: Anysign4Pc
+type: software
+tags: []
+cpe: cpe:2.3:a:hancom:anysign4pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anysign4pc
+  confidence: auto

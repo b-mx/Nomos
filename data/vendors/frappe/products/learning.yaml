@@ -1,0 +1,10 @@
+id: learning
+vendor_id: frappe
+name: Learning
+type: software
+tags: []
+cpe: cpe:2.3:a:frappe:learning:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: learning
+  confidence: auto

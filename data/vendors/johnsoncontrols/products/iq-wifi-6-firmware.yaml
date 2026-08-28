@@ -1,0 +1,10 @@
+id: iq-wifi-6-firmware
+vendor_id: johnsoncontrols
+name: Iq Wifi 6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:johnsoncontrols:iq_wifi_6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq_wifi_6_firmware
+  confidence: auto

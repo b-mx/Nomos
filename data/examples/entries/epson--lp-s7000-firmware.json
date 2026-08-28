@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--lp-s7000-firmware",
+  "vendor_id": "epson",
+  "product_id": "lp-s7000-firmware",
+  "name": "Lp-S7000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lp-s7000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

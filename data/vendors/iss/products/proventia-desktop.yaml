@@ -1,0 +1,10 @@
+id: proventia-desktop
+vendor_id: iss
+name: Proventia Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:iss:proventia_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proventia_desktop
+  confidence: auto

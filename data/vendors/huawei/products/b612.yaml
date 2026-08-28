@@ -1,0 +1,10 @@
+id: b612
+vendor_id: huawei
+name: B612
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:b612:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b612
+  confidence: auto

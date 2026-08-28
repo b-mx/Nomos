@@ -1,0 +1,10 @@
+id: owasp-modsecurity-core-rule-set
+vendor_id: owasp
+name: Owasp Modsecurity Core Rule Set
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: owasp_modsecurity_core_rule_set
+  confidence: auto

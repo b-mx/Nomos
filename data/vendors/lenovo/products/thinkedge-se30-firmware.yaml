@@ -1,0 +1,10 @@
+id: thinkedge-se30-firmware
+vendor_id: lenovo
+name: Thinkedge Se30 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkedge_se30_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkedge_se30_firmware
+  confidence: auto

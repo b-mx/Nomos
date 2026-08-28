@@ -1,0 +1,10 @@
+id: tit-al00-firmware
+vendor_id: huawei
+name: Tit-Al00 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:tit\-al00_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tit-al00_firmware
+  confidence: auto

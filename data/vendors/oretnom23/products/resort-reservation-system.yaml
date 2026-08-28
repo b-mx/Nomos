@@ -1,0 +1,10 @@
+id: resort-reservation-system
+vendor_id: oretnom23
+name: Resort Reservation System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:resort_reservation_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: resort_reservation_system
+  confidence: auto

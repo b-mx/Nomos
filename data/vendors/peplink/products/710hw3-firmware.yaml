@@ -1,0 +1,10 @@
+id: 710hw3-firmware
+vendor_id: peplink
+name: 710Hw3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:710hw3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 710hw3_firmware
+  confidence: auto

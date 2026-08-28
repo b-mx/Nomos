@@ -1,0 +1,10 @@
+id: weblogic-integration
+vendor_id: bea
+name: Weblogic Integration
+type: software
+tags: []
+cpe: cpe:2.3:a:bea:weblogic_integration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: weblogic_integration
+  confidence: auto

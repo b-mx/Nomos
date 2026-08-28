@@ -1,0 +1,10 @@
+id: storeonce-4220-backup-system
+vendor_id: hp
+name: Storeonce 4220 Backup System
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:storeonce_4220_backup_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_4220_backup_system
+  confidence: auto

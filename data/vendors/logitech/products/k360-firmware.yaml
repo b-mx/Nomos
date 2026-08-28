@@ -1,0 +1,10 @@
+id: k360-firmware
+vendor_id: logitech
+name: K360 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:logitech:k360_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k360_firmware
+  confidence: auto

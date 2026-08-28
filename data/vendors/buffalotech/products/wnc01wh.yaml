@@ -1,0 +1,10 @@
+id: wnc01wh
+vendor_id: buffalotech
+name: Wnc01Wh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:wnc01wh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wnc01wh
+  confidence: auto

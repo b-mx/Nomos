@@ -1,0 +1,10 @@
+id: enterprise-connector
+vendor_id: mobileiron
+name: Enterprise Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:mobileiron:enterprise_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_connector
+  confidence: auto

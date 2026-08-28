@@ -1,0 +1,10 @@
+id: nx1w-cif01
+vendor_id: omron
+name: Nx1W-Cif01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:nx1w\-cif01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx1w-cif01
+  confidence: auto

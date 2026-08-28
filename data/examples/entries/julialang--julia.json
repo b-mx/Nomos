@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "julialang--julia",
+  "vendor_id": "julialang",
+  "product_id": "julia",
+  "name": "Julia",
+  "type": "library",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "julia",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "julia",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+id: shibboleth
+name: Shibboleth
+cpe: cpe:2.3:*:shibboleth:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shibboleth
+  confidence: auto

@@ -1,0 +1,10 @@
+id: g3
+vendor_id: tendacn
+name: G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g3
+  confidence: auto

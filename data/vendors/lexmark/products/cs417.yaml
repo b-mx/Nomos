@@ -1,0 +1,10 @@
+id: cs417
+vendor_id: lexmark
+name: Cs417
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs417:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs417
+  confidence: auto

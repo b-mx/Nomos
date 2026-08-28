@@ -1,0 +1,10 @@
+id: jp1-automatic-operation
+vendor_id: hitachi
+name: Jp1/Automatic Operation
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:jp1\/automatic_operation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jp1/automatic_operation
+  confidence: auto

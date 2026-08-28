@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--aruba-8400x",
+  "vendor_id": "hpe",
+  "product_id": "aruba-8400x",
+  "name": "Aruba 8400X",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aruba_8400x",
+      "confidence": "auto"
+    }
+  ]
+}

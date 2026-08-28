@@ -1,0 +1,10 @@
+id: i8016-lve
+vendor_id: axis
+name: I8016-Lve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:i8016\-lve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i8016-lve
+  confidence: auto

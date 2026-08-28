@@ -1,0 +1,10 @@
+id: flir-ax8-firmware
+vendor_id: flir
+name: Flir Ax8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:flir:flir_ax8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flir_ax8_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: color-laserjet-m455-39z95a
+vendor_id: hp
+name: Color Laserjet M455 39Z95A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_m455_39z95a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_m455_39z95a
+  confidence: auto

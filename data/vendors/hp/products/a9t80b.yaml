@@ -1,0 +1,10 @@
+id: a9t80b
+vendor_id: hp
+name: A9T80B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:a9t80b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a9t80b
+  confidence: auto

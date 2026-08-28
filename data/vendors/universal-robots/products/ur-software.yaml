@@ -1,0 +1,10 @@
+id: ur-software
+vendor_id: universal-robots
+name: Ur Software
+type: software
+tags: []
+cpe: cpe:2.3:a:universal\-robots:ur_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ur_software
+  confidence: auto

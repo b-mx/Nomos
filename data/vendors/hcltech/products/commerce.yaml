@@ -1,0 +1,10 @@
+id: commerce
+vendor_id: hcltech
+name: Commerce
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:commerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: commerce
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x9drth
+vendor_id: supermicro
+name: X9Drth
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9drth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drth
+  confidence: auto

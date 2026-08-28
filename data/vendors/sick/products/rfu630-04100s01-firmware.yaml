@@ -1,0 +1,10 @@
+id: rfu630-04100s01-firmware
+vendor_id: sick
+name: Rfu630-04100S01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:rfu630\-04100s01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfu630-04100s01_firmware
+  confidence: auto

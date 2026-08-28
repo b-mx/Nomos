@@ -1,0 +1,10 @@
+id: a7100ru
+vendor_id: totolink
+name: A7100Ru
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a7100ru:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a7100ru
+  confidence: auto

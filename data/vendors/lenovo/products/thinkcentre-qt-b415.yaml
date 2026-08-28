@@ -1,0 +1,10 @@
+id: thinkcentre-qt-b415
+vendor_id: lenovo
+name: Thinkcentre Qt B415
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_qt_b415:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_qt_b415
+  confidence: auto

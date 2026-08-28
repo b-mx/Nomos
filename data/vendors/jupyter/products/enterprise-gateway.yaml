@@ -1,0 +1,10 @@
+id: enterprise-gateway
+vendor_id: jupyter
+name: Enterprise Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:enterprise_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_gateway
+  confidence: auto

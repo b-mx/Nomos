@@ -1,0 +1,10 @@
+id: netmix-broadband-telecom
+vendor_id: themerex
+name: Netmix-Broadband & Telecom
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:netmix\-broadband_\&_telecom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netmix-broadband_&_telecom
+  confidence: auto

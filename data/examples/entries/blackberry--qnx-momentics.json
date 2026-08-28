@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "blackberry--qnx-momentics",
+  "vendor_id": "blackberry",
+  "product_id": "qnx-momentics",
+  "name": "Qnx Momentics",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "qnx_momentics",
+      "confidence": "auto"
+    }
+  ]
+}

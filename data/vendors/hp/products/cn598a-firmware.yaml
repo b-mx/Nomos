@@ -1,0 +1,10 @@
+id: cn598a-firmware
+vendor_id: hp
+name: Cn598A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cn598a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn598a_firmware
+  confidence: auto

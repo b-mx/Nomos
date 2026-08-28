@@ -1,0 +1,10 @@
+id: mf810cdn
+vendor_id: canon
+name: Mf810Cdn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:mf810cdn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf810cdn
+  confidence: auto

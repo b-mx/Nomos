@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eaton--smp-4-dp-firmware",
+  "vendor_id": "eaton",
+  "product_id": "smp-4-dp-firmware",
+  "name": "Smp 4/Dp Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smp_4/dp_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

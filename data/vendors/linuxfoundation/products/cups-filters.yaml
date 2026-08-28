@@ -1,0 +1,10 @@
+id: cups-filters
+vendor_id: linuxfoundation
+name: Cups-Filters
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:cups\-filters:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cups-filters
+  confidence: auto

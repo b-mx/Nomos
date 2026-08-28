@@ -1,0 +1,10 @@
+id: got-simple-series-gs21-firmware
+vendor_id: mitsubishielectric
+name: Got Simple Series Gs21 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:got_simple_series_gs21_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: got_simple_series_gs21_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e8820v3-firmware
+vendor_id: zte
+name: E8820V3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:e8820v3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e8820v3_firmware
+  confidence: auto

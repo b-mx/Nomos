@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--wicked",
+  "vendor_id": "opensuse",
+  "product_id": "wicked",
+  "name": "Wicked",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wicked",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: wlc-1000
+vendor_id: lancom-systems
+name: Wlc-1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lancom\-systems:wlc\-1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlc-1000
+  confidence: auto

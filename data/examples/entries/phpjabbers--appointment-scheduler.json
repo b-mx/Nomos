@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phpjabbers--appointment-scheduler",
+  "vendor_id": "phpjabbers",
+  "product_id": "appointment-scheduler",
+  "name": "Appointment Scheduler",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "appointment_scheduler",
+      "confidence": "auto"
+    }
+  ]
+}

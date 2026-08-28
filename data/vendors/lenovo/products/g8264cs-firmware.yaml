@@ -1,0 +1,10 @@
+id: g8264cs-firmware
+vendor_id: lenovo
+name: G8264Cs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:g8264cs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g8264cs_firmware
+  confidence: auto

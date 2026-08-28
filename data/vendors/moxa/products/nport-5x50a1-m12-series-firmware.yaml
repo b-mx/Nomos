@@ -1,0 +1,10 @@
+id: nport-5x50a1-m12-series-firmware
+vendor_id: moxa
+name: Nport 5X50A1-M12 Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_5x50a1\-m12_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5x50a1-m12_series_firmware
+  confidence: auto

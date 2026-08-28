@@ -1,0 +1,10 @@
+id: semg9811-firmware
+vendor_id: huawei
+name: Semg9811 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:semg9811_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: semg9811_firmware
+  confidence: auto

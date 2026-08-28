@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "pci-dss",
+  "vendor_id": "pci-dss",
+  "name": "PCI-DSS",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "pci-dss",
+      "confidence": "auto"
+    }
+  ]
+}

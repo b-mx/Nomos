@@ -1,0 +1,10 @@
+id: 320-15ikbra-firmware
+vendor_id: hp
+name: 320-15Ikbra Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:320\-15ikbra_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 320-15ikbra_firmware
+  confidence: auto

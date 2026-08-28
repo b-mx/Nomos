@@ -1,0 +1,10 @@
+id: fusionsphere
+vendor_id: huawei
+name: Fusionsphere
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:fusionsphere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionsphere
+  confidence: auto

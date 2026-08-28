@@ -1,0 +1,10 @@
+id: epmp-force-300-25-firmware
+vendor_id: cambiumnetworks
+name: Epmp Force 300-25 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cambiumnetworks:epmp_force_300\-25_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epmp_force_300-25_firmware
+  confidence: auto

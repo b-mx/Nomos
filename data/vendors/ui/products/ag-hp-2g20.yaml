@@ -1,0 +1,10 @@
+id: ag-hp-2g20
+vendor_id: ui
+name: Ag-Hp-2G20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:ag\-hp\-2g20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ag-hp-2g20
+  confidence: auto

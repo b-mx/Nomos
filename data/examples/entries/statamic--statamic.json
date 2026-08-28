@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "statamic--statamic",
+  "vendor_id": "statamic",
+  "product_id": "statamic",
+  "name": "Statamic",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "statamic",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "statamic",
+      "confidence": "auto"
+    }
+  ]
+}

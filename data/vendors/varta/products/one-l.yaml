@@ -1,0 +1,10 @@
+id: one-l
+vendor_id: varta
+name: One L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:varta:one_l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_l
+  confidence: auto

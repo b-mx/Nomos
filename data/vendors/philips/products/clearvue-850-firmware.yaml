@@ -1,0 +1,10 @@
+id: clearvue-850-firmware
+vendor_id: philips
+name: Clearvue 850 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:clearvue_850_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clearvue_850_firmware
+  confidence: auto

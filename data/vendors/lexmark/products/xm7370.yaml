@@ -1,0 +1,10 @@
+id: xm7370
+vendor_id: lexmark
+name: Xm7370
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xm7370:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm7370
+  confidence: auto

@@ -1,0 +1,10 @@
+id: privx
+vendor_id: ssh
+name: Privx
+type: software
+tags: []
+cpe: cpe:2.3:a:ssh:privx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: privx
+  confidence: auto

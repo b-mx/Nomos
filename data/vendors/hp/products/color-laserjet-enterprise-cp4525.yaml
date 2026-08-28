@@ -1,0 +1,10 @@
+id: color-laserjet-enterprise-cp4525
+vendor_id: hp
+name: Color Laserjet Enterprise Cp4525
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_enterprise_cp4525:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_enterprise_cp4525
+  confidence: auto

@@ -1,0 +1,10 @@
+id: qnv-6010r
+vendor_id: hanwhavision
+name: Qnv-6010R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:qnv\-6010r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnv-6010r
+  confidence: auto

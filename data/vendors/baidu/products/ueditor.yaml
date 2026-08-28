@@ -1,0 +1,10 @@
+id: ueditor
+vendor_id: baidu
+name: Ueditor
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:ueditor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ueditor
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wg1200hs2-firmware
+vendor_id: aterm
+name: Wg1200Hs2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:aterm:wg1200hs2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wg1200hs2_firmware
+  confidence: auto

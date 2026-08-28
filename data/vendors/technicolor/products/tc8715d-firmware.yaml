@@ -1,0 +1,10 @@
+id: tc8715d-firmware
+vendor_id: technicolor
+name: Tc8715D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:tc8715d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc8715d_firmware
+  confidence: auto

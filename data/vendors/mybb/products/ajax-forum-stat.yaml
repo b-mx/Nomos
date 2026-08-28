@@ -1,0 +1,10 @@
+id: ajax-forum-stat
+vendor_id: mybb
+name: Ajax Forum Stat
+type: software
+tags: []
+cpe: cpe:2.3:a:mybb:ajax_forum_stat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ajax_forum_stat
+  confidence: auto

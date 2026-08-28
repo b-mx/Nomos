@@ -1,0 +1,10 @@
+id: viewpoint-9030
+vendor_id: huawei
+name: Viewpoint 9030
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:viewpoint_9030:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viewpoint_9030
+  confidence: auto

@@ -1,0 +1,10 @@
+id: active-backup-for-business-agent
+vendor_id: synology
+name: Active Backup For Business Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:active_backup_for_business_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_backup_for_business_agent
+  confidence: auto

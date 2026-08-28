@@ -1,0 +1,10 @@
+id: slc-130-firmware
+vendor_id: seowonintech
+name: Slc-130 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seowonintech:slc\-130_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slc-130_firmware
+  confidence: auto

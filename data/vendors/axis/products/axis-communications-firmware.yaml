@@ -1,0 +1,10 @@
+id: axis-communications-firmware
+vendor_id: axis
+name: Axis Communications Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:axis_communications_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axis_communications_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: octorpki
+vendor_id: cloudflare
+name: Octorpki
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:octorpki:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: octorpki
+  confidence: auto

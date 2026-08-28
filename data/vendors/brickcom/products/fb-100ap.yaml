@@ -1,0 +1,10 @@
+id: fb-100ap
+vendor_id: brickcom
+name: Fb-100Ap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brickcom:fb\-100ap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fb-100ap
+  confidence: auto

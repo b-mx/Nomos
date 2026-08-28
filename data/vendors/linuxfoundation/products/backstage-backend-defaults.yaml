@@ -1,0 +1,10 @@
+id: backstage-backend-defaults
+vendor_id: linuxfoundation
+name: Backstage/Backend Defaults
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:backstage\/backend_defaults:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backstage/backend_defaults
+  confidence: auto

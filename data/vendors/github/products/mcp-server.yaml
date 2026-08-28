@@ -1,0 +1,10 @@
+id: mcp-server
+vendor_id: github
+name: Mcp Server
+type: software
+tags: []
+cpe: cpe:2.3:a:github:mcp_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcp_server
+  confidence: auto

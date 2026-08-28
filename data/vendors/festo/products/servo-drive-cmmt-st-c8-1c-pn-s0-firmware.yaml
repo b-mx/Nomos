@@ -1,0 +1,10 @@
+id: servo-drive-cmmt-st-c8-1c-pn-s0-firmware
+vendor_id: festo
+name: Servo Drive Cmmt-St-C8-1C-Pn-S0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:servo_drive_cmmt\-st\-c8\-1c\-pn\-s0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: servo_drive_cmmt-st-c8-1c-pn-s0_firmware
+  confidence: auto

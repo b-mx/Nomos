@@ -1,0 +1,7 @@
+id: uniview
+name: Uniview
+cpe: cpe:2.3:*:uniview:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uniview
+  confidence: auto

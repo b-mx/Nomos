@@ -1,0 +1,10 @@
+id: aws-libcrypto
+vendor_id: amazon
+name: Aws Libcrypto
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_libcrypto:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_libcrypto
+  confidence: auto

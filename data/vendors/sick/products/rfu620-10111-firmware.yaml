@@ -1,0 +1,10 @@
+id: rfu620-10111-firmware
+vendor_id: sick
+name: Rfu620-10111 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:rfu620\-10111_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfu620-10111_firmware
+  confidence: auto

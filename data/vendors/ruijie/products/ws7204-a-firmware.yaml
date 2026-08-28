@@ -1,0 +1,10 @@
+id: ws7204-a-firmware
+vendor_id: ruijie
+name: Ws7204-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:ws7204\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws7204-a_firmware
+  confidence: auto

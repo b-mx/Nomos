@@ -1,0 +1,10 @@
+id: visual-analytics
+vendor_id: sas
+name: Visual Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:sas:visual_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visual_analytics
+  confidence: auto

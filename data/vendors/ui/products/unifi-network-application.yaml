@@ -1,0 +1,10 @@
+id: unifi-network-application
+vendor_id: ui
+name: Unifi Network Application
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:unifi_network_application:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_network_application
+  confidence: auto

@@ -1,0 +1,10 @@
+id: frappe
+vendor_id: frappe
+name: Frappe
+type: software
+tags: []
+cpe: cpe:2.3:a:frappe:frappe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frappe
+  confidence: auto

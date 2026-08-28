@@ -1,0 +1,10 @@
+id: vpnmanager-console
+vendor_id: avaya
+name: Vpnmanager Console
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:vpnmanager_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vpnmanager_console
+  confidence: auto

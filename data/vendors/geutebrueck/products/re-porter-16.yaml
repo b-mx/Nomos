@@ -1,0 +1,10 @@
+id: re-porter-16
+vendor_id: geutebrueck
+name: Re Porter 16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:geutebrueck:re_porter_16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re_porter_16
+  confidence: auto

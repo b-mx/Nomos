@@ -1,0 +1,10 @@
+id: ip9191-ht
+vendor_id: vivotek
+name: Ip9191-Ht
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ip9191\-ht:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip9191-ht
+  confidence: auto

@@ -1,0 +1,10 @@
+id: spectre-folio-13-ak1xxx
+vendor_id: hp
+name: Spectre Folio 13-Ak1Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_folio_13\-ak1xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_folio_13-ak1xxx
+  confidence: auto

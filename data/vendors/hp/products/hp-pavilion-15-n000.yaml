@@ -1,0 +1,10 @@
+id: hp-pavilion-15-n000
+vendor_id: hp
+name: Hp Pavilion 15-N000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_pavilion_15\-n000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_pavilion_15-n000
+  confidence: auto

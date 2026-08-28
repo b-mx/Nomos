@@ -1,0 +1,10 @@
+id: just-online-update
+vendor_id: justsystems
+name: Just Online Update
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:just_online_update:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: just_online_update
+  confidence: auto

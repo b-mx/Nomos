@@ -1,0 +1,10 @@
+id: n150rt-v2
+vendor_id: totolink
+name: N150Rt-V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:n150rt\-v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n150rt-v2
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-network-video-recorder",
+  "vendor_id": "ui",
+  "product_id": "unifi-network-video-recorder",
+  "name": "Unifi Network Video Recorder",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_network_video_recorder",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: vcc-hd3300p
+vendor_id: panasonic
+name: Vcc-Hd3300P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:panasonic:vcc\-hd3300p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vcc-hd3300p
+  confidence: auto

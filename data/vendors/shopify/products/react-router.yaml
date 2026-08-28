@@ -1,0 +1,10 @@
+id: react-router
+vendor_id: shopify
+name: React-Router
+type: software
+tags: []
+cpe: cpe:2.3:a:shopify:react\-router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: react-router
+  confidence: auto

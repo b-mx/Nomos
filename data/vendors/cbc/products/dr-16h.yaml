@@ -1,0 +1,10 @@
+id: dr-16h
+vendor_id: cbc
+name: Dr-16H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:dr\-16h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-16h
+  confidence: auto

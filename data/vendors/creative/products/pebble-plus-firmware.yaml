@@ -1,0 +1,10 @@
+id: pebble-plus-firmware
+vendor_id: creative
+name: Pebble Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:creative:pebble_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pebble_plus_firmware
+  confidence: auto

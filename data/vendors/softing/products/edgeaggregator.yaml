@@ -1,0 +1,10 @@
+id: edgeaggregator
+vendor_id: softing
+name: Edgeaggregator
+type: software
+tags: []
+cpe: cpe:2.3:a:softing:edgeaggregator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgeaggregator
+  confidence: auto

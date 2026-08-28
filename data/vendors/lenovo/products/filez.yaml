@@ -1,0 +1,10 @@
+id: filez
+vendor_id: lenovo
+name: Filez
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:filez:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: filez
+  confidence: auto

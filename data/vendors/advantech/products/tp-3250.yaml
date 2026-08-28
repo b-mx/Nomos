@@ -1,0 +1,10 @@
+id: tp-3250
+vendor_id: advantech
+name: Tp 3250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:advantech:tp_3250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tp_3250
+  confidence: auto

@@ -1,0 +1,10 @@
+id: software-updater
+vendor_id: f-secure
+name: Software Updater
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:software_updater:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: software_updater
+  confidence: auto

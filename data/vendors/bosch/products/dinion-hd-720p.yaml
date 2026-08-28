@@ -1,0 +1,10 @@
+id: dinion-hd-720p
+vendor_id: bosch
+name: Dinion Hd 720P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:dinion_hd_720p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_hd_720p
+  confidence: auto

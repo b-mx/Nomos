@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "ssh",
+  "vendor_id": "ssh",
+  "name": "Ssh",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ssh",
+      "confidence": "auto"
+    }
+  ]
+}

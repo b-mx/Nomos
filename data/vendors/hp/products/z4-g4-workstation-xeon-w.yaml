@@ -1,0 +1,10 @@
+id: z4-g4-workstation-xeon-w
+vendor_id: hp
+name: Z4 G4 Workstation (Xeon W)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:z4_g4_workstation_\(xeon_w\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z4_g4_workstation_(xeon_w)
+  confidence: auto

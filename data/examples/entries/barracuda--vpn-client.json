@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "barracuda--vpn-client",
+  "vendor_id": "barracuda",
+  "product_id": "vpn-client",
+  "name": "Vpn Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vpn_client",
+      "confidence": "auto"
+    }
+  ]
+}

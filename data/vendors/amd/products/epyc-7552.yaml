@@ -1,0 +1,10 @@
+id: epyc-7552
+vendor_id: amd
+name: Epyc 7552
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_7552:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7552
+  confidence: auto

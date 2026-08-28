@@ -1,0 +1,10 @@
+id: chaivm-ezloader
+vendor_id: hp
+name: Chaivm Ezloader
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:chaivm_ezloader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chaivm_ezloader
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ninja-chicken-ooga-booga
+vendor_id: playscape
+name: Ninja Chicken Ooga Booga
+type: software
+tags: []
+cpe: cpe:2.3:a:playscape:ninja_chicken_ooga_booga:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ninja_chicken_ooga_booga
+  confidence: auto

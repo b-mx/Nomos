@@ -1,0 +1,10 @@
+id: tex300lcd
+vendor_id: rvr
+name: Tex300Lcd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rvr:tex300lcd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tex300lcd
+  confidence: auto

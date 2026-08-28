@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--healthsuite-health",
+  "vendor_id": "philips",
+  "product_id": "healthsuite-health",
+  "name": "Healthsuite Health",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "healthsuite_health",
+      "confidence": "auto"
+    }
+  ]
+}

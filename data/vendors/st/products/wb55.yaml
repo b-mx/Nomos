@@ -1,0 +1,10 @@
+id: wb55
+vendor_id: st
+name: Wb55
+type: software
+tags: []
+cpe: cpe:2.3:a:st:wb55:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wb55
+  confidence: auto

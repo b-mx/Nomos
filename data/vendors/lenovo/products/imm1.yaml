@@ -1,0 +1,10 @@
+id: imm1
+vendor_id: lenovo
+name: Imm1
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:imm1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imm1
+  confidence: auto

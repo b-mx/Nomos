@@ -1,0 +1,10 @@
+id: biosense-firmware
+vendor_id: chiyu-tech
+name: Biosense Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chiyu\-tech:biosense_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biosense_firmware
+  confidence: auto

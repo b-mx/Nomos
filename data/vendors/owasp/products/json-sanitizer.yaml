@@ -1,0 +1,10 @@
+id: json-sanitizer
+vendor_id: owasp
+name: Json-Sanitizer
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:json\-sanitizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: json-sanitizer
+  confidence: auto

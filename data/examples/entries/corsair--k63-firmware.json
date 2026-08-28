@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "corsair--k63-firmware",
+  "vendor_id": "corsair",
+  "product_id": "k63-firmware",
+  "name": "K63 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k63_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: hp-h-series-fibre-channel-switch-firmware
+vendor_id: hp
+name: Hp H-Series Fibre Channel Switch Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:hp_h\-series_fibre_channel_switch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_h-series_fibre_channel_switch_firmware
+  confidence: auto

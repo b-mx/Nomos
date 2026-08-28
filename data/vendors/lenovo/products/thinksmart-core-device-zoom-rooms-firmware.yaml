@@ -1,0 +1,10 @@
+id: thinksmart-core-device-zoom-rooms-firmware
+vendor_id: lenovo
+name: 'Thinksmart Core Device: Zoom Rooms Firmware'
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksmart_core_device\:_zoom_rooms_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksmart_core_device:_zoom_rooms_firmware
+  confidence: auto

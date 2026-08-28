@@ -1,0 +1,10 @@
+id: centum-vp-entry
+vendor_id: yokogawa
+name: Centum Vp Entry
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yokogawa:centum_vp_entry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centum_vp_entry
+  confidence: auto

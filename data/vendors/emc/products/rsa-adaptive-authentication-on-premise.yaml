@@ -1,0 +1,10 @@
+id: rsa-adaptive-authentication-on-premise
+vendor_id: emc
+name: Rsa Adaptive Authentication On-Premise
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_adaptive_authentication_on\-premise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_adaptive_authentication_on-premise
+  confidence: auto

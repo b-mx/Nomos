@@ -1,0 +1,7 @@
+id: pivotal-software
+name: Pivotal Software
+cpe: cpe:2.3:*:pivotal_software:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pivotal_software
+  confidence: auto

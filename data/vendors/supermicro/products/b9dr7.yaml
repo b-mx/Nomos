@@ -1,0 +1,10 @@
+id: b9dr7
+vendor_id: supermicro
+name: B9Dr7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b9dr7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b9dr7
+  confidence: auto

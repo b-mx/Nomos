@@ -1,0 +1,10 @@
+id: mr804-firmware
+vendor_id: mercurycom
+name: Mr804 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mercurycom:mr804_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mr804_firmware
+  confidence: auto

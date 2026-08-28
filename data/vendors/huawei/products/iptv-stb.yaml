@@ -1,0 +1,10 @@
+id: iptv-stb
+vendor_id: huawei
+name: Iptv Stb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:iptv_stb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iptv_stb
+  confidence: auto

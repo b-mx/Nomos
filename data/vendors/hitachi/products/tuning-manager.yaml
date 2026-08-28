@@ -1,0 +1,10 @@
+id: tuning-manager
+vendor_id: hitachi
+name: Tuning Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:tuning_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tuning_manager
+  confidence: auto

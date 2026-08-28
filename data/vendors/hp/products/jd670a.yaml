@@ -1,0 +1,10 @@
+id: jd670a
+vendor_id: hp
+name: Jd670A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd670a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd670a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: shapely
+vendor_id: colorlib
+name: Shapely
+type: software
+tags: []
+cpe: cpe:2.3:a:colorlib:shapely:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shapely
+  confidence: auto

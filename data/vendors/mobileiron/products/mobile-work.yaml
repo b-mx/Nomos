@@ -1,0 +1,10 @@
+id: mobile-work
+vendor_id: mobileiron
+name: Mobile@Work
+type: software
+tags: []
+cpe: cpe:2.3:a:mobileiron:mobile\@work:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile@work
+  confidence: auto

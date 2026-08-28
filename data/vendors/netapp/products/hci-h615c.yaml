@@ -1,0 +1,10 @@
+id: hci-h615c
+vendor_id: netapp
+name: Hci H615C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:hci_h615c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hci_h615c
+  confidence: auto

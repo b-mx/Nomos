@@ -1,0 +1,10 @@
+id: moments
+vendor_id: synology
+name: Moments
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:moments:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moments
+  confidence: auto

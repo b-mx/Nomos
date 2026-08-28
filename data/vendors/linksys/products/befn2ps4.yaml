@@ -1,0 +1,10 @@
+id: befn2ps4
+vendor_id: linksys
+name: Befn2Ps4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:befn2ps4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: befn2ps4
+  confidence: auto

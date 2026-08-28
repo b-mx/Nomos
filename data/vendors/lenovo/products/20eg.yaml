@@ -1,0 +1,10 @@
+id: 20eg
+vendor_id: lenovo
+name: 20Eg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20eg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20eg
+  confidence: auto

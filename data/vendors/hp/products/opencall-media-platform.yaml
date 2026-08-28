@@ -1,0 +1,10 @@
+id: opencall-media-platform
+vendor_id: hp
+name: Opencall Media Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:opencall_media_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opencall_media_platform
+  confidence: auto

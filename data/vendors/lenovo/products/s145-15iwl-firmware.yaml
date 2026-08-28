@@ -1,0 +1,10 @@
+id: s145-15iwl-firmware
+vendor_id: lenovo
+name: S145-15Iwl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s145\-15iwl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s145-15iwl_firmware
+  confidence: auto

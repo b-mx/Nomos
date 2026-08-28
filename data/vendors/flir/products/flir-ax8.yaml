@@ -1,0 +1,10 @@
+id: flir-ax8
+vendor_id: flir
+name: Flir Ax8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:flir:flir_ax8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flir_ax8
+  confidence: auto

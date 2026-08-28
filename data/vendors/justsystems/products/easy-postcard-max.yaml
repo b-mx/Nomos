@@ -1,0 +1,10 @@
+id: easy-postcard-max
+vendor_id: justsystems
+name: Easy Postcard Max
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:easy_postcard_max:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_postcard_max
+  confidence: auto

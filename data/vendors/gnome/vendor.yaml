@@ -1,0 +1,7 @@
+id: gnome
+name: Gnome
+cpe: cpe:2.3:*:gnome:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome
+  confidence: auto

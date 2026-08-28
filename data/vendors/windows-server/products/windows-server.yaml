@@ -1,0 +1,9 @@
+id: windows-server
+vendor_id: windows-server
+name: Microsoft Windows Server
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: windows-server
+  confidence: auto

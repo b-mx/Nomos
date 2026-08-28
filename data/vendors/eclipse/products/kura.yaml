@@ -1,0 +1,10 @@
+id: kura
+vendor_id: eclipse
+name: Kura
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:kura:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kura
+  confidence: auto

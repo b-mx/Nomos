@@ -1,0 +1,10 @@
+id: d8s-utility
+vendor_id: democritus
+name: D8S-Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-utility
+  confidence: auto

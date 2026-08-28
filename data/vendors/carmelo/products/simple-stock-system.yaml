@@ -1,0 +1,10 @@
+id: simple-stock-system
+vendor_id: carmelo
+name: Simple Stock System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:simple_stock_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_stock_system
+  confidence: auto

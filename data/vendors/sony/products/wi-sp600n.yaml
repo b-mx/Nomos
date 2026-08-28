@@ -1,0 +1,10 @@
+id: wi-sp600n
+vendor_id: sony
+name: Wi-Sp600N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:wi\-sp600n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wi-sp600n
+  confidence: auto

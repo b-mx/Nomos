@@ -1,0 +1,10 @@
+id: nova436q-firmware
+vendor_id: baicells
+name: Nova436Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baicells:nova436q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova436q_firmware
+  confidence: auto

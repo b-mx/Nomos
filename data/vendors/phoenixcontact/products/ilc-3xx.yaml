@@ -1,0 +1,10 @@
+id: ilc-3xx
+vendor_id: phoenixcontact
+name: Ilc 3Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:ilc_3xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilc_3xx
+  confidence: auto

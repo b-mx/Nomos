@@ -1,0 +1,10 @@
+id: x11dps-re-firmware
+vendor_id: supermicro
+name: X11Dps-Re Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11dps\-re_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dps-re_firmware
+  confidence: auto

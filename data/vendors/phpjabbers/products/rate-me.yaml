@@ -1,0 +1,10 @@
+id: rate-me
+vendor_id: phpjabbers
+name: Rate Me
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:rate_me:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rate_me
+  confidence: auto

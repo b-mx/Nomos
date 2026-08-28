@@ -1,0 +1,10 @@
+id: tw-50a-firmware
+vendor_id: mitsubishi
+name: Tw-50A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishi:tw\-50a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tw-50a_firmware
+  confidence: auto

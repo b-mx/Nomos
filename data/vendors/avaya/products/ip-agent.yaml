@@ -1,0 +1,10 @@
+id: ip-agent
+vendor_id: avaya
+name: Ip Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:ip_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_agent
+  confidence: auto

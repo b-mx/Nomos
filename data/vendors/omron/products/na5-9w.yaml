@@ -1,0 +1,10 @@
+id: na5-9w
+vendor_id: omron
+name: Na5-9W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:na5\-9w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: na5-9w
+  confidence: auto

@@ -1,0 +1,10 @@
+id: squawk-flightplan
+vendor_id: neilcochran
+name: Squawk/Flightplan
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/flightplan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/flightplan
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cx735
+vendor_id: lexmark
+name: Cx735
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx735:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx735
+  confidence: auto

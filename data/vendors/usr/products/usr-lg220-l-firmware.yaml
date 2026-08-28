@@ -1,0 +1,10 @@
+id: usr-lg220-l-firmware
+vendor_id: usr
+name: Usr-Lg220-L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:usr:usr\-lg220\-l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usr-lg220-l_firmware
+  confidence: auto

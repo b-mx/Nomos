@@ -1,0 +1,10 @@
+id: x86x-firmware
+vendor_id: lexmark
+name: X86X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:x86x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x86x_firmware
+  confidence: auto

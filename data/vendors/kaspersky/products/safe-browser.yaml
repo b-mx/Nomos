@@ -1,0 +1,10 @@
+id: safe-browser
+vendor_id: kaspersky
+name: Safe Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:safe_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safe_browser
+  confidence: auto

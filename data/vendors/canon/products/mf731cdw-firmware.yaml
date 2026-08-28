@@ -1,0 +1,10 @@
+id: mf731cdw-firmware
+vendor_id: canon
+name: Mf731Cdw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:mf731cdw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf731cdw_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x750
+vendor_id: gl-inet
+name: X750
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:x750:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x750
+  confidence: auto

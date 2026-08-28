@@ -1,0 +1,10 @@
+id: lp4502
+vendor_id: hidglobal
+name: Lp4502
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hidglobal:lp4502:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp4502
+  confidence: auto

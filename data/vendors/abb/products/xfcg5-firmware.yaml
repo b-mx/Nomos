@@ -1,0 +1,10 @@
+id: xfcg5-firmware
+vendor_id: abb
+name: Xfcg5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:xfcg5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xfcg5_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cp1w-16et1
+vendor_id: omron
+name: Cp1W-16Et1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp1w\-16et1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-16et1
+  confidence: auto

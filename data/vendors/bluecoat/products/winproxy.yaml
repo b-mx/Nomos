@@ -1,0 +1,10 @@
+id: winproxy
+vendor_id: bluecoat
+name: Winproxy
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:winproxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: winproxy
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e6b67a-firmware
+vendor_id: hp
+name: E6B67A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:e6b67a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e6b67a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gnumeric
+vendor_id: gnome
+name: Gnumeric
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnumeric:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnumeric
+  confidence: auto

@@ -1,0 +1,10 @@
+id: y5-2018
+vendor_id: huawei
+name: Y5 2018
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:y5_2018:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y5_2018
+  confidence: auto

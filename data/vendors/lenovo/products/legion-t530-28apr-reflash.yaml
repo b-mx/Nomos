@@ -1,0 +1,10 @@
+id: legion-t530-28apr-reflash
+vendor_id: lenovo
+name: Legion T530-28Apr Reflash
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_t530\-28apr_reflash:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_t530-28apr_reflash
+  confidence: auto

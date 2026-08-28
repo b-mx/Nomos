@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "cilium--cilium",
+  "vendor_id": "cilium",
+  "product_id": "cilium",
+  "name": "Cilium",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "cilium",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "cilium",
+      "confidence": "auto"
+    }
+  ]
+}

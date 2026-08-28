@@ -1,0 +1,10 @@
+id: rt-s300hi-firmware
+vendor_id: ntt-east
+name: Rt-S300Hi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ntt\-east:rt\-s300hi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-s300hi_firmware
+  confidence: auto

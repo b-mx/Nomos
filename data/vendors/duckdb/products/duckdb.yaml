@@ -1,0 +1,14 @@
+id: duckdb
+vendor_id: duckdb
+name: DuckDB
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:duckdb:duckdb:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: duckdb
+  confidence: auto
+- source: nvd
+  value: duckdb
+  confidence: auto

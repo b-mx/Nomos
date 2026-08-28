@@ -1,0 +1,10 @@
+id: product-review-rating-system
+vendor_id: remyandrade
+name: Product Review/Rating System
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:product_review\/rating_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_review/rating_system
+  confidence: auto

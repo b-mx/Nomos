@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "typo3--html-sanitizer",
+  "vendor_id": "typo3",
+  "product_id": "html-sanitizer",
+  "name": "Html Sanitizer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "html_sanitizer",
+      "confidence": "auto"
+    }
+  ]
+}

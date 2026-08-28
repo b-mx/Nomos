@@ -1,0 +1,10 @@
+id: exarqe
+vendor_id: yokogawa
+name: Exarqe
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:exarqe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exarqe
+  confidence: auto

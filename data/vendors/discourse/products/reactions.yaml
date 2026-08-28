@@ -1,0 +1,10 @@
+id: reactions
+vendor_id: discourse
+name: Reactions
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:reactions:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reactions
+  confidence: auto

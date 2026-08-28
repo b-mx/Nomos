@@ -1,0 +1,10 @@
+id: freertos
+vendor_id: amazon
+name: Freertos
+type: os
+tags: []
+cpe: cpe:2.3:o:amazon:freertos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freertos
+  confidence: auto

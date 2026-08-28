@@ -1,0 +1,10 @@
+id: aquos-zeta-sh-04f
+vendor_id: sharp
+name: Aquos Zeta Sh-04F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:aquos_zeta_sh\-04f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_zeta_sh-04f
+  confidence: auto

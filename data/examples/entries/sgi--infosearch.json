@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sgi--infosearch",
+  "vendor_id": "sgi",
+  "product_id": "infosearch",
+  "name": "Infosearch",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "infosearch",
+      "confidence": "auto"
+    }
+  ]
+}

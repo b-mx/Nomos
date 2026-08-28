@@ -1,0 +1,10 @@
+id: color-laserjet-cp5225
+vendor_id: hp
+name: Color Laserjet Cp5225
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_cp5225:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_cp5225
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vvx400
+vendor_id: polycom
+name: Vvx400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx400
+  confidence: auto

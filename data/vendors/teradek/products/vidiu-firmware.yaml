@@ -1,0 +1,10 @@
+id: vidiu-firmware
+vendor_id: teradek
+name: Vidiu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teradek:vidiu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vidiu_firmware
+  confidence: auto

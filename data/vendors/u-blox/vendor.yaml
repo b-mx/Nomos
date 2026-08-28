@@ -1,0 +1,7 @@
+id: u-blox
+name: U-Blox
+cpe: cpe:2.3:*:u\-blox:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: u-blox
+  confidence: auto

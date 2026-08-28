@@ -1,0 +1,10 @@
+id: pcd3-t666-firmware
+vendor_id: saia-burgess-controls
+name: Pcd3.T666 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:saia_burgess_controls:pcd3\.t666_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcd3.t666_firmware
+  confidence: auto

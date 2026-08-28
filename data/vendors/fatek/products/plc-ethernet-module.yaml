@@ -1,0 +1,10 @@
+id: plc-ethernet-module
+vendor_id: fatek
+name: Plc Ethernet Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fatek:plc_ethernet_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plc_ethernet_module
+  confidence: auto

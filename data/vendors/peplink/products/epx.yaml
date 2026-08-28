@@ -1,0 +1,10 @@
+id: epx
+vendor_id: peplink
+name: Epx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:epx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: amazon-ecs-container-agent
+vendor_id: amazon
+name: Amazon Ecs Container Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:amazon_ecs_container_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_ecs_container_agent
+  confidence: auto

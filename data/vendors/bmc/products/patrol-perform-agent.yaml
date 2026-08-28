@@ -1,0 +1,10 @@
+id: patrol-perform-agent
+vendor_id: bmc
+name: Patrol Perform Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:patrol_perform_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: patrol_perform_agent
+  confidence: auto

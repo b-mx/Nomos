@@ -1,0 +1,10 @@
+id: oracle-apex
+vendor_id: oracle-apex
+name: Oracle APEX
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: oracle-apex
+  confidence: auto

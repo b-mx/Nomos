@@ -1,0 +1,10 @@
+id: gx-explorer
+vendor_id: mitsubishielectric
+name: Gx Explorer
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:gx_explorer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gx_explorer
+  confidence: auto

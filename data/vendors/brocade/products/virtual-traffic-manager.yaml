@@ -1,0 +1,10 @@
+id: virtual-traffic-manager
+vendor_id: brocade
+name: Virtual Traffic Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:brocade:virtual_traffic_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_traffic_manager
+  confidence: auto

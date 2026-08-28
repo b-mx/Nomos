@@ -1,0 +1,10 @@
+id: zenworks-asset-management
+vendor_id: novell
+name: Zenworks Asset Management
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:zenworks_asset_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenworks_asset_management
+  confidence: auto

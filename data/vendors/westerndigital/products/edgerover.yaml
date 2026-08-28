@@ -1,0 +1,10 @@
+id: edgerover
+vendor_id: westerndigital
+name: Edgerover
+type: software
+tags: []
+cpe: cpe:2.3:a:westerndigital:edgerover:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgerover
+  confidence: auto

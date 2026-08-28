@@ -1,0 +1,10 @@
+id: wi-fi-station-l-02f-firmware
+vendor_id: nttdocomo
+name: Wi-Fi Station L-02F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nttdocomo:wi\-fi_station_l\-02f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wi-fi_station_l-02f_firmware
+  confidence: auto

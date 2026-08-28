@@ -1,0 +1,10 @@
+id: arp600a2200na
+vendor_id: abb
+name: Arp600A2200Na
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:arp600a2200na:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arp600a2200na
+  confidence: auto

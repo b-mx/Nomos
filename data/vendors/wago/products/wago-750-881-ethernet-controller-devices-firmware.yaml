@@ -1,0 +1,10 @@
+id: wago-750-881-ethernet-controller-devices-firmware
+vendor_id: wago
+name: Wago 750-881 Ethernet Controller Devices Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:wago_750\-881_ethernet_controller_devices_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wago_750-881_ethernet_controller_devices_firmware
+  confidence: auto

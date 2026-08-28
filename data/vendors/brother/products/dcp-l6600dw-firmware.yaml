@@ -1,0 +1,10 @@
+id: dcp-l6600dw-firmware
+vendor_id: brother
+name: Dcp-L6600Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp\-l6600dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-l6600dw_firmware
+  confidence: auto

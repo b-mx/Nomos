@@ -1,0 +1,10 @@
+id: x12stn-c-firmware
+vendor_id: supermicro
+name: X12Stn-C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x12stn\-c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12stn-c_firmware
+  confidence: auto

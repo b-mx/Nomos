@@ -1,0 +1,10 @@
+id: pra-es8p2s
+vendor_id: bosch
+name: Pra-Es8P2S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:pra\-es8p2s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pra-es8p2s
+  confidence: auto

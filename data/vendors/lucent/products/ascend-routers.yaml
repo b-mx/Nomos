@@ -1,0 +1,10 @@
+id: ascend-routers
+vendor_id: lucent
+name: Ascend Routers
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lucent:ascend_routers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ascend_routers
+  confidence: auto

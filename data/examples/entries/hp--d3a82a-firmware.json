@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--d3a82a-firmware",
+  "vendor_id": "hp",
+  "product_id": "d3a82a-firmware",
+  "name": "D3A82A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "d3a82a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

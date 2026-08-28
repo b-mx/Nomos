@@ -1,0 +1,7 @@
+id: yamaha
+name: Yamaha
+cpe: cpe:2.3:*:yamaha:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yamaha
+  confidence: auto

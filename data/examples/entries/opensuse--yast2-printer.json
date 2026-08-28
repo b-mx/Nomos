@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--yast2-printer",
+  "vendor_id": "opensuse",
+  "product_id": "yast2-printer",
+  "name": "Yast2-Printer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "yast2-printer",
+      "confidence": "auto"
+    }
+  ]
+}

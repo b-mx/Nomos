@@ -1,0 +1,10 @@
+id: laserjet-pro-m226-cf484a-firmware
+vendor_id: hp
+name: Laserjet Pro M226 Cf484A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m226_cf484a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m226_cf484a_firmware
+  confidence: auto

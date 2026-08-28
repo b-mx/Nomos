@@ -1,0 +1,10 @@
+id: upload-file
+vendor_id: easydigitaldownloads
+name: Upload File
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:upload_file:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: upload_file
+  confidence: auto

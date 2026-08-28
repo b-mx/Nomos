@@ -1,0 +1,10 @@
+id: video-application-server
+vendor_id: palantir
+name: Video-Application-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:video\-application\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video-application-server
+  confidence: auto

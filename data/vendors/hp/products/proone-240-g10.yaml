@@ -1,0 +1,10 @@
+id: proone-240-g10
+vendor_id: hp
+name: Proone 240 G10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proone_240_g10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_240_g10
+  confidence: auto

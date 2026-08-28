@@ -1,0 +1,10 @@
+id: jewels-diamonds
+vendor_id: playscape
+name: Jewels & Diamonds
+type: software
+tags: []
+cpe: cpe:2.3:a:playscape:jewels_\&_diamonds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jewels_&_diamonds
+  confidence: auto

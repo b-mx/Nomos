@@ -1,0 +1,10 @@
+id: network-configurator
+vendor_id: omron
+name: Network Configurator
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:network_configurator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_configurator
+  confidence: auto

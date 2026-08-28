@@ -1,0 +1,10 @@
+id: egit
+vendor_id: eclipse
+name: Egit
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:egit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: egit
+  confidence: auto

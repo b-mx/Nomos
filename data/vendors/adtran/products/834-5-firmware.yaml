@@ -1,0 +1,10 @@
+id: 834-5-firmware
+vendor_id: adtran
+name: 834-5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:adtran:834\-5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 834-5_firmware
+  confidence: auto

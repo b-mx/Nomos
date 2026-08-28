@@ -1,0 +1,7 @@
+id: milesight
+name: Milesight
+cpe: cpe:2.3:*:milesight:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: milesight
+  confidence: auto

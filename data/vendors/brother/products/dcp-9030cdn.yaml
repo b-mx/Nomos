@@ -1,0 +1,10 @@
+id: dcp-9030cdn
+vendor_id: brother
+name: Dcp-9030Cdn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-9030cdn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-9030cdn
+  confidence: auto

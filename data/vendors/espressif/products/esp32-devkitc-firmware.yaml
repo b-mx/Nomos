@@ -1,0 +1,10 @@
+id: esp32-devkitc-firmware
+vendor_id: espressif
+name: Esp32-Devkitc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:espressif:esp32\-devkitc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32-devkitc_firmware
+  confidence: auto

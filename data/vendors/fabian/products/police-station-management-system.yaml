@@ -1,0 +1,10 @@
+id: police-station-management-system
+vendor_id: fabian
+name: Police Station Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:police_station_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: police_station_management_system
+  confidence: auto

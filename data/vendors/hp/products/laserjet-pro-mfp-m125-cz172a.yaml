@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m125-cz172a
+vendor_id: hp
+name: Laserjet Pro Mfp M125 Cz172A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_mfp_m125_cz172a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m125_cz172a
+  confidence: auto

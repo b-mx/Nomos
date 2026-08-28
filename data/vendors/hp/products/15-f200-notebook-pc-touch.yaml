@@ -1,0 +1,10 @@
+id: 15-f200-notebook-pc-touch
+vendor_id: hp
+name: 15-F200 Notebook Pc Touch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:15\-f200_notebook_pc_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 15-f200_notebook_pc_touch
+  confidence: auto

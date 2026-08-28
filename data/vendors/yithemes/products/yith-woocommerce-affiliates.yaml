@@ -1,0 +1,10 @@
+id: yith-woocommerce-affiliates
+vendor_id: yithemes
+name: Yith Woocommerce Affiliates
+type: software
+tags: []
+cpe: cpe:2.3:a:yithemes:yith_woocommerce_affiliates:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yith_woocommerce_affiliates
+  confidence: auto

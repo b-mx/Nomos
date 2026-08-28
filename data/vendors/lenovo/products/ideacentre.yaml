@@ -1,0 +1,10 @@
+id: ideacentre
+vendor_id: lenovo
+name: Ideacentre
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre
+  confidence: auto

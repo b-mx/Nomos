@@ -1,0 +1,10 @@
+id: monitor-and-reporting-database
+vendor_id: mobileiron
+name: Monitor And Reporting Database
+type: software
+tags: []
+cpe: cpe:2.3:a:mobileiron:monitor_and_reporting_database:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: monitor_and_reporting_database
+  confidence: auto

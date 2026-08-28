@@ -1,0 +1,10 @@
+id: system-management-unit
+vendor_id: hitachi
+name: System Management Unit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachi:system_management_unit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_management_unit
+  confidence: auto

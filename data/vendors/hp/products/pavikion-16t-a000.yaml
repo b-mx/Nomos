@@ -1,0 +1,10 @@
+id: pavikion-16t-a000
+vendor_id: hp
+name: Pavikion 16T-A000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavikion_16t\-a000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavikion_16t-a000
+  confidence: auto

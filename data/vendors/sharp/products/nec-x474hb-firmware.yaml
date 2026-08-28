@@ -1,0 +1,10 @@
+id: nec-x474hb-firmware
+vendor_id: sharp
+name: Nec X474Hb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:nec_x474hb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_x474hb_firmware
+  confidence: auto

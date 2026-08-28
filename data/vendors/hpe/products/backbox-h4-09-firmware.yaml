@@ -1,0 +1,10 @@
+id: backbox-h4-09-firmware
+vendor_id: hpe
+name: Backbox H4.09 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:backbox_h4\.09_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backbox_h4.09_firmware
+  confidence: auto

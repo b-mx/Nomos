@@ -1,0 +1,10 @@
+id: security-cloud
+vendor_id: f-secure
+name: Security Cloud
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:security_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: security_cloud
+  confidence: auto

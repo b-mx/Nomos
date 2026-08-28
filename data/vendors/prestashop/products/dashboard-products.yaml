@@ -1,0 +1,10 @@
+id: dashboard-products
+vendor_id: prestashop
+name: Dashboard Products
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:dashboard_products:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dashboard_products
+  confidence: auto

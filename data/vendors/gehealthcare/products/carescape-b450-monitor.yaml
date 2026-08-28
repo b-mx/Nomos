@@ -1,0 +1,10 @@
+id: carescape-b450-monitor
+vendor_id: gehealthcare
+name: Carescape B450 Monitor
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:carescape_b450_monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carescape_b450_monitor
+  confidence: auto

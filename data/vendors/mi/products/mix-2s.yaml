@@ -1,0 +1,10 @@
+id: mix-2s
+vendor_id: mi
+name: Mix 2S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:mix_2s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mix_2s
+  confidence: auto

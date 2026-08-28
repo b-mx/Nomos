@@ -1,0 +1,10 @@
+id: online-art-gallery
+vendor_id: projectworlds
+name: Online Art Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:projectworlds:online_art_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_art_gallery
+  confidence: auto

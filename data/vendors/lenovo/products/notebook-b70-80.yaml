@@ -1,0 +1,10 @@
+id: notebook-b70-80
+vendor_id: lenovo
+name: Notebook B70 80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:notebook_b70_80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_b70_80
+  confidence: auto

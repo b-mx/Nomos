@@ -1,0 +1,14 @@
+id: svelte
+vendor_id: svelte
+name: Svelte
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:svelte:svelte:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: svelte
+  confidence: auto
+- source: nvd
+  value: svelte
+  confidence: auto

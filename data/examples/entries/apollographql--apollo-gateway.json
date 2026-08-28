@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apollographql--apollo-gateway",
+  "vendor_id": "apollographql",
+  "product_id": "apollo-gateway",
+  "name": "Apollo Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apollo_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

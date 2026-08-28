@@ -1,0 +1,10 @@
+id: openstage-80
+vendor_id: atos
+name: Openstage 80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:atos:openstage_80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstage_80
+  confidence: auto

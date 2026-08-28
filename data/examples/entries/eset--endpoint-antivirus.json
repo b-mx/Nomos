@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eset--endpoint-antivirus",
+  "vendor_id": "eset",
+  "product_id": "endpoint-antivirus",
+  "name": "Endpoint Antivirus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "endpoint_antivirus",
+      "confidence": "auto"
+    }
+  ]
+}

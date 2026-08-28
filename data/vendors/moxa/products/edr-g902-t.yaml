@@ -1,0 +1,10 @@
+id: edr-g902-t
+vendor_id: moxa
+name: Edr-G902-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:edr\-g902\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edr-g902-t
+  confidence: auto

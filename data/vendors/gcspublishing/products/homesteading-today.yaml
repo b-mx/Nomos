@@ -1,0 +1,10 @@
+id: homesteading-today
+vendor_id: gcspublishing
+name: Homesteading Today
+type: software
+tags: []
+cpe: cpe:2.3:a:gcspublishing:homesteading_today:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: homesteading_today
+  confidence: auto

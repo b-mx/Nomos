@@ -1,0 +1,10 @@
+id: v530-22icb-all-in-one-firmware
+vendor_id: lenovo
+name: V530-22Icb All-In-One Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v530\-22icb_all\-in\-one_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v530-22icb_all-in-one_firmware
+  confidence: auto

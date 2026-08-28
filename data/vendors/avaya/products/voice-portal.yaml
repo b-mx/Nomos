@@ -1,0 +1,10 @@
+id: voice-portal
+vendor_id: avaya
+name: Voice Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:voice_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: voice_portal
+  confidence: auto

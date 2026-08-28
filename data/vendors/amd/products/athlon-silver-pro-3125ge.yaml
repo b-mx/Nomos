@@ -1,0 +1,10 @@
+id: athlon-silver-pro-3125ge
+vendor_id: amd
+name: Athlon Silver Pro 3125Ge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_silver_pro_3125ge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_silver_pro_3125ge
+  confidence: auto

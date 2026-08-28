@@ -1,0 +1,10 @@
+id: coldfusion
+vendor_id: macromedia
+name: Coldfusion
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:coldfusion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coldfusion
+  confidence: auto

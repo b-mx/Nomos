@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hughes--hx200-firmware",
+  "vendor_id": "hughes",
+  "product_id": "hx200-firmware",
+  "name": "Hx200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hx200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

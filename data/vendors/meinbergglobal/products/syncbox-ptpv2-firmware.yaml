@@ -1,0 +1,10 @@
+id: syncbox-ptpv2-firmware
+vendor_id: meinbergglobal
+name: Syncbox/Ptpv2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meinbergglobal:syncbox\/ptpv2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: syncbox/ptpv2_firmware
+  confidence: auto

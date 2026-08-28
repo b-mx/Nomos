@@ -1,0 +1,10 @@
+id: pyxis-medbank
+vendor_id: bd
+name: Pyxis Medbank
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_medbank:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_medbank
+  confidence: auto

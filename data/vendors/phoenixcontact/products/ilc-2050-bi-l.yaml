@@ -1,0 +1,10 @@
+id: ilc-2050-bi-l
+vendor_id: phoenixcontact
+name: Ilc 2050 Bi-L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:ilc_2050_bi\-l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilc_2050_bi-l
+  confidence: auto

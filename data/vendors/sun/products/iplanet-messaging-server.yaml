@@ -1,0 +1,10 @@
+id: iplanet-messaging-server
+vendor_id: sun
+name: Iplanet Messaging Server
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:iplanet_messaging_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iplanet_messaging_server
+  confidence: auto

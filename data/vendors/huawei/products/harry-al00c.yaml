@@ -1,0 +1,10 @@
+id: harry-al00c
+vendor_id: huawei
+name: Harry-Al00C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:harry\-al00c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: harry-al00c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: p574-firmware
+vendor_id: marel
+name: P574 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:p574_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p574_firmware
+  confidence: auto

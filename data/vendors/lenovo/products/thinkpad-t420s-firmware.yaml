@@ -1,0 +1,10 @@
+id: thinkpad-t420s-firmware
+vendor_id: lenovo
+name: Thinkpad T420S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_t420s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t420s_firmware
+  confidence: auto

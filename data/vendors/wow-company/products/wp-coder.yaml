@@ -1,0 +1,10 @@
+id: wp-coder
+vendor_id: wow-company
+name: Wp Coder
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:wp_coder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_coder
+  confidence: auto

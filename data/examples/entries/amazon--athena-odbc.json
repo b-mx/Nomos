@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--athena-odbc",
+  "vendor_id": "amazon",
+  "product_id": "athena-odbc",
+  "name": "Athena Odbc",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "athena_odbc",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: visual-editor
+vendor_id: mediawiki
+name: Visual Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:visual_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visual_editor
+  confidence: auto

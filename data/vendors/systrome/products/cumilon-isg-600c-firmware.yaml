@@ -1,0 +1,10 @@
+id: cumilon-isg-600c-firmware
+vendor_id: systrome
+name: Cumilon Isg-600C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:systrome:cumilon_isg\-600c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cumilon_isg-600c_firmware
+  confidence: auto

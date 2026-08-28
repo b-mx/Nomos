@@ -1,0 +1,10 @@
+id: ds-audio
+vendor_id: synology
+name: Ds Audio
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:ds_audio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds_audio
+  confidence: auto

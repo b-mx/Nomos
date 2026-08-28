@@ -1,0 +1,10 @@
+id: sitesentinel-integra-500
+vendor_id: opwglobal
+name: Sitesentinel Integra 500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:opwglobal:sitesentinel_integra_500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sitesentinel_integra_500
+  confidence: auto

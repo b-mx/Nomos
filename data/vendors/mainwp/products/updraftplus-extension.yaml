@@ -1,0 +1,10 @@
+id: updraftplus-extension
+vendor_id: mainwp
+name: Updraftplus Extension
+type: software
+tags: []
+cpe: cpe:2.3:a:mainwp:updraftplus_extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: updraftplus_extension
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wxr-6000ax12b-firmware
+vendor_id: buffalo
+name: Wxr-6000Ax12B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wxr\-6000ax12b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wxr-6000ax12b_firmware
+  confidence: auto

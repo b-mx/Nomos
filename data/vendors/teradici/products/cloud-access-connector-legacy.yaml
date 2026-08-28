@@ -1,0 +1,10 @@
+id: cloud-access-connector-legacy
+vendor_id: teradici
+name: Cloud Access Connector Legacy
+type: software
+tags: []
+cpe: cpe:2.3:a:teradici:cloud_access_connector_legacy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_access_connector_legacy
+  confidence: auto

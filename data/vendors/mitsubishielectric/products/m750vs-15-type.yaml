@@ -1,0 +1,10 @@
+id: m750vs-15-type
+vendor_id: mitsubishielectric
+name: M750Vs 15-Type
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:m750vs_15\-type:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m750vs_15-type
+  confidence: auto

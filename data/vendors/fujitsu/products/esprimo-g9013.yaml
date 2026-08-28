@@ -1,0 +1,10 @@
+id: esprimo-g9013
+vendor_id: fujitsu
+name: Esprimo G9013
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:esprimo_g9013:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esprimo_g9013
+  confidence: auto

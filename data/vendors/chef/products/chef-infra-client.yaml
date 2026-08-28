@@ -1,0 +1,13 @@
+id: chef-infra-client
+vendor_id: chef
+name: Chef Infra Client
+type: software
+tags: []
+cpe: cpe:2.3:a:chef:chef:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: chef-infra-client
+  confidence: auto
+- source: nvd
+  value: chef
+  confidence: auto

@@ -1,0 +1,10 @@
+id: apptainer
+vendor_id: lfprojects
+name: Apptainer
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:apptainer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apptainer
+  confidence: auto

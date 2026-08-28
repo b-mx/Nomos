@@ -1,0 +1,13 @@
+id: greenlight
+vendor_id: bigbluebutton
+name: Greenlight
+type: software
+tags: []
+cpe: cpe:2.3:a:bigbluebutton:greenlight:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: greenlight
+  confidence: auto
+- source: nvd
+  value: greenlight
+  confidence: auto

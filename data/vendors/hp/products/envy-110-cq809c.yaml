@@ -1,0 +1,10 @@
+id: envy-110-cq809c
+vendor_id: hp
+name: Envy 110 Cq809C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_110_cq809c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_110_cq809c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dcp-1618w-firmware
+vendor_id: brother
+name: Dcp-1618W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp\-1618w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-1618w_firmware
+  confidence: auto

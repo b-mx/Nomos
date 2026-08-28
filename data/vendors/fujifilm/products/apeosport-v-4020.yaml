@@ -1,0 +1,10 @@
+id: apeosport-v-4020
+vendor_id: fujifilm
+name: Apeosport-V 4020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeosport\-v_4020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport-v_4020
+  confidence: auto

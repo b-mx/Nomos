@@ -1,0 +1,10 @@
+id: clcon-10-firmware
+vendor_id: sma
+name: Clcon-10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sma:clcon\-10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clcon-10_firmware
+  confidence: auto

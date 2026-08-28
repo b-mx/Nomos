@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--mx-aopc-server",
+  "vendor_id": "moxa",
+  "product_id": "mx-aopc-server",
+  "name": "Mx-Aopc Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mx-aopc_server",
+      "confidence": "auto"
+    }
+  ]
+}

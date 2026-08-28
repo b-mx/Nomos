@@ -1,0 +1,10 @@
+id: sd9
+vendor_id: ge
+name: Sd9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:sd9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd9
+  confidence: auto

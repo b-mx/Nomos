@@ -1,0 +1,10 @@
+id: eos-d-rebel-t5i-firmware
+vendor_id: canon
+name: Eos D Rebel T5I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:eos_d_rebel_t5i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_d_rebel_t5i_firmware
+  confidence: auto

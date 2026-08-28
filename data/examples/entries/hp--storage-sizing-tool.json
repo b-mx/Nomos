@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--storage-sizing-tool",
+  "vendor_id": "hp",
+  "product_id": "storage-sizing-tool",
+  "name": "Storage Sizing Tool",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storage_sizing_tool",
+      "confidence": "auto"
+    }
+  ]
+}

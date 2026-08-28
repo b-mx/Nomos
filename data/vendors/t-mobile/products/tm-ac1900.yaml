@@ -1,0 +1,10 @@
+id: tm-ac1900
+vendor_id: t-mobile
+name: Tm-Ac1900
+type: os
+tags: []
+cpe: cpe:2.3:o:t\-mobile:tm\-ac1900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-ac1900
+  confidence: auto

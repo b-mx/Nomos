@@ -1,0 +1,10 @@
+id: tallyui-connector-woocommerce
+vendor_id: kilbot
+name: Tallyui/Connector-Woocommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:kilbot:tallyui\/connector\-woocommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tallyui/connector-woocommerce
+  confidence: auto

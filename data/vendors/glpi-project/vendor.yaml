@@ -1,0 +1,7 @@
+id: glpi-project
+name: Glpi-Project
+cpe: cpe:2.3:*:glpi\-project:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: glpi-project
+  confidence: auto

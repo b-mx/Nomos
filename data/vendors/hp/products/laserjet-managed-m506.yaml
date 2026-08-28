@@ -1,0 +1,10 @@
+id: laserjet-managed-m506
+vendor_id: hp
+name: Laserjet Managed M506
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_m506:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_m506
+  confidence: auto

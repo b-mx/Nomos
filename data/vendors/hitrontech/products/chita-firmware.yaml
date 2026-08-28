@@ -1,0 +1,10 @@
+id: chita-firmware
+vendor_id: hitrontech
+name: Chita Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitrontech:chita_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chita_firmware
+  confidence: auto

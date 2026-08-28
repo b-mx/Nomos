@@ -1,0 +1,10 @@
+id: laserjet-pro-m404-m405-93m22a-firmware
+vendor_id: hp
+name: Laserjet Pro M404-M405 93M22A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m404\-m405_93m22a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m404-m405_93m22a_firmware
+  confidence: auto

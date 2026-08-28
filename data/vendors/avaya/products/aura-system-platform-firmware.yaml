@@ -1,0 +1,10 @@
+id: aura-system-platform-firmware
+vendor_id: avaya
+name: Aura System Platform Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:avaya:aura_system_platform_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_system_platform_firmware
+  confidence: auto

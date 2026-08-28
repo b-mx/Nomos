@@ -1,0 +1,10 @@
+id: t3u64a
+vendor_id: hp
+name: T3U64A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:t3u64a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t3u64a
+  confidence: auto

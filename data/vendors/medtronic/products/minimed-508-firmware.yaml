@@ -1,0 +1,10 @@
+id: minimed-508-firmware
+vendor_id: medtronic
+name: Minimed 508 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:minimed_508_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_508_firmware
+  confidence: auto

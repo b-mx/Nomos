@@ -1,0 +1,7 @@
+id: htc
+name: Htc
+cpe: cpe:2.3:*:htc:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: htc
+  confidence: auto

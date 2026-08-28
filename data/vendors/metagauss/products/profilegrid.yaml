@@ -1,0 +1,10 @@
+id: profilegrid
+vendor_id: metagauss
+name: Profilegrid
+type: software
+tags: []
+cpe: cpe:2.3:a:metagauss:profilegrid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: profilegrid
+  confidence: auto

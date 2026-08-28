@@ -1,0 +1,10 @@
+id: er200-firmware
+vendor_id: easyrobotics
+name: Er200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:easyrobotics:er200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er200_firmware
+  confidence: auto

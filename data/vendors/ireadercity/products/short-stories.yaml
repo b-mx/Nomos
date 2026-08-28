@@ -1,0 +1,10 @@
+id: short-stories
+vendor_id: ireadercity
+name: Short Stories
+type: software
+tags: []
+cpe: cpe:2.3:a:ireadercity:short_stories:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: short_stories
+  confidence: auto

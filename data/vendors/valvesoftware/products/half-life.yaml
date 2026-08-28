@@ -1,0 +1,10 @@
+id: half-life
+vendor_id: valvesoftware
+name: Half-Life
+type: software
+tags: []
+cpe: cpe:2.3:a:valvesoftware:half\-life:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: half-life
+  confidence: auto

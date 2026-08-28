@@ -1,0 +1,10 @@
+id: service-manager-server
+vendor_id: hp
+name: Service Manager Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:service_manager_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_manager_server
+  confidence: auto

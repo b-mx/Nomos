@@ -1,0 +1,10 @@
+id: liob-586-firmware
+vendor_id: loytec
+name: Liob-586 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:loytec:liob\-586_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: liob-586_firmware
+  confidence: auto

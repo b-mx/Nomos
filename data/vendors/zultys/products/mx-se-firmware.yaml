@@ -1,0 +1,10 @@
+id: mx-se-firmware
+vendor_id: zultys
+name: Mx-Se Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zultys:mx\-se_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-se_firmware
+  confidence: auto

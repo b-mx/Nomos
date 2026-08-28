@@ -1,0 +1,10 @@
+id: 260-g3-desktop-mini-pc
+vendor_id: hp
+name: 260 G3 Desktop Mini Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:260_g3_desktop_mini_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 260_g3_desktop_mini_pc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: document-embedder
+vendor_id: bplugins
+name: Document Embedder
+type: software
+tags: []
+cpe: cpe:2.3:a:bplugins:document_embedder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: document_embedder
+  confidence: auto

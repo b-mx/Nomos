@@ -1,0 +1,10 @@
+id: pb610
+vendor_id: abb
+name: Pb610
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pb610:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pb610
+  confidence: auto

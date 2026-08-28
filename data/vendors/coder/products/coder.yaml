@@ -1,0 +1,13 @@
+id: coder
+vendor_id: coder
+name: Coder
+type: software
+tags: []
+cpe: cpe:2.3:a:coder:coder:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: coder
+  confidence: auto
+- source: nvd
+  value: coder
+  confidence: auto

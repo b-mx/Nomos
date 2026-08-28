@@ -1,0 +1,10 @@
+id: yale-keyless-smart-lock-firmware
+vendor_id: assaabloy
+name: Yale Keyless Smart Lock Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:assaabloy:yale_keyless_smart_lock_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale_keyless_smart_lock_firmware
+  confidence: auto

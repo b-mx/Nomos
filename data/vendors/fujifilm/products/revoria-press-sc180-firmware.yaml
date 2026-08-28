@@ -1,0 +1,10 @@
+id: revoria-press-sc180-firmware
+vendor_id: fujifilm
+name: Revoria Press Sc180 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:revoria_press_sc180_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revoria_press_sc180_firmware
+  confidence: auto

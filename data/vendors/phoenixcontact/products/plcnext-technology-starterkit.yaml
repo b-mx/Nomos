@@ -1,0 +1,10 @@
+id: plcnext-technology-starterkit
+vendor_id: phoenixcontact
+name: Plcnext Technology Starterkit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:plcnext_technology_starterkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plcnext_technology_starterkit
+  confidence: auto

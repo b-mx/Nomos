@@ -1,0 +1,10 @@
+id: woocommerce-pre-orders
+vendor_id: woocommerce
+name: Woocommerce Pre-Orders
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:woocommerce_pre\-orders:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_pre-orders
+  confidence: auto

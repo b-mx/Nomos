@@ -1,0 +1,10 @@
+id: openscape-voice
+vendor_id: unify
+name: Openscape Voice
+type: software
+tags: []
+cpe: cpe:2.3:a:unify:openscape_voice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openscape_voice
+  confidence: auto

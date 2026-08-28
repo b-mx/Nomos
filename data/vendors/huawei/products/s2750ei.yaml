@@ -1,0 +1,10 @@
+id: s2750ei
+vendor_id: huawei
+name: S2750Ei
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s2750ei:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s2750ei
+  confidence: auto

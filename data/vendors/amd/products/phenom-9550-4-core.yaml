@@ -1,0 +1,10 @@
+id: phenom-9550-4-core
+vendor_id: amd
+name: Phenom 9550 4-Core
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:phenom_9550_4\-core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phenom_9550_4-core
+  confidence: auto

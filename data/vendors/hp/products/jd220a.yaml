@@ -1,0 +1,10 @@
+id: jd220a
+vendor_id: hp
+name: Jd220A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd220a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd220a
+  confidence: auto

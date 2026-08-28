@@ -1,0 +1,10 @@
+id: qr-code-login-system
+vendor_id: rems
+name: Qr Code Login System
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:qr_code_login_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qr_code_login_system
+  confidence: auto

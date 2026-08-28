@@ -1,0 +1,10 @@
+id: switch-box-utility
+vendor_id: omron
+name: Switch Box Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:switch_box_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: switch_box_utility
+  confidence: auto

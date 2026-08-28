@@ -1,0 +1,10 @@
+id: np-p452h-firmware
+vendor_id: sharp
+name: Np-P452H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:np\-p452h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: np-p452h_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: oseon
+vendor_id: trumpf
+name: Oseon
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:oseon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oseon
+  confidence: auto

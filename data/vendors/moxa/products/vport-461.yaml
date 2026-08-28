@@ -1,0 +1,10 @@
+id: vport-461
+vendor_id: moxa
+name: Vport 461
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:vport_461:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vport_461
+  confidence: auto

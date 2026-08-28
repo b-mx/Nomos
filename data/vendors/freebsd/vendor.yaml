@@ -1,0 +1,7 @@
+id: freebsd
+name: Freebsd
+cpe: cpe:2.3:*:freebsd:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freebsd
+  confidence: auto

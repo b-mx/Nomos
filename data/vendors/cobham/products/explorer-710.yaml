@@ -1,0 +1,10 @@
+id: explorer-710
+vendor_id: cobham
+name: Explorer 710
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cobham:explorer_710:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: explorer_710
+  confidence: auto

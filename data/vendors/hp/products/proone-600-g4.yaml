@@ -1,0 +1,10 @@
+id: proone-600-g4
+vendor_id: hp
+name: Proone 600 G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proone_600_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_600_g4
+  confidence: auto

@@ -1,0 +1,10 @@
+id: multihash
+vendor_id: protocol
+name: Multihash
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:multihash:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multihash
+  confidence: auto

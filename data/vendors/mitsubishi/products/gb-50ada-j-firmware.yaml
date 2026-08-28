@@ -1,0 +1,10 @@
+id: gb-50ada-j-firmware
+vendor_id: mitsubishi
+name: Gb-50Ada-J Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishi:gb\-50ada\-j_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gb-50ada-j_firmware
+  confidence: auto

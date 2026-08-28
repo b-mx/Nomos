@@ -1,0 +1,10 @@
+id: bouncy-castle-for-java
+vendor_id: bouncycastle
+name: Bouncy Castle For Java
+type: software
+tags: []
+cpe: cpe:2.3:a:bouncycastle:bouncy_castle_for_java:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bouncy_castle_for_java
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "johnsoncontrols--f4-snc-firmware",
+  "vendor_id": "johnsoncontrols",
+  "product_id": "f4-snc-firmware",
+  "name": "F4-Snc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "f4-snc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

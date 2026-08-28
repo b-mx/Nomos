@@ -1,0 +1,10 @@
+id: got2000-gt2507t-wtsd-firmware
+vendor_id: mitsubishielectric
+name: Got2000 Gt2507T-Wtsd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:got2000_gt2507t\-wtsd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: got2000_gt2507t-wtsd_firmware
+  confidence: auto

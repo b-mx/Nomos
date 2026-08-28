@@ -1,0 +1,10 @@
+id: xarm-5-lite
+vendor_id: ufactory
+name: Xarm 5 Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ufactory:xarm_5_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xarm_5_lite
+  confidence: auto

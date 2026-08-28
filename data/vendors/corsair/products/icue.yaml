@@ -1,0 +1,10 @@
+id: icue
+vendor_id: corsair
+name: Icue
+type: software
+tags: []
+cpe: cpe:2.3:a:corsair:icue:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icue
+  confidence: auto

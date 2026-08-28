@@ -1,0 +1,10 @@
+id: tbox-ms-cpu32-firmware
+vendor_id: ovarro
+name: Tbox Ms-Cpu32 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ovarro:tbox_ms\-cpu32_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tbox_ms-cpu32_firmware
+  confidence: auto

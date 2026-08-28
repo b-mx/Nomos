@@ -1,0 +1,10 @@
+id: spectre-pro-x360-g2-convertible-pc
+vendor_id: hp
+name: Spectre Pro X360 G2 Convertible Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_pro_x360_g2_convertible_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_pro_x360_g2_convertible_pc
+  confidence: auto

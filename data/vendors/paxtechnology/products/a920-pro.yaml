@@ -1,0 +1,10 @@
+id: a920-pro
+vendor_id: paxtechnology
+name: A920 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:paxtechnology:a920_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a920_pro
+  confidence: auto

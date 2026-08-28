@@ -1,0 +1,10 @@
+id: open-xchange-documents
+vendor_id: open-xchange
+name: Open-Xchange Documents
+type: software
+tags: []
+cpe: cpe:2.3:a:open\-xchange:open\-xchange_documents:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open-xchange_documents
+  confidence: auto

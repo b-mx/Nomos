@@ -1,0 +1,9 @@
+id: veeam-backup-and-replication
+vendor_id: veeam-backup-and-replication
+name: Veeam Backup & Replication
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: veeam-backup-and-replication
+  confidence: auto

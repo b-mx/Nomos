@@ -1,0 +1,10 @@
+id: oppo-a74-5g
+vendor_id: oppo
+name: Oppo A74 5G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_a74_5g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_a74_5g
+  confidence: auto

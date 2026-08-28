@@ -1,0 +1,10 @@
+id: bizhub-c754e
+vendor_id: konicaminolta
+name: Bizhub C754E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_c754e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c754e
+  confidence: auto

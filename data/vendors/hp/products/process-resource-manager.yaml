@@ -1,0 +1,10 @@
+id: process-resource-manager
+vendor_id: hp
+name: Process Resource Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:process_resource_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: process_resource_manager
+  confidence: auto

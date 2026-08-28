@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--x464-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "x464-firmware",
+  "name": "X464 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x464_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

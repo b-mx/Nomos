@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "aliasrobotics--mir200",
+  "vendor_id": "aliasrobotics",
+  "product_id": "mir200",
+  "name": "Mir200",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mir200",
+      "confidence": "auto"
+    }
+  ]
+}

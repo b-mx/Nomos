@@ -1,0 +1,10 @@
+id: web-agents
+vendor_id: ca
+name: Web Agents
+type: software
+tags: []
+cpe: cpe:2.3:a:ca:web_agents:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_agents
+  confidence: auto

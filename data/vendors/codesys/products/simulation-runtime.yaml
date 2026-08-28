@@ -1,0 +1,10 @@
+id: simulation-runtime
+vendor_id: codesys
+name: Simulation Runtime
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:simulation_runtime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simulation_runtime
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bsdmainutils
+vendor_id: debian
+name: Bsdmainutils
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:bsdmainutils:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bsdmainutils
+  confidence: auto

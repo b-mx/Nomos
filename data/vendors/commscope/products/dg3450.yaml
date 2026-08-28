@@ -1,0 +1,10 @@
+id: dg3450
+vendor_id: commscope
+name: Dg3450
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:dg3450:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dg3450
+  confidence: auto

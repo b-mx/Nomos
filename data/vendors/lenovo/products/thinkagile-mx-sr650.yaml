@@ -1,0 +1,10 @@
+id: thinkagile-mx-sr650
+vendor_id: lenovo
+name: Thinkagile Mx Sr650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_mx_sr650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_mx_sr650
+  confidence: auto

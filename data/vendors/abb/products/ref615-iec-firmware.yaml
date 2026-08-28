@@ -1,0 +1,10 @@
+id: ref615-iec-firmware
+vendor_id: abb
+name: Ref615 Iec Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:ref615_iec_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ref615_iec_firmware
+  confidence: auto

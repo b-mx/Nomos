@@ -1,0 +1,10 @@
+id: compactlogix-5370-l1
+vendor_id: rockwellautomation
+name: Compactlogix 5370 L1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:compactlogix_5370_l1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactlogix_5370_l1
+  confidence: auto

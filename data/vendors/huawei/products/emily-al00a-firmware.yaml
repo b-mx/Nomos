@@ -1,0 +1,10 @@
+id: emily-al00a-firmware
+vendor_id: huawei
+name: Emily-Al00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:emily\-al00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emily-al00a_firmware
+  confidence: auto

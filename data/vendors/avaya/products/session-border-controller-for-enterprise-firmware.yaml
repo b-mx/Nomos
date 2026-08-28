@@ -1,0 +1,10 @@
+id: session-border-controller-for-enterprise-firmware
+vendor_id: avaya
+name: Session Border Controller For Enterprise Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:avaya:session_border_controller_for_enterprise_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: session_border_controller_for_enterprise_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gr-5400ax
+vendor_id: h3c
+name: Gr-5400Ax
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:gr\-5400ax:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gr-5400ax
+  confidence: auto

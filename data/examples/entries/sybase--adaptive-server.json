@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sybase--adaptive-server",
+  "vendor_id": "sybase",
+  "product_id": "adaptive-server",
+  "name": "Adaptive Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "adaptive_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hcltech--bigfix-patch-management",
+  "vendor_id": "hcltech",
+  "product_id": "bigfix-patch-management",
+  "name": "Bigfix Patch Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bigfix_patch_management",
+      "confidence": "auto"
+    }
+  ]
+}

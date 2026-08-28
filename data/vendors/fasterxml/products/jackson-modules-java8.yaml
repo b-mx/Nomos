@@ -1,0 +1,10 @@
+id: jackson-modules-java8
+vendor_id: fasterxml
+name: Jackson-Modules-Java8
+type: software
+tags: []
+cpe: cpe:2.3:a:fasterxml:jackson\-modules\-java8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jackson-modules-java8
+  confidence: auto

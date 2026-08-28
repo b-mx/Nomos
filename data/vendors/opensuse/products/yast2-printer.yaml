@@ -1,0 +1,10 @@
+id: yast2-printer
+vendor_id: opensuse
+name: Yast2-Printer
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:yast2\-printer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yast2-printer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ba12-n
+vendor_id: smtav
+name: Ba12-N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:smtav:ba12\-n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ba12-n
+  confidence: auto

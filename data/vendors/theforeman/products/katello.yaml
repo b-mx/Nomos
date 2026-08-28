@@ -1,0 +1,10 @@
+id: katello
+vendor_id: theforeman
+name: Katello
+type: software
+tags: []
+cpe: cpe:2.3:a:theforeman:katello:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: katello
+  confidence: auto

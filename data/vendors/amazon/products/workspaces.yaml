@@ -1,0 +1,10 @@
+id: workspaces
+vendor_id: amazon
+name: Workspaces
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:workspaces:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workspaces
+  confidence: auto

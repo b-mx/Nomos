@@ -1,0 +1,10 @@
+id: starter-templates
+vendor_id: brainstormforce
+name: Starter Templates
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:starter_templates:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: starter_templates
+  confidence: auto

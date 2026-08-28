@@ -1,0 +1,10 @@
+id: versana-essential
+vendor_id: ge
+name: Versana Essential
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:versana_essential:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: versana_essential
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rv-12sdl-firmware
+vendor_id: mitsubishielectric
+name: Rv-12Sdl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rv\-12sdl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-12sdl_firmware
+  confidence: auto

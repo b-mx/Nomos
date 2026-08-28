@@ -1,0 +1,10 @@
+id: cpp-ethereum
+vendor_id: ethereum
+name: Cpp-Ethereum
+type: software
+tags: []
+cpe: cpe:2.3:a:ethereum:cpp\-ethereum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpp-ethereum
+  confidence: auto

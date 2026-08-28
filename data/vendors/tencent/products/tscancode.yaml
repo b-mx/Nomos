@@ -1,0 +1,10 @@
+id: tscancode
+vendor_id: tencent
+name: Tscancode
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:tscancode:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tscancode
+  confidence: auto

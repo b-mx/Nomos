@@ -1,0 +1,10 @@
+id: a2004ns-r
+vendor_id: iptime
+name: A2004Ns-R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a2004ns\-r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a2004ns-r
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 522-paradigm-real-time-firmware
+vendor_id: medtronicdiabetes
+name: 522 Paradigm Real-Time Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronicdiabetes:522_paradigm_real\-time_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 522_paradigm_real-time_firmware
+  confidence: auto

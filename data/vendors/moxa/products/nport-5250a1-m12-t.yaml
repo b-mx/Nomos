@@ -1,0 +1,10 @@
+id: nport-5250a1-m12-t
+vendor_id: moxa
+name: Nport 5250A1-M12-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_5250a1\-m12\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5250a1-m12-t
+  confidence: auto

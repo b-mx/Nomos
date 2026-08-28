@@ -1,0 +1,10 @@
+id: moscad-ip-gateway-firmware
+vendor_id: motorola
+name: Moscad Ip Gateway Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:moscad_ip_gateway_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moscad_ip_gateway_firmware
+  confidence: auto

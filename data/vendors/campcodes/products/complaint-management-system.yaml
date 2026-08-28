@@ -1,0 +1,10 @@
+id: complaint-management-system
+vendor_id: campcodes
+name: Complaint Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:complaint_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: complaint_management_system
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zhan-66-pro-g1
+vendor_id: hp
+name: Zhan 66 Pro G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zhan_66_pro_g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhan_66_pro_g1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hot-cars
+vendor_id: magzter
+name: Hot Cars
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:hot_cars:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hot_cars
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nec-p403-firmware
+vendor_id: sharp
+name: Nec P403 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:nec_p403_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_p403_firmware
+  confidence: auto

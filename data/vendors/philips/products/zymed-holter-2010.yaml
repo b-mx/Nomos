@@ -1,0 +1,10 @@
+id: zymed-holter-2010
+vendor_id: philips
+name: Zymed Holter 2010
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:zymed_holter_2010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zymed_holter_2010
+  confidence: auto

@@ -1,0 +1,10 @@
+id: object-relational-mapper
+vendor_id: doctrine-project
+name: Object Relational Mapper
+type: software
+tags: []
+cpe: cpe:2.3:a:doctrine\-project:object_relational_mapper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: object_relational_mapper
+  confidence: auto

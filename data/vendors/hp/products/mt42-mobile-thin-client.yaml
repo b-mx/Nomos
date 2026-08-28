@@ -1,0 +1,10 @@
+id: mt42-mobile-thin-client
+vendor_id: hp
+name: Mt42 Mobile Thin Client
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mt42_mobile_thin_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt42_mobile_thin_client
+  confidence: auto

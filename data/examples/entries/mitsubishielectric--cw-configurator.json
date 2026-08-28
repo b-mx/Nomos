@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--cw-configurator",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "cw-configurator",
+  "name": "Cw Configurator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cw_configurator",
+      "confidence": "auto"
+    }
+  ]
+}

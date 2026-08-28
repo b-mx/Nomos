@@ -1,0 +1,10 @@
+id: e-studio-600
+vendor_id: toshibatec
+name: E-Studio-600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshibatec:e\-studio\-600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-studio-600
+  confidence: auto

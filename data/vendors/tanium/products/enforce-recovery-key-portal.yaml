@@ -1,0 +1,10 @@
+id: enforce-recovery-key-portal
+vendor_id: tanium
+name: Enforce Recovery Key Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:enforce_recovery_key_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enforce_recovery_key_portal
+  confidence: auto

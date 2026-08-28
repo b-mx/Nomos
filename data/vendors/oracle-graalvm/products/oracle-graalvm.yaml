@@ -1,0 +1,9 @@
+id: oracle-graalvm
+vendor_id: oracle-graalvm
+name: Oracle GraalVM
+type: library
+tags: []
+aliases:
+- source: endoflife
+  value: oracle-graalvm
+  confidence: auto

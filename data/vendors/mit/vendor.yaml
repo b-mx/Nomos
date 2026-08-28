@@ -1,0 +1,7 @@
+id: mit
+name: Mit
+cpe: cpe:2.3:*:mit:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mit
+  confidence: auto

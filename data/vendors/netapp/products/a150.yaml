@@ -1,0 +1,10 @@
+id: a150
+vendor_id: netapp
+name: A150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:a150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a150
+  confidence: auto

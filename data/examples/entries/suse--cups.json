@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--cups",
+  "vendor_id": "suse",
+  "product_id": "cups",
+  "name": "Cups",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cups",
+      "confidence": "auto"
+    }
+  ]
+}

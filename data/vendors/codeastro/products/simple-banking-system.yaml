@@ -1,0 +1,10 @@
+id: simple-banking-system
+vendor_id: codeastro
+name: Simple Banking System
+type: software
+tags: []
+cpe: cpe:2.3:a:codeastro:simple_banking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_banking_system
+  confidence: auto

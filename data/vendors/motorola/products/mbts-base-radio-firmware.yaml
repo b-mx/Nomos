@@ -1,0 +1,10 @@
+id: mbts-base-radio-firmware
+vendor_id: motorola
+name: Mbts Base Radio Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:mbts_base_radio_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbts_base_radio_firmware
+  confidence: auto

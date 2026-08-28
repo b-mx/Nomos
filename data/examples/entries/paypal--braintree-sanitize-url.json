@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "paypal--braintree-sanitize-url",
+  "vendor_id": "paypal",
+  "product_id": "braintree-sanitize-url",
+  "name": "Braintree/Sanitize-Url",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "braintree/sanitize-url",
+      "confidence": "auto"
+    }
+  ]
+}

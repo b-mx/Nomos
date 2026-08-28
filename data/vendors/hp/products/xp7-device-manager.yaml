@@ -1,0 +1,10 @@
+id: xp7-device-manager
+vendor_id: hp
+name: Xp7 Device Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:xp7_device_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp7_device_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pakedge-wr-1
+vendor_id: snapone
+name: Pakedge Wr-1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:snapone:pakedge_wr\-1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pakedge_wr-1
+  confidence: auto

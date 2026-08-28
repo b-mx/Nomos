@@ -1,0 +1,10 @@
+id: storeeasy-1660-performance-storage
+vendor_id: hpe
+name: Storeeasy 1660 Performance Storage
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:storeeasy_1660_performance_storage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeeasy_1660_performance_storage
+  confidence: auto

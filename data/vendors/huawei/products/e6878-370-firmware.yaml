@@ -1,0 +1,10 @@
+id: e6878-370-firmware
+vendor_id: huawei
+name: E6878-370 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:e6878\-370_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e6878-370_firmware
+  confidence: auto

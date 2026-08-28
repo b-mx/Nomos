@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sgi--propack",
+  "vendor_id": "sgi",
+  "product_id": "propack",
+  "name": "Propack",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "propack",
+      "confidence": "auto"
+    }
+  ]
+}

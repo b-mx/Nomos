@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "anynines--elasticsearch",
+  "vendor_id": "anynines",
+  "product_id": "elasticsearch",
+  "name": "Elasticsearch",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "elasticsearch",
+      "confidence": "auto"
+    }
+  ]
+}

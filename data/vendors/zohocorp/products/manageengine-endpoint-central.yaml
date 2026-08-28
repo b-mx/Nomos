@@ -1,0 +1,10 @@
+id: manageengine-endpoint-central
+vendor_id: zohocorp
+name: Manageengine Endpoint Central
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_endpoint_central:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_endpoint_central
+  confidence: auto

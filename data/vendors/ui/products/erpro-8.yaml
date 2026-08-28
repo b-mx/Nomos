@@ -1,0 +1,10 @@
+id: erpro-8
+vendor_id: ui
+name: Erpro-8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:erpro\-8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: erpro-8
+  confidence: auto

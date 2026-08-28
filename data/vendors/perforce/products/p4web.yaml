@@ -1,0 +1,10 @@
+id: p4web
+vendor_id: perforce
+name: P4Web
+type: software
+tags: []
+cpe: cpe:2.3:a:perforce:p4web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p4web
+  confidence: auto

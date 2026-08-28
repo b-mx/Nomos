@@ -1,0 +1,10 @@
+id: build-cache-node
+vendor_id: gradle
+name: Build Cache Node
+type: software
+tags: []
+cpe: cpe:2.3:a:gradle:build_cache_node:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: build_cache_node
+  confidence: auto

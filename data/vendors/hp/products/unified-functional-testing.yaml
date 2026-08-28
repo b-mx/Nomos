@@ -1,0 +1,10 @@
+id: unified-functional-testing
+vendor_id: hp
+name: Unified Functional Testing
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:unified_functional_testing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unified_functional_testing
+  confidence: auto

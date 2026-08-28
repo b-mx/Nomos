@@ -1,0 +1,10 @@
+id: deebot-t10-omni-firmware
+vendor_id: ecovacs
+name: Deebot T10 Omni Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ecovacs:deebot_t10_omni_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_t10_omni_firmware
+  confidence: auto

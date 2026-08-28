@@ -1,0 +1,10 @@
+id: rad-80211-xd-hp-bus
+vendor_id: phoenixcontact
+name: Rad-80211-Xd/Hp-Bus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:rad\-80211\-xd\/hp\-bus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rad-80211-xd/hp-bus
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cp1w-ts001-firmware
+vendor_id: omron
+name: Cp1W-Ts001 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1w\-ts001_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-ts001_firmware
+  confidence: auto

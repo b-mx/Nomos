@@ -1,0 +1,10 @@
+id: surf-soho-mk3
+vendor_id: peplink
+name: Surf Soho Mk3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:surf_soho_mk3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: surf_soho_mk3
+  confidence: auto

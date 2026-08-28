@@ -1,0 +1,10 @@
+id: officejet-enterprise-x555-c2s11a
+vendor_id: hp
+name: Officejet Enterprise X555 C2S11A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_enterprise_x555_c2s11a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_enterprise_x555_c2s11a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: battery-pack-sp-with-wifi-firmware
+vendor_id: bbraun
+name: Battery-Pack Sp With Wifi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bbraun:battery\-pack_sp_with_wifi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: battery-pack_sp_with_wifi_firmware
+  confidence: auto

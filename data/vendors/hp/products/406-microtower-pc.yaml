@@ -1,0 +1,10 @@
+id: 406-microtower-pc
+vendor_id: hp
+name: 406 Microtower Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:406_microtower_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 406_microtower_pc
+  confidence: auto

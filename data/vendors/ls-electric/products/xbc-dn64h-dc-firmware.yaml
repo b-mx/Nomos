@@ -1,0 +1,10 @@
+id: xbc-dn64h-dc-firmware
+vendor_id: ls-electric
+name: Xbc-Dn64H/Dc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbc\-dn64h\/dc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbc-dn64h/dc_firmware
+  confidence: auto

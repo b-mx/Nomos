@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nxp--kinetis-kv1x-firmware",
+  "vendor_id": "nxp",
+  "product_id": "kinetis-kv1x-firmware",
+  "name": "Kinetis Kv1X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kinetis_kv1x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

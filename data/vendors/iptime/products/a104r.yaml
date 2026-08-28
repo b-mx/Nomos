@@ -1,0 +1,10 @@
+id: a104r
+vendor_id: iptime
+name: A104R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a104r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a104r
+  confidence: auto

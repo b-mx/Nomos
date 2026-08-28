@@ -1,0 +1,10 @@
+id: c640-iml-firmware
+vendor_id: lenovo
+name: C640-Iml Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:c640\-iml_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c640-iml_firmware
+  confidence: auto

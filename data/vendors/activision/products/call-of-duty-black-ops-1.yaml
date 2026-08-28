@@ -1,0 +1,10 @@
+id: call-of-duty-black-ops-1
+vendor_id: activision
+name: 'Call Of Duty: Black Ops 1'
+type: software
+tags: []
+cpe: cpe:2.3:a:activision:call_of_duty\:_black_ops_1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: call_of_duty:_black_ops_1
+  confidence: auto

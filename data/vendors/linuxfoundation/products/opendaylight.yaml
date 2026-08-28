@@ -1,0 +1,10 @@
+id: opendaylight
+vendor_id: linuxfoundation
+name: Opendaylight
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:opendaylight:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opendaylight
+  confidence: auto

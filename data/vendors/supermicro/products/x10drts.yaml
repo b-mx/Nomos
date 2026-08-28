@@ -1,0 +1,10 @@
+id: x10drts
+vendor_id: supermicro
+name: X10Drts
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10drts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drts
+  confidence: auto

@@ -1,0 +1,10 @@
+id: easy-netprint
+vendor_id: fujixerox
+name: Easy Netprint
+type: software
+tags: []
+cpe: cpe:2.3:a:fujixerox:easy_netprint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_netprint
+  confidence: auto

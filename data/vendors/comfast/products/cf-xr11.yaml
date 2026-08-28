@@ -1,0 +1,10 @@
+id: cf-xr11
+vendor_id: comfast
+name: Cf-Xr11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:comfast:cf\-xr11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf-xr11
+  confidence: auto

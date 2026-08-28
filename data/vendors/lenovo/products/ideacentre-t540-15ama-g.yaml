@@ -1,0 +1,10 @@
+id: ideacentre-t540-15ama-g
+vendor_id: lenovo
+name: Ideacentre T540-15Ama G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_t540\-15ama_g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_t540-15ama_g
+  confidence: auto

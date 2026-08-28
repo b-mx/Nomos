@@ -1,0 +1,10 @@
+id: c1310-e-mk-ii
+vendor_id: axis
+name: C1310-E Mk Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:c1310\-e_mk_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1310-e_mk_ii
+  confidence: auto

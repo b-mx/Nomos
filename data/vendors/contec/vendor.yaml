@@ -1,0 +1,7 @@
+id: contec
+name: Contec
+cpe: cpe:2.3:*:contec:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contec
+  confidence: auto

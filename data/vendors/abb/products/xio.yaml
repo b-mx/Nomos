@@ -1,0 +1,10 @@
+id: xio
+vendor_id: abb
+name: Xio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:xio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xio
+  confidence: auto

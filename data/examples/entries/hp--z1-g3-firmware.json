@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--z1-g3-firmware",
+  "vendor_id": "hp",
+  "product_id": "z1-g3-firmware",
+  "name": "Z1 G3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "z1_g3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

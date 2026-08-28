@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--aircam-firmware",
+  "vendor_id": "ui",
+  "product_id": "aircam-firmware",
+  "name": "Aircam Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aircam_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

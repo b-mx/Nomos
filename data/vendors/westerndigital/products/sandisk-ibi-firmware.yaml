@@ -1,0 +1,10 @@
+id: sandisk-ibi-firmware
+vendor_id: westerndigital
+name: Sandisk Ibi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westerndigital:sandisk_ibi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sandisk_ibi_firmware
+  confidence: auto

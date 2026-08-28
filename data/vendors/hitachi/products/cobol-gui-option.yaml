@@ -1,0 +1,10 @@
+id: cobol-gui-option
+vendor_id: hitachi
+name: Cobol Gui Option
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:cobol_gui_option:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cobol_gui_option
+  confidence: auto

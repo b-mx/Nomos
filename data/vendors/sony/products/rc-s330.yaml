@@ -1,0 +1,10 @@
+id: rc-s330
+vendor_id: sony
+name: Rc-S330
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:rc\-s330:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rc-s330
+  confidence: auto

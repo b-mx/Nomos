@@ -1,0 +1,10 @@
+id: e43-80
+vendor_id: lenovo
+name: E43-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:e43\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e43-80
+  confidence: auto

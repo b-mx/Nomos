@@ -1,0 +1,10 @@
+id: morphowave-compact-mdpi
+vendor_id: idemia
+name: Morphowave Compact Mdpi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idemia:morphowave_compact_mdpi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: morphowave_compact_mdpi
+  confidence: auto

@@ -1,0 +1,10 @@
+id: openj9
+vendor_id: eclipse
+name: Openj9
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openj9
+  confidence: auto

@@ -1,0 +1,10 @@
+id: unify-openscape-4000-assistant
+vendor_id: atos
+name: Unify Openscape 4000 Assistant
+type: software
+tags: []
+cpe: cpe:2.3:a:atos:unify_openscape_4000_assistant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unify_openscape_4000_assistant
+  confidence: auto

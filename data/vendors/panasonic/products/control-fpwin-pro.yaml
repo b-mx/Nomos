@@ -1,0 +1,10 @@
+id: control-fpwin-pro
+vendor_id: panasonic
+name: Control Fpwin Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:panasonic:control_fpwin_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_fpwin_pro
+  confidence: auto

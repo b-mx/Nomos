@@ -1,0 +1,10 @@
+id: serialusb-thermal-receipt-printer-bm476aa
+vendor_id: hp
+name: Serialusb Thermal Receipt Printer Bm476Aa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:serialusb_thermal_receipt_printer_bm476aa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: serialusb_thermal_receipt_printer_bm476aa
+  confidence: auto

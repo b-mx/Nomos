@@ -1,0 +1,10 @@
+id: rt431
+vendor_id: ge
+name: Rt431
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:rt431:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt431
+  confidence: auto

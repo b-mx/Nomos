@@ -1,0 +1,10 @@
+id: control-repository-manager
+vendor_id: hpe
+name: Control Repository Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:control_repository_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_repository_manager
+  confidence: auto

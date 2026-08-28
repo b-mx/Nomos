@@ -1,0 +1,10 @@
+id: measurementlink
+vendor_id: ni
+name: Measurementlink
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:measurementlink:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: measurementlink
+  confidence: auto

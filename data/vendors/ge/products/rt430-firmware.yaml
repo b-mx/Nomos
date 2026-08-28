@@ -1,0 +1,10 @@
+id: rt430-firmware
+vendor_id: ge
+name: Rt430 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:rt430_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt430_firmware
+  confidence: auto

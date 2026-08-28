@@ -1,0 +1,10 @@
+id: arprice-lite
+vendor_id: reputeinfosystems
+name: Arprice Lite
+type: software
+tags: []
+cpe: cpe:2.3:a:reputeinfosystems:arprice_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arprice_lite
+  confidence: auto

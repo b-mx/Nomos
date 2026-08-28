@@ -1,0 +1,10 @@
+id: e350
+vendor_id: lexmark
+name: E350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:e350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e350
+  confidence: auto

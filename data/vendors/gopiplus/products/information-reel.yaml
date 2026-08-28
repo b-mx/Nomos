@@ -1,0 +1,10 @@
+id: information-reel
+vendor_id: gopiplus
+name: Information Reel
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:information_reel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: information_reel
+  confidence: auto

@@ -1,0 +1,10 @@
+id: google-captcha-recaptcha
+vendor_id: bestwebsoft
+name: Google Captcha (Recaptcha)
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:google_captcha_\(recaptcha\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: google_captcha_(recaptcha)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dsl-100hn-t1-firmware
+vendor_id: mitrastar
+name: Dsl-100Hn-T1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitrastar:dsl\-100hn\-t1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dsl-100hn-t1_firmware
+  confidence: auto

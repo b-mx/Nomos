@@ -1,0 +1,10 @@
+id: jp1-performance-management
+vendor_id: hitachi
+name: Jp1/Performance Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:jp1\/performance_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jp1/performance_management
+  confidence: auto

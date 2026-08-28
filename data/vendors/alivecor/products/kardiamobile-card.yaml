@@ -1,0 +1,10 @@
+id: kardiamobile-card
+vendor_id: alivecor
+name: Kardiamobile Card
+type: hardware
+tags: []
+cpe: cpe:2.3:h:alivecor:kardiamobile_card:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kardiamobile_card
+  confidence: auto

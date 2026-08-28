@@ -1,0 +1,10 @@
+id: c100
+vendor_id: lenovo
+name: C100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:c100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c100
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dx-2500n-firmware
+vendor_id: sharp
+name: Dx-2500N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:dx\-2500n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dx-2500n_firmware
+  confidence: auto

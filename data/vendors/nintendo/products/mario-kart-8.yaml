@@ -1,0 +1,10 @@
+id: mario-kart-8
+vendor_id: nintendo
+name: Mario Kart 8
+type: software
+tags: []
+cpe: cpe:2.3:a:nintendo:mario_kart_8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mario_kart_8
+  confidence: auto

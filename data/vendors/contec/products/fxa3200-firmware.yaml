@@ -1,0 +1,10 @@
+id: fxa3200-firmware
+vendor_id: contec
+name: Fxa3200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:contec:fxa3200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fxa3200_firmware
+  confidence: auto

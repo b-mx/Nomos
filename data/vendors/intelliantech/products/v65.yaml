@@ -1,0 +1,10 @@
+id: v65
+vendor_id: intelliantech
+name: V65
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelliantech:v65:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v65
+  confidence: auto

@@ -1,0 +1,10 @@
+id: uc-2222a-t-ap-firmware
+vendor_id: moxa
+name: Uc-2222A-T-Ap Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-2222a\-t\-ap_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-2222a-t-ap_firmware
+  confidence: auto

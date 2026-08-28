@@ -1,0 +1,10 @@
+id: simple-membership-system
+vendor_id: razormist
+name: Simple Membership System
+type: software
+tags: []
+cpe: cpe:2.3:a:razormist:simple_membership_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_membership_system
+  confidence: auto

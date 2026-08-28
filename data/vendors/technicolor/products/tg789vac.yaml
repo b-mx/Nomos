@@ -1,0 +1,10 @@
+id: tg789vac
+vendor_id: technicolor
+name: Tg789Vac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tg789vac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg789vac
+  confidence: auto

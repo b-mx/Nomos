@@ -1,0 +1,10 @@
+id: gotham
+vendor_id: palantir
+name: Gotham
+type: os
+tags: []
+cpe: cpe:2.3:o:palantir:gotham:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gotham
+  confidence: auto

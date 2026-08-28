@@ -1,0 +1,10 @@
+id: pmi-v507-firmware
+vendor_id: pilz
+name: Pmi V507 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pilz:pmi_v507_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pmi_v507_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ktexteditor
+vendor_id: kde
+name: Ktexteditor
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:ktexteditor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ktexteditor
+  confidence: auto

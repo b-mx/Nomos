@@ -1,0 +1,10 @@
+id: online-admission-system
+vendor_id: projectworlds
+name: Online Admission System
+type: software
+tags: []
+cpe: cpe:2.3:a:projectworlds:online_admission_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_admission_system
+  confidence: auto

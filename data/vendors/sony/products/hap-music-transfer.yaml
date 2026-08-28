@@ -1,0 +1,10 @@
+id: hap-music-transfer
+vendor_id: sony
+name: Hap Music Transfer
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:hap_music_transfer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hap_music_transfer
+  confidence: auto

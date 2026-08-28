@@ -1,0 +1,10 @@
+id: correos-express
+vendor_id: prestashop
+name: Correos Express
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:correos_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: correos_express
+  confidence: auto

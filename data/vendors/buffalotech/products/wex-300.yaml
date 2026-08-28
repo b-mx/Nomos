@@ -1,0 +1,10 @@
+id: wex-300
+vendor_id: buffalotech
+name: Wex-300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:wex\-300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wex-300
+  confidence: auto

@@ -1,0 +1,10 @@
+id: c640-iml
+vendor_id: lenovo
+name: C640-Iml
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:c640\-iml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c640-iml
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sbc-swe-lite-web
+vendor_id: ribboncommunications
+name: Sbc Swe Lite Web
+type: software
+tags: []
+cpe: cpe:2.3:a:ribboncommunications:sbc_swe_lite_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sbc_swe_lite_web
+  confidence: auto

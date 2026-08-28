@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--epx-firmware",
+  "vendor_id": "peplink",
+  "product_id": "epx-firmware",
+  "name": "Epx Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epx_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

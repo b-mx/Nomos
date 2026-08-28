@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-video-controller",
+  "vendor_id": "ui",
+  "product_id": "unifi-video-controller",
+  "name": "Unifi Video Controller",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_video_controller",
+      "confidence": "auto"
+    }
+  ]
+}

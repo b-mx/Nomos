@@ -1,0 +1,10 @@
+id: vecaster-hd-h264
+vendor_id: provideoinstruments
+name: Vecaster-Hd-H264
+type: hardware
+tags: []
+cpe: cpe:2.3:h:provideoinstruments:vecaster\-hd\-h264:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vecaster-hd-h264
+  confidence: auto

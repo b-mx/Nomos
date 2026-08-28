@@ -1,0 +1,10 @@
+id: motor-controller-cmmo-st-c5-1-dion
+vendor_id: festo
+name: Motor Controller Cmmo-St-C5-1-Dion
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:motor_controller_cmmo\-st\-c5\-1\-dion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: motor_controller_cmmo-st-c5-1-dion
+  confidence: auto

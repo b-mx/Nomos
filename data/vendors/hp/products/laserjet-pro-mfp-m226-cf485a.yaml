@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m226-cf485a
+vendor_id: hp
+name: Laserjet Pro Mfp M226 Cf485A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_mfp_m226_cf485a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m226_cf485a
+  confidence: auto

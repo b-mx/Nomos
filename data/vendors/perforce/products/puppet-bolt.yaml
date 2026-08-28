@@ -1,0 +1,10 @@
+id: puppet-bolt
+vendor_id: perforce
+name: Puppet Bolt
+type: software
+tags: []
+cpe: cpe:2.3:a:perforce:puppet_bolt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppet_bolt
+  confidence: auto

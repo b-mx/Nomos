@@ -1,0 +1,10 @@
+id: cr769a
+vendor_id: hp
+name: Cr769A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cr769a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cr769a
+  confidence: auto

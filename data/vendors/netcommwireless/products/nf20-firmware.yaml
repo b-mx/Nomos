@@ -1,0 +1,10 @@
+id: nf20-firmware
+vendor_id: netcommwireless
+name: Nf20 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netcommwireless:nf20_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nf20_firmware
+  confidence: auto

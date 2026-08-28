@@ -1,0 +1,10 @@
+id: perfect-images
+vendor_id: meowapps
+name: Perfect Images
+type: software
+tags: []
+cpe: cpe:2.3:a:meowapps:perfect_images:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: perfect_images
+  confidence: auto

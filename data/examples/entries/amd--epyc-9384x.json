@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-9384x",
+  "vendor_id": "amd",
+  "product_id": "epyc-9384x",
+  "name": "Epyc 9384X",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_9384x",
+      "confidence": "auto"
+    }
+  ]
+}

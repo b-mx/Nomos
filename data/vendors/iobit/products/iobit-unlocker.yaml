@@ -1,0 +1,10 @@
+id: iobit-unlocker
+vendor_id: iobit
+name: Iobit Unlocker
+type: software
+tags: []
+cpe: cpe:2.3:a:iobit:iobit_unlocker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iobit_unlocker
+  confidence: auto

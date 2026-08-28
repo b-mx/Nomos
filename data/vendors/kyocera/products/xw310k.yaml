@@ -1,0 +1,10 @@
+id: xw310k
+vendor_id: kyocera
+name: Xw310K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kyocera:xw310k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xw310k
+  confidence: auto

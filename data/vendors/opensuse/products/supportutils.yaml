@@ -1,0 +1,10 @@
+id: supportutils
+vendor_id: opensuse
+name: Supportutils
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:supportutils:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: supportutils
+  confidence: auto

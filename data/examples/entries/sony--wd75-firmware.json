@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sony--wd75-firmware",
+  "vendor_id": "sony",
+  "product_id": "wd75-firmware",
+  "name": "Wd75 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wd75_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

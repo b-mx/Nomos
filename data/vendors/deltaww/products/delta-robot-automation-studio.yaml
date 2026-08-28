@@ -1,0 +1,10 @@
+id: delta-robot-automation-studio
+vendor_id: deltaww
+name: Delta Robot Automation Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:delta_robot_automation_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: delta_robot_automation_studio
+  confidence: auto

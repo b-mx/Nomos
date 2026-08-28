@@ -1,0 +1,10 @@
+id: xp-p9000-replication-manager
+vendor_id: hp
+name: Xp P9000 Replication Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:xp_p9000_replication_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp_p9000_replication_manager
+  confidence: auto

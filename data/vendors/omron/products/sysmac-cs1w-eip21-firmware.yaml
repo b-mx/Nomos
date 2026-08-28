@@ -1,0 +1,10 @@
+id: sysmac-cs1w-eip21-firmware
+vendor_id: omron
+name: Sysmac Cs1W-Eip21 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:sysmac_cs1w\-eip21_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cs1w-eip21_firmware
+  confidence: auto

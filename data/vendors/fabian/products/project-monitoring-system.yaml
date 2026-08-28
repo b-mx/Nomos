@@ -1,0 +1,10 @@
+id: project-monitoring-system
+vendor_id: fabian
+name: Project Monitoring System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:project_monitoring_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: project_monitoring_system
+  confidence: auto

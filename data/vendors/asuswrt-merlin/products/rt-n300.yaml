@@ -1,0 +1,10 @@
+id: rt-n300
+vendor_id: asuswrt-merlin
+name: Rt-N300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-n300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-n300
+  confidence: auto

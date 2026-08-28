@@ -1,0 +1,10 @@
+id: ifix
+vendor_id: ge
+name: Ifix
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:ifix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ifix
+  confidence: auto

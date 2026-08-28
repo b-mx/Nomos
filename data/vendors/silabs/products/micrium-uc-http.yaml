@@ -1,0 +1,10 @@
+id: micrium-uc-http
+vendor_id: silabs
+name: Micrium Uc-Http
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:micrium_uc\-http:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: micrium_uc-http
+  confidence: auto

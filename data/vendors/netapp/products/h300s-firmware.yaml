@@ -1,0 +1,10 @@
+id: h300s-firmware
+vendor_id: netapp
+name: H300S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:h300s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h300s_firmware
+  confidence: auto

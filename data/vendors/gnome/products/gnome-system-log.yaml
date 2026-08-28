@@ -1,0 +1,10 @@
+id: gnome-system-log
+vendor_id: gnome
+name: Gnome-System-Log
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-system\-log:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-system-log
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--irb140-firmware",
+  "vendor_id": "abb",
+  "product_id": "irb140-firmware",
+  "name": "Irb140 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "irb140_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

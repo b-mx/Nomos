@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--sso-server",
+  "vendor_id": "synology",
+  "product_id": "sso-server",
+  "name": "Sso Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sso_server",
+      "confidence": "auto"
+    }
+  ]
+}

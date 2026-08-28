@@ -1,0 +1,10 @@
+id: synel-reports
+vendor_id: synel
+name: Synel Reports
+type: software
+tags: []
+cpe: cpe:2.3:a:synel:synel_reports:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synel_reports
+  confidence: auto

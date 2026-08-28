@@ -1,0 +1,10 @@
+id: envy-6000-6wd35a-firmware
+vendor_id: hp
+name: Envy 6000 6Wd35A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_6000_6wd35a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6000_6wd35a_firmware
+  confidence: auto

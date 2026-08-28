@@ -1,0 +1,10 @@
+id: m4317-plr
+vendor_id: axis
+name: M4317-Plr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m4317\-plr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m4317-plr
+  confidence: auto

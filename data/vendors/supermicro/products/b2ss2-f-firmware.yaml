@@ -1,0 +1,10 @@
+id: b2ss2-f-firmware
+vendor_id: supermicro
+name: B2Ss2-F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:b2ss2\-f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b2ss2-f_firmware
+  confidence: auto

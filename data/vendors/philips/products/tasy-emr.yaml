@@ -1,0 +1,10 @@
+id: tasy-emr
+vendor_id: philips
+name: Tasy Emr
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:tasy_emr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tasy_emr
+  confidence: auto

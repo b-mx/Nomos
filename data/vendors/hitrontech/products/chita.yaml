@@ -1,0 +1,10 @@
+id: chita
+vendor_id: hitrontech
+name: Chita
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitrontech:chita:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chita
+  confidence: auto

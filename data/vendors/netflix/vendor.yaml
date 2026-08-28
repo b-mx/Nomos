@@ -1,0 +1,7 @@
+id: netflix
+name: Netflix
+cpe: cpe:2.3:*:netflix:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netflix
+  confidence: auto

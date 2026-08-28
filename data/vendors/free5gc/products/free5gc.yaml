@@ -1,0 +1,10 @@
+id: free5gc
+vendor_id: free5gc
+name: Free5Gc
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:free5gc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: free5gc
+  confidence: auto

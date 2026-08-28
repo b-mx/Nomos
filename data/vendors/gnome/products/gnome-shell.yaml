@@ -1,0 +1,10 @@
+id: gnome-shell
+vendor_id: gnome
+name: Gnome-Shell
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-shell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-shell
+  confidence: auto

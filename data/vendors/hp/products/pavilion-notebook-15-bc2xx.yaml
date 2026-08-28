@@ -1,0 +1,10 @@
+id: pavilion-notebook-15-bc2xx
+vendor_id: hp
+name: Pavilion Notebook 15-Bc2Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_notebook_15\-bc2xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_notebook_15-bc2xx
+  confidence: auto

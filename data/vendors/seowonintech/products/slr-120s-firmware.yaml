@@ -1,0 +1,10 @@
+id: slr-120s-firmware
+vendor_id: seowonintech
+name: Slr-120S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seowonintech:slr\-120s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slr-120s_firmware
+  confidence: auto

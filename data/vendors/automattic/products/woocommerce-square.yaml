@@ -1,0 +1,10 @@
+id: woocommerce-square
+vendor_id: automattic
+name: Woocommerce Square
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:woocommerce_square:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_square
+  confidence: auto

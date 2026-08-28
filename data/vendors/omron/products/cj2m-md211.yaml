@@ -1,0 +1,10 @@
+id: cj2m-md211
+vendor_id: omron
+name: Cj2M-Md211
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cj2m\-md211:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cj2m-md211
+  confidence: auto

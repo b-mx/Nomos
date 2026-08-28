@@ -1,0 +1,7 @@
+id: netscape
+name: Netscape
+cpe: cpe:2.3:*:netscape:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netscape
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mt45
+vendor_id: hp
+name: Mt45
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mt45:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt45
+  confidence: auto

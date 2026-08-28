@@ -1,0 +1,10 @@
+id: smc2-0
+vendor_id: huawei
+name: Smc2.0
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:smc2\.0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smc2.0
+  confidence: auto

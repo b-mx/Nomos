@@ -1,0 +1,10 @@
+id: exfat-driver
+vendor_id: asustor
+name: Exfat Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:asustor:exfat_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exfat_driver
+  confidence: auto

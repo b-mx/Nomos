@@ -1,0 +1,10 @@
+id: coaguchek-xs-plus
+vendor_id: roche
+name: Coaguchek Xs Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:roche:coaguchek_xs_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coaguchek_xs_plus
+  confidence: auto

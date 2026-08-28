@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--2500-firmware",
+  "vendor_id": "peplink",
+  "product_id": "2500-firmware",
+  "name": "2500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "2500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

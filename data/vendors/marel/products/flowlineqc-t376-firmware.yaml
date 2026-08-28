@@ -1,0 +1,10 @@
+id: flowlineqc-t376-firmware
+vendor_id: marel
+name: Flowlineqc T376 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:flowlineqc_t376_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flowlineqc_t376_firmware
+  confidence: auto

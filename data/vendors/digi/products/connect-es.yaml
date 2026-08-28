@@ -1,0 +1,10 @@
+id: connect-es
+vendor_id: digi
+name: Connect Es
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:connect_es:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect_es
+  confidence: auto

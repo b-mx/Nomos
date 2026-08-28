@@ -1,0 +1,10 @@
+id: rts-vlink-virtual-matrix
+vendor_id: bosch
+name: Rts Vlink Virtual Matrix
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:rts_vlink_virtual_matrix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rts_vlink_virtual_matrix
+  confidence: auto

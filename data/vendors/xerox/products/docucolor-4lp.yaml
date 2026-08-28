@@ -1,0 +1,10 @@
+id: docucolor-4lp
+vendor_id: xerox
+name: Docucolor 4Lp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:docucolor_4lp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docucolor_4lp
+  confidence: auto

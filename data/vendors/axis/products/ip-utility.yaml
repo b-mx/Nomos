@@ -1,0 +1,10 @@
+id: ip-utility
+vendor_id: axis
+name: Ip Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:axis:ip_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_utility
+  confidence: auto

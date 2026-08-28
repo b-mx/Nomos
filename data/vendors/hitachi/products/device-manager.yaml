@@ -1,0 +1,10 @@
+id: device-manager
+vendor_id: hitachi
+name: Device Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:device_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: device_manager
+  confidence: auto

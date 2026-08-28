@@ -1,0 +1,10 @@
+id: nbm-d88n-firmware
+vendor_id: patlite
+name: Nbm-D88N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:patlite:nbm\-d88n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbm-d88n_firmware
+  confidence: auto

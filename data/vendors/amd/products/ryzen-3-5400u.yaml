@@ -1,0 +1,10 @@
+id: ryzen-3-5400u
+vendor_id: amd
+name: Ryzen 3 5400U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3_5400u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3_5400u
+  confidence: auto

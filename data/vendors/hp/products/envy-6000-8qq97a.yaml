@@ -1,0 +1,10 @@
+id: envy-6000-8qq97a
+vendor_id: hp
+name: Envy 6000 8Qq97A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_6000_8qq97a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6000_8qq97a
+  confidence: auto

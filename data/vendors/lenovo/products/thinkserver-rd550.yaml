@@ -1,0 +1,10 @@
+id: thinkserver-rd550
+vendor_id: lenovo
+name: Thinkserver Rd550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkserver_rd550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkserver_rd550
+  confidence: auto

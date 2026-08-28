@@ -1,0 +1,10 @@
+id: bootstrap
+vendor_id: bootstrap
+name: Bootstrap
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: bootstrap
+  confidence: auto

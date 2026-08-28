@@ -1,0 +1,10 @@
+id: modular-authentication-service
+vendor_id: novell
+name: Modular Authentication Service
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:modular_authentication_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modular_authentication_service
+  confidence: auto

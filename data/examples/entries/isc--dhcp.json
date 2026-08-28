@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "isc--dhcp",
+  "vendor_id": "isc",
+  "product_id": "dhcp",
+  "name": "Dhcp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dhcp",
+      "confidence": "auto"
+    }
+  ]
+}

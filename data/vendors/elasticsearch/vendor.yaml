@@ -1,0 +1,7 @@
+id: elasticsearch
+name: Elasticsearch
+cpe: cpe:2.3:*:elasticsearch:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elasticsearch
+  confidence: auto

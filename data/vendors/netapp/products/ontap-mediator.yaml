@@ -1,0 +1,10 @@
+id: ontap-mediator
+vendor_id: netapp
+name: Ontap Mediator
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:ontap_mediator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ontap_mediator
+  confidence: auto

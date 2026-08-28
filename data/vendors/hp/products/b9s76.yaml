@@ -1,0 +1,10 @@
+id: b9s76
+vendor_id: hp
+name: B9S76
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:b9s76:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b9s76
+  confidence: auto

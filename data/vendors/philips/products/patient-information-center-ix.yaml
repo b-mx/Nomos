@@ -1,0 +1,10 @@
+id: patient-information-center-ix
+vendor_id: philips
+name: Patient Information Center Ix
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:patient_information_center_ix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: patient_information_center_ix
+  confidence: auto

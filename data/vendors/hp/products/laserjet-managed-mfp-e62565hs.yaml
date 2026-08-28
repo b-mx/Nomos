@@ -1,0 +1,10 @@
+id: laserjet-managed-mfp-e62565hs
+vendor_id: hp
+name: Laserjet Managed Mfp E62565Hs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_mfp_e62565hs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_mfp_e62565hs
+  confidence: auto

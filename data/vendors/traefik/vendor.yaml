@@ -1,0 +1,7 @@
+id: traefik
+name: Traefik
+cpe: cpe:2.3:*:traefik:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: traefik
+  confidence: auto

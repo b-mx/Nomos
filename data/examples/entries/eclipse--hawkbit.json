@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--hawkbit",
+  "vendor_id": "eclipse",
+  "product_id": "hawkbit",
+  "name": "Hawkbit",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hawkbit",
+      "confidence": "auto"
+    }
+  ]
+}

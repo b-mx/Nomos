@@ -1,0 +1,10 @@
+id: hirschmann-mach104-20tx-f
+vendor_id: belden
+name: Hirschmann Mach104-20Tx-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_mach104\-20tx\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_mach104-20tx-f
+  confidence: auto

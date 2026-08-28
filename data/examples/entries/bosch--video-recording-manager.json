@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--video-recording-manager",
+  "vendor_id": "bosch",
+  "product_id": "video-recording-manager",
+  "name": "Video Recording Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "video_recording_manager",
+      "confidence": "auto"
+    }
+  ]
+}

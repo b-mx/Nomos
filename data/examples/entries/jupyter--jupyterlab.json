@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--jupyterlab",
+  "vendor_id": "jupyter",
+  "product_id": "jupyterlab",
+  "name": "Jupyterlab",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jupyterlab",
+      "confidence": "auto"
+    }
+  ]
+}

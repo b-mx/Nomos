@@ -1,0 +1,10 @@
+id: cloud-foundry-diego
+vendor_id: pivotal-software
+name: Cloud Foundry Diego
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:cloud_foundry_diego:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_diego
+  confidence: auto

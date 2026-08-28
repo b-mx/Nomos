@@ -1,0 +1,10 @@
+id: hb8208x3
+vendor_id: hbgk
+name: Hb8208X3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hbgk:hb8208x3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb8208x3
+  confidence: auto

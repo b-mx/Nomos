@@ -1,0 +1,10 @@
+id: thinkagile-vx3320
+vendor_id: lenovo
+name: Thinkagile Vx3320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_vx3320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_vx3320
+  confidence: auto

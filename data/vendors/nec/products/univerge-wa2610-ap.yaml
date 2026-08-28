@@ -1,0 +1,10 @@
+id: univerge-wa2610-ap
+vendor_id: nec
+name: Univerge Wa2610-Ap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:univerge_wa2610\-ap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: univerge_wa2610-ap
+  confidence: auto

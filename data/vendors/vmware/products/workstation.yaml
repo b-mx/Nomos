@@ -1,0 +1,9 @@
+id: workstation
+vendor_id: vmware
+name: Workstation
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Workstation
+  confidence: auto

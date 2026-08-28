@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linecorp--line-installer",
+  "vendor_id": "linecorp",
+  "product_id": "line-installer",
+  "name": "Line Installer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "line_installer",
+      "confidence": "auto"
+    }
+  ]
+}

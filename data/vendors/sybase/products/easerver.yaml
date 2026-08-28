@@ -1,0 +1,10 @@
+id: easerver
+vendor_id: sybase
+name: Easerver
+type: software
+tags: []
+cpe: cpe:2.3:a:sybase:easerver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easerver
+  confidence: auto

@@ -1,0 +1,10 @@
+id: database-and-middleware-automation
+vendor_id: hp
+name: Database And Middleware Automation
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:database_and_middleware_automation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: database_and_middleware_automation
+  confidence: auto

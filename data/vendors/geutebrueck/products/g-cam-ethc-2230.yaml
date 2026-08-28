@@ -1,0 +1,10 @@
+id: g-cam-ethc-2230
+vendor_id: geutebrueck
+name: G-Cam Ethc-2230
+type: hardware
+tags: []
+cpe: cpe:2.3:h:geutebrueck:g\-cam_ethc\-2230:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g-cam_ethc-2230
+  confidence: auto

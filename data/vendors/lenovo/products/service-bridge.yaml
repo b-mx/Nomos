@@ -1,0 +1,10 @@
+id: service-bridge
+vendor_id: lenovo
+name: Service Bridge
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:service_bridge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_bridge
+  confidence: auto

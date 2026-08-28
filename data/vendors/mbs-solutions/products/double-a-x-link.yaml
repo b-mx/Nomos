@@ -1,0 +1,10 @@
+id: double-a-x-link
+vendor_id: mbs-solutions
+name: Double-A X-Link
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:double\-a_x\-link:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: double-a_x-link
+  confidence: auto

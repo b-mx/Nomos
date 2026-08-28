@@ -1,0 +1,10 @@
+id: epyc-server-firmware
+vendor_id: amd
+name: Epyc Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:epyc_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_server_firmware
+  confidence: auto

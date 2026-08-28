@@ -1,0 +1,10 @@
+id: corsair-utility-engine
+vendor_id: corsair
+name: Corsair Utility Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:corsair:corsair_utility_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: corsair_utility_engine
+  confidence: auto

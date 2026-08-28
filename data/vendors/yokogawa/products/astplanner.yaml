@@ -1,0 +1,10 @@
+id: astplanner
+vendor_id: yokogawa
+name: Astplanner
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:astplanner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: astplanner
+  confidence: auto

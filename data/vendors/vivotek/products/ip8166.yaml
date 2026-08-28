@@ -1,0 +1,10 @@
+id: ip8166
+vendor_id: vivotek
+name: Ip8166
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ip8166:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip8166
+  confidence: auto

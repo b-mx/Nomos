@@ -1,0 +1,10 @@
+id: dg1670a
+vendor_id: arris
+name: Dg1670A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arris:dg1670a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dg1670a
+  confidence: auto

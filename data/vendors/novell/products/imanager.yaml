@@ -1,0 +1,10 @@
+id: imanager
+vendor_id: novell
+name: Imanager
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:imanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imanager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nx102-9020
+vendor_id: omron
+name: Nx102-9020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:nx102\-9020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx102-9020
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tm-c7500g
+vendor_id: epson
+name: Tm-C7500G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-c7500g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-c7500g
+  confidence: auto

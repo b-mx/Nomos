@@ -1,0 +1,10 @@
+id: h2offt
+vendor_id: insyde
+name: H2Offt
+type: software
+tags: []
+cpe: cpe:2.3:a:insyde:h2offt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h2offt
+  confidence: auto

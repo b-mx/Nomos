@@ -1,0 +1,10 @@
+id: simple-food-order-system
+vendor_id: carmelo
+name: Simple Food Order System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:simple_food_order_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_food_order_system
+  confidence: auto

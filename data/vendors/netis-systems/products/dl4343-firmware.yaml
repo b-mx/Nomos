@@ -1,0 +1,10 @@
+id: dl4343-firmware
+vendor_id: netis-systems
+name: Dl4343 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netis\-systems:dl4343_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dl4343_firmware
+  confidence: auto

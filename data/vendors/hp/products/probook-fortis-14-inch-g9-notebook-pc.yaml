@@ -1,0 +1,10 @@
+id: probook-fortis-14-inch-g9-notebook-pc
+vendor_id: hp
+name: Probook Fortis 14 Inch G9 Notebook Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:probook_fortis_14_inch_g9_notebook_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: probook_fortis_14_inch_g9_notebook_pc
+  confidence: auto

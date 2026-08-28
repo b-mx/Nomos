@@ -1,0 +1,10 @@
+id: jonnys-liquor
+vendor_id: anisha
+name: Jonnys Liquor
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:jonnys_liquor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jonnys_liquor
+  confidence: auto

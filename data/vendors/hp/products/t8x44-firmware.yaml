@@ -1,0 +1,10 @@
+id: t8x44-firmware
+vendor_id: hp
+name: T8X44 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:t8x44_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t8x44_firmware
+  confidence: auto

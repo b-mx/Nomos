@@ -1,0 +1,10 @@
+id: vs8100-v2-firmware
+vendor_id: vivotek
+name: Vs8100-V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:vs8100\-v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vs8100-v2_firmware
+  confidence: auto

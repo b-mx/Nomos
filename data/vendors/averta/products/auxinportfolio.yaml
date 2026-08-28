@@ -1,0 +1,10 @@
+id: auxinportfolio
+vendor_id: averta
+name: Auxinportfolio
+type: software
+tags: []
+cpe: cpe:2.3:a:averta:auxinportfolio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: auxinportfolio
+  confidence: auto

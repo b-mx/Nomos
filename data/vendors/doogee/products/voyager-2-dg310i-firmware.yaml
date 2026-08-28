@@ -1,0 +1,10 @@
+id: voyager-2-dg310i-firmware
+vendor_id: doogee
+name: Voyager 2 Dg310I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:doogee:voyager_2_dg310i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: voyager_2_dg310i_firmware
+  confidence: auto

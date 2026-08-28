@@ -1,0 +1,10 @@
+id: rt-toolbox2
+vendor_id: mitsubishielectric
+name: Rt Toolbox2
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:rt_toolbox2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt_toolbox2
+  confidence: auto

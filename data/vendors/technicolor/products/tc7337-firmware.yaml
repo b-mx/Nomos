@@ -1,0 +1,10 @@
+id: tc7337-firmware
+vendor_id: technicolor
+name: Tc7337 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:tc7337_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7337_firmware
+  confidence: auto

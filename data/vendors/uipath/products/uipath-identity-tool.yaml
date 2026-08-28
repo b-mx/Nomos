@@ -1,0 +1,10 @@
+id: uipath-identity-tool
+vendor_id: uipath
+name: Uipath/Identity-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/identity\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/identity-tool
+  confidence: auto

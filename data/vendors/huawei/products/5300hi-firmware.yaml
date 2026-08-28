@@ -1,0 +1,10 @@
+id: 5300hi-firmware
+vendor_id: huawei
+name: 5300Hi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:5300hi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5300hi_firmware
+  confidence: auto

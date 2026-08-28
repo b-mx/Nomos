@@ -1,0 +1,10 @@
+id: rtu500-scripting-interface
+vendor_id: hitachienergy
+name: Rtu500 Scripting Interface
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:rtu500_scripting_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtu500_scripting_interface
+  confidence: auto

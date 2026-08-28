@@ -1,0 +1,10 @@
+id: aspire-7600u
+vendor_id: acer
+name: Aspire 7600U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_7600u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_7600u
+  confidence: auto

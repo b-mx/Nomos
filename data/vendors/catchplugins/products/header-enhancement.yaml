@@ -1,0 +1,10 @@
+id: header-enhancement
+vendor_id: catchplugins
+name: Header Enhancement
+type: software
+tags: []
+cpe: cpe:2.3:a:catchplugins:header_enhancement:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: header_enhancement
+  confidence: auto

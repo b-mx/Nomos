@@ -1,0 +1,10 @@
+id: hcl-commerce
+vendor_id: hcltechsw
+name: Hcl Commerce
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltechsw:hcl_commerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_commerce
+  confidence: auto

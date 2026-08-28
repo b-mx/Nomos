@@ -1,0 +1,9 @@
+id: apache-hop
+vendor_id: apache-hop
+name: Apache Hop
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: apache-hop
+  confidence: auto

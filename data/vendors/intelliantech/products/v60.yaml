@@ -1,0 +1,10 @@
+id: v60
+vendor_id: intelliantech
+name: V60
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelliantech:v60:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v60
+  confidence: auto

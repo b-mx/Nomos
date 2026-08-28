@@ -1,0 +1,10 @@
+id: elitebook-x360-1030-g4
+vendor_id: hp
+name: Elitebook X360 1030 G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_x360_1030_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_x360_1030_g4
+  confidence: auto

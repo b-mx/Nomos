@@ -1,0 +1,10 @@
+id: amazon-music
+vendor_id: amazon
+name: Amazon Music
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:amazon_music:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_music
+  confidence: auto

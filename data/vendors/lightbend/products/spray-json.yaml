@@ -1,0 +1,10 @@
+id: spray-json
+vendor_id: lightbend
+name: Spray-Json
+type: software
+tags: []
+cpe: cpe:2.3:a:lightbend:spray\-json:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spray-json
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bus-ticket-booking-system
+vendor_id: codeastro
+name: Bus Ticket Booking System
+type: software
+tags: []
+cpe: cpe:2.3:a:codeastro:bus_ticket_booking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bus_ticket_booking_system
+  confidence: auto

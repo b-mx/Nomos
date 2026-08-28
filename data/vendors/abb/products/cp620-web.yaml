@@ -1,0 +1,10 @@
+id: cp620-web
+vendor_id: abb
+name: Cp620-Web
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:cp620\-web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp620-web
+  confidence: auto

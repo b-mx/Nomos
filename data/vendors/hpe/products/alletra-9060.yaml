@@ -1,0 +1,10 @@
+id: alletra-9060
+vendor_id: hpe
+name: Alletra 9060
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:alletra_9060:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alletra_9060
+  confidence: auto

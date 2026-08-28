@@ -1,0 +1,10 @@
+id: lsw-s9700-firmware
+vendor_id: huawei
+name: Lsw S9700 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:lsw_s9700_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lsw_s9700_firmware
+  confidence: auto

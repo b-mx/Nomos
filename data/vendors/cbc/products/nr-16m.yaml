@@ -1,0 +1,10 @@
+id: nr-16m
+vendor_id: cbc
+name: Nr-16M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:nr\-16m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr-16m
+  confidence: auto

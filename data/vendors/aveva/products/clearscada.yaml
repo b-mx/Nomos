@@ -1,0 +1,10 @@
+id: clearscada
+vendor_id: aveva
+name: Clearscada
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:clearscada:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clearscada
+  confidence: auto

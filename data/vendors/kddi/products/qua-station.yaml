@@ -1,0 +1,10 @@
+id: qua-station
+vendor_id: kddi
+name: Qua Station
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kddi:qua_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qua_station
+  confidence: auto

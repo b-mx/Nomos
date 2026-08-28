@@ -1,0 +1,10 @@
+id: epyc-embedded-9454
+vendor_id: amd
+name: Epyc Embedded 9454
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_embedded_9454:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_embedded_9454
+  confidence: auto

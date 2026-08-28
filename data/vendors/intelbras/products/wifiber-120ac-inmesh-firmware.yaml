@@ -1,0 +1,10 @@
+id: wifiber-120ac-inmesh-firmware
+vendor_id: intelbras
+name: Wifiber 120Ac Inmesh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelbras:wifiber_120ac_inmesh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifiber_120ac_inmesh_firmware
+  confidence: auto

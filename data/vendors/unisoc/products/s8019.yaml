@@ -1,0 +1,10 @@
+id: s8019
+vendor_id: unisoc
+name: S8019
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8019:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8019
+  confidence: auto

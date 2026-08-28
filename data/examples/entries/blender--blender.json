@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "blender--blender",
+  "vendor_id": "blender",
+  "product_id": "blender",
+  "name": "Blender",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "blender",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "blender",
+      "confidence": "auto"
+    }
+  ]
+}

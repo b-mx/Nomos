@@ -1,0 +1,13 @@
+id: mattermost
+vendor_id: mattermost
+name: Mattermost
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:mattermost_server:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: mattermost
+  confidence: auto
+- source: nvd
+  value: mattermost_server
+  confidence: auto

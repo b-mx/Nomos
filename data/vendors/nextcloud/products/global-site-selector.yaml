@@ -1,0 +1,10 @@
+id: global-site-selector
+vendor_id: nextcloud
+name: Global Site Selector
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:global_site_selector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: global_site_selector
+  confidence: auto

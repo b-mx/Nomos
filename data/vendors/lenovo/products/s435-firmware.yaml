@@ -1,0 +1,10 @@
+id: s435-firmware
+vendor_id: lenovo
+name: S435 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s435_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s435_firmware
+  confidence: auto

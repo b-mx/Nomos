@@ -1,0 +1,10 @@
+id: catalyst-browse
+vendor_id: sony
+name: Catalyst Browse
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:catalyst_browse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catalyst_browse
+  confidence: auto

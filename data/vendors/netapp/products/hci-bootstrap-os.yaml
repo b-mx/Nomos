@@ -1,0 +1,10 @@
+id: hci-bootstrap-os
+vendor_id: netapp
+name: Hci Bootstrap Os
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:hci_bootstrap_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hci_bootstrap_os
+  confidence: auto

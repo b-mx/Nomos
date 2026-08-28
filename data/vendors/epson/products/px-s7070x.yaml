@@ -1,0 +1,10 @@
+id: px-s7070x
+vendor_id: epson
+name: Px-S7070X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-s7070x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-s7070x
+  confidence: auto

@@ -1,0 +1,10 @@
+id: neverstop-laser-1000-4ry22a
+vendor_id: hp
+name: Neverstop Laser 1000 4Ry22A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:neverstop_laser_1000_4ry22a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neverstop_laser_1000_4ry22a
+  confidence: auto

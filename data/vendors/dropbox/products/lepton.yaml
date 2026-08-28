@@ -1,0 +1,10 @@
+id: lepton
+vendor_id: dropbox
+name: Lepton
+type: software
+tags: []
+cpe: cpe:2.3:a:dropbox:lepton:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lepton
+  confidence: auto

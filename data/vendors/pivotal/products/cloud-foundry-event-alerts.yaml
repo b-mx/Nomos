@@ -1,0 +1,10 @@
+id: cloud-foundry-event-alerts
+vendor_id: pivotal
+name: Cloud Foundry Event Alerts
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:cloud_foundry_event_alerts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_event_alerts
+  confidence: auto

@@ -1,0 +1,10 @@
+id: epyc-embedded-7742
+vendor_id: amd
+name: Epyc Embedded 7742
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_embedded_7742:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_embedded_7742
+  confidence: auto

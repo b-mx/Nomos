@@ -1,0 +1,10 @@
+id: pagewide-color-755
+vendor_id: hp
+name: Pagewide Color 755
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pagewide_color_755:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pagewide_color_755
+  confidence: auto

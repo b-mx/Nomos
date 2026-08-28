@@ -1,0 +1,10 @@
+id: csdj-b-firmware
+vendor_id: nec
+name: Csdj-B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:csdj\-b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: csdj-b_firmware
+  confidence: auto

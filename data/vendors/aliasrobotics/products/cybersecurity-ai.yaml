@@ -1,0 +1,10 @@
+id: cybersecurity-ai
+vendor_id: aliasrobotics
+name: Cybersecurity Ai
+type: software
+tags: []
+cpe: cpe:2.3:a:aliasrobotics:cybersecurity_ai:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cybersecurity_ai
+  confidence: auto

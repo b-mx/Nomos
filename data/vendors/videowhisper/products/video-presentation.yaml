@@ -1,0 +1,10 @@
+id: video-presentation
+vendor_id: videowhisper
+name: Video Presentation
+type: software
+tags: []
+cpe: cpe:2.3:a:videowhisper:video_presentation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_presentation
+  confidence: auto

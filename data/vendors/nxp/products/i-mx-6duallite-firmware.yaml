@@ -1,0 +1,10 @@
+id: i-mx-6duallite-firmware
+vendor_id: nxp
+name: I.Mx 6Duallite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:i\.mx_6duallite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_6duallite_firmware
+  confidence: auto

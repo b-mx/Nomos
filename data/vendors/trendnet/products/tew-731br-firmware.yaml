@@ -1,0 +1,10 @@
+id: tew-731br-firmware
+vendor_id: trendnet
+name: Tew-731Br Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:tew\-731br_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tew-731br_firmware
+  confidence: auto

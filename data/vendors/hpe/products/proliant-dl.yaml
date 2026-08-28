@@ -1,0 +1,10 @@
+id: proliant-dl
+vendor_id: hpe
+name: Proliant Dl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_dl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_dl
+  confidence: auto

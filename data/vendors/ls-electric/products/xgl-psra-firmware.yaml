@@ -1,0 +1,10 @@
+id: xgl-psra-firmware
+vendor_id: ls-electric
+name: Xgl-Psra Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgl\-psra_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgl-psra_firmware
+  confidence: auto

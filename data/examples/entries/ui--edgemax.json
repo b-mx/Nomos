@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--edgemax",
+  "vendor_id": "ui",
+  "product_id": "edgemax",
+  "name": "Edgemax",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edgemax",
+      "confidence": "auto"
+    }
+  ]
+}

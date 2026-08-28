@@ -1,0 +1,13 @@
+id: dovecot
+vendor_id: dovecot
+name: Dovecot
+type: software
+tags: []
+cpe: cpe:2.3:a:dovecot:dovecot:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: dovecot
+  confidence: auto
+- source: nvd
+  value: dovecot
+  confidence: auto

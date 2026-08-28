@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--service-virtualization",
+  "vendor_id": "hp",
+  "product_id": "service-virtualization",
+  "name": "Service Virtualization",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_virtualization",
+      "confidence": "auto"
+    }
+  ]
+}

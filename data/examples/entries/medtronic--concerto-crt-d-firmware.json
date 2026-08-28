@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--concerto-crt-d-firmware",
+  "vendor_id": "medtronic",
+  "product_id": "concerto-crt-d-firmware",
+  "name": "Concerto Crt-D Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "concerto_crt-d_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: farmacia
+vendor_id: anisha
+name: Farmacia
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:farmacia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: farmacia
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ee--4gee-firmware",
+  "vendor_id": "ee",
+  "product_id": "4gee-firmware",
+  "name": "4Gee Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "4gee_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

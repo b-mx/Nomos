@@ -1,0 +1,10 @@
+id: intellivue-mp-monitors-mp20-mp90-firmware
+vendor_id: philips
+name: Intellivue Mp Monitors Mp20-Mp90 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:intellivue_mp_monitors_mp20\-mp90_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellivue_mp_monitors_mp20-mp90_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 3xd89a
+vendor_id: hp
+name: 3Xd89A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:3xd89a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3xd89a
+  confidence: auto

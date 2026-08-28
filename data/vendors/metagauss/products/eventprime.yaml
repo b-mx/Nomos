@@ -1,0 +1,10 @@
+id: eventprime
+vendor_id: metagauss
+name: Eventprime
+type: software
+tags: []
+cpe: cpe:2.3:a:metagauss:eventprime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eventprime
+  confidence: auto

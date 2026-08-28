@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "raritan--dominion-sx4-firmware",
+  "vendor_id": "raritan",
+  "product_id": "dominion-sx4-firmware",
+  "name": "Dominion Sx4 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dominion_sx4_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

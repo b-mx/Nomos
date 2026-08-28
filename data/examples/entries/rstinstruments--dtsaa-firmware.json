@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rstinstruments--dtsaa-firmware",
+  "vendor_id": "rstinstruments",
+  "product_id": "dtsaa-firmware",
+  "name": "Dtsaa Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dtsaa_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

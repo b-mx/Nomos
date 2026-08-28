@@ -1,0 +1,10 @@
+id: wifi-led-strip
+vendor_id: mystrom
+name: Wifi Led Strip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mystrom:wifi_led_strip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifi_led_strip
+  confidence: auto

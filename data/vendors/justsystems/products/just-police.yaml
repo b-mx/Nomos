@@ -1,0 +1,10 @@
+id: just-police
+vendor_id: justsystems
+name: Just Police
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:just_police:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: just_police
+  confidence: auto

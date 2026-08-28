@@ -1,0 +1,10 @@
+id: n2plus
+vendor_id: iptime
+name: N2Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:n2plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n2plus
+  confidence: auto

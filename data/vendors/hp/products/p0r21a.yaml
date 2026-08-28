@@ -1,0 +1,10 @@
+id: p0r21a
+vendor_id: hp
+name: P0R21A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:p0r21a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p0r21a
+  confidence: auto

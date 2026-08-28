@@ -1,0 +1,10 @@
+id: bi-acc-report-firmware
+vendor_id: huawei
+name: Bi-Acc-Report Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:bi\-acc\-report_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bi-acc-report_firmware
+  confidence: auto

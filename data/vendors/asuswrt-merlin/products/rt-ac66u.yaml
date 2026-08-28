@@ -1,0 +1,10 @@
+id: rt-ac66u
+vendor_id: asuswrt-merlin
+name: Rt-Ac66U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-ac66u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-ac66u
+  confidence: auto

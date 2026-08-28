@@ -1,0 +1,6 @@
+id: amazon-rds-mariadb
+name: Amazon RDS for MariaDB
+aliases:
+- source: endoflife
+  value: amazon-rds-mariadb
+  confidence: auto

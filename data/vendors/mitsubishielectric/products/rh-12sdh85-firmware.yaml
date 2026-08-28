@@ -1,0 +1,10 @@
+id: rh-12sdh85-firmware
+vendor_id: mitsubishielectric
+name: Rh-12Sdh85 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rh\-12sdh85_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh-12sdh85_firmware
+  confidence: auto

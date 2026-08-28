@@ -1,0 +1,10 @@
+id: athoc
+vendor_id: blackberry
+name: Athoc
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:athoc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athoc
+  confidence: auto

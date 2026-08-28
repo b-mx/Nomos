@@ -1,0 +1,10 @@
+id: bosh-backup-and-restore
+vendor_id: cloudfoundry
+name: Bosh Backup And Restore
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:bosh_backup_and_restore:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bosh_backup_and_restore
+  confidence: auto

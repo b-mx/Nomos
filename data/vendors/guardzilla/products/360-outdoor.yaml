@@ -1,0 +1,10 @@
+id: 360-outdoor
+vendor_id: guardzilla
+name: 360 Outdoor
+type: hardware
+tags: []
+cpe: cpe:2.3:h:guardzilla:360_outdoor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 360_outdoor
+  confidence: auto

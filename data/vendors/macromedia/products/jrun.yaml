@@ -1,0 +1,10 @@
+id: jrun
+vendor_id: macromedia
+name: Jrun
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:jrun:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jrun
+  confidence: auto

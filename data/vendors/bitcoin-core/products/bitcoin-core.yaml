@@ -1,0 +1,9 @@
+id: bitcoin-core
+vendor_id: bitcoin-core
+name: Bitcoin Core
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: bitcoin-core
+  confidence: auto

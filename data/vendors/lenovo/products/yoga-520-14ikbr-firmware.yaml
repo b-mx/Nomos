@@ -1,0 +1,10 @@
+id: yoga-520-14ikbr-firmware
+vendor_id: lenovo
+name: Yoga 520-14Ikbr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yoga_520\-14ikbr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_520-14ikbr_firmware
+  confidence: auto

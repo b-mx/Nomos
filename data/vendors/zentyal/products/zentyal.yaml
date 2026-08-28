@@ -1,0 +1,9 @@
+id: zentyal
+vendor_id: zentyal
+name: Zentyal
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: zentyal
+  confidence: auto

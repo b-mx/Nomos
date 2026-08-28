@@ -1,0 +1,10 @@
+id: si4091-firmware
+vendor_id: lenovo
+name: Si4091 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:si4091_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: si4091_firmware
+  confidence: auto

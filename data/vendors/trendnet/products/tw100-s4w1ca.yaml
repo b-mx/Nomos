@@ -1,0 +1,10 @@
+id: tw100-s4w1ca
+vendor_id: trendnet
+name: Tw100-S4W1Ca
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tw100\-s4w1ca:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tw100-s4w1ca
+  confidence: auto

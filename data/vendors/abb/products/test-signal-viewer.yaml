@@ -1,0 +1,10 @@
+id: test-signal-viewer
+vendor_id: abb
+name: Test Signal Viewer
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:test_signal_viewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: test_signal_viewer
+  confidence: auto

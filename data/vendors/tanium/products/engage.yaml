@@ -1,0 +1,10 @@
+id: engage
+vendor_id: tanium
+name: Engage
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:engage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engage
+  confidence: auto

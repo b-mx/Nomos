@@ -1,0 +1,10 @@
+id: toolscenter-dynamic-system-analysis
+vendor_id: lenovo
+name: Toolscenter Dynamic System Analysis
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:toolscenter_dynamic_system_analysis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toolscenter_dynamic_system_analysis
+  confidence: auto

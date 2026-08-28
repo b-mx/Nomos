@@ -1,0 +1,10 @@
+id: compact-5500r
+vendor_id: auerswald
+name: Compact 5500R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:auerswald:compact_5500r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compact_5500r
+  confidence: auto

@@ -1,0 +1,10 @@
+id: emta-ap
+vendor_id: coship
+name: Emta Ap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:coship:emta_ap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emta_ap
+  confidence: auto

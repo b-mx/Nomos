@@ -1,0 +1,10 @@
+id: ryzen-9-3950x
+vendor_id: amd
+name: Ryzen 9 3950X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_9_3950x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_9_3950x
+  confidence: auto

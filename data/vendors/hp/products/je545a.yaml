@@ -1,0 +1,10 @@
+id: je545a
+vendor_id: hp
+name: Je545A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je545a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je545a
+  confidence: auto

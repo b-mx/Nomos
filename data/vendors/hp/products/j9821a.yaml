@@ -1,0 +1,10 @@
+id: j9821a
+vendor_id: hp
+name: J9821A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:j9821a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j9821a
+  confidence: auto

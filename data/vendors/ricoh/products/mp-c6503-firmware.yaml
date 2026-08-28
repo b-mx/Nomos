@@ -1,0 +1,10 @@
+id: mp-c6503-firmware
+vendor_id: ricoh
+name: Mp C6503 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:mp_c6503_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c6503_firmware
+  confidence: auto

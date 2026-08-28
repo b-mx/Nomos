@@ -1,0 +1,10 @@
+id: lenovo-63
+vendor_id: lenovo
+name: Lenovo 63
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:lenovo_63:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_63
+  confidence: auto

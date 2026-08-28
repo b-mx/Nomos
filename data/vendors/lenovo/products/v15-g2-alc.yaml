@@ -1,0 +1,10 @@
+id: v15-g2-alc
+vendor_id: lenovo
+name: V15 G2-Alc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v15_g2\-alc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v15_g2-alc
+  confidence: auto

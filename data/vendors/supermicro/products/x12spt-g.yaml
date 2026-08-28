@@ -1,0 +1,10 @@
+id: x12spt-g
+vendor_id: supermicro
+name: X12Spt-G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12spt\-g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12spt-g
+  confidence: auto

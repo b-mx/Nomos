@@ -1,0 +1,10 @@
+id: suse-linux-enterprise-module-for-public-cloud
+vendor_id: novell
+name: Suse Linux Enterprise Module For Public Cloud
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:suse_linux_enterprise_module_for_public_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_enterprise_module_for_public_cloud
+  confidence: auto

@@ -1,0 +1,10 @@
+id: yith-woocommerce-authorize-net-payment-gateway
+vendor_id: yithemes
+name: Yith Woocommerce Authorize.Net Payment Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:yithemes:yith_woocommerce_authorize\.net_payment_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yith_woocommerce_authorize.net_payment_gateway
+  confidence: auto

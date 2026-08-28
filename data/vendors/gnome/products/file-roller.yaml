@@ -1,0 +1,10 @@
+id: file-roller
+vendor_id: gnome
+name: File-Roller
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:file\-roller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: file-roller
+  confidence: auto

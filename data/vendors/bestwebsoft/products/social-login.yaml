@@ -1,0 +1,10 @@
+id: social-login
+vendor_id: bestwebsoft
+name: Social Login
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:social_login:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: social_login
+  confidence: auto

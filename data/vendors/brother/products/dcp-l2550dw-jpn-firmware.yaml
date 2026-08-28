@@ -1,0 +1,10 @@
+id: dcp-l2550dw-jpn-firmware
+vendor_id: brother
+name: Dcp-L2550Dw(Jpn) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp\-l2550dw\(jpn\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-l2550dw(jpn)_firmware
+  confidence: auto

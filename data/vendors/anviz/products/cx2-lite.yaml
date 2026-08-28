@@ -1,0 +1,10 @@
+id: cx2-lite
+vendor_id: anviz
+name: Cx2 Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:anviz:cx2_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx2_lite
+  confidence: auto

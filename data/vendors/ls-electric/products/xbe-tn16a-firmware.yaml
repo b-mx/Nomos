@@ -1,0 +1,10 @@
+id: xbe-tn16a-firmware
+vendor_id: ls-electric
+name: Xbe-Tn16A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbe\-tn16a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbe-tn16a_firmware
+  confidence: auto

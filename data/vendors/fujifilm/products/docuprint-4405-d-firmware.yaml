@@ -1,0 +1,10 @@
+id: docuprint-4405-d-firmware
+vendor_id: fujifilm
+name: Docuprint 4405 D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:docuprint_4405_d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_4405_d_firmware
+  confidence: auto

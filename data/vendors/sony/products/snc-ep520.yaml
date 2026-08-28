@@ -1,0 +1,10 @@
+id: snc-ep520
+vendor_id: sony
+name: Snc-Ep520
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-ep520:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-ep520
+  confidence: auto

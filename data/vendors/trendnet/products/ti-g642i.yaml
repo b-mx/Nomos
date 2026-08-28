@@ -1,0 +1,10 @@
+id: ti-g642i
+vendor_id: trendnet
+name: Ti-G642I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:ti\-g642i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ti-g642i
+  confidence: auto

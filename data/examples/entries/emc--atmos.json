@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--atmos",
+  "vendor_id": "emc",
+  "product_id": "atmos",
+  "name": "Atmos",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "atmos",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: storcenter-px12-450r-firmware
+vendor_id: lenovo
+name: Storcenter Px12-450R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:storcenter_px12\-450r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storcenter_px12-450r_firmware
+  confidence: auto

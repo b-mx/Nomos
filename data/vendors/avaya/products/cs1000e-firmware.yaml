@@ -1,0 +1,10 @@
+id: cs1000e-firmware
+vendor_id: avaya
+name: Cs1000E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:avaya:cs1000e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1000e_firmware
+  confidence: auto

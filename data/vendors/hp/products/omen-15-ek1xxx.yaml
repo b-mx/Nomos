@@ -1,0 +1,10 @@
+id: omen-15-ek1xxx
+vendor_id: hp
+name: Omen 15-Ek1Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_15\-ek1xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_15-ek1xxx
+  confidence: auto

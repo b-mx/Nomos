@@ -1,0 +1,10 @@
+id: secure-access-link-gateway
+vendor_id: avaya
+name: Secure Access Link Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:secure_access_link_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_access_link_gateway
+  confidence: auto

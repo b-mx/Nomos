@@ -1,0 +1,10 @@
+id: lti-jupyterhub-authenticator
+vendor_id: jupyter
+name: Lti Jupyterhub Authenticator
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:lti_jupyterhub_authenticator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lti_jupyterhub_authenticator
+  confidence: auto

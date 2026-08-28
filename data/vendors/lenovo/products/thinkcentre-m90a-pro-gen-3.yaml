@@ -1,0 +1,10 @@
+id: thinkcentre-m90a-pro-gen-3
+vendor_id: lenovo
+name: Thinkcentre M90A Pro Gen 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m90a_pro_gen_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m90a_pro_gen_3
+  confidence: auto

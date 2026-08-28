@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yubico--yubihsm-shell",
+  "vendor_id": "yubico",
+  "product_id": "yubihsm-shell",
+  "name": "Yubihsm-Shell",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "yubihsm-shell",
+      "confidence": "auto"
+    }
+  ]
+}

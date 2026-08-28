@@ -1,0 +1,10 @@
+id: relational-database-service
+vendor_id: amazon
+name: Relational Database Service
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:relational_database_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: relational_database_service
+  confidence: auto

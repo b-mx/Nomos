@@ -1,0 +1,10 @@
+id: lsquic
+vendor_id: litespeedtech
+name: Lsquic
+type: software
+tags: []
+cpe: cpe:2.3:a:litespeedtech:lsquic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lsquic
+  confidence: auto

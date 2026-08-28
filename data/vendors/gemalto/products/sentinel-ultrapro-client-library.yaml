@@ -1,0 +1,10 @@
+id: sentinel-ultrapro-client-library
+vendor_id: gemalto
+name: Sentinel Ultrapro Client Library
+type: software
+tags: []
+cpe: cpe:2.3:a:gemalto:sentinel_ultrapro_client_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sentinel_ultrapro_client_library
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-m9050-mpf
+vendor_id: hp
+name: Laserjet M9050 Mpf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m9050_mpf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m9050_mpf
+  confidence: auto

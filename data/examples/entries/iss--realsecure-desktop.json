@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iss--realsecure-desktop",
+  "vendor_id": "iss",
+  "product_id": "realsecure-desktop",
+  "name": "Realsecure Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "realsecure_desktop",
+      "confidence": "auto"
+    }
+  ]
+}

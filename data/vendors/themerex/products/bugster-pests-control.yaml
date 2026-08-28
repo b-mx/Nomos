@@ -1,0 +1,10 @@
+id: bugster-pests-control
+vendor_id: themerex
+name: Bugster-Pests Control
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:bugster\-pests_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bugster-pests_control
+  confidence: auto

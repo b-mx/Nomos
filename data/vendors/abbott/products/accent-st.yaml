@@ -1,0 +1,10 @@
+id: accent-st
+vendor_id: abbott
+name: Accent St
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abbott:accent_st:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accent_st
+  confidence: auto

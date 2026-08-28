@@ -1,0 +1,10 @@
+id: maya
+vendor_id: autodesk
+name: Maya
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:maya:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maya
+  confidence: auto

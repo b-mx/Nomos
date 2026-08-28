@@ -1,0 +1,10 @@
+id: fs040u
+vendor_id: fsi
+name: Fs040U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fsi:fs040u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fs040u
+  confidence: auto

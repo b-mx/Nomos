@@ -1,0 +1,10 @@
+id: processing-kit-for-xml
+vendor_id: hitachi
+name: Processing Kit For Xml
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:processing_kit_for_xml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: processing_kit_for_xml
+  confidence: auto

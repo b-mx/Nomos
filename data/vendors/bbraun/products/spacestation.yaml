@@ -1,0 +1,10 @@
+id: spacestation
+vendor_id: bbraun
+name: Spacestation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bbraun:spacestation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spacestation
+  confidence: auto

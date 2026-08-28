@@ -1,0 +1,10 @@
+id: concerto-crt-d-firmware
+vendor_id: medtronic
+name: Concerto Crt-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:concerto_crt\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: concerto_crt-d_firmware
+  confidence: auto

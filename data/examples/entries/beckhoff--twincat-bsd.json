@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "beckhoff--twincat-bsd",
+  "vendor_id": "beckhoff",
+  "product_id": "twincat-bsd",
+  "name": "Twincat/Bsd",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "twincat/bsd",
+      "confidence": "auto"
+    }
+  ]
+}

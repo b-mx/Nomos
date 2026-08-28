@@ -1,0 +1,10 @@
+id: k41-80
+vendor_id: lenovo
+name: K41-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:k41\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k41-80
+  confidence: auto

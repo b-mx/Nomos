@@ -1,0 +1,10 @@
+id: catch-breadcrumb
+vendor_id: catchplugins
+name: Catch Breadcrumb
+type: software
+tags: []
+cpe: cpe:2.3:a:catchplugins:catch_breadcrumb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catch_breadcrumb
+  confidence: auto

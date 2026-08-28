@@ -1,0 +1,10 @@
+id: laserjet-pro-400-color-mfp-m475
+vendor_id: hp
+name: Laserjet Pro 400 Color Mfp M475
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_400_color_mfp_m475:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_400_color_mfp_m475
+  confidence: auto

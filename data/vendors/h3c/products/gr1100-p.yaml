@@ -1,0 +1,10 @@
+id: gr1100-p
+vendor_id: h3c
+name: Gr1100-P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:gr1100\-p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gr1100-p
+  confidence: auto

@@ -1,0 +1,10 @@
+id: easysoft
+vendor_id: eaton
+name: Easysoft
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:easysoft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easysoft
+  confidence: auto

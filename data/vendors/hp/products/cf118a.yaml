@@ -1,0 +1,10 @@
+id: cf118a
+vendor_id: hp
+name: Cf118A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cf118a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf118a
+  confidence: auto

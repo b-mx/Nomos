@@ -1,0 +1,7 @@
+id: mariadb
+name: Mariadb
+cpe: cpe:2.3:*:mariadb:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mariadb
+  confidence: auto

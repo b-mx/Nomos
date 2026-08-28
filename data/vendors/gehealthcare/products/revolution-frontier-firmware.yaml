@@ -1,0 +1,10 @@
+id: revolution-frontier-firmware
+vendor_id: gehealthcare
+name: Revolution Frontier Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:revolution_frontier_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revolution_frontier_firmware
+  confidence: auto

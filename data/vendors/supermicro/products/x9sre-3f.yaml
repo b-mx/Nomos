@@ -1,0 +1,10 @@
+id: x9sre-3f
+vendor_id: supermicro
+name: X9Sre-3F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9sre\-3f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9sre-3f
+  confidence: auto

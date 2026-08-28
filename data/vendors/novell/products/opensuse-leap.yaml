@@ -1,0 +1,10 @@
+id: opensuse-leap
+vendor_id: novell
+name: Opensuse Leap
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:opensuse_leap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensuse_leap
+  confidence: auto

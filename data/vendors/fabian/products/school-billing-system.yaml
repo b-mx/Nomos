@@ -1,0 +1,10 @@
+id: school-billing-system
+vendor_id: fabian
+name: School Billing System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:school_billing_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: school_billing_system
+  confidence: auto

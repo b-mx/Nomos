@@ -1,0 +1,10 @@
+id: apollo-r2800-gen10
+vendor_id: hpe
+name: Apollo R2800 Gen10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:apollo_r2800_gen10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_r2800_gen10
+  confidence: auto

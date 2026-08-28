@@ -1,0 +1,10 @@
+id: autohoster
+vendor_id: iscripts
+name: Autohoster
+type: software
+tags: []
+cpe: cpe:2.3:a:iscripts:autohoster:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autohoster
+  confidence: auto

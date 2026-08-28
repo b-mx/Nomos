@@ -1,0 +1,10 @@
+id: embedded-lights-out-manager
+vendor_id: sun
+name: Embedded Lights Out Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:embedded_lights_out_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: embedded_lights_out_manager
+  confidence: auto

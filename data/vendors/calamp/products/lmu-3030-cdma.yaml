@@ -1,0 +1,10 @@
+id: lmu-3030-cdma
+vendor_id: calamp
+name: Lmu 3030 Cdma
+type: hardware
+tags: []
+cpe: cpe:2.3:h:calamp:lmu_3030_cdma:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lmu_3030_cdma
+  confidence: auto

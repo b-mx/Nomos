@@ -1,0 +1,10 @@
+id: reputation
+vendor_id: tanium
+name: Reputation
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:reputation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reputation
+  confidence: auto

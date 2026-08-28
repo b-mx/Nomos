@@ -1,0 +1,10 @@
+id: ideapad-5-15iil05-firmware
+vendor_id: lenovo
+name: Ideapad 5 15Iil05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_5_15iil05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_5_15iil05_firmware
+  confidence: auto

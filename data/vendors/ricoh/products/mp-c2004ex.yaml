@@ -1,0 +1,10 @@
+id: mp-c2004ex
+vendor_id: ricoh
+name: Mp C2004Ex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_c2004ex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c2004ex
+  confidence: auto

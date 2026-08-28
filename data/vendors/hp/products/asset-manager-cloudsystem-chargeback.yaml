@@ -1,0 +1,10 @@
+id: asset-manager-cloudsystem-chargeback
+vendor_id: hp
+name: Asset Manager Cloudsystem Chargeback
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:asset_manager_cloudsystem_chargeback:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asset_manager_cloudsystem_chargeback
+  confidence: auto

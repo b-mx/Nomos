@@ -1,0 +1,10 @@
+id: dx-2000u
+vendor_id: sharp
+name: Dx-2000U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:dx\-2000u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dx-2000u
+  confidence: auto

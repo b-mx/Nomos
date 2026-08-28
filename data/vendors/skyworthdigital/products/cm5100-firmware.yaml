@@ -1,0 +1,10 @@
+id: cm5100-firmware
+vendor_id: skyworthdigital
+name: Cm5100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:skyworthdigital:cm5100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm5100_firmware
+  confidence: auto

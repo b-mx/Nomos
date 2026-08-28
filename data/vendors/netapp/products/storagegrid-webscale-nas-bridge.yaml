@@ -1,0 +1,10 @@
+id: storagegrid-webscale-nas-bridge
+vendor_id: netapp
+name: Storagegrid Webscale Nas Bridge
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:storagegrid_webscale_nas_bridge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storagegrid_webscale_nas_bridge
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11ssn-h-vdc-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11ssn-h-vdc-firmware",
+  "name": "X11Ssn-H-Vdc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11ssn-h-vdc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

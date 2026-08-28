@@ -1,0 +1,10 @@
+id: lenels2-lnl-x3300
+vendor_id: carrier
+name: Lenels2 Lnl-X3300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:carrier:lenels2_lnl\-x3300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenels2_lnl-x3300
+  confidence: auto

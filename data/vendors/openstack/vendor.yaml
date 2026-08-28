@@ -1,0 +1,7 @@
+id: openstack
+name: Openstack
+cpe: cpe:2.3:*:openstack:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstack
+  confidence: auto

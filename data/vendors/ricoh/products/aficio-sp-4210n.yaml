@@ -1,0 +1,10 @@
+id: aficio-sp-4210n
+vendor_id: ricoh
+name: Aficio Sp 4210N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:aficio_sp_4210n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aficio_sp_4210n
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--hp-h-series-fibre-channel-switch-firmware",
+  "vendor_id": "hp",
+  "product_id": "hp-h-series-fibre-channel-switch-firmware",
+  "name": "Hp H-Series Fibre Channel Switch Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hp_h-series_fibre_channel_switch_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: simplisafe-ss3-firmware
+vendor_id: simplisafe
+name: Simplisafe Ss3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:simplisafe:simplisafe_ss3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplisafe_ss3_firmware
+  confidence: auto

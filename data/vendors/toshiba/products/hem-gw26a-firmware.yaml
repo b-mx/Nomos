@@ -1,0 +1,10 @@
+id: hem-gw26a-firmware
+vendor_id: toshiba
+name: Hem-Gw26A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:toshiba:hem\-gw26a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hem-gw26a_firmware
+  confidence: auto

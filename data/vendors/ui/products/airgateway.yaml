@@ -1,0 +1,10 @@
+id: airgateway
+vendor_id: ui
+name: Airgateway
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:airgateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airgateway
+  confidence: auto

@@ -1,0 +1,10 @@
+id: potter-al10a
+vendor_id: huawei
+name: Potter-Al10A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:potter\-al10a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: potter-al10a
+  confidence: auto

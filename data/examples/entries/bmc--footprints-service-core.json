@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--footprints-service-core",
+  "vendor_id": "bmc",
+  "product_id": "footprints-service-core",
+  "name": "Footprints Service Core",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "footprints_service_core",
+      "confidence": "auto"
+    }
+  ]
+}

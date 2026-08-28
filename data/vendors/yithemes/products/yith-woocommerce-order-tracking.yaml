@@ -1,0 +1,10 @@
+id: yith-woocommerce-order-tracking
+vendor_id: yithemes
+name: Yith Woocommerce Order Tracking
+type: software
+tags: []
+cpe: cpe:2.3:a:yithemes:yith_woocommerce_order_tracking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yith_woocommerce_order_tracking
+  confidence: auto

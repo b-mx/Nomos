@@ -1,0 +1,10 @@
+id: btoe-connector
+vendor_id: polycom
+name: Btoe Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:polycom:btoe_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: btoe_connector
+  confidence: auto

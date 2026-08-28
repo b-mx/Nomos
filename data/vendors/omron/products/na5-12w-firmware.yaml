@@ -1,0 +1,10 @@
+id: na5-12w-firmware
+vendor_id: omron
+name: Na5-12W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:na5\-12w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: na5-12w_firmware
+  confidence: auto

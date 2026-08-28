@@ -1,0 +1,10 @@
+id: ht-builder
+vendor_id: hasthemes
+name: Ht Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:ht_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ht_builder
+  confidence: auto

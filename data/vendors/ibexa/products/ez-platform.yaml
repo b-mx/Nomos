@@ -1,0 +1,10 @@
+id: ez-platform
+vendor_id: ibexa
+name: Ez Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:ibexa:ez_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ez_platform
+  confidence: auto

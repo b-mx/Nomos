@@ -1,0 +1,10 @@
+id: signa-vibrant
+vendor_id: gehealthcare
+name: Signa Vibrant
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:signa_vibrant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: signa_vibrant
+  confidence: auto

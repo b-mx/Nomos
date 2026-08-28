@@ -1,0 +1,10 @@
+id: l340-17iwl
+vendor_id: lenovo
+name: L340-17Iwl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:l340\-17iwl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l340-17iwl
+  confidence: auto

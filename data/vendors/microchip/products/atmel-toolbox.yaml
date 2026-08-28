@@ -1,0 +1,10 @@
+id: atmel-toolbox
+vendor_id: microchip
+name: Atmel Toolbox
+type: software
+tags: []
+cpe: cpe:2.3:a:microchip:atmel_toolbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atmel_toolbox
+  confidence: auto

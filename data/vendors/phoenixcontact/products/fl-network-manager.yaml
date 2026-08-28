@@ -1,0 +1,10 @@
+id: fl-network-manager
+vendor_id: phoenixcontact
+name: Fl Network Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:fl_network_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_network_manager
+  confidence: auto

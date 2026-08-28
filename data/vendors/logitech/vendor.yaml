@@ -1,0 +1,7 @@
+id: logitech
+name: Logitech
+cpe: cpe:2.3:*:logitech:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logitech
+  confidence: auto

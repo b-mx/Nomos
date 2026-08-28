@@ -1,0 +1,10 @@
+id: elitebook-folio-9480m
+vendor_id: hp
+name: Elitebook Folio 9480M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_folio_9480m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_folio_9480m
+  confidence: auto

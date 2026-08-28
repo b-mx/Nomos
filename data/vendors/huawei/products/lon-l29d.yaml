@@ -1,0 +1,10 @@
+id: lon-l29d
+vendor_id: huawei
+name: Lon-L29D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:lon\-l29d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lon-l29d
+  confidence: auto

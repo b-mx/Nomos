@@ -1,0 +1,10 @@
+id: archiver
+vendor_id: gfi
+name: Archiver
+type: software
+tags: []
+cpe: cpe:2.3:a:gfi:archiver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: archiver
+  confidence: auto

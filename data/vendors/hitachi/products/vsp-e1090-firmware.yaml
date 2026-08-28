@@ -1,0 +1,10 @@
+id: vsp-e1090-firmware
+vendor_id: hitachi
+name: Vsp E1090 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitachi:vsp_e1090_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsp_e1090_firmware
+  confidence: auto

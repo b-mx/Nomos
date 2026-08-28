@@ -1,0 +1,10 @@
+id: prodesk-405-g6-small-form-factor-firmware
+vendor_id: hp
+name: Prodesk 405 G6 Small Form Factor Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:prodesk_405_g6_small_form_factor_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_405_g6_small_form_factor_firmware
+  confidence: auto

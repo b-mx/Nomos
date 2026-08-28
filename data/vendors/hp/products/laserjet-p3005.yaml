@@ -1,0 +1,10 @@
+id: laserjet-p3005
+vendor_id: hp
+name: Laserjet P3005
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_p3005:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_p3005
+  confidence: auto

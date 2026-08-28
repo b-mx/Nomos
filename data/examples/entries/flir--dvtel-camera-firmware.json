@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "flir--dvtel-camera-firmware",
+  "vendor_id": "flir",
+  "product_id": "dvtel-camera-firmware",
+  "name": "Dvtel Camera Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dvtel_camera_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mattermost--legal-hold",
+  "vendor_id": "mattermost",
+  "product_id": "legal-hold",
+  "name": "Legal Hold",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "legal_hold",
+      "confidence": "auto"
+    }
+  ]
+}

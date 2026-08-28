@@ -1,0 +1,10 @@
+id: x925
+vendor_id: lexmark
+name: X925
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x925:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x925
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sv8100
+vendor_id: nec
+name: Sv8100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:sv8100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sv8100
+  confidence: auto

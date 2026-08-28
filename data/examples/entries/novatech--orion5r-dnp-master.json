@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novatech--orion5r-dnp-master",
+  "vendor_id": "novatech",
+  "product_id": "orion5r-dnp-master",
+  "name": "Orion5R Dnp Master",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "orion5r_dnp_master",
+      "confidence": "auto"
+    }
+  ]
+}

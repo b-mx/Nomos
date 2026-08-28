@@ -1,0 +1,10 @@
+id: qitian-4500
+vendor_id: lenovo
+name: Qitian 4500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:qitian_4500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qitian_4500
+  confidence: auto

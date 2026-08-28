@@ -1,0 +1,10 @@
+id: t8w18h
+vendor_id: hp
+name: T8W18H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:t8w18h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t8w18h
+  confidence: auto

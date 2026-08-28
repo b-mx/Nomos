@@ -1,0 +1,10 @@
+id: ms431
+vendor_id: lexmark
+name: Ms431
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms431:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms431
+  confidence: auto

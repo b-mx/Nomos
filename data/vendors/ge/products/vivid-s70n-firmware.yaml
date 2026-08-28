@@ -1,0 +1,10 @@
+id: vivid-s70n-firmware
+vendor_id: ge
+name: Vivid S70N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:vivid_s70n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vivid_s70n_firmware
+  confidence: auto

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "nodejs",
+  "vendor_id": "nodejs",
+  "name": "Nodejs",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nodejs",
+      "confidence": "auto"
+    }
+  ]
+}

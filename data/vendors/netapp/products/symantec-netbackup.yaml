@@ -1,0 +1,10 @@
+id: symantec-netbackup
+vendor_id: netapp
+name: Symantec Netbackup
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:symantec_netbackup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symantec_netbackup
+  confidence: auto

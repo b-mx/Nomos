@@ -1,0 +1,10 @@
+id: file-manager
+vendor_id: elecom
+name: File Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:elecom:file_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: file_manager
+  confidence: auto

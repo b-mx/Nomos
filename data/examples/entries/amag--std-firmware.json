@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amag--std-firmware",
+  "vendor_id": "amag",
+  "product_id": "std-firmware",
+  "name": "Std Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "std_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

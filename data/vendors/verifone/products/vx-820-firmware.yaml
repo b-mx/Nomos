@@ -1,0 +1,10 @@
+id: vx-820-firmware
+vendor_id: verifone
+name: Vx 820 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:verifone:vx_820_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx_820_firmware
+  confidence: auto

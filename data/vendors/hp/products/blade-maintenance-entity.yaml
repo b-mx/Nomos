@@ -1,0 +1,10 @@
+id: blade-maintenance-entity
+vendor_id: hp
+name: Blade Maintenance Entity
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:blade_maintenance_entity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_maintenance_entity
+  confidence: auto

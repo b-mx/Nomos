@@ -1,0 +1,10 @@
+id: vicky-al00
+vendor_id: huawei
+name: Vicky-Al00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:vicky\-al00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vicky-al00
+  confidence: auto

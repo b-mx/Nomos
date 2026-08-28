@@ -1,0 +1,10 @@
+id: logiq-5-bt03-firmware
+vendor_id: gehealthcare
+name: Logiq 5 Bt03 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:logiq_5_bt03_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logiq_5_bt03_firmware
+  confidence: auto

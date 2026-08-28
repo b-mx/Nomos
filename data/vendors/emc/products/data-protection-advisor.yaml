@@ -1,0 +1,10 @@
+id: data-protection-advisor
+vendor_id: emc
+name: Data Protection Advisor
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:data_protection_advisor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_protection_advisor
+  confidence: auto

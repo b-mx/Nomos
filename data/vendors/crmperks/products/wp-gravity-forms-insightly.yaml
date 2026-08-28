@@ -1,0 +1,10 @@
+id: wp-gravity-forms-insightly
+vendor_id: crmperks
+name: Wp Gravity Forms Insightly
+type: software
+tags: []
+cpe: cpe:2.3:a:crmperks:wp_gravity_forms_insightly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_gravity_forms_insightly
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nasa--openmct",
+  "vendor_id": "nasa",
+  "product_id": "openmct",
+  "name": "Openmct",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openmct",
+      "confidence": "auto"
+    }
+  ]
+}

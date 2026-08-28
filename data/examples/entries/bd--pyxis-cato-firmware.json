@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--pyxis-cato-firmware",
+  "vendor_id": "bd",
+  "product_id": "pyxis-cato-firmware",
+  "name": "Pyxis Cato Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyxis_cato_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

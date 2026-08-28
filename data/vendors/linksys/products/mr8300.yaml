@@ -1,0 +1,10 @@
+id: mr8300
+vendor_id: linksys
+name: Mr8300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:mr8300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mr8300
+  confidence: auto

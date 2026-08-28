@@ -1,0 +1,10 @@
+id: twincat-extended-automation-runtime
+vendor_id: beckhoff
+name: Twincat Extended Automation Runtime
+type: software
+tags: []
+cpe: cpe:2.3:a:beckhoff:twincat_extended_automation_runtime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twincat_extended_automation_runtime
+  confidence: auto

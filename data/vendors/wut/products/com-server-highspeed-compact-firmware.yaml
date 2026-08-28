@@ -1,0 +1,10 @@
+id: com-server-highspeed-compact-firmware
+vendor_id: wut
+name: Com-Server Highspeed Compact Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wut:com\-server_highspeed_compact_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: com-server_highspeed_compact_firmware
+  confidence: auto

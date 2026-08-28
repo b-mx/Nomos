@@ -1,0 +1,10 @@
+id: disksorter
+vendor_id: flexense
+name: Disksorter
+type: software
+tags: []
+cpe: cpe:2.3:a:flexense:disksorter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: disksorter
+  confidence: auto

@@ -1,0 +1,10 @@
+id: stylus-pro-gs6000-firmware
+vendor_id: epson
+name: Stylus Pro Gs6000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:stylus_pro_gs6000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stylus_pro_gs6000_firmware
+  confidence: auto

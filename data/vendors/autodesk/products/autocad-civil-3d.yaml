@@ -1,0 +1,10 @@
+id: autocad-civil-3d
+vendor_id: autodesk
+name: Autocad Civil 3D
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autocad_civil_3d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocad_civil_3d
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dt2050
+vendor_id: rstinstruments
+name: Dt2050
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:dt2050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt2050
+  confidence: auto

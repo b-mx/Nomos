@@ -1,0 +1,10 @@
+id: p4705-plve
+vendor_id: axis
+name: P4705-Plve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p4705\-plve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p4705-plve
+  confidence: auto

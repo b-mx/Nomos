@@ -1,0 +1,10 @@
+id: laserjet-2600n
+vendor_id: hp
+name: Laserjet 2600N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_2600n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_2600n
+  confidence: auto

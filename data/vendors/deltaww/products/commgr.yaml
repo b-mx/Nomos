@@ -1,0 +1,10 @@
+id: commgr
+vendor_id: deltaww
+name: Commgr
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:commgr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: commgr
+  confidence: auto

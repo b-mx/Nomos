@@ -1,0 +1,10 @@
+id: surveillance-station
+vendor_id: synology
+name: Surveillance Station
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:surveillance_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: surveillance_station
+  confidence: auto

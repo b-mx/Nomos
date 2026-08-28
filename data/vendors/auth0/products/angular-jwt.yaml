@@ -1,0 +1,10 @@
+id: angular-jwt
+vendor_id: auth0
+name: Angular-Jwt
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:angular\-jwt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: angular-jwt
+  confidence: auto

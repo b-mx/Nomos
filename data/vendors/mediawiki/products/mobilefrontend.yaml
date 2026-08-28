@@ -1,0 +1,10 @@
+id: mobilefrontend
+vendor_id: mediawiki
+name: Mobilefrontend
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:mobilefrontend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobilefrontend
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-tank-2503-2r3e3a
+vendor_id: hp
+name: Laserjet Tank 2503 2R3E3A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_tank_2503_2r3e3a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_tank_2503_2r3e3a
+  confidence: auto

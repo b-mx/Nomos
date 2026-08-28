@@ -1,0 +1,10 @@
+id: factorytalk-vantagepoint
+vendor_id: rockwellautomation
+name: Factorytalk Vantagepoint
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:factorytalk_vantagepoint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_vantagepoint
+  confidence: auto

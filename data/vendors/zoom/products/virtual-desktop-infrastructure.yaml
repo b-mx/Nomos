@@ -1,0 +1,10 @@
+id: virtual-desktop-infrastructure
+vendor_id: zoom
+name: Virtual Desktop Infrastructure
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:virtual_desktop_infrastructure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_desktop_infrastructure
+  confidence: auto

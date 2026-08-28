@@ -1,0 +1,10 @@
+id: intelligent-insights
+vendor_id: bosch
+name: Intelligent Insights
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:intelligent_insights:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_insights
+  confidence: auto

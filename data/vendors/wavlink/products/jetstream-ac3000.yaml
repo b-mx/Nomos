@@ -1,0 +1,10 @@
+id: jetstream-ac3000
+vendor_id: wavlink
+name: Jetstream Ac3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wavlink:jetstream_ac3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetstream_ac3000
+  confidence: auto

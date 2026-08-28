@@ -1,0 +1,10 @@
+id: wilmer
+vendor_id: qodeinteractive
+name: Wilmer
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:wilmer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wilmer
+  confidence: auto

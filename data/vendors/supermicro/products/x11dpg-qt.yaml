@@ -1,0 +1,10 @@
+id: x11dpg-qt
+vendor_id: supermicro
+name: X11Dpg-Qt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11dpg\-qt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dpg-qt
+  confidence: auto

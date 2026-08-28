@@ -1,0 +1,7 @@
+id: keyence
+name: Keyence
+cpe: cpe:2.3:*:keyence:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keyence
+  confidence: auto

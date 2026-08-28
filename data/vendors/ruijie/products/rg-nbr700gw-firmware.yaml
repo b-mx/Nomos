@@ -1,0 +1,10 @@
+id: rg-nbr700gw-firmware
+vendor_id: ruijie
+name: Rg-Nbr700Gw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-nbr700gw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-nbr700gw_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thermo-recorder-data-server
+vendor_id: tandd
+name: Thermo Recorder Data Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tandd:thermo_recorder_data_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thermo_recorder_data_server
+  confidence: auto

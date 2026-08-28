@@ -1,0 +1,10 @@
+id: lm53q1
+vendor_id: fiberhome
+name: Lm53Q1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fiberhome:lm53q1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lm53q1
+  confidence: auto

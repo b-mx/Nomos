@@ -1,0 +1,10 @@
+id: deskjet-2540-a9u23b
+vendor_id: hp
+name: Deskjet 2540 A9U23B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_2540_a9u23b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_2540_a9u23b
+  confidence: auto

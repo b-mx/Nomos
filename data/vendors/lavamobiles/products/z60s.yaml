@@ -1,0 +1,10 @@
+id: z60s
+vendor_id: lavamobiles
+name: Z60S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lavamobiles:z60s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z60s
+  confidence: auto

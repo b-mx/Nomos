@@ -1,0 +1,10 @@
+id: smash
+vendor_id: axiomthemes
+name: Smash
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:smash:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smash
+  confidence: auto

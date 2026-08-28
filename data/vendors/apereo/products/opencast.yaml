@@ -1,0 +1,10 @@
+id: opencast
+vendor_id: apereo
+name: Opencast
+type: software
+tags: []
+cpe: cpe:2.3:a:apereo:opencast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opencast
+  confidence: auto

@@ -1,0 +1,10 @@
+id: link
+vendor_id: corsair
+name: Link
+type: os
+tags: []
+cpe: cpe:2.3:o:corsair:link:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: link
+  confidence: auto

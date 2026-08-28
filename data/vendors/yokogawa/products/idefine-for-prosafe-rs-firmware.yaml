@@ -1,0 +1,10 @@
+id: idefine-for-prosafe-rs-firmware
+vendor_id: yokogawa
+name: Idefine For Prosafe-Rs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yokogawa:idefine_for_prosafe\-rs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: idefine_for_prosafe-rs_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: viewpoint-8660
+vendor_id: huawei
+name: Viewpoint 8660
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:viewpoint_8660:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viewpoint_8660
+  confidence: auto

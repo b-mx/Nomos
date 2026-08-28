@@ -1,0 +1,10 @@
+id: coreldraw-2020
+vendor_id: corel
+name: Coreldraw 2020
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:coreldraw_2020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coreldraw_2020
+  confidence: auto

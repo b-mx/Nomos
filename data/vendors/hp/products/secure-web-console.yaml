@@ -1,0 +1,10 @@
+id: secure-web-console
+vendor_id: hp
+name: Secure Web Console
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:secure_web_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_web_console
+  confidence: auto

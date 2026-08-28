@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-sl390s-g7-server",
+  "vendor_id": "hp",
+  "product_id": "proliant-sl390s-g7-server",
+  "name": "Proliant Sl390S G7 Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_sl390s_g7_server",
+      "confidence": "auto"
+    }
+  ]
+}

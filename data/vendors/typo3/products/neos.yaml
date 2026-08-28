@@ -1,0 +1,10 @@
+id: neos
+vendor_id: typo3
+name: Neos
+type: software
+tags: []
+cpe: cpe:2.3:a:typo3:neos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neos
+  confidence: auto

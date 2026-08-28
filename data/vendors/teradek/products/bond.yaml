@@ -1,0 +1,10 @@
+id: bond
+vendor_id: teradek
+name: Bond
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teradek:bond:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bond
+  confidence: auto

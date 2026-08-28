@@ -1,0 +1,10 @@
+id: oncell-gateway-g3211
+vendor_id: moxa
+name: Oncell Gateway G3211
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:oncell_gateway_g3211:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncell_gateway_g3211
+  confidence: auto

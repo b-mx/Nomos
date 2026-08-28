@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x12spo-f-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x12spo-f-firmware",
+  "name": "X12Spo-F Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x12spo-f_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

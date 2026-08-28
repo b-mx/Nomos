@@ -1,0 +1,10 @@
+id: centralized-management-console-software
+vendor_id: hp
+name: Centralized Management Console Software
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:centralized_management_console_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centralized_management_console_software
+  confidence: auto

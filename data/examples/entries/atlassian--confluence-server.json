@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "atlassian--confluence-server",
+  "vendor_id": "atlassian",
+  "product_id": "confluence-server",
+  "name": "Confluence Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Confluence Server",
+      "confidence": "auto"
+    }
+  ]
+}

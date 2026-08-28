@@ -1,0 +1,10 @@
+id: kdeconnect
+vendor_id: kde
+name: Kdeconnect
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kdeconnect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kdeconnect
+  confidence: auto

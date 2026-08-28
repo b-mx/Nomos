@@ -1,0 +1,10 @@
+id: airvision-controller
+vendor_id: ui
+name: Airvision Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:airvision_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airvision_controller
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dp300
+vendor_id: huawei
+name: Dp300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:dp300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dp300
+  confidence: auto

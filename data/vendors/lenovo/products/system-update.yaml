@@ -1,0 +1,10 @@
+id: system-update
+vendor_id: lenovo
+name: System Update
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:system_update:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_update
+  confidence: auto

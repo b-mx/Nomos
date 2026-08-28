@@ -1,0 +1,10 @@
+id: fd1104-firmware
+vendor_id: cdatatec
+name: Fd1104 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cdatatec:fd1104_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd1104_firmware
+  confidence: auto

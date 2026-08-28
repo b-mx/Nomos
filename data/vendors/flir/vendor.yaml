@@ -1,0 +1,7 @@
+id: flir
+name: Flir
+cpe: cpe:2.3:*:flir:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flir
+  confidence: auto

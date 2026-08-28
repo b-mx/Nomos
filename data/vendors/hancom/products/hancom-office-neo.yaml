@@ -1,0 +1,10 @@
+id: hancom-office-neo
+vendor_id: hancom
+name: Hancom Office Neo
+type: software
+tags: []
+cpe: cpe:2.3:a:hancom:hancom_office_neo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hancom_office_neo
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fd9387-ehv-firmware
+vendor_id: vivotek
+name: Fd9387-Ehv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fd9387\-ehv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd9387-ehv_firmware
+  confidence: auto

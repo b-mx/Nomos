@@ -1,0 +1,10 @@
+id: manageengine-appcreator
+vendor_id: zohocorp
+name: Manageengine Appcreator
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_appcreator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_appcreator
+  confidence: auto

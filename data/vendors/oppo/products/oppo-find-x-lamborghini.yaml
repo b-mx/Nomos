@@ -1,0 +1,10 @@
+id: oppo-find-x-lamborghini
+vendor_id: oppo
+name: Oppo Find X Lamborghini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_find_x_lamborghini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_find_x_lamborghini
+  confidence: auto

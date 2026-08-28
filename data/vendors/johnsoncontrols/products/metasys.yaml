@@ -1,0 +1,10 @@
+id: metasys
+vendor_id: johnsoncontrols
+name: Metasys
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:metasys:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: metasys
+  confidence: auto

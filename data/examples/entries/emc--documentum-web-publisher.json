@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--documentum-web-publisher",
+  "vendor_id": "emc",
+  "product_id": "documentum-web-publisher",
+  "name": "Documentum Web Publisher",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "documentum_web_publisher",
+      "confidence": "auto"
+    }
+  ]
+}

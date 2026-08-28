@@ -1,0 +1,10 @@
+id: linx-212-firmware
+vendor_id: loytec
+name: Linx-212 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:loytec:linx\-212_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linx-212_firmware
+  confidence: auto

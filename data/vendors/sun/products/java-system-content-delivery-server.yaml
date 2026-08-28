@@ -1,0 +1,10 @@
+id: java-system-content-delivery-server
+vendor_id: sun
+name: Java System Content Delivery Server
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_system_content_delivery_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_system_content_delivery_server
+  confidence: auto

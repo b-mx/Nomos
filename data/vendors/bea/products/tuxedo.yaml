@@ -1,0 +1,10 @@
+id: tuxedo
+vendor_id: bea
+name: Tuxedo
+type: software
+tags: []
+cpe: cpe:2.3:a:bea:tuxedo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tuxedo
+  confidence: auto

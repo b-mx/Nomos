@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--bosh-cli",
+  "vendor_id": "cloudfoundry",
+  "product_id": "bosh-cli",
+  "name": "Bosh Cli",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bosh_cli",
+      "confidence": "auto"
+    }
+  ]
+}

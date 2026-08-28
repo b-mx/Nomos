@@ -1,0 +1,10 @@
+id: cx923
+vendor_id: lexmark
+name: Cx923
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx923:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx923
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hg8010h-firmware
+vendor_id: huawei
+name: Hg8010H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hg8010h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg8010h_firmware
+  confidence: auto

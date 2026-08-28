@@ -1,0 +1,10 @@
+id: assessment-management
+vendor_id: code-projects
+name: Assessment Management
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:assessment_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: assessment_management
+  confidence: auto

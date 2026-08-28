@@ -1,0 +1,10 @@
+id: laserjet-mfp-m142-1y7d4a
+vendor_id: hp
+name: Laserjet Mfp M142 1Y7D4A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m142_1y7d4a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m142_1y7d4a
+  confidence: auto

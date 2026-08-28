@@ -1,0 +1,10 @@
+id: food-ordering-system
+vendor_id: janobe
+name: Food Ordering System
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:food_ordering_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: food_ordering_system
+  confidence: auto

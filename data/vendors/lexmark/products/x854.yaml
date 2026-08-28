@@ -1,0 +1,10 @@
+id: x854
+vendor_id: lexmark
+name: X854
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x854:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x854
+  confidence: auto

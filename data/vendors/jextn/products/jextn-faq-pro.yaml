@@ -1,0 +1,10 @@
+id: jextn-faq-pro
+vendor_id: jextn
+name: Jextn Faq Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:jextn:jextn_faq_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jextn_faq_pro
+  confidence: auto

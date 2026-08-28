@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--cleanup-utility",
+  "vendor_id": "amd",
+  "product_id": "cleanup-utility",
+  "name": "Cleanup Utility",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cleanup_utility",
+      "confidence": "auto"
+    }
+  ]
+}

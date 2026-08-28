@@ -1,0 +1,10 @@
+id: a70
+vendor_id: netapp
+name: A70
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:a70:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a70
+  confidence: auto

@@ -1,0 +1,10 @@
+id: one-ia-firmware
+vendor_id: digi
+name: One Ia Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:one_ia_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_ia_firmware
+  confidence: auto

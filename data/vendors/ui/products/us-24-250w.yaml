@@ -1,0 +1,10 @@
+id: us-24-250w
+vendor_id: ui
+name: Us-24-250W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:us\-24\-250w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: us-24-250w
+  confidence: auto

@@ -1,0 +1,10 @@
+id: online-polling
+vendor_id: fabian
+name: Online Polling
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_polling:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_polling
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--heat",
+  "vendor_id": "openstack",
+  "product_id": "heat",
+  "name": "Heat",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "heat",
+      "confidence": "auto"
+    }
+  ]
+}

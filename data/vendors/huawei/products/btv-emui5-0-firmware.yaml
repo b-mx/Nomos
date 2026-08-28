@@ -1,0 +1,10 @@
+id: btv-emui5-0-firmware
+vendor_id: huawei
+name: Btv-Emui5.0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:btv\-emui5\.0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: btv-emui5.0_firmware
+  confidence: auto

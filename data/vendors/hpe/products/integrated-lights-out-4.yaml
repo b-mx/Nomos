@@ -1,0 +1,10 @@
+id: integrated-lights-out-4
+vendor_id: hpe
+name: Integrated Lights-Out 4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:integrated_lights\-out_4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_lights-out_4
+  confidence: auto

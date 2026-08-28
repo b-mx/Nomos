@@ -1,0 +1,10 @@
+id: maxpro-nvr-hybrid-xe-firmware
+vendor_id: honeywell
+name: Maxpro Nvr Hybrid Xe Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:maxpro_nvr_hybrid_xe_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxpro_nvr_hybrid_xe_firmware
+  confidence: auto

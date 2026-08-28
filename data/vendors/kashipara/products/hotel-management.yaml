@@ -1,0 +1,10 @@
+id: hotel-management
+vendor_id: kashipara
+name: Hotel Management
+type: software
+tags: []
+cpe: cpe:2.3:a:kashipara:hotel_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hotel_management
+  confidence: auto

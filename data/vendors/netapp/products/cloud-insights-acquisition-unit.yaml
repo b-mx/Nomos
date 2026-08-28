@@ -1,0 +1,10 @@
+id: cloud-insights-acquisition-unit
+vendor_id: netapp
+name: Cloud Insights Acquisition Unit
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:cloud_insights_acquisition_unit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_insights_acquisition_unit
+  confidence: auto

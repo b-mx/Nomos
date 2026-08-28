@@ -1,0 +1,10 @@
+id: f2-v1
+vendor_id: totolink
+name: F2-V1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:f2\-v1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f2-v1
+  confidence: auto

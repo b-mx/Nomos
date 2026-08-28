@@ -1,0 +1,10 @@
+id: compactlogix-1769-l30er-nse
+vendor_id: rockwellautomation
+name: Compactlogix 1769-L30Er-Nse
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:compactlogix_1769\-l30er\-nse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactlogix_1769-l30er-nse
+  confidence: auto

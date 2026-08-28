@@ -1,0 +1,10 @@
+id: wp-auth0
+vendor_id: auth0
+name: Wp-Auth0
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:wp\-auth0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp-auth0
+  confidence: auto

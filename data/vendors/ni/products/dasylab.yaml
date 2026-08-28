@@ -1,0 +1,10 @@
+id: dasylab
+vendor_id: ni
+name: Dasylab
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:dasylab:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dasylab
+  confidence: auto

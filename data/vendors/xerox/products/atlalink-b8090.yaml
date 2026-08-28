@@ -1,0 +1,10 @@
+id: atlalink-b8090
+vendor_id: xerox
+name: Atlalink B8090
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:atlalink_b8090:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atlalink_b8090
+  confidence: auto

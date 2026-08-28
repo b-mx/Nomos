@@ -1,0 +1,10 @@
+id: mf65m1
+vendor_id: zte
+name: Mf65M1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:mf65m1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf65m1
+  confidence: auto

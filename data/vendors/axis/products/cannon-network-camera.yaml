@@ -1,0 +1,10 @@
+id: cannon-network-camera
+vendor_id: axis
+name: Cannon Network Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:cannon_network_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cannon_network_camera
+  confidence: auto

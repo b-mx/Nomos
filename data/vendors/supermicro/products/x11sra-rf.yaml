@@ -1,0 +1,10 @@
+id: x11sra-rf
+vendor_id: supermicro
+name: X11Sra-Rf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11sra\-rf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sra-rf
+  confidence: auto

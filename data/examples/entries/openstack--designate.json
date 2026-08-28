@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--designate",
+  "vendor_id": "openstack",
+  "product_id": "designate",
+  "name": "Designate",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "designate",
+      "confidence": "auto"
+    }
+  ]
+}

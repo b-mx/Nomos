@@ -1,0 +1,10 @@
+id: html-sanitizer
+vendor_id: rubyonrails
+name: Html Sanitizer
+type: software
+tags: []
+cpe: cpe:2.3:a:rubyonrails:html_sanitizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: html_sanitizer
+  confidence: auto

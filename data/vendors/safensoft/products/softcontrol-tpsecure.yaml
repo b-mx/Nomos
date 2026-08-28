@@ -1,0 +1,10 @@
+id: softcontrol-tpsecure
+vendor_id: safensoft
+name: Softcontrol Tpsecure
+type: software
+tags: []
+cpe: cpe:2.3:a:safensoft:softcontrol_tpsecure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softcontrol_tpsecure
+  confidence: auto

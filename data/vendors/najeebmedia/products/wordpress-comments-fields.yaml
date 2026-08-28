@@ -1,0 +1,10 @@
+id: wordpress-comments-fields
+vendor_id: najeebmedia
+name: Wordpress Comments Fields
+type: software
+tags: []
+cpe: cpe:2.3:a:najeebmedia:wordpress_comments_fields:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wordpress_comments_fields
+  confidence: auto

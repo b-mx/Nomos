@@ -1,0 +1,10 @@
+id: d3p93a-firmware
+vendor_id: hp
+name: D3P93A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:d3p93a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d3p93a_firmware
+  confidence: auto

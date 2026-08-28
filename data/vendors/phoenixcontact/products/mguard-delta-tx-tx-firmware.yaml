@@ -1,0 +1,10 @@
+id: mguard-delta-tx-tx-firmware
+vendor_id: phoenixcontact
+name: Mguard Delta Tx/Tx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:mguard_delta_tx\/tx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_delta_tx/tx_firmware
+  confidence: auto

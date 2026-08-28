@@ -1,0 +1,10 @@
+id: ruckus-e510
+vendor_id: commscope
+name: Ruckus E510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:ruckus_e510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_e510
+  confidence: auto

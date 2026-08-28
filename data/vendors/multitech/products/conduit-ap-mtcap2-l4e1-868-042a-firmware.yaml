@@ -1,0 +1,10 @@
+id: conduit-ap-mtcap2-l4e1-868-042a-firmware
+vendor_id: multitech
+name: Conduit Ap Mtcap2-L4E1-868-042A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:multitech:conduit_ap_mtcap2\-l4e1\-868\-042a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: conduit_ap_mtcap2-l4e1-868-042a_firmware
+  confidence: auto

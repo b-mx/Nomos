@@ -1,0 +1,10 @@
+id: p3367-firmware
+vendor_id: axis
+name: P3367 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:p3367_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3367_firmware
+  confidence: auto

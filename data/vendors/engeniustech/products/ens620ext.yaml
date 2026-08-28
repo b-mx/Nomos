@@ -1,0 +1,10 @@
+id: ens620ext
+vendor_id: engeniustech
+name: Ens620Ext
+type: hardware
+tags: []
+cpe: cpe:2.3:h:engeniustech:ens620ext:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ens620ext
+  confidence: auto

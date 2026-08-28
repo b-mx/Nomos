@@ -1,0 +1,10 @@
+id: besder-ip20h1
+vendor_id: xiongmaitech
+name: Besder Ip20H1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xiongmaitech:besder_ip20h1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: besder_ip20h1
+  confidence: auto

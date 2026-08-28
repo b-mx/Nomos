@@ -1,0 +1,10 @@
+id: cp665
+vendor_id: abb
+name: Cp665
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:cp665:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp665
+  confidence: auto

@@ -1,0 +1,10 @@
+id: psc-900
+vendor_id: hp
+name: Psc 900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:psc_900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: psc_900
+  confidence: auto

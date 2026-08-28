@@ -1,0 +1,10 @@
+id: jf845a
+vendor_id: hp
+name: Jf845A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf845a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf845a
+  confidence: auto

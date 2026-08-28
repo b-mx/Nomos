@@ -1,0 +1,10 @@
+id: aterm-w1200ex-ms-firmware
+vendor_id: nec
+name: Aterm W1200Ex-Ms Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:aterm_w1200ex\-ms_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_w1200ex-ms_firmware
+  confidence: auto

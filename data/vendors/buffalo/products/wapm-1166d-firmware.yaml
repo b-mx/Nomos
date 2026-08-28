@@ -1,0 +1,10 @@
+id: wapm-1166d-firmware
+vendor_id: buffalo
+name: Wapm-1166D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wapm\-1166d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wapm-1166d_firmware
+  confidence: auto

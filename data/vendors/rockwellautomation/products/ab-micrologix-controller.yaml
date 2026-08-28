@@ -1,0 +1,10 @@
+id: ab-micrologix-controller
+vendor_id: rockwellautomation
+name: Ab Micrologix Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:ab_micrologix_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ab_micrologix_controller
+  confidence: auto

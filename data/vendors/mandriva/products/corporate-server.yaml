@@ -1,0 +1,10 @@
+id: corporate-server
+vendor_id: mandriva
+name: Corporate Server
+type: os
+tags: []
+cpe: cpe:2.3:o:mandriva:corporate_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: corporate_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: marko
+vendor_id: openjsf
+name: Marko
+type: software
+tags: []
+cpe: cpe:2.3:a:openjsf:marko:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: marko
+  confidence: auto

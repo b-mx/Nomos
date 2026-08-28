@@ -1,0 +1,10 @@
+id: da50a
+vendor_id: redlion
+name: Da50A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redlion:da50a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: da50a
+  confidence: auto

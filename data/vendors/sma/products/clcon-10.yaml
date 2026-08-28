@@ -1,0 +1,10 @@
+id: clcon-10
+vendor_id: sma
+name: Clcon-10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sma:clcon\-10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clcon-10
+  confidence: auto

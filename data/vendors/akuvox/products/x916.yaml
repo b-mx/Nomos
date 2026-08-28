@@ -1,0 +1,10 @@
+id: x916
+vendor_id: akuvox
+name: X916
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akuvox:x916:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x916
+  confidence: auto

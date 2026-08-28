@@ -1,0 +1,10 @@
+id: vl-ipc-p7000-firmware
+vendor_id: phoenixcontact
+name: Vl Ipc P7000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:vl_ipc_p7000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vl_ipc_p7000_firmware
+  confidence: auto

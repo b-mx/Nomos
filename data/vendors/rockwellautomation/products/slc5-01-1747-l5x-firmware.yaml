@@ -1,0 +1,10 @@
+id: slc5-01-1747-l5x-firmware
+vendor_id: rockwellautomation
+name: Slc5/01 1747-L5X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:slc5\/01_1747\-l5x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slc5/01_1747-l5x_firmware
+  confidence: auto

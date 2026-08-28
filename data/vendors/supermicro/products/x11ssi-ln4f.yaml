@@ -1,0 +1,10 @@
+id: x11ssi-ln4f
+vendor_id: supermicro
+name: X11Ssi-Ln4F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11ssi\-ln4f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssi-ln4f
+  confidence: auto

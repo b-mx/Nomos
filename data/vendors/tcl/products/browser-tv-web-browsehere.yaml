@@ -1,0 +1,10 @@
+id: browser-tv-web-browsehere
+vendor_id: tcl
+name: Browser Tv Web - Browsehere
+type: software
+tags: []
+cpe: cpe:2.3:a:tcl:browser_tv_web_\-_browsehere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: browser_tv_web_-_browsehere
+  confidence: auto

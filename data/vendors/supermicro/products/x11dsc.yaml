@@ -1,0 +1,10 @@
+id: x11dsc
+vendor_id: supermicro
+name: X11Dsc+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11dsc\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dsc+
+  confidence: auto

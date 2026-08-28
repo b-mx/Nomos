@@ -1,0 +1,10 @@
+id: control-for-iot2000-sl
+vendor_id: codesys
+name: Control For Iot2000 Sl
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_for_iot2000_sl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_for_iot2000_sl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: redmi-note-5a-prime
+vendor_id: mi
+name: Redmi Note 5A Prime
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:redmi_note_5a_prime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_note_5a_prime
+  confidence: auto

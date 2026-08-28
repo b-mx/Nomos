@@ -1,0 +1,10 @@
+id: cx7-firmware
+vendor_id: anviz
+name: Cx7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:anviz:cx7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx7_firmware
+  confidence: auto

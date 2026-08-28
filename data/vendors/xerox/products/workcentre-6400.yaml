@@ -1,0 +1,10 @@
+id: workcentre-6400
+vendor_id: xerox
+name: Workcentre 6400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:workcentre_6400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_6400
+  confidence: auto

@@ -1,0 +1,10 @@
+id: t640-firmware
+vendor_id: lexmark
+name: T640 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:t640_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t640_firmware
+  confidence: auto

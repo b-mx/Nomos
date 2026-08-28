@@ -1,0 +1,10 @@
+id: trio-8500-firmware
+vendor_id: polycom
+name: Trio 8500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:polycom:trio_8500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trio_8500_firmware
+  confidence: auto

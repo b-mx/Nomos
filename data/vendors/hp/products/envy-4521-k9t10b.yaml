@@ -1,0 +1,10 @@
+id: envy-4521-k9t10b
+vendor_id: hp
+name: Envy 4521 K9T10B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_4521_k9t10b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_4521_k9t10b
+  confidence: auto

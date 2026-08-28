@@ -1,0 +1,10 @@
+id: 203rp-firmware
+vendor_id: arubanetworks
+name: 203Rp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:203rp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 203rp_firmware
+  confidence: auto

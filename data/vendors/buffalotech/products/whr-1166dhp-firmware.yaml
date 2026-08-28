@@ -1,0 +1,10 @@
+id: whr-1166dhp-firmware
+vendor_id: buffalotech
+name: Whr-1166Dhp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalotech:whr\-1166dhp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-1166dhp_firmware
+  confidence: auto

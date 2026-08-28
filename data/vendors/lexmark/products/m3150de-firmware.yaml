@@ -1,0 +1,10 @@
+id: m3150de-firmware
+vendor_id: lexmark
+name: M3150De Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:m3150de_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3150de_firmware
+  confidence: auto

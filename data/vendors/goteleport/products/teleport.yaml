@@ -1,0 +1,13 @@
+id: teleport
+vendor_id: goteleport
+name: Teleport
+type: software
+tags: []
+cpe: cpe:2.3:a:goteleport:teleport:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: teleport
+  confidence: auto
+- source: nvd
+  value: teleport
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fonetracker
+vendor_id: 1byte
+name: Fonetracker
+type: software
+tags: []
+cpe: cpe:2.3:a:1byte:fonetracker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fonetracker
+  confidence: auto

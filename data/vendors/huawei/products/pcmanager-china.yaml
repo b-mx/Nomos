@@ -1,0 +1,10 @@
+id: pcmanager-china
+vendor_id: huawei
+name: Pcmanager(China)
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:pcmanager\(china\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcmanager(china)
+  confidence: auto

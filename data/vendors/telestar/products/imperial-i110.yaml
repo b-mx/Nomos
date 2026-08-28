@@ -1,0 +1,10 @@
+id: imperial-i110
+vendor_id: telestar
+name: Imperial I110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telestar:imperial_i110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imperial_i110
+  confidence: auto

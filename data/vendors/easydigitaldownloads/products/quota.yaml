@@ -1,0 +1,10 @@
+id: quota
+vendor_id: easydigitaldownloads
+name: Quota
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:quota:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quota
+  confidence: auto

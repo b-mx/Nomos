@@ -1,0 +1,10 @@
+id: hci-storage-nodes
+vendor_id: netapp
+name: Hci Storage Nodes
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:hci_storage_nodes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hci_storage_nodes
+  confidence: auto

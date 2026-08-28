@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "belkin--n750-firmware",
+  "vendor_id": "belkin",
+  "product_id": "n750-firmware",
+  "name": "N750 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "n750_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

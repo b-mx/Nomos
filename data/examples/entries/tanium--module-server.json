@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tanium--module-server",
+  "vendor_id": "tanium",
+  "product_id": "module-server",
+  "name": "Module Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "module_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: c746-firmware
+vendor_id: lexmark
+name: C746 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:c746_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c746_firmware
+  confidence: auto

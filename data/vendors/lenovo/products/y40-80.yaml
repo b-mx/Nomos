@@ -1,0 +1,10 @@
+id: y40-80
+vendor_id: lenovo
+name: Y40-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:y40\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y40-80
+  confidence: auto

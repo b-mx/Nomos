@@ -1,0 +1,10 @@
+id: mguard-rs2000-tx-tx-vpn-firmware
+vendor_id: phoenixcontact
+name: Mguard Rs2000 Tx/Tx Vpn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:mguard_rs2000_tx\/tx_vpn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_rs2000_tx/tx_vpn_firmware
+  confidence: auto

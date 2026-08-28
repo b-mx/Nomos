@@ -1,0 +1,7 @@
+id: phpbb
+name: Phpbb
+cpe: cpe:2.3:*:phpbb:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phpbb
+  confidence: auto

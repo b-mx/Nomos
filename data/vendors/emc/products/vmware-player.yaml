@@ -1,0 +1,10 @@
+id: vmware-player
+vendor_id: emc
+name: Vmware Player
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:vmware_player:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vmware_player
+  confidence: auto

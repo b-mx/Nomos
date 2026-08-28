@@ -1,0 +1,10 @@
+id: gomatrixserverlib
+vendor_id: matrix
+name: Gomatrixserverlib
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:gomatrixserverlib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gomatrixserverlib
+  confidence: auto

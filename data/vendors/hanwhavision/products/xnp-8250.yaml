@@ -1,0 +1,10 @@
+id: xnp-8250
+vendor_id: hanwhavision
+name: Xnp-8250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnp\-8250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnp-8250
+  confidence: auto

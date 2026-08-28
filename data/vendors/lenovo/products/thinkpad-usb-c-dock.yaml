@@ -1,0 +1,10 @@
+id: thinkpad-usb-c-dock
+vendor_id: lenovo
+name: Thinkpad Usb-C Dock
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_usb\-c_dock:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_usb-c_dock
+  confidence: auto

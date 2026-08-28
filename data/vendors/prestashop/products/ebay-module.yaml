@@ -1,0 +1,10 @@
+id: ebay-module
+vendor_id: prestashop
+name: Ebay Module
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:ebay_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ebay_module
+  confidence: auto

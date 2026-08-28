@@ -1,0 +1,10 @@
+id: matrix-operating-environment
+vendor_id: hp
+name: Matrix Operating Environment
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:matrix_operating_environment:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matrix_operating_environment
+  confidence: auto

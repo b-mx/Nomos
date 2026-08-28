@@ -1,0 +1,10 @@
+id: rsa-security-analytics
+vendor_id: emc
+name: Rsa Security Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_security_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_security_analytics
+  confidence: auto

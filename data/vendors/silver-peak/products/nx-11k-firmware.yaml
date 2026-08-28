@@ -1,0 +1,10 @@
+id: nx-11k-firmware
+vendor_id: silver-peak
+name: Nx-11K Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:silver\-peak:nx\-11k_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx-11k_firmware
+  confidence: auto

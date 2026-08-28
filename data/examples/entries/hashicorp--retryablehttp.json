@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--retryablehttp",
+  "vendor_id": "hashicorp",
+  "product_id": "retryablehttp",
+  "name": "Retryablehttp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "retryablehttp",
+      "confidence": "auto"
+    }
+  ]
+}

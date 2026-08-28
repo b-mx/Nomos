@@ -1,0 +1,10 @@
+id: daily-habit-tracker
+vendor_id: remyandrade
+name: Daily Habit Tracker
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:daily_habit_tracker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: daily_habit_tracker
+  confidence: auto

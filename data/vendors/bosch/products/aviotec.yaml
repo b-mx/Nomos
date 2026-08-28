@@ -1,0 +1,10 @@
+id: aviotec
+vendor_id: bosch
+name: Aviotec
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:aviotec:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aviotec
+  confidence: auto

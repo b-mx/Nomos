@@ -1,0 +1,10 @@
+id: hpss16
+vendor_id: atisystem
+name: Hpss16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:atisystem:hpss16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpss16
+  confidence: auto

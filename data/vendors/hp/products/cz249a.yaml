@@ -1,0 +1,10 @@
+id: cz249a
+vendor_id: hp
+name: Cz249A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz249a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz249a
+  confidence: auto

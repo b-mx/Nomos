@@ -1,0 +1,10 @@
+id: bhr-4rv-firmware
+vendor_id: buffalotech
+name: Bhr-4Rv Firmware
+type: software
+tags: []
+cpe: cpe:2.3:a:buffalotech:bhr\-4rv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bhr-4rv_firmware
+  confidence: auto

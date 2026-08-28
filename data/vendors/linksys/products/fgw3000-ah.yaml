@@ -1,0 +1,10 @@
+id: fgw3000-ah
+vendor_id: linksys
+name: Fgw3000-Ah
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:fgw3000\-ah:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fgw3000-ah
+  confidence: auto

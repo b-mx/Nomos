@@ -1,0 +1,10 @@
+id: geary
+vendor_id: gnome
+name: Geary
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:geary:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: geary
+  confidence: auto

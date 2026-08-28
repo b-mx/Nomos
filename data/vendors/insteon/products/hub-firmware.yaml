@@ -1,0 +1,10 @@
+id: hub-firmware
+vendor_id: insteon
+name: Hub Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:insteon:hub_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hub_firmware
+  confidence: auto

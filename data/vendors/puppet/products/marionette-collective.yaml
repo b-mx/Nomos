@@ -1,0 +1,10 @@
+id: marionette-collective
+vendor_id: puppet
+name: Marionette Collective
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:marionette_collective:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: marionette_collective
+  confidence: auto

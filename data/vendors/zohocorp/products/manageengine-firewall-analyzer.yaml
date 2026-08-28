@@ -1,0 +1,10 @@
+id: manageengine-firewall-analyzer
+vendor_id: zohocorp
+name: Manageengine Firewall Analyzer
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_firewall_analyzer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_firewall_analyzer
+  confidence: auto

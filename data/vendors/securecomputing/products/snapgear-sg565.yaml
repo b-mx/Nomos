@@ -1,0 +1,10 @@
+id: snapgear-sg565
+vendor_id: securecomputing
+name: Snapgear Sg565
+type: hardware
+tags: []
+cpe: cpe:2.3:h:securecomputing:snapgear_sg565:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snapgear_sg565
+  confidence: auto

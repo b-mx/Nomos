@@ -1,0 +1,10 @@
+id: c1610-ve
+vendor_id: axis
+name: C1610-Ve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:c1610\-ve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1610-ve
+  confidence: auto

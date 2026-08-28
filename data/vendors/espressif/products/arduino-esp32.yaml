@@ -1,0 +1,10 @@
+id: arduino-esp32
+vendor_id: espressif
+name: Arduino-Esp32
+type: software
+tags: []
+cpe: cpe:2.3:a:espressif:arduino\-esp32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arduino-esp32
+  confidence: auto

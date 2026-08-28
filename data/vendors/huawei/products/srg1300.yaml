@@ -1,0 +1,10 @@
+id: srg1300
+vendor_id: huawei
+name: Srg1300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:srg1300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srg1300
+  confidence: auto

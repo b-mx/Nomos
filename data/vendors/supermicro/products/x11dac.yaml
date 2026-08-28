@@ -1,0 +1,10 @@
+id: x11dac
+vendor_id: supermicro
+name: X11Dac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11dac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dac
+  confidence: auto

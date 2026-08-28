@@ -1,0 +1,10 @@
+id: rslogix-5000
+vendor_id: rockwellautomation
+name: Rslogix 5000
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:rslogix_5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rslogix_5000
+  confidence: auto

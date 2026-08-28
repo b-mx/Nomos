@@ -1,0 +1,10 @@
+id: dg-br4000ng
+vendor_id: digisol
+name: Dg-Br4000Ng
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digisol:dg\-br4000ng:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dg-br4000ng
+  confidence: auto

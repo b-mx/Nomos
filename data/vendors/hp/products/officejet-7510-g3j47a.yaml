@@ -1,0 +1,10 @@
+id: officejet-7510-g3j47a
+vendor_id: hp
+name: Officejet 7510 G3J47A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_7510_g3j47a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_7510_g3j47a
+  confidence: auto

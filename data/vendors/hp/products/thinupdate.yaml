@@ -1,0 +1,10 @@
+id: thinupdate
+vendor_id: hp
+name: Thinupdate
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:thinupdate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinupdate
+  confidence: auto

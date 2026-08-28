@@ -1,0 +1,10 @@
+id: v15-g3-iap
+vendor_id: lenovo
+name: V15 G3 Iap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v15_g3_iap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v15_g3_iap
+  confidence: auto

@@ -1,0 +1,10 @@
+id: advanced-reviews
+vendor_id: prestashop
+name: Advanced Reviews
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:advanced_reviews:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_reviews
+  confidence: auto

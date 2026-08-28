@@ -1,0 +1,10 @@
+id: udisks
+vendor_id: freedesktop
+name: Udisks
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:udisks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: udisks
+  confidence: auto

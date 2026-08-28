@@ -1,0 +1,10 @@
+id: quantum-hd-unity-evaporator
+vendor_id: johnsoncontrols
+name: Quantum Hd Unity Evaporator
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:quantum_hd_unity_evaporator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quantum_hd_unity_evaporator
+  confidence: auto

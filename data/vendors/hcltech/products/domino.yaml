@@ -1,0 +1,10 @@
+id: domino
+vendor_id: hcltech
+name: Domino
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:domino:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: domino
+  confidence: auto

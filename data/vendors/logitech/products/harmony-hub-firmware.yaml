@@ -1,0 +1,10 @@
+id: harmony-hub-firmware
+vendor_id: logitech
+name: Harmony Hub Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:logitech:harmony_hub_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: harmony_hub_firmware
+  confidence: auto

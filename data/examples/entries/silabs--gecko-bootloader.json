@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--gecko-bootloader",
+  "vendor_id": "silabs",
+  "product_id": "gecko-bootloader",
+  "name": "Gecko Bootloader",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gecko_bootloader",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--cloud-station-drive",
+  "vendor_id": "synology",
+  "product_id": "cloud-station-drive",
+  "name": "Cloud Station Drive",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_station_drive",
+      "confidence": "auto"
+    }
+  ]
+}

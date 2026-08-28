@@ -1,0 +1,10 @@
+id: r-30ib-compact-firmware
+vendor_id: fanuc
+name: R-30Ib Compact Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fanuc:r\-30ib_compact_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r-30ib_compact_firmware
+  confidence: auto

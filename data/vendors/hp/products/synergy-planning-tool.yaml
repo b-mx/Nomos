@@ -1,0 +1,10 @@
+id: synergy-planning-tool
+vendor_id: hp
+name: Synergy Planning Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:synergy_planning_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy_planning_tool
+  confidence: auto

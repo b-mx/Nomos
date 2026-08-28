@@ -1,0 +1,10 @@
+id: inventory-management-system
+vendor_id: janobe
+name: Inventory Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:inventory_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inventory_management_system
+  confidence: auto

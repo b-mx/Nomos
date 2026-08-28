@@ -1,0 +1,10 @@
+id: prg-av4202n-firmware
+vendor_id: adbglobal
+name: Prg Av4202N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:adbglobal:prg_av4202n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prg_av4202n_firmware
+  confidence: auto

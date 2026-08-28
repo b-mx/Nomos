@@ -1,0 +1,10 @@
+id: bm70
+vendor_id: microchip
+name: Bm70
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:bm70:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm70
+  confidence: auto

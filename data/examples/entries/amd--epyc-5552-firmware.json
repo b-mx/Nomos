@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-5552-firmware",
+  "vendor_id": "amd",
+  "product_id": "epyc-5552-firmware",
+  "name": "Epyc 5552 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_5552_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

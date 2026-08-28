@@ -1,0 +1,10 @@
+id: '7005'
+vendor_id: arubanetworks
+name: '7005'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:7005:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '7005'
+  confidence: auto

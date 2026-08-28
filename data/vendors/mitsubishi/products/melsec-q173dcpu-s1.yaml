@@ -1,0 +1,10 @@
+id: melsec-q173dcpu-s1
+vendor_id: mitsubishi
+name: Melsec Q173Dcpu-S1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_q173dcpu\-s1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q173dcpu-s1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: facslyric-ivd
+vendor_id: bd
+name: Facslyric Ivd
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:facslyric_ivd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: facslyric_ivd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nec-e705
+vendor_id: sharp
+name: Nec E705
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:nec_e705:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_e705
+  confidence: auto

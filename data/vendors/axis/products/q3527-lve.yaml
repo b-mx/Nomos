@@ -1,0 +1,10 @@
+id: q3527-lve
+vendor_id: axis
+name: Q3527-Lve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q3527\-lve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q3527-lve
+  confidence: auto

@@ -1,0 +1,10 @@
+id: network-operations-management-ultimate
+vendor_id: hp
+name: Network Operations Management Ultimate
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:network_operations_management_ultimate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_operations_management_ultimate
+  confidence: auto

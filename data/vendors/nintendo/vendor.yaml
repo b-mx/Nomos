@@ -1,0 +1,7 @@
+id: nintendo
+name: Nintendo
+cpe: cpe:2.3:*:nintendo:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nintendo
+  confidence: auto

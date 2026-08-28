@@ -1,0 +1,10 @@
+id: epmp-force-300-25
+vendor_id: cambiumnetworks
+name: Epmp Force 300-25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cambiumnetworks:epmp_force_300\-25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epmp_force_300-25
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vapester
+vendor_id: themerex
+name: Vapester
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:vapester:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vapester
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rut241-firmware
+vendor_id: teltonika-networks
+name: Rut241 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teltonika\-networks:rut241_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rut241_firmware
+  confidence: auto

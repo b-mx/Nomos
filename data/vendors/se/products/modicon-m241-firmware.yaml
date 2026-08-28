@@ -1,0 +1,10 @@
+id: modicon-m241-firmware
+vendor_id: se
+name: Modicon M241 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:se:modicon_m241_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modicon_m241_firmware
+  confidence: auto

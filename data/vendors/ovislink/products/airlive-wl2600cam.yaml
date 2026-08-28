@@ -1,0 +1,10 @@
+id: airlive-wl2600cam
+vendor_id: ovislink
+name: Airlive Wl2600Cam
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ovislink:airlive_wl2600cam:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airlive_wl2600cam
+  confidence: auto

@@ -1,0 +1,7 @@
+id: protocol
+name: Protocol
+cpe: cpe:2.3:*:protocol:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protocol
+  confidence: auto

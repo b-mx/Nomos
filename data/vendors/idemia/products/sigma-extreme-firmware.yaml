@@ -1,0 +1,10 @@
+id: sigma-extreme-firmware
+vendor_id: idemia
+name: Sigma Extreme Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idemia:sigma_extreme_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sigma_extreme_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: h13sst-gc-firmware
+vendor_id: supermicro
+name: H13Sst-Gc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:h13sst\-gc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h13sst-gc_firmware
+  confidence: auto

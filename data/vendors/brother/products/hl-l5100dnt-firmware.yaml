@@ -1,0 +1,10 @@
+id: hl-l5100dnt-firmware
+vendor_id: brother
+name: Hl-L5100Dnt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:hl\-l5100dnt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hl-l5100dnt_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tenable-io
+vendor_id: tenable
+name: Tenable.Io
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:tenable\.io:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tenable.io
+  confidence: auto

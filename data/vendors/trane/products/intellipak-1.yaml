@@ -1,0 +1,10 @@
+id: intellipak-1
+vendor_id: trane
+name: Intellipak 1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trane:intellipak_1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellipak_1
+  confidence: auto

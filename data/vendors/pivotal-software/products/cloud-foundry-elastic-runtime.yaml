@@ -1,0 +1,10 @@
+id: cloud-foundry-elastic-runtime
+vendor_id: pivotal-software
+name: Cloud Foundry Elastic Runtime
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:cloud_foundry_elastic_runtime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_elastic_runtime
+  confidence: auto

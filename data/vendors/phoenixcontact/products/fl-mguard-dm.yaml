@@ -1,0 +1,10 @@
+id: fl-mguard-dm
+vendor_id: phoenixcontact
+name: Fl Mguard Dm
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:fl_mguard_dm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_dm
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "renovate--renovate",
+  "vendor_id": "renovate",
+  "product_id": "renovate",
+  "name": "Renovate CLI",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "renovate",
+      "confidence": "auto"
+    }
+  ]
+}

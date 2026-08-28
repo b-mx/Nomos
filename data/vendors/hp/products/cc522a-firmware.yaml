@@ -1,0 +1,10 @@
+id: cc522a-firmware
+vendor_id: hp
+name: Cc522A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cc522a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc522a_firmware
+  confidence: auto

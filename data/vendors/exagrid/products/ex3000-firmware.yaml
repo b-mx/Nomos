@@ -1,0 +1,10 @@
+id: ex3000-firmware
+vendor_id: exagrid
+name: Ex3000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:exagrid:ex3000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex3000_firmware
+  confidence: auto

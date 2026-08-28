@@ -1,0 +1,10 @@
+id: pingfederate
+vendor_id: pingidentity
+name: Pingfederate
+type: software
+tags: []
+cpe: cpe:2.3:a:pingidentity:pingfederate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pingfederate
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wsr-3200ax4s-firmware
+vendor_id: buffalo
+name: Wsr-3200Ax4S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wsr\-3200ax4s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wsr-3200ax4s_firmware
+  confidence: auto

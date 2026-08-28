@@ -1,0 +1,10 @@
+id: rfh
+vendor_id: sick
+name: Rfh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:rfh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfh
+  confidence: auto

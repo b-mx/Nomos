@@ -1,0 +1,7 @@
+id: github
+name: Github
+cpe: cpe:2.3:*:github:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: github
+  confidence: auto

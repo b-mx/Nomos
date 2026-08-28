@@ -1,0 +1,10 @@
+id: legion-5-15imh05h
+vendor_id: lenovo
+name: Legion 5-15Imh05H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_5\-15imh05h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_5-15imh05h
+  confidence: auto

@@ -1,0 +1,10 @@
+id: openvms-alpha
+vendor_id: hp
+name: Openvms Alpha
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:openvms_alpha:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openvms_alpha
+  confidence: auto

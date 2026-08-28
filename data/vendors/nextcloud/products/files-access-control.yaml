@@ -1,0 +1,10 @@
+id: files-access-control
+vendor_id: nextcloud
+name: Files Access Control
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:files_access_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: files_access_control
+  confidence: auto

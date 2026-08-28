@@ -1,0 +1,10 @@
+id: arcgis-allsource
+vendor_id: esri
+name: Arcgis Allsource
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:arcgis_allsource:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcgis_allsource
+  confidence: auto

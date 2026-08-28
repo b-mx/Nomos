@@ -1,0 +1,10 @@
+id: d0-06ar-firmware
+vendor_id: automationdirect
+name: D0-06Ar Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:d0\-06ar_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d0-06ar_firmware
+  confidence: auto

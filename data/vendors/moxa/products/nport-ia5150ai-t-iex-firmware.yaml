@@ -1,0 +1,10 @@
+id: nport-ia5150ai-t-iex-firmware
+vendor_id: moxa
+name: Nport Ia5150Ai-T-Iex Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_ia5150ai\-t\-iex_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_ia5150ai-t-iex_firmware
+  confidence: auto

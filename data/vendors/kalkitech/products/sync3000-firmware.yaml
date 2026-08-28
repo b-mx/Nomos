@@ -1,0 +1,10 @@
+id: sync3000-firmware
+vendor_id: kalkitech
+name: Sync3000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kalkitech:sync3000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sync3000_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fir303b-firmware
+vendor_id: phicomm
+name: Fir303B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phicomm:fir303b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fir303b_firmware
+  confidence: auto

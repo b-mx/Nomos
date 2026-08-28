@@ -1,0 +1,9 @@
+id: active-directory-federation-services
+vendor_id: microsoft
+name: Active Directory Federation Services
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Active Directory Federation Services
+  confidence: auto

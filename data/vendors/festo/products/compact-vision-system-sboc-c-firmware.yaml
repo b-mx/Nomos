@@ -1,0 +1,10 @@
+id: compact-vision-system-sboc-c-firmware
+vendor_id: festo
+name: Compact Vision System Sboc-C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:compact_vision_system_sboc\-c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compact_vision_system_sboc-c_firmware
+  confidence: auto

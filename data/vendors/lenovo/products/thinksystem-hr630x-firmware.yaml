@@ -1,0 +1,10 @@
+id: thinksystem-hr630x-firmware
+vendor_id: lenovo
+name: Thinksystem Hr630X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksystem_hr630x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_hr630x_firmware
+  confidence: auto

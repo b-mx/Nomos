@@ -1,0 +1,10 @@
+id: rv-s340ne
+vendor_id: ntt-west
+name: Rv-S340Ne
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-west:rv\-s340ne:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-s340ne
+  confidence: auto

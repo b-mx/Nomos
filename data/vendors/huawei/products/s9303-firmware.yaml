@@ -1,0 +1,10 @@
+id: s9303-firmware
+vendor_id: huawei
+name: S9303 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:s9303_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s9303_firmware
+  confidence: auto

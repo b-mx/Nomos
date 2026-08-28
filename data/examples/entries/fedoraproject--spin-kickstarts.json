@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--spin-kickstarts",
+  "vendor_id": "fedoraproject",
+  "product_id": "spin-kickstarts",
+  "name": "Spin-Kickstarts",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "spin-kickstarts",
+      "confidence": "auto"
+    }
+  ]
+}

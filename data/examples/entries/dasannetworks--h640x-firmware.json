@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "dasannetworks--h640x-firmware",
+  "vendor_id": "dasannetworks",
+  "product_id": "h640x-firmware",
+  "name": "H640X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h640x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

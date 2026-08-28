@@ -1,0 +1,10 @@
+id: libzapojit
+vendor_id: gnome
+name: Libzapojit
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:libzapojit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libzapojit
+  confidence: auto

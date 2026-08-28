@@ -1,0 +1,10 @@
+id: tablet
+vendor_id: lenovo
+name: Tablet
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:tablet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tablet
+  confidence: auto

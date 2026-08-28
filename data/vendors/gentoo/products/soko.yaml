@@ -1,0 +1,10 @@
+id: soko
+vendor_id: gentoo
+name: Soko
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:soko:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soko
+  confidence: auto

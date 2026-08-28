@@ -1,0 +1,10 @@
+id: rg-nbc512-firmware
+vendor_id: ruijie
+name: Rg-Nbc512 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-nbc512_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-nbc512_firmware
+  confidence: auto

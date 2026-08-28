@@ -1,0 +1,10 @@
+id: mpe
+vendor_id: hp
+name: Mpe
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:mpe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mpe
+  confidence: auto

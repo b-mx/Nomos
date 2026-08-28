@@ -1,0 +1,10 @@
+id: cd17-16
+vendor_id: huawei
+name: Cd17-16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cd17\-16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cd17-16
+  confidence: auto

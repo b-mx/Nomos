@@ -1,0 +1,10 @@
+id: xrcg5
+vendor_id: abb
+name: Xrcg5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:xrcg5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xrcg5
+  confidence: auto

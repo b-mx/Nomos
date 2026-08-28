@@ -1,0 +1,10 @@
+id: proliant-xl260a-g9-server
+vendor_id: hp
+name: Proliant Xl260A G9 Server
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:proliant_xl260a_g9_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_xl260a_g9_server
+  confidence: auto

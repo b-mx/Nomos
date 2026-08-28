@@ -1,0 +1,10 @@
+id: mf910s
+vendor_id: zte
+name: Mf910S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:mf910s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf910s
+  confidence: auto

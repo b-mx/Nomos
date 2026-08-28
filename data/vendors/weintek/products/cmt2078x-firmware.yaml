@@ -1,0 +1,10 @@
+id: cmt2078x-firmware
+vendor_id: weintek
+name: Cmt2078X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:weintek:cmt2078x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt2078x_firmware
+  confidence: auto

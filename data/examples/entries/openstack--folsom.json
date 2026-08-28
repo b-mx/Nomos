@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--folsom",
+  "vendor_id": "openstack",
+  "product_id": "folsom",
+  "name": "Folsom",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "folsom",
+      "confidence": "auto"
+    }
+  ]
+}

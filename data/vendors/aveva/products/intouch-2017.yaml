@@ -1,0 +1,10 @@
+id: intouch-2017
+vendor_id: aveva
+name: Intouch 2017
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:intouch_2017:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intouch_2017
+  confidence: auto

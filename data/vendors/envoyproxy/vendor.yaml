@@ -1,0 +1,7 @@
+id: envoyproxy
+name: Envoyproxy
+cpe: cpe:2.3:*:envoyproxy:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envoyproxy
+  confidence: auto

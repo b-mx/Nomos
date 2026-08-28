@@ -1,0 +1,10 @@
+id: x13dgu
+vendor_id: supermicro
+name: X13Dgu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13dgu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13dgu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kronolith-h4
+vendor_id: horde
+name: Kronolith H4
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:kronolith_h4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kronolith_h4
+  confidence: auto

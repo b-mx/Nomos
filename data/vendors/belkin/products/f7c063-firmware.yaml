@@ -1,0 +1,10 @@
+id: f7c063-firmware
+vendor_id: belkin
+name: F7C063 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:f7c063_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f7c063_firmware
+  confidence: auto

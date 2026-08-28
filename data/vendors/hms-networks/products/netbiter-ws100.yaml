@@ -1,0 +1,10 @@
+id: netbiter-ws100
+vendor_id: hms-networks
+name: Netbiter Ws100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hms\-networks:netbiter_ws100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netbiter_ws100
+  confidence: auto

@@ -1,0 +1,10 @@
+id: java-system-communications-express
+vendor_id: sun
+name: Java System Communications Express
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_system_communications_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_system_communications_express
+  confidence: auto

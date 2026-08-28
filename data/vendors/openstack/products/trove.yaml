@@ -1,0 +1,10 @@
+id: trove
+vendor_id: openstack
+name: Trove
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:trove:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trove
+  confidence: auto

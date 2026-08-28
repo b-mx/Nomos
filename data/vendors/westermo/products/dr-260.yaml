@@ -1,0 +1,10 @@
+id: dr-260
+vendor_id: westermo
+name: Dr-260
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westermo:dr\-260:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-260
+  confidence: auto

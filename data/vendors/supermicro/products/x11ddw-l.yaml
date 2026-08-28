@@ -1,0 +1,10 @@
+id: x11ddw-l
+vendor_id: supermicro
+name: X11Ddw-L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11ddw\-l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ddw-l
+  confidence: auto

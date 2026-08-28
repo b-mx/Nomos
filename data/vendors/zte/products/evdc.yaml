@@ -1,0 +1,10 @@
+id: evdc
+vendor_id: zte
+name: Evdc
+type: software
+tags: []
+cpe: cpe:2.3:a:zte:evdc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evdc
+  confidence: auto

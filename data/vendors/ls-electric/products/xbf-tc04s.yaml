@@ -1,0 +1,10 @@
+id: xbf-tc04s
+vendor_id: ls-electric
+name: Xbf-Tc04S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xbf\-tc04s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbf-tc04s
+  confidence: auto

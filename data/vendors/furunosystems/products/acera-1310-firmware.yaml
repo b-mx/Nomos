@@ -1,0 +1,10 @@
+id: acera-1310-firmware
+vendor_id: furunosystems
+name: Acera 1310 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:furunosystems:acera_1310_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acera_1310_firmware
+  confidence: auto

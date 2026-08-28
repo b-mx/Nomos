@@ -1,0 +1,10 @@
+id: pi-buffer-subsystem
+vendor_id: osisoft
+name: Pi Buffer Subsystem
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_buffer_subsystem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_buffer_subsystem
+  confidence: auto

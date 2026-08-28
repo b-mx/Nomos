@@ -1,0 +1,10 @@
+id: jd329a
+vendor_id: hp
+name: Jd329A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd329a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd329a
+  confidence: auto

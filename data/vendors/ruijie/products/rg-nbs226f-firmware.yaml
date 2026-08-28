@@ -1,0 +1,10 @@
+id: rg-nbs226f-firmware
+vendor_id: ruijie
+name: Rg-Nbs226F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-nbs226f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-nbs226f_firmware
+  confidence: auto

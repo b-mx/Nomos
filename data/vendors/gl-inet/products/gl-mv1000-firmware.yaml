@@ -1,0 +1,10 @@
+id: gl-mv1000-firmware
+vendor_id: gl-inet
+name: Gl-Mv1000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:gl\-mv1000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-mv1000_firmware
+  confidence: auto

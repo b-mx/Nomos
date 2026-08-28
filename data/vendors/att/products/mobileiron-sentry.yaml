@@ -1,0 +1,10 @@
+id: mobileiron-sentry
+vendor_id: att
+name: Mobileiron Sentry
+type: software
+tags: []
+cpe: cpe:2.3:a:att:mobileiron_sentry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobileiron_sentry
+  confidence: auto

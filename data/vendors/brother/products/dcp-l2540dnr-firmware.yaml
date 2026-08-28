@@ -1,0 +1,10 @@
+id: dcp-l2540dnr-firmware
+vendor_id: brother
+name: Dcp-L2540Dnr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp\-l2540dnr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-l2540dnr_firmware
+  confidence: auto

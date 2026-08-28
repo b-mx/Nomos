@@ -1,0 +1,10 @@
+id: phaser-3320
+vendor_id: xerox
+name: Phaser 3320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:phaser_3320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phaser_3320
+  confidence: auto

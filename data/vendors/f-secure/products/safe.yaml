@@ -1,0 +1,10 @@
+id: safe
+vendor_id: f-secure
+name: Safe
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:safe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safe
+  confidence: auto

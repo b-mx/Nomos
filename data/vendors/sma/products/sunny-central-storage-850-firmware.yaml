@@ -1,0 +1,10 @@
+id: sunny-central-storage-850-firmware
+vendor_id: sma
+name: Sunny Central Storage 850 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sma:sunny_central_storage_850_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_central_storage_850_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: valvelink
+vendor_id: emerson
+name: Valvelink
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:valvelink:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: valvelink
+  confidence: auto

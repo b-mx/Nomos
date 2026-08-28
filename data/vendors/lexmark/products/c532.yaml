@@ -1,0 +1,10 @@
+id: c532
+vendor_id: lexmark
+name: C532
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c532:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c532
+  confidence: auto

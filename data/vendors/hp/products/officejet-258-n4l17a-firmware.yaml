@@ -1,0 +1,10 @@
+id: officejet-258-n4l17a-firmware
+vendor_id: hp
+name: Officejet 258 N4L17A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_258_n4l17a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_258_n4l17a_firmware
+  confidence: auto

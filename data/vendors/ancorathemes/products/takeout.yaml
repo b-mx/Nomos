@@ -1,0 +1,10 @@
+id: takeout
+vendor_id: ancorathemes
+name: Takeout
+type: software
+tags: []
+cpe: cpe:2.3:a:ancorathemes:takeout:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: takeout
+  confidence: auto

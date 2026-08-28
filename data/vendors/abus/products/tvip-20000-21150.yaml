@@ -1,0 +1,10 @@
+id: tvip-20000-21150
+vendor_id: abus
+name: Tvip 20000-21150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abus:tvip_20000\-21150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_20000-21150
+  confidence: auto

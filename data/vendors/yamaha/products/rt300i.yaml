@@ -1,0 +1,10 @@
+id: rt300i
+vendor_id: yamaha
+name: Rt300I
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rt300i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt300i
+  confidence: auto

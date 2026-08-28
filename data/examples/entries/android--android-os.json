@@ -4,17 +4,15 @@
   "vendor_id": "android",
   "product_id": "android-os",
   "name": "Android OS",
-  "type": "os",
-  "tags": [
-    "operating-system"
-  ],
-  "icon": "logos:android-icon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Android OS",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

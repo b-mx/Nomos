@@ -1,0 +1,10 @@
+id: munin
+vendor_id: opensuse
+name: Munin
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:munin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: munin
+  confidence: auto

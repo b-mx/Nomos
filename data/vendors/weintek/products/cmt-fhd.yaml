@@ -1,0 +1,10 @@
+id: cmt-fhd
+vendor_id: weintek
+name: Cmt-Fhd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weintek:cmt\-fhd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt-fhd
+  confidence: auto

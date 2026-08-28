@@ -1,0 +1,10 @@
+id: j110
+vendor_id: lenovo
+name: J110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:j110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j110
+  confidence: auto

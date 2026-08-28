@@ -1,0 +1,10 @@
+id: moana-al00b
+vendor_id: huawei
+name: Moana-Al00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:moana\-al00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moana-al00b
+  confidence: auto

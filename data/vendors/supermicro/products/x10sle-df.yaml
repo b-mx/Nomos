@@ -1,0 +1,10 @@
+id: x10sle-df
+vendor_id: supermicro
+name: X10Sle-Df
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10sle\-df:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10sle-df
+  confidence: auto

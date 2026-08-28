@@ -1,0 +1,10 @@
+id: metasys-for-validated-environments
+vendor_id: johnsoncontrols
+name: Metasys For Validated Environments
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:metasys_for_validated_environments:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: metasys_for_validated_environments
+  confidence: auto

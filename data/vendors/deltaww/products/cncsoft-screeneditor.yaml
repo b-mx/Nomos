@@ -1,0 +1,10 @@
+id: cncsoft-screeneditor
+vendor_id: deltaww
+name: Cncsoft Screeneditor
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:cncsoft_screeneditor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cncsoft_screeneditor
+  confidence: auto

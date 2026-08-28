@@ -1,0 +1,10 @@
+id: ts05
+vendor_id: ave
+name: Ts05
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ave:ts05:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts05
+  confidence: auto

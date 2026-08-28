@@ -1,0 +1,10 @@
+id: call-management-system
+vendor_id: avaya
+name: Call Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:call_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: call_management_system
+  confidence: auto

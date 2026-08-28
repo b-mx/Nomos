@@ -1,0 +1,10 @@
+id: me203
+vendor_id: bachmann
+name: Me203
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:me203:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: me203
+  confidence: auto

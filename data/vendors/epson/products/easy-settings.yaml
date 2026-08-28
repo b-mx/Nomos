@@ -1,0 +1,10 @@
+id: easy-settings
+vendor_id: epson
+name: Easy Settings
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:easy_settings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_settings
+  confidence: auto

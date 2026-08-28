@@ -1,0 +1,10 @@
+id: diego
+vendor_id: cloudfoundry
+name: Diego
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:diego:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diego
+  confidence: auto

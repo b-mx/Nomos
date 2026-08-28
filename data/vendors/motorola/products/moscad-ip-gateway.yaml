@@ -1,0 +1,10 @@
+id: moscad-ip-gateway
+vendor_id: motorola
+name: Moscad Ip Gateway
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:moscad_ip_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moscad_ip_gateway
+  confidence: auto

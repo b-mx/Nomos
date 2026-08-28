@@ -1,0 +1,10 @@
+id: redmagic-8-pro-firmware
+vendor_id: zte
+name: Redmagic 8 Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:redmagic_8_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmagic_8_pro_firmware
+  confidence: auto

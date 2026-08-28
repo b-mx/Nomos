@@ -1,0 +1,10 @@
+id: ax3004itl
+vendor_id: iptime
+name: Ax3004Itl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:ax3004itl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax3004itl
+  confidence: auto

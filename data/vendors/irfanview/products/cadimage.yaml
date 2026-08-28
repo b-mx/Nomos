@@ -1,0 +1,10 @@
+id: cadimage
+vendor_id: irfanview
+name: Cadimage
+type: software
+tags: []
+cpe: cpe:2.3:a:irfanview:cadimage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cadimage
+  confidence: auto

@@ -1,0 +1,6 @@
+id: redhat-jboss-eap
+name: Red Hat JBoss Enterprise Application Platform
+aliases:
+- source: endoflife
+  value: redhat-jboss-eap
+  confidence: auto

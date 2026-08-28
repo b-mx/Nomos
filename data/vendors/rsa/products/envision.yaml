@@ -1,0 +1,10 @@
+id: envision
+vendor_id: rsa
+name: Envision
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:envision:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envision
+  confidence: auto

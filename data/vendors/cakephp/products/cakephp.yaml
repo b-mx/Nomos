@@ -1,0 +1,14 @@
+id: cakephp
+vendor_id: cakephp
+name: CakePHP
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:cakephp:cakephp:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: cakephp
+  confidence: auto
+- source: nvd
+  value: cakephp
+  confidence: auto

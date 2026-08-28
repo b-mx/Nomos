@@ -1,0 +1,10 @@
+id: thinkpad-helix-20ch-bios
+vendor_id: lenovo
+name: Thinkpad Helix 20Ch Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_helix_20ch_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_helix_20ch_bios
+  confidence: auto

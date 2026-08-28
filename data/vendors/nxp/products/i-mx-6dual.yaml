@@ -1,0 +1,10 @@
+id: i-mx-6dual
+vendor_id: nxp
+name: I.Mx 6Dual
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:i\.mx_6dual:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_6dual
+  confidence: auto

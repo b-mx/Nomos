@@ -1,0 +1,10 @@
+id: deskjet-3700-2fy93a
+vendor_id: hp
+name: Deskjet 3700 2Fy93A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_3700_2fy93a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3700_2fy93a
+  confidence: auto

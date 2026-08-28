@@ -1,0 +1,10 @@
+id: rsa-data-protection-manager-software-server
+vendor_id: emc
+name: Rsa Data Protection Manager Software Server
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_data_protection_manager_software_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_data_protection_manager_software_server
+  confidence: auto

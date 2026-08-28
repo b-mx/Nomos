@@ -1,0 +1,10 @@
+id: cc3100-firmware
+vendor_id: ti
+name: Cc3100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ti:cc3100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc3100_firmware
+  confidence: auto

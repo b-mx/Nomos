@@ -1,0 +1,10 @@
+id: cornell-l29a
+vendor_id: huawei
+name: Cornell-L29A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cornell\-l29a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cornell-l29a
+  confidence: auto

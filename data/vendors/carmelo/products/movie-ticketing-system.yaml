@@ -1,0 +1,10 @@
+id: movie-ticketing-system
+vendor_id: carmelo
+name: Movie Ticketing System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:movie_ticketing_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: movie_ticketing_system
+  confidence: auto

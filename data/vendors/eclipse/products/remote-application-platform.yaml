@@ -1,0 +1,10 @@
+id: remote-application-platform
+vendor_id: eclipse
+name: Remote Application Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:remote_application_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_application_platform
+  confidence: auto

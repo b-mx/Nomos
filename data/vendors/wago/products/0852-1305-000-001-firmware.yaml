@@ -1,0 +1,10 @@
+id: 0852-1305-000-001-firmware
+vendor_id: wago
+name: 0852-1305/000-001 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:0852\-1305\/000\-001_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 0852-1305/000-001_firmware
+  confidence: auto

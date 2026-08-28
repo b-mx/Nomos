@@ -1,0 +1,10 @@
+id: halo-home
+vendor_id: eaton
+name: Halo Home
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:halo_home:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: halo_home
+  confidence: auto

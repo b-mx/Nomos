@@ -1,0 +1,10 @@
+id: safenet-windows-logon-agent
+vendor_id: thalesgroup
+name: Safenet Windows Logon Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:thalesgroup:safenet_windows_logon_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safenet_windows_logon_agent
+  confidence: auto

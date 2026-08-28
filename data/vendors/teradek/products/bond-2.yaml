@@ -1,0 +1,10 @@
+id: bond-2
+vendor_id: teradek
+name: Bond 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teradek:bond_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bond_2
+  confidence: auto

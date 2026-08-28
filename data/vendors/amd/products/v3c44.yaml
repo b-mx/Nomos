@@ -1,0 +1,10 @@
+id: v3c44
+vendor_id: amd
+name: V3C44
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:v3c44:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v3c44
+  confidence: auto

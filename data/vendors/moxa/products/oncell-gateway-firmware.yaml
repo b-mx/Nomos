@@ -1,0 +1,10 @@
+id: oncell-gateway-firmware
+vendor_id: moxa
+name: Oncell Gateway Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:oncell_gateway_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncell_gateway_firmware
+  confidence: auto

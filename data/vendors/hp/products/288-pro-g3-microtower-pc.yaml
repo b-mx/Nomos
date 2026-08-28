@@ -1,0 +1,10 @@
+id: 288-pro-g3-microtower-pc
+vendor_id: hp
+name: 288 Pro G3 Microtower Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:288_pro_g3_microtower_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 288_pro_g3_microtower_pc
+  confidence: auto

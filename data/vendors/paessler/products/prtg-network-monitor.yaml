@@ -2,8 +2,7 @@ id: prtg-network-monitor
 vendor_id: paessler
 name: PRTG Network Monitor
 type: software
-tags:
-- monitoring
+tags: []
 aliases:
 - source: cisa_kev
   value: PRTG Network Monitor

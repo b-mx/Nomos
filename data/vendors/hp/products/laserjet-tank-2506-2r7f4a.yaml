@@ -1,0 +1,10 @@
+id: laserjet-tank-2506-2r7f4a
+vendor_id: hp
+name: Laserjet Tank 2506 2R7F4A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_tank_2506_2r7f4a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_tank_2506_2r7f4a
+  confidence: auto

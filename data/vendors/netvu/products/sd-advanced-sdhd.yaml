@@ -1,0 +1,10 @@
+id: sd-advanced-sdhd
+vendor_id: netvu
+name: Sd-Advanced - Sdhd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netvu:sd\-advanced_\-_sdhd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd-advanced_-_sdhd
+  confidence: auto

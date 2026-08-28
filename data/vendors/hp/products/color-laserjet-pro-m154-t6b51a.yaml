@@ -1,0 +1,10 @@
+id: color-laserjet-pro-m154-t6b51a
+vendor_id: hp
+name: Color Laserjet Pro M154 T6B51A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_pro_m154_t6b51a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_pro_m154_t6b51a
+  confidence: auto

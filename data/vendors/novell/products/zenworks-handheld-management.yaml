@@ -1,0 +1,10 @@
+id: zenworks-handheld-management
+vendor_id: novell
+name: Zenworks Handheld Management
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:zenworks_handheld_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenworks_handheld_management
+  confidence: auto

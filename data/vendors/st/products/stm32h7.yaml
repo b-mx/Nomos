@@ -1,0 +1,10 @@
+id: stm32h7
+vendor_id: st
+name: Stm32H7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32h7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32h7
+  confidence: auto

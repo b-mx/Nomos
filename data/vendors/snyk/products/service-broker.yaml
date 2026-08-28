@@ -1,0 +1,10 @@
+id: service-broker
+vendor_id: snyk
+name: Service Broker
+type: software
+tags: []
+cpe: cpe:2.3:a:snyk:service_broker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_broker
+  confidence: auto

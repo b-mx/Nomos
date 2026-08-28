@@ -1,0 +1,10 @@
+id: alp-al00b-rsc
+vendor_id: huawei
+name: Alp-Al00B-Rsc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:alp\-al00b\-rsc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alp-al00b-rsc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: px-b510-firmware
+vendor_id: epson
+name: Px-B510 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:px\-b510_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-b510_firmware
+  confidence: auto

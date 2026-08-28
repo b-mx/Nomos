@@ -1,0 +1,13 @@
+id: gatekeeper
+vendor_id: openpolicyagent
+name: Gatekeeper
+type: software
+tags: []
+cpe: cpe:2.3:a:openpolicyagent:gatekeeper:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: gatekeeper
+  confidence: auto
+- source: nvd
+  value: gatekeeper
+  confidence: auto

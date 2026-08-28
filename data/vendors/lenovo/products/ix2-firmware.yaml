@@ -1,0 +1,10 @@
+id: ix2-firmware
+vendor_id: lenovo
+name: Ix2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ix2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ix2_firmware
+  confidence: auto

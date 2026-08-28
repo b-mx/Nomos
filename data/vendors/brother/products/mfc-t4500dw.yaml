@@ -1,0 +1,10 @@
+id: mfc-t4500dw
+vendor_id: brother
+name: Mfc-T4500Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-t4500dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-t4500dw
+  confidence: auto

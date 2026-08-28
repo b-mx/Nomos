@@ -1,0 +1,10 @@
+id: melsec-ws0-geth00200
+vendor_id: mitsubishielectric
+name: Melsec Ws0-Geth00200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_ws0\-geth00200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_ws0-geth00200
+  confidence: auto

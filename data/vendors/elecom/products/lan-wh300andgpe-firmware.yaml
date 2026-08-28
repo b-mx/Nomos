@@ -1,0 +1,10 @@
+id: lan-wh300andgpe-firmware
+vendor_id: elecom
+name: Lan-Wh300Andgpe Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:lan\-wh300andgpe_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-wh300andgpe_firmware
+  confidence: auto

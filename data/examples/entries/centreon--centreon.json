@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "centreon--centreon",
+  "vendor_id": "centreon",
+  "product_id": "centreon",
+  "name": "Centreon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "centreon",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "centreon",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: service-booking-script
+vendor_id: phpjabbers
+name: Service Booking Script
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:service_booking_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_booking_script
+  confidence: auto

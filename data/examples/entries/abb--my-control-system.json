@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--my-control-system",
+  "vendor_id": "abb",
+  "product_id": "my-control-system",
+  "name": "My Control System",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "my_control_system",
+      "confidence": "auto"
+    }
+  ]
+}

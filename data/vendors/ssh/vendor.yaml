@@ -1,0 +1,7 @@
+id: ssh
+name: Ssh
+cpe: cpe:2.3:*:ssh:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ssh
+  confidence: auto

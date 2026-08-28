@@ -1,0 +1,10 @@
+id: pgp-public-key-server
+vendor_id: mit
+name: Pgp Public Key Server
+type: software
+tags: []
+cpe: cpe:2.3:a:mit:pgp_public_key_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pgp_public_key_server
+  confidence: auto

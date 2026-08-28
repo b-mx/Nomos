@@ -1,0 +1,6 @@
+id: proxmox-backup-server
+name: Proxmox Backup Server
+aliases:
+- source: endoflife
+  value: proxmox-backup-server
+  confidence: auto

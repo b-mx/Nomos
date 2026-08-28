@@ -1,0 +1,10 @@
+id: ch222-v3-server
+vendor_id: huawei
+name: Ch222 V3 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ch222_v3_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch222_v3_server
+  confidence: auto

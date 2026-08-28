@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--scan-to-network",
+  "vendor_id": "lexmark",
+  "product_id": "scan-to-network",
+  "name": "Scan To Network",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "scan_to_network",
+      "confidence": "auto"
+    }
+  ]
+}

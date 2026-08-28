@@ -1,0 +1,10 @@
+id: eos-1d-x-firmware
+vendor_id: canon
+name: Eos-1D X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:eos\-1d_x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos-1d_x_firmware
+  confidence: auto

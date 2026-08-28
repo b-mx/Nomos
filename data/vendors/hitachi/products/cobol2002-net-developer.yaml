@@ -1,0 +1,10 @@
+id: cobol2002-net-developer
+vendor_id: hitachi
+name: Cobol2002 Net Developer
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:cobol2002_net_developer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cobol2002_net_developer
+  confidence: auto

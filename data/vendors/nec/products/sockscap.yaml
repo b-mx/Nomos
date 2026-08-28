@@ -1,0 +1,10 @@
+id: sockscap
+vendor_id: nec
+name: Sockscap
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:sockscap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sockscap
+  confidence: auto

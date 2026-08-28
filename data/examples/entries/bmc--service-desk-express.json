@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--service-desk-express",
+  "vendor_id": "bmc",
+  "product_id": "service-desk-express",
+  "name": "Service Desk Express",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_desk_express",
+      "confidence": "auto"
+    }
+  ]
+}

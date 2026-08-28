@@ -1,0 +1,10 @@
+id: wmr-300
+vendor_id: buffalotech
+name: Wmr-300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:wmr\-300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wmr-300
+  confidence: auto

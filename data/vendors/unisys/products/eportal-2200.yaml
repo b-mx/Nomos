@@ -1,0 +1,10 @@
+id: eportal-2200
+vendor_id: unisys
+name: Eportal-2200
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:eportal\-2200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eportal-2200
+  confidence: auto

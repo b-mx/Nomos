@@ -1,0 +1,10 @@
+id: apt-xapian-index
+vendor_id: canonical
+name: Apt-Xapian-Index
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:apt\-xapian\-index:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apt-xapian-index
+  confidence: auto

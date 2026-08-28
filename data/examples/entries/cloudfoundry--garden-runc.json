@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--garden-runc",
+  "vendor_id": "cloudfoundry",
+  "product_id": "garden-runc",
+  "name": "Garden-Runc",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "garden-runc",
+      "confidence": "auto"
+    }
+  ]
+}

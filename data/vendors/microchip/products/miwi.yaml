@@ -1,0 +1,10 @@
+id: miwi
+vendor_id: microchip
+name: Miwi
+type: software
+tags: []
+cpe: cpe:2.3:a:microchip:miwi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miwi
+  confidence: auto

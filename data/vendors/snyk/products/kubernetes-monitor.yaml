@@ -1,0 +1,10 @@
+id: kubernetes-monitor
+vendor_id: snyk
+name: Kubernetes Monitor
+type: software
+tags: []
+cpe: cpe:2.3:a:snyk:kubernetes_monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kubernetes_monitor
+  confidence: auto

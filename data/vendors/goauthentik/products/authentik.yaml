@@ -1,0 +1,13 @@
+id: authentik
+vendor_id: goauthentik
+name: authentik
+type: software
+tags: []
+cpe: cpe:2.3:a:goauthentik:authentik:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: authentik
+  confidence: auto
+- source: nvd
+  value: authentik
+  confidence: auto

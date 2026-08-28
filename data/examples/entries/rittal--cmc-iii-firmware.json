@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rittal--cmc-iii-firmware",
+  "vendor_id": "rittal",
+  "product_id": "cmc-iii-firmware",
+  "name": "Cmc Iii Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cmc_iii_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

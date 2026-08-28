@@ -1,0 +1,10 @@
+id: sysmac-cs1
+vendor_id: omron
+name: Sysmac Cs1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cs1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cs1
+  confidence: auto

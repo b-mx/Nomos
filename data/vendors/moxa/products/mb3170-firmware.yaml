@@ -1,0 +1,10 @@
+id: mb3170-firmware
+vendor_id: moxa
+name: Mb3170 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:mb3170_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mb3170_firmware
+  confidence: auto

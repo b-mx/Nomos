@@ -1,0 +1,10 @@
+id: epyc-7351p
+vendor_id: amd
+name: Epyc 7351P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_7351p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7351p
+  confidence: auto

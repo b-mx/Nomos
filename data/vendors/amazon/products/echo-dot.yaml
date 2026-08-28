@@ -1,0 +1,10 @@
+id: echo-dot
+vendor_id: amazon
+name: Echo Dot
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amazon:echo_dot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echo_dot
+  confidence: auto

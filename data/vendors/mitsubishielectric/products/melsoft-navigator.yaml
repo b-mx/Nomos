@@ -1,0 +1,10 @@
+id: melsoft-navigator
+vendor_id: mitsubishielectric
+name: Melsoft Navigator
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:melsoft_navigator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsoft_navigator
+  confidence: auto

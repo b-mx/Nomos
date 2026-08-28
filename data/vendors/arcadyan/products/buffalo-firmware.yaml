@@ -1,9 +1,8 @@
 id: buffalo-firmware
 vendor_id: arcadyan
 name: Buffalo Firmware
-type: firmware
-tags:
-- operating-system
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: Buffalo Firmware

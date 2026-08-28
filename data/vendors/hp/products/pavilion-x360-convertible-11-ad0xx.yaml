@@ -1,0 +1,10 @@
+id: pavilion-x360-convertible-11-ad0xx
+vendor_id: hp
+name: Pavilion X360 Convertible 11-Ad0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_x360_convertible_11\-ad0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_x360_convertible_11-ad0xx
+  confidence: auto

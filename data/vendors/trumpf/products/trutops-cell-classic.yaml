@@ -1,0 +1,10 @@
+id: trutops-cell-classic
+vendor_id: trumpf
+name: Trutops Cell Classic
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:trutops_cell_classic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trutops_cell_classic
+  confidence: auto

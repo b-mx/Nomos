@@ -1,0 +1,10 @@
+id: essex
+vendor_id: openstack
+name: Essex
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:essex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: essex
+  confidence: auto

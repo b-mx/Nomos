@@ -1,0 +1,10 @@
+id: qnx-momentics
+vendor_id: blackberry
+name: Qnx Momentics
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:qnx_momentics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnx_momentics
+  confidence: auto

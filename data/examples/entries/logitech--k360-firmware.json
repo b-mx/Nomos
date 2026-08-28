@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "logitech--k360-firmware",
+  "vendor_id": "logitech",
+  "product_id": "k360-firmware",
+  "name": "K360 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k360_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

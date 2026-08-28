@@ -1,0 +1,10 @@
+id: acera-810
+vendor_id: furunosystems
+name: Acera 810
+type: hardware
+tags: []
+cpe: cpe:2.3:h:furunosystems:acera_810:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acera_810
+  confidence: auto

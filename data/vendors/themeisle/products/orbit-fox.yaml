@@ -1,0 +1,10 @@
+id: orbit-fox
+vendor_id: themeisle
+name: Orbit Fox
+type: software
+tags: []
+cpe: cpe:2.3:a:themeisle:orbit_fox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: orbit_fox
+  confidence: auto

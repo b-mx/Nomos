@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netgate--haproxy",
+  "vendor_id": "netgate",
+  "product_id": "haproxy",
+  "name": "Haproxy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "haproxy",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: awv-plus-firmware
+vendor_id: chuango
+name: Awv Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chuango:awv_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awv_plus_firmware
+  confidence: auto

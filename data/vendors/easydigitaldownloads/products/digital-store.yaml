@@ -1,0 +1,10 @@
+id: digital-store
+vendor_id: easydigitaldownloads
+name: Digital Store
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:digital_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: digital_store
+  confidence: auto

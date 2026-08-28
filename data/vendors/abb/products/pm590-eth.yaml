@@ -1,0 +1,10 @@
+id: pm590-eth
+vendor_id: abb
+name: Pm590-Eth
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm590\-eth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm590-eth
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xf86-video-intel
+vendor_id: x
+name: Xf86-Video-Intel
+type: software
+tags: []
+cpe: cpe:2.3:a:x:xf86\-video\-intel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xf86-video-intel
+  confidence: auto

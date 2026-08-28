@@ -1,0 +1,10 @@
+id: miix-520-12ikb-firmware
+vendor_id: lenovo
+name: Miix 520-12Ikb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:miix_520\-12ikb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miix_520-12ikb_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: api-developer-portal
+vendor_id: ca
+name: Api Developer Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:ca:api_developer_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: api_developer_portal
+  confidence: auto

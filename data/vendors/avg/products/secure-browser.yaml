@@ -1,0 +1,10 @@
+id: secure-browser
+vendor_id: avg
+name: Secure Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:avg:secure_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_browser
+  confidence: auto

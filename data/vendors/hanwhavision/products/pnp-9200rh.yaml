@@ -1,0 +1,10 @@
+id: pnp-9200rh
+vendor_id: hanwhavision
+name: Pnp-9200Rh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:pnp\-9200rh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pnp-9200rh
+  confidence: auto

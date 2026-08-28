@@ -1,0 +1,10 @@
+id: 320-15ikbrn-touch-firmware
+vendor_id: hp
+name: 320-15Ikbrn Touch Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:320\-15ikbrn_touch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 320-15ikbrn_touch_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 762-4101-firmware
+vendor_id: wago
+name: 762-4101 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:762\-4101_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 762-4101_firmware
+  confidence: auto

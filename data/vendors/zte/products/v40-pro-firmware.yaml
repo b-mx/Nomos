@@ -1,0 +1,10 @@
+id: v40-pro-firmware
+vendor_id: zte
+name: V40 Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:v40_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v40_pro_firmware
+  confidence: auto

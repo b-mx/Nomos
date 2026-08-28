@@ -1,0 +1,10 @@
+id: precision-500d-firmware
+vendor_id: gehealthcare
+name: Precision 500D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:precision_500d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: precision_500d_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ens500-ac
+vendor_id: engeniustech
+name: Ens500-Ac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:engeniustech:ens500\-ac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ens500-ac
+  confidence: auto

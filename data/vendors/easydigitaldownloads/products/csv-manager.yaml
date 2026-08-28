@@ -1,0 +1,10 @@
+id: csv-manager
+vendor_id: easydigitaldownloads
+name: Csv Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:csv_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: csv_manager
+  confidence: auto

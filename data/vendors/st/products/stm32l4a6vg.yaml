@@ -1,0 +1,10 @@
+id: stm32l4a6vg
+vendor_id: st
+name: Stm32L4A6Vg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l4a6vg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l4a6vg
+  confidence: auto

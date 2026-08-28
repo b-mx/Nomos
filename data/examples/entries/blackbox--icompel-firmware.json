@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "blackbox--icompel-firmware",
+  "vendor_id": "blackbox",
+  "product_id": "icompel-firmware",
+  "name": "Icompel Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icompel_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

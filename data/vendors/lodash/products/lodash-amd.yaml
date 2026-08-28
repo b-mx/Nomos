@@ -1,0 +1,10 @@
+id: lodash-amd
+vendor_id: lodash
+name: Lodash-Amd
+type: software
+tags: []
+cpe: cpe:2.3:a:lodash:lodash\-amd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lodash-amd
+  confidence: auto

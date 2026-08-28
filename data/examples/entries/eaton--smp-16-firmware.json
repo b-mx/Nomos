@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eaton--smp-16-firmware",
+  "vendor_id": "eaton",
+  "product_id": "smp-16-firmware",
+  "name": "Smp 16 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smp_16_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

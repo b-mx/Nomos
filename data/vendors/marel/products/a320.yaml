@@ -1,0 +1,10 @@
+id: a320
+vendor_id: marel
+name: A320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:marel:a320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a320
+  confidence: auto

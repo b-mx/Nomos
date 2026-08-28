@@ -1,0 +1,10 @@
+id: p30
+vendor_id: huawei
+name: P30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p30
+  confidence: auto

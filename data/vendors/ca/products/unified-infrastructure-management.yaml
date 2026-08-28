@@ -1,0 +1,10 @@
+id: unified-infrastructure-management
+vendor_id: ca
+name: Unified Infrastructure Management
+type: software
+tags: []
+cpe: cpe:2.3:a:ca:unified_infrastructure_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unified_infrastructure_management
+  confidence: auto

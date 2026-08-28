@@ -1,0 +1,10 @@
+id: 701client
+vendor_id: soyal
+name: 701Client
+type: software
+tags: []
+cpe: cpe:2.3:a:soyal:701client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 701client
+  confidence: auto

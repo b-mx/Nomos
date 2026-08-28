@@ -1,0 +1,10 @@
+id: cpp6
+vendor_id: bosch
+name: Cpp6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:cpp6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpp6
+  confidence: auto

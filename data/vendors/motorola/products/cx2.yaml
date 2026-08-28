@@ -1,0 +1,10 @@
+id: cx2
+vendor_id: motorola
+name: Cx2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:cx2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx2
+  confidence: auto

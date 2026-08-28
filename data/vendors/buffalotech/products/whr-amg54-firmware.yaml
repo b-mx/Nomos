@@ -1,0 +1,10 @@
+id: whr-amg54-firmware
+vendor_id: buffalotech
+name: Whr-Amg54 Firmware
+type: software
+tags: []
+cpe: cpe:2.3:a:buffalotech:whr\-amg54_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-amg54_firmware
+  confidence: auto

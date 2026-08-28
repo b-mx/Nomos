@@ -1,0 +1,10 @@
+id: callback-assist
+vendor_id: avaya
+name: Callback Assist
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:callback_assist:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: callback_assist
+  confidence: auto

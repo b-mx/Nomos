@@ -1,0 +1,10 @@
+id: nec-x551uhd-firmware
+vendor_id: sharp
+name: Nec X551Uhd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:nec_x551uhd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_x551uhd_firmware
+  confidence: auto

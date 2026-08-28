@@ -1,0 +1,10 @@
+id: revoria-press-sc180
+vendor_id: fujifilm
+name: Revoria Press Sc180
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:revoria_press_sc180:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revoria_press_sc180
+  confidence: auto

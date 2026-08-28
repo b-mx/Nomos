@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--clustered-data-ontap-antivirus-connector",
+  "vendor_id": "netapp",
+  "product_id": "clustered-data-ontap-antivirus-connector",
+  "name": "Clustered Data Ontap Antivirus Connector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "clustered_data_ontap_antivirus_connector",
+      "confidence": "auto"
+    }
+  ]
+}

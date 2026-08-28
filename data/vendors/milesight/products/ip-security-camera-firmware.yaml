@@ -1,0 +1,10 @@
+id: ip-security-camera-firmware
+vendor_id: milesight
+name: Ip Security Camera Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:milesight:ip_security_camera_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_security_camera_firmware
+  confidence: auto

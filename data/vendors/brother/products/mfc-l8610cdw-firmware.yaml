@@ -1,0 +1,10 @@
+id: mfc-l8610cdw-firmware
+vendor_id: brother
+name: Mfc-L8610Cdw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-l8610cdw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l8610cdw_firmware
+  confidence: auto

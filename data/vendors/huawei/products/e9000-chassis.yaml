@@ -1,0 +1,10 @@
+id: e9000-chassis
+vendor_id: huawei
+name: E9000 Chassis
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:e9000_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e9000_chassis
+  confidence: auto

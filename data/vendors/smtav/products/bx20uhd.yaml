@@ -1,0 +1,10 @@
+id: bx20uhd
+vendor_id: smtav
+name: Bx20Uhd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:smtav:bx20uhd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bx20uhd
+  confidence: auto

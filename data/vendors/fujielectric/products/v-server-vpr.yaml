@@ -1,0 +1,10 @@
+id: v-server-vpr
+vendor_id: fujielectric
+name: V-Server Vpr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujielectric:v\-server_vpr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v-server_vpr
+  confidence: auto

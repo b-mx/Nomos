@@ -1,0 +1,10 @@
+id: tasy-electronic-medical-record
+vendor_id: philips
+name: Tasy Electronic Medical Record
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:tasy_electronic_medical_record:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tasy_electronic_medical_record
+  confidence: auto

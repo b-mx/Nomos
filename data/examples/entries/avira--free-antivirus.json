@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avira--free-antivirus",
+  "vendor_id": "avira",
+  "product_id": "free-antivirus",
+  "name": "Free Antivirus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "free_antivirus",
+      "confidence": "auto"
+    }
+  ]
+}

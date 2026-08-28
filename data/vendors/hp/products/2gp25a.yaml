@@ -1,0 +1,10 @@
+id: 2gp25a
+vendor_id: hp
+name: 2Gp25A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:2gp25a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2gp25a
+  confidence: auto

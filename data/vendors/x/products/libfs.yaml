@@ -1,0 +1,10 @@
+id: libfs
+vendor_id: x
+name: Libfs
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libfs
+  confidence: auto

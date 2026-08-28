@@ -1,0 +1,10 @@
+id: 3com-officeconnect-gigabit-vpn-firewall-software
+vendor_id: hp
+name: 3Com Officeconnect Gigabit Vpn Firewall Software
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:3com_officeconnect_gigabit_vpn_firewall_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3com_officeconnect_gigabit_vpn_firewall_software
+  confidence: auto

@@ -1,0 +1,10 @@
+id: total-js
+vendor_id: totaljs
+name: Total.Js
+type: software
+tags: []
+cpe: cpe:2.3:a:totaljs:total\.js:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: total.js
+  confidence: auto

@@ -1,0 +1,10 @@
+id: online-hotel-reservation-system
+vendor_id: campcodes
+name: Online Hotel Reservation System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:online_hotel_reservation_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_hotel_reservation_system
+  confidence: auto

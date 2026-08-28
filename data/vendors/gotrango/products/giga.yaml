@@ -1,0 +1,10 @@
+id: giga
+vendor_id: gotrango
+name: Giga
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gotrango:giga:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: giga
+  confidence: auto

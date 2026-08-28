@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--base-config",
+  "vendor_id": "debian",
+  "product_id": "base-config",
+  "name": "Base-Config",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "base-config",
+      "confidence": "auto"
+    }
+  ]
+}

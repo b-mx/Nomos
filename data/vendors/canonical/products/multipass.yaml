@@ -1,0 +1,10 @@
+id: multipass
+vendor_id: canonical
+name: Multipass
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:multipass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multipass
+  confidence: auto

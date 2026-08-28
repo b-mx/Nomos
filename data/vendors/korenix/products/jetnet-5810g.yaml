@@ -1,0 +1,10 @@
+id: jetnet-5810g
+vendor_id: korenix
+name: Jetnet 5810G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetnet_5810g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_5810g
+  confidence: auto

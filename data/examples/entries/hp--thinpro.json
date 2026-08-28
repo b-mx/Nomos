@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--thinpro",
+  "vendor_id": "hp",
+  "product_id": "thinpro",
+  "name": "Thinpro",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "thinpro",
+      "confidence": "auto"
+    }
+  ]
+}

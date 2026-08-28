@@ -1,0 +1,10 @@
+id: ipfs
+vendor_id: protocol
+name: Ipfs
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:ipfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipfs
+  confidence: auto

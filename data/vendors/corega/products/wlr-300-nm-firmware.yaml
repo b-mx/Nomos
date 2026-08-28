@@ -1,0 +1,10 @@
+id: wlr-300-nm-firmware
+vendor_id: corega
+name: Wlr 300 Nm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:corega:wlr_300_nm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlr_300_nm_firmware
+  confidence: auto

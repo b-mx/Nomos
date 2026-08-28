@@ -1,0 +1,10 @@
+id: cx62x
+vendor_id: lexmark
+name: Cx62X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx62x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx62x
+  confidence: auto

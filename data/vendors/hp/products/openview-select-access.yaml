@@ -1,0 +1,10 @@
+id: openview-select-access
+vendor_id: hp
+name: Openview Select Access
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:openview_select_access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openview_select_access
+  confidence: auto

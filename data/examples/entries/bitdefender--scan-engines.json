@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bitdefender--scan-engines",
+  "vendor_id": "bitdefender",
+  "product_id": "scan-engines",
+  "name": "Scan Engines",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "scan_engines",
+      "confidence": "auto"
+    }
+  ]
+}

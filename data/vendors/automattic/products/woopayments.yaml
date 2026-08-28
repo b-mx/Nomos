@@ -1,0 +1,10 @@
+id: woopayments
+vendor_id: automattic
+name: Woopayments
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:woopayments:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woopayments
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kb-ahr16d
+vendor_id: kbdevice
+name: Kb-Ahr16D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kbdevice:kb\-ahr16d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kb-ahr16d
+  confidence: auto

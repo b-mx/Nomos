@@ -1,0 +1,10 @@
+id: cc524a
+vendor_id: hp
+name: Cc524A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cc524a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc524a
+  confidence: auto

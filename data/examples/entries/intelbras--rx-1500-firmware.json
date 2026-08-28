@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intelbras--rx-1500-firmware",
+  "vendor_id": "intelbras",
+  "product_id": "rx-1500-firmware",
+  "name": "Rx 1500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rx_1500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

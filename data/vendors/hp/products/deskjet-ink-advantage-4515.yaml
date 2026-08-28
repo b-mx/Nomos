@@ -1,0 +1,10 @@
+id: deskjet-ink-advantage-4515
+vendor_id: hp
+name: Deskjet Ink Advantage 4515
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_ink_advantage_4515:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_ink_advantage_4515
+  confidence: auto

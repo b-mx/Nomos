@@ -1,0 +1,10 @@
+id: zendservice-audioscrobbler
+vendor_id: zend
+name: Zendservice Audioscrobbler
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zendservice_audioscrobbler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendservice_audioscrobbler
+  confidence: auto

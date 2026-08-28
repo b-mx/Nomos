@@ -1,0 +1,10 @@
+id: gr1100-p-firmware
+vendor_id: h3c
+name: Gr1100-P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:gr1100\-p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gr1100-p_firmware
+  confidence: auto

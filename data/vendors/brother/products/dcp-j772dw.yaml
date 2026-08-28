@@ -1,0 +1,10 @@
+id: dcp-j772dw
+vendor_id: brother
+name: Dcp-J772Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-j772dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-j772dw
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wzr-d1100h
+vendor_id: buffalo
+name: Wzr-D1100H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wzr\-d1100h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr-d1100h
+  confidence: auto

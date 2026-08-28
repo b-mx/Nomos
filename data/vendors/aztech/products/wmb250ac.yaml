@@ -1,0 +1,10 @@
+id: wmb250ac
+vendor_id: aztech
+name: Wmb250Ac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aztech:wmb250ac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wmb250ac
+  confidence: auto

@@ -1,0 +1,10 @@
+id: personal-phone-manager
+vendor_id: adtran
+name: Personal Phone Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:adtran:personal_phone_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: personal_phone_manager
+  confidence: auto

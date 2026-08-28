@@ -1,0 +1,10 @@
+id: bs-gs2008p-firmware
+vendor_id: buffalo
+name: Bs-Gs2008P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:bs\-gs2008p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bs-gs2008p_firmware
+  confidence: auto

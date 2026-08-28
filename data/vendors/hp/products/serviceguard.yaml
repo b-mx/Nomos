@@ -1,0 +1,10 @@
+id: serviceguard
+vendor_id: hp
+name: Serviceguard
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:serviceguard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: serviceguard
+  confidence: auto

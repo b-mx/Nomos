@@ -1,0 +1,10 @@
+id: multifactor-authentication-agent
+vendor_id: rsa
+name: Multifactor Authentication Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:multifactor_authentication_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multifactor_authentication_agent
+  confidence: auto

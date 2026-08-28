@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opentext--documentum-webtop",
+  "vendor_id": "opentext",
+  "product_id": "documentum-webtop",
+  "name": "Documentum Webtop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "documentum_webtop",
+      "confidence": "auto"
+    }
+  ]
+}

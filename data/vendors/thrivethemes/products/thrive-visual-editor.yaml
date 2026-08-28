@@ -1,0 +1,10 @@
+id: thrive-visual-editor
+vendor_id: thrivethemes
+name: Thrive Visual Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:thrivethemes:thrive_visual_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thrive_visual_editor
+  confidence: auto

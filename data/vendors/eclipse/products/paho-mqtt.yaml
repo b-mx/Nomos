@@ -1,0 +1,10 @@
+id: paho-mqtt
+vendor_id: eclipse
+name: Paho Mqtt
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:paho_mqtt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paho_mqtt
+  confidence: auto

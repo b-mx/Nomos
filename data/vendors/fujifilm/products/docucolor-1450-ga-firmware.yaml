@@ -1,0 +1,10 @@
+id: docucolor-1450-ga-firmware
+vendor_id: fujifilm
+name: Docucolor 1450 Ga Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:docucolor_1450_ga_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docucolor_1450_ga_firmware
+  confidence: auto

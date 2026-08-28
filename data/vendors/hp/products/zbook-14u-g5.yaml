@@ -1,0 +1,10 @@
+id: zbook-14u-g5
+vendor_id: hp
+name: Zbook 14U G5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_14u_g5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_14u_g5
+  confidence: auto

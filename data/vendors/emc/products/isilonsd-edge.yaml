@@ -1,0 +1,10 @@
+id: isilonsd-edge
+vendor_id: emc
+name: Isilonsd Edge
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:isilonsd_edge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isilonsd_edge
+  confidence: auto

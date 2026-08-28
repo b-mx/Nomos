@@ -1,0 +1,10 @@
+id: oncell-5104-hspa-firmware
+vendor_id: moxa
+name: Oncell 5104-Hspa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:oncell_5104\-hspa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncell_5104-hspa_firmware
+  confidence: auto

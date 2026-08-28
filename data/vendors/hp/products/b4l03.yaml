@@ -1,0 +1,10 @@
+id: b4l03
+vendor_id: hp
+name: B4L03
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:b4l03:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b4l03
+  confidence: auto

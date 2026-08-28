@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--suse-cloud",
+  "vendor_id": "novell",
+  "product_id": "suse-cloud",
+  "name": "Suse Cloud",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_cloud",
+      "confidence": "auto"
+    }
+  ]
+}

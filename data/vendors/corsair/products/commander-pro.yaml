@@ -1,0 +1,10 @@
+id: commander-pro
+vendor_id: corsair
+name: Commander Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:commander_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: commander_pro
+  confidence: auto

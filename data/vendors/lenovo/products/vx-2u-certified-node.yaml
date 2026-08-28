@@ -1,0 +1,10 @@
+id: vx-2u-certified-node
+vendor_id: lenovo
+name: Vx 2U Certified Node
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:vx_2u_certified_node:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx_2u_certified_node
+  confidence: auto

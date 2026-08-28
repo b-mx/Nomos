@@ -1,0 +1,13 @@
+id: wireshark
+vendor_id: wireshark
+name: Wireshark
+type: software
+tags: []
+cpe: cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: wireshark
+  confidence: auto
+- source: nvd
+  value: wireshark
+  confidence: auto

@@ -1,0 +1,10 @@
+id: yafuoku
+vendor_id: yahoo
+name: Yafuoku!
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:yafuoku\!:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yafuoku!
+  confidence: auto

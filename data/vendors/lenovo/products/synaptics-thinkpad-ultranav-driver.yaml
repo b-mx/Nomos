@@ -1,0 +1,10 @@
+id: synaptics-thinkpad-ultranav-driver
+vendor_id: lenovo
+name: Synaptics Thinkpad Ultranav Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:synaptics_thinkpad_ultranav_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synaptics_thinkpad_ultranav_driver
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ws5200-10
+vendor_id: huawei
+name: Ws5200-10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ws5200\-10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws5200-10
+  confidence: auto

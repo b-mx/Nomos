@@ -1,0 +1,10 @@
+id: blink-xt2-sync-module
+vendor_id: amazon
+name: Blink Xt2 Sync Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amazon:blink_xt2_sync_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blink_xt2_sync_module
+  confidence: auto

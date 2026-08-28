@@ -1,0 +1,14 @@
+id: deno
+vendor_id: deno
+name: Deno
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:deno:deno:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: deno
+  confidence: auto
+- source: nvd
+  value: deno
+  confidence: auto

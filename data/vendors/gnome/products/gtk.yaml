@@ -1,0 +1,10 @@
+id: gtk
+vendor_id: gnome
+name: Gtk
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gtk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gtk
+  confidence: auto

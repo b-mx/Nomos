@@ -1,0 +1,10 @@
+id: xnd-9082rf-firmware
+vendor_id: hanwhavision
+name: Xnd-9082Rf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:xnd\-9082rf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnd-9082rf_firmware
+  confidence: auto

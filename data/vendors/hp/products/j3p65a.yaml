@@ -1,0 +1,10 @@
+id: j3p65a
+vendor_id: hp
+name: J3P65A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:j3p65a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j3p65a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: json-api-data-source
+vendor_id: grafana
+name: Json Api Data Source
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:json_api_data_source:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: json_api_data_source
+  confidence: auto

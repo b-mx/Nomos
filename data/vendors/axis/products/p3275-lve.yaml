@@ -1,0 +1,10 @@
+id: p3275-lve
+vendor_id: axis
+name: P3275-Lve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p3275\-lve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3275-lve
+  confidence: auto

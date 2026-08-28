@@ -1,0 +1,10 @@
+id: footprints-service-core
+vendor_id: bmc
+name: Footprints Service Core
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:footprints_service_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: footprints_service_core
+  confidence: auto

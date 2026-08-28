@@ -1,0 +1,10 @@
+id: eco-25-0-3-s
+vendor_id: fronius
+name: Eco 25.0-3-S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fronius:eco_25\.0\-3\-s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eco_25.0-3-s
+  confidence: auto

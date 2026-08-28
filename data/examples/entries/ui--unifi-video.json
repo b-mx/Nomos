@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-video",
+  "vendor_id": "ui",
+  "product_id": "unifi-video",
+  "name": "Unifi Video",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_video",
+      "confidence": "auto"
+    }
+  ]
+}

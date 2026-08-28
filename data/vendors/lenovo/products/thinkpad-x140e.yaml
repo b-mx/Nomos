@@ -1,0 +1,10 @@
+id: thinkpad-x140e
+vendor_id: lenovo
+name: Thinkpad X140E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x140e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x140e
+  confidence: auto

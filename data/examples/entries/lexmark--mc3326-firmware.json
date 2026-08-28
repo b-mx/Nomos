@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--mc3326-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "mc3326-firmware",
+  "name": "Mc3326 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mc3326_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

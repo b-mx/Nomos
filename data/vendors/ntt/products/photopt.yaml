@@ -1,0 +1,10 @@
+id: photopt
+vendor_id: ntt
+name: Photopt
+type: software
+tags: []
+cpe: cpe:2.3:a:ntt:photopt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photopt
+  confidence: auto

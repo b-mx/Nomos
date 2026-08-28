@@ -1,0 +1,10 @@
+id: cgi
+vendor_id: ruby-lang
+name: Cgi
+type: software
+tags: []
+cpe: cpe:2.3:a:ruby\-lang:cgi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cgi
+  confidence: auto

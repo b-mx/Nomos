@@ -1,0 +1,10 @@
+id: mx-m3551
+vendor_id: sharp
+name: Mx-M3551
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-m3551:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m3551
+  confidence: auto

@@ -1,0 +1,10 @@
+id: whr-hp-g300n
+vendor_id: buffalo
+name: Whr-Hp-G300N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:whr\-hp\-g300n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-hp-g300n
+  confidence: auto

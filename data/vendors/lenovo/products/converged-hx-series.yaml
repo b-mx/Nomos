@@ -1,0 +1,10 @@
+id: converged-hx-series
+vendor_id: lenovo
+name: Converged Hx Series
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:converged_hx_series:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: converged_hx_series
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pepperl-fuchs--btc12-firmware",
+  "vendor_id": "pepperl-fuchs",
+  "product_id": "btc12-firmware",
+  "name": "Btc12 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "btc12_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

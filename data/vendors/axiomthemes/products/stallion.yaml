@@ -1,0 +1,10 @@
+id: stallion
+vendor_id: axiomthemes
+name: Stallion
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:stallion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stallion
+  confidence: auto

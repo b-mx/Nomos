@@ -1,0 +1,10 @@
+id: pagewide-managed-p75050dn-w1b28a-firmware
+vendor_id: hp
+name: Pagewide Managed P75050Dn W1B28A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:pagewide_managed_p75050dn_w1b28a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pagewide_managed_p75050dn_w1b28a_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--nextcloud-files-automated-tagging",
+  "vendor_id": "nextcloud",
+  "product_id": "nextcloud-files-automated-tagging",
+  "name": "Nextcloud Files Automated Tagging",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nextcloud_files_automated_tagging",
+      "confidence": "auto"
+    }
+  ]
+}

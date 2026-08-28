@@ -1,0 +1,9 @@
+id: openwrt
+vendor_id: openwrt
+name: OpenWrt
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: openwrt
+  confidence: auto

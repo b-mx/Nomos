@@ -1,0 +1,10 @@
+id: sametime-chat-and-meetings
+vendor_id: hcltech
+name: Sametime Chat And Meetings
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:sametime_chat_and_meetings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sametime_chat_and_meetings
+  confidence: auto

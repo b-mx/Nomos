@@ -1,0 +1,10 @@
+id: hiperarc
+vendor_id: 3com
+name: Hiperarc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:3com:hiperarc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hiperarc
+  confidence: auto

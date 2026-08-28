@@ -1,0 +1,10 @@
+id: aiseg2-firmware
+vendor_id: panasonic
+name: Aiseg2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:panasonic:aiseg2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aiseg2_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ms821
+vendor_id: lexmark
+name: Ms821
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms821:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms821
+  confidence: auto

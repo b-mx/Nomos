@@ -1,0 +1,10 @@
+id: cards-for-beaver-builder
+vendor_id: brainstormforce
+name: Cards For Beaver Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:cards_for_beaver_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cards_for_beaver_builder
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ep-r8
+vendor_id: ui
+name: Ep-R8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:ep\-r8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep-r8
+  confidence: auto

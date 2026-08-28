@@ -1,0 +1,10 @@
+id: xm9155
+vendor_id: lexmark
+name: Xm9155
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xm9155:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm9155
+  confidence: auto

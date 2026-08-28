@@ -1,0 +1,10 @@
+id: quidway-service-process-unit-board-s9300
+vendor_id: huawei
+name: Quidway Service Process Unit Board S9300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:quidway_service_process_unit_board_s9300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quidway_service_process_unit_board_s9300
+  confidence: auto

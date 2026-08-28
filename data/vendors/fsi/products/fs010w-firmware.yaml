@@ -1,0 +1,10 @@
+id: fs010w-firmware
+vendor_id: fsi
+name: Fs010W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fsi:fs010w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fs010w_firmware
+  confidence: auto

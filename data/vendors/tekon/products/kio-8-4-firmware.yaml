@@ -1,0 +1,10 @@
+id: kio-8-4-firmware
+vendor_id: tekon
+name: Kio-8(4) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tekon:kio\-8\(4\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kio-8(4)_firmware
+  confidence: auto

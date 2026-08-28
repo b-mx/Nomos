@@ -1,0 +1,10 @@
+id: vagrant
+vendor_id: hashicorp
+name: Vagrant
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:vagrant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vagrant
+  confidence: auto

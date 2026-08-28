@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp-idf",
+  "vendor_id": "espressif",
+  "product_id": "esp-idf",
+  "name": "Esp-Idf",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp-idf",
+      "confidence": "auto"
+    }
+  ]
+}

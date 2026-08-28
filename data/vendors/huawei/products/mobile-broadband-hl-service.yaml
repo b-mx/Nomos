@@ -1,0 +1,10 @@
+id: mobile-broadband-hl-service
+vendor_id: huawei
+name: Mobile Broadband Hl Service
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:mobile_broadband_hl_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile_broadband_hl_service
+  confidence: auto

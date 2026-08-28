@@ -1,0 +1,10 @@
+id: fd8182-f1-firmware
+vendor_id: vivotek
+name: Fd8182-F1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fd8182\-f1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd8182-f1_firmware
+  confidence: auto

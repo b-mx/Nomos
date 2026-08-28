@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--plasma-desktop",
+  "vendor_id": "kde",
+  "product_id": "plasma-desktop",
+  "name": "Plasma-Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plasma-desktop",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: jd468a
+vendor_id: hp
+name: Jd468A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd468a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd468a
+  confidence: auto

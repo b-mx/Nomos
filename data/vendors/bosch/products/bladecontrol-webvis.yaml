@@ -1,0 +1,10 @@
+id: bladecontrol-webvis
+vendor_id: bosch
+name: Bladecontrol-Webvis
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:bladecontrol\-webvis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bladecontrol-webvis
+  confidence: auto

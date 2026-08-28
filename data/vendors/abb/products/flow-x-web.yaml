@@ -1,0 +1,10 @@
+id: flow-x-web
+vendor_id: abb
+name: Flow-X/Web
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:flow\-x\/web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flow-x/web
+  confidence: auto

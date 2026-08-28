@@ -1,0 +1,10 @@
+id: proliant-xl230k-gen10-server
+vendor_id: hp
+name: Proliant Xl230K Gen10 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_xl230k_gen10_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_xl230k_gen10_server
+  confidence: auto

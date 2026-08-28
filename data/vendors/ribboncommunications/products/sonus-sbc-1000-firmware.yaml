@@ -1,0 +1,10 @@
+id: sonus-sbc-1000-firmware
+vendor_id: ribboncommunications
+name: Sonus Sbc 1000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ribboncommunications:sonus_sbc_1000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sonus_sbc_1000_firmware
+  confidence: auto

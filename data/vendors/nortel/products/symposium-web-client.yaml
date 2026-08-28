@@ -1,0 +1,10 @@
+id: symposium-web-client
+vendor_id: nortel
+name: Symposium Web Client
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:symposium_web_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symposium_web_client
+  confidence: auto

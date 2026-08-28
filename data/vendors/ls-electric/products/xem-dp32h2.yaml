@@ -1,0 +1,10 @@
+id: xem-dp32h2
+vendor_id: ls-electric
+name: Xem-Dp32H2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xem\-dp32h2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xem-dp32h2
+  confidence: auto

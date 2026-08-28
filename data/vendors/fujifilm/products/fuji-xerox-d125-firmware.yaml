@@ -1,0 +1,10 @@
+id: fuji-xerox-d125-firmware
+vendor_id: fujifilm
+name: Fuji Xerox D125 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:fuji_xerox_d125_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fuji_xerox_d125_firmware
+  confidence: auto

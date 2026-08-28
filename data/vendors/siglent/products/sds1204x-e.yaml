@@ -1,0 +1,10 @@
+id: sds1204x-e
+vendor_id: siglent
+name: Sds1204X-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:siglent:sds1204x\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sds1204x-e
+  confidence: auto

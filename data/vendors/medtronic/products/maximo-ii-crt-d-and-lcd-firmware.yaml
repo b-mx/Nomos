@@ -1,0 +1,10 @@
+id: maximo-ii-crt-d-and-lcd-firmware
+vendor_id: medtronic
+name: Maximo Ii Crt-D And Lcd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:maximo_ii_crt\-d_and_lcd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maximo_ii_crt-d_and_lcd_firmware
+  confidence: auto

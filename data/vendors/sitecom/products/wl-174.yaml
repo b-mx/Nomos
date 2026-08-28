@@ -1,0 +1,10 @@
+id: wl-174
+vendor_id: sitecom
+name: Wl-174
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sitecom:wl\-174:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-174
+  confidence: auto

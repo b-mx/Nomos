@@ -1,0 +1,10 @@
+id: personal-cloud
+vendor_id: seagate
+name: Personal Cloud
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seagate:personal_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: personal_cloud
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mobile
+vendor_id: ithemes
+name: Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile
+  confidence: auto

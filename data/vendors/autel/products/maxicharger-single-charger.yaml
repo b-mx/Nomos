@@ -1,0 +1,10 @@
+id: maxicharger-single-charger
+vendor_id: autel
+name: Maxicharger Single Charger
+type: hardware
+tags: []
+cpe: cpe:2.3:h:autel:maxicharger_single_charger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxicharger_single_charger
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kernel
+vendor_id: insyde
+name: Kernel
+type: os
+tags: []
+cpe: cpe:2.3:o:insyde:kernel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kernel
+  confidence: auto

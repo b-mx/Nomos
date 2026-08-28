@@ -1,0 +1,10 @@
+id: s2750
+vendor_id: huawei
+name: S2750
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s2750:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s2750
+  confidence: auto

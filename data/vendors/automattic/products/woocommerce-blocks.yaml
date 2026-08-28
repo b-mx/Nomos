@@ -1,0 +1,10 @@
+id: woocommerce-blocks
+vendor_id: automattic
+name: Woocommerce Blocks
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:woocommerce_blocks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_blocks
+  confidence: auto

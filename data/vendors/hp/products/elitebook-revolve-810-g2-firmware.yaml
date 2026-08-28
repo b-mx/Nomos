@@ -1,0 +1,10 @@
+id: elitebook-revolve-810-g2-firmware
+vendor_id: hp
+name: Elitebook Revolve 810 G2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitebook_revolve_810_g2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_revolve_810_g2_firmware
+  confidence: auto

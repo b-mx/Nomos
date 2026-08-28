@@ -1,0 +1,10 @@
+id: eluga-ray-530-firmware
+vendor_id: panasonic
+name: Eluga Ray 530 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:panasonic:eluga_ray_530_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eluga_ray_530_firmware
+  confidence: auto

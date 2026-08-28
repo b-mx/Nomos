@@ -1,0 +1,10 @@
+id: cyw20735-firmware
+vendor_id: cypress
+name: Cyw20735 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cypress:cyw20735_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyw20735_firmware
+  confidence: auto

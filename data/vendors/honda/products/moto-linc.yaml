@@ -1,0 +1,10 @@
+id: moto-linc
+vendor_id: honda
+name: Moto Linc
+type: software
+tags: []
+cpe: cpe:2.3:a:honda:moto_linc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moto_linc
+  confidence: auto

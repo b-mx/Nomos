@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--activeprotect-agent",
+  "vendor_id": "synology",
+  "product_id": "activeprotect-agent",
+  "name": "Activeprotect Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "activeprotect_agent",
+      "confidence": "auto"
+    }
+  ]
+}

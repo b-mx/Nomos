@@ -1,0 +1,10 @@
+id: network-inventory
+vendor_id: emcosoftware
+name: Network Inventory
+type: software
+tags: []
+cpe: cpe:2.3:a:emcosoftware:network_inventory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_inventory
+  confidence: auto

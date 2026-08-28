@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--hue",
+  "vendor_id": "philips",
+  "product_id": "hue",
+  "name": "Hue",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hue",
+      "confidence": "auto"
+    }
+  ]
+}

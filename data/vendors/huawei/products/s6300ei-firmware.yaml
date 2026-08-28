@@ -1,0 +1,10 @@
+id: s6300ei-firmware
+vendor_id: huawei
+name: S6300Ei Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:s6300ei_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s6300ei_firmware
+  confidence: auto

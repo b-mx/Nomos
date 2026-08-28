@@ -1,0 +1,10 @@
+id: blackarmor-nas-220
+vendor_id: seagate
+name: Blackarmor Nas 220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seagate:blackarmor_nas_220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackarmor_nas_220
+  confidence: auto

@@ -1,0 +1,10 @@
+id: libgxps
+vendor_id: gnome
+name: Libgxps
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:libgxps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libgxps
+  confidence: auto

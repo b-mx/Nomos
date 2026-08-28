@@ -1,0 +1,10 @@
+id: ca300-poe-firmware
+vendor_id: totolink
+name: Ca300-Poe Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:ca300\-poe_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ca300-poe_firmware
+  confidence: auto

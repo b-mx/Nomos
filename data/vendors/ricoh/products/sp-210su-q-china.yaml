@@ -1,0 +1,10 @@
+id: sp-210su-q-china
+vendor_id: ricoh
+name: Sp 210Su Q (China)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_210su_q_\(china\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_210su_q_(china)
+  confidence: auto

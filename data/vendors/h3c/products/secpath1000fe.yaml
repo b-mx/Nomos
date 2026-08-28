@@ -1,0 +1,10 @@
+id: secpath1000fe
+vendor_id: h3c
+name: Secpath1000Fe
+type: software
+tags: []
+cpe: cpe:2.3:a:h3c:secpath1000fe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secpath1000fe
+  confidence: auto

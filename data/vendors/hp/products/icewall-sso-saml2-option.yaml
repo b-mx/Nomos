@@ -1,0 +1,10 @@
+id: icewall-sso-saml2-option
+vendor_id: hp
+name: Icewall Sso Saml2 Option
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:icewall_sso_saml2_option:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icewall_sso_saml2_option
+  confidence: auto

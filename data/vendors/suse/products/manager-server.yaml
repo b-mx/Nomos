@@ -1,0 +1,10 @@
+id: manager-server
+vendor_id: suse
+name: Manager Server
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:manager_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manager_server
+  confidence: auto

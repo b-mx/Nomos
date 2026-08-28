@@ -1,0 +1,10 @@
+id: git-fastclone
+vendor_id: squareup
+name: Git-Fastclone
+type: software
+tags: []
+cpe: cpe:2.3:a:squareup:git\-fastclone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: git-fastclone
+  confidence: auto

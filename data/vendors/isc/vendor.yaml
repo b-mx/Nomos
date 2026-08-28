@@ -1,0 +1,7 @@
+id: isc
+name: Isc
+cpe: cpe:2.3:*:isc:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isc
+  confidence: auto

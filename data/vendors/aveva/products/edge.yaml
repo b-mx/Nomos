@@ -1,0 +1,10 @@
+id: edge
+vendor_id: aveva
+name: Edge
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:edge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edge
+  confidence: auto

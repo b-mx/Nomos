@@ -4,11 +4,8 @@
   "vendor_id": "dahua",
   "product_id": "ip-camera-firmware",
   "name": "IP Camera Firmware",
-  "type": "hardware",
-  "tags": [
-    "network-device",
-    "operating-system"
-  ],
+  "type": "software",
+  "tags": [],
   "icon": null,
   "services": [],
   "aliases": [

@@ -1,0 +1,10 @@
+id: fulcio
+vendor_id: linuxfoundation
+name: Fulcio
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:fulcio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fulcio
+  confidence: auto

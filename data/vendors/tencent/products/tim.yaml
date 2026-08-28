@@ -1,0 +1,10 @@
+id: tim
+vendor_id: tencent
+name: Tim
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:tim:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tim
+  confidence: auto

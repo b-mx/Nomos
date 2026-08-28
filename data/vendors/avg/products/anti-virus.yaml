@@ -1,0 +1,10 @@
+id: anti-virus
+vendor_id: avg
+name: Anti-Virus
+type: software
+tags: []
+cpe: cpe:2.3:a:avg:anti\-virus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anti-virus
+  confidence: auto

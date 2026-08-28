@@ -1,0 +1,10 @@
+id: gardenctl
+vendor_id: linuxfoundation
+name: Gardenctl
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:gardenctl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gardenctl
+  confidence: auto

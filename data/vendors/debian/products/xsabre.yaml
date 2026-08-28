@@ -1,0 +1,10 @@
+id: xsabre
+vendor_id: debian
+name: Xsabre
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:xsabre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xsabre
+  confidence: auto

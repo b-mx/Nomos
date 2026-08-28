@@ -1,0 +1,10 @@
+id: m10-series-network-cameras-firmware
+vendor_id: axis
+name: M10 Series Network Cameras Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:m10_series_network_cameras_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m10_series_network_cameras_firmware
+  confidence: auto

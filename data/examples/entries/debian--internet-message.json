@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--internet-message",
+  "vendor_id": "debian",
+  "product_id": "internet-message",
+  "name": "Internet Message",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "internet_message",
+      "confidence": "auto"
+    }
+  ]
+}

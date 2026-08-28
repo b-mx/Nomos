@@ -1,0 +1,10 @@
+id: anaconda
+vendor_id: fedoraproject
+name: Anaconda
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:anaconda:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anaconda
+  confidence: auto

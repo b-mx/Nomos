@@ -1,0 +1,10 @@
+id: pavilion-laptop-14-bf1xx
+vendor_id: hp
+name: Pavilion Laptop 14-Bf1Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_laptop_14\-bf1xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_laptop_14-bf1xx
+  confidence: auto

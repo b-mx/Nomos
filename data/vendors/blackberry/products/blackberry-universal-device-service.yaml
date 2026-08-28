@@ -1,0 +1,10 @@
+id: blackberry-universal-device-service
+vendor_id: blackberry
+name: Blackberry Universal Device Service
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:blackberry_universal_device_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry_universal_device_service
+  confidence: auto

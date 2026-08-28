@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emerson--ve6046-firmware",
+  "vendor_id": "emerson",
+  "product_id": "ve6046-firmware",
+  "name": "Ve6046 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ve6046_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: max-presence-firmware
+vendor_id: huawei
+name: Max Presence Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:max_presence_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_presence_firmware
+  confidence: auto

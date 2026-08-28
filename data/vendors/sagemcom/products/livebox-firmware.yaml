@@ -1,0 +1,10 @@
+id: livebox-firmware
+vendor_id: sagemcom
+name: Livebox Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sagemcom:livebox_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: livebox_firmware
+  confidence: auto

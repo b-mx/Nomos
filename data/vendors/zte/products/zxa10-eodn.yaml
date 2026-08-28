@@ -1,0 +1,10 @@
+id: zxa10-eodn
+vendor_id: zte
+name: Zxa10 Eodn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxa10_eodn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxa10_eodn
+  confidence: auto

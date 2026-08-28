@@ -1,0 +1,10 @@
+id: nova-106-eyk300f001
+vendor_id: sauter-controls
+name: Nova 106 Eyk300F001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sauter\-controls:nova_106_eyk300f001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova_106_eyk300f001
+  confidence: auto

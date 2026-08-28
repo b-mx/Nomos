@@ -1,0 +1,10 @@
+id: coda-5310-firmware
+vendor_id: hitrontech
+name: Coda-5310 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitrontech:coda\-5310_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coda-5310_firmware
+  confidence: auto

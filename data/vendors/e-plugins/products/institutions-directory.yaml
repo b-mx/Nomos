@@ -1,0 +1,10 @@
+id: institutions-directory
+vendor_id: e-plugins
+name: Institutions Directory
+type: software
+tags: []
+cpe: cpe:2.3:a:e\-plugins:institutions_directory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: institutions_directory
+  confidence: auto

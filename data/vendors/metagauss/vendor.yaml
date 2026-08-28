@@ -1,0 +1,7 @@
+id: metagauss
+name: Metagauss
+cpe: cpe:2.3:*:metagauss:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: metagauss
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nr8120-firmware
+vendor_id: zte
+name: Nr8120 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:nr8120_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr8120_firmware
+  confidence: auto

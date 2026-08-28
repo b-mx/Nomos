@@ -1,0 +1,10 @@
+id: kunai-browser-for-remote-service
+vendor_id: cybozu
+name: Kunai Browser For Remote Service
+type: software
+tags: []
+cpe: cpe:2.3:a:cybozu:kunai_browser_for_remote_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kunai_browser_for_remote_service
+  confidence: auto

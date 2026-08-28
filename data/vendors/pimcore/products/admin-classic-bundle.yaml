@@ -1,0 +1,10 @@
+id: admin-classic-bundle
+vendor_id: pimcore
+name: Admin Classic Bundle
+type: software
+tags: []
+cpe: cpe:2.3:a:pimcore:admin_classic_bundle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: admin_classic_bundle
+  confidence: auto

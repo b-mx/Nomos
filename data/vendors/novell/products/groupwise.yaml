@@ -1,0 +1,10 @@
+id: groupwise
+vendor_id: novell
+name: Groupwise
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:groupwise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: groupwise
+  confidence: auto

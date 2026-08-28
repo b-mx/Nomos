@@ -1,0 +1,10 @@
+id: oxygen-content-fusion
+vendor_id: sync
+name: Oxygen Content Fusion
+type: software
+tags: []
+cpe: cpe:2.3:a:sync:oxygen_content_fusion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oxygen_content_fusion
+  confidence: auto

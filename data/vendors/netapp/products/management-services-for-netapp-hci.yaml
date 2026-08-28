@@ -1,0 +1,10 @@
+id: management-services-for-netapp-hci
+vendor_id: netapp
+name: Management Services For Netapp Hci
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:management_services_for_netapp_hci:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: management_services_for_netapp_hci
+  confidence: auto

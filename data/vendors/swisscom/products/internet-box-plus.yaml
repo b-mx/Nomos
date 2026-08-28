@@ -1,0 +1,10 @@
+id: internet-box-plus
+vendor_id: swisscom
+name: Internet-Box Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:swisscom:internet\-box_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet-box_plus
+  confidence: auto

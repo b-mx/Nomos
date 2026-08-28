@@ -1,0 +1,10 @@
+id: icinga-web-jira-integration
+vendor_id: icinga
+name: Icinga Web Jira Integration
+type: software
+tags: []
+cpe: cpe:2.3:a:icinga:icinga_web_jira_integration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icinga_web_jira_integration
+  confidence: auto

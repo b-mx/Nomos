@@ -1,0 +1,10 @@
+id: responsive
+vendor_id: devsaran
+name: Responsive
+type: software
+tags: []
+cpe: cpe:2.3:a:devsaran:responsive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: responsive
+  confidence: auto

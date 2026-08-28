@@ -1,0 +1,10 @@
+id: jd433a
+vendor_id: hp
+name: Jd433A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd433a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd433a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nginx-ingress-controller
+vendor_id: kubernetes
+name: Nginx Ingress Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:nginx_ingress_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nginx_ingress_controller
+  confidence: auto

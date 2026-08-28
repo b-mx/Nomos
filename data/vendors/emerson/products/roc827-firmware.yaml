@@ -1,0 +1,10 @@
+id: roc827-firmware
+vendor_id: emerson
+name: Roc827 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:roc827_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roc827_firmware
+  confidence: auto

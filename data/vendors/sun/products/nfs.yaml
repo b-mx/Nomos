@@ -1,0 +1,10 @@
+id: nfs
+vendor_id: sun
+name: Nfs
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:nfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nfs
+  confidence: auto

@@ -1,0 +1,10 @@
+id: responsive-blog
+vendor_id: devsaran
+name: Responsive Blog
+type: software
+tags: []
+cpe: cpe:2.3:a:devsaran:responsive_blog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: responsive_blog
+  confidence: auto

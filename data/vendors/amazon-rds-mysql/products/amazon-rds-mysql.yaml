@@ -1,0 +1,10 @@
+id: amazon-rds-mysql
+vendor_id: amazon-rds-mysql
+name: Amazon RDS for MySQL
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: amazon-rds-mysql
+  confidence: auto

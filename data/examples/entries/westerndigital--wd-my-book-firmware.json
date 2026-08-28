@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "westerndigital--wd-my-book-firmware",
+  "vendor_id": "westerndigital",
+  "product_id": "wd-my-book-firmware",
+  "name": "Wd My Book Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wd_my_book_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

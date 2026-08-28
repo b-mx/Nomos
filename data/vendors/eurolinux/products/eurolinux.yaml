@@ -1,0 +1,12 @@
+id: eurolinux
+vendor_id: eurolinux
+name: EuroLinux
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: eurolinux
+  confidence: auto
+- source: nvd
+  value: eurolinux
+  confidence: auto

@@ -1,0 +1,10 @@
+id: database-abstraction-layer
+vendor_id: doctrine-project
+name: Database Abstraction Layer
+type: software
+tags: []
+cpe: cpe:2.3:a:doctrine\-project:database_abstraction_layer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: database_abstraction_layer
+  confidence: auto

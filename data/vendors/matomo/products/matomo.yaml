@@ -1,0 +1,13 @@
+id: matomo
+vendor_id: matomo
+name: Matomo
+type: software
+tags: []
+cpe: cpe:2.3:a:matomo:matomo:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: matomo
+  confidence: auto
+- source: nvd
+  value: matomo
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fireeye--ex-3500",
+  "vendor_id": "fireeye",
+  "product_id": "ex-3500",
+  "name": "Ex 3500",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ex_3500",
+      "confidence": "auto"
+    }
+  ]
+}

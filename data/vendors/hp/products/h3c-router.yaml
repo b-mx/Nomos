@@ -1,0 +1,10 @@
+id: h3c-router
+vendor_id: hp
+name: H3C Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:h3c_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h3c_router
+  confidence: auto

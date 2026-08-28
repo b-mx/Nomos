@@ -1,0 +1,10 @@
+id: sharealarmpro
+vendor_id: nsasoft
+name: Sharealarmpro
+type: software
+tags: []
+cpe: cpe:2.3:a:nsasoft:sharealarmpro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sharealarmpro
+  confidence: auto

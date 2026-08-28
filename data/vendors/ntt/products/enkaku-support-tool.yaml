@@ -1,0 +1,10 @@
+id: enkaku-support-tool
+vendor_id: ntt
+name: Enkaku Support Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:ntt:enkaku_support_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enkaku_support_tool
+  confidence: auto

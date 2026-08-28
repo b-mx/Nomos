@@ -1,0 +1,10 @@
+id: gt3-firmware
+vendor_id: huawei
+name: Gt3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:gt3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gt3_firmware
+  confidence: auto

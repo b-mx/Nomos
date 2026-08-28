@@ -1,0 +1,10 @@
+id: advanced-jdbc-wrapper
+vendor_id: amazon
+name: Advanced Jdbc Wrapper
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:advanced_jdbc_wrapper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_jdbc_wrapper
+  confidence: auto

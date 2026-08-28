@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ntt-east--pwr-q200-firmware",
+  "vendor_id": "ntt-east",
+  "product_id": "pwr-q200-firmware",
+  "name": "Pwr-Q200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pwr-q200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: commandcenter-secure-gateway
+vendor_id: raritan
+name: Commandcenter Secure Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:raritan:commandcenter_secure_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: commandcenter_secure_gateway
+  confidence: auto

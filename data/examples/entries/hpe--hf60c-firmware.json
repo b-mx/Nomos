@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--hf60c-firmware",
+  "vendor_id": "hpe",
+  "product_id": "hf60c-firmware",
+  "name": "Hf60C Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hf60c_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

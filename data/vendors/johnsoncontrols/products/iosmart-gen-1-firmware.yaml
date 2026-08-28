@@ -1,0 +1,10 @@
+id: iosmart-gen-1-firmware
+vendor_id: johnsoncontrols
+name: Iosmart Gen 1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:johnsoncontrols:iosmart_gen_1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iosmart_gen_1_firmware
+  confidence: auto

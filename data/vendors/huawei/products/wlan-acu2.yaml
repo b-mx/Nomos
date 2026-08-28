@@ -1,0 +1,10 @@
+id: wlan-acu2
+vendor_id: huawei
+name: Wlan Acu2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:wlan_acu2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlan_acu2
+  confidence: auto

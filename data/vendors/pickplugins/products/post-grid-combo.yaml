@@ -1,0 +1,10 @@
+id: post-grid-combo
+vendor_id: pickplugins
+name: Post Grid Combo
+type: software
+tags: []
+cpe: cpe:2.3:a:pickplugins:post_grid_combo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: post_grid_combo
+  confidence: auto

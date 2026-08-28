@@ -1,0 +1,10 @@
+id: s8022
+vendor_id: unisoc
+name: S8022
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8022:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8022
+  confidence: auto

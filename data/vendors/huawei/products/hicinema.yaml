@@ -1,0 +1,10 @@
+id: hicinema
+vendor_id: huawei
+name: Hicinema
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hicinema:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hicinema
+  confidence: auto

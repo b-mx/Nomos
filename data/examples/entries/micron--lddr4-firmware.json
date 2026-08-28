@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "micron--lddr4-firmware",
+  "vendor_id": "micron",
+  "product_id": "lddr4-firmware",
+  "name": "Lddr4 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lddr4_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

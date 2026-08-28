@@ -1,0 +1,10 @@
+id: jetwave-2460
+vendor_id: korenix
+name: Jetwave 2460
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetwave_2460:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_2460
+  confidence: auto

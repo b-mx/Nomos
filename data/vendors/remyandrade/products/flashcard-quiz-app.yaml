@@ -1,0 +1,10 @@
+id: flashcard-quiz-app
+vendor_id: remyandrade
+name: Flashcard Quiz App
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:flashcard_quiz_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flashcard_quiz_app
+  confidence: auto

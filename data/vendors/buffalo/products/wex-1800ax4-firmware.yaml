@@ -1,0 +1,10 @@
+id: wex-1800ax4-firmware
+vendor_id: buffalo
+name: Wex-1800Ax4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wex\-1800ax4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wex-1800ax4_firmware
+  confidence: auto

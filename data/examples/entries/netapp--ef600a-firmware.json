@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--ef600a-firmware",
+  "vendor_id": "netapp",
+  "product_id": "ef600a-firmware",
+  "name": "Ef600A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ef600a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

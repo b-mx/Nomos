@@ -1,0 +1,10 @@
+id: deskjet-4100e-26q93b
+vendor_id: hp
+name: Deskjet 4100E 26Q93B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_4100e_26q93b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_4100e_26q93b
+  confidence: auto

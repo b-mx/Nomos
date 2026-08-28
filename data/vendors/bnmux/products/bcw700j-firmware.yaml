@@ -1,0 +1,10 @@
+id: bcw700j-firmware
+vendor_id: bnmux
+name: Bcw700J Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bnmux:bcw700j_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcw700j_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flexnetwork-5130-jg932a-firmware
+vendor_id: hpe
+name: Flexnetwork 5130 Jg932A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:flexnetwork_5130_jg932a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexnetwork_5130_jg932a_firmware
+  confidence: auto

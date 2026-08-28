@@ -1,0 +1,10 @@
+id: algonquin-state-bank-mobile-banking
+vendor_id: meafinancial
+name: Algonquin State Bank Mobile Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:algonquin_state_bank_mobile_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: algonquin_state_bank_mobile_banking
+  confidence: auto

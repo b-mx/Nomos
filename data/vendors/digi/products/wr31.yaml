@@ -1,0 +1,10 @@
+id: wr31
+vendor_id: digi
+name: Wr31
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:wr31:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wr31
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fr5-e-firmware
+vendor_id: ifw8
+name: Fr5-E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ifw8:fr5\-e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fr5-e_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--vipr-srm",
+  "vendor_id": "emc",
+  "product_id": "vipr-srm",
+  "name": "Vipr Srm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vipr_srm",
+      "confidence": "auto"
+    }
+  ]
+}

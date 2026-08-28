@@ -1,0 +1,10 @@
+id: v864q-firmware
+vendor_id: sharp-nec-displays
+name: V864Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp\-nec\-displays:v864q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v864q_firmware
+  confidence: auto

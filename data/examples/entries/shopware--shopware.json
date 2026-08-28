@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "shopware--shopware",
+  "vendor_id": "shopware",
+  "product_id": "shopware",
+  "name": "Shopware",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "shopware",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "shopware",
+      "confidence": "auto"
+    }
+  ]
+}

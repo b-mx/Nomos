@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zte--blade-l210-firmware",
+  "vendor_id": "zte",
+  "product_id": "blade-l210-firmware",
+  "name": "Blade L210 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "blade_l210_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

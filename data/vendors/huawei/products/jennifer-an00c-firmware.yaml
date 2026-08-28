@@ -1,0 +1,10 @@
+id: jennifer-an00c-firmware
+vendor_id: huawei
+name: Jennifer-An00C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:jennifer\-an00c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jennifer-an00c_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dex
+vendor_id: linuxfoundation
+name: Dex
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:dex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dex
+  confidence: auto

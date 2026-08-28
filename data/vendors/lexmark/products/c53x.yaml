@@ -1,0 +1,10 @@
+id: c53x
+vendor_id: lexmark
+name: C53X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c53x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c53x
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--rocket-chip-generator",
+  "vendor_id": "linuxfoundation",
+  "product_id": "rocket-chip-generator",
+  "name": "Rocket Chip Generator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rocket_chip_generator",
+      "confidence": "auto"
+    }
+  ]
+}

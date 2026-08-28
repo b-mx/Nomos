@@ -1,0 +1,10 @@
+id: designjet-z6
+vendor_id: hp
+name: Designjet Z6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_z6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z6
+  confidence: auto

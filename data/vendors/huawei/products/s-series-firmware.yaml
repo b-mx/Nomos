@@ -1,0 +1,10 @@
+id: s-series-firmware
+vendor_id: huawei
+name: S Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:s_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s_series_firmware
+  confidence: auto

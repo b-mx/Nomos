@@ -1,0 +1,10 @@
+id: samsung-c480
+vendor_id: hp
+name: Samsung C480
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:samsung_c480:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: samsung_c480
+  confidence: auto

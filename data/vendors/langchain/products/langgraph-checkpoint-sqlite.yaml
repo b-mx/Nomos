@@ -1,0 +1,10 @@
+id: langgraph-checkpoint-sqlite
+vendor_id: langchain
+name: Langgraph-Checkpoint-Sqlite
+type: software
+tags: []
+cpe: cpe:2.3:a:langchain:langgraph\-checkpoint\-sqlite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: langgraph-checkpoint-sqlite
+  confidence: auto

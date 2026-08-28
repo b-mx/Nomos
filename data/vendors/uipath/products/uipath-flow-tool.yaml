@@ -1,0 +1,10 @@
+id: uipath-flow-tool
+vendor_id: uipath
+name: Uipath/Flow-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/flow\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/flow-tool
+  confidence: auto

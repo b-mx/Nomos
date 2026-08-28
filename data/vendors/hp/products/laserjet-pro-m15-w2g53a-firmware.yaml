@@ -1,0 +1,10 @@
+id: laserjet-pro-m15-w2g53a-firmware
+vendor_id: hp
+name: Laserjet Pro M15 W2G53A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m15_w2g53a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m15_w2g53a_firmware
+  confidence: auto

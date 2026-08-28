@@ -1,0 +1,10 @@
+id: lenovo-e41-25-firmware
+vendor_id: lenovo
+name: Lenovo E41-25 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:lenovo_e41\-25_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_e41-25_firmware
+  confidence: auto

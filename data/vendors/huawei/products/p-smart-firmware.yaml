@@ -1,0 +1,10 @@
+id: p-smart-firmware
+vendor_id: huawei
+name: P-Smart Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:p\-smart_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p-smart_firmware
+  confidence: auto

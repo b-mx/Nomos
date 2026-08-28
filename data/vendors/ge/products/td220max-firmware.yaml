@@ -1,0 +1,10 @@
+id: td220max-firmware
+vendor_id: ge
+name: Td220Max Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:td220max_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: td220max_firmware
+  confidence: auto

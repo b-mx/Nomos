@@ -1,0 +1,10 @@
+id: cg2001-an22a-firmware
+vendor_id: kaonmedia
+name: Cg2001-An22A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kaonmedia:cg2001\-an22a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cg2001-an22a_firmware
+  confidence: auto

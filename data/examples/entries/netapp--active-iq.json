@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--active-iq",
+  "vendor_id": "netapp",
+  "product_id": "active-iq",
+  "name": "Active Iq",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "active_iq",
+      "confidence": "auto"
+    }
+  ]
+}

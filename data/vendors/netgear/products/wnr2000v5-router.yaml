@@ -1,10 +1,8 @@
 id: wnr2000v5-router
 vendor_id: netgear
 name: WNR2000v5 Router
-type: hardware
-tags:
-- network-device
-icon: simple-icons:netgear
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: WNR2000v5 Router

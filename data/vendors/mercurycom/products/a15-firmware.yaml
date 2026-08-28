@@ -1,0 +1,10 @@
+id: a15-firmware
+vendor_id: mercurycom
+name: A15 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mercurycom:a15_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a15_firmware
+  confidence: auto

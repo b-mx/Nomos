@@ -1,0 +1,10 @@
+id: imail-premium
+vendor_id: ipswitch
+name: Imail Premium
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:imail_premium:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imail_premium
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wave-7
+vendor_id: acer
+name: Wave 7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:wave_7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wave_7
+  confidence: auto

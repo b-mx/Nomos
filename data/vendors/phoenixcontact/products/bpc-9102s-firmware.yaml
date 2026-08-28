@@ -1,0 +1,10 @@
+id: bpc-9102s-firmware
+vendor_id: phoenixcontact
+name: Bpc 9102S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:bpc_9102s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bpc_9102s_firmware
+  confidence: auto

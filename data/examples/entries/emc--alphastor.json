@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--alphastor",
+  "vendor_id": "emc",
+  "product_id": "alphastor",
+  "name": "Alphastor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alphastor",
+      "confidence": "auto"
+    }
+  ]
+}

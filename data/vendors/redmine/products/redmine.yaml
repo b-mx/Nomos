@@ -1,0 +1,13 @@
+id: redmine
+vendor_id: redmine
+name: Redmine
+type: software
+tags: []
+cpe: cpe:2.3:a:redmine:redmine:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: redmine
+  confidence: auto
+- source: nvd
+  value: redmine
+  confidence: auto

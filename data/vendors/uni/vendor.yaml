@@ -1,0 +1,7 @@
+id: uni
+name: Uni
+cpe: cpe:2.3:*:uni:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uni
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a1601
+vendor_id: axis
+name: A1601
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:a1601:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1601
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 4g-lte-network-extender-firmware
+vendor_id: verizon
+name: 4G Lte Network Extender Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:verizon:4g_lte_network_extender_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4g_lte_network_extender_firmware
+  confidence: auto

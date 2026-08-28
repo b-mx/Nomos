@@ -1,0 +1,10 @@
+id: odyssey-split-systems
+vendor_id: trane
+name: Odyssey Split Systems
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trane:odyssey_split_systems:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: odyssey_split_systems
+  confidence: auto

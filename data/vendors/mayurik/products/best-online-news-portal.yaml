@@ -1,0 +1,10 @@
+id: best-online-news-portal
+vendor_id: mayurik
+name: Best Online News Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:mayurik:best_online_news_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: best_online_news_portal
+  confidence: auto

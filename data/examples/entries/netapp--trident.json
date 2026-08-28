@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--trident",
+  "vendor_id": "netapp",
+  "product_id": "trident",
+  "name": "Trident",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "trident",
+      "confidence": "auto"
+    }
+  ]
+}

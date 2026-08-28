@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--amazon-ssm-agent",
+  "vendor_id": "amazon",
+  "product_id": "amazon-ssm-agent",
+  "name": "Amazon Ssm Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amazon_ssm_agent",
+      "confidence": "auto"
+    }
+  ]
+}

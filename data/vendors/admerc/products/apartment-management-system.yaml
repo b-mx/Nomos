@@ -1,0 +1,10 @@
+id: apartment-management-system
+vendor_id: admerc
+name: Apartment Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:admerc:apartment_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apartment_management_system
+  confidence: auto

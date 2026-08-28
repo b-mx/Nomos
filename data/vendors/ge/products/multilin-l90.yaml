@@ -1,0 +1,10 @@
+id: multilin-l90
+vendor_id: ge
+name: Multilin L90
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:multilin_l90:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_l90
+  confidence: auto

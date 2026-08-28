@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freedesktop--libdbus",
+  "vendor_id": "freedesktop",
+  "product_id": "libdbus",
+  "name": "Libdbus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libdbus",
+      "confidence": "auto"
+    }
+  ]
+}

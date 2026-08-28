@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "xilinx--zynq-7000s-firmware",
+  "vendor_id": "xilinx",
+  "product_id": "zynq-7000s-firmware",
+  "name": "Zynq-7000S Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zynq-7000s_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

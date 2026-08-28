@@ -1,0 +1,10 @@
+id: ntag-210
+vendor_id: nxp
+name: Ntag 210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:ntag_210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ntag_210
+  confidence: auto

@@ -1,0 +1,10 @@
+id: netease-pmail
+vendor_id: netease
+name: Netease Pmail
+type: software
+tags: []
+cpe: cpe:2.3:a:netease:netease_pmail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netease_pmail
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vw--polo-firmware",
+  "vendor_id": "vw",
+  "product_id": "polo-firmware",
+  "name": "Polo Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "polo_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

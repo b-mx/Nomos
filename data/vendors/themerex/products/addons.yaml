@@ -1,0 +1,10 @@
+id: addons
+vendor_id: themerex
+name: Addons
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:addons:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: addons
+  confidence: auto

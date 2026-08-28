@@ -1,0 +1,10 @@
+id: nrf5340-dk
+vendor_id: nordicsemi
+name: Nrf5340-Dk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nordicsemi:nrf5340\-dk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nrf5340-dk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: simple-company-website
+vendor_id: oretnom23
+name: Simple Company Website
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:simple_company_website:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_company_website
+  confidence: auto

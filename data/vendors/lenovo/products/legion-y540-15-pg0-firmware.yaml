@@ -1,0 +1,10 @@
+id: legion-y540-15-pg0-firmware
+vendor_id: lenovo
+name: Legion Y540-15 Pg0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_y540\-15_pg0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y540-15_pg0_firmware
+  confidence: auto

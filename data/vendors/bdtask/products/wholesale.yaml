@@ -1,0 +1,10 @@
+id: wholesale
+vendor_id: bdtask
+name: Wholesale
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:wholesale:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wholesale
+  confidence: auto

@@ -1,0 +1,10 @@
+id: melsec-iq-f-firmware
+vendor_id: mitsubishielectric
+name: Melsec Iq-F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:melsec_iq\-f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-f_firmware
+  confidence: auto

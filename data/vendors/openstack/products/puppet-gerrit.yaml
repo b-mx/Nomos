@@ -1,0 +1,10 @@
+id: puppet-gerrit
+vendor_id: openstack
+name: Puppet-Gerrit
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:puppet\-gerrit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppet-gerrit
+  confidence: auto

@@ -1,0 +1,10 @@
+id: arcgis-enterprise
+vendor_id: esri
+name: Arcgis Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:arcgis_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcgis_enterprise
+  confidence: auto

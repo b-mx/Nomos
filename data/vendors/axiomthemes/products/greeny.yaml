@@ -1,0 +1,10 @@
+id: greeny
+vendor_id: axiomthemes
+name: Greeny
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:greeny:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: greeny
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bun
+vendor_id: bun
+name: Bun
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: bun
+  confidence: auto

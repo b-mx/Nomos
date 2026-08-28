@@ -1,0 +1,10 @@
+id: uipath-apollo-core
+vendor_id: uipath
+name: Uipath/Apollo-Core
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/apollo\-core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/apollo-core
+  confidence: auto

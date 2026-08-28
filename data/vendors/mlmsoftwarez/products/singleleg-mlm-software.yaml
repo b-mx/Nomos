@@ -1,0 +1,10 @@
+id: singleleg-mlm-software
+vendor_id: mlmsoftwarez
+name: Singleleg Mlm Software
+type: software
+tags: []
+cpe: cpe:2.3:a:mlmsoftwarez:singleleg_mlm_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: singleleg_mlm_software
+  confidence: auto

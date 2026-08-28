@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "envoyproxy--envoy",
+  "vendor_id": "envoyproxy",
+  "product_id": "envoy",
+  "name": "Envoy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "envoy",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "envoy",
+      "confidence": "auto"
+    }
+  ]
+}

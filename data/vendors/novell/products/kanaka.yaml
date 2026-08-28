@@ -1,0 +1,10 @@
+id: kanaka
+vendor_id: novell
+name: Kanaka
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:kanaka:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kanaka
+  confidence: auto

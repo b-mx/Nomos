@@ -1,0 +1,10 @@
+id: thinkstation-c30-1137
+vendor_id: lenovo
+name: Thinkstation C30 (1137)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkstation_c30_\(1137\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkstation_c30_(1137)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: unified-architecture-java
+vendor_id: opcfoundation
+name: Unified Architecture-Java
+type: software
+tags: []
+cpe: cpe:2.3:a:opcfoundation:unified_architecture\-java:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unified_architecture-java
+  confidence: auto

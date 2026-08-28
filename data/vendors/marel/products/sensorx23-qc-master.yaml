@@ -1,0 +1,10 @@
+id: sensorx23-qc-master
+vendor_id: marel
+name: Sensorx23 Qc Master
+type: hardware
+tags: []
+cpe: cpe:2.3:h:marel:sensorx23_qc_master:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensorx23_qc_master
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vmb3010
+vendor_id: arlo
+name: Vmb3010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arlo:vmb3010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vmb3010
+  confidence: auto

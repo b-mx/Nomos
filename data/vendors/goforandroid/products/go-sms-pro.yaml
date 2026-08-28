@@ -1,0 +1,10 @@
+id: go-sms-pro
+vendor_id: goforandroid
+name: Go Sms Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:goforandroid:go_sms_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_sms_pro
+  confidence: auto

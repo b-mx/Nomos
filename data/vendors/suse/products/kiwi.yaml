@@ -1,0 +1,10 @@
+id: kiwi
+vendor_id: suse
+name: Kiwi
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:kiwi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kiwi
+  confidence: auto

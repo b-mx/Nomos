@@ -1,0 +1,10 @@
+id: m-files-mobile
+vendor_id: m-files
+name: M-Files Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:m\-files:m\-files_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m-files_mobile
+  confidence: auto

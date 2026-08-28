@@ -1,0 +1,10 @@
+id: tex502lcd
+vendor_id: rvr
+name: Tex502Lcd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rvr:tex502lcd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tex502lcd
+  confidence: auto

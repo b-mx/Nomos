@@ -1,0 +1,10 @@
+id: rnsfcpu-n-08-16-32-120-firmware
+vendor_id: mitsubishielectric
+name: Rnsfcpu (N=08/16/32/120) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rnsfcpu_\(n\=08\/16\/32\/120\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rnsfcpu_(n=08/16/32/120)_firmware
+  confidence: auto

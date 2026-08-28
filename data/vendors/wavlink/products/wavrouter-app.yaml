@@ -1,0 +1,10 @@
+id: wavrouter-app
+vendor_id: wavlink
+name: Wavrouter App
+type: software
+tags: []
+cpe: cpe:2.3:a:wavlink:wavrouter_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wavrouter_app
+  confidence: auto

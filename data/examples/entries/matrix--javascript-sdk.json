@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "matrix--javascript-sdk",
+  "vendor_id": "matrix",
+  "product_id": "javascript-sdk",
+  "name": "Javascript Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "javascript_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

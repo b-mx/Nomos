@@ -1,0 +1,7 @@
+id: blackberry
+name: Blackberry
+cpe: cpe:2.3:*:blackberry:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry
+  confidence: auto

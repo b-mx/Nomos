@@ -1,0 +1,10 @@
+id: k9-web-protection
+vendor_id: bluecoat
+name: K9 Web Protection
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:k9_web_protection:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k9_web_protection
+  confidence: auto

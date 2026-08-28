@@ -1,0 +1,10 @@
+id: k7c84-firmware
+vendor_id: hp
+name: K7C84 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:k7c84_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7c84_firmware
+  confidence: auto

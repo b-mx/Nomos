@@ -1,0 +1,10 @@
+id: ae-50e-firmware
+vendor_id: mitsubishi
+name: Ae-50E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishi:ae\-50e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ae-50e_firmware
+  confidence: auto

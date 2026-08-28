@@ -1,0 +1,10 @@
+id: sc-t5250
+vendor_id: epson
+name: Sc-T5250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-t5250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-t5250
+  confidence: auto

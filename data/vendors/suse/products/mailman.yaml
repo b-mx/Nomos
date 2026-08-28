@@ -1,0 +1,10 @@
+id: mailman
+vendor_id: suse
+name: Mailman
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:mailman:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mailman
+  confidence: auto

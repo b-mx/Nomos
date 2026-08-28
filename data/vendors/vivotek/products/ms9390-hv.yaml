@@ -1,0 +1,10 @@
+id: ms9390-hv
+vendor_id: vivotek
+name: Ms9390-Hv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ms9390\-hv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms9390-hv
+  confidence: auto

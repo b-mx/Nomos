@@ -1,0 +1,10 @@
+id: triton-web-security-gateway-anywhere
+vendor_id: websense
+name: Triton Web Security Gateway Anywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:websense:triton_web_security_gateway_anywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: triton_web_security_gateway_anywhere
+  confidence: auto

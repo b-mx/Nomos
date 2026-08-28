@@ -1,0 +1,10 @@
+id: playbooks
+vendor_id: mattermost
+name: Playbooks
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:playbooks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: playbooks
+  confidence: auto

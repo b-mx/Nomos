@@ -1,0 +1,10 @@
+id: ampereone-a192-26m
+vendor_id: amperecomputing
+name: Ampereone A192-26M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amperecomputing:ampereone_a192\-26m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ampereone_a192-26m
+  confidence: auto

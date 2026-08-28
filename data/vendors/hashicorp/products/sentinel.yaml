@@ -1,0 +1,10 @@
+id: sentinel
+vendor_id: hashicorp
+name: Sentinel
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:sentinel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sentinel
+  confidence: auto

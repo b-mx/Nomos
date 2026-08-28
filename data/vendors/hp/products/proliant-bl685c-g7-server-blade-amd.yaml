@@ -1,0 +1,10 @@
+id: proliant-bl685c-g7-server-blade-amd
+vendor_id: hp
+name: Proliant Bl685C G7 Server Blade (Amd)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_bl685c_g7_server_blade_\(amd\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_bl685c_g7_server_blade_(amd)
+  confidence: auto

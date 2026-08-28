@@ -1,0 +1,10 @@
+id: nef
+vendor_id: free5gc
+name: Nef
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:nef:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nef
+  confidence: auto

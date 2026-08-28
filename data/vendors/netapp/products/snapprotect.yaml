@@ -1,0 +1,10 @@
+id: snapprotect
+vendor_id: netapp
+name: Snapprotect
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:snapprotect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snapprotect
+  confidence: auto

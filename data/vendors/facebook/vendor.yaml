@@ -1,0 +1,7 @@
+id: facebook
+name: Facebook
+cpe: cpe:2.3:*:facebook:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: facebook
+  confidence: auto

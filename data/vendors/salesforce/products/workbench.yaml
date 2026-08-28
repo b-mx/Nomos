@@ -1,0 +1,10 @@
+id: workbench
+vendor_id: salesforce
+name: Workbench
+type: software
+tags: []
+cpe: cpe:2.3:a:salesforce:workbench:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workbench
+  confidence: auto

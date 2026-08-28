@@ -1,0 +1,10 @@
+id: echo-curve-viewer
+vendor_id: endress
+name: Echo Curve Viewer
+type: software
+tags: []
+cpe: cpe:2.3:a:endress:echo_curve_viewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echo_curve_viewer
+  confidence: auto

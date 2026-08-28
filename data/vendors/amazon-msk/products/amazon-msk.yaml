@@ -1,0 +1,9 @@
+id: amazon-msk
+vendor_id: amazon-msk
+name: Amazon MSK
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: amazon-msk
+  confidence: auto

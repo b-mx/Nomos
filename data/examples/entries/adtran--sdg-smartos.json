@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "adtran--sdg-smartos",
+  "vendor_id": "adtran",
+  "product_id": "sdg-smartos",
+  "name": "Sdg Smartos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sdg_smartos",
+      "confidence": "auto"
+    }
+  ]
+}

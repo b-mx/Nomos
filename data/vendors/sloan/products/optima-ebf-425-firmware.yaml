@@ -1,0 +1,10 @@
+id: optima-ebf-425-firmware
+vendor_id: sloan
+name: Optima Ebf-425 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sloan:optima_ebf\-425_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_ebf-425_firmware
+  confidence: auto

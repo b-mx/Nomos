@@ -1,0 +1,10 @@
+id: mx-aopc-server
+vendor_id: moxa
+name: Mx-Aopc Server
+type: software
+tags: []
+cpe: cpe:2.3:a:moxa:mx\-aopc_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-aopc_server
+  confidence: auto

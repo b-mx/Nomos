@@ -1,0 +1,10 @@
+id: ea9-pgmsw
+vendor_id: automationdirect
+name: Ea9-Pgmsw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:automationdirect:ea9\-pgmsw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ea9-pgmsw
+  confidence: auto

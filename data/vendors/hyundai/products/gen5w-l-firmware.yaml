@@ -1,0 +1,10 @@
+id: gen5w-l-firmware
+vendor_id: hyundai
+name: Gen5W L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hyundai:gen5w_l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gen5w_l_firmware
+  confidence: auto

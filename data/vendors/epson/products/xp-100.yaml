@@ -1,0 +1,10 @@
+id: xp-100
+vendor_id: epson
+name: Xp-100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:xp\-100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp-100
+  confidence: auto

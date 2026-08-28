@@ -1,0 +1,10 @@
+id: s8004
+vendor_id: unisoc
+name: S8004
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8004:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8004
+  confidence: auto

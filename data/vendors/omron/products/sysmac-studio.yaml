@@ -1,0 +1,10 @@
+id: sysmac-studio
+vendor_id: omron
+name: Sysmac Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:sysmac_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_studio
+  confidence: auto

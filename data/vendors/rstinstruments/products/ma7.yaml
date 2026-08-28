@@ -1,0 +1,10 @@
+id: ma7
+vendor_id: rstinstruments
+name: Ma7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:ma7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ma7
+  confidence: auto

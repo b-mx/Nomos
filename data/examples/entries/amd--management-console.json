@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--management-console",
+  "vendor_id": "amd",
+  "product_id": "management-console",
+  "name": "Management Console",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "management_console",
+      "confidence": "auto"
+    }
+  ]
+}

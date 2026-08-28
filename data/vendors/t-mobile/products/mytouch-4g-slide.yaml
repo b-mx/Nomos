@@ -1,0 +1,10 @@
+id: mytouch-4g-slide
+vendor_id: t-mobile
+name: Mytouch 4G Slide
+type: hardware
+tags: []
+cpe: cpe:2.3:h:t\-mobile:mytouch_4g_slide:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mytouch_4g_slide
+  confidence: auto

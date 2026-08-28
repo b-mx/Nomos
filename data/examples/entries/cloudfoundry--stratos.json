@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--stratos",
+  "vendor_id": "cloudfoundry",
+  "product_id": "stratos",
+  "name": "Stratos",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stratos",
+      "confidence": "auto"
+    }
+  ]
+}

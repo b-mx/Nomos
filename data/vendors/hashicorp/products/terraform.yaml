@@ -1,0 +1,13 @@
+id: terraform
+vendor_id: hashicorp
+name: Hashicorp Terraform
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:terraform:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: terraform
+  confidence: auto
+- source: nvd
+  value: terraform
+  confidence: auto

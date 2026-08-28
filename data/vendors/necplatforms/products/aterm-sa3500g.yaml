@@ -1,0 +1,10 @@
+id: aterm-sa3500g
+vendor_id: necplatforms
+name: Aterm Sa3500G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:necplatforms:aterm_sa3500g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_sa3500g
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nodegoat
+vendor_id: owasp
+name: Nodegoat
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:nodegoat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nodegoat
+  confidence: auto

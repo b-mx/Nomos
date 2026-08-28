@@ -1,0 +1,10 @@
+id: mastery-lms
+vendor_id: creativeitem
+name: Mastery Lms
+type: software
+tags: []
+cpe: cpe:2.3:a:creativeitem:mastery_lms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mastery_lms
+  confidence: auto

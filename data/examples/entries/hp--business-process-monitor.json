@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--business-process-monitor",
+  "vendor_id": "hp",
+  "product_id": "business-process-monitor",
+  "name": "Business Process Monitor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "business_process_monitor",
+      "confidence": "auto"
+    }
+  ]
+}

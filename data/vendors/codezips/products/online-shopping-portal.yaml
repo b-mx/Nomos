@@ -1,0 +1,10 @@
+id: online-shopping-portal
+vendor_id: codezips
+name: Online Shopping Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:codezips:online_shopping_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_shopping_portal
+  confidence: auto

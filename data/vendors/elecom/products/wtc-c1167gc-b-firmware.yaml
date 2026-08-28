@@ -1,0 +1,10 @@
+id: wtc-c1167gc-b-firmware
+vendor_id: elecom
+name: Wtc-C1167Gc-B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wtc\-c1167gc\-b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wtc-c1167gc-b_firmware
+  confidence: auto

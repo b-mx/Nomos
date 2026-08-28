@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "comodo--backup",
+  "vendor_id": "comodo",
+  "product_id": "backup",
+  "name": "Backup",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "backup",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "chef--chef-infra-client",
+  "vendor_id": "chef",
+  "product_id": "chef-infra-client",
+  "name": "Chef Infra Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "chef-infra-client",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "chef",
+      "confidence": "auto"
+    }
+  ]
+}

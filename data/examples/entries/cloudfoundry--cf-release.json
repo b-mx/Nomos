@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--cf-release",
+  "vendor_id": "cloudfoundry",
+  "product_id": "cf-release",
+  "name": "Cf-Release",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cf-release",
+      "confidence": "auto"
+    }
+  ]
+}

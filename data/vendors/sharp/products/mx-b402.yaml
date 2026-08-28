@@ -1,0 +1,10 @@
+id: mx-b402
+vendor_id: sharp
+name: Mx-B402
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-b402:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-b402
+  confidence: auto

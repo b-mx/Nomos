@@ -1,0 +1,10 @@
+id: nsd
+vendor_id: nlnetlabs
+name: Nsd
+type: software
+tags: []
+cpe: cpe:2.3:a:nlnetlabs:nsd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nsd
+  confidence: auto

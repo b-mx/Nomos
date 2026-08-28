@@ -1,0 +1,10 @@
+id: vga-1000-firmware
+vendor_id: vonets
+name: Vga-1000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vonets:vga\-1000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vga-1000_firmware
+  confidence: auto

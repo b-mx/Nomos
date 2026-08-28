@@ -1,0 +1,10 @@
+id: mp-c4504ex-firmware
+vendor_id: ricoh
+name: Mp C4504Ex Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:mp_c4504ex_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c4504ex_firmware
+  confidence: auto

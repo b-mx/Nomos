@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "beckhoff--bk9000-firmware",
+  "vendor_id": "beckhoff",
+  "product_id": "bk9000-firmware",
+  "name": "Bk9000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bk9000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

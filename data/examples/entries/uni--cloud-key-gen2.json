@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "uni--cloud-key-gen2",
+  "vendor_id": "uni",
+  "product_id": "cloud-key-gen2",
+  "name": "Cloud Key Gen2",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_key_gen2",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "yarnpkg--yarn",
+  "vendor_id": "yarnpkg",
+  "product_id": "yarn",
+  "name": "Yarn",
+  "type": "software",
+  "tags": [
+    "build-tool"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "yarn",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "yarn",
+      "confidence": "auto"
+    }
+  ]
+}

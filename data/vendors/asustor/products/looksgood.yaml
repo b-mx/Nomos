@@ -1,0 +1,10 @@
+id: looksgood
+vendor_id: asustor
+name: Looksgood
+type: software
+tags: []
+cpe: cpe:2.3:a:asustor:looksgood:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: looksgood
+  confidence: auto

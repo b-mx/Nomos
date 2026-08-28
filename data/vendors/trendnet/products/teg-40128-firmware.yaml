@@ -1,0 +1,10 @@
+id: teg-40128-firmware
+vendor_id: trendnet
+name: Teg-40128 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:teg\-40128_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: teg-40128_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pbe-m5-620
+vendor_id: ui
+name: Pbe-M5-620
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:pbe\-m5\-620:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pbe-m5-620
+  confidence: auto

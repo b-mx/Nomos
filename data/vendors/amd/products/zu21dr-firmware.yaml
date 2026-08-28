@@ -1,0 +1,10 @@
+id: zu21dr-firmware
+vendor_id: amd
+name: Zu21Dr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:zu21dr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu21dr_firmware
+  confidence: auto

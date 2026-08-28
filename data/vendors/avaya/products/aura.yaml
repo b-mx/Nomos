@@ -1,0 +1,10 @@
+id: aura
+vendor_id: avaya
+name: Aura
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura
+  confidence: auto

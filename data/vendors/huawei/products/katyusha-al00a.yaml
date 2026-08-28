@@ -1,0 +1,10 @@
+id: katyusha-al00a
+vendor_id: huawei
+name: Katyusha-Al00A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:katyusha\-al00a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: katyusha-al00a
+  confidence: auto

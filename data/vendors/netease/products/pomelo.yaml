@@ -1,0 +1,10 @@
+id: pomelo
+vendor_id: netease
+name: Pomelo
+type: software
+tags: []
+cpe: cpe:2.3:a:netease:pomelo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pomelo
+  confidence: auto

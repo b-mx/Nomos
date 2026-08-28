@@ -1,0 +1,10 @@
+id: spring-flex
+vendor_id: pivotal
+name: Spring-Flex
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:spring\-flex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spring-flex
+  confidence: auto

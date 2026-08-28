@@ -1,0 +1,10 @@
+id: primo-8-2-1
+vendor_id: fronius
+name: Primo 8.2-1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fronius:primo_8\.2\-1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primo_8.2-1
+  confidence: auto

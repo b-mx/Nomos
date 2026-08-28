@@ -1,0 +1,10 @@
+id: n1plus-i
+vendor_id: iptime
+name: N1Plus-I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:n1plus\-i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n1plus-i
+  confidence: auto

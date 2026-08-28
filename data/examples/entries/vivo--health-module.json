@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vivo--health-module",
+  "vendor_id": "vivo",
+  "product_id": "health-module",
+  "name": "Health Module",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "health_module",
+      "confidence": "auto"
+    }
+  ]
+}

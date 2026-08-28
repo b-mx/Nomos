@@ -1,0 +1,10 @@
+id: openstage-80-firmware
+vendor_id: atos
+name: Openstage 80 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:atos:openstage_80_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstage_80_firmware
+  confidence: auto

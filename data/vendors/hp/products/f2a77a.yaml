@@ -1,0 +1,10 @@
+id: f2a77a
+vendor_id: hp
+name: F2A77A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f2a77a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f2a77a
+  confidence: auto

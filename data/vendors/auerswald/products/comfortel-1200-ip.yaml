@@ -1,0 +1,10 @@
+id: comfortel-1200-ip
+vendor_id: auerswald
+name: Comfortel 1200 Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:auerswald:comfortel_1200_ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comfortel_1200_ip
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hrd-1642-firmware
+vendor_id: hanwha-security
+name: Hrd-1642 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwha\-security:hrd\-1642_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hrd-1642_firmware
+  confidence: auto

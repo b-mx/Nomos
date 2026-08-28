@@ -1,0 +1,10 @@
+id: thinkpad-p15v-gen-3
+vendor_id: lenovo
+name: Thinkpad P15V Gen 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_p15v_gen_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_p15v_gen_3
+  confidence: auto

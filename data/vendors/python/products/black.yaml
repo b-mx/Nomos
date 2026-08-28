@@ -1,0 +1,10 @@
+id: black
+vendor_id: python
+name: Black
+type: software
+tags: []
+cpe: cpe:2.3:a:python:black:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: black
+  confidence: auto

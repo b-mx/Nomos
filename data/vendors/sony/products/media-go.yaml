@@ -1,0 +1,10 @@
+id: media-go
+vendor_id: sony
+name: Media Go
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:media_go:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: media_go
+  confidence: auto

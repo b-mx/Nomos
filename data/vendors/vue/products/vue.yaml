@@ -1,0 +1,10 @@
+id: vue
+vendor_id: vue
+name: Vue
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: vue
+  confidence: auto

@@ -1,0 +1,10 @@
+id: elf-g10hn
+vendor_id: huawei
+name: Elf-G10Hn
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:elf\-g10hn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elf-g10hn
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "totolink--ex200-firmware",
+  "vendor_id": "totolink",
+  "product_id": "ex200-firmware",
+  "name": "Ex200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ex200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

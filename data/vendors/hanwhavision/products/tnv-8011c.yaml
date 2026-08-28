@@ -1,0 +1,10 @@
+id: tnv-8011c
+vendor_id: hanwhavision
+name: Tnv-8011C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:tnv\-8011c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tnv-8011c
+  confidence: auto

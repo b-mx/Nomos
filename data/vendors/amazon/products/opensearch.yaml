@@ -1,0 +1,14 @@
+id: opensearch
+vendor_id: amazon
+name: OpenSearch
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:amazon:opensearch:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: opensearch
+  confidence: auto
+- source: nvd
+  value: opensearch
+  confidence: auto

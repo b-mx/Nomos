@@ -1,0 +1,10 @@
+id: mplab-network-creator
+vendor_id: microchip
+name: Mplab Network Creator
+type: software
+tags: []
+cpe: cpe:2.3:a:microchip:mplab_network_creator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mplab_network_creator
+  confidence: auto

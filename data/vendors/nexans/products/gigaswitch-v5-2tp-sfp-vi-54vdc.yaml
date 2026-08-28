@@ -1,0 +1,10 @@
+id: gigaswitch-v5-2tp-sfp-vi-54vdc
+vendor_id: nexans
+name: Gigaswitch V5 2Tp Sfp-Vi 54Vdc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nexans:gigaswitch_v5_2tp_sfp\-vi_54vdc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gigaswitch_v5_2tp_sfp-vi_54vdc
+  confidence: auto

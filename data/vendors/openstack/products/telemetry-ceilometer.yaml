@@ -1,0 +1,10 @@
+id: telemetry-ceilometer
+vendor_id: openstack
+name: Telemetry (Ceilometer)
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:telemetry_\(ceilometer\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: telemetry_(ceilometer)
+  confidence: auto

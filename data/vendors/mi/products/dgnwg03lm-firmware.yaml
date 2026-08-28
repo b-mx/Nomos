@@ -1,0 +1,10 @@
+id: dgnwg03lm-firmware
+vendor_id: mi
+name: Dgnwg03Lm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:dgnwg03lm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dgnwg03lm_firmware
+  confidence: auto

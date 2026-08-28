@@ -1,0 +1,7 @@
+id: trendnet
+name: Trendnet
+cpe: cpe:2.3:*:trendnet:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trendnet
+  confidence: auto

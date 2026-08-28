@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rockwellautomation--softlogix-controllers-firmware",
+  "vendor_id": "rockwellautomation",
+  "product_id": "softlogix-controllers-firmware",
+  "name": "Softlogix Controllers Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "softlogix_controllers_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

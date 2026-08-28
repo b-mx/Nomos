@@ -1,0 +1,10 @@
+id: lan-w451ngr
+vendor_id: elecom
+name: Lan-W451Ngr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:lan\-w451ngr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-w451ngr
+  confidence: auto

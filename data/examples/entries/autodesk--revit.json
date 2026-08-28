@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "autodesk--revit",
+  "vendor_id": "autodesk",
+  "product_id": "revit",
+  "name": "Revit",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "revit",
+      "confidence": "auto"
+    }
+  ]
+}

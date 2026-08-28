@@ -1,0 +1,10 @@
+id: wab-s600-ps-firmware
+vendor_id: elecom
+name: Wab-S600-Ps Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wab\-s600\-ps_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wab-s600-ps_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: official-car-rental-system
+vendor_id: projectworlds
+name: Official Car Rental System
+type: software
+tags: []
+cpe: cpe:2.3:a:projectworlds:official_car_rental_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: official_car_rental_system
+  confidence: auto

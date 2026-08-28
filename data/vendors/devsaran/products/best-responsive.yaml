@@ -1,0 +1,10 @@
+id: best-responsive
+vendor_id: devsaran
+name: Best Responsive
+type: software
+tags: []
+cpe: cpe:2.3:a:devsaran:best_responsive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: best_responsive
+  confidence: auto

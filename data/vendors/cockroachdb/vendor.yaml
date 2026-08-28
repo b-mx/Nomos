@@ -1,0 +1,6 @@
+id: cockroachdb
+name: CockroachDB
+aliases:
+- source: endoflife
+  value: cockroachdb
+  confidence: auto

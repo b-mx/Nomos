@@ -1,0 +1,10 @@
+id: name-server-daemon
+vendor_id: freebsd
+name: Name Server Daemon
+type: software
+tags: []
+cpe: cpe:2.3:a:freebsd:name_server_daemon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: name_server_daemon
+  confidence: auto

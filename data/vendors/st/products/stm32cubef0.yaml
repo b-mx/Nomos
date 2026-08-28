@@ -1,0 +1,10 @@
+id: stm32cubef0
+vendor_id: st
+name: Stm32Cubef0
+type: software
+tags: []
+cpe: cpe:2.3:a:st:stm32cubef0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32cubef0
+  confidence: auto

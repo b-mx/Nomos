@@ -1,0 +1,10 @@
+id: leshan
+vendor_id: eclipse
+name: Leshan
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:leshan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: leshan
+  confidence: auto

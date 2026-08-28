@@ -1,0 +1,10 @@
+id: velop-whw0303-firmware
+vendor_id: linksys
+name: Velop Whw0303 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:velop_whw0303_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: velop_whw0303_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rg-uac-6000-u3100
+vendor_id: ruijie
+name: Rg-Uac 6000-U3100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-uac_6000\-u3100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-uac_6000-u3100
+  confidence: auto

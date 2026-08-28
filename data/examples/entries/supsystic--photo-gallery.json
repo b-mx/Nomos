@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supsystic--photo-gallery",
+  "vendor_id": "supsystic",
+  "product_id": "photo-gallery",
+  "name": "Photo Gallery",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "photo_gallery",
+      "confidence": "auto"
+    }
+  ]
+}

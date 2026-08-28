@@ -1,0 +1,10 @@
+id: qnv-6030r-firmware
+vendor_id: hanwhavision
+name: Qnv-6030R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:qnv\-6030r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnv-6030r_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--visual-vector-client",
+  "vendor_id": "avaya",
+  "product_id": "visual-vector-client",
+  "name": "Visual Vector Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "visual_vector_client",
+      "confidence": "auto"
+    }
+  ]
+}

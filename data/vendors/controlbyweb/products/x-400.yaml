@@ -1,0 +1,10 @@
+id: x-400
+vendor_id: controlbyweb
+name: X-400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:controlbyweb:x\-400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-400
+  confidence: auto

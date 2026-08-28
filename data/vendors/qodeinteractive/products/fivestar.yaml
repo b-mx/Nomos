@@ -1,0 +1,10 @@
+id: fivestar
+vendor_id: qodeinteractive
+name: Fivestar
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:fivestar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fivestar
+  confidence: auto

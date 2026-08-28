@@ -1,0 +1,10 @@
+id: hmisoft-vu3-firmware
+vendor_id: eaton
+name: Hmisoft Vu3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eaton:hmisoft_vu3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hmisoft_vu3_firmware
+  confidence: auto

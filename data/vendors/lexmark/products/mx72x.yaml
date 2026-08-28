@@ -1,0 +1,10 @@
+id: mx72x
+vendor_id: lexmark
+name: Mx72X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx72x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx72x
+  confidence: auto

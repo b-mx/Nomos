@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "verifone--verix-os",
+  "vendor_id": "verifone",
+  "product_id": "verix-os",
+  "name": "Verix Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "verix_os",
+      "confidence": "auto"
+    }
+  ]
+}

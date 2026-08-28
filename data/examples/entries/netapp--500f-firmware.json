@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--500f-firmware",
+  "vendor_id": "netapp",
+  "product_id": "500f-firmware",
+  "name": "500F Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "500f_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

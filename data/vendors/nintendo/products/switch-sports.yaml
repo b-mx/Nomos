@@ -1,0 +1,10 @@
+id: switch-sports
+vendor_id: nintendo
+name: Switch Sports
+type: software
+tags: []
+cpe: cpe:2.3:a:nintendo:switch_sports:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: switch_sports
+  confidence: auto

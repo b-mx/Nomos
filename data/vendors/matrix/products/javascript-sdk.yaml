@@ -1,0 +1,10 @@
+id: javascript-sdk
+vendor_id: matrix
+name: Javascript Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:javascript_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: javascript_sdk
+  confidence: auto

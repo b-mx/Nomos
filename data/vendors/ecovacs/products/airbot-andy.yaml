@@ -1,0 +1,10 @@
+id: airbot-andy
+vendor_id: ecovacs
+name: Airbot Andy
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:airbot_andy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airbot_andy
+  confidence: auto

@@ -1,0 +1,10 @@
+id: landscape
+vendor_id: canonical
+name: Landscape
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:landscape:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: landscape
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aurora
+vendor_id: afterlogic
+name: Aurora
+type: software
+tags: []
+cpe: cpe:2.3:a:afterlogic:aurora:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aurora
+  confidence: auto

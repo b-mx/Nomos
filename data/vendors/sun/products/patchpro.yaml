@@ -1,0 +1,10 @@
+id: patchpro
+vendor_id: sun
+name: Patchpro
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:patchpro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: patchpro
+  confidence: auto

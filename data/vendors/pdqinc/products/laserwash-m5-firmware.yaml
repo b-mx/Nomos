@@ -1,0 +1,10 @@
+id: laserwash-m5-firmware
+vendor_id: pdqinc
+name: Laserwash M5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pdqinc:laserwash_m5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserwash_m5_firmware
+  confidence: auto

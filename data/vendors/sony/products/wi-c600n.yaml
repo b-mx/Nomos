@@ -1,0 +1,10 @@
+id: wi-c600n
+vendor_id: sony
+name: Wi-C600N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:wi\-c600n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wi-c600n
+  confidence: auto

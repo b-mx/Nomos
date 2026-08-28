@@ -1,0 +1,10 @@
+id: e5600
+vendor_id: linksys
+name: E5600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:e5600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e5600
+  confidence: auto

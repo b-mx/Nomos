@@ -1,0 +1,10 @@
+id: aquos-sh-m02-firmware
+vendor_id: sharp
+name: Aquos Sh-M02 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:aquos_sh\-m02_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_sh-m02_firmware
+  confidence: auto

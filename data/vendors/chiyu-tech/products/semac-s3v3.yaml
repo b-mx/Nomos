@@ -1,0 +1,10 @@
+id: semac-s3v3
+vendor_id: chiyu-tech
+name: Semac S3V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chiyu\-tech:semac_s3v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: semac_s3v3
+  confidence: auto

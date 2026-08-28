@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--suse-lifecycle-management-server",
+  "vendor_id": "novell",
+  "product_id": "suse-lifecycle-management-server",
+  "name": "Suse Lifecycle Management Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_lifecycle_management_server",
+      "confidence": "auto"
+    }
+  ]
+}

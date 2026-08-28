@@ -1,0 +1,10 @@
+id: car-rental-system
+vendor_id: codeastro
+name: Car Rental System
+type: software
+tags: []
+cpe: cpe:2.3:a:codeastro:car_rental_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: car_rental_system
+  confidence: auto

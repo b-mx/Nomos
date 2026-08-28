@@ -1,0 +1,10 @@
+id: fi8620
+vendor_id: foscam
+name: Fi8620
+type: hardware
+tags: []
+cpe: cpe:2.3:h:foscam:fi8620:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fi8620
+  confidence: auto

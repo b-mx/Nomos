@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--z640-workstation",
+  "vendor_id": "hp",
+  "product_id": "z640-workstation",
+  "name": "Z640 Workstation",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "z640_workstation",
+      "confidence": "auto"
+    }
+  ]
+}

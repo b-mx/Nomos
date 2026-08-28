@@ -1,0 +1,10 @@
+id: alienvault-ossim
+vendor_id: att
+name: Alienvault Ossim
+type: software
+tags: []
+cpe: cpe:2.3:a:att:alienvault_ossim:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alienvault_ossim
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--desktop",
+  "vendor_id": "ui",
+  "product_id": "desktop",
+  "name": "Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "desktop",
+      "confidence": "auto"
+    }
+  ]
+}

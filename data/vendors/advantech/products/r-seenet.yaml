@@ -1,0 +1,10 @@
+id: r-seenet
+vendor_id: advantech
+name: R-Seenet
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:r\-seenet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r-seenet
+  confidence: auto

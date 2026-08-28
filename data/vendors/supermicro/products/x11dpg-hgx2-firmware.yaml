@@ -1,0 +1,10 @@
+id: x11dpg-hgx2-firmware
+vendor_id: supermicro
+name: X11Dpg-Hgx2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11dpg\-hgx2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dpg-hgx2_firmware
+  confidence: auto

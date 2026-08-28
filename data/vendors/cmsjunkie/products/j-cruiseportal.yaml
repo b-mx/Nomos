@@ -1,0 +1,10 @@
+id: j-cruiseportal
+vendor_id: cmsjunkie
+name: J-Cruiseportal
+type: software
+tags: []
+cpe: cpe:2.3:a:cmsjunkie:j\-cruiseportal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j-cruiseportal
+  confidence: auto

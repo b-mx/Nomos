@@ -1,0 +1,10 @@
+id: advanced-settings-utility
+vendor_id: lenovo
+name: Advanced Settings Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:advanced_settings_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_settings_utility
+  confidence: auto

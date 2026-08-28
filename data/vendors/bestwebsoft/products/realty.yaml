@@ -1,0 +1,10 @@
+id: realty
+vendor_id: bestwebsoft
+name: Realty
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:realty:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realty
+  confidence: auto

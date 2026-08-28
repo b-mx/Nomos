@@ -1,0 +1,10 @@
+id: control-center
+vendor_id: gnome
+name: Control Center
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:control_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_center
+  confidence: auto

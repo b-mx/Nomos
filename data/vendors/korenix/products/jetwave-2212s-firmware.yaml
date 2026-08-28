@@ -1,0 +1,10 @@
+id: jetwave-2212s-firmware
+vendor_id: korenix
+name: Jetwave 2212S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetwave_2212s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_2212s_firmware
+  confidence: auto

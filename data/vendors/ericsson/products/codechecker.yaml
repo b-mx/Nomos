@@ -1,0 +1,10 @@
+id: codechecker
+vendor_id: ericsson
+name: Codechecker
+type: software
+tags: []
+cpe: cpe:2.3:a:ericsson:codechecker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: codechecker
+  confidence: auto

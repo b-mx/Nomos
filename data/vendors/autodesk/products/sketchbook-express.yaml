@@ -1,0 +1,10 @@
+id: sketchbook-express
+vendor_id: autodesk
+name: Sketchbook Express
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:sketchbook_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sketchbook_express
+  confidence: auto

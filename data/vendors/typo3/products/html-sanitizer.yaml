@@ -1,0 +1,10 @@
+id: html-sanitizer
+vendor_id: typo3
+name: Html Sanitizer
+type: software
+tags: []
+cpe: cpe:2.3:a:typo3:html_sanitizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: html_sanitizer
+  confidence: auto

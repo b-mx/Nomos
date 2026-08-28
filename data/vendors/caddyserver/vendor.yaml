@@ -1,0 +1,7 @@
+id: caddyserver
+name: Caddyserver
+cpe: cpe:2.3:*:caddyserver:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: caddyserver
+  confidence: auto

@@ -1,0 +1,10 @@
+id: colorio-easy-print
+vendor_id: epson
+name: Colorio Easy Print
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:colorio_easy_print:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: colorio_easy_print
+  confidence: auto

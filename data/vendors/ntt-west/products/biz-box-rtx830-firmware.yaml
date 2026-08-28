@@ -1,0 +1,10 @@
+id: biz-box-rtx830-firmware
+vendor_id: ntt-west
+name: Biz Box Rtx830 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ntt\-west:biz_box_rtx830_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biz_box_rtx830_firmware
+  confidence: auto

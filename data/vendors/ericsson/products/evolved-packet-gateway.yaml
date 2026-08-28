@@ -1,0 +1,10 @@
+id: evolved-packet-gateway
+vendor_id: ericsson
+name: Evolved Packet Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:ericsson:evolved_packet_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evolved_packet_gateway
+  confidence: auto

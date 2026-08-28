@@ -1,0 +1,10 @@
+id: rp-210e
+vendor_id: auto-maskin
+name: Rp 210E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:auto\-maskin:rp_210e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rp_210e
+  confidence: auto

@@ -1,0 +1,10 @@
+id: service-provider
+vendor_id: shibboleth
+name: Service Provider
+type: software
+tags: []
+cpe: cpe:2.3:a:shibboleth:service_provider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_provider
+  confidence: auto

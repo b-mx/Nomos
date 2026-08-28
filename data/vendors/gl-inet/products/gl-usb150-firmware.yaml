@@ -1,0 +1,10 @@
+id: gl-usb150-firmware
+vendor_id: gl-inet
+name: Gl-Usb150 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:gl\-usb150_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-usb150_firmware
+  confidence: auto

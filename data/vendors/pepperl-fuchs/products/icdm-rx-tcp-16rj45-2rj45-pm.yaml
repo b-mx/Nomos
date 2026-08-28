@@ -1,0 +1,10 @@
+id: icdm-rx-tcp-16rj45-2rj45-pm
+vendor_id: pepperl-fuchs
+name: Icdm-Rx/Tcp-16Rj45/2Rj45-Pm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pepperl\-fuchs:icdm\-rx\/tcp\-16rj45\/2rj45\-pm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icdm-rx/tcp-16rj45/2rj45-pm
+  confidence: auto

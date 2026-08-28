@@ -1,0 +1,10 @@
+id: steelcentral-appinternals
+vendor_id: riverbed
+name: Steelcentral Appinternals
+type: software
+tags: []
+cpe: cpe:2.3:a:riverbed:steelcentral_appinternals:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: steelcentral_appinternals
+  confidence: auto

@@ -1,0 +1,10 @@
+id: discourse-jira
+vendor_id: discourse
+name: Discourse Jira
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:discourse_jira:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discourse_jira
+  confidence: auto

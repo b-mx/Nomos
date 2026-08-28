@@ -1,0 +1,10 @@
+id: keyserver
+vendor_id: pgp
+name: Keyserver
+type: software
+tags: []
+cpe: cpe:2.3:a:pgp:keyserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keyserver
+  confidence: auto

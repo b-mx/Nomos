@@ -1,0 +1,10 @@
+id: k63
+vendor_id: corsair
+name: K63
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:k63:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k63
+  confidence: auto

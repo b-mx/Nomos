@@ -1,0 +1,10 @@
+id: x11spl-f
+vendor_id: supermicro
+name: X11Spl-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11spl\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11spl-f
+  confidence: auto

@@ -1,0 +1,10 @@
+id: foundry-build2
+vendor_id: palantir
+name: Foundry Build2
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:foundry_build2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foundry_build2
+  confidence: auto

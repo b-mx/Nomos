@@ -1,0 +1,10 @@
+id: deskjet-3630-k4t99c-firmware
+vendor_id: hp
+name: Deskjet 3630 K4T99C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:deskjet_3630_k4t99c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3630_k4t99c_firmware
+  confidence: auto

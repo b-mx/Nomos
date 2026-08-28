@@ -1,0 +1,10 @@
+id: super-mario-maker-2
+vendor_id: nintendo
+name: Super Mario Maker 2
+type: software
+tags: []
+cpe: cpe:2.3:a:nintendo:super_mario_maker_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: super_mario_maker_2
+  confidence: auto

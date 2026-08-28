@@ -1,0 +1,10 @@
+id: sparq
+vendor_id: philips
+name: Sparq
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:sparq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sparq
+  confidence: auto

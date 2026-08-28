@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "verizon--lvskihp-firmware",
+  "vendor_id": "verizon",
+  "product_id": "lvskihp-firmware",
+  "name": "Lvskihp Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lvskihp_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

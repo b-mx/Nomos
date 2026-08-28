@@ -1,0 +1,10 @@
+id: etx-r
+vendor_id: iodata
+name: Etx-R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:etx\-r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: etx-r
+  confidence: auto

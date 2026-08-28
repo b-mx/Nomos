@@ -1,0 +1,10 @@
+id: lux-85-connect
+vendor_id: binatoneglobal
+name: Lux 85 Connect
+type: hardware
+tags: []
+cpe: cpe:2.3:h:binatoneglobal:lux_85_connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lux_85_connect
+  confidence: auto

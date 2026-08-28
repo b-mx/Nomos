@@ -1,0 +1,10 @@
+id: vega53
+vendor_id: tattile
+name: Vega53
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tattile:vega53:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vega53
+  confidence: auto

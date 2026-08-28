@@ -1,0 +1,10 @@
+id: server
+vendor_id: octopus
+name: Server
+type: software
+tags: []
+cpe: cpe:2.3:a:octopus:server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: server
+  confidence: auto

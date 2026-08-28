@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "glpi-project--glpi",
+  "vendor_id": "glpi-project",
+  "product_id": "glpi",
+  "name": "Glpi",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "glpi",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+id: zerto
+vendor_id: zerto
+name: HPE Zerto
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: zerto
+  confidence: auto

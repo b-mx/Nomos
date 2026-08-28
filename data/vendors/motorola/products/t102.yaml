@@ -1,0 +1,10 @@
+id: t102
+vendor_id: motorola
+name: T102
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:t102:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t102
+  confidence: auto

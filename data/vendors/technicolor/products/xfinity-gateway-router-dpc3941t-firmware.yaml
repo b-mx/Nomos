@@ -1,0 +1,10 @@
+id: xfinity-gateway-router-dpc3941t-firmware
+vendor_id: technicolor
+name: Xfinity Gateway Router Dpc3941T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:xfinity_gateway_router_dpc3941t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xfinity_gateway_router_dpc3941t_firmware
+  confidence: auto

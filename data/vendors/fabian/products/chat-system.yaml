@@ -1,0 +1,10 @@
+id: chat-system
+vendor_id: fabian
+name: Chat System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:chat_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chat_system
+  confidence: auto

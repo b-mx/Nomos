@@ -1,0 +1,10 @@
+id: telecontrol-configurator
+vendor_id: wago
+name: Telecontrol Configurator
+type: software
+tags: []
+cpe: cpe:2.3:a:wago:telecontrol_configurator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: telecontrol_configurator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mediapad-m3-firmware
+vendor_id: huawei
+name: Mediapad M3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:mediapad_m3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mediapad_m3_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tg-t261
+vendor_id: siklu
+name: Tg T261
+type: hardware
+tags: []
+cpe: cpe:2.3:h:siklu:tg_t261:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg_t261
+  confidence: auto

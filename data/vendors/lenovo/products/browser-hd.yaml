@@ -1,0 +1,10 @@
+id: browser-hd
+vendor_id: lenovo
+name: Browser Hd
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:browser_hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: browser_hd
+  confidence: auto

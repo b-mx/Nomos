@@ -1,0 +1,10 @@
+id: superbike-magazine
+vendor_id: pocketmags
+name: Superbike Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:superbike_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: superbike_magazine
+  confidence: auto

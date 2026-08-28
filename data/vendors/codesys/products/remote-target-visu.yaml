@@ -1,0 +1,10 @@
+id: remote-target-visu
+vendor_id: codesys
+name: Remote Target Visu
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:remote_target_visu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_target_visu
+  confidence: auto

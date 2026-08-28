@@ -1,0 +1,10 @@
+id: aruba-instant-on-1930-48g-4sfp-sfp
+vendor_id: hpe
+name: Aruba Instant On 1930 48G 4Sfp/Sfp+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_instant_on_1930_48g_4sfp\/sfp\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_instant_on_1930_48g_4sfp/sfp+
+  confidence: auto

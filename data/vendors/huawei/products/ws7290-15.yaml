@@ -1,0 +1,10 @@
+id: ws7290-15
+vendor_id: huawei
+name: Ws7290-15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ws7290\-15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws7290-15
+  confidence: auto

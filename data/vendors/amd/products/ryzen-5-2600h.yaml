@@ -1,0 +1,10 @@
+id: ryzen-5-2600h
+vendor_id: amd
+name: Ryzen 5 2600H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_2600h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_2600h
+  confidence: auto

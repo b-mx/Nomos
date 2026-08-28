@@ -1,0 +1,10 @@
+id: d8s-lists
+vendor_id: democritus
+name: D8S-Lists
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-lists:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-lists
+  confidence: auto

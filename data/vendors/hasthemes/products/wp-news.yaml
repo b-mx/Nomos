@@ -1,0 +1,10 @@
+id: wp-news
+vendor_id: hasthemes
+name: Wp News
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:wp_news:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_news
+  confidence: auto

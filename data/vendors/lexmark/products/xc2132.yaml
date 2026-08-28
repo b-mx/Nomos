@@ -1,0 +1,10 @@
+id: xc2132
+vendor_id: lexmark
+name: Xc2132
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xc2132:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xc2132
+  confidence: auto

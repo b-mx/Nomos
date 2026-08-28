@@ -1,0 +1,10 @@
+id: jquery-news-ticker
+vendor_id: gopiplus
+name: Jquery News Ticker
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:jquery_news_ticker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jquery_news_ticker
+  confidence: auto

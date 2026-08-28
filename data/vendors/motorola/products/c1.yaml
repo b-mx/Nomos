@@ -1,0 +1,10 @@
+id: c1
+vendor_id: motorola
+name: C1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:c1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1
+  confidence: auto

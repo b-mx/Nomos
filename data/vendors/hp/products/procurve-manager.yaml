@@ -1,0 +1,10 @@
+id: procurve-manager
+vendor_id: hp
+name: Procurve Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:procurve_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: procurve_manager
+  confidence: auto

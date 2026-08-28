@@ -1,0 +1,10 @@
+id: manageengine-servicedesk-plus
+vendor_id: zohocorp
+name: Manageengine Servicedesk Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_servicedesk_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_servicedesk_plus
+  confidence: auto

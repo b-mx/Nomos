@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "amazon",
+  "vendor_id": "amazon",
+  "name": "Amazon",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amazon",
+      "confidence": "auto"
+    }
+  ]
+}

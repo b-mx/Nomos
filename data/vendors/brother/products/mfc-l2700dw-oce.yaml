@@ -1,0 +1,10 @@
+id: mfc-l2700dw-oce
+vendor_id: brother
+name: Mfc-L2700Dw(Oce)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-l2700dw\(oce\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l2700dw(oce)
+  confidence: auto

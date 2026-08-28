@@ -1,0 +1,10 @@
+id: laserjet-mfp-m142-7md72a-firmware
+vendor_id: hp
+name: Laserjet Mfp M142 7Md72A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_mfp_m142_7md72a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m142_7md72a_firmware
+  confidence: auto

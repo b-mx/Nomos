@@ -1,0 +1,7 @@
+id: ricoh
+name: Ricoh
+cpe: cpe:2.3:*:ricoh:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ricoh
+  confidence: auto

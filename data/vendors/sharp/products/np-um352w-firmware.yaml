@@ -1,0 +1,10 @@
+id: np-um352w-firmware
+vendor_id: sharp
+name: Np-Um352W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:np\-um352w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: np-um352w_firmware
+  confidence: auto

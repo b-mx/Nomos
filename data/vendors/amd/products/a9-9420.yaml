@@ -1,0 +1,10 @@
+id: a9-9420
+vendor_id: amd
+name: A9-9420
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:a9\-9420:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a9-9420
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bcc101-firmware
+vendor_id: bosch
+name: Bcc101 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:bcc101_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcc101_firmware
+  confidence: auto

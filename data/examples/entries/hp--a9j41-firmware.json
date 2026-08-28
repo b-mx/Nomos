@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--a9j41-firmware",
+  "vendor_id": "hp",
+  "product_id": "a9j41-firmware",
+  "name": "A9J41 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a9j41_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

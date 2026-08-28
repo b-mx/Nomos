@@ -1,0 +1,9 @@
+id: exchange
+vendor_id: microsoft
+name: Exchange
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Exchange
+  confidence: auto

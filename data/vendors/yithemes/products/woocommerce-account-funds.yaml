@@ -1,0 +1,10 @@
+id: woocommerce-account-funds
+vendor_id: yithemes
+name: Woocommerce Account Funds
+type: software
+tags: []
+cpe: cpe:2.3:a:yithemes:woocommerce_account_funds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_account_funds
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 499q3e-firmware
+vendor_id: hp
+name: 499Q3E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:499q3e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 499q3e_firmware
+  confidence: auto

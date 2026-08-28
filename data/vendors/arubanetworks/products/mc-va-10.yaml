@@ -1,0 +1,10 @@
+id: mc-va-10
+vendor_id: arubanetworks
+name: Mc-Va-10
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:mc\-va\-10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc-va-10
+  confidence: auto

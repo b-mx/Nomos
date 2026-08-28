@@ -1,0 +1,10 @@
+id: l02cpu-firmware
+vendor_id: mitsubishielectric
+name: L02Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:l02cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l02cpu_firmware
+  confidence: auto

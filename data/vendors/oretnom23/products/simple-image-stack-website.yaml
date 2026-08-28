@@ -1,0 +1,10 @@
+id: simple-image-stack-website
+vendor_id: oretnom23
+name: Simple Image Stack Website
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:simple_image_stack_website:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_image_stack_website
+  confidence: auto

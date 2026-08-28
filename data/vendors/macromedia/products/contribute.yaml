@@ -1,0 +1,10 @@
+id: contribute
+vendor_id: macromedia
+name: Contribute
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:contribute:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contribute
+  confidence: auto

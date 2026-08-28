@@ -1,0 +1,10 @@
+id: centralview-subscription-fraud-prevention
+vendor_id: hp
+name: Centralview Subscription Fraud Prevention
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:centralview_subscription_fraud_prevention:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centralview_subscription_fraud_prevention
+  confidence: auto

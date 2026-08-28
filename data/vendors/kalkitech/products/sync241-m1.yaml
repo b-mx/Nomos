@@ -1,0 +1,10 @@
+id: sync241-m1
+vendor_id: kalkitech
+name: Sync241-M1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kalkitech:sync241\-m1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sync241-m1
+  confidence: auto

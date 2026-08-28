@@ -1,0 +1,10 @@
+id: g8272-firmware
+vendor_id: lenovo
+name: G8272 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:g8272_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g8272_firmware
+  confidence: auto

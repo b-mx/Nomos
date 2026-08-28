@@ -1,0 +1,10 @@
+id: fx3sa-10mr-cm-firmware
+vendor_id: mitsubishielectric
+name: Fx3Sa-10Mr-Cm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3sa\-10mr\-cm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3sa-10mr-cm_firmware
+  confidence: auto

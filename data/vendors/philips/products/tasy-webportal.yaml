@@ -1,0 +1,10 @@
+id: tasy-webportal
+vendor_id: philips
+name: Tasy Webportal
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:tasy_webportal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tasy_webportal
+  confidence: auto

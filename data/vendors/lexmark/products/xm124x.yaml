@@ -1,0 +1,10 @@
+id: xm124x
+vendor_id: lexmark
+name: Xm124X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xm124x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm124x
+  confidence: auto

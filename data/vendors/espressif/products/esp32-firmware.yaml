@@ -1,0 +1,10 @@
+id: esp32-firmware
+vendor_id: espressif
+name: Esp32 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:espressif:esp32_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32_firmware
+  confidence: auto

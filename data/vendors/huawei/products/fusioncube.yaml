@@ -1,0 +1,10 @@
+id: fusioncube
+vendor_id: huawei
+name: Fusioncube
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:fusioncube:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusioncube
+  confidence: auto

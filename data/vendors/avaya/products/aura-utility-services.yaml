@@ -1,0 +1,10 @@
+id: aura-utility-services
+vendor_id: avaya
+name: Aura Utility Services
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura_utility_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_utility_services
+  confidence: auto

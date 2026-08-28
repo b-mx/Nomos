@@ -1,0 +1,10 @@
+id: athlon-x4-940-firmware
+vendor_id: amd
+name: Athlon X4 940 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:athlon_x4_940_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_x4_940_firmware
+  confidence: auto

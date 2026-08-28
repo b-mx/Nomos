@@ -1,0 +1,10 @@
+id: ts03x-v-firmware
+vendor_id: ave
+name: Ts03X-V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ave:ts03x\-v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts03x-v_firmware
+  confidence: auto

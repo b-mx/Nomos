@@ -1,0 +1,10 @@
+id: unizon
+vendor_id: aten
+name: Unizon
+type: software
+tags: []
+cpe: cpe:2.3:a:aten:unizon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unizon
+  confidence: auto

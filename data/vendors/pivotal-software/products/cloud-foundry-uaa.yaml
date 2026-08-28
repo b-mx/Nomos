@@ -1,0 +1,10 @@
+id: cloud-foundry-uaa
+vendor_id: pivotal-software
+name: Cloud Foundry Uaa
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:cloud_foundry_uaa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_uaa
+  confidence: auto

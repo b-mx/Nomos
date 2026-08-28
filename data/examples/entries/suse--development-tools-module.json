@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--development-tools-module",
+  "vendor_id": "suse",
+  "product_id": "development-tools-module",
+  "name": "Development Tools Module",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "development_tools_module",
+      "confidence": "auto"
+    }
+  ]
+}

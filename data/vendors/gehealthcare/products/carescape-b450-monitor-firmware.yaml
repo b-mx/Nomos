@@ -1,0 +1,10 @@
+id: carescape-b450-monitor-firmware
+vendor_id: gehealthcare
+name: Carescape B450 Monitor Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:carescape_b450_monitor_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carescape_b450_monitor_firmware
+  confidence: auto

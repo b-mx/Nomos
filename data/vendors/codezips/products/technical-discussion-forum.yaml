@@ -1,0 +1,10 @@
+id: technical-discussion-forum
+vendor_id: codezips
+name: Technical Discussion Forum
+type: software
+tags: []
+cpe: cpe:2.3:a:codezips:technical_discussion_forum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: technical_discussion_forum
+  confidence: auto

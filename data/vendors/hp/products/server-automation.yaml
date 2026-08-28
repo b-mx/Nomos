@@ -1,0 +1,10 @@
+id: server-automation
+vendor_id: hp
+name: Server Automation
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:server_automation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: server_automation
+  confidence: auto

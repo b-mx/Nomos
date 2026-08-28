@@ -1,0 +1,10 @@
+id: ray-windows-connector
+vendor_id: sun
+name: Ray Windows Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:ray_windows_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ray_windows_connector
+  confidence: auto

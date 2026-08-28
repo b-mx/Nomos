@@ -1,0 +1,10 @@
+id: power-motion-i-model-a-firmware
+vendor_id: fanuc
+name: Power Motion I-Model A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fanuc:power_motion_i\-model_a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: power_motion_i-model_a_firmware
+  confidence: auto

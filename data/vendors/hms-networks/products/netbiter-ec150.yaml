@@ -1,0 +1,10 @@
+id: netbiter-ec150
+vendor_id: hms-networks
+name: Netbiter Ec150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hms\-networks:netbiter_ec150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netbiter_ec150
+  confidence: auto

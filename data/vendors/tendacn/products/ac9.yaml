@@ -1,0 +1,10 @@
+id: ac9
+vendor_id: tendacn
+name: Ac9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:ac9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac9
+  confidence: auto

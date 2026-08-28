@@ -1,0 +1,10 @@
+id: linksys-e4200
+vendor_id: belkin
+name: Linksys E4200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belkin:linksys_e4200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linksys_e4200
+  confidence: auto

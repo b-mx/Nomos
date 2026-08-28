@@ -1,0 +1,10 @@
+id: proliant-sl270s-gen8-se-server
+vendor_id: hpe
+name: Proliant Sl270S Gen8 Se Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_sl270s_gen8_se_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_sl270s_gen8_se_server
+  confidence: auto

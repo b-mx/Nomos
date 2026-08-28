@@ -1,0 +1,10 @@
+id: apollo-70-system
+vendor_id: hpe
+name: Apollo 70 System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:apollo_70_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_70_system
+  confidence: auto

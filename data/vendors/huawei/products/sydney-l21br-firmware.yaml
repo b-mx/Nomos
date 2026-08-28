@@ -1,0 +1,10 @@
+id: sydney-l21br-firmware
+vendor_id: huawei
+name: Sydney-L21Br Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:sydney\-l21br_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sydney-l21br_firmware
+  confidence: auto

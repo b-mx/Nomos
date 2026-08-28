@@ -2,9 +2,7 @@ id: websphere-application-server-and-server-hypervisor-edition
 vendor_id: ibm
 name: WebSphere Application Server and Server Hypervisor Edition
 type: software
-tags:
-- virtualization
-icon: logos:ibm
+tags: []
 aliases:
 - source: cisa_kev
   value: WebSphere Application Server and Server Hypervisor Edition

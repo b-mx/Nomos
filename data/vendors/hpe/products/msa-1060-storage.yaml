@@ -1,0 +1,10 @@
+id: msa-1060-storage
+vendor_id: hpe
+name: Msa 1060 Storage
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:msa_1060_storage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msa_1060_storage
+  confidence: auto

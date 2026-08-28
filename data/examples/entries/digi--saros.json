@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "digi--saros",
+  "vendor_id": "digi",
+  "product_id": "saros",
+  "name": "Saros",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "saros",
+      "confidence": "auto"
+    }
+  ]
+}

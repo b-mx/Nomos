@@ -1,0 +1,10 @@
+id: dcme-320-l
+vendor_id: dcnetworks
+name: Dcme-320-L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dcnetworks:dcme\-320\-l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcme-320-l
+  confidence: auto

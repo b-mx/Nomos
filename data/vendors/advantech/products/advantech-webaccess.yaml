@@ -1,0 +1,10 @@
+id: advantech-webaccess
+vendor_id: advantech
+name: Advantech Webaccess
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:advantech_webaccess:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advantech_webaccess
+  confidence: auto

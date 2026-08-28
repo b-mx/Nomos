@@ -1,0 +1,10 @@
+id: bx20uhd-n-firmware
+vendor_id: smtav
+name: Bx20Uhd-N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:smtav:bx20uhd\-n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bx20uhd-n_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gt25
+vendor_id: mitsubishielectric
+name: Gt25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:gt25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gt25
+  confidence: auto

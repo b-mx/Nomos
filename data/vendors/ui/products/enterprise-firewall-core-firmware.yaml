@@ -1,0 +1,10 @@
+id: enterprise-firewall-core-firmware
+vendor_id: ui
+name: Enterprise Firewall Core Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:enterprise_firewall_core_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_firewall_core_firmware
+  confidence: auto

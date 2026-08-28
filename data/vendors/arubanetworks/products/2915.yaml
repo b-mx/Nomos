@@ -1,0 +1,10 @@
+id: '2915'
+vendor_id: arubanetworks
+name: '2915'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:2915:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '2915'
+  confidence: auto

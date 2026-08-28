@@ -1,0 +1,10 @@
+id: rec615
+vendor_id: abb
+name: Rec615
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:rec615:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rec615
+  confidence: auto

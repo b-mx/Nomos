@@ -1,0 +1,10 @@
+id: maxicharger-ac-ultra
+vendor_id: autel
+name: Maxicharger Ac Ultra
+type: hardware
+tags: []
+cpe: cpe:2.3:h:autel:maxicharger_ac_ultra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxicharger_ac_ultra
+  confidence: auto

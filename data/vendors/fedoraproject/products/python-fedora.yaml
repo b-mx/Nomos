@@ -1,0 +1,10 @@
+id: python-fedora
+vendor_id: fedoraproject
+name: Python-Fedora
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:python\-fedora:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: python-fedora
+  confidence: auto

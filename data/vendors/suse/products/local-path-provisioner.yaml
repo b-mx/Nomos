@@ -1,0 +1,10 @@
+id: local-path-provisioner
+vendor_id: suse
+name: Local Path Provisioner
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:local_path_provisioner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: local_path_provisioner
+  confidence: auto

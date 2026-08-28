@@ -1,0 +1,10 @@
+id: nagios-plugins-hpilo
+vendor_id: hp
+name: Nagios-Plugins-Hpilo
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:nagios\-plugins\-hpilo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nagios-plugins-hpilo
+  confidence: auto

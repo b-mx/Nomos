@@ -1,0 +1,10 @@
+id: balance-380
+vendor_id: peplink
+name: Balance 380
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:balance_380:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: balance_380
+  confidence: auto

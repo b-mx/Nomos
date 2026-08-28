@@ -1,0 +1,10 @@
+id: d7z36a-firmware
+vendor_id: hp
+name: D7Z36A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:d7z36a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d7z36a_firmware
+  confidence: auto

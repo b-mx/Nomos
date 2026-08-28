@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "perforce--p4web",
+  "vendor_id": "perforce",
+  "product_id": "p4web",
+  "name": "P4Web",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "p4web",
+      "confidence": "auto"
+    }
+  ]
+}

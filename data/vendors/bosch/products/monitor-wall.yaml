@@ -1,0 +1,10 @@
+id: monitor-wall
+vendor_id: bosch
+name: Monitor Wall
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:monitor_wall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: monitor_wall
+  confidence: auto

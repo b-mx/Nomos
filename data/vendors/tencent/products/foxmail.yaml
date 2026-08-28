@@ -1,0 +1,10 @@
+id: foxmail
+vendor_id: tencent
+name: Foxmail
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:foxmail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foxmail
+  confidence: auto

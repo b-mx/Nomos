@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "kindle",
+  "vendor_id": "kindle",
+  "name": "Amazon Kindle",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "kindle",
+      "confidence": "auto"
+    }
+  ]
+}

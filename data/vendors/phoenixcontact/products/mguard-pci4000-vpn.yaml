@@ -1,0 +1,10 @@
+id: mguard-pci4000-vpn
+vendor_id: phoenixcontact
+name: Mguard Pci4000 Vpn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:mguard_pci4000_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_pci4000_vpn
+  confidence: auto

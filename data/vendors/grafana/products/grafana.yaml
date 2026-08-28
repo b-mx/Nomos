@@ -1,0 +1,13 @@
+id: grafana
+vendor_id: grafana
+name: Grafana
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:grafana:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: grafana
+  confidence: auto
+- source: nvd
+  value: grafana
+  confidence: auto

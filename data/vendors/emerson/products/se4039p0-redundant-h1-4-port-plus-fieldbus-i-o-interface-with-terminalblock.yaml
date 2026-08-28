@@ -1,0 +1,10 @@
+id: se4039p0-redundant-h1-4-port-plus-fieldbus-i-o-interface-with-terminalblock
+vendor_id: emerson
+name: Se4039P0 Redundant H1 4-Port Plus Fieldbus I/O Interface With Terminalblock
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:se4039p0_redundant_h1_4\-port_plus_fieldbus_i\/o_interface_with_terminalblock:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se4039p0_redundant_h1_4-port_plus_fieldbus_i/o_interface_with_terminalblock
+  confidence: auto

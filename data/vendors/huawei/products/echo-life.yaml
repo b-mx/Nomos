@@ -1,0 +1,10 @@
+id: echo-life
+vendor_id: huawei
+name: Echo Life
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:echo_life:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echo_life
+  confidence: auto

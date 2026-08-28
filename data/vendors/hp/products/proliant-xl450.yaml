@@ -1,0 +1,10 @@
+id: proliant-xl450
+vendor_id: hp
+name: Proliant Xl450
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_xl450:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_xl450
+  confidence: auto

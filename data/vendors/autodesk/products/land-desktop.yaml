@@ -1,0 +1,10 @@
+id: land-desktop
+vendor_id: autodesk
+name: Land Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:land_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: land_desktop
+  confidence: auto

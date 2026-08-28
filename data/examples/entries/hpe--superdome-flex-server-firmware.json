@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--superdome-flex-server-firmware",
+  "vendor_id": "hpe",
+  "product_id": "superdome-flex-server-firmware",
+  "name": "Superdome Flex Server Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "superdome_flex_server_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

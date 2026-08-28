@@ -1,0 +1,10 @@
+id: nice
+vendor_id: huawei
+name: Nice
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nice
+  confidence: auto

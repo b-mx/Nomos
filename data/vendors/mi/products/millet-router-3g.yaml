@@ -1,0 +1,10 @@
+id: millet-router-3g
+vendor_id: mi
+name: Millet Router 3G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:millet_router_3g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: millet_router_3g
+  confidence: auto

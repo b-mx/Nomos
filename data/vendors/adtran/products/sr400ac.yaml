@@ -1,0 +1,10 @@
+id: sr400ac
+vendor_id: adtran
+name: Sr400Ac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:adtran:sr400ac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sr400ac
+  confidence: auto

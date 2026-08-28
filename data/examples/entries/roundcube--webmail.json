@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "roundcube--webmail",
+  "vendor_id": "roundcube",
+  "product_id": "webmail",
+  "name": "Webmail",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Webmail",
+      "confidence": "auto"
+    }
+  ]
+}

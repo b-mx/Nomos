@@ -1,0 +1,10 @@
+id: dsl705e
+vendor_id: aztech
+name: Dsl705E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aztech:dsl705e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dsl705e
+  confidence: auto

@@ -1,0 +1,10 @@
+id: docucentre-v-3065-firmware
+vendor_id: fujixerox
+name: Docucentre-V 3065 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujixerox:docucentre\-v_3065_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docucentre-v_3065_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: synchro
+vendor_id: bentley
+name: Synchro
+type: software
+tags: []
+cpe: cpe:2.3:a:bentley:synchro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synchro
+  confidence: auto

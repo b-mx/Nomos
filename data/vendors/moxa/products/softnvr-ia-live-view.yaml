@@ -1,0 +1,10 @@
+id: softnvr-ia-live-view
+vendor_id: moxa
+name: Softnvr-Ia Live View
+type: software
+tags: []
+cpe: cpe:2.3:a:moxa:softnvr\-ia_live_view:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softnvr-ia_live_view
+  confidence: auto

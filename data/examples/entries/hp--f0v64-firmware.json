@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--f0v64-firmware",
+  "vendor_id": "hp",
+  "product_id": "f0v64-firmware",
+  "name": "F0V64 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "f0v64_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

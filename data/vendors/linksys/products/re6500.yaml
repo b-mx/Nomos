@@ -1,0 +1,10 @@
+id: re6500
+vendor_id: linksys
+name: Re6500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:re6500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re6500
+  confidence: auto

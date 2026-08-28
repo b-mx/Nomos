@@ -1,0 +1,10 @@
+id: nhl-3fb1
+vendor_id: patlite
+name: Nhl-3Fb1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:patlite:nhl\-3fb1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nhl-3fb1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: network-interface-board-cc-link-ver-2-utility
+vendor_id: mitsubishielectric
+name: Network Interface Board Cc-Link Ver.2 Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:network_interface_board_cc\-link_ver\.2_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_interface_board_cc-link_ver.2_utility
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "red-hat--jboss-application-server",
+  "vendor_id": "red-hat",
+  "product_id": "jboss-application-server",
+  "name": "JBoss Application Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "JBoss Application Server",
+      "confidence": "auto"
+    }
+  ]
+}

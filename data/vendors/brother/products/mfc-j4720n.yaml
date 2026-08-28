@@ -1,0 +1,10 @@
+id: mfc-j4720n
+vendor_id: brother
+name: Mfc-J4720N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-j4720n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-j4720n
+  confidence: auto

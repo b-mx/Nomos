@@ -1,0 +1,10 @@
+id: celsius
+vendor_id: fujitsu
+name: Celsius
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:celsius:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: celsius
+  confidence: auto

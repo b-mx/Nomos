@@ -1,0 +1,10 @@
+id: client-login-extension-cle
+vendor_id: novell
+name: Client Login Extension (Cle)
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:client_login_extension_\(cle\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: client_login_extension_(cle)
+  confidence: auto

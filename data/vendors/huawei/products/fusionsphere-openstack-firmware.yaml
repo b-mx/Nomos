@@ -1,0 +1,10 @@
+id: fusionsphere-openstack-firmware
+vendor_id: huawei
+name: Fusionsphere Openstack Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:fusionsphere_openstack_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionsphere_openstack_firmware
+  confidence: auto

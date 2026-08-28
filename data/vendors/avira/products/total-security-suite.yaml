@@ -1,0 +1,10 @@
+id: total-security-suite
+vendor_id: avira
+name: Total Security Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:total_security_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: total_security_suite
+  confidence: auto

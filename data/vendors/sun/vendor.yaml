@@ -1,0 +1,7 @@
+id: sun
+name: Sun
+cpe: cpe:2.3:*:sun:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sun
+  confidence: auto

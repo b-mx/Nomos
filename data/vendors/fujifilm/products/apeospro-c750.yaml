@@ -1,0 +1,10 @@
+id: apeospro-c750
+vendor_id: fujifilm
+name: Apeospro C750
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeospro_c750:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeospro_c750
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mavic-3-firmware
+vendor_id: dji
+name: Mavic 3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dji:mavic_3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mavic_3_firmware
+  confidence: auto

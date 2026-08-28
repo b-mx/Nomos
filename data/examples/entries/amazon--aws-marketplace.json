@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-marketplace",
+  "vendor_id": "amazon",
+  "product_id": "aws-marketplace",
+  "name": "Aws Marketplace",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws_marketplace",
+      "confidence": "auto"
+    }
+  ]
+}

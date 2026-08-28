@@ -1,0 +1,10 @@
+id: wfs-sr01
+vendor_id: iodata
+name: Wfs-Sr01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:wfs\-sr01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wfs-sr01
+  confidence: auto

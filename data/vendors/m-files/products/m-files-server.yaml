@@ -1,0 +1,10 @@
+id: m-files-server
+vendor_id: m-files
+name: M-Files Server
+type: software
+tags: []
+cpe: cpe:2.3:a:m\-files:m\-files_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m-files_server
+  confidence: auto

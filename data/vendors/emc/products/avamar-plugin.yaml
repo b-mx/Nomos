@@ -1,0 +1,10 @@
+id: avamar-plugin
+vendor_id: emc
+name: Avamar Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:avamar_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avamar_plugin
+  confidence: auto

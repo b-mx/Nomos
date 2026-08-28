@@ -1,0 +1,10 @@
+id: tallyui-connector-medusa
+vendor_id: kilbot
+name: Tallyui/Connector-Medusa
+type: software
+tags: []
+cpe: cpe:2.3:a:kilbot:tallyui\/connector\-medusa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tallyui/connector-medusa
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canon--lbp1440-firmware",
+  "vendor_id": "canon",
+  "product_id": "lbp1440-firmware",
+  "name": "Lbp1440 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lbp1440_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

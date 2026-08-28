@@ -1,0 +1,10 @@
+id: ee40vb-firmware
+vendor_id: ee
+name: Ee40Vb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ee:ee40vb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ee40vb_firmware
+  confidence: auto

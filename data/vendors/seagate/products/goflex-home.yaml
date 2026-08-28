@@ -1,0 +1,10 @@
+id: goflex-home
+vendor_id: seagate
+name: Goflex Home
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seagate:goflex_home:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: goflex_home
+  confidence: auto

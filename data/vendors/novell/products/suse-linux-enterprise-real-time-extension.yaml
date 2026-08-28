@@ -1,0 +1,10 @@
+id: suse-linux-enterprise-real-time-extension
+vendor_id: novell
+name: Suse Linux Enterprise Real Time Extension
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:suse_linux_enterprise_real_time_extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_enterprise_real_time_extension
+  confidence: auto

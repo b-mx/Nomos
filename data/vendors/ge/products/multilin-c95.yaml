@@ -1,0 +1,10 @@
+id: multilin-c95
+vendor_id: ge
+name: Multilin C95
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:multilin_c95:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_c95
+  confidence: auto

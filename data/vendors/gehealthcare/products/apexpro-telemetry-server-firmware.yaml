@@ -1,0 +1,10 @@
+id: apexpro-telemetry-server-firmware
+vendor_id: gehealthcare
+name: Apexpro Telemetry Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:apexpro_telemetry_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apexpro_telemetry_server_firmware
+  confidence: auto

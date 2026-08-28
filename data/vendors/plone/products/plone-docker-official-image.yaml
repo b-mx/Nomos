@@ -1,0 +1,10 @@
+id: plone-docker-official-image
+vendor_id: plone
+name: Plone Docker Official Image
+type: software
+tags: []
+cpe: cpe:2.3:a:plone:plone_docker_official_image:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plone_docker_official_image
+  confidence: auto

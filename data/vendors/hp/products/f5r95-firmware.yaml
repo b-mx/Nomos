@@ -1,0 +1,10 @@
+id: f5r95-firmware
+vendor_id: hp
+name: F5R95 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:f5r95_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f5r95_firmware
+  confidence: auto

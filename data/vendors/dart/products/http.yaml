@@ -1,0 +1,10 @@
+id: http
+vendor_id: dart
+name: Http
+type: software
+tags: []
+cpe: cpe:2.3:a:dart:http:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: http
+  confidence: auto

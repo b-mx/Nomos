@@ -1,0 +1,10 @@
+id: workspace
+vendor_id: devolutions
+name: Workspace
+type: software
+tags: []
+cpe: cpe:2.3:a:devolutions:workspace:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workspace
+  confidence: auto

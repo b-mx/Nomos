@@ -1,0 +1,10 @@
+id: banking-system
+vendor_id: oretnom23
+name: Banking System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:banking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: banking_system
+  confidence: auto

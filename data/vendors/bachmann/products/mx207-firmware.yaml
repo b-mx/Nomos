@@ -1,0 +1,10 @@
+id: mx207-firmware
+vendor_id: bachmann
+name: Mx207 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bachmann:mx207_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx207_firmware
+  confidence: auto

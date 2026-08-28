@@ -1,0 +1,10 @@
+id: echo-dot-firmware
+vendor_id: amazon
+name: Echo Dot Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amazon:echo_dot_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echo_dot_firmware
+  confidence: auto

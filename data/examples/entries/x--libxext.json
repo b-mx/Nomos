@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x--libxext",
+  "vendor_id": "x",
+  "product_id": "libxext",
+  "name": "Libxext",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libxext",
+      "confidence": "auto"
+    }
+  ]
+}

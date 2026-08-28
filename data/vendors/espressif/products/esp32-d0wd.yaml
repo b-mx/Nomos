@@ -1,0 +1,10 @@
+id: esp32-d0wd
+vendor_id: espressif
+name: Esp32-D0Wd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:espressif:esp32\-d0wd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32-d0wd
+  confidence: auto

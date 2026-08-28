@@ -1,0 +1,10 @@
+id: arm-trusted-firmware
+vendor_id: renesas
+name: Arm-Trusted-Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:renesas:arm\-trusted\-firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arm-trusted-firmware
+  confidence: auto

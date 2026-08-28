@@ -1,0 +1,10 @@
+id: cfr-8eaa-firmware
+vendor_id: c-first
+name: Cfr-8Eaa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:c\-first:cfr\-8eaa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cfr-8eaa_firmware
+  confidence: auto

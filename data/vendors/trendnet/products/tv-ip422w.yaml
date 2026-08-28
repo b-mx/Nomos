@@ -1,0 +1,10 @@
+id: tv-ip422w
+vendor_id: trendnet
+name: Tv-Ip422W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tv\-ip422w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv-ip422w
+  confidence: auto

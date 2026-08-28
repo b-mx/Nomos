@@ -1,0 +1,10 @@
+id: visionpass
+vendor_id: idemia
+name: Visionpass
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idemia:visionpass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visionpass
+  confidence: auto

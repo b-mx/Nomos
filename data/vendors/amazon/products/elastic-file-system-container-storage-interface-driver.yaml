@@ -1,0 +1,10 @@
+id: elastic-file-system-container-storage-interface-driver
+vendor_id: amazon
+name: Elastic File System Container Storage Interface Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:elastic_file_system_container_storage_interface_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elastic_file_system_container_storage_interface_driver
+  confidence: auto

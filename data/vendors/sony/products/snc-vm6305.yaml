@@ -1,0 +1,10 @@
+id: snc-vm6305
+vendor_id: sony
+name: Snc-Vm6305
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-vm6305:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-vm6305
+  confidence: auto

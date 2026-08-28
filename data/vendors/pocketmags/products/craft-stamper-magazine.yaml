@@ -1,0 +1,10 @@
+id: craft-stamper-magazine
+vendor_id: pocketmags
+name: Craft Stamper Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:craft_stamper_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: craft_stamper_magazine
+  confidence: auto

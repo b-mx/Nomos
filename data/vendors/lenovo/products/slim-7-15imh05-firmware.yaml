@@ -1,0 +1,10 @@
+id: slim-7-15imh05-firmware
+vendor_id: lenovo
+name: Slim 7-15Imh05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:slim_7\-15imh05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slim_7-15imh05_firmware
+  confidence: auto

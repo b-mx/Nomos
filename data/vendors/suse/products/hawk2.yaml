@@ -1,0 +1,10 @@
+id: hawk2
+vendor_id: suse
+name: Hawk2
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:hawk2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hawk2
+  confidence: auto

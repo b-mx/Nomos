@@ -1,0 +1,10 @@
+id: jetwave-3220
+vendor_id: korenix
+name: Jetwave 3220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetwave_3220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_3220
+  confidence: auto

@@ -1,0 +1,10 @@
+id: epyc-server
+vendor_id: amd
+name: Epyc Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_server
+  confidence: auto

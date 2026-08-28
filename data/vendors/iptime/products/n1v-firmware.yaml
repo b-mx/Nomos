@@ -1,0 +1,10 @@
+id: n1v-firmware
+vendor_id: iptime
+name: N1V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n1v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n1v_firmware
+  confidence: auto

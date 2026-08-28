@@ -1,0 +1,6 @@
+id: windows-server-core
+name: Microsoft Windows Server Core
+aliases:
+- source: endoflife
+  value: windows-server-core
+  confidence: auto

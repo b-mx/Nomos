@@ -1,0 +1,10 @@
+id: clerk-astro
+vendor_id: clerk
+name: Clerk/Astro
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/astro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/astro
+  confidence: auto

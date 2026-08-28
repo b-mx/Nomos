@@ -1,0 +1,10 @@
+id: easybiller
+vendor_id: iscripts
+name: Easybiller
+type: software
+tags: []
+cpe: cpe:2.3:a:iscripts:easybiller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easybiller
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hero-software
+vendor_id: htc
+name: Hero Software
+type: software
+tags: []
+cpe: cpe:2.3:a:htc:hero_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hero_software
+  confidence: auto

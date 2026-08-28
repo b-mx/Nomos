@@ -1,0 +1,10 @@
+id: linux
+vendor_id: codesys
+name: Linux
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:linux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux
+  confidence: auto

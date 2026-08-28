@@ -1,0 +1,10 @@
+id: play-framework
+vendor_id: lightbend
+name: Play Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:lightbend:play_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: play_framework
+  confidence: auto

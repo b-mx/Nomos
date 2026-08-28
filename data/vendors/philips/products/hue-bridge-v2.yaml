@@ -1,0 +1,10 @@
+id: hue-bridge-v2
+vendor_id: philips
+name: Hue Bridge V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:hue_bridge_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hue_bridge_v2
+  confidence: auto

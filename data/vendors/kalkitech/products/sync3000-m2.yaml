@@ -1,0 +1,10 @@
+id: sync3000-m2
+vendor_id: kalkitech
+name: Sync3000-M2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kalkitech:sync3000\-m2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sync3000-m2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: online-bus-reservation-site
+vendor_id: fabian
+name: Online Bus Reservation Site
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_bus_reservation_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_bus_reservation_site
+  confidence: auto

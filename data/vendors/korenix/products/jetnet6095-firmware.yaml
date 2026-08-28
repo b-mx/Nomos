@@ -1,0 +1,10 @@
+id: jetnet6095-firmware
+vendor_id: korenix
+name: Jetnet6095 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetnet6095_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet6095_firmware
+  confidence: auto

@@ -1,0 +1,7 @@
+id: magento
+name: Magento
+cpe: cpe:2.3:*:magento:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magento
+  confidence: auto

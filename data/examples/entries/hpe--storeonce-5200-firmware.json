@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--storeonce-5200-firmware",
+  "vendor_id": "hpe",
+  "product_id": "storeonce-5200-firmware",
+  "name": "Storeonce 5200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storeonce_5200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

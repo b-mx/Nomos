@@ -1,0 +1,10 @@
+id: legion-phone-pro-l79031
+vendor_id: lenovo
+name: Legion Phone Pro (L79031)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_phone_pro_\(l79031\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_phone_pro_(l79031)
+  confidence: auto

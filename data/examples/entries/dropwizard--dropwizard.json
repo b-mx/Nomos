@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "dropwizard--dropwizard",
+  "vendor_id": "dropwizard",
+  "product_id": "dropwizard",
+  "name": "Dropwizard",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "dropwizard",
+      "confidence": "auto"
+    }
+  ]
+}

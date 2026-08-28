@@ -1,0 +1,10 @@
+id: mf910s-firmware
+vendor_id: zte
+name: Mf910S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:mf910s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf910s_firmware
+  confidence: auto

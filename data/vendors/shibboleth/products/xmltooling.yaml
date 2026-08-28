@@ -1,0 +1,10 @@
+id: xmltooling
+vendor_id: shibboleth
+name: Xmltooling
+type: software
+tags: []
+cpe: cpe:2.3:a:shibboleth:xmltooling:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xmltooling
+  confidence: auto

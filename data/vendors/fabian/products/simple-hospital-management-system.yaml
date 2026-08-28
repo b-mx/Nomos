@@ -1,0 +1,10 @@
+id: simple-hospital-management-system
+vendor_id: fabian
+name: Simple Hospital Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_hospital_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_hospital_management_system
+  confidence: auto

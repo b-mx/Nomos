@@ -1,0 +1,10 @@
+id: digital-assets-manager
+vendor_id: emc
+name: Digital Assets Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:digital_assets_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: digital_assets_manager
+  confidence: auto

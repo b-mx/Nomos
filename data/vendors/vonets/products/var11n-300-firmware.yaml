@@ -1,0 +1,10 @@
+id: var11n-300-firmware
+vendor_id: vonets
+name: Var11N-300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vonets:var11n\-300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: var11n-300_firmware
+  confidence: auto

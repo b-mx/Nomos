@@ -1,0 +1,10 @@
+id: hr-v-2017
+vendor_id: honda
+name: Hr-V 2017
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honda:hr\-v_2017:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hr-v_2017
+  confidence: auto

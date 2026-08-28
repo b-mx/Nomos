@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "opnsense",
+  "vendor_id": "opnsense",
+  "name": "Opnsense",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opnsense",
+      "confidence": "auto"
+    }
+  ]
+}

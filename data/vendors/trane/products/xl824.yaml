@@ -1,0 +1,10 @@
+id: xl824
+vendor_id: trane
+name: Xl824
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trane:xl824:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xl824
+  confidence: auto

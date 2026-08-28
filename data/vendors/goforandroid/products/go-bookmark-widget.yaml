@@ -1,0 +1,10 @@
+id: go-bookmark-widget
+vendor_id: goforandroid
+name: Go Bookmark Widget
+type: software
+tags: []
+cpe: cpe:2.3:a:goforandroid:go_bookmark_widget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_bookmark_widget
+  confidence: auto

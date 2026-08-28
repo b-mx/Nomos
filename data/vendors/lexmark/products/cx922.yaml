@@ -1,0 +1,10 @@
+id: cx922
+vendor_id: lexmark
+name: Cx922
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx922:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx922
+  confidence: auto

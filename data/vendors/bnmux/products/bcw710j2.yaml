@@ -1,0 +1,10 @@
+id: bcw710j2
+vendor_id: bnmux
+name: Bcw710J2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bnmux:bcw710j2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcw710j2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: b315s-22-firmware
+vendor_id: huawei
+name: B315S-22 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:b315s\-22_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b315s-22_firmware
+  confidence: auto

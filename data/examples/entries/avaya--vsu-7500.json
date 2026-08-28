@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--vsu-7500",
+  "vendor_id": "avaya",
+  "product_id": "vsu-7500",
+  "name": "Vsu 7500",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vsu_7500",
+      "confidence": "auto"
+    }
+  ]
+}

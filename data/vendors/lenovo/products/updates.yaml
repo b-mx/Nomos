@@ -1,0 +1,10 @@
+id: updates
+vendor_id: lenovo
+name: Updates
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:updates:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: updates
+  confidence: auto

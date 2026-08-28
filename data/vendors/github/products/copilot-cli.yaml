@@ -1,0 +1,10 @@
+id: copilot-cli
+vendor_id: github
+name: Copilot-Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:github:copilot\-cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: copilot-cli
+  confidence: auto

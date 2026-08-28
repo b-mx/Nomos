@@ -1,0 +1,10 @@
+id: paragon
+vendor_id: axiomthemes
+name: Paragon
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:paragon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paragon
+  confidence: auto

@@ -1,0 +1,10 @@
+id: er3260g2
+vendor_id: h3c
+name: Er3260G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:er3260g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er3260g2
+  confidence: auto

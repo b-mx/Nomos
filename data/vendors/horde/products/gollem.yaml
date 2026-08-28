@@ -1,0 +1,10 @@
+id: gollem
+vendor_id: horde
+name: Gollem
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:gollem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gollem
+  confidence: auto

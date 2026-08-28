@@ -1,0 +1,10 @@
+id: meals-and-wheels-food-truck
+vendor_id: themerex
+name: Meals And Wheels-Food Truck
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:meals_and_wheels\-food_truck:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meals_and_wheels-food_truck
+  confidence: auto

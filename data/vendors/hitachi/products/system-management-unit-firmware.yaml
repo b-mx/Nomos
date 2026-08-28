@@ -1,0 +1,10 @@
+id: system-management-unit-firmware
+vendor_id: hitachi
+name: System Management Unit Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitachi:system_management_unit_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_management_unit_firmware
+  confidence: auto

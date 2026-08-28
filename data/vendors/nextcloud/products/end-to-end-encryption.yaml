@@ -1,0 +1,10 @@
+id: end-to-end-encryption
+vendor_id: nextcloud
+name: End-To-End Encryption
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:end\-to\-end_encryption:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: end-to-end_encryption
+  confidence: auto

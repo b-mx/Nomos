@@ -1,0 +1,10 @@
+id: prifnw2ac
+vendor_id: epson
+name: Prifnw2Ac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:prifnw2ac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prifnw2ac
+  confidence: auto

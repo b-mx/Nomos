@@ -1,0 +1,10 @@
+id: epsonnet-setupmanager
+vendor_id: epson
+name: Epsonnet Setupmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:epsonnet_setupmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epsonnet_setupmanager
+  confidence: auto

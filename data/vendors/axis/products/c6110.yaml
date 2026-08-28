@@ -1,0 +1,10 @@
+id: c6110
+vendor_id: axis
+name: C6110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:c6110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c6110
+  confidence: auto

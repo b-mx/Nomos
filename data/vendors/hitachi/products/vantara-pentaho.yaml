@@ -1,0 +1,10 @@
+id: vantara-pentaho
+vendor_id: hitachi
+name: Vantara Pentaho
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:vantara_pentaho:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vantara_pentaho
+  confidence: auto

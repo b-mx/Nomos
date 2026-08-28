@@ -1,0 +1,10 @@
+id: s5300li
+vendor_id: huawei
+name: S5300Li
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s5300li:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5300li
+  confidence: auto

@@ -1,0 +1,10 @@
+id: d60-line-distance-relay
+vendor_id: ge
+name: D60 Line Distance Relay
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:d60_line_distance_relay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d60_line_distance_relay
+  confidence: auto

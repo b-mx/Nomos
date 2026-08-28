@@ -1,0 +1,10 @@
+id: inventory-collect-tool
+vendor_id: netapp
+name: Inventory Collect Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:inventory_collect_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inventory_collect_tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: docuprint-cp-555-d
+vendor_id: fujixerox
+name: Docuprint Cp 555 D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujixerox:docuprint_cp_555_d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_cp_555_d
+  confidence: auto

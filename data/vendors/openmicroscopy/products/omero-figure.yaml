@@ -1,0 +1,10 @@
+id: omero-figure
+vendor_id: openmicroscopy
+name: Omero-Figure
+type: software
+tags: []
+cpe: cpe:2.3:a:openmicroscopy:omero\-figure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omero-figure
+  confidence: auto

@@ -1,0 +1,10 @@
+id: auth0-net
+vendor_id: auth0
+name: Auth0.Net
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:auth0\.net:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: auth0.net
+  confidence: auto

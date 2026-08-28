@@ -1,0 +1,10 @@
+id: laserjet-m104-g3q37a-firmware
+vendor_id: hp
+name: Laserjet M104 G3Q37A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_m104_g3q37a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m104_g3q37a_firmware
+  confidence: auto

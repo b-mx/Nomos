@@ -1,0 +1,10 @@
+id: vsn300-firmware
+vendor_id: abb
+name: Vsn300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:vsn300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsn300_firmware
+  confidence: auto

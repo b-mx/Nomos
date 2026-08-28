@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canon--eos-rp-gold-firmware",
+  "vendor_id": "canon",
+  "product_id": "eos-rp-gold-firmware",
+  "name": "Eos Rp Gold Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eos_rp_gold_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

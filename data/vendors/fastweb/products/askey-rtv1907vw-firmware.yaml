@@ -1,0 +1,10 @@
+id: askey-rtv1907vw-firmware
+vendor_id: fastweb
+name: Askey Rtv1907Vw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fastweb:askey_rtv1907vw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: askey_rtv1907vw_firmware
+  confidence: auto

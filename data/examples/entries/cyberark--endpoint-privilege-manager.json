@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cyberark--endpoint-privilege-manager",
+  "vendor_id": "cyberark",
+  "product_id": "endpoint-privilege-manager",
+  "name": "Endpoint Privilege Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "endpoint_privilege_manager",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+id: espressif
+name: Espressif
+cpe: cpe:2.3:*:espressif:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espressif
+  confidence: auto

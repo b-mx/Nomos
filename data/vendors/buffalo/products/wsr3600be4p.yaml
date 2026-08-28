@@ -1,0 +1,10 @@
+id: wsr3600be4p
+vendor_id: buffalo
+name: Wsr3600Be4P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wsr3600be4p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wsr3600be4p
+  confidence: auto

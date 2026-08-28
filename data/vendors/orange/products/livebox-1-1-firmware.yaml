@@ -1,0 +1,10 @@
+id: livebox-1-1-firmware
+vendor_id: orange
+name: Livebox 1.1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:orange:livebox_1\.1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: livebox_1.1_firmware
+  confidence: auto

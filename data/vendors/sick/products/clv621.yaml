@@ -1,0 +1,10 @@
+id: clv621
+vendor_id: sick
+name: Clv621
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:clv621:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clv621
+  confidence: auto

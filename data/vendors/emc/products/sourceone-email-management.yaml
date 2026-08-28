@@ -1,0 +1,10 @@
+id: sourceone-email-management
+vendor_id: emc
+name: Sourceone Email Management
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:sourceone_email_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sourceone_email_management
+  confidence: auto

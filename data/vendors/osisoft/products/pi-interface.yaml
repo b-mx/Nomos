@@ -1,0 +1,10 @@
+id: pi-interface
+vendor_id: osisoft
+name: Pi Interface
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_interface
+  confidence: auto

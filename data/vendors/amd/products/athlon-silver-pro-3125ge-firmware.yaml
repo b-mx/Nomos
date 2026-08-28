@@ -1,0 +1,10 @@
+id: athlon-silver-pro-3125ge-firmware
+vendor_id: amd
+name: Athlon Silver Pro 3125Ge Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:athlon_silver_pro_3125ge_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_silver_pro_3125ge_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: etx-r-firmware
+vendor_id: iodata
+name: Etx-R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:etx\-r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: etx-r_firmware
+  confidence: auto

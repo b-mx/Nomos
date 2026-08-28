@@ -1,0 +1,10 @@
+id: w1a75a
+vendor_id: hp
+name: W1A75A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:w1a75a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1a75a
+  confidence: auto

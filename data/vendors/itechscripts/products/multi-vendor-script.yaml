@@ -1,0 +1,10 @@
+id: multi-vendor-script
+vendor_id: itechscripts
+name: Multi Vendor Script
+type: software
+tags: []
+cpe: cpe:2.3:a:itechscripts:multi_vendor_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multi_vendor_script
+  confidence: auto

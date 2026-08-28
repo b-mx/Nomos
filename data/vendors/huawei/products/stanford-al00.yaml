@@ -1,0 +1,10 @@
+id: stanford-al00
+vendor_id: huawei
+name: Stanford-Al00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:stanford\-al00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stanford-al00
+  confidence: auto

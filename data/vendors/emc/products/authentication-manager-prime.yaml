@@ -1,0 +1,10 @@
+id: authentication-manager-prime
+vendor_id: emc
+name: Authentication Manager Prime
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:authentication_manager_prime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: authentication_manager_prime
+  confidence: auto

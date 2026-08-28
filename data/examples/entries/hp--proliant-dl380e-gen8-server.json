@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-dl380e-gen8-server",
+  "vendor_id": "hp",
+  "product_id": "proliant-dl380e-gen8-server",
+  "name": "Proliant Dl380E Gen8 Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_dl380e_gen8_server",
+      "confidence": "auto"
+    }
+  ]
+}

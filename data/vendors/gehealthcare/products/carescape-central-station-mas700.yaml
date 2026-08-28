@@ -1,0 +1,10 @@
+id: carescape-central-station-mas700
+vendor_id: gehealthcare
+name: Carescape Central Station Mas700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:carescape_central_station_mas700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carescape_central_station_mas700
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sr-m-50ap1-firmware
+vendor_id: fujitsu
+name: Sr-M 50Ap1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:sr\-m_50ap1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sr-m_50ap1_firmware
+  confidence: auto

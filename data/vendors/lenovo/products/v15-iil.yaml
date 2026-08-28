@@ -1,0 +1,10 @@
+id: v15-iil
+vendor_id: lenovo
+name: V15-Iil
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v15\-iil:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v15-iil
+  confidence: auto

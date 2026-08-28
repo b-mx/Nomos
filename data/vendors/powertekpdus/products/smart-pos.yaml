@@ -1,0 +1,10 @@
+id: smart-pos
+vendor_id: powertekpdus
+name: Smart Pos
+type: hardware
+tags: []
+cpe: cpe:2.3:h:powertekpdus:smart_pos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_pos
+  confidence: auto

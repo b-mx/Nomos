@@ -1,0 +1,10 @@
+id: jc635a
+vendor_id: hp
+name: Jc635A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc635a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc635a
+  confidence: auto

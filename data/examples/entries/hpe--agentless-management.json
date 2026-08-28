@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--agentless-management",
+  "vendor_id": "hpe",
+  "product_id": "agentless-management",
+  "name": "Agentless Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "agentless_management",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: realsecure-desktop
+vendor_id: iss
+name: Realsecure Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:iss:realsecure_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realsecure_desktop
+  confidence: auto

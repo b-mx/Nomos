@@ -1,0 +1,10 @@
+id: pni800-firmware
+vendor_id: abb
+name: Pni800 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:pni800_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pni800_firmware
+  confidence: auto

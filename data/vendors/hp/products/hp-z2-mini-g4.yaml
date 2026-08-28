@@ -1,0 +1,10 @@
+id: hp-z2-mini-g4
+vendor_id: hp
+name: Hp Z2 Mini G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_z2_mini_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_z2_mini_g4
+  confidence: auto

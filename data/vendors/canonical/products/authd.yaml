@@ -1,0 +1,10 @@
+id: authd
+vendor_id: canonical
+name: Authd
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:authd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: authd
+  confidence: auto

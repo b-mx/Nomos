@@ -1,0 +1,10 @@
+id: n7004ns-firmware
+vendor_id: iptime
+name: N7004Ns Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n7004ns_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n7004ns_firmware
+  confidence: auto

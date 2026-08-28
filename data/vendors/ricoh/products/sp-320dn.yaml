@@ -1,0 +1,10 @@
+id: sp-320dn
+vendor_id: ricoh
+name: Sp 320Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_320dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_320dn
+  confidence: auto

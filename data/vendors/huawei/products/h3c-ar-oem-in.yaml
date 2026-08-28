@@ -1,0 +1,10 @@
+id: h3c-ar-oem-in
+vendor_id: huawei
+name: H3C Ar(Oem In)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:h3c_ar\(oem_in\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h3c_ar(oem_in)
+  confidence: auto

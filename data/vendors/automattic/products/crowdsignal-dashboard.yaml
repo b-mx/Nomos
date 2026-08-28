@@ -1,0 +1,10 @@
+id: crowdsignal-dashboard
+vendor_id: automattic
+name: Crowdsignal Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:crowdsignal_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crowdsignal_dashboard
+  confidence: auto

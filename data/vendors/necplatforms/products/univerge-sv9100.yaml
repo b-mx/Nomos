@@ -1,0 +1,10 @@
+id: univerge-sv9100
+vendor_id: necplatforms
+name: Univerge Sv9100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:necplatforms:univerge_sv9100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: univerge_sv9100
+  confidence: auto

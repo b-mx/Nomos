@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "entrust--nshield-hsmi",
+  "vendor_id": "entrust",
+  "product_id": "nshield-hsmi",
+  "name": "Nshield Hsmi",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nshield_hsmi",
+      "confidence": "auto"
+    }
+  ]
+}

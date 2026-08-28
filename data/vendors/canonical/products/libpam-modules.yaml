@@ -1,0 +1,10 @@
+id: libpam-modules
+vendor_id: canonical
+name: Libpam-Modules
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:libpam\-modules:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libpam-modules
+  confidence: auto

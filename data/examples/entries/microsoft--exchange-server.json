@@ -3,36 +3,16 @@
   "slug": "microsoft--exchange-server",
   "vendor_id": "microsoft",
   "product_id": "exchange-server",
-  "name": "Microsoft Exchange Server",
+  "name": "Exchange Server",
   "type": "software",
-  "tags": [
-    "collaboration-tool"
-  ],
-  "icon": "logos:microsoft-icon",
-  "services": [
-    {
-      "protocol": "tcp",
-      "port": 443,
-      "name": "https",
-      "default": true
-    },
-    {
-      "protocol": "tcp",
-      "port": 25,
-      "name": "smtp",
-      "default": false
-    }
-  ],
+  "tags": [],
+  "icon": null,
+  "services": [],
   "aliases": [
     {
-      "source": "nvd",
-      "value": "exchange_server",
-      "confidence": "curated"
-    },
-    {
       "source": "cisa_kev",
-      "value": "Microsoft Exchange Server",
-      "confidence": "curated"
+      "value": "Exchange Server",
+      "confidence": "auto"
     }
   ]
 }

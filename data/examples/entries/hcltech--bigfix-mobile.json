@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hcltech--bigfix-mobile",
+  "vendor_id": "hcltech",
+  "product_id": "bigfix-mobile",
+  "name": "Bigfix Mobile",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bigfix_mobile",
+      "confidence": "auto"
+    }
+  ]
+}

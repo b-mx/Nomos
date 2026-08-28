@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "automattic--woocommerce-blocks",
+  "vendor_id": "automattic",
+  "product_id": "woocommerce-blocks",
+  "name": "Woocommerce Blocks",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "woocommerce_blocks",
+      "confidence": "auto"
+    }
+  ]
+}

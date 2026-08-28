@@ -1,0 +1,10 @@
+id: nbm365
+vendor_id: ui
+name: Nbm365
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:nbm365:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbm365
+  confidence: auto

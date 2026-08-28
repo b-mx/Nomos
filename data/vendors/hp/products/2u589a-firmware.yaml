@@ -1,0 +1,10 @@
+id: 2u589a-firmware
+vendor_id: hp
+name: 2U589A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:2u589a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2u589a_firmware
+  confidence: auto

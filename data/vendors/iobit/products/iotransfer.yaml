@@ -1,0 +1,10 @@
+id: iotransfer
+vendor_id: iobit
+name: Iotransfer
+type: software
+tags: []
+cpe: cpe:2.3:a:iobit:iotransfer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iotransfer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: clickshare-csc-1
+vendor_id: barco
+name: Clickshare Csc-1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:barco:clickshare_csc\-1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clickshare_csc-1
+  confidence: auto

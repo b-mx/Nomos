@@ -1,0 +1,10 @@
+id: controledge-rtu
+vendor_id: honeywell
+name: Controledge Rtu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:controledge_rtu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controledge_rtu
+  confidence: auto

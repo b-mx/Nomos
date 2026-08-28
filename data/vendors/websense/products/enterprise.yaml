@@ -1,0 +1,10 @@
+id: enterprise
+vendor_id: websense
+name: Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:websense:enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise
+  confidence: auto

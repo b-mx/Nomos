@@ -1,0 +1,10 @@
+id: ap-303
+vendor_id: arubanetworks
+name: Ap-303
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-303:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-303
+  confidence: auto

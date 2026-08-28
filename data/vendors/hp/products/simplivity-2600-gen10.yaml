@@ -1,0 +1,10 @@
+id: simplivity-2600-gen10
+vendor_id: hp
+name: Simplivity 2600 Gen10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:simplivity_2600_gen10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplivity_2600_gen10
+  confidence: auto

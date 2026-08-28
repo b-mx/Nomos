@@ -1,0 +1,10 @@
+id: iris-88-lite
+vendor_id: lavamobiles
+name: Iris 88 Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lavamobiles:iris_88_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iris_88_lite
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dhcp
+vendor_id: isc
+name: Dhcp
+type: software
+tags: []
+cpe: cpe:2.3:a:isc:dhcp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dhcp
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sns-smc--sns-smc",
+  "vendor_id": "sns-smc",
+  "product_id": "sns-smc",
+  "name": "Stormshield Management Center",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "sns-smc",
+      "confidence": "auto"
+    }
+  ]
+}

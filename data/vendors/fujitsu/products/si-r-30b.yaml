@@ -1,0 +1,10 @@
+id: si-r-30b
+vendor_id: fujitsu
+name: Si-R 30B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:si\-r_30b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: si-r_30b
+  confidence: auto

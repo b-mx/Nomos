@@ -1,0 +1,10 @@
+id: p0-router
+vendor_id: '360'
+name: P0 Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:360:p0_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p0_router
+  confidence: auto

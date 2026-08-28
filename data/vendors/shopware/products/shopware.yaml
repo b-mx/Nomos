@@ -1,0 +1,13 @@
+id: shopware
+vendor_id: shopware
+name: Shopware
+type: software
+tags: []
+cpe: cpe:2.3:a:shopware:shopware:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: shopware
+  confidence: auto
+- source: nvd
+  value: shopware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: business-nas
+vendor_id: seagate
+name: Business Nas
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seagate:business_nas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_nas
+  confidence: auto

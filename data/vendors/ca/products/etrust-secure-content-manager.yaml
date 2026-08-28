@@ -1,0 +1,10 @@
+id: etrust-secure-content-manager
+vendor_id: ca
+name: Etrust Secure Content Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:ca:etrust_secure_content_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: etrust_secure_content_manager
+  confidence: auto

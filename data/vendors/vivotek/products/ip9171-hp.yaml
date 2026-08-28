@@ -1,0 +1,10 @@
+id: ip9171-hp
+vendor_id: vivotek
+name: Ip9171-Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ip9171\-hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip9171-hp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: b4l03-firmware
+vendor_id: hp
+name: B4L03 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:b4l03_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b4l03_firmware
+  confidence: auto

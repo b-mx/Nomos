@@ -1,0 +1,10 @@
+id: cifs-server
+vendor_id: hp
+name: Cifs Server
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:cifs_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cifs_server
+  confidence: auto

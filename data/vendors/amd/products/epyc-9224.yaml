@@ -1,0 +1,10 @@
+id: epyc-9224
+vendor_id: amd
+name: Epyc 9224
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_9224:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_9224
+  confidence: auto

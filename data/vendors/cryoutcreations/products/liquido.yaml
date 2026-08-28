@@ -1,0 +1,10 @@
+id: liquido
+vendor_id: cryoutcreations
+name: Liquido
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:liquido:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: liquido
+  confidence: auto

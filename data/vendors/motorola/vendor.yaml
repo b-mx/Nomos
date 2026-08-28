@@ -1,0 +1,7 @@
+id: motorola
+name: Motorola
+cpe: cpe:2.3:*:motorola:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: motorola
+  confidence: auto

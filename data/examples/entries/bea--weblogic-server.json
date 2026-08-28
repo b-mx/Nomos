@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bea--weblogic-server",
+  "vendor_id": "bea",
+  "product_id": "weblogic-server",
+  "name": "Weblogic Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "weblogic_server",
+      "confidence": "auto"
+    }
+  ]
+}

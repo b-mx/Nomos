@@ -1,0 +1,10 @@
+id: passport
+vendor_id: digi
+name: Passport
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:passport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: passport
+  confidence: auto

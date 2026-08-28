@@ -1,0 +1,10 @@
+id: jc701a
+vendor_id: hp
+name: Jc701A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc701a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc701a
+  confidence: auto

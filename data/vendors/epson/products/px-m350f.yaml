@@ -1,0 +1,10 @@
+id: px-m350f
+vendor_id: epson
+name: Px-M350F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-m350f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-m350f
+  confidence: auto

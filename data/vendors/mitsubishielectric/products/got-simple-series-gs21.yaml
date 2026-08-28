@@ -1,0 +1,10 @@
+id: got-simple-series-gs21
+vendor_id: mitsubishielectric
+name: Got Simple Series Gs21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:got_simple_series_gs21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: got_simple_series_gs21
+  confidence: auto

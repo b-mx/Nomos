@@ -1,0 +1,10 @@
+id: arrows-me-f-11d
+vendor_id: fujitsu
+name: Arrows Me F-11D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:arrows_me_f\-11d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arrows_me_f-11d
+  confidence: auto

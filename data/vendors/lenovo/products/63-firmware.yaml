@@ -1,0 +1,10 @@
+id: 63-firmware
+vendor_id: lenovo
+name: 63 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:63_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 63_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nvr500
+vendor_id: yamaha
+name: Nvr500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:nvr500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nvr500
+  confidence: auto

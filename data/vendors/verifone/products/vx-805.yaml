@@ -1,0 +1,10 @@
+id: vx-805
+vendor_id: verifone
+name: Vx 805
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verifone:vx_805:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx_805
+  confidence: auto

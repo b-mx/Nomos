@@ -1,0 +1,10 @@
+id: c772
+vendor_id: lexmark
+name: C772
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c772:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c772
+  confidence: auto

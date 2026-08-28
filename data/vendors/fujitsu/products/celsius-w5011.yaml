@@ -1,0 +1,10 @@
+id: celsius-w5011
+vendor_id: fujitsu
+name: Celsius W5011
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:celsius_w5011:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: celsius_w5011
+  confidence: auto

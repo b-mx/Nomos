@@ -1,0 +1,10 @@
+id: link2
+vendor_id: epson
+name: Link2
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:link2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: link2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: f4-snc
+vendor_id: johnsoncontrols
+name: F4-Snc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:f4\-snc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f4-snc
+  confidence: auto

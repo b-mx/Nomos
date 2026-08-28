@@ -1,0 +1,10 @@
+id: easy-dvd-creator
+vendor_id: ether-software
+name: Easy Dvd Creator
+type: software
+tags: []
+cpe: cpe:2.3:a:ether_software:easy_dvd_creator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_dvd_creator
+  confidence: auto

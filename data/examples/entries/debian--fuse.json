@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--fuse",
+  "vendor_id": "debian",
+  "product_id": "fuse",
+  "name": "Fuse",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fuse",
+      "confidence": "auto"
+    }
+  ]
+}

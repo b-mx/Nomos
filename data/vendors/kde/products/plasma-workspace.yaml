@@ -1,0 +1,10 @@
+id: plasma-workspace
+vendor_id: kde
+name: Plasma-Workspace
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:plasma\-workspace:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plasma-workspace
+  confidence: auto

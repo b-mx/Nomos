@@ -1,0 +1,10 @@
+id: 2920-firmware
+vendor_id: arubanetworks
+name: 2920 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:2920_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2920_firmware
+  confidence: auto

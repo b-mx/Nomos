@@ -1,0 +1,10 @@
+id: fd8382-evf2-firmware
+vendor_id: vivotek
+name: Fd8382-Evf2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fd8382\-evf2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd8382-evf2_firmware
+  confidence: auto

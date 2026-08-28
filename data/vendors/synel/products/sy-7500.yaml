@@ -1,0 +1,10 @@
+id: sy-7500
+vendor_id: synel
+name: Sy-7500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synel:sy\-7500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sy-7500
+  confidence: auto

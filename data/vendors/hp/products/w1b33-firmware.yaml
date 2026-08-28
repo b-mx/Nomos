@@ -1,0 +1,10 @@
+id: w1b33-firmware
+vendor_id: hp
+name: W1B33 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:w1b33_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1b33_firmware
+  confidence: auto

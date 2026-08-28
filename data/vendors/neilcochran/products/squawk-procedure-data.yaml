@@ -1,0 +1,10 @@
+id: squawk-procedure-data
+vendor_id: neilcochran
+name: Squawk/Procedure-Data
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/procedure\-data:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/procedure-data
+  confidence: auto

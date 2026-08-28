@@ -1,0 +1,10 @@
+id: thinksystem-sr645-v3
+vendor_id: lenovo
+name: Thinksystem Sr645 V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_sr645_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_sr645_v3
+  confidence: auto

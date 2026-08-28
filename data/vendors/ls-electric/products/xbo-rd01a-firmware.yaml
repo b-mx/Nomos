@@ -1,0 +1,10 @@
+id: xbo-rd01a-firmware
+vendor_id: ls-electric
+name: Xbo-Rd01A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbo\-rd01a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbo-rd01a_firmware
+  confidence: auto

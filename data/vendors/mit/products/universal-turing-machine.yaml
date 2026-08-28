@@ -1,0 +1,10 @@
+id: universal-turing-machine
+vendor_id: mit
+name: Universal Turing Machine
+type: software
+tags: []
+cpe: cpe:2.3:a:mit:universal_turing_machine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_turing_machine
+  confidence: auto

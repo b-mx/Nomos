@@ -1,0 +1,6 @@
+id: renovate
+name: Renovate CLI
+aliases:
+- source: endoflife
+  value: renovate
+  confidence: auto

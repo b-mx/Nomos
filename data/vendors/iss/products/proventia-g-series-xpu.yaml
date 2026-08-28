@@ -1,0 +1,10 @@
+id: proventia-g-series-xpu
+vendor_id: iss
+name: Proventia G Series Xpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iss:proventia_g_series_xpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proventia_g_series_xpu
+  confidence: auto

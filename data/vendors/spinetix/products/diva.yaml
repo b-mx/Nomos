@@ -1,0 +1,10 @@
+id: diva
+vendor_id: spinetix
+name: Diva
+type: hardware
+tags: []
+cpe: cpe:2.3:h:spinetix:diva:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diva
+  confidence: auto

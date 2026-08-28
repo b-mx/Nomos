@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--c9x299-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "c9x299-firmware",
+  "name": "C9X299 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c9x299_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

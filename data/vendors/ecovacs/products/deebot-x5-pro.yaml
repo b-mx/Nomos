@@ -1,0 +1,10 @@
+id: deebot-x5-pro
+vendor_id: ecovacs
+name: Deebot X5 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_x5_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_x5_pro
+  confidence: auto

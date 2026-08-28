@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phillips--hue-bridge-firmware",
+  "vendor_id": "phillips",
+  "product_id": "hue-bridge-firmware",
+  "name": "Hue Bridge Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hue_bridge_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

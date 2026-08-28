@@ -1,0 +1,10 @@
+id: basic-mk2
+vendor_id: tattile
+name: Basic Mk2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tattile:basic_mk2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: basic_mk2
+  confidence: auto

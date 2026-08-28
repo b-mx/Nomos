@@ -1,0 +1,10 @@
+id: hdx-8004
+vendor_id: polycom
+name: Hdx 8004
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:hdx_8004:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdx_8004
+  confidence: auto

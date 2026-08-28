@@ -1,0 +1,10 @@
+id: centum-vp-software
+vendor_id: yokogawa
+name: Centum Vp Software
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:centum_vp_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centum_vp_software
+  confidence: auto

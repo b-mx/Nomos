@@ -1,0 +1,10 @@
+id: storeever-msl6480-tape-library-firmware
+vendor_id: hp
+name: Storeever Msl6480 Tape Library Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:storeever_msl6480_tape_library_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeever_msl6480_tape_library_firmware
+  confidence: auto

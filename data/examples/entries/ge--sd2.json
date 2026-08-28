@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--sd2",
+  "vendor_id": "ge",
+  "product_id": "sd2",
+  "name": "Sd2",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sd2",
+      "confidence": "auto"
+    }
+  ]
+}

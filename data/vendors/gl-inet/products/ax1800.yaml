@@ -1,0 +1,10 @@
+id: ax1800
+vendor_id: gl-inet
+name: Ax1800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:ax1800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax1800
+  confidence: auto

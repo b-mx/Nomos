@@ -1,0 +1,10 @@
+id: smartos
+vendor_id: joyent
+name: Smartos
+type: os
+tags: []
+cpe: cpe:2.3:o:joyent:smartos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartos
+  confidence: auto

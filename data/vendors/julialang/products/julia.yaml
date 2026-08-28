@@ -1,0 +1,13 @@
+id: julia
+vendor_id: julialang
+name: Julia
+type: library
+tags: []
+cpe: cpe:2.3:a:julialang:julia:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: julia
+  confidence: auto
+- source: nvd
+  value: julia
+  confidence: auto

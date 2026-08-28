@@ -1,0 +1,10 @@
+id: anti-ransomware-tool
+vendor_id: kaspersky
+name: Anti-Ransomware Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:anti\-ransomware_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anti-ransomware_tool
+  confidence: auto

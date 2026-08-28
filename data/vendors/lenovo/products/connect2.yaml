@@ -1,0 +1,10 @@
+id: connect2
+vendor_id: lenovo
+name: Connect2
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:connect2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect2
+  confidence: auto

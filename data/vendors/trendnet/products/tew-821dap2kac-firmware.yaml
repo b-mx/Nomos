@@ -1,0 +1,10 @@
+id: tew-821dap2kac-firmware
+vendor_id: trendnet
+name: Tew-821Dap2Kac Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:tew\-821dap2kac_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tew-821dap2kac_firmware
+  confidence: auto

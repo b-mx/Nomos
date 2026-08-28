@@ -1,0 +1,10 @@
+id: documentum-administrator
+vendor_id: emc
+name: Documentum Administrator
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_administrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_administrator
+  confidence: auto

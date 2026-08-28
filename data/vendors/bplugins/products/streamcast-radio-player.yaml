@@ -1,0 +1,10 @@
+id: streamcast-radio-player
+vendor_id: bplugins
+name: Streamcast Radio Player
+type: software
+tags: []
+cpe: cpe:2.3:a:bplugins:streamcast_radio_player:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: streamcast_radio_player
+  confidence: auto

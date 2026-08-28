@@ -1,0 +1,10 @@
+id: rsg35
+vendor_id: endress
+name: Rsg35
+type: hardware
+tags: []
+cpe: cpe:2.3:h:endress:rsg35:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsg35
+  confidence: auto

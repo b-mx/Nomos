@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x9dbl-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x9dbl-firmware",
+  "name": "X9Dbl Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x9dbl_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: je015a
+vendor_id: hp
+name: Je015A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je015a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je015a
+  confidence: auto

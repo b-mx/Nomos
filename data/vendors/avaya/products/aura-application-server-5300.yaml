@@ -1,0 +1,10 @@
+id: aura-application-server-5300
+vendor_id: avaya
+name: Aura Application Server 5300
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura_application_server_5300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_application_server_5300
+  confidence: auto

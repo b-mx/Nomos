@@ -1,0 +1,10 @@
+id: gr-1800ax
+vendor_id: h3c
+name: Gr-1800Ax
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:gr\-1800ax:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gr-1800ax
+  confidence: auto

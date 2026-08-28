@@ -1,0 +1,10 @@
+id: hdz302lik-firmware
+vendor_id: honeywell
+name: Hdz302Lik Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hdz302lik_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdz302lik_firmware
+  confidence: auto

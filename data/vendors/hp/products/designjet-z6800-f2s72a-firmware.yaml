@@ -1,0 +1,10 @@
+id: designjet-z6800-f2s72a-firmware
+vendor_id: hp
+name: Designjet Z6800 F2S72A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:designjet_z6800_f2s72a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z6800_f2s72a_firmware
+  confidence: auto

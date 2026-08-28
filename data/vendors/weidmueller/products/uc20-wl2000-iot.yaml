@@ -1,0 +1,10 @@
+id: uc20-wl2000-iot
+vendor_id: weidmueller
+name: Uc20-Wl2000-Iot
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weidmueller:uc20\-wl2000\-iot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc20-wl2000-iot
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-mfp-m139e-2u589e
+vendor_id: hp
+name: Laserjet Mfp M139E 2U589E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m139e_2u589e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m139e_2u589e
+  confidence: auto

@@ -1,0 +1,10 @@
+id: n704-a3
+vendor_id: iptime
+name: N704-A3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:n704\-a3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n704-a3
+  confidence: auto

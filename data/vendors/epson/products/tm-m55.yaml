@@ -1,0 +1,10 @@
+id: tm-m55
+vendor_id: epson
+name: Tm-M55
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-m55:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-m55
+  confidence: auto

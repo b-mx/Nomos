@@ -1,0 +1,10 @@
+id: xg5000
+vendor_id: ls-electric
+name: Xg5000
+type: software
+tags: []
+cpe: cpe:2.3:a:ls\-electric:xg5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xg5000
+  confidence: auto

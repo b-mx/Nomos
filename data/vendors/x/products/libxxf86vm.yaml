@@ -1,0 +1,10 @@
+id: libxxf86vm
+vendor_id: x
+name: Libxxf86Vm
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxxf86vm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxxf86vm
+  confidence: auto

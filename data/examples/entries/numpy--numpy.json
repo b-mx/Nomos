@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "numpy--numpy",
+  "vendor_id": "numpy",
+  "product_id": "numpy",
+  "name": "NumPy",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "numpy",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "numpy",
+      "confidence": "auto"
+    }
+  ]
+}

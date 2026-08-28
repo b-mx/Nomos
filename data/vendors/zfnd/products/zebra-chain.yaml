@@ -1,0 +1,10 @@
+id: zebra-chain
+vendor_id: zfnd
+name: Zebra-Chain
+type: software
+tags: []
+cpe: cpe:2.3:a:zfnd:zebra\-chain:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zebra-chain
+  confidence: auto

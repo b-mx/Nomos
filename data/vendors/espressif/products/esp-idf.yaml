@@ -1,0 +1,10 @@
+id: esp-idf
+vendor_id: espressif
+name: Esp-Idf
+type: software
+tags: []
+cpe: cpe:2.3:a:espressif:esp\-idf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp-idf
+  confidence: auto

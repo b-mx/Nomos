@@ -1,0 +1,10 @@
+id: cordless-freedom-navigator
+vendor_id: logitech
+name: Cordless Freedom Navigator
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:cordless_freedom_navigator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cordless_freedom_navigator
+  confidence: auto

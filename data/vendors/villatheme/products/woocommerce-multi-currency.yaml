@@ -1,0 +1,10 @@
+id: woocommerce-multi-currency
+vendor_id: villatheme
+name: Woocommerce Multi Currency
+type: software
+tags: []
+cpe: cpe:2.3:a:villatheme:woocommerce_multi_currency:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_multi_currency
+  confidence: auto

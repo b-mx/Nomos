@@ -1,0 +1,10 @@
+id: zebrad
+vendor_id: zfnd
+name: Zebrad
+type: software
+tags: []
+cpe: cpe:2.3:a:zfnd:zebrad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zebrad
+  confidence: auto

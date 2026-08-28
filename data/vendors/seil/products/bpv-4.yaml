@@ -1,0 +1,10 @@
+id: bpv-4
+vendor_id: seil
+name: Bpv 4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seil:bpv_4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bpv_4
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avast--file-server-security",
+  "vendor_id": "avast",
+  "product_id": "file-server-security",
+  "name": "File Server Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "file_server_security",
+      "confidence": "auto"
+    }
+  ]
+}

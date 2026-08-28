@@ -1,0 +1,10 @@
+id: tew-652br-firmware
+vendor_id: trendnet
+name: Tew-652Br Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:tew\-652br_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tew-652br_firmware
+  confidence: auto

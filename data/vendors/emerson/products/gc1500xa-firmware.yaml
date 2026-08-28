@@ -1,0 +1,10 @@
+id: gc1500xa-firmware
+vendor_id: emerson
+name: Gc1500Xa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:gc1500xa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gc1500xa_firmware
+  confidence: auto

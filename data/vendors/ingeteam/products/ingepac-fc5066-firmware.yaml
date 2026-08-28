@@ -1,0 +1,10 @@
+id: ingepac-fc5066-firmware
+vendor_id: ingeteam
+name: Ingepac Fc5066 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ingeteam:ingepac_fc5066_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ingepac_fc5066_firmware
+  confidence: auto

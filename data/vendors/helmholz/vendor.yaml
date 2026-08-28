@@ -1,0 +1,7 @@
+id: helmholz
+name: Helmholz
+cpe: cpe:2.3:*:helmholz:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: helmholz
+  confidence: auto

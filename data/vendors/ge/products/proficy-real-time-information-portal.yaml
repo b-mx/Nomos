@@ -1,0 +1,10 @@
+id: proficy-real-time-information-portal
+vendor_id: ge
+name: Proficy Real-Time Information Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:proficy_real\-time_information_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proficy_real-time_information_portal
+  confidence: auto

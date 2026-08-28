@@ -1,0 +1,10 @@
+id: v3c16
+vendor_id: amd
+name: V3C16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:v3c16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v3c16
+  confidence: auto

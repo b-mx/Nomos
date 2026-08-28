@@ -1,0 +1,10 @@
+id: wine-making
+vendor_id: gcspublishing
+name: Wine Making
+type: software
+tags: []
+cpe: cpe:2.3:a:gcspublishing:wine_making:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wine_making
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rancher-backup-and-restore-operator
+vendor_id: suse
+name: Rancher Backup And Restore Operator
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:rancher_backup_and_restore_operator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rancher_backup_and_restore_operator
+  confidence: auto

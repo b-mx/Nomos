@@ -1,0 +1,10 @@
+id: d4j74-firmware
+vendor_id: hp
+name: D4J74 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:d4j74_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d4j74_firmware
+  confidence: auto

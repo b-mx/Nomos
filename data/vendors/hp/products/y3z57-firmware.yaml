@@ -1,0 +1,10 @@
+id: y3z57-firmware
+vendor_id: hp
+name: Y3Z57 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:y3z57_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y3z57_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: advanced-intrusion-detection-environment
+vendor_id: freebsd
+name: Advanced Intrusion Detection Environment
+type: software
+tags: []
+cpe: cpe:2.3:a:freebsd:advanced_intrusion_detection_environment:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_intrusion_detection_environment
+  confidence: auto

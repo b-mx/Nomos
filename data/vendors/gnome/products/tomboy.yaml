@@ -1,0 +1,10 @@
+id: tomboy
+vendor_id: gnome
+name: Tomboy
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:tomboy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tomboy
+  confidence: auto

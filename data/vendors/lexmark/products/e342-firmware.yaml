@@ -1,0 +1,10 @@
+id: e342-firmware
+vendor_id: lexmark
+name: E342 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:e342_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e342_firmware
+  confidence: auto

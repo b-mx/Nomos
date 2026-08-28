@@ -1,0 +1,10 @@
+id: scanjet-enterprise-flow-n9120-document-flatbed-scanner
+vendor_id: hp
+name: Scanjet Enterprise Flow N9120 Document Flatbed Scanner
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:scanjet_enterprise_flow_n9120_document_flatbed_scanner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scanjet_enterprise_flow_n9120_document_flatbed_scanner
+  confidence: auto

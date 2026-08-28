@@ -1,0 +1,10 @@
+id: f9114-bt
+vendor_id: axis
+name: F9114-Bt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:f9114\-bt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f9114-bt
+  confidence: auto

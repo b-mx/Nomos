@@ -1,0 +1,10 @@
+id: z240-sff
+vendor_id: hp
+name: Z240 Sff
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:z240_sff:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z240_sff
+  confidence: auto

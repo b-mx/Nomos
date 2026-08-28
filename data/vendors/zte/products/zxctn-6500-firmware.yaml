@@ -1,0 +1,10 @@
+id: zxctn-6500-firmware
+vendor_id: zte
+name: Zxctn 6500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxctn_6500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxctn_6500_firmware
+  confidence: auto

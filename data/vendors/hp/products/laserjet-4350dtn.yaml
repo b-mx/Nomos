@@ -1,0 +1,10 @@
+id: laserjet-4350dtn
+vendor_id: hp
+name: Laserjet 4350Dtn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_4350dtn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_4350dtn
+  confidence: auto

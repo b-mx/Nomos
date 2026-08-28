@@ -1,0 +1,10 @@
+id: fabric-attached-storage-8300
+vendor_id: netapp
+name: Fabric-Attached Storage 8300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:fabric\-attached_storage_8300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fabric-attached_storage_8300
+  confidence: auto

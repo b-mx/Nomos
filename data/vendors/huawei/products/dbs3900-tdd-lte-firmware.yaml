@@ -1,0 +1,10 @@
+id: dbs3900-tdd-lte-firmware
+vendor_id: huawei
+name: Dbs3900 Tdd Lte Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:dbs3900_tdd_lte_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dbs3900_tdd_lte_firmware
+  confidence: auto

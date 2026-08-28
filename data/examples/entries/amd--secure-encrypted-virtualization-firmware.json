@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--secure-encrypted-virtualization-firmware",
+  "vendor_id": "amd",
+  "product_id": "secure-encrypted-virtualization-firmware",
+  "name": "Secure Encrypted Virtualization Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "secure_encrypted_virtualization_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

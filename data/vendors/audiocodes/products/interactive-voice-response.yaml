@@ -1,0 +1,10 @@
+id: interactive-voice-response
+vendor_id: audiocodes
+name: Interactive Voice Response
+type: software
+tags: []
+cpe: cpe:2.3:a:audiocodes:interactive_voice_response:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interactive_voice_response
+  confidence: auto

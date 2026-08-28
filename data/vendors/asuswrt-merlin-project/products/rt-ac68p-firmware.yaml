@@ -1,0 +1,10 @@
+id: rt-ac68p-firmware
+vendor_id: asuswrt-merlin-project
+name: Rt-Ac68P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:asuswrt\-merlin_project:rt\-ac68p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-ac68p_firmware
+  confidence: auto

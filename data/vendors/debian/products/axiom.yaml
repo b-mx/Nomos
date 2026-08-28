@@ -1,0 +1,10 @@
+id: axiom
+vendor_id: debian
+name: Axiom
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:axiom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axiom
+  confidence: auto

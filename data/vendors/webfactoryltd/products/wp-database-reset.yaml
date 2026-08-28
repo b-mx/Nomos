@@ -1,0 +1,10 @@
+id: wp-database-reset
+vendor_id: webfactoryltd
+name: Wp Database Reset
+type: software
+tags: []
+cpe: cpe:2.3:a:webfactoryltd:wp_database_reset:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_database_reset
+  confidence: auto

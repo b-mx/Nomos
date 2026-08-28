@@ -1,0 +1,10 @@
+id: kappa
+vendor_id: draeger
+name: Kappa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:draeger:kappa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kappa
+  confidence: auto

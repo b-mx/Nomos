@@ -1,0 +1,10 @@
+id: verse
+vendor_id: hcltech
+name: Verse
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:verse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: verse
+  confidence: auto

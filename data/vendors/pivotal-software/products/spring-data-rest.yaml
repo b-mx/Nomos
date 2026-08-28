@@ -1,0 +1,10 @@
+id: spring-data-rest
+vendor_id: pivotal-software
+name: Spring Data Rest
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:spring_data_rest:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spring_data_rest
+  confidence: auto

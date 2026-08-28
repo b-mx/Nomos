@@ -1,0 +1,10 @@
+id: advanced-package-tool
+vendor_id: debian
+name: Advanced Package Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:advanced_package_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_package_tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 750-832-000-002-firmware
+vendor_id: wago
+name: 750-832/000-002 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:750\-832\/000\-002_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 750-832/000-002_firmware
+  confidence: auto

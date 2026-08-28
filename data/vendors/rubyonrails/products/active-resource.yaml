@@ -1,0 +1,10 @@
+id: active-resource
+vendor_id: rubyonrails
+name: Active Resource
+type: software
+tags: []
+cpe: cpe:2.3:a:rubyonrails:active_resource:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_resource
+  confidence: auto

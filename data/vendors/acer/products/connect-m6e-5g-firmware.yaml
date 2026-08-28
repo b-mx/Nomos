@@ -1,0 +1,10 @@
+id: connect-m6e-5g-firmware
+vendor_id: acer
+name: Connect M6E 5G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:connect_m6e_5g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect_m6e_5g_firmware
+  confidence: auto

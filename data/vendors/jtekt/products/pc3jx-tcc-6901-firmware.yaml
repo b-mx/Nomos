@@ -1,0 +1,10 @@
+id: pc3jx-tcc-6901-firmware
+vendor_id: jtekt
+name: Pc3Jx Tcc-6901 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:pc3jx_tcc\-6901_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc3jx_tcc-6901_firmware
+  confidence: auto

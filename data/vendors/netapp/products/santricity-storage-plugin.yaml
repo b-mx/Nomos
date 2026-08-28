@@ -1,0 +1,10 @@
+id: santricity-storage-plugin
+vendor_id: netapp
+name: Santricity Storage Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:santricity_storage_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: santricity_storage_plugin
+  confidence: auto

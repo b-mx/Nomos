@@ -1,0 +1,10 @@
+id: wall-connector-firmware
+vendor_id: tesla
+name: Wall Connector Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tesla:wall_connector_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wall_connector_firmware
+  confidence: auto

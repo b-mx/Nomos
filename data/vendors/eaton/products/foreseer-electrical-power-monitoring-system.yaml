@@ -1,0 +1,10 @@
+id: foreseer-electrical-power-monitoring-system
+vendor_id: eaton
+name: Foreseer Electrical Power Monitoring System
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:foreseer_electrical_power_monitoring_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foreseer_electrical_power_monitoring_system
+  confidence: auto

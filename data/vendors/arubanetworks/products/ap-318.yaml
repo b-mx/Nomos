@@ -1,0 +1,10 @@
+id: ap-318
+vendor_id: arubanetworks
+name: Ap-318
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-318:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-318
+  confidence: auto

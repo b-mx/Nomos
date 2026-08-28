@@ -1,0 +1,10 @@
+id: bizhub-4752
+vendor_id: konicaminolta
+name: Bizhub 4752
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_4752:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_4752
+  confidence: auto

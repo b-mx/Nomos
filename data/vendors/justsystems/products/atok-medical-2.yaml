@@ -1,0 +1,10 @@
+id: atok-medical-2
+vendor_id: justsystems
+name: Atok Medical 2
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:atok_medical_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atok_medical_2
+  confidence: auto

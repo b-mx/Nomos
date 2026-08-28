@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "theforeman--hammer-cli",
+  "vendor_id": "theforeman",
+  "product_id": "hammer-cli",
+  "name": "Hammer Cli",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hammer_cli",
+      "confidence": "auto"
+    }
+  ]
+}

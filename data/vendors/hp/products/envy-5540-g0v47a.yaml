@@ -1,0 +1,10 @@
+id: envy-5540-g0v47a
+vendor_id: hp
+name: Envy 5540 G0V47A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5540_g0v47a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5540_g0v47a
+  confidence: auto

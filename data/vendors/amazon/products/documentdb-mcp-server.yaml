@@ -1,0 +1,10 @@
+id: documentdb-mcp-server
+vendor_id: amazon
+name: Documentdb Mcp Server
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:documentdb_mcp_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentdb_mcp_server
+  confidence: auto

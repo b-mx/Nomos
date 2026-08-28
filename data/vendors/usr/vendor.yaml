@@ -1,0 +1,7 @@
+id: usr
+name: Usr
+cpe: cpe:2.3:*:usr:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usr
+  confidence: auto

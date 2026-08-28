@@ -1,0 +1,10 @@
+id: snc-dh220t
+vendor_id: sony
+name: Snc-Dh220T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-dh220t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-dh220t
+  confidence: auto

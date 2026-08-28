@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m478-m479-w1a81a
+vendor_id: hp
+name: Laserjet Pro Mfp M478-M479 W1A81A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_mfp_m478\-m479_w1a81a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m478-m479_w1a81a
+  confidence: auto

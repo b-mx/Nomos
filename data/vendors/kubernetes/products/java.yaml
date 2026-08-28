@@ -1,0 +1,10 @@
+id: java
+vendor_id: kubernetes
+name: Java
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java
+  confidence: auto

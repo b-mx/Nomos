@@ -1,0 +1,10 @@
+id: enterprise-collaboration
+vendor_id: hummingbird
+name: Enterprise Collaboration
+type: software
+tags: []
+cpe: cpe:2.3:a:hummingbird:enterprise_collaboration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_collaboration
+  confidence: auto

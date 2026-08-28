@@ -1,0 +1,10 @@
+id: tm4c123-firmware
+vendor_id: ti
+name: Tm4C123 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ti:tm4c123_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm4c123_firmware
+  confidence: auto

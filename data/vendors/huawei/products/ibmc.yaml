@@ -1,0 +1,10 @@
+id: ibmc
+vendor_id: huawei
+name: Ibmc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ibmc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ibmc
+  confidence: auto

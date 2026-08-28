@@ -1,0 +1,10 @@
+id: acera-1020
+vendor_id: furunosystems
+name: Acera 1020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:furunosystems:acera_1020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acera_1020
+  confidence: auto

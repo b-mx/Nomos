@@ -1,0 +1,10 @@
+id: radeon-pro-w5500
+vendor_id: amd
+name: Radeon Pro W5500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:radeon_pro_w5500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radeon_pro_w5500
+  confidence: auto

@@ -1,0 +1,10 @@
+id: uipath-ap-chat
+vendor_id: uipath
+name: Uipath/Ap-Chat
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/ap\-chat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/ap-chat
+  confidence: auto

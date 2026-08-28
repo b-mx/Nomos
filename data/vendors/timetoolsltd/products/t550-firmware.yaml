@@ -1,0 +1,10 @@
+id: t550-firmware
+vendor_id: timetoolsltd
+name: T550 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:timetoolsltd:t550_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t550_firmware
+  confidence: auto

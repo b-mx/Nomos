@@ -1,0 +1,10 @@
+id: udr
+vendor_id: free5gc
+name: Udr
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:udr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: udr
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--communication-server-1000-telephony-manager",
+  "vendor_id": "avaya",
+  "product_id": "communication-server-1000-telephony-manager",
+  "name": "Communication Server 1000 Telephony Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "communication_server_1000_telephony_manager",
+      "confidence": "auto"
+    }
+  ]
+}

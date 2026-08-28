@@ -1,0 +1,10 @@
+id: control-for-raspberry-pi-sl
+vendor_id: codesys
+name: Control For Raspberry Pi Sl
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_for_raspberry_pi_sl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_for_raspberry_pi_sl
+  confidence: auto

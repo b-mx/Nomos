@@ -1,0 +1,10 @@
+id: rsa-identity-governance-and-lifecycle
+vendor_id: emc
+name: Rsa Identity Governance And Lifecycle
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_identity_governance_and_lifecycle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_identity_governance_and_lifecycle
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rx-v200
+vendor_id: sharp
+name: Rx-V200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:rx\-v200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx-v200
+  confidence: auto

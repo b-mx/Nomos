@@ -1,0 +1,10 @@
+id: m7104
+vendor_id: axis
+name: M7104
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m7104:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m7104
+  confidence: auto

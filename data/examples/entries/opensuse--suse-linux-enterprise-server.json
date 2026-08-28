@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--suse-linux-enterprise-server",
+  "vendor_id": "opensuse",
+  "product_id": "suse-linux-enterprise-server",
+  "name": "Suse Linux Enterprise Server",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_linux_enterprise_server",
+      "confidence": "auto"
+    }
+  ]
+}

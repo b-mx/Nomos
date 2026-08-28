@@ -1,0 +1,10 @@
+id: ax2004bcm-firmware
+vendor_id: iptime
+name: Ax2004Bcm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:ax2004bcm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax2004bcm_firmware
+  confidence: auto

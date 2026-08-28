@@ -1,0 +1,10 @@
+id: dx-c401
+vendor_id: sharp
+name: Dx-C401
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:dx\-c401:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dx-c401
+  confidence: auto

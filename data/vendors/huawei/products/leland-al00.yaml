@@ -1,0 +1,10 @@
+id: leland-al00
+vendor_id: huawei
+name: Leland-Al00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:leland\-al00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: leland-al00
+  confidence: auto

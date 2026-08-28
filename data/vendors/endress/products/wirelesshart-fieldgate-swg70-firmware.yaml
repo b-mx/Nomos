@@ -1,0 +1,10 @@
+id: wirelesshart-fieldgate-swg70-firmware
+vendor_id: endress
+name: Wirelesshart Fieldgate Swg70 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:endress:wirelesshart_fieldgate_swg70_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wirelesshart_fieldgate_swg70_firmware
+  confidence: auto

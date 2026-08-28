@@ -1,0 +1,10 @@
+id: grafana-image-renderer
+vendor_id: grafana
+name: Grafana-Image-Renderer
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:grafana\-image\-renderer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: grafana-image-renderer
+  confidence: auto

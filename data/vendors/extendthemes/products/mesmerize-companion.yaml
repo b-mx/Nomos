@@ -1,0 +1,10 @@
+id: mesmerize-companion
+vendor_id: extendthemes
+name: Mesmerize Companion
+type: software
+tags: []
+cpe: cpe:2.3:a:extendthemes:mesmerize_companion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mesmerize_companion
+  confidence: auto

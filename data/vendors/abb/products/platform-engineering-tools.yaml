@@ -1,0 +1,10 @@
+id: platform-engineering-tools
+vendor_id: abb
+name: Platform Engineering Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:platform_engineering_tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: platform_engineering_tools
+  confidence: auto

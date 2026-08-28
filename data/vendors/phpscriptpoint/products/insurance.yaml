@@ -1,0 +1,10 @@
+id: insurance
+vendor_id: phpscriptpoint
+name: Insurance
+type: software
+tags: []
+cpe: cpe:2.3:a:phpscriptpoint:insurance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insurance
+  confidence: auto

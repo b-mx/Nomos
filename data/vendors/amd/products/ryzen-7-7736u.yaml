@@ -1,0 +1,10 @@
+id: ryzen-7-7736u
+vendor_id: amd
+name: Ryzen 7 7736U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_7736u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_7736u
+  confidence: auto

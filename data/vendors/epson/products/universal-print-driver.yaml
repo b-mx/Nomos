@@ -1,0 +1,10 @@
+id: universal-print-driver
+vendor_id: epson
+name: Universal Print Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:universal_print_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_print_driver
+  confidence: auto

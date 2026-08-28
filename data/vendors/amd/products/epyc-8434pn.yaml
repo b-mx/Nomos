@@ -1,0 +1,10 @@
+id: epyc-8434pn
+vendor_id: amd
+name: Epyc 8434Pn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_8434pn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_8434pn
+  confidence: auto

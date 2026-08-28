@@ -1,0 +1,7 @@
+id: lenovo
+name: Lenovo
+cpe: cpe:2.3:*:lenovo:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo
+  confidence: auto

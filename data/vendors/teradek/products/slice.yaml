@@ -1,0 +1,10 @@
+id: slice
+vendor_id: teradek
+name: Slice
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teradek:slice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slice
+  confidence: auto

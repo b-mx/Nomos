@@ -1,0 +1,10 @@
+id: gnome-display-manager
+vendor_id: gnome
+name: Gnome Display Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome_display_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome_display_manager
+  confidence: auto

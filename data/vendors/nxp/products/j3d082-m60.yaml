@@ -1,0 +1,10 @@
+id: j3d082-m60
+vendor_id: nxp
+name: J3D082 M60
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:j3d082_m60:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j3d082_m60
+  confidence: auto

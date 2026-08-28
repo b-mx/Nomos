@@ -1,0 +1,10 @@
+id: portico-server-4-client
+vendor_id: phoenixcontact
+name: Portico Server 4 Client
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:portico_server_4_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portico_server_4_client
+  confidence: auto

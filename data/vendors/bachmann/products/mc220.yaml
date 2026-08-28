@@ -1,0 +1,10 @@
+id: mc220
+vendor_id: bachmann
+name: Mc220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mc220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc220
+  confidence: auto

@@ -1,0 +1,10 @@
+id: application-lifecycle-management
+vendor_id: hp
+name: Application Lifecycle Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:application_lifecycle_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: application_lifecycle_management
+  confidence: auto

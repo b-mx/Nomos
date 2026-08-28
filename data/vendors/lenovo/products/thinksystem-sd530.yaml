@@ -1,0 +1,10 @@
+id: thinksystem-sd530
+vendor_id: lenovo
+name: Thinksystem Sd530
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_sd530:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_sd530
+  confidence: auto

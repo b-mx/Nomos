@@ -1,0 +1,10 @@
+id: a551i-f1
+vendor_id: proscend
+name: A551I-F1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:proscend:a551i\-f1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a551i-f1
+  confidence: auto

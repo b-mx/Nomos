@@ -1,0 +1,10 @@
+id: news-portal-project
+vendor_id: phpgurukul
+name: News Portal Project
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:news_portal_project:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: news_portal_project
+  confidence: auto

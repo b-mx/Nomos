@@ -1,0 +1,10 @@
+id: ryzen-7-3800x
+vendor_id: amd
+name: Ryzen 7 3800X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_3800x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_3800x
+  confidence: auto

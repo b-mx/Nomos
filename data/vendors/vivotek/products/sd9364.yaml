@@ -1,0 +1,10 @@
+id: sd9364
+vendor_id: vivotek
+name: Sd9364
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:sd9364:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd9364
+  confidence: auto

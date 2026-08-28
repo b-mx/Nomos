@@ -1,0 +1,10 @@
+id: h115i
+vendor_id: corsair
+name: H115I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:h115i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h115i
+  confidence: auto

@@ -1,0 +1,10 @@
+id: motor-controller-cmmp-as-c2-3a-m0
+vendor_id: festo
+name: Motor Controller Cmmp-As-C2-3A-M0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:motor_controller_cmmp\-as\-c2\-3a\-m0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: motor_controller_cmmp-as-c2-3a-m0
+  confidence: auto

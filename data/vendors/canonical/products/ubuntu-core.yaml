@@ -1,0 +1,10 @@
+id: ubuntu-core
+vendor_id: canonical
+name: Ubuntu Core
+type: os
+tags: []
+cpe: cpe:2.3:o:canonical:ubuntu_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubuntu_core
+  confidence: auto

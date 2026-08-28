@@ -1,0 +1,10 @@
+id: shared-trace-service
+vendor_id: hp
+name: Shared Trace Service
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:shared_trace_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shared_trace_service
+  confidence: auto

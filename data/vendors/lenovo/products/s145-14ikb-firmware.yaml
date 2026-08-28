@@ -1,0 +1,10 @@
+id: s145-14ikb-firmware
+vendor_id: lenovo
+name: S145-14Ikb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s145\-14ikb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s145-14ikb_firmware
+  confidence: auto

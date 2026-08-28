@@ -1,0 +1,10 @@
+id: ptn-6900-2-m8-firmware
+vendor_id: huawei
+name: Ptn 6900-2-M8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ptn_6900\-2\-m8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ptn_6900-2-m8_firmware
+  confidence: auto

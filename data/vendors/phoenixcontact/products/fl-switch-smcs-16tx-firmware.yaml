@@ -1,0 +1,10 @@
+id: fl-switch-smcs-16tx-firmware
+vendor_id: phoenixcontact
+name: Fl Switch Smcs 16Tx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fl_switch_smcs_16tx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_switch_smcs_16tx_firmware
+  confidence: auto

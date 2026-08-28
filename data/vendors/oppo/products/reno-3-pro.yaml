@@ -1,0 +1,10 @@
+id: reno-3-pro
+vendor_id: oppo
+name: Reno 3 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:reno_3_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reno_3_pro
+  confidence: auto

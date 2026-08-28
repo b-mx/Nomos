@@ -1,0 +1,10 @@
+id: penguin-aurora-box
+vendor_id: skyworth
+name: Penguin Aurora Box
+type: hardware
+tags: []
+cpe: cpe:2.3:h:skyworth:penguin_aurora_box:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: penguin_aurora_box
+  confidence: auto

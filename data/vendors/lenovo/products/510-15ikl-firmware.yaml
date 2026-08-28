@@ -1,0 +1,10 @@
+id: 510-15ikl-firmware
+vendor_id: lenovo
+name: 510-15Ikl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:510\-15ikl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 510-15ikl_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sc-px7v2-firmware
+vendor_id: epson
+name: Sc-Px7V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:sc\-px7v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-px7v2_firmware
+  confidence: auto

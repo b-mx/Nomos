@@ -1,0 +1,10 @@
+id: insight-agent
+vendor_id: rapid7
+name: Insight Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:insight_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_agent
+  confidence: auto

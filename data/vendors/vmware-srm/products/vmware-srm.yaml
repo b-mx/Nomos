@@ -1,0 +1,9 @@
+id: vmware-srm
+vendor_id: vmware-srm
+name: VMware Site Recovery Manager
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: vmware-srm
+  confidence: auto

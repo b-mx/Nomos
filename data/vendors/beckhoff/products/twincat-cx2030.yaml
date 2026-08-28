@@ -1,0 +1,10 @@
+id: twincat-cx2030
+vendor_id: beckhoff
+name: Twincat Cx2030
+type: hardware
+tags: []
+cpe: cpe:2.3:h:beckhoff:twincat_cx2030:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twincat_cx2030
+  confidence: auto

@@ -1,0 +1,13 @@
+id: nixos
+vendor_id: nixos
+name: NixOS
+type: os
+tags: []
+cpe: cpe:2.3:o:nixos:nixos:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: nixos
+  confidence: auto
+- source: nvd
+  value: nixos
+  confidence: auto

@@ -1,0 +1,10 @@
+id: etcd
+vendor_id: etcd
+name: etcd
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: etcd
+  confidence: auto

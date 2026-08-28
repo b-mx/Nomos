@@ -1,0 +1,10 @@
+id: wnpr1167f-firmware
+vendor_id: iodata
+name: Wnpr1167F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:wnpr1167f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wnpr1167f_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: enterprise-metrics
+vendor_id: grafana
+name: Enterprise Metrics
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:enterprise_metrics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_metrics
+  confidence: auto

@@ -1,0 +1,7 @@
+id: planet
+name: Planet
+cpe: cpe:2.3:*:planet:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: planet
+  confidence: auto

@@ -1,0 +1,10 @@
+id: spring-web-flow
+vendor_id: pivotal
+name: Spring Web Flow
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:spring_web_flow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spring_web_flow
+  confidence: auto

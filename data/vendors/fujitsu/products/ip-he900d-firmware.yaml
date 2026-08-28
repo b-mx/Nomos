@@ -1,0 +1,10 @@
+id: ip-he900d-firmware
+vendor_id: fujitsu
+name: Ip-He900D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:ip\-he900d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip-he900d_firmware
+  confidence: auto

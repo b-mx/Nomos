@@ -1,0 +1,10 @@
+id: fl-nat-2208-firmware
+vendor_id: phoenixcontact
+name: Fl Nat 2208 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fl_nat_2208_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_nat_2208_firmware
+  confidence: auto

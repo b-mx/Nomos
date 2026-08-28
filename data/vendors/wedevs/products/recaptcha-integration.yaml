@@ -1,0 +1,10 @@
+id: recaptcha-integration
+vendor_id: wedevs
+name: Recaptcha Integration
+type: software
+tags: []
+cpe: cpe:2.3:a:wedevs:recaptcha_integration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recaptcha_integration
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--ltsp-display-manager",
+  "vendor_id": "canonical",
+  "product_id": "ltsp-display-manager",
+  "name": "Ltsp Display Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ltsp_display_manager",
+      "confidence": "auto"
+    }
+  ]
+}

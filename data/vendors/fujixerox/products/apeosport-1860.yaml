@@ -1,0 +1,10 @@
+id: apeosport-1860
+vendor_id: fujixerox
+name: Apeosport 1860
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujixerox:apeosport_1860:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport_1860
+  confidence: auto

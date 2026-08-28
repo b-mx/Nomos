@@ -1,0 +1,10 @@
+id: thinksystem-sd650-dual-node-tray
+vendor_id: lenovo
+name: Thinksystem Sd650 Dual Node Tray
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_sd650_dual_node_tray:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_sd650_dual_node_tray
+  confidence: auto

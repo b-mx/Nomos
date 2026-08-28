@@ -1,0 +1,10 @@
+id: xiaomi-ai-speaker
+vendor_id: mi
+name: Xiaomi Ai Speaker
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:xiaomi_ai_speaker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaomi_ai_speaker
+  confidence: auto

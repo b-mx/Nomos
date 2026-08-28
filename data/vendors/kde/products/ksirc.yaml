@@ -1,0 +1,10 @@
+id: ksirc
+vendor_id: kde
+name: Ksirc
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:ksirc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ksirc
+  confidence: auto

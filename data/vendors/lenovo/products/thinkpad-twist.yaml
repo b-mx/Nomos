@@ -1,0 +1,10 @@
+id: thinkpad-twist
+vendor_id: lenovo
+name: Thinkpad Twist
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_twist:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_twist
+  confidence: auto

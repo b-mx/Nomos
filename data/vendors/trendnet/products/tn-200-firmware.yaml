@@ -1,0 +1,10 @@
+id: tn-200-firmware
+vendor_id: trendnet
+name: Tn-200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:tn\-200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tn-200_firmware
+  confidence: auto

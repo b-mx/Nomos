@@ -1,0 +1,10 @@
+id: laserjet-mfp-m139-1y7d4a-firmware
+vendor_id: hp
+name: Laserjet Mfp M139 1Y7D4A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_mfp_m139_1y7d4a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m139_1y7d4a_firmware
+  confidence: auto

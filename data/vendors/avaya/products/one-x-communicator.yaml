@@ -1,0 +1,10 @@
+id: one-x-communicator
+vendor_id: avaya
+name: One-X Communicator
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:one\-x_communicator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one-x_communicator
+  confidence: auto

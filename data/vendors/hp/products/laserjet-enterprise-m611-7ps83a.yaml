@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m611-7ps83a
+vendor_id: hp
+name: Laserjet Enterprise M611 7Ps83A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_m611_7ps83a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m611_7ps83a
+  confidence: auto

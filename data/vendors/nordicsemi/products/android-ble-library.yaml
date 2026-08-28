@@ -1,0 +1,10 @@
+id: android-ble-library
+vendor_id: nordicsemi
+name: Android Ble Library
+type: software
+tags: []
+cpe: cpe:2.3:a:nordicsemi:android_ble_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: android_ble_library
+  confidence: auto

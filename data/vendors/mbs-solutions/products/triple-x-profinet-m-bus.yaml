@@ -1,0 +1,10 @@
+id: triple-x-profinet-m-bus
+vendor_id: mbs-solutions
+name: Triple-X Profinet+M-Bus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:triple\-x_profinet\+m\-bus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: triple-x_profinet+m-bus
+  confidence: auto

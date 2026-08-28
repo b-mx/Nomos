@@ -1,0 +1,10 @@
+id: shockwave
+vendor_id: macromedia
+name: Shockwave
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:shockwave:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shockwave
+  confidence: auto

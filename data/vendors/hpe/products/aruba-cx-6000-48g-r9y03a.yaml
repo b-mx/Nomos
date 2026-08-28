@@ -1,0 +1,10 @@
+id: aruba-cx-6000-48g-r9y03a
+vendor_id: hpe
+name: Aruba Cx 6000 48G (R9Y03A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6000_48g_\(r9y03a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6000_48g_(r9y03a)
+  confidence: auto

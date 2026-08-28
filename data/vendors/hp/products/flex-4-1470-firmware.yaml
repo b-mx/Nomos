@@ -1,0 +1,10 @@
+id: flex-4-1470-firmware
+vendor_id: hp
+name: Flex 4-1470 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:flex_4\-1470_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_4-1470_firmware
+  confidence: auto

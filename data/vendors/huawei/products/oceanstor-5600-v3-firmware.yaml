@@ -1,0 +1,10 @@
+id: oceanstor-5600-v3-firmware
+vendor_id: huawei
+name: Oceanstor 5600 V3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:oceanstor_5600_v3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oceanstor_5600_v3_firmware
+  confidence: auto

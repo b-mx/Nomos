@@ -1,0 +1,10 @@
+id: thinkagile-2u4n
+vendor_id: lenovo
+name: Thinkagile 2U4N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_2u4n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_2u4n
+  confidence: auto

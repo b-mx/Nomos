@@ -1,0 +1,7 @@
+id: langchain
+name: Langchain
+cpe: cpe:2.3:*:langchain:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: langchain
+  confidence: auto

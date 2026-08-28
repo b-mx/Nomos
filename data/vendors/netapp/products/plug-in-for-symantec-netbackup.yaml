@@ -1,0 +1,10 @@
+id: plug-in-for-symantec-netbackup
+vendor_id: netapp
+name: Plug-In For Symantec Netbackup
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:plug\-in_for_symantec_netbackup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plug-in_for_symantec_netbackup
+  confidence: auto

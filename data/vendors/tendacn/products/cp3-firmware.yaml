@@ -1,0 +1,10 @@
+id: cp3-firmware
+vendor_id: tendacn
+name: Cp3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tendacn:cp3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp3_firmware
+  confidence: auto

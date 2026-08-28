@@ -1,0 +1,10 @@
+id: af-2x
+vendor_id: ui
+name: Af-2X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:af\-2x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: af-2x
+  confidence: auto

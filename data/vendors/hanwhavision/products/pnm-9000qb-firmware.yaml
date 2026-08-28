@@ -1,0 +1,10 @@
+id: pnm-9000qb-firmware
+vendor_id: hanwhavision
+name: Pnm-9000Qb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:pnm\-9000qb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pnm-9000qb_firmware
+  confidence: auto

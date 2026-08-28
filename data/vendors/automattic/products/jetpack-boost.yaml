@@ -1,0 +1,10 @@
+id: jetpack-boost
+vendor_id: automattic
+name: Jetpack Boost
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:jetpack_boost:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetpack_boost
+  confidence: auto

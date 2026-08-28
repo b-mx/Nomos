@@ -1,0 +1,10 @@
+id: python-postorius
+vendor_id: opensuse
+name: Python-Postorius
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:python\-postorius:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: python-postorius
+  confidence: auto

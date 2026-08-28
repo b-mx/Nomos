@@ -1,0 +1,10 @@
+id: xnz-6320-firmware
+vendor_id: hanwhavision
+name: Xnz-6320 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:xnz\-6320_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnz-6320_firmware
+  confidence: auto

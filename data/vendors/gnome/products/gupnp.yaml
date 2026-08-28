@@ -1,0 +1,10 @@
+id: gupnp
+vendor_id: gnome
+name: Gupnp
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gupnp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gupnp
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cyberark--conjur",
+  "vendor_id": "cyberark",
+  "product_id": "conjur",
+  "name": "Conjur",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "conjur",
+      "confidence": "auto"
+    }
+  ]
+}

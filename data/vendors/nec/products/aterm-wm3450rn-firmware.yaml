@@ -1,0 +1,10 @@
+id: aterm-wm3450rn-firmware
+vendor_id: nec
+name: Aterm Wm3450Rn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:aterm_wm3450rn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wm3450rn_firmware
+  confidence: auto

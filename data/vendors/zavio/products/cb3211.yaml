@@ -1,0 +1,10 @@
+id: cb3211
+vendor_id: zavio
+name: Cb3211
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zavio:cb3211:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cb3211
+  confidence: auto

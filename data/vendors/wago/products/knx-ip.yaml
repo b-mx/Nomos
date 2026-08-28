@@ -1,0 +1,10 @@
+id: knx-ip
+vendor_id: wago
+name: Knx Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:knx_ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: knx_ip
+  confidence: auto

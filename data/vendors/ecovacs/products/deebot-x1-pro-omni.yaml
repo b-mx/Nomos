@@ -1,0 +1,10 @@
+id: deebot-x1-pro-omni
+vendor_id: ecovacs
+name: Deebot X1 Pro Omni
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_x1_pro_omni:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_x1_pro_omni
+  confidence: auto

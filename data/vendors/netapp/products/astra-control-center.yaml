@@ -1,0 +1,10 @@
+id: astra-control-center
+vendor_id: netapp
+name: Astra Control Center
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:astra_control_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: astra_control_center
+  confidence: auto

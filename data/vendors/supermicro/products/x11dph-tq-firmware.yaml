@@ -1,0 +1,10 @@
+id: x11dph-tq-firmware
+vendor_id: supermicro
+name: X11Dph-Tq Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11dph\-tq_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dph-tq_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: asset-performance-management-classic
+vendor_id: ge
+name: Asset Performance Management Classic
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:asset_performance_management_classic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asset_performance_management_classic
+  confidence: auto

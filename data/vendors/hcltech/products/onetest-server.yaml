@@ -1,0 +1,10 @@
+id: onetest-server
+vendor_id: hcltech
+name: Onetest Server
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:onetest_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: onetest_server
+  confidence: auto

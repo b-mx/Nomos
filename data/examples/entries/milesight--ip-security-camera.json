@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "milesight--ip-security-camera",
+  "vendor_id": "milesight",
+  "product_id": "ip-security-camera",
+  "name": "Ip Security Camera",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ip_security_camera",
+      "confidence": "auto"
+    }
+  ]
+}

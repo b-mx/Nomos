@@ -1,0 +1,10 @@
+id: gc-a25
+vendor_id: koyoele
+name: Gc-A25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:koyoele:gc\-a25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gc-a25
+  confidence: auto

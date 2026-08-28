@@ -1,0 +1,10 @@
+id: aruba-cx-6300f-24-jl666a
+vendor_id: hpe
+name: Aruba Cx 6300F 24 (Jl666A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6300f_24_\(jl666a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6300f_24_(jl666a)
+  confidence: auto

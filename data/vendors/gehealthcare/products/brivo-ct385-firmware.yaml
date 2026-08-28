@@ -1,0 +1,10 @@
+id: brivo-ct385-firmware
+vendor_id: gehealthcare
+name: Brivo Ct385 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:brivo_ct385_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brivo_ct385_firmware
+  confidence: auto

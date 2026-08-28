@@ -1,0 +1,10 @@
+id: webrick
+vendor_id: ruby-lang
+name: Webrick
+type: software
+tags: []
+cpe: cpe:2.3:a:ruby\-lang:webrick:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webrick
+  confidence: auto

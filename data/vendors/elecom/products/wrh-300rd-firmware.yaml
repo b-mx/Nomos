@@ -1,0 +1,10 @@
+id: wrh-300rd-firmware
+vendor_id: elecom
+name: Wrh-300Rd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wrh\-300rd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrh-300rd_firmware
+  confidence: auto

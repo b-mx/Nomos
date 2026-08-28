@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--radeon-instinct-mi25-firmware",
+  "vendor_id": "amd",
+  "product_id": "radeon-instinct-mi25-firmware",
+  "name": "Radeon Instinct Mi25 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "radeon_instinct_mi25_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: r29
+vendor_id: akuvox
+name: R29
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akuvox:r29:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r29
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--wac-2004-firmware",
+  "vendor_id": "moxa",
+  "product_id": "wac-2004-firmware",
+  "name": "Wac-2004 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wac-2004_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

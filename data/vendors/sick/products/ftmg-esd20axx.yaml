@@ -1,0 +1,10 @@
+id: ftmg-esd20axx
+vendor_id: sick
+name: Ftmg-Esd20Axx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:ftmg\-esd20axx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ftmg-esd20axx
+  confidence: auto

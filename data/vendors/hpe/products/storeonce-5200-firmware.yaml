@@ -1,0 +1,10 @@
+id: storeonce-5200-firmware
+vendor_id: hpe
+name: Storeonce 5200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:storeonce_5200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_5200_firmware
+  confidence: auto

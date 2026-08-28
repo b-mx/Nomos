@@ -1,0 +1,13 @@
+id: lua
+vendor_id: lua
+name: Lua
+type: library
+tags: []
+cpe: cpe:2.3:a:lua:lua:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: lua
+  confidence: auto
+- source: nvd
+  value: lua
+  confidence: auto

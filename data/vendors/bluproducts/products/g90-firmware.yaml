@@ -1,0 +1,10 @@
+id: g90-firmware
+vendor_id: bluproducts
+name: G90 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bluproducts:g90_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g90_firmware
+  confidence: auto

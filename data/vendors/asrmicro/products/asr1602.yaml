@@ -1,0 +1,10 @@
+id: asr1602
+vendor_id: asrmicro
+name: Asr1602
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asrmicro:asr1602:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asr1602
+  confidence: auto

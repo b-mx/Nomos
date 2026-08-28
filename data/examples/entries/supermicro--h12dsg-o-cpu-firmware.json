@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--h12dsg-o-cpu-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "h12dsg-o-cpu-firmware",
+  "name": "H12Dsg-O-Cpu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h12dsg-o-cpu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

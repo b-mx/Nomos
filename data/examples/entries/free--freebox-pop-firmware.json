@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "free--freebox-pop-firmware",
+  "vendor_id": "free",
+  "product_id": "freebox-pop-firmware",
+  "name": "Freebox Pop Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "freebox_pop_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

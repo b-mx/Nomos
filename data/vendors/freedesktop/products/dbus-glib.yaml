@@ -1,0 +1,10 @@
+id: dbus-glib
+vendor_id: freedesktop
+name: Dbus-Glib
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:dbus\-glib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dbus-glib
+  confidence: auto

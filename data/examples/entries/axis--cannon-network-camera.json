@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--cannon-network-camera",
+  "vendor_id": "axis",
+  "product_id": "cannon-network-camera",
+  "name": "Cannon Network Camera",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cannon_network_camera",
+      "confidence": "auto"
+    }
+  ]
+}

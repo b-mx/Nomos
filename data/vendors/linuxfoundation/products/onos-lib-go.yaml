@@ -1,0 +1,10 @@
+id: onos-lib-go
+vendor_id: linuxfoundation
+name: Onos-Lib-Go
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:onos\-lib\-go:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: onos-lib-go
+  confidence: auto

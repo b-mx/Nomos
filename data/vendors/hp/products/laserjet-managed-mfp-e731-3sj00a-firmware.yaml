@@ -1,0 +1,10 @@
+id: laserjet-managed-mfp-e731-3sj00a-firmware
+vendor_id: hp
+name: Laserjet Managed Mfp E731 3Sj00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_mfp_e731_3sj00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_mfp_e731_3sj00a_firmware
+  confidence: auto

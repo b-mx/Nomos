@@ -1,0 +1,10 @@
+id: color-laserjet-enterprise-mfp-m577
+vendor_id: hp
+name: Color Laserjet Enterprise Mfp M577
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_enterprise_mfp_m577:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_enterprise_mfp_m577
+  confidence: auto

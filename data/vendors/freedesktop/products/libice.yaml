@@ -1,0 +1,10 @@
+id: libice
+vendor_id: freedesktop
+name: Libice
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:libice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libice
+  confidence: auto

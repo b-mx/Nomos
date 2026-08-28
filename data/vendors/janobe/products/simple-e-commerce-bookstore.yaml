@@ -1,0 +1,10 @@
+id: simple-e-commerce-bookstore
+vendor_id: janobe
+name: Simple E-Commerce Bookstore
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:simple_e\-commerce_bookstore:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_e-commerce_bookstore
+  confidence: auto

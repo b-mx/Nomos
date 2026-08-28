@@ -1,0 +1,10 @@
+id: nerve-center
+vendor_id: lenovo
+name: Nerve Center
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:nerve_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nerve_center
+  confidence: auto

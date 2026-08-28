@@ -1,0 +1,10 @@
+id: elitebook-1030-g1-firmware
+vendor_id: hp
+name: Elitebook 1030 G1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitebook_1030_g1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_1030_g1_firmware
+  confidence: auto

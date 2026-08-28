@@ -1,0 +1,10 @@
+id: lncpu-p-n-02-06-26
+vendor_id: mitsubishielectric
+name: Lncpu(-P)(N=02/06/26)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:lncpu\(\-p\)\(n\=02\/06\/26\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lncpu(-p)(n=02/06/26)
+  confidence: auto

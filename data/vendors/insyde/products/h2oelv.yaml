@@ -1,0 +1,10 @@
+id: h2oelv
+vendor_id: insyde
+name: H2Oelv
+type: software
+tags: []
+cpe: cpe:2.3:a:insyde:h2oelv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h2oelv
+  confidence: auto

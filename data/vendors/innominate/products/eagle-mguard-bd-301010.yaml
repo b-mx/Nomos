@@ -1,0 +1,10 @@
+id: eagle-mguard-bd-301010
+vendor_id: innominate
+name: Eagle Mguard Bd-301010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:innominate:eagle_mguard_bd\-301010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eagle_mguard_bd-301010
+  confidence: auto

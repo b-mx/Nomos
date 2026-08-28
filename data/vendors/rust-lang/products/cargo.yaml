@@ -1,0 +1,10 @@
+id: cargo
+vendor_id: rust-lang
+name: Cargo
+type: software
+tags: []
+cpe: cpe:2.3:a:rust\-lang:cargo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cargo
+  confidence: auto

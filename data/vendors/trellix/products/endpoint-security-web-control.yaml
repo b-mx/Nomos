@@ -1,0 +1,10 @@
+id: endpoint-security-web-control
+vendor_id: trellix
+name: Endpoint Security Web Control
+type: software
+tags: []
+cpe: cpe:2.3:a:trellix:endpoint_security_web_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: endpoint_security_web_control
+  confidence: auto

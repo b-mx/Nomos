@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--veradius-unity-firmware",
+  "vendor_id": "philips",
+  "product_id": "veradius-unity-firmware",
+  "name": "Veradius Unity Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "veradius_unity_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

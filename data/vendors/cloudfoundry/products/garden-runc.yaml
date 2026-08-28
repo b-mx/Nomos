@@ -1,0 +1,10 @@
+id: garden-runc
+vendor_id: cloudfoundry
+name: Garden-Runc
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:garden\-runc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: garden-runc
+  confidence: auto

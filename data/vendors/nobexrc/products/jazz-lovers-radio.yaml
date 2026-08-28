@@ -1,0 +1,10 @@
+id: jazz-lovers-radio
+vendor_id: nobexrc
+name: Jazz Lovers Radio
+type: software
+tags: []
+cpe: cpe:2.3:a:nobexrc:jazz_lovers_radio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jazz_lovers_radio
+  confidence: auto

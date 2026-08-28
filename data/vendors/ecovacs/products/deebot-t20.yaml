@@ -1,0 +1,10 @@
+id: deebot-t20
+vendor_id: ecovacs
+name: Deebot T20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_t20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_t20
+  confidence: auto

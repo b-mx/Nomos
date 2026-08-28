@@ -1,0 +1,10 @@
+id: weknora
+vendor_id: tencent
+name: Weknora
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:weknora:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: weknora
+  confidence: auto

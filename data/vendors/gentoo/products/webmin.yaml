@@ -1,0 +1,10 @@
+id: webmin
+vendor_id: gentoo
+name: Webmin
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:webmin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webmin
+  confidence: auto

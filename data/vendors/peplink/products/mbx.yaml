@@ -1,0 +1,10 @@
+id: mbx
+vendor_id: peplink
+name: Mbx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:mbx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbx
+  confidence: auto

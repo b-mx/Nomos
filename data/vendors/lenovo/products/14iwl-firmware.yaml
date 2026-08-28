@@ -1,0 +1,10 @@
+id: 14iwl-firmware
+vendor_id: lenovo
+name: 14Iwl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:14iwl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 14iwl_firmware
+  confidence: auto

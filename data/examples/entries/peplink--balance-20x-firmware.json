@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--balance-20x-firmware",
+  "vendor_id": "peplink",
+  "product_id": "balance-20x-firmware",
+  "name": "Balance 20X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "balance_20x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

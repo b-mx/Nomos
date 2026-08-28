@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gotrango--giga-firmware",
+  "vendor_id": "gotrango",
+  "product_id": "giga-firmware",
+  "name": "Giga Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "giga_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

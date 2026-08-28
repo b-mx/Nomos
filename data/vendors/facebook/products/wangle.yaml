@@ -1,0 +1,10 @@
+id: wangle
+vendor_id: facebook
+name: Wangle
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:wangle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wangle
+  confidence: auto

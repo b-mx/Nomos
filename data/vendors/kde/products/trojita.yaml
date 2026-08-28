@@ -1,0 +1,10 @@
+id: trojita
+vendor_id: kde
+name: Trojita
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:trojita:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trojita
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a8-firmware
+vendor_id: chuango
+name: A8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chuango:a8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a8_firmware
+  confidence: auto

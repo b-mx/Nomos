@@ -1,0 +1,10 @@
+id: v540-24iwl
+vendor_id: lenovo
+name: V540-24Iwl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v540\-24iwl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v540-24iwl
+  confidence: auto

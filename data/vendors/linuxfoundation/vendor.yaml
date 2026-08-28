@@ -1,0 +1,7 @@
+id: linuxfoundation
+name: Linuxfoundation
+cpe: cpe:2.3:*:linuxfoundation:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linuxfoundation
+  confidence: auto

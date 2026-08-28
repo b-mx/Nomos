@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "ffmpeg",
+  "vendor_id": "ffmpeg",
+  "name": "Ffmpeg",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ffmpeg",
+      "confidence": "auto"
+    }
+  ]
+}

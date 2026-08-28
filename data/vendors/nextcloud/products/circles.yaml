@@ -1,0 +1,10 @@
+id: circles
+vendor_id: nextcloud
+name: Circles
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:circles:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: circles
+  confidence: auto

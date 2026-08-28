@@ -1,0 +1,10 @@
+id: fcn-rtu
+vendor_id: yokogawa
+name: Fcn-Rtu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yokogawa:fcn\-rtu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fcn-rtu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tdc-x401gl
+vendor_id: sick
+name: Tdc-X401Gl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:tdc\-x401gl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tdc-x401gl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: clusterengine
+vendor_id: inspur
+name: Clusterengine
+type: software
+tags: []
+cpe: cpe:2.3:a:inspur:clusterengine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clusterengine
+  confidence: auto

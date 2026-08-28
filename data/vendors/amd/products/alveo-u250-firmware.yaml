@@ -1,0 +1,10 @@
+id: alveo-u250-firmware
+vendor_id: amd
+name: Alveo U250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:alveo_u250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alveo_u250_firmware
+  confidence: auto

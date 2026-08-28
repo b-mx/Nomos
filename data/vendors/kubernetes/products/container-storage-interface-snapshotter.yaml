@@ -1,0 +1,10 @@
+id: container-storage-interface-snapshotter
+vendor_id: kubernetes
+name: Container Storage Interface Snapshotter
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:container_storage_interface_snapshotter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: container_storage_interface_snapshotter
+  confidence: auto

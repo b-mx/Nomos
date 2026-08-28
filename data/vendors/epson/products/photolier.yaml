@@ -1,0 +1,10 @@
+id: photolier
+vendor_id: epson
+name: Photolier
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:photolier:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photolier
+  confidence: auto

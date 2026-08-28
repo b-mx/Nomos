@@ -1,0 +1,10 @@
+id: rtu540
+vendor_id: hitachienergy
+name: Rtu540
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:rtu540:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtu540
+  confidence: auto

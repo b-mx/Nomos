@@ -1,0 +1,10 @@
+id: manageengine-device-control-plus
+vendor_id: zohocorp
+name: Manageengine Device Control Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_device_control_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_device_control_plus
+  confidence: auto

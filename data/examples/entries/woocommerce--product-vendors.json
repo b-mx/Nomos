@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "woocommerce--product-vendors",
+  "vendor_id": "woocommerce",
+  "product_id": "product-vendors",
+  "name": "Product Vendors",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "product_vendors",
+      "confidence": "auto"
+    }
+  ]
+}

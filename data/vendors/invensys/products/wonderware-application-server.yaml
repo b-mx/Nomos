@@ -1,0 +1,10 @@
+id: wonderware-application-server
+vendor_id: invensys
+name: Wonderware Application Server
+type: software
+tags: []
+cpe: cpe:2.3:a:invensys:wonderware_application_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wonderware_application_server
+  confidence: auto

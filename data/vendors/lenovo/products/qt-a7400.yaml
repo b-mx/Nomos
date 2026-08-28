@@ -1,0 +1,10 @@
+id: qt-a7400
+vendor_id: lenovo
+name: Qt A7400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:qt_a7400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qt_a7400
+  confidence: auto

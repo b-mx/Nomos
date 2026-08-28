@@ -1,0 +1,10 @@
+id: system-access-point-127v-firmware
+vendor_id: abb
+name: System Access Point 127V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:system_access_point_127v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_access_point_127v_firmware
+  confidence: auto

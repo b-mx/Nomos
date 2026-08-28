@@ -1,0 +1,10 @@
+id: rex640-pcl1-firmware
+vendor_id: abb
+name: Rex640 Pcl1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:rex640_pcl1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rex640_pcl1_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: neural-network-libraries
+vendor_id: sony
+name: Neural Network Libraries
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:neural_network_libraries:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neural_network_libraries
+  confidence: auto

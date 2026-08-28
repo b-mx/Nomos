@@ -1,0 +1,10 @@
+id: smart-tank-6000-2h5s3a-firmware
+vendor_id: hp
+name: Smart Tank 6000 2H5S3A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:smart_tank_6000_2h5s3a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_6000_2h5s3a_firmware
+  confidence: auto

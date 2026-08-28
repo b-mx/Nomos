@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--whg-napg-firmware",
+  "vendor_id": "iodata",
+  "product_id": "whg-napg-firmware",
+  "name": "Whg-Napg Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "whg-napg_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

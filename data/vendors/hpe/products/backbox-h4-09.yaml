@@ -1,0 +1,10 @@
+id: backbox-h4-09
+vendor_id: hpe
+name: Backbox H4.09
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:backbox_h4\.09:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backbox_h4.09
+  confidence: auto

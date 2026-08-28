@@ -1,0 +1,10 @@
+id: harmonyos
+vendor_id: huawei
+name: Harmonyos
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:harmonyos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: harmonyos
+  confidence: auto

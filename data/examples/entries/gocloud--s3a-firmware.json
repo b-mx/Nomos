@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gocloud--s3a-firmware",
+  "vendor_id": "gocloud",
+  "product_id": "s3a-firmware",
+  "name": "S3A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "s3a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

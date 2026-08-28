@@ -1,0 +1,10 @@
+id: cs421
+vendor_id: lexmark
+name: Cs421
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs421:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs421
+  confidence: auto

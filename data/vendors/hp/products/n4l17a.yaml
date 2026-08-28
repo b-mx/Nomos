@@ -1,0 +1,10 @@
+id: n4l17a
+vendor_id: hp
+name: N4L17A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:n4l17a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n4l17a
+  confidence: auto

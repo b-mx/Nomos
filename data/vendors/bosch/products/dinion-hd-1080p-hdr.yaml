@@ -1,0 +1,10 @@
+id: dinion-hd-1080p-hdr
+vendor_id: bosch
+name: Dinion Hd 1080P Hdr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:dinion_hd_1080p_hdr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_hd_1080p_hdr
+  confidence: auto

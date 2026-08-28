@@ -1,0 +1,10 @@
+id: repository-mirroring-tool
+vendor_id: suse
+name: Repository Mirroring Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:repository_mirroring_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: repository_mirroring_tool
+  confidence: auto

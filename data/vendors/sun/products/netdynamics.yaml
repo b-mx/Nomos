@@ -1,0 +1,10 @@
+id: netdynamics
+vendor_id: sun
+name: Netdynamics
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:netdynamics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netdynamics
+  confidence: auto

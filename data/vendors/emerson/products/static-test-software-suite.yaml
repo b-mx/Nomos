@@ -1,0 +1,10 @@
+id: static-test-software-suite
+vendor_id: emerson
+name: Static Test Software Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:static_test_software_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: static_test_software_suite
+  confidence: auto

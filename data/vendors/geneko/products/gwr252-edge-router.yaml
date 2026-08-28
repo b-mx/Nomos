@@ -1,0 +1,10 @@
+id: gwr252-edge-router
+vendor_id: geneko
+name: Gwr252 Edge Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:geneko:gwr252_edge_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gwr252_edge_router
+  confidence: auto

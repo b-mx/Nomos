@@ -1,0 +1,10 @@
+id: optima-xr220amx
+vendor_id: gehealthcare
+name: Optima Xr220Amx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:optima_xr220amx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_xr220amx
+  confidence: auto

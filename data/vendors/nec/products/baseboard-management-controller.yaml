@@ -1,0 +1,10 @@
+id: baseboard-management-controller
+vendor_id: nec
+name: Baseboard Management Controller
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:baseboard_management_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baseboard_management_controller
+  confidence: auto

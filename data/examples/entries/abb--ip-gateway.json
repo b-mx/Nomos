@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--ip-gateway",
+  "vendor_id": "abb",
+  "product_id": "ip-gateway",
+  "name": "Ip Gateway",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ip_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

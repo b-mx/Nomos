@@ -1,0 +1,10 @@
+id: 758-xxxx-series-firmware
+vendor_id: wago
+name: 758-Xxxx Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:758\-xxxx_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 758-xxxx_series_firmware
+  confidence: auto

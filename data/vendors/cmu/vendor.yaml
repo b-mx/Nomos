@@ -1,0 +1,7 @@
+id: cmu
+name: Cmu
+cpe: cpe:2.3:*:cmu:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmu
+  confidence: auto

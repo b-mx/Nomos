@@ -1,0 +1,10 @@
+id: intelligent-platforms-proficy-dnp3-i-o-driver
+vendor_id: ge
+name: Intelligent Platforms Proficy Dnp3 I/O Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:intelligent_platforms_proficy_dnp3_i\/o_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_platforms_proficy_dnp3_i/o_driver
+  confidence: auto

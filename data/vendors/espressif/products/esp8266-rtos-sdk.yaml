@@ -1,0 +1,10 @@
+id: esp8266-rtos-sdk
+vendor_id: espressif
+name: Esp8266 Rtos Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:espressif:esp8266_rtos_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp8266_rtos_sdk
+  confidence: auto

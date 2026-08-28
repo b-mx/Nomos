@@ -1,0 +1,10 @@
+id: triton-web-security
+vendor_id: websense
+name: Triton Web Security
+type: software
+tags: []
+cpe: cpe:2.3:a:websense:triton_web_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: triton_web_security
+  confidence: auto

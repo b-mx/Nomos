@@ -1,0 +1,10 @@
+id: gosnowflake
+vendor_id: snowflake
+name: Gosnowflake
+type: software
+tags: []
+cpe: cpe:2.3:a:snowflake:gosnowflake:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gosnowflake
+  confidence: auto

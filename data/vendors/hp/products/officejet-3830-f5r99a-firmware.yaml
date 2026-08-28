@@ -1,0 +1,10 @@
+id: officejet-3830-f5r99a-firmware
+vendor_id: hp
+name: Officejet 3830 F5R99A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_3830_f5r99a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_3830_f5r99a_firmware
+  confidence: auto

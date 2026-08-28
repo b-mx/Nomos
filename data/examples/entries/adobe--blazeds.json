@@ -6,13 +6,13 @@
   "name": "BlazeDS",
   "type": "software",
   "tags": [],
-  "icon": "logos:adobe-icon",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "BlazeDS",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

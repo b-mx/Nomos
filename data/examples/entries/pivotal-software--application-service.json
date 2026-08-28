@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--application-service",
+  "vendor_id": "pivotal-software",
+  "product_id": "application-service",
+  "name": "Application Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "application_service",
+      "confidence": "auto"
+    }
+  ]
+}

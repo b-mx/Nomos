@@ -1,0 +1,10 @@
+id: good-enterprise-mobility-server
+vendor_id: blackberry
+name: Good Enterprise Mobility Server
+type: os
+tags: []
+cpe: cpe:2.3:o:blackberry:good_enterprise_mobility_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: good_enterprise_mobility_server
+  confidence: auto

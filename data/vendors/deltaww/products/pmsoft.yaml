@@ -1,0 +1,10 @@
+id: pmsoft
+vendor_id: deltaww
+name: Pmsoft
+type: os
+tags: []
+cpe: cpe:2.3:o:deltaww:pmsoft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pmsoft
+  confidence: auto

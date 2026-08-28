@@ -1,0 +1,10 @@
+id: bl-ac2100-az3
+vendor_id: b-link
+name: Bl-Ac2100 Az3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:b\-link:bl\-ac2100_az3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-ac2100_az3
+  confidence: auto

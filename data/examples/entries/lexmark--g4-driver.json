@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--g4-driver",
+  "vendor_id": "lexmark",
+  "product_id": "g4-driver",
+  "name": "G4 Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "g4_driver",
+      "confidence": "auto"
+    }
+  ]
+}

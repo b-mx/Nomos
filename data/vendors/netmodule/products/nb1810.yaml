@@ -1,0 +1,10 @@
+id: nb1810
+vendor_id: netmodule
+name: Nb1810
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:nb1810:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb1810
+  confidence: auto

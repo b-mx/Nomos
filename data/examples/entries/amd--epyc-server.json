@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-server",
+  "vendor_id": "amd",
+  "product_id": "epyc-server",
+  "name": "Epyc Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_server",
+      "confidence": "auto"
+    }
+  ]
+}

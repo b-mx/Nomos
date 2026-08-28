@@ -1,0 +1,7 @@
+id: openmicroscopy
+name: Openmicroscopy
+cpe: cpe:2.3:*:openmicroscopy:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openmicroscopy
+  confidence: auto

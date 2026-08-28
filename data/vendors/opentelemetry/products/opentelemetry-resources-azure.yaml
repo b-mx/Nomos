@@ -1,0 +1,10 @@
+id: opentelemetry-resources-azure
+vendor_id: opentelemetry
+name: Opentelemetry.Resources.Azure
+type: software
+tags: []
+cpe: cpe:2.3:a:opentelemetry:opentelemetry\.resources\.azure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentelemetry.resources.azure
+  confidence: auto

@@ -1,0 +1,13 @@
+id: artifactory
+vendor_id: jfrog
+name: Artifactory
+type: software
+tags: []
+cpe: cpe:2.3:a:jfrog:artifactory:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: artifactory
+  confidence: auto
+- source: nvd
+  value: artifactory
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dr-16f42a-firmware
+vendor_id: cbc
+name: Dr-16F42A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cbc:dr\-16f42a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-16f42a_firmware
+  confidence: auto

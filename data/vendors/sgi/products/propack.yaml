@@ -1,0 +1,10 @@
+id: propack
+vendor_id: sgi
+name: Propack
+type: software
+tags: []
+cpe: cpe:2.3:a:sgi:propack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: propack
+  confidence: auto

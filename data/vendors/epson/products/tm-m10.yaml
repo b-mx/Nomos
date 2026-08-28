@@ -1,0 +1,10 @@
+id: tm-m10
+vendor_id: epson
+name: Tm-M10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-m10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-m10
+  confidence: auto

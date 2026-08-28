@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "elasticsearch--x-pack-reporting",
+  "vendor_id": "elasticsearch",
+  "product_id": "x-pack-reporting",
+  "name": "X-Pack Reporting",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x-pack_reporting",
+      "confidence": "auto"
+    }
+  ]
+}

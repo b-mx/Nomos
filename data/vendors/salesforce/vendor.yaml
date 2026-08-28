@@ -1,0 +1,7 @@
+id: salesforce
+name: Salesforce
+cpe: cpe:2.3:*:salesforce:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: salesforce
+  confidence: auto

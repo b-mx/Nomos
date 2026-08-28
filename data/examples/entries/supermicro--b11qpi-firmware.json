@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--b11qpi-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "b11qpi-firmware",
+  "name": "B11Qpi Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b11qpi_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

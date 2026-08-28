@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--fire-os",
+  "vendor_id": "amazon",
+  "product_id": "fire-os",
+  "name": "Fire Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fire_os",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: designjet-t1700-w6b55a
+vendor_id: hp
+name: Designjet T1700 W6B55A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_t1700_w6b55a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_t1700_w6b55a
+  confidence: auto

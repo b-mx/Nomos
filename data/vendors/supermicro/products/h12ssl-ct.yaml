@@ -1,0 +1,10 @@
+id: h12ssl-ct
+vendor_id: supermicro
+name: H12Ssl-Ct
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h12ssl\-ct:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12ssl-ct
+  confidence: auto

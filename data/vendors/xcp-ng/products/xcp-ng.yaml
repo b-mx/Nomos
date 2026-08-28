@@ -1,0 +1,9 @@
+id: xcp-ng
+vendor_id: xcp-ng
+name: XCP-ng
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: xcp-ng
+  confidence: auto

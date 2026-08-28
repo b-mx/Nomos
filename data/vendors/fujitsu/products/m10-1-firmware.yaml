@@ -1,0 +1,10 @@
+id: m10-1-firmware
+vendor_id: fujitsu
+name: M10-1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:m10\-1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m10-1_firmware
+  confidence: auto

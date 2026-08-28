@@ -1,0 +1,10 @@
+id: c109
+vendor_id: rstinstruments
+name: C109
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:c109:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c109
+  confidence: auto

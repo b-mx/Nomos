@@ -1,0 +1,10 @@
+id: hl-j6100dw-firmware
+vendor_id: brother
+name: Hl-J6100Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:hl\-j6100dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hl-j6100dw_firmware
+  confidence: auto

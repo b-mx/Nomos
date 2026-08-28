@@ -1,0 +1,10 @@
+id: kinetis-kv1x
+vendor_id: nxp
+name: Kinetis Kv1X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:kinetis_kv1x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kinetis_kv1x
+  confidence: auto

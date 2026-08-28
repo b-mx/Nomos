@@ -1,0 +1,10 @@
+id: pc-sc-activator-for-type-b
+vendor_id: sony
+name: Pc/Sc Activator For Type B
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:pc\/sc_activator_for_type_b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc/sc_activator_for_type_b
+  confidence: auto

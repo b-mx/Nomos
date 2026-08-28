@@ -1,0 +1,10 @@
+id: uipath-access-policy-sdk
+vendor_id: uipath
+name: Uipath/Access-Policy-Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/access\-policy\-sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/access-policy-sdk
+  confidence: auto

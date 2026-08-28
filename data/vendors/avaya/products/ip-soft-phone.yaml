@@ -1,0 +1,10 @@
+id: ip-soft-phone
+vendor_id: avaya
+name: Ip Soft Phone
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:ip_soft_phone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_soft_phone
+  confidence: auto

@@ -1,0 +1,10 @@
+id: apeos-c325-dw
+vendor_id: fujifilm
+name: Apeos C325 Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_c325_dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_c325_dw
+  confidence: auto

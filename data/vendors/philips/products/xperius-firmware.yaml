@@ -1,0 +1,10 @@
+id: xperius-firmware
+vendor_id: philips
+name: Xperius Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:xperius_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xperius_firmware
+  confidence: auto

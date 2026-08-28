@@ -1,0 +1,10 @@
+id: huawei-pay
+vendor_id: huawei
+name: Huawei Pay
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:huawei_pay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: huawei_pay
+  confidence: auto

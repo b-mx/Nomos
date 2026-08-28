@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--sgi-uv-300-rmc-firmware",
+  "vendor_id": "hpe",
+  "product_id": "sgi-uv-300-rmc-firmware",
+  "name": "Sgi Uv 300 Rmc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sgi_uv_300_rmc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

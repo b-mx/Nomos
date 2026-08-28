@@ -1,0 +1,10 @@
+id: thespyapp
+vendor_id: 1byte
+name: Thespyapp
+type: software
+tags: []
+cpe: cpe:2.3:a:1byte:thespyapp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thespyapp
+  confidence: auto

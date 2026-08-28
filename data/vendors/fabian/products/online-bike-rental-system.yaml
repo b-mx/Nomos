@@ -1,0 +1,10 @@
+id: online-bike-rental-system
+vendor_id: fabian
+name: Online Bike Rental System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_bike_rental_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_bike_rental_system
+  confidence: auto

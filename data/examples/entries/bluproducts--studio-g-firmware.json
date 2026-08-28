@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bluproducts--studio-g-firmware",
+  "vendor_id": "bluproducts",
+  "product_id": "studio-g-firmware",
+  "name": "Studio G Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "studio_g_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

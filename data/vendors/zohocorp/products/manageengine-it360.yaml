@@ -1,0 +1,10 @@
+id: manageengine-it360
+vendor_id: zohocorp
+name: Manageengine It360
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_it360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_it360
+  confidence: auto

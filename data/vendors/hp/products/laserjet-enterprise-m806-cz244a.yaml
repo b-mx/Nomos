@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m806-cz244a
+vendor_id: hp
+name: Laserjet Enterprise M806 Cz244A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_m806_cz244a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m806_cz244a
+  confidence: auto

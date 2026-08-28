@@ -1,0 +1,10 @@
+id: drm-2
+vendor_id: mirion
+name: Drm-2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mirion:drm\-2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: drm-2
+  confidence: auto

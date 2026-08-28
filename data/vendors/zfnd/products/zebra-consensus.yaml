@@ -1,0 +1,10 @@
+id: zebra-consensus
+vendor_id: zfnd
+name: Zebra-Consensus
+type: software
+tags: []
+cpe: cpe:2.3:a:zfnd:zebra\-consensus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zebra-consensus
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkpad-s5-e560p-bios
+vendor_id: lenovo
+name: Thinkpad S5 E560P Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_s5_e560p_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_s5_e560p_bios
+  confidence: auto

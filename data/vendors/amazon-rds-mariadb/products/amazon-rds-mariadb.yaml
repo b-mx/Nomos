@@ -1,0 +1,10 @@
+id: amazon-rds-mariadb
+vendor_id: amazon-rds-mariadb
+name: Amazon RDS for MariaDB
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: amazon-rds-mariadb
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 5620ptz-firmware
+vendor_id: verint
+name: 5620Ptz Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:verint:5620ptz_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5620ptz_firmware
+  confidence: auto

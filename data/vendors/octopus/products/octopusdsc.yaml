@@ -1,0 +1,10 @@
+id: octopusdsc
+vendor_id: octopus
+name: Octopusdsc
+type: software
+tags: []
+cpe: cpe:2.3:a:octopus:octopusdsc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: octopusdsc
+  confidence: auto

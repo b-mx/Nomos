@@ -1,0 +1,10 @@
+id: simple-gym-management-system
+vendor_id: carmelo
+name: Simple Gym Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:simple_gym_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_gym_management_system
+  confidence: auto

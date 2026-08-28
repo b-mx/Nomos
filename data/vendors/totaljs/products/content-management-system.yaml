@@ -1,0 +1,10 @@
+id: content-management-system
+vendor_id: totaljs
+name: Content Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:totaljs:content_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: content_management_system
+  confidence: auto

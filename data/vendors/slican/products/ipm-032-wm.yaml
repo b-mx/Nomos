@@ -1,0 +1,10 @@
+id: ipm-032-wm
+vendor_id: slican
+name: Ipm-032.Wm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:slican:ipm\-032\.wm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipm-032.wm
+  confidence: auto

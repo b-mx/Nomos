@@ -1,0 +1,10 @@
+id: 3dexperience
+vendor_id: 3ds
+name: 3Dexperience
+type: os
+tags: []
+cpe: cpe:2.3:o:3ds:3dexperience:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3dexperience
+  confidence: auto

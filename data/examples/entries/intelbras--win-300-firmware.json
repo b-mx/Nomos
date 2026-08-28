@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intelbras--win-300-firmware",
+  "vendor_id": "intelbras",
+  "product_id": "win-300-firmware",
+  "name": "Win 300 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "win_300_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

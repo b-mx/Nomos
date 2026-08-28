@@ -1,0 +1,10 @@
+id: mx-m3070
+vendor_id: sharp
+name: Mx-M3070
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-m3070:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m3070
+  confidence: auto

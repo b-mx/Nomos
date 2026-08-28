@@ -1,0 +1,10 @@
+id: tooltip-glossary
+vendor_id: cminds
+name: Tooltip Glossary
+type: software
+tags: []
+cpe: cpe:2.3:a:cminds:tooltip_glossary:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tooltip_glossary
+  confidence: auto

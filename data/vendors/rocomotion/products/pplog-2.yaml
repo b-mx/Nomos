@@ -1,0 +1,10 @@
+id: pplog-2
+vendor_id: rocomotion
+name: Pplog 2
+type: software
+tags: []
+cpe: cpe:2.3:a:rocomotion:pplog_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pplog_2
+  confidence: auto

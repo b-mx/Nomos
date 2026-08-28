@@ -1,0 +1,10 @@
+id: defender-security
+vendor_id: wpmudev
+name: Defender Security
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmudev:defender_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: defender_security
+  confidence: auto

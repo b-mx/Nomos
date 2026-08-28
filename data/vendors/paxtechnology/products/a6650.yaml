@@ -1,0 +1,10 @@
+id: a6650
+vendor_id: paxtechnology
+name: A6650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:paxtechnology:a6650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a6650
+  confidence: auto

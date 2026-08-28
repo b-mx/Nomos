@@ -1,0 +1,10 @@
+id: sp-377snwx-firmware
+vendor_id: ricoh
+name: Sp 377Snwx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:sp_377snwx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_377snwx_firmware
+  confidence: auto

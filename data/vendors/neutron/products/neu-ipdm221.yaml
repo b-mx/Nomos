@@ -1,0 +1,10 @@
+id: neu-ipdm221
+vendor_id: neutron
+name: Neu-Ipdm221
+type: hardware
+tags: []
+cpe: cpe:2.3:h:neutron:neu\-ipdm221:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neu-ipdm221
+  confidence: auto

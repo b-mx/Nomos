@@ -1,0 +1,10 @@
+id: time-boot-mini-rsc-mt4h
+vendor_id: meikyo
+name: Time Boot Mini Rsc-Mt4H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meikyo:time_boot_mini_rsc\-mt4h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: time_boot_mini_rsc-mt4h
+  confidence: auto

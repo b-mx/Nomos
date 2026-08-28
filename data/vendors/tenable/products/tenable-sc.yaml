@@ -1,0 +1,10 @@
+id: tenable-sc
+vendor_id: tenable
+name: Tenable.Sc
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:tenable\.sc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tenable.sc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pcd-controllers-firmware
+vendor_id: saia-burgess-controls
+name: Pcd Controllers Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:saia_burgess_controls:pcd_controllers_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcd_controllers_firmware
+  confidence: auto

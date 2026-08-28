@@ -1,0 +1,10 @@
+id: f5-firmware
+vendor_id: oppo
+name: F5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:oppo:f5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f5_firmware
+  confidence: auto

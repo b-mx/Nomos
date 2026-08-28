@@ -1,0 +1,10 @@
+id: plugfree-network
+vendor_id: fujitsu
+name: Plugfree Network
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:plugfree_network:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plugfree_network
+  confidence: auto

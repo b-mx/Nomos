@@ -1,0 +1,10 @@
+id: meetings
+vendor_id: zoom
+name: Meetings
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:meetings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meetings
+  confidence: auto

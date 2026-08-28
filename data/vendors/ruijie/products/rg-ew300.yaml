@@ -1,0 +1,10 @@
+id: rg-ew300
+vendor_id: ruijie
+name: Rg-Ew300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-ew300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-ew300
+  confidence: auto

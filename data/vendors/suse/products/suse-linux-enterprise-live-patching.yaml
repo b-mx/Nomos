@@ -1,0 +1,10 @@
+id: suse-linux-enterprise-live-patching
+vendor_id: suse
+name: Suse Linux Enterprise Live Patching
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:suse_linux_enterprise_live_patching:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_enterprise_live_patching
+  confidence: auto

@@ -1,0 +1,10 @@
+id: email-security-gateway-300
+vendor_id: barracuda
+name: Email Security Gateway 300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:barracuda:email_security_gateway_300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: email_security_gateway_300
+  confidence: auto

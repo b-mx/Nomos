@@ -1,0 +1,10 @@
+id: rv7fr
+vendor_id: mitsubishielectric
+name: Rv7Fr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv7fr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv7fr
+  confidence: auto

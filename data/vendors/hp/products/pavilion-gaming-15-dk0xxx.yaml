@@ -1,0 +1,10 @@
+id: pavilion-gaming-15-dk0xxx
+vendor_id: hp
+name: Pavilion Gaming 15-Dk0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_gaming_15\-dk0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_gaming_15-dk0xxx
+  confidence: auto

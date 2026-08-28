@@ -1,0 +1,10 @@
+id: fd8000
+vendor_id: cdatatec
+name: Fd8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cdatatec:fd8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd8000
+  confidence: auto

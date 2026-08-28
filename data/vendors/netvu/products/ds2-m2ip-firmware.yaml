@@ -1,0 +1,10 @@
+id: ds2-m2ip-firmware
+vendor_id: netvu
+name: Ds2 (M2Ip) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netvu:ds2_\(m2ip\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds2_(m2ip)_firmware
+  confidence: auto

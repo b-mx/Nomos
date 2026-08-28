@@ -1,0 +1,10 @@
+id: dragonfly-folio-g3-2-in-1
+vendor_id: hp
+name: Dragonfly Folio G3 2-In-1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:dragonfly_folio_g3_2\-in\-1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dragonfly_folio_g3_2-in-1
+  confidence: auto

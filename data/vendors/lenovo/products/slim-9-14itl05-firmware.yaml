@@ -1,0 +1,10 @@
+id: slim-9-14itl05-firmware
+vendor_id: lenovo
+name: Slim 9-14Itl05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:slim_9\-14itl05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slim_9-14itl05_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mainwp-child-reports
+vendor_id: mainwp
+name: Mainwp Child Reports
+type: software
+tags: []
+cpe: cpe:2.3:a:mainwp:mainwp_child_reports:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mainwp_child_reports
+  confidence: auto

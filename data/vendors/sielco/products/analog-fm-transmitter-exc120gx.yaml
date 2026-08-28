@@ -1,0 +1,10 @@
+id: analog-fm-transmitter-exc120gx
+vendor_id: sielco
+name: Analog Fm Transmitter Exc120Gx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sielco:analog_fm_transmitter_exc120gx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: analog_fm_transmitter_exc120gx
+  confidence: auto

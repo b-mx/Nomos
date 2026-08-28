@@ -1,0 +1,10 @@
+id: bk9000
+vendor_id: beckhoff
+name: Bk9000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:beckhoff:bk9000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bk9000
+  confidence: auto

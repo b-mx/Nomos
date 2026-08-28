@@ -1,0 +1,10 @@
+id: emily-tl00b
+vendor_id: huawei
+name: Emily-Tl00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:emily\-tl00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emily-tl00b
+  confidence: auto

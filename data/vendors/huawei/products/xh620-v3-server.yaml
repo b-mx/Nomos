@@ -1,0 +1,10 @@
+id: xh620-v3-server
+vendor_id: huawei
+name: Xh620 V3 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:xh620_v3_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xh620_v3_server
+  confidence: auto

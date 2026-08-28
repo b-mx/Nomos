@@ -1,0 +1,10 @@
+id: zoom-on-premise-meeting-connector-mmr
+vendor_id: zoom
+name: Zoom On-Premise Meeting Connector Mmr
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:zoom_on\-premise_meeting_connector_mmr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zoom_on-premise_meeting_connector_mmr
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ds-600
+vendor_id: silextechnology
+name: Ds-600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:silextechnology:ds\-600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds-600
+  confidence: auto

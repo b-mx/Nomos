@@ -1,0 +1,10 @@
+id: unibox-u1000
+vendor_id: indionetworks
+name: Unibox U1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:indionetworks:unibox_u1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unibox_u1000
+  confidence: auto

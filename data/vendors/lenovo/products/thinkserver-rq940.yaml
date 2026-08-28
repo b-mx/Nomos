@@ -1,0 +1,10 @@
+id: thinkserver-rq940
+vendor_id: lenovo
+name: Thinkserver Rq940
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkserver_rq940:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkserver_rq940
+  confidence: auto

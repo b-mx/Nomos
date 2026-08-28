@@ -1,0 +1,10 @@
+id: x13san-c
+vendor_id: supermicro
+name: X13San-C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13san\-c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13san-c
+  confidence: auto

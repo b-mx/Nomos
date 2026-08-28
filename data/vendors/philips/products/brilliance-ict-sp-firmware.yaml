@@ -1,0 +1,10 @@
+id: brilliance-ict-sp-firmware
+vendor_id: philips
+name: Brilliance Ict Sp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:brilliance_ict_sp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brilliance_ict_sp_firmware
+  confidence: auto

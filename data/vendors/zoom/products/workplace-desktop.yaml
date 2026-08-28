@@ -1,0 +1,10 @@
+id: workplace-desktop
+vendor_id: zoom
+name: Workplace Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:workplace_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workplace_desktop
+  confidence: auto

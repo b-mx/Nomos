@@ -1,0 +1,10 @@
+id: pcd2-m5xx0
+vendor_id: saia-burgess-controls
+name: Pcd2.M5Xx0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:saia_burgess_controls:pcd2\.m5xx0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcd2.m5xx0
+  confidence: auto

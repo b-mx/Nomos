@@ -1,0 +1,10 @@
+id: horizon-cardiology-firmware
+vendor_id: mckesson
+name: Horizon Cardiology Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mckesson:horizon_cardiology_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: horizon_cardiology_firmware
+  confidence: auto

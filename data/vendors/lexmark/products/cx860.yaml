@@ -1,0 +1,10 @@
+id: cx860
+vendor_id: lexmark
+name: Cx860
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx860:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx860
+  confidence: auto

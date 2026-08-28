@@ -1,0 +1,10 @@
+id: figo-al00a-firmware
+vendor_id: huawei
+name: Figo-Al00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:figo\-al00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: figo-al00a_firmware
+  confidence: auto

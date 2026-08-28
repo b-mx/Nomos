@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gradle--maven",
+  "vendor_id": "gradle",
+  "product_id": "maven",
+  "name": "Maven",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "maven",
+      "confidence": "auto"
+    }
+  ]
+}

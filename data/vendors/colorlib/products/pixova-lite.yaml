@@ -1,0 +1,10 @@
+id: pixova-lite
+vendor_id: colorlib
+name: Pixova Lite
+type: software
+tags: []
+cpe: cpe:2.3:a:colorlib:pixova_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pixova_lite
+  confidence: auto

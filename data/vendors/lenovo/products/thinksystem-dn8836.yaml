@@ -1,0 +1,10 @@
+id: thinksystem-dn8836
+vendor_id: lenovo
+name: Thinksystem Dn8836
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_dn8836:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_dn8836
+  confidence: auto

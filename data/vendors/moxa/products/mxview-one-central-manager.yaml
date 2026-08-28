@@ -1,0 +1,10 @@
+id: mxview-one-central-manager
+vendor_id: moxa
+name: Mxview One Central Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:moxa:mxview_one_central_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mxview_one_central_manager
+  confidence: auto

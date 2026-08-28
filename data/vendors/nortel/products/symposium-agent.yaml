@@ -1,0 +1,10 @@
+id: symposium-agent
+vendor_id: nortel
+name: Symposium Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:symposium_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symposium_agent
+  confidence: auto

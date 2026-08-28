@@ -1,0 +1,10 @@
+id: p2r8852e2-firmware
+vendor_id: meritlilin
+name: P2R8852E2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meritlilin:p2r8852e2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p2r8852e2_firmware
+  confidence: auto

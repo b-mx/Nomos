@@ -1,0 +1,10 @@
+id: 255-g8-rom-family-ssid-87d1
+vendor_id: hp
+name: 255 G8 (Rom Family Ssid 87D1)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:255_g8_\(rom_family_ssid_87d1\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 255_g8_(rom_family_ssid_87d1)
+  confidence: auto

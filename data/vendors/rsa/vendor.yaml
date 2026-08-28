@@ -1,0 +1,7 @@
+id: rsa
+name: Rsa
+cpe: cpe:2.3:*:rsa:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa
+  confidence: auto

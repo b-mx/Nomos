@@ -1,0 +1,10 @@
+id: storage-security-software
+vendor_id: toshiba
+name: Storage Security Software
+type: software
+tags: []
+cpe: cpe:2.3:a:toshiba:storage_security_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_security_software
+  confidence: auto

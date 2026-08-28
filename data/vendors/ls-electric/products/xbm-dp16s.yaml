@@ -1,0 +1,10 @@
+id: xbm-dp16s
+vendor_id: ls-electric
+name: Xbm-Dp16S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xbm\-dp16s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbm-dp16s
+  confidence: auto

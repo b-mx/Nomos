@@ -1,0 +1,10 @@
+id: c2s11a-firmware
+vendor_id: hp
+name: C2S11A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:c2s11a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c2s11a_firmware
+  confidence: auto

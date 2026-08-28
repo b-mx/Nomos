@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m478-m479-w1a75a-firmware
+vendor_id: hp
+name: Laserjet Pro Mfp M478-M479 W1A75A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_mfp_m478\-m479_w1a75a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m478-m479_w1a75a_firmware
+  confidence: auto

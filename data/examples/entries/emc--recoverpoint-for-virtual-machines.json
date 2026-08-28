@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--recoverpoint-for-virtual-machines",
+  "vendor_id": "emc",
+  "product_id": "recoverpoint-for-virtual-machines",
+  "name": "Recoverpoint For Virtual Machines",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "recoverpoint_for_virtual_machines",
+      "confidence": "auto"
+    }
+  ]
+}

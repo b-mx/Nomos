@@ -1,0 +1,10 @@
+id: evo-3d
+vendor_id: htc
+name: Evo 3D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:evo_3d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evo_3d
+  confidence: auto

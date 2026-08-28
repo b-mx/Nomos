@@ -1,0 +1,6 @@
+id: amazon-eks
+name: Amazon EKS
+aliases:
+- source: endoflife
+  value: amazon-eks
+  confidence: auto

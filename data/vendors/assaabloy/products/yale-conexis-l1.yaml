@@ -1,0 +1,10 @@
+id: yale-conexis-l1
+vendor_id: assaabloy
+name: Yale Conexis L1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:assaabloy:yale_conexis_l1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale_conexis_l1
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--panorama-ptz-camera",
+  "vendor_id": "axis",
+  "product_id": "panorama-ptz-camera",
+  "name": "Panorama Ptz Camera",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "panorama_ptz_camera",
+      "confidence": "auto"
+    }
+  ]
+}

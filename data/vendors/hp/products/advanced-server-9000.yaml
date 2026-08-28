@@ -1,0 +1,10 @@
+id: advanced-server-9000
+vendor_id: hp
+name: Advanced Server 9000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:advanced_server_9000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_server_9000
+  confidence: auto

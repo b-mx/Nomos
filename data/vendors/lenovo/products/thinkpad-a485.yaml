@@ -1,0 +1,10 @@
+id: thinkpad-a485
+vendor_id: lenovo
+name: Thinkpad A485
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_a485:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_a485
+  confidence: auto

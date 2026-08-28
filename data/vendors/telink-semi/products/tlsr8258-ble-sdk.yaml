@@ -1,0 +1,10 @@
+id: tlsr8258-ble-sdk
+vendor_id: telink-semi
+name: Tlsr8258 Ble Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:telink\-semi:tlsr8258_ble_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tlsr8258_ble_sdk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dryice-aex
+vendor_id: hcltech
+name: Dryice Aex
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:dryice_aex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dryice_aex
+  confidence: auto

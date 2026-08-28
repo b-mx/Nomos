@@ -1,0 +1,10 @@
+id: maxicharger-dc-compact-mobile
+vendor_id: autel
+name: Maxicharger Dc Compact Mobile
+type: hardware
+tags: []
+cpe: cpe:2.3:h:autel:maxicharger_dc_compact_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxicharger_dc_compact_mobile
+  confidence: auto

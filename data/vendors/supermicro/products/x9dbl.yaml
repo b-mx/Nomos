@@ -1,0 +1,10 @@
+id: x9dbl
+vendor_id: supermicro
+name: X9Dbl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9dbl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9dbl
+  confidence: auto

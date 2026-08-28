@@ -1,0 +1,10 @@
+id: infosearch
+vendor_id: sgi
+name: Infosearch
+type: software
+tags: []
+cpe: cpe:2.3:a:sgi:infosearch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infosearch
+  confidence: auto

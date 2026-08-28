@@ -1,0 +1,10 @@
+id: tc7200-20
+vendor_id: technicolor
+name: Tc7200.20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tc7200\.20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7200.20
+  confidence: auto

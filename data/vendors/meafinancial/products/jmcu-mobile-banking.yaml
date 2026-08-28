@@ -1,0 +1,10 @@
+id: jmcu-mobile-banking
+vendor_id: meafinancial
+name: Jmcu Mobile Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:jmcu_mobile_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jmcu_mobile_banking
+  confidence: auto

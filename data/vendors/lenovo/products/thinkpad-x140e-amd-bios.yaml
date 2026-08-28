@@ -1,0 +1,10 @@
+id: thinkpad-x140e-amd-bios
+vendor_id: lenovo
+name: Thinkpad X140E Amd Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_x140e_amd_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x140e_amd_bios
+  confidence: auto

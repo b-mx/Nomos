@@ -1,0 +1,10 @@
+id: img616lh-firmware
+vendor_id: alliedtelesis
+name: Img616Lh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:alliedtelesis:img616lh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: img616lh_firmware
+  confidence: auto

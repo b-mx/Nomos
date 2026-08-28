@@ -1,0 +1,10 @@
+id: home-spot-cube-firmware
+vendor_id: kddi
+name: Home Spot Cube Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kddi:home_spot_cube_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: home_spot_cube_firmware
+  confidence: auto

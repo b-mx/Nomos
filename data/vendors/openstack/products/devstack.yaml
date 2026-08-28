@@ -1,0 +1,10 @@
+id: devstack
+vendor_id: openstack
+name: Devstack
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:devstack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: devstack
+  confidence: auto

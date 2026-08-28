@@ -1,0 +1,10 @@
+id: ryzen-3-3250u
+vendor_id: amd
+name: Ryzen 3 3250U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3_3250u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3_3250u
+  confidence: auto

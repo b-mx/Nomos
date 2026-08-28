@@ -1,0 +1,10 @@
+id: nova-5i-pro-firmware
+vendor_id: huawei
+name: Nova 5I Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:nova_5i_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova_5i_pro_firmware
+  confidence: auto

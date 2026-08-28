@@ -1,0 +1,10 @@
+id: f4-snc-firmware
+vendor_id: johnsoncontrols
+name: F4-Snc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:johnsoncontrols:f4\-snc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f4-snc_firmware
+  confidence: auto

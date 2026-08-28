@@ -1,0 +1,9 @@
+id: ios-software
+vendor_id: cisco
+name: IOS Software
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: IOS Software
+  confidence: auto

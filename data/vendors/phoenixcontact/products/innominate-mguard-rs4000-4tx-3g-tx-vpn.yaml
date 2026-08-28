@@ -1,0 +1,10 @@
+id: innominate-mguard-rs4000-4tx-3g-tx-vpn
+vendor_id: phoenixcontact
+name: Innominate Mguard Rs4000 4Tx/3G/Tx Vpn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:innominate_mguard_rs4000_4tx\/3g\/tx_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: innominate_mguard_rs4000_4tx/3g/tx_vpn
+  confidence: auto

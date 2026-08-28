@@ -1,0 +1,10 @@
+id: chat-for-telegram
+vendor_id: ninjateam
+name: Chat For Telegram
+type: software
+tags: []
+cpe: cpe:2.3:a:ninjateam:chat_for_telegram:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chat_for_telegram
+  confidence: auto

@@ -1,0 +1,10 @@
+id: patch
+vendor_id: tanium
+name: Patch
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:patch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: patch
+  confidence: auto

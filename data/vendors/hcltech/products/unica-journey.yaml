@@ -1,0 +1,10 @@
+id: unica-journey
+vendor_id: hcltech
+name: Unica Journey
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:unica_journey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unica_journey
+  confidence: auto

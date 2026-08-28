@@ -1,0 +1,10 @@
+id: kauth
+vendor_id: kde
+name: Kauth
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kauth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kauth
+  confidence: auto

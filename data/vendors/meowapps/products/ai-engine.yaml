@@ -1,0 +1,10 @@
+id: ai-engine
+vendor_id: meowapps
+name: Ai Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:meowapps:ai_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ai_engine
+  confidence: auto

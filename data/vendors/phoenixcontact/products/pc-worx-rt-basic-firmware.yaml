@@ -1,0 +1,10 @@
+id: pc-worx-rt-basic-firmware
+vendor_id: phoenixcontact
+name: Pc Worx Rt Basic Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:pc_worx_rt_basic_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc_worx_rt_basic_firmware
+  confidence: auto

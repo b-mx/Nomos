@@ -1,0 +1,10 @@
+id: epiphany
+vendor_id: gnome
+name: Epiphany
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:epiphany:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epiphany
+  confidence: auto

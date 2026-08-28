@@ -1,0 +1,10 @@
+id: knx-ip-firmware
+vendor_id: wago
+name: Knx Ip Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:knx_ip_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: knx_ip_firmware
+  confidence: auto

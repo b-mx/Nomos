@@ -1,0 +1,10 @@
+id: elitedisplay-e202-20-inch
+vendor_id: hp
+name: Elitedisplay E202 20-Inch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitedisplay_e202_20\-inch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitedisplay_e202_20-inch
+  confidence: auto

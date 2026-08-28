@@ -1,0 +1,10 @@
+id: pomelo-monitor
+vendor_id: netease
+name: Pomelo-Monitor
+type: software
+tags: []
+cpe: cpe:2.3:a:netease:pomelo\-monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pomelo-monitor
+  confidence: auto

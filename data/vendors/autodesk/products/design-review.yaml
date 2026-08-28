@@ -1,0 +1,10 @@
+id: design-review
+vendor_id: autodesk
+name: Design Review
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:design_review:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: design_review
+  confidence: auto

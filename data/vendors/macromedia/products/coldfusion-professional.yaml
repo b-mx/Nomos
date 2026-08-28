@@ -1,0 +1,10 @@
+id: coldfusion-professional
+vendor_id: macromedia
+name: Coldfusion Professional
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:coldfusion_professional:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coldfusion_professional
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zarf
+vendor_id: lfprojects
+name: Zarf
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:zarf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zarf
+  confidence: auto

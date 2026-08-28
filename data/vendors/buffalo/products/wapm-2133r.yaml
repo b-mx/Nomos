@@ -1,0 +1,10 @@
+id: wapm-2133r
+vendor_id: buffalo
+name: Wapm-2133R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wapm\-2133r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wapm-2133r
+  confidence: auto

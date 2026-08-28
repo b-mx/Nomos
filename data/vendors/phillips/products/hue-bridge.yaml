@@ -1,0 +1,10 @@
+id: hue-bridge
+vendor_id: phillips
+name: Hue Bridge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phillips:hue_bridge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hue_bridge
+  confidence: auto

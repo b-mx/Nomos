@@ -1,0 +1,10 @@
+id: fl-switch-2008f
+vendor_id: phoenixcontact
+name: Fl Switch 2008F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_switch_2008f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_switch_2008f
+  confidence: auto

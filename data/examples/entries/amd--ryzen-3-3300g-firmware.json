@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-3-3300g-firmware",
+  "vendor_id": "amd",
+  "product_id": "ryzen-3-3300g-firmware",
+  "name": "Ryzen 3 3300G Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_3_3300g_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

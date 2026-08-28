@@ -1,0 +1,10 @@
+id: ur32l-firmware
+vendor_id: milesight
+name: Ur32L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:milesight:ur32l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ur32l_firmware
+  confidence: auto

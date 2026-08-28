@@ -1,0 +1,10 @@
+id: ls-2100dn
+vendor_id: kyocera
+name: Ls-2100Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kyocera:ls\-2100dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ls-2100dn
+  confidence: auto

@@ -1,0 +1,10 @@
+id: online-job-search-engine
+vendor_id: fabian
+name: Online Job Search Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_job_search_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_job_search_engine
+  confidence: auto

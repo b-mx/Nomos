@@ -1,0 +1,10 @@
+id: proliant-bl2x220c-g7-server-blade
+vendor_id: hp
+name: Proliant Bl2X220C G7 Server Blade
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_bl2x220c_g7_server_blade:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_bl2x220c_g7_server_blade
+  confidence: auto

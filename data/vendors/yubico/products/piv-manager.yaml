@@ -1,0 +1,10 @@
+id: piv-manager
+vendor_id: yubico
+name: Piv Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:piv_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: piv_manager
+  confidence: auto

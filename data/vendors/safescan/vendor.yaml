@@ -1,0 +1,7 @@
+id: safescan
+name: Safescan
+cpe: cpe:2.3:*:safescan:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safescan
+  confidence: auto

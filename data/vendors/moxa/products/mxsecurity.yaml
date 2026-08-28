@@ -1,0 +1,10 @@
+id: mxsecurity
+vendor_id: moxa
+name: Mxsecurity
+type: software
+tags: []
+cpe: cpe:2.3:a:moxa:mxsecurity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mxsecurity
+  confidence: auto

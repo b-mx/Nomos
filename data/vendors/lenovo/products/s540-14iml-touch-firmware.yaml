@@ -1,0 +1,10 @@
+id: s540-14iml-touch-firmware
+vendor_id: lenovo
+name: S540-14Iml Touch Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s540\-14iml_touch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s540-14iml_touch_firmware
+  confidence: auto

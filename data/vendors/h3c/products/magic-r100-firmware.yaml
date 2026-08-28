@@ -1,0 +1,10 @@
+id: magic-r100-firmware
+vendor_id: h3c
+name: Magic R100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:magic_r100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_r100_firmware
+  confidence: auto

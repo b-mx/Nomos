@@ -1,0 +1,10 @@
+id: mx711
+vendor_id: lexmark
+name: Mx711
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx711:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx711
+  confidence: auto

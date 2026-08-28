@@ -1,0 +1,10 @@
+id: minimed-620g-mmt-1750-firmware
+vendor_id: medtronic
+name: Minimed 620G Mmt-1750 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:minimed_620g_mmt\-1750_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_620g_mmt-1750_firmware
+  confidence: auto

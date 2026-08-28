@@ -1,0 +1,10 @@
+id: nf8480m5-firmware
+vendor_id: inspur
+name: Nf8480M5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:inspur:nf8480m5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nf8480m5_firmware
+  confidence: auto

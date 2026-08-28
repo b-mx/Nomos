@@ -1,0 +1,10 @@
+id: e-alert
+vendor_id: philips
+name: E-Alert
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:e\-alert:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-alert
+  confidence: auto

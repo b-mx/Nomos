@@ -1,0 +1,10 @@
+id: softco-firmware
+vendor_id: huawei
+name: Softco Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:softco_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softco_firmware
+  confidence: auto

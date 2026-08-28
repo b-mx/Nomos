@@ -1,0 +1,10 @@
+id: sc9832e
+vendor_id: unisoc
+name: Sc9832E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:sc9832e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc9832e
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bridgetech--nomad-portable-firmware",
+  "vendor_id": "bridgetech",
+  "product_id": "nomad-portable-firmware",
+  "name": "Nomad Portable Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nomad_portable_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

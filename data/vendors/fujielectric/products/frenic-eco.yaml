@@ -1,0 +1,10 @@
+id: frenic-eco
+vendor_id: fujielectric
+name: Frenic-Eco
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujielectric:frenic\-eco:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frenic-eco
+  confidence: auto

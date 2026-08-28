@@ -1,0 +1,10 @@
+id: thinkpad-t25-20k7
+vendor_id: lenovo
+name: Thinkpad T25 (20K7)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_t25_\(20k7\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t25_(20k7)
+  confidence: auto

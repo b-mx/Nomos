@@ -1,0 +1,10 @@
+id: rate-star-review
+vendor_id: videowhisper
+name: Rate Star Review
+type: software
+tags: []
+cpe: cpe:2.3:a:videowhisper:rate_star_review:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rate_star_review
+  confidence: auto

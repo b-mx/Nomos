@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--m9l65a-firmware",
+  "vendor_id": "hp",
+  "product_id": "m9l65a-firmware",
+  "name": "M9L65A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m9l65a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: triple-x-profinet-knx
+vendor_id: mbs-solutions
+name: Triple-X Profinet+Knx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:triple\-x_profinet\+knx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: triple-x_profinet+knx
+  confidence: auto

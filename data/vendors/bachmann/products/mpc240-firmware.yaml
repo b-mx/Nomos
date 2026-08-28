@@ -1,0 +1,10 @@
+id: mpc240-firmware
+vendor_id: bachmann
+name: Mpc240 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bachmann:mpc240_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mpc240_firmware
+  confidence: auto

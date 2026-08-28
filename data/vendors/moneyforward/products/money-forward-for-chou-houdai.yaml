@@ -1,0 +1,10 @@
+id: money-forward-for-chou-houdai
+vendor_id: moneyforward
+name: Money Forward For Chou Houdai
+type: software
+tags: []
+cpe: cpe:2.3:a:moneyforward:money_forward_for_chou_houdai:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: money_forward_for_chou_houdai
+  confidence: auto

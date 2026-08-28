@@ -1,0 +1,10 @@
+id: uatoolkit-embedded
+vendor_id: softing
+name: Uatoolkit Embedded
+type: software
+tags: []
+cpe: cpe:2.3:a:softing:uatoolkit_embedded:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uatoolkit_embedded
+  confidence: auto

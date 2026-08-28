@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ericsson--packet-core-controller",
+  "vendor_id": "ericsson",
+  "product_id": "packet-core-controller",
+  "name": "Packet Core Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "packet_core_controller",
+      "confidence": "auto"
+    }
+  ]
+}

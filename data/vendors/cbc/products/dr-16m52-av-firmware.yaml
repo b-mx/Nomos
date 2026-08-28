@@ -1,0 +1,10 @@
+id: dr-16m52-av-firmware
+vendor_id: cbc
+name: Dr-16M52-Av Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cbc:dr\-16m52\-av_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-16m52-av_firmware
+  confidence: auto

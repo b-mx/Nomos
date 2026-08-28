@@ -1,0 +1,10 @@
+id: live-search
+vendor_id: xforwoocommerce
+name: Live Search
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:live_search:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: live_search
+  confidence: auto

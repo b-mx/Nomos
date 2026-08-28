@@ -1,0 +1,10 @@
+id: cacheflow
+vendor_id: bluecoat
+name: Cacheflow
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:cacheflow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cacheflow
+  confidence: auto

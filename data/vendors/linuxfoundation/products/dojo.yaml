@@ -1,0 +1,10 @@
+id: dojo
+vendor_id: linuxfoundation
+name: Dojo
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:dojo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dojo
+  confidence: auto

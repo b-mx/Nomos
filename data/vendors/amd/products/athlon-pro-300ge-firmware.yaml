@@ -1,0 +1,10 @@
+id: athlon-pro-300ge-firmware
+vendor_id: amd
+name: Athlon Pro 300Ge Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:athlon_pro_300ge_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_pro_300ge_firmware
+  confidence: auto

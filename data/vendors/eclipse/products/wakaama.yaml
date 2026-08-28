@@ -1,0 +1,10 @@
+id: wakaama
+vendor_id: eclipse
+name: Wakaama
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:wakaama:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wakaama
+  confidence: auto

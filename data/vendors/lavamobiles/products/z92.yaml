@@ -1,0 +1,10 @@
+id: z92
+vendor_id: lavamobiles
+name: Z92
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lavamobiles:z92:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z92
+  confidence: auto

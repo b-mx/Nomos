@@ -1,0 +1,10 @@
+id: antivirus-plus
+vendor_id: bitdefender
+name: Antivirus Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:antivirus_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivirus_plus
+  confidence: auto

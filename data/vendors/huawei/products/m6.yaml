@@ -1,0 +1,10 @@
+id: m6
+vendor_id: huawei
+name: M6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:m6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m6
+  confidence: auto

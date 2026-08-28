@@ -1,0 +1,10 @@
+id: mx-m265n
+vendor_id: sharp
+name: Mx-M265N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-m265n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m265n
+  confidence: auto

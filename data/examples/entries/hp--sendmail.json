@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--sendmail",
+  "vendor_id": "hp",
+  "product_id": "sendmail",
+  "name": "Sendmail",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sendmail",
+      "confidence": "auto"
+    }
+  ]
+}

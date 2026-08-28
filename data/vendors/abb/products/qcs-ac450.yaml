@@ -1,0 +1,10 @@
+id: qcs-ac450
+vendor_id: abb
+name: Qcs Ac450
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:qcs_ac450:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qcs_ac450
+  confidence: auto

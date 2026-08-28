@@ -1,0 +1,10 @@
+id: v504
+vendor_id: iptime
+name: V504
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:v504:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v504
+  confidence: auto

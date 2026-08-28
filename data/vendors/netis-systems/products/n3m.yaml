@@ -1,0 +1,10 @@
+id: n3m
+vendor_id: netis-systems
+name: N3M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netis\-systems:n3m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n3m
+  confidence: auto

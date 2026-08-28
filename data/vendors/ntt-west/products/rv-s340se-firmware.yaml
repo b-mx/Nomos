@@ -1,0 +1,10 @@
+id: rv-s340se-firmware
+vendor_id: ntt-west
+name: Rv-S340Se Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ntt\-west:rv\-s340se_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-s340se_firmware
+  confidence: auto

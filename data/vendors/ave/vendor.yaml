@@ -1,0 +1,7 @@
+id: ave
+name: Ave
+cpe: cpe:2.3:*:ave:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ave
+  confidence: auto

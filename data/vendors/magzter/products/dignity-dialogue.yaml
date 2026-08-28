@@ -1,0 +1,10 @@
+id: dignity-dialogue
+vendor_id: magzter
+name: Dignity Dialogue
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:dignity_dialogue:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dignity_dialogue
+  confidence: auto

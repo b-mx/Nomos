@@ -1,0 +1,10 @@
+id: compact-5500r-firmware
+vendor_id: auerswald
+name: Compact 5500R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:auerswald:compact_5500r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compact_5500r_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mbp3855
+vendor_id: binatoneglobal
+name: Mbp3855
+type: hardware
+tags: []
+cpe: cpe:2.3:h:binatoneglobal:mbp3855:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbp3855
+  confidence: auto

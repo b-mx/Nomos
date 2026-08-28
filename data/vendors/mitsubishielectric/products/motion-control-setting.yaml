@@ -1,0 +1,10 @@
+id: motion-control-setting
+vendor_id: mitsubishielectric
+name: Motion Control Setting
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:motion_control_setting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: motion_control_setting
+  confidence: auto

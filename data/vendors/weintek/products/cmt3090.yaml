@@ -1,0 +1,10 @@
+id: cmt3090
+vendor_id: weintek
+name: Cmt3090
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weintek:cmt3090:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt3090
+  confidence: auto

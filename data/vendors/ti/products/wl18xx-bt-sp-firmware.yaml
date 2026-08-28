@@ -1,0 +1,10 @@
+id: wl18xx-bt-sp-firmware
+vendor_id: ti
+name: Wl18Xx-Bt-Sp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ti:wl18xx\-bt\-sp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl18xx-bt-sp_firmware
+  confidence: auto

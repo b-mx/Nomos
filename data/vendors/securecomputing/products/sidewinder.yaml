@@ -1,0 +1,10 @@
+id: sidewinder
+vendor_id: securecomputing
+name: Sidewinder
+type: hardware
+tags: []
+cpe: cpe:2.3:h:securecomputing:sidewinder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sidewinder
+  confidence: auto

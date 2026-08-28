@@ -1,0 +1,10 @@
+id: h4d3prv3-firmware
+vendor_id: honeywell
+name: H4D3Prv3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:h4d3prv3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h4d3prv3_firmware
+  confidence: auto

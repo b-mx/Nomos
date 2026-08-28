@@ -1,0 +1,10 @@
+id: database-manager
+vendor_id: bd
+name: Database Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:database_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: database_manager
+  confidence: auto

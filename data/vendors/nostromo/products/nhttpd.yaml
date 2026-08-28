@@ -2,8 +2,7 @@ id: nhttpd
 vendor_id: nostromo
 name: nhttpd
 type: software
-tags:
-- webserver
+tags: []
 aliases:
 - source: cisa_kev
   value: nhttpd

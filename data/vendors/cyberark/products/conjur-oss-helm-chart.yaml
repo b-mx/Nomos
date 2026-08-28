@@ -1,0 +1,10 @@
+id: conjur-oss-helm-chart
+vendor_id: cyberark
+name: Conjur Oss Helm Chart
+type: software
+tags: []
+cpe: cpe:2.3:a:cyberark:conjur_oss_helm_chart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: conjur_oss_helm_chart
+  confidence: auto

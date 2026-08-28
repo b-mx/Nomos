@@ -1,0 +1,10 @@
+id: z81
+vendor_id: lavamobiles
+name: Z81
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lavamobiles:z81:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z81
+  confidence: auto

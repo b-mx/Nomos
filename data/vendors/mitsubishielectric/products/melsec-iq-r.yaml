@@ -1,0 +1,10 @@
+id: melsec-iq-r
+vendor_id: mitsubishielectric
+name: Melsec Iq-R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_iq\-r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-r
+  confidence: auto

@@ -1,0 +1,10 @@
+id: v310z-yt-s3150-firmware
+vendor_id: lenovo
+name: V310Z(Yt S3150) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v310z\(yt_s3150\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v310z(yt_s3150)_firmware
+  confidence: auto

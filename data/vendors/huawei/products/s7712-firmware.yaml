@@ -1,0 +1,10 @@
+id: s7712-firmware
+vendor_id: huawei
+name: S7712 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:s7712_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s7712_firmware
+  confidence: auto

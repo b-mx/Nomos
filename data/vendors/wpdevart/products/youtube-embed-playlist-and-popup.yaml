@@ -1,0 +1,10 @@
+id: youtube-embed-playlist-and-popup
+vendor_id: wpdevart
+name: Youtube Embed, Playlist And Popup
+type: software
+tags: []
+cpe: cpe:2.3:a:wpdevart:youtube_embed\,_playlist_and_popup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: youtube_embed,_playlist_and_popup
+  confidence: auto

@@ -1,0 +1,10 @@
+id: iprint
+vendor_id: novell
+name: Iprint
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:iprint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iprint
+  confidence: auto

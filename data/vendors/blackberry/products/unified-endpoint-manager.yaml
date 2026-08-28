@@ -1,0 +1,10 @@
+id: unified-endpoint-manager
+vendor_id: blackberry
+name: Unified Endpoint Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:unified_endpoint_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unified_endpoint_manager
+  confidence: auto

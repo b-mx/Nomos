@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "dji--fpv-firmware",
+  "vendor_id": "dji",
+  "product_id": "fpv-firmware",
+  "name": "Fpv Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fpv_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

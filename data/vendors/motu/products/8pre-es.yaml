@@ -1,0 +1,10 @@
+id: 8pre-es
+vendor_id: motu
+name: 8Pre-Es
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:8pre\-es:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 8pre-es
+  confidence: auto

@@ -1,0 +1,10 @@
+id: go-bitfield
+vendor_id: protocol
+name: Go-Bitfield
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:go\-bitfield:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go-bitfield
+  confidence: auto

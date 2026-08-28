@@ -1,0 +1,10 @@
+id: product-addons
+vendor_id: woocommerce
+name: Product Addons
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:product_addons:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_addons
+  confidence: auto

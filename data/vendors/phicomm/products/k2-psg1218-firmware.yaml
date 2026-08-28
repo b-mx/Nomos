@@ -1,0 +1,10 @@
+id: k2-psg1218-firmware
+vendor_id: phicomm
+name: K2(Psg1218)-Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phicomm:k2\(psg1218\)\-firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k2(psg1218)-firmware
+  confidence: auto

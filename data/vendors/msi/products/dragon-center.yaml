@@ -1,0 +1,10 @@
+id: dragon-center
+vendor_id: msi
+name: Dragon Center
+type: software
+tags: []
+cpe: cpe:2.3:a:msi:dragon_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dragon_center
+  confidence: auto

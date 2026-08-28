@@ -1,0 +1,10 @@
+id: mattermost-boards
+vendor_id: mattermost
+name: Mattermost Boards
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:mattermost_boards:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mattermost_boards
+  confidence: auto

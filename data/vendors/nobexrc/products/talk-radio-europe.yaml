@@ -1,0 +1,10 @@
+id: talk-radio-europe
+vendor_id: nobexrc
+name: Talk Radio Europe
+type: software
+tags: []
+cpe: cpe:2.3:a:nobexrc:talk_radio_europe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: talk_radio_europe
+  confidence: auto

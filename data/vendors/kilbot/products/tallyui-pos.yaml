@@ -1,0 +1,10 @@
+id: tallyui-pos
+vendor_id: kilbot
+name: Tallyui/Pos
+type: software
+tags: []
+cpe: cpe:2.3:a:kilbot:tallyui\/pos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tallyui/pos
+  confidence: auto

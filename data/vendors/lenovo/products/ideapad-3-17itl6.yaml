@@ -1,0 +1,10 @@
+id: ideapad-3-17itl6
+vendor_id: lenovo
+name: Ideapad 3-17Itl6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideapad_3\-17itl6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_3-17itl6
+  confidence: auto

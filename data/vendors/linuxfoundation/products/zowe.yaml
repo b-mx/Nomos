@@ -1,0 +1,10 @@
+id: zowe
+vendor_id: linuxfoundation
+name: Zowe
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:zowe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zowe
+  confidence: auto

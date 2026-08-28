@@ -1,0 +1,10 @@
+id: pm-t960
+vendor_id: epson
+name: Pm-T960
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:pm\-t960:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm-t960
+  confidence: auto

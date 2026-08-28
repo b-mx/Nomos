@@ -1,0 +1,10 @@
+id: cloud-foundry-cf-deployment
+vendor_id: pivotal-software
+name: Cloud Foundry Cf-Deployment
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:cloud_foundry_cf\-deployment:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_cf-deployment
+  confidence: auto

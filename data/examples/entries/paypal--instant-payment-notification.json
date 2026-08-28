@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "paypal--instant-payment-notification",
+  "vendor_id": "paypal",
+  "product_id": "instant-payment-notification",
+  "name": "Instant Payment Notification",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "instant_payment_notification",
+      "confidence": "auto"
+    }
+  ]
+}

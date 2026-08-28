@@ -1,0 +1,10 @@
+id: simple-student-information-system
+vendor_id: campcodes
+name: Simple Student Information System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:simple_student_information_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_student_information_system
+  confidence: auto

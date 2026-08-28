@@ -1,0 +1,10 @@
+id: legion-y9000k-2019-firmware
+vendor_id: lenovo
+name: Legion Y9000K 2019 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_y9000k_2019_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y9000k_2019_firmware
+  confidence: auto

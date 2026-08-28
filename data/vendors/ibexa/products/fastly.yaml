@@ -1,0 +1,10 @@
+id: fastly
+vendor_id: ibexa
+name: Fastly
+type: software
+tags: []
+cpe: cpe:2.3:a:ibexa:fastly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastly
+  confidence: auto

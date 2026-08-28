@@ -1,0 +1,10 @@
+id: trutops-mark-3d
+vendor_id: trumpf
+name: Trutops Mark 3D
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:trutops_mark_3d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trutops_mark_3d
+  confidence: auto

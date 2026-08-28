@@ -1,0 +1,10 @@
+id: pyxis-parassist
+vendor_id: bd
+name: Pyxis Parassist
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_parassist:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_parassist
+  confidence: auto

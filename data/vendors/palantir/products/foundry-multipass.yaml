@@ -1,0 +1,10 @@
+id: foundry-multipass
+vendor_id: palantir
+name: Foundry Multipass
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:foundry_multipass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foundry_multipass
+  confidence: auto

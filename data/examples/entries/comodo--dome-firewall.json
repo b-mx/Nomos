@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "comodo--dome-firewall",
+  "vendor_id": "comodo",
+  "product_id": "dome-firewall",
+  "name": "Dome Firewall",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dome_firewall",
+      "confidence": "auto"
+    }
+  ]
+}

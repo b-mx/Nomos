@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "proxmox-datacenter-manager--proxmox-datacenter-manager",
+  "vendor_id": "proxmox-datacenter-manager",
+  "product_id": "proxmox-datacenter-manager",
+  "name": "Proxmox Datacenter Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "proxmox-datacenter-manager",
+      "confidence": "auto"
+    }
+  ]
+}

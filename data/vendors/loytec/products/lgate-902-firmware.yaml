@@ -1,0 +1,10 @@
+id: lgate-902-firmware
+vendor_id: loytec
+name: Lgate-902 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:loytec:lgate\-902_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lgate-902_firmware
+  confidence: auto

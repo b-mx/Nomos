@@ -1,0 +1,10 @@
+id: libgfbgraph
+vendor_id: gnome
+name: Libgfbgraph
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:libgfbgraph:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libgfbgraph
+  confidence: auto

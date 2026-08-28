@@ -1,0 +1,10 @@
+id: novajoin
+vendor_id: python
+name: Novajoin
+type: software
+tags: []
+cpe: cpe:2.3:a:python:novajoin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: novajoin
+  confidence: auto

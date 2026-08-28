@@ -1,0 +1,10 @@
+id: pm5675-2eth
+vendor_id: abb
+name: Pm5675-2Eth
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm5675\-2eth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm5675-2eth
+  confidence: auto

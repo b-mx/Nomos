@@ -1,0 +1,10 @@
+id: fd8136-firmware
+vendor_id: vivotek
+name: Fd8136 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fd8136_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd8136_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linksys--e5350-firmware",
+  "vendor_id": "linksys",
+  "product_id": "e5350-firmware",
+  "name": "E5350 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "e5350_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

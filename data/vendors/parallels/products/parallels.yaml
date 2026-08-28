@@ -1,0 +1,10 @@
+id: parallels
+vendor_id: parallels
+name: Parallels
+type: software
+tags: []
+cpe: cpe:2.3:a:parallels:parallels:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: parallels
+  confidence: auto

@@ -1,0 +1,10 @@
+id: smart-s210-firmware
+vendor_id: byzoro
+name: Smart S210 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:byzoro:smart_s210_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_s210_firmware
+  confidence: auto

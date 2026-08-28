@@ -1,0 +1,10 @@
+id: fb3000-rtu
+vendor_id: emerson
+name: Fb3000 Rtu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:fb3000_rtu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fb3000_rtu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mx-m2630-firmware
+vendor_id: sharp
+name: Mx-M2630 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-m2630_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m2630_firmware
+  confidence: auto

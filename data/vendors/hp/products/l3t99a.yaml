@@ -1,0 +1,10 @@
+id: l3t99a
+vendor_id: hp
+name: L3T99A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:l3t99a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l3t99a
+  confidence: auto

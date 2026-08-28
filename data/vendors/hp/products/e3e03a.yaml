@@ -1,0 +1,10 @@
+id: e3e03a
+vendor_id: hp
+name: E3E03A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:e3e03a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e3e03a
+  confidence: auto

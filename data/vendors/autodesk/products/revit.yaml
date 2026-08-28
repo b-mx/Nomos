@@ -1,0 +1,10 @@
+id: revit
+vendor_id: autodesk
+name: Revit
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:revit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revit
+  confidence: auto

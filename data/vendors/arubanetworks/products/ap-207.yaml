@@ -1,0 +1,10 @@
+id: ap-207
+vendor_id: arubanetworks
+name: Ap-207
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-207:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-207
+  confidence: auto

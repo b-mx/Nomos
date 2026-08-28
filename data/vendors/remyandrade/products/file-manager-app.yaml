@@ -1,0 +1,10 @@
+id: file-manager-app
+vendor_id: remyandrade
+name: File Manager App
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:file_manager_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: file_manager_app
+  confidence: auto

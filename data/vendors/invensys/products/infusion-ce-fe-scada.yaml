@@ -1,0 +1,10 @@
+id: infusion-ce-fe-scada
+vendor_id: invensys
+name: Infusion Ce/Fe/Scada
+type: software
+tags: []
+cpe: cpe:2.3:a:invensys:infusion_ce\/fe\/scada:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infusion_ce/fe/scada
+  confidence: auto

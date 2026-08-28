@@ -1,0 +1,10 @@
+id: ppxp
+vendor_id: debian
+name: Ppxp
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:ppxp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ppxp
+  confidence: auto

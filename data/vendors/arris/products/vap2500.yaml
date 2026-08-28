@@ -1,0 +1,10 @@
+id: vap2500
+vendor_id: arris
+name: Vap2500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arris:vap2500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vap2500
+  confidence: auto

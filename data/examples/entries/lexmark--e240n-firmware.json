@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--e240n-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "e240n-firmware",
+  "name": "E240N Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "e240n_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

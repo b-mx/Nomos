@@ -1,0 +1,10 @@
+id: unified-data-management
+vendor_id: hpe
+name: Unified Data Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:unified_data_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unified_data_management
+  confidence: auto

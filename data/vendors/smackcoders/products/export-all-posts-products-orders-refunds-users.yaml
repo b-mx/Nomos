@@ -1,0 +1,10 @@
+id: export-all-posts-products-orders-refunds-users
+vendor_id: smackcoders
+name: Export All Posts, Products, Orders, Refunds & Users
+type: software
+tags: []
+cpe: cpe:2.3:a:smackcoders:export_all_posts\,_products\,_orders\,_refunds_\&_users:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: export_all_posts,_products,_orders,_refunds_&_users
+  confidence: auto

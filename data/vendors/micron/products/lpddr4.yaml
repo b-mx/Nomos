@@ -1,0 +1,10 @@
+id: lpddr4
+vendor_id: micron
+name: Lpddr4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:micron:lpddr4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lpddr4
+  confidence: auto

@@ -1,0 +1,10 @@
+id: polls-cp
+vendor_id: codepeople
+name: Polls Cp
+type: software
+tags: []
+cpe: cpe:2.3:a:codepeople:polls_cp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: polls_cp
+  confidence: auto

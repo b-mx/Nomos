@@ -1,0 +1,10 @@
+id: hub-2245-222
+vendor_id: insteon
+name: Hub 2245-222
+type: hardware
+tags: []
+cpe: cpe:2.3:h:insteon:hub_2245\-222:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hub_2245-222
+  confidence: auto

@@ -1,0 +1,10 @@
+id: multi-network-firewall
+vendor_id: mandriva
+name: Multi Network Firewall
+type: os
+tags: []
+cpe: cpe:2.3:o:mandriva:multi_network_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multi_network_firewall
+  confidence: auto

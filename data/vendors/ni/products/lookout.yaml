@@ -1,0 +1,10 @@
+id: lookout
+vendor_id: ni
+name: Lookout
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:lookout:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lookout
+  confidence: auto

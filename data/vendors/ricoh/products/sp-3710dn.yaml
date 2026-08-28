@@ -1,0 +1,10 @@
+id: sp-3710dn
+vendor_id: ricoh
+name: Sp 3710Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_3710dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_3710dn
+  confidence: auto

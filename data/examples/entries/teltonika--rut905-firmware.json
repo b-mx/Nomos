@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teltonika--rut905-firmware",
+  "vendor_id": "teltonika",
+  "product_id": "rut905-firmware",
+  "name": "Rut905 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rut905_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

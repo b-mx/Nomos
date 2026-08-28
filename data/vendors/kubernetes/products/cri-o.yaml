@@ -1,0 +1,10 @@
+id: cri-o
+vendor_id: kubernetes
+name: Cri-O
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:cri\-o:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cri-o
+  confidence: auto

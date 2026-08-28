@@ -1,0 +1,10 @@
+id: eos-hi
+vendor_id: canon
+name: Eos Hi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_hi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_hi
+  confidence: auto

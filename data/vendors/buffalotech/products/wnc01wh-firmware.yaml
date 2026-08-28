@@ -1,0 +1,10 @@
+id: wnc01wh-firmware
+vendor_id: buffalotech
+name: Wnc01Wh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalotech:wnc01wh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wnc01wh_firmware
+  confidence: auto

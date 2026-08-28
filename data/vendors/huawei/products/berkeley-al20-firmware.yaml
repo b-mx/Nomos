@@ -1,0 +1,10 @@
+id: berkeley-al20-firmware
+vendor_id: huawei
+name: Berkeley-Al20 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:berkeley\-al20_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: berkeley-al20_firmware
+  confidence: auto

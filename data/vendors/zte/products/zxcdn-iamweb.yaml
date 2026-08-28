@@ -1,0 +1,10 @@
+id: zxcdn-iamweb
+vendor_id: zte
+name: Zxcdn Iamweb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxcdn_iamweb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxcdn_iamweb
+  confidence: auto

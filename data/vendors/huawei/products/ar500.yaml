@@ -1,0 +1,10 @@
+id: ar500
+vendor_id: huawei
+name: Ar500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar500
+  confidence: auto

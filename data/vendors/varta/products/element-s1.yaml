@@ -1,0 +1,10 @@
+id: element-s1
+vendor_id: varta
+name: Element S1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:varta:element_s1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: element_s1
+  confidence: auto

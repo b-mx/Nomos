@@ -1,0 +1,10 @@
+id: r-30ib-mate-plus
+vendor_id: fanuc
+name: R-30Ib Mate Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:r\-30ib_mate_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r-30ib_mate_plus
+  confidence: auto

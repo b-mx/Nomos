@@ -1,0 +1,10 @@
+id: x10drw-e
+vendor_id: supermicro
+name: X10Drw-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10drw\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drw-e
+  confidence: auto

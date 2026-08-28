@@ -1,0 +1,10 @@
+id: aspire-tc-105-firmware
+vendor_id: acer
+name: Aspire Tc-105 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:aspire_tc\-105_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_tc-105_firmware
+  confidence: auto

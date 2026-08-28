@@ -1,0 +1,10 @@
+id: xcm20
+vendor_id: hitachienergy
+name: Xcm20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:xcm20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xcm20
+  confidence: auto

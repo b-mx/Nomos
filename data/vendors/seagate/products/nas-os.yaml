@@ -1,0 +1,10 @@
+id: nas-os
+vendor_id: seagate
+name: Nas Os
+type: os
+tags: []
+cpe: cpe:2.3:o:seagate:nas_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nas_os
+  confidence: auto

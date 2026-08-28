@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--y3z57-firmware",
+  "vendor_id": "hp",
+  "product_id": "y3z57-firmware",
+  "name": "Y3Z57 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "y3z57_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

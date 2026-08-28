@@ -1,0 +1,10 @@
+id: re-eg1000m
+vendor_id: ruijie
+name: Re-Eg1000M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:re\-eg1000m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re-eg1000m
+  confidence: auto

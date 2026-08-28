@@ -1,0 +1,10 @@
+id: prodesk-405-g2-mt
+vendor_id: hp
+name: Prodesk 405 G2 Mt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_405_g2_mt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_405_g2_mt
+  confidence: auto

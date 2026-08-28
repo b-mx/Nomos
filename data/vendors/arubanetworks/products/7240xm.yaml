@@ -1,0 +1,10 @@
+id: 7240xm
+vendor_id: arubanetworks
+name: 7240Xm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:7240xm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 7240xm
+  confidence: auto

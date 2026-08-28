@@ -1,0 +1,10 @@
+id: dpc2320-firmware
+vendor_id: technicolor
+name: Dpc2320 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:dpc2320_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dpc2320_firmware
+  confidence: auto

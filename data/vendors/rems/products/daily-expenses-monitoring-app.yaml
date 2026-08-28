@@ -1,0 +1,10 @@
+id: daily-expenses-monitoring-app
+vendor_id: rems
+name: Daily Expenses Monitoring App
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:daily_expenses_monitoring_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: daily_expenses_monitoring_app
+  confidence: auto

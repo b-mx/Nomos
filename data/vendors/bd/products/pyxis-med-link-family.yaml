@@ -1,0 +1,10 @@
+id: pyxis-med-link-family
+vendor_id: bd
+name: Pyxis Med Link Family
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_med_link_family:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_med_link_family
+  confidence: auto

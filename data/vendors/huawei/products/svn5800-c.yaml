@@ -1,0 +1,10 @@
+id: svn5800-c
+vendor_id: huawei
+name: Svn5800-C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:svn5800\-c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: svn5800-c
+  confidence: auto

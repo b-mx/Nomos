@@ -2,10 +2,8 @@ id: core
 vendor_id: wordpress
 name: Core
 type: software
-tags:
-- cms
-icon: skill-icons:wordpress
+tags: []
 aliases:
 - source: cisa_kev
   value: Core
-  confidence: curated
+  confidence: auto

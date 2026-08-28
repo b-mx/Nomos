@@ -1,0 +1,10 @@
+id: autocad
+vendor_id: autodesk
+name: Autocad
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autocad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocad
+  confidence: auto

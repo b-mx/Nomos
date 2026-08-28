@@ -1,0 +1,10 @@
+id: environment-manager
+vendor_id: sas
+name: Environment Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:sas:environment_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: environment_manager
+  confidence: auto

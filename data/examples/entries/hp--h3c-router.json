@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--h3c-router",
+  "vendor_id": "hp",
+  "product_id": "h3c-router",
+  "name": "H3C Router",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h3c_router",
+      "confidence": "auto"
+    }
+  ]
+}

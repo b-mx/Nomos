@@ -1,0 +1,10 @@
+id: nplug
+vendor_id: intelbras
+name: Nplug
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:nplug:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nplug
+  confidence: auto

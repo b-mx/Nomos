@@ -1,0 +1,10 @@
+id: uc-8410a-nw-lx-firmware
+vendor_id: moxa
+name: Uc-8410A-Nw-Lx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-8410a\-nw\-lx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-8410a-nw-lx_firmware
+  confidence: auto

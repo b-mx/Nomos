@@ -1,0 +1,10 @@
+id: reflection-for-unix-and-openvms
+vendor_id: attachmate
+name: Reflection For Unix And Openvms
+type: software
+tags: []
+cpe: cpe:2.3:a:attachmate:reflection_for_unix_and_openvms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reflection_for_unix_and_openvms
+  confidence: auto

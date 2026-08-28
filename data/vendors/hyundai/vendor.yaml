@@ -1,0 +1,7 @@
+id: hyundai
+name: Hyundai
+cpe: cpe:2.3:*:hyundai:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hyundai
+  confidence: auto

@@ -1,0 +1,9 @@
+id: helpdesk
+vendor_id: qnap-systems
+name: Helpdesk
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Helpdesk
+  confidence: auto

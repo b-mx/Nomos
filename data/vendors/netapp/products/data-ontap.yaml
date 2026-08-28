@@ -1,0 +1,10 @@
+id: data-ontap
+vendor_id: netapp
+name: Data Ontap
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:data_ontap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_ontap
+  confidence: auto

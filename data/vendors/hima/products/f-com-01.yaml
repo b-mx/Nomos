@@ -1,0 +1,10 @@
+id: f-com-01
+vendor_id: hima
+name: F-Com 01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hima:f\-com_01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f-com_01
+  confidence: auto

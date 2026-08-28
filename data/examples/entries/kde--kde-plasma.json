@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--kde-plasma",
+  "vendor_id": "kde",
+  "product_id": "kde-plasma",
+  "name": "KDE Plasma",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "kde-plasma",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "plasma",
+      "confidence": "auto"
+    }
+  ]
+}

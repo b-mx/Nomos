@@ -1,0 +1,10 @@
+id: laserjet-tank-mfp-2606-381u9a
+vendor_id: hp
+name: Laserjet Tank Mfp 2606 381U9A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_tank_mfp_2606_381u9a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_tank_mfp_2606_381u9a
+  confidence: auto

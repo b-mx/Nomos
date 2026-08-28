@@ -1,0 +1,10 @@
+id: controller-sbrd-q-firmware
+vendor_id: festo
+name: Controller Sbrd-Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:controller_sbrd\-q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controller_sbrd-q_firmware
+  confidence: auto

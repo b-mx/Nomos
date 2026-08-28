@@ -1,0 +1,10 @@
+id: media-usage
+vendor_id: meowapps
+name: Media Usage
+type: software
+tags: []
+cpe: cpe:2.3:a:meowapps:media_usage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: media_usage
+  confidence: auto

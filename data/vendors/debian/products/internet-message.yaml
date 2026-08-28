@@ -1,0 +1,10 @@
+id: internet-message
+vendor_id: debian
+name: Internet Message
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:internet_message:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet_message
+  confidence: auto

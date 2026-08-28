@@ -1,0 +1,10 @@
+id: ion
+vendor_id: amazon
+name: Ion
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:ion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ion
+  confidence: auto

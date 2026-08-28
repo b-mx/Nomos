@@ -1,0 +1,10 @@
+id: tat-77104g1-firmware
+vendor_id: tonnet
+name: Tat-77104G1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tonnet:tat\-77104g1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tat-77104g1_firmware
+  confidence: auto

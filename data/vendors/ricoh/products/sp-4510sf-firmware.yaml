@@ -1,0 +1,10 @@
+id: sp-4510sf-firmware
+vendor_id: ricoh
+name: Sp 4510Sf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:sp_4510sf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_4510sf_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "forcepoint--cloud-security-gateway",
+  "vendor_id": "forcepoint",
+  "product_id": "cloud-security-gateway",
+  "name": "Cloud Security Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_security_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

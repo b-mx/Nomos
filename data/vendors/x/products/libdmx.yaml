@@ -1,0 +1,10 @@
+id: libdmx
+vendor_id: x
+name: Libdmx
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libdmx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libdmx
+  confidence: auto

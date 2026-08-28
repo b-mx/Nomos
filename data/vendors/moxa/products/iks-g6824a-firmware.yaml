@@ -1,0 +1,10 @@
+id: iks-g6824a-firmware
+vendor_id: moxa
+name: Iks-G6824A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:iks\-g6824a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iks-g6824a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jc150b
+vendor_id: hp
+name: Jc150B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc150b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc150b
+  confidence: auto

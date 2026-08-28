@@ -1,0 +1,10 @@
+id: wrc-f1167acf2-firmware
+vendor_id: elecom
+name: Wrc-F1167Acf2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wrc\-f1167acf2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrc-f1167acf2_firmware
+  confidence: auto

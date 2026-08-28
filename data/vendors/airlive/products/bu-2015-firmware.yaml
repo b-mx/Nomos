@@ -1,0 +1,10 @@
+id: bu-2015-firmware
+vendor_id: airlive
+name: Bu-2015 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airlive:bu\-2015_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bu-2015_firmware
+  confidence: auto

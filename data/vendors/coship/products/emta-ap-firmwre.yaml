@@ -1,0 +1,10 @@
+id: emta-ap-firmwre
+vendor_id: coship
+name: Emta Ap Firmwre
+type: os
+tags: []
+cpe: cpe:2.3:o:coship:emta_ap_firmwre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emta_ap_firmwre
+  confidence: auto

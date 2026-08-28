@@ -1,0 +1,10 @@
+id: internet-box-light
+vendor_id: swisscom
+name: Internet-Box Light
+type: hardware
+tags: []
+cpe: cpe:2.3:h:swisscom:internet\-box_light:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet-box_light
+  confidence: auto

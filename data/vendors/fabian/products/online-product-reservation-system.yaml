@@ -1,0 +1,10 @@
+id: online-product-reservation-system
+vendor_id: fabian
+name: Online Product Reservation System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_product_reservation_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_product_reservation_system
+  confidence: auto

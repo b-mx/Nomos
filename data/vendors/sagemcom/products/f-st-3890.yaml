@@ -1,0 +1,10 @@
+id: f-st-3890
+vendor_id: sagemcom
+name: F@St 3890
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sagemcom:f\@st_3890:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f@st_3890
+  confidence: auto

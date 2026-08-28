@@ -1,0 +1,10 @@
+id: aterm-cr2500p-firmware
+vendor_id: nec
+name: Aterm Cr2500P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:aterm_cr2500p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_cr2500p_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: axon-40-pro
+vendor_id: zte
+name: Axon 40 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:axon_40_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axon_40_pro
+  confidence: auto

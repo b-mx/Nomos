@@ -1,0 +1,10 @@
+id: universal-raid-utility
+vendor_id: nec
+name: Universal Raid Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:universal_raid_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_raid_utility
+  confidence: auto

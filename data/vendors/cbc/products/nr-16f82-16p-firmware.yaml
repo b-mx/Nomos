@@ -1,0 +1,10 @@
+id: nr-16f82-16p-firmware
+vendor_id: cbc
+name: Nr-16F82-16P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cbc:nr\-16f82\-16p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr-16f82-16p_firmware
+  confidence: auto

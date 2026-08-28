@@ -1,0 +1,10 @@
+id: icr890-3
+vendor_id: sick
+name: Icr890-3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:icr890\-3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icr890-3
+  confidence: auto

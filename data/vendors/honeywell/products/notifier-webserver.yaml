@@ -1,0 +1,10 @@
+id: notifier-webserver
+vendor_id: honeywell
+name: Notifier Webserver
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:notifier_webserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notifier_webserver
+  confidence: auto

@@ -1,0 +1,10 @@
+id: instant-access-point
+vendor_id: arubanetworks
+name: Instant Access Point
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:instant_access_point:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instant_access_point
+  confidence: auto

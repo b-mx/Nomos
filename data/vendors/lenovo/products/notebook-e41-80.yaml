@@ -1,0 +1,10 @@
+id: notebook-e41-80
+vendor_id: lenovo
+name: Notebook E41 80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:notebook_e41_80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_e41_80
+  confidence: auto

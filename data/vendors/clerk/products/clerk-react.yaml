@@ -1,0 +1,10 @@
+id: clerk-react
+vendor_id: clerk
+name: Clerk/React
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/react:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/react
+  confidence: auto

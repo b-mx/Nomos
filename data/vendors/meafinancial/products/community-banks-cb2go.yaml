@@ -1,0 +1,10 @@
+id: community-banks-cb2go
+vendor_id: meafinancial
+name: Community Banks Cb2Go
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:community_banks_cb2go:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: community_banks_cb2go
+  confidence: auto

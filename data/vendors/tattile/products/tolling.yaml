@@ -1,0 +1,10 @@
+id: tolling
+vendor_id: tattile
+name: Tolling+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tattile:tolling\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tolling+
+  confidence: auto

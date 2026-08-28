@@ -1,0 +1,10 @@
+id: ideapad-gaming-3-15arh05-firmware
+vendor_id: lenovo
+name: Ideapad Gaming 3-15Arh05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_gaming_3\-15arh05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_gaming_3-15arh05_firmware
+  confidence: auto

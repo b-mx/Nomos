@@ -1,0 +1,10 @@
+id: spark-browser
+vendor_id: baidu
+name: Spark Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:spark_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spark_browser
+  confidence: auto

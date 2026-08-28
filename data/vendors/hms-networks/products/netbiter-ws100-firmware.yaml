@@ -1,0 +1,10 @@
+id: netbiter-ws100-firmware
+vendor_id: hms-networks
+name: Netbiter Ws100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hms\-networks:netbiter_ws100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netbiter_ws100_firmware
+  confidence: auto

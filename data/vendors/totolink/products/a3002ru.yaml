@@ -1,0 +1,10 @@
+id: a3002ru
+vendor_id: totolink
+name: A3002Ru
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a3002ru:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3002ru
+  confidence: auto

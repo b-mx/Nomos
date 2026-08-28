@@ -1,0 +1,10 @@
+id: apache-based-web-server
+vendor_id: hp
+name: Apache-Based Web Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:apache\-based_web_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apache-based_web_server
+  confidence: auto

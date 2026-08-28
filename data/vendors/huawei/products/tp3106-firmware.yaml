@@ -1,0 +1,10 @@
+id: tp3106-firmware
+vendor_id: huawei
+name: Tp3106 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:tp3106_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tp3106_firmware
+  confidence: auto

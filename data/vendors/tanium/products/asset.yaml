@@ -1,0 +1,10 @@
+id: asset
+vendor_id: tanium
+name: Asset
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:asset:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asset
+  confidence: auto

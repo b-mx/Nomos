@@ -1,0 +1,10 @@
+id: zxdt22-sf01-firmware
+vendor_id: zte
+name: Zxdt22 Sf01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxdt22_sf01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxdt22_sf01_firmware
+  confidence: auto

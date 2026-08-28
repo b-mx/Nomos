@@ -1,0 +1,10 @@
+id: wl-2000cam-firmware
+vendor_id: airlive
+name: Wl-2000Cam Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airlive:wl\-2000cam_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-2000cam_firmware
+  confidence: auto

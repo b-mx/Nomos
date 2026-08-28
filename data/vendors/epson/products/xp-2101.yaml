@@ -1,0 +1,10 @@
+id: xp-2101
+vendor_id: epson
+name: Xp-2101
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:xp\-2101:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp-2101
+  confidence: auto

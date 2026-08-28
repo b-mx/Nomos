@@ -1,0 +1,10 @@
+id: eos-m5
+vendor_id: canon
+name: Eos M5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_m5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_m5
+  confidence: auto

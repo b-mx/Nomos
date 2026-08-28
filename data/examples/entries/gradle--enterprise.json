@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gradle--enterprise",
+  "vendor_id": "gradle",
+  "product_id": "enterprise",
+  "name": "Enterprise",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise",
+      "confidence": "auto"
+    }
+  ]
+}

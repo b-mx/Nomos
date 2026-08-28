@@ -1,0 +1,7 @@
+id: totolink
+name: Totolink
+cpe: cpe:2.3:*:totolink:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: totolink
+  confidence: auto

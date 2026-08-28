@@ -1,0 +1,7 @@
+id: umbraco
+name: Umbraco
+cpe: cpe:2.3:*:umbraco:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: umbraco
+  confidence: auto

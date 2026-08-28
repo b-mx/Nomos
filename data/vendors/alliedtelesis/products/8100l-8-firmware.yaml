@@ -1,0 +1,10 @@
+id: 8100l-8-firmware
+vendor_id: alliedtelesis
+name: 8100L/8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:alliedtelesis:8100l\/8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 8100l/8_firmware
+  confidence: auto

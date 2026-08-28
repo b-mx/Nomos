@@ -1,0 +1,10 @@
+id: netvanta-7100
+vendor_id: adtran
+name: Netvanta 7100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:adtran:netvanta_7100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netvanta_7100
+  confidence: auto

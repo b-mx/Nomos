@@ -1,0 +1,10 @@
+id: storagegrid-firmware
+vendor_id: netapp
+name: Storagegrid Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:storagegrid_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storagegrid_firmware
+  confidence: auto

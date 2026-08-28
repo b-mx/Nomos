@@ -1,0 +1,10 @@
+id: ew-m770t
+vendor_id: epson
+name: Ew-M770T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ew\-m770t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ew-m770t
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sailor-900-vsat
+vendor_id: cobham
+name: Sailor 900 Vsat
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cobham:sailor_900_vsat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sailor_900_vsat
+  confidence: auto

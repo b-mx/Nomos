@@ -1,0 +1,10 @@
+id: cloudline-cl3100-gen10-server-firmware
+vendor_id: hpe
+name: Cloudline Cl3100 Gen10 Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:cloudline_cl3100_gen10_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudline_cl3100_gen10_server_firmware
+  confidence: auto

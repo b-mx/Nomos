@@ -1,0 +1,10 @@
+id: news-publishing-site-dashboard
+vendor_id: code-projects
+name: News Publishing Site Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:news_publishing_site_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: news_publishing_site_dashboard
+  confidence: auto

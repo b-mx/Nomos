@@ -1,0 +1,10 @@
+id: pivotal-cloud-cache
+vendor_id: pivotal-software
+name: Pivotal Cloud Cache
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:pivotal_cloud_cache:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pivotal_cloud_cache
+  confidence: auto

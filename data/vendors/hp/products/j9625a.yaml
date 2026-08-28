@@ -1,0 +1,10 @@
+id: j9625a
+vendor_id: hp
+name: J9625A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:j9625a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j9625a
+  confidence: auto

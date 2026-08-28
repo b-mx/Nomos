@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sharp--aquos-l2-firmware",
+  "vendor_id": "sharp",
+  "product_id": "aquos-l2-firmware",
+  "name": "Aquos L2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aquos_l2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

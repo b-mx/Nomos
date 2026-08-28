@@ -1,0 +1,10 @@
+id: xr520
+vendor_id: cambiumnetworks
+name: Xr520
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cambiumnetworks:xr520:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xr520
+  confidence: auto

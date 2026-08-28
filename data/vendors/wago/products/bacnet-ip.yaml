@@ -1,0 +1,10 @@
+id: bacnet-ip
+vendor_id: wago
+name: Bacnet/Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:bacnet\/ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bacnet/ip
+  confidence: auto

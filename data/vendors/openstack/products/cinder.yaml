@@ -1,0 +1,10 @@
+id: cinder
+vendor_id: openstack
+name: Cinder
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:cinder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cinder
+  confidence: auto

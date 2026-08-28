@@ -1,0 +1,10 @@
+id: eda60k
+vendor_id: honeywell
+name: Eda60K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:eda60k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eda60k
+  confidence: auto

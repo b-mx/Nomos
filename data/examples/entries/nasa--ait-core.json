@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nasa--ait-core",
+  "vendor_id": "nasa",
+  "product_id": "ait-core",
+  "name": "Ait Core",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ait_core",
+      "confidence": "auto"
+    }
+  ]
+}

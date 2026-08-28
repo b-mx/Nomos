@@ -1,0 +1,10 @@
+id: interact
+vendor_id: tanium
+name: Interact
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:interact:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interact
+  confidence: auto

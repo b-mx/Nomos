@@ -1,0 +1,10 @@
+id: documentum-web-publisher
+vendor_id: emc
+name: Documentum Web Publisher
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_web_publisher:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_web_publisher
+  confidence: auto

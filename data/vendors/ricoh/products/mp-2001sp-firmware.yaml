@@ -1,0 +1,10 @@
+id: mp-2001sp-firmware
+vendor_id: ricoh
+name: Mp 2001Sp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:mp_2001sp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_2001sp_firmware
+  confidence: auto

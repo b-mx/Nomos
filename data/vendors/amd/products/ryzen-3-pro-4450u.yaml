@@ -1,0 +1,10 @@
+id: ryzen-3-pro-4450u
+vendor_id: amd
+name: Ryzen 3 Pro 4450U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3_pro_4450u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3_pro_4450u
+  confidence: auto

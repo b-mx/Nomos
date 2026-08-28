@@ -1,0 +1,10 @@
+id: 7250-wlan-access-point
+vendor_id: nortel
+name: 7250 Wlan Access Point
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:7250_wlan_access_point:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 7250_wlan_access_point
+  confidence: auto

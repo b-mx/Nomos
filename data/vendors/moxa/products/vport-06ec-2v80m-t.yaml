@@ -1,0 +1,10 @@
+id: vport-06ec-2v80m-t
+vendor_id: moxa
+name: Vport 06Ec-2V80M-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:vport_06ec\-2v80m\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vport_06ec-2v80m-t
+  confidence: auto

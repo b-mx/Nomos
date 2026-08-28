@@ -1,0 +1,10 @@
+id: 20lr
+vendor_id: lenovo
+name: 20Lr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20lr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20lr
+  confidence: auto

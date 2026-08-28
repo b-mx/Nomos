@@ -1,0 +1,10 @@
+id: zte-zmax-pro
+vendor_id: zteusa
+name: Zte Zmax Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zteusa:zte_zmax_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zte_zmax_pro
+  confidence: auto

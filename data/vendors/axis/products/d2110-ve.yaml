@@ -1,0 +1,10 @@
+id: d2110-ve
+vendor_id: axis
+name: D2110-Ve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:d2110\-ve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d2110-ve
+  confidence: auto

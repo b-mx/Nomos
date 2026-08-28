@@ -1,0 +1,10 @@
+id: terraform-enterprise
+vendor_id: hashicorp
+name: Terraform Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: terraform_enterprise
+  confidence: auto

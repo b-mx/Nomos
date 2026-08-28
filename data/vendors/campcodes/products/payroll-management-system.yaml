@@ -1,0 +1,10 @@
+id: payroll-management-system
+vendor_id: campcodes
+name: Payroll Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:payroll_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: payroll_management_system
+  confidence: auto

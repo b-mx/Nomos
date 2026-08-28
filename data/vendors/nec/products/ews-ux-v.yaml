@@ -1,0 +1,10 @@
+id: ews-ux-v
+vendor_id: nec
+name: Ews-Ux V
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:ews\-ux_v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ews-ux_v
+  confidence: auto

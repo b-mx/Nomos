@@ -1,0 +1,10 @@
+id: at-spi2-atk
+vendor_id: gnome
+name: At-Spi2-Atk
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:at\-spi2\-atk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: at-spi2-atk
+  confidence: auto

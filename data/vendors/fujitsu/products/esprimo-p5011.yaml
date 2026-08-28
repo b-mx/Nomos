@@ -1,0 +1,10 @@
+id: esprimo-p5011
+vendor_id: fujitsu
+name: Esprimo P5011
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:esprimo_p5011:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esprimo_p5011
+  confidence: auto

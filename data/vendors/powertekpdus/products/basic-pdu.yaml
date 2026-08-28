@@ -1,0 +1,10 @@
+id: basic-pdu
+vendor_id: powertekpdus
+name: Basic Pdu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:powertekpdus:basic_pdu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: basic_pdu
+  confidence: auto

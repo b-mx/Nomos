@@ -1,0 +1,10 @@
+id: xgl-dmeb
+vendor_id: ls-electric
+name: Xgl-Dmeb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xgl\-dmeb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgl-dmeb
+  confidence: auto

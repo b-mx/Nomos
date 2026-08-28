@@ -1,0 +1,10 @@
+id: ads-3600w
+vendor_id: brother
+name: Ads-3600W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:ads\-3600w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ads-3600w
+  confidence: auto

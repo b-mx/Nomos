@@ -1,0 +1,6 @@
+id: cert-manager
+name: cert-manager
+aliases:
+- source: endoflife
+  value: cert-manager
+  confidence: auto

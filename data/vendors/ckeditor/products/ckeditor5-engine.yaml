@@ -1,0 +1,10 @@
+id: ckeditor5-engine
+vendor_id: ckeditor
+name: Ckeditor5-Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:ckeditor:ckeditor5\-engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ckeditor5-engine
+  confidence: auto

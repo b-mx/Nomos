@@ -1,0 +1,10 @@
+id: debit-card-payment
+vendor_id: janobe
+name: Debit Card Payment
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:debit_card_payment:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: debit_card_payment
+  confidence: auto

@@ -1,0 +1,10 @@
+id: florida-l03-firmware
+vendor_id: huawei
+name: Florida-L03 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:florida\-l03_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: florida-l03_firmware
+  confidence: auto

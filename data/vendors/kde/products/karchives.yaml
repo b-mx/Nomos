@@ -1,0 +1,10 @@
+id: karchives
+vendor_id: kde
+name: Karchives
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:karchives:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: karchives
+  confidence: auto

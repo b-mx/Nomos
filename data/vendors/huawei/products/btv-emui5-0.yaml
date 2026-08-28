@@ -1,0 +1,10 @@
+id: btv-emui5-0
+vendor_id: huawei
+name: Btv-Emui5.0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:btv\-emui5\.0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: btv-emui5.0
+  confidence: auto

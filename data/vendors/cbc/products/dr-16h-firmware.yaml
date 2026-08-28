@@ -1,0 +1,10 @@
+id: dr-16h-firmware
+vendor_id: cbc
+name: Dr-16H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cbc:dr\-16h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-16h_firmware
+  confidence: auto

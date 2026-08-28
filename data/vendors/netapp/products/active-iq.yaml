@@ -1,0 +1,10 @@
+id: active-iq
+vendor_id: netapp
+name: Active Iq
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:active_iq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_iq
+  confidence: auto

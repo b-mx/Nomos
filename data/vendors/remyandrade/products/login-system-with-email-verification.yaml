@@ -1,0 +1,10 @@
+id: login-system-with-email-verification
+vendor_id: remyandrade
+name: Login System With Email Verification
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:login_system_with_email_verification:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: login_system_with_email_verification
+  confidence: auto

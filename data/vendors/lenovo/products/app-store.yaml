@@ -1,0 +1,10 @@
+id: app-store
+vendor_id: lenovo
+name: App Store
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:app_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: app_store
+  confidence: auto

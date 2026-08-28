@@ -1,0 +1,10 @@
+id: ryzen-9-4900hs
+vendor_id: amd
+name: Ryzen 9 4900Hs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_9_4900hs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_9_4900hs
+  confidence: auto

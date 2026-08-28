@@ -1,0 +1,10 @@
+id: s5600
+vendor_id: huawei
+name: S5600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s5600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5600
+  confidence: auto

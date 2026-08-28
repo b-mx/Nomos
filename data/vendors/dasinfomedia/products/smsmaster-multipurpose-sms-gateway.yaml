@@ -1,0 +1,10 @@
+id: smsmaster-multipurpose-sms-gateway
+vendor_id: dasinfomedia
+name: Smsmaster Multipurpose Sms Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:dasinfomedia:smsmaster_multipurpose_sms_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smsmaster_multipurpose_sms_gateway
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pavilion-power-laptop-15-cb0xx
+vendor_id: hp
+name: Pavilion Power Laptop 15-Cb0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_power_laptop_15\-cb0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_power_laptop_15-cb0xx
+  confidence: auto

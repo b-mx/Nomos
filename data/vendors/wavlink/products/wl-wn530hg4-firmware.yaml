@@ -1,0 +1,10 @@
+id: wl-wn530hg4-firmware
+vendor_id: wavlink
+name: Wl-Wn530Hg4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wavlink:wl\-wn530hg4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-wn530hg4_firmware
+  confidence: auto

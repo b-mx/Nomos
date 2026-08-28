@@ -1,0 +1,10 @@
+id: connectivity
+vendor_id: hummingbird
+name: Connectivity
+type: software
+tags: []
+cpe: cpe:2.3:a:hummingbird:connectivity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connectivity
+  confidence: auto

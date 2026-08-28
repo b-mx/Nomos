@@ -1,0 +1,10 @@
+id: vogue-al10c-firmware
+vendor_id: huawei
+name: Vogue-Al10C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:vogue\-al10c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vogue-al10c_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: relion-615-ansi
+vendor_id: abb
+name: Relion 615 Ansi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:relion_615_ansi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: relion_615_ansi
+  confidence: auto

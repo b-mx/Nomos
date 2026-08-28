@@ -1,0 +1,10 @@
+id: one-x
+vendor_id: htc
+name: One X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:one_x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_x
+  confidence: auto

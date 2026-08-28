@@ -1,0 +1,10 @@
+id: amd-link
+vendor_id: amd
+name: Amd Link
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:amd_link:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amd_link
+  confidence: auto

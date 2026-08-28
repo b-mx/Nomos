@@ -1,0 +1,10 @@
+id: cosminexus-server
+vendor_id: hitachi
+name: Cosminexus Server
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:cosminexus_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cosminexus_server
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--glib-networking",
+  "vendor_id": "gnome",
+  "product_id": "glib-networking",
+  "name": "Glib-Networking",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "glib-networking",
+      "confidence": "auto"
+    }
+  ]
+}

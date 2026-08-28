@@ -1,0 +1,10 @@
+id: desktop-connector
+vendor_id: autodesk
+name: Desktop Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:desktop_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_connector
+  confidence: auto

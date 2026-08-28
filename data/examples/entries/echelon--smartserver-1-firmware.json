@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "echelon--smartserver-1-firmware",
+  "vendor_id": "echelon",
+  "product_id": "smartserver-1-firmware",
+  "name": "Smartserver 1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smartserver_1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

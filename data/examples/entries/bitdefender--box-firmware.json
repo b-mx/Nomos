@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bitdefender--box-firmware",
+  "vendor_id": "bitdefender",
+  "product_id": "box-firmware",
+  "name": "Box Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "box_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

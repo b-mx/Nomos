@@ -1,0 +1,10 @@
+id: blazar-dashboard
+vendor_id: openstack
+name: Blazar-Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:blazar\-dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blazar-dashboard
+  confidence: auto

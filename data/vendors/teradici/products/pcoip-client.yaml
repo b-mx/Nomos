@@ -1,0 +1,10 @@
+id: pcoip-client
+vendor_id: teradici
+name: Pcoip Client
+type: software
+tags: []
+cpe: cpe:2.3:a:teradici:pcoip_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcoip_client
+  confidence: auto

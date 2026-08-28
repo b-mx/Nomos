@@ -1,0 +1,10 @@
+id: ao-opc
+vendor_id: abb
+name: Ao-Opc
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:ao\-opc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ao-opc
+  confidence: auto

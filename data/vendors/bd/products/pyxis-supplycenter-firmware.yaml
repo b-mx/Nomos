@@ -1,0 +1,10 @@
+id: pyxis-supplycenter-firmware
+vendor_id: bd
+name: Pyxis Supplycenter Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:pyxis_supplycenter_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_supplycenter_firmware
+  confidence: auto

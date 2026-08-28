@@ -1,0 +1,10 @@
+id: x12sth-sys
+vendor_id: supermicro
+name: X12Sth-Sys
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12sth\-sys:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12sth-sys
+  confidence: auto

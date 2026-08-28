@@ -1,0 +1,10 @@
+id: cn80
+vendor_id: honeywell
+name: Cn80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:cn80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn80
+  confidence: auto

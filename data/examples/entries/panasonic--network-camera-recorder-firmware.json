@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "panasonic--network-camera-recorder-firmware",
+  "vendor_id": "panasonic",
+  "product_id": "network-camera-recorder-firmware",
+  "name": "Network Camera Recorder Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_camera_recorder_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

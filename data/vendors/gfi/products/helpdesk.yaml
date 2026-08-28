@@ -1,0 +1,10 @@
+id: helpdesk
+vendor_id: gfi
+name: Helpdesk
+type: software
+tags: []
+cpe: cpe:2.3:a:gfi:helpdesk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: helpdesk
+  confidence: auto

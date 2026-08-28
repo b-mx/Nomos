@@ -1,0 +1,10 @@
+id: audio-usb-driver
+vendor_id: sony
+name: Audio Usb Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:audio_usb_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: audio_usb_driver
+  confidence: auto

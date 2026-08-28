@@ -1,0 +1,10 @@
+id: sshpk
+vendor_id: joyent
+name: Sshpk
+type: software
+tags: []
+cpe: cpe:2.3:a:joyent:sshpk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sshpk
+  confidence: auto

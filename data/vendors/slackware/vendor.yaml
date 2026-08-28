@@ -1,0 +1,7 @@
+id: slackware
+name: Slackware
+cpe: cpe:2.3:*:slackware:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slackware
+  confidence: auto

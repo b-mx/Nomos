@@ -1,0 +1,10 @@
+id: hp-246-g3
+vendor_id: hp
+name: Hp 246 G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_246_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_246_g3
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e33x
+vendor_id: lexmark
+name: E33X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:e33x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e33x
+  confidence: auto

@@ -1,0 +1,10 @@
+id: officejet-managed-color-flow-mfp-x585-firmware
+vendor_id: hp
+name: Officejet Managed Color Flow Mfp X585 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_managed_color_flow_mfp_x585_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_managed_color_flow_mfp_x585_firmware
+  confidence: auto

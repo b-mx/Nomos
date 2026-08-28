@@ -1,0 +1,10 @@
+id: s145-15ast
+vendor_id: lenovo
+name: S145-15Ast
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s145\-15ast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s145-15ast
+  confidence: auto

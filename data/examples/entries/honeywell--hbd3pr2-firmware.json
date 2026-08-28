@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--hbd3pr2-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "hbd3pr2-firmware",
+  "name": "Hbd3Pr2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hbd3pr2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

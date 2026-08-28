@@ -1,0 +1,10 @@
+id: tc7110-b
+vendor_id: technicolor
+name: Tc7110.B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tc7110\.b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7110.b
+  confidence: auto

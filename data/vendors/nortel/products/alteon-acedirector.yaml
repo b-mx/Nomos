@@ -1,0 +1,10 @@
+id: alteon-acedirector
+vendor_id: nortel
+name: Alteon Acedirector
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:alteon_acedirector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alteon_acedirector
+  confidence: auto

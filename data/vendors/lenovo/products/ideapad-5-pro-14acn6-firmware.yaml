@@ -1,0 +1,10 @@
+id: ideapad-5-pro-14acn6-firmware
+vendor_id: lenovo
+name: Ideapad 5 Pro-14Acn6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_5_pro\-14acn6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_5_pro-14acn6_firmware
+  confidence: auto

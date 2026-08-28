@@ -1,0 +1,10 @@
+id: engage-go-mobile-system
+vendor_id: hp
+name: Engage Go Mobile System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:engage_go_mobile_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engage_go_mobile_system
+  confidence: auto

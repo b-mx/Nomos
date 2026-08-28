@@ -1,0 +1,10 @@
+id: rockdisk-firmware
+vendor_id: iodata
+name: Rockdisk Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:rockdisk_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rockdisk_firmware
+  confidence: auto

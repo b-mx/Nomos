@@ -1,0 +1,10 @@
+id: sharelink-200-firmware
+vendor_id: extron
+name: Sharelink 200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:extron:sharelink_200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sharelink_200_firmware
+  confidence: auto

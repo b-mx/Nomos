@@ -1,0 +1,10 @@
+id: imagerunner-c6800
+vendor_id: canon
+name: Imagerunner C6800
+type: software
+tags: []
+cpe: cpe:2.3:a:canon:imagerunner_c6800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imagerunner_c6800
+  confidence: auto

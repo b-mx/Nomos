@@ -1,0 +1,10 @@
+id: i-mx-6quad
+vendor_id: nxp
+name: I.Mx 6Quad
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:i\.mx_6quad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_6quad
+  confidence: auto

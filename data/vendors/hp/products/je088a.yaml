@@ -1,0 +1,10 @@
+id: je088a
+vendor_id: hp
+name: Je088A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je088a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je088a
+  confidence: auto

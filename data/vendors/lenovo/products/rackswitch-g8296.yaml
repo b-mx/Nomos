@@ -1,0 +1,10 @@
+id: rackswitch-g8296
+vendor_id: lenovo
+name: Rackswitch G8296
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:rackswitch_g8296:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rackswitch_g8296
+  confidence: auto

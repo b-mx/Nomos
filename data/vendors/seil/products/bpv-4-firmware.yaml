@@ -1,0 +1,10 @@
+id: bpv-4-firmware
+vendor_id: seil
+name: Bpv 4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seil:bpv_4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bpv_4_firmware
+  confidence: auto

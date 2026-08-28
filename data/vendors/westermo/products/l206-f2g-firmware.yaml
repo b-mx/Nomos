@@ -1,0 +1,10 @@
+id: l206-f2g-firmware
+vendor_id: westermo
+name: L206-F2G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westermo:l206\-f2g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l206-f2g_firmware
+  confidence: auto

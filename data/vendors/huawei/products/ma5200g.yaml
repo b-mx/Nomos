@@ -1,0 +1,10 @@
+id: ma5200g
+vendor_id: huawei
+name: Ma5200G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ma5200g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ma5200g
+  confidence: auto

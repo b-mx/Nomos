@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ntt-east--rs-500mi-firmware",
+  "vendor_id": "ntt-east",
+  "product_id": "rs-500mi-firmware",
+  "name": "Rs-500Mi Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rs-500mi_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

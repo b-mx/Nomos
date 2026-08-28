@@ -1,0 +1,10 @@
+id: apeos-c328-df
+vendor_id: fujifilm
+name: Apeos C328 Df
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_c328_df:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_c328_df
+  confidence: auto

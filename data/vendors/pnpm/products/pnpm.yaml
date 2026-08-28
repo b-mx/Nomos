@@ -1,0 +1,14 @@
+id: pnpm
+vendor_id: pnpm
+name: pnpm
+type: software
+tags:
+- build-tool
+cpe: cpe:2.3:a:pnpm:pnpm:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: pnpm
+  confidence: auto
+- source: nvd
+  value: pnpm
+  confidence: auto

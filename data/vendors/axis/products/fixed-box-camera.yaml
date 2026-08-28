@@ -1,0 +1,10 @@
+id: fixed-box-camera
+vendor_id: axis
+name: Fixed Box Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:fixed_box_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fixed_box_camera
+  confidence: auto

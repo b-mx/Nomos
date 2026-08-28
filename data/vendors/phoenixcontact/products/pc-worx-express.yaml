@@ -1,0 +1,10 @@
+id: pc-worx-express
+vendor_id: phoenixcontact
+name: Pc Worx Express
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:pc_worx_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc_worx_express
+  confidence: auto

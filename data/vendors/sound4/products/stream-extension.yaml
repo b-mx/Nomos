@@ -1,0 +1,10 @@
+id: stream-extension
+vendor_id: sound4
+name: Stream Extension
+type: software
+tags: []
+cpe: cpe:2.3:a:sound4:stream_extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stream_extension
+  confidence: auto

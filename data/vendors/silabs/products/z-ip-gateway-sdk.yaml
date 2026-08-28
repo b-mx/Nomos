@@ -1,0 +1,10 @@
+id: z-ip-gateway-sdk
+vendor_id: silabs
+name: Z/Ip Gateway Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:z\/ip_gateway_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z/ip_gateway_sdk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jenny-al10b
+vendor_id: huawei
+name: Jenny-Al10B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:jenny\-al10b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jenny-al10b
+  confidence: auto

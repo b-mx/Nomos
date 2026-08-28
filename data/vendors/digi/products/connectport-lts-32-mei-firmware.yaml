@@ -1,0 +1,10 @@
+id: connectport-lts-32-mei-firmware
+vendor_id: digi
+name: Connectport Lts 32 Mei Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:connectport_lts_32_mei_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connectport_lts_32_mei_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ac1200-re018
+vendor_id: multilaser
+name: Ac1200 Re018
+type: hardware
+tags: []
+cpe: cpe:2.3:h:multilaser:ac1200_re018:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac1200_re018
+  confidence: auto

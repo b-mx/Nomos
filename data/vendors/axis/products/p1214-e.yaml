@@ -1,0 +1,10 @@
+id: p1214-e
+vendor_id: axis
+name: P1214-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p1214\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p1214-e
+  confidence: auto

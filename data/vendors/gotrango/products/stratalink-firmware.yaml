@@ -1,0 +1,10 @@
+id: stratalink-firmware
+vendor_id: gotrango
+name: Stratalink Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gotrango:stratalink_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stratalink_firmware
+  confidence: auto

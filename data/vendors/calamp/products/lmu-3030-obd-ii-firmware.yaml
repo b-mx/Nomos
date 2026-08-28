@@ -1,0 +1,10 @@
+id: lmu-3030-obd-ii-firmware
+vendor_id: calamp
+name: Lmu 3030 Obd-Ii Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:calamp:lmu_3030_obd\-ii_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lmu_3030_obd-ii_firmware
+  confidence: auto

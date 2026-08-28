@@ -1,0 +1,10 @@
+id: payfort-php-sdk
+vendor_id: amazon
+name: Payfort-Php-Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:payfort\-php\-sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: payfort-php-sdk
+  confidence: auto

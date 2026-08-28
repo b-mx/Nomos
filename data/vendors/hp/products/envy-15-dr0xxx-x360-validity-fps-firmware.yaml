@@ -1,0 +1,10 @@
+id: envy-15-dr0xxx-x360-validity-fps-firmware
+vendor_id: hp
+name: Envy 15-Dr0Xxx X360 (Validity Fps) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_15\-dr0xxx_x360_\(validity_fps\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_15-dr0xxx_x360_(validity_fps)_firmware
+  confidence: auto

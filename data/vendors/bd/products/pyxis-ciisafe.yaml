@@ -1,0 +1,10 @@
+id: pyxis-ciisafe
+vendor_id: bd
+name: Pyxis Ciisafe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_ciisafe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_ciisafe
+  confidence: auto

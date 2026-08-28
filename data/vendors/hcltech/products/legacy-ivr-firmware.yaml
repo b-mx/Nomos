@@ -1,0 +1,10 @@
+id: legacy-ivr-firmware
+vendor_id: hcltech
+name: Legacy Ivr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hcltech:legacy_ivr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legacy_ivr_firmware
+  confidence: auto

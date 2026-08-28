@@ -1,0 +1,10 @@
+id: wlx-2006-firmware
+vendor_id: sitecom
+name: Wlx-2006 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sitecom:wlx\-2006_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlx-2006_firmware
+  confidence: auto

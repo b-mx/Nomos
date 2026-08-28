@@ -1,0 +1,10 @@
+id: instant-access-point-firmware
+vendor_id: arubanetworks
+name: Instant Access Point Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:instant_access_point_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instant_access_point_firmware
+  confidence: auto

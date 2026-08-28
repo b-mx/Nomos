@@ -1,0 +1,10 @@
+id: wedding-wonders
+vendor_id: bugfinder
+name: Wedding Wonders
+type: software
+tags: []
+cpe: cpe:2.3:a:bugfinder:wedding_wonders:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wedding_wonders
+  confidence: auto

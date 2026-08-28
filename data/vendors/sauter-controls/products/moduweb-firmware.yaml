@@ -1,0 +1,10 @@
+id: moduweb-firmware
+vendor_id: sauter-controls
+name: Moduweb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sauter\-controls:moduweb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moduweb_firmware
+  confidence: auto

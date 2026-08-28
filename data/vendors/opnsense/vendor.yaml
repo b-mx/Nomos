@@ -1,0 +1,7 @@
+id: opnsense
+name: Opnsense
+cpe: cpe:2.3:*:opnsense:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opnsense
+  confidence: auto

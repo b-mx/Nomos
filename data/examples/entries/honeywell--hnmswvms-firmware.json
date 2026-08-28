@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--hnmswvms-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "hnmswvms-firmware",
+  "name": "Hnmswvms Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hnmswvms_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

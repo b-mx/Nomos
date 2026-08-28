@@ -1,0 +1,10 @@
+id: fhir-works-on-aws-authz-smart
+vendor_id: amazon
+name: Fhir-Works-On-Aws-Authz-Smart
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:fhir\-works\-on\-aws\-authz\-smart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fhir-works-on-aws-authz-smart
+  confidence: auto

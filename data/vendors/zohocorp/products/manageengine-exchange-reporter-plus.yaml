@@ -1,0 +1,10 @@
+id: manageengine-exchange-reporter-plus
+vendor_id: zohocorp
+name: Manageengine Exchange Reporter Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_exchange_reporter_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_exchange_reporter_plus
+  confidence: auto

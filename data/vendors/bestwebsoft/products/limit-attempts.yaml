@@ -1,0 +1,10 @@
+id: limit-attempts
+vendor_id: bestwebsoft
+name: Limit Attempts
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:limit_attempts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: limit_attempts
+  confidence: auto

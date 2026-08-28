@@ -1,0 +1,10 @@
+id: thinkagile-hx2320-e
+vendor_id: lenovo
+name: Thinkagile Hx2320-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_hx2320\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_hx2320-e
+  confidence: auto

@@ -1,0 +1,10 @@
+id: storm-24-firmware
+vendor_id: enttec
+name: Storm 24 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:enttec:storm_24_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storm_24_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--tenable-io",
+  "vendor_id": "tenable",
+  "product_id": "tenable-io",
+  "name": "Tenable.Io",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tenable.io",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: gx-developer
+vendor_id: mitsubishielectric
+name: Gx Developer
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:gx_developer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gx_developer
+  confidence: auto

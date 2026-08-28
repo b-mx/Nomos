@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x9sae-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x9sae-firmware",
+  "name": "X9Sae Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x9sae_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

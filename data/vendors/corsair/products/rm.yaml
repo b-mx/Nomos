@@ -1,0 +1,10 @@
+id: rm
+vendor_id: corsair
+name: Rm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:rm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rm
+  confidence: auto

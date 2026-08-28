@@ -1,0 +1,10 @@
+id: hk-1000
+vendor_id: hyundaiusa
+name: Hk-1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hyundaiusa:hk\-1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hk-1000
+  confidence: auto

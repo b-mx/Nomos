@@ -1,0 +1,10 @@
+id: suse-manager-proxy
+vendor_id: novell
+name: Suse Manager Proxy
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:suse_manager_proxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_manager_proxy
+  confidence: auto

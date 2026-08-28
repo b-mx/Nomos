@@ -1,0 +1,10 @@
+id: moonlight-embedded
+vendor_id: moonlight-stream
+name: Moonlight Embedded
+type: software
+tags: []
+cpe: cpe:2.3:a:moonlight\-stream:moonlight_embedded:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moonlight_embedded
+  confidence: auto

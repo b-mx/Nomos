@@ -1,0 +1,10 @@
+id: icewarp
+vendor_id: icewarp
+name: Icewarp
+type: software
+tags: []
+cpe: cpe:2.3:a:icewarp:icewarp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icewarp
+  confidence: auto

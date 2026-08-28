@@ -1,0 +1,10 @@
+id: melsec-iq-rj71en71-firmware
+vendor_id: mitsubishielectric
+name: Melsec Iq-Rj71En71 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:melsec_iq\-rj71en71_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-rj71en71_firmware
+  confidence: auto

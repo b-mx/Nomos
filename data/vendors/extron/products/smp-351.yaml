@@ -1,0 +1,10 @@
+id: smp-351
+vendor_id: extron
+name: Smp 351
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extron:smp_351:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smp_351
+  confidence: auto

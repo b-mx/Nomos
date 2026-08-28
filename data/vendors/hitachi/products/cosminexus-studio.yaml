@@ -1,0 +1,10 @@
+id: cosminexus-studio
+vendor_id: hitachi
+name: Cosminexus Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:cosminexus_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cosminexus_studio
+  confidence: auto

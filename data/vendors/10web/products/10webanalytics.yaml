@@ -1,0 +1,10 @@
+id: 10webanalytics
+vendor_id: 10web
+name: 10Webanalytics
+type: software
+tags: []
+cpe: cpe:2.3:a:10web:10webanalytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 10webanalytics
+  confidence: auto

@@ -1,0 +1,10 @@
+id: shopping-portal
+vendor_id: fabian
+name: Shopping Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:shopping_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shopping_portal
+  confidence: auto

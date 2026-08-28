@@ -1,0 +1,10 @@
+id: snc-xm636
+vendor_id: sony
+name: Snc-Xm636
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-xm636:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-xm636
+  confidence: auto

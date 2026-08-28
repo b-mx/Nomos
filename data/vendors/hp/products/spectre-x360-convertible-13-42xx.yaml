@@ -1,0 +1,10 @@
+id: spectre-x360-convertible-13-42xx
+vendor_id: hp
+name: Spectre X360 Convertible 13-42Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_x360_convertible_13\-42xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_x360_convertible_13-42xx
+  confidence: auto

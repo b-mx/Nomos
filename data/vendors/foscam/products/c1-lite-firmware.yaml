@@ -1,0 +1,10 @@
+id: c1-lite-firmware
+vendor_id: foscam
+name: C1 Lite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:foscam:c1_lite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1_lite_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nats-deno
+vendor_id: linuxfoundation
+name: Nats.Deno
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:nats\.deno:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nats.deno
+  confidence: auto

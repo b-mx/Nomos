@@ -1,0 +1,10 @@
+id: xnb-6001
+vendor_id: hanwhavision
+name: Xnb-6001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnb\-6001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnb-6001
+  confidence: auto

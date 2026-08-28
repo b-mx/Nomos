@@ -1,0 +1,10 @@
+id: manageengine-admanager-plus
+vendor_id: zohocorp
+name: Manageengine Admanager Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_admanager_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_admanager_plus
+  confidence: auto

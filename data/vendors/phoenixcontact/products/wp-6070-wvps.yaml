@@ -1,0 +1,10 @@
+id: wp-6070-wvps
+vendor_id: phoenixcontact
+name: Wp 6070-Wvps
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:wp_6070\-wvps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_6070-wvps
+  confidence: auto

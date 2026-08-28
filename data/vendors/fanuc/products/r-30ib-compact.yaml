@@ -1,0 +1,10 @@
+id: r-30ib-compact
+vendor_id: fanuc
+name: R-30Ib Compact
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:r\-30ib_compact:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r-30ib_compact
+  confidence: auto

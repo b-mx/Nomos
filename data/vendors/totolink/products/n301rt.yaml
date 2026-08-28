@@ -1,0 +1,10 @@
+id: n301rt
+vendor_id: totolink
+name: N301Rt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:n301rt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n301rt
+  confidence: auto

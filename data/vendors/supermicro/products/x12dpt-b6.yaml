@@ -1,0 +1,10 @@
+id: x12dpt-b6
+vendor_id: supermicro
+name: X12Dpt-B6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12dpt\-b6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dpt-b6
+  confidence: auto

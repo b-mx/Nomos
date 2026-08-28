@@ -1,0 +1,10 @@
+id: tw100-s4w1ca-firmware
+vendor_id: trendnet
+name: Tw100-S4W1Ca Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:tw100\-s4w1ca_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tw100-s4w1ca_firmware
+  confidence: auto

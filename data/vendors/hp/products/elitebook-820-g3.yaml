@@ -1,0 +1,10 @@
+id: elitebook-820-g3
+vendor_id: hp
+name: Elitebook 820 G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_820_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_820_g3
+  confidence: auto

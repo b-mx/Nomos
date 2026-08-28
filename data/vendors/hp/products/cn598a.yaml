@@ -1,0 +1,10 @@
+id: cn598a
+vendor_id: hp
+name: Cn598A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cn598a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn598a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: retrofit
+vendor_id: squareup
+name: Retrofit
+type: software
+tags: []
+cpe: cpe:2.3:a:squareup:retrofit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: retrofit
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wazifa-system
+vendor_id: anisha
+name: Wazifa System
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:wazifa_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wazifa_system
+  confidence: auto

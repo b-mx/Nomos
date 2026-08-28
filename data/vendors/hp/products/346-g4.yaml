@@ -1,0 +1,10 @@
+id: 346-g4
+vendor_id: hp
+name: 346 G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:346_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 346_g4
+  confidence: auto

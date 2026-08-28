@@ -1,0 +1,10 @@
+id: a8000ru
+vendor_id: totolink
+name: A8000Ru
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a8000ru:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a8000ru
+  confidence: auto

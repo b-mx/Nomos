@@ -1,0 +1,10 @@
+id: dinion-ip-3000i
+vendor_id: bosch
+name: Dinion Ip 3000I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:dinion_ip_3000i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_ip_3000i
+  confidence: auto

@@ -1,0 +1,10 @@
+id: legion-t530-28icb
+vendor_id: lenovo
+name: Legion T530-28Icb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_t530\-28icb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_t530-28icb
+  confidence: auto

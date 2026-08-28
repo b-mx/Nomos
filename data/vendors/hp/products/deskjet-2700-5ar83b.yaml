@@ -1,0 +1,10 @@
+id: deskjet-2700-5ar83b
+vendor_id: hp
+name: Deskjet 2700 5Ar83B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_2700_5ar83b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_2700_5ar83b
+  confidence: auto

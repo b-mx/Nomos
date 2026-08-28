@@ -1,0 +1,10 @@
+id: poly-ccx-350
+vendor_id: hp
+name: Poly Ccx 350
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:poly_ccx_350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_ccx_350
+  confidence: auto

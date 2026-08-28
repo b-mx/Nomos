@@ -1,0 +1,7 @@
+id: kaspersky
+name: Kaspersky
+cpe: cpe:2.3:*:kaspersky:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kaspersky
+  confidence: auto

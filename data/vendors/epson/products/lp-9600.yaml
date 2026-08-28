@@ -1,0 +1,10 @@
+id: lp-9600
+vendor_id: epson
+name: Lp-9600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:lp\-9600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-9600
+  confidence: auto

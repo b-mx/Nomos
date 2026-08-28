@@ -1,0 +1,7 @@
+id: varnish-cache-project
+name: Varnish Cache Project
+cpe: cpe:2.3:*:varnish_cache_project:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: varnish_cache_project
+  confidence: auto

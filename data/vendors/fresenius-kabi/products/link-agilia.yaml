@@ -1,0 +1,10 @@
+id: link-agilia
+vendor_id: fresenius-kabi
+name: Link+ Agilia
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fresenius\-kabi:link\+_agilia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: link+_agilia
+  confidence: auto

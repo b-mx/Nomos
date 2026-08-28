@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--bios",
+  "vendor_id": "lenovo",
+  "product_id": "bios",
+  "name": "Bios",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bios",
+      "confidence": "auto"
+    }
+  ]
+}

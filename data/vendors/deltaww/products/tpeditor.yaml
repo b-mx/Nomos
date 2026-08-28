@@ -1,0 +1,10 @@
+id: tpeditor
+vendor_id: deltaww
+name: Tpeditor
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:tpeditor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tpeditor
+  confidence: auto

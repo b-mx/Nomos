@@ -1,0 +1,10 @@
+id: lenovo-ideapad-320-14ikb-i-a-firmware
+vendor_id: hp
+name: Lenovo Ideapad 320-14Ikb(I+A) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:lenovo_ideapad_320\-14ikb\(i\+a\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_ideapad_320-14ikb(i+a)_firmware
+  confidence: auto

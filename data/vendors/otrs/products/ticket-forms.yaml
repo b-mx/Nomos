@@ -1,0 +1,10 @@
+id: ticket-forms
+vendor_id: otrs
+name: Ticket Forms
+type: software
+tags: []
+cpe: cpe:2.3:a:otrs:ticket_forms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ticket_forms
+  confidence: auto

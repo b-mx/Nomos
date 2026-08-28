@@ -1,0 +1,10 @@
+id: team-220-firmware
+vendor_id: lifesize
+name: Team 220 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lifesize:team_220_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: team_220_firmware
+  confidence: auto

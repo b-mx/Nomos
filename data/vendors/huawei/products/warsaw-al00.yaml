@@ -1,0 +1,10 @@
+id: warsaw-al00
+vendor_id: huawei
+name: Warsaw-Al00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:warsaw\-al00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: warsaw-al00
+  confidence: auto

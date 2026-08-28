@@ -1,0 +1,10 @@
+id: fas27x0
+vendor_id: netapp
+name: Fas27X0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:fas27x0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fas27x0
+  confidence: auto

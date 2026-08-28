@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "alibaba--cloud-container-service",
+  "vendor_id": "alibaba",
+  "product_id": "cloud-container-service",
+  "name": "Cloud Container Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_container_service",
+      "confidence": "auto"
+    }
+  ]
+}

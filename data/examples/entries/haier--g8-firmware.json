@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "haier--g8-firmware",
+  "vendor_id": "haier",
+  "product_id": "g8-firmware",
+  "name": "G8 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "g8_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

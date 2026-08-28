@@ -1,0 +1,10 @@
+id: jackman-al00d
+vendor_id: huawei
+name: Jackman-Al00D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:jackman\-al00d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jackman-al00d
+  confidence: auto

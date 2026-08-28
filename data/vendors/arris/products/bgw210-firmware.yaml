@@ -1,0 +1,10 @@
+id: bgw210-firmware
+vendor_id: arris
+name: Bgw210 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arris:bgw210_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bgw210_firmware
+  confidence: auto

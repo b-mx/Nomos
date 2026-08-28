@@ -1,0 +1,10 @@
+id: baggage-analytics
+vendor_id: sick
+name: Baggage Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:baggage_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baggage_analytics
+  confidence: auto

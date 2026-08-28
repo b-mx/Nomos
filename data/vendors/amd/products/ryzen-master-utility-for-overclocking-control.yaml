@@ -1,0 +1,10 @@
+id: ryzen-master-utility-for-overclocking-control
+vendor_id: amd
+name: Ryzen Master Utility For Overclocking Control
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:ryzen_master_utility_for_overclocking_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_master_utility_for_overclocking_control
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--alexa",
+  "vendor_id": "amazon",
+  "product_id": "alexa",
+  "name": "Alexa",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alexa",
+      "confidence": "auto"
+    }
+  ]
+}

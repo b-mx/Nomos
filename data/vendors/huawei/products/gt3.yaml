@@ -1,0 +1,10 @@
+id: gt3
+vendor_id: huawei
+name: Gt3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:gt3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gt3
+  confidence: auto

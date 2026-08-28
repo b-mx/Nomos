@@ -1,0 +1,10 @@
+id: xec-dn30su
+vendor_id: ls-electric
+name: Xec-Dn30Su
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xec\-dn30su:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dn30su
+  confidence: auto

@@ -1,0 +1,10 @@
+id: h50-30g-desktop-firmware
+vendor_id: lenovo
+name: H50-30G Desktop Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:h50\-30g_desktop_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h50-30g_desktop_firmware
+  confidence: auto

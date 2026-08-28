@@ -1,0 +1,10 @@
+id: omnicore-c30
+vendor_id: abb
+name: Omnicore C30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:omnicore_c30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omnicore_c30
+  confidence: auto

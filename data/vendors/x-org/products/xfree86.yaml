@@ -1,0 +1,10 @@
+id: xfree86
+vendor_id: x-org
+name: Xfree86
+type: software
+tags: []
+cpe: cpe:2.3:a:x\.org:xfree86:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xfree86
+  confidence: auto

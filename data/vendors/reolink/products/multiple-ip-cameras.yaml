@@ -1,9 +1,8 @@
 id: multiple-ip-cameras
 vendor_id: reolink
 name: Multiple IP Cameras
-type: hardware
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: Multiple IP Cameras

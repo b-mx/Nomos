@@ -1,0 +1,10 @@
+id: xcomfort-ethernet-communication-interface
+vendor_id: eaton
+name: Xcomfort Ethernet Communication Interface
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:xcomfort_ethernet_communication_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xcomfort_ethernet_communication_interface
+  confidence: auto

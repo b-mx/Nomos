@@ -1,0 +1,10 @@
+id: plcwinnt
+vendor_id: codesys
+name: Plcwinnt
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:plcwinnt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plcwinnt
+  confidence: auto

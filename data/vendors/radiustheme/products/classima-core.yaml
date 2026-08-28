@@ -1,0 +1,10 @@
+id: classima-core
+vendor_id: radiustheme
+name: Classima Core
+type: software
+tags: []
+cpe: cpe:2.3:a:radiustheme:classima_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: classima_core
+  confidence: auto

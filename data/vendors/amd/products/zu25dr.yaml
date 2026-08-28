@@ -1,0 +1,10 @@
+id: zu25dr
+vendor_id: amd
+name: Zu25Dr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:zu25dr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu25dr
+  confidence: auto

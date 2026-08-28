@@ -1,0 +1,10 @@
+id: dcp-j962n
+vendor_id: brother
+name: Dcp-J962N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-j962n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-j962n
+  confidence: auto

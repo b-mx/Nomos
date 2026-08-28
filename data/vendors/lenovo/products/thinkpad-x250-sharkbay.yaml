@@ -1,0 +1,10 @@
+id: thinkpad-x250-sharkbay
+vendor_id: lenovo
+name: Thinkpad X250 Sharkbay
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x250_sharkbay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x250_sharkbay
+  confidence: auto

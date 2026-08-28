@@ -1,0 +1,9 @@
+id: oracle-solaris
+vendor_id: oracle-solaris
+name: Oracle Solaris
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: oracle-solaris
+  confidence: auto

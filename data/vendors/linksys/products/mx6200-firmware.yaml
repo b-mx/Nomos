@@ -1,0 +1,10 @@
+id: mx6200-firmware
+vendor_id: linksys
+name: Mx6200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:mx6200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx6200_firmware
+  confidence: auto

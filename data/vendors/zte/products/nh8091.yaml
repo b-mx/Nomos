@@ -1,0 +1,10 @@
+id: nh8091
+vendor_id: zte
+name: Nh8091
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:nh8091:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nh8091
+  confidence: auto

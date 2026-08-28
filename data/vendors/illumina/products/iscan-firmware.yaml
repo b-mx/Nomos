@@ -1,0 +1,10 @@
+id: iscan-firmware
+vendor_id: illumina
+name: Iscan Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:illumina:iscan_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iscan_firmware
+  confidence: auto

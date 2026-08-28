@@ -1,0 +1,10 @@
+id: pcd1-m2xx0-firmware
+vendor_id: saia-burgess-controls
+name: Pcd1.M2Xx0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:saia_burgess_controls:pcd1\.m2xx0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcd1.m2xx0_firmware
+  confidence: auto

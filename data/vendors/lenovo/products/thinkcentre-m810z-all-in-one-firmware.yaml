@@ -1,0 +1,10 @@
+id: thinkcentre-m810z-all-in-one-firmware
+vendor_id: lenovo
+name: Thinkcentre M810Z All-In-One Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkcentre_m810z_all\-in\-one_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m810z_all-in-one_firmware
+  confidence: auto

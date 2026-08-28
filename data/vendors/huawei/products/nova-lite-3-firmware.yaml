@@ -1,0 +1,10 @@
+id: nova-lite-3-firmware
+vendor_id: huawei
+name: Nova Lite 3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:nova_lite_3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova_lite_3_firmware
+  confidence: auto

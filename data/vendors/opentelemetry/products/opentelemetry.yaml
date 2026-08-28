@@ -1,0 +1,10 @@
+id: opentelemetry
+vendor_id: opentelemetry
+name: Opentelemetry
+type: software
+tags: []
+cpe: cpe:2.3:a:opentelemetry:opentelemetry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentelemetry
+  confidence: auto

@@ -1,0 +1,10 @@
+id: routinator
+vendor_id: nlnetlabs
+name: Routinator
+type: software
+tags: []
+cpe: cpe:2.3:a:nlnetlabs:routinator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: routinator
+  confidence: auto

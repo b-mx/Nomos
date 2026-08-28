@@ -1,0 +1,10 @@
+id: blog-filter
+vendor_id: awplife
+name: Blog Filter
+type: software
+tags: []
+cpe: cpe:2.3:a:awplife:blog_filter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blog_filter
+  confidence: auto

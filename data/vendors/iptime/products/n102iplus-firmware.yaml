@@ -1,0 +1,10 @@
+id: n102iplus-firmware
+vendor_id: iptime
+name: N102Iplus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n102iplus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n102iplus_firmware
+  confidence: auto

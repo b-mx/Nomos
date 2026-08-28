@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11ssv-m4-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11ssv-m4-firmware",
+  "name": "X11Ssv-M4 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11ssv-m4_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

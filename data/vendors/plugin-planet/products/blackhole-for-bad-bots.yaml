@@ -1,0 +1,10 @@
+id: blackhole-for-bad-bots
+vendor_id: plugin-planet
+name: Blackhole For Bad Bots
+type: software
+tags: []
+cpe: cpe:2.3:a:plugin\-planet:blackhole_for_bad_bots:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackhole_for_bad_bots
+  confidence: auto

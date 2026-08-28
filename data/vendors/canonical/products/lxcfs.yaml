@@ -1,0 +1,10 @@
+id: lxcfs
+vendor_id: canonical
+name: Lxcfs
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:lxcfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lxcfs
+  confidence: auto

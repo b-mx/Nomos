@@ -1,0 +1,10 @@
+id: python-priority-library
+vendor_id: python
+name: Python Priority Library
+type: software
+tags: []
+cpe: cpe:2.3:a:python:python_priority_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: python_priority_library
+  confidence: auto

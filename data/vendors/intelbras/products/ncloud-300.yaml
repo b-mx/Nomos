@@ -1,0 +1,10 @@
+id: ncloud-300
+vendor_id: intelbras
+name: Ncloud 300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:ncloud_300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ncloud_300
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bond-tl10b-firmware
+vendor_id: huawei
+name: Bond-Tl10B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:bond\-tl10b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bond-tl10b_firmware
+  confidence: auto

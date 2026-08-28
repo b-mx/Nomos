@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--smt-x9-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "smt-x9-firmware",
+  "name": "Smt X9 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smt_x9_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

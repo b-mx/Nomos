@@ -1,0 +1,10 @@
+id: pm-pdu
+vendor_id: powertekpdus
+name: Pm Pdu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:powertekpdus:pm_pdu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm_pdu
+  confidence: auto

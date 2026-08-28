@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ti--openthread",
+  "vendor_id": "ti",
+  "product_id": "openthread",
+  "name": "Openthread",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openthread",
+      "confidence": "auto"
+    }
+  ]
+}

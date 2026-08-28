@@ -1,0 +1,10 @@
+id: edge-gateway
+vendor_id: codesys
+name: Edge Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:edge_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edge_gateway
+  confidence: auto

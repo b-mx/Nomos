@@ -1,0 +1,10 @@
+id: zt420
+vendor_id: zebra
+name: Zt420
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zebra:zt420:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zt420
+  confidence: auto

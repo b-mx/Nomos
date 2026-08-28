@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "php-nuke--news-module",
+  "vendor_id": "php-nuke",
+  "product_id": "news-module",
+  "name": "News Module",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "news_module",
+      "confidence": "auto"
+    }
+  ]
+}

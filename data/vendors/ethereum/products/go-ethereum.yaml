@@ -1,0 +1,10 @@
+id: go-ethereum
+vendor_id: ethereum
+name: Go Ethereum
+type: software
+tags: []
+cpe: cpe:2.3:a:ethereum:go_ethereum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_ethereum
+  confidence: auto

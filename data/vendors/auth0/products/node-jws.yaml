@@ -1,0 +1,10 @@
+id: node-jws
+vendor_id: auth0
+name: Node-Jws
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:node\-jws:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: node-jws
+  confidence: auto

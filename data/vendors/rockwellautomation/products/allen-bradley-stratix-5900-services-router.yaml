@@ -1,0 +1,10 @@
+id: allen-bradley-stratix-5900-services-router
+vendor_id: rockwellautomation
+name: Allen-Bradley Stratix 5900 Services Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:allen\-bradley_stratix_5900_services_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: allen-bradley_stratix_5900_services_router
+  confidence: auto

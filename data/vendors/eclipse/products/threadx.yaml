@@ -1,0 +1,10 @@
+id: threadx
+vendor_id: eclipse
+name: Threadx
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:threadx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: threadx
+  confidence: auto

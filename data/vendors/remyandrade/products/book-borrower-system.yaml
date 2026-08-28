@@ -1,0 +1,10 @@
+id: book-borrower-system
+vendor_id: remyandrade
+name: Book Borrower System
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:book_borrower_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: book_borrower_system
+  confidence: auto

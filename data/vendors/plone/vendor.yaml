@@ -1,0 +1,7 @@
+id: plone
+name: Plone
+cpe: cpe:2.3:*:plone:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plone
+  confidence: auto

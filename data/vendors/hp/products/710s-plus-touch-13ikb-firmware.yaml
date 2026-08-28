@@ -1,0 +1,10 @@
+id: 710s-plus-touch-13ikb-firmware
+vendor_id: hp
+name: 710S Plus Touch-13Ikb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:710s_plus_touch\-13ikb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 710s_plus_touch-13ikb_firmware
+  confidence: auto

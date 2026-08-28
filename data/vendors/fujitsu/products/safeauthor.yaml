@@ -1,0 +1,10 @@
+id: safeauthor
+vendor_id: fujitsu
+name: Safeauthor
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:safeauthor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safeauthor
+  confidence: auto

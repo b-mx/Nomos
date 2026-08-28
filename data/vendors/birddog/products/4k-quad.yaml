@@ -1,0 +1,10 @@
+id: 4k-quad
+vendor_id: birddog
+name: 4K Quad
+type: hardware
+tags: []
+cpe: cpe:2.3:h:birddog:4k_quad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4k_quad
+  confidence: auto

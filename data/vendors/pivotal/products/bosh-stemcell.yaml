@@ -1,0 +1,10 @@
+id: bosh-stemcell
+vendor_id: pivotal
+name: Bosh Stemcell
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:bosh_stemcell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bosh_stemcell
+  confidence: auto

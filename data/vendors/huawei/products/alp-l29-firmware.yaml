@@ -1,0 +1,10 @@
+id: alp-l29-firmware
+vendor_id: huawei
+name: Alp-L29 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:alp\-l29_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alp-l29_firmware
+  confidence: auto

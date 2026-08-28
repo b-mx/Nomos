@@ -1,0 +1,10 @@
+id: mcuxpresso-software-development-kit
+vendor_id: nxp
+name: Mcuxpresso Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:nxp:mcuxpresso_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcuxpresso_software_development_kit
+  confidence: auto

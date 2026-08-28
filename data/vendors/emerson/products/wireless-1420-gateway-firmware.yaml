@@ -1,0 +1,10 @@
+id: wireless-1420-gateway-firmware
+vendor_id: emerson
+name: Wireless 1420 Gateway Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:wireless_1420_gateway_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireless_1420_gateway_firmware
+  confidence: auto

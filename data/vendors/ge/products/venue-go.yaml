@@ -1,0 +1,10 @@
+id: venue-go
+vendor_id: ge
+name: Venue Go
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:venue_go:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: venue_go
+  confidence: auto

@@ -1,0 +1,10 @@
+id: oncommand-balance
+vendor_id: netapp
+name: Oncommand Balance
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:oncommand_balance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncommand_balance
+  confidence: auto

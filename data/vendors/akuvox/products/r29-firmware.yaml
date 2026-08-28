@@ -1,0 +1,10 @@
+id: r29-firmware
+vendor_id: akuvox
+name: R29 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:akuvox:r29_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r29_firmware
+  confidence: auto

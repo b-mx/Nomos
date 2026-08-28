@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--midas-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "midas-firmware",
+  "name": "Midas Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "midas_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: hcl-launch-container-image
+vendor_id: hcltech
+name: Hcl Launch Container Image
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:hcl_launch_container_image:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_launch_container_image
+  confidence: auto

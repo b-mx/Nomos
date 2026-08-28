@@ -1,0 +1,10 @@
+id: remove-footer-credit
+vendor_id: wpchill
+name: Remove Footer Credit
+type: software
+tags: []
+cpe: cpe:2.3:a:wpchill:remove_footer_credit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remove_footer_credit
+  confidence: auto

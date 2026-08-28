@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--aff-bios",
+  "vendor_id": "netapp",
+  "product_id": "aff-bios",
+  "name": "Aff Bios",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aff_bios",
+      "confidence": "auto"
+    }
+  ]
+}

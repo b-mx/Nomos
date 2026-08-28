@@ -1,0 +1,10 @@
+id: ichitaro-viewer
+vendor_id: justsystems
+name: Ichitaro Viewer
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:ichitaro_viewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ichitaro_viewer
+  confidence: auto

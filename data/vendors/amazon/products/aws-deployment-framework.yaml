@@ -1,0 +1,10 @@
+id: aws-deployment-framework
+vendor_id: amazon
+name: Aws Deployment Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_deployment_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_deployment_framework
+  confidence: auto

@@ -1,0 +1,10 @@
+id: carrier-grade-server-cc3310
+vendor_id: hp
+name: Carrier Grade Server Cc3310
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:carrier_grade_server_cc3310:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carrier_grade_server_cc3310
+  confidence: auto

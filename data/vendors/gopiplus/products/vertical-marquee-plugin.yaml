@@ -1,0 +1,10 @@
+id: vertical-marquee-plugin
+vendor_id: gopiplus
+name: Vertical Marquee Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:vertical_marquee_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vertical_marquee_plugin
+  confidence: auto

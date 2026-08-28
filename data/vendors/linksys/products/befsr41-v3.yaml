@@ -1,0 +1,10 @@
+id: befsr41-v3
+vendor_id: linksys
+name: Befsr41 V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:befsr41_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: befsr41_v3
+  confidence: auto

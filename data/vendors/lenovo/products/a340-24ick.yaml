@@ -1,0 +1,10 @@
+id: a340-24ick
+vendor_id: lenovo
+name: A340-24Ick
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:a340\-24ick:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a340-24ick
+  confidence: auto

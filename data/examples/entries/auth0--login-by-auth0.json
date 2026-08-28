@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "auth0--login-by-auth0",
+  "vendor_id": "auth0",
+  "product_id": "login-by-auth0",
+  "name": "Login By Auth0",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "login_by_auth0",
+      "confidence": "auto"
+    }
+  ]
+}

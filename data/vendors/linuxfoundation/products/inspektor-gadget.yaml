@@ -1,0 +1,10 @@
+id: inspektor-gadget
+vendor_id: linuxfoundation
+name: Inspektor Gadget
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:inspektor_gadget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inspektor_gadget
+  confidence: auto

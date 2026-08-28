@@ -1,0 +1,10 @@
+id: automatewoo
+vendor_id: woocommerce
+name: Automatewoo
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:automatewoo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automatewoo
+  confidence: auto

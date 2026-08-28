@@ -1,0 +1,10 @@
+id: manageengine-remote-monitoring-and-management-central
+vendor_id: zohocorp
+name: Manageengine Remote Monitoring And Management Central
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_remote_monitoring_and_management_central:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_remote_monitoring_and_management_central
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ip-camera-g-cam-efd-2250-firmware
+vendor_id: geutebrueck
+name: Ip Camera G-Cam Efd-2250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:geutebrueck:ip_camera_g\-cam_efd\-2250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_camera_g-cam_efd-2250_firmware
+  confidence: auto

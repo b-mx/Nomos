@@ -1,0 +1,10 @@
+id: flex-system-fabric-cn4093-10gb-converged-scalable-switch
+vendor_id: lenovo
+name: Flex System Fabric Cn4093 10Gb Converged Scalable Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:flex_system_fabric_cn4093_10gb_converged_scalable_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_system_fabric_cn4093_10gb_converged_scalable_switch
+  confidence: auto

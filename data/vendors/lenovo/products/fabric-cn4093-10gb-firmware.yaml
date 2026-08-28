@@ -1,0 +1,10 @@
+id: fabric-cn4093-10gb-firmware
+vendor_id: lenovo
+name: Fabric Cn4093 10Gb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:fabric_cn4093_10gb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fabric_cn4093_10gb_firmware
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--primepower-firmware",
+  "vendor_id": "fujitsu",
+  "product_id": "primepower-firmware",
+  "name": "Primepower Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "primepower_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

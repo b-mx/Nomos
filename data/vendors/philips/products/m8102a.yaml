@@ -1,0 +1,10 @@
+id: m8102a
+vendor_id: philips
+name: M8102A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:m8102a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m8102a
+  confidence: auto

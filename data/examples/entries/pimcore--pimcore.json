@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pimcore--pimcore",
+  "vendor_id": "pimcore",
+  "product_id": "pimcore",
+  "name": "Pimcore",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pimcore",
+      "confidence": "auto"
+    }
+  ]
+}

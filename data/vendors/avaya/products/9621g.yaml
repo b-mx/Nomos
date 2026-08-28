@@ -1,0 +1,10 @@
+id: 9621g
+vendor_id: avaya
+name: 9621G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:9621g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9621g
+  confidence: auto

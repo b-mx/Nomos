@@ -1,0 +1,10 @@
+id: thinkserver-ts150-bios
+vendor_id: lenovo
+name: Thinkserver Ts150 Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkserver_ts150_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkserver_ts150_bios
+  confidence: auto

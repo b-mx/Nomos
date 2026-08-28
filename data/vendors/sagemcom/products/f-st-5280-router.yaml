@@ -1,0 +1,10 @@
+id: f-st-5280-router
+vendor_id: sagemcom
+name: F@St 5280 Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sagemcom:f\@st_5280_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f@st_5280_router
+  confidence: auto

@@ -1,0 +1,10 @@
+id: modular-advanced-control-for-hvdc
+vendor_id: hitachienergy
+name: Modular Advanced Control For Hvdc
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:modular_advanced_control_for_hvdc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modular_advanced_control_for_hvdc
+  confidence: auto

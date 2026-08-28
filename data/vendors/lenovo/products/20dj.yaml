@@ -1,0 +1,10 @@
+id: 20dj
+vendor_id: lenovo
+name: 20Dj
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20dj:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20dj
+  confidence: auto

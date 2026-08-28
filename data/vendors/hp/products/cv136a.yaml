@@ -1,0 +1,10 @@
+id: cv136a
+vendor_id: hp
+name: Cv136A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cv136a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cv136a
+  confidence: auto

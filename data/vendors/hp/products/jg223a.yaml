@@ -1,0 +1,10 @@
+id: jg223a
+vendor_id: hp
+name: Jg223A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg223a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg223a
+  confidence: auto

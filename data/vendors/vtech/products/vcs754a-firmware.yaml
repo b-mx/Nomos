@@ -1,0 +1,10 @@
+id: vcs754a-firmware
+vendor_id: vtech
+name: Vcs754A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vtech:vcs754a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vcs754a_firmware
+  confidence: auto

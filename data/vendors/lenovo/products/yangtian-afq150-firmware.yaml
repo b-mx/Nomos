@@ -1,0 +1,10 @@
+id: yangtian-afq150-firmware
+vendor_id: lenovo
+name: Yangtian Afq150 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yangtian_afq150_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_afq150_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mx718
+vendor_id: lexmark
+name: Mx718
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx718:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx718
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--alveo-u200",
+  "vendor_id": "amd",
+  "product_id": "alveo-u200",
+  "name": "Alveo U200",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alveo_u200",
+      "confidence": "auto"
+    }
+  ]
+}

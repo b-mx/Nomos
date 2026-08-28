@@ -1,0 +1,10 @@
+id: mega-menu
+vendor_id: themehunk
+name: Mega Menu
+type: software
+tags: []
+cpe: cpe:2.3:a:themehunk:mega_menu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mega_menu
+  confidence: auto

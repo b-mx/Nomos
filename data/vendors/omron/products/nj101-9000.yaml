@@ -1,0 +1,10 @@
+id: nj101-9000
+vendor_id: omron
+name: Nj101-9000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:nj101\-9000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nj101-9000
+  confidence: auto

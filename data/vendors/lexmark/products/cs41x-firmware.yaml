@@ -1,0 +1,10 @@
+id: cs41x-firmware
+vendor_id: lexmark
+name: Cs41X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:cs41x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs41x_firmware
+  confidence: auto

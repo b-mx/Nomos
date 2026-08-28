@@ -1,0 +1,10 @@
+id: hardware-scan
+vendor_id: lenovo
+name: Hardware Scan
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:hardware_scan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hardware_scan
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x9drth-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x9drth-firmware",
+  "name": "X9Drth Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x9drth_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

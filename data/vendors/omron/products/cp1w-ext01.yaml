@@ -1,0 +1,10 @@
+id: cp1w-ext01
+vendor_id: omron
+name: Cp1W-Ext01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp1w\-ext01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-ext01
+  confidence: auto

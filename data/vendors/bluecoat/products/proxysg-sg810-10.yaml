@@ -1,0 +1,10 @@
+id: proxysg-sg810-10
+vendor_id: bluecoat
+name: Proxysg Sg810-10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bluecoat:proxysg_sg810\-10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proxysg_sg810-10
+  confidence: auto

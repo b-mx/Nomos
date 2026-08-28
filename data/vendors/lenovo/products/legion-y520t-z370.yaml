@@ -1,0 +1,10 @@
+id: legion-y520t-z370
+vendor_id: lenovo
+name: Legion Y520T Z370
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_y520t_z370:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y520t_z370
+  confidence: auto

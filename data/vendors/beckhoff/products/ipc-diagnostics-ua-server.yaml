@@ -1,0 +1,10 @@
+id: ipc-diagnostics-ua-server
+vendor_id: beckhoff
+name: Ipc Diagnostics Ua Server
+type: software
+tags: []
+cpe: cpe:2.3:a:beckhoff:ipc_diagnostics_ua_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipc_diagnostics_ua_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cg2001-udbna
+vendor_id: kaonmedia
+name: Cg2001-Udbna
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kaonmedia:cg2001\-udbna:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cg2001-udbna
+  confidence: auto

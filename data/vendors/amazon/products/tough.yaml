@@ -1,0 +1,10 @@
+id: tough
+vendor_id: amazon
+name: Tough
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:tough:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tough
+  confidence: auto

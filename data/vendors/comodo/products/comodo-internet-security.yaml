@@ -1,0 +1,10 @@
+id: comodo-internet-security
+vendor_id: comodo
+name: Comodo Internet Security
+type: software
+tags: []
+cpe: cpe:2.3:a:comodo:comodo_internet_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comodo_internet_security
+  confidence: auto

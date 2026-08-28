@@ -1,0 +1,10 @@
+id: procurve-switch
+vendor_id: hp
+name: Procurve Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:procurve_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: procurve_switch
+  confidence: auto

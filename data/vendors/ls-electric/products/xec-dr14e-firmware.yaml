@@ -1,0 +1,10 @@
+id: xec-dr14e-firmware
+vendor_id: ls-electric
+name: Xec-Dr14E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xec\-dr14e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dr14e_firmware
+  confidence: auto

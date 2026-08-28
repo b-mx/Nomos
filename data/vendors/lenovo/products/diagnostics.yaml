@@ -1,0 +1,10 @@
+id: diagnostics
+vendor_id: lenovo
+name: Diagnostics
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:diagnostics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diagnostics
+  confidence: auto

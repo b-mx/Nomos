@@ -1,0 +1,10 @@
+id: fx3s-20mt-es
+vendor_id: mitsubishielectric
+name: Fx3S-20Mt/Es
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:fx3s\-20mt\/es:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3s-20mt/es
+  confidence: auto

@@ -1,0 +1,10 @@
+id: chromebook-11
+vendor_id: haier
+name: Chromebook 11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:haier:chromebook_11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chromebook_11
+  confidence: auto

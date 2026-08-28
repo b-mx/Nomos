@@ -1,0 +1,10 @@
+id: s750-iil
+vendor_id: lenovo
+name: S750-Iil
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s750\-iil:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s750-iil
+  confidence: auto

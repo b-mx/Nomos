@@ -1,0 +1,10 @@
+id: fl-mguard-rs2000-tx-tx-b
+vendor_id: phoenixcontact
+name: Fl Mguard Rs2000 Tx/Tx-B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_mguard_rs2000_tx\/tx\-b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_rs2000_tx/tx-b
+  confidence: auto

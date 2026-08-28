@@ -1,0 +1,10 @@
+id: rims-2014-annual-conference
+vendor_id: core-apps
+name: Rims 2014 Annual Conference
+type: software
+tags: []
+cpe: cpe:2.3:a:core\-apps:rims_2014_annual_conference:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rims_2014_annual_conference
+  confidence: auto

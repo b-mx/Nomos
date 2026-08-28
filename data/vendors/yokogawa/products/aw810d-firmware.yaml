@@ -1,0 +1,10 @@
+id: aw810d-firmware
+vendor_id: yokogawa
+name: Aw810D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yokogawa:aw810d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aw810d_firmware
+  confidence: auto

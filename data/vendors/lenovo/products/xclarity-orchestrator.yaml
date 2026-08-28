@@ -1,0 +1,10 @@
+id: xclarity-orchestrator
+vendor_id: lenovo
+name: Xclarity Orchestrator
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:xclarity_orchestrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xclarity_orchestrator
+  confidence: auto

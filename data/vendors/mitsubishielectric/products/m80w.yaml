@@ -1,0 +1,10 @@
+id: m80w
+vendor_id: mitsubishielectric
+name: M80W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:m80w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m80w
+  confidence: auto

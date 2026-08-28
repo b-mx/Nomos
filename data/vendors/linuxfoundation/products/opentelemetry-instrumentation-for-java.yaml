@@ -1,0 +1,10 @@
+id: opentelemetry-instrumentation-for-java
+vendor_id: linuxfoundation
+name: Opentelemetry Instrumentation For Java
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:opentelemetry_instrumentation_for_java:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentelemetry_instrumentation_for_java
+  confidence: auto

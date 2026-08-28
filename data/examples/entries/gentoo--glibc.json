@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gentoo--glibc",
+  "vendor_id": "gentoo",
+  "product_id": "glibc",
+  "name": "Glibc",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "glibc",
+      "confidence": "auto"
+    }
+  ]
+}

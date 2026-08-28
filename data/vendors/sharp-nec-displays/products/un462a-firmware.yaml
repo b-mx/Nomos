@@ -1,0 +1,10 @@
+id: un462a-firmware
+vendor_id: sharp-nec-displays
+name: Un462A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp\-nec\-displays:un462a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: un462a_firmware
+  confidence: auto

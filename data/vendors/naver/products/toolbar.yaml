@@ -1,0 +1,10 @@
+id: toolbar
+vendor_id: naver
+name: Toolbar
+type: software
+tags: []
+cpe: cpe:2.3:a:naver:toolbar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toolbar
+  confidence: auto

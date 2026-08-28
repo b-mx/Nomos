@@ -1,0 +1,10 @@
+id: mx-b356w-firmware
+vendor_id: sharp
+name: Mx-B356W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-b356w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-b356w_firmware
+  confidence: auto

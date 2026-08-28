@@ -1,0 +1,10 @@
+id: radeon-directx-11-driver-atidxx64-dll
+vendor_id: amd
+name: Radeon Directx 11 Driver Atidxx64.Dll
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:radeon_directx_11_driver_atidxx64\.dll:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radeon_directx_11_driver_atidxx64.dll
+  confidence: auto

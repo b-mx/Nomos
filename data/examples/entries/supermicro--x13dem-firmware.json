@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x13dem-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x13dem-firmware",
+  "name": "X13Dem Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x13dem_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

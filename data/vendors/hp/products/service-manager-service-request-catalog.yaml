@@ -1,0 +1,10 @@
+id: service-manager-service-request-catalog
+vendor_id: hp
+name: Service Manager Service Request Catalog
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:service_manager_service_request_catalog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_manager_service_request_catalog
+  confidence: auto

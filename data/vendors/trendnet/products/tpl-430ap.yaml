@@ -1,0 +1,10 @@
+id: tpl-430ap
+vendor_id: trendnet
+name: Tpl-430Ap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tpl\-430ap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tpl-430ap
+  confidence: auto

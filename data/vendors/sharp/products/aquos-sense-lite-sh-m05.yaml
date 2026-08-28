@@ -1,0 +1,10 @@
+id: aquos-sense-lite-sh-m05
+vendor_id: sharp
+name: Aquos Sense Lite Sh-M05
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:aquos_sense_lite_sh\-m05:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_sense_lite_sh-m05
+  confidence: auto

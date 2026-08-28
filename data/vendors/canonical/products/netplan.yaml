@@ -1,0 +1,10 @@
+id: netplan
+vendor_id: canonical
+name: Netplan
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:netplan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netplan
+  confidence: auto

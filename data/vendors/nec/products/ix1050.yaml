@@ -1,0 +1,10 @@
+id: ix1050
+vendor_id: nec
+name: Ix1050
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:ix1050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ix1050
+  confidence: auto

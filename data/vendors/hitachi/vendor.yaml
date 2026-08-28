@@ -1,0 +1,7 @@
+id: hitachi
+name: Hitachi
+cpe: cpe:2.3:*:hitachi:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hitachi
+  confidence: auto

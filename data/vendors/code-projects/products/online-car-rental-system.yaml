@@ -1,0 +1,10 @@
+id: online-car-rental-system
+vendor_id: code-projects
+name: Online Car Rental System
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:online_car_rental_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_car_rental_system
+  confidence: auto

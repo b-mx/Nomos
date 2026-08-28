@@ -1,0 +1,7 @@
+id: netease
+name: Netease
+cpe: cpe:2.3:*:netease:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netease
+  confidence: auto

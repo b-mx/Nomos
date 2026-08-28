@@ -1,0 +1,10 @@
+id: cm-6200un
+vendor_id: comtrend
+name: Cm-6200Un
+type: hardware
+tags: []
+cpe: cpe:2.3:h:comtrend:cm\-6200un:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm-6200un
+  confidence: auto

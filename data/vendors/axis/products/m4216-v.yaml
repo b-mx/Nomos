@@ -1,0 +1,10 @@
+id: m4216-v
+vendor_id: axis
+name: M4216-V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m4216\-v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m4216-v
+  confidence: auto

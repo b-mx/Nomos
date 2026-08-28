@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "sourcegraph--sourcegraph",
+  "vendor_id": "sourcegraph",
+  "product_id": "sourcegraph",
+  "name": "Sourcegraph",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "sourcegraph",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "sourcegraph",
+      "confidence": "auto"
+    }
+  ]
+}

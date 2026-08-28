@@ -1,0 +1,10 @@
+id: wmc-m1267gst2-w-firmware
+vendor_id: elecom
+name: Wmc-M1267Gst2-W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wmc\-m1267gst2\-w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wmc-m1267gst2-w_firmware
+  confidence: auto

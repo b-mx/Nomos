@@ -1,0 +1,10 @@
+id: px-6250s-firmware
+vendor_id: epson
+name: Px-6250S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:px\-6250s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-6250s_firmware
+  confidence: auto

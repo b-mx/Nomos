@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arubanetworks--203rp-firmware",
+  "vendor_id": "arubanetworks",
+  "product_id": "203rp-firmware",
+  "name": "203Rp Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "203rp_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

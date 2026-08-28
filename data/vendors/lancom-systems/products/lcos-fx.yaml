@@ -1,0 +1,10 @@
+id: lcos-fx
+vendor_id: lancom-systems
+name: Lcos Fx
+type: os
+tags: []
+cpe: cpe:2.3:o:lancom\-systems:lcos_fx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lcos_fx
+  confidence: auto

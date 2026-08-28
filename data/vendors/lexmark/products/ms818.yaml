@@ -1,0 +1,10 @@
+id: ms818
+vendor_id: lexmark
+name: Ms818
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms818:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms818
+  confidence: auto

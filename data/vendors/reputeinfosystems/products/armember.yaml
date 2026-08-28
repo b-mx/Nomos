@@ -1,0 +1,10 @@
+id: armember
+vendor_id: reputeinfosystems
+name: Armember
+type: software
+tags: []
+cpe: cpe:2.3:a:reputeinfosystems:armember:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: armember
+  confidence: auto

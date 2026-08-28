@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "polycom--viewstation-h-323",
+  "vendor_id": "polycom",
+  "product_id": "viewstation-h-323",
+  "name": "Viewstation H.323",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "viewstation_h.323",
+      "confidence": "auto"
+    }
+  ]
+}

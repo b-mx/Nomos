@@ -1,0 +1,10 @@
+id: opendiamond
+vendor_id: cmu
+name: Opendiamond
+type: software
+tags: []
+cpe: cpe:2.3:a:cmu:opendiamond:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opendiamond
+  confidence: auto

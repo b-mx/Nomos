@@ -6,13 +6,13 @@
   "name": "ColdFusion",
   "type": "software",
   "tags": [],
-  "icon": "logos:adobe-icon",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "ColdFusion",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

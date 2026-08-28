@@ -1,0 +1,10 @@
+id: b2ss1-cpu
+vendor_id: supermicro
+name: B2Ss1-Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b2ss1\-cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b2ss1-cpu
+  confidence: auto

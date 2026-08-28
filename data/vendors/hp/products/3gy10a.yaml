@@ -1,0 +1,10 @@
+id: 3gy10a
+vendor_id: hp
+name: 3Gy10A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:3gy10a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3gy10a
+  confidence: auto

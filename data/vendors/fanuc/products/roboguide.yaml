@@ -1,0 +1,10 @@
+id: roboguide
+vendor_id: fanuc
+name: Roboguide
+type: software
+tags: []
+cpe: cpe:2.3:a:fanuc:roboguide:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roboguide
+  confidence: auto

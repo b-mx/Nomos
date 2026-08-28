@@ -1,0 +1,10 @@
+id: endpoint-encryption
+vendor_id: eset
+name: Endpoint Encryption
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:endpoint_encryption:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: endpoint_encryption
+  confidence: auto

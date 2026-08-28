@@ -1,0 +1,10 @@
+id: jetwave-5810g
+vendor_id: korenix
+name: Jetwave 5810G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetwave_5810g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_5810g
+  confidence: auto

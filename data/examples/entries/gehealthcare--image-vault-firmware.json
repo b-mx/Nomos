@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gehealthcare--image-vault-firmware",
+  "vendor_id": "gehealthcare",
+  "product_id": "image-vault-firmware",
+  "name": "Image Vault Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "image_vault_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

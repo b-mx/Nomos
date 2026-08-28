@@ -1,0 +1,10 @@
+id: data-ontap-operating-in-7-mode
+vendor_id: netapp
+name: Data Ontap Operating In 7-Mode
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:data_ontap_operating_in_7\-mode:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_ontap_operating_in_7-mode
+  confidence: auto

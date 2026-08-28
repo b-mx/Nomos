@@ -1,0 +1,10 @@
+id: shotx-firmware
+vendor_id: huawei
+name: Shotx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:shotx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shotx_firmware
+  confidence: auto

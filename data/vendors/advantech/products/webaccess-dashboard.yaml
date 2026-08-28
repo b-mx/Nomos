@@ -1,0 +1,10 @@
+id: webaccess-dashboard
+vendor_id: advantech
+name: Webaccess Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:webaccess_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webaccess_dashboard
+  confidence: auto

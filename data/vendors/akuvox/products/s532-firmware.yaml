@@ -1,0 +1,10 @@
+id: s532-firmware
+vendor_id: akuvox
+name: S532 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:akuvox:s532_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s532_firmware
+  confidence: auto

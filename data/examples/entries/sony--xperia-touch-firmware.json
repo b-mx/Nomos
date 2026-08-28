@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sony--xperia-touch-firmware",
+  "vendor_id": "sony",
+  "product_id": "xperia-touch-firmware",
+  "name": "Xperia Touch Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xperia_touch_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: x10srh
+vendor_id: supermicro
+name: X10Srh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10srh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10srh
+  confidence: auto

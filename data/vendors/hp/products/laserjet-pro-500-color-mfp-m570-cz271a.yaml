@@ -1,0 +1,10 @@
+id: laserjet-pro-500-color-mfp-m570-cz271a
+vendor_id: hp
+name: Laserjet Pro 500 Color Mfp M570 Cz271A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_500_color_mfp_m570_cz271a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_500_color_mfp_m570_cz271a
+  confidence: auto

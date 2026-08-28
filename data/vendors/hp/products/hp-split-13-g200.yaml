@@ -1,0 +1,10 @@
+id: hp-split-13-g200
+vendor_id: hp
+name: Hp Split 13-G200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_split_13\-g200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_split_13-g200
+  confidence: auto

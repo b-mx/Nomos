@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netflix--conductor",
+  "vendor_id": "netflix",
+  "product_id": "conductor",
+  "name": "Conductor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "conductor",
+      "confidence": "auto"
+    }
+  ]
+}

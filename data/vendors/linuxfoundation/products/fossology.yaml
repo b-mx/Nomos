@@ -1,0 +1,10 @@
+id: fossology
+vendor_id: linuxfoundation
+name: Fossology
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:fossology:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fossology
+  confidence: auto

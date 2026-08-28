@@ -1,0 +1,10 @@
+id: fd9367-htv-epoc
+vendor_id: vivotek
+name: Fd9367-Htv(Epoc)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fd9367\-htv\(epoc\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd9367-htv(epoc)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x10slx-f
+vendor_id: supermicro
+name: X10Slx-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10slx\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10slx-f
+  confidence: auto

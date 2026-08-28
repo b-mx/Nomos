@@ -1,0 +1,10 @@
+id: xbm-dp16s-firmware
+vendor_id: ls-electric
+name: Xbm-Dp16S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbm\-dp16s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbm-dp16s_firmware
+  confidence: auto

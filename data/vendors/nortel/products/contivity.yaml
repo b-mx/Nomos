@@ -1,0 +1,10 @@
+id: contivity
+vendor_id: nortel
+name: Contivity
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:contivity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contivity
+  confidence: auto

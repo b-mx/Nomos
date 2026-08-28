@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--genoapi",
+  "vendor_id": "amd",
+  "product_id": "genoapi",
+  "name": "Genoapi",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "genoapi",
+      "confidence": "auto"
+    }
+  ]
+}

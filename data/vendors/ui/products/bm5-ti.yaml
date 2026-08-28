@@ -1,0 +1,10 @@
+id: bm5-ti
+vendor_id: ui
+name: Bm5-Ti
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:bm5\-ti:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm5-ti
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--cloud-controller",
+  "vendor_id": "cloudfoundry",
+  "product_id": "cloud-controller",
+  "name": "Cloud Controller",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_controller",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: lantime-m1000
+vendor_id: meinbergglobal
+name: Lantime M1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meinbergglobal:lantime_m1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lantime_m1000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: primelink-c9065
+vendor_id: xerox
+name: Primelink C9065
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:primelink_c9065:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primelink_c9065
+  confidence: auto

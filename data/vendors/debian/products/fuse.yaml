@@ -1,0 +1,10 @@
+id: fuse
+vendor_id: debian
+name: Fuse
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:fuse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fuse
+  confidence: auto

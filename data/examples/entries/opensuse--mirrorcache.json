@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--mirrorcache",
+  "vendor_id": "opensuse",
+  "product_id": "mirrorcache",
+  "name": "Mirrorcache",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mirrorcache",
+      "confidence": "auto"
+    }
+  ]
+}

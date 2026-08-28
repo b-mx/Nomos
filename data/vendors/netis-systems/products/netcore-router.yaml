@@ -1,0 +1,10 @@
+id: netcore-router
+vendor_id: netis-systems
+name: Netcore Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netis\-systems:netcore_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netcore_router
+  confidence: auto

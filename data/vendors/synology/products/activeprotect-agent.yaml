@@ -1,0 +1,10 @@
+id: activeprotect-agent
+vendor_id: synology
+name: Activeprotect Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:activeprotect_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: activeprotect_agent
+  confidence: auto

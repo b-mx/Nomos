@@ -1,0 +1,10 @@
+id: ax2002mesh
+vendor_id: iptime
+name: Ax2002Mesh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:ax2002mesh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax2002mesh
+  confidence: auto

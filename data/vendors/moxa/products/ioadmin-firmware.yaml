@@ -1,0 +1,10 @@
+id: ioadmin-firmware
+vendor_id: moxa
+name: Ioadmin Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:ioadmin_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ioadmin_firmware
+  confidence: auto

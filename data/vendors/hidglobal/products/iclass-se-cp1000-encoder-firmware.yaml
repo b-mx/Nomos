@@ -1,0 +1,10 @@
+id: iclass-se-cp1000-encoder-firmware
+vendor_id: hidglobal
+name: Iclass Se Cp1000 Encoder Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hidglobal:iclass_se_cp1000_encoder_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iclass_se_cp1000_encoder_firmware
+  confidence: auto

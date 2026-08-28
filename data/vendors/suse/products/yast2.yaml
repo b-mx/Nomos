@@ -1,0 +1,10 @@
+id: yast2
+vendor_id: suse
+name: Yast2
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:yast2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yast2
+  confidence: auto

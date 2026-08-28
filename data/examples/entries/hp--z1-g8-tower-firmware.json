@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--z1-g8-tower-firmware",
+  "vendor_id": "hp",
+  "product_id": "z1-g8-tower-firmware",
+  "name": "Z1 G8 Tower Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "z1_g8_tower_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

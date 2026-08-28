@@ -1,0 +1,10 @@
+id: zynq-ultrascale-mpsoc
+vendor_id: xilinx
+name: Zynq Ultrascale+ Mpsoc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xilinx:zynq_ultrascale\+_mpsoc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zynq_ultrascale+_mpsoc
+  confidence: auto

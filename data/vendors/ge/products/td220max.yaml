@@ -1,0 +1,10 @@
+id: td220max
+vendor_id: ge
+name: Td220Max
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:td220max:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: td220max
+  confidence: auto

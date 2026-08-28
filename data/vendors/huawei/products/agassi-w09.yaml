@@ -1,0 +1,10 @@
+id: agassi-w09
+vendor_id: huawei
+name: Agassi-W09
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:agassi\-w09:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: agassi-w09
+  confidence: auto

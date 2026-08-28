@@ -1,0 +1,10 @@
+id: personalization-engine
+vendor_id: netscape
+name: Personalization Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:netscape:personalization_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: personalization_engine
+  confidence: auto

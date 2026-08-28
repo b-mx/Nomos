@@ -1,0 +1,10 @@
+id: a950rg
+vendor_id: totolink
+name: A950Rg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a950rg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a950rg
+  confidence: auto

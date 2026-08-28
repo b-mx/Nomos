@@ -1,0 +1,10 @@
+id: rowa-pouch-packaging-systems-firmware
+vendor_id: bd
+name: Rowa Pouch Packaging Systems Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:rowa_pouch_packaging_systems_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rowa_pouch_packaging_systems_firmware
+  confidence: auto

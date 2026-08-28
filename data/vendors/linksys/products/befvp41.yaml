@@ -1,0 +1,10 @@
+id: befvp41
+vendor_id: linksys
+name: Befvp41
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:befvp41:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: befvp41
+  confidence: auto

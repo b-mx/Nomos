@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--caas-platform",
+  "vendor_id": "suse",
+  "product_id": "caas-platform",
+  "name": "Caas Platform",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "caas_platform",
+      "confidence": "auto"
+    }
+  ]
+}

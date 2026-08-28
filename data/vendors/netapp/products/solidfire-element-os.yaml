@@ -1,0 +1,10 @@
+id: solidfire-element-os
+vendor_id: netapp
+name: Solidfire Element Os
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:solidfire_element_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solidfire_element_os
+  confidence: auto

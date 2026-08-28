@@ -5,25 +5,13 @@
   "product_id": "kentico-xperience",
   "name": "Kentico Xperience",
   "type": "software",
-  "tags": [
-    "cms"
-  ],
-  "icon": "cib:kentico",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Kentico Xperience",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "Xperience CMS",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "Xperience",
       "confidence": "auto"
     }
   ]

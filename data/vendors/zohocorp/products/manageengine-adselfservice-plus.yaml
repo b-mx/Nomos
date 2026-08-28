@@ -1,0 +1,10 @@
+id: manageengine-adselfservice-plus
+vendor_id: zohocorp
+name: Manageengine Adselfservice Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_adselfservice_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_adselfservice_plus
+  confidence: auto

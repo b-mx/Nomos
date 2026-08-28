@@ -1,0 +1,10 @@
+id: b2338-168-firmware
+vendor_id: huawei
+name: B2338-168 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:b2338\-168_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b2338-168_firmware
+  confidence: auto

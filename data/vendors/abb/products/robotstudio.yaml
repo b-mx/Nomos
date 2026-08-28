@@ -1,0 +1,10 @@
+id: robotstudio
+vendor_id: abb
+name: Robotstudio
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:robotstudio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: robotstudio
+  confidence: auto

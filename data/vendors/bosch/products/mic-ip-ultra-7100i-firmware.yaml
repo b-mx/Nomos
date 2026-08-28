@@ -1,0 +1,10 @@
+id: mic-ip-ultra-7100i-firmware
+vendor_id: bosch
+name: Mic Ip Ultra 7100I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:mic_ip_ultra_7100i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mic_ip_ultra_7100i_firmware
+  confidence: auto

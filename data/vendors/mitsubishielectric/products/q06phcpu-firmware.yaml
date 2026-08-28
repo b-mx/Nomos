@@ -1,0 +1,10 @@
+id: q06phcpu-firmware
+vendor_id: mitsubishielectric
+name: Q06Phcpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:q06phcpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q06phcpu_firmware
+  confidence: auto

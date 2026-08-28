@@ -1,0 +1,10 @@
+id: ws-ftp
+vendor_id: ipswitch
+name: Ws Ftp
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:ws_ftp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws_ftp
+  confidence: auto

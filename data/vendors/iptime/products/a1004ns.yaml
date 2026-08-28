@@ -1,0 +1,10 @@
+id: a1004ns
+vendor_id: iptime
+name: A1004Ns
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a1004ns:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1004ns
+  confidence: auto

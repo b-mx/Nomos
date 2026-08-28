@@ -1,0 +1,10 @@
+id: elitebook-745-g5-firmware
+vendor_id: hp
+name: Elitebook 745 G5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitebook_745_g5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_745_g5_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xilinx-z-7012s
+vendor_id: amd
+name: Xilinx Z-7012S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:xilinx_z\-7012s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xilinx_z-7012s
+  confidence: auto

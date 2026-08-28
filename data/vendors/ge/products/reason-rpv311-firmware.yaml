@@ -1,0 +1,10 @@
+id: reason-rpv311-firmware
+vendor_id: ge
+name: Reason Rpv311 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:reason_rpv311_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reason_rpv311_firmware
+  confidence: auto

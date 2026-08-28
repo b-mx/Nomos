@@ -1,0 +1,10 @@
+id: accountsservice
+vendor_id: canonical
+name: Accountsservice
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:accountsservice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accountsservice
+  confidence: auto

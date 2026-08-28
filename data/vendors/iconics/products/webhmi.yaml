@@ -1,0 +1,10 @@
+id: webhmi
+vendor_id: iconics
+name: Webhmi
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:webhmi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webhmi
+  confidence: auto

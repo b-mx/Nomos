@@ -1,0 +1,10 @@
+id: x-pack-reporting
+vendor_id: elasticsearch
+name: X-Pack Reporting
+type: software
+tags: []
+cpe: cpe:2.3:a:elasticsearch:x\-pack_reporting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-pack_reporting
+  confidence: auto

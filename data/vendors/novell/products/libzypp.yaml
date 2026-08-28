@@ -1,0 +1,10 @@
+id: libzypp
+vendor_id: novell
+name: Libzypp
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:libzypp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libzypp
+  confidence: auto

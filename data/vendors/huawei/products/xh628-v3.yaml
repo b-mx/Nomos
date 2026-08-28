@@ -1,0 +1,10 @@
+id: xh628-v3
+vendor_id: huawei
+name: Xh628 V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:xh628_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xh628_v3
+  confidence: auto

@@ -1,10 +1,8 @@
 id: gnu-c-library
 vendor_id: gnu
 name: GNU C Library
-type: library
-tags:
-- library
-icon: logos:gnu
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: GNU C Library

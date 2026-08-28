@@ -1,0 +1,10 @@
+id: bm-nextscale-fan-power-controller
+vendor_id: lenovo
+name: Bm Nextscale Fan Power Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:bm_nextscale_fan_power_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm_nextscale_fan_power_controller
+  confidence: auto

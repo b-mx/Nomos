@@ -1,0 +1,10 @@
+id: vsu-7500
+vendor_id: avaya
+name: Vsu 7500
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:vsu_7500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsu_7500
+  confidence: auto

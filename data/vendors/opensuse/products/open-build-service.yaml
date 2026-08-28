@@ -1,0 +1,10 @@
+id: open-build-service
+vendor_id: opensuse
+name: Open Build Service
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:open_build_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_build_service
+  confidence: auto

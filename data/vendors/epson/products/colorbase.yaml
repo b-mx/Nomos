@@ -1,0 +1,10 @@
+id: colorbase
+vendor_id: epson
+name: Colorbase
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:colorbase:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: colorbase
+  confidence: auto

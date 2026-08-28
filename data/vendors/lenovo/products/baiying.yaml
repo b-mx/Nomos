@@ -1,0 +1,10 @@
+id: baiying
+vendor_id: lenovo
+name: Baiying
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:baiying:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baiying
+  confidence: auto

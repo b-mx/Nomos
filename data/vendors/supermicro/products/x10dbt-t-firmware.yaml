@@ -1,0 +1,10 @@
+id: x10dbt-t-firmware
+vendor_id: supermicro
+name: X10Dbt-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10dbt\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10dbt-t_firmware
+  confidence: auto

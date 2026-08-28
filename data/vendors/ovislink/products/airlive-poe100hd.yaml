@@ -1,0 +1,10 @@
+id: airlive-poe100hd
+vendor_id: ovislink
+name: Airlive Poe100Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ovislink:airlive_poe100hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airlive_poe100hd
+  confidence: auto

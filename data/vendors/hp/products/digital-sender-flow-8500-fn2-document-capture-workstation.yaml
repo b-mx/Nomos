@@ -1,0 +1,10 @@
+id: digital-sender-flow-8500-fn2-document-capture-workstation
+vendor_id: hp
+name: Digital Sender Flow 8500 Fn2 Document Capture Workstation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:digital_sender_flow_8500_fn2_document_capture_workstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: digital_sender_flow_8500_fn2_document_capture_workstation
+  confidence: auto

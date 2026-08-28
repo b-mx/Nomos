@@ -1,0 +1,10 @@
+id: vmu-c-pv-firmware
+vendor_id: carlosgavazzi
+name: Vmu-C Pv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:carlosgavazzi:vmu\-c_pv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vmu-c_pv_firmware
+  confidence: auto

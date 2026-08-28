@@ -1,0 +1,10 @@
+id: epyc-7401p
+vendor_id: amd
+name: Epyc 7401P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_7401p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7401p
+  confidence: auto

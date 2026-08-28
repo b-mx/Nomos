@@ -1,0 +1,10 @@
+id: airfiber-60-xg
+vendor_id: ui
+name: Airfiber 60-Xg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:airfiber_60\-xg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airfiber_60-xg
+  confidence: auto

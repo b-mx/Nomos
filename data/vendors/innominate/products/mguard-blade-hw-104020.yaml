@@ -1,0 +1,10 @@
+id: mguard-blade-hw-104020
+vendor_id: innominate
+name: Mguard Blade Hw-104020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:innominate:mguard_blade_hw\-104020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_blade_hw-104020
+  confidence: auto

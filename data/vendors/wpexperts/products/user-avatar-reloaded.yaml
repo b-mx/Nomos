@@ -1,0 +1,10 @@
+id: user-avatar-reloaded
+vendor_id: wpexperts
+name: User Avatar-Reloaded
+type: software
+tags: []
+cpe: cpe:2.3:a:wpexperts:user_avatar\-reloaded:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: user_avatar-reloaded
+  confidence: auto

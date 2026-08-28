@@ -1,0 +1,10 @@
+id: bfminiw-firmware
+vendor_id: chiyu-tech
+name: Bfminiw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chiyu\-tech:bfminiw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bfminiw_firmware
+  confidence: auto

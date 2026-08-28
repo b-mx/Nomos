@@ -1,0 +1,10 @@
+id: ideacentre-730s-24ikb-firmware
+vendor_id: lenovo
+name: Ideacentre 730S-24Ikb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_730s\-24ikb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_730s-24ikb_firmware
+  confidence: auto

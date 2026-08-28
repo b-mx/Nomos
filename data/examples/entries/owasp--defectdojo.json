@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "owasp--defectdojo",
+  "vendor_id": "owasp",
+  "product_id": "defectdojo",
+  "name": "Defectdojo",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "defectdojo",
+      "confidence": "auto"
+    }
+  ]
+}

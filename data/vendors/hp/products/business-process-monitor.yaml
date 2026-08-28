@@ -1,0 +1,10 @@
+id: business-process-monitor
+vendor_id: hp
+name: Business Process Monitor
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:business_process_monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_process_monitor
+  confidence: auto

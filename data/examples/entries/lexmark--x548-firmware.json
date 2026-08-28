@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--x548-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "x548-firmware",
+  "name": "X548 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x548_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

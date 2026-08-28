@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--software-update",
+  "vendor_id": "hp",
+  "product_id": "software-update",
+  "name": "Software Update",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "software_update",
+      "confidence": "auto"
+    }
+  ]
+}

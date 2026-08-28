@@ -1,0 +1,10 @@
+id: pc10b-e-c-tcu-6521-firmware
+vendor_id: jtekt
+name: Pc10B-E/C Tcu-6521 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:pc10b\-e\/c_tcu\-6521_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10b-e/c_tcu-6521_firmware
+  confidence: auto

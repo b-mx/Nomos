@@ -1,0 +1,10 @@
+id: realplayer-intranet
+vendor_id: realnetworks
+name: Realplayer Intranet
+type: software
+tags: []
+cpe: cpe:2.3:a:realnetworks:realplayer_intranet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realplayer_intranet
+  confidence: auto

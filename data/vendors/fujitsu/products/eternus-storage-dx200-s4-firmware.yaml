@@ -1,0 +1,10 @@
+id: eternus-storage-dx200-s4-firmware
+vendor_id: fujitsu
+name: Eternus Storage Dx200 S4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:eternus_storage_dx200_s4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eternus_storage_dx200_s4_firmware
+  confidence: auto

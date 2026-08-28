@@ -1,0 +1,10 @@
+id: x30-pro-firmware
+vendor_id: ruijie
+name: X30 Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:x30_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x30_pro_firmware
+  confidence: auto

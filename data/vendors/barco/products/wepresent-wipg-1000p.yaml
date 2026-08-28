@@ -1,0 +1,10 @@
+id: wepresent-wipg-1000p
+vendor_id: barco
+name: Wepresent Wipg-1000P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:barco:wepresent_wipg\-1000p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wepresent_wipg-1000p
+  confidence: auto

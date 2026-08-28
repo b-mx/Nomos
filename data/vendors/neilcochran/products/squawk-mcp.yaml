@@ -1,0 +1,10 @@
+id: squawk-mcp
+vendor_id: neilcochran
+name: Squawk/Mcp
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/mcp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/mcp
+  confidence: auto

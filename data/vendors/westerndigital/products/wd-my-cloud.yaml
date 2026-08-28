@@ -1,0 +1,10 @@
+id: wd-my-cloud
+vendor_id: westerndigital
+name: Wd My Cloud
+type: software
+tags: []
+cpe: cpe:2.3:a:westerndigital:wd_my_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wd_my_cloud
+  confidence: auto

@@ -1,0 +1,10 @@
+id: legato-networker
+vendor_id: emc
+name: Legato Networker
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:legato_networker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legato_networker
+  confidence: auto

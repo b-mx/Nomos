@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--cx825-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "cx825-firmware",
+  "name": "Cx825 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cx825_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

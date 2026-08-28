@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yubico--pam-module",
+  "vendor_id": "yubico",
+  "product_id": "pam-module",
+  "name": "Pam Module",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pam_module",
+      "confidence": "auto"
+    }
+  ]
+}

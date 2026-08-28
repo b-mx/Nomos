@@ -1,0 +1,10 @@
+id: flex-i-o-ethernet-ip-firmware
+vendor_id: rockwellautomation
+name: Flex I/O Ethernet/Ip  Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:flex_i\/o_ethernet\/ip__firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_i/o_ethernet/ip__firmware
+  confidence: auto

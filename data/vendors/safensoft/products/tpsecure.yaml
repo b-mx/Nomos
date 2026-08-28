@@ -1,0 +1,10 @@
+id: tpsecure
+vendor_id: safensoft
+name: Tpsecure
+type: software
+tags: []
+cpe: cpe:2.3:a:safensoft:tpsecure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tpsecure
+  confidence: auto

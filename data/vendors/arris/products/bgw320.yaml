@@ -1,0 +1,10 @@
+id: bgw320
+vendor_id: arris
+name: Bgw320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arris:bgw320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bgw320
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bladecenter-hx5
+vendor_id: lenovo
+name: Bladecenter Hx5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:bladecenter_hx5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bladecenter_hx5
+  confidence: auto

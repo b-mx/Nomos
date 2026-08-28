@@ -1,0 +1,10 @@
+id: ideapad-1-15ijl7
+vendor_id: lenovo
+name: Ideapad 1-15Ijl7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideapad_1\-15ijl7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_1-15ijl7
+  confidence: auto

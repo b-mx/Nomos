@@ -1,0 +1,10 @@
+id: sp-330sn
+vendor_id: ricoh
+name: Sp 330Sn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_330sn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_330sn
+  confidence: auto

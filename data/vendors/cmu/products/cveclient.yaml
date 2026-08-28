@@ -1,0 +1,10 @@
+id: cveclient
+vendor_id: cmu
+name: Cveclient
+type: software
+tags: []
+cpe: cpe:2.3:a:cmu:cveclient:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cveclient
+  confidence: auto

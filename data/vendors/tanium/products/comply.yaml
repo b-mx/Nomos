@@ -1,0 +1,10 @@
+id: comply
+vendor_id: tanium
+name: Comply
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:comply:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comply
+  confidence: auto

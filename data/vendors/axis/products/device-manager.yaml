@@ -1,0 +1,10 @@
+id: device-manager
+vendor_id: axis
+name: Device Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:axis:device_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: device_manager
+  confidence: auto

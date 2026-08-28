@@ -1,0 +1,10 @@
+id: m3025-ve
+vendor_id: axis
+name: M3025-Ve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m3025\-ve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3025-ve
+  confidence: auto

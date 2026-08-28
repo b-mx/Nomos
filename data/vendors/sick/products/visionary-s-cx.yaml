@@ -1,0 +1,10 @@
+id: visionary-s-cx
+vendor_id: sick
+name: Visionary-S Cx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:visionary\-s_cx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visionary-s_cx
+  confidence: auto

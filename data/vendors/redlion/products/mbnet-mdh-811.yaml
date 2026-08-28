@@ -1,0 +1,10 @@
+id: mbnet-mdh-811
+vendor_id: redlion
+name: Mbnet Mdh 811
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redlion:mbnet_mdh_811:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbnet_mdh_811
+  confidence: auto

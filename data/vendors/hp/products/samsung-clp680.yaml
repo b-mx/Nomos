@@ -1,0 +1,10 @@
+id: samsung-clp680
+vendor_id: hp
+name: Samsung Clp680
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:samsung_clp680:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: samsung_clp680
+  confidence: auto

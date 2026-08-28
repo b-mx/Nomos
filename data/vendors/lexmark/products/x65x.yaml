@@ -1,0 +1,10 @@
+id: x65x
+vendor_id: lexmark
+name: X65X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x65x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x65x
+  confidence: auto

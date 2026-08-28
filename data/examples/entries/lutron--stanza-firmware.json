@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lutron--stanza-firmware",
+  "vendor_id": "lutron",
+  "product_id": "stanza-firmware",
+  "name": "Stanza Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stanza_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

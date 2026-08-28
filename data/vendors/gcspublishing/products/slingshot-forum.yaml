@@ -1,0 +1,10 @@
+id: slingshot-forum
+vendor_id: gcspublishing
+name: Slingshot Forum
+type: software
+tags: []
+cpe: cpe:2.3:a:gcspublishing:slingshot_forum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slingshot_forum
+  confidence: auto

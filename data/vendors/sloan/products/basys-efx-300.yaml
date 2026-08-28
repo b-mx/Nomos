@@ -1,0 +1,10 @@
+id: basys-efx-300
+vendor_id: sloan
+name: Basys Efx-300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:basys_efx\-300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: basys_efx-300
+  confidence: auto

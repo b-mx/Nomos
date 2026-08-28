@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "amd",
+  "vendor_id": "amd",
+  "name": "Amd",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amd",
+      "confidence": "auto"
+    }
+  ]
+}

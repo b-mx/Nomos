@@ -1,0 +1,10 @@
+id: ryzen-mobile
+vendor_id: amd
+name: Ryzen Mobile
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_mobile
+  confidence: auto

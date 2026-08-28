@@ -1,0 +1,10 @@
+id: anjuta
+vendor_id: gnome
+name: Anjuta
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:anjuta:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anjuta
+  confidence: auto

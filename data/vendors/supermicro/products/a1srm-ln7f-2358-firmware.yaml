@@ -1,0 +1,10 @@
+id: a1srm-ln7f-2358-firmware
+vendor_id: supermicro
+name: A1Srm-Ln7F-2358 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:a1srm\-ln7f\-2358_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1srm-ln7f-2358_firmware
+  confidence: auto

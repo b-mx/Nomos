@@ -1,0 +1,10 @@
+id: veriton-b630-49
+vendor_id: acer
+name: Veriton B630 49
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:veriton_b630_49:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: veriton_b630_49
+  confidence: auto

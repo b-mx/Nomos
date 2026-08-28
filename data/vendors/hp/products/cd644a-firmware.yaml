@@ -1,0 +1,10 @@
+id: cd644a-firmware
+vendor_id: hp
+name: Cd644A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cd644a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cd644a_firmware
+  confidence: auto

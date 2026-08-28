@@ -1,0 +1,10 @@
+id: whg-napg
+vendor_id: iodata
+name: Whg-Napg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:whg\-napg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whg-napg
+  confidence: auto

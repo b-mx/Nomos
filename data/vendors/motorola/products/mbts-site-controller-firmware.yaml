@@ -1,0 +1,10 @@
+id: mbts-site-controller-firmware
+vendor_id: motorola
+name: Mbts Site Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:mbts_site_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbts_site_controller_firmware
+  confidence: auto

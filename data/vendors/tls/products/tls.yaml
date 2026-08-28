@@ -1,0 +1,9 @@
+id: tls
+vendor_id: tls
+name: TLS
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: tls
+  confidence: auto

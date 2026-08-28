@@ -1,0 +1,10 @@
+id: symphony-historian
+vendor_id: abb
+name: Symphony + Historian
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:symphony_\+_historian:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symphony_+_historian
+  confidence: auto

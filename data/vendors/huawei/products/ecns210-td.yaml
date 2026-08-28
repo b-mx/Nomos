@@ -1,0 +1,10 @@
+id: ecns210-td
+vendor_id: huawei
+name: Ecns210 Td
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ecns210_td:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecns210_td
+  confidence: auto

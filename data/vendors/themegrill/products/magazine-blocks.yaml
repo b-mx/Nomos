@@ -1,0 +1,10 @@
+id: magazine-blocks
+vendor_id: themegrill
+name: Magazine Blocks
+type: software
+tags: []
+cpe: cpe:2.3:a:themegrill:magazine_blocks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magazine_blocks
+  confidence: auto

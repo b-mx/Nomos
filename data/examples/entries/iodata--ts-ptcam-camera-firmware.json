@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--ts-ptcam-camera-firmware",
+  "vendor_id": "iodata",
+  "product_id": "ts-ptcam-camera-firmware",
+  "name": "Ts-Ptcam Camera Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ts-ptcam_camera_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

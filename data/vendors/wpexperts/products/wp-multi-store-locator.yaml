@@ -1,0 +1,10 @@
+id: wp-multi-store-locator
+vendor_id: wpexperts
+name: Wp Multi Store Locator
+type: software
+tags: []
+cpe: cpe:2.3:a:wpexperts:wp_multi_store_locator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_multi_store_locator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: on-premise-meeting-connector-multimedia-router
+vendor_id: zoom
+name: On-Premise Meeting Connector Multimedia Router
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:on\-premise_meeting_connector_multimedia_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: on-premise_meeting_connector_multimedia_router
+  confidence: auto

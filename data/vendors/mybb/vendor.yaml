@@ -1,0 +1,7 @@
+id: mybb
+name: Mybb
+cpe: cpe:2.3:*:mybb:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mybb
+  confidence: auto

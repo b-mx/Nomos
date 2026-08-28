@@ -1,0 +1,10 @@
+id: legion-5-15imh6-firmware
+vendor_id: lenovo
+name: Legion 5-15Imh6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_5\-15imh6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_5-15imh6_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ahb80x04r-mh-firmware
+vendor_id: xiongmaitech
+name: Ahb80X04R-Mh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:ahb80x04r\-mh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ahb80x04r-mh_firmware
+  confidence: auto

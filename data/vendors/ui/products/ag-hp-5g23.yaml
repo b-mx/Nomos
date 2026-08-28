@@ -1,0 +1,10 @@
+id: ag-hp-5g23
+vendor_id: ui
+name: Ag-Hp-5G23
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:ag\-hp\-5g23:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ag-hp-5g23
+  confidence: auto

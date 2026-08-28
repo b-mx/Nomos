@@ -1,0 +1,10 @@
+id: scan-to-network
+vendor_id: lexmark
+name: Scan To Network
+type: software
+tags: []
+cpe: cpe:2.3:a:lexmark:scan_to_network:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scan_to_network
+  confidence: auto

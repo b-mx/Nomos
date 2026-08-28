@@ -1,0 +1,10 @@
+id: byzanz
+vendor_id: gnome
+name: Byzanz
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:byzanz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: byzanz
+  confidence: auto

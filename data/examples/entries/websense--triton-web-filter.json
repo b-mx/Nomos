@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "websense--triton-web-filter",
+  "vendor_id": "websense",
+  "product_id": "triton-web-filter",
+  "name": "Triton Web Filter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "triton_web_filter",
+      "confidence": "auto"
+    }
+  ]
+}

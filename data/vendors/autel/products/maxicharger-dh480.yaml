@@ -1,0 +1,10 @@
+id: maxicharger-dh480
+vendor_id: autel
+name: Maxicharger Dh480
+type: hardware
+tags: []
+cpe: cpe:2.3:h:autel:maxicharger_dh480:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxicharger_dh480
+  confidence: auto

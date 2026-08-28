@@ -1,0 +1,10 @@
+id: bl-w1210m-firmware
+vendor_id: lb-link
+name: Bl-W1210M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lb\-link:bl\-w1210m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-w1210m_firmware
+  confidence: auto

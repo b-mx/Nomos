@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--file-station",
+  "vendor_id": "synology",
+  "product_id": "file-station",
+  "name": "File Station",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "file_station",
+      "confidence": "auto"
+    }
+  ]
+}

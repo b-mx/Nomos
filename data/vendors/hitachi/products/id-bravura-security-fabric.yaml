@@ -1,0 +1,10 @@
+id: id-bravura-security-fabric
+vendor_id: hitachi
+name: Id Bravura Security Fabric
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:id_bravura_security_fabric:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: id_bravura_security_fabric
+  confidence: auto

@@ -1,0 +1,10 @@
+id: data-availability-services
+vendor_id: netapp
+name: Data Availability Services
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:data_availability_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_availability_services
+  confidence: auto

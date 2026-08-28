@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x--libxfixes",
+  "vendor_id": "x",
+  "product_id": "libxfixes",
+  "name": "Libxfixes",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libxfixes",
+      "confidence": "auto"
+    }
+  ]
+}

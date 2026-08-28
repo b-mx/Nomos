@@ -1,0 +1,10 @@
+id: snowflake-jdbc
+vendor_id: snowflake
+name: Snowflake Jdbc
+type: software
+tags: []
+cpe: cpe:2.3:a:snowflake:snowflake_jdbc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snowflake_jdbc
+  confidence: auto

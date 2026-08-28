@@ -1,0 +1,10 @@
+id: pm591-2eth
+vendor_id: abb
+name: Pm591-2Eth
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm591\-2eth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm591-2eth
+  confidence: auto

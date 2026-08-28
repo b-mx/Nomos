@@ -1,0 +1,10 @@
+id: data-hub
+vendor_id: pimcore
+name: Data-Hub
+type: software
+tags: []
+cpe: cpe:2.3:a:pimcore:data\-hub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data-hub
+  confidence: auto

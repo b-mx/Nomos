@@ -1,0 +1,10 @@
+id: thinksystem-d2-enclosure-7x20
+vendor_id: lenovo
+name: Thinksystem D2 Enclosure 7X20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_d2_enclosure_7x20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_d2_enclosure_7x20
+  confidence: auto

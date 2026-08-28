@@ -1,0 +1,10 @@
+id: amazon-ssm-agent
+vendor_id: amazon
+name: Amazon Ssm Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:amazon_ssm_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_ssm_agent
+  confidence: auto

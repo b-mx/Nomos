@@ -1,0 +1,6 @@
+id: nvidia-gpu
+name: NVIDIA GPUs
+aliases:
+- source: endoflife
+  value: nvidia-gpu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mir100-firmware
+vendor_id: aliasrobotics
+name: Mir100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:aliasrobotics:mir100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mir100_firmware
+  confidence: auto

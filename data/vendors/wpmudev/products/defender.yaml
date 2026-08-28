@@ -1,0 +1,10 @@
+id: defender
+vendor_id: wpmudev
+name: Defender
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmudev:defender:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: defender
+  confidence: auto

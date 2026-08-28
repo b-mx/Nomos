@@ -1,0 +1,10 @@
+id: f8b05a-firmware
+vendor_id: hp
+name: F8B05A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:f8b05a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f8b05a_firmware
+  confidence: auto

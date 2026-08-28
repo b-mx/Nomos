@@ -1,0 +1,10 @@
+id: 5820-vpn-firewall-module
+vendor_id: hp
+name: 5820 Vpn Firewall Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:5820_vpn_firewall_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5820_vpn_firewall_module
+  confidence: auto

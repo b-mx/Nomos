@@ -1,0 +1,10 @@
+id: mc2325
+vendor_id: lexmark
+name: Mc2325
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mc2325:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc2325
+  confidence: auto

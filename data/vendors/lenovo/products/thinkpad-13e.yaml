@@ -1,0 +1,10 @@
+id: thinkpad-13e
+vendor_id: lenovo
+name: Thinkpad 13E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_13e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_13e
+  confidence: auto

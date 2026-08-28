@@ -1,0 +1,10 @@
+id: bootable-usb
+vendor_id: lenovo
+name: Bootable Usb
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:bootable_usb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bootable_usb
+  confidence: auto

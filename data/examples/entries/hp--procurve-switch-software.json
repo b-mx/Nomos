@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--procurve-switch-software",
+  "vendor_id": "hp",
+  "product_id": "procurve-switch-software",
+  "name": "Procurve Switch Software",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "procurve_switch_software",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: wfs-sr03w
+vendor_id: iodata
+name: Wfs-Sr03W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:wfs\-sr03w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wfs-sr03w
+  confidence: auto

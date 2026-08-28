@@ -1,0 +1,10 @@
+id: unified-agent
+vendor_id: bluecoat
+name: Unified Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:unified_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unified_agent
+  confidence: auto

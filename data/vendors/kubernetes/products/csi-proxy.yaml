@@ -1,0 +1,10 @@
+id: csi-proxy
+vendor_id: kubernetes
+name: Csi Proxy
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:csi_proxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: csi_proxy
+  confidence: auto

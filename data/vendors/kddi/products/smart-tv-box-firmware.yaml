@@ -1,0 +1,10 @@
+id: smart-tv-box-firmware
+vendor_id: kddi
+name: Smart Tv Box Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kddi:smart_tv_box_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tv_box_firmware
+  confidence: auto

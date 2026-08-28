@@ -1,0 +1,10 @@
+id: tm-p20
+vendor_id: epson
+name: Tm-P20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-p20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-p20
+  confidence: auto

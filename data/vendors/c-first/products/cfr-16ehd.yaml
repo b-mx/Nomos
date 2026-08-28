@@ -1,0 +1,10 @@
+id: cfr-16ehd
+vendor_id: c-first
+name: Cfr-16Ehd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:c\-first:cfr\-16ehd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cfr-16ehd
+  confidence: auto

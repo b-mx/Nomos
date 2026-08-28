@@ -1,0 +1,10 @@
+id: opentelemetry-extensions-propagators
+vendor_id: opentelemetry
+name: Opentelemetry.Extensions.Propagators
+type: software
+tags: []
+cpe: cpe:2.3:a:opentelemetry:opentelemetry\.extensions\.propagators:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentelemetry.extensions.propagators
+  confidence: auto

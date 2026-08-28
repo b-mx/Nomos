@@ -1,0 +1,10 @@
+id: xmeye-p2p-cloud-server
+vendor_id: xiongmaitech
+name: Xmeye P2P Cloud Server
+type: software
+tags: []
+cpe: cpe:2.3:a:xiongmaitech:xmeye_p2p_cloud_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xmeye_p2p_cloud_server
+  confidence: auto

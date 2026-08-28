@@ -1,0 +1,10 @@
+id: fd8166a-n-firmware
+vendor_id: vivotek
+name: Fd8166A-N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fd8166a\-n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd8166a-n_firmware
+  confidence: auto

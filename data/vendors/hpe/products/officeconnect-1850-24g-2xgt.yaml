@@ -1,0 +1,10 @@
+id: officeconnect-1850-24g-2xgt
+vendor_id: hpe
+name: Officeconnect 1850 24G 2Xgt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:officeconnect_1850_24g_2xgt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officeconnect_1850_24g_2xgt
+  confidence: auto

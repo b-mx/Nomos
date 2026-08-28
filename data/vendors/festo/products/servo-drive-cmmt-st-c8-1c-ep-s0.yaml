@@ -1,0 +1,10 @@
+id: servo-drive-cmmt-st-c8-1c-ep-s0
+vendor_id: festo
+name: Servo Drive Cmmt-St-C8-1C-Ep-S0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:servo_drive_cmmt\-st\-c8\-1c\-ep\-s0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: servo_drive_cmmt-st-c8-1c-ep-s0
+  confidence: auto

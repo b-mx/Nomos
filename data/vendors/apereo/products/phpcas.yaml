@@ -1,0 +1,10 @@
+id: phpcas
+vendor_id: apereo
+name: Phpcas
+type: software
+tags: []
+cpe: cpe:2.3:a:apereo:phpcas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phpcas
+  confidence: auto

@@ -1,0 +1,10 @@
+id: warsaw-al00-firmware
+vendor_id: huawei
+name: Warsaw-Al00 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:warsaw\-al00_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: warsaw-al00_firmware
+  confidence: auto

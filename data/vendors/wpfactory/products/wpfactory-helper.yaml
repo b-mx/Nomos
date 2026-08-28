@@ -1,0 +1,10 @@
+id: wpfactory-helper
+vendor_id: wpfactory
+name: Wpfactory Helper
+type: software
+tags: []
+cpe: cpe:2.3:a:wpfactory:wpfactory_helper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wpfactory_helper
+  confidence: auto

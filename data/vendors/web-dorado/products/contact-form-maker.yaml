@@ -1,0 +1,10 @@
+id: contact-form-maker
+vendor_id: web-dorado
+name: Contact Form Maker
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:contact_form_maker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contact_form_maker
+  confidence: auto

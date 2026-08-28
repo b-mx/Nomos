@@ -1,0 +1,10 @@
+id: bl-x26-da3
+vendor_id: b-link
+name: Bl-X26 Da3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:b\-link:bl\-x26_da3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-x26_da3
+  confidence: auto

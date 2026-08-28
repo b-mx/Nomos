@@ -1,0 +1,10 @@
+id: zendesk-help-center
+vendor_id: bestwebsoft
+name: Zendesk Help Center
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:zendesk_help_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendesk_help_center
+  confidence: auto

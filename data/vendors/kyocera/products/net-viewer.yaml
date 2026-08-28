@@ -1,0 +1,10 @@
+id: net-viewer
+vendor_id: kyocera
+name: Net Viewer
+type: software
+tags: []
+cpe: cpe:2.3:a:kyocera:net_viewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: net_viewer
+  confidence: auto

@@ -1,7 +1,6 @@
 id: android
 name: Android
-icon: logos:android-icon
 aliases:
 - source: cisa_kev
   value: Android
-  confidence: curated
+  confidence: auto

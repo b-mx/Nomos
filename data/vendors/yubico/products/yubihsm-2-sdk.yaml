@@ -1,0 +1,10 @@
+id: yubihsm-2-sdk
+vendor_id: yubico
+name: Yubihsm 2 Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:yubihsm_2_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yubihsm_2_sdk
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "blackbox--acr1000a-r-r2-firmware",
+  "vendor_id": "blackbox",
+  "product_id": "acr1000a-r-r2-firmware",
+  "name": "Acr1000A-R-R2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "acr1000a-r-r2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

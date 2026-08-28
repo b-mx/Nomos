@@ -1,0 +1,10 @@
+id: dutch-auction-factory
+vendor_id: thephpfactory
+name: Dutch Auction Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:dutch_auction_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dutch_auction_factory
+  confidence: auto

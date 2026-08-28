@@ -1,0 +1,10 @@
+id: phantom-vpn
+vendor_id: avira
+name: Phantom Vpn
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:phantom_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phantom_vpn
+  confidence: auto

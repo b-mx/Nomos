@@ -1,0 +1,10 @@
+id: dr-8f45at-firmware
+vendor_id: cbc
+name: Dr-8F45At Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cbc:dr\-8f45at_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-8f45at_firmware
+  confidence: auto

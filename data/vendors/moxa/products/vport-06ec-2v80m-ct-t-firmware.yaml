@@ -1,0 +1,10 @@
+id: vport-06ec-2v80m-ct-t-firmware
+vendor_id: moxa
+name: Vport 06Ec-2V80M-Ct-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:vport_06ec\-2v80m\-ct\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vport_06ec-2v80m-ct-t_firmware
+  confidence: auto

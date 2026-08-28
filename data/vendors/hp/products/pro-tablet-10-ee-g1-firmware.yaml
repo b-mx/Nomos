@@ -1,0 +1,10 @@
+id: pro-tablet-10-ee-g1-firmware
+vendor_id: hp
+name: Pro Tablet 10 Ee G1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:pro_tablet_10_ee_g1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_tablet_10_ee_g1_firmware
+  confidence: auto

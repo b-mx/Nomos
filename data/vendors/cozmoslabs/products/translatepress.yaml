@@ -1,0 +1,10 @@
+id: translatepress
+vendor_id: cozmoslabs
+name: Translatepress
+type: software
+tags: []
+cpe: cpe:2.3:a:cozmoslabs:translatepress:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: translatepress
+  confidence: auto

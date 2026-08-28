@@ -1,0 +1,10 @@
+id: side-menu-lite
+vendor_id: wow-company
+name: Side Menu Lite
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:side_menu_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: side_menu_lite
+  confidence: auto

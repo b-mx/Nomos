@@ -1,0 +1,10 @@
+id: academy-lms
+vendor_id: creativeitem
+name: Academy Lms
+type: software
+tags: []
+cpe: cpe:2.3:a:creativeitem:academy_lms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: academy_lms
+  confidence: auto

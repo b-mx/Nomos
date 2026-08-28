@@ -1,0 +1,10 @@
+id: 310s-14isk
+vendor_id: hp
+name: 310S-14Isk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:310s\-14isk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 310s-14isk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jakarta-mail
+vendor_id: eclipse
+name: Jakarta Mail
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:jakarta_mail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jakarta_mail
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lms531
+vendor_id: sick
+name: Lms531
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:lms531:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lms531
+  confidence: auto

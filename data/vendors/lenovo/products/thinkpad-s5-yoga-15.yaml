@@ -1,0 +1,10 @@
+id: thinkpad-s5-yoga-15
+vendor_id: lenovo
+name: Thinkpad S5 Yoga 15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_s5_yoga_15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_s5_yoga_15
+  confidence: auto

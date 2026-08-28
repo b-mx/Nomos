@@ -1,0 +1,10 @@
+id: rg-nbs200
+vendor_id: ruijie
+name: Rg-Nbs200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-nbs200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-nbs200
+  confidence: auto

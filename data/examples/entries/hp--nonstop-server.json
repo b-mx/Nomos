@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--nonstop-server",
+  "vendor_id": "hp",
+  "product_id": "nonstop-server",
+  "name": "Nonstop Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nonstop_server",
+      "confidence": "auto"
+    }
+  ]
+}

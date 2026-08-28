@@ -1,0 +1,10 @@
+id: speedycache
+vendor_id: softaculous
+name: Speedycache
+type: software
+tags: []
+cpe: cpe:2.3:a:softaculous:speedycache:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: speedycache
+  confidence: auto

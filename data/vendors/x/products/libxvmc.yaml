@@ -1,0 +1,10 @@
+id: libxvmc
+vendor_id: x
+name: Libxvmc
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxvmc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxvmc
+  confidence: auto

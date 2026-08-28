@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--koffice",
+  "vendor_id": "kde",
+  "product_id": "koffice",
+  "name": "Koffice",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "koffice",
+      "confidence": "auto"
+    }
+  ]
+}

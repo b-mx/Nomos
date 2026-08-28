@@ -6,17 +6,12 @@
   "name": "Nexus Repository Manager",
   "type": "software",
   "tags": [],
-  "icon": "simple-icons:sonatype",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Nexus Repository Manager",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "Nexus Repository",
       "confidence": "auto"
     }
   ]

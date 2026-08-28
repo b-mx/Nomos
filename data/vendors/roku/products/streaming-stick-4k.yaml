@@ -1,0 +1,10 @@
+id: streaming-stick-4k
+vendor_id: roku
+name: Streaming Stick 4K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:roku:streaming_stick_4k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: streaming_stick_4k
+  confidence: auto

@@ -1,0 +1,10 @@
+id: online-tutor-portal
+vendor_id: oretnom23
+name: Online Tutor Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:online_tutor_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_tutor_portal
+  confidence: auto

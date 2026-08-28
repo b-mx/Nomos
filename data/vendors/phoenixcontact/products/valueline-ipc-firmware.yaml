@@ -1,0 +1,10 @@
+id: valueline-ipc-firmware
+vendor_id: phoenixcontact
+name: Valueline Ipc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:valueline_ipc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: valueline_ipc_firmware
+  confidence: auto

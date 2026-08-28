@@ -1,0 +1,10 @@
+id: net-connect-software
+vendor_id: sun
+name: Net Connect Software
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:net_connect_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: net_connect_software
+  confidence: auto

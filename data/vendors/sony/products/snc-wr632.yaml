@@ -1,0 +1,10 @@
+id: snc-wr632
+vendor_id: sony
+name: Snc-Wr632
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-wr632:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-wr632
+  confidence: auto

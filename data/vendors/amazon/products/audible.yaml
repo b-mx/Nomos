@@ -1,0 +1,10 @@
+id: audible
+vendor_id: amazon
+name: Audible
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:audible:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: audible
+  confidence: auto

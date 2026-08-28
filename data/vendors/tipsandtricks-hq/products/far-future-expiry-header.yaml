@@ -1,0 +1,10 @@
+id: far-future-expiry-header
+vendor_id: tipsandtricks-hq
+name: Far Future Expiry Header
+type: software
+tags: []
+cpe: cpe:2.3:a:tipsandtricks\-hq:far_future_expiry_header:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: far_future_expiry_header
+  confidence: auto

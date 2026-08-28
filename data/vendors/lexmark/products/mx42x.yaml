@@ -1,0 +1,10 @@
+id: mx42x
+vendor_id: lexmark
+name: Mx42X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx42x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx42x
+  confidence: auto

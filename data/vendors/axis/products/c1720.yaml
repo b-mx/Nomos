@@ -1,0 +1,10 @@
+id: c1720
+vendor_id: axis
+name: C1720
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:c1720:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1720
+  confidence: auto

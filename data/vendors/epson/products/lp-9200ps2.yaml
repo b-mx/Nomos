@@ -1,0 +1,10 @@
+id: lp-9200ps2
+vendor_id: epson
+name: Lp-9200Ps2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:lp\-9200ps2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-9200ps2
+  confidence: auto

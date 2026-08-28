@@ -1,0 +1,10 @@
+id: wdrt-1800ax-firmware
+vendor_id: planet
+name: Wdrt-1800Ax Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:planet:wdrt\-1800ax_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wdrt-1800ax_firmware
+  confidence: auto

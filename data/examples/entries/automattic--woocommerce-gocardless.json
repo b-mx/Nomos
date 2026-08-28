@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "automattic--woocommerce-gocardless",
+  "vendor_id": "automattic",
+  "product_id": "woocommerce-gocardless",
+  "name": "Woocommerce Gocardless",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "woocommerce_gocardless",
+      "confidence": "auto"
+    }
+  ]
+}

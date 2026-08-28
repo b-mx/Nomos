@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--csu-5000",
+  "vendor_id": "avaya",
+  "product_id": "csu-5000",
+  "name": "Csu 5000",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "csu_5000",
+      "confidence": "auto"
+    }
+  ]
+}

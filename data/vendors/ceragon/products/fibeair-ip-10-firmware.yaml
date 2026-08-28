@@ -1,0 +1,10 @@
+id: fibeair-ip-10-firmware
+vendor_id: ceragon
+name: Fibeair Ip-10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ceragon:fibeair_ip\-10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fibeair_ip-10_firmware
+  confidence: auto

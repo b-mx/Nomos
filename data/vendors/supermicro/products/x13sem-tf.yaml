@@ -1,0 +1,10 @@
+id: x13sem-tf
+vendor_id: supermicro
+name: X13Sem-Tf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13sem\-tf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13sem-tf
+  confidence: auto

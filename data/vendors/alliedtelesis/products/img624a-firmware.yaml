@@ -1,0 +1,10 @@
+id: img624a-firmware
+vendor_id: alliedtelesis
+name: Img624A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:alliedtelesis:img624a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: img624a_firmware
+  confidence: auto

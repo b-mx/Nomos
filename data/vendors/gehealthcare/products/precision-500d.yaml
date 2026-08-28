@@ -1,0 +1,10 @@
+id: precision-500d
+vendor_id: gehealthcare
+name: Precision 500D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:precision_500d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: precision_500d
+  confidence: auto

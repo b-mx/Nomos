@@ -1,0 +1,10 @@
+id: bk9000-firmware
+vendor_id: beckhoff
+name: Bk9000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:beckhoff:bk9000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bk9000_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x9drh-if-nv-firmware
+vendor_id: supermicro
+name: X9Drh-If-Nv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9drh\-if\-nv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drh-if-nv_firmware
+  confidence: auto

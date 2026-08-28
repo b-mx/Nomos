@@ -1,0 +1,10 @@
+id: legion-y530-15ich-1060-firmware
+vendor_id: lenovo
+name: Legion Y530-15Ich(1060) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_y530\-15ich\(1060\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y530-15ich(1060)_firmware
+  confidence: auto

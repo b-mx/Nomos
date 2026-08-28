@@ -1,0 +1,10 @@
+id: a1001
+vendor_id: axis
+name: A1001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:a1001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1001
+  confidence: auto

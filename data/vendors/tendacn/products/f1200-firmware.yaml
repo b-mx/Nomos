@@ -1,0 +1,10 @@
+id: f1200-firmware
+vendor_id: tendacn
+name: F1200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tendacn:f1200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f1200_firmware
+  confidence: auto

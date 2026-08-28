@@ -1,0 +1,10 @@
+id: apollo-6500-gen10-plus
+vendor_id: hpe
+name: Apollo 6500 Gen10 Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:apollo_6500_gen10_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_6500_gen10_plus
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cobalt-raq-xtr
+vendor_id: sun
+name: Cobalt Raq Xtr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sun:cobalt_raq_xtr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cobalt_raq_xtr
+  confidence: auto

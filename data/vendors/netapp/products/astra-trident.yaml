@@ -1,0 +1,10 @@
+id: astra-trident
+vendor_id: netapp
+name: Astra Trident
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:astra_trident:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: astra_trident
+  confidence: auto

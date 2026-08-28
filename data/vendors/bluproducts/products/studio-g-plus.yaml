@@ -1,0 +1,10 @@
+id: studio-g-plus
+vendor_id: bluproducts
+name: Studio G Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bluproducts:studio_g_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_g_plus
+  confidence: auto

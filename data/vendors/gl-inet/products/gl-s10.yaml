@@ -1,0 +1,10 @@
+id: gl-s10
+vendor_id: gl-inet
+name: Gl-S10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-s10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-s10
+  confidence: auto

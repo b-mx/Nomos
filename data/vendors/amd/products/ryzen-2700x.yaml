@@ -1,0 +1,10 @@
+id: ryzen-2700x
+vendor_id: amd
+name: Ryzen 2700X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_2700x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_2700x
+  confidence: auto

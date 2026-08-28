@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--vasa-provider",
+  "vendor_id": "netapp",
+  "product_id": "vasa-provider",
+  "name": "Vasa Provider",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vasa_provider",
+      "confidence": "auto"
+    }
+  ]
+}

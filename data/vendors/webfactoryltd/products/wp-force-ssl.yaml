@@ -1,0 +1,10 @@
+id: wp-force-ssl
+vendor_id: webfactoryltd
+name: Wp Force Ssl
+type: software
+tags: []
+cpe: cpe:2.3:a:webfactoryltd:wp_force_ssl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_force_ssl
+  confidence: auto

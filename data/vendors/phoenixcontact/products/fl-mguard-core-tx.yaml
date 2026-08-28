@@ -1,0 +1,10 @@
+id: fl-mguard-core-tx
+vendor_id: phoenixcontact
+name: Fl Mguard Core Tx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_mguard_core_tx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_core_tx
+  confidence: auto

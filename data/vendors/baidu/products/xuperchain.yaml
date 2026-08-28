@@ -1,0 +1,10 @@
+id: xuperchain
+vendor_id: baidu
+name: Xuperchain
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:xuperchain:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xuperchain
+  confidence: auto

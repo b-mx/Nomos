@@ -1,0 +1,10 @@
+id: p1-firmware
+vendor_id: leagoo
+name: P1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:leagoo:p1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p1_firmware
+  confidence: auto

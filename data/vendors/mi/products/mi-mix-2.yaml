@@ -1,0 +1,10 @@
+id: mi-mix-2
+vendor_id: mi
+name: Mi Mix 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:mi_mix_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mi_mix_2
+  confidence: auto

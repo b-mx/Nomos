@@ -1,0 +1,10 @@
+id: revolution-evo-firmware
+vendor_id: gehealthcare
+name: Revolution Evo Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:revolution_evo_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revolution_evo_firmware
+  confidence: auto

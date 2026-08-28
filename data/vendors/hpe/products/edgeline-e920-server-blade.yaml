@@ -1,0 +1,10 @@
+id: edgeline-e920-server-blade
+vendor_id: hpe
+name: Edgeline E920 Server Blade
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:edgeline_e920_server_blade:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgeline_e920_server_blade
+  confidence: auto

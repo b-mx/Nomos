@@ -1,0 +1,10 @@
+id: v410z-firmware
+vendor_id: lenovo
+name: V410Z Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v410z_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v410z_firmware
+  confidence: auto

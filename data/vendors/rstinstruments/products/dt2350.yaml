@@ -1,0 +1,10 @@
+id: dt2350
+vendor_id: rstinstruments
+name: Dt2350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:dt2350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt2350
+  confidence: auto

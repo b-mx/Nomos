@@ -1,0 +1,10 @@
+id: expresscluster-x-singleserversafe
+vendor_id: nec
+name: Expresscluster X Singleserversafe
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:expresscluster_x_singleserversafe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: expresscluster_x_singleserversafe
+  confidence: auto

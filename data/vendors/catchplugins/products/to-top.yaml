@@ -1,0 +1,10 @@
+id: to-top
+vendor_id: catchplugins
+name: To Top
+type: software
+tags: []
+cpe: cpe:2.3:a:catchplugins:to_top:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: to_top
+  confidence: auto

@@ -1,0 +1,10 @@
+id: atomu-l33
+vendor_id: huawei
+name: Atomu-L33
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:atomu\-l33:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atomu-l33
+  confidence: auto

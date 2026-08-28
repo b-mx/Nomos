@@ -1,0 +1,10 @@
+id: spectre-folio-convertible-13-ak0xxx
+vendor_id: hp
+name: Spectre Folio Convertible 13-Ak0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_folio_convertible_13\-ak0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_folio_convertible_13-ak0xxx
+  confidence: auto

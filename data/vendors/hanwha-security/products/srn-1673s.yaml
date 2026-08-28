@@ -1,0 +1,10 @@
+id: srn-1673s
+vendor_id: hanwha-security
+name: Srn-1673S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwha\-security:srn\-1673s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srn-1673s
+  confidence: auto

@@ -1,0 +1,10 @@
+id: model-3
+vendor_id: tesla
+name: Model 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tesla:model_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: model_3
+  confidence: auto

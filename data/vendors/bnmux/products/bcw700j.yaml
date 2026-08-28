@@ -1,0 +1,10 @@
+id: bcw700j
+vendor_id: bnmux
+name: Bcw700J
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bnmux:bcw700j:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcw700j
+  confidence: auto

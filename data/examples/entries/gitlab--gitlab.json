@@ -6,17 +6,12 @@
   "name": "GitLab",
   "type": "software",
   "tags": [],
-  "icon": "logos:gitlab-icon",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "GitLab",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "GitLab CE/EE",
       "confidence": "auto"
     }
   ]

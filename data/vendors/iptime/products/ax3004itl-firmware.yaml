@@ -1,0 +1,10 @@
+id: ax3004itl-firmware
+vendor_id: iptime
+name: Ax3004Itl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:ax3004itl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax3004itl_firmware
+  confidence: auto

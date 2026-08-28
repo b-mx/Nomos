@@ -1,0 +1,10 @@
+id: b3340-firmware
+vendor_id: lexmark
+name: B3340 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:b3340_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b3340_firmware
+  confidence: auto

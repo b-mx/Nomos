@@ -1,0 +1,10 @@
+id: cd8371-hntv
+vendor_id: vivotek
+name: Cd8371-Hntv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:cd8371\-hntv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cd8371-hntv
+  confidence: auto

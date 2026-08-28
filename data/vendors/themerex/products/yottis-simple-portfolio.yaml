@@ -1,0 +1,10 @@
+id: yottis-simple-portfolio
+vendor_id: themerex
+name: Yottis-Simple Portfolio
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:yottis\-simple_portfolio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yottis-simple_portfolio
+  confidence: auto

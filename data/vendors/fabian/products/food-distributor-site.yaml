@@ -1,0 +1,10 @@
+id: food-distributor-site
+vendor_id: fabian
+name: Food Distributor Site
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:food_distributor_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: food_distributor_site
+  confidence: auto

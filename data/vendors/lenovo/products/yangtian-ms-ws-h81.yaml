@@ -1,0 +1,10 @@
+id: yangtian-ms-ws-h81
+vendor_id: lenovo
+name: Yangtian Ms/Ws H81
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yangtian_ms\/ws_h81:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_ms/ws_h81
+  confidence: auto

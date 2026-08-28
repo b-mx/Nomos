@@ -1,0 +1,10 @@
+id: r00cpu
+vendor_id: mitsubishielectric
+name: R00Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:r00cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r00cpu
+  confidence: auto

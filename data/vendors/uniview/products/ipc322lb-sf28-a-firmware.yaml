@@ -1,0 +1,10 @@
+id: ipc322lb-sf28-a-firmware
+vendor_id: uniview
+name: Ipc322Lb-Sf28-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:uniview:ipc322lb\-sf28\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipc322lb-sf28-a_firmware
+  confidence: auto

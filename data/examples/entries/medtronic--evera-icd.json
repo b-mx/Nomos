@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--evera-icd",
+  "vendor_id": "medtronic",
+  "product_id": "evera-icd",
+  "name": "Evera Icd",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "evera_icd",
+      "confidence": "auto"
+    }
+  ]
+}

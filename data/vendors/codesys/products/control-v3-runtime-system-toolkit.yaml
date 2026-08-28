@@ -1,0 +1,10 @@
+id: control-v3-runtime-system-toolkit
+vendor_id: codesys
+name: Control V3 Runtime System Toolkit
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_v3_runtime_system_toolkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_v3_runtime_system_toolkit
+  confidence: auto

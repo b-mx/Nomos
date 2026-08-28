@@ -1,0 +1,10 @@
+id: x10drfr-nt
+vendor_id: supermicro
+name: X10Drfr-Nt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10drfr\-nt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drfr-nt
+  confidence: auto

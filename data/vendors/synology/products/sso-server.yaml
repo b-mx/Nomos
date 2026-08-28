@@ -1,0 +1,10 @@
+id: sso-server
+vendor_id: synology
+name: Sso Server
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:sso_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sso_server
+  confidence: auto

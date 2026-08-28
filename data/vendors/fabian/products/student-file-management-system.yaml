@@ -1,0 +1,10 @@
+id: student-file-management-system
+vendor_id: fabian
+name: Student File Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:student_file_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: student_file_management_system
+  confidence: auto

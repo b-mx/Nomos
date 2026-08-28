@@ -1,0 +1,10 @@
+id: a3600r
+vendor_id: totolink
+name: A3600R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a3600r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3600r
+  confidence: auto

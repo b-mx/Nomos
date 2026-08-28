@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--aircube-firmware",
+  "vendor_id": "ui",
+  "product_id": "aircube-firmware",
+  "name": "Aircube Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aircube_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

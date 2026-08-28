@@ -1,0 +1,10 @@
+id: deebot-t10-turbo
+vendor_id: ecovacs
+name: Deebot T10 Turbo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_t10_turbo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_t10_turbo
+  confidence: auto

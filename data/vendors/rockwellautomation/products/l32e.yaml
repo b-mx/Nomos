@@ -1,0 +1,10 @@
+id: l32e
+vendor_id: rockwellautomation
+name: L32E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:l32e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l32e
+  confidence: auto

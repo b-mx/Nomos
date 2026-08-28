@@ -1,0 +1,10 @@
+id: aruba-cx-6000-24p-r8n87b
+vendor_id: hpe
+name: Aruba Cx 6000 24P (R8N87B)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6000_24p_\(r8n87b\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6000_24p_(r8n87b)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fbm-291w-firmware
+vendor_id: wayos
+name: Fbm-291W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wayos:fbm\-291w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fbm-291w_firmware
+  confidence: auto

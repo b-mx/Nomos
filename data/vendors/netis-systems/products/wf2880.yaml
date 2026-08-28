@@ -1,0 +1,10 @@
+id: wf2880
+vendor_id: netis-systems
+name: Wf2880
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netis\-systems:wf2880:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wf2880
+  confidence: auto

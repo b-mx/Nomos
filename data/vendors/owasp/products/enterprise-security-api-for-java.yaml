@@ -1,0 +1,10 @@
+id: enterprise-security-api-for-java
+vendor_id: owasp
+name: Enterprise Security Api For Java
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:enterprise_security_api_for_java:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_security_api_for_java
+  confidence: auto

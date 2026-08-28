@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--tripleo-common",
+  "vendor_id": "openstack",
+  "product_id": "tripleo-common",
+  "name": "Tripleo-Common",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tripleo-common",
+      "confidence": "auto"
+    }
+  ]
+}

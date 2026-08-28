@@ -1,0 +1,10 @@
+id: quick-launch-button
+vendor_id: hp
+name: Quick Launch Button
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:quick_launch_button:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quick_launch_button
+  confidence: auto

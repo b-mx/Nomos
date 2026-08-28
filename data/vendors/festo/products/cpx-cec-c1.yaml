@@ -1,0 +1,10 @@
+id: cpx-cec-c1
+vendor_id: festo
+name: Cpx-Cec-C1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:cpx\-cec\-c1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpx-cec-c1
+  confidence: auto

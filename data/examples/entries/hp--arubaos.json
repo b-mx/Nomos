@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--arubaos",
+  "vendor_id": "hp",
+  "product_id": "arubaos",
+  "name": "Arubaos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arubaos",
+      "confidence": "auto"
+    }
+  ]
+}

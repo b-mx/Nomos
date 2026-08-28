@@ -1,0 +1,10 @@
+id: ey-as525f001-firmware
+vendor_id: sauter-controls
+name: Ey-As525F001 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sauter\-controls:ey\-as525f001_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ey-as525f001_firmware
+  confidence: auto

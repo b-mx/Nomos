@@ -1,0 +1,10 @@
+id: exacqvision-client
+vendor_id: johnsoncontrols
+name: Exacqvision Client
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:exacqvision_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exacqvision_client
+  confidence: auto

@@ -1,0 +1,10 @@
+id: iconics-suite
+vendor_id: iconics
+name: Iconics Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:iconics_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iconics_suite
+  confidence: auto

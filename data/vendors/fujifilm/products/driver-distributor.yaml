@@ -1,0 +1,10 @@
+id: driver-distributor
+vendor_id: fujifilm
+name: Driver Distributor
+type: software
+tags: []
+cpe: cpe:2.3:a:fujifilm:driver_distributor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: driver_distributor
+  confidence: auto

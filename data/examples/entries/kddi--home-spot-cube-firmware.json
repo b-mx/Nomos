@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kddi--home-spot-cube-firmware",
+  "vendor_id": "kddi",
+  "product_id": "home-spot-cube-firmware",
+  "name": "Home Spot Cube Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "home_spot_cube_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: safenet-keysecure
+vendor_id: thalesgroup
+name: Safenet Keysecure
+type: software
+tags: []
+cpe: cpe:2.3:a:thalesgroup:safenet_keysecure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safenet_keysecure
+  confidence: auto

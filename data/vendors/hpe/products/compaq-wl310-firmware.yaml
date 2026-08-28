@@ -1,0 +1,10 @@
+id: compaq-wl310-firmware
+vendor_id: hpe
+name: Compaq Wl310 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:compaq_wl310_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compaq_wl310_firmware
+  confidence: auto

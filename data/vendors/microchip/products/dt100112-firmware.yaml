@@ -1,0 +1,10 @@
+id: dt100112-firmware
+vendor_id: microchip
+name: Dt100112 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:dt100112_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt100112_firmware
+  confidence: auto
