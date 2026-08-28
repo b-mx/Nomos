@@ -1,0 +1,9 @@
+id: sd-wan-wanop-appliance
+vendor_id: citrix
+name: SD-WAN WANOP Appliance
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SD-WAN WANOP Appliance
+  confidence: auto

@@ -1,0 +1,9 @@
+id: watchos
+vendor_id: apple
+name: watchOS
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: watchOS
+  confidence: auto

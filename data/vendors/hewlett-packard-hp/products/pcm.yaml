@@ -1,0 +1,9 @@
+id: pcm
+vendor_id: hewlett-packard-hp
+name: PCM+
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: PCM+
+  confidence: auto
