@@ -3,12 +3,12 @@
   "slug": "siemens",
   "vendor_id": "siemens",
   "name": "Siemens",
-  "icon": "cib:siemens",
+  "icon": "thesvg-color:siemens",
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Siemens",
-      "confidence": "auto"
+      "confidence": "curated"
     }
   ]
 }

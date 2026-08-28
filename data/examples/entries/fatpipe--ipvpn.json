@@ -1,9 +1,9 @@
 {
   "canonical_type": "product",
-  "slug": "fatpipe--warp-ipvpn-and-mpvpn-software",
+  "slug": "fatpipe--ipvpn",
   "vendor_id": "fatpipe",
-  "product_id": "warp-ipvpn-and-mpvpn-software",
-  "name": "WARP, IPVPN, and MPVPN software",
+  "product_id": "ipvpn",
+  "name": "IPVPN",
   "type": "software",
   "tags": [],
   "icon": null,
@@ -11,7 +11,7 @@
   "aliases": [
     {
       "source": "cisa_kev",
-      "value": "WARP, IPVPN, and MPVPN software",
+      "value": "IPVPN",
       "confidence": "auto"
     }
   ]

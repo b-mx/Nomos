@@ -3031,12 +3031,12 @@
       "slug": "siemens",
       "vendor_id": "siemens",
       "name": "Siemens",
-      "icon": "cib:siemens",
+      "icon": "thesvg-color:siemens",
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "Siemens",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -3750,7 +3750,7 @@
         {
           "source": "cisa_kev",
           "value": "VMware",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -4780,24 +4780,6 @@
     },
     {
       "canonical_type": "product",
-      "slug": "apple--ios-macos-watchos",
-      "vendor_id": "apple",
-      "product_id": "ios-macos-watchos",
-      "name": "iOS, macOS, watchOS",
-      "type": "os",
-      "tags": [],
-      "icon": "logos:apple",
-      "services": [],
-      "aliases": [
-        {
-          "source": "cisa_kev",
-          "value": "iOS, macOS, watchOS",
-          "confidence": "auto"
-        }
-      ]
-    },
-    {
-      "canonical_type": "product",
       "slug": "apple--ios",
       "vendor_id": "apple",
       "product_id": "ios",
@@ -4846,6 +4828,24 @@
         {
           "source": "cisa_kev",
           "value": "OS X",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "apple--watchos",
+      "vendor_id": "apple",
+      "product_id": "watchos",
+      "name": "watchOS",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "watchOS",
           "confidence": "auto"
         }
       ]
@@ -5804,6 +5804,42 @@
     },
     {
       "canonical_type": "product",
+      "slug": "cisco--rv260",
+      "vendor_id": "cisco",
+      "product_id": "rv260",
+      "name": "RV260",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "RV260",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "cisco--rv340",
+      "vendor_id": "cisco",
+      "product_id": "rv340",
+      "name": "RV340",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "RV340",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
       "slug": "cisco--secure-access-control-system-acs",
       "vendor_id": "cisco",
       "product_id": "secure-access-control-system-acs",
@@ -5867,20 +5903,18 @@
     },
     {
       "canonical_type": "product",
-      "slug": "cisco--small-business-rv160-rv260-rv340-and-rv345-series-routers",
+      "slug": "cisco--small-business-rv160",
       "vendor_id": "cisco",
-      "product_id": "small-business-rv160-rv260-rv340-and-rv345-series-routers",
-      "name": "Small Business RV160, RV260, RV340, and RV345 Series Routers",
-      "type": "hardware",
-      "tags": [
-        "network-device"
-      ],
+      "product_id": "small-business-rv160",
+      "name": "Small Business RV160",
+      "type": "software",
+      "tags": [],
       "icon": null,
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
-          "value": "Small Business RV160, RV260, RV340, and RV345 Series Routers",
+          "value": "Small Business RV160",
           "confidence": "auto"
         }
       ]
@@ -5970,28 +6004,6 @@
     },
     {
       "canonical_type": "product",
-      "slug": "citrix--application-delivery-controller-adc-gateway-and-sd-wan-wanop-appliance",
-      "vendor_id": "citrix",
-      "product_id": "application-delivery-controller-adc-gateway-and-sd-wan-wanop-appliance",
-      "name": "Application Delivery Controller (ADC), Gateway, and SD-WAN WANOP Appliance",
-      "type": "hardware",
-      "tags": [
-        "hardware-appliance",
-        "load-balancer",
-        "network-device"
-      ],
-      "icon": "simple-icons:citrix",
-      "services": [],
-      "aliases": [
-        {
-          "source": "cisa_kev",
-          "value": "Application Delivery Controller (ADC), Gateway, and SD-WAN WANOP Appliance",
-          "confidence": "auto"
-        }
-      ]
-    },
-    {
-      "canonical_type": "product",
       "slug": "citrix--content-collaboration",
       "vendor_id": "citrix",
       "product_id": "content-collaboration",
@@ -6006,6 +6018,24 @@
         {
           "source": "cisa_kev",
           "value": "Content Collaboration",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "citrix--gateway",
+      "vendor_id": "citrix",
+      "product_id": "gateway",
+      "name": "Gateway",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Gateway",
           "confidence": "auto"
         }
       ]
@@ -6037,6 +6067,24 @@
         {
           "source": "cisa_kev",
           "value": "NetScaler ADC and Gateway",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "citrix--sd-wan-wanop-appliance",
+      "vendor_id": "citrix",
+      "product_id": "sd-wan-wanop-appliance",
+      "name": "SD-WAN WANOP Appliance",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "SD-WAN WANOP Appliance",
           "confidence": "auto"
         }
       ]
@@ -7022,10 +7070,10 @@
     },
     {
       "canonical_type": "product",
-      "slug": "fatpipe--warp-ipvpn-and-mpvpn-software",
+      "slug": "fatpipe--ipvpn",
       "vendor_id": "fatpipe",
-      "product_id": "warp-ipvpn-and-mpvpn-software",
-      "name": "WARP, IPVPN, and MPVPN software",
+      "product_id": "ipvpn",
+      "name": "IPVPN",
       "type": "software",
       "tags": [],
       "icon": null,
@@ -7033,7 +7081,43 @@
       "aliases": [
         {
           "source": "cisa_kev",
-          "value": "WARP, IPVPN, and MPVPN software",
+          "value": "IPVPN",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "fatpipe--mpvpn-software",
+      "vendor_id": "fatpipe",
+      "product_id": "mpvpn-software",
+      "name": "MPVPN software",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "MPVPN software",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "fatpipe--warp",
+      "vendor_id": "fatpipe",
+      "product_id": "warp",
+      "name": "WARP",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "WARP",
           "confidence": "auto"
         }
       ]
@@ -7233,10 +7317,10 @@
     },
     {
       "canonical_type": "product",
-      "slug": "fxc--ae1021-ae1021pe",
+      "slug": "fxc--ae1021",
       "vendor_id": "fxc",
-      "product_id": "ae1021-ae1021pe",
-      "name": "AE1021, AE1021PE",
+      "product_id": "ae1021",
+      "name": "AE1021",
       "type": "software",
       "tags": [],
       "icon": null,
@@ -7244,7 +7328,7 @@
       "aliases": [
         {
           "source": "cisa_kev",
-          "value": "AE1021, AE1021PE",
+          "value": "AE1021",
           "confidence": "auto"
         }
       ]
@@ -7944,6 +8028,42 @@
     },
     {
       "canonical_type": "product",
+      "slug": "hewlett-packard-hp--application-lifecycle-management",
+      "vendor_id": "hewlett-packard-hp",
+      "product_id": "application-lifecycle-management",
+      "name": "Application Lifecycle Management",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Application Lifecycle Management",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "hewlett-packard-hp--identity-driven-manager-idm",
+      "vendor_id": "hewlett-packard-hp",
+      "product_id": "identity-driven-manager-idm",
+      "name": "Identity Driven Manager (IDM)",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Identity Driven Manager (IDM)",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
       "slug": "hewlett-packard-hp--openview-network-node-manager",
       "vendor_id": "hewlett-packard-hp",
       "product_id": "openview-network-node-manager",
@@ -7962,20 +8082,36 @@
     },
     {
       "canonical_type": "product",
-      "slug": "hewlett-packard-hp--procurve-manager-pcm-pcm-identity-driven-manager-idm-and-application-lifecycle-management",
+      "slug": "hewlett-packard-hp--pcm",
       "vendor_id": "hewlett-packard-hp",
-      "product_id": "procurve-manager-pcm-pcm-identity-driven-manager-idm-and-application-lifecycle-management",
-      "name": "ProCurve Manager (PCM), PCM+, Identity Driven Manager (IDM), and Application Lifecycle Management",
+      "product_id": "pcm",
+      "name": "PCM+",
       "type": "software",
-      "tags": [
-        "identity-access-management"
-      ],
+      "tags": [],
       "icon": null,
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
-          "value": "ProCurve Manager (PCM), PCM+, Identity Driven Manager (IDM), and Application Lifecycle Management",
+          "value": "PCM+",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "hewlett-packard-hp--procurve-manager-pcm",
+      "vendor_id": "hewlett-packard-hp",
+      "product_id": "procurve-manager-pcm",
+      "name": "ProCurve Manager (PCM)",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "ProCurve Manager (PCM)",
           "confidence": "auto"
         }
       ]
@@ -8239,18 +8375,18 @@
     },
     {
       "canonical_type": "product",
-      "slug": "intel--active-management-technology-amt-small-business-technology-sbt-and-standard-manageability",
+      "slug": "intel--active-management-technology-amt",
       "vendor_id": "intel",
-      "product_id": "active-management-technology-amt-small-business-technology-sbt-and-standard-manageability",
-      "name": "Active Management Technology (AMT), Small Business Technology (SBT), and Standard Manageability",
+      "product_id": "active-management-technology-amt",
+      "name": "Active Management Technology (AMT)",
       "type": "software",
       "tags": [],
-      "icon": "logos:intel",
+      "icon": null,
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
-          "value": "Active Management Technology (AMT), Small Business Technology (SBT), and Standard Manageability",
+          "value": "Active Management Technology (AMT)",
           "confidence": "auto"
         }
       ]
@@ -8269,6 +8405,42 @@
         {
           "source": "cisa_kev",
           "value": "Ethernet Diagnostics Driver for Windows",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "intel--small-business-technology-sbt",
+      "vendor_id": "intel",
+      "product_id": "small-business-technology-sbt",
+      "name": "Small Business Technology (SBT)",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Small Business Technology (SBT)",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "intel--standard-manageability",
+      "vendor_id": "intel",
+      "product_id": "standard-manageability",
+      "name": "Standard Manageability",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Standard Manageability",
           "confidence": "auto"
         }
       ]
@@ -9301,24 +9473,6 @@
     },
     {
       "canonical_type": "product",
-      "slug": "mitel--micollab-mivoice-business-express",
-      "vendor_id": "mitel",
-      "product_id": "micollab-mivoice-business-express",
-      "name": "MiCollab, MiVoice Business Express",
-      "type": "software",
-      "tags": [],
-      "icon": null,
-      "services": [],
-      "aliases": [
-        {
-          "source": "cisa_kev",
-          "value": "MiCollab, MiVoice Business Express",
-          "confidence": "auto"
-        }
-      ]
-    },
-    {
-      "canonical_type": "product",
       "slug": "mitel--micollab",
       "vendor_id": "mitel",
       "product_id": "micollab",
@@ -9331,6 +9485,24 @@
         {
           "source": "cisa_kev",
           "value": "MiCollab",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "mitel--mivoice-business-express",
+      "vendor_id": "mitel",
+      "product_id": "mivoice-business-express",
+      "name": "MiVoice Business Express",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "MiVoice Business Express",
           "confidence": "auto"
         }
       ]
@@ -10988,18 +11160,144 @@
     },
     {
       "canonical_type": "product",
-      "slug": "qualcomm--snapdragon-auto-snapdragon-compute-snapdragon-connectivity-snapdragon-consumer-iot-snapdragon-industrial-iot-snapdragon-mobile-snapdragon-voice-music-snapdragon-wearables",
+      "slug": "qualcomm--snapdragon-auto",
       "vendor_id": "qualcomm",
-      "product_id": "snapdragon-auto-snapdragon-compute-snapdragon-connectivity-snapdragon-consumer-iot-snapdragon-industrial-iot-snapdragon-mobile-snapdragon-voice-music-snapdragon-wearables",
-      "name": "Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables",
+      "product_id": "snapdragon-auto",
+      "name": "Snapdragon Auto",
       "type": "software",
       "tags": [],
-      "icon": "logos:qualcomm",
+      "icon": null,
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
-          "value": "Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables",
+          "value": "Snapdragon Auto",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "qualcomm--snapdragon-compute",
+      "vendor_id": "qualcomm",
+      "product_id": "snapdragon-compute",
+      "name": "Snapdragon Compute",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Snapdragon Compute",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "qualcomm--snapdragon-connectivity",
+      "vendor_id": "qualcomm",
+      "product_id": "snapdragon-connectivity",
+      "name": "Snapdragon Connectivity",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Snapdragon Connectivity",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "qualcomm--snapdragon-consumer-iot",
+      "vendor_id": "qualcomm",
+      "product_id": "snapdragon-consumer-iot",
+      "name": "Snapdragon Consumer IOT",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Snapdragon Consumer IOT",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "qualcomm--snapdragon-industrial-iot",
+      "vendor_id": "qualcomm",
+      "product_id": "snapdragon-industrial-iot",
+      "name": "Snapdragon Industrial IOT",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Snapdragon Industrial IOT",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "qualcomm--snapdragon-mobile",
+      "vendor_id": "qualcomm",
+      "product_id": "snapdragon-mobile",
+      "name": "Snapdragon Mobile",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Snapdragon Mobile",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "qualcomm--snapdragon-voice-music",
+      "vendor_id": "qualcomm",
+      "product_id": "snapdragon-voice-music",
+      "name": "Snapdragon Voice & Music",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Snapdragon Voice & Music",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "qualcomm--snapdragon-wearables",
+      "vendor_id": "qualcomm",
+      "product_id": "snapdragon-wearables",
+      "name": "Snapdragon Wearables",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Snapdragon Wearables",
           "confidence": "auto"
         }
       ]
@@ -11679,10 +11977,10 @@
     },
     {
       "canonical_type": "product",
-      "slug": "servicenow--utah-vancouver-and-washington-dc-now-platform",
+      "slug": "servicenow--utah",
       "vendor_id": "servicenow",
-      "product_id": "utah-vancouver-and-washington-dc-now-platform",
-      "name": "Utah, Vancouver, and Washington DC Now Platform",
+      "product_id": "utah",
+      "name": "Utah",
       "type": "software",
       "tags": [],
       "icon": null,
@@ -11690,7 +11988,43 @@
       "aliases": [
         {
           "source": "cisa_kev",
-          "value": "Utah, Vancouver, and Washington DC Now Platform",
+          "value": "Utah",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "servicenow--vancouver",
+      "vendor_id": "servicenow",
+      "product_id": "vancouver",
+      "name": "Vancouver",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Vancouver",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "servicenow--washington-dc-now-platform",
+      "vendor_id": "servicenow",
+      "product_id": "washington-dc-now-platform",
+      "name": "Washington DC Now Platform",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "Washington DC Now Platform",
           "confidence": "auto"
         }
       ]
@@ -11703,13 +12037,13 @@
       "name": "SIMATIC CP",
       "type": "software",
       "tags": [],
-      "icon": "cib:siemens",
+      "icon": "thesvg-color:siemens",
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
           "value": "SIMATIC CP",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -12532,20 +12866,36 @@
     },
     {
       "canonical_type": "product",
-      "slug": "tenda--ac7-ac9-and-ac10-routers",
+      "slug": "tenda--ac7",
       "vendor_id": "tenda",
-      "product_id": "ac7-ac9-and-ac10-routers",
-      "name": "AC7, AC9, and AC10 Routers",
-      "type": "hardware",
-      "tags": [
-        "network-device"
-      ],
+      "product_id": "ac7",
+      "name": "AC7",
+      "type": "software",
+      "tags": [],
       "icon": null,
       "services": [],
       "aliases": [
         {
           "source": "cisa_kev",
-          "value": "AC7, AC9, and AC10 Routers",
+          "value": "AC7",
+          "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "tenda--ac9",
+      "vendor_id": "tenda",
+      "product_id": "ac9",
+      "name": "AC9",
+      "type": "software",
+      "tags": [],
+      "icon": null,
+      "services": [],
+      "aliases": [
+        {
+          "source": "cisa_kev",
+          "value": "AC9",
           "confidence": "auto"
         }
       ]
@@ -13086,7 +13436,7 @@
         {
           "source": "cisa_kev",
           "value": "Aria Operations for Networks",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13106,7 +13456,7 @@
         {
           "source": "cisa_kev",
           "value": "ESXi",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13124,7 +13474,7 @@
         {
           "source": "cisa_kev",
           "value": "SD-WAN Edge",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13145,7 +13495,7 @@
         {
           "source": "cisa_kev",
           "value": "Spring Cloud Gateway",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13165,7 +13515,7 @@
         {
           "source": "cisa_kev",
           "value": "Spring Framework",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13183,7 +13533,7 @@
         {
           "source": "cisa_kev",
           "value": "Tools",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13203,17 +13553,17 @@
         {
           "source": "cisa_kev",
           "value": "vCenter Server",
-          "confidence": "auto"
+          "confidence": "curated"
         },
         {
           "source": "cisa_kev",
           "value": "VMware vCenter",
-          "confidence": "auto"
+          "confidence": "curated"
         },
         {
           "source": "cisa_kev",
           "value": "VMware vCenter Server",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13231,7 +13581,7 @@
         {
           "source": "cisa_kev",
           "value": "VMware Aria Operations",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13249,7 +13599,7 @@
         {
           "source": "cisa_kev",
           "value": "vRealize Operations Manager API",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
@@ -13269,7 +13619,7 @@
         {
           "source": "cisa_kev",
           "value": "Workspace ONE Access and Identity Manager",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },

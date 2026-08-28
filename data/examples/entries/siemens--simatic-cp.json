@@ -6,13 +6,13 @@
   "name": "SIMATIC CP",
   "type": "software",
   "tags": [],
-  "icon": "cib:siemens",
+  "icon": "thesvg-color:siemens",
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "SIMATIC CP",
-      "confidence": "auto"
+      "confidence": "curated"
     }
   ]
 }
