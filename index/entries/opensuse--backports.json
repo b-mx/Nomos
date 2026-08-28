@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--backports",
+  "vendor_id": "opensuse",
+  "product_id": "backports",
+  "name": "Backports",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "backports",
+      "confidence": "auto"
+    }
+  ]
+}

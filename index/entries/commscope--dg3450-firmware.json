@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "commscope--dg3450-firmware",
+  "vendor_id": "commscope",
+  "product_id": "dg3450-firmware",
+  "name": "Dg3450 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dg3450_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

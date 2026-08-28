@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--nport-5110-firmware",
+  "vendor_id": "moxa",
+  "product_id": "nport-5110-firmware",
+  "name": "Nport 5110 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nport_5110_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

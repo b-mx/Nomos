@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bouncycastle--bcpg-fips",
+  "vendor_id": "bouncycastle",
+  "product_id": "bcpg-fips",
+  "name": "Bcpg-Fips",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bcpg-fips",
+      "confidence": "auto"
+    }
+  ]
+}

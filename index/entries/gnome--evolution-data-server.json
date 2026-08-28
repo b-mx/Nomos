@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--evolution-data-server",
+  "vendor_id": "gnome",
+  "product_id": "evolution-data-server",
+  "name": "Evolution-Data-Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "evolution-data-server",
+      "confidence": "auto"
+    }
+  ]
+}

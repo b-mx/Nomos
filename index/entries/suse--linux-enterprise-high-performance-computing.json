@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--linux-enterprise-high-performance-computing",
+  "vendor_id": "suse",
+  "product_id": "linux-enterprise-high-performance-computing",
+  "name": "Linux Enterprise High Performance Computing",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux_enterprise_high_performance_computing",
+      "confidence": "auto"
+    }
+  ]
+}

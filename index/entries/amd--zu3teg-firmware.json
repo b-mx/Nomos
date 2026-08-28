@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--zu3teg-firmware",
+  "vendor_id": "amd",
+  "product_id": "zu3teg-firmware",
+  "name": "Zu3Teg Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zu3teg_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

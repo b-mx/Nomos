@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "westerndigital--wd-cloud",
+  "vendor_id": "westerndigital",
+  "product_id": "wd-cloud",
+  "name": "Wd Cloud",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wd_cloud",
+      "confidence": "auto"
+    }
+  ]
+}

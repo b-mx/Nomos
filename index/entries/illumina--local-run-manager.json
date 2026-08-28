@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "illumina--local-run-manager",
+  "vendor_id": "illumina",
+  "product_id": "local-run-manager",
+  "name": "Local Run Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "local_run_manager",
+      "confidence": "auto"
+    }
+  ]
+}

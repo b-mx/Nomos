@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--sg5",
+  "vendor_id": "avaya",
+  "product_id": "sg5",
+  "name": "Sg5",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sg5",
+      "confidence": "auto"
+    }
+  ]
+}

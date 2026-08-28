@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kaspersky--free-anti-virus",
+  "vendor_id": "kaspersky",
+  "product_id": "free-anti-virus",
+  "name": "Free Anti-Virus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "free_anti-virus",
+      "confidence": "auto"
+    }
+  ]
+}

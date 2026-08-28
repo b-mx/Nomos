@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--apollo-domain-os",
+  "vendor_id": "hp",
+  "product_id": "apollo-domain-os",
+  "name": "Apollo Domain Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apollo_domain_os",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x-org--x-window-system",
+  "vendor_id": "x-org",
+  "product_id": "x-window-system",
+  "name": "X Window System",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x_window_system",
+      "confidence": "auto"
+    }
+  ]
+}

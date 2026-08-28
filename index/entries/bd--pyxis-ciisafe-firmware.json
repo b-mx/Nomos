@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--pyxis-ciisafe-firmware",
+  "vendor_id": "bd",
+  "product_id": "pyxis-ciisafe-firmware",
+  "name": "Pyxis Ciisafe Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyxis_ciisafe_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

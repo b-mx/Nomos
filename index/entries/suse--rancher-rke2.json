@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--rancher-rke2",
+  "vendor_id": "suse",
+  "product_id": "rancher-rke2",
+  "name": "Rancher Rke2",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rancher_rke2",
+      "confidence": "auto"
+    }
+  ]
+}

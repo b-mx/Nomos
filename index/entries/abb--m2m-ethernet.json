@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--m2m-ethernet",
+  "vendor_id": "abb",
+  "product_id": "m2m-ethernet",
+  "name": "M2M Ethernet",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m2m_ethernet",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iss--blackice-agent-server",
+  "vendor_id": "iss",
+  "product_id": "blackice-agent-server",
+  "name": "Blackice Agent Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "blackice_agent_server",
+      "confidence": "auto"
+    }
+  ]
+}

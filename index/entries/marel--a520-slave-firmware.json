@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "marel--a520-slave-firmware",
+  "vendor_id": "marel",
+  "product_id": "a520-slave-firmware",
+  "name": "A520 Slave Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a520_slave_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

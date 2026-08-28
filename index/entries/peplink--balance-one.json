@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--balance-one",
+  "vendor_id": "peplink",
+  "product_id": "balance-one",
+  "name": "Balance One",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "balance_one",
+      "confidence": "auto"
+    }
+  ]
+}

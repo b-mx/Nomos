@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "audiocodes--fax-server",
+  "vendor_id": "audiocodes",
+  "product_id": "fax-server",
+  "name": "Fax Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fax_server",
+      "confidence": "auto"
+    }
+  ]
+}

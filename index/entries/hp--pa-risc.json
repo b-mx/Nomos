@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--pa-risc",
+  "vendor_id": "hp",
+  "product_id": "pa-risc",
+  "name": "Pa-Risc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pa-risc",
+      "confidence": "auto"
+    }
+  ]
+}

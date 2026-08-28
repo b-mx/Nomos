@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--notebook-firmware",
+  "vendor_id": "lenovo",
+  "product_id": "notebook-firmware",
+  "name": "Notebook Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "notebook_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

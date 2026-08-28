@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "miniorange--oauth-single-sign-on",
+  "vendor_id": "miniorange",
+  "product_id": "oauth-single-sign-on",
+  "name": "Oauth Single Sign On",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "oauth_single_sign_on",
+      "confidence": "auto"
+    }
+  ]
+}

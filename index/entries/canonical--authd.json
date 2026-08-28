@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--authd",
+  "vendor_id": "canonical",
+  "product_id": "authd",
+  "name": "Authd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "authd",
+      "confidence": "auto"
+    }
+  ]
+}

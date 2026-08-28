@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--smart-home",
+  "vendor_id": "bosch",
+  "product_id": "smart-home",
+  "name": "Smart Home",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_home",
+      "confidence": "auto"
+    }
+  ]
+}

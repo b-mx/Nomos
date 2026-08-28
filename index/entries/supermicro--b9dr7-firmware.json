@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--b9dr7-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "b9dr7-firmware",
+  "name": "B9Dr7 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b9dr7_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

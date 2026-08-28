@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--ceilometer",
+  "vendor_id": "openstack",
+  "product_id": "ceilometer",
+  "name": "Ceilometer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ceilometer",
+      "confidence": "auto"
+    }
+  ]
+}

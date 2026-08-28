@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--vplex-geosynchrony",
+  "vendor_id": "emc",
+  "product_id": "vplex-geosynchrony",
+  "name": "Vplex Geosynchrony",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vplex_geosynchrony",
+      "confidence": "auto"
+    }
+  ]
+}

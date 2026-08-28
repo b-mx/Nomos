@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--nextgen-api",
+  "vendor_id": "netapp",
+  "product_id": "nextgen-api",
+  "name": "Nextgen Api",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nextgen_api",
+      "confidence": "auto"
+    }
+  ]
+}

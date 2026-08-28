@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--routing-release",
+  "vendor_id": "cloudfoundry",
+  "product_id": "routing-release",
+  "name": "Routing-Release",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "routing-release",
+      "confidence": "auto"
+    }
+  ]
+}

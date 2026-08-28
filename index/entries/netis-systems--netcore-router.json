@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netis-systems--netcore-router",
+  "vendor_id": "netis-systems",
+  "product_id": "netcore-router",
+  "name": "Netcore Router",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "netcore_router",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iomega--nas-a300u-firmware",
+  "vendor_id": "iomega",
+  "product_id": "nas-a300u-firmware",
+  "name": "Nas A300U Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nas_a300u_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

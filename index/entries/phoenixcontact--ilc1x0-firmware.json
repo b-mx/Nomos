@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phoenixcontact--ilc1x0-firmware",
+  "vendor_id": "phoenixcontact",
+  "product_id": "ilc1x0-firmware",
+  "name": "Ilc1X0 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ilc1x0_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

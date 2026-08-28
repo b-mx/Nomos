@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "puppet--puppet",
+  "vendor_id": "puppet",
+  "product_id": "puppet",
+  "name": "Puppet",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "puppet",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "puppet",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "github--cli",
+  "vendor_id": "github",
+  "product_id": "cli",
+  "name": "Cli",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cli",
+      "confidence": "auto"
+    }
+  ]
+}

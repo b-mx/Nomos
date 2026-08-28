@@ -3,17 +3,12 @@
   "slug": "openssl",
   "vendor_id": "openssl",
   "name": "OpenSSL",
-  "icon": "thesvg-color:openssl",
+  "icon": null,
   "aliases": [
     {
-      "source": "nvd",
-      "value": "openssl",
-      "confidence": "curated"
-    },
-    {
-      "source": "endoflife",
-      "value": "openssl",
-      "confidence": "curated"
+      "source": "cisa_kev",
+      "value": "OpenSSL",
+      "confidence": "auto"
     }
   ]
 }

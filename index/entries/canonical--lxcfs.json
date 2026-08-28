@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--lxcfs",
+  "vendor_id": "canonical",
+  "product_id": "lxcfs",
+  "name": "Lxcfs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lxcfs",
+      "confidence": "auto"
+    }
+  ]
+}

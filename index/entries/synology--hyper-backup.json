@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--hyper-backup",
+  "vendor_id": "synology",
+  "product_id": "hyper-backup",
+  "name": "Hyper Backup",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hyper_backup",
+      "confidence": "auto"
+    }
+  ]
+}

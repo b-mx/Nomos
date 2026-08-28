@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "johnsoncontrols--sne22000-firmware",
+  "vendor_id": "johnsoncontrols",
+  "product_id": "sne22000-firmware",
+  "name": "Sne22000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sne22000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

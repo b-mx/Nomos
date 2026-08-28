@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "fluent-bit",
+  "vendor_id": "fluent-bit",
+  "name": "Fluent Bit",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "fluent-bit",
+      "confidence": "auto"
+    }
+  ]
+}

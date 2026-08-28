@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--telemetry-ceilometer",
+  "vendor_id": "openstack",
+  "product_id": "telemetry-ceilometer",
+  "name": "Telemetry (Ceilometer)",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "telemetry_(ceilometer)",
+      "confidence": "auto"
+    }
+  ]
+}

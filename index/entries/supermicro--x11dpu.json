@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11dpu",
+  "vendor_id": "supermicro",
+  "product_id": "x11dpu",
+  "name": "X11Dpu",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11dpu",
+      "confidence": "auto"
+    }
+  ]
+}

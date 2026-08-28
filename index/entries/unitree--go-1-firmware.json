@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "unitree--go-1-firmware",
+  "vendor_id": "unitree",
+  "product_id": "go-1-firmware",
+  "name": "Go 1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "go_1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

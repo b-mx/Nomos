@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ipswitch--imserver",
+  "vendor_id": "ipswitch",
+  "product_id": "imserver",
+  "name": "Imserver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "imserver",
+      "confidence": "auto"
+    }
+  ]
+}

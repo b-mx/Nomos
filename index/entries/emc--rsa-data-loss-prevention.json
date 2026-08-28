@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--rsa-data-loss-prevention",
+  "vendor_id": "emc",
+  "product_id": "rsa-data-loss-prevention",
+  "name": "Rsa Data Loss Prevention",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rsa_data_loss_prevention",
+      "confidence": "auto"
+    }
+  ]
+}

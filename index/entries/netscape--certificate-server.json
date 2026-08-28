@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netscape--certificate-server",
+  "vendor_id": "netscape",
+  "product_id": "certificate-server",
+  "name": "Certificate Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "certificate_server",
+      "confidence": "auto"
+    }
+  ]
+}

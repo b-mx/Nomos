@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--h13sst-gc-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "h13sst-gc-firmware",
+  "name": "H13Sst-Gc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h13sst-gc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "roku--roku-tv",
+  "vendor_id": "roku",
+  "product_id": "roku-tv",
+  "name": "Roku Tv",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "roku_tv",
+      "confidence": "auto"
+    }
+  ]
+}

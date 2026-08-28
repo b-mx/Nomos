@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iptime--n600-firmware",
+  "vendor_id": "iptime",
+  "product_id": "n600-firmware",
+  "name": "N600 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "n600_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

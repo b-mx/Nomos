@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--alphaserver-sc",
+  "vendor_id": "hp",
+  "product_id": "alphaserver-sc",
+  "name": "Alphaserver Sc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alphaserver_sc",
+      "confidence": "auto"
+    }
+  ]
+}

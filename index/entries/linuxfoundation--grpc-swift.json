@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--grpc-swift",
+  "vendor_id": "linuxfoundation",
+  "product_id": "grpc-swift",
+  "name": "Grpc Swift",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "grpc_swift",
+      "confidence": "auto"
+    }
+  ]
+}

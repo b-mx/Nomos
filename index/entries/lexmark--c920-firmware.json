@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--c920-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "c920-firmware",
+  "name": "C920 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c920_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

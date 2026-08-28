@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--ip600-media-servers",
+  "vendor_id": "avaya",
+  "product_id": "ip600-media-servers",
+  "name": "Ip600 Media Servers",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ip600_media_servers",
+      "confidence": "auto"
+    }
+  ]
+}

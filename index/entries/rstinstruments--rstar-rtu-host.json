@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rstinstruments--rstar-rtu-host",
+  "vendor_id": "rstinstruments",
+  "product_id": "rstar-rtu-host",
+  "name": "Rstar Rtu Host",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rstar_rtu_host",
+      "confidence": "auto"
+    }
+  ]
+}

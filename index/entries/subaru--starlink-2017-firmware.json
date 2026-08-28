@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "subaru--starlink-2017-firmware",
+  "vendor_id": "subaru",
+  "product_id": "starlink-2017-firmware",
+  "name": "Starlink 2017 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "starlink_2017_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

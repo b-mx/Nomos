@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--cloud-station-backup",
+  "vendor_id": "synology",
+  "product_id": "cloud-station-backup",
+  "name": "Cloud Station Backup",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_station_backup",
+      "confidence": "auto"
+    }
+  ]
+}

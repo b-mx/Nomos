@@ -4,21 +4,14 @@
   "vendor_id": "draytek",
   "product_id": "vigor-routers",
   "name": "Vigor Routers",
-  "type": "hardware",
-  "tags": [
-    "network-device"
-  ],
+  "type": "software",
+  "tags": [],
   "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Vigor Routers",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "Multiple Vigor Routers",
       "confidence": "auto"
     }
   ]

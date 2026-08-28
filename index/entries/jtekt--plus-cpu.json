@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jtekt--plus-cpu",
+  "vendor_id": "jtekt",
+  "product_id": "plus-cpu",
+  "name": "Plus Cpu",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plus_cpu",
+      "confidence": "auto"
+    }
+  ]
+}

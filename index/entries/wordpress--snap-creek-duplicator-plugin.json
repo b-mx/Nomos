@@ -5,16 +5,14 @@
   "product_id": "snap-creek-duplicator-plugin",
   "name": "Snap Creek Duplicator Plugin",
   "type": "software",
-  "tags": [
-    "cms"
-  ],
-  "icon": "skill-icons:wordpress",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Snap Creek Duplicator Plugin",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

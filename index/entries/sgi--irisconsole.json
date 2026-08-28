@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sgi--irisconsole",
+  "vendor_id": "sgi",
+  "product_id": "irisconsole",
+  "name": "Irisconsole",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "irisconsole",
+      "confidence": "auto"
+    }
+  ]
+}

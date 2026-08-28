@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--external-snapshotter",
+  "vendor_id": "kubernetes",
+  "product_id": "external-snapshotter",
+  "name": "External-Snapshotter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "external-snapshotter",
+      "confidence": "auto"
+    }
+  ]
+}

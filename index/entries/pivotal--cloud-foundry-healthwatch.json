@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--cloud-foundry-healthwatch",
+  "vendor_id": "pivotal",
+  "product_id": "cloud-foundry-healthwatch",
+  "name": "Cloud Foundry Healthwatch",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_foundry_healthwatch",
+      "confidence": "auto"
+    }
+  ]
+}

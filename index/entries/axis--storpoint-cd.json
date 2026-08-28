@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--storpoint-cd",
+  "vendor_id": "axis",
+  "product_id": "storpoint-cd",
+  "name": "Storpoint Cd",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storpoint_cd",
+      "confidence": "auto"
+    }
+  ]
+}

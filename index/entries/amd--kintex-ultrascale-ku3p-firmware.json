@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--kintex-ultrascale-ku3p-firmware",
+  "vendor_id": "amd",
+  "product_id": "kintex-ultrascale-ku3p-firmware",
+  "name": "Kintex Ultrascale+ Ku3P Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kintex_ultrascale+_ku3p_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "snyk",
+  "vendor_id": "snyk",
+  "name": "Snyk",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "snyk",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--guests",
+  "vendor_id": "nextcloud",
+  "product_id": "guests",
+  "name": "Guests",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "guests",
+      "confidence": "auto"
+    }
+  ]
+}

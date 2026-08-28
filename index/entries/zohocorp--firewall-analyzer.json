@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zohocorp--firewall-analyzer",
+  "vendor_id": "zohocorp",
+  "product_id": "firewall-analyzer",
+  "name": "Firewall Analyzer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "firewall_analyzer",
+      "confidence": "auto"
+    }
+  ]
+}

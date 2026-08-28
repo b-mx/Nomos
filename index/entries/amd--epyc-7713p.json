@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7713p",
+  "vendor_id": "amd",
+  "product_id": "epyc-7713p",
+  "name": "Epyc 7713P",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7713p",
+      "confidence": "auto"
+    }
+  ]
+}

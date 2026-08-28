@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "codesys--hmi-sl",
+  "vendor_id": "codesys",
+  "product_id": "hmi-sl",
+  "name": "Hmi Sl",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hmi_sl",
+      "confidence": "auto"
+    }
+  ]
+}

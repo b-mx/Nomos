@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--two-factor-webauthn",
+  "vendor_id": "nextcloud",
+  "product_id": "two-factor-webauthn",
+  "name": "Two-Factor Webauthn",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "two-factor_webauthn",
+      "confidence": "auto"
+    }
+  ]
+}

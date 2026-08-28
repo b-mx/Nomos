@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "okta--verify",
+  "vendor_id": "okta",
+  "product_id": "verify",
+  "name": "Verify",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "verify",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wago--knx-ip",
+  "vendor_id": "wago",
+  "product_id": "knx-ip",
+  "name": "Knx Ip",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "knx_ip",
+      "confidence": "auto"
+    }
+  ]
+}

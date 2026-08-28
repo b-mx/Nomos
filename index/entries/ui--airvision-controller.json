@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--airvision-controller",
+  "vendor_id": "ui",
+  "product_id": "airvision-controller",
+  "name": "Airvision Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "airvision_controller",
+      "confidence": "auto"
+    }
+  ]
+}

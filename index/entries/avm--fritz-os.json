@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avm--fritz-os",
+  "vendor_id": "avm",
+  "product_id": "fritz-os",
+  "name": "Fritz! Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fritz!_os",
+      "confidence": "auto"
+    }
+  ]
+}

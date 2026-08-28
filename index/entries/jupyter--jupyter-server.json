@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--jupyter-server",
+  "vendor_id": "jupyter",
+  "product_id": "jupyter-server",
+  "name": "Jupyter Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jupyter_server",
+      "confidence": "auto"
+    }
+  ]
+}

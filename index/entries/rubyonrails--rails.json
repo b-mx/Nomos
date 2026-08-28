@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "rubyonrails--rails",
+  "vendor_id": "rubyonrails",
+  "product_id": "rails",
+  "name": "Ruby on Rails",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "rails",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "rails",
+      "confidence": "auto"
+    }
+  ]
+}

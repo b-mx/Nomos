@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--pyxis-supplycenter-firmware",
+  "vendor_id": "bd",
+  "product_id": "pyxis-supplycenter-firmware",
+  "name": "Pyxis Supplycenter Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyxis_supplycenter_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

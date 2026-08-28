@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hummingbird--deployment-wizard",
+  "vendor_id": "hummingbird",
+  "product_id": "deployment-wizard",
+  "name": "Deployment Wizard",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "deployment_wizard",
+      "confidence": "auto"
+    }
+  ]
+}

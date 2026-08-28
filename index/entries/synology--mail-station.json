@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--mail-station",
+  "vendor_id": "synology",
+  "product_id": "mail-station",
+  "name": "Mail Station",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mail_station",
+      "confidence": "auto"
+    }
+  ]
+}

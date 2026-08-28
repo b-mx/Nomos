@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--linux-enterprise-module-for-containers",
+  "vendor_id": "suse",
+  "product_id": "linux-enterprise-module-for-containers",
+  "name": "Linux Enterprise Module For Containers",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux_enterprise_module_for_containers",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--directory-server",
+  "vendor_id": "synology",
+  "product_id": "directory-server",
+  "name": "Directory Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "directory_server",
+      "confidence": "auto"
+    }
+  ]
+}

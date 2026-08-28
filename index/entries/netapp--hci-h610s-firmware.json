@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--hci-h610s-firmware",
+  "vendor_id": "netapp",
+  "product_id": "hci-h610s-firmware",
+  "name": "Hci H610S Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hci_h610s_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

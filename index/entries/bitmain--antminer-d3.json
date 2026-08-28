@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bitmain--antminer-d3",
+  "vendor_id": "bitmain",
+  "product_id": "antminer-d3",
+  "name": "Antminer D3",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "antminer_d3",
+      "confidence": "auto"
+    }
+  ]
+}

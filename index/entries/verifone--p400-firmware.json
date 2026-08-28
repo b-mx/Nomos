@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "verifone--p400-firmware",
+  "vendor_id": "verifone",
+  "product_id": "p400-firmware",
+  "name": "P400 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "p400_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

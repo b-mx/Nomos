@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "protocol--yamux",
+  "vendor_id": "protocol",
+  "product_id": "yamux",
+  "name": "Yamux",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "yamux",
+      "confidence": "auto"
+    }
+  ]
+}

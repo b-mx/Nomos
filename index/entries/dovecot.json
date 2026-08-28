@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "dovecot",
+  "vendor_id": "dovecot",
+  "name": "Dovecot",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dovecot",
+      "confidence": "auto"
+    }
+  ]
+}

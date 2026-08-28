@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "clickhouse",
+  "vendor_id": "clickhouse",
+  "name": "ClickHouse",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "clickhouse",
+      "confidence": "auto"
+    }
+  ]
+}

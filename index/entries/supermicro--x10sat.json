@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x10sat",
+  "vendor_id": "supermicro",
+  "product_id": "x10sat",
+  "name": "X10Sat",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x10sat",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "truenas",
+  "vendor_id": "truenas",
+  "name": "TrueNAS",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "truenas",
+      "confidence": "auto"
+    }
+  ]
+}

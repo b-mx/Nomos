@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--nexus-2128-firmware",
+  "vendor_id": "abb",
+  "product_id": "nexus-2128-firmware",
+  "name": "Nexus-2128 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nexus-2128_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

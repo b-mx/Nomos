@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "meinbergglobal--lantime-firmware",
+  "vendor_id": "meinbergglobal",
+  "product_id": "lantime-firmware",
+  "name": "Lantime Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lantime_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

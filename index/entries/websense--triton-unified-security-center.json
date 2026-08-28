@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "websense--triton-unified-security-center",
+  "vendor_id": "websense",
+  "product_id": "triton-unified-security-center",
+  "name": "Triton Unified Security Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "triton_unified_security_center",
+      "confidence": "auto"
+    }
+  ]
+}

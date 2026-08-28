@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "barracuda--load-balancer-adc-firmware",
+  "vendor_id": "barracuda",
+  "product_id": "load-balancer-adc-firmware",
+  "name": "Load Balancer Adc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "load_balancer_adc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

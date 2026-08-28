@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--cray-ex-supercomputers",
+  "vendor_id": "hpe",
+  "product_id": "cray-ex-supercomputers",
+  "name": "Cray Ex Supercomputers",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cray_ex_supercomputers",
+      "confidence": "auto"
+    }
+  ]
+}

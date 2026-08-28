@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--kdelibs",
+  "vendor_id": "kde",
+  "product_id": "kdelibs",
+  "name": "Kdelibs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kdelibs",
+      "confidence": "auto"
+    }
+  ]
+}

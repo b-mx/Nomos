@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wago--cc100-firmware",
+  "vendor_id": "wago",
+  "product_id": "cc100-firmware",
+  "name": "Cc100 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cc100_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

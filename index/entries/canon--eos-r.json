@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canon--eos-r",
+  "vendor_id": "canon",
+  "product_id": "eos-r",
+  "name": "Eos R",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eos_r",
+      "confidence": "auto"
+    }
+  ]
+}

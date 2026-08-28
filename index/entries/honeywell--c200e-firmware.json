@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--c200e-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "c200e-firmware",
+  "name": "C200E Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c200e_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

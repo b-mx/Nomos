@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "windows-nano-server--windows-nano-server",
+  "vendor_id": "windows-nano-server",
+  "product_id": "windows-nano-server",
+  "name": "Microsoft Nano Server",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "windows-nano-server",
+      "confidence": "auto"
+    }
+  ]
+}

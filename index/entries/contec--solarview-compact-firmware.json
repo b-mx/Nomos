@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "contec--solarview-compact-firmware",
+  "vendor_id": "contec",
+  "product_id": "solarview-compact-firmware",
+  "name": "Solarview Compact Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "solarview_compact_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

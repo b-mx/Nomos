@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--deeplearning4j",
+  "vendor_id": "eclipse",
+  "product_id": "deeplearning4j",
+  "name": "Deeplearning4J",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "deeplearning4j",
+      "confidence": "auto"
+    }
+  ]
+}

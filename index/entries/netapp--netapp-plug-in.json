@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--netapp-plug-in",
+  "vendor_id": "netapp",
+  "product_id": "netapp-plug-in",
+  "name": "Netapp Plug-In",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "netapp_plug-in",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freebsd--fetch",
+  "vendor_id": "freebsd",
+  "product_id": "fetch",
+  "name": "Fetch",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fetch",
+      "confidence": "auto"
+    }
+  ]
+}

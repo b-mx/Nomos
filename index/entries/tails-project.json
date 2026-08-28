@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "tails-project",
+  "vendor_id": "tails-project",
+  "name": "Tails Project",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tails_project",
+      "confidence": "auto"
+    }
+  ]
+}

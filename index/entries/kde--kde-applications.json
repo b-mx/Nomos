@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--kde-applications",
+  "vendor_id": "kde",
+  "product_id": "kde-applications",
+  "name": "Kde Applications",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kde_applications",
+      "confidence": "auto"
+    }
+  ]
+}

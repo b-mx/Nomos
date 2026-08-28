@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--lenovoemc-firmware",
+  "vendor_id": "lenovo",
+  "product_id": "lenovoemc-firmware",
+  "name": "Lenovoemc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lenovoemc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

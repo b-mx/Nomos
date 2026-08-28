@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--motion-control-setting",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "motion-control-setting",
+  "name": "Motion Control Setting",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "motion_control_setting",
+      "confidence": "auto"
+    }
+  ]
+}

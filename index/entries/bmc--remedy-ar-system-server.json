@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--remedy-ar-system-server",
+  "vendor_id": "bmc",
+  "product_id": "remedy-ar-system-server",
+  "name": "Remedy Ar System Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remedy_ar_system_server",
+      "confidence": "auto"
+    }
+  ]
+}

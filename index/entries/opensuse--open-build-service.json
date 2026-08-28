@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--open-build-service",
+  "vendor_id": "opensuse",
+  "product_id": "open-build-service",
+  "name": "Open Build Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "open_build_service",
+      "confidence": "auto"
+    }
+  ]
+}

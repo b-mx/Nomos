@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microsoft--remote-desktop-services",
+  "vendor_id": "microsoft",
+  "product_id": "remote-desktop-services",
+  "name": "Remote Desktop Services",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Remote Desktop Services",
+      "confidence": "auto"
+    }
+  ]
+}

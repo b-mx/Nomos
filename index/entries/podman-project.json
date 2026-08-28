@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "podman-project",
+  "vendor_id": "podman-project",
+  "name": "Podman Project",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "podman_project",
+      "confidence": "auto"
+    }
+  ]
+}

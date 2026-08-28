@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rockwellautomation--compactlogix-firmware",
+  "vendor_id": "rockwellautomation",
+  "product_id": "compactlogix-firmware",
+  "name": "Compactlogix Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "compactlogix_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

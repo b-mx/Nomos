@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "sqlite--sqlite",
+  "vendor_id": "sqlite",
+  "product_id": "sqlite",
+  "name": "SQLite",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "sqlite",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "sqlite",
+      "confidence": "auto"
+    }
+  ]
+}

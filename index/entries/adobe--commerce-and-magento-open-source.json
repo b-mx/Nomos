@@ -5,21 +5,14 @@
   "product_id": "commerce-and-magento-open-source",
   "name": "Commerce and Magento Open Source",
   "type": "software",
-  "tags": [
-    "ecommerce"
-  ],
-  "icon": "logos:adobe-icon",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Commerce and Magento Open Source",
-      "confidence": "curated"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "Commerce and\u202fMagento",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

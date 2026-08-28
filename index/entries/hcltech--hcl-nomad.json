@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hcltech--hcl-nomad",
+  "vendor_id": "hcltech",
+  "product_id": "hcl-nomad",
+  "name": "Hcl Nomad",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hcl_nomad",
+      "confidence": "auto"
+    }
+  ]
+}

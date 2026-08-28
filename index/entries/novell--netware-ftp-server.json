@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--netware-ftp-server",
+  "vendor_id": "novell",
+  "product_id": "netware-ftp-server",
+  "name": "Netware Ftp Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "netware_ftp_server",
+      "confidence": "auto"
+    }
+  ]
+}

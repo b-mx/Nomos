@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "okta--ldap-agent",
+  "vendor_id": "okta",
+  "product_id": "ldap-agent",
+  "name": "Ldap Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ldap_agent",
+      "confidence": "auto"
+    }
+  ]
+}

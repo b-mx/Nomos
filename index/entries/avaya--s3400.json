@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--s3400",
+  "vendor_id": "avaya",
+  "product_id": "s3400",
+  "name": "S3400",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "s3400",
+      "confidence": "auto"
+    }
+  ]
+}

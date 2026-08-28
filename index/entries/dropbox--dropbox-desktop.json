@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "dropbox--dropbox-desktop",
+  "vendor_id": "dropbox",
+  "product_id": "dropbox-desktop",
+  "name": "Dropbox Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dropbox_desktop",
+      "confidence": "auto"
+    }
+  ]
+}

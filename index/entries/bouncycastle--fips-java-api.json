@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bouncycastle--fips-java-api",
+  "vendor_id": "bouncycastle",
+  "product_id": "fips-java-api",
+  "name": "Fips Java Api",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fips_java_api",
+      "confidence": "auto"
+    }
+  ]
+}

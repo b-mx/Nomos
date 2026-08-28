@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "autodesk--installer",
+  "vendor_id": "autodesk",
+  "product_id": "installer",
+  "name": "Installer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "installer",
+      "confidence": "auto"
+    }
+  ]
+}

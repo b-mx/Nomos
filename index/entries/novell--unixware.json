@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--unixware",
+  "vendor_id": "novell",
+  "product_id": "unixware",
+  "name": "Unixware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unixware",
+      "confidence": "auto"
+    }
+  ]
+}

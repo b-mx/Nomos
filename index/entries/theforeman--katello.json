@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "theforeman--katello",
+  "vendor_id": "theforeman",
+  "product_id": "katello",
+  "name": "Katello",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "katello",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--apache",
+  "vendor_id": "debian",
+  "product_id": "apache",
+  "name": "Apache",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apache",
+      "confidence": "auto"
+    }
+  ]
+}

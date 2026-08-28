@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freedesktop--systemd",
+  "vendor_id": "freedesktop",
+  "product_id": "systemd",
+  "name": "Systemd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "systemd",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--ioadmin-firmware",
+  "vendor_id": "moxa",
+  "product_id": "ioadmin-firmware",
+  "name": "Ioadmin Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ioadmin_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

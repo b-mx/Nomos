@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "woocommerce--paypal-checkout-payment-gateway",
+  "vendor_id": "woocommerce",
+  "product_id": "paypal-checkout-payment-gateway",
+  "name": "Paypal Checkout Payment Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "paypal_checkout_payment_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

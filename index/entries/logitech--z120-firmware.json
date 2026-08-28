@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "logitech--z120-firmware",
+  "vendor_id": "logitech",
+  "product_id": "z120-firmware",
+  "name": "Z120 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "z120_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x10dgo-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x10dgo-firmware",
+  "name": "X10Dgo Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x10dgo_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

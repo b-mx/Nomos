@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "parallels--remote-application-server",
+  "vendor_id": "parallels",
+  "product_id": "remote-application-server",
+  "name": "Remote Application Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remote_application_server",
+      "confidence": "auto"
+    }
+  ]
+}

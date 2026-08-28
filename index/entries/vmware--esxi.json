@@ -4,17 +4,15 @@
   "vendor_id": "vmware",
   "product_id": "esxi",
   "name": "ESXi",
-  "type": "os",
-  "tags": [
-    "virtualization"
-  ],
-  "icon": "carbon:logo-vmware-alt",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "ESXi",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

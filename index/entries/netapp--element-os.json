@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--element-os",
+  "vendor_id": "netapp",
+  "product_id": "element-os",
+  "name": "Element Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "element_os",
+      "confidence": "auto"
+    }
+  ]
+}

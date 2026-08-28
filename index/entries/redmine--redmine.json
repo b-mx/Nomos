@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "redmine--redmine",
+  "vendor_id": "redmine",
+  "product_id": "redmine",
+  "name": "Redmine",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "redmine",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "redmine",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--video-station",
+  "vendor_id": "synology",
+  "product_id": "video-station",
+  "name": "Video Station",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "video_station",
+      "confidence": "auto"
+    }
+  ]
+}

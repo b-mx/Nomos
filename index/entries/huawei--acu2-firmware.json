@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--acu2-firmware",
+  "vendor_id": "huawei",
+  "product_id": "acu2-firmware",
+  "name": "Acu2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "acu2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

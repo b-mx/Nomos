@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iptime--a3003ns-firmware",
+  "vendor_id": "iptime",
+  "product_id": "a3003ns-firmware",
+  "name": "A3003Ns Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a3003ns_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

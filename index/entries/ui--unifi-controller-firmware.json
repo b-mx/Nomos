@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-controller-firmware",
+  "vendor_id": "ui",
+  "product_id": "unifi-controller-firmware",
+  "name": "Unifi Controller Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_controller_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

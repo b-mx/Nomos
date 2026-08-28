@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linksys--wrt54gl-firmware",
+  "vendor_id": "linksys",
+  "product_id": "wrt54gl-firmware",
+  "name": "Wrt54Gl Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wrt54gl_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

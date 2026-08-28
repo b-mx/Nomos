@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phoenixcontact--valueline-ipc-firmware",
+  "vendor_id": "phoenixcontact",
+  "product_id": "valueline-ipc-firmware",
+  "name": "Valueline Ipc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "valueline_ipc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

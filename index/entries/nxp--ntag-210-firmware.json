@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nxp--ntag-210-firmware",
+  "vendor_id": "nxp",
+  "product_id": "ntag-210-firmware",
+  "name": "Ntag 210 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ntag_210_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

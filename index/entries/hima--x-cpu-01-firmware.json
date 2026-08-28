@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hima--x-cpu-01-firmware",
+  "vendor_id": "hima",
+  "product_id": "x-cpu-01-firmware",
+  "name": "X-Cpu 01 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x-cpu_01_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

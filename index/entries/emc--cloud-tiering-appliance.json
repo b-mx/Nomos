@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--cloud-tiering-appliance",
+  "vendor_id": "emc",
+  "product_id": "cloud-tiering-appliance",
+  "name": "Cloud Tiering Appliance",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_tiering_appliance",
+      "confidence": "auto"
+    }
+  ]
+}

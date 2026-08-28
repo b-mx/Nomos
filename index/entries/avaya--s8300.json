@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--s8300",
+  "vendor_id": "avaya",
+  "product_id": "s8300",
+  "name": "S8300",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "s8300",
+      "confidence": "auto"
+    }
+  ]
+}

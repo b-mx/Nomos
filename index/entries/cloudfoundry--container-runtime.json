@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--container-runtime",
+  "vendor_id": "cloudfoundry",
+  "product_id": "container-runtime",
+  "name": "Container Runtime",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "container_runtime",
+      "confidence": "auto"
+    }
+  ]
+}

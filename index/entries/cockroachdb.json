@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "cockroachdb",
+  "vendor_id": "cockroachdb",
+  "name": "CockroachDB",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "cockroachdb",
+      "confidence": "auto"
+    }
+  ]
+}

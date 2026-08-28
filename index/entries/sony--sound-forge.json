@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sony--sound-forge",
+  "vendor_id": "sony",
+  "product_id": "sound-forge",
+  "name": "Sound Forge",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sound_forge",
+      "confidence": "auto"
+    }
+  ]
+}

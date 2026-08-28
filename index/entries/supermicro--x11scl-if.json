@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11scl-if",
+  "vendor_id": "supermicro",
+  "product_id": "x11scl-if",
+  "name": "X11Scl-If",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11scl-if",
+      "confidence": "auto"
+    }
+  ]
+}

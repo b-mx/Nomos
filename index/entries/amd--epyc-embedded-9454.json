@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-embedded-9454",
+  "vendor_id": "amd",
+  "product_id": "epyc-embedded-9454",
+  "name": "Epyc Embedded 9454",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_embedded_9454",
+      "confidence": "auto"
+    }
+  ]
+}

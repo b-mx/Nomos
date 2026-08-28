@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--pyxis-pharmopack-firmware",
+  "vendor_id": "bd",
+  "product_id": "pyxis-pharmopack-firmware",
+  "name": "Pyxis Pharmopack Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyxis_pharmopack_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

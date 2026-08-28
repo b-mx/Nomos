@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--slmp-data-collector",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "slmp-data-collector",
+  "name": "Slmp Data Collector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "slmp_data_collector",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--suse-linux-connectivity-server",
+  "vendor_id": "suse",
+  "product_id": "suse-linux-connectivity-server",
+  "name": "Suse Linux Connectivity Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_linux_connectivity_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--elite-slice-firmware",
+  "vendor_id": "hp",
+  "product_id": "elite-slice-firmware",
+  "name": "Elite Slice Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "elite_slice_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

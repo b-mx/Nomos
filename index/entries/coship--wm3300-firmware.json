@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "coship--wm3300-firmware",
+  "vendor_id": "coship",
+  "product_id": "wm3300-firmware",
+  "name": "Wm3300 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wm3300_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

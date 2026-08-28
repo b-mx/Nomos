@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--sysconfig",
+  "vendor_id": "opensuse",
+  "product_id": "sysconfig",
+  "name": "Sysconfig",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sysconfig",
+      "confidence": "auto"
+    }
+  ]
+}

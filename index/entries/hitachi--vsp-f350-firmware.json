@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachi--vsp-f350-firmware",
+  "vendor_id": "hitachi",
+  "product_id": "vsp-f350-firmware",
+  "name": "Vsp F350 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vsp_f350_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

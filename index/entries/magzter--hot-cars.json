@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "magzter--hot-cars",
+  "vendor_id": "magzter",
+  "product_id": "hot-cars",
+  "name": "Hot Cars",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hot_cars",
+      "confidence": "auto"
+    }
+  ]
+}

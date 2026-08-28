@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "blackbox--alertwerks-servsensor-junior-firmware",
+  "vendor_id": "blackbox",
+  "product_id": "alertwerks-servsensor-junior-firmware",
+  "name": "Alertwerks Servsensor Junior Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alertwerks_servsensor_junior_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

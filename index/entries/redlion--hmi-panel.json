@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "redlion--hmi-panel",
+  "vendor_id": "redlion",
+  "product_id": "hmi-panel",
+  "name": "Hmi Panel",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hmi_panel",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -4,17 +4,15 @@
   "vendor_id": "android",
   "product_id": "android-kernel",
   "name": "Android Kernel",
-  "type": "os",
-  "tags": [
-    "operating-system"
-  ],
-  "icon": "logos:android-icon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Android Kernel",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rockwellautomation--controllogix-l55-controller-firmware",
+  "vendor_id": "rockwellautomation",
+  "product_id": "controllogix-l55-controller-firmware",
+  "name": "Controllogix L55 Controller Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "controllogix_l55_controller_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

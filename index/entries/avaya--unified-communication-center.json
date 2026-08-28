@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--unified-communication-center",
+  "vendor_id": "avaya",
+  "product_id": "unified-communication-center",
+  "name": "Unified Communication Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unified_communication_center",
+      "confidence": "auto"
+    }
+  ]
+}

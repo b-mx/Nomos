@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--ubuntu-pipewire-pulse",
+  "vendor_id": "canonical",
+  "product_id": "ubuntu-pipewire-pulse",
+  "name": "Ubuntu Pipewire-Pulse",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ubuntu_pipewire-pulse",
+      "confidence": "auto"
+    }
+  ]
+}

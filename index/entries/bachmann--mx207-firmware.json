@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bachmann--mx207-firmware",
+  "vendor_id": "bachmann",
+  "product_id": "mx207-firmware",
+  "name": "Mx207 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mx207_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

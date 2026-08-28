@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emerson--deltav-workstation",
+  "vendor_id": "emerson",
+  "product_id": "deltav-workstation",
+  "name": "Deltav Workstation",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "deltav_workstation",
+      "confidence": "auto"
+    }
+  ]
+}

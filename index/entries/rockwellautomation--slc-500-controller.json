@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rockwellautomation--slc-500-controller",
+  "vendor_id": "rockwellautomation",
+  "product_id": "slc-500-controller",
+  "name": "Slc 500 Controller",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "slc_500_controller",
+      "confidence": "auto"
+    }
+  ]
+}

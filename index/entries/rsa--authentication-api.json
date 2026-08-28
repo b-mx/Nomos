@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--authentication-api",
+  "vendor_id": "rsa",
+  "product_id": "authentication-api",
+  "name": "Authentication Api",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "authentication_api",
+      "confidence": "auto"
+    }
+  ]
+}

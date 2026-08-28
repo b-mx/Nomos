@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--rsa-netwitness",
+  "vendor_id": "emc",
+  "product_id": "rsa-netwitness",
+  "name": "Rsa Netwitness",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rsa_netwitness",
+      "confidence": "auto"
+    }
+  ]
+}

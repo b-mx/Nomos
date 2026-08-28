@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--extra-packages-for-enterprise-linux",
+  "vendor_id": "fedoraproject",
+  "product_id": "extra-packages-for-enterprise-linux",
+  "name": "Extra Packages For Enterprise Linux",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "extra_packages_for_enterprise_linux",
+      "confidence": "auto"
+    }
+  ]
+}

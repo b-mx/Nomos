@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--container-network-interface",
+  "vendor_id": "linuxfoundation",
+  "product_id": "container-network-interface",
+  "name": "Container Network Interface",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "container_network_interface",
+      "confidence": "auto"
+    }
+  ]
+}

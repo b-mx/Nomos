@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "codesys--opc-server",
+  "vendor_id": "codesys",
+  "product_id": "opc-server",
+  "name": "Opc Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opc_server",
+      "confidence": "auto"
+    }
+  ]
+}

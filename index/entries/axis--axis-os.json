@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--axis-os",
+  "vendor_id": "axis",
+  "product_id": "axis-os",
+  "name": "Axis Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "axis_os",
+      "confidence": "auto"
+    }
+  ]
+}

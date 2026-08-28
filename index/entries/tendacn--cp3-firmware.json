@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tendacn--cp3-firmware",
+  "vendor_id": "tendacn",
+  "product_id": "cp3-firmware",
+  "name": "Cp3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cp3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

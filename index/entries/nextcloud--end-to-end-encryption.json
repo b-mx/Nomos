@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--end-to-end-encryption",
+  "vendor_id": "nextcloud",
+  "product_id": "end-to-end-encryption",
+  "name": "End-To-End Encryption",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "end-to-end_encryption",
+      "confidence": "auto"
+    }
+  ]
+}

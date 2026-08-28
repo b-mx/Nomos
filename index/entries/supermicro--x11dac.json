@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11dac",
+  "vendor_id": "supermicro",
+  "product_id": "x11dac",
+  "name": "X11Dac",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11dac",
+      "confidence": "auto"
+    }
+  ]
+}

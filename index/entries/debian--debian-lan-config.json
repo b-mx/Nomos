@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--debian-lan-config",
+  "vendor_id": "debian",
+  "product_id": "debian-lan-config",
+  "name": "Debian-Lan-Config",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "debian-lan-config",
+      "confidence": "auto"
+    }
+  ]
+}

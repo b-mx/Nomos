@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "tails-project--tails",
+  "vendor_id": "tails-project",
+  "product_id": "tails",
+  "name": "Tails",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "tails",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "tails",
+      "confidence": "auto"
+    }
+  ]
+}

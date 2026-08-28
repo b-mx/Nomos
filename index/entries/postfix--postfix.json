@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "postfix--postfix",
+  "vendor_id": "postfix",
+  "product_id": "postfix",
+  "name": "Postfix",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "postfix",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "postfix",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--designjet-z6-firmware",
+  "vendor_id": "hp",
+  "product_id": "designjet-z6-firmware",
+  "name": "Designjet Z6 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "designjet_z6_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

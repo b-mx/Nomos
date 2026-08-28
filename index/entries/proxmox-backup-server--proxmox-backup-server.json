@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "proxmox-backup-server--proxmox-backup-server",
+  "vendor_id": "proxmox-backup-server",
+  "product_id": "proxmox-backup-server",
+  "name": "Proxmox Backup Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "proxmox-backup-server",
+      "confidence": "auto"
+    }
+  ]
+}

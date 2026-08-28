@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7402",
+  "vendor_id": "amd",
+  "product_id": "epyc-7402",
+  "name": "Epyc 7402",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7402",
+      "confidence": "auto"
+    }
+  ]
+}

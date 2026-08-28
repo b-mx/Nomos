@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--opendaylight",
+  "vendor_id": "linuxfoundation",
+  "product_id": "opendaylight",
+  "name": "Opendaylight",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opendaylight",
+      "confidence": "auto"
+    }
+  ]
+}

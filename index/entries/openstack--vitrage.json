@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--vitrage",
+  "vendor_id": "openstack",
+  "product_id": "vitrage",
+  "name": "Vitrage",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vitrage",
+      "confidence": "auto"
+    }
+  ]
+}

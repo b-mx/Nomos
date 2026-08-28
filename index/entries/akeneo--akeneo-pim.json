@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "akeneo--akeneo-pim",
+  "vendor_id": "akeneo",
+  "product_id": "akeneo-pim",
+  "name": "Akeneo PIM",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "akeneo-pim",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "product_information_management",
+      "confidence": "auto"
+    }
+  ]
+}

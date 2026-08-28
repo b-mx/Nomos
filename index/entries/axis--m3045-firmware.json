@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--m3045-firmware",
+  "vendor_id": "axis",
+  "product_id": "m3045-firmware",
+  "name": "M3045 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m3045_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

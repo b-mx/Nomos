@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ssh--tectia-connector",
+  "vendor_id": "ssh",
+  "product_id": "tectia-connector",
+  "name": "Tectia Connector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tectia_connector",
+      "confidence": "auto"
+    }
+  ]
+}

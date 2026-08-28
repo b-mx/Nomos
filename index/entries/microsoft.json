@@ -3,17 +3,12 @@
   "slug": "microsoft",
   "vendor_id": "microsoft",
   "name": "Microsoft",
-  "icon": "logos:microsoft-icon",
+  "icon": null,
   "aliases": [
     {
-      "source": "nvd",
-      "value": "microsoft",
-      "confidence": "curated"
-    },
-    {
       "source": "cisa_kev",
-      "value": "Microsoft Corporation",
-      "confidence": "curated"
+      "value": "Microsoft",
+      "confidence": "auto"
     }
   ]
 }

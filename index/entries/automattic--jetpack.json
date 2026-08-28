@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "automattic--jetpack",
+  "vendor_id": "automattic",
+  "product_id": "jetpack",
+  "name": "Jetpack",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jetpack",
+      "confidence": "auto"
+    }
+  ]
+}

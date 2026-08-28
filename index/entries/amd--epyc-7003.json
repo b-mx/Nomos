@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7003",
+  "vendor_id": "amd",
+  "product_id": "epyc-7003",
+  "name": "Epyc 7003",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7003",
+      "confidence": "auto"
+    }
+  ]
+}

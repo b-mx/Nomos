@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "festo--bus-node-cpx-fb32-firmware",
+  "vendor_id": "festo",
+  "product_id": "bus-node-cpx-fb32-firmware",
+  "name": "Bus Node Cpx-Fb32 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bus_node_cpx-fb32_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

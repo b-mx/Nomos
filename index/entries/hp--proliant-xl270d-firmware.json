@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-xl270d-firmware",
+  "vendor_id": "hp",
+  "product_id": "proliant-xl270d-firmware",
+  "name": "Proliant Xl270D Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_xl270d_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

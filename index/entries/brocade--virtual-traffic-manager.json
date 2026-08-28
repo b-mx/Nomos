@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "brocade--virtual-traffic-manager",
+  "vendor_id": "brocade",
+  "product_id": "virtual-traffic-manager",
+  "name": "Virtual Traffic Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "virtual_traffic_manager",
+      "confidence": "auto"
+    }
+  ]
+}

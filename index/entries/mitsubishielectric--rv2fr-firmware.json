@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--rv2fr-firmware",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "rv2fr-firmware",
+  "name": "Rv2Fr Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rv2fr_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

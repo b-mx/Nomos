@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--viper-lt-system-firmware",
+  "vendor_id": "bd",
+  "product_id": "viper-lt-system-firmware",
+  "name": "Viper Lt System Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "viper_lt_system_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

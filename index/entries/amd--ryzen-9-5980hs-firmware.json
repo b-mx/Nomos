@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-9-5980hs-firmware",
+  "vendor_id": "amd",
+  "product_id": "ryzen-9-5980hs-firmware",
+  "name": "Ryzen 9 5980Hs Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_9_5980hs_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

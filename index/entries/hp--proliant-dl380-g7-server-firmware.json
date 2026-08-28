@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-dl380-g7-server-firmware",
+  "vendor_id": "hp",
+  "product_id": "proliant-dl380-g7-server-firmware",
+  "name": "Proliant Dl380 G7 Server Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_dl380_g7_server_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

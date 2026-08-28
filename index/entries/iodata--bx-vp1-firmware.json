@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--bx-vp1-firmware",
+  "vendor_id": "iodata",
+  "product_id": "bx-vp1-firmware",
+  "name": "Bx-Vp1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bx-vp1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-3900xt",
+  "vendor_id": "amd",
+  "product_id": "ryzen-3900xt",
+  "name": "Ryzen 3900Xt",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_3900xt",
+      "confidence": "auto"
+    }
+  ]
+}

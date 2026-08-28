@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "h3c--h3cloud-os",
+  "vendor_id": "h3c",
+  "product_id": "h3cloud-os",
+  "name": "H3Cloud Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h3cloud_os",
+      "confidence": "auto"
+    }
+  ]
+}

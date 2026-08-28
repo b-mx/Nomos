@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "creative--pebble-v3-firmware",
+  "vendor_id": "creative",
+  "product_id": "pebble-v3-firmware",
+  "name": "Pebble V3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pebble_v3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

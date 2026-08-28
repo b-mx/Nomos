@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--instack-undercloud",
+  "vendor_id": "openstack",
+  "product_id": "instack-undercloud",
+  "name": "Instack-Undercloud",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "instack-undercloud",
+      "confidence": "auto"
+    }
+  ]
+}

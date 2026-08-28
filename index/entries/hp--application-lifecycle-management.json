@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--application-lifecycle-management",
+  "vendor_id": "hp",
+  "product_id": "application-lifecycle-management",
+  "name": "Application Lifecycle Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "application_lifecycle_management",
+      "confidence": "auto"
+    }
+  ]
+}

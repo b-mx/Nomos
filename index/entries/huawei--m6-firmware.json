@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--m6-firmware",
+  "vendor_id": "huawei",
+  "product_id": "m6-firmware",
+  "name": "M6 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m6_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

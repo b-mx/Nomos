@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--os-vif",
+  "vendor_id": "openstack",
+  "product_id": "os-vif",
+  "name": "Os-Vif",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "os-vif",
+      "confidence": "auto"
+    }
+  ]
+}

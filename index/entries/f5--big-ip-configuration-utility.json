@@ -4,11 +4,9 @@
   "vendor_id": "f5",
   "product_id": "big-ip-configuration-utility",
   "name": "BIG-IP Configuration Utility",
-  "type": "appliance",
-  "tags": [
-    "load-balancer"
-  ],
-  "icon": "simple-icons:f5",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

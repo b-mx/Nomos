@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "github--codeql-action",
+  "vendor_id": "github",
+  "product_id": "codeql-action",
+  "name": "Codeql Action",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "codeql_action",
+      "confidence": "auto"
+    }
+  ]
+}

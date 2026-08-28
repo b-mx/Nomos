@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "logitech--k750-firmware",
+  "vendor_id": "logitech",
+  "product_id": "k750-firmware",
+  "name": "K750 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "k750_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

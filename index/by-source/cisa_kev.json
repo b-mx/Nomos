@@ -7,7 +7,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "7-Zip",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -62,7 +62,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Adobe",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -128,18 +128,18 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Android",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "vendor",
     "vendor_id": "apache",
     "product_id": null,
-    "name": "Apache Software Foundation",
+    "name": "Apache",
     "alias": {
       "source": "cisa_kev",
       "value": "Apache",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -150,7 +150,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Apple",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -249,7 +249,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Atlassian",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -304,7 +304,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "BerriAI",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -337,7 +337,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Broadcom",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -392,7 +392,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Cisco",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -518,6 +518,17 @@
   },
   {
     "canonical_type": "vendor",
+    "vendor_id": "d-link-and-trendnet",
+    "product_id": null,
+    "name": "D-Link and TRENDnet",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "D-Link and TRENDnet",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
     "vendor_id": "daemon",
     "product_id": null,
     "name": "Daemon",
@@ -573,6 +584,17 @@
   },
   {
     "canonical_type": "vendor",
+    "vendor_id": "dell",
+    "product_id": null,
+    "name": "Dell",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Dell",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
     "vendor_id": "delta-electronics",
     "product_id": null,
     "name": "Delta Electronics",
@@ -590,6 +612,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Digiever",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "docker",
+    "product_id": null,
+    "name": "Docker",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Docker",
       "confidence": "auto"
     }
   },
@@ -744,7 +777,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Fortinet",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -1057,17 +1090,6 @@
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "ivanti",
-    "product_id": null,
-    "name": "Ivanti",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "Pulse Secure",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "vendor",
     "vendor_id": "jenkins",
     "product_id": null,
     "name": "Jenkins",
@@ -1354,9 +1376,9 @@
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "meta",
+    "vendor_id": "meta-platforms",
     "product_id": null,
-    "name": "Meta",
+    "name": "Meta Platforms",
     "alias": {
       "source": "cisa_kev",
       "value": "Meta Platforms",
@@ -1392,8 +1414,8 @@
     "name": "Microsoft",
     "alias": {
       "source": "cisa_kev",
-      "value": "Microsoft Corporation",
-      "confidence": "curated"
+      "value": "Microsoft",
+      "confidence": "auto"
     }
   },
   {
@@ -1706,6 +1728,17 @@
   },
   {
     "canonical_type": "vendor",
+    "vendor_id": "openssl",
+    "product_id": null,
+    "name": "OpenSSL",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "OpenSSL",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
     "vendor_id": "oracle",
     "product_id": null,
     "name": "Oracle",
@@ -1805,9 +1838,9 @@
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "php",
+    "vendor_id": "php-group",
     "product_id": null,
-    "name": "PHP",
+    "name": "PHP Group",
     "alias": {
       "source": "cisa_kev",
       "value": "PHP Group",
@@ -1937,6 +1970,17 @@
   },
   {
     "canonical_type": "vendor",
+    "vendor_id": "pulse-secure",
+    "product_id": null,
+    "name": "Pulse Secure",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Pulse Secure",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
     "vendor_id": "qlik",
     "product_id": null,
     "name": "Qlik",
@@ -1959,9 +2003,9 @@
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "qnap",
+    "vendor_id": "qnap-systems",
     "product_id": null,
-    "name": "QNAP",
+    "name": "QNAP Systems",
     "alias": {
       "source": "cisa_kev",
       "value": "QNAP Systems",
@@ -2069,13 +2113,24 @@
   },
   {
     "canonical_type": "vendor",
-    "vendor_id": "redhat",
+    "vendor_id": "red-hat",
     "product_id": null,
     "name": "Red Hat",
     "alias": {
       "source": "cisa_kev",
       "value": "Red Hat",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "vendor",
+    "vendor_id": "redis",
+    "product_id": null,
+    "name": "Redis",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Redis",
+      "confidence": "auto"
     }
   },
   {
@@ -2240,7 +2295,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Siemens",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -2801,7 +2856,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "VMware",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -2911,7 +2966,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "WordPress",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -3032,7 +3087,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "7-Zip",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -3082,12 +3137,23 @@
   {
     "canonical_type": "product",
     "vendor_id": "adobe",
+    "product_id": "acrobat-and-reader",
+    "name": "Acrobat and Reader",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Acrobat and Reader",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "adobe",
     "product_id": "acrobat",
     "name": "Acrobat",
     "alias": {
       "source": "cisa_kev",
       "value": "Acrobat",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -3098,7 +3164,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "BlazeDS",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -3109,7 +3175,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "ColdFusion",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -3120,18 +3186,18 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Commerce and Magento Open Source",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
     "vendor_id": "adobe",
-    "product_id": "commerce-and-magento-open-source",
-    "name": "Commerce and Magento Open Source",
+    "product_id": "commerce-and-magento",
+    "name": "Commerce and\u202fMagento",
     "alias": {
       "source": "cisa_kev",
       "value": "Commerce and\u202fMagento",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -3142,7 +3208,18 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Experience Manager (AEM) Forms",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "adobe",
+    "product_id": "flash-player-and-air",
+    "name": "Flash Player and AIR",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Flash Player and AIR",
+      "confidence": "auto"
     }
   },
   {
@@ -3153,7 +3230,18 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Flash Player",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "adobe",
+    "product_id": "reader-and-acrobat",
+    "name": "Reader and Acrobat",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Reader and Acrobat",
+      "confidence": "auto"
     }
   },
   {
@@ -3164,7 +3252,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Reader",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -3230,7 +3318,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Android Kernel",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -3241,7 +3329,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Android OS",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -3252,7 +3340,29 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Framework",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "android",
+    "product_id": "kernel",
+    "name": "Kernel",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Kernel",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "android",
+    "product_id": "pixel",
+    "name": "Pixel",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Pixel",
+      "confidence": "auto"
     }
   },
   {
@@ -3263,7 +3373,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Runtime",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -3296,6 +3406,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Airflow",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apache",
+    "product_id": "apache",
+    "name": "Apache",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Apache",
       "confidence": "auto"
     }
   },
@@ -3368,12 +3489,12 @@
   {
     "canonical_type": "product",
     "vendor_id": "apache",
-    "product_id": "log4j",
-    "name": "Apache Log4j",
+    "product_id": "log4j2",
+    "name": "Log4j2",
     "alias": {
       "source": "cisa_kev",
-      "value": "Apache Log4j2",
-      "confidence": "curated"
+      "value": "Log4j2",
+      "confidence": "auto"
     }
   },
   {
@@ -3467,6 +3588,28 @@
   {
     "canonical_type": "product",
     "vendor_id": "apple",
+    "product_id": "ios-and-ipados",
+    "name": "iOS and iPadOS",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "iOS and iPadOS",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apple",
+    "product_id": "ios-and-macos",
+    "name": "iOS and macOS",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "iOS and macOS",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apple",
     "product_id": "ios",
     "name": "iOS",
     "alias": {
@@ -3478,11 +3621,33 @@
   {
     "canonical_type": "product",
     "vendor_id": "apple",
+    "product_id": "ipados",
+    "name": "iPadOS",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "iPadOS",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apple",
     "product_id": "macos",
     "name": "macOS",
     "alias": {
       "source": "cisa_kev",
       "value": "macOS",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "apple",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
       "confidence": "auto"
     }
   },
@@ -3643,6 +3808,17 @@
   {
     "canonical_type": "product",
     "vendor_id": "asus",
+    "product_id": "routers",
+    "name": "Routers",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Routers",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "asus",
     "product_id": "rt-ax55-routers",
     "name": "RT-AX55 Routers",
     "alias": {
@@ -3659,25 +3835,14 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Bitbucket Server and Data Center",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
     "vendor_id": "atlassian",
-    "product_id": "confluence",
-    "name": "Confluence",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "Atlassian Confluence",
-      "confidence": "curated"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "atlassian",
-    "product_id": "confluence",
-    "name": "Confluence",
+    "product_id": "confluence-data-center-and-server",
+    "name": "Confluence Data Center and Server",
     "alias": {
       "source": "cisa_kev",
       "value": "Confluence Data Center and Server",
@@ -3687,8 +3852,30 @@
   {
     "canonical_type": "product",
     "vendor_id": "atlassian",
-    "product_id": "confluence",
-    "name": "Confluence",
+    "product_id": "confluence-server-and-data-server",
+    "name": "Confluence Server and Data Server",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Confluence Server and Data Server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "atlassian",
+    "product_id": "confluence-server-data-center",
+    "name": "Confluence Server/Data Center",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Confluence Server/Data Center",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "atlassian",
+    "product_id": "confluence-server",
+    "name": "Confluence Server",
     "alias": {
       "source": "cisa_kev",
       "value": "Confluence Server",
@@ -3702,29 +3889,7 @@
     "name": "Confluence",
     "alias": {
       "source": "cisa_kev",
-      "value": "Confluence Server and Data Server",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "atlassian",
-    "product_id": "confluence",
-    "name": "Confluence",
-    "alias": {
-      "source": "cisa_kev",
       "value": "Confluence",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "atlassian",
-    "product_id": "confluence",
-    "name": "Confluence",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "Confluence Server/Data Center",
       "confidence": "auto"
     }
   },
@@ -3813,17 +3978,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "LiteLLM",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
     "vendor_id": "beyondtrust",
-    "product_id": "remote-support-rs-and-privileged-remote-access-pra",
-    "name": "Remote Support (RS) and Privileged Remote Access (PRA)",
+    "product_id": "privileged-remote-access-pra-and-remote-support-rs",
+    "name": "Privileged Remote Access (PRA) and Remote Support (RS)",
     "alias": {
       "source": "cisa_kev",
-      "value": "Remote Support (RS) and Privileged Remote Access (PRA)",
+      "value": "Privileged Remote Access (PRA) and Remote Support (RS)",
       "confidence": "auto"
     }
   },
@@ -3834,7 +3999,7 @@
     "name": "Remote Support (RS) and Privileged Remote Access (PRA)",
     "alias": {
       "source": "cisa_kev",
-      "value": "Privileged Remote Access (PRA) and Remote Support (RS)",
+      "value": "Remote Support (RS) and Privileged Remote Access (PRA)",
       "confidence": "auto"
     }
   },
@@ -3857,7 +4022,51 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Brocade Fabric OS",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "broadcom",
+    "product_id": "vmware-aria-operations-and-vmware-tools",
+    "name": "VMware Aria Operations and VMware Tools",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "VMware Aria Operations and VMware Tools",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "broadcom",
+    "product_id": "vmware-aria-operations",
+    "name": "VMware Aria Operations",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "VMware Aria Operations",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "broadcom",
+    "product_id": "vmware-vcenter-server",
+    "name": "VMware vCenter Server",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "VMware vCenter Server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "broadcom",
+    "product_id": "vmware-vcenter",
+    "name": "VMware vCenter",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "VMware vCenter",
+      "confidence": "auto"
     }
   },
   {
@@ -3929,23 +4138,34 @@
   {
     "canonical_type": "product",
     "vendor_id": "cisco",
-    "product_id": "anyconnect-secure",
-    "name": "AnyConnect Secure",
+    "product_id": "adaptive-security-appliance-asa-and-firepower-threat-defense-ftd",
+    "name": "Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",
     "alias": {
       "source": "cisa_kev",
-      "value": "AnyConnect Secure",
+      "value": "Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",
       "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
     "vendor_id": "cisco",
-    "product_id": "asa",
-    "name": "Cisco Adaptive Security Appliance (ASA)",
+    "product_id": "adaptive-security-appliance-asa",
+    "name": "Adaptive Security Appliance (ASA)",
     "alias": {
       "source": "cisa_kev",
-      "value": "Cisco Adaptive Security Appliance (ASA)",
-      "confidence": "curated"
+      "value": "Adaptive Security Appliance (ASA)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "anyconnect-secure",
+    "name": "AnyConnect Secure",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "AnyConnect Secure",
+      "confidence": "auto"
     }
   },
   {
@@ -3973,6 +4193,17 @@
   {
     "canonical_type": "product",
     "vendor_id": "cisco",
+    "product_id": "catalyst-sd-wan-controller-and-manager",
+    "name": "Catalyst SD-WAN Controller and Manager",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Catalyst SD-WAN Controller and Manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
     "product_id": "catalyst-sd-wan-manager",
     "name": "Catalyst SD-WAN Manager",
     "alias": {
@@ -3984,33 +4215,11 @@
   {
     "canonical_type": "product",
     "vendor_id": "cisco",
-    "product_id": "catalyst-sd-wan-manager",
-    "name": "Catalyst SD-WAN Manager",
+    "product_id": "catalyst-sd-wan",
+    "name": "Catalyst SD-WAN",
     "alias": {
       "source": "cisa_kev",
       "value": "Catalyst SD-WAN",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "cisco",
-    "product_id": "catalyst-sd-wan-manager",
-    "name": "Catalyst SD-WAN Manager",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "SD-WAN",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "cisco",
-    "product_id": "catalyst-sd-wan-manager",
-    "name": "Catalyst SD-WAN Manager",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "Catalyst SD-WAN Controller and Manager",
       "confidence": "auto"
     }
   },
@@ -4022,17 +4231,6 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Cisco IOS XE Web UI",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "cisco",
-    "product_id": "cisco-ios-xe-web-ui",
-    "name": "Cisco IOS XE Web UI",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "IOS XE Web UI",
       "confidence": "auto"
     }
   },
@@ -4072,6 +4270,72 @@
   {
     "canonical_type": "product",
     "vendor_id": "cisco",
+    "product_id": "ios-and-ios-xe-software",
+    "name": "IOS and IOS XE Software",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "IOS and IOS XE Software",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "ios-and-ios-xe",
+    "name": "IOS and IOS XE",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "IOS and IOS XE",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "ios-software-and-cisco-ios-xe-software",
+    "name": "IOS Software and Cisco IOS XE Software",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "IOS Software and Cisco IOS XE Software",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "ios-software",
+    "name": "IOS Software",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "IOS Software",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "ios-xe-web-ui",
+    "name": "IOS XE Web UI",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "IOS XE Web UI",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "ios-xe",
+    "name": "IOS XE",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "IOS XE",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
     "product_id": "ios-xr",
     "name": "IOS XR",
     "alias": {
@@ -4084,11 +4348,22 @@
     "canonical_type": "product",
     "vendor_id": "cisco",
     "product_id": "ios",
-    "name": "Cisco IOS",
+    "name": "IOS",
     "alias": {
       "source": "cisa_kev",
-      "value": "Cisco IOS",
-      "confidence": "curated"
+      "value": "IOS",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
+      "confidence": "auto"
     }
   },
   {
@@ -4110,6 +4385,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Prime Data Center Network Manager (DCNM)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "rv-series-routers",
+    "name": "RV Series Routers",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "RV Series Routers",
       "confidence": "auto"
     }
   },
@@ -4138,11 +4424,33 @@
   {
     "canonical_type": "product",
     "vendor_id": "cisco",
+    "product_id": "sd-wan",
+    "name": "SD-WAN",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "SD-WAN",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
     "product_id": "secure-access-control-system-acs",
     "name": "Secure Access Control System (ACS)",
     "alias": {
       "source": "cisa_kev",
       "value": "Secure Access Control System (ACS)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "secure-firewall-adaptive-security-appliance-asa-and-secure-firewall-threat-defense-ftd",
+    "name": "Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)",
       "confidence": "auto"
     }
   },
@@ -4171,17 +4479,6 @@
   {
     "canonical_type": "product",
     "vendor_id": "cisco",
-    "product_id": "small-business-rv-series-routers",
-    "name": "Small Business RV Series Routers",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "RV Series Routers",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "cisco",
     "product_id": "small-business-rv160",
     "name": "Small Business RV160",
     "alias": {
@@ -4204,8 +4501,8 @@
   {
     "canonical_type": "product",
     "vendor_id": "cisco",
-    "product_id": "small-business-rv320-and-rv325-dual-gigabit-wan-vpn-routers",
-    "name": "Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers",
+    "product_id": "small-business-rv320-and-rv325-routers",
+    "name": "Small Business RV320 and RV325 Routers",
     "alias": {
       "source": "cisa_kev",
       "value": "Small Business RV320 and RV325 Routers",
@@ -4236,12 +4533,56 @@
   },
   {
     "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "vpn-routers",
+    "name": "VPN Routers",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "VPN Routers",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "xe-software",
+    "name": "XE Software",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "XE Software",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "xr",
+    "name": "XR",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "XR",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
     "vendor_id": "citrix",
     "product_id": "application-delivery-controller-adc-and-gateway",
     "name": "Application Delivery Controller (ADC) and Gateway",
     "alias": {
       "source": "cisa_kev",
       "value": "Application Delivery Controller (ADC) and Gateway",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "citrix",
+    "product_id": "cloudbridge-virtual-wan",
+    "name": "CloudBridge Virtual WAN",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "CloudBridge Virtual WAN",
       "confidence": "auto"
     }
   },
@@ -4270,6 +4611,39 @@
   {
     "canonical_type": "product",
     "vendor_id": "citrix",
+    "product_id": "netscaler-adc-and-gateway",
+    "name": "NetScaler ADC and Gateway",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "NetScaler ADC and Gateway",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "citrix",
+    "product_id": "netscaler-adc-and-netscaler-gateway",
+    "name": "NetScaler ADC and NetScaler Gateway",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "NetScaler ADC and NetScaler Gateway",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "citrix",
+    "product_id": "netscaler-sd-wan-enterprise",
+    "name": "NetScaler SD-WAN Enterprise",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "NetScaler SD-WAN Enterprise",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "citrix",
     "product_id": "netscaler",
     "name": "NetScaler",
     "alias": {
@@ -4281,22 +4655,11 @@
   {
     "canonical_type": "product",
     "vendor_id": "citrix",
-    "product_id": "netscaler",
-    "name": "NetScaler",
+    "product_id": "sd-wan-and-netscaler",
+    "name": "SD-WAN and NetScaler",
     "alias": {
       "source": "cisa_kev",
-      "value": "NetScaler ADC and NetScaler Gateway",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "citrix",
-    "product_id": "netscaler",
-    "name": "NetScaler",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "NetScaler ADC and Gateway",
+      "value": "SD-WAN and NetScaler",
       "confidence": "auto"
     }
   },
@@ -4357,6 +4720,28 @@
   },
   {
     "canonical_type": "product",
+    "vendor_id": "citrix",
+    "product_id": "xenmobile-server",
+    "name": "XenMobile Server",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "XenMobile Server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cleo",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
     "vendor_id": "code-aurora",
     "product_id": "acdb-audio-driver",
     "name": "ACDB Audio Driver",
@@ -4407,6 +4792,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Craft CMS",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "crestron",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
       "confidence": "auto"
     }
   },
@@ -4545,11 +4941,11 @@
   {
     "canonical_type": "product",
     "vendor_id": "d-link",
-    "product_id": "dns-320-storage-device",
-    "name": "DNS-320 Storage Device",
+    "product_id": "dns-320-device",
+    "name": "DNS-320 Device",
     "alias": {
       "source": "cisa_kev",
-      "value": "DNS-320 Storage Device",
+      "value": "DNS-320 Device",
       "confidence": "auto"
     }
   },
@@ -4560,7 +4956,7 @@
     "name": "DNS-320 Storage Device",
     "alias": {
       "source": "cisa_kev",
-      "value": "DNS-320 Device",
+      "value": "DNS-320 Storage Device",
       "confidence": "auto"
     }
   },
@@ -4605,6 +5001,39 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Multiple NAS Devices",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "d-link",
+    "product_id": "multiple-routers",
+    "name": "Multiple Routers",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Routers",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "d-link",
+    "product_id": "routers",
+    "name": "Routers",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Routers",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "d-link-and-trendnet",
+    "product_id": "multiple-devices",
+    "name": "Multiple Devices",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Devices",
       "confidence": "auto"
     }
   },
@@ -4665,6 +5094,28 @@
   },
   {
     "canonical_type": "product",
+    "vendor_id": "dell",
+    "product_id": "dbutil-driver",
+    "name": "dbutil Driver",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "dbutil Driver",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "dell",
+    "product_id": "recoverpoint-for-virtual-machines-rp4vms",
+    "name": "RecoverPoint for Virtual Machines (RP4VMs)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "RecoverPoint for Virtual Machines (RP4VMs)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
     "vendor_id": "delta-electronics",
     "product_id": "dopsoft-2",
     "name": "DOPSoft 2",
@@ -4682,6 +5133,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "DS-2105 Pro",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "docker",
+    "product_id": "desktop-community-edition",
+    "name": "Desktop Community Edition",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Desktop Community Edition",
       "confidence": "auto"
     }
   },
@@ -4710,11 +5172,11 @@
   {
     "canonical_type": "product",
     "vendor_id": "draytek",
-    "product_id": "vigor-routers",
-    "name": "Vigor Routers",
+    "product_id": "multiple-vigor-routers",
+    "name": "Multiple Vigor Routers",
     "alias": {
       "source": "cisa_kev",
-      "value": "Vigor Routers",
+      "value": "Multiple Vigor Routers",
       "confidence": "auto"
     }
   },
@@ -4725,7 +5187,7 @@
     "name": "Vigor Routers",
     "alias": {
       "source": "cisa_kev",
-      "value": "Multiple Vigor Routers",
+      "value": "Vigor Routers",
       "confidence": "auto"
     }
   },
@@ -4745,6 +5207,17 @@
     "vendor_id": "drupal",
     "product_id": "core",
     "name": "Core",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Core",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "drupal",
+    "product_id": "drupal-core",
+    "name": "Drupal core",
     "alias": {
       "source": "cisa_kev",
       "value": "Drupal core",
@@ -4809,11 +5282,11 @@
   {
     "canonical_type": "product",
     "vendor_id": "exim",
-    "product_id": "exim",
-    "name": "Exim",
+    "product_id": "exim-internet-mailer",
+    "name": "Exim Internet Mailer",
     "alias": {
       "source": "cisa_kev",
-      "value": "Exim",
+      "value": "Exim Internet Mailer",
       "confidence": "auto"
     }
   },
@@ -4824,7 +5297,7 @@
     "name": "Exim",
     "alias": {
       "source": "cisa_kev",
-      "value": "Exim Internet Mailer",
+      "value": "Exim",
       "confidence": "auto"
     }
   },
@@ -4847,6 +5320,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "EyesOfNetwork",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "f5",
+    "product_id": "big-ip-and-big-iq-centralized-management",
+    "name": "BIG-IP and BIG-IQ Centralized Management",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "BIG-IP and BIG-IQ Centralized Management",
       "confidence": "auto"
     }
   },
@@ -4952,12 +5436,45 @@
   {
     "canonical_type": "product",
     "vendor_id": "fortinet",
+    "product_id": "fortios-and-fortiadc",
+    "name": "FortiOS and FortiADC",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "FortiOS and FortiADC",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fortinet",
+    "product_id": "fortios-and-fortiproxy-ssl-vpn",
+    "name": "FortiOS and FortiProxy SSL-VPN",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "FortiOS and FortiProxy SSL-VPN",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fortinet",
+    "product_id": "fortios-and-fortiproxy",
+    "name": "FortiOS and FortiProxy",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "FortiOS and FortiProxy",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fortinet",
     "product_id": "fortios",
     "name": "FortiOS",
     "alias": {
       "source": "cisa_kev",
       "value": "FortiOS",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -4979,6 +5496,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "FortiWeb",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "fortinet",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
       "confidence": "auto"
     }
   },
@@ -5039,6 +5567,28 @@
   },
   {
     "canonical_type": "product",
+    "vendor_id": "geovision",
+    "product_id": "multiple-devices",
+    "name": "Multiple Devices",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Devices",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "gigabyte",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
     "vendor_id": "git",
     "product_id": "git",
     "name": "Git",
@@ -5073,11 +5623,11 @@
   {
     "canonical_type": "product",
     "vendor_id": "gitlab",
-    "product_id": "gitlab",
-    "name": "GitLab",
+    "product_id": "gitlab-ce-ee",
+    "name": "GitLab CE/EE",
     "alias": {
       "source": "cisa_kev",
-      "value": "GitLab",
+      "value": "GitLab CE/EE",
       "confidence": "auto"
     }
   },
@@ -5088,7 +5638,18 @@
     "name": "GitLab",
     "alias": {
       "source": "cisa_kev",
-      "value": "GitLab CE/EE",
+      "value": "GitLab",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "gladinet",
+    "product_id": "centrestack-and-triofox",
+    "name": "CentreStack and Triofox",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "CentreStack and Triofox",
       "confidence": "auto"
     }
   },
@@ -5524,6 +6085,17 @@
   {
     "canonical_type": "product",
     "vendor_id": "hikvision",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "hikvision",
     "product_id": "security-cameras-web-server",
     "name": "Security cameras web server",
     "alias": {
@@ -5573,6 +6145,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "InfoSphere BigInsights",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ibm",
+    "product_id": "langflow",
+    "name": "Langflow",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Langflow",
       "confidence": "auto"
     }
   },
@@ -5733,6 +6316,28 @@
   {
     "canonical_type": "product",
     "vendor_id": "ivanti",
+    "product_id": "connect-secure-and-policy-secure",
+    "name": "Connect Secure and Policy Secure",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Connect Secure and Policy Secure",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ivanti",
+    "product_id": "connect-secure",
+    "name": "Connect Secure",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Connect Secure",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ivanti",
     "product_id": "endpoint-manager-cloud-service-appliance-epm-csa",
     "name": "Endpoint Manager Cloud Service Appliance (EPM CSA)",
     "alias": {
@@ -5755,6 +6360,17 @@
   {
     "canonical_type": "product",
     "vendor_id": "ivanti",
+    "product_id": "endpoint-manager-mobile-epmm-and-mobileiron-core",
+    "name": "Endpoint Manager Mobile (EPMM) and MobileIron Core",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Endpoint Manager Mobile (EPMM) and MobileIron Core",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ivanti",
     "product_id": "endpoint-manager-mobile-epmm",
     "name": "Endpoint Manager Mobile (EPMM)",
     "alias": {
@@ -5766,22 +6382,44 @@
   {
     "canonical_type": "product",
     "vendor_id": "ivanti",
-    "product_id": "endpoint-manager-mobile-epmm",
-    "name": "Endpoint Manager Mobile (EPMM)",
+    "product_id": "mobileiron-multiple-products",
+    "name": "MobileIron Multiple Products",
     "alias": {
       "source": "cisa_kev",
-      "value": "Endpoint Manager Mobile (EPMM) and MobileIron Core",
+      "value": "MobileIron Multiple Products",
       "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
     "vendor_id": "ivanti",
-    "product_id": "mobileiron-multiple-products",
-    "name": "MobileIron Multiple Products",
+    "product_id": "neurons",
+    "name": "Neurons",
     "alias": {
       "source": "cisa_kev",
-      "value": "MobileIron Multiple Products",
+      "value": "Neurons",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ivanti",
+    "product_id": "policy-secure",
+    "name": "Policy Secure",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Policy Secure",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ivanti",
+    "product_id": "pulse-connect-secure-and-pulse-policy-secure",
+    "name": "Pulse Connect Secure and Pulse Policy Secure",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Pulse Connect Secure and Pulse Policy Secure",
       "confidence": "auto"
     }
   },
@@ -5815,6 +6453,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Virtual Traffic Manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ivanti",
+    "product_id": "zta-gateways",
+    "name": "ZTA Gateways",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "ZTA Gateways",
       "confidence": "auto"
     }
   },
@@ -5997,8 +6646,8 @@
   {
     "canonical_type": "product",
     "vendor_id": "kentico",
-    "product_id": "kentico-xperience",
-    "name": "Kentico Xperience",
+    "product_id": "xperience-cms",
+    "name": "Xperience CMS",
     "alias": {
       "source": "cisa_kev",
       "value": "Xperience CMS",
@@ -6008,8 +6657,8 @@
   {
     "canonical_type": "product",
     "vendor_id": "kentico",
-    "product_id": "kentico-xperience",
-    "name": "Kentico Xperience",
+    "product_id": "xperience",
+    "name": "Xperience",
     "alias": {
       "source": "cisa_kev",
       "value": "Xperience",
@@ -6194,6 +6843,17 @@
   },
   {
     "canonical_type": "product",
+    "vendor_id": "mediatek",
+    "product_id": "multiple-chipsets",
+    "name": "Multiple Chipsets",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Chipsets",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
     "vendor_id": "meta",
     "product_id": "react-server-components",
     "name": "React Server Components",
@@ -6205,7 +6865,7 @@
   },
   {
     "canonical_type": "product",
-    "vendor_id": "meta",
+    "vendor_id": "meta-platforms",
     "product_id": "whatsapp",
     "name": "WhatsApp",
     "alias": {
@@ -6250,12 +6910,771 @@
   {
     "canonical_type": "product",
     "vendor_id": "microsoft",
-    "product_id": "exchange-server",
-    "name": "Microsoft Exchange Server",
+    "product_id": "active-directory-federation-services",
+    "name": "Active Directory Federation Services",
     "alias": {
       "source": "cisa_kev",
-      "value": "Microsoft Exchange Server",
-      "confidence": "curated"
+      "value": "Active Directory Federation Services",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "active-directory",
+    "name": "Active Directory",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Active Directory",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "ancillary-function-driver-afd-sys",
+    "name": "Ancillary Function Driver (afd.sys)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Ancillary Function Driver (afd.sys)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "atm-font-driver",
+    "name": "ATM Font Driver",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "ATM Font Driver",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "client-server-run-time-subsystem-csrss",
+    "name": "Client-Server Run-time Subsystem (CSRSS)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Client-Server Run-time Subsystem (CSRSS)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "configuration-manager",
+    "name": "Configuration Manager",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Configuration Manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "defender",
+    "name": "Defender",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Defender",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "directx-graphics-kernel-dxgkrnl",
+    "name": "DirectX Graphics Kernel (DXGKRNL)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "DirectX Graphics Kernel (DXGKRNL)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "directx",
+    "name": "DirectX",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "DirectX",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "dwm-core-library",
+    "name": "DWM Core Library",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "DWM Core Library",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "edge-and-internet-explorer",
+    "name": "Edge and Internet Explorer",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Edge and Internet Explorer",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "edge",
+    "name": "Edge",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Edge",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "enhanced-cryptographic-provider",
+    "name": "Enhanced Cryptographic Provider",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Enhanced Cryptographic Provider",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "excel",
+    "name": "Excel",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Excel",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "exchange-server",
+    "name": "Exchange Server",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Exchange Server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "exchange",
+    "name": "Exchange",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Exchange",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "forefront-threat-management-gateway-tmg",
+    "name": "Forefront Threat Management Gateway (TMG)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Forefront Threat Management Gateway (TMG)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "graphics-component",
+    "name": "Graphics Component",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Graphics Component",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "graphics-device-interface-gdi",
+    "name": "Graphics Device Interface (GDI)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Graphics Device Interface (GDI)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "http-protocol-stack",
+    "name": "HTTP Protocol Stack",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "HTTP Protocol Stack",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "http-sys",
+    "name": "HTTP.sys",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "HTTP.sys",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "hyper-v-remotefx",
+    "name": "Hyper-V RemoteFX",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Hyper-V RemoteFX",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "input-method-editor-ime-japanese",
+    "name": "Input Method Editor (IME) Japanese",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Input Method Editor (IME) Japanese",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "internet-explorer-and-edge",
+    "name": "Internet Explorer and Edge",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Internet Explorer and Edge",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "internet-explorer-scripting-engine",
+    "name": "Internet Explorer Scripting Engine",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Internet Explorer Scripting Engine",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "internet-explorer",
+    "name": "Internet Explorer",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Internet Explorer",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "internet-information-services-iis",
+    "name": "Internet Information Services (IIS)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Internet Information Services (IIS)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "internet-key-exchange-ike-service-extensions",
+    "name": "Internet Key Exchange (IKE) Service Extensions",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Internet Key Exchange (IKE) Service Extensions",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "kerberos-key-distribution-center-kdc",
+    "name": "Kerberos Key Distribution Center (KDC)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Kerberos Key Distribution Center (KDC)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "malware-protection-engine",
+    "name": "Malware Protection Engine",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Malware Protection Engine",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "microsoft",
+    "name": "Microsoft",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Microsoft",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "mscomctl-ocx",
+    "name": "MSCOMCTL.OCX",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "MSCOMCTL.OCX",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "mshtml",
+    "name": "MSHTML",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "MSHTML",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "net-core-and-visual-studio",
+    "name": ".NET Core and Visual Studio",
+    "alias": {
+      "source": "cisa_kev",
+      "value": ".NET Core and Visual Studio",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "net-framework",
+    "name": ".NET Framework",
+    "alias": {
+      "source": "cisa_kev",
+      "value": ".NET Framework",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "netlogon",
+    "name": "Netlogon",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Netlogon",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "office-and-wordpad",
+    "name": "Office and WordPad",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Office and WordPad",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "office-outlook",
+    "name": "Office Outlook",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Office Outlook",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "office",
+    "name": "Office",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Office",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "open-management-infrastructure-omi",
+    "name": "Open Management Infrastructure (OMI)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Open Management Infrastructure (OMI)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "outlook",
+    "name": "Outlook",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Outlook",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "partner-center",
+    "name": "Partner Center",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Partner Center",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "power-pages",
+    "name": "Power Pages",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Power Pages",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "powerpoint",
+    "name": "PowerPoint",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "PowerPoint",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "project",
+    "name": "Project",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Project",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "publisher",
+    "name": "Publisher",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Publisher",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "remote-desktop-services",
+    "name": "Remote Desktop Services",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Remote Desktop Services",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "sharepoint-server",
+    "name": "SharePoint Server",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "SharePoint Server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "sharepoint",
+    "name": "SharePoint",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "SharePoint",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "silverlight",
+    "name": "Silverlight",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Silverlight",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "skype-for-business",
+    "name": "Skype for Business",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Skype for Business",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "smartscreen-prompt",
+    "name": "SmartScreen Prompt",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "SmartScreen Prompt",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "smbv1-server",
+    "name": "SMBv1 server",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "SMBv1 server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "smbv1",
+    "name": "SMBv1",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "SMBv1",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "smbv3",
+    "name": "SMBv3",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "SMBv3",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "sql-server",
+    "name": "SQL Server",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "SQL Server",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "streaming-service",
+    "name": "Streaming Service",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Streaming Service",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "task-scheduler",
+    "name": "Task Scheduler",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Task Scheduler",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "update-notification-manager",
+    "name": "Update Notification Manager",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Update Notification Manager",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "visual-basic-for-applications-vba",
+    "name": "Visual Basic for Applications (VBA)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Visual Basic for Applications (VBA)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "visual-studio",
+    "name": "Visual Studio",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Visual Studio",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "win32k",
+    "name": "Win32k",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Win32k",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "windows-ancillary-function-driver-for-winsock",
+    "name": "Windows Ancillary Function Driver for WinSock",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Windows Ancillary Function Driver for WinSock",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "windows-cng-key-isolation-service",
+    "name": "Windows CNG Key Isolation Service",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Windows CNG Key Isolation Service",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "windows-com-event-system-service",
+    "name": "Windows COM+ Event System Service",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Windows COM+ Event System Service",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "windows",
+    "name": "Windows",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Windows",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "winverifytrust-function",
+    "name": "WinVerifyTrust function",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "WinVerifyTrust function",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "word",
+    "name": "Word",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Word",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "wordpad",
+    "name": "WordPad",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "WordPad",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "microsoft",
+    "product_id": "xml-core-services",
+    "name": "XML Core Services",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "XML Core Services",
+      "confidence": "auto"
     }
   },
   {
@@ -6382,11 +7801,55 @@
   {
     "canonical_type": "product",
     "vendor_id": "mozilla",
+    "product_id": "firefox-and-thunderbird",
+    "name": "Firefox and Thunderbird",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Firefox and Thunderbird",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mozilla",
+    "product_id": "firefox-esr",
+    "name": "Firefox ESR",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Firefox ESR",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mozilla",
     "product_id": "firefox",
     "name": "Firefox",
     "alias": {
       "source": "cisa_kev",
       "value": "Firefox",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mozilla",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "mozilla",
+    "product_id": "thunderbird",
+    "name": "Thunderbird",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Thunderbird",
       "confidence": "auto"
     }
   },
@@ -6453,6 +7916,28 @@
     "alias": {
       "source": "cisa_kev",
       "value": "JGS516PE Devices",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "netgear",
+    "product_id": "multiple-devices",
+    "name": "Multiple Devices",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Devices",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "netgear",
+    "product_id": "multiple-routers",
+    "name": "Multiple Routers",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Routers",
       "confidence": "auto"
     }
   },
@@ -6656,6 +8141,17 @@
   },
   {
     "canonical_type": "product",
+    "vendor_id": "openssl",
+    "product_id": "openssl",
+    "name": "OpenSSL",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "OpenSSL",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
     "vendor_id": "oracle",
     "product_id": "adf-faces",
     "name": "ADF Faces",
@@ -6712,6 +8208,17 @@
   {
     "canonical_type": "product",
     "vendor_id": "oracle",
+    "product_id": "http-server-and-oracle-weblogic-server-proxy-plug-in",
+    "name": "HTTP Server and Oracle Weblogic Server Proxy Plug-in",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "HTTP Server and Oracle Weblogic Server Proxy Plug-in",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "oracle",
     "product_id": "intelligence-enterprise-edition",
     "name": "Intelligence Enterprise Edition",
     "alias": {
@@ -6734,6 +8241,28 @@
   {
     "canonical_type": "product",
     "vendor_id": "oracle",
+    "product_id": "java-se-and-jrockit",
+    "name": "Java SE and JRockit",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Java SE and JRockit",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "oracle",
+    "product_id": "java-se-jdk-and-jre",
+    "name": "Java SE JDK and JRE",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Java SE JDK and JRE",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "oracle",
     "product_id": "java-se",
     "name": "Java SE",
     "alias": {
@@ -6745,11 +8274,11 @@
   {
     "canonical_type": "product",
     "vendor_id": "oracle",
-    "product_id": "java-se",
-    "name": "Java SE",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
     "alias": {
       "source": "cisa_kev",
-      "value": "Java SE JDK and JRE",
+      "value": "Multiple Products",
       "confidence": "auto"
     }
   },
@@ -6767,11 +8296,11 @@
   {
     "canonical_type": "product",
     "vendor_id": "oracle",
-    "product_id": "solaris",
-    "name": "Solaris",
+    "product_id": "solaris-and-zettabyte-file-system-zfs",
+    "name": "Solaris and Zettabyte File System (ZFS)",
     "alias": {
       "source": "cisa_kev",
-      "value": "Solaris",
+      "value": "Solaris and Zettabyte File System (ZFS)",
       "confidence": "auto"
     }
   },
@@ -6782,7 +8311,7 @@
     "name": "Solaris",
     "alias": {
       "source": "cisa_kev",
-      "value": "Solaris and Zettabyte File System (ZFS)",
+      "value": "Solaris",
       "confidence": "auto"
     }
   },
@@ -6953,6 +8482,17 @@
   },
   {
     "canonical_type": "product",
+    "vendor_id": "php-group",
+    "product_id": "php",
+    "name": "PHP",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "PHP",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
     "vendor_id": "phpmyadmin",
     "product_id": "phpmyadmin",
     "name": "phpMyAdmin",
@@ -7042,11 +8582,11 @@
   {
     "canonical_type": "product",
     "vendor_id": "progress",
-    "product_id": "loadmaster",
-    "name": "LoadMaster",
+    "product_id": "kemp-loadmaster",
+    "name": "Kemp LoadMaster",
     "alias": {
       "source": "cisa_kev",
-      "value": "LoadMaster",
+      "value": "Kemp LoadMaster",
       "confidence": "auto"
     }
   },
@@ -7057,7 +8597,7 @@
     "name": "LoadMaster",
     "alias": {
       "source": "cisa_kev",
-      "value": "Kemp LoadMaster",
+      "value": "LoadMaster",
       "confidence": "auto"
     }
   },
@@ -7151,23 +8691,23 @@
   },
   {
     "canonical_type": "product",
+    "vendor_id": "pulse-secure",
+    "product_id": "pulse-connect-secure",
+    "name": "Pulse Connect Secure",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Pulse Connect Secure",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
     "vendor_id": "qlik",
     "product_id": "sense",
     "name": "Sense",
     "alias": {
       "source": "cisa_kev",
       "value": "Sense",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "qnap",
-    "product_id": "helpdesk",
-    "name": "Helpdesk",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "Helpdesk",
       "confidence": "auto"
     }
   },
@@ -7212,6 +8752,28 @@
     "alias": {
       "source": "cisa_kev",
       "value": "VioStor NVR",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "qnap-systems",
+    "product_id": "helpdesk",
+    "name": "Helpdesk",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Helpdesk",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "qualcomm",
+    "product_id": "multiple-chipsets",
+    "name": "Multiple Chipsets",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Chipsets",
       "confidence": "auto"
     }
   },
@@ -7415,7 +8977,18 @@
   },
   {
     "canonical_type": "product",
-    "vendor_id": "redhat",
+    "vendor_id": "realtek",
+    "product_id": "sdk",
+    "name": "SDK",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "SDK",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "red-hat",
     "product_id": "automatic-bug-reporting-tool",
     "name": "Automatic Bug Reporting Tool",
     "alias": {
@@ -7426,7 +8999,7 @@
   },
   {
     "canonical_type": "product",
-    "vendor_id": "redhat",
+    "vendor_id": "red-hat",
     "product_id": "jboss-application-server",
     "name": "JBoss Application Server",
     "alias": {
@@ -7437,18 +9010,7 @@
   },
   {
     "canonical_type": "product",
-    "vendor_id": "redhat",
-    "product_id": "jboss-application-server",
-    "name": "JBoss Application Server",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "JBoss",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "redhat",
+    "vendor_id": "red-hat",
     "product_id": "jboss-richfaces-framework",
     "name": "JBoss RichFaces Framework",
     "alias": {
@@ -7459,7 +9021,7 @@
   },
   {
     "canonical_type": "product",
-    "vendor_id": "redhat",
+    "vendor_id": "red-hat",
     "product_id": "jboss-seam-2",
     "name": "JBoss Seam 2",
     "alias": {
@@ -7470,7 +9032,18 @@
   },
   {
     "canonical_type": "product",
-    "vendor_id": "redhat",
+    "vendor_id": "red-hat",
+    "product_id": "jboss",
+    "name": "JBoss",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "JBoss",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "red-hat",
     "product_id": "libuser",
     "name": "Libuser",
     "alias": {
@@ -7481,12 +9054,34 @@
   },
   {
     "canonical_type": "product",
-    "vendor_id": "redhat",
+    "vendor_id": "red-hat",
     "product_id": "polkit",
     "name": "Polkit",
     "alias": {
       "source": "cisa_kev",
       "value": "Polkit",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "redis",
+    "product_id": "debian-specific-redis-servers",
+    "name": "Debian-specific Redis Servers",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Debian-specific Redis Servers",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "rejetto",
+    "product_id": "http-file-server-hfs",
+    "name": "HTTP File Server (HFS)",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "HTTP File Server (HFS)",
       "confidence": "auto"
     }
   },
@@ -7498,17 +9093,6 @@
     "alias": {
       "source": "cisa_kev",
       "value": "HTTP File Server",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "rejetto",
-    "product_id": "http-file-server",
-    "name": "HTTP File Server",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "HTTP File Server (HFS)",
       "confidence": "auto"
     }
   },
@@ -7547,6 +9131,17 @@
   },
   {
     "canonical_type": "product",
+    "vendor_id": "rockwell",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
     "vendor_id": "roundcube",
     "product_id": "roundcube-webmail",
     "name": "Roundcube Webmail",
@@ -7559,11 +9154,22 @@
   {
     "canonical_type": "product",
     "vendor_id": "roundcube",
-    "product_id": "roundcube-webmail",
-    "name": "Roundcube Webmail",
+    "product_id": "webmail",
+    "name": "Webmail",
     "alias": {
       "source": "cisa_kev",
       "value": "Webmail",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "ruckus-wireless",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
       "confidence": "auto"
     }
   },
@@ -7641,6 +9247,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Customer Relationship Management (CRM)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sap",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
       "confidence": "auto"
     }
   },
@@ -7729,7 +9346,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "SIMATIC CP",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -7773,6 +9390,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "CMS and Experience Platform (XP)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sitecore",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
       "confidence": "auto"
     }
   },
@@ -7900,8 +9528,8 @@
   {
     "canonical_type": "product",
     "vendor_id": "sonatype",
-    "product_id": "nexus-repository-manager",
-    "name": "Nexus Repository Manager",
+    "product_id": "nexus-repository",
+    "name": "Nexus Repository",
     "alias": {
       "source": "cisa_kev",
       "value": "Nexus Repository",
@@ -7927,17 +9555,6 @@
     "alias": {
       "source": "cisa_kev",
       "value": "SMA100",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "sonicwall",
-    "product_id": "sma100",
-    "name": "SMA100",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "SSLVPN SMA100",
       "confidence": "auto"
     }
   },
@@ -7976,12 +9593,34 @@
   },
   {
     "canonical_type": "product",
+    "vendor_id": "sonicwall",
+    "product_id": "sslvpn-sma100",
+    "name": "SSLVPN SMA100",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "SSLVPN SMA100",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
     "vendor_id": "sophos",
     "product_id": "cyberoamos",
     "name": "CyberoamOS",
     "alias": {
       "source": "cisa_kev",
       "value": "CyberoamOS",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sophos",
+    "product_id": "firewall",
+    "name": "Firewall",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Firewall",
       "confidence": "auto"
     }
   },
@@ -8031,17 +9670,6 @@
   },
   {
     "canonical_type": "product",
-    "vendor_id": "sophos",
-    "product_id": "xg-firewall",
-    "name": "XG Firewall",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "Firewall",
-      "confidence": "auto"
-    }
-  },
-  {
-    "canonical_type": "product",
     "vendor_id": "splunk",
     "product_id": "enterprise",
     "name": "Enterprise",
@@ -8081,6 +9709,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Sudo",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "sugarcrm",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
       "confidence": "auto"
     }
   },
@@ -8340,6 +9979,17 @@
   {
     "canonical_type": "product",
     "vendor_id": "tp-link",
+    "product_id": "multiple-routers",
+    "name": "Multiple Routers",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Routers",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "tp-link",
     "product_id": "tl-wa855re",
     "name": "TL-WA855RE",
     "alias": {
@@ -8384,6 +10034,50 @@
   {
     "canonical_type": "product",
     "vendor_id": "trend-micro",
+    "product_id": "apex-one-and-apex-one-as-a-service",
+    "name": "Apex One and Apex One as a Service",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Apex One and Apex One as a Service",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "trend-micro",
+    "product_id": "apex-one-and-officescan",
+    "name": "Apex One and OfficeScan",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Apex One and OfficeScan",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "trend-micro",
+    "product_id": "apex-one-and-worry-free-business-security",
+    "name": "Apex One and Worry-Free Business Security",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Apex One and Worry-Free Business Security",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "trend-micro",
+    "product_id": "apex-one-as-a-service",
+    "name": "Apex One as a Service",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Apex One as a Service",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "trend-micro",
     "product_id": "apex-one",
     "name": "Apex One",
     "alias": {
@@ -8395,11 +10089,33 @@
   {
     "canonical_type": "product",
     "vendor_id": "trend-micro",
+    "product_id": "officescan-and-worry-free-business-security-agents",
+    "name": "OfficeScan and Worry-Free Business Security Agents",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "OfficeScan and Worry-Free Business Security Agents",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "trend-micro",
     "product_id": "officescan",
     "name": "OfficeScan",
     "alias": {
       "source": "cisa_kev",
       "value": "OfficeScan",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "trend-micro",
+    "product_id": "worry-free-business-security",
+    "name": "Worry-Free Business Security",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Worry-Free Business Security",
       "confidence": "auto"
     }
   },
@@ -8587,7 +10303,18 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Aria Operations for Networks",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "vmware",
+    "product_id": "esxi-and-workstation",
+    "name": "ESXi and Workstation",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "ESXi and Workstation",
+      "confidence": "auto"
     }
   },
   {
@@ -8598,7 +10325,29 @@
     "alias": {
       "source": "cisa_kev",
       "value": "ESXi",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "vmware",
+    "product_id": "fusion",
+    "name": "Fusion",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Fusion",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "vmware",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
+      "confidence": "auto"
     }
   },
   {
@@ -8609,7 +10358,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "SD-WAN Edge",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -8620,7 +10369,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Spring Cloud Gateway",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -8631,7 +10380,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Spring Framework",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -8642,7 +10391,18 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Tools",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "vmware",
+    "product_id": "vcenter-server-and-cloud-foundation",
+    "name": "vCenter Server and Cloud Foundation",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "vCenter Server and Cloud Foundation",
+      "confidence": "auto"
     }
   },
   {
@@ -8653,40 +10413,18 @@
     "alias": {
       "source": "cisa_kev",
       "value": "vCenter Server",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
     "vendor_id": "vmware",
-    "product_id": "vcenter-server",
-    "name": "vCenter Server",
+    "product_id": "vmware-esxi-and-horizon-daas",
+    "name": "VMware ESXi and Horizon DaaS",
     "alias": {
       "source": "cisa_kev",
-      "value": "VMware vCenter",
-      "confidence": "curated"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "vmware",
-    "product_id": "vcenter-server",
-    "name": "vCenter Server",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "VMware vCenter Server",
-      "confidence": "curated"
-    }
-  },
-  {
-    "canonical_type": "product",
-    "vendor_id": "vmware",
-    "product_id": "vmware-aria-operations",
-    "name": "VMware Aria Operations",
-    "alias": {
-      "source": "cisa_kev",
-      "value": "VMware Aria Operations",
-      "confidence": "curated"
+      "value": "VMware ESXi and Horizon DaaS",
+      "confidence": "auto"
     }
   },
   {
@@ -8697,7 +10435,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "vRealize Operations Manager API",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -8708,7 +10446,18 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Workspace ONE Access and Identity Manager",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "vmware",
+    "product_id": "workstation",
+    "name": "Workstation",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Workstation",
+      "confidence": "auto"
     }
   },
   {
@@ -8747,19 +10496,19 @@
   {
     "canonical_type": "product",
     "vendor_id": "watchguard",
-    "product_id": "firebox",
-    "name": "Firebox",
+    "product_id": "firebox-and-xtm-appliances",
+    "name": "Firebox and XTM Appliances",
     "alias": {
       "source": "cisa_kev",
-      "value": "Firebox",
+      "value": "Firebox and XTM Appliances",
       "confidence": "auto"
     }
   },
   {
     "canonical_type": "product",
     "vendor_id": "watchguard",
-    "product_id": "firebox",
-    "name": "Firebox",
+    "product_id": "firebox-and-xtm",
+    "name": "Firebox and XTM",
     "alias": {
       "source": "cisa_kev",
       "value": "Firebox and XTM",
@@ -8773,7 +10522,7 @@
     "name": "Firebox",
     "alias": {
       "source": "cisa_kev",
-      "value": "Firebox and XTM Appliances",
+      "value": "Firebox",
       "confidence": "auto"
     }
   },
@@ -8862,7 +10611,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Core",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -8873,7 +10622,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "File Manager Plugin",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -8884,7 +10633,7 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Snap Creek Duplicator Plugin",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   },
   {
@@ -8895,7 +10644,18 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Social Warfare Plugin",
-      "confidence": "curated"
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "wso2",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
+      "confidence": "auto"
     }
   },
   {
@@ -8989,11 +10749,33 @@
   {
     "canonical_type": "product",
     "vendor_id": "zoho",
+    "product_id": "manageengine-servicedesk-plus-sdp-supportcenter-plus",
+    "name": "ManageEngine ServiceDesk Plus (SDP) / SupportCenter Plus",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "ManageEngine ServiceDesk Plus (SDP) / SupportCenter Plus",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "zoho",
     "product_id": "manageengine-servicedesk-plus-sdp",
     "name": "ManageEngine ServiceDesk Plus (SDP)",
     "alias": {
       "source": "cisa_kev",
       "value": "ManageEngine ServiceDesk Plus (SDP)",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "zoho",
+    "product_id": "manageengine",
+    "name": "ManageEngine",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "ManageEngine",
       "confidence": "auto"
     }
   },
@@ -9038,6 +10820,17 @@
     "alias": {
       "source": "cisa_kev",
       "value": "Multiple Network-Attached Storage (NAS) Devices",
+      "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "zyxel",
+    "product_id": "multiple-products",
+    "name": "Multiple Products",
+    "alias": {
+      "source": "cisa_kev",
+      "value": "Multiple Products",
       "confidence": "auto"
     }
   },

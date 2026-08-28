@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--lx901-firmware",
+  "vendor_id": "fujitsu",
+  "product_id": "lx901-firmware",
+  "name": "Lx901 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lx901_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

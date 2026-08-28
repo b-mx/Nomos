@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "ldap-account-manager--ldap-account-manager",
+  "vendor_id": "ldap-account-manager",
+  "product_id": "ldap-account-manager",
+  "name": "LDAP Account Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "ldap-account-manager",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "ldap_account_manager",
+      "confidence": "auto"
+    }
+  ]
+}

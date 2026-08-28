@@ -6,13 +6,13 @@
   "name": "Experience Manager (AEM) Forms",
   "type": "software",
   "tags": [],
-  "icon": "logos:adobe-icon",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Experience Manager (AEM) Forms",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

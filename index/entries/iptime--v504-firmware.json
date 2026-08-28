@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iptime--v504-firmware",
+  "vendor_id": "iptime",
+  "product_id": "v504-firmware",
+  "name": "V504 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "v504_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

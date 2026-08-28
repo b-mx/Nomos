@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "big-ip--big-ip",
+  "vendor_id": "big-ip",
+  "product_id": "big-ip",
+  "name": "BIG-IP",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "big-ip",
+      "confidence": "auto"
+    }
+  ]
+}

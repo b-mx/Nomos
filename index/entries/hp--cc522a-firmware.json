@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--cc522a-firmware",
+  "vendor_id": "hp",
+  "product_id": "cc522a-firmware",
+  "name": "Cc522A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cc522a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

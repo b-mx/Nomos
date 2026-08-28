@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--garden-linux",
+  "vendor_id": "cloudfoundry",
+  "product_id": "garden-linux",
+  "name": "Garden Linux",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "garden_linux",
+      "confidence": "auto"
+    }
+  ]
+}

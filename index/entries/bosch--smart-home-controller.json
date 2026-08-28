@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--smart-home-controller",
+  "vendor_id": "bosch",
+  "product_id": "smart-home-controller",
+  "name": "Smart Home Controller",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_home_controller",
+      "confidence": "auto"
+    }
+  ]
+}

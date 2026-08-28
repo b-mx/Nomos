@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sony--playstation-3",
+  "vendor_id": "sony",
+  "product_id": "playstation-3",
+  "name": "Playstation 3",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "playstation_3",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--ubuntu-download-manager",
+  "vendor_id": "canonical",
+  "product_id": "ubuntu-download-manager",
+  "name": "Ubuntu Download Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ubuntu_download_manager",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--diablo",
+  "vendor_id": "openstack",
+  "product_id": "diablo",
+  "name": "Diablo",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "diablo",
+      "confidence": "auto"
+    }
+  ]
+}

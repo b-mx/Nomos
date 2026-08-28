@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nortel--ssl-vpn",
+  "vendor_id": "nortel",
+  "product_id": "ssl-vpn",
+  "name": "Ssl Vpn",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ssl_vpn",
+      "confidence": "auto"
+    }
+  ]
+}

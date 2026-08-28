@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp32-vaquita-dspg-firmware",
+  "vendor_id": "espressif",
+  "product_id": "esp32-vaquita-dspg-firmware",
+  "name": "Esp32-Vaquita-Dspg Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp32-vaquita-dspg_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

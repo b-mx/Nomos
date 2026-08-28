@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--falcon-xlweb-linux-controller",
+  "vendor_id": "honeywell",
+  "product_id": "falcon-xlweb-linux-controller",
+  "name": "Falcon Xlweb Linux Controller",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "falcon_xlweb_linux_controller",
+      "confidence": "auto"
+    }
+  ]
+}

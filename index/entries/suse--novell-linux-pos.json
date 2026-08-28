@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--novell-linux-pos",
+  "vendor_id": "suse",
+  "product_id": "novell-linux-pos",
+  "name": "Novell Linux Pos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "novell_linux_pos",
+      "confidence": "auto"
+    }
+  ]
+}

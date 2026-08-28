@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "h3c--n12-firmware",
+  "vendor_id": "h3c",
+  "product_id": "n12-firmware",
+  "name": "N12 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "n12_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

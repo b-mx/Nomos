@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--suse-linux-micro",
+  "vendor_id": "suse",
+  "product_id": "suse-linux-micro",
+  "name": "SUSE Linux Micro",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "suse-linux-micro",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "linux_enterprise_micro",
+      "confidence": "auto"
+    }
+  ]
+}

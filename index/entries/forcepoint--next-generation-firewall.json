@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "forcepoint--next-generation-firewall",
+  "vendor_id": "forcepoint",
+  "product_id": "next-generation-firewall",
+  "name": "Next Generation Firewall",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "next_generation_firewall",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--brocade-fabric-operating-system-firmware",
+  "vendor_id": "netapp",
+  "product_id": "brocade-fabric-operating-system-firmware",
+  "name": "Brocade Fabric Operating System Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "brocade_fabric_operating_system_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

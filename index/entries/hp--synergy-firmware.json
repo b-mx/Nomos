@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--synergy-firmware",
+  "vendor_id": "hp",
+  "product_id": "synergy-firmware",
+  "name": "Synergy Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "synergy_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

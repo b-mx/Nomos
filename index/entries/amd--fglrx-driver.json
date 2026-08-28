@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--fglrx-driver",
+  "vendor_id": "amd",
+  "product_id": "fglrx-driver",
+  "name": "Fglrx-Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fglrx-driver",
+      "confidence": "auto"
+    }
+  ]
+}

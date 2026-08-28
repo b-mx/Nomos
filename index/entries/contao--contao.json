@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "contao--contao",
+  "vendor_id": "contao",
+  "product_id": "contao",
+  "name": "Contao",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "contao",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "contao",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--sb-h50-firmware",
+  "vendor_id": "epson",
+  "product_id": "sb-h50-firmware",
+  "name": "Sb-H50 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sb-h50_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

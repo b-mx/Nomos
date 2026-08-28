@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--network-routing",
+  "vendor_id": "avaya",
+  "product_id": "network-routing",
+  "name": "Network Routing",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_routing",
+      "confidence": "auto"
+    }
+  ]
+}

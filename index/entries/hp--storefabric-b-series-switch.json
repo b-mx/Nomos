@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--storefabric-b-series-switch",
+  "vendor_id": "hp",
+  "product_id": "storefabric-b-series-switch",
+  "name": "Storefabric B Series Switch",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storefabric_b_series_switch",
+      "confidence": "auto"
+    }
+  ]
+}

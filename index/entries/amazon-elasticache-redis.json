@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "amazon-elasticache-redis",
+  "vendor_id": "amazon-elasticache-redis",
+  "name": "Amazon ElastiCache for Redis OSS",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "amazon-elasticache-redis",
+      "confidence": "auto"
+    }
+  ]
+}

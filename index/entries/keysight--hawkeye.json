@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "keysight--hawkeye",
+  "vendor_id": "keysight",
+  "product_id": "hawkeye",
+  "name": "Hawkeye",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hawkeye",
+      "confidence": "auto"
+    }
+  ]
+}

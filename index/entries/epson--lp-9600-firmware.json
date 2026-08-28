@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--lp-9600-firmware",
+  "vendor_id": "epson",
+  "product_id": "lp-9600-firmware",
+  "name": "Lp-9600 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lp-9600_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

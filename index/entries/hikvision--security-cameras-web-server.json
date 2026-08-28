@@ -4,11 +4,8 @@
   "vendor_id": "hikvision",
   "product_id": "security-cameras-web-server",
   "name": "Security cameras web server",
-  "type": "hardware",
-  "tags": [
-    "network-device",
-    "webserver"
-  ],
+  "type": "software",
+  "tags": [],
   "icon": null,
   "services": [],
   "aliases": [

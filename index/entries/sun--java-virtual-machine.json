@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--java-virtual-machine",
+  "vendor_id": "sun",
+  "product_id": "java-virtual-machine",
+  "name": "Java Virtual Machine",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "java_virtual_machine",
+      "confidence": "auto"
+    }
+  ]
+}

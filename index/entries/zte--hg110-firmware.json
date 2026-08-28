@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zte--hg110-firmware",
+  "vendor_id": "zte",
+  "product_id": "hg110-firmware",
+  "name": "Hg110 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hg110_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

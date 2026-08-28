@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "open-xchange--dovecot",
+  "vendor_id": "open-xchange",
+  "product_id": "dovecot",
+  "name": "Dovecot",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dovecot",
+      "confidence": "auto"
+    }
+  ]
+}

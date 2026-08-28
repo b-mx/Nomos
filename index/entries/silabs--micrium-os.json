@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--micrium-os",
+  "vendor_id": "silabs",
+  "product_id": "micrium-os",
+  "name": "Micrium Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "micrium_os",
+      "confidence": "auto"
+    }
+  ]
+}

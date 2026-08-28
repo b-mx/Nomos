@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "big-ip",
+  "vendor_id": "big-ip",
+  "name": "BIG-IP",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "big-ip",
+      "confidence": "auto"
+    }
+  ]
+}

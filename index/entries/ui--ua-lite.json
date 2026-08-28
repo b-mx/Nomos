@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--ua-lite",
+  "vendor_id": "ui",
+  "product_id": "ua-lite",
+  "name": "Ua Lite",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ua_lite",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "sonarsource--sonarqube-community",
+  "vendor_id": "sonarsource",
+  "product_id": "sonarqube-community",
+  "name": "SonarQube Community Build",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "sonarqube-community",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "sonarqube",
+      "confidence": "auto"
+    }
+  ]
+}

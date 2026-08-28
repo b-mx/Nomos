@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--centerstage",
+  "vendor_id": "emc",
+  "product_id": "centerstage",
+  "name": "Centerstage",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "centerstage",
+      "confidence": "auto"
+    }
+  ]
+}

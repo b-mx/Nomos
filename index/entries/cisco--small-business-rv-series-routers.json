@@ -4,21 +4,14 @@
   "vendor_id": "cisco",
   "product_id": "small-business-rv-series-routers",
   "name": "Small Business RV Series Routers",
-  "type": "hardware",
-  "tags": [
-    "network-device"
-  ],
+  "type": "software",
+  "tags": [],
   "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Small Business RV Series Routers",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "RV Series Routers",
       "confidence": "auto"
     }
   ]

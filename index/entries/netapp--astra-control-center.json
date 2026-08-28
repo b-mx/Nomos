@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--astra-control-center",
+  "vendor_id": "netapp",
+  "product_id": "astra-control-center",
+  "name": "Astra Control Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "astra_control_center",
+      "confidence": "auto"
+    }
+  ]
+}

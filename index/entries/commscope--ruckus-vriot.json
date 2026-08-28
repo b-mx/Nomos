@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "commscope--ruckus-vriot",
+  "vendor_id": "commscope",
+  "product_id": "ruckus-vriot",
+  "name": "Ruckus Vriot",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ruckus_vriot",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--hfas1-firmware",
+  "vendor_id": "iodata",
+  "product_id": "hfas1-firmware",
+  "name": "Hfas1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hfas1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

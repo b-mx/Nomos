@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netgate--acme",
+  "vendor_id": "netgate",
+  "product_id": "acme",
+  "name": "Acme",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "acme",
+      "confidence": "auto"
+    }
+  ]
+}

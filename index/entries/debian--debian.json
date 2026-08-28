@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--debian",
+  "vendor_id": "debian",
+  "product_id": "debian",
+  "name": "Debian",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "debian",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "debian_linux",
+      "confidence": "auto"
+    }
+  ]
+}

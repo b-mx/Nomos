@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--3par-os",
+  "vendor_id": "hpe",
+  "product_id": "3par-os",
+  "name": "3Par Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "3par_os",
+      "confidence": "auto"
+    }
+  ]
+}

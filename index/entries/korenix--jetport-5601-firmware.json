@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "korenix--jetport-5601-firmware",
+  "vendor_id": "korenix",
+  "product_id": "jetport-5601-firmware",
+  "name": "Jetport 5601 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jetport_5601_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

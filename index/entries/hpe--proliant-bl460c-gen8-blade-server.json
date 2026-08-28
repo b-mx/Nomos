@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--proliant-bl460c-gen8-blade-server",
+  "vendor_id": "hpe",
+  "product_id": "proliant-bl460c-gen8-blade-server",
+  "name": "Proliant Bl460C Gen8 Blade Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_bl460c_gen8_blade_server",
+      "confidence": "auto"
+    }
+  ]
+}

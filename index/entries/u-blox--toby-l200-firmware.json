@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "u-blox--toby-l200-firmware",
+  "vendor_id": "u-blox",
+  "product_id": "toby-l200-firmware",
+  "name": "Toby-L200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "toby-l200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

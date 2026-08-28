@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-xl230k-gen10-firmware",
+  "vendor_id": "hp",
+  "product_id": "proliant-xl230k-gen10-firmware",
+  "name": "Proliant Xl230K Gen10 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_xl230k_gen10_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

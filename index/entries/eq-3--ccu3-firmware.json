@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eq-3--ccu3-firmware",
+  "vendor_id": "eq-3",
+  "product_id": "ccu3-firmware",
+  "name": "Ccu3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ccu3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

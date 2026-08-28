@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--gs25-firmware",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "gs25-firmware",
+  "name": "Gs25 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gs25_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

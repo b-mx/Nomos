@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "centos--centos",
+  "vendor_id": "centos",
+  "product_id": "centos",
+  "name": "CentOS",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "centos",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "centos",
+      "confidence": "auto"
+    }
+  ]
+}

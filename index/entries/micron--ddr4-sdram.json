@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "micron--ddr4-sdram",
+  "vendor_id": "micron",
+  "product_id": "ddr4-sdram",
+  "name": "Ddr4 Sdram",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ddr4_sdram",
+      "confidence": "auto"
+    }
+  ]
+}

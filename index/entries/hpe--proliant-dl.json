@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--proliant-dl",
+  "vendor_id": "hpe",
+  "product_id": "proliant-dl",
+  "name": "Proliant Dl",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_dl",
+      "confidence": "auto"
+    }
+  ]
+}

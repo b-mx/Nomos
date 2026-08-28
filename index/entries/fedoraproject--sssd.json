@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--sssd",
+  "vendor_id": "fedoraproject",
+  "product_id": "sssd",
+  "name": "Sssd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sssd",
+      "confidence": "auto"
+    }
+  ]
+}

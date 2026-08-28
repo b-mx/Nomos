@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--oneview-global-dashboard",
+  "vendor_id": "hpe",
+  "product_id": "oneview-global-dashboard",
+  "name": "Oneview Global Dashboard",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "oneview_global_dashboard",
+      "confidence": "auto"
+    }
+  ]
+}

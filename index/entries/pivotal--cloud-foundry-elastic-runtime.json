@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--cloud-foundry-elastic-runtime",
+  "vendor_id": "pivotal",
+  "product_id": "cloud-foundry-elastic-runtime",
+  "name": "Cloud Foundry Elastic Runtime",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_foundry_elastic_runtime",
+      "confidence": "auto"
+    }
+  ]
+}

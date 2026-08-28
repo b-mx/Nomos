@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--cf-mysql-release",
+  "vendor_id": "cloudfoundry",
+  "product_id": "cf-mysql-release",
+  "name": "Cf-Mysql-Release",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cf-mysql-release",
+      "confidence": "auto"
+    }
+  ]
+}

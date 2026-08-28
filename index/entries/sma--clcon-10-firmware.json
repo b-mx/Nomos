@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sma--clcon-10-firmware",
+  "vendor_id": "sma",
+  "product_id": "clcon-10-firmware",
+  "name": "Clcon-10 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "clcon-10_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

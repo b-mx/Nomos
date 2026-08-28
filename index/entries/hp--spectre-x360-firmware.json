@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--spectre-x360-firmware",
+  "vendor_id": "hp",
+  "product_id": "spectre-x360-firmware",
+  "name": "Spectre X360 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "spectre_x360_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

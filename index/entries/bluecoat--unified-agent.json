@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bluecoat--unified-agent",
+  "vendor_id": "bluecoat",
+  "product_id": "unified-agent",
+  "name": "Unified Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unified_agent",
+      "confidence": "auto"
+    }
+  ]
+}

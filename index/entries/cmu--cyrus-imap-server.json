@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cmu--cyrus-imap-server",
+  "vendor_id": "cmu",
+  "product_id": "cyrus-imap-server",
+  "name": "Cyrus Imap Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cyrus_imap_server",
+      "confidence": "auto"
+    }
+  ]
+}

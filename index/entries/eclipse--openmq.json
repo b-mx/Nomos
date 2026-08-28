@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--openmq",
+  "vendor_id": "eclipse",
+  "product_id": "openmq",
+  "name": "Openmq",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openmq",
+      "confidence": "auto"
+    }
+  ]
+}

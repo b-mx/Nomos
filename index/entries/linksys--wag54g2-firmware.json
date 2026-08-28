@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linksys--wag54g2-firmware",
+  "vendor_id": "linksys",
+  "product_id": "wag54g2-firmware",
+  "name": "Wag54G2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wag54g2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

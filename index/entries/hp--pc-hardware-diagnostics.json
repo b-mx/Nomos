@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--pc-hardware-diagnostics",
+  "vendor_id": "hp",
+  "product_id": "pc-hardware-diagnostics",
+  "name": "Pc Hardware Diagnostics",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pc_hardware_diagnostics",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--vitess",
+  "vendor_id": "linuxfoundation",
+  "product_id": "vitess",
+  "name": "Vitess",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "vitess",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "vitess",
+      "confidence": "auto"
+    }
+  ]
+}

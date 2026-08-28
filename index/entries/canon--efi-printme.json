@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canon--efi-printme",
+  "vendor_id": "canon",
+  "product_id": "efi-printme",
+  "name": "Efi Printme",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "efi_printme",
+      "confidence": "auto"
+    }
+  ]
+}

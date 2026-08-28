@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microsoft--smbv1",
+  "vendor_id": "microsoft",
+  "product_id": "smbv1",
+  "name": "SMBv1",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SMBv1",
+      "confidence": "auto"
+    }
+  ]
+}

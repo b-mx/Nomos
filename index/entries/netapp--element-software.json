@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--element-software",
+  "vendor_id": "netapp",
+  "product_id": "element-software",
+  "name": "Element Software",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "element_software",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--ref615-iec-firmware",
+  "vendor_id": "abb",
+  "product_id": "ref615-iec-firmware",
+  "name": "Ref615 Iec Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ref615_iec_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

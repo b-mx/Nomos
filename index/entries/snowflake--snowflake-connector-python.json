@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "snowflake--snowflake-connector-python",
+  "vendor_id": "snowflake",
+  "product_id": "snowflake-connector-python",
+  "name": "Snowflake-Connector-Python",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "snowflake-connector-python",
+      "confidence": "auto"
+    }
+  ]
+}

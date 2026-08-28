@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--amazon-corretto",
+  "vendor_id": "amazon",
+  "product_id": "amazon-corretto",
+  "name": "Amazon Corretto",
+  "type": "library",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "amazon-corretto",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "corretto",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "unify--openstage-60-firmware",
+  "vendor_id": "unify",
+  "product_id": "openstage-60-firmware",
+  "name": "Openstage 60 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openstage_60_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

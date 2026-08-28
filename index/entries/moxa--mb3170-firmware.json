@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--mb3170-firmware",
+  "vendor_id": "moxa",
+  "product_id": "mb3170-firmware",
+  "name": "Mb3170 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mb3170_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

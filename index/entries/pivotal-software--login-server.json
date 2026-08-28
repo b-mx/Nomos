@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--login-server",
+  "vendor_id": "pivotal-software",
+  "product_id": "login-server",
+  "name": "Login-Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "login-server",
+      "confidence": "auto"
+    }
+  ]
+}

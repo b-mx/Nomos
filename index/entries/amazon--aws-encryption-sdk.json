@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-encryption-sdk",
+  "vendor_id": "amazon",
+  "product_id": "aws-encryption-sdk",
+  "name": "Aws Encryption Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws_encryption_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

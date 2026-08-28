@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--kde-workspace",
+  "vendor_id": "kde",
+  "product_id": "kde-workspace",
+  "name": "Kde-Workspace",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kde-workspace",
+      "confidence": "auto"
+    }
+  ]
+}

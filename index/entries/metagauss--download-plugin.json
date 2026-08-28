@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "metagauss--download-plugin",
+  "vendor_id": "metagauss",
+  "product_id": "download-plugin",
+  "name": "Download Plugin",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "download_plugin",
+      "confidence": "auto"
+    }
+  ]
+}

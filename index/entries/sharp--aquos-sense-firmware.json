@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sharp--aquos-sense-firmware",
+  "vendor_id": "sharp",
+  "product_id": "aquos-sense-firmware",
+  "name": "Aquos Sense Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aquos_sense_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

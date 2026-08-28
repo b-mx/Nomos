@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "dotnetfx--dotnetfx",
+  "vendor_id": "dotnetfx",
+  "product_id": "dotnetfx",
+  "name": "Microsoft .NET Framework",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "dotnetfx",
+      "confidence": "auto"
+    }
+  ]
+}

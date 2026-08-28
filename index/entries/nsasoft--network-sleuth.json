@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nsasoft--network-sleuth",
+  "vendor_id": "nsasoft",
+  "product_id": "network-sleuth",
+  "name": "Network Sleuth",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_sleuth",
+      "confidence": "auto"
+    }
+  ]
+}

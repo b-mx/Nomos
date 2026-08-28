@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--control-manager",
+  "vendor_id": "avaya",
+  "product_id": "control-manager",
+  "name": "Control Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "control_manager",
+      "confidence": "auto"
+    }
+  ]
+}

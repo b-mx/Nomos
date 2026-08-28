@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amino--ak45x-firmware",
+  "vendor_id": "amino",
+  "product_id": "ak45x-firmware",
+  "name": "Ak45X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ak45x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

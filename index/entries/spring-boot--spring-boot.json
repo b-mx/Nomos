@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "spring-boot--spring-boot",
+  "vendor_id": "spring-boot",
+  "product_id": "spring-boot",
+  "name": "Spring Boot",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "spring-boot",
+      "confidence": "auto"
+    }
+  ]
+}

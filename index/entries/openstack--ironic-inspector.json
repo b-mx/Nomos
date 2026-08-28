@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--ironic-inspector",
+  "vendor_id": "openstack",
+  "product_id": "ironic-inspector",
+  "name": "Ironic-Inspector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ironic-inspector",
+      "confidence": "auto"
+    }
+  ]
+}

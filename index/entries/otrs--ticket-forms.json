@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "otrs--ticket-forms",
+  "vendor_id": "otrs",
+  "product_id": "ticket-forms",
+  "name": "Ticket Forms",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ticket_forms",
+      "confidence": "auto"
+    }
+  ]
+}

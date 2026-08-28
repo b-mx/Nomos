@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zope--products-genericsetup",
+  "vendor_id": "zope",
+  "product_id": "products-genericsetup",
+  "name": "Products.Genericsetup",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "products.genericsetup",
+      "confidence": "auto"
+    }
+  ]
+}

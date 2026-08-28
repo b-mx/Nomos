@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "compaq--management-agents",
+  "vendor_id": "compaq",
+  "product_id": "management-agents",
+  "name": "Management Agents",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "management_agents",
+      "confidence": "auto"
+    }
+  ]
+}

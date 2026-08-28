@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nxp--mifare-ultralight-nano",
+  "vendor_id": "nxp",
+  "product_id": "mifare-ultralight-nano",
+  "name": "Mifare Ultralight Nano",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mifare_ultralight_nano",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--antrea",
+  "vendor_id": "linuxfoundation",
+  "product_id": "antrea",
+  "name": "Antrea",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "antrea",
+      "confidence": "auto"
+    }
+  ]
+}

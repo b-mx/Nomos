@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon-eks--amazon-eks",
+  "vendor_id": "amazon-eks",
+  "product_id": "amazon-eks",
+  "name": "Amazon EKS",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "amazon-eks",
+      "confidence": "auto"
+    }
+  ]
+}

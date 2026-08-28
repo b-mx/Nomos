@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--speech-access",
+  "vendor_id": "avaya",
+  "product_id": "speech-access",
+  "name": "Speech Access",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "speech_access",
+      "confidence": "auto"
+    }
+  ]
+}

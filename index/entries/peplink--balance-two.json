@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--balance-two",
+  "vendor_id": "peplink",
+  "product_id": "balance-two",
+  "name": "Balance Two",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "balance_two",
+      "confidence": "auto"
+    }
+  ]
+}

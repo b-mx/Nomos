@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tanium--patch-endpoint-tools",
+  "vendor_id": "tanium",
+  "product_id": "patch-endpoint-tools",
+  "name": "Patch Endpoint Tools",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "patch_endpoint_tools",
+      "confidence": "auto"
+    }
+  ]
+}

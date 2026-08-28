@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hcltech--onetest-server",
+  "vendor_id": "hcltech",
+  "product_id": "onetest-server",
+  "name": "Onetest Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "onetest_server",
+      "confidence": "auto"
+    }
+  ]
+}

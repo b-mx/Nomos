@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--leshan",
+  "vendor_id": "eclipse",
+  "product_id": "leshan",
+  "name": "Leshan",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "leshan",
+      "confidence": "auto"
+    }
+  ]
+}

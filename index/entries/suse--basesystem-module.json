@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--basesystem-module",
+  "vendor_id": "suse",
+  "product_id": "basesystem-module",
+  "name": "Basesystem Module",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "basesystem_module",
+      "confidence": "auto"
+    }
+  ]
+}

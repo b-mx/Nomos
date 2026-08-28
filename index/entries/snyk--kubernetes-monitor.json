@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "snyk--kubernetes-monitor",
+  "vendor_id": "snyk",
+  "product_id": "kubernetes-monitor",
+  "name": "Kubernetes Monitor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kubernetes_monitor",
+      "confidence": "auto"
+    }
+  ]
+}

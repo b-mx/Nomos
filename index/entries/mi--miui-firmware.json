@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mi--miui-firmware",
+  "vendor_id": "mi",
+  "product_id": "miui-firmware",
+  "name": "Miui Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "miui_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

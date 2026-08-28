@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachienergy--pwc600-firmware",
+  "vendor_id": "hitachienergy",
+  "product_id": "pwc600-firmware",
+  "name": "Pwc600 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pwc600_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

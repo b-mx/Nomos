@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unas-2-firmware",
+  "vendor_id": "ui",
+  "product_id": "unas-2-firmware",
+  "name": "Unas 2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unas_2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "festo--gateway-cpx-iot",
+  "vendor_id": "festo",
+  "product_id": "gateway-cpx-iot",
+  "name": "Gateway Cpx-Iot",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gateway_cpx-iot",
+      "confidence": "auto"
+    }
+  ]
+}

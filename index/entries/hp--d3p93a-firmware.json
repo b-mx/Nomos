@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--d3p93a-firmware",
+  "vendor_id": "hp",
+  "product_id": "d3p93a-firmware",
+  "name": "D3P93A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "d3p93a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

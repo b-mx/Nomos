@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--performance-insight",
+  "vendor_id": "hp",
+  "product_id": "performance-insight",
+  "name": "Performance Insight",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "performance_insight",
+      "confidence": "auto"
+    }
+  ]
+}

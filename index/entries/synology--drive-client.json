@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--drive-client",
+  "vendor_id": "synology",
+  "product_id": "drive-client",
+  "name": "Drive Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "drive_client",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "m-files--m-files-server",
+  "vendor_id": "m-files",
+  "product_id": "m-files-server",
+  "name": "M-Files Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "m-files_server",
+      "confidence": "auto"
+    }
+  ]
+}

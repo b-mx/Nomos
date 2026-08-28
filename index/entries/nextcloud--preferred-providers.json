@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--preferred-providers",
+  "vendor_id": "nextcloud",
+  "product_id": "preferred-providers",
+  "name": "Preferred Providers",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "preferred_providers",
+      "confidence": "auto"
+    }
+  ]
+}

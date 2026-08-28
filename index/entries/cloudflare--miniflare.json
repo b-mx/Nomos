@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudflare--miniflare",
+  "vendor_id": "cloudflare",
+  "product_id": "miniflare",
+  "name": "Miniflare",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "miniflare",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--linux-enterprise-point-of-sale",
+  "vendor_id": "suse",
+  "product_id": "linux-enterprise-point-of-sale",
+  "name": "Linux Enterprise Point Of Sale",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux_enterprise_point_of_sale",
+      "confidence": "auto"
+    }
+  ]
+}

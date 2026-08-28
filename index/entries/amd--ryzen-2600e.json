@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-2600e",
+  "vendor_id": "amd",
+  "product_id": "ryzen-2600e",
+  "name": "Ryzen 2600E",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_2600e",
+      "confidence": "auto"
+    }
+  ]
+}

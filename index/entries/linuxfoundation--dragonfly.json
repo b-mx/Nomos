@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--dragonfly",
+  "vendor_id": "linuxfoundation",
+  "product_id": "dragonfly",
+  "name": "Dragonfly",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dragonfly",
+      "confidence": "auto"
+    }
+  ]
+}

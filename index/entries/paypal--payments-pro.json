@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "paypal--payments-pro",
+  "vendor_id": "paypal",
+  "product_id": "payments-pro",
+  "name": "Payments Pro",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "payments_pro",
+      "confidence": "auto"
+    }
+  ]
+}

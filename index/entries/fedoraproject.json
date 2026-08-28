@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "fedoraproject",
+  "vendor_id": "fedoraproject",
+  "name": "Fedoraproject",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fedoraproject",
+      "confidence": "auto"
+    }
+  ]
+}

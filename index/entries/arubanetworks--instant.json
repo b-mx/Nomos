@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arubanetworks--instant",
+  "vendor_id": "arubanetworks",
+  "product_id": "instant",
+  "name": "Instant",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "instant",
+      "confidence": "auto"
+    }
+  ]
+}

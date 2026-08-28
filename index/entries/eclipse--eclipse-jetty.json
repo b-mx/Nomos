@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--eclipse-jetty",
+  "vendor_id": "eclipse",
+  "product_id": "eclipse-jetty",
+  "name": "Eclipse Jetty",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "eclipse-jetty",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "jetty",
+      "confidence": "auto"
+    }
+  ]
+}

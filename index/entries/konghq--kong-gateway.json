@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "konghq--kong-gateway",
+  "vendor_id": "konghq",
+  "product_id": "kong-gateway",
+  "name": "Kong Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "kong-gateway",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "kong_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

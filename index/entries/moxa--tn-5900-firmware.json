@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--tn-5900-firmware",
+  "vendor_id": "moxa",
+  "product_id": "tn-5900-firmware",
+  "name": "Tn-5900 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tn-5900_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

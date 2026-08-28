@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--patrol-agent",
+  "vendor_id": "bmc",
+  "product_id": "patrol-agent",
+  "name": "Patrol Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "patrol_agent",
+      "confidence": "auto"
+    }
+  ]
+}

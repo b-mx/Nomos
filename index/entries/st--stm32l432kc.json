@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32l432kc",
+  "vendor_id": "st",
+  "product_id": "stm32l432kc",
+  "name": "Stm32L432Kc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32l432kc",
+      "confidence": "auto"
+    }
+  ]
+}

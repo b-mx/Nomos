@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--p0r21a-firmware",
+  "vendor_id": "hp",
+  "product_id": "p0r21a-firmware",
+  "name": "P0R21A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "p0r21a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

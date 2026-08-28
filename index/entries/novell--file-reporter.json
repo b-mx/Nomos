@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--file-reporter",
+  "vendor_id": "novell",
+  "product_id": "file-reporter",
+  "name": "File Reporter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "file_reporter",
+      "confidence": "auto"
+    }
+  ]
+}

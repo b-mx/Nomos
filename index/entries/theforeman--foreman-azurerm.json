@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "theforeman--foreman-azurerm",
+  "vendor_id": "theforeman",
+  "product_id": "foreman-azurerm",
+  "name": "Foreman Azurerm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "foreman_azurerm",
+      "confidence": "auto"
+    }
+  ]
+}

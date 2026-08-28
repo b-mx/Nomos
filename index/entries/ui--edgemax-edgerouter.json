@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--edgemax-edgerouter",
+  "vendor_id": "ui",
+  "product_id": "edgemax-edgerouter",
+  "name": "Edgemax Edgerouter",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edgemax_edgerouter",
+      "confidence": "auto"
+    }
+  ]
+}

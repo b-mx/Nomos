@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--oauthenticator",
+  "vendor_id": "jupyter",
+  "product_id": "oauthenticator",
+  "name": "Oauthenticator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "oauthenticator",
+      "confidence": "auto"
+    }
+  ]
+}

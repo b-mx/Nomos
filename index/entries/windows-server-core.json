@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "windows-server-core",
+  "vendor_id": "windows-server-core",
+  "name": "Microsoft Windows Server Core",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "windows-server-core",
+      "confidence": "auto"
+    }
+  ]
+}

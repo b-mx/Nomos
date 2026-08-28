@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--cr771a-firmware",
+  "vendor_id": "hp",
+  "product_id": "cr771a-firmware",
+  "name": "Cr771A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cr771a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

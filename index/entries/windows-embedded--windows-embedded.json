@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "windows-embedded--windows-embedded",
+  "vendor_id": "windows-embedded",
+  "product_id": "windows-embedded",
+  "name": "Microsoft Windows Embedded",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "windows-embedded",
+      "confidence": "auto"
+    }
+  ]
+}

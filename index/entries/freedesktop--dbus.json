@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freedesktop--dbus",
+  "vendor_id": "freedesktop",
+  "product_id": "dbus",
+  "name": "Dbus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dbus",
+      "confidence": "auto"
+    }
+  ]
+}

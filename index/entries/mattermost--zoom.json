@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mattermost--zoom",
+  "vendor_id": "mattermost",
+  "product_id": "zoom",
+  "name": "Zoom",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zoom",
+      "confidence": "auto"
+    }
+  ]
+}

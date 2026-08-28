@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--rsa-bsafe-crypto-c",
+  "vendor_id": "emc",
+  "product_id": "rsa-bsafe-crypto-c",
+  "name": "Rsa Bsafe Crypto-C",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rsa_bsafe_crypto-c",
+      "confidence": "auto"
+    }
+  ]
+}

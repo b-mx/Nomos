@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emerson--roc827-firmware",
+  "vendor_id": "emerson",
+  "product_id": "roc827-firmware",
+  "name": "Roc827 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "roc827_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "phpbb--phpbb",
+  "vendor_id": "phpbb",
+  "product_id": "phpbb",
+  "name": "phpBB",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "phpbb",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "phpbb",
+      "confidence": "auto"
+    }
+  ]
+}

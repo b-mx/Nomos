@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--aura-conferencing",
+  "vendor_id": "avaya",
+  "product_id": "aura-conferencing",
+  "name": "Aura Conferencing",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aura_conferencing",
+      "confidence": "auto"
+    }
+  ]
+}

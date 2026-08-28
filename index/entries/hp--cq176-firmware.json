@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--cq176-firmware",
+  "vendor_id": "hp",
+  "product_id": "cq176-firmware",
+  "name": "Cq176 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cq176_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

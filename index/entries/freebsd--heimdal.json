@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freebsd--heimdal",
+  "vendor_id": "freebsd",
+  "product_id": "heimdal",
+  "name": "Heimdal",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "heimdal",
+      "confidence": "auto"
+    }
+  ]
+}

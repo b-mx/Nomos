@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--gps",
+  "vendor_id": "fujitsu",
+  "product_id": "gps",
+  "name": "Gps",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gps",
+      "confidence": "auto"
+    }
+  ]
+}

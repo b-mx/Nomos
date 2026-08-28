@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--beestation-os",
+  "vendor_id": "synology",
+  "product_id": "beestation-os",
+  "name": "Beestation Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "beestation_os",
+      "confidence": "auto"
+    }
+  ]
+}

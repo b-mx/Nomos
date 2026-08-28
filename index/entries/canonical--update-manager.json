@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--update-manager",
+  "vendor_id": "canonical",
+  "product_id": "update-manager",
+  "name": "Update-Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "update-manager",
+      "confidence": "auto"
+    }
+  ]
+}

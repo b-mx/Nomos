@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--net-print",
+  "vendor_id": "epson",
+  "product_id": "net-print",
+  "name": "Net Print",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "net_print",
+      "confidence": "auto"
+    }
+  ]
+}

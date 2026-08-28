@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--command-center",
+  "vendor_id": "hp",
+  "product_id": "command-center",
+  "name": "Command Center",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "command_center",
+      "confidence": "auto"
+    }
+  ]
+}

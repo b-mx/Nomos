@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--video-security-client",
+  "vendor_id": "bosch",
+  "product_id": "video-security-client",
+  "name": "Video Security Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "video_security_client",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avira--phantom-vpn",
+  "vendor_id": "avira",
+  "product_id": "phantom-vpn",
+  "name": "Phantom Vpn",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "phantom_vpn",
+      "confidence": "auto"
+    }
+  ]
+}

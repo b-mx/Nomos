@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "typo3--typo3",
+  "vendor_id": "typo3",
+  "product_id": "typo3",
+  "name": "TYPO3",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "typo3",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "typo3",
+      "confidence": "auto"
+    }
+  ]
+}

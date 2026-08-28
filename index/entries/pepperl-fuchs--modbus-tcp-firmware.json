@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pepperl-fuchs--modbus-tcp-firmware",
+  "vendor_id": "pepperl-fuchs",
+  "product_id": "modbus-tcp-firmware",
+  "name": "Modbus Tcp Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "modbus_tcp_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

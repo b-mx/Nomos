@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "github",
+  "vendor_id": "github",
+  "name": "Github",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "github",
+      "confidence": "auto"
+    }
+  ]
+}

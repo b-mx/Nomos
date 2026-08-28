@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--c746-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "c746-firmware",
+  "name": "C746 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c746_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

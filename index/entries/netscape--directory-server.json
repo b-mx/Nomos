@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netscape--directory-server",
+  "vendor_id": "netscape",
+  "product_id": "directory-server",
+  "name": "Directory Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "directory_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netvu--dv-ip-express-firmware",
+  "vendor_id": "netvu",
+  "product_id": "dv-ip-express-firmware",
+  "name": "Dv-Ip Express Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dv-ip_express_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

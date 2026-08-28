@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--rt430-firmware",
+  "vendor_id": "ge",
+  "product_id": "rt430-firmware",
+  "name": "Rt430 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rt430_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

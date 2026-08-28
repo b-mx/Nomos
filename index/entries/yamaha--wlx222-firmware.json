@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yamaha--wlx222-firmware",
+  "vendor_id": "yamaha",
+  "product_id": "wlx222-firmware",
+  "name": "Wlx222 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wlx222_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

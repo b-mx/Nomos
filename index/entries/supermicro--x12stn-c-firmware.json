@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x12stn-c-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x12stn-c-firmware",
+  "name": "X12Stn-C Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x12stn-c_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

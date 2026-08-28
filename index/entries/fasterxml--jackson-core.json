@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fasterxml--jackson-core",
+  "vendor_id": "fasterxml",
+  "product_id": "jackson-core",
+  "name": "Jackson-Core",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jackson-core",
+      "confidence": "auto"
+    }
+  ]
+}

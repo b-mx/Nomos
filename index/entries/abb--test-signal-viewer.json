@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--test-signal-viewer",
+  "vendor_id": "abb",
+  "product_id": "test-signal-viewer",
+  "name": "Test Signal Viewer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "test_signal_viewer",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avira--avira-security",
+  "vendor_id": "avira",
+  "product_id": "avira-security",
+  "name": "Avira Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "avira_security",
+      "confidence": "auto"
+    }
+  ]
+}

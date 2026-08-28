@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--e-series-bios",
+  "vendor_id": "netapp",
+  "product_id": "e-series-bios",
+  "name": "E-Series Bios",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "e-series_bios",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "varta--element-backup-firmware",
+  "vendor_id": "varta",
+  "product_id": "element-backup-firmware",
+  "name": "Element Backup Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "element_backup_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

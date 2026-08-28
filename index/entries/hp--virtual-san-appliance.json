@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--virtual-san-appliance",
+  "vendor_id": "hp",
+  "product_id": "virtual-san-appliance",
+  "name": "Virtual San Appliance",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "virtual_san_appliance",
+      "confidence": "auto"
+    }
+  ]
+}

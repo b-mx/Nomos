@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "autodesk--customer-portal",
+  "vendor_id": "autodesk",
+  "product_id": "customer-portal",
+  "name": "Customer Portal",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "customer_portal",
+      "confidence": "auto"
+    }
+  ]
+}

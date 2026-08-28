@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--carelink-monitor",
+  "vendor_id": "medtronic",
+  "product_id": "carelink-monitor",
+  "name": "Carelink Monitor",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "carelink_monitor",
+      "confidence": "auto"
+    }
+  ]
+}

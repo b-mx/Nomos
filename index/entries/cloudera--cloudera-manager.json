@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudera--cloudera-manager",
+  "vendor_id": "cloudera",
+  "product_id": "cloudera-manager",
+  "name": "Cloudera Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloudera_manager",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--16h-model-processor-firmware",
+  "vendor_id": "amd",
+  "product_id": "16h-model-processor-firmware",
+  "name": "16H Model Processor Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "16h_model_processor_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

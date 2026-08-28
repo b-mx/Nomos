@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hcltech--bigfix-webui",
+  "vendor_id": "hcltech",
+  "product_id": "bigfix-webui",
+  "name": "Bigfix Webui",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bigfix_webui",
+      "confidence": "auto"
+    }
+  ]
+}

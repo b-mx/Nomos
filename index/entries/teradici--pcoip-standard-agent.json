@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teradici--pcoip-standard-agent",
+  "vendor_id": "teradici",
+  "product_id": "pcoip-standard-agent",
+  "name": "Pcoip Standard Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pcoip_standard_agent",
+      "confidence": "auto"
+    }
+  ]
+}

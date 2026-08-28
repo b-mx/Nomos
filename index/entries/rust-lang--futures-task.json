@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rust-lang--futures-task",
+  "vendor_id": "rust-lang",
+  "product_id": "futures-task",
+  "name": "Futures-Task",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "futures-task",
+      "confidence": "auto"
+    }
+  ]
+}

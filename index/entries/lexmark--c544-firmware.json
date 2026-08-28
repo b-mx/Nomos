@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--c544-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "c544-firmware",
+  "name": "C544 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "c544_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

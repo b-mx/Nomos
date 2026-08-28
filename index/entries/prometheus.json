@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "prometheus",
+  "vendor_id": "prometheus",
+  "name": "Prometheus",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "prometheus",
+      "confidence": "auto"
+    }
+  ]
+}

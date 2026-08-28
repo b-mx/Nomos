@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rockwellautomation--micro800-firmware",
+  "vendor_id": "rockwellautomation",
+  "product_id": "micro800-firmware",
+  "name": "Micro800 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "micro800_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

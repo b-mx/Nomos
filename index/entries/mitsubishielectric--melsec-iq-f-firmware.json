@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--melsec-iq-f-firmware",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "melsec-iq-f-firmware",
+  "name": "Melsec Iq-F Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "melsec_iq-f_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

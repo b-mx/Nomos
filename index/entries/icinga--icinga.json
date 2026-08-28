@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "icinga--icinga",
+  "vendor_id": "icinga",
+  "product_id": "icinga",
+  "name": "Icinga",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "icinga",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "icinga",
+      "confidence": "auto"
+    }
+  ]
+}

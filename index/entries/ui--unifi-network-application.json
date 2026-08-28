@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-network-application",
+  "vendor_id": "ui",
+  "product_id": "unifi-network-application",
+  "name": "Unifi Network Application",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_network_application",
+      "confidence": "auto"
+    }
+  ]
+}

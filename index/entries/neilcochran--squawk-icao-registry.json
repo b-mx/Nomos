@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "neilcochran--squawk-icao-registry",
+  "vendor_id": "neilcochran",
+  "product_id": "squawk-icao-registry",
+  "name": "Squawk/Icao-Registry",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "squawk/icao-registry",
+      "confidence": "auto"
+    }
+  ]
+}

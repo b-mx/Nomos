@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--kde",
+  "vendor_id": "kde",
+  "product_id": "kde",
+  "name": "Kde",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kde",
+      "confidence": "auto"
+    }
+  ]
+}

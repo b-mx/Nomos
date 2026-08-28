@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--supybot-fedora",
+  "vendor_id": "fedoraproject",
+  "product_id": "supybot-fedora",
+  "name": "Supybot-Fedora",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "supybot-fedora",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fedoraproject--python-fedora",
+  "vendor_id": "fedoraproject",
+  "product_id": "python-fedora",
+  "name": "Python-Fedora",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "python-fedora",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-6800u",
+  "vendor_id": "amd",
+  "product_id": "ryzen-6800u",
+  "name": "Ryzen 6800U",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_6800u",
+      "confidence": "auto"
+    }
+  ]
+}

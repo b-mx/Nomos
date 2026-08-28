@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teltonika-networks--gateway-trb245-firmware",
+  "vendor_id": "teltonika-networks",
+  "product_id": "gateway-trb245-firmware",
+  "name": "Gateway Trb245 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gateway_trb245_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

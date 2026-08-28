@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--hue-bridge-v2",
+  "vendor_id": "philips",
+  "product_id": "hue-bridge-v2",
+  "name": "Hue Bridge V2",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hue_bridge_v2",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11dph-tq-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11dph-tq-firmware",
+  "name": "X11Dph-Tq Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11dph-tq_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

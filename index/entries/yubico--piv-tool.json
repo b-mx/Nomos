@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yubico--piv-tool",
+  "vendor_id": "yubico",
+  "product_id": "piv-tool",
+  "name": "Piv Tool",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "piv_tool",
+      "confidence": "auto"
+    }
+  ]
+}

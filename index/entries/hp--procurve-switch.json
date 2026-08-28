@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--procurve-switch",
+  "vendor_id": "hp",
+  "product_id": "procurve-switch",
+  "name": "Procurve Switch",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "procurve_switch",
+      "confidence": "auto"
+    }
+  ]
+}

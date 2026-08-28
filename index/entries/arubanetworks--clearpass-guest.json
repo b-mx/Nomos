@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arubanetworks--clearpass-guest",
+  "vendor_id": "arubanetworks",
+  "product_id": "clearpass-guest",
+  "name": "Clearpass Guest",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "clearpass_guest",
+      "confidence": "auto"
+    }
+  ]
+}

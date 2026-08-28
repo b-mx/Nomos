@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--amc2-firmware",
+  "vendor_id": "bosch",
+  "product_id": "amc2-firmware",
+  "name": "Amc2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amc2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

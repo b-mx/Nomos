@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--protecta-icd-firmware",
+  "vendor_id": "medtronic",
+  "product_id": "protecta-icd-firmware",
+  "name": "Protecta Icd Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "protecta_icd_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

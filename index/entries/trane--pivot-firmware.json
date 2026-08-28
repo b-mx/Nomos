@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trane--pivot-firmware",
+  "vendor_id": "trane",
+  "product_id": "pivot-firmware",
+  "name": "Pivot Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pivot_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

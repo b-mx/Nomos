@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gemalto--sentinel-license-manager",
+  "vendor_id": "gemalto",
+  "product_id": "sentinel-license-manager",
+  "name": "Sentinel License Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sentinel_license_manager",
+      "confidence": "auto"
+    }
+  ]
+}

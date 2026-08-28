@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--max-transit-firmware",
+  "vendor_id": "peplink",
+  "product_id": "max-transit-firmware",
+  "name": "Max Transit Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "max_transit_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

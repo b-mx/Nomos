@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--cron",
+  "vendor_id": "debian",
+  "product_id": "cron",
+  "name": "Cron",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cron",
+      "confidence": "auto"
+    }
+  ]
+}

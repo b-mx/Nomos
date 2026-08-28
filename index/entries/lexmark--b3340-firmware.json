@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--b3340-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "b3340-firmware",
+  "name": "B3340 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b3340_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

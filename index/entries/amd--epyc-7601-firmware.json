@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7601-firmware",
+  "vendor_id": "amd",
+  "product_id": "epyc-7601-firmware",
+  "name": "Epyc 7601 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7601_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

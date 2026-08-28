@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--service-manager-server",
+  "vendor_id": "hp",
+  "product_id": "service-manager-server",
+  "name": "Service Manager Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_manager_server",
+      "confidence": "auto"
+    }
+  ]
+}

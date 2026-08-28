@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bitdefender--box",
+  "vendor_id": "bitdefender",
+  "product_id": "box",
+  "name": "Box",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "box",
+      "confidence": "auto"
+    }
+  ]
+}

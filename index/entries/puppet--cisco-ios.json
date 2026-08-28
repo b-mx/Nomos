@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "puppet--cisco-ios",
+  "vendor_id": "puppet",
+  "product_id": "cisco-ios",
+  "name": "Cisco Ios",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cisco_ios",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -4,24 +4,15 @@
   "vendor_id": "fortinet",
   "product_id": "fortios",
   "name": "FortiOS",
-  "type": "firmware",
-  "tags": [
-    "firewall",
-    "vpn",
-    "network-device"
-  ],
-  "icon": "thesvg-color:fortinet",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
-      "source": "nvd",
-      "value": "fortios",
-      "confidence": "curated"
-    },
-    {
       "source": "cisa_kev",
       "value": "FortiOS",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cmu--cyrus-sasl",
+  "vendor_id": "cmu",
+  "product_id": "cyrus-sasl",
+  "name": "Cyrus-Sasl",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cyrus-sasl",
+      "confidence": "auto"
+    }
+  ]
+}

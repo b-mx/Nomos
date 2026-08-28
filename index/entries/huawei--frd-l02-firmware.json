@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--frd-l02-firmware",
+  "vendor_id": "huawei",
+  "product_id": "frd-l02-firmware",
+  "name": "Frd-L02 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "frd-l02_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

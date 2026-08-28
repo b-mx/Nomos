@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yokogawa--fcj-firmware",
+  "vendor_id": "yokogawa",
+  "product_id": "fcj-firmware",
+  "name": "Fcj Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fcj_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

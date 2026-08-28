@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--smart-update-manager",
+  "vendor_id": "hp",
+  "product_id": "smart-update-manager",
+  "name": "Smart Update Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_update_manager",
+      "confidence": "auto"
+    }
+  ]
+}

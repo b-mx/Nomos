@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "automattic--wp-super-cache",
+  "vendor_id": "automattic",
+  "product_id": "wp-super-cache",
+  "name": "Wp Super Cache",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wp_super_cache",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lucent--ascend-routers",
+  "vendor_id": "lucent",
+  "product_id": "ascend-routers",
+  "name": "Ascend Routers",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ascend_routers",
+      "confidence": "auto"
+    }
+  ]
+}

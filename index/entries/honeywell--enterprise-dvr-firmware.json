@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--enterprise-dvr-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "enterprise-dvr-firmware",
+  "name": "Enterprise Dvr Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise_dvr_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

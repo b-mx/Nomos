@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--proliant-gen6-server",
+  "vendor_id": "hp",
+  "product_id": "proliant-gen6-server",
+  "name": "Proliant Gen6 Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_gen6_server",
+      "confidence": "auto"
+    }
+  ]
+}

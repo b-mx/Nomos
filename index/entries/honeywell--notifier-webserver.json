@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--notifier-webserver",
+  "vendor_id": "honeywell",
+  "product_id": "notifier-webserver",
+  "name": "Notifier Webserver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "notifier_webserver",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "joinmastodon--mastodon",
+  "vendor_id": "joinmastodon",
+  "product_id": "mastodon",
+  "name": "Mastodon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "mastodon",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "mastodon",
+      "confidence": "auto"
+    }
+  ]
+}

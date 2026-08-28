@@ -6,17 +6,12 @@
   "name": "LoadMaster",
   "type": "software",
   "tags": [],
-  "icon": "logos:progress",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "LoadMaster",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "Kemp LoadMaster",
       "confidence": "auto"
     }
   ]

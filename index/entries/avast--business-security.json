@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avast--business-security",
+  "vendor_id": "avast",
+  "product_id": "business-security",
+  "name": "Business Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "business_security",
+      "confidence": "auto"
+    }
+  ]
+}

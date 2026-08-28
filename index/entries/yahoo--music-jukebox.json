@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yahoo--music-jukebox",
+  "vendor_id": "yahoo",
+  "product_id": "music-jukebox",
+  "name": "Music Jukebox",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "music_jukebox",
+      "confidence": "auto"
+    }
+  ]
+}

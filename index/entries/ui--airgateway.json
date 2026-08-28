@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--airgateway",
+  "vendor_id": "ui",
+  "product_id": "airgateway",
+  "name": "Airgateway",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "airgateway",
+      "confidence": "auto"
+    }
+  ]
+}

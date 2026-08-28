@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--eclipse-ide",
+  "vendor_id": "eclipse",
+  "product_id": "eclipse-ide",
+  "name": "Eclipse Ide",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eclipse_ide",
+      "confidence": "auto"
+    }
+  ]
+}

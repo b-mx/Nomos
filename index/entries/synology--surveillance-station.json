@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--surveillance-station",
+  "vendor_id": "synology",
+  "product_id": "surveillance-station",
+  "name": "Surveillance Station",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "surveillance_station",
+      "confidence": "auto"
+    }
+  ]
+}

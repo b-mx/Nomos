@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vivo--modem-firmware",
+  "vendor_id": "vivo",
+  "product_id": "modem-firmware",
+  "name": "Modem Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "modem_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

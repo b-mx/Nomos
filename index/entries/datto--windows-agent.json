@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "datto--windows-agent",
+  "vendor_id": "datto",
+  "product_id": "windows-agent",
+  "name": "Windows Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "windows_agent",
+      "confidence": "auto"
+    }
+  ]
+}

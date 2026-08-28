@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--bsmtpd",
+  "vendor_id": "debian",
+  "product_id": "bsmtpd",
+  "name": "Bsmtpd",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bsmtpd",
+      "confidence": "auto"
+    }
+  ]
+}

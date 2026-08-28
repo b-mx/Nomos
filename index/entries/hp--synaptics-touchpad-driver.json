@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--synaptics-touchpad-driver",
+  "vendor_id": "hp",
+  "product_id": "synaptics-touchpad-driver",
+  "name": "Synaptics Touchpad Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "synaptics_touchpad_driver",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emcosoftware--network-software-scanner",
+  "vendor_id": "emcosoftware",
+  "product_id": "network-software-scanner",
+  "name": "Network Software Scanner",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_software_scanner",
+      "confidence": "auto"
+    }
+  ]
+}

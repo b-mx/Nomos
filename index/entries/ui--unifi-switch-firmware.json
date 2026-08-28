@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-switch-firmware",
+  "vendor_id": "ui",
+  "product_id": "unifi-switch-firmware",
+  "name": "Unifi Switch Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_switch_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

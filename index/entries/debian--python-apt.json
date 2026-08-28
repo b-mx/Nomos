@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--python-apt",
+  "vendor_id": "debian",
+  "product_id": "python-apt",
+  "name": "Python-Apt",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "python-apt",
+      "confidence": "auto"
+    }
+  ]
+}

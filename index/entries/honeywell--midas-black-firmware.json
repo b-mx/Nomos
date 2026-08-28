@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--midas-black-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "midas-black-firmware",
+  "name": "Midas Black Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "midas_black_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

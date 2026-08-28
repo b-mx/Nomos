@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "logitech--unifying-firmware",
+  "vendor_id": "logitech",
+  "product_id": "unifying-firmware",
+  "name": "Unifying Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifying_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

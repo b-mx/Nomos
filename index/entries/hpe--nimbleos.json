@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--nimbleos",
+  "vendor_id": "hpe",
+  "product_id": "nimbleos",
+  "name": "Nimbleos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nimbleos",
+      "confidence": "auto"
+    }
+  ]
+}

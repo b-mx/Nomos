@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pdqinc--laserjet-firmware",
+  "vendor_id": "pdqinc",
+  "product_id": "laserjet-firmware",
+  "name": "Laserjet Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "laserjet_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

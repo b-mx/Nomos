@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--echo-dot-firmware",
+  "vendor_id": "amazon",
+  "product_id": "echo-dot-firmware",
+  "name": "Echo Dot Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "echo_dot_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

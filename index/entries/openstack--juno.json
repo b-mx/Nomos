@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--juno",
+  "vendor_id": "openstack",
+  "product_id": "juno",
+  "name": "Juno",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "juno",
+      "confidence": "auto"
+    }
+  ]
+}

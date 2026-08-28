@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x8siu-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x8siu-firmware",
+  "name": "X8Siu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x8siu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

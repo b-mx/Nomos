@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--hashicorp-vault",
+  "vendor_id": "hashicorp",
+  "product_id": "hashicorp-vault",
+  "name": "Hashicorp Vault",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "hashicorp-vault",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "vault",
+      "confidence": "auto"
+    }
+  ]
+}

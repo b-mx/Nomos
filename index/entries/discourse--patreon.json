@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "discourse--patreon",
+  "vendor_id": "discourse",
+  "product_id": "patreon",
+  "name": "Patreon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "patreon",
+      "confidence": "auto"
+    }
+  ]
+}

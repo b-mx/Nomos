@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--oncommand-system-manager",
+  "vendor_id": "netapp",
+  "product_id": "oncommand-system-manager",
+  "name": "Oncommand System Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "oncommand_system_manager",
+      "confidence": "auto"
+    }
+  ]
+}

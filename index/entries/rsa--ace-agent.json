@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--ace-agent",
+  "vendor_id": "rsa",
+  "product_id": "ace-agent",
+  "name": "Ace Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ace_agent",
+      "confidence": "auto"
+    }
+  ]
+}

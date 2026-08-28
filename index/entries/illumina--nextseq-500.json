@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "illumina--nextseq-500",
+  "vendor_id": "illumina",
+  "product_id": "nextseq-500",
+  "name": "Nextseq 500",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nextseq_500",
+      "confidence": "auto"
+    }
+  ]
+}

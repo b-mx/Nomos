@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opentext--directory-services",
+  "vendor_id": "opentext",
+  "product_id": "directory-services",
+  "name": "Directory Services",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "directory_services",
+      "confidence": "auto"
+    }
+  ]
+}

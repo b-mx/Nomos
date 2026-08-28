@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "nuxt--nuxt",
+  "vendor_id": "nuxt",
+  "product_id": "nuxt",
+  "name": "Nuxt",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "nuxt",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "framework",
+      "confidence": "auto"
+    }
+  ]
+}

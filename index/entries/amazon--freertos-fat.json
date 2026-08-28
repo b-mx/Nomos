@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--freertos-fat",
+  "vendor_id": "amazon",
+  "product_id": "freertos-fat",
+  "name": "Freertos+Fat",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "freertos+fat",
+      "confidence": "auto"
+    }
+  ]
+}

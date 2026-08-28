@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "otrs--survey",
+  "vendor_id": "otrs",
+  "product_id": "survey",
+  "name": "Survey",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "survey",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cortex-xdr--cortex-xdr",
+  "vendor_id": "cortex-xdr",
+  "product_id": "cortex-xdr",
+  "name": "Palo Alto Networks Cortex XDR agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "cortex-xdr",
+      "confidence": "auto"
+    }
+  ]
+}

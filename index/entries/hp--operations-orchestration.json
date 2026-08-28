@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--operations-orchestration",
+  "vendor_id": "hp",
+  "product_id": "operations-orchestration",
+  "name": "Operations Orchestration",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "operations_orchestration",
+      "confidence": "auto"
+    }
+  ]
+}

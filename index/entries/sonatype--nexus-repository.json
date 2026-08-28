@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sonatype--nexus-repository",
+  "vendor_id": "sonatype",
+  "product_id": "nexus-repository",
+  "name": "Nexus Repository",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Nexus Repository",
+      "confidence": "auto"
+    }
+  ]
+}

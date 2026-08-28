@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--virtualvault",
+  "vendor_id": "hp",
+  "product_id": "virtualvault",
+  "name": "Virtualvault",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "virtualvault",
+      "confidence": "auto"
+    }
+  ]
+}

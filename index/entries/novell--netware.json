@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--netware",
+  "vendor_id": "novell",
+  "product_id": "netware",
+  "name": "Netware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "netware",
+      "confidence": "auto"
+    }
+  ]
+}

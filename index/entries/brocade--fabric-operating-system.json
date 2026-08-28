@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "brocade--fabric-operating-system",
+  "vendor_id": "brocade",
+  "product_id": "fabric-operating-system",
+  "name": "Fabric Operating System",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fabric_operating_system",
+      "confidence": "auto"
+    }
+  ]
+}

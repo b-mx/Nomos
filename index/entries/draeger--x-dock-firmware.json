@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "draeger--x-dock-firmware",
+  "vendor_id": "draeger",
+  "product_id": "x-dock-firmware",
+  "name": "X-Dock Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x-dock_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

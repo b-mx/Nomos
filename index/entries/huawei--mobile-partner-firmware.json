@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--mobile-partner-firmware",
+  "vendor_id": "huawei",
+  "product_id": "mobile-partner-firmware",
+  "name": "Mobile Partner Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mobile_partner_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

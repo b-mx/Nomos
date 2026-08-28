@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--icewall-sso-saml2-option",
+  "vendor_id": "hp",
+  "product_id": "icewall-sso-saml2-option",
+  "name": "Icewall Sso Saml2 Option",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icewall_sso_saml2_option",
+      "confidence": "auto"
+    }
+  ]
+}

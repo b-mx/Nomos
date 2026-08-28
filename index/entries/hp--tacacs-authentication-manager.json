@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--tacacs-authentication-manager",
+  "vendor_id": "hp",
+  "product_id": "tacacs-authentication-manager",
+  "name": "Tacacs+ Authentication Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tacacs+_authentication_manager",
+      "confidence": "auto"
+    }
+  ]
+}

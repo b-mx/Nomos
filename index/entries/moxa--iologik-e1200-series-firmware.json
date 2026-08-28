@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--iologik-e1200-series-firmware",
+  "vendor_id": "moxa",
+  "product_id": "iologik-e1200-series-firmware",
+  "name": "Iologik E1200 Series Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iologik_e1200_series_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

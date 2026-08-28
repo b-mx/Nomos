@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--insight-remote-support",
+  "vendor_id": "hpe",
+  "product_id": "insight-remote-support",
+  "name": "Insight Remote Support",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "insight_remote_support",
+      "confidence": "auto"
+    }
+  ]
+}

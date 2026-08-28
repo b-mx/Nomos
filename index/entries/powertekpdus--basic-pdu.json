@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "powertekpdus--basic-pdu",
+  "vendor_id": "powertekpdus",
+  "product_id": "basic-pdu",
+  "name": "Basic Pdu",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "basic_pdu",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--apt-cacher",
+  "vendor_id": "debian",
+  "product_id": "apt-cacher",
+  "name": "Apt-Cacher",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apt-cacher",
+      "confidence": "auto"
+    }
+  ]
+}

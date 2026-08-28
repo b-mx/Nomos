@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--envy-x360-firmware",
+  "vendor_id": "hp",
+  "product_id": "envy-x360-firmware",
+  "name": "Envy X360 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "envy_x360_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

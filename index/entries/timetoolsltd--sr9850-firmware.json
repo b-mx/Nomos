@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "timetoolsltd--sr9850-firmware",
+  "vendor_id": "timetoolsltd",
+  "product_id": "sr9850-firmware",
+  "name": "Sr9850 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sr9850_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

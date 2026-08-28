@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--mercury-monitor-over-firewall",
+  "vendor_id": "hp",
+  "product_id": "mercury-monitor-over-firewall",
+  "name": "Mercury Monitor Over Firewall",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mercury_monitor_over_firewall",
+      "confidence": "auto"
+    }
+  ]
+}

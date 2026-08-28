@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "svelte--svelte",
+  "vendor_id": "svelte",
+  "product_id": "svelte",
+  "name": "Svelte",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "svelte",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "svelte",
+      "confidence": "auto"
+    }
+  ]
+}

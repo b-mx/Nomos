@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--mpa2-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "mpa2-firmware",
+  "name": "Mpa2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mpa2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

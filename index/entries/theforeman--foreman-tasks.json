@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "theforeman--foreman-tasks",
+  "vendor_id": "theforeman",
+  "product_id": "foreman-tasks",
+  "name": "Foreman-Tasks",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "foreman-tasks",
+      "confidence": "auto"
+    }
+  ]
+}

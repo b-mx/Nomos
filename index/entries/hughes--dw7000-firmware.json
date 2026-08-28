@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hughes--dw7000-firmware",
+  "vendor_id": "hughes",
+  "product_id": "dw7000-firmware",
+  "name": "Dw7000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dw7000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "windows-server--windows-server",
+  "vendor_id": "windows-server",
+  "product_id": "windows-server",
+  "name": "Microsoft Windows Server",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "windows-server",
+      "confidence": "auto"
+    }
+  ]
+}

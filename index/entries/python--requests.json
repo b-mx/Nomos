@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "python--requests",
+  "vendor_id": "python",
+  "product_id": "requests",
+  "name": "Requests",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "requests",
+      "confidence": "auto"
+    }
+  ]
+}

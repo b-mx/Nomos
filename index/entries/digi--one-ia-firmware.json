@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "digi--one-ia-firmware",
+  "vendor_id": "digi",
+  "product_id": "one-ia-firmware",
+  "name": "One Ia Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "one_ia_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bridgetech--vb120-firmware",
+  "vendor_id": "bridgetech",
+  "product_id": "vb120-firmware",
+  "name": "Vb120 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vb120_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

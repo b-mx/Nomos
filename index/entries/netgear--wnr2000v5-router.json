@@ -4,11 +4,9 @@
   "vendor_id": "netgear",
   "product_id": "wnr2000v5-router",
   "name": "WNR2000v5 Router",
-  "type": "hardware",
-  "tags": [
-    "network-device"
-  ],
-  "icon": "simple-icons:netgear",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

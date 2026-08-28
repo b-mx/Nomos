@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32cubel4-firmware",
+  "vendor_id": "st",
+  "product_id": "stm32cubel4-firmware",
+  "name": "Stm32Cubel4 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32cubel4_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

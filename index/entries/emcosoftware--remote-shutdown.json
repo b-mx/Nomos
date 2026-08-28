@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emcosoftware--remote-shutdown",
+  "vendor_id": "emcosoftware",
+  "product_id": "remote-shutdown",
+  "name": "Remote Shutdown",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remote_shutdown",
+      "confidence": "auto"
+    }
+  ]
+}

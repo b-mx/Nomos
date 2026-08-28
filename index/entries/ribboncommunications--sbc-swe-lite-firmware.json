@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ribboncommunications--sbc-swe-lite-firmware",
+  "vendor_id": "ribboncommunications",
+  "product_id": "sbc-swe-lite-firmware",
+  "name": "Sbc Swe Lite Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sbc_swe_lite_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

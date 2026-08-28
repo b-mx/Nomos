@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "sonarqube-server",
+  "vendor_id": "sonarqube-server",
+  "name": "SonarQube Server",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "sonarqube-server",
+      "confidence": "auto"
+    }
+  ]
+}

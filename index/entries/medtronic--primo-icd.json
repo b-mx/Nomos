@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--primo-icd",
+  "vendor_id": "medtronic",
+  "product_id": "primo-icd",
+  "name": "Primo Icd",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "primo_icd",
+      "confidence": "auto"
+    }
+  ]
+}

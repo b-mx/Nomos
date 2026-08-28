@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "belkin--linksys-wrt-160nl-firmware",
+  "vendor_id": "belkin",
+  "product_id": "linksys-wrt-160nl-firmware",
+  "name": "Linksys Wrt 160Nl Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linksys_wrt_160nl_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

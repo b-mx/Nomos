@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--chipset-driver",
+  "vendor_id": "amd",
+  "product_id": "chipset-driver",
+  "name": "Chipset Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "chipset_driver",
+      "confidence": "auto"
+    }
+  ]
+}

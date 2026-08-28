@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--cni-network-plugins",
+  "vendor_id": "linuxfoundation",
+  "product_id": "cni-network-plugins",
+  "name": "Cni Network Plugins",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cni_network_plugins",
+      "confidence": "auto"
+    }
+  ]
+}

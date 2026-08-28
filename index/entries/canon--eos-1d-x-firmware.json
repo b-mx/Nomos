@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canon--eos-1d-x-firmware",
+  "vendor_id": "canon",
+  "product_id": "eos-1d-x-firmware",
+  "name": "Eos-1D X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eos-1d_x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

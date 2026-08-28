@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "asustor--exfat-driver",
+  "vendor_id": "asustor",
+  "product_id": "exfat-driver",
+  "name": "Exfat Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "exfat_driver",
+      "confidence": "auto"
+    }
+  ]
+}

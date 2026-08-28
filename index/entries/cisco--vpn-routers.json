@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--vpn-routers",
+  "vendor_id": "cisco",
+  "product_id": "vpn-routers",
+  "name": "VPN Routers",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "VPN Routers",
+      "confidence": "auto"
+    }
+  ]
+}

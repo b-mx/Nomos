@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avast--retdec",
+  "vendor_id": "avast",
+  "product_id": "retdec",
+  "name": "Retdec",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "retdec",
+      "confidence": "auto"
+    }
+  ]
+}

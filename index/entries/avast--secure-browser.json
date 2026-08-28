@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avast--secure-browser",
+  "vendor_id": "avast",
+  "product_id": "secure-browser",
+  "name": "Secure Browser",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "secure_browser",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ultimaker--ultimaker-s3-firmware",
+  "vendor_id": "ultimaker",
+  "product_id": "ultimaker-s3-firmware",
+  "name": "Ultimaker S3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ultimaker_s3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

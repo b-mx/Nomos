@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudfoundry--credhub-cli",
+  "vendor_id": "cloudfoundry",
+  "product_id": "credhub-cli",
+  "name": "Credhub Cli",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "credhub_cli",
+      "confidence": "auto"
+    }
+  ]
+}

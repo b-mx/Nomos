@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--php5-common",
+  "vendor_id": "debian",
+  "product_id": "php5-common",
+  "name": "Php5-Common",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "php5-common",
+      "confidence": "auto"
+    }
+  ]
+}

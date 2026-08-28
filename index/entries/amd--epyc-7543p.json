@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7543p",
+  "vendor_id": "amd",
+  "product_id": "epyc-7543p",
+  "name": "Epyc 7543P",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7543p",
+      "confidence": "auto"
+    }
+  ]
+}

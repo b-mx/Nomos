@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--amd64",
+  "vendor_id": "amd",
+  "product_id": "amd64",
+  "name": "Amd64",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amd64",
+      "confidence": "auto"
+    }
+  ]
+}

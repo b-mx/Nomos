@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--alaris-gs-firmware",
+  "vendor_id": "bd",
+  "product_id": "alaris-gs-firmware",
+  "name": "Alaris Gs Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alaris_gs_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

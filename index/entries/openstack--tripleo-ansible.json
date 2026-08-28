@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--tripleo-ansible",
+  "vendor_id": "openstack",
+  "product_id": "tripleo-ansible",
+  "name": "Tripleo Ansible",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tripleo_ansible",
+      "confidence": "auto"
+    }
+  ]
+}

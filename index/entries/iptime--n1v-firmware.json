@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iptime--n1v-firmware",
+  "vendor_id": "iptime",
+  "product_id": "n1v-firmware",
+  "name": "N1V Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "n1v_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

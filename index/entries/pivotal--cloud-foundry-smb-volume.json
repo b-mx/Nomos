@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--cloud-foundry-smb-volume",
+  "vendor_id": "pivotal",
+  "product_id": "cloud-foundry-smb-volume",
+  "name": "Cloud Foundry Smb Volume",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloud_foundry_smb_volume",
+      "confidence": "auto"
+    }
+  ]
+}

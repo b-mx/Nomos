@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp8266-nonos-sdk",
+  "vendor_id": "espressif",
+  "product_id": "esp8266-nonos-sdk",
+  "name": "Esp8266 Nonos Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp8266_nonos_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--opc-server",
+  "vendor_id": "abb",
+  "product_id": "opc-server",
+  "name": "Opc Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opc_server",
+      "confidence": "auto"
+    }
+  ]
+}

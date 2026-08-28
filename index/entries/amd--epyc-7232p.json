@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7232p",
+  "vendor_id": "amd",
+  "product_id": "epyc-7232p",
+  "name": "Epyc 7232P",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7232p",
+      "confidence": "auto"
+    }
+  ]
+}

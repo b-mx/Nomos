@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--mxsecurity",
+  "vendor_id": "moxa",
+  "product_id": "mxsecurity",
+  "name": "Mxsecurity",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mxsecurity",
+      "confidence": "auto"
+    }
+  ]
+}

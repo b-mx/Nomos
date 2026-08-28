@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--cs1000e-firmware",
+  "vendor_id": "avaya",
+  "product_id": "cs1000e-firmware",
+  "name": "Cs1000E Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cs1000e_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

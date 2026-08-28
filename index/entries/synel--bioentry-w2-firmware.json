@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synel--bioentry-w2-firmware",
+  "vendor_id": "synel",
+  "product_id": "bioentry-w2-firmware",
+  "name": "Bioentry-W2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bioentry-w2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

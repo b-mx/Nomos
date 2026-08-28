@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--apache-based-web-server",
+  "vendor_id": "hp",
+  "product_id": "apache-based-web-server",
+  "name": "Apache-Based Web Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apache-based_web_server",
+      "confidence": "auto"
+    }
+  ]
+}

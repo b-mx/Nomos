@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--virtuoso-icd-firmware",
+  "vendor_id": "medtronic",
+  "product_id": "virtuoso-icd-firmware",
+  "name": "Virtuoso Icd Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "virtuoso_icd_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

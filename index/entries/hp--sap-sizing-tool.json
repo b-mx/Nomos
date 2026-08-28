@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--sap-sizing-tool",
+  "vendor_id": "hp",
+  "product_id": "sap-sizing-tool",
+  "name": "Sap Sizing Tool",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sap_sizing_tool",
+      "confidence": "auto"
+    }
+  ]
+}

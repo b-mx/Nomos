@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "illumina--iseq-100",
+  "vendor_id": "illumina",
+  "product_id": "iseq-100",
+  "name": "Iseq 100",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iseq_100",
+      "confidence": "auto"
+    }
+  ]
+}

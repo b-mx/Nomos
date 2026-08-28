@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--w850-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "w850-firmware",
+  "name": "W850 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "w850_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

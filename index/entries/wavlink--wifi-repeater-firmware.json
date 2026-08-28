@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wavlink--wifi-repeater-firmware",
+  "vendor_id": "wavlink",
+  "product_id": "wifi-repeater-firmware",
+  "name": "Wifi-Repeater Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wifi-repeater_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

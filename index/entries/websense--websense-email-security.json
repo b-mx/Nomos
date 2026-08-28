@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "websense--websense-email-security",
+  "vendor_id": "websense",
+  "product_id": "websense-email-security",
+  "name": "Websense Email Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "websense_email_security",
+      "confidence": "auto"
+    }
+  ]
+}

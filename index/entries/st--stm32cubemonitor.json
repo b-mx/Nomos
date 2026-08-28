@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32cubemonitor",
+  "vendor_id": "st",
+  "product_id": "stm32cubemonitor",
+  "name": "Stm32Cubemonitor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32cubemonitor",
+      "confidence": "auto"
+    }
+  ]
+}

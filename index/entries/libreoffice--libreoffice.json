@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "libreoffice--libreoffice",
+  "vendor_id": "libreoffice",
+  "product_id": "libreoffice",
+  "name": "LibreOffice",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "libreoffice",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "libreoffice",
+      "confidence": "auto"
+    }
+  ]
+}

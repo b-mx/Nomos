@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fireeye--endpoint-security",
+  "vendor_id": "fireeye",
+  "product_id": "endpoint-security",
+  "name": "Endpoint Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "endpoint_security",
+      "confidence": "auto"
+    }
+  ]
+}

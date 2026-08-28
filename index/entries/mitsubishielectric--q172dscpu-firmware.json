@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--q172dscpu-firmware",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "q172dscpu-firmware",
+  "name": "Q172Dscpu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "q172dscpu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--outbound-contact-management",
+  "vendor_id": "avaya",
+  "product_id": "outbound-contact-management",
+  "name": "Outbound Contact Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "outbound_contact_management",
+      "confidence": "auto"
+    }
+  ]
+}

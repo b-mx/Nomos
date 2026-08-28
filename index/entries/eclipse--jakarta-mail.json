@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--jakarta-mail",
+  "vendor_id": "eclipse",
+  "product_id": "jakarta-mail",
+  "name": "Jakarta Mail",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jakarta_mail",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nortekcontrol--emerge-e3-firmware",
+  "vendor_id": "nortekcontrol",
+  "product_id": "emerge-e3-firmware",
+  "name": "Emerge E3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "emerge_e3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

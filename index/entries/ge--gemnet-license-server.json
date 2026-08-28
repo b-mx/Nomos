@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--gemnet-license-server",
+  "vendor_id": "ge",
+  "product_id": "gemnet-license-server",
+  "name": "Gemnet License Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gemnet_license_server",
+      "confidence": "auto"
+    }
+  ]
+}

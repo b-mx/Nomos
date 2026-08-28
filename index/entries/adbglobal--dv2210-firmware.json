@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "adbglobal--dv2210-firmware",
+  "vendor_id": "adbglobal",
+  "product_id": "dv2210-firmware",
+  "name": "Dv2210 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dv2210_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

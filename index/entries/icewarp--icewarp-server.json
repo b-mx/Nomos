@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "icewarp--icewarp-server",
+  "vendor_id": "icewarp",
+  "product_id": "icewarp-server",
+  "name": "Icewarp Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icewarp_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ericsson--codechecker",
+  "vendor_id": "ericsson",
+  "product_id": "codechecker",
+  "name": "Codechecker",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "codechecker",
+      "confidence": "auto"
+    }
+  ]
+}

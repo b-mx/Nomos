@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "dasannetworks--gpon-router",
+  "vendor_id": "dasannetworks",
+  "product_id": "gpon-router",
+  "name": "Gpon Router",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gpon_router",
+      "confidence": "auto"
+    }
+  ]
+}

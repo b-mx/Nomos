@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iodata--lan-disk-connect-firmware",
+  "vendor_id": "iodata",
+  "product_id": "lan-disk-connect-firmware",
+  "name": "Lan Disk Connect Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lan_disk_connect_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

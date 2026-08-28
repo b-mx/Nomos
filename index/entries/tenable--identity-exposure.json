@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--identity-exposure",
+  "vendor_id": "tenable",
+  "product_id": "identity-exposure",
+  "name": "Identity Exposure",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "identity_exposure",
+      "confidence": "auto"
+    }
+  ]
+}

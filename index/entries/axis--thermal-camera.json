@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--thermal-camera",
+  "vendor_id": "axis",
+  "product_id": "thermal-camera",
+  "name": "Thermal Camera",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "thermal_camera",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pingidentity--pingid-radius-pcv",
+  "vendor_id": "pingidentity",
+  "product_id": "pingid-radius-pcv",
+  "name": "Pingid Radius Pcv",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pingid_radius_pcv",
+      "confidence": "auto"
+    }
+  ]
+}

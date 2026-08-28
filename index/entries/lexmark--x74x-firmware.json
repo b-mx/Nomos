@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--x74x-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "x74x-firmware",
+  "name": "X74X Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x74x_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

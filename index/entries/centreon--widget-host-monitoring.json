@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "centreon--widget-host-monitoring",
+  "vendor_id": "centreon",
+  "product_id": "widget-host-monitoring",
+  "name": "Widget-Host-Monitoring",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "widget-host-monitoring",
+      "confidence": "auto"
+    }
+  ]
+}

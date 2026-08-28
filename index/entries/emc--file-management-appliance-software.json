@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--file-management-appliance-software",
+  "vendor_id": "emc",
+  "product_id": "file-management-appliance-software",
+  "name": "File Management Appliance Software",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "file_management_appliance_software",
+      "confidence": "auto"
+    }
+  ]
+}

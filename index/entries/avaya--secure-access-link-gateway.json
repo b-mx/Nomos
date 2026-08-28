@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--secure-access-link-gateway",
+  "vendor_id": "avaya",
+  "product_id": "secure-access-link-gateway",
+  "name": "Secure Access Link Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "secure_access_link_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

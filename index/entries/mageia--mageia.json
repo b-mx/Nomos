@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "mageia--mageia",
+  "vendor_id": "mageia",
+  "product_id": "mageia",
+  "name": "Mageia",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "mageia",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "mageia",
+      "confidence": "auto"
+    }
+  ]
+}

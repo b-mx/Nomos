@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "freebsd--freebsd",
+  "vendor_id": "freebsd",
+  "product_id": "freebsd",
+  "name": "FreeBSD",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "freebsd",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "freebsd",
+      "confidence": "auto"
+    }
+  ]
+}

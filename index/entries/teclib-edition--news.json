@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teclib-edition--news",
+  "vendor_id": "teclib-edition",
+  "product_id": "news",
+  "name": "News",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "news",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--wear-app",
+  "vendor_id": "huawei",
+  "product_id": "wear-app",
+  "name": "Wear App",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wear_app",
+      "confidence": "auto"
+    }
+  ]
+}

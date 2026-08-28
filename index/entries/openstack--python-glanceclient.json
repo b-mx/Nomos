@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--python-glanceclient",
+  "vendor_id": "openstack",
+  "product_id": "python-glanceclient",
+  "name": "Python Glanceclient",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "python_glanceclient",
+      "confidence": "auto"
+    }
+  ]
+}

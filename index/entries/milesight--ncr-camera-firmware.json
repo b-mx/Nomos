@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "milesight--ncr-camera-firmware",
+  "vendor_id": "milesight",
+  "product_id": "ncr-camera-firmware",
+  "name": "Ncr/Camera Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ncr/camera_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

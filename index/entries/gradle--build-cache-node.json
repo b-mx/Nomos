@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gradle--build-cache-node",
+  "vendor_id": "gradle",
+  "product_id": "build-cache-node",
+  "name": "Build Cache Node",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "build_cache_node",
+      "confidence": "auto"
+    }
+  ]
+}

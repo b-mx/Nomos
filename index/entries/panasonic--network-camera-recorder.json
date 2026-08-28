@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "panasonic--network-camera-recorder",
+  "vendor_id": "panasonic",
+  "product_id": "network-camera-recorder",
+  "name": "Network Camera Recorder",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_camera_recorder",
+      "confidence": "auto"
+    }
+  ]
+}

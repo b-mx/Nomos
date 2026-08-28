@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--freedombox",
+  "vendor_id": "debian",
+  "product_id": "freedombox",
+  "name": "Freedombox",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "freedombox",
+      "confidence": "auto"
+    }
+  ]
+}

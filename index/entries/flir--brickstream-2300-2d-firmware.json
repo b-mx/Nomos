@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "flir--brickstream-2300-2d-firmware",
+  "vendor_id": "flir",
+  "product_id": "brickstream-2300-2d-firmware",
+  "name": "Brickstream 2300 2D Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "brickstream_2300_2d_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

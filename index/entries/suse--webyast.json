@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--webyast",
+  "vendor_id": "suse",
+  "product_id": "webyast",
+  "name": "Webyast",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "webyast",
+      "confidence": "auto"
+    }
+  ]
+}

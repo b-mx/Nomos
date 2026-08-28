@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-5-2600h",
+  "vendor_id": "amd",
+  "product_id": "ryzen-5-2600h",
+  "name": "Ryzen 5 2600H",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_5_2600h",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "brocade--silkworm-200e-switch",
+  "vendor_id": "brocade",
+  "product_id": "silkworm-200e-switch",
+  "name": "Silkworm 200E Switch",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "silkworm_200e_switch",
+      "confidence": "auto"
+    }
+  ]
+}

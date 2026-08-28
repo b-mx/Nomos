@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--ch140-firmware",
+  "vendor_id": "huawei",
+  "product_id": "ch140-firmware",
+  "name": "Ch140 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ch140_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

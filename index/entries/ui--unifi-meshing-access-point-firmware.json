@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-meshing-access-point-firmware",
+  "vendor_id": "ui",
+  "product_id": "unifi-meshing-access-point-firmware",
+  "name": "Unifi Meshing Access Point Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_meshing_access_point_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

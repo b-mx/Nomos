@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tanium--server",
+  "vendor_id": "tanium",
+  "product_id": "server",
+  "name": "Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "server",
+      "confidence": "auto"
+    }
+  ]
+}

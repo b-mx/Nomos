@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--tar-scm",
+  "vendor_id": "opensuse",
+  "product_id": "tar-scm",
+  "name": "Tar Scm",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tar_scm",
+      "confidence": "auto"
+    }
+  ]
+}

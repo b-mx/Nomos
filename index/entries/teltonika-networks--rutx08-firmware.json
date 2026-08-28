@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teltonika-networks--rutx08-firmware",
+  "vendor_id": "teltonika-networks",
+  "product_id": "rutx08-firmware",
+  "name": "Rutx08 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rutx08_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

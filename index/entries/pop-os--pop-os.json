@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pop-os--pop-os",
+  "vendor_id": "pop-os",
+  "product_id": "pop-os",
+  "name": "Pop!_OS",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "pop-os",
+      "confidence": "auto"
+    }
+  ]
+}

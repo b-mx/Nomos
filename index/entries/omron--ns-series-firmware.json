@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "omron--ns-series-firmware",
+  "vendor_id": "omron",
+  "product_id": "ns-series-firmware",
+  "name": "Ns Series Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ns_series_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

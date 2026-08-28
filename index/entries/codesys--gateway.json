@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "codesys--gateway",
+  "vendor_id": "codesys",
+  "product_id": "gateway",
+  "name": "Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gateway",
+      "confidence": "auto"
+    }
+  ]
+}

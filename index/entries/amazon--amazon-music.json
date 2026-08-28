@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--amazon-music",
+  "vendor_id": "amazon",
+  "product_id": "amazon-music",
+  "name": "Amazon Music",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amazon_music",
+      "confidence": "auto"
+    }
+  ]
+}

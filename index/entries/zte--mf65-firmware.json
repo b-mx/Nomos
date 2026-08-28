@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zte--mf65-firmware",
+  "vendor_id": "zte",
+  "product_id": "mf65-firmware",
+  "name": "Mf65 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mf65_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

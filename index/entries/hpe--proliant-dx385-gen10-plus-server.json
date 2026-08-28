@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--proliant-dx385-gen10-plus-server",
+  "vendor_id": "hpe",
+  "product_id": "proliant-dx385-gen10-plus-server",
+  "name": "Proliant Dx385 Gen10 Plus Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "proliant_dx385_gen10_plus_server",
+      "confidence": "auto"
+    }
+  ]
+}

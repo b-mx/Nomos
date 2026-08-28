@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emcosoftware--ping-monitor",
+  "vendor_id": "emcosoftware",
+  "product_id": "ping-monitor",
+  "name": "Ping Monitor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ping_monitor",
+      "confidence": "auto"
+    }
+  ]
+}

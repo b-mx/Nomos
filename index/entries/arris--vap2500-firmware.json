@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arris--vap2500-firmware",
+  "vendor_id": "arris",
+  "product_id": "vap2500-firmware",
+  "name": "Vap2500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vap2500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

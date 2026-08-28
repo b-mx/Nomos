@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ericsson--packet-core-gateway",
+  "vendor_id": "ericsson",
+  "product_id": "packet-core-gateway",
+  "name": "Packet Core Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "packet_core_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

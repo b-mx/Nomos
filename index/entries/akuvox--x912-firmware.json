@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "akuvox--x912-firmware",
+  "vendor_id": "akuvox",
+  "product_id": "x912-firmware",
+  "name": "X912 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x912_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

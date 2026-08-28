@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--snmp-agents-for-linux",
+  "vendor_id": "hp",
+  "product_id": "snmp-agents-for-linux",
+  "name": "Snmp Agents For Linux",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "snmp_agents_for_linux",
+      "confidence": "auto"
+    }
+  ]
+}

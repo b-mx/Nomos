@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--nexo-os",
+  "vendor_id": "bosch",
+  "product_id": "nexo-os",
+  "name": "Nexo-Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nexo-os",
+      "confidence": "auto"
+    }
+  ]
+}

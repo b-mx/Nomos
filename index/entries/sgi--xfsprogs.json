@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sgi--xfsprogs",
+  "vendor_id": "sgi",
+  "product_id": "xfsprogs",
+  "name": "Xfsprogs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xfsprogs",
+      "confidence": "auto"
+    }
+  ]
+}

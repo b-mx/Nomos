@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fsi--fs010w-firmware",
+  "vendor_id": "fsi",
+  "product_id": "fs010w-firmware",
+  "name": "Fs010W Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fs010w_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

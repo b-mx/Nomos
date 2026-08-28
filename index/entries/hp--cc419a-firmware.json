@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--cc419a-firmware",
+  "vendor_id": "hp",
+  "product_id": "cc419a-firmware",
+  "name": "Cc419A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cc419a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

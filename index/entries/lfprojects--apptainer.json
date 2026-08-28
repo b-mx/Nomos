@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lfprojects--apptainer",
+  "vendor_id": "lfprojects",
+  "product_id": "apptainer",
+  "name": "Apptainer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apptainer",
+      "confidence": "auto"
+    }
+  ]
+}

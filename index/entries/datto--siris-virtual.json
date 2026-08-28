@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "datto--siris-virtual",
+  "vendor_id": "datto",
+  "product_id": "siris-virtual",
+  "name": "Siris Virtual",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "siris_virtual",
+      "confidence": "auto"
+    }
+  ]
+}

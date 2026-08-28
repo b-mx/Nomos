@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--power-management",
+  "vendor_id": "lenovo",
+  "product_id": "power-management",
+  "name": "Power Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "power_management",
+      "confidence": "auto"
+    }
+  ]
+}

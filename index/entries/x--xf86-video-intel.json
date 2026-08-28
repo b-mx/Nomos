@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x--xf86-video-intel",
+  "vendor_id": "x",
+  "product_id": "xf86-video-intel",
+  "name": "Xf86-Video-Intel",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "xf86-video-intel",
+      "confidence": "auto"
+    }
+  ]
+}

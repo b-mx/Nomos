@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "asrmicro--asr1803-firmware",
+  "vendor_id": "asrmicro",
+  "product_id": "asr1803-firmware",
+  "name": "Asr1803 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "asr1803_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "golang--protobuf",
+  "vendor_id": "golang",
+  "product_id": "protobuf",
+  "name": "Protobuf",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "protobuf",
+      "confidence": "auto"
+    }
+  ]
+}

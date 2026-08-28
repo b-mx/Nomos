@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sonos--one-firmware",
+  "vendor_id": "sonos",
+  "product_id": "one-firmware",
+  "name": "One Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "one_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

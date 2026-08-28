@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "chef--chef-inspec",
+  "vendor_id": "chef",
+  "product_id": "chef-inspec",
+  "name": "Chef InSpec",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "chef-inspec",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "inspec",
+      "confidence": "auto"
+    }
+  ]
+}

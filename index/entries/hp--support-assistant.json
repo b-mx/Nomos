@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--support-assistant",
+  "vendor_id": "hp",
+  "product_id": "support-assistant",
+  "name": "Support Assistant",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "support_assistant",
+      "confidence": "auto"
+    }
+  ]
+}

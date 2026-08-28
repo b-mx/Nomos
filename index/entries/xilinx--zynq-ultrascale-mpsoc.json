@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "xilinx--zynq-ultrascale-mpsoc",
+  "vendor_id": "xilinx",
+  "product_id": "zynq-ultrascale-mpsoc",
+  "name": "Zynq Ultrascale+ Mpsoc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zynq_ultrascale+_mpsoc",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "silabs--micrium-uc-http",
+  "vendor_id": "silabs",
+  "product_id": "micrium-uc-http",
+  "name": "Micrium Uc-Http",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "micrium_uc-http",
+      "confidence": "auto"
+    }
+  ]
+}

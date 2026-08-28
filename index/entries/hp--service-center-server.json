@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--service-center-server",
+  "vendor_id": "hp",
+  "product_id": "service-center-server",
+  "name": "Service Center Server",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_center_server",
+      "confidence": "auto"
+    }
+  ]
+}

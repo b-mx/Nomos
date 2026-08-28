@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp32",
+  "vendor_id": "espressif",
+  "product_id": "esp32",
+  "name": "Esp32",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp32",
+      "confidence": "auto"
+    }
+  ]
+}

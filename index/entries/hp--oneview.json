@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--oneview",
+  "vendor_id": "hp",
+  "product_id": "oneview",
+  "name": "Oneview",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "oneview",
+      "confidence": "auto"
+    }
+  ]
+}

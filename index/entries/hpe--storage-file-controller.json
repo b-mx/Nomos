@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hpe--storage-file-controller",
+  "vendor_id": "hpe",
+  "product_id": "storage-file-controller",
+  "name": "Storage File Controller",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storage_file_controller",
+      "confidence": "auto"
+    }
+  ]
+}

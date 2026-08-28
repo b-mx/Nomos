@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sgi--mipspro-compilers",
+  "vendor_id": "sgi",
+  "product_id": "mipspro-compilers",
+  "name": "Mipspro Compilers",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mipspro_compilers",
+      "confidence": "auto"
+    }
+  ]
+}

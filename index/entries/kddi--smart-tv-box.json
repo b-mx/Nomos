@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kddi--smart-tv-box",
+  "vendor_id": "kddi",
+  "product_id": "smart-tv-box",
+  "name": "Smart Tv Box",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "smart_tv_box",
+      "confidence": "auto"
+    }
+  ]
+}

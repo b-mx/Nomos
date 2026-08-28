@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "medtronic--mirro-icd",
+  "vendor_id": "medtronic",
+  "product_id": "mirro-icd",
+  "name": "Mirro Icd",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mirro_icd",
+      "confidence": "auto"
+    }
+  ]
+}

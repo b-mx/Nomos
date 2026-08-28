@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fatek--plc-ethernet-module",
+  "vendor_id": "fatek",
+  "product_id": "plc-ethernet-module",
+  "name": "Plc Ethernet Module",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plc_ethernet_module",
+      "confidence": "auto"
+    }
+  ]
+}

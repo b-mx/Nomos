@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--usb-host-uvc-class-driver",
+  "vendor_id": "espressif",
+  "product_id": "usb-host-uvc-class-driver",
+  "name": "Usb Host Uvc Class Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "usb_host_uvc_class_driver",
+      "confidence": "auto"
+    }
+  ]
+}

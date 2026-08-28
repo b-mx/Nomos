@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--murano-dashboard",
+  "vendor_id": "openstack",
+  "product_id": "murano-dashboard",
+  "name": "Murano-Dashboard",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "murano-dashboard",
+      "confidence": "auto"
+    }
+  ]
+}

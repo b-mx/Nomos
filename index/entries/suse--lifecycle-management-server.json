@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--lifecycle-management-server",
+  "vendor_id": "suse",
+  "product_id": "lifecycle-management-server",
+  "name": "Lifecycle Management Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lifecycle_management_server",
+      "confidence": "auto"
+    }
+  ]
+}

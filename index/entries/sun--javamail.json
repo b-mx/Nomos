@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--javamail",
+  "vendor_id": "sun",
+  "product_id": "javamail",
+  "name": "Javamail",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "javamail",
+      "confidence": "auto"
+    }
+  ]
+}

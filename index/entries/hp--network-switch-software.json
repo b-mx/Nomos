@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--network-switch-software",
+  "vendor_id": "hp",
+  "product_id": "network-switch-software",
+  "name": "Network Switch Software",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_switch_software",
+      "confidence": "auto"
+    }
+  ]
+}

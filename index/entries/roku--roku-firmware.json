@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "roku--roku-firmware",
+  "vendor_id": "roku",
+  "product_id": "roku-firmware",
+  "name": "Roku Firmware",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "roku_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

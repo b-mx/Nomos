@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "coolpad--canvas-firmware",
+  "vendor_id": "coolpad",
+  "product_id": "canvas-firmware",
+  "name": "Canvas Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "canvas_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

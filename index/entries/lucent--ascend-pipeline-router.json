@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lucent--ascend-pipeline-router",
+  "vendor_id": "lucent",
+  "product_id": "ascend-pipeline-router",
+  "name": "Ascend Pipeline Router",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ascend_pipeline_router",
+      "confidence": "auto"
+    }
+  ]
+}

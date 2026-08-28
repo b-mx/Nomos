@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iss--internet-scanner",
+  "vendor_id": "iss",
+  "product_id": "internet-scanner",
+  "name": "Internet Scanner",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "internet_scanner",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--access-manager-agent",
+  "vendor_id": "rsa",
+  "product_id": "access-manager-agent",
+  "name": "Access Manager Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "access_manager_agent",
+      "confidence": "auto"
+    }
+  ]
+}

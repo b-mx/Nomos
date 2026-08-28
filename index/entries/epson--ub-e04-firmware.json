@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--ub-e04-firmware",
+  "vendor_id": "epson",
+  "product_id": "ub-e04-firmware",
+  "name": "Ub-E04 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ub-e04_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

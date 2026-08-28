@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phoenixcontact--mguard-centerport-firmware",
+  "vendor_id": "phoenixcontact",
+  "product_id": "mguard-centerport-firmware",
+  "name": "Mguard Centerport Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mguard_centerport_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

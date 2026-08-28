@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--moonshot-provisioning-manager-appliance",
+  "vendor_id": "hp",
+  "product_id": "moonshot-provisioning-manager-appliance",
+  "name": "Moonshot Provisioning Manager Appliance",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "moonshot_provisioning_manager_appliance",
+      "confidence": "auto"
+    }
+  ]
+}

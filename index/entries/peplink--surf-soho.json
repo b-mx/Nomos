@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--surf-soho",
+  "vendor_id": "peplink",
+  "product_id": "surf-soho",
+  "name": "Surf Soho",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "surf_soho",
+      "confidence": "auto"
+    }
+  ]
+}

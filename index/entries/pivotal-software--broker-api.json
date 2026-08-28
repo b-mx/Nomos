@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--broker-api",
+  "vendor_id": "pivotal-software",
+  "product_id": "broker-api",
+  "name": "Broker Api",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "broker_api",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "snyk--snyk-language-server",
+  "vendor_id": "snyk",
+  "product_id": "snyk-language-server",
+  "name": "Snyk Language Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "snyk_language_server",
+      "confidence": "auto"
+    }
+  ]
+}

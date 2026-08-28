@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cyberark--identity",
+  "vendor_id": "cyberark",
+  "product_id": "identity",
+  "name": "Identity",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "identity",
+      "confidence": "auto"
+    }
+  ]
+}

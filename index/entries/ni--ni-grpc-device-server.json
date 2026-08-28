@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ni--ni-grpc-device-server",
+  "vendor_id": "ni",
+  "product_id": "ni-grpc-device-server",
+  "name": "Ni Grpc Device Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ni_grpc_device_server",
+      "confidence": "auto"
+    }
+  ]
+}

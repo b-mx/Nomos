@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pulse-secure--pulse-connect-secure",
+  "vendor_id": "pulse-secure",
+  "product_id": "pulse-connect-secure",
+  "name": "Pulse Connect Secure",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Pulse Connect Secure",
+      "confidence": "auto"
+    }
+  ]
+}

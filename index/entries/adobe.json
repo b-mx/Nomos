@@ -3,12 +3,12 @@
   "slug": "adobe",
   "vendor_id": "adobe",
   "name": "Adobe",
-  "icon": "logos:adobe-icon",
+  "icon": null,
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Adobe",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

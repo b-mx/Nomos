@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iptime--a1004-firmware",
+  "vendor_id": "iptime",
+  "product_id": "a1004-firmware",
+  "name": "A1004 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a1004_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

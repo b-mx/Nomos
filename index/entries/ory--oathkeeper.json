@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ory--oathkeeper",
+  "vendor_id": "ory",
+  "product_id": "oathkeeper",
+  "name": "Oathkeeper",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "oathkeeper",
+      "confidence": "auto"
+    }
+  ]
+}

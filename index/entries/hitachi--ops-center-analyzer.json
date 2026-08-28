@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachi--ops-center-analyzer",
+  "vendor_id": "hitachi",
+  "product_id": "ops-center-analyzer",
+  "name": "Ops Center Analyzer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ops_center_analyzer",
+      "confidence": "auto"
+    }
+  ]
+}

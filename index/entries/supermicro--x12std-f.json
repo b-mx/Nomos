@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x12std-f",
+  "vendor_id": "supermicro",
+  "product_id": "x12std-f",
+  "name": "X12Std-F",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x12std-f",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "miniorange--google-authenticator",
+  "vendor_id": "miniorange",
+  "product_id": "google-authenticator",
+  "name": "Google Authenticator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "google_authenticator",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32f098cc-firmware",
+  "vendor_id": "st",
+  "product_id": "stm32f098cc-firmware",
+  "name": "Stm32F098Cc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32f098cc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

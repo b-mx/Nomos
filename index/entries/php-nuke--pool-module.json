@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "php-nuke--pool-module",
+  "vendor_id": "php-nuke",
+  "product_id": "pool-module",
+  "name": "Pool Module",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pool_module",
+      "confidence": "auto"
+    }
+  ]
+}

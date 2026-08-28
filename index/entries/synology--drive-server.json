@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--drive-server",
+  "vendor_id": "synology",
+  "product_id": "drive-server",
+  "name": "Drive Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "drive_server",
+      "confidence": "auto"
+    }
+  ]
+}

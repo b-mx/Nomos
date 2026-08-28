@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-embedded-755p",
+  "vendor_id": "amd",
+  "product_id": "epyc-embedded-755p",
+  "name": "Epyc Embedded 755P",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_embedded_755p",
+      "confidence": "auto"
+    }
+  ]
+}

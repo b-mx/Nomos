@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--jupyter-core",
+  "vendor_id": "jupyter",
+  "product_id": "jupyter-core",
+  "name": "Jupyter Core",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jupyter_core",
+      "confidence": "auto"
+    }
+  ]
+}

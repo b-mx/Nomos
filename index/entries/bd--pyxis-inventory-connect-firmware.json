@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--pyxis-inventory-connect-firmware",
+  "vendor_id": "bd",
+  "product_id": "pyxis-inventory-connect-firmware",
+  "name": "Pyxis Inventory Connect Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pyxis_inventory_connect_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

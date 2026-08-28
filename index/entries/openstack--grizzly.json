@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--grizzly",
+  "vendor_id": "openstack",
+  "product_id": "grizzly",
+  "name": "Grizzly",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "grizzly",
+      "confidence": "auto"
+    }
+  ]
+}

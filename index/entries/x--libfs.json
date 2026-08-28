@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "x--libfs",
+  "vendor_id": "x",
+  "product_id": "libfs",
+  "name": "Libfs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libfs",
+      "confidence": "auto"
+    }
+  ]
+}

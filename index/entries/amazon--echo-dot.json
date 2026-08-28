@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--echo-dot",
+  "vendor_id": "amazon",
+  "product_id": "echo-dot",
+  "name": "Echo Dot",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "echo_dot",
+      "confidence": "auto"
+    }
+  ]
+}

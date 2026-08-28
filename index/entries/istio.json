@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "istio",
+  "vendor_id": "istio",
+  "name": "Istio",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "istio",
+      "confidence": "auto"
+    }
+  ]
+}

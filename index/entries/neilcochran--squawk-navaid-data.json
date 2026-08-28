@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "neilcochran--squawk-navaid-data",
+  "vendor_id": "neilcochran",
+  "product_id": "squawk-navaid-data",
+  "name": "Squawk/Navaid-Data",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "squawk/navaid-data",
+      "confidence": "auto"
+    }
+  ]
+}

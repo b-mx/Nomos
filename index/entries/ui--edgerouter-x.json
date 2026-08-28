@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--edgerouter-x",
+  "vendor_id": "ui",
+  "product_id": "edgerouter-x",
+  "name": "Edgerouter X",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "edgerouter_x",
+      "confidence": "auto"
+    }
+  ]
+}

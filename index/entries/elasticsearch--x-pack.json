@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "elasticsearch--x-pack",
+  "vendor_id": "elasticsearch",
+  "product_id": "x-pack",
+  "name": "X-Pack",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x-pack",
+      "confidence": "auto"
+    }
+  ]
+}

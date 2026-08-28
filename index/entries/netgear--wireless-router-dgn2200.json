@@ -4,11 +4,9 @@
   "vendor_id": "netgear",
   "product_id": "wireless-router-dgn2200",
   "name": "Wireless Router DGN2200",
-  "type": "hardware",
-  "tags": [
-    "network-device"
-  ],
-  "icon": "simple-icons:netgear",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

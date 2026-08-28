@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "azure-database-for-postgresql--azure-database-for-postgresql",
+  "vendor_id": "azure-database-for-postgresql",
+  "product_id": "azure-database-for-postgresql",
+  "name": "Azure Database for PostgreSQL",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "azure-database-for-postgresql",
+      "confidence": "auto"
+    }
+  ]
+}

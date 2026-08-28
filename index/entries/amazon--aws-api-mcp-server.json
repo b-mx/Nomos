@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-api-mcp-server",
+  "vendor_id": "amazon",
+  "product_id": "aws-api-mcp-server",
+  "name": "Aws Api Mcp Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws_api_mcp_server",
+      "confidence": "auto"
+    }
+  ]
+}

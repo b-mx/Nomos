@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--iq3xcite-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "iq3xcite-firmware",
+  "name": "Iq3Xcite Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iq3xcite_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

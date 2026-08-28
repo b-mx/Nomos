@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--tekton-pipelines",
+  "vendor_id": "linuxfoundation",
+  "product_id": "tekton-pipelines",
+  "name": "Tekton Pipelines",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tekton_pipelines",
+      "confidence": "auto"
+    }
+  ]
+}

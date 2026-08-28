@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lfprojects--mcp-java-sdk",
+  "vendor_id": "lfprojects",
+  "product_id": "mcp-java-sdk",
+  "name": "Mcp Java Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mcp_java_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

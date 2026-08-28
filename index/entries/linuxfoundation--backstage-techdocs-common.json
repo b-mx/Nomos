@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--backstage-techdocs-common",
+  "vendor_id": "linuxfoundation",
+  "product_id": "backstage-techdocs-common",
+  "name": "@Backstage/Techdocs-Common",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "@backstage/techdocs-common",
+      "confidence": "auto"
+    }
+  ]
+}

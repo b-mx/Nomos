@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emcosoftware--remote-installer",
+  "vendor_id": "emcosoftware",
+  "product_id": "remote-installer",
+  "name": "Remote Installer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remote_installer",
+      "confidence": "auto"
+    }
+  ]
+}

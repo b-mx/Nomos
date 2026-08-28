@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--cf081a-firmware",
+  "vendor_id": "hp",
+  "product_id": "cf081a-firmware",
+  "name": "Cf081A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cf081a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal-software--rabbitmq-management",
+  "vendor_id": "pivotal-software",
+  "product_id": "rabbitmq-management",
+  "name": "Rabbitmq Management",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rabbitmq_management",
+      "confidence": "auto"
+    }
+  ]
+}

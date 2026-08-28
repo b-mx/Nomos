@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--r08sfcpu-firmware",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "r08sfcpu-firmware",
+  "name": "R08Sfcpu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "r08sfcpu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

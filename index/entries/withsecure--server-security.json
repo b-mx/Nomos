@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "withsecure--server-security",
+  "vendor_id": "withsecure",
+  "product_id": "server-security",
+  "name": "Server Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "server_security",
+      "confidence": "auto"
+    }
+  ]
+}

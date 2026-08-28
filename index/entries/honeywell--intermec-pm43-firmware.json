@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--intermec-pm43-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "intermec-pm43-firmware",
+  "name": "Intermec Pm43 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "intermec_pm43_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

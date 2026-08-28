@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sas--environment-manager",
+  "vendor_id": "sas",
+  "product_id": "environment-manager",
+  "name": "Environment Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "environment_manager",
+      "confidence": "auto"
+    }
+  ]
+}

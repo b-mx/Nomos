@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kyocera--net-viewer",
+  "vendor_id": "kyocera",
+  "product_id": "net-viewer",
+  "name": "Net Viewer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "net_viewer",
+      "confidence": "auto"
+    }
+  ]
+}

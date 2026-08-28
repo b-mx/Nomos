@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--cifs-server",
+  "vendor_id": "hp",
+  "product_id": "cifs-server",
+  "name": "Cifs Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cifs_server",
+      "confidence": "auto"
+    }
+  ]
+}

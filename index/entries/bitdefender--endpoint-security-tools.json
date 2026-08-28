@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bitdefender--endpoint-security-tools",
+  "vendor_id": "bitdefender",
+  "product_id": "endpoint-security-tools",
+  "name": "Endpoint Security Tools",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "endpoint_security_tools",
+      "confidence": "auto"
+    }
+  ]
+}

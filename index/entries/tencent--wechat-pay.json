@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tencent--wechat-pay",
+  "vendor_id": "tencent",
+  "product_id": "wechat-pay",
+  "name": "Wechat Pay",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wechat_pay",
+      "confidence": "auto"
+    }
+  ]
+}

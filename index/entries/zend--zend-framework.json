@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zend--zend-framework",
+  "vendor_id": "zend",
+  "product_id": "zend-framework",
+  "name": "Zend Framework",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zend_framework",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "discourse--group-membership-ip-blocks",
+  "vendor_id": "discourse",
+  "product_id": "group-membership-ip-blocks",
+  "name": "Group Membership Ip Blocks",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "group_membership_ip_blocks",
+      "confidence": "auto"
+    }
+  ]
+}

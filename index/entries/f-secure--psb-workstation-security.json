@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "f-secure--psb-workstation-security",
+  "vendor_id": "f-secure",
+  "product_id": "psb-workstation-security",
+  "name": "Psb Workstation Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "psb_workstation_security",
+      "confidence": "auto"
+    }
+  ]
+}

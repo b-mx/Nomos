@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "python--pillow",
+  "vendor_id": "python",
+  "product_id": "pillow",
+  "name": "Pillow",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pillow",
+      "confidence": "auto"
+    }
+  ]
+}

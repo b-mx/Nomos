@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kalkitech--sync3000-firmware",
+  "vendor_id": "kalkitech",
+  "product_id": "sync3000-firmware",
+  "name": "Sync3000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sync3000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--kubernetes-monitoring-operator",
+  "vendor_id": "netapp",
+  "product_id": "kubernetes-monitoring-operator",
+  "name": "Kubernetes Monitoring Operator",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kubernetes_monitoring_operator",
+      "confidence": "auto"
+    }
+  ]
+}

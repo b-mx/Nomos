@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--elan-touchpad-driver",
+  "vendor_id": "emc",
+  "product_id": "elan-touchpad-driver",
+  "name": "Elan Touchpad Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "elan_touchpad_driver",
+      "confidence": "auto"
+    }
+  ]
+}

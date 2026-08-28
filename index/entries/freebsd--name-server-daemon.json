@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freebsd--name-server-daemon",
+  "vendor_id": "freebsd",
+  "product_id": "name-server-daemon",
+  "name": "Name Server Daemon",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "name_server_daemon",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "docker--desktop-community-edition",
+  "vendor_id": "docker",
+  "product_id": "desktop-community-edition",
+  "name": "Desktop Community Edition",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Desktop Community Edition",
+      "confidence": "auto"
+    }
+  ]
+}

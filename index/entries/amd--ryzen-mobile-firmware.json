@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-mobile-firmware",
+  "vendor_id": "amd",
+  "product_id": "ryzen-mobile-firmware",
+  "name": "Ryzen Mobile Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_mobile_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

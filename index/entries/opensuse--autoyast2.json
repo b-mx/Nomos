@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--autoyast2",
+  "vendor_id": "opensuse",
+  "product_id": "autoyast2",
+  "name": "Autoyast2",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "autoyast2",
+      "confidence": "auto"
+    }
+  ]
+}

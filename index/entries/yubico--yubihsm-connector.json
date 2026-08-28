@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yubico--yubihsm-connector",
+  "vendor_id": "yubico",
+  "product_id": "yubihsm-connector",
+  "name": "Yubihsm Connector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "yubihsm_connector",
+      "confidence": "auto"
+    }
+  ]
+}

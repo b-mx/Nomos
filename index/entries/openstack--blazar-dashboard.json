@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--blazar-dashboard",
+  "vendor_id": "openstack",
+  "product_id": "blazar-dashboard",
+  "name": "Blazar-Dashboard",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "blazar-dashboard",
+      "confidence": "auto"
+    }
+  ]
+}

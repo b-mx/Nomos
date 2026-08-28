@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "github--runner",
+  "vendor_id": "github",
+  "product_id": "runner",
+  "name": "Runner",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "runner",
+      "confidence": "auto"
+    }
+  ]
+}

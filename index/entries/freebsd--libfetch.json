@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "freebsd--libfetch",
+  "vendor_id": "freebsd",
+  "product_id": "libfetch",
+  "name": "Libfetch",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libfetch",
+      "confidence": "auto"
+    }
+  ]
+}

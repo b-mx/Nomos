@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fabian--job-portal",
+  "vendor_id": "fabian",
+  "product_id": "job-portal",
+  "name": "Job Portal",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "job_portal",
+      "confidence": "auto"
+    }
+  ]
+}

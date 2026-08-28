@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--shotx-firmware",
+  "vendor_id": "huawei",
+  "product_id": "shotx-firmware",
+  "name": "Shotx Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "shotx_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

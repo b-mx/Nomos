@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--tumbleweed",
+  "vendor_id": "opensuse",
+  "product_id": "tumbleweed",
+  "name": "Tumbleweed",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tumbleweed",
+      "confidence": "auto"
+    }
+  ]
+}

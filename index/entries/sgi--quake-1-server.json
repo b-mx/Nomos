@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sgi--quake-1-server",
+  "vendor_id": "sgi",
+  "product_id": "quake-1-server",
+  "name": "Quake 1 Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "quake_1_server",
+      "confidence": "auto"
+    }
+  ]
+}

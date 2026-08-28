@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "xilinx--zynq-7000s",
+  "vendor_id": "xilinx",
+  "product_id": "zynq-7000s",
+  "name": "Zynq-7000S",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zynq-7000s",
+      "confidence": "auto"
+    }
+  ]
+}

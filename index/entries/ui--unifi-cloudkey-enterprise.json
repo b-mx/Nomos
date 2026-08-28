@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--unifi-cloudkey-enterprise",
+  "vendor_id": "ui",
+  "product_id": "unifi-cloudkey-enterprise",
+  "name": "Unifi Cloudkey Enterprise",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "unifi_cloudkey_enterprise",
+      "confidence": "auto"
+    }
+  ]
+}

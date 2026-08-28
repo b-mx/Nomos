@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--service-processor",
+  "vendor_id": "netapp",
+  "product_id": "service-processor",
+  "name": "Service Processor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_processor",
+      "confidence": "auto"
+    }
+  ]
+}

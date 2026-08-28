@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "panasonic--p99-firmware",
+  "vendor_id": "panasonic",
+  "product_id": "p99-firmware",
+  "name": "P99 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "p99_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

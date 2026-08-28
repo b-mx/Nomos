@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--cq183a-firmware",
+  "vendor_id": "hp",
+  "product_id": "cq183a-firmware",
+  "name": "Cq183A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cq183a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

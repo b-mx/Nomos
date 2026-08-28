@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "isc--kea",
+  "vendor_id": "isc",
+  "product_id": "kea",
+  "name": "Kea",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kea",
+      "confidence": "auto"
+    }
+  ]
+}

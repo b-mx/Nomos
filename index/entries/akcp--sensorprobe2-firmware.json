@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "akcp--sensorprobe2-firmware",
+  "vendor_id": "akcp",
+  "product_id": "sensorprobe2-firmware",
+  "name": "Sensorprobe2 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sensorprobe2_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

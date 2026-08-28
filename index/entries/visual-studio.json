@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "visual-studio",
+  "vendor_id": "visual-studio",
+  "name": "Microsoft Visual Studio",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "visual-studio",
+      "confidence": "auto"
+    }
+  ]
+}

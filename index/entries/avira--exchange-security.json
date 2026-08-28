@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avira--exchange-security",
+  "vendor_id": "avira",
+  "product_id": "exchange-security",
+  "name": "Exchange Security",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "exchange_security",
+      "confidence": "auto"
+    }
+  ]
+}

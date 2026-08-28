@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sas--sas-intrnet",
+  "vendor_id": "sas",
+  "product_id": "sas-intrnet",
+  "name": "Sas/Intrnet",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sas/intrnet",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--echo-show",
+  "vendor_id": "amazon",
+  "product_id": "echo-show",
+  "name": "Echo Show",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "echo_show",
+      "confidence": "auto"
+    }
+  ]
+}

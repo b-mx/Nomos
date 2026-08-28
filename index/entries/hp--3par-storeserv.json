@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--3par-storeserv",
+  "vendor_id": "hp",
+  "product_id": "3par-storeserv",
+  "name": "3Par Storeserv",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "3par_storeserv",
+      "confidence": "auto"
+    }
+  ]
+}

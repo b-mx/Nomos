@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachi--vsp-e1090-firmware",
+  "vendor_id": "hitachi",
+  "product_id": "vsp-e1090-firmware",
+  "name": "Vsp E1090 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vsp_e1090_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

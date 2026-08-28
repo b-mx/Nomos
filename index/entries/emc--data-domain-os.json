@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--data-domain-os",
+  "vendor_id": "emc",
+  "product_id": "data-domain-os",
+  "name": "Data Domain Os",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "data_domain_os",
+      "confidence": "auto"
+    }
+  ]
+}

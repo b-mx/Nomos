@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--max-hd1-dome-firmware",
+  "vendor_id": "peplink",
+  "product_id": "max-hd1-dome-firmware",
+  "name": "Max Hd1 Dome Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "max_hd1_dome_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -4,11 +4,9 @@
   "vendor_id": "netgear",
   "product_id": "wireless-access-point-wap-devices",
   "name": "Wireless Access Point (WAP) Devices",
-  "type": "hardware",
-  "tags": [
-    "network-device"
-  ],
-  "icon": "simple-icons:netgear",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

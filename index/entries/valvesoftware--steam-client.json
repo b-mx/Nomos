@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "valvesoftware--steam-client",
+  "vendor_id": "valvesoftware",
+  "product_id": "steam-client",
+  "name": "Steam Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "steam_client",
+      "confidence": "auto"
+    }
+  ]
+}

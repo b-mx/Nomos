@@ -4,11 +4,9 @@
   "vendor_id": "arm",
   "product_id": "trusted-firmware",
   "name": "Trusted Firmware",
-  "type": "firmware",
-  "tags": [
-    "operating-system"
-  ],
-  "icon": "logos:arm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {

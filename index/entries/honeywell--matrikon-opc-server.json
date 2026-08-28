@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--matrikon-opc-server",
+  "vendor_id": "honeywell",
+  "product_id": "matrikon-opc-server",
+  "name": "Matrikon Opc Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "matrikon_opc_server",
+      "confidence": "auto"
+    }
+  ]
+}

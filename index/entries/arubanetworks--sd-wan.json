@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arubanetworks--sd-wan",
+  "vendor_id": "arubanetworks",
+  "product_id": "sd-wan",
+  "name": "Sd-Wan",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sd-wan",
+      "confidence": "auto"
+    }
+  ]
+}

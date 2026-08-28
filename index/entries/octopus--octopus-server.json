@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "octopus--octopus-server",
+  "vendor_id": "octopus",
+  "product_id": "octopus-server",
+  "name": "Octopus Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "octopus_server",
+      "confidence": "auto"
+    }
+  ]
+}

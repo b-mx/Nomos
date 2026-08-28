@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "getcomposer--composer",
+  "vendor_id": "getcomposer",
+  "product_id": "composer",
+  "name": "Composer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "composer",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "composer",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--sdx",
+  "vendor_id": "peplink",
+  "product_id": "sdx",
+  "name": "Sdx",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sdx",
+      "confidence": "auto"
+    }
+  ]
+}

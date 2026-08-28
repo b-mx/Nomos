@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--terraform",
+  "vendor_id": "hashicorp",
+  "product_id": "terraform",
+  "name": "Hashicorp Terraform",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "terraform",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "terraform",
+      "confidence": "auto"
+    }
+  ]
+}

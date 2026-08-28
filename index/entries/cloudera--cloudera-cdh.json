@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudera--cloudera-cdh",
+  "vendor_id": "cloudera",
+  "product_id": "cloudera-cdh",
+  "name": "Cloudera Cdh",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cloudera_cdh",
+      "confidence": "auto"
+    }
+  ]
+}

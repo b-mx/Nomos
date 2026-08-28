@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--elastic-load-balancing",
+  "vendor_id": "amazon",
+  "product_id": "elastic-load-balancing",
+  "name": "Elastic Load Balancing",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "elastic_load_balancing",
+      "confidence": "auto"
+    }
+  ]
+}

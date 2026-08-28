@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "magento--magento",
+  "vendor_id": "magento",
+  "product_id": "magento",
+  "name": "Magento",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "magento",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "magento",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--apt-listchanges",
+  "vendor_id": "debian",
+  "product_id": "apt-listchanges",
+  "name": "Apt-Listchanges",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apt-listchanges",
+      "confidence": "auto"
+    }
+  ]
+}

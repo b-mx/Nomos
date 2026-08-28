@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "koyoele--remote-gc",
+  "vendor_id": "koyoele",
+  "product_id": "remote-gc",
+  "name": "Remote Gc",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remote_gc",
+      "confidence": "auto"
+    }
+  ]
+}

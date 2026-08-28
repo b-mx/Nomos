@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rockwellautomation--logix-5000-controller",
+  "vendor_id": "rockwellautomation",
+  "product_id": "logix-5000-controller",
+  "name": "Logix 5000 Controller",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "logix_5000_controller",
+      "confidence": "auto"
+    }
+  ]
+}

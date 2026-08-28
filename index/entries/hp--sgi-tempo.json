@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--sgi-tempo",
+  "vendor_id": "hp",
+  "product_id": "sgi-tempo",
+  "name": "Sgi Tempo",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sgi_tempo",
+      "confidence": "auto"
+    }
+  ]
+}

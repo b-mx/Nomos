@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "macromedia--flash-player",
+  "vendor_id": "macromedia",
+  "product_id": "flash-player",
+  "name": "Flash Player",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "flash_player",
+      "confidence": "auto"
+    }
+  ]
+}

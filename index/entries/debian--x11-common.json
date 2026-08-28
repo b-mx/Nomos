@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--x11-common",
+  "vendor_id": "debian",
+  "product_id": "x11-common",
+  "name": "X11-Common",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11-common",
+      "confidence": "auto"
+    }
+  ]
+}

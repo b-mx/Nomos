@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--b4l03-firmware",
+  "vendor_id": "hp",
+  "product_id": "b4l03-firmware",
+  "name": "B4L03 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b4l03_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "proxmox-mail-gateway--proxmox-mail-gateway",
+  "vendor_id": "proxmox-mail-gateway",
+  "product_id": "proxmox-mail-gateway",
+  "name": "Proxmox Mail Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "proxmox-mail-gateway",
+      "confidence": "auto"
+    }
+  ]
+}

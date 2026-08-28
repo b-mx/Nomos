@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--credhub-service-broker-for-pcf",
+  "vendor_id": "pivotal",
+  "product_id": "credhub-service-broker-for-pcf",
+  "name": "Credhub Service Broker For Pcf",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "credhub_service_broker_for_pcf",
+      "confidence": "auto"
+    }
+  ]
+}

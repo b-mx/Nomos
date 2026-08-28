@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ricoh--rpcs-driver",
+  "vendor_id": "ricoh",
+  "product_id": "rpcs-driver",
+  "name": "Rpcs Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rpcs_driver",
+      "confidence": "auto"
+    }
+  ]
+}

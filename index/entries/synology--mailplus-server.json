@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--mailplus-server",
+  "vendor_id": "synology",
+  "product_id": "mailplus-server",
+  "name": "Mailplus Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mailplus_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "seagate--business-nas-firmware",
+  "vendor_id": "seagate",
+  "product_id": "business-nas-firmware",
+  "name": "Business Nas Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "business_nas_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

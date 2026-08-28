@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp32-d0wd-firmware",
+  "vendor_id": "espressif",
+  "product_id": "esp32-d0wd-firmware",
+  "name": "Esp32-D0Wd Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp32-d0wd_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

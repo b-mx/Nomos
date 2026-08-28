@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "python--setuptools",
+  "vendor_id": "python",
+  "product_id": "setuptools",
+  "name": "Setuptools",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "setuptools",
+      "confidence": "auto"
+    }
+  ]
+}

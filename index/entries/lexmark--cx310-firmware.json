@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--cx310-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "cx310-firmware",
+  "name": "Cx310 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cx310_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

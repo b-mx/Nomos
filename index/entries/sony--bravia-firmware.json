@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sony--bravia-firmware",
+  "vendor_id": "sony",
+  "product_id": "bravia-firmware",
+  "name": "Bravia Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bravia_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

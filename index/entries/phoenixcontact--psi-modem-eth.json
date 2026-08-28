@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "phoenixcontact--psi-modem-eth",
+  "vendor_id": "phoenixcontact",
+  "product_id": "psi-modem-eth",
+  "name": "Psi-Modem/Eth",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "psi-modem/eth",
+      "confidence": "auto"
+    }
+  ]
+}

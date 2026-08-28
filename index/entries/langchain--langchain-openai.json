@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "langchain--langchain-openai",
+  "vendor_id": "langchain",
+  "product_id": "langchain-openai",
+  "name": "Langchain-Openai",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "langchain-openai",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32l0-firmware",
+  "vendor_id": "st",
+  "product_id": "stm32l0-firmware",
+  "name": "Stm32L0 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32l0_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

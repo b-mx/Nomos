@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--vert-x-web",
+  "vendor_id": "eclipse",
+  "product_id": "vert-x-web",
+  "name": "Vert.X-Web",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vert.x-web",
+      "confidence": "auto"
+    }
+  ]
+}

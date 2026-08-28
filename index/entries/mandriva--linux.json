@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mandriva--linux",
+  "vendor_id": "mandriva",
+  "product_id": "linux",
+  "name": "Linux",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux",
+      "confidence": "auto"
+    }
+  ]
+}

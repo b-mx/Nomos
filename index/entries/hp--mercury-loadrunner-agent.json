@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--mercury-loadrunner-agent",
+  "vendor_id": "hp",
+  "product_id": "mercury-loadrunner-agent",
+  "name": "Mercury Loadrunner Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mercury_loadrunner_agent",
+      "confidence": "auto"
+    }
+  ]
+}

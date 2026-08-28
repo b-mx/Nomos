@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7h12",
+  "vendor_id": "amd",
+  "product_id": "epyc-7h12",
+  "name": "Epyc 7H12",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7h12",
+      "confidence": "auto"
+    }
+  ]
+}

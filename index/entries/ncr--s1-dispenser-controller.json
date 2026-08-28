@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ncr--s1-dispenser-controller",
+  "vendor_id": "ncr",
+  "product_id": "s1-dispenser-controller",
+  "name": "S1 Dispenser Controller",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "s1_dispenser_controller",
+      "confidence": "auto"
+    }
+  ]
+}

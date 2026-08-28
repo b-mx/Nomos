@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--safety-manager-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "safety-manager-firmware",
+  "name": "Safety Manager Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "safety_manager_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

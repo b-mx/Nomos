@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "fontawesome--font-awesome",
+  "vendor_id": "fontawesome",
+  "product_id": "font-awesome",
+  "name": "Font Awesome",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "font-awesome",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "font_awesome",
+      "confidence": "auto"
+    }
+  ]
+}

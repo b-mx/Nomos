@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--obs-service-tar-scm",
+  "vendor_id": "suse",
+  "product_id": "obs-service-tar-scm",
+  "name": "Obs-Service-Tar Scm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "obs-service-tar_scm",
+      "confidence": "auto"
+    }
+  ]
+}

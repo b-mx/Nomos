@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "asuswrt-merlin--new-gen",
+  "vendor_id": "asuswrt-merlin",
+  "product_id": "new-gen",
+  "name": "New Gen",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "new_gen",
+      "confidence": "auto"
+    }
+  ]
+}

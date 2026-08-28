@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--service-manager-service-request-catalog",
+  "vendor_id": "hp",
+  "product_id": "service-manager-service-request-catalog",
+  "name": "Service Manager Service Request Catalog",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "service_manager_service_request_catalog",
+      "confidence": "auto"
+    }
+  ]
+}

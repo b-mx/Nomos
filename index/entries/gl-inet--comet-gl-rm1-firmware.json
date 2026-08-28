@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gl-inet--comet-gl-rm1-firmware",
+  "vendor_id": "gl-inet",
+  "product_id": "comet-gl-rm1-firmware",
+  "name": "Comet Gl-Rm1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "comet_gl-rm1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

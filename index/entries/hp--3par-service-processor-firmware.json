@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--3par-service-processor-firmware",
+  "vendor_id": "hp",
+  "product_id": "3par-service-processor-firmware",
+  "name": "3Par Service Processor Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "3par_service_processor_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

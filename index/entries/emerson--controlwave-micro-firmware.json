@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emerson--controlwave-micro-firmware",
+  "vendor_id": "emerson",
+  "product_id": "controlwave-micro-firmware",
+  "name": "Controlwave Micro Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "controlwave_micro_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

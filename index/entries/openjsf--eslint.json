@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "openjsf--eslint",
+  "vendor_id": "openjsf",
+  "product_id": "eslint",
+  "name": "ESLint",
+  "type": "software",
+  "tags": [
+    "build-tool"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "eslint",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "eslint",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "aliasrobotics--mir100-firmware",
+  "vendor_id": "aliasrobotics",
+  "product_id": "mir100-firmware",
+  "name": "Mir100 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mir100_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

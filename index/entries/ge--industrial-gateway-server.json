@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--industrial-gateway-server",
+  "vendor_id": "ge",
+  "product_id": "industrial-gateway-server",
+  "name": "Industrial Gateway Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "industrial_gateway_server",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--relational-database-service",
+  "vendor_id": "amazon",
+  "product_id": "relational-database-service",
+  "name": "Relational Database Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "relational_database_service",
+      "confidence": "auto"
+    }
+  ]
+}

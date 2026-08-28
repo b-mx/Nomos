@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "horde--horde-imp",
+  "vendor_id": "horde",
+  "product_id": "horde-imp",
+  "name": "Horde Imp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "horde_imp",
+      "confidence": "auto"
+    }
+  ]
+}

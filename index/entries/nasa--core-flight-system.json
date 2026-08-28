@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nasa--core-flight-system",
+  "vendor_id": "nasa",
+  "product_id": "core-flight-system",
+  "name": "Core Flight System",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "core_flight_system",
+      "confidence": "auto"
+    }
+  ]
+}

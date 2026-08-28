@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "se--modicon-m241-firmware",
+  "vendor_id": "se",
+  "product_id": "modicon-m241-firmware",
+  "name": "Modicon M241 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "modicon_m241_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

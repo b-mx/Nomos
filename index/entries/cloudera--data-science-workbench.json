@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudera--data-science-workbench",
+  "vendor_id": "cloudera",
+  "product_id": "data-science-workbench",
+  "name": "Data Science Workbench",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "data_science_workbench",
+      "confidence": "auto"
+    }
+  ]
+}

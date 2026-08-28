@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--asset-manager",
+  "vendor_id": "hp",
+  "product_id": "asset-manager",
+  "name": "Asset Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "asset_manager",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -4,22 +4,15 @@
   "vendor_id": "openssl",
   "product_id": "openssl",
   "name": "OpenSSL",
-  "type": "library",
-  "tags": [
-    "cryptography"
-  ],
-  "icon": "thesvg-color:openssl",
+  "type": "software",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
-      "source": "nvd",
-      "value": "openssl",
-      "confidence": "curated"
-    },
-    {
-      "source": "endoflife",
-      "value": "openssl",
-      "confidence": "curated"
+      "source": "cisa_kev",
+      "value": "OpenSSL",
+      "confidence": "auto"
     }
   ]
 }

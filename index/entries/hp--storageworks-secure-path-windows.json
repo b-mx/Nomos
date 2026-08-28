@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--storageworks-secure-path-windows",
+  "vendor_id": "hp",
+  "product_id": "storageworks-secure-path-windows",
+  "name": "Storageworks Secure Path Windows",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storageworks_secure_path_windows",
+      "confidence": "auto"
+    }
+  ]
+}

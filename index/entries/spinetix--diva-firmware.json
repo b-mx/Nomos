@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "spinetix--diva-firmware",
+  "vendor_id": "spinetix",
+  "product_id": "diva-firmware",
+  "name": "Diva Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "diva_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

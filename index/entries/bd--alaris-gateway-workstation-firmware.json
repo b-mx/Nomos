@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--alaris-gateway-workstation-firmware",
+  "vendor_id": "bd",
+  "product_id": "alaris-gateway-workstation-firmware",
+  "name": "Alaris Gateway Workstation Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alaris_gateway_workstation_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

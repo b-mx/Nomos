@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--ryzen-4600g",
+  "vendor_id": "amd",
+  "product_id": "ryzen-4600g",
+  "name": "Ryzen 4600G",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ryzen_4600g",
+      "confidence": "auto"
+    }
+  ]
+}

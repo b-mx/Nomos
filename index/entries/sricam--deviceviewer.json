@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sricam--deviceviewer",
+  "vendor_id": "sricam",
+  "product_id": "deviceviewer",
+  "name": "Deviceviewer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "deviceviewer",
+      "confidence": "auto"
+    }
+  ]
+}

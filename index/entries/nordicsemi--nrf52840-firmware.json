@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nordicsemi--nrf52840-firmware",
+  "vendor_id": "nordicsemi",
+  "product_id": "nrf52840-firmware",
+  "name": "Nrf52840 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nrf52840_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

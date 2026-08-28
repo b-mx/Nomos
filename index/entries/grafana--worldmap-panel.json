@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "grafana--worldmap-panel",
+  "vendor_id": "grafana",
+  "product_id": "worldmap-panel",
+  "name": "Worldmap Panel",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "worldmap_panel",
+      "confidence": "auto"
+    }
+  ]
+}

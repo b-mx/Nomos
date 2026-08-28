@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lexmark--x940e-firmware",
+  "vendor_id": "lexmark",
+  "product_id": "x940e-firmware",
+  "name": "X940E Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x940e_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

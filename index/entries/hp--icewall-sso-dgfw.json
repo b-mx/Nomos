@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--icewall-sso-dgfw",
+  "vendor_id": "hp",
+  "product_id": "icewall-sso-dgfw",
+  "name": "Icewall Sso Dgfw",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "icewall_sso_dgfw",
+      "confidence": "auto"
+    }
+  ]
+}

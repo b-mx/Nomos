@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avaya--octelaccess-server",
+  "vendor_id": "avaya",
+  "product_id": "octelaccess-server",
+  "name": "Octelaccess Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "octelaccess_server",
+      "confidence": "auto"
+    }
+  ]
+}

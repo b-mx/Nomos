@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "xerox--freeflow-core",
+  "vendor_id": "xerox",
+  "product_id": "freeflow-core",
+  "name": "Freeflow Core",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "freeflow_core",
+      "confidence": "auto"
+    }
+  ]
+}

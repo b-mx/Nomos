@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "fluxcd--flux",
+  "vendor_id": "fluxcd",
+  "product_id": "flux",
+  "name": "Flux",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "flux",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "flux2",
+      "confidence": "auto"
+    }
+  ]
+}

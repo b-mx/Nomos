@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--presto-client",
+  "vendor_id": "synology",
+  "product_id": "presto-client",
+  "name": "Presto Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "presto_client",
+      "confidence": "auto"
+    }
+  ]
+}

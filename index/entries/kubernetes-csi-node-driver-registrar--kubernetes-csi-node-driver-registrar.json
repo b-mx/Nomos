@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes-csi-node-driver-registrar--kubernetes-csi-node-driver-registrar",
+  "vendor_id": "kubernetes-csi-node-driver-registrar",
+  "product_id": "kubernetes-csi-node-driver-registrar",
+  "name": "Kubernetes CSI Node Driver Registrar",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "kubernetes-csi-node-driver-registrar",
+      "confidence": "auto"
+    }
+  ]
+}

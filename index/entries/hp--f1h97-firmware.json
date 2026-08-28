@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--f1h97-firmware",
+  "vendor_id": "hp",
+  "product_id": "f1h97-firmware",
+  "name": "F1H97 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "f1h97_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

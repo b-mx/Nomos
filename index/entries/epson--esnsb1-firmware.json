@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--esnsb1-firmware",
+  "vendor_id": "epson",
+  "product_id": "esnsb1-firmware",
+  "name": "Esnsb1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esnsb1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

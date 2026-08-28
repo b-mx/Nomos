@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mit--kerberos-ftp-client",
+  "vendor_id": "mit",
+  "product_id": "kerberos-ftp-client",
+  "name": "Kerberos Ftp Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kerberos_ftp_client",
+      "confidence": "auto"
+    }
+  ]
+}

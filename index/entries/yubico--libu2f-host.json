@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yubico--libu2f-host",
+  "vendor_id": "yubico",
+  "product_id": "libu2f-host",
+  "name": "Libu2F-Host",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libu2f-host",
+      "confidence": "auto"
+    }
+  ]
+}

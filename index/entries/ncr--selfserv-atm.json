@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ncr--selfserv-atm",
+  "vendor_id": "ncr",
+  "product_id": "selfserv-atm",
+  "name": "Selfserv Atm",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "selfserv_atm",
+      "confidence": "auto"
+    }
+  ]
+}

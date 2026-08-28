@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "moxa--vport-461-firmware",
+  "vendor_id": "moxa",
+  "product_id": "vport-461-firmware",
+  "name": "Vport 461 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "vport_461_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

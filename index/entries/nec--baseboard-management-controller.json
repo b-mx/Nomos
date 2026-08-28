@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nec--baseboard-management-controller",
+  "vendor_id": "nec",
+  "product_id": "baseboard-management-controller",
+  "name": "Baseboard Management Controller",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "baseboard_management_controller",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "atos--openstage-80-firmware",
+  "vendor_id": "atos",
+  "product_id": "openstage-80-firmware",
+  "name": "Openstage 80 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openstage_80_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "redhat-satellite",
+  "vendor_id": "redhat-satellite",
+  "name": "Red Hat Satellite",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "redhat-satellite",
+      "confidence": "auto"
+    }
+  ]
+}

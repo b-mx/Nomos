@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "isc--dnsco-bind",
+  "vendor_id": "isc",
+  "product_id": "dnsco-bind",
+  "name": "Dnsco Bind",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "dnsco_bind",
+      "confidence": "auto"
+    }
+  ]
+}

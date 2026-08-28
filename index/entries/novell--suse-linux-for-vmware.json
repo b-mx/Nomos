@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--suse-linux-for-vmware",
+  "vendor_id": "novell",
+  "product_id": "suse-linux-for-vmware",
+  "name": "Suse Linux For Vmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_linux_for_vmware",
+      "confidence": "auto"
+    }
+  ]
+}

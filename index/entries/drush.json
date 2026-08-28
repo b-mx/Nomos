@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "drush",
+  "vendor_id": "drush",
+  "name": "Drush",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "drush",
+      "confidence": "auto"
+    }
+  ]
+}

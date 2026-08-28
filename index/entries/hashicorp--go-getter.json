@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hashicorp--go-getter",
+  "vendor_id": "hashicorp",
+  "product_id": "go-getter",
+  "name": "Go-Getter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "go-getter",
+      "confidence": "auto"
+    }
+  ]
+}

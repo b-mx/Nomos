@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sick--sim2500-firmware",
+  "vendor_id": "sick",
+  "product_id": "sim2500-firmware",
+  "name": "Sim2500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sim2500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

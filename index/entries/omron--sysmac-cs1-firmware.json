@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "omron--sysmac-cs1-firmware",
+  "vendor_id": "omron",
+  "product_id": "sysmac-cs1-firmware",
+  "name": "Sysmac Cs1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sysmac_cs1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

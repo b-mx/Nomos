@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "polycom--group-series",
+  "vendor_id": "polycom",
+  "product_id": "group-series",
+  "name": "Group Series",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "group_series",
+      "confidence": "auto"
+    }
+  ]
+}

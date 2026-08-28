@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--hcl2g-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "hcl2g-firmware",
+  "name": "Hcl2G Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hcl2g_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

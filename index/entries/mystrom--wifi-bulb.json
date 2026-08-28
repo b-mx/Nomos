@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mystrom--wifi-bulb",
+  "vendor_id": "mystrom",
+  "product_id": "wifi-bulb",
+  "name": "Wifi Bulb",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wifi_bulb",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fabian--voting-system",
+  "vendor_id": "fabian",
+  "product_id": "voting-system",
+  "name": "Voting System",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "voting_system",
+      "confidence": "auto"
+    }
+  ]
+}

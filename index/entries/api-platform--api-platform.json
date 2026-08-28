@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "api-platform--api-platform",
+  "vendor_id": "api-platform",
+  "product_id": "api-platform",
+  "name": "API Platform",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "api-platform",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "core",
+      "confidence": "auto"
+    }
+  ]
+}

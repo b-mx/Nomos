@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--ios-xe",
+  "vendor_id": "cisco",
+  "product_id": "ios-xe",
+  "name": "IOS XE",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "IOS XE",
+      "confidence": "auto"
+    }
+  ]
+}

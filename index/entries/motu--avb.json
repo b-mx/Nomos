@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "motu--avb",
+  "vendor_id": "motu",
+  "product_id": "avb",
+  "name": "Avb",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "avb",
+      "confidence": "auto"
+    }
+  ]
+}

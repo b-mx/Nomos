@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ibm-i--ibm-i",
+  "vendor_id": "ibm-i",
+  "product_id": "ibm-i",
+  "name": "IBM iSeries",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "ibm-i",
+      "confidence": "auto"
+    }
+  ]
+}

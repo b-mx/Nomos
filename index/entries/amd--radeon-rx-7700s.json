@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--radeon-rx-7700s",
+  "vendor_id": "amd",
+  "product_id": "radeon-rx-7700s",
+  "name": "Radeon Rx 7700S",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "radeon_rx_7700s",
+      "confidence": "auto"
+    }
+  ]
+}

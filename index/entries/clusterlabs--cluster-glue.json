@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "clusterlabs--cluster-glue",
+  "vendor_id": "clusterlabs",
+  "product_id": "cluster-glue",
+  "name": "Cluster Glue",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cluster_glue",
+      "confidence": "auto"
+    }
+  ]
+}

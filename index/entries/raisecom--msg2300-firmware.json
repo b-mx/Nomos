@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "raisecom--msg2300-firmware",
+  "vendor_id": "raisecom",
+  "product_id": "msg2300-firmware",
+  "name": "Msg2300 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "msg2300_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

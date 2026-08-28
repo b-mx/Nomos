@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "openzfs--openzfs",
+  "vendor_id": "openzfs",
+  "product_id": "openzfs",
+  "name": "OpenZFS",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "openzfs",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "openzfs",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--social",
+  "vendor_id": "nextcloud",
+  "product_id": "social",
+  "name": "Social",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "social",
+      "confidence": "auto"
+    }
+  ]
+}

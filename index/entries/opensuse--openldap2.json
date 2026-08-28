@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "opensuse--openldap2",
+  "vendor_id": "opensuse",
+  "product_id": "openldap2",
+  "name": "Openldap2",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "openldap2",
+      "confidence": "auto"
+    }
+  ]
+}

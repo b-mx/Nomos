@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--fusion",
+  "vendor_id": "vmware",
+  "product_id": "fusion",
+  "name": "Fusion",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Fusion",
+      "confidence": "auto"
+    }
+  ]
+}

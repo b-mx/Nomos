@@ -4,19 +4,14 @@
   "vendor_id": "oracle",
   "product_id": "solaris",
   "name": "Solaris",
-  "type": "os",
+  "type": "software",
   "tags": [],
-  "icon": "logos:oracle",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Solaris",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "Solaris and Zettabyte File System (ZFS)",
       "confidence": "auto"
     }
   ]

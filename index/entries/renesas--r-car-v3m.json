@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "renesas--r-car-v3m",
+  "vendor_id": "renesas",
+  "product_id": "r-car-v3m",
+  "name": "R-Car V3M",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "r-car_v3m",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--authentication-manager-prime",
+  "vendor_id": "emc",
+  "product_id": "authentication-manager-prime",
+  "name": "Authentication Manager Prime",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "authentication_manager_prime",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--plant-connect",
+  "vendor_id": "abb",
+  "product_id": "plant-connect",
+  "name": "Plant Connect",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plant_connect",
+      "confidence": "auto"
+    }
+  ]
+}

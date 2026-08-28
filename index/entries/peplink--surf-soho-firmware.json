@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--surf-soho-firmware",
+  "vendor_id": "peplink",
+  "product_id": "surf-soho-firmware",
+  "name": "Surf Soho Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "surf_soho_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

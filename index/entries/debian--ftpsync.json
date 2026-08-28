@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--ftpsync",
+  "vendor_id": "debian",
+  "product_id": "ftpsync",
+  "name": "Ftpsync",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ftpsync",
+      "confidence": "auto"
+    }
+  ]
+}

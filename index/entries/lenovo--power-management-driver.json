@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--power-management-driver",
+  "vendor_id": "lenovo",
+  "product_id": "power-management-driver",
+  "name": "Power Management Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "power_management_driver",
+      "confidence": "auto"
+    }
+  ]
+}

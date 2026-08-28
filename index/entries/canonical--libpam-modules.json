@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--libpam-modules",
+  "vendor_id": "canonical",
+  "product_id": "libpam-modules",
+  "name": "Libpam-Modules",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "libpam-modules",
+      "confidence": "auto"
+    }
+  ]
+}

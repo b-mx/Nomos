@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "milesight--ncr-camera",
+  "vendor_id": "milesight",
+  "product_id": "ncr-camera",
+  "name": "Ncr/Camera",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ncr/camera",
+      "confidence": "auto"
+    }
+  ]
+}

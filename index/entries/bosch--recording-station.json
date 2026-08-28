@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--recording-station",
+  "vendor_id": "bosch",
+  "product_id": "recording-station",
+  "name": "Recording Station",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "recording_station",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-embedded-7742",
+  "vendor_id": "amd",
+  "product_id": "epyc-embedded-7742",
+  "name": "Epyc Embedded 7742",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_embedded_7742",
+      "confidence": "auto"
+    }
+  ]
+}

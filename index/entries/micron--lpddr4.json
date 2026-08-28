@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "micron--lpddr4",
+  "vendor_id": "micron",
+  "product_id": "lpddr4",
+  "name": "Lpddr4",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "lpddr4",
+      "confidence": "auto"
+    }
+  ]
+}

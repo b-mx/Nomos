@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32cubemx",
+  "vendor_id": "st",
+  "product_id": "stm32cubemx",
+  "name": "Stm32Cubemx",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32cubemx",
+      "confidence": "auto"
+    }
+  ]
+}

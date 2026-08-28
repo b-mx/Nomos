@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ui--enterprise-firewall-core-firmware",
+  "vendor_id": "ui",
+  "product_id": "enterprise-firewall-core-firmware",
+  "name": "Enterprise Firewall Core Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "enterprise_firewall_core_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

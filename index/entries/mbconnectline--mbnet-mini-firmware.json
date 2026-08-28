@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mbconnectline--mbnet-mini-firmware",
+  "vendor_id": "mbconnectline",
+  "product_id": "mbnet-mini-firmware",
+  "name": "Mbnet.Mini Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mbnet.mini_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

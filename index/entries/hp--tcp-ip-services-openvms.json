@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--tcp-ip-services-openvms",
+  "vendor_id": "hp",
+  "product_id": "tcp-ip-services-openvms",
+  "name": "Tcp Ip Services Openvms",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tcp_ip_services_openvms",
+      "confidence": "auto"
+    }
+  ]
+}

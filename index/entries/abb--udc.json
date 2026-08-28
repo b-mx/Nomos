@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--udc",
+  "vendor_id": "abb",
+  "product_id": "udc",
+  "name": "Udc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "udc",
+      "confidence": "auto"
+    }
+  ]
+}

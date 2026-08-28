@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "korenix--jetnet4706-firmware",
+  "vendor_id": "korenix",
+  "product_id": "jetnet4706-firmware",
+  "name": "Jetnet4706 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jetnet4706_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

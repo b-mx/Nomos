@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "xerox--atlalink-firmware",
+  "vendor_id": "xerox",
+  "product_id": "atlalink-firmware",
+  "name": "Atlalink Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "atlalink_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

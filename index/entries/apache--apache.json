@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apache--apache",
+  "vendor_id": "apache",
+  "product_id": "apache",
+  "name": "Apache",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Apache",
+      "confidence": "auto"
+    }
+  ]
+}

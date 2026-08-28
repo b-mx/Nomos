@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "wago--pfc200-firmware",
+  "vendor_id": "wago",
+  "product_id": "pfc200-firmware",
+  "name": "Pfc200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pfc200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

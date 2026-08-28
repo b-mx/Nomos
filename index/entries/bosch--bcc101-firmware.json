@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--bcc101-firmware",
+  "vendor_id": "bosch",
+  "product_id": "bcc101-firmware",
+  "name": "Bcc101 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bcc101_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

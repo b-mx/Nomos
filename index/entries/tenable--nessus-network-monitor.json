@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--nessus-network-monitor",
+  "vendor_id": "tenable",
+  "product_id": "nessus-network-monitor",
+  "name": "Nessus Network Monitor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nessus_network_monitor",
+      "confidence": "auto"
+    }
+  ]
+}

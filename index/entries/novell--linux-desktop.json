@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--linux-desktop",
+  "vendor_id": "novell",
+  "product_id": "linux-desktop",
+  "name": "Linux Desktop",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux_desktop",
+      "confidence": "auto"
+    }
+  ]
+}

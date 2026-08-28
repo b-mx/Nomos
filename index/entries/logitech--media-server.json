@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "logitech--media-server",
+  "vendor_id": "logitech",
+  "product_id": "media-server",
+  "name": "Media Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "media_server",
+      "confidence": "auto"
+    }
+  ]
+}

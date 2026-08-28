@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--arcsight-connector-appliance",
+  "vendor_id": "hp",
+  "product_id": "arcsight-connector-appliance",
+  "name": "Arcsight Connector Appliance",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "arcsight_connector_appliance",
+      "confidence": "auto"
+    }
+  ]
+}

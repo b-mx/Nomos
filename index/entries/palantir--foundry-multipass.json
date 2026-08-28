@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "palantir--foundry-multipass",
+  "vendor_id": "palantir",
+  "product_id": "foundry-multipass",
+  "name": "Foundry Multipass",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "foundry_multipass",
+      "confidence": "auto"
+    }
+  ]
+}

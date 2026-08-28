@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avira--antivir-webgate",
+  "vendor_id": "avira",
+  "product_id": "antivir-webgate",
+  "name": "Antivir Webgate",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "antivir_webgate",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--tin",
+  "vendor_id": "debian",
+  "product_id": "tin",
+  "name": "Tin",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tin",
+      "confidence": "auto"
+    }
+  ]
+}

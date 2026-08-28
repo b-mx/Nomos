@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--documentum-content-server",
+  "vendor_id": "emc",
+  "product_id": "documentum-content-server",
+  "name": "Documentum Content Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "documentum_content_server",
+      "confidence": "auto"
+    }
+  ]
+}

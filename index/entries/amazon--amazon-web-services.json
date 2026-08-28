@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--amazon-web-services",
+  "vendor_id": "amazon",
+  "product_id": "amazon-web-services",
+  "name": "Amazon Web Services",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "amazon_web_services",
+      "confidence": "auto"
+    }
+  ]
+}

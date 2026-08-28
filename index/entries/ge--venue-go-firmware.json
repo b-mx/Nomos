@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--venue-go-firmware",
+  "vendor_id": "ge",
+  "product_id": "venue-go-firmware",
+  "name": "Venue Go Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "venue_go_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

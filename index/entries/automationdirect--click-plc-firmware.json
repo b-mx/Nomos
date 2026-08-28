@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "automationdirect--click-plc-firmware",
+  "vendor_id": "automationdirect",
+  "product_id": "click-plc-firmware",
+  "name": "Click Plc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "click_plc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

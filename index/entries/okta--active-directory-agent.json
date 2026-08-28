@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "okta--active-directory-agent",
+  "vendor_id": "okta",
+  "product_id": "active-directory-agent",
+  "name": "Active Directory Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "active_directory_agent",
+      "confidence": "auto"
+    }
+  ]
+}

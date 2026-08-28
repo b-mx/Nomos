@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "electronjs--electron",
+  "vendor_id": "electronjs",
+  "product_id": "electron",
+  "name": "Electron",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "electron",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "electron",
+      "confidence": "auto"
+    }
+  ]
+}

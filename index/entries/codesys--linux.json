@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "codesys--linux",
+  "vendor_id": "codesys",
+  "product_id": "linux",
+  "name": "Linux",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux",
+      "confidence": "auto"
+    }
+  ]
+}

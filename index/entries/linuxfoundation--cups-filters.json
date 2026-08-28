@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--cups-filters",
+  "vendor_id": "linuxfoundation",
+  "product_id": "cups-filters",
+  "name": "Cups-Filters",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cups-filters",
+      "confidence": "auto"
+    }
+  ]
+}

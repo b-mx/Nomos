@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "milesight--ur32l-firmware",
+  "vendor_id": "milesight",
+  "product_id": "ur32l-firmware",
+  "name": "Ur32L Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ur32l_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

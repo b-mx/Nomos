@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "marel--check-bin-grader-firmware",
+  "vendor_id": "marel",
+  "product_id": "check-bin-grader-firmware",
+  "name": "Check Bin Grader Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "check_bin_grader_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

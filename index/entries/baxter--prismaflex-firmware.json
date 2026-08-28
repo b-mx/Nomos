@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "baxter--prismaflex-firmware",
+  "vendor_id": "baxter",
+  "product_id": "prismaflex-firmware",
+  "name": "Prismaflex Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "prismaflex_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

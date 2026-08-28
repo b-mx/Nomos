@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "milesight--ur55-firmware",
+  "vendor_id": "milesight",
+  "product_id": "ur55-firmware",
+  "name": "Ur55 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ur55_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

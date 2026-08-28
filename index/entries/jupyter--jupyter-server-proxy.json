@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--jupyter-server-proxy",
+  "vendor_id": "jupyter",
+  "product_id": "jupyter-server-proxy",
+  "name": "Jupyter Server Proxy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jupyter_server_proxy",
+      "confidence": "auto"
+    }
+  ]
+}

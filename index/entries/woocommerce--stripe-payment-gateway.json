@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "woocommerce--stripe-payment-gateway",
+  "vendor_id": "woocommerce",
+  "product_id": "stripe-payment-gateway",
+  "name": "Stripe Payment Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stripe_payment_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

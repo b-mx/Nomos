@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--h3c-routing-switch",
+  "vendor_id": "hp",
+  "product_id": "h3c-routing-switch",
+  "name": "H3C Routing Switch",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h3c_routing_switch",
+      "confidence": "auto"
+    }
+  ]
+}

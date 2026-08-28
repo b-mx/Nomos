@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--catalyst-driver",
+  "vendor_id": "amd",
+  "product_id": "catalyst-driver",
+  "name": "Catalyst Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "catalyst_driver",
+      "confidence": "auto"
+    }
+  ]
+}

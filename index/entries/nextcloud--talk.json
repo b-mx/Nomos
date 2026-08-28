@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--talk",
+  "vendor_id": "nextcloud",
+  "product_id": "talk",
+  "name": "Talk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "talk",
+      "confidence": "auto"
+    }
+  ]
+}

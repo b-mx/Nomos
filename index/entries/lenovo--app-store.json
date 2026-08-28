@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--app-store",
+  "vendor_id": "lenovo",
+  "product_id": "app-store",
+  "name": "App Store",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "app_store",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "seil--x86-fuji",
+  "vendor_id": "seil",
+  "product_id": "x86-fuji",
+  "name": "X86 Fuji",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x86_fuji",
+      "confidence": "auto"
+    }
+  ]
+}

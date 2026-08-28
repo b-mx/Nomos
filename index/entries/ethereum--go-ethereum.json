@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ethereum--go-ethereum",
+  "vendor_id": "ethereum",
+  "product_id": "go-ethereum",
+  "name": "Go Ethereum",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "go_ethereum",
+      "confidence": "auto"
+    }
+  ]
+}

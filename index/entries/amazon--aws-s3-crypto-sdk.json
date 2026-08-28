@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--aws-s3-crypto-sdk",
+  "vendor_id": "amazon",
+  "product_id": "aws-s3-crypto-sdk",
+  "name": "Aws S3 Crypto Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "aws_s3_crypto_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

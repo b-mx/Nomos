@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--mercury-performance-center-agent",
+  "vendor_id": "hp",
+  "product_id": "mercury-performance-center-agent",
+  "name": "Mercury Performance Center Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mercury_performance_center_agent",
+      "confidence": "auto"
+    }
+  ]
+}

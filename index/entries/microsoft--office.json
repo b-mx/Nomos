@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microsoft--office",
+  "vendor_id": "microsoft",
+  "product_id": "office",
+  "name": "Office",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Office",
+      "confidence": "auto"
+    }
+  ]
+}

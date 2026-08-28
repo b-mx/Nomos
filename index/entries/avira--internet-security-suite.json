@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avira--internet-security-suite",
+  "vendor_id": "avira",
+  "product_id": "internet-security-suite",
+  "name": "Internet Security Suite",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "internet_security_suite",
+      "confidence": "auto"
+    }
+  ]
+}

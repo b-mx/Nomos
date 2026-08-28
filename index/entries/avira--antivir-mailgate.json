@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "avira--antivir-mailgate",
+  "vendor_id": "avira",
+  "product_id": "antivir-mailgate",
+  "name": "Antivir Mailgate",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "antivir_mailgate",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--calendar",
+  "vendor_id": "nextcloud",
+  "product_id": "calendar",
+  "name": "Calendar",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "calendar",
+      "confidence": "auto"
+    }
+  ]
+}

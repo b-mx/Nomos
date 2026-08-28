@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bmc--control-m-server",
+  "vendor_id": "bmc",
+  "product_id": "control-m-server",
+  "name": "Control-M/Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "control-m/server",
+      "confidence": "auto"
+    }
+  ]
+}

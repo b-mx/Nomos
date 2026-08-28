@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--ppp",
+  "vendor_id": "canonical",
+  "product_id": "ppp",
+  "name": "Ppp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ppp",
+      "confidence": "auto"
+    }
+  ]
+}

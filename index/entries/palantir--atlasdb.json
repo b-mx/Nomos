@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "palantir--atlasdb",
+  "vendor_id": "palantir",
+  "product_id": "atlasdb",
+  "name": "Atlasdb",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "atlasdb",
+      "confidence": "auto"
+    }
+  ]
+}

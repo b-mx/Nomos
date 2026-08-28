@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "brickcom--100ap-device-firmware",
+  "vendor_id": "brickcom",
+  "product_id": "100ap-device-firmware",
+  "name": "100Ap Device Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "100ap_device_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--buildship",
+  "vendor_id": "eclipse",
+  "product_id": "buildship",
+  "name": "Buildship",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "buildship",
+      "confidence": "auto"
+    }
+  ]
+}

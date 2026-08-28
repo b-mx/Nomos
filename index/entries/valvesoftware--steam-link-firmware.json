@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "valvesoftware--steam-link-firmware",
+  "vendor_id": "valvesoftware",
+  "product_id": "steam-link-firmware",
+  "name": "Steam Link Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "steam_link_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

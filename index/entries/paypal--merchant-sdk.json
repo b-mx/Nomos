@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "paypal--merchant-sdk",
+  "vendor_id": "paypal",
+  "product_id": "merchant-sdk",
+  "name": "Merchant Sdk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "merchant_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

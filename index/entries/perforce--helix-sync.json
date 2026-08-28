@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "perforce--helix-sync",
+  "vendor_id": "perforce",
+  "product_id": "helix-sync",
+  "name": "Helix Sync",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "helix_sync",
+      "confidence": "auto"
+    }
+  ]
+}

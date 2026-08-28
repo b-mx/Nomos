@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rsa--authentication-client",
+  "vendor_id": "rsa",
+  "product_id": "authentication-client",
+  "name": "Authentication Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "authentication_client",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--alm-synchronizer",
+  "vendor_id": "hp",
+  "product_id": "alm-synchronizer",
+  "name": "Alm Synchronizer",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alm_synchronizer",
+      "confidence": "auto"
+    }
+  ]
+}

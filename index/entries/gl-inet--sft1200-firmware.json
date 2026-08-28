@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gl-inet--sft1200-firmware",
+  "vendor_id": "gl-inet",
+  "product_id": "sft1200-firmware",
+  "name": "Sft1200 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sft1200_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

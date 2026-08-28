@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kaspersky--safe-browser",
+  "vendor_id": "kaspersky",
+  "product_id": "safe-browser",
+  "name": "Safe Browser",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "safe_browser",
+      "confidence": "auto"
+    }
+  ]
+}

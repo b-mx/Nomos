@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ni--linux-real-time",
+  "vendor_id": "ni",
+  "product_id": "linux-real-time",
+  "name": "Linux Real-Time",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux_real-time",
+      "confidence": "auto"
+    }
+  ]
+}

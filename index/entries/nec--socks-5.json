@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nec--socks-5",
+  "vendor_id": "nec",
+  "product_id": "socks-5",
+  "name": "Socks 5",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "socks_5",
+      "confidence": "auto"
+    }
+  ]
+}

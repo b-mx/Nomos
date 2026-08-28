@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32f4",
+  "vendor_id": "st",
+  "product_id": "stm32f4",
+  "name": "Stm32F4",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32f4",
+      "confidence": "auto"
+    }
+  ]
+}

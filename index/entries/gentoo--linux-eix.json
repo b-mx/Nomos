@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gentoo--linux-eix",
+  "vendor_id": "gentoo",
+  "product_id": "linux-eix",
+  "name": "Linux Eix",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux_eix",
+      "confidence": "auto"
+    }
+  ]
+}

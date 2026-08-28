@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--epyc-7251",
+  "vendor_id": "amd",
+  "product_id": "epyc-7251",
+  "name": "Epyc 7251",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "epyc_7251",
+      "confidence": "auto"
+    }
+  ]
+}

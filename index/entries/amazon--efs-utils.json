@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--efs-utils",
+  "vendor_id": "amazon",
+  "product_id": "efs-utils",
+  "name": "Efs-Utils",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "efs-utils",
+      "confidence": "auto"
+    }
+  ]
+}

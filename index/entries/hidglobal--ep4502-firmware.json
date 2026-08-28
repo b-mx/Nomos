@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hidglobal--ep4502-firmware",
+  "vendor_id": "hidglobal",
+  "product_id": "ep4502-firmware",
+  "name": "Ep4502 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ep4502_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

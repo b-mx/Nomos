@@ -3,12 +3,12 @@
   "slug": "wordpress",
   "vendor_id": "wordpress",
   "name": "WordPress",
-  "icon": "skill-icons:wordpress",
+  "icon": null,
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "WordPress",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

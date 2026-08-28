@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nec--csdj-b-firmware",
+  "vendor_id": "nec",
+  "product_id": "csdj-b-firmware",
+  "name": "Csdj-B Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "csdj-b_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

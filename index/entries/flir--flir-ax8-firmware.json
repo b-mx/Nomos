@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "flir--flir-ax8-firmware",
+  "vendor_id": "flir",
+  "product_id": "flir-ax8-firmware",
+  "name": "Flir Ax8 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "flir_ax8_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

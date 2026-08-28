@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "debian--mime-support",
+  "vendor_id": "debian",
+  "product_id": "mime-support",
+  "name": "Mime-Support",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mime-support",
+      "confidence": "auto"
+    }
+  ]
+}

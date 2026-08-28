@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nextcloud--sso-saml-authentication",
+  "vendor_id": "nextcloud",
+  "product_id": "sso-saml-authentication",
+  "name": "Sso & Saml Authentication",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sso_&_saml_authentication",
+      "confidence": "auto"
+    }
+  ]
+}

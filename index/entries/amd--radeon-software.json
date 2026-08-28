@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amd--radeon-software",
+  "vendor_id": "amd",
+  "product_id": "radeon-software",
+  "name": "Radeon Software",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "radeon_software",
+      "confidence": "auto"
+    }
+  ]
+}

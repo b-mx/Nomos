@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--rexroth-ua-testclient",
+  "vendor_id": "bosch",
+  "product_id": "rexroth-ua-testclient",
+  "name": "Rexroth Ua.Testclient",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rexroth_ua.testclient",
+      "confidence": "auto"
+    }
+  ]
+}

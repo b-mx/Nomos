@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--access-manager-identity-server",
+  "vendor_id": "novell",
+  "product_id": "access-manager-identity-server",
+  "name": "Access Manager Identity Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "access_manager_identity_server",
+      "confidence": "auto"
+    }
+  ]
+}

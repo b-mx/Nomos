@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxmint--linuxmint",
+  "vendor_id": "linuxmint",
+  "product_id": "linuxmint",
+  "name": "Linux Mint",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "linuxmint",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "linuxmint",
+      "confidence": "auto"
+    }
+  ]
+}

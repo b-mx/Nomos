@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--stm32f071rb-firmware",
+  "vendor_id": "st",
+  "product_id": "stm32f071rb-firmware",
+  "name": "Stm32F071Rb Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "stm32f071rb_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linuxfoundation--pytorch",
+  "vendor_id": "linuxfoundation",
+  "product_id": "pytorch",
+  "name": "Pytorch",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pytorch",
+      "confidence": "auto"
+    }
+  ]
+}

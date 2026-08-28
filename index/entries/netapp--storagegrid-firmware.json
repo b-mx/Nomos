@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--storagegrid-firmware",
+  "vendor_id": "netapp",
+  "product_id": "storagegrid-firmware",
+  "name": "Storagegrid Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storagegrid_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

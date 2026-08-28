@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--remote-printer-driver",
+  "vendor_id": "epson",
+  "product_id": "remote-printer-driver",
+  "name": "Remote Printer Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remote_printer_driver",
+      "confidence": "auto"
+    }
+  ]
+}

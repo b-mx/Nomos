@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--inncom-inncontrol-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "inncom-inncontrol-firmware",
+  "name": "Inncom Inncontrol Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "inncom_inncontrol_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

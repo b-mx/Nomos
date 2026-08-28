@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "cockroachdb--cockroachdb",
+  "vendor_id": "cockroachdb",
+  "product_id": "cockroachdb",
+  "name": "CockroachDB",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "cockroachdb",
+      "confidence": "auto"
+    }
+  ]
+}

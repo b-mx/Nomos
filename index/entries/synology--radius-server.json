@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--radius-server",
+  "vendor_id": "synology",
+  "product_id": "radius-server",
+  "name": "Radius Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "radius_server",
+      "confidence": "auto"
+    }
+  ]
+}

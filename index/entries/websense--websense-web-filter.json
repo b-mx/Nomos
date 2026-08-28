@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "websense--websense-web-filter",
+  "vendor_id": "websense",
+  "product_id": "websense-web-filter",
+  "name": "Websense Web Filter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "websense_web_filter",
+      "confidence": "auto"
+    }
+  ]
+}

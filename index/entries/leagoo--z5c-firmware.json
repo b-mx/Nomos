@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "leagoo--z5c-firmware",
+  "vendor_id": "leagoo",
+  "product_id": "z5c-firmware",
+  "name": "Z5C Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "z5c_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

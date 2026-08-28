@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "netapp-ontap",
+  "vendor_id": "netapp-ontap",
+  "name": "NetApp ONTAP",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "netapp-ontap",
+      "confidence": "auto"
+    }
+  ]
+}

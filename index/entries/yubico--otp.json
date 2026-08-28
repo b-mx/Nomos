@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yubico--otp",
+  "vendor_id": "yubico",
+  "product_id": "otp",
+  "name": "Otp",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "otp",
+      "confidence": "auto"
+    }
+  ]
+}

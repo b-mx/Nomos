@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "mariadb",
+  "vendor_id": "mariadb",
+  "name": "Mariadb",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mariadb",
+      "confidence": "auto"
+    }
+  ]
+}

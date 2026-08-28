@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--binderhub",
+  "vendor_id": "jupyter",
+  "product_id": "binderhub",
+  "name": "Binderhub",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "binderhub",
+      "confidence": "auto"
+    }
+  ]
+}

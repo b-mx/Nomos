@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--opensuse-build-service",
+  "vendor_id": "novell",
+  "product_id": "opensuse-build-service",
+  "name": "Opensuse Build Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "opensuse_build_service",
+      "confidence": "auto"
+    }
+  ]
+}

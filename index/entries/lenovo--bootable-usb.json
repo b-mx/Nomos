@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--bootable-usb",
+  "vendor_id": "lenovo",
+  "product_id": "bootable-usb",
+  "name": "Bootable Usb",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bootable_usb",
+      "confidence": "auto"
+    }
+  ]
+}

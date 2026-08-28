@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--ibmc-firmware",
+  "vendor_id": "huawei",
+  "product_id": "ibmc-firmware",
+  "name": "Ibmc Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ibmc_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

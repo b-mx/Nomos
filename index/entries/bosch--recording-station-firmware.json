@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--recording-station-firmware",
+  "vendor_id": "bosch",
+  "product_id": "recording-station-firmware",
+  "name": "Recording Station Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "recording_station_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

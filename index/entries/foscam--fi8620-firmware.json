@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "foscam--fi8620-firmware",
+  "vendor_id": "foscam",
+  "product_id": "fi8620-firmware",
+  "name": "Fi8620 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fi8620_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

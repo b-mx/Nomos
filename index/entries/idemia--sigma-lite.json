@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "idemia--sigma-lite",
+  "vendor_id": "idemia",
+  "product_id": "sigma-lite",
+  "name": "Sigma Lite",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sigma_lite",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--b13seg-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "b13seg-firmware",
+  "name": "B13Seg Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "b13seg_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "centos",
+  "vendor_id": "centos",
+  "name": "Centos",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "centos",
+      "confidence": "auto"
+    }
+  ]
+}

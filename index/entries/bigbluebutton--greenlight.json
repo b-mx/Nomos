@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "bigbluebutton--greenlight",
+  "vendor_id": "bigbluebutton",
+  "product_id": "greenlight",
+  "name": "Greenlight",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "greenlight",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "greenlight",
+      "confidence": "auto"
+    }
+  ]
+}

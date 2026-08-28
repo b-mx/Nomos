@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--gnome-keyring",
+  "vendor_id": "gnome",
+  "product_id": "gnome-keyring",
+  "name": "Gnome-Keyring",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gnome-keyring",
+      "confidence": "auto"
+    }
+  ]
+}

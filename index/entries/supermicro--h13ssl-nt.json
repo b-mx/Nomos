@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--h13ssl-nt",
+  "vendor_id": "supermicro",
+  "product_id": "h13ssl-nt",
+  "name": "H13Ssl-Nt",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "h13ssl-nt",
+      "confidence": "auto"
+    }
+  ]
+}

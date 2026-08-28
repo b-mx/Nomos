@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "nixos--nixos",
+  "vendor_id": "nixos",
+  "product_id": "nixos",
+  "name": "NixOS",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "nixos",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "nixos",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fluxcd--helm-controller",
+  "vendor_id": "fluxcd",
+  "product_id": "helm-controller",
+  "name": "Helm-Controller",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "helm-controller",
+      "confidence": "auto"
+    }
+  ]
+}

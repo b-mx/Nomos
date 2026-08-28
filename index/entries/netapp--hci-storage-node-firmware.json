@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netapp--hci-storage-node-firmware",
+  "vendor_id": "netapp",
+  "product_id": "hci-storage-node-firmware",
+  "name": "Hci Storage Node Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hci_storage_node_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

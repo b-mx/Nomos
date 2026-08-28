@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "proftpd--proftpd",
+  "vendor_id": "proftpd",
+  "product_id": "proftpd",
+  "name": "ProFTPD",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "proftpd",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "proftpd",
+      "confidence": "auto"
+    }
+  ]
+}

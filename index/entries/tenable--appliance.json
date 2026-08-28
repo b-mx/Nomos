@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tenable--appliance",
+  "vendor_id": "tenable",
+  "product_id": "appliance",
+  "name": "Appliance",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "appliance",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--zenworks-servers",
+  "vendor_id": "novell",
+  "product_id": "zenworks-servers",
+  "name": "Zenworks Servers",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "zenworks_servers",
+      "confidence": "auto"
+    }
+  ]
+}

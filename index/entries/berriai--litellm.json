@@ -5,16 +5,14 @@
   "product_id": "litellm",
   "name": "LiteLLM",
   "type": "software",
-  "tags": [
-    "ai-ml"
-  ],
-  "icon": "selfhst:litellm",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "LiteLLM",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

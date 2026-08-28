@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "st--j-safe3-firmware",
+  "vendor_id": "st",
+  "product_id": "j-safe3-firmware",
+  "name": "J-Safe3 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "j-safe3_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

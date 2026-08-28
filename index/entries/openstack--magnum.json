@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--magnum",
+  "vendor_id": "openstack",
+  "product_id": "magnum",
+  "name": "Magnum",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "magnum",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--application-control-environment-firmware",
+  "vendor_id": "honeywell",
+  "product_id": "application-control-environment-firmware",
+  "name": "Application Control Environment Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "application_control_environment_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

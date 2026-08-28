@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microchip--bm78-firmware",
+  "vendor_id": "microchip",
+  "product_id": "bm78-firmware",
+  "name": "Bm78 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bm78_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

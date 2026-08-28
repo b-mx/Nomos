@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "centreon--centreon-vm",
+  "vendor_id": "centreon",
+  "product_id": "centreon-vm",
+  "name": "Centreon Vm",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "centreon_vm",
+      "confidence": "auto"
+    }
+  ]
+}

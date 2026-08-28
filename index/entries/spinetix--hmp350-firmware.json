@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "spinetix--hmp350-firmware",
+  "vendor_id": "spinetix",
+  "product_id": "hmp350-firmware",
+  "name": "Hmp350 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hmp350_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

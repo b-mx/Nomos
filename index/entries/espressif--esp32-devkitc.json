@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--esp32-devkitc",
+  "vendor_id": "espressif",
+  "product_id": "esp32-devkitc",
+  "name": "Esp32-Devkitc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "esp32-devkitc",
+      "confidence": "auto"
+    }
+  ]
+}

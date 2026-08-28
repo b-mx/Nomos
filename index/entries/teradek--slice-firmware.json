@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teradek--slice-firmware",
+  "vendor_id": "teradek",
+  "product_id": "slice-firmware",
+  "name": "Slice Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "slice_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

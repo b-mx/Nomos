@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "weidmueller--iot-gw30-firmware",
+  "vendor_id": "weidmueller",
+  "product_id": "iot-gw30-firmware",
+  "name": "Iot-Gw30 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "iot-gw30_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

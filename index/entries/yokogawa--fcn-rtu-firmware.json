@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yokogawa--fcn-rtu-firmware",
+  "vendor_id": "yokogawa",
+  "product_id": "fcn-rtu-firmware",
+  "name": "Fcn-Rtu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fcn-rtu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

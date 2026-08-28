@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sybase--adaptive-server-anywhere",
+  "vendor_id": "sybase",
+  "product_id": "adaptive-server-anywhere",
+  "name": "Adaptive Server Anywhere",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "adaptive_server_anywhere",
+      "confidence": "auto"
+    }
+  ]
+}

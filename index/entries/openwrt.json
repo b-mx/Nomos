@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "openwrt",
+  "vendor_id": "openwrt",
+  "name": "OpenWrt",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "openwrt",
+      "confidence": "auto"
+    }
+  ]
+}

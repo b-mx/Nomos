@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bosch--cpp13",
+  "vendor_id": "bosch",
+  "product_id": "cpp13",
+  "name": "Cpp13",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cpp13",
+      "confidence": "auto"
+    }
+  ]
+}

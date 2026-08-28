@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ericsson--evolved-packet-gateway",
+  "vendor_id": "ericsson",
+  "product_id": "evolved-packet-gateway",
+  "name": "Evolved Packet Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "evolved_packet_gateway",
+      "confidence": "auto"
+    }
+  ]
+}

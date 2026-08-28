@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "emc--isilon-onefs",
+  "vendor_id": "emc",
+  "product_id": "isilon-onefs",
+  "name": "Isilon Onefs",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "isilon_onefs",
+      "confidence": "auto"
+    }
+  ]
+}

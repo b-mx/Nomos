@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abb--ac500-cpu-firmware",
+  "vendor_id": "abb",
+  "product_id": "ac500-cpu-firmware",
+  "name": "Ac500 Cpu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ac500_cpu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

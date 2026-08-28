@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openstack--kolla",
+  "vendor_id": "openstack",
+  "product_id": "kolla",
+  "name": "Kolla",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "kolla",
+      "confidence": "auto"
+    }
+  ]
+}

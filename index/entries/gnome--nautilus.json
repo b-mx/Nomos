@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--nautilus",
+  "vendor_id": "gnome",
+  "product_id": "nautilus",
+  "name": "Nautilus",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nautilus",
+      "confidence": "auto"
+    }
+  ]
+}

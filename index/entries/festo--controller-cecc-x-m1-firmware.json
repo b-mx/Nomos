@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "festo--controller-cecc-x-m1-firmware",
+  "vendor_id": "festo",
+  "product_id": "controller-cecc-x-m1-firmware",
+  "name": "Controller Cecc-X-M1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "controller_cecc-x-m1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

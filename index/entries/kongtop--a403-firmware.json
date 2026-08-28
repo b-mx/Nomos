@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kongtop--a403-firmware",
+  "vendor_id": "kongtop",
+  "product_id": "a403-firmware",
+  "name": "A403 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "a403_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

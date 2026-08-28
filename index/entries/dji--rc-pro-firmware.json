@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "dji--rc-pro-firmware",
+  "vendor_id": "dji",
+  "product_id": "rc-pro-firmware",
+  "name": "Rc Pro Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "rc_pro_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

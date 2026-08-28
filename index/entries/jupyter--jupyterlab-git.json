@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jupyter--jupyterlab-git",
+  "vendor_id": "jupyter",
+  "product_id": "jupyterlab-git",
+  "name": "Jupyterlab-Git",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "jupyterlab-git",
+      "confidence": "auto"
+    }
+  ]
+}

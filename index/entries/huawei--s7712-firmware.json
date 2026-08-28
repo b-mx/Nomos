@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--s7712-firmware",
+  "vendor_id": "huawei",
+  "product_id": "s7712-firmware",
+  "name": "S7712 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "s7712_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

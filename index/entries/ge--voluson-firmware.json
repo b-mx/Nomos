@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--voluson-firmware",
+  "vendor_id": "ge",
+  "product_id": "voluson-firmware",
+  "name": "Voluson Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "voluson_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

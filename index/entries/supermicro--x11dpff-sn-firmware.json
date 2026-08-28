@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x11dpff-sn-firmware",
+  "vendor_id": "supermicro",
+  "product_id": "x11dpff-sn-firmware",
+  "name": "X11Dpff-Sn Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x11dpff-sn_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

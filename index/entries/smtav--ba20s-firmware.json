@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "smtav--ba20s-firmware",
+  "vendor_id": "smtav",
+  "product_id": "ba20s-firmware",
+  "name": "Ba20S Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ba20s_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

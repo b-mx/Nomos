@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "supermicro--x10obi-cpu",
+  "vendor_id": "supermicro",
+  "product_id": "x10obi-cpu",
+  "name": "X10Obi-Cpu",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "x10obi-cpu",
+      "confidence": "auto"
+    }
+  ]
+}

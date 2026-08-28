@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arubanetworks--instant-access-point",
+  "vendor_id": "arubanetworks",
+  "product_id": "instant-access-point",
+  "name": "Instant Access Point",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "instant_access_point",
+      "confidence": "auto"
+    }
+  ]
+}

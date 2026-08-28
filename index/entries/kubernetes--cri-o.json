@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kubernetes--cri-o",
+  "vendor_id": "kubernetes",
+  "product_id": "cri-o",
+  "name": "Cri-O",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cri-o",
+      "confidence": "auto"
+    }
+  ]
+}

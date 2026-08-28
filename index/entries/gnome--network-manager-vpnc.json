@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--network-manager-vpnc",
+  "vendor_id": "gnome",
+  "product_id": "network-manager-vpnc",
+  "name": "Network Manager Vpnc",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_manager_vpnc",
+      "confidence": "auto"
+    }
+  ]
+}

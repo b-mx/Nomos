@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "intelliantech--remote-access",
+  "vendor_id": "intelliantech",
+  "product_id": "remote-access",
+  "name": "Remote Access",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "remote_access",
+      "confidence": "auto"
+    }
+  ]
+}

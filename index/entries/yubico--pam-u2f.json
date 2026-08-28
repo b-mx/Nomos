@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "yubico--pam-u2f",
+  "vendor_id": "yubico",
+  "product_id": "pam-u2f",
+  "name": "Pam-U2F",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pam-u2f",
+      "confidence": "auto"
+    }
+  ]
+}

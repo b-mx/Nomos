@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ge--sd1-firmware",
+  "vendor_id": "ge",
+  "product_id": "sd1-firmware",
+  "name": "Sd1 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sd1_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

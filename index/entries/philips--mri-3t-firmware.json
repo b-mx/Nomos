@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "philips--mri-3t-firmware",
+  "vendor_id": "philips",
+  "product_id": "mri-3t-firmware",
+  "name": "Mri 3T Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mri_3t_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

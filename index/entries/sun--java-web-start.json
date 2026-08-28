@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sun--java-web-start",
+  "vendor_id": "sun",
+  "product_id": "java-web-start",
+  "name": "Java Web Start",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "java_web_start",
+      "confidence": "auto"
+    }
+  ]
+}

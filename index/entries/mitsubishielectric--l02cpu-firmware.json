@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mitsubishielectric--l02cpu-firmware",
+  "vendor_id": "mitsubishielectric",
+  "product_id": "l02cpu-firmware",
+  "name": "L02Cpu Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "l02cpu_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

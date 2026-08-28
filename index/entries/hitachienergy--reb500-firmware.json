@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hitachienergy--reb500-firmware",
+  "vendor_id": "hitachienergy",
+  "product_id": "reb500-firmware",
+  "name": "Reb500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "reb500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

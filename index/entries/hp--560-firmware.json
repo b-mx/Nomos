@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--560-firmware",
+  "vendor_id": "hp",
+  "product_id": "560-firmware",
+  "name": "560 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "560_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

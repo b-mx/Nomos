@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "pivotal--bosh-stemcell",
+  "vendor_id": "pivotal",
+  "product_id": "bosh-stemcell",
+  "name": "Bosh Stemcell",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "bosh_stemcell",
+      "confidence": "auto"
+    }
+  ]
+}

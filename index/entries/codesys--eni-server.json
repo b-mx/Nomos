@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "codesys--eni-server",
+  "vendor_id": "codesys",
+  "product_id": "eni-server",
+  "name": "Eni Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "eni_server",
+      "confidence": "auto"
+    }
+  ]
+}

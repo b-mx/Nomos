@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "onsemi--qhs710-firmware",
+  "vendor_id": "onsemi",
+  "product_id": "qhs710-firmware",
+  "name": "Qhs710 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "qhs710_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

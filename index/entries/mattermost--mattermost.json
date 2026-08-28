@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "mattermost--mattermost",
+  "vendor_id": "mattermost",
+  "product_id": "mattermost",
+  "name": "Mattermost",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "mattermost",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "mattermost_server",
+      "confidence": "auto"
+    }
+  ]
+}

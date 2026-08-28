@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "canonical--apparmor",
+  "vendor_id": "canonical",
+  "product_id": "apparmor",
+  "name": "Apparmor",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "apparmor",
+      "confidence": "auto"
+    }
+  ]
+}

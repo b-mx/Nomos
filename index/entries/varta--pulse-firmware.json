@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "varta--pulse-firmware",
+  "vendor_id": "varta",
+  "product_id": "pulse-firmware",
+  "name": "Pulse Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pulse_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

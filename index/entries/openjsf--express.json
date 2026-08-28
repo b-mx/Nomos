@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "openjsf--express",
+  "vendor_id": "openjsf",
+  "product_id": "express",
+  "name": "Express",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "express",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "express",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "neo4j--neo4j",
+  "vendor_id": "neo4j",
+  "product_id": "neo4j",
+  "name": "Neo4j",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "neo4j",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "neo4j",
+      "confidence": "auto"
+    }
+  ]
+}

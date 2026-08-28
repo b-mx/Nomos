@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "synology--carddav-server",
+  "vendor_id": "synology",
+  "product_id": "carddav-server",
+  "name": "Carddav Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "carddav_server",
+      "confidence": "auto"
+    }
+  ]
+}

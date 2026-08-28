@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "microsoft--smbv3",
+  "vendor_id": "microsoft",
+  "product_id": "smbv3",
+  "name": "SMBv3",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SMBv3",
+      "confidence": "auto"
+    }
+  ]
+}

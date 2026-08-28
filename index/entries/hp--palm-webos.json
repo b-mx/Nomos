@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--palm-webos",
+  "vendor_id": "hp",
+  "product_id": "palm-webos",
+  "name": "Palm Webos",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "palm_webos",
+      "confidence": "auto"
+    }
+  ]
+}

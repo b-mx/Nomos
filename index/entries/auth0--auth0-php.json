@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "auth0--auth0-php",
+  "vendor_id": "auth0",
+  "product_id": "auth0-php",
+  "name": "Auth0-Php",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "auth0-php",
+      "confidence": "auto"
+    }
+  ]
+}

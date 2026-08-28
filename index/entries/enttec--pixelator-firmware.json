@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "enttec--pixelator-firmware",
+  "vendor_id": "enttec",
+  "product_id": "pixelator-firmware",
+  "name": "Pixelator Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "pixelator_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "spinetix--hmp400w-firmware",
+  "vendor_id": "spinetix",
+  "product_id": "hmp400w-firmware",
+  "name": "Hmp400W Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "hmp400w_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

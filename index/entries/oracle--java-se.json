@@ -6,17 +6,12 @@
   "name": "Java SE",
   "type": "software",
   "tags": [],
-  "icon": "logos:oracle",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "Java SE",
-      "confidence": "auto"
-    },
-    {
-      "source": "cisa_kev",
-      "value": "Java SE JDK and JRE",
       "confidence": "auto"
     }
   ]

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--radia-client",
+  "vendor_id": "hp",
+  "product_id": "radia-client",
+  "name": "Radia Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "radia_client",
+      "confidence": "auto"
+    }
+  ]
+}

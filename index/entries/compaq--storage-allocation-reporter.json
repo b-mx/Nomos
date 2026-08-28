@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "compaq--storage-allocation-reporter",
+  "vendor_id": "compaq",
+  "product_id": "storage-allocation-reporter",
+  "name": "Storage Allocation Reporter",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "storage_allocation_reporter",
+      "confidence": "auto"
+    }
+  ]
+}

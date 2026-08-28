@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "abus--tvip-10000-firmware",
+  "vendor_id": "abus",
+  "product_id": "tvip-10000-firmware",
+  "name": "Tvip 10000 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "tvip_10000_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

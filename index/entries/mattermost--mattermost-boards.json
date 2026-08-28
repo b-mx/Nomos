@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mattermost--mattermost-boards",
+  "vendor_id": "mattermost",
+  "product_id": "mattermost-boards",
+  "name": "Mattermost Boards",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mattermost_boards",
+      "confidence": "auto"
+    }
+  ]
+}

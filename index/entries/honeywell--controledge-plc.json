@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "honeywell--controledge-plc",
+  "vendor_id": "honeywell",
+  "product_id": "controledge-plc",
+  "name": "Controledge Plc",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "controledge_plc",
+      "confidence": "auto"
+    }
+  ]
+}

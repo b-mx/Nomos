@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fujitsu--network-edgiot-gw1500-firmware",
+  "vendor_id": "fujitsu",
+  "product_id": "network-edgiot-gw1500-firmware",
+  "name": "Network Edgiot Gw1500 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "network_edgiot_gw1500_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

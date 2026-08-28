@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "protocol--go-unixfsnode",
+  "vendor_id": "protocol",
+  "product_id": "go-unixfsnode",
+  "name": "Go-Unixfsnode",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "go-unixfsnode",
+      "confidence": "auto"
+    }
+  ]
+}

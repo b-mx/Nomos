@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arubanetworks--cx-8400-firmware",
+  "vendor_id": "arubanetworks",
+  "product_id": "cx-8400-firmware",
+  "name": "Cx 8400 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cx_8400_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

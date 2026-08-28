@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cloudera--key-trustee-server",
+  "vendor_id": "cloudera",
+  "product_id": "key-trustee-server",
+  "name": "Key Trustee Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "key_trustee_server",
+      "confidence": "auto"
+    }
+  ]
+}

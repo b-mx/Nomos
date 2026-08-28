@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--insight-control-server-deployment",
+  "vendor_id": "hp",
+  "product_id": "insight-control-server-deployment",
+  "name": "Insight Control Server Deployment",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "insight_control_server_deployment",
+      "confidence": "auto"
+    }
+  ]
+}

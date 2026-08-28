@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "nextjs--nextjs",
+  "vendor_id": "nextjs",
+  "product_id": "nextjs",
+  "name": "Next.js",
+  "type": "library",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "nextjs",
+      "confidence": "auto"
+    }
+  ]
+}

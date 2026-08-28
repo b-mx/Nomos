@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "att--alienvault-ossim",
+  "vendor_id": "att",
+  "product_id": "alienvault-ossim",
+  "name": "Alienvault Ossim",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "alienvault_ossim",
+      "confidence": "auto"
+    }
+  ]
+}

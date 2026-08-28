@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "coolpad--defiant-firmware",
+  "vendor_id": "coolpad",
+  "product_id": "defiant-firmware",
+  "name": "Defiant Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "defiant_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

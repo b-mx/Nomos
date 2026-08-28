@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "anviz--cx7-firmware",
+  "vendor_id": "anviz",
+  "product_id": "cx7-firmware",
+  "name": "Cx7 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cx7_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

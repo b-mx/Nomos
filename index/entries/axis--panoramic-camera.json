@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "axis--panoramic-camera",
+  "vendor_id": "axis",
+  "product_id": "panoramic-camera",
+  "name": "Panoramic Camera",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "panoramic_camera",
+      "confidence": "auto"
+    }
+  ]
+}

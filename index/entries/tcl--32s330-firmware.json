@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tcl--32s330-firmware",
+  "vendor_id": "tcl",
+  "product_id": "32s330-firmware",
+  "name": "32S330 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "32s330_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

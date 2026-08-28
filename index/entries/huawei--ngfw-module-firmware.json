@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "huawei--ngfw-module-firmware",
+  "vendor_id": "huawei",
+  "product_id": "ngfw-module-firmware",
+  "name": "Ngfw Module Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ngfw_module_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

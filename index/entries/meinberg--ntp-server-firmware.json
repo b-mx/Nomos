@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "meinberg--ntp-server-firmware",
+  "vendor_id": "meinberg",
+  "product_id": "ntp-server-firmware",
+  "name": "Ntp Server Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ntp_server_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

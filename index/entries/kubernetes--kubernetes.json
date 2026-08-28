@@ -5,29 +5,19 @@
   "product_id": "kubernetes",
   "name": "Kubernetes",
   "type": "software",
-  "tags": [
-    "orchestration",
-    "container-runtime"
-  ],
-  "icon": "logos:kubernetes",
-  "services": [
-    {
-      "protocol": "tcp",
-      "port": 6443,
-      "name": "kube-apiserver",
-      "default": true
-    }
-  ],
+  "tags": [],
+  "icon": null,
+  "services": [],
   "aliases": [
-    {
-      "source": "nvd",
-      "value": "kubernetes",
-      "confidence": "curated"
-    },
     {
       "source": "endoflife",
       "value": "kubernetes",
-      "confidence": "curated"
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "kubernetes",
+      "confidence": "auto"
     }
   ]
 }

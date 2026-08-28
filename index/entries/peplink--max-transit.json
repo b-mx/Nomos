@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "peplink--max-transit",
+  "vendor_id": "peplink",
+  "product_id": "max-transit",
+  "name": "Max Transit",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "max_transit",
+      "confidence": "auto"
+    }
+  ]
+}

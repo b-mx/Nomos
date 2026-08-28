@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "lenovo--system-update",
+  "vendor_id": "lenovo",
+  "product_id": "system-update",
+  "name": "System Update",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "system_update",
+      "confidence": "auto"
+    }
+  ]
+}

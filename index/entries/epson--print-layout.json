@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "epson--print-layout",
+  "vendor_id": "epson",
+  "product_id": "print-layout",
+  "name": "Print Layout",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "print_layout",
+      "confidence": "auto"
+    }
+  ]
+}

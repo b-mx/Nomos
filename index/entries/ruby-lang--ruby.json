@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "ruby-lang--ruby",
+  "vendor_id": "ruby-lang",
+  "product_id": "ruby",
+  "name": "Ruby",
+  "type": "library",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "ruby",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "ruby",
+      "confidence": "auto"
+    }
+  ]
+}

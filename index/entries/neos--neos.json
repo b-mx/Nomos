@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "neos--neos",
+  "vendor_id": "neos",
+  "product_id": "neos",
+  "name": "Neos",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "endoflife",
+      "value": "neos",
+      "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "neos_cms",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "beckhoff--twincat-opc-ua-server",
+  "vendor_id": "beckhoff",
+  "product_id": "twincat-opc-ua-server",
+  "name": "Twincat Opc Ua Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "twincat_opc_ua_server",
+      "confidence": "auto"
+    }
+  ]
+}

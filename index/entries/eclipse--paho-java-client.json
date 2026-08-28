@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "eclipse--paho-java-client",
+  "vendor_id": "eclipse",
+  "product_id": "paho-java-client",
+  "name": "Paho Java Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "paho_java_client",
+      "confidence": "auto"
+    }
+  ]
+}

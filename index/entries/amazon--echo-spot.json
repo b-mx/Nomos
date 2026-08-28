@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "amazon--echo-spot",
+  "vendor_id": "amazon",
+  "product_id": "echo-spot",
+  "name": "Echo Spot",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "echo_spot",
+      "confidence": "auto"
+    }
+  ]
+}

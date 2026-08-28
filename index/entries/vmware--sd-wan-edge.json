@@ -6,13 +6,13 @@
   "name": "SD-WAN Edge",
   "type": "software",
   "tags": [],
-  "icon": "carbon:logo-vmware-alt",
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "cisa_kev",
       "value": "SD-WAN Edge",
-      "confidence": "curated"
+      "confidence": "auto"
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "kde--paste-applet",
+  "vendor_id": "kde",
+  "product_id": "paste-applet",
+  "name": "Paste Applet",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "paste_applet",
+      "confidence": "auto"
+    }
+  ]
+}

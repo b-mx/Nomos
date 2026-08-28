@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "bd--database-manager",
+  "vendor_id": "bd",
+  "product_id": "database-manager",
+  "name": "Database Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "database_manager",
+      "confidence": "auto"
+    }
+  ]
+}

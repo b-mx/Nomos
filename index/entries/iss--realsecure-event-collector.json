@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "iss--realsecure-event-collector",
+  "vendor_id": "iss",
+  "product_id": "realsecure-event-collector",
+  "name": "Realsecure Event Collector",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "realsecure_event_collector",
+      "confidence": "auto"
+    }
+  ]
+}

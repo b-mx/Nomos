@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--workload-manager",
+  "vendor_id": "hp",
+  "product_id": "workload-manager",
+  "name": "Workload Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "workload_manager",
+      "confidence": "auto"
+    }
+  ]
+}

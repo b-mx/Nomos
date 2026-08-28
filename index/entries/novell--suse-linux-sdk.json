@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "novell--suse-linux-sdk",
+  "vendor_id": "novell",
+  "product_id": "suse-linux-sdk",
+  "name": "Suse Linux Sdk",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "suse_linux_sdk",
+      "confidence": "auto"
+    }
+  ]
+}

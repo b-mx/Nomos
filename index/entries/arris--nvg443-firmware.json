@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arris--nvg443-firmware",
+  "vendor_id": "arris",
+  "product_id": "nvg443-firmware",
+  "name": "Nvg443 Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "nvg443_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

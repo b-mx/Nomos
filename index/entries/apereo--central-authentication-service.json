@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apereo--central-authentication-service",
+  "vendor_id": "apereo",
+  "product_id": "central-authentication-service",
+  "name": "Central Authentication Service",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "central_authentication_service",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "suse--linux-enterprise-software-development-kit",
+  "vendor_id": "suse",
+  "product_id": "linux-enterprise-software-development-kit",
+  "name": "Linux Enterprise Software Development Kit",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "linux_enterprise_software_development_kit",
+      "confidence": "auto"
+    }
+  ]
+}

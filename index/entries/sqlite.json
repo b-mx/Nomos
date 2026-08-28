@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "sqlite",
+  "vendor_id": "sqlite",
+  "name": "Sqlite",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sqlite",
+      "confidence": "auto"
+    }
+  ]
+}

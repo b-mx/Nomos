@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gemalto--safenet-authentication-service-windows-logon-agent",
+  "vendor_id": "gemalto",
+  "product_id": "safenet-authentication-service-windows-logon-agent",
+  "name": "Safenet Authentication Service Windows Logon Agent",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "safenet_authentication_service_windows_logon_agent",
+      "confidence": "auto"
+    }
+  ]
+}

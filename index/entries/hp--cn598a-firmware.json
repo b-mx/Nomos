@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hp--cn598a-firmware",
+  "vendor_id": "hp",
+  "product_id": "cn598a-firmware",
+  "name": "Cn598A Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "cn598a_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

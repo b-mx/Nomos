@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mattermost--mattermost-desktop",
+  "vendor_id": "mattermost",
+  "product_id": "mattermost-desktop",
+  "name": "Mattermost Desktop",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "mattermost_desktop",
+      "confidence": "auto"
+    }
+  ]
+}

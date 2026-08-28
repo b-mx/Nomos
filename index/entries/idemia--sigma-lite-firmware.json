@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "idemia--sigma-lite-firmware",
+  "vendor_id": "idemia",
+  "product_id": "sigma-lite-firmware",
+  "name": "Sigma Lite Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "sigma_lite_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

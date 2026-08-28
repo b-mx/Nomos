@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gradle--plugin-publishing",
+  "vendor_id": "gradle",
+  "product_id": "plugin-publishing",
+  "name": "Plugin Publishing",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "plugin_publishing",
+      "confidence": "auto"
+    }
+  ]
+}

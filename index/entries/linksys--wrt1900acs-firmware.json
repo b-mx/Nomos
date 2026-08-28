@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "linksys--wrt1900acs-firmware",
+  "vendor_id": "linksys",
+  "product_id": "wrt1900acs-firmware",
+  "name": "Wrt1900Acs Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "wrt1900acs_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

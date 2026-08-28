@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnome--gtk",
+  "vendor_id": "gnome",
+  "product_id": "gtk",
+  "name": "Gtk",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "gtk",
+      "confidence": "auto"
+    }
+  ]
+}

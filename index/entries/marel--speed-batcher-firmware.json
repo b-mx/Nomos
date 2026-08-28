@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "marel--speed-batcher-firmware",
+  "vendor_id": "marel",
+  "product_id": "speed-batcher-firmware",
+  "name": "Speed Batcher Firmware",
+  "type": "os",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "speed_batcher_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

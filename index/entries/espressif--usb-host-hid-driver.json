@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "espressif--usb-host-hid-driver",
+  "vendor_id": "espressif",
+  "product_id": "usb-host-hid-driver",
+  "name": "Usb Host Hid Driver",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "usb_host_hid_driver",
+      "confidence": "auto"
+    }
+  ]
+}
