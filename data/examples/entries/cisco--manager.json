@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--manager",
+  "vendor_id": "cisco",
+  "product_id": "manager",
+  "name": "Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Manager",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+id: backup
+vendor_id: nakivo
+name: Backup
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Backup
+  confidence: auto

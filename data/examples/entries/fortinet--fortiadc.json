@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fortinet--fortiadc",
+  "vendor_id": "fortinet",
+  "product_id": "fortiadc",
+  "name": "FortiADC",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "FortiADC",
+      "confidence": "auto"
+    }
+  ]
+}

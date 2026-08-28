@@ -1,0 +1,9 @@
+id: jira-server
+vendor_id: atlassian
+name: Jira Server
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Jira Server
+  confidence: auto

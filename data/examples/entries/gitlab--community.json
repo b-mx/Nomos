@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gitlab--community",
+  "vendor_id": "gitlab",
+  "product_id": "community",
+  "name": "Community",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Community",
+      "confidence": "auto"
+    }
+  ]
+}

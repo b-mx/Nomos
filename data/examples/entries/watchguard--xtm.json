@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "watchguard--xtm",
+  "vendor_id": "watchguard",
+  "product_id": "xtm",
+  "name": "XTM",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "XTM",
+      "confidence": "auto"
+    }
+  ]
+}

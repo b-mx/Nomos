@@ -1,0 +1,9 @@
+id: firepower-threat-defense-ftd
+vendor_id: cisco
+name: Firepower Threat Defense (FTD)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Firepower Threat Defense (FTD)
+  confidence: auto

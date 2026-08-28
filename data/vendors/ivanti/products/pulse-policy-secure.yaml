@@ -1,0 +1,9 @@
+id: pulse-policy-secure
+vendor_id: ivanti
+name: Pulse Policy Secure
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Pulse Policy Secure
+  confidence: auto

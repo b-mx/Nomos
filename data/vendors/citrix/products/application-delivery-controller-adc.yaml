@@ -1,0 +1,9 @@
+id: application-delivery-controller-adc
+vendor_id: citrix
+name: Application Delivery Controller (ADC)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Application Delivery Controller (ADC)
+  confidence: auto

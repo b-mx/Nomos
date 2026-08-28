@@ -1,0 +1,9 @@
+id: privileged-remote-access-pra
+vendor_id: beyondtrust
+name: Privileged Remote Access (PRA)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Privileged Remote Access (PRA)
+  confidence: auto

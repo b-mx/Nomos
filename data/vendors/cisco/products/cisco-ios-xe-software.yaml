@@ -1,0 +1,9 @@
+id: cisco-ios-xe-software
+vendor_id: cisco
+name: Cisco IOS XE Software
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Cisco IOS XE Software
+  confidence: auto

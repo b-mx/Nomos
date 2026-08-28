@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "citrix--netscaler-gateway",
+  "vendor_id": "citrix",
+  "product_id": "netscaler-gateway",
+  "name": "NetScaler Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "NetScaler Gateway",
+      "confidence": "auto"
+    }
+  ]
+}

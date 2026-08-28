@@ -1,0 +1,9 @@
+id: manager
+vendor_id: cisco
+name: Manager
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Manager
+  confidence: auto

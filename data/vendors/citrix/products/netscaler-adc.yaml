@@ -1,0 +1,9 @@
+id: netscaler-adc
+vendor_id: citrix
+name: NetScaler ADC
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: NetScaler ADC
+  confidence: auto
