@@ -52631,7 +52631,40 @@
     "alias": {
       "source": "nvd",
       "value": "ubuntu_linux",
-      "confidence": "auto"
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "asa",
+    "name": "Cisco Adaptive Security Appliance (ASA)",
+    "alias": {
+      "source": "nvd",
+      "value": "adaptive_security_appliance",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "cisco",
+    "product_id": "ios",
+    "name": "Cisco IOS",
+    "alias": {
+      "source": "nvd",
+      "value": "ios",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "dell",
+    "product_id": "poweredge-r740",
+    "name": "Dell PowerEdge R740",
+    "alias": {
+      "source": "nvd",
+      "value": "poweredge_r740_firmware",
+      "confidence": "curated"
     }
   },
   {

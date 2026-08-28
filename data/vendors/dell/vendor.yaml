@@ -1,6 +1,7 @@
 id: dell
 name: Dell
 aliases:
-- source: cisa_kev
-  value: Dell
-  confidence: auto
+- source: nvd
+  value: dell
+  confidence: curated
+icon: selfhst:dell
