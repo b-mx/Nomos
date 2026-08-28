@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "progress--moveit-transfer",
+  "vendor_id": "progress",
+  "product_id": "moveit-transfer",
+  "name": "MOVEit Transfer",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:progress",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "MOVEit Transfer",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--catalyst-sd-wan-manager",
+  "vendor_id": "cisco",
+  "product_id": "catalyst-sd-wan-manager",
+  "name": "Catalyst SD-WAN Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Catalyst SD-WAN Manager",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Catalyst SD-WAN",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "SD-WAN",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Catalyst SD-WAN Controller and Manager",
+      "confidence": "auto"
+    }
+  ]
+}

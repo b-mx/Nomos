@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chrome-freetype",
+  "vendor_id": "google",
+  "product_id": "chrome-freetype",
+  "name": "Chrome FreeType",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chrome FreeType",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -12,7 +12,7 @@
   "services": [],
   "aliases": [
     {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "docker",
       "confidence": "curated"
     },

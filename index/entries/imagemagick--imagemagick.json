@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "imagemagick--imagemagick",
+  "vendor_id": "imagemagick",
+  "product_id": "imagemagick",
+  "name": "ImageMagick",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "ImageMagick",
+      "confidence": "auto"
+    }
+  ]
+}

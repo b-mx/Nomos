@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "craft-cms--craft-cms",
+  "vendor_id": "craft-cms",
+  "product_id": "craft-cms",
+  "name": "Craft CMS",
+  "type": "software",
+  "tags": [
+    "cms"
+  ],
+  "icon": "logos:craftcms",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Craft CMS",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "qlik--sense",
+  "vendor_id": "qlik",
+  "product_id": "sense",
+  "name": "Sense",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:qlik",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Sense",
+      "confidence": "auto"
+    }
+  ]
+}

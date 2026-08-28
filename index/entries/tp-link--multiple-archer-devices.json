@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tp-link--multiple-archer-devices",
+  "vendor_id": "tp-link",
+  "product_id": "multiple-archer-devices",
+  "name": "Multiple Archer Devices",
+  "type": "hardware",
+  "tags": [],
+  "icon": "simple-icons:tplink",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Multiple Archer Devices",
+      "confidence": "auto"
+    }
+  ]
+}

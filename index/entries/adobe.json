@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "adobe",
+  "vendor_id": "adobe",
+  "name": "Adobe",
+  "icon": "logos:adobe-icon",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Adobe",
+      "confidence": "curated"
+    }
+  ]
+}

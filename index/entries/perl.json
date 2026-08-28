@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "perl",
+  "vendor_id": "perl",
+  "name": "Perl",
+  "icon": "logos:perl",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Perl",
+      "confidence": "auto"
+    }
+  ]
+}

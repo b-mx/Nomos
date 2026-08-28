@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "check-point--security-gateway",
+  "vendor_id": "check-point",
+  "product_id": "security-gateway",
+  "name": "Security Gateway",
+  "type": "appliance",
+  "tags": [
+    "network-device"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Security Gateway",
+      "confidence": "auto"
+    }
+  ]
+}

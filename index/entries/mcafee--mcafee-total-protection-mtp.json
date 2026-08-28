@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mcafee--mcafee-total-protection-mtp",
+  "vendor_id": "mcafee",
+  "product_id": "mcafee-total-protection-mtp",
+  "name": "McAfee Total Protection (MTP)",
+  "type": "software",
+  "tags": [],
+  "icon": "cib:mcafee",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "McAfee Total Protection (MTP)",
+      "confidence": "auto"
+    }
+  ]
+}

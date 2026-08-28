@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-indexed-db-api",
+  "vendor_id": "google",
+  "product_id": "chromium-indexed-db-api",
+  "name": "Chromium Indexed DB API",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium Indexed DB API",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "kaseya",
+  "vendor_id": "kaseya",
+  "name": "Kaseya",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Kaseya",
+      "confidence": "auto"
+    }
+  ]
+}

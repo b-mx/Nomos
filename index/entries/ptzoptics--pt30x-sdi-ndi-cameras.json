@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "ptzoptics--pt30x-sdi-ndi-cameras",
+  "vendor_id": "ptzoptics",
+  "product_id": "pt30x-sdi-ndi-cameras",
+  "name": "PT30X-SDI/NDI Cameras",
+  "type": "hardware",
+  "tags": [
+    "network-device"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "PT30X-SDI/NDI Cameras",
+      "confidence": "auto"
+    }
+  ]
+}

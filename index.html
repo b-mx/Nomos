@@ -9,7 +9,7 @@
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://api.iconify.design">
 </head>
 <body>
-  <header class="hero">
+  <header class="hero hero-compact">
     <img src="nomos-banner.svg" alt="Nomos — one canonical identity, every source" class="hero-banner" />
     <div class="hero-content">
       <p>Nomos is a community-maintained mapping from vendor and product names, as
@@ -32,7 +32,7 @@
           <span class="source-dot source-dot-nvd-cpe"></span>
           <span class="source-label">NVD CPE</span>
           <code class="source-example">microsoft:windows_server</code>
-          <span class="chip chip-mono">nvd_cpe</span>
+          <span class="chip chip-mono">nvd</span>
         </div>
         <div class="source-row">
           <span class="source-dot source-dot-endoflife"></span>
@@ -61,14 +61,14 @@
         <div class="data-model-row">
           <div class="data-model-name">Vendor</div>
           <div>
-            <code>vendors/&lt;id&gt;/vendor.yaml</code>
+            <code>data/vendors/&lt;id&gt;/vendor.yaml</code>
             <div class="data-model-desc">Stable id, display name, source aliases.</div>
           </div>
         </div>
         <div class="data-model-row">
           <div class="data-model-name">Product</div>
           <div>
-            <code>vendors/&lt;id&gt;/products/&lt;id&gt;.yaml</code>
+            <code>data/vendors/&lt;id&gt;/products/&lt;id&gt;.yaml</code>
             <div class="data-model-desc">Type, tags, optional services, aliases.</div>
           </div>
         </div>
@@ -80,9 +80,16 @@
           </div>
         </div>
         <div class="data-model-row">
+          <div class="data-model-name">Service</div>
+          <div>
+            <code>{protocol, port, name, default}</code>
+            <div class="data-model-desc">Optional, product-level — the network services a product exposes (software/appliance/os types only).</div>
+          </div>
+        </div>
+        <div class="data-model-row">
           <div class="data-model-name">Tag</div>
           <div>
-            <code>taxonomy/tags.yaml</code>
+            <code>data/taxonomy/tags.yaml</code>
             <div class="data-model-desc">The closed set of category labels.</div>
           </div>
         </div>
@@ -97,8 +104,8 @@
     <section>
       <h2>Adding an entry</h2>
       <pre class="quickstart">uv run tools/validate.py          # clean tree before you start
-$EDITOR vendors/acme/vendor.yaml
-$EDITOR vendors/acme/products/widget.yaml
+$EDITOR data/vendors/acme/vendor.yaml
+$EDITOR data/vendors/acme/products/widget.yaml
 uv run tools/validate.py          # every violation, one pass
 gh pr create</pre>
     </section>

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "samsung--mobile-devices",
+  "vendor_id": "samsung",
+  "product_id": "mobile-devices",
+  "name": "Mobile Devices",
+  "type": "hardware",
+  "tags": [],
+  "icon": "logos:samsung",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Mobile Devices",
+      "confidence": "auto"
+    }
+  ]
+}

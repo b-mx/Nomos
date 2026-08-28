@@ -6,7 +6,7 @@
   "icon": "logos:redhat-icon",
   "aliases": [
     {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "redhat",
       "confidence": "curated"
     },

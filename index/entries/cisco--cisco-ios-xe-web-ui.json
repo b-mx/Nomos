@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--cisco-ios-xe-web-ui",
+  "vendor_id": "cisco",
+  "product_id": "cisco-ios-xe-web-ui",
+  "name": "Cisco IOS XE Web UI",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Cisco IOS XE Web UI",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "IOS XE Web UI",
+      "confidence": "auto"
+    }
+  ]
+}

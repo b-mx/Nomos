@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "qualcomm",
+  "vendor_id": "qualcomm",
+  "name": "Qualcomm",
+  "icon": "logos:qualcomm",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Qualcomm",
+      "confidence": "auto"
+    }
+  ]
+}

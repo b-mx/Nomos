@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "ivanti--endpoint-manager-cloud-service-appliance-epm-csa",
+  "vendor_id": "ivanti",
+  "product_id": "endpoint-manager-cloud-service-appliance-epm-csa",
+  "name": "Endpoint Manager Cloud Service Appliance (EPM CSA)",
+  "type": "hardware",
+  "tags": [
+    "hardware-appliance"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Endpoint Manager Cloud Service Appliance (EPM CSA)",
+      "confidence": "auto"
+    }
+  ]
+}

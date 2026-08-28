@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-popupblocker",
+  "vendor_id": "google",
+  "product_id": "chromium-popupblocker",
+  "name": "Chromium PopupBlocker",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium PopupBlocker",
+      "confidence": "auto"
+    }
+  ]
+}

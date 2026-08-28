@@ -8,7 +8,7 @@
   "tags": [
     "collaboration-tool"
   ],
-  "icon": "logos:atlassian",
+  "icon": "devicon:confluence",
   "services": [
     {
       "protocol": "tcp",
@@ -19,7 +19,7 @@
   ],
   "aliases": [
     {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "confluence",
       "confidence": "curated"
     },
@@ -27,6 +27,31 @@
       "source": "cisa_kev",
       "value": "Atlassian Confluence",
       "confidence": "curated"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Confluence Data Center and Server",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Confluence Server",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Confluence Server and Data Server",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Confluence",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Confluence Server/Data Center",
+      "confidence": "auto"
     }
   ]
 }

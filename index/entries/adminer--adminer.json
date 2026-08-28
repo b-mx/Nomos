@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "adminer--adminer",
+  "vendor_id": "adminer",
+  "product_id": "adminer",
+  "name": "Adminer",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:adminer",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Adminer",
+      "confidence": "auto"
+    }
+  ]
+}

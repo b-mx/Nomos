@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ibm--data-risk-manager",
+  "vendor_id": "ibm",
+  "product_id": "data-risk-manager",
+  "name": "Data Risk Manager",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:ibm",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Data Risk Manager",
+      "confidence": "auto"
+    }
+  ]
+}

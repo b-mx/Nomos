@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium",
+  "vendor_id": "google",
+  "product_id": "chromium",
+  "name": "Chromium",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium",
+      "confidence": "auto"
+    }
+  ]
+}

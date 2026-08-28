@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "sonatype--nexus-repository-manager",
+  "vendor_id": "sonatype",
+  "product_id": "nexus-repository-manager",
+  "name": "Nexus Repository Manager",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:sonatype",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Nexus Repository Manager",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Nexus Repository",
+      "confidence": "auto"
+    }
+  ]
+}

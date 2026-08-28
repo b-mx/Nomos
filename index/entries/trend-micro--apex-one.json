@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trend-micro--apex-one",
+  "vendor_id": "trend-micro",
+  "product_id": "apex-one",
+  "name": "Apex One",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:trendmicro",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Apex One",
+      "confidence": "auto"
+    }
+  ]
+}

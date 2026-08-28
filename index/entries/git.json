@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "git",
+  "vendor_id": "git",
+  "name": "Git",
+  "icon": "logos:git-icon",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Git",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle--weblogic-server",
+  "vendor_id": "oracle",
+  "product_id": "weblogic-server",
+  "name": "WebLogic Server",
+  "type": "software",
+  "tags": [
+    "webserver"
+  ],
+  "icon": "logos:oracle",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "WebLogic Server",
+      "confidence": "auto"
+    }
+  ]
+}

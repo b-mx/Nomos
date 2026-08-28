@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "wordpress--file-manager-plugin",
+  "vendor_id": "wordpress",
+  "product_id": "file-manager-plugin",
+  "name": "File Manager Plugin",
+  "type": "software",
+  "tags": [
+    "cms"
+  ],
+  "icon": "skill-icons:wordpress",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "File Manager Plugin",
+      "confidence": "curated"
+    }
+  ]
+}

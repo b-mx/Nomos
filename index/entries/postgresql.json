@@ -6,7 +6,7 @@
   "icon": "logos:postgresql",
   "aliases": [
     {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "postgresql",
       "confidence": "curated"
     },

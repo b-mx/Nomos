@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "reolink--multiple-ip-cameras",
+  "vendor_id": "reolink",
+  "product_id": "multiple-ip-cameras",
+  "name": "Multiple IP Cameras",
+  "type": "hardware",
+  "tags": [
+    "network-device"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Multiple IP Cameras",
+      "confidence": "auto"
+    }
+  ]
+}

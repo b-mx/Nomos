@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "roundcube",
+  "vendor_id": "roundcube",
+  "name": "Roundcube",
+  "icon": "cib:roundcube",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Roundcube",
+      "confidence": "auto"
+    }
+  ]
+}

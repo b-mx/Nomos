@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "symantec",
+  "vendor_id": "symantec",
+  "name": "Symantec",
+  "icon": "cib:symantec",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Symantec",
+      "confidence": "auto"
+    }
+  ]
+}

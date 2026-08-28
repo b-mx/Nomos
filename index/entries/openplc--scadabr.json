@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "openplc--scadabr",
+  "vendor_id": "openplc",
+  "product_id": "scadabr",
+  "name": "ScadaBR",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "ScadaBR",
+      "confidence": "auto"
+    }
+  ]
+}

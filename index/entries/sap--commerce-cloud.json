@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "sap--commerce-cloud",
+  "vendor_id": "sap",
+  "product_id": "commerce-cloud",
+  "name": "Commerce Cloud",
+  "type": "software",
+  "tags": [
+    "ecommerce"
+  ],
+  "icon": "logos:sap",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Commerce Cloud",
+      "confidence": "auto"
+    }
+  ]
+}

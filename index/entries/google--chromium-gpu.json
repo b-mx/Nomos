@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-gpu",
+  "vendor_id": "google",
+  "product_id": "chromium-gpu",
+  "name": "Chromium GPU",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium GPU",
+      "confidence": "auto"
+    }
+  ]
+}

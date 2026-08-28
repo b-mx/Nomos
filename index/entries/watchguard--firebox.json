@@ -1,0 +1,28 @@
+{
+  "canonical_type": "product",
+  "slug": "watchguard--firebox",
+  "vendor_id": "watchguard",
+  "product_id": "firebox",
+  "name": "Firebox",
+  "type": "hardware",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Firebox",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Firebox and XTM",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Firebox and XTM Appliances",
+      "confidence": "auto"
+    }
+  ]
+}

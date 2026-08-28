@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "arm--mali-gpu-kernel-driver",
+  "vendor_id": "arm",
+  "product_id": "mali-gpu-kernel-driver",
+  "name": "Mali GPU Kernel Driver",
+  "type": "os",
+  "tags": [
+    "operating-system"
+  ],
+  "icon": "logos:arm",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Mali GPU Kernel Driver",
+      "confidence": "auto"
+    }
+  ]
+}

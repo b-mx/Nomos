@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "grafana-labs--grafana",
+  "vendor_id": "grafana-labs",
+  "product_id": "grafana",
+  "name": "Grafana",
+  "type": "software",
+  "tags": [
+    "monitoring"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Grafana",
+      "confidence": "auto"
+    }
+  ]
+}

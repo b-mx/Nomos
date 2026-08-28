@@ -1,0 +1,21 @@
+{
+  "canonical_type": "product",
+  "slug": "libraesva--email-security-gateway",
+  "vendor_id": "libraesva",
+  "product_id": "email-security-gateway",
+  "name": "Email Security Gateway",
+  "type": "appliance",
+  "tags": [
+    "email",
+    "network-device"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Email Security Gateway",
+      "confidence": "auto"
+    }
+  ]
+}

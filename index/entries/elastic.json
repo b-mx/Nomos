@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "elastic",
+  "vendor_id": "elastic",
+  "name": "Elastic",
+  "icon": "cib:elastic",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Elastic",
+      "confidence": "auto"
+    }
+  ]
+}

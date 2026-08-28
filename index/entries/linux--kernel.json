@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "linux--kernel",
+  "vendor_id": "linux",
+  "product_id": "kernel",
+  "name": "Kernel",
+  "type": "os",
+  "tags": [
+    "operating-system"
+  ],
+  "icon": "cib:linux",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Kernel",
+      "confidence": "auto"
+    }
+  ]
+}

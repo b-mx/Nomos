@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "ivanti--cloud-services-appliance-csa",
+  "vendor_id": "ivanti",
+  "product_id": "cloud-services-appliance-csa",
+  "name": "Cloud Services Appliance (CSA)",
+  "type": "hardware",
+  "tags": [
+    "hardware-appliance"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Cloud Services Appliance (CSA)",
+      "confidence": "auto"
+    }
+  ]
+}

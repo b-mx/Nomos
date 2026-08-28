@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "adobe--flash-player",
+  "vendor_id": "adobe",
+  "product_id": "flash-player",
+  "name": "Flash Player",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:adobe-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Flash Player",
+      "confidence": "curated"
+    }
+  ]
+}

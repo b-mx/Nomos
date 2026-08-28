@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "palo-alto-networks--expedition",
+  "vendor_id": "palo-alto-networks",
+  "product_id": "expedition",
+  "name": "Expedition",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:paloaltonetworks",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Expedition",
+      "confidence": "auto"
+    }
+  ]
+}

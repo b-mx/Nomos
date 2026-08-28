@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "teclib--glpi",
+  "vendor_id": "teclib",
+  "product_id": "glpi",
+  "name": "GLPI",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "GLPI",
+      "confidence": "auto"
+    }
+  ]
+}

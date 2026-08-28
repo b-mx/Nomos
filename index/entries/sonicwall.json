@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "sonicwall",
+  "vendor_id": "sonicwall",
+  "name": "SonicWall",
+  "icon": "simple-icons:sonicwall",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SonicWall",
+      "confidence": "auto"
+    }
+  ]
+}

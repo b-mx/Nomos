@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "exim--mail-transfer-agent-mta",
+  "vendor_id": "exim",
+  "product_id": "mail-transfer-agent-mta",
+  "name": "Mail Transfer Agent (MTA)",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Mail Transfer Agent (MTA)",
+      "confidence": "auto"
+    }
+  ]
+}

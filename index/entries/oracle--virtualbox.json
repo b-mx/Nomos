@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle--virtualbox",
+  "vendor_id": "oracle",
+  "product_id": "virtualbox",
+  "name": "VirtualBox",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:oracle",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "VirtualBox",
+      "confidence": "auto"
+    }
+  ]
+}

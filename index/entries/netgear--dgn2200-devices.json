@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "netgear--dgn2200-devices",
+  "vendor_id": "netgear",
+  "product_id": "dgn2200-devices",
+  "name": "DGN2200 Devices",
+  "type": "hardware",
+  "tags": [],
+  "icon": "simple-icons:netgear",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "DGN2200 Devices",
+      "confidence": "auto"
+    }
+  ]
+}

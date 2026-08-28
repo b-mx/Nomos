@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "jenkins",
+  "vendor_id": "jenkins",
+  "name": "Jenkins",
+  "icon": "logos:jenkins",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Jenkins",
+      "confidence": "auto"
+    }
+  ]
+}

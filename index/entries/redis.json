@@ -6,7 +6,7 @@
   "icon": "logos:redis",
   "aliases": [
     {
-      "source": "nvd_cpe",
+      "source": "nvd",
       "value": "redis",
       "confidence": "curated"
     },

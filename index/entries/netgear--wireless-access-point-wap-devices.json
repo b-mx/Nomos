@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "netgear--wireless-access-point-wap-devices",
+  "vendor_id": "netgear",
+  "product_id": "wireless-access-point-wap-devices",
+  "name": "Wireless Access Point (WAP) Devices",
+  "type": "hardware",
+  "tags": [
+    "network-device"
+  ],
+  "icon": "simple-icons:netgear",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Wireless Access Point (WAP) Devices",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "twilio--authy",
+  "vendor_id": "twilio",
+  "product_id": "authy",
+  "name": "Authy",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:twilio-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Authy",
+      "confidence": "auto"
+    }
+  ]
+}

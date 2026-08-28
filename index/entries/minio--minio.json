@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "minio--minio",
+  "vendor_id": "minio",
+  "product_id": "minio",
+  "name": "MinIO",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:minio",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "MinIO",
+      "confidence": "auto"
+    }
+  ]
+}

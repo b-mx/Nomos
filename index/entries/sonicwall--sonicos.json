@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sonicwall--sonicos",
+  "vendor_id": "sonicwall",
+  "product_id": "sonicos",
+  "name": "SonicOS",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:sonicwall",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SonicOS",
+      "confidence": "auto"
+    }
+  ]
+}

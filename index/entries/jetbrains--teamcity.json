@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jetbrains--teamcity",
+  "vendor_id": "jetbrains",
+  "product_id": "teamcity",
+  "name": "TeamCity",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:jetbrains-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "TeamCity",
+      "confidence": "auto"
+    }
+  ]
+}

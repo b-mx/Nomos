@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "rconfig--rconfig",
+  "vendor_id": "rconfig",
+  "product_id": "rconfig",
+  "name": "rConfig",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "rConfig",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "daemon--daemon-tools-lite",
+  "vendor_id": "daemon",
+  "product_id": "daemon-tools-lite",
+  "name": "Daemon Tools Lite",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Daemon Tools Lite",
+      "confidence": "auto"
+    }
+  ]
+}

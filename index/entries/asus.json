@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "asus",
+  "vendor_id": "asus",
+  "name": "ASUS",
+  "icon": "simple-icons:asus",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "ASUS",
+      "confidence": "auto"
+    }
+  ]
+}

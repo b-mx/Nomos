@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "f5",
+  "vendor_id": "f5",
+  "name": "F5",
+  "icon": "simple-icons:f5",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "F5",
+      "confidence": "auto"
+    }
+  ]
+}

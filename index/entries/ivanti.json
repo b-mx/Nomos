@@ -1,0 +1,19 @@
+{
+  "canonical_type": "vendor",
+  "slug": "ivanti",
+  "vendor_id": "ivanti",
+  "name": "Ivanti",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Ivanti",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Pulse Secure",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "osgeo",
+  "vendor_id": "osgeo",
+  "name": "OSGeo",
+  "icon": "simple-icons:osgeo",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "OSGeo",
+      "confidence": "auto"
+    }
+  ]
+}

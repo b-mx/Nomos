@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "sophos--sg-utm",
+  "vendor_id": "sophos",
+  "product_id": "sg-utm",
+  "name": "SG UTM",
+  "type": "appliance",
+  "tags": [
+    "firewall"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SG UTM",
+      "confidence": "auto"
+    }
+  ]
+}

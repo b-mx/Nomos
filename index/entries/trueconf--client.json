@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "trueconf--client",
+  "vendor_id": "trueconf",
+  "product_id": "client",
+  "name": "Client",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Client",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "arm--mali-graphics-processing-unit-gpu",
+  "vendor_id": "arm",
+  "product_id": "mali-graphics-processing-unit-gpu",
+  "name": "Mali Graphics Processing Unit (GPU)",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:arm",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Mali Graphics Processing Unit (GPU)",
+      "confidence": "auto"
+    }
+  ]
+}

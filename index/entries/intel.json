@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "intel",
+  "vendor_id": "intel",
+  "name": "Intel",
+  "icon": "logos:intel",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Intel",
+      "confidence": "auto"
+    }
+  ]
+}

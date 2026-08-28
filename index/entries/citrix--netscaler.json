@@ -1,0 +1,31 @@
+{
+  "canonical_type": "product",
+  "slug": "citrix--netscaler",
+  "vendor_id": "citrix",
+  "product_id": "netscaler",
+  "name": "NetScaler",
+  "type": "appliance",
+  "tags": [
+    "load-balancer",
+    "network-device"
+  ],
+  "icon": "simple-icons:citrix",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "NetScaler",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "NetScaler ADC and NetScaler Gateway",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "NetScaler ADC and Gateway",
+      "confidence": "auto"
+    }
+  ]
+}

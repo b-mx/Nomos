@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-skia",
+  "vendor_id": "google",
+  "product_id": "chromium-skia",
+  "name": "Chromium Skia",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium Skia",
+      "confidence": "auto"
+    }
+  ]
+}

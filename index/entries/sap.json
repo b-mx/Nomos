@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "sap",
+  "vendor_id": "sap",
+  "name": "SAP",
+  "icon": "logos:sap",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SAP",
+      "confidence": "auto"
+    }
+  ]
+}

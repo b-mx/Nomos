@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "php--fastcgi-process-manager-fpm",
+  "vendor_id": "php",
+  "product_id": "fastcgi-process-manager-fpm",
+  "name": "FastCGI Process Manager (FPM)",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:php",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "FastCGI Process Manager (FPM)",
+      "confidence": "auto"
+    }
+  ]
+}

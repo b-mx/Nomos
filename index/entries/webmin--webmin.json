@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "webmin--webmin",
+  "vendor_id": "webmin",
+  "product_id": "webmin",
+  "name": "Webmin",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:webmin",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Webmin",
+      "confidence": "auto"
+    }
+  ]
+}

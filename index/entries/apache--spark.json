@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apache--spark",
+  "vendor_id": "apache",
+  "product_id": "spark",
+  "name": "Spark",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Spark",
+      "confidence": "auto"
+    }
+  ]
+}

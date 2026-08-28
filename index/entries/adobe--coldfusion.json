@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "adobe--coldfusion",
+  "vendor_id": "adobe",
+  "product_id": "coldfusion",
+  "name": "ColdFusion",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:adobe-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "ColdFusion",
+      "confidence": "curated"
+    }
+  ]
+}

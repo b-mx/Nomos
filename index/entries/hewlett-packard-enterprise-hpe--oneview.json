@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "hewlett-packard-enterprise-hpe--oneview",
+  "vendor_id": "hewlett-packard-enterprise-hpe",
+  "product_id": "oneview",
+  "name": "OneView",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "OneView",
+      "confidence": "auto"
+    }
+  ]
+}

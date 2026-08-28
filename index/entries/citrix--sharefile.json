@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "citrix--sharefile",
+  "vendor_id": "citrix",
+  "product_id": "sharefile",
+  "name": "ShareFile",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:citrix",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "ShareFile",
+      "confidence": "auto"
+    }
+  ]
+}

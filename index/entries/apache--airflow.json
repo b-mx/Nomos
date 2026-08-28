@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apache--airflow",
+  "vendor_id": "apache",
+  "product_id": "airflow",
+  "name": "Airflow",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Airflow",
+      "confidence": "auto"
+    }
+  ]
+}

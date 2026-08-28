@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apache--apisix",
+  "vendor_id": "apache",
+  "product_id": "apisix",
+  "name": "APISIX",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "APISIX",
+      "confidence": "auto"
+    }
+  ]
+}

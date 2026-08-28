@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "oracle",
+  "vendor_id": "oracle",
+  "name": "Oracle",
+  "icon": "logos:oracle",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Oracle",
+      "confidence": "auto"
+    }
+  ]
+}
