@@ -1,0 +1,34 @@
+id: confluence
+vendor_id: atlassian
+name: Confluence
+type: software
+tags:
+- collaboration-tool
+icon: devicon:confluence
+aliases:
+- source: nvd
+  value: confluence
+  confidence: curated
+- source: cisa_kev
+  value: Atlassian Confluence
+  confidence: curated
+- source: cisa_kev
+  value: Confluence Data Center and Server
+  confidence: auto
+- source: cisa_kev
+  value: Confluence Server
+  confidence: auto
+- source: cisa_kev
+  value: Confluence Server and Data Server
+  confidence: auto
+- source: cisa_kev
+  value: Confluence
+  confidence: auto
+- source: cisa_kev
+  value: Confluence Server/Data Center
+  confidence: auto
+services:
+- protocol: tcp
+  port: 8090
+  name: http
+  default: true

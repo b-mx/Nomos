@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "tp-link--archer-ax21",
+  "vendor_id": "tp-link",
+  "product_id": "archer-ax21",
+  "name": "Archer AX21",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:tplink",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Archer AX21",
+      "confidence": "auto"
+    }
+  ]
+}

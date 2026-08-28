@@ -1,4 +1,4 @@
-"""Flatten vendors/ into index/aliases.json and per-source split files.
+"""Flatten data/vendors/ into index/aliases.json and per-source split files.
 
 Also writes one small JSON file per entry under index/entries/<slug>.json —
 the search site fetches these individually instead of loading the full
@@ -15,7 +15,7 @@ from typing import Any
 from tools._common import REPO_ROOT, iter_products, iter_vendors
 
 
-def build_entries(vendors_dir: Path = REPO_ROOT / "vendors") -> list[dict[str, Any]]:
+def build_entries(vendors_dir: Path = REPO_ROOT / "data" / "vendors") -> list[dict[str, Any]]:
     entries: list[dict[str, Any]] = []
     for vendor in iter_vendors(vendors_dir):
         entries.append(
@@ -47,7 +47,7 @@ def build_entries(vendors_dir: Path = REPO_ROOT / "vendors") -> list[dict[str, A
 
 
 def build_index(
-    generated_at: str, vendors_dir: Path = REPO_ROOT / "vendors"
+    generated_at: str, vendors_dir: Path = REPO_ROOT / "data" / "vendors"
 ) -> dict[str, Any]:
     return {"generated_at": generated_at, "entries": build_entries(vendors_dir)}
 
@@ -88,7 +88,7 @@ def build_stats(entries: list[dict[str, Any]]) -> dict[str, Any]:
 
 
 def write_index(
-    output_dir: Path, generated_at: str, vendors_dir: Path = REPO_ROOT / "vendors"
+    output_dir: Path, generated_at: str, vendors_dir: Path = REPO_ROOT / "data" / "vendors"
 ) -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     index = build_index(generated_at, vendors_dir)

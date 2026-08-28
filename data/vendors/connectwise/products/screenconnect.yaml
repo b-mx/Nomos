@@ -1,0 +1,9 @@
+id: screenconnect
+vendor_id: connectwise
+name: ScreenConnect
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: ScreenConnect
+  confidence: auto

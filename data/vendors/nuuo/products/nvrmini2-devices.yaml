@@ -1,0 +1,9 @@
+id: nvrmini2-devices
+vendor_id: nuuo
+name: NVRmini2 Devices
+type: hardware
+tags: []
+aliases:
+- source: cisa_kev
+  value: NVRmini2 Devices
+  confidence: auto

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gitea--gitea",
+  "vendor_id": "gitea",
+  "product_id": "gitea",
+  "name": "Gitea",
+  "type": "software",
+  "tags": [],
+  "icon": "cib:gitea",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Gitea",
+      "confidence": "auto"
+    }
+  ]
+}

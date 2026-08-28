@@ -1,0 +1,9 @@
+id: fortiweb
+vendor_id: fortinet
+name: FortiWeb
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: FortiWeb
+  confidence: auto

@@ -1,0 +1,7 @@
+id: pytorch
+name: PyTorch
+icon: logos:pytorch-icon
+aliases:
+  - source: nvd
+    value: pytorch
+    confidence: curated

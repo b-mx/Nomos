@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "d-link--dir-600-router",
+  "vendor_id": "d-link",
+  "product_id": "dir-600-router",
+  "name": "DIR-600 Router",
+  "type": "hardware",
+  "tags": [
+    "network-device"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "DIR-600 Router",
+      "confidence": "auto"
+    }
+  ]
+}

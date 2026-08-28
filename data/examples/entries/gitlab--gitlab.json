@@ -1,0 +1,23 @@
+{
+  "canonical_type": "product",
+  "slug": "gitlab--gitlab",
+  "vendor_id": "gitlab",
+  "product_id": "gitlab",
+  "name": "GitLab",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:gitlab-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "GitLab",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "GitLab CE/EE",
+      "confidence": "auto"
+    }
+  ]
+}

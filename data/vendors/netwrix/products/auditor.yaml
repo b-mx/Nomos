@@ -1,0 +1,9 @@
+id: auditor
+vendor_id: netwrix
+name: Auditor
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Auditor
+  confidence: auto

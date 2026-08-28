@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "citrix--session-recording",
+  "vendor_id": "citrix",
+  "product_id": "session-recording",
+  "name": "Session Recording",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:citrix",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Session Recording",
+      "confidence": "auto"
+    }
+  ]
+}

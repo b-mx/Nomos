@@ -1,0 +1,9 @@
+id: sip-phones
+vendor_id: mitel
+name: SIP Phones
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SIP Phones
+  confidence: auto

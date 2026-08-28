@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "solarwinds--web-help-desk",
+  "vendor_id": "solarwinds",
+  "product_id": "web-help-desk",
+  "name": "Web Help Desk",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:solarwinds",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Web Help Desk",
+      "confidence": "auto"
+    }
+  ]
+}

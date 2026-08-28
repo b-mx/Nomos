@@ -1,0 +1,9 @@
+id: apisix
+vendor_id: apache
+name: APISIX
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: APISIX
+  confidence: auto

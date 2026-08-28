@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "google",
+  "vendor_id": "google",
+  "name": "Google",
+  "icon": "logos:google-icon",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Google",
+      "confidence": "auto"
+    }
+  ]
+}

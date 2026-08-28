@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--pixel",
+  "vendor_id": "google",
+  "product_id": "pixel",
+  "name": "Pixel",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Pixel",
+      "confidence": "auto"
+    }
+  ]
+}

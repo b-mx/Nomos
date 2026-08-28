@@ -1,0 +1,9 @@
+id: gateway
+vendor_id: citrix
+name: Gateway
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Gateway
+  confidence: auto

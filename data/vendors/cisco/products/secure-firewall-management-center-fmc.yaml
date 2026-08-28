@@ -1,0 +1,10 @@
+id: secure-firewall-management-center-fmc
+vendor_id: cisco
+name: Secure Firewall Management Center (FMC)
+type: appliance
+tags:
+- firewall
+aliases:
+- source: cisa_kev
+  value: Secure Firewall Management Center (FMC)
+  confidence: auto

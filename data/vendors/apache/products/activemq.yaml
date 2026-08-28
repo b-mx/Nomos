@@ -1,0 +1,10 @@
+id: activemq
+vendor_id: apache
+name: ActiveMQ
+type: software
+tags:
+- message-queue
+aliases:
+- source: cisa_kev
+  value: ActiveMQ
+  confidence: auto

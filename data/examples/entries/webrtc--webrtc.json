@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "webrtc--webrtc",
+  "vendor_id": "webrtc",
+  "product_id": "webrtc",
+  "name": "WebRTC",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:webrtc",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "WebRTC",
+      "confidence": "auto"
+    }
+  ]
+}

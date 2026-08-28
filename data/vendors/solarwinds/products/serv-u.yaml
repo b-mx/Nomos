@@ -1,0 +1,10 @@
+id: serv-u
+vendor_id: solarwinds
+name: Serv-U
+type: software
+tags: []
+icon: logos:solarwinds
+aliases:
+- source: cisa_kev
+  value: Serv-U
+  confidence: auto

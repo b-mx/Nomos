@@ -1,0 +1,10 @@
+id: apache
+name: Apache Software Foundation
+icon: logos:apache
+aliases:
+  - source: nvd
+    value: apache
+    confidence: curated
+  - source: cisa_kev
+    value: Apache
+    confidence: curated

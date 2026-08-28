@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "osgeo--jai-ext",
+  "vendor_id": "osgeo",
+  "product_id": "jai-ext",
+  "name": "JAI-EXT",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:osgeo",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "JAI-EXT",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "gnu--gnu-c-library",
+  "vendor_id": "gnu",
+  "product_id": "gnu-c-library",
+  "name": "GNU C Library",
+  "type": "library",
+  "tags": [
+    "library"
+  ],
+  "icon": "logos:gnu",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "GNU C Library",
+      "confidence": "auto"
+    }
+  ]
+}

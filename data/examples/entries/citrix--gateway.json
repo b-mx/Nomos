@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "citrix--gateway",
+  "vendor_id": "citrix",
+  "product_id": "gateway",
+  "name": "Gateway",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Gateway",
+      "confidence": "auto"
+    }
+  ]
+}

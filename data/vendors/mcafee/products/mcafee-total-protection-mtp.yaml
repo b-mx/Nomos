@@ -1,0 +1,10 @@
+id: mcafee-total-protection-mtp
+vendor_id: mcafee
+name: McAfee Total Protection (MTP)
+type: software
+tags: []
+icon: cib:mcafee
+aliases:
+- source: cisa_kev
+  value: McAfee Total Protection (MTP)
+  confidence: auto

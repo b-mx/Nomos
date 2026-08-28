@@ -1,0 +1,9 @@
+id: samba
+vendor_id: samba
+name: Samba
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Samba
+  confidence: auto

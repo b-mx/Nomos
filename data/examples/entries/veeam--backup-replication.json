@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "veeam--backup-replication",
+  "vendor_id": "veeam",
+  "product_id": "backup-replication",
+  "name": "Backup & Replication",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:veeam",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Backup & Replication",
+      "confidence": "auto"
+    }
+  ]
+}

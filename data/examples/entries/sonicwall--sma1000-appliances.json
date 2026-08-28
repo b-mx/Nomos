@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sonicwall--sma1000-appliances",
+  "vendor_id": "sonicwall",
+  "product_id": "sma1000-appliances",
+  "name": "SMA1000 Appliances",
+  "type": "hardware",
+  "tags": [],
+  "icon": "simple-icons:sonicwall",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SMA1000 Appliances",
+      "confidence": "auto"
+    }
+  ]
+}

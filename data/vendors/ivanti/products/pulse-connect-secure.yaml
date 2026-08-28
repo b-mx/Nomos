@@ -1,0 +1,10 @@
+id: pulse-connect-secure
+vendor_id: ivanti
+name: Pulse Connect Secure
+type: software
+tags:
+- vpn
+aliases:
+- source: cisa_kev
+  value: Pulse Connect Secure
+  confidence: auto

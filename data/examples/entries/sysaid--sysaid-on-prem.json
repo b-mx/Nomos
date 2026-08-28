@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sysaid--sysaid-on-prem",
+  "vendor_id": "sysaid",
+  "product_id": "sysaid-on-prem",
+  "name": "SysAid On-Prem",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SysAid On-Prem",
+      "confidence": "auto"
+    }
+  ]
+}

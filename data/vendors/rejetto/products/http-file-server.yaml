@@ -1,0 +1,12 @@
+id: http-file-server
+vendor_id: rejetto
+name: HTTP File Server
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: HTTP File Server
+  confidence: auto
+- source: cisa_kev
+  value: HTTP File Server (HFS)
+  confidence: auto

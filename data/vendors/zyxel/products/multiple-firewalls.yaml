@@ -1,0 +1,9 @@
+id: multiple-firewalls
+vendor_id: zyxel
+name: Multiple Firewalls
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Multiple Firewalls
+  confidence: auto

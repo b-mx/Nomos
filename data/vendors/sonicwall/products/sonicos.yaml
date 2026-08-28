@@ -1,0 +1,10 @@
+id: sonicos
+vendor_id: sonicwall
+name: SonicOS
+type: software
+tags: []
+icon: simple-icons:sonicwall
+aliases:
+- source: cisa_kev
+  value: SonicOS
+  confidence: auto

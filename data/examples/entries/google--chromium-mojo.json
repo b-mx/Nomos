@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-mojo",
+  "vendor_id": "google",
+  "product_id": "chromium-mojo",
+  "name": "Chromium Mojo",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium Mojo",
+      "confidence": "auto"
+    }
+  ]
+}

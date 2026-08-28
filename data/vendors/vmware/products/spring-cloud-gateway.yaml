@@ -1,0 +1,12 @@
+id: spring-cloud-gateway
+vendor_id: vmware
+name: Spring Cloud Gateway
+type: software
+tags:
+- framework
+- network-device
+icon: carbon:logo-vmware-alt
+aliases:
+- source: cisa_kev
+  value: Spring Cloud Gateway
+  confidence: curated

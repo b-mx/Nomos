@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "git--git",
+  "vendor_id": "git",
+  "product_id": "git",
+  "name": "Git",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:git-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Git",
+      "confidence": "auto"
+    }
+  ]
+}

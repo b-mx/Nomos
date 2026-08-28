@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "adobe--reader",
+  "vendor_id": "adobe",
+  "product_id": "reader",
+  "name": "Reader",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:adobe-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Reader",
+      "confidence": "curated"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-intents",
+  "vendor_id": "google",
+  "product_id": "chromium-intents",
+  "name": "Chromium Intents",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium Intents",
+      "confidence": "auto"
+    }
+  ]
+}

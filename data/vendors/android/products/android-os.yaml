@@ -1,0 +1,11 @@
+id: android-os
+vendor_id: android
+name: Android OS
+type: os
+tags:
+- operating-system
+icon: logos:android-icon
+aliases:
+- source: cisa_kev
+  value: Android OS
+  confidence: curated

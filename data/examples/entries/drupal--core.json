@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "drupal--core",
+  "vendor_id": "drupal",
+  "product_id": "core",
+  "name": "Core",
+  "type": "software",
+  "tags": [
+    "cms"
+  ],
+  "icon": "logos:drupal",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Drupal core",
+      "confidence": "auto"
+    }
+  ]
+}

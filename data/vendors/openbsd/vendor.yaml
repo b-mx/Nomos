@@ -1,0 +1,7 @@
+id: openbsd
+name: OpenBSD
+icon: simple-icons:openbsd
+aliases:
+- source: cisa_kev
+  value: OpenBSD
+  confidence: auto

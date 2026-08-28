@@ -1,0 +1,6 @@
+id: watchguard
+name: WatchGuard
+aliases:
+- source: cisa_kev
+  value: WatchGuard
+  confidence: auto

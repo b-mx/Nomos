@@ -1,0 +1,10 @@
+id: multiple-archer-devices
+vendor_id: tp-link
+name: Multiple Archer Devices
+type: hardware
+tags: []
+icon: simple-icons:tplink
+aliases:
+- source: cisa_kev
+  value: Multiple Archer Devices
+  confidence: auto

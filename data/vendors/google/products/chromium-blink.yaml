@@ -1,0 +1,10 @@
+id: chromium-blink
+vendor_id: google
+name: Chromium Blink
+type: software
+tags: []
+icon: logos:google-icon
+aliases:
+- source: cisa_kev
+  value: Chromium Blink
+  confidence: auto

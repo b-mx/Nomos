@@ -1,0 +1,10 @@
+id: multi-router-looking-glass-mrlg
+vendor_id: looking-glass
+name: Multi-Router Looking Glass (MRLG)
+type: hardware
+tags:
+- network-device
+aliases:
+- source: cisa_kev
+  value: Multi-Router Looking Glass (MRLG)
+  confidence: auto

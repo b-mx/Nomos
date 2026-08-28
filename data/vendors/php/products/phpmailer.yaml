@@ -1,0 +1,10 @@
+id: phpmailer
+vendor_id: php
+name: PHPMailer
+type: software
+tags: []
+icon: logos:php
+aliases:
+- source: cisa_kev
+  value: PHPMailer
+  confidence: auto

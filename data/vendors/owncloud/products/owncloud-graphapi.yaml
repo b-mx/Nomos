@@ -1,0 +1,10 @@
+id: owncloud-graphapi
+vendor_id: owncloud
+name: ownCloud graphapi
+type: software
+tags: []
+icon: simple-icons:owncloud
+aliases:
+- source: cisa_kev
+  value: ownCloud graphapi
+  confidence: auto

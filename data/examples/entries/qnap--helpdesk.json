@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "qnap--helpdesk",
+  "vendor_id": "qnap",
+  "product_id": "helpdesk",
+  "name": "Helpdesk",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:qnap",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Helpdesk",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "jenkins--jenkins-command-line-interface-cli",
+  "vendor_id": "jenkins",
+  "product_id": "jenkins-command-line-interface-cli",
+  "name": "Jenkins Command Line Interface (CLI)",
+  "type": "software",
+  "tags": [
+    "ci-cd"
+  ],
+  "icon": "logos:jenkins",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Jenkins Command Line Interface (CLI)",
+      "confidence": "auto"
+    }
+  ]
+}

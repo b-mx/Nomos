@@ -1,0 +1,10 @@
+id: chromium-webrtc
+vendor_id: google
+name: Chromium WebRTC
+type: software
+tags: []
+icon: logos:google-icon
+aliases:
+- source: cisa_kev
+  value: Chromium WebRTC
+  confidence: auto

@@ -1,0 +1,10 @@
+id: chrome
+vendor_id: google
+name: Chrome
+type: software
+tags: []
+icon: logos:google-icon
+aliases:
+- source: cisa_kev
+  value: Chrome
+  confidence: auto

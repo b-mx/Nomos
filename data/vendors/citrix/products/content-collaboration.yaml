@@ -1,0 +1,11 @@
+id: content-collaboration
+vendor_id: citrix
+name: Content Collaboration
+type: software
+tags:
+- collaboration-tool
+icon: simple-icons:citrix
+aliases:
+- source: cisa_kev
+  value: Content Collaboration
+  confidence: auto

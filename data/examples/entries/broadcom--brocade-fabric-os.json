@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "broadcom--brocade-fabric-os",
+  "vendor_id": "broadcom",
+  "product_id": "brocade-fabric-os",
+  "name": "Brocade Fabric OS",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:broadcom-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Brocade Fabric OS",
+      "confidence": "curated"
+    }
+  ]
+}

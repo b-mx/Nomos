@@ -1,0 +1,9 @@
+id: sentry
+vendor_id: ivanti
+name: Sentry
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Sentry
+  confidence: auto

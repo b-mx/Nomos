@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "sophos--xg-firewall",
+  "vendor_id": "sophos",
+  "product_id": "xg-firewall",
+  "name": "XG Firewall",
+  "type": "appliance",
+  "tags": [
+    "firewall"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "XG Firewall",
+      "confidence": "auto"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Firewall",
+      "confidence": "auto"
+    }
+  ]
+}

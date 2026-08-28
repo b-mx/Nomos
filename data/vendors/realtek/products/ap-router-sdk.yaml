@@ -1,0 +1,11 @@
+id: ap-router-sdk
+vendor_id: realtek
+name: AP-Router SDK
+type: hardware
+tags:
+- library
+- network-device
+aliases:
+- source: cisa_kev
+  value: AP-Router SDK
+  confidence: auto

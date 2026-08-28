@@ -1,0 +1,21 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--spring-cloud-gateway",
+  "vendor_id": "vmware",
+  "product_id": "spring-cloud-gateway",
+  "name": "Spring Cloud Gateway",
+  "type": "software",
+  "tags": [
+    "framework",
+    "network-device"
+  ],
+  "icon": "carbon:logo-vmware-alt",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Spring Cloud Gateway",
+      "confidence": "curated"
+    }
+  ]
+}

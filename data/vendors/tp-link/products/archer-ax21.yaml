@@ -1,0 +1,10 @@
+id: archer-ax21
+vendor_id: tp-link
+name: Archer AX21
+type: software
+tags: []
+icon: simple-icons:tplink
+aliases:
+- source: cisa_kev
+  value: Archer AX21
+  confidence: auto

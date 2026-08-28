@@ -1,0 +1,10 @@
+id: pixel
+vendor_id: google
+name: Pixel
+type: software
+tags: []
+icon: logos:google-icon
+aliases:
+- source: cisa_kev
+  value: Pixel
+  confidence: auto

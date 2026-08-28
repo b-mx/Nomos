@@ -1,0 +1,10 @@
+id: web-help-desk
+vendor_id: solarwinds
+name: Web Help Desk
+type: software
+tags: []
+icon: logos:solarwinds
+aliases:
+- source: cisa_kev
+  value: Web Help Desk
+  confidence: auto

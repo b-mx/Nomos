@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnu--bourne-again-shell-bash",
+  "vendor_id": "gnu",
+  "product_id": "bourne-again-shell-bash",
+  "name": "Bourne-Again Shell (Bash)",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:gnu",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Bourne-Again Shell (Bash)",
+      "confidence": "auto"
+    }
+  ]
+}

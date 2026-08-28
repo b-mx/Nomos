@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apache--flink",
+  "vendor_id": "apache",
+  "product_id": "flink",
+  "name": "Flink",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Flink",
+      "confidence": "auto"
+    }
+  ]
+}

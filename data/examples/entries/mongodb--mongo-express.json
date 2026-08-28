@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "mongodb--mongo-express",
+  "vendor_id": "mongodb",
+  "product_id": "mongo-express",
+  "name": "mongo-express",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:mongodb-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "mongo-express",
+      "confidence": "auto"
+    }
+  ]
+}

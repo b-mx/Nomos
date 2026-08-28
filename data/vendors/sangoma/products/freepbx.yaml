@@ -1,0 +1,9 @@
+id: freepbx
+vendor_id: sangoma
+name: FreePBX
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: FreePBX
+  confidence: auto

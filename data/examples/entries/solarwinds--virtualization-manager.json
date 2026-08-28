@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "solarwinds--virtualization-manager",
+  "vendor_id": "solarwinds",
+  "product_id": "virtualization-manager",
+  "name": "Virtualization Manager",
+  "type": "software",
+  "tags": [
+    "virtualization"
+  ],
+  "icon": "logos:solarwinds",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Virtualization Manager",
+      "confidence": "auto"
+    }
+  ]
+}

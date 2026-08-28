@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ibm--infosphere-biginsights",
+  "vendor_id": "ibm",
+  "product_id": "infosphere-biginsights",
+  "name": "InfoSphere BigInsights",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:ibm",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "InfoSphere BigInsights",
+      "confidence": "auto"
+    }
+  ]
+}

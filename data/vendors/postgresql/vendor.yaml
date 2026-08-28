@@ -1,0 +1,10 @@
+id: postgresql
+name: PostgreSQL
+icon: logos:postgresql
+aliases:
+  - source: nvd
+    value: postgresql
+    confidence: curated
+  - source: endoflife
+    value: postgresql
+    confidence: curated

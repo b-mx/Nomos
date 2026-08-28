@@ -1,0 +1,10 @@
+id: apex-central
+vendor_id: trend-micro
+name: Apex Central
+type: software
+tags: []
+icon: simple-icons:trendmicro
+aliases:
+- source: cisa_kev
+  value: Apex Central
+  confidence: auto

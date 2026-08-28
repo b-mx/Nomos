@@ -27,7 +27,7 @@ class AliasRecord:
     canonical_id: str
 
 
-def flatten_alias_index(vendors_dir: Path = REPO_ROOT / "vendors") -> list[AliasRecord]:
+def flatten_alias_index(vendors_dir: Path = REPO_ROOT / "data" / "vendors") -> list[AliasRecord]:
     records: list[AliasRecord] = []
     for vendor in iter_vendors(vendors_dir):
         for alias in vendor.data.get("aliases", []):
@@ -76,7 +76,7 @@ def changed_vendor_files(base_ref: str, head_ref: str) -> list[str]:
             "--diff-filter=ACM",
             f"{base_ref}...{head_ref}",
             "--",
-            "vendors/",
+            "data/vendors/",
         ],
         capture_output=True,
         text=True,

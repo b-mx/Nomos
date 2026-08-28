@@ -1,0 +1,9 @@
+id: cisco-ip-phones
+vendor_id: cisco
+name: Cisco IP Phones
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Cisco IP Phones
+  confidence: auto

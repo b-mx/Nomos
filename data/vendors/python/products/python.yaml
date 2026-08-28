@@ -1,0 +1,13 @@
+id: python
+vendor_id: python
+name: Python
+type: software
+tags: [programming-language, runtime]
+icon: logos:python
+aliases:
+  - source: nvd
+    value: python
+    confidence: curated
+  - source: endoflife
+    value: python
+    confidence: curated

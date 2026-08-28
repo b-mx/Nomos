@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sap--customer-relationship-management-crm",
+  "vendor_id": "sap",
+  "product_id": "customer-relationship-management-crm",
+  "name": "Customer Relationship Management (CRM)",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:sap",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Customer Relationship Management (CRM)",
+      "confidence": "auto"
+    }
+  ]
+}

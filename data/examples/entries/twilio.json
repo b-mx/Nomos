@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "twilio",
+  "vendor_id": "twilio",
+  "name": "Twilio",
+  "icon": "logos:twilio-icon",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Twilio",
+      "confidence": "auto"
+    }
+  ]
+}

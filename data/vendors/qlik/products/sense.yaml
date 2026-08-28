@@ -1,0 +1,10 @@
+id: sense
+vendor_id: qlik
+name: Sense
+type: software
+tags: []
+icon: logos:qlik
+aliases:
+- source: cisa_kev
+  value: Sense
+  confidence: auto

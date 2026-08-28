@@ -1,0 +1,10 @@
+id: network-attached-storage-nas
+vendor_id: qnap
+name: Network Attached Storage (NAS)
+type: software
+tags: []
+icon: simple-icons:qnap
+aliases:
+- source: cisa_kev
+  value: Network Attached Storage (NAS)
+  confidence: auto

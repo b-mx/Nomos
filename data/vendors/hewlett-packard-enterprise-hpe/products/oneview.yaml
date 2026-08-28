@@ -1,0 +1,9 @@
+id: oneview
+vendor_id: hewlett-packard-enterprise-hpe
+name: OneView
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: OneView
+  confidence: auto

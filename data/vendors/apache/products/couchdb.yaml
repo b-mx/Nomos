@@ -1,0 +1,10 @@
+id: couchdb
+vendor_id: apache
+name: CouchDB
+type: software
+tags:
+- database
+aliases:
+- source: cisa_kev
+  value: CouchDB
+  confidence: auto

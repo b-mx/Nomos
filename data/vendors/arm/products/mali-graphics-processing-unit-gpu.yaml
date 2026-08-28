@@ -1,0 +1,10 @@
+id: mali-graphics-processing-unit-gpu
+vendor_id: arm
+name: Mali Graphics Processing Unit (GPU)
+type: software
+tags: []
+icon: logos:arm
+aliases:
+- source: cisa_kev
+  value: Mali Graphics Processing Unit (GPU)
+  confidence: auto

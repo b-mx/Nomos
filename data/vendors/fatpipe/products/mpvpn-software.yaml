@@ -1,0 +1,9 @@
+id: mpvpn-software
+vendor_id: fatpipe
+name: MPVPN software
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: MPVPN software
+  confidence: auto

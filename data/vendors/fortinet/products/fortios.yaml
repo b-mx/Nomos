@@ -1,0 +1,13 @@
+id: fortios
+vendor_id: fortinet
+name: FortiOS
+type: firmware
+tags: [firewall, vpn, network-device]
+icon: thesvg-color:fortinet
+aliases:
+  - source: nvd
+    value: fortios
+    confidence: curated
+  - source: cisa_kev
+    value: FortiOS
+    confidence: curated

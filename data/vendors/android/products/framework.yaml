@@ -1,0 +1,11 @@
+id: framework
+vendor_id: android
+name: Framework
+type: library
+tags:
+- framework
+icon: logos:android-icon
+aliases:
+- source: cisa_kev
+  value: Framework
+  confidence: curated

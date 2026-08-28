@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "adobe--acrobat",
+  "vendor_id": "adobe",
+  "product_id": "acrobat",
+  "name": "Acrobat",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:adobe-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Acrobat",
+      "confidence": "curated"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+id: chromium-v8
+vendor_id: google
+name: Chromium V8
+type: software
+tags: []
+icon: logos:google-icon
+aliases:
+- source: cisa_kev
+  value: Chromium V8
+  confidence: auto

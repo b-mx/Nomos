@@ -1,0 +1,11 @@
+id: jboss-richfaces-framework
+vendor_id: redhat
+name: JBoss RichFaces Framework
+type: library
+tags:
+- framework
+- webserver
+aliases:
+- source: cisa_kev
+  value: JBoss RichFaces Framework
+  confidence: auto

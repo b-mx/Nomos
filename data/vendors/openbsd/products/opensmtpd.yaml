@@ -1,0 +1,10 @@
+id: opensmtpd
+vendor_id: openbsd
+name: OpenSMTPD
+type: software
+tags: []
+icon: simple-icons:openbsd
+aliases:
+- source: cisa_kev
+  value: OpenSMTPD
+  confidence: auto

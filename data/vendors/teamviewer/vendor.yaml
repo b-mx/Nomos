@@ -1,0 +1,7 @@
+id: teamviewer
+name: TeamViewer
+icon: cib:teamviewer
+aliases:
+- source: cisa_kev
+  value: TeamViewer
+  confidence: auto

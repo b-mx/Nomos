@@ -1,0 +1,11 @@
+id: jenkins-user-interface-ui
+vendor_id: jenkins
+name: Jenkins User Interface (UI)
+type: software
+tags:
+- ci-cd
+icon: logos:jenkins
+aliases:
+- source: cisa_kev
+  value: Jenkins User Interface (UI)
+  confidence: auto

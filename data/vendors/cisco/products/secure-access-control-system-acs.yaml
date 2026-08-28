@@ -1,0 +1,9 @@
+id: secure-access-control-system-acs
+vendor_id: cisco
+name: Secure Access Control System (ACS)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Secure Access Control System (ACS)
+  confidence: auto

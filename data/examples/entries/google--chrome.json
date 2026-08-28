@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chrome",
+  "vendor_id": "google",
+  "product_id": "chrome",
+  "name": "Chrome",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chrome",
+      "confidence": "auto"
+    }
+  ]
+}

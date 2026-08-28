@@ -1,0 +1,9 @@
+id: forticlient-ems
+vendor_id: fortinet
+name: FortiClient EMS
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: FortiClient EMS
+  confidence: auto

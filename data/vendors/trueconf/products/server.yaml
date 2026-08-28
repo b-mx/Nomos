@@ -1,0 +1,9 @@
+id: server
+vendor_id: trueconf
+name: Server
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Server
+  confidence: auto

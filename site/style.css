@@ -166,7 +166,7 @@ main {
 }
 /* Source-accent color coding — the core brand motif: color always means
    "which feed said this", applied to every alias's source label. */
-.aliases dt.source-nvd_cpe { color: var(--source-nvd-cpe); }
+.aliases dt.source-nvd { color: var(--source-nvd-cpe); }
 .aliases dt.source-endoflife { color: var(--source-endoflife); }
 .aliases dt.source-cisa_kev { color: var(--source-cisa-kev); }
 .aliases dt.source-osv { color: var(--source-osv); }

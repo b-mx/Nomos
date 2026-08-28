@@ -1,0 +1,10 @@
+id: n8n
+vendor_id: n8n
+name: n8n
+type: software
+tags: []
+icon: simple-icons:n8n
+aliases:
+- source: cisa_kev
+  value: n8n
+  confidence: auto

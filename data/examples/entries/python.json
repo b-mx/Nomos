@@ -1,0 +1,19 @@
+{
+  "canonical_type": "vendor",
+  "slug": "python",
+  "vendor_id": "python",
+  "name": "Python",
+  "icon": "logos:python",
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "python",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "python",
+      "confidence": "curated"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "splunk",
+  "vendor_id": "splunk",
+  "name": "Splunk",
+  "icon": "logos:splunk",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Splunk",
+      "confidence": "auto"
+    }
+  ]
+}

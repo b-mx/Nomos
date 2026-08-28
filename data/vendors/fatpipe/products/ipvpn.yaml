@@ -1,0 +1,9 @@
+id: ipvpn
+vendor_id: fatpipe
+name: IPVPN
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: IPVPN
+  confidence: auto

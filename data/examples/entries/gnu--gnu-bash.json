@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnu--gnu-bash",
+  "vendor_id": "gnu",
+  "product_id": "gnu-bash",
+  "name": "GNU Bash",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:gnu",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "GNU Bash",
+      "confidence": "auto"
+    }
+  ]
+}

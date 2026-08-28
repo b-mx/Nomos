@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "jenkins--script-security-plugin",
+  "vendor_id": "jenkins",
+  "product_id": "script-security-plugin",
+  "name": "Script Security Plugin",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:jenkins",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Script Security Plugin",
+      "confidence": "auto"
+    }
+  ]
+}

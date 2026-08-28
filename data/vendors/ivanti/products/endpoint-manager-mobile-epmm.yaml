@@ -1,0 +1,12 @@
+id: endpoint-manager-mobile-epmm
+vendor_id: ivanti
+name: Endpoint Manager Mobile (EPMM)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Endpoint Manager Mobile (EPMM)
+  confidence: auto
+- source: cisa_kev
+  value: Endpoint Manager Mobile (EPMM) and MobileIron Core
+  confidence: auto

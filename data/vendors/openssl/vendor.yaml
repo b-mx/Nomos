@@ -1,0 +1,10 @@
+id: openssl
+name: OpenSSL
+icon: thesvg-color:openssl
+aliases:
+  - source: nvd
+    value: openssl
+    confidence: curated
+  - source: endoflife
+    value: openssl
+    confidence: curated

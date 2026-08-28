@@ -1,0 +1,10 @@
+id: dir-859-router
+vendor_id: d-link
+name: DIR-859 Router
+type: hardware
+tags:
+- network-device
+aliases:
+- source: cisa_kev
+  value: DIR-859 Router
+  confidence: auto

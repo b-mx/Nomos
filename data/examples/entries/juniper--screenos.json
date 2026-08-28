@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "juniper--screenos",
+  "vendor_id": "juniper",
+  "product_id": "screenos",
+  "name": "ScreenOS",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "ScreenOS",
+      "confidence": "auto"
+    }
+  ]
+}

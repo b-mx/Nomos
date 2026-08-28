@@ -1,0 +1,10 @@
+id: zimbra-collaboration-suite-zcs
+vendor_id: synacor
+name: Zimbra Collaboration Suite (ZCS)
+type: software
+tags:
+- collaboration-tool
+aliases:
+- source: cisa_kev
+  value: Zimbra Collaboration Suite (ZCS)
+  confidence: auto

@@ -1,0 +1,14 @@
+id: roundcube-webmail
+vendor_id: roundcube
+name: Roundcube Webmail
+type: software
+tags:
+- email
+icon: cib:roundcube
+aliases:
+- source: cisa_kev
+  value: Roundcube Webmail
+  confidence: auto
+- source: cisa_kev
+  value: Webmail
+  confidence: auto

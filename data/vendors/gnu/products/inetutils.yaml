@@ -1,0 +1,10 @@
+id: inetutils
+vendor_id: gnu
+name: InetUtils
+type: software
+tags: []
+icon: logos:gnu
+aliases:
+- source: cisa_kev
+  value: InetUtils
+  confidence: auto

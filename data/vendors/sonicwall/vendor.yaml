@@ -1,0 +1,7 @@
+id: sonicwall
+name: SonicWall
+icon: simple-icons:sonicwall
+aliases:
+- source: cisa_kev
+  value: SonicWall
+  confidence: auto

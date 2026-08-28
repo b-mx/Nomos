@@ -1,0 +1,10 @@
+id: atlassian
+name: Atlassian
+icon: logos:atlassian
+aliases:
+  - source: nvd
+    value: atlassian
+    confidence: curated
+  - source: cisa_kev
+    value: Atlassian
+    confidence: curated

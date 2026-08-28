@@ -1,0 +1,10 @@
+id: emg2926-routers
+vendor_id: zyxel
+name: EMG2926 Routers
+type: hardware
+tags:
+- network-device
+aliases:
+- source: cisa_kev
+  value: EMG2926 Routers
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flash-player
+vendor_id: adobe
+name: Flash Player
+type: software
+tags: []
+icon: logos:adobe-icon
+aliases:
+- source: cisa_kev
+  value: Flash Player
+  confidence: curated

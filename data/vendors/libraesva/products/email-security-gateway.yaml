@@ -1,0 +1,11 @@
+id: email-security-gateway
+vendor_id: libraesva
+name: Email Security Gateway
+type: appliance
+tags:
+- email
+- network-device
+aliases:
+- source: cisa_kev
+  value: Email Security Gateway
+  confidence: auto

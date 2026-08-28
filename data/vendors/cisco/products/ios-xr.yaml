@@ -1,0 +1,9 @@
+id: ios-xr
+vendor_id: cisco
+name: IOS XR
+type: os
+tags: []
+aliases:
+- source: cisa_kev
+  value: IOS XR
+  confidence: auto

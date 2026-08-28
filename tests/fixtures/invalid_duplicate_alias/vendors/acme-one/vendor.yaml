@@ -1,6 +1,6 @@
 id: acme-one
 name: Acme One
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: shared_value
     confidence: curated

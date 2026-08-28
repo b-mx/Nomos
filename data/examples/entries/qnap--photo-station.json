@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "qnap--photo-station",
+  "vendor_id": "qnap",
+  "product_id": "photo-station",
+  "name": "Photo Station",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:qnap",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Photo Station",
+      "confidence": "auto"
+    }
+  ]
+}

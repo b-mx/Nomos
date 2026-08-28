@@ -1,6 +1,7 @@
 id: acme
 name: Acme Corp
+cpe: "cpe:2.3:*:acme:*:*:*:*:*:*:*:*:*"
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: acme
     confidence: curated

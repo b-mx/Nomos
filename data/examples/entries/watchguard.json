@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "watchguard",
+  "vendor_id": "watchguard",
+  "name": "WatchGuard",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "WatchGuard",
+      "confidence": "auto"
+    }
+  ]
+}

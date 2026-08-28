@@ -3,8 +3,10 @@ vendor_id: acme
 name: Acme Widget
 type: software
 tags: [database]
+cpe: "cpe:2.3:a:acme:widget:*:*:*:*:*:*:*:*"
+purl: "pkg:generic/acme/widget"
 aliases:
-  - source: nvd_cpe
+  - source: nvd
     value: widget
     confidence: curated
 services:

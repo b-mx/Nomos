@@ -1,0 +1,10 @@
+id: gnu-bash
+vendor_id: gnu
+name: GNU Bash
+type: software
+tags: []
+icon: logos:gnu
+aliases:
+- source: cisa_kev
+  value: GNU Bash
+  confidence: auto

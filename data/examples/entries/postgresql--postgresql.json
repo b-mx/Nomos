@@ -1,0 +1,32 @@
+{
+  "canonical_type": "product",
+  "slug": "postgresql--postgresql",
+  "vendor_id": "postgresql",
+  "product_id": "postgresql",
+  "name": "PostgreSQL",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": "logos:postgresql",
+  "services": [
+    {
+      "protocol": "tcp",
+      "port": 5432,
+      "name": "postgresql",
+      "default": true
+    }
+  ],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "postgresql",
+      "confidence": "curated"
+    },
+    {
+      "source": "endoflife",
+      "value": "postgresql",
+      "confidence": "curated"
+    }
+  ]
+}

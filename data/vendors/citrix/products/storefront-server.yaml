@@ -1,0 +1,10 @@
+id: storefront-server
+vendor_id: citrix
+name: StoreFront Server
+type: software
+tags: []
+icon: simple-icons:citrix
+aliases:
+- source: cisa_kev
+  value: StoreFront Server
+  confidence: auto

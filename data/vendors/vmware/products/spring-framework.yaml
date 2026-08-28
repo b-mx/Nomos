@@ -1,0 +1,11 @@
+id: spring-framework
+vendor_id: vmware
+name: Spring Framework
+type: library
+tags:
+- framework
+icon: carbon:logo-vmware-alt
+aliases:
+- source: cisa_kev
+  value: Spring Framework
+  confidence: curated

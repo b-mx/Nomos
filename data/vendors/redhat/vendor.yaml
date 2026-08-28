@@ -1,0 +1,10 @@
+id: redhat
+name: Red Hat
+icon: logos:redhat-icon
+aliases:
+  - source: nvd
+    value: redhat
+    confidence: curated
+  - source: cisa_kev
+    value: "Red Hat"
+    confidence: curated

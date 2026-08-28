@@ -1,0 +1,10 @@
+id: mysql
+name: MySQL
+icon: logos:mysql-icon
+aliases:
+  - source: nvd
+    value: mysql
+    confidence: curated
+  - source: endoflife
+    value: mysql
+    confidence: curated

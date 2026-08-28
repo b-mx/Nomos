@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "mongodb--mongodb-and-mongodb-server",
+  "vendor_id": "mongodb",
+  "product_id": "mongodb-and-mongodb-server",
+  "name": "MongoDB and MongoDB Server",
+  "type": "software",
+  "tags": [
+    "database"
+  ],
+  "icon": "logos:mongodb-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "MongoDB and MongoDB Server",
+      "confidence": "auto"
+    }
+  ]
+}

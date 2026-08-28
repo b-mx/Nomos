@@ -1,0 +1,10 @@
+id: identity-services-engine
+vendor_id: cisco
+name: Identity Services Engine
+type: software
+tags:
+- identity-access-management
+aliases:
+- source: cisa_kev
+  value: Identity Services Engine
+  confidence: auto

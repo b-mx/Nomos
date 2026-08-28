@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ietf--service-location-protocol-slp",
+  "vendor_id": "ietf",
+  "product_id": "service-location-protocol-slp",
+  "name": "Service Location Protocol (SLP)",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:ietf",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Service Location Protocol (SLP)",
+      "confidence": "auto"
+    }
+  ]
+}

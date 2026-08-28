@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "palo-alto-networks",
+  "vendor_id": "palo-alto-networks",
+  "name": "Palo Alto Networks",
+  "icon": "simple-icons:paloaltonetworks",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Palo Alto Networks",
+      "confidence": "auto"
+    }
+  ]
+}

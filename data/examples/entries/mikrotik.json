@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "mikrotik",
+  "vendor_id": "mikrotik",
+  "name": "MikroTik",
+  "icon": "simple-icons:mikrotik",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "MikroTik",
+      "confidence": "auto"
+    }
+  ]
+}

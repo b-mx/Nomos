@@ -1,0 +1,9 @@
+id: fortisandbox
+vendor_id: fortinet
+name: FortiSandbox
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: FortiSandbox
+  confidence: auto

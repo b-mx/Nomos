@@ -1,0 +1,9 @@
+id: eds5000
+vendor_id: lantronix
+name: EDS5000
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: EDS5000
+  confidence: auto

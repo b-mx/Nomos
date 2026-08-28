@@ -1,0 +1,10 @@
+id: whatsapp
+vendor_id: meta
+name: WhatsApp
+type: software
+tags: []
+icon: logos:meta
+aliases:
+- source: cisa_kev
+  value: WhatsApp
+  confidence: auto

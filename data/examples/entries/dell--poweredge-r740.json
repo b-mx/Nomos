@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "dell--poweredge-r740",
+  "vendor_id": "dell",
+  "product_id": "poweredge-r740",
+  "name": "Dell PowerEdge R740",
+  "type": "hardware",
+  "tags": [
+    "hardware-appliance"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "poweredge_r740_firmware",
+      "confidence": "auto"
+    }
+  ]
+}

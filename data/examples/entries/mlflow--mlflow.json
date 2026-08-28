@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "mlflow--mlflow",
+  "vendor_id": "mlflow",
+  "product_id": "mlflow",
+  "name": "MLflow",
+  "type": "software",
+  "tags": [
+    "ai-ml"
+  ],
+  "icon": "simple-icons:mlflow",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "MLflow",
+      "confidence": "auto"
+    }
+  ]
+}

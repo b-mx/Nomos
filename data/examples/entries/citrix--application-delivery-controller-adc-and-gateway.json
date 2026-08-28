@@ -1,0 +1,21 @@
+{
+  "canonical_type": "product",
+  "slug": "citrix--application-delivery-controller-adc-and-gateway",
+  "vendor_id": "citrix",
+  "product_id": "application-delivery-controller-adc-and-gateway",
+  "name": "Application Delivery Controller (ADC) and Gateway",
+  "type": "software",
+  "tags": [
+    "load-balancer",
+    "network-device"
+  ],
+  "icon": "simple-icons:citrix",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Application Delivery Controller (ADC) and Gateway",
+      "confidence": "auto"
+    }
+  ]
+}

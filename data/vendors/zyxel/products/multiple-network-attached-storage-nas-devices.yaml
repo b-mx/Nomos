@@ -1,0 +1,9 @@
+id: multiple-network-attached-storage-nas-devices
+vendor_id: zyxel
+name: Multiple Network-Attached Storage (NAS) Devices
+type: hardware
+tags: []
+aliases:
+- source: cisa_kev
+  value: Multiple Network-Attached Storage (NAS) Devices
+  confidence: auto

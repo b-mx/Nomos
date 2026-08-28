@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "exim",
+  "vendor_id": "exim",
+  "name": "Exim",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Exim",
+      "confidence": "auto"
+    }
+  ]
+}

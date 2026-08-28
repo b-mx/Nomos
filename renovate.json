@@ -1,6 +1,58 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:recommended"
+    "config:recommended",
+    "security:minimumReleaseAgeNpm",
+    "security:minimumReleaseAgePypi"
+  ],
+  "timezone": "Asia/Singapore",
+  "schedule": [
+    "before 6am on monday"
+  ],
+  "updateNotScheduled": false,
+  "prConcurrentLimit": 5,
+  "packageRules": [
+    {
+      "description": "Group Python non-major updates",
+      "matchManagers": [
+        "pep621"
+      ],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
+      "groupName": "Python non-major updates"
+    },
+    {
+      "description": "Group site tooling non-major updates",
+      "matchManagers": [
+        "npm"
+      ],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
+      "groupName": "Site tooling non-major updates"
+    },
+    {
+      "description": "Group GitHub Actions updates",
+      "matchManagers": [
+        "github-actions"
+      ],
+      "matchUpdateTypes": [
+        "minor",
+        "patch",
+        "digest",
+        "pinDigest"
+      ],
+      "groupName": "GitHub Actions updates"
+    },
+    {
+      "description": "Require dashboard approval for major updates",
+      "matchUpdateTypes": [
+        "major"
+      ],
+      "dependencyDashboardApproval": true
+    }
   ]
 }

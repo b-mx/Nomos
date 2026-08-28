@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "mcafee",
+  "vendor_id": "mcafee",
+  "name": "McAfee",
+  "icon": "cib:mcafee",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "McAfee",
+      "confidence": "auto"
+    }
+  ]
+}

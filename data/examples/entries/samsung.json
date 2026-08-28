@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "samsung",
+  "vendor_id": "samsung",
+  "name": "Samsung",
+  "icon": "logos:samsung",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Samsung",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "wordpress--core",
+  "vendor_id": "wordpress",
+  "product_id": "core",
+  "name": "Core",
+  "type": "software",
+  "tags": [
+    "cms"
+  ],
+  "icon": "skill-icons:wordpress",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Core",
+      "confidence": "curated"
+    }
+  ]
+}

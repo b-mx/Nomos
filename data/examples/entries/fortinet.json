@@ -1,0 +1,19 @@
+{
+  "canonical_type": "vendor",
+  "slug": "fortinet",
+  "vendor_id": "fortinet",
+  "name": "Fortinet",
+  "icon": "thesvg-color:fortinet",
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "fortinet",
+      "confidence": "curated"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Fortinet",
+      "confidence": "curated"
+    }
+  ]
+}

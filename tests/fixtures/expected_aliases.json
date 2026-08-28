@@ -8,7 +8,7 @@
       "name": "Acme Corp",
       "icon": null,
       "aliases": [
-        { "source": "nvd_cpe", "value": "acme", "confidence": "curated" }
+        { "source": "nvd", "value": "acme", "confidence": "curated" }
       ]
     },
     {
@@ -24,7 +24,7 @@
         { "protocol": "tcp", "port": 1234, "name": "widget-proto", "default": true }
       ],
       "aliases": [
-        { "source": "nvd_cpe", "value": "widget", "confidence": "curated" }
+        { "source": "nvd", "value": "widget", "confidence": "curated" }
       ]
     }
   ]

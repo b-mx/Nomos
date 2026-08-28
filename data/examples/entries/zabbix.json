@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "zabbix",
+  "vendor_id": "zabbix",
+  "name": "Zabbix",
+  "icon": "logos:zabbix",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Zabbix",
+      "confidence": "auto"
+    }
+  ]
+}

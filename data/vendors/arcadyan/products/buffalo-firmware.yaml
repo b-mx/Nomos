@@ -1,0 +1,10 @@
+id: buffalo-firmware
+vendor_id: arcadyan
+name: Buffalo Firmware
+type: firmware
+tags:
+- operating-system
+aliases:
+- source: cisa_kev
+  value: Buffalo Firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: manageengine-servicedesk-plus-sdp
+vendor_id: zoho
+name: ManageEngine ServiceDesk Plus (SDP)
+type: software
+tags: []
+icon: logos:zoho
+aliases:
+- source: cisa_kev
+  value: ManageEngine ServiceDesk Plus (SDP)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: moveit-transfer
+vendor_id: progress
+name: MOVEit Transfer
+type: software
+tags: []
+icon: logos:progress
+aliases:
+- source: cisa_kev
+  value: MOVEit Transfer
+  confidence: auto

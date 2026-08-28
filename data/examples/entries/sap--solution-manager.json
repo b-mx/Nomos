@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sap--solution-manager",
+  "vendor_id": "sap",
+  "product_id": "solution-manager",
+  "name": "Solution Manager",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:sap",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Solution Manager",
+      "confidence": "auto"
+    }
+  ]
+}

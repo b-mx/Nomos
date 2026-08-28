@@ -7,7 +7,7 @@
 //
 // Results are grouped by vendor (one card per vendor, its matching products
 // nested inside) rather than rendered as a flat list — this mirrors how
-// vendors/<id>/products/*.yaml are actually organised on disk. A product
+// data/vendors/<id>/products/*.yaml are actually organised on disk. A product
 // match whose vendor wasn't independently a search hit still needs the
 // vendor's name/icon for the card header, so its entry is fetched too.
 
@@ -27,8 +27,8 @@ function iconifyUrl(icon) {
 
 function sourcePath(entry) {
   return entry.canonical_type === "product"
-    ? `vendors/${entry.vendor_id}/products/${entry.product_id}.yaml`
-    : `vendors/${entry.vendor_id}/vendor.yaml`;
+    ? `data/vendors/${entry.vendor_id}/products/${entry.product_id}.yaml`
+    : `data/vendors/${entry.vendor_id}/vendor.yaml`;
 }
 
 async function fetchEntry(url) {

@@ -1,0 +1,14 @@
+id: small-business-rv320-and-rv325-dual-gigabit-wan-vpn-routers
+vendor_id: cisco
+name: Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers
+type: hardware
+tags:
+- network-device
+- vpn
+aliases:
+- source: cisa_kev
+  value: Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers
+  confidence: auto
+- source: cisa_kev
+  value: Small Business RV320 and RV325 Routers
+  confidence: auto

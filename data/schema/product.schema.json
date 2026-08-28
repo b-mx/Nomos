@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nomos.dev/schema/product.schema.json",
+  "title": "Product",
+  "type": "object",
+  "required": ["id", "vendor_id", "name", "type", "tags", "aliases"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "vendor_id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "name": { "type": "string", "minLength": 1 },
+    "type": { "enum": ["hardware", "appliance", "firmware", "os", "software", "library"] },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "icon": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*:[a-z0-9]+(-[a-z0-9]+)*$" },
+    "cpe": {
+      "type": "string",
+      "pattern": "^cpe:2\\.3:[aoh]:(?:[^:\\\\]|\\\\.)+:(?:[^:\\\\]|\\\\.)+:\\*(:\\*){7}$"
+    },
+    "purl": {
+      "type": "string",
+      "pattern": "^pkg:[a-z][a-z0-9.+-]*\\/.+$"
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/alias" }
+    },
+    "services": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["protocol", "port", "name"],
+        "additionalProperties": false,
+        "properties": {
+          "protocol": { "enum": ["tcp", "udp"] },
+          "port": { "type": "integer", "minimum": 1, "maximum": 65535 },
+          "name": { "type": "string", "minLength": 1 },
+          "default": { "type": "boolean" }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "alias": {
+      "type": "object",
+      "required": ["source", "value", "confidence"],
+      "additionalProperties": false,
+      "properties": {
+        "source": { "enum": ["nvd", "cisa_kev", "osv", "endoflife"] },
+        "value": { "type": "string", "minLength": 1 },
+        "ecosystem": { "type": "string", "minLength": 1 },
+        "confidence": { "enum": ["curated", "auto"] }
+      }
+    }
+  }
+}

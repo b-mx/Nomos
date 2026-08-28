@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "owncloud",
+  "vendor_id": "owncloud",
+  "name": "ownCloud",
+  "icon": "simple-icons:owncloud",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "ownCloud",
+      "confidence": "auto"
+    }
+  ]
+}

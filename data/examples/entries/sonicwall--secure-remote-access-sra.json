@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sonicwall--secure-remote-access-sra",
+  "vendor_id": "sonicwall",
+  "product_id": "secure-remote-access-sra",
+  "name": "Secure Remote Access (SRA)",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:sonicwall",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Secure Remote Access (SRA)",
+      "confidence": "auto"
+    }
+  ]
+}

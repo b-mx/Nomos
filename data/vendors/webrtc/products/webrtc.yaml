@@ -1,0 +1,10 @@
+id: webrtc
+vendor_id: webrtc
+name: WebRTC
+type: software
+tags: []
+icon: logos:webrtc
+aliases:
+- source: cisa_kev
+  value: WebRTC
+  confidence: auto

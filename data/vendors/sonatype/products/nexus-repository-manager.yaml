@@ -1,0 +1,13 @@
+id: nexus-repository-manager
+vendor_id: sonatype
+name: Nexus Repository Manager
+type: software
+tags: []
+icon: simple-icons:sonatype
+aliases:
+- source: cisa_kev
+  value: Nexus Repository Manager
+  confidence: auto
+- source: cisa_kev
+  value: Nexus Repository
+  confidence: auto

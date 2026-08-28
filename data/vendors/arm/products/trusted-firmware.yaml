@@ -1,0 +1,11 @@
+id: trusted-firmware
+vendor_id: arm
+name: Trusted Firmware
+type: firmware
+tags:
+- operating-system
+icon: logos:arm
+aliases:
+- source: cisa_kev
+  value: Trusted Firmware
+  confidence: auto

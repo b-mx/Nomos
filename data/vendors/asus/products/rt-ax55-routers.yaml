@@ -1,0 +1,11 @@
+id: rt-ax55-routers
+vendor_id: asus
+name: RT-AX55 Routers
+type: hardware
+tags:
+- network-device
+icon: simple-icons:asus
+aliases:
+- source: cisa_kev
+  value: RT-AX55 Routers
+  confidence: auto

@@ -1,0 +1,9 @@
+id: endpoint-manager-epm
+vendor_id: ivanti
+name: Endpoint Manager (EPM)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Endpoint Manager (EPM)
+  confidence: auto

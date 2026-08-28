@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-v8",
+  "vendor_id": "google",
+  "product_id": "chromium-v8",
+  "name": "Chromium V8",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium V8",
+      "confidence": "auto"
+    }
+  ]
+}

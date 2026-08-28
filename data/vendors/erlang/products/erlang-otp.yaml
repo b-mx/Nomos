@@ -1,0 +1,10 @@
+id: erlang-otp
+vendor_id: erlang
+name: Erlang/OTP
+type: software
+tags: []
+icon: logos:erlang
+aliases:
+- source: cisa_kev
+  value: Erlang/OTP
+  confidence: auto

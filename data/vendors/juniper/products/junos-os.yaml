@@ -1,0 +1,9 @@
+id: junos-os
+vendor_id: juniper
+name: Junos OS
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Junos OS
+  confidence: auto

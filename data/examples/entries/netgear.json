@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "netgear",
+  "vendor_id": "netgear",
+  "name": "NETGEAR",
+  "icon": "simple-icons:netgear",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "NETGEAR",
+      "confidence": "auto"
+    }
+  ]
+}

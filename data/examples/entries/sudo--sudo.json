@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "sudo--sudo",
+  "vendor_id": "sudo",
+  "product_id": "sudo",
+  "name": "Sudo",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Sudo",
+      "confidence": "auto"
+    }
+  ]
+}

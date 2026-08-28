@@ -1,0 +1,26 @@
+{
+  "canonical_type": "product",
+  "slug": "pytorch--pytorch",
+  "vendor_id": "pytorch",
+  "product_id": "pytorch",
+  "name": "PyTorch",
+  "type": "library",
+  "tags": [
+    "ai-ml"
+  ],
+  "icon": "logos:pytorch-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "osv",
+      "value": "pytorch",
+      "ecosystem": "PyPI",
+      "confidence": "curated"
+    },
+    {
+      "source": "nvd",
+      "value": "pytorch",
+      "confidence": "curated"
+    }
+  ]
+}

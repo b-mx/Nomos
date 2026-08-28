@@ -1,0 +1,9 @@
+id: mivoice-connect
+vendor_id: mitel
+name: MiVoice Connect
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: MiVoice Connect
+  confidence: auto

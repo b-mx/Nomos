@@ -1,0 +1,9 @@
+id: tm-sgnl
+vendor_id: telemessage
+name: TM SGNL
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: TM SGNL
+  confidence: auto

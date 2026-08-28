@@ -1,0 +1,10 @@
+id: http-2
+vendor_id: ietf
+name: HTTP/2
+type: software
+tags: []
+icon: logos:ietf
+aliases:
+- source: cisa_kev
+  value: HTTP/2
+  confidence: auto

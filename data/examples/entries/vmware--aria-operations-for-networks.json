@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--aria-operations-for-networks",
+  "vendor_id": "vmware",
+  "product_id": "aria-operations-for-networks",
+  "name": "Aria Operations for Networks",
+  "type": "software",
+  "tags": [],
+  "icon": "carbon:logo-vmware-alt",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Aria Operations for Networks",
+      "confidence": "curated"
+    }
+  ]
+}

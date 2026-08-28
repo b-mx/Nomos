@@ -1,0 +1,21 @@
+{
+  "canonical_type": "product",
+  "slug": "dahua--ip-camera-firmware",
+  "vendor_id": "dahua",
+  "product_id": "ip-camera-firmware",
+  "name": "IP Camera Firmware",
+  "type": "hardware",
+  "tags": [
+    "network-device",
+    "operating-system"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "IP Camera Firmware",
+      "confidence": "auto"
+    }
+  ]
+}

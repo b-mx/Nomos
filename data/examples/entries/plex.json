@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "plex",
+  "vendor_id": "plex",
+  "name": "Plex",
+  "icon": "cib:plex",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Plex",
+      "confidence": "auto"
+    }
+  ]
+}

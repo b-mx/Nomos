@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "apache--http-server",
+  "vendor_id": "apache",
+  "product_id": "http-server",
+  "name": "HTTP Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "HTTP Server",
+      "confidence": "auto"
+    }
+  ]
+}

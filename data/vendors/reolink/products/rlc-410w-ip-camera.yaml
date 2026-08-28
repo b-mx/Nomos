@@ -1,0 +1,10 @@
+id: rlc-410w-ip-camera
+vendor_id: reolink
+name: RLC-410W IP Camera
+type: hardware
+tags:
+- network-device
+aliases:
+- source: cisa_kev
+  value: RLC-410W IP Camera
+  confidence: auto

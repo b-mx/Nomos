@@ -1,0 +1,10 @@
+id: simatic-cp
+vendor_id: siemens
+name: SIMATIC CP
+type: software
+tags: []
+icon: thesvg-color:siemens
+aliases:
+- source: cisa_kev
+  value: SIMATIC CP
+  confidence: curated

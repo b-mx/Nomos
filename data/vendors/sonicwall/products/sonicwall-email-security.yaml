@@ -1,0 +1,11 @@
+id: sonicwall-email-security
+vendor_id: sonicwall
+name: SonicWall Email Security
+type: software
+tags:
+- email
+icon: simple-icons:sonicwall
+aliases:
+- source: cisa_kev
+  value: SonicWall Email Security
+  confidence: auto

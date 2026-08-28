@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--sd-wan-edge",
+  "vendor_id": "vmware",
+  "product_id": "sd-wan-edge",
+  "name": "SD-WAN Edge",
+  "type": "software",
+  "tags": [],
+  "icon": "carbon:logo-vmware-alt",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "SD-WAN Edge",
+      "confidence": "curated"
+    }
+  ]
+}

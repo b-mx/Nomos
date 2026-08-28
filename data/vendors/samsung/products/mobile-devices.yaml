@@ -1,0 +1,10 @@
+id: mobile-devices
+vendor_id: samsung
+name: Mobile Devices
+type: hardware
+tags: []
+icon: logos:samsung
+aliases:
+- source: cisa_kev
+  value: Mobile Devices
+  confidence: auto

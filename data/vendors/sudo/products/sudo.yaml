@@ -1,0 +1,9 @@
+id: sudo
+vendor_id: sudo
+name: Sudo
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Sudo
+  confidence: auto

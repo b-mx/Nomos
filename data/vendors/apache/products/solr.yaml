@@ -1,0 +1,10 @@
+id: solr
+vendor_id: apache
+name: Solr
+type: software
+tags:
+- database
+aliases:
+- source: cisa_kev
+  value: Solr
+  confidence: auto

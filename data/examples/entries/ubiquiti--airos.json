@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ubiquiti--airos",
+  "vendor_id": "ubiquiti",
+  "product_id": "airos",
+  "name": "AirOS",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:ubiquiti",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "AirOS",
+      "confidence": "auto"
+    }
+  ]
+}

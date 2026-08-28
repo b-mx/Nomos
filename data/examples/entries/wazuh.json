@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "wazuh",
+  "vendor_id": "wazuh",
+  "name": "Wazuh",
+  "icon": null,
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Wazuh",
+      "confidence": "auto"
+    }
+  ]
+}

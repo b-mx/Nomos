@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "google--chromium-webgl",
+  "vendor_id": "google",
+  "product_id": "chromium-webgl",
+  "name": "Chromium WebGL",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:google-icon",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Chromium WebGL",
+      "confidence": "auto"
+    }
+  ]
+}

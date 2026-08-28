@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "progress--ws-ftp-server",
+  "vendor_id": "progress",
+  "product_id": "ws-ftp-server",
+  "name": "WS_FTP Server",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:progress",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "WS_FTP Server",
+      "confidence": "auto"
+    }
+  ]
+}

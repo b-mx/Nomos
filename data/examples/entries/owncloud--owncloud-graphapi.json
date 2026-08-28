@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "owncloud--owncloud-graphapi",
+  "vendor_id": "owncloud",
+  "product_id": "owncloud-graphapi",
+  "name": "ownCloud graphapi",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:owncloud",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "ownCloud graphapi",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "docker",
+  "vendor_id": "docker",
+  "name": "Docker",
+  "icon": "logos:docker-icon",
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "docker",
+      "confidence": "curated"
+    }
+  ]
+}

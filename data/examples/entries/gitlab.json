@@ -1,0 +1,14 @@
+{
+  "canonical_type": "vendor",
+  "slug": "gitlab",
+  "vendor_id": "gitlab",
+  "name": "GitLab",
+  "icon": "logos:gitlab-icon",
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "GitLab",
+      "confidence": "auto"
+    }
+  ]
+}

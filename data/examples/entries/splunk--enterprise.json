@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "splunk--enterprise",
+  "vendor_id": "splunk",
+  "product_id": "enterprise",
+  "name": "Enterprise",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:splunk",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Enterprise",
+      "confidence": "auto"
+    }
+  ]
+}

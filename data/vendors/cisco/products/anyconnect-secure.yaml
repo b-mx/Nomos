@@ -1,0 +1,9 @@
+id: anyconnect-secure
+vendor_id: cisco
+name: AnyConnect Secure
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: AnyConnect Secure
+  confidence: auto

@@ -1,0 +1,9 @@
+id: sysaid-on-prem
+vendor_id: sysaid
+name: SysAid On-Prem
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SysAid On-Prem
+  confidence: auto

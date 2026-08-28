@@ -1,0 +1,25 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--ios",
+  "vendor_id": "cisco",
+  "product_id": "ios",
+  "name": "Cisco IOS",
+  "type": "firmware",
+  "tags": [
+    "network-device"
+  ],
+  "icon": "cib:cisco",
+  "services": [],
+  "aliases": [
+    {
+      "source": "nvd",
+      "value": "ios",
+      "confidence": "curated"
+    },
+    {
+      "source": "cisa_kev",
+      "value": "Cisco IOS",
+      "confidence": "curated"
+    }
+  ]
+}

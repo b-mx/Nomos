@@ -1,0 +1,9 @@
+id: nx-os
+vendor_id: cisco
+name: NX-OS
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: NX-OS
+  confidence: auto

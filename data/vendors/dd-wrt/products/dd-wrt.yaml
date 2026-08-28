@@ -1,0 +1,9 @@
+id: dd-wrt
+vendor_id: dd-wrt
+name: DD-WRT
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: DD-WRT
+  confidence: auto

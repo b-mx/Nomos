@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "gnu--inetutils",
+  "vendor_id": "gnu",
+  "product_id": "inetutils",
+  "name": "InetUtils",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:gnu",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "InetUtils",
+      "confidence": "auto"
+    }
+  ]
+}

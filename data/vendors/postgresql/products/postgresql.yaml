@@ -1,0 +1,18 @@
+id: postgresql
+vendor_id: postgresql
+name: PostgreSQL
+type: software
+tags: [database]
+icon: logos:postgresql
+aliases:
+  - source: nvd
+    value: postgresql
+    confidence: curated
+  - source: endoflife
+    value: postgresql
+    confidence: curated
+services:
+  - protocol: tcp
+    port: 5432
+    name: postgresql
+    default: true

@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware-tanzu--spring-cloud",
+  "vendor_id": "vmware-tanzu",
+  "product_id": "spring-cloud",
+  "name": "Spring Cloud",
+  "type": "software",
+  "tags": [
+    "framework"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Spring Cloud",
+      "confidence": "auto"
+    }
+  ]
+}

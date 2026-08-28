@@ -1,0 +1,10 @@
+id: matrix-project-plugin
+vendor_id: jenkins
+name: Matrix Project Plugin
+type: software
+tags: []
+icon: logos:jenkins
+aliases:
+- source: cisa_kev
+  value: Matrix Project Plugin
+  confidence: auto

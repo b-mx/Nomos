@@ -1,0 +1,11 @@
+id: commerce-cloud
+vendor_id: sap
+name: Commerce Cloud
+type: software
+tags:
+- ecommerce
+icon: logos:sap
+aliases:
+- source: cisa_kev
+  value: Commerce Cloud
+  confidence: auto

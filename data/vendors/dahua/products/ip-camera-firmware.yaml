@@ -1,0 +1,11 @@
+id: ip-camera-firmware
+vendor_id: dahua
+name: IP Camera Firmware
+type: hardware
+tags:
+- network-device
+- operating-system
+aliases:
+- source: cisa_kev
+  value: IP Camera Firmware
+  confidence: auto

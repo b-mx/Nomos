@@ -1,0 +1,13 @@
+id: docker-engine
+vendor_id: docker
+name: Docker Engine
+type: software
+tags: [container-runtime]
+icon: logos:docker-icon
+aliases:
+  - source: nvd
+    value: docker
+    confidence: curated
+  - source: endoflife
+    value: docker-engine
+    confidence: curated

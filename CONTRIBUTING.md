@@ -4,18 +4,18 @@
 
 1. Pick a stable, lowercase, kebab-case `id` for the vendor. This is
    immutable once merged — downstream consumers key off it.
-2. Create `vendors/<vendor-id>/vendor.yaml`:
+2. Create `data/vendors/<vendor-id>/vendor.yaml`:
 
    ```yaml
    id: acme
    name: Acme Corp
    aliases:
-     - source: nvd_cpe
+     - source: nvd
        value: acme
        confidence: curated
    ```
 
-3. Create `vendors/<vendor-id>/products/<product-id>.yaml`:
+3. Create `data/vendors/<vendor-id>/products/<product-id>.yaml`:
 
    ```yaml
    id: widget
@@ -24,13 +24,20 @@
    type: software
    tags: [database]
    aliases:
-     - source: nvd_cpe
+     - source: nvd
        value: widget
        confidence: curated
    ```
 
+   Both files may also carry an optional `cpe` field (a full, version-
+   wildcarded CPE 2.3 string, e.g. `cpe:2.3:a:acme:widget:*:*:*:*:*:*:*:*`),
+   and products may carry an optional `purl` field (e.g. `pkg:pypi/widget`).
+   **Never guess either field from a display name** — only set them from
+   data you've actually confirmed (e.g. an NVD CPE match, or an existing
+   `osv` alias for `purl`).
+
 4. A vendor and its product MAY share the same `(source, value)` pair — e.g.
-   NGINX's vendor and product both legitimately claim `nvd_cpe: nginx`, since
+   NGINX's vendor and product both legitimately claim `nvd: nginx`, since
    CPE's vendor and product fields are separate assertions even when the
    strings match. The global uniqueness rule is scoped per canonical type: two
    vendors (or two products) can never share a `(source, value)` pair, but a
@@ -40,7 +47,7 @@
 
 If there's no real company behind the product (most npm/PyPI/crates
 packages), the vendor directory reuses the product's own slug, e.g.
-`vendors/pytorch/vendor.yaml` + `vendors/pytorch/products/pytorch.yaml`,
+`data/vendors/pytorch/vendor.yaml` + `data/vendors/pytorch/products/pytorch.yaml`,
 both `id: pytorch`. Add an `ecosystem` field to ecosystem-sourced aliases:
 
 ```yaml
@@ -55,14 +62,16 @@ aliases:
 
 CISA KEV entries whose `vendorProject` is literally "Multiple Vendors" use
 the sentinel vendor id `_multiple`. Don't try to resolve these to a real
-vendor, and **don't create a `vendors/_multiple/vendor.yaml` file** — it's
-a reserved id handled specially by consumers, not a real canonical entry.
+vendor, and **don't create a `data/vendors/_multiple/vendor.yaml` file** —
+it's a reserved id handled specially by consumers, not a real canonical
+entry.
 
 ## Tags
 
-`taxonomy/tags.yaml` is the closed set of allowed tags. **A new tag can
-never land in the same PR as the product that uses it** — `schema/**` and
-`taxonomy/tags.yaml` require maintainer review (see `CODEOWNERS`), and
+`data/taxonomy/tags.yaml` is the closed set of allowed tags. **A new tag
+can never land in the same PR as the product that uses it** —
+`data/schema/**` and `data/taxonomy/tags.yaml` require maintainer review
+(see `CODEOWNERS`), and
 bundling a tag proposal with a product PR forces the reviewer to block an
 otherwise-fine product entry on a taxonomy debate. Open the tag addition
 as its own PR first; once merged, add your product referencing it.
@@ -97,13 +106,13 @@ cp docs/nomos-banner.svg /tmp/nomos-site/
 cd /tmp/nomos-site && python3 -m http.server 8000
 ```
 
-Then open `http://localhost:8000/`. Use `examples/aliases.json` instead of
-a fresh `tools/build_index.py` run if you just want to test against the
-seed data without regenerating it.
+Then open `http://localhost:8000/`. Use `data/examples/aliases.json`
+instead of a fresh `tools/build_index.py` run if you just want to test
+against the seed data without regenerating it.
 
 ## What `suggest_match.py` comments mean
 
-On PRs touching `vendors/**`, CI runs a fuzzy match of any new alias value
+On PRs touching `data/vendors/**`, CI runs a fuzzy match of any new alias value
 against the existing alias index and may leave a comment like:
 
 > This alias looks similar to `some-vendor` — please confirm this is a

@@ -1,0 +1,11 @@
+id: laravel-framework
+vendor_id: laravel
+name: Laravel Framework
+type: library
+tags:
+- framework
+icon: logos:laravel
+aliases:
+- source: cisa_kev
+  value: Laravel Framework
+  confidence: auto

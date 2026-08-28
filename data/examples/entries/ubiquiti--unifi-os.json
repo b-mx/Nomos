@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "ubiquiti--unifi-os",
+  "vendor_id": "ubiquiti",
+  "product_id": "unifi-os",
+  "name": "UniFi OS",
+  "type": "software",
+  "tags": [],
+  "icon": "simple-icons:ubiquiti",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "UniFi OS",
+      "confidence": "auto"
+    }
+  ]
+}

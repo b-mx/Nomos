@@ -1,0 +1,20 @@
+{
+  "canonical_type": "product",
+  "slug": "edimax--ic-7100-ip-camera",
+  "vendor_id": "edimax",
+  "product_id": "ic-7100-ip-camera",
+  "name": "IC-7100 IP Camera",
+  "type": "hardware",
+  "tags": [
+    "network-device"
+  ],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "IC-7100 IP Camera",
+      "confidence": "auto"
+    }
+  ]
+}

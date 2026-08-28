@@ -1,7 +1,0 @@
-id: docker
-name: Docker
-icon: logos:docker-icon
-aliases:
-  - source: nvd_cpe
-    value: docker
-    confidence: curated

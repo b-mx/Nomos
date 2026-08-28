@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "zabbix--frontend",
+  "vendor_id": "zabbix",
+  "product_id": "frontend",
+  "name": "Frontend",
+  "type": "software",
+  "tags": [],
+  "icon": "logos:zabbix",
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Frontend",
+      "confidence": "auto"
+    }
+  ]
+}

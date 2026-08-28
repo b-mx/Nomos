@@ -1,0 +1,13 @@
+id: solaris
+vendor_id: oracle
+name: Solaris
+type: os
+tags: []
+icon: logos:oracle
+aliases:
+- source: cisa_kev
+  value: Solaris
+  confidence: auto
+- source: cisa_kev
+  value: Solaris and Zettabyte File System (ZFS)
+  confidence: auto

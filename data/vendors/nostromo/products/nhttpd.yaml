@@ -1,0 +1,10 @@
+id: nhttpd
+vendor_id: nostromo
+name: nhttpd
+type: software
+tags:
+- webserver
+aliases:
+- source: cisa_kev
+  value: nhttpd
+  confidence: auto

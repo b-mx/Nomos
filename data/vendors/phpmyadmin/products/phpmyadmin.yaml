@@ -1,0 +1,10 @@
+id: phpmyadmin
+vendor_id: phpmyadmin
+name: phpMyAdmin
+type: software
+tags: []
+icon: simple-icons:phpmyadmin
+aliases:
+- source: cisa_kev
+  value: phpMyAdmin
+  confidence: auto

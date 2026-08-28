@@ -1,0 +1,10 @@
+id: extensible-operating-system
+vendor_id: arista
+name: Extensible Operating System
+type: os
+tags:
+- operating-system
+aliases:
+- source: cisa_kev
+  value: Extensible Operating System
+  confidence: auto

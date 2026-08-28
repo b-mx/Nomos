@@ -1,0 +1,10 @@
+id: cityworks
+vendor_id: trimble
+name: Cityworks
+type: software
+tags: []
+icon: simple-icons:trimble
+aliases:
+- source: cisa_kev
+  value: Cityworks
+  confidence: auto

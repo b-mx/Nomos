@@ -1,0 +1,10 @@
+id: security-gateway
+vendor_id: check-point
+name: Security Gateway
+type: appliance
+tags:
+- network-device
+aliases:
+- source: cisa_kev
+  value: Security Gateway
+  confidence: auto
