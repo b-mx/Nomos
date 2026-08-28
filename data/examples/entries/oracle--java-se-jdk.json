@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle--java-se-jdk",
+  "vendor_id": "oracle",
+  "product_id": "java-se-jdk",
+  "name": "Java SE JDK",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Java SE JDK",
+      "confidence": "auto"
+    }
+  ]
+}

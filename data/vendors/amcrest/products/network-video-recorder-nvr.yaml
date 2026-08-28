@@ -1,0 +1,9 @@
+id: network-video-recorder-nvr
+vendor_id: amcrest
+name: Network Video Recorder (NVR)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Network Video Recorder (NVR)
+  confidence: auto

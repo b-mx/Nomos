@@ -1,0 +1,9 @@
+id: rv325-routers
+vendor_id: cisco
+name: RV325 Routers
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: RV325 Routers
+  confidence: auto

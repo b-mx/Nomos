@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "cisco--firepower-threat-defense-ftd",
+  "vendor_id": "cisco",
+  "product_id": "firepower-threat-defense-ftd",
+  "name": "Firepower Threat Defense (FTD)",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Firepower Threat Defense (FTD)",
+      "confidence": "auto"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+id: fortiadc
+vendor_id: fortinet
+name: FortiADC
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: FortiADC
+  confidence: auto

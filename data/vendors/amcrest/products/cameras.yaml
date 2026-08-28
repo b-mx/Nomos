@@ -1,0 +1,9 @@
+id: cameras
+vendor_id: amcrest
+name: Cameras
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Cameras
+  confidence: auto

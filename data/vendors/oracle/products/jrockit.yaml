@@ -1,0 +1,9 @@
+id: jrockit
+vendor_id: oracle
+name: JRockit
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: JRockit
+  confidence: auto

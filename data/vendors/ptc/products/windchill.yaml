@@ -1,0 +1,9 @@
+id: windchill
+vendor_id: ptc
+name: Windchill
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Windchill
+  confidence: auto

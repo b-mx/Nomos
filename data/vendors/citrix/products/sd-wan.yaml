@@ -1,0 +1,9 @@
+id: sd-wan
+vendor_id: citrix
+name: SD-WAN
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SD-WAN
+  confidence: auto

@@ -1,0 +1,9 @@
+id: netscaler-gateway
+vendor_id: citrix
+name: NetScaler Gateway
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: NetScaler Gateway
+  confidence: auto

@@ -1,0 +1,9 @@
+id: replication
+vendor_id: nakivo
+name: Replication
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Replication
+  confidence: auto

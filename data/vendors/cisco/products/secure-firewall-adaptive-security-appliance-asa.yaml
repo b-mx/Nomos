@@ -1,0 +1,9 @@
+id: secure-firewall-adaptive-security-appliance-asa
+vendor_id: cisco
+name: Secure Firewall Adaptive Security Appliance (ASA)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Secure Firewall Adaptive Security Appliance (ASA)
+  confidence: auto

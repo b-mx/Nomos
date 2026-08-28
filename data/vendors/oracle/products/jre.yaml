@@ -1,0 +1,9 @@
+id: jre
+vendor_id: oracle
+name: JRE
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: JRE
+  confidence: auto

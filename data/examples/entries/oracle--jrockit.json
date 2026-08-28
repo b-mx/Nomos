@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle--jrockit",
+  "vendor_id": "oracle",
+  "product_id": "jrockit",
+  "name": "JRockit",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "JRockit",
+      "confidence": "auto"
+    }
+  ]
+}

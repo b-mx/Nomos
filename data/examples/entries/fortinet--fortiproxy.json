@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fortinet--fortiproxy",
+  "vendor_id": "fortinet",
+  "product_id": "fortiproxy",
+  "name": "FortiProxy",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "FortiProxy",
+      "confidence": "auto"
+    }
+  ]
+}

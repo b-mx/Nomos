@@ -1,0 +1,9 @@
+id: xtm-appliances
+vendor_id: watchguard
+name: XTM Appliances
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: XTM Appliances
+  confidence: auto

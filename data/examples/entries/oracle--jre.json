@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle--jre",
+  "vendor_id": "oracle",
+  "product_id": "jre",
+  "name": "JRE",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "JRE",
+      "confidence": "auto"
+    }
+  ]
+}

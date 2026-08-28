@@ -1,0 +1,9 @@
+id: catalyst-sd-wan-controller
+vendor_id: cisco
+name: Catalyst SD-WAN Controller
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Catalyst SD-WAN Controller
+  confidence: auto

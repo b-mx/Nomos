@@ -1,0 +1,9 @@
+id: java-se-jdk
+vendor_id: oracle
+name: Java SE JDK
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Java SE JDK
+  confidence: auto

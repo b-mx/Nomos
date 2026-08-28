@@ -1,0 +1,9 @@
+id: xtm
+vendor_id: watchguard
+name: XTM
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: XTM
+  confidence: auto

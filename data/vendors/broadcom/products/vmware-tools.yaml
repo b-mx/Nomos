@@ -1,0 +1,9 @@
+id: vmware-tools
+vendor_id: broadcom
+name: VMware Tools
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: VMware Tools
+  confidence: auto

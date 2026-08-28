@@ -1,0 +1,9 @@
+id: mongodb
+vendor_id: mongodb
+name: MongoDB
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: MongoDB
+  confidence: auto

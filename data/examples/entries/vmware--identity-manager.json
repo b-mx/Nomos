@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--identity-manager",
+  "vendor_id": "vmware",
+  "product_id": "identity-manager",
+  "name": "Identity Manager",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Identity Manager",
+      "confidence": "auto"
+    }
+  ]
+}

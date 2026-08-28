@@ -1,0 +1,9 @@
+id: identity-manager
+vendor_id: vmware
+name: Identity Manager
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Identity Manager
+  confidence: auto

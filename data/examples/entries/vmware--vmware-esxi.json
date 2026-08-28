@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--vmware-esxi",
+  "vendor_id": "vmware",
+  "product_id": "vmware-esxi",
+  "name": "VMware ESXi",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "VMware ESXi",
+      "confidence": "auto"
+    }
+  ]
+}

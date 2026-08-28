@@ -1,0 +1,9 @@
+id: vmware-esxi
+vendor_id: vmware
+name: VMware ESXi
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: VMware ESXi
+  confidence: auto

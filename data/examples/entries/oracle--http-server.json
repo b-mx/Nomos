@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle--http-server",
+  "vendor_id": "oracle",
+  "product_id": "http-server",
+  "name": "HTTP Server",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "HTTP Server",
+      "confidence": "auto"
+    }
+  ]
+}

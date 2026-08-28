@@ -1,0 +1,9 @@
+id: hmi
+vendor_id: unitronics
+name: HMI
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: HMI
+  confidence: auto

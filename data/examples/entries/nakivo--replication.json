@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nakivo--replication",
+  "vendor_id": "nakivo",
+  "product_id": "replication",
+  "name": "Replication",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Replication",
+      "confidence": "auto"
+    }
+  ]
+}
