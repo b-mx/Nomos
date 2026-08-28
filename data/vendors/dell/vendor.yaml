@@ -1,6 +1,7 @@
 id: dell
 name: Dell
 aliases:
-  - source: nvd
-    value: dell
-    confidence: curated
+- source: nvd
+  value: dell
+  confidence: curated
+icon: selfhst:dell
