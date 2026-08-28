@@ -89,28 +89,40 @@ def validate_ids_and_paths(
 def validate_alias_uniqueness(
     vendors: list[VendorEntry], products: list[ProductEntry]
 ) -> list[str]:
+    """Vendor aliases must be globally unique (a vendor alias value has to
+    unambiguously identify one vendor). Product aliases are only unique
+    *within their vendor* — CPE's own uniqueness guarantee is the
+    (vendor, product) pair, not the product name alone, so the same
+    product-name fragment (e.g. "chat", "server") legitimately recurs
+    across different, unrelated real vendors at NVD's full scale."""
     errors: list[str] = []
-    seen: dict[tuple[str, str, str], Path] = {}
+    seen_vendor: dict[tuple[str, str], Path] = {}
     for vendor_entry in vendors:
         for alias in vendor_entry.data.get("aliases", []):
-            key = ("vendor", alias.get("source", ""), alias.get("value", ""))
-            if key in seen:
+            vendor_key = (alias.get("source", ""), alias.get("value", ""))
+            if vendor_key in seen_vendor:
                 errors.append(
-                    f"Duplicate alias {key} claimed by both "
-                    f"{_rel(seen[key])} and {_rel(vendor_entry.path)}"
+                    f"Duplicate vendor alias {vendor_key} claimed by both "
+                    f"{_rel(seen_vendor[vendor_key])} and {_rel(vendor_entry.path)}"
                 )
             else:
-                seen[key] = vendor_entry.path
+                seen_vendor[vendor_key] = vendor_entry.path
+
+    seen_product: dict[tuple[str, str, str], Path] = {}
     for product_entry in products:
         for alias in product_entry.data.get("aliases", []):
-            key = ("product", alias.get("source", ""), alias.get("value", ""))
-            if key in seen:
+            product_key = (
+                product_entry.vendor_id,
+                alias.get("source", ""),
+                alias.get("value", ""),
+            )
+            if product_key in seen_product:
                 errors.append(
-                    f"Duplicate alias {key} claimed by both "
-                    f"{_rel(seen[key])} and {_rel(product_entry.path)}"
+                    f"Duplicate product alias {product_key} claimed by both "
+                    f"{_rel(seen_product[product_key])} and {_rel(product_entry.path)}"
                 )
             else:
-                seen[key] = product_entry.path
+                seen_product[product_key] = product_entry.path
     return errors
 
 
