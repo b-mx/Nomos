@@ -29,6 +29,14 @@ select = ["E", "F", "I", "UP", "B"]
 strict = true
 python_version = "3.12"
 
+[tool.pytest.ini_options]
+# .claude/worktrees/** holds full nested checkouts of this repo (used for
+# isolated agent work) — without this, a bare `pytest` run from the repo
+# root also recurses into them and re-collects the same tmp/scripts/ test
+# files a second time via their tmp/ -> ../../../tmp symlink back to this
+# checkout, which can crash collection depending on invocation cwd.
+norecursedirs = [".claude", ".git", ".venv"]
+
 [tool.hatch.build.targets.wheel]
 packages = ["tools"]
 
