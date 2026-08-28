@@ -8,13 +8,13 @@
   "tags": [
     "hardware-appliance"
   ],
-  "icon": null,
+  "icon": "selfhst:dell",
   "services": [],
   "aliases": [
     {
       "source": "nvd",
       "value": "poweredge_r740_firmware",
-      "confidence": "auto"
+      "confidence": "curated"
     }
   ]
 }
