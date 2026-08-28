@@ -5,16 +5,14 @@
   "product_id": "jd378a",
   "name": "Jd378A",
   "type": "hardware",
-  "tags": [
-    "hardware-appliance"
-  ],
-  "icon": "selfhst:dell",
+  "tags": [],
+  "icon": null,
   "services": [],
   "aliases": [
     {
       "source": "nvd",
-      "value": "poweredge_r740_firmware",
-      "confidence": "curated"
+      "value": "jd378a",
+      "confidence": "auto"
     }
   ]
 }
