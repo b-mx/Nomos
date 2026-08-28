@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "watchguard--xtm-appliances",
+  "vendor_id": "watchguard",
+  "product_id": "xtm-appliances",
+  "name": "XTM Appliances",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "XTM Appliances",
+      "confidence": "auto"
+    }
+  ]
+}

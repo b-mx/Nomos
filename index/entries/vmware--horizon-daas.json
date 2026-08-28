@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "vmware--horizon-daas",
+  "vendor_id": "vmware",
+  "product_id": "horizon-daas",
+  "name": "Horizon DaaS",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Horizon DaaS",
+      "confidence": "auto"
+    }
+  ]
+}

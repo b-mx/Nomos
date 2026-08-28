@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "fortinet--fortiproxy-ssl-vpn",
+  "vendor_id": "fortinet",
+  "product_id": "fortiproxy-ssl-vpn",
+  "name": "FortiProxy SSL-VPN",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "FortiProxy SSL-VPN",
+      "confidence": "auto"
+    }
+  ]
+}

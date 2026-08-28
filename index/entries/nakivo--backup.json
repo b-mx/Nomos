@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "nakivo--backup",
+  "vendor_id": "nakivo",
+  "product_id": "backup",
+  "name": "Backup",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Backup",
+      "confidence": "auto"
+    }
+  ]
+}

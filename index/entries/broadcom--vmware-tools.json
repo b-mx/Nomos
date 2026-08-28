@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "broadcom--vmware-tools",
+  "vendor_id": "broadcom",
+  "product_id": "vmware-tools",
+  "name": "VMware Tools",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "VMware Tools",
+      "confidence": "auto"
+    }
+  ]
+}

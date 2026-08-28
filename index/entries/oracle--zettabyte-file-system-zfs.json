@@ -1,0 +1,18 @@
+{
+  "canonical_type": "product",
+  "slug": "oracle--zettabyte-file-system-zfs",
+  "vendor_id": "oracle",
+  "product_id": "zettabyte-file-system-zfs",
+  "name": "Zettabyte File System (ZFS)",
+  "type": "software",
+  "tags": [],
+  "icon": null,
+  "services": [],
+  "aliases": [
+    {
+      "source": "cisa_kev",
+      "value": "Zettabyte File System (ZFS)",
+      "confidence": "auto"
+    }
+  ]
+}
