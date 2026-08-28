@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T02:34:58Z",
+  "generated_at": "2026-08-28T02:38:38Z",
   "entries": [
     {
       "canonical_type": "vendor",
@@ -763,7 +763,7 @@
       "slug": "dell",
       "vendor_id": "dell",
       "name": "Dell",
-      "icon": null,
+      "icon": "selfhst:dell",
       "aliases": [
         {
           "source": "nvd",
@@ -6679,13 +6679,13 @@
       "tags": [
         "hardware-appliance"
       ],
-      "icon": null,
+      "icon": "selfhst:dell",
       "services": [],
       "aliases": [
         {
           "source": "nvd",
           "value": "poweredge_r740_firmware",
-          "confidence": "auto"
+          "confidence": "curated"
         }
       ]
     },
