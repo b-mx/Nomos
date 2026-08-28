@@ -1,0 +1,10 @@
+id: iboot-pdu4sa-n20-firmware
+vendor_id: dataprobe
+name: Iboot-Pdu4Sa-N20 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dataprobe:iboot\-pdu4sa\-n20_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iboot-pdu4sa-n20_firmware
+  confidence: auto

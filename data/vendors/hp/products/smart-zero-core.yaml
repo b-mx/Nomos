@@ -1,0 +1,10 @@
+id: smart-zero-core
+vendor_id: hp
+name: Smart Zero Core
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:smart_zero_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_zero_core
+  confidence: auto

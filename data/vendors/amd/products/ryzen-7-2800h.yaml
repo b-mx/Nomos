@@ -1,0 +1,10 @@
+id: ryzen-7-2800h
+vendor_id: amd
+name: Ryzen 7 2800H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_2800h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_2800h
+  confidence: auto

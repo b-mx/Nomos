@@ -1,0 +1,10 @@
+id: database-cleaner
+vendor_id: meowapps
+name: Database Cleaner
+type: software
+tags: []
+cpe: cpe:2.3:a:meowapps:database_cleaner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: database_cleaner
+  confidence: auto

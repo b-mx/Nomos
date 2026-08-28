@@ -1,0 +1,10 @@
+id: deltav-workstation
+vendor_id: emerson
+name: Deltav Workstation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:deltav_workstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deltav_workstation
+  confidence: auto

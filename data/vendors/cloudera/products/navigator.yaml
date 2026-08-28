@@ -1,0 +1,10 @@
+id: navigator
+vendor_id: cloudera
+name: Navigator
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudera:navigator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: navigator
+  confidence: auto

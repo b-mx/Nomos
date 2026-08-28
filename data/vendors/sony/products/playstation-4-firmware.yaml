@@ -1,0 +1,10 @@
+id: playstation-4-firmware
+vendor_id: sony
+name: Playstation 4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:playstation_4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: playstation_4_firmware
+  confidence: auto

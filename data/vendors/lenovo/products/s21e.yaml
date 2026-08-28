@@ -1,0 +1,10 @@
+id: s21e
+vendor_id: lenovo
+name: S21E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s21e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s21e
+  confidence: auto

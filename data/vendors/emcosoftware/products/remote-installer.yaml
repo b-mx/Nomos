@@ -1,0 +1,10 @@
+id: remote-installer
+vendor_id: emcosoftware
+name: Remote Installer
+type: software
+tags: []
+cpe: cpe:2.3:a:emcosoftware:remote_installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_installer
+  confidence: auto

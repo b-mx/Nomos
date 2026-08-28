@@ -1,0 +1,10 @@
+id: ambit-u10c019-firmware
+vendor_id: ubeeinteractive
+name: Ambit U10C019 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ubeeinteractive:ambit_u10c019_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ambit_u10c019_firmware
+  confidence: auto

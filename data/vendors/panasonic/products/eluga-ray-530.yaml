@@ -1,0 +1,10 @@
+id: eluga-ray-530
+vendor_id: panasonic
+name: Eluga Ray 530
+type: hardware
+tags: []
+cpe: cpe:2.3:h:panasonic:eluga_ray_530:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eluga_ray_530
+  confidence: auto

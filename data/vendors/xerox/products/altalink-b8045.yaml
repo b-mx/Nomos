@@ -1,0 +1,10 @@
+id: altalink-b8045
+vendor_id: xerox
+name: Altalink B8045
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:altalink_b8045:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: altalink_b8045
+  confidence: auto

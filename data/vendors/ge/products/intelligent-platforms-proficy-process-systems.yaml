@@ -1,0 +1,10 @@
+id: intelligent-platforms-proficy-process-systems
+vendor_id: ge
+name: Intelligent Platforms Proficy Process Systems
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:intelligent_platforms_proficy_process_systems:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_platforms_proficy_process_systems
+  confidence: auto

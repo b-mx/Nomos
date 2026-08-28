@@ -1,0 +1,10 @@
+id: connect-m6e-5g
+vendor_id: acer
+name: Connect M6E 5G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:connect_m6e_5g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect_m6e_5g
+  confidence: auto

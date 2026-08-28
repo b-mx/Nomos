@@ -1,0 +1,10 @@
+id: deebot-x5-pro-ultra
+vendor_id: ecovacs
+name: Deebot X5 Pro Ultra
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_x5_pro_ultra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_x5_pro_ultra
+  confidence: auto

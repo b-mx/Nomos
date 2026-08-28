@@ -1,0 +1,10 @@
+id: update-manager
+vendor_id: canonical
+name: Update-Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:update\-manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: update-manager
+  confidence: auto

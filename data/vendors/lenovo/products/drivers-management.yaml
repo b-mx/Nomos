@@ -1,0 +1,10 @@
+id: drivers-management
+vendor_id: lenovo
+name: Drivers Management
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:drivers_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: drivers_management
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ghactivity
+vendor_id: automattic
+name: Ghactivity
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:ghactivity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ghactivity
+  confidence: auto

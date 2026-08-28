@@ -1,0 +1,10 @@
+id: rad-80211-xd-hp-bus-firmware
+vendor_id: phoenixcontact
+name: Rad-80211-Xd/Hp-Bus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:rad\-80211\-xd\/hp\-bus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rad-80211-xd/hp-bus_firmware
+  confidence: auto

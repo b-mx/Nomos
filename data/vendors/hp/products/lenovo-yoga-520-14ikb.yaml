@@ -1,0 +1,10 @@
+id: lenovo-yoga-520-14ikb
+vendor_id: hp
+name: Lenovo Yoga 520-14Ikb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:lenovo_yoga_520\-14ikb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_yoga_520-14ikb
+  confidence: auto

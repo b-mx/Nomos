@@ -1,0 +1,10 @@
+id: cx-8325
+vendor_id: arubanetworks
+name: Cx 8325
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:cx_8325:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx_8325
+  confidence: auto

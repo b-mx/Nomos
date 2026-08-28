@@ -1,0 +1,10 @@
+id: 245-g8
+vendor_id: hp
+name: 245 G8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:245_g8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 245_g8
+  confidence: auto

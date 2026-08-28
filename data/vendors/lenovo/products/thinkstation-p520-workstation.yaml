@@ -1,0 +1,10 @@
+id: thinkstation-p520-workstation
+vendor_id: lenovo
+name: Thinkstation P520 Workstation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkstation_p520_workstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkstation_p520_workstation
+  confidence: auto

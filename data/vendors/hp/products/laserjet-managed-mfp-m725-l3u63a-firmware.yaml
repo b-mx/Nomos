@@ -1,0 +1,10 @@
+id: laserjet-managed-mfp-m725-l3u63a-firmware
+vendor_id: hp
+name: Laserjet Managed Mfp M725 L3U63A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_mfp_m725_l3u63a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_mfp_m725_l3u63a_firmware
+  confidence: auto

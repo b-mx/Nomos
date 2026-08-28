@@ -1,0 +1,10 @@
+id: proliant-ml30-gen10
+vendor_id: hp
+name: Proliant Ml30 Gen10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_ml30_gen10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_ml30_gen10
+  confidence: auto

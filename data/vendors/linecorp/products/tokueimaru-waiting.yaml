@@ -1,0 +1,10 @@
+id: tokueimaru-waiting
+vendor_id: linecorp
+name: Tokueimaru Waiting
+type: software
+tags: []
+cpe: cpe:2.3:a:linecorp:tokueimaru_waiting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tokueimaru_waiting
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tecal-ch222
+vendor_id: huawei
+name: Tecal Ch222
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tecal_ch222:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_ch222
+  confidence: auto

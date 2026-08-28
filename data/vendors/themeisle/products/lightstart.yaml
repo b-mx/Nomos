@@ -1,0 +1,10 @@
+id: lightstart
+vendor_id: themeisle
+name: Lightstart
+type: software
+tags: []
+cpe: cpe:2.3:a:themeisle:lightstart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lightstart
+  confidence: auto

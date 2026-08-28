@@ -1,0 +1,10 @@
+id: ryzen-5-pro-7540u
+vendor_id: amd
+name: Ryzen 5 Pro 7540U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_pro_7540u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_pro_7540u
+  confidence: auto

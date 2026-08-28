@@ -1,0 +1,10 @@
+id: rio
+vendor_id: huawei
+name: Rio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rio
+  confidence: auto

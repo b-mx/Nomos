@@ -1,0 +1,10 @@
+id: zend-cache
+vendor_id: zend
+name: Zend-Cache
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zend\-cache:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zend-cache
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fox515t
+vendor_id: hitachienergy
+name: Fox515T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:fox515t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fox515t
+  confidence: auto

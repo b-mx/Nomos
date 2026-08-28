@@ -1,0 +1,10 @@
+id: l3-15itl6-firmware
+vendor_id: lenovo
+name: L3-15Itl6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:l3\-15itl6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l3-15itl6_firmware
+  confidence: auto

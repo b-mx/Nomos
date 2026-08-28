@@ -1,0 +1,10 @@
+id: crock-pot-smart-slow-cooker-with-wemo-firmware
+vendor_id: belkin
+name: Crock-Pot Smart Slow Cooker With Wemo Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:crock\-pot_smart_slow_cooker_with_wemo_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crock-pot_smart_slow_cooker_with_wemo_firmware
+  confidence: auto

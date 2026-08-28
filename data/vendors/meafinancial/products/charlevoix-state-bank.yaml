@@ -1,0 +1,10 @@
+id: charlevoix-state-bank
+vendor_id: meafinancial
+name: Charlevoix State Bank
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:charlevoix_state_bank:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: charlevoix_state_bank
+  confidence: auto

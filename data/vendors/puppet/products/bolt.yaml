@@ -1,0 +1,10 @@
+id: bolt
+vendor_id: puppet
+name: Bolt
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:bolt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bolt
+  confidence: auto

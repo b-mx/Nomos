@@ -1,0 +1,10 @@
+id: go-note-widget
+vendor_id: goforandroid
+name: Go Note Widget
+type: software
+tags: []
+cpe: cpe:2.3:a:goforandroid:go_note_widget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_note_widget
+  confidence: auto

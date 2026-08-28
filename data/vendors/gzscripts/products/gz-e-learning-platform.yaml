@@ -1,0 +1,10 @@
+id: gz-e-learning-platform
+vendor_id: gzscripts
+name: Gz E Learning Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:gz_e_learning_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gz_e_learning_platform
+  confidence: auto

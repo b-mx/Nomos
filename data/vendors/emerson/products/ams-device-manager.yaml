@@ -1,0 +1,10 @@
+id: ams-device-manager
+vendor_id: emerson
+name: Ams Device Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:ams_device_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ams_device_manager
+  confidence: auto

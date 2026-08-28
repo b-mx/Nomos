@@ -1,0 +1,10 @@
+id: zlib
+vendor_id: cloudflare
+name: Zlib
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:zlib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zlib
+  confidence: auto

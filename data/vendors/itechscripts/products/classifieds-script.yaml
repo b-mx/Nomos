@@ -1,0 +1,10 @@
+id: classifieds-script
+vendor_id: itechscripts
+name: Classifieds Script
+type: software
+tags: []
+cpe: cpe:2.3:a:itechscripts:classifieds_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: classifieds_script
+  confidence: auto

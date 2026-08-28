@@ -1,0 +1,10 @@
+id: proliant-bl460c-gen9-server-blade-firmware
+vendor_id: hpe
+name: Proliant Bl460C Gen9 Server Blade Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:proliant_bl460c_gen9_server_blade_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_bl460c_gen9_server_blade_firmware
+  confidence: auto

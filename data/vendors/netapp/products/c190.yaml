@@ -1,0 +1,10 @@
+id: c190
+vendor_id: netapp
+name: C190
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:c190:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c190
+  confidence: auto

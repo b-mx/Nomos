@@ -1,0 +1,10 @@
+id: tbox-rm2
+vendor_id: ovarro
+name: Tbox Rm2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ovarro:tbox_rm2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tbox_rm2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wnpr2600g-firmware
+vendor_id: iodata
+name: Wnpr2600G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:wnpr2600g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wnpr2600g_firmware
+  confidence: auto

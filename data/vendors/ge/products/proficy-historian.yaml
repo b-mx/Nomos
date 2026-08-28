@@ -1,0 +1,10 @@
+id: proficy-historian
+vendor_id: ge
+name: Proficy Historian
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:proficy_historian:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proficy_historian
+  confidence: auto

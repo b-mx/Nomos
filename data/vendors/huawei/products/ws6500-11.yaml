@@ -1,0 +1,10 @@
+id: ws6500-11
+vendor_id: huawei
+name: Ws6500-11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ws6500\-11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws6500-11
+  confidence: auto

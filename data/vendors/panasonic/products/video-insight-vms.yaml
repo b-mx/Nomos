@@ -1,0 +1,10 @@
+id: video-insight-vms
+vendor_id: panasonic
+name: Video Insight Vms
+type: software
+tags: []
+cpe: cpe:2.3:a:panasonic:video_insight_vms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_insight_vms
+  confidence: auto

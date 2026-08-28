@@ -1,0 +1,10 @@
+id: x11sca-f-firmware
+vendor_id: supermicro
+name: X11Sca-F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11sca\-f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sca-f_firmware
+  confidence: auto

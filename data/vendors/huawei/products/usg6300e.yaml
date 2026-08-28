@@ -1,0 +1,10 @@
+id: usg6300e
+vendor_id: huawei
+name: Usg6300E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:usg6300e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usg6300e
+  confidence: auto

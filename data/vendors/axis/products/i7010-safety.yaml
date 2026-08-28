@@ -1,0 +1,10 @@
+id: i7010-safety
+vendor_id: axis
+name: I7010-Safety
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:i7010\-safety:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i7010-safety
+  confidence: auto

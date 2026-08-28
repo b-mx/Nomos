@@ -1,0 +1,10 @@
+id: passport-firmware
+vendor_id: digi
+name: Passport Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:passport_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: passport_firmware
+  confidence: auto

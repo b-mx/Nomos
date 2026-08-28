@@ -1,0 +1,14 @@
+id: nodejs
+vendor_id: nodejs
+name: Node.js
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:nodejs:node\.js:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: nodejs
+  confidence: auto
+- source: nvd
+  value: node.js
+  confidence: auto

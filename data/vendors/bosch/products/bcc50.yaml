@@ -1,0 +1,10 @@
+id: bcc50
+vendor_id: bosch
+name: Bcc50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:bcc50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcc50
+  confidence: auto

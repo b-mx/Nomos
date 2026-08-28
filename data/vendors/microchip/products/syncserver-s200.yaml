@@ -1,0 +1,10 @@
+id: syncserver-s200
+vendor_id: microchip
+name: Syncserver S200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:syncserver_s200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: syncserver_s200
+  confidence: auto

@@ -1,9 +1,8 @@
 id: macos
 vendor_id: apple
 name: macOS
-type: os
+type: software
 tags: []
-icon: logos:apple
 aliases:
 - source: cisa_kev
   value: macOS

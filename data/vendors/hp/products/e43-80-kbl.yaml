@@ -1,0 +1,10 @@
+id: e43-80-kbl
+vendor_id: hp
+name: E43-80 Kbl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:e43\-80_kbl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e43-80_kbl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: s550-14iil-firmware
+vendor_id: lenovo
+name: S550-14Iil Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s550\-14iil_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s550-14iil_firmware
+  confidence: auto

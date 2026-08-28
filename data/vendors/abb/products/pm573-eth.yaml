@@ -1,0 +1,10 @@
+id: pm573-eth
+vendor_id: abb
+name: Pm573-Eth
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm573\-eth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm573-eth
+  confidence: auto

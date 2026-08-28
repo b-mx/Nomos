@@ -1,0 +1,10 @@
+id: s530-13iwl
+vendor_id: lenovo
+name: S530-13Iwl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s530\-13iwl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s530-13iwl
+  confidence: auto

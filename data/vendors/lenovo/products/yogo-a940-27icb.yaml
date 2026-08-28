@@ -1,0 +1,10 @@
+id: yogo-a940-27icb
+vendor_id: lenovo
+name: Yogo A940-27Icb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yogo_a940\-27icb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yogo_a940-27icb
+  confidence: auto

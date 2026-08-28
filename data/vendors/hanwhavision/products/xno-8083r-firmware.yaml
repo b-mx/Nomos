@@ -1,0 +1,10 @@
+id: xno-8083r-firmware
+vendor_id: hanwhavision
+name: Xno-8083R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:xno\-8083r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xno-8083r_firmware
+  confidence: auto

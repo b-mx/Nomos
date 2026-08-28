@@ -1,0 +1,10 @@
+id: mfc-j5845dw-xl-firmware
+vendor_id: brother
+name: Mfc-J5845Dw Xl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-j5845dw_xl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-j5845dw_xl_firmware
+  confidence: auto

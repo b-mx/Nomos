@@ -1,0 +1,10 @@
+id: go-email-widget
+vendor_id: goforandroid
+name: Go Email Widget
+type: software
+tags: []
+cpe: cpe:2.3:a:goforandroid:go_email_widget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_email_widget
+  confidence: auto

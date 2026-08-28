@@ -1,0 +1,10 @@
+id: max-hd4-firmware
+vendor_id: peplink
+name: Max Hd4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:max_hd4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_hd4_firmware
+  confidence: auto

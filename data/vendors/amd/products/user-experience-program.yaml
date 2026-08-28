@@ -1,0 +1,10 @@
+id: user-experience-program
+vendor_id: amd
+name: User Experience Program
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:user_experience_program:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: user_experience_program
+  confidence: auto

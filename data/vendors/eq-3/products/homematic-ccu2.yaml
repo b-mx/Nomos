@@ -1,0 +1,10 @@
+id: homematic-ccu2
+vendor_id: eq-3
+name: Homematic Ccu2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:eq\-3:homematic_ccu2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: homematic_ccu2
+  confidence: auto

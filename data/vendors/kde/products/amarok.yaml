@@ -1,0 +1,10 @@
+id: amarok
+vendor_id: kde
+name: Amarok
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:amarok:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amarok
+  confidence: auto

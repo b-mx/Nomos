@@ -1,0 +1,10 @@
+id: wrd12en
+vendor_id: iball
+name: Wrd12En
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iball:wrd12en:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrd12en
+  confidence: auto

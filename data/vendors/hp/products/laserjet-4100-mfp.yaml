@@ -1,0 +1,10 @@
+id: laserjet-4100-mfp
+vendor_id: hp
+name: Laserjet 4100 Mfp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_4100_mfp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_4100_mfp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: active-backup-for-microsoft-365
+vendor_id: synology
+name: Active Backup For Microsoft 365
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:active_backup_for_microsoft_365:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_backup_for_microsoft_365
+  confidence: auto

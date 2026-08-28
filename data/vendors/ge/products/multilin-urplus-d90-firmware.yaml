@@ -1,0 +1,10 @@
+id: multilin-urplus-d90-firmware
+vendor_id: ge
+name: Multilin Urplus D90 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:multilin_urplus_d90_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_urplus_d90_firmware
+  confidence: auto

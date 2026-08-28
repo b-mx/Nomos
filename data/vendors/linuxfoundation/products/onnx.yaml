@@ -1,0 +1,10 @@
+id: onnx
+vendor_id: linuxfoundation
+name: Onnx
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:onnx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: onnx
+  confidence: auto

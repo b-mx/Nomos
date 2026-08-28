@@ -1,0 +1,10 @@
+id: power-generation-information-manager
+vendor_id: abb
+name: Power Generation Information Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:power_generation_information_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: power_generation_information_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-m4555fskm
+vendor_id: hp
+name: Laserjet M4555Fskm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m4555fskm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m4555fskm
+  confidence: auto

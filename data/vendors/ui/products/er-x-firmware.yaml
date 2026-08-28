@@ -1,0 +1,10 @@
+id: er-x-firmware
+vendor_id: ui
+name: Er-X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:er\-x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er-x_firmware
+  confidence: auto

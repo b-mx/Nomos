@@ -1,0 +1,10 @@
+id: atok-pro-4
+vendor_id: justsystems
+name: Atok Pro 4
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:atok_pro_4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atok_pro_4
+  confidence: auto

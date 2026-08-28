@@ -1,0 +1,10 @@
+id: jupyterlab
+vendor_id: jupyter
+name: Jupyterlab
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:jupyterlab:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jupyterlab
+  confidence: auto

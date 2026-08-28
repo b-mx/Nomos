@@ -1,0 +1,6 @@
+id: ghc
+name: Glasgow Haskell Compiler (GHC)
+aliases:
+- source: endoflife
+  value: ghc
+  confidence: auto

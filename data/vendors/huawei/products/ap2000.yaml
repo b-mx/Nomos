@@ -1,0 +1,10 @@
+id: ap2000
+vendor_id: huawei
+name: Ap2000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ap2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap2000
+  confidence: auto

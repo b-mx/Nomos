@@ -1,0 +1,10 @@
+id: ztemarket-apk
+vendor_id: zte
+name: Ztemarket Apk
+type: software
+tags: []
+cpe: cpe:2.3:a:zte:ztemarket_apk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ztemarket_apk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: te40
+vendor_id: huawei
+name: Te40
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:te40:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: te40
+  confidence: auto

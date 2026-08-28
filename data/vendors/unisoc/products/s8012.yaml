@@ -1,0 +1,10 @@
+id: s8012
+vendor_id: unisoc
+name: S8012
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8012:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8012
+  confidence: auto

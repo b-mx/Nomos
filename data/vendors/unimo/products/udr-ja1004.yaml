@@ -1,0 +1,10 @@
+id: udr-ja1004
+vendor_id: unimo
+name: Udr-Ja1004
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unimo:udr\-ja1004:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: udr-ja1004
+  confidence: auto

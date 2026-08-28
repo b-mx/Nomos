@@ -1,0 +1,10 @@
+id: ac6005
+vendor_id: huawei
+name: Ac6005
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ac6005:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac6005
+  confidence: auto

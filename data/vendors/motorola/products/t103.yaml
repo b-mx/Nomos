@@ -1,0 +1,10 @@
+id: t103
+vendor_id: motorola
+name: T103
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:t103:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t103
+  confidence: auto

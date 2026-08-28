@@ -1,0 +1,10 @@
+id: camptix-event-ticketing
+vendor_id: automattic
+name: Camptix Event Ticketing
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:camptix_event_ticketing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: camptix_event_ticketing
+  confidence: auto

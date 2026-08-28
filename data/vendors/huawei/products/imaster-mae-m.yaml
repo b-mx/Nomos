@@ -1,0 +1,10 @@
+id: imaster-mae-m
+vendor_id: huawei
+name: Imaster Mae-M
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:imaster_mae\-m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imaster_mae-m
+  confidence: auto

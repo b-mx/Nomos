@@ -1,0 +1,10 @@
+id: basys-efx-375
+vendor_id: sloan
+name: Basys Efx-375
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:basys_efx\-375:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: basys_efx-375
+  confidence: auto

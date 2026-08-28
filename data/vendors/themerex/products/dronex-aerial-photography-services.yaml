@@ -1,0 +1,10 @@
+id: dronex-aerial-photography-services
+vendor_id: themerex
+name: Dronex-Aerial Photography Services
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:dronex\-aerial_photography_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dronex-aerial_photography_services
+  confidence: auto

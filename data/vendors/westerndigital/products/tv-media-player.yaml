@@ -1,0 +1,10 @@
+id: tv-media-player
+vendor_id: westerndigital
+name: Tv Media Player
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westerndigital:tv_media_player:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv_media_player
+  confidence: auto

@@ -1,0 +1,10 @@
+id: k7s43a
+vendor_id: hp
+name: K7S43A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k7s43a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7s43a
+  confidence: auto

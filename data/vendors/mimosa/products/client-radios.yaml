@@ -1,0 +1,10 @@
+id: client-radios
+vendor_id: mimosa
+name: Client Radios
+type: os
+tags: []
+cpe: cpe:2.3:o:mimosa:client_radios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: client_radios
+  confidence: auto

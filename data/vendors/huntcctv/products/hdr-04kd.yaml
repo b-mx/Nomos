@@ -1,0 +1,10 @@
+id: hdr-04kd
+vendor_id: huntcctv
+name: Hdr-04Kd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huntcctv:hdr\-04kd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdr-04kd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lanconfig
+vendor_id: lancom-systems
+name: Lanconfig
+type: os
+tags: []
+cpe: cpe:2.3:o:lancom\-systems:lanconfig:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lanconfig
+  confidence: auto

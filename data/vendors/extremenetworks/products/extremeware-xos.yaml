@@ -1,0 +1,10 @@
+id: extremeware-xos
+vendor_id: extremenetworks
+name: Extremeware Xos
+type: os
+tags: []
+cpe: cpe:2.3:o:extremenetworks:extremeware_xos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: extremeware_xos
+  confidence: auto

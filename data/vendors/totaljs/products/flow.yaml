@@ -1,0 +1,10 @@
+id: flow
+vendor_id: totaljs
+name: Flow
+type: software
+tags: []
+cpe: cpe:2.3:a:totaljs:flow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flow
+  confidence: auto

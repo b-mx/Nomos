@@ -1,0 +1,10 @@
+id: lenovo-tianyi-310-14ikb
+vendor_id: hp
+name: Lenovo Tianyi 310-14Ikb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:lenovo_tianyi_310\-14ikb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_tianyi_310-14ikb
+  confidence: auto

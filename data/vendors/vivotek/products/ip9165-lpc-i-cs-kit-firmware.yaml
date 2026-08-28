@@ -1,0 +1,10 @@
+id: ip9165-lpc-i-cs-kit-firmware
+vendor_id: vivotek
+name: Ip9165-Lpc(I-Cs Kit) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ip9165\-lpc\(i\-cs_kit\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip9165-lpc(i-cs_kit)_firmware
+  confidence: auto

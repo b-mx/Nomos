@@ -1,0 +1,10 @@
+id: hiera
+vendor_id: puppet
+name: Hiera
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:hiera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hiera
+  confidence: auto

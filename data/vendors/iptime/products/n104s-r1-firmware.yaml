@@ -1,0 +1,10 @@
+id: n104s-r1-firmware
+vendor_id: iptime
+name: N104S-R1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n104s\-r1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n104s-r1_firmware
+  confidence: auto

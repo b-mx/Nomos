@@ -1,0 +1,10 @@
+id: bcpkix-fips
+vendor_id: bouncycastle
+name: Bcpkix-Fips
+type: software
+tags: []
+cpe: cpe:2.3:a:bouncycastle:bcpkix\-fips:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcpkix-fips
+  confidence: auto

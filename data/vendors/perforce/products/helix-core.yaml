@@ -1,0 +1,10 @@
+id: helix-core
+vendor_id: perforce
+name: Helix Core
+type: software
+tags: []
+cpe: cpe:2.3:a:perforce:helix_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: helix_core
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ar161fw
+vendor_id: huawei
+name: Ar161Fw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar161fw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar161fw
+  confidence: auto

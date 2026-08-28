@@ -1,0 +1,10 @@
+id: evd4
+vendor_id: abb
+name: Evd4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:evd4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evd4
+  confidence: auto

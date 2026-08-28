@@ -1,0 +1,10 @@
+id: smu615
+vendor_id: abb
+name: Smu615
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:smu615:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smu615
+  confidence: auto

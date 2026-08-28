@@ -1,0 +1,10 @@
+id: imageclass-mf451dw-firmware
+vendor_id: canon
+name: Imageclass Mf451Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:imageclass_mf451dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imageclass_mf451dw_firmware
+  confidence: auto

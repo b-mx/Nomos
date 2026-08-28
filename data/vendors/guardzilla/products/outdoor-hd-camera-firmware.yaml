@@ -1,0 +1,10 @@
+id: outdoor-hd-camera-firmware
+vendor_id: guardzilla
+name: Outdoor Hd Camera Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:guardzilla:outdoor_hd_camera_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: outdoor_hd_camera_firmware
+  confidence: auto

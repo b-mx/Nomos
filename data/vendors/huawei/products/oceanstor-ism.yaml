@@ -1,0 +1,10 @@
+id: oceanstor-ism
+vendor_id: huawei
+name: Oceanstor Ism
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:oceanstor_ism:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oceanstor_ism
+  confidence: auto

@@ -1,0 +1,10 @@
+id: h640x
+vendor_id: dasannetworks
+name: H640X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dasannetworks:h640x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h640x
+  confidence: auto

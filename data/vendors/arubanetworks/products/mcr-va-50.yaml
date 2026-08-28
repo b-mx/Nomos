@@ -1,0 +1,10 @@
+id: mcr-va-50
+vendor_id: arubanetworks
+name: Mcr-Va-50
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:mcr\-va\-50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcr-va-50
+  confidence: auto

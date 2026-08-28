@@ -1,0 +1,10 @@
+id: m915rgb-wl
+vendor_id: redragon
+name: M915Rgb-Wl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redragon:m915rgb\-wl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m915rgb-wl
+  confidence: auto

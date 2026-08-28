@@ -1,0 +1,10 @@
+id: ep-s16
+vendor_id: ui
+name: Ep-S16.
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:ep\-s16\.:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep-s16.
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a91s1a
+vendor_id: hp
+name: A91S1A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:a91s1a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a91s1a
+  confidence: auto

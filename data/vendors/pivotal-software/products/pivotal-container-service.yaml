@@ -1,0 +1,10 @@
+id: pivotal-container-service
+vendor_id: pivotal-software
+name: Pivotal Container Service
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:pivotal_container_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pivotal_container_service
+  confidence: auto

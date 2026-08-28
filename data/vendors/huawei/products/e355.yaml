@@ -1,0 +1,10 @@
+id: e355
+vendor_id: huawei
+name: E355
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e355:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e355
+  confidence: auto

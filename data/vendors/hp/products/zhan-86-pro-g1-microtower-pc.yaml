@@ -1,0 +1,10 @@
+id: zhan-86-pro-g1-microtower-pc
+vendor_id: hp
+name: Zhan 86 Pro G1 Microtower Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zhan_86_pro_g1_microtower_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhan_86_pro_g1_microtower_pc
+  confidence: auto

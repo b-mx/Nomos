@@ -1,0 +1,10 @@
+id: driver-booster
+vendor_id: iobit
+name: Driver Booster
+type: software
+tags: []
+cpe: cpe:2.3:a:iobit:driver_booster:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: driver_booster
+  confidence: auto

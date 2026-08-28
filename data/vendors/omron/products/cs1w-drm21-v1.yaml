@@ -1,0 +1,10 @@
+id: cs1w-drm21-v1
+vendor_id: omron
+name: Cs1W-Drm21-V1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cs1w\-drm21\-v1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1w-drm21-v1
+  confidence: auto

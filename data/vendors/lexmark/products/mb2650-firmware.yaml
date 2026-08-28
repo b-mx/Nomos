@@ -1,0 +1,10 @@
+id: mb2650-firmware
+vendor_id: lexmark
+name: Mb2650 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:mb2650_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mb2650_firmware
+  confidence: auto

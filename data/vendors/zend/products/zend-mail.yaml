@@ -1,0 +1,10 @@
+id: zend-mail
+vendor_id: zend
+name: Zend-Mail
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zend\-mail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zend-mail
+  confidence: auto

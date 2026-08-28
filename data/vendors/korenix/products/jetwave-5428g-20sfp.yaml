@@ -1,0 +1,10 @@
+id: jetwave-5428g-20sfp
+vendor_id: korenix
+name: Jetwave 5428G-20Sfp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetwave_5428g\-20sfp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_5428g-20sfp
+  confidence: auto

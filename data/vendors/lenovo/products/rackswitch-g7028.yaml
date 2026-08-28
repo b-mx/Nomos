@@ -1,0 +1,10 @@
+id: rackswitch-g7028
+vendor_id: lenovo
+name: Rackswitch G7028
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:rackswitch_g7028:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rackswitch_g7028
+  confidence: auto

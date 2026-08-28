@@ -1,0 +1,10 @@
+id: lno-6032r-firmware
+vendor_id: hanwhavision
+name: Lno-6032R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:lno\-6032r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lno-6032r_firmware
+  confidence: auto

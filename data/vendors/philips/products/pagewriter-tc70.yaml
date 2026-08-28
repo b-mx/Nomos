@@ -1,0 +1,10 @@
+id: pagewriter-tc70
+vendor_id: philips
+name: Pagewriter Tc70
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:pagewriter_tc70:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pagewriter_tc70
+  confidence: auto

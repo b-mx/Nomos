@@ -1,0 +1,10 @@
+id: connection-utility-software
+vendor_id: logitech
+name: Connection Utility Software
+type: software
+tags: []
+cpe: cpe:2.3:a:logitech:connection_utility_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connection_utility_software
+  confidence: auto

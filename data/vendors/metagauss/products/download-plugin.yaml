@@ -1,0 +1,10 @@
+id: download-plugin
+vendor_id: metagauss
+name: Download Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:metagauss:download_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: download_plugin
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fengine-s5800-28t-s
+vendor_id: fiberhome
+name: Fengine S5800-28T-S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fiberhome:fengine_s5800\-28t\-s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fengine_s5800-28t-s
+  confidence: auto

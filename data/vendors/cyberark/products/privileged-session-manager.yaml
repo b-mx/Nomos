@@ -1,0 +1,10 @@
+id: privileged-session-manager
+vendor_id: cyberark
+name: Privileged Session Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:cyberark:privileged_session_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: privileged_session_manager
+  confidence: auto

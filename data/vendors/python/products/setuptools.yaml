@@ -1,0 +1,10 @@
+id: setuptools
+vendor_id: python
+name: Setuptools
+type: software
+tags: []
+cpe: cpe:2.3:a:python:setuptools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: setuptools
+  confidence: auto

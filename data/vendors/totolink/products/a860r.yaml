@@ -1,0 +1,10 @@
+id: a860r
+vendor_id: totolink
+name: A860R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a860r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a860r
+  confidence: auto

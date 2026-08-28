@@ -1,0 +1,10 @@
+id: remote-access-server-firmware
+vendor_id: etictelecom
+name: Remote Access Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:etictelecom:remote_access_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_access_server_firmware
+  confidence: auto

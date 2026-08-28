@@ -1,0 +1,10 @@
+id: g1
+vendor_id: unitree
+name: G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unitree:g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: textads
+vendor_id: idevspot
+name: Textads
+type: software
+tags: []
+cpe: cpe:2.3:a:idevspot:textads:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: textads
+  confidence: auto

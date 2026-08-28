@@ -1,0 +1,10 @@
+id: envy-6000-8qq97a-firmware
+vendor_id: hp
+name: Envy 6000 8Qq97A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_6000_8qq97a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6000_8qq97a_firmware
+  confidence: auto

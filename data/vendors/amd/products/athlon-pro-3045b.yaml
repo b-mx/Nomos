@@ -1,0 +1,10 @@
+id: athlon-pro-3045b
+vendor_id: amd
+name: Athlon Pro 3045B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_pro_3045b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_pro_3045b
+  confidence: auto

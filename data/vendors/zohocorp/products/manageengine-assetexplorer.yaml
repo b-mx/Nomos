@@ -1,0 +1,10 @@
+id: manageengine-assetexplorer
+vendor_id: zohocorp
+name: Manageengine Assetexplorer
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_assetexplorer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_assetexplorer
+  confidence: auto

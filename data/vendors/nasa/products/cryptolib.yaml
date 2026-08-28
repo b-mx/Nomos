@@ -1,0 +1,10 @@
+id: cryptolib
+vendor_id: nasa
+name: Cryptolib
+type: software
+tags: []
+cpe: cpe:2.3:a:nasa:cryptolib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cryptolib
+  confidence: auto

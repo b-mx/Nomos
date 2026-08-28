@@ -1,0 +1,10 @@
+id: jetport-5601
+vendor_id: korenix
+name: Jetport 5601
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetport_5601:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetport_5601
+  confidence: auto

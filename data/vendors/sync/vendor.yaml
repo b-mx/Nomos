@@ -1,0 +1,7 @@
+id: sync
+name: Sync
+cpe: cpe:2.3:*:sync:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sync
+  confidence: auto

@@ -1,0 +1,10 @@
+id: terastation-nas-5410r-firmware
+vendor_id: buffalo
+name: Terastation Nas 5410R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:terastation_nas_5410r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: terastation_nas_5410r_firmware
+  confidence: auto

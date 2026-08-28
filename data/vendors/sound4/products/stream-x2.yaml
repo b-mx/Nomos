@@ -1,0 +1,10 @@
+id: stream-x2
+vendor_id: sound4
+name: Stream X2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sound4:stream_x2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stream_x2
+  confidence: auto

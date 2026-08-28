@@ -1,0 +1,10 @@
+id: portable-tilt-meter-firmware
+vendor_id: rstinstruments
+name: Portable Tilt Meter Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:portable_tilt_meter_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portable_tilt_meter_firmware
+  confidence: auto

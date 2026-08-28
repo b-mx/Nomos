@@ -1,0 +1,10 @@
+id: thinmanager
+vendor_id: rockwellautomation
+name: Thinmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:thinmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinmanager
+  confidence: auto

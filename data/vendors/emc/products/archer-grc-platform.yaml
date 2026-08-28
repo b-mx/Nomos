@@ -1,0 +1,10 @@
+id: archer-grc-platform
+vendor_id: emc
+name: Archer Grc Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:archer_grc_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: archer_grc_platform
+  confidence: auto

@@ -1,0 +1,10 @@
+id: besder-ip20h1-firmware
+vendor_id: xiongmaitech
+name: Besder Ip20H1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:besder_ip20h1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: besder_ip20h1_firmware
+  confidence: auto

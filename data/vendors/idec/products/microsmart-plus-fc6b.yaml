@@ -1,0 +1,10 @@
+id: microsmart-plus-fc6b
+vendor_id: idec
+name: Microsmart Plus Fc6B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idec:microsmart_plus_fc6b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microsmart_plus_fc6b
+  confidence: auto

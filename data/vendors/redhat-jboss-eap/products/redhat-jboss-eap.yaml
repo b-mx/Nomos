@@ -1,0 +1,9 @@
+id: redhat-jboss-eap
+vendor_id: redhat-jboss-eap
+name: Red Hat JBoss Enterprise Application Platform
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: redhat-jboss-eap
+  confidence: auto

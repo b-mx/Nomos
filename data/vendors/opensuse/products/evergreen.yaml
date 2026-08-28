@@ -1,0 +1,10 @@
+id: evergreen
+vendor_id: opensuse
+name: Evergreen
+type: os
+tags: []
+cpe: cpe:2.3:o:opensuse:evergreen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evergreen
+  confidence: auto

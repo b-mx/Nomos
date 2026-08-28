@@ -1,0 +1,10 @@
+id: jd349a
+vendor_id: hp
+name: Jd349A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd349a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd349a
+  confidence: auto

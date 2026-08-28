@@ -1,0 +1,10 @@
+id: je059a
+vendor_id: hp
+name: Je059A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je059a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je059a
+  confidence: auto

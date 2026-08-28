@@ -1,0 +1,10 @@
+id: superdoctor-5
+vendor_id: supermicro
+name: Superdoctor 5
+type: software
+tags: []
+cpe: cpe:2.3:a:supermicro:superdoctor_5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: superdoctor_5
+  confidence: auto

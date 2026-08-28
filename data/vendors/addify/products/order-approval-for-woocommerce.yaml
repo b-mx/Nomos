@@ -1,0 +1,10 @@
+id: order-approval-for-woocommerce
+vendor_id: addify
+name: Order Approval For Woocommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:addify:order_approval_for_woocommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: order_approval_for_woocommerce
+  confidence: auto

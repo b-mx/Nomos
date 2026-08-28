@@ -1,0 +1,10 @@
+id: virtual-room-connector
+vendor_id: zoom
+name: Virtual Room Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:virtual_room_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_room_connector
+  confidence: auto

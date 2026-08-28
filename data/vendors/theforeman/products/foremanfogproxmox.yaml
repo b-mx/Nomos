@@ -1,0 +1,10 @@
+id: foremanfogproxmox
+vendor_id: theforeman
+name: Foremanfogproxmox
+type: software
+tags: []
+cpe: cpe:2.3:a:theforeman:foremanfogproxmox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foremanfogproxmox
+  confidence: auto

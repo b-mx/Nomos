@@ -1,0 +1,10 @@
+id: vb288
+vendor_id: bridgetech
+name: Vb288
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bridgetech:vb288:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vb288
+  confidence: auto

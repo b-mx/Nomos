@@ -1,0 +1,10 @@
+id: d8s-domains
+vendor_id: democritus
+name: D8S-Domains
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-domains:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-domains
+  confidence: auto

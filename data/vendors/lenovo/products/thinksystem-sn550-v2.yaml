@@ -1,0 +1,10 @@
+id: thinksystem-sn550-v2
+vendor_id: lenovo
+name: Thinksystem Sn550 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_sn550_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_sn550_v2
+  confidence: auto

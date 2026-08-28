@@ -1,0 +1,10 @@
+id: lp-s7000-firmware
+vendor_id: epson
+name: Lp-S7000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:lp\-s7000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-s7000_firmware
+  confidence: auto

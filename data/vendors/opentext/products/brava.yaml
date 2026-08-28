@@ -1,0 +1,10 @@
+id: brava
+vendor_id: opentext
+name: Brava!
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:brava\!:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brava!
+  confidence: auto

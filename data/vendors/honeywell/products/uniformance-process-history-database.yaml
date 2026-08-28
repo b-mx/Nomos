@@ -1,0 +1,10 @@
+id: uniformance-process-history-database
+vendor_id: honeywell
+name: Uniformance Process History Database
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:uniformance_process_history_database:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uniformance_process_history_database
+  confidence: auto

@@ -1,0 +1,10 @@
+id: one-smartedge-agent
+vendor_id: forcepoint
+name: One Smartedge Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:one_smartedge_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_smartedge_agent
+  confidence: auto

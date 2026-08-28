@@ -1,0 +1,10 @@
+id: athlon
+vendor_id: amd
+name: Athlon
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon
+  confidence: auto

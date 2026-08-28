@@ -1,0 +1,10 @@
+id: 750-365-040-010-firmware
+vendor_id: wago
+name: 750-365/040-010 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:750\-365\/040\-010_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 750-365/040-010_firmware
+  confidence: auto

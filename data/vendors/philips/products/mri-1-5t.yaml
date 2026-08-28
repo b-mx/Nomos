@@ -1,0 +1,10 @@
+id: mri-1-5t
+vendor_id: philips
+name: Mri 1.5T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:mri_1\.5t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mri_1.5t
+  confidence: auto

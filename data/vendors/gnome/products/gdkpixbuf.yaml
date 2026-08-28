@@ -1,0 +1,10 @@
+id: gdkpixbuf
+vendor_id: gnome
+name: Gdkpixbuf
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gdkpixbuf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gdkpixbuf
+  confidence: auto

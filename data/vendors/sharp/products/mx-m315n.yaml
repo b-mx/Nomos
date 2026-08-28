@@ -1,0 +1,10 @@
+id: mx-m315n
+vendor_id: sharp
+name: Mx-M315N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-m315n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m315n
+  confidence: auto

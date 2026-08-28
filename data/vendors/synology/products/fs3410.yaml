@@ -1,0 +1,10 @@
+id: fs3410
+vendor_id: synology
+name: Fs3410
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synology:fs3410:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fs3410
+  confidence: auto

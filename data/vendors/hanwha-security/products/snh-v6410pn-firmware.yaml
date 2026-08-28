@@ -1,0 +1,10 @@
+id: snh-v6410pn-firmware
+vendor_id: hanwha-security
+name: Snh-V6410Pn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwha\-security:snh\-v6410pn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snh-v6410pn_firmware
+  confidence: auto

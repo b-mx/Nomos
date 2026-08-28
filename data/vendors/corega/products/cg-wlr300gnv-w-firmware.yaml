@@ -1,0 +1,10 @@
+id: cg-wlr300gnv-w-firmware
+vendor_id: corega
+name: Cg-Wlr300Gnv-W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:corega:cg\-wlr300gnv\-w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cg-wlr300gnv-w_firmware
+  confidence: auto

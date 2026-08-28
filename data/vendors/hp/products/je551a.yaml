@@ -1,0 +1,10 @@
+id: je551a
+vendor_id: hp
+name: Je551A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je551a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je551a
+  confidence: auto

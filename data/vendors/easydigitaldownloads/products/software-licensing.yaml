@@ -1,0 +1,10 @@
+id: software-licensing
+vendor_id: easydigitaldownloads
+name: Software Licensing
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:software_licensing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: software_licensing
+  confidence: auto

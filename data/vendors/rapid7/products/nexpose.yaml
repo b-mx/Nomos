@@ -1,0 +1,10 @@
+id: nexpose
+vendor_id: rapid7
+name: Nexpose
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:nexpose:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexpose
+  confidence: auto

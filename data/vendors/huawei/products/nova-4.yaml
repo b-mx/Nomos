@@ -1,0 +1,10 @@
+id: nova-4
+vendor_id: huawei
+name: Nova 4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nova_4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova_4
+  confidence: auto

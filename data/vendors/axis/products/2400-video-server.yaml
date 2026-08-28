@@ -1,0 +1,10 @@
+id: 2400-video-server
+vendor_id: axis
+name: 2400 Video Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:2400_video_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2400_video_server
+  confidence: auto

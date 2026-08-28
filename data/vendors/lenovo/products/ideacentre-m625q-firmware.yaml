@@ -1,0 +1,10 @@
+id: ideacentre-m625q-firmware
+vendor_id: lenovo
+name: Ideacentre M625Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_m625q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_m625q_firmware
+  confidence: auto

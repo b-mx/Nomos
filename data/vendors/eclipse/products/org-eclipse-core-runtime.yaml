@@ -1,0 +1,10 @@
+id: org-eclipse-core-runtime
+vendor_id: eclipse
+name: Org.Eclipse.Core.Runtime
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:org\.eclipse\.core\.runtime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: org.eclipse.core.runtime
+  confidence: auto

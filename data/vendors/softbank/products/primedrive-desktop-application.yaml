@@ -1,0 +1,10 @@
+id: primedrive-desktop-application
+vendor_id: softbank
+name: Primedrive Desktop Application
+type: software
+tags: []
+cpe: cpe:2.3:a:softbank:primedrive_desktop_application:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primedrive_desktop_application
+  confidence: auto

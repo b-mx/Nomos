@@ -1,0 +1,10 @@
+id: preload-directory
+vendor_id: lenovo
+name: Preload Directory
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:preload_directory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: preload_directory
+  confidence: auto

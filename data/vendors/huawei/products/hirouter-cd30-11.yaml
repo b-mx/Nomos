@@ -1,0 +1,10 @@
+id: hirouter-cd30-11
+vendor_id: huawei
+name: Hirouter-Cd30-11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hirouter\-cd30\-11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirouter-cd30-11
+  confidence: auto

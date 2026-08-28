@@ -1,0 +1,10 @@
+id: m350-5g-firmware
+vendor_id: proscend
+name: M350-5G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:proscend:m350\-5g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m350-5g_firmware
+  confidence: auto

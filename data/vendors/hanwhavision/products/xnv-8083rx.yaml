@@ -1,0 +1,10 @@
+id: xnv-8083rx
+vendor_id: hanwhavision
+name: Xnv-8083Rx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-8083rx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-8083rx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 53ab-wbs-firmware
+vendor_id: ave
+name: 53Ab-Wbs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ave:53ab\-wbs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 53ab-wbs_firmware
+  confidence: auto

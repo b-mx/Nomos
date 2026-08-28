@@ -1,0 +1,10 @@
+id: wavelan
+vendor_id: lucent
+name: Wavelan
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lucent:wavelan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wavelan
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-m110e-2u582e
+vendor_id: hp
+name: Laserjet M110E 2U582E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m110e_2u582e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m110e_2u582e
+  confidence: auto

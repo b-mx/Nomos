@@ -1,0 +1,10 @@
+id: my-cloud-ex2-ultra
+vendor_id: westerndigital
+name: My Cloud Ex2 Ultra
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westerndigital:my_cloud_ex2_ultra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_cloud_ex2_ultra
+  confidence: auto

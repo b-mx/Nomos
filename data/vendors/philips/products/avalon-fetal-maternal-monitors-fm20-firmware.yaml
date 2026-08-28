@@ -1,0 +1,10 @@
+id: avalon-fetal-maternal-monitors-fm20-firmware
+vendor_id: philips
+name: Avalon Fetal/Maternal Monitors Fm20 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:avalon_fetal\/maternal_monitors_fm20_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avalon_fetal/maternal_monitors_fm20_firmware
+  confidence: auto

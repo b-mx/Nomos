@@ -1,0 +1,10 @@
+id: flow-x-r
+vendor_id: abb
+name: Flow-X R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:flow\-x_r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flow-x_r
+  confidence: auto

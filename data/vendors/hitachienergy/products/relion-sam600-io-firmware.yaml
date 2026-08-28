@@ -1,0 +1,10 @@
+id: relion-sam600-io-firmware
+vendor_id: hitachienergy
+name: Relion Sam600-Io Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitachienergy:relion_sam600\-io_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: relion_sam600-io_firmware
+  confidence: auto

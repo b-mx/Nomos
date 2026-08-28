@@ -1,0 +1,10 @@
+id: dns-server
+vendor_id: synology
+name: Dns Server
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:dns_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dns_server
+  confidence: auto

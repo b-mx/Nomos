@@ -1,0 +1,10 @@
+id: nf5280m5
+vendor_id: inspur
+name: Nf5280M5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:inspur:nf5280m5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nf5280m5
+  confidence: auto

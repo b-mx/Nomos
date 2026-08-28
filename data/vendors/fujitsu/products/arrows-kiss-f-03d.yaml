@@ -1,0 +1,10 @@
+id: arrows-kiss-f-03d
+vendor_id: fujitsu
+name: Arrows Kiss F-03D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:arrows_kiss_f\-03d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arrows_kiss_f-03d
+  confidence: auto

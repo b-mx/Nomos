@@ -1,0 +1,10 @@
+id: pulse-eco-aes67
+vendor_id: sound4
+name: Pulse-Eco Aes67
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sound4:pulse\-eco_aes67:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pulse-eco_aes67
+  confidence: auto

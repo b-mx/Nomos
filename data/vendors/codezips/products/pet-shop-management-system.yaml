@@ -1,0 +1,10 @@
+id: pet-shop-management-system
+vendor_id: codezips
+name: Pet Shop Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:codezips:pet_shop_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pet_shop_management_system
+  confidence: auto

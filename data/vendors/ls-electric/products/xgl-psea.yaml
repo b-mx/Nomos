@@ -1,0 +1,10 @@
+id: xgl-psea
+vendor_id: ls-electric
+name: Xgl-Psea
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xgl\-psea:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgl-psea
+  confidence: auto

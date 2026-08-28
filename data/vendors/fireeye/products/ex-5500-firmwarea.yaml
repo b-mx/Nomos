@@ -1,0 +1,10 @@
+id: ex-5500-firmwarea
+vendor_id: fireeye
+name: Ex 5500 Firmwarea
+type: os
+tags: []
+cpe: cpe:2.3:o:fireeye:ex_5500_firmwarea:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex_5500_firmwarea
+  confidence: auto

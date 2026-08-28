@@ -1,0 +1,10 @@
+id: x36x
+vendor_id: lexmark
+name: X36X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x36x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x36x
+  confidence: auto

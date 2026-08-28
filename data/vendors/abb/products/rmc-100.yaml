@@ -1,0 +1,10 @@
+id: rmc-100
+vendor_id: abb
+name: Rmc-100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:rmc\-100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rmc-100
+  confidence: auto

@@ -1,0 +1,10 @@
+id: poly-eagleeye-cube
+vendor_id: hp
+name: Poly Eagleeye Cube
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:poly_eagleeye_cube:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_eagleeye_cube
+  confidence: auto

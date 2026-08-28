@@ -1,0 +1,10 @@
+id: agentforce-vibes
+vendor_id: salesforce
+name: Agentforce Vibes
+type: software
+tags: []
+cpe: cpe:2.3:a:salesforce:agentforce_vibes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: agentforce_vibes
+  confidence: auto

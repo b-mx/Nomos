@@ -1,0 +1,10 @@
+id: eagle-mguard-hw-201000
+vendor_id: innominate
+name: Eagle Mguard Hw-201000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:innominate:eagle_mguard_hw\-201000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eagle_mguard_hw-201000
+  confidence: auto

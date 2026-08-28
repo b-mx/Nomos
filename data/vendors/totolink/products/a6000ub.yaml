@@ -1,0 +1,10 @@
+id: a6000ub
+vendor_id: totolink
+name: A6000Ub
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a6000ub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a6000ub
+  confidence: auto

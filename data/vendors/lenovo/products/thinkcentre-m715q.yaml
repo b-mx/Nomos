@@ -1,0 +1,10 @@
+id: thinkcentre-m715q
+vendor_id: lenovo
+name: Thinkcentre M715Q
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m715q:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m715q
+  confidence: auto

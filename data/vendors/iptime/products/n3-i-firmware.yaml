@@ -1,0 +1,10 @@
+id: n3-i-firmware
+vendor_id: iptime
+name: N3-I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n3\-i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n3-i_firmware
+  confidence: auto

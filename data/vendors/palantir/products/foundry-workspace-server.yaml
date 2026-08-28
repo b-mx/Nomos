@@ -1,0 +1,10 @@
+id: foundry-workspace-server
+vendor_id: palantir
+name: Foundry Workspace-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:foundry_workspace\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foundry_workspace-server
+  confidence: auto

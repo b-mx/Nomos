@@ -1,0 +1,10 @@
+id: palm-webos
+vendor_id: hp
+name: Palm Webos
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:palm_webos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: palm_webos
+  confidence: auto

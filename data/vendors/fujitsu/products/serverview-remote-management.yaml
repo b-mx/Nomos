@@ -1,0 +1,10 @@
+id: serverview-remote-management
+vendor_id: fujitsu
+name: Serverview Remote Management
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:serverview_remote_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: serverview_remote_management
+  confidence: auto

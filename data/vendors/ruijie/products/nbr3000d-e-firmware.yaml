@@ -1,0 +1,10 @@
+id: nbr3000d-e-firmware
+vendor_id: ruijie
+name: Nbr3000D-E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:nbr3000d\-e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbr3000d-e_firmware
+  confidence: auto

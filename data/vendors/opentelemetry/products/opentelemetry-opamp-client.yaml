@@ -1,0 +1,10 @@
+id: opentelemetry-opamp-client
+vendor_id: opentelemetry
+name: Opentelemetry.Opamp.Client
+type: software
+tags: []
+cpe: cpe:2.3:a:opentelemetry:opentelemetry\.opamp\.client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentelemetry.opamp.client
+  confidence: auto

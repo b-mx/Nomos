@@ -1,0 +1,10 @@
+id: v520
+vendor_id: lenovo
+name: V520
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v520:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v520
+  confidence: auto

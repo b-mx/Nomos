@@ -1,0 +1,10 @@
+id: wlx202
+vendor_id: yamaha
+name: Wlx202
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:wlx202:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlx202
+  confidence: auto

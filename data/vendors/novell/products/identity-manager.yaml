@@ -1,0 +1,10 @@
+id: identity-manager
+vendor_id: novell
+name: Identity Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:identity_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: identity_manager
+  confidence: auto

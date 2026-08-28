@@ -1,0 +1,10 @@
+id: logiq-e10-firmware
+vendor_id: ge
+name: Logiq E10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:logiq_e10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logiq_e10_firmware
+  confidence: auto

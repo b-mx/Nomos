@@ -1,0 +1,10 @@
+id: sd9361-ehl-firmware
+vendor_id: vivotek
+name: Sd9361-Ehl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:sd9361\-ehl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd9361-ehl_firmware
+  confidence: auto

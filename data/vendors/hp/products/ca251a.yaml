@@ -1,0 +1,10 @@
+id: ca251a
+vendor_id: hp
+name: Ca251A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:ca251a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ca251a
+  confidence: auto

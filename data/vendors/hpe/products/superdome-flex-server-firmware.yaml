@@ -1,0 +1,10 @@
+id: superdome-flex-server-firmware
+vendor_id: hpe
+name: Superdome Flex Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:superdome_flex_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: superdome_flex_server_firmware
+  confidence: auto

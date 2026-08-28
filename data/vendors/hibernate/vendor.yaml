@@ -1,0 +1,7 @@
+id: hibernate
+name: Hibernate
+cpe: cpe:2.3:*:hibernate:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hibernate
+  confidence: auto

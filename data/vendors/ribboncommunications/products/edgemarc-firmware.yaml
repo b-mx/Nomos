@@ -1,0 +1,10 @@
+id: edgemarc-firmware
+vendor_id: ribboncommunications
+name: Edgemarc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ribboncommunications:edgemarc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgemarc_firmware
+  confidence: auto

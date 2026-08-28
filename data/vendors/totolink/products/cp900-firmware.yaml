@@ -1,0 +1,10 @@
+id: cp900-firmware
+vendor_id: totolink
+name: Cp900 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:cp900_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp900_firmware
+  confidence: auto

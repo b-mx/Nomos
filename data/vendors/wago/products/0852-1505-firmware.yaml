@@ -1,0 +1,10 @@
+id: 0852-1505-firmware
+vendor_id: wago
+name: 0852-1505 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:0852\-1505_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 0852-1505_firmware
+  confidence: auto

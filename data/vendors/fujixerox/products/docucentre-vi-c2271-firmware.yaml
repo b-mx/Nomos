@@ -1,0 +1,10 @@
+id: docucentre-vi-c2271-firmware
+vendor_id: fujixerox
+name: Docucentre-Vi C2271 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujixerox:docucentre\-vi_c2271_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docucentre-vi_c2271_firmware
+  confidence: auto

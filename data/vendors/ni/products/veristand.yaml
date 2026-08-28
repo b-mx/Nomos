@@ -1,0 +1,10 @@
+id: veristand
+vendor_id: ni
+name: Veristand
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:veristand:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: veristand
+  confidence: auto

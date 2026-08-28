@@ -1,0 +1,10 @@
+id: stanford-l09s-firmware
+vendor_id: huawei
+name: Stanford-L09S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:stanford\-l09s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stanford-l09s_firmware
+  confidence: auto

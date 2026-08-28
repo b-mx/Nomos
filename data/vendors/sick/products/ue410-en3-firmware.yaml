@@ -1,0 +1,10 @@
+id: ue410-en3-firmware
+vendor_id: sick
+name: Ue410-En3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:ue410\-en3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ue410-en3_firmware
+  confidence: auto

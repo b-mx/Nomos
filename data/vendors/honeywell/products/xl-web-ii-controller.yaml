@@ -1,0 +1,10 @@
+id: xl-web-ii-controller
+vendor_id: honeywell
+name: Xl Web Ii Controller
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:xl_web_ii_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xl_web_ii_controller
+  confidence: auto

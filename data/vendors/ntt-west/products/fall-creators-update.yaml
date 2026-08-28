@@ -1,0 +1,10 @@
+id: fall-creators-update
+vendor_id: ntt-west
+name: Fall Creators Update
+type: software
+tags: []
+cpe: cpe:2.3:a:ntt\-west:fall_creators_update:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fall_creators_update
+  confidence: auto

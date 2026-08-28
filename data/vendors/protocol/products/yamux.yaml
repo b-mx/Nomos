@@ -1,0 +1,10 @@
+id: yamux
+vendor_id: protocol
+name: Yamux
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:yamux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yamux
+  confidence: auto

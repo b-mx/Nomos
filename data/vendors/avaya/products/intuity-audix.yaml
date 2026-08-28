@@ -1,0 +1,10 @@
+id: intuity-audix
+vendor_id: avaya
+name: Intuity Audix
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:intuity_audix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intuity_audix
+  confidence: auto

@@ -1,0 +1,10 @@
+id: simple-web-based-chat-application
+vendor_id: projectworlds
+name: Simple Web-Based Chat Application
+type: software
+tags: []
+cpe: cpe:2.3:a:projectworlds:simple_web\-based_chat_application:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_web-based_chat_application
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tradebox
+vendor_id: bdtask
+name: Tradebox
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:tradebox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tradebox
+  confidence: auto

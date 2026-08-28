@@ -1,0 +1,10 @@
+id: user-id
+vendor_id: forcepoint
+name: User Id
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:user_id:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: user_id
+  confidence: auto

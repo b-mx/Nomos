@@ -1,0 +1,10 @@
+id: pfblockerng
+vendor_id: netgate
+name: Pfblockerng
+type: software
+tags: []
+cpe: cpe:2.3:a:netgate:pfblockerng:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pfblockerng
+  confidence: auto

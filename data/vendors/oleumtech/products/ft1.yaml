@@ -1,0 +1,10 @@
+id: ft1
+vendor_id: oleumtech
+name: Ft1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oleumtech:ft1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ft1
+  confidence: auto

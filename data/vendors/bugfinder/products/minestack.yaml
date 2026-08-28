@@ -1,0 +1,10 @@
+id: minestack
+vendor_id: bugfinder
+name: Minestack
+type: software
+tags: []
+cpe: cpe:2.3:a:bugfinder:minestack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minestack
+  confidence: auto

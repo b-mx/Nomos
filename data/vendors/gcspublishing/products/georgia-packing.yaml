@@ -1,0 +1,10 @@
+id: georgia-packing
+vendor_id: gcspublishing
+name: Georgia Packing
+type: software
+tags: []
+cpe: cpe:2.3:a:gcspublishing:georgia_packing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: georgia_packing
+  confidence: auto

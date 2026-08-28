@@ -1,0 +1,10 @@
+id: namaste-lms
+vendor_id: kibokolabs
+name: Namaste! Lms
+type: software
+tags: []
+cpe: cpe:2.3:a:kibokolabs:namaste\!_lms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: namaste!_lms
+  confidence: auto

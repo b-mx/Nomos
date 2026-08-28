@@ -1,0 +1,10 @@
+id: thinkpad-stack-wireless-router
+vendor_id: lenovo
+name: Thinkpad Stack Wireless Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_stack_wireless_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_stack_wireless_router
+  confidence: auto

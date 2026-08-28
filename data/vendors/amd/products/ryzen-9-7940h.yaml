@@ -1,0 +1,10 @@
+id: ryzen-9-7940h
+vendor_id: amd
+name: Ryzen 9 7940H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_9_7940h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_9_7940h
+  confidence: auto

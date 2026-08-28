@@ -1,0 +1,10 @@
+id: dvr-16ch
+vendor_id: huntcctv
+name: Dvr-16Ch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huntcctv:dvr\-16ch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvr-16ch
+  confidence: auto

@@ -1,0 +1,10 @@
+id: facebook-news-feed-like
+vendor_id: oretnom23
+name: Facebook News Feed Like
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:facebook_news_feed_like:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: facebook_news_feed_like
+  confidence: auto

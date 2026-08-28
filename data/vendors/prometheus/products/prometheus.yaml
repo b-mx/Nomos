@@ -1,0 +1,13 @@
+id: prometheus
+vendor_id: prometheus
+name: Prometheus
+type: software
+tags: []
+cpe: cpe:2.3:a:prometheus:prometheus:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: prometheus
+  confidence: auto
+- source: nvd
+  value: prometheus
+  confidence: auto

@@ -1,0 +1,10 @@
+id: seil-x1-firmware
+vendor_id: iij
+name: Seil/X1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iij:seil\/x1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil/x1_firmware
+  confidence: auto

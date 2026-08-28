@@ -1,0 +1,10 @@
+id: g-150ad
+vendor_id: mitsubishi
+name: G-150Ad
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:g\-150ad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g-150ad
+  confidence: auto

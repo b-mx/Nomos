@@ -1,0 +1,10 @@
+id: legion-t5-26amr5
+vendor_id: lenovo
+name: Legion T5-26Amr5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_t5\-26amr5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_t5-26amr5
+  confidence: auto

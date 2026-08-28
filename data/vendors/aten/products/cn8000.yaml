@@ -1,0 +1,10 @@
+id: cn8000
+vendor_id: aten
+name: Cn8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aten:cn8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn8000
+  confidence: auto

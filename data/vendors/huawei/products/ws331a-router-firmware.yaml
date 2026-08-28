@@ -1,0 +1,10 @@
+id: ws331a-router-firmware
+vendor_id: huawei
+name: Ws331A Router Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ws331a_router_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws331a_router_firmware
+  confidence: auto

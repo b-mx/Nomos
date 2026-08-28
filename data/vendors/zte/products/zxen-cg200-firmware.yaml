@@ -1,0 +1,10 @@
+id: zxen-cg200-firmware
+vendor_id: zte
+name: Zxen Cg200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxen_cg200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxen_cg200_firmware
+  confidence: auto

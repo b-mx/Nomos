@@ -1,0 +1,10 @@
+id: x-sb-01
+vendor_id: hima
+name: X-Sb 01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hima:x\-sb_01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-sb_01
+  confidence: auto

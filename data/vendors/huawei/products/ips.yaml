@@ -1,0 +1,10 @@
+id: ips
+vendor_id: huawei
+name: Ips
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ips:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ips
+  confidence: auto

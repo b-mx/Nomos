@@ -1,0 +1,10 @@
+id: arris-tg1692a-firmware
+vendor_id: commscope
+name: Arris Tg1692A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:commscope:arris_tg1692a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_tg1692a_firmware
+  confidence: auto

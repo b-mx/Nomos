@@ -1,0 +1,10 @@
+id: zgm130s037hgn-firmware
+vendor_id: silabs
+name: Zgm130S037Hgn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:silabs:zgm130s037hgn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zgm130s037hgn_firmware
+  confidence: auto

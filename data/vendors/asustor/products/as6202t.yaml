@@ -1,0 +1,10 @@
+id: as6202t
+vendor_id: asustor
+name: As6202T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asustor:as6202t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: as6202t
+  confidence: auto

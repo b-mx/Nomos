@@ -1,0 +1,10 @@
+id: overseas-usage
+vendor_id: nttdocomo
+name: Overseas Usage
+type: software
+tags: []
+cpe: cpe:2.3:a:nttdocomo:overseas_usage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: overseas_usage
+  confidence: auto

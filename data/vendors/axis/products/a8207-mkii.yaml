@@ -1,0 +1,10 @@
+id: a8207-mkii
+vendor_id: axis
+name: A8207 Mkii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:a8207_mkii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a8207_mkii
+  confidence: auto

@@ -1,0 +1,10 @@
+id: openthread
+vendor_id: ti
+name: Openthread
+type: software
+tags: []
+cpe: cpe:2.3:a:ti:openthread:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openthread
+  confidence: auto

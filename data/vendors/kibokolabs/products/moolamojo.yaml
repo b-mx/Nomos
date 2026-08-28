@@ -1,0 +1,10 @@
+id: moolamojo
+vendor_id: kibokolabs
+name: Moolamojo
+type: software
+tags: []
+cpe: cpe:2.3:a:kibokolabs:moolamojo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moolamojo
+  confidence: auto

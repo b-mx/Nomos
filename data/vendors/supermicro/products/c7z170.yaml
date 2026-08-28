@@ -1,0 +1,10 @@
+id: c7z170
+vendor_id: supermicro
+name: C7Z170
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:c7z170:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c7z170
+  confidence: auto

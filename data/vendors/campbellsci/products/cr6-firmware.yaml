@@ -1,0 +1,10 @@
+id: cr6-firmware
+vendor_id: campbellsci
+name: Cr6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:campbellsci:cr6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cr6_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: axon-30-pro-message-service
+vendor_id: zte
+name: Axon 30 Pro Message Service
+type: software
+tags: []
+cpe: cpe:2.3:a:zte:axon_30_pro_message_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axon_30_pro_message_service
+  confidence: auto

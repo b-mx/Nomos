@@ -1,0 +1,10 @@
+id: b8220
+vendor_id: zavio
+name: B8220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zavio:b8220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b8220
+  confidence: auto

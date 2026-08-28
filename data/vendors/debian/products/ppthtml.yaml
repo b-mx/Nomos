@@ -1,0 +1,10 @@
+id: ppthtml
+vendor_id: debian
+name: Ppthtml
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:ppthtml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ppthtml
+  confidence: auto

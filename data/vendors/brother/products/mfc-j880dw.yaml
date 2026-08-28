@@ -1,0 +1,10 @@
+id: mfc-j880dw
+vendor_id: brother
+name: Mfc-J880Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-j880dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-j880dw
+  confidence: auto

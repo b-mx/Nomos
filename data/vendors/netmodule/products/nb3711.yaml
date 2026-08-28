@@ -1,0 +1,10 @@
+id: nb3711
+vendor_id: netmodule
+name: Nb3711
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:nb3711:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb3711
+  confidence: auto

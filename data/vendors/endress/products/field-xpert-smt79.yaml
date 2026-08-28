@@ -1,0 +1,10 @@
+id: field-xpert-smt79
+vendor_id: endress
+name: Field Xpert Smt79
+type: hardware
+tags: []
+cpe: cpe:2.3:h:endress:field_xpert_smt79:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: field_xpert_smt79
+  confidence: auto

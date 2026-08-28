@@ -1,0 +1,10 @@
+id: zhaoyang-k42-80
+vendor_id: lenovo
+name: Zhaoyang K42-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:zhaoyang_k42\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhaoyang_k42-80
+  confidence: auto

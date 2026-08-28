@@ -1,0 +1,10 @@
+id: studio-r3
+vendor_id: birddog
+name: Studio R3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:birddog:studio_r3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_r3
+  confidence: auto

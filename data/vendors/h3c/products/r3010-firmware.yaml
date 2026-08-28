@@ -1,0 +1,10 @@
+id: r3010-firmware
+vendor_id: h3c
+name: R3010 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:r3010_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r3010_firmware
+  confidence: auto

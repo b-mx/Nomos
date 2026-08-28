@@ -1,0 +1,7 @@
+id: peplink
+name: Peplink
+cpe: cpe:2.3:*:peplink:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: peplink
+  confidence: auto

@@ -1,0 +1,10 @@
+id: windows-agent
+vendor_id: datto
+name: Windows Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:datto:windows_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: windows_agent
+  confidence: auto

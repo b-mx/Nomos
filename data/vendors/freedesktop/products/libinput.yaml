@@ -1,0 +1,10 @@
+id: libinput
+vendor_id: freedesktop
+name: Libinput
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:libinput:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libinput
+  confidence: auto

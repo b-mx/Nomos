@@ -1,0 +1,10 @@
+id: gravityzone-control-center
+vendor_id: bitdefender
+name: Gravityzone Control Center
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:gravityzone_control_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gravityzone_control_center
+  confidence: auto

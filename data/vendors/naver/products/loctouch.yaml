@@ -1,0 +1,10 @@
+id: loctouch
+vendor_id: naver
+name: Loctouch
+type: software
+tags: []
+cpe: cpe:2.3:a:naver:loctouch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: loctouch
+  confidence: auto

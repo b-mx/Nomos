@@ -1,0 +1,10 @@
+id: iologik-e1242
+vendor_id: moxa
+name: Iologik E1242
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:iologik_e1242:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iologik_e1242
+  confidence: auto

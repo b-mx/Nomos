@@ -1,0 +1,10 @@
+id: xec-dp40su
+vendor_id: ls-electric
+name: Xec-Dp40Su
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xec\-dp40su:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dp40su
+  confidence: auto

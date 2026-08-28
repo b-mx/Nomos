@@ -1,0 +1,10 @@
+id: dt721-cb-firmware
+vendor_id: skyworthdigital
+name: Dt721-Cb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:skyworthdigital:dt721\-cb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt721-cb_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m28-m31-w2g54a-firmware
+vendor_id: hp
+name: Laserjet Pro Mfp M28-M31 W2G54A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_mfp_m28\-m31_w2g54a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m28-m31_w2g54a_firmware
+  confidence: auto

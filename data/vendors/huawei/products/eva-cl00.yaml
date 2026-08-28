@@ -1,0 +1,10 @@
+id: eva-cl00
+vendor_id: huawei
+name: Eva-Cl00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:eva\-cl00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eva-cl00
+  confidence: auto

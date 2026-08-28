@@ -1,0 +1,10 @@
+id: backstage-catalog-model
+vendor_id: linuxfoundation
+name: Backstage Catalog-Model
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:backstage_catalog\-model:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backstage_catalog-model
+  confidence: auto

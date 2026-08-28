@@ -1,0 +1,10 @@
+id: nport-5630-16-firmware
+vendor_id: moxa
+name: Nport 5630-16 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_5630\-16_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5630-16_firmware
+  confidence: auto

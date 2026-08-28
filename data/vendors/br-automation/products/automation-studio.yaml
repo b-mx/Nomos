@@ -1,0 +1,10 @@
+id: automation-studio
+vendor_id: br-automation
+name: Automation Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:br\-automation:automation_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automation_studio
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gl-s20-firmware
+vendor_id: gl-inet
+name: Gl-S20 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:gl\-s20_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-s20_firmware
+  confidence: auto

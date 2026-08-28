@@ -1,0 +1,10 @@
+id: authentication-agent-for-web
+vendor_id: rsa
+name: Authentication Agent For Web
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:authentication_agent_for_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: authentication_agent_for_web
+  confidence: auto

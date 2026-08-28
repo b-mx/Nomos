@@ -1,0 +1,10 @@
+id: cb3211-firmware
+vendor_id: zavio
+name: Cb3211 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zavio:cb3211_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cb3211_firmware
+  confidence: auto

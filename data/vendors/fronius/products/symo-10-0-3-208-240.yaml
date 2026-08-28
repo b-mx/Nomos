@@ -1,0 +1,10 @@
+id: symo-10-0-3-208-240
+vendor_id: fronius
+name: Symo 10.0-3 208-240
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fronius:symo_10\.0\-3_208\-240:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symo_10.0-3_208-240
+  confidence: auto

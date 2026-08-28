@@ -1,0 +1,10 @@
+id: desire
+vendor_id: htc
+name: Desire
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:desire:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desire
+  confidence: auto

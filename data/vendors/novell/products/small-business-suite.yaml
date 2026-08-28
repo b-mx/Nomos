@@ -1,0 +1,10 @@
+id: small-business-suite
+vendor_id: novell
+name: Small Business Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:small_business_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: small_business_suite
+  confidence: auto

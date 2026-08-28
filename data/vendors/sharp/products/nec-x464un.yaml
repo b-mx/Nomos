@@ -1,0 +1,10 @@
+id: nec-x464un
+vendor_id: sharp
+name: Nec X464Un
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:nec_x464un:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_x464un
+  confidence: auto

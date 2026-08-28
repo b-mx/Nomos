@@ -1,0 +1,10 @@
+id: dasdec-iii-firmware
+vendor_id: digitalalertsystems
+name: Dasdec Iii Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digitalalertsystems:dasdec_iii_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dasdec_iii_firmware
+  confidence: auto

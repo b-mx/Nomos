@@ -1,0 +1,7 @@
+id: yahoo
+name: Yahoo
+cpe: cpe:2.3:*:yahoo:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yahoo
+  confidence: auto

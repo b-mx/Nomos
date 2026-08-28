@@ -1,0 +1,10 @@
+id: 1-5t-brivo-mr355
+vendor_id: gehealthcare
+name: 1.5T Brivo Mr355
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:1\.5t_brivo_mr355:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1.5t_brivo_mr355
+  confidence: auto

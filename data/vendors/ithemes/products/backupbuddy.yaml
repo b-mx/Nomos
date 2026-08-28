@@ -1,0 +1,10 @@
+id: backupbuddy
+vendor_id: ithemes
+name: Backupbuddy
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:backupbuddy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backupbuddy
+  confidence: auto

@@ -1,0 +1,10 @@
+id: s5720hi-firmware
+vendor_id: huawei
+name: S5720Hi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:s5720hi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5720hi_firmware
+  confidence: auto

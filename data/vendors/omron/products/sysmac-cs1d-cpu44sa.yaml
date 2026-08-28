@@ -1,0 +1,10 @@
+id: sysmac-cs1d-cpu44sa
+vendor_id: omron
+name: Sysmac Cs1D-Cpu44Sa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cs1d\-cpu44sa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cs1d-cpu44sa
+  confidence: auto

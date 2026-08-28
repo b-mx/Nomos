@@ -1,0 +1,10 @@
+id: smartdiag-diagnosis-tool
+vendor_id: gemalto
+name: Smartdiag Diagnosis Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:gemalto:smartdiag_diagnosis_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartdiag_diagnosis_tool
+  confidence: auto

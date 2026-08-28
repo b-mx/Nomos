@@ -1,0 +1,13 @@
+id: weechat
+vendor_id: weechat
+name: WeeChat
+type: software
+tags: []
+cpe: cpe:2.3:a:weechat:weechat:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: weechat
+  confidence: auto
+- source: nvd
+  value: weechat
+  confidence: auto

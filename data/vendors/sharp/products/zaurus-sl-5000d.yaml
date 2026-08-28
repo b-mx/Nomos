@@ -1,0 +1,10 @@
+id: zaurus-sl-5000d
+vendor_id: sharp
+name: Zaurus Sl-5000D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:zaurus_sl\-5000d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zaurus_sl-5000d
+  confidence: auto

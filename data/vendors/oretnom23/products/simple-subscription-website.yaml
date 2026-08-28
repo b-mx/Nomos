@@ -1,0 +1,10 @@
+id: simple-subscription-website
+vendor_id: oretnom23
+name: Simple Subscription Website
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:simple_subscription_website:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_subscription_website
+  confidence: auto

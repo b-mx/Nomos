@@ -1,0 +1,10 @@
+id: x8siu
+vendor_id: supermicro
+name: X8Siu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x8siu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x8siu
+  confidence: auto

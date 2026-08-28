@@ -1,0 +1,10 @@
+id: n1-system-manager
+vendor_id: sun
+name: N1 System Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:n1_system_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n1_system_manager
+  confidence: auto

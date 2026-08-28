@@ -1,0 +1,10 @@
+id: 207w-firmware
+vendor_id: axis
+name: 207W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:207w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 207w_firmware
+  confidence: auto

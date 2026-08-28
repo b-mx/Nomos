@@ -1,0 +1,10 @@
+id: jg299a
+vendor_id: hp
+name: Jg299A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg299a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg299a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m406-3pz15a
+vendor_id: hp
+name: Laserjet Enterprise M406 3Pz15A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_m406_3pz15a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m406_3pz15a
+  confidence: auto

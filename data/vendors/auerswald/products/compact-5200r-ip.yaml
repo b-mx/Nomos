@@ -1,0 +1,10 @@
+id: compact-5200r-ip
+vendor_id: auerswald
+name: Compact 5200R Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:auerswald:compact_5200r_ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compact_5200r_ip
+  confidence: auto

@@ -1,0 +1,10 @@
+id: full-disk-encryption
+vendor_id: eset
+name: Full Disk Encryption
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:full_disk_encryption:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: full_disk_encryption
+  confidence: auto

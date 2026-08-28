@@ -1,0 +1,10 @@
+id: optima-ct660
+vendor_id: gehealthcare
+name: Optima Ct660
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:optima_ct660:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_ct660
+  confidence: auto

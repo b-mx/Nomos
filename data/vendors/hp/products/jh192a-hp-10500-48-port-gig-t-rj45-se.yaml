@@ -1,0 +1,10 @@
+id: jh192a-hp-10500-48-port-gig-t-rj45-se
+vendor_id: hp
+name: Jh192A Hp 10500 48-Port Gig-T (Rj45) Se
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:jh192a_hp_10500_48\-port_gig\-t_\(rj45\)_se:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jh192a_hp_10500_48-port_gig-t_(rj45)_se
+  confidence: auto

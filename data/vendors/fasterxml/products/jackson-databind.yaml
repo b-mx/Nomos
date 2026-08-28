@@ -1,0 +1,10 @@
+id: jackson-databind
+vendor_id: fasterxml
+name: Jackson-Databind
+type: software
+tags: []
+cpe: cpe:2.3:a:fasterxml:jackson\-databind:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jackson-databind
+  confidence: auto

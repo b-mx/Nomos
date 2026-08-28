@@ -1,0 +1,10 @@
+id: a403-firmware
+vendor_id: kongtop
+name: A403 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kongtop:a403_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a403_firmware
+  confidence: auto

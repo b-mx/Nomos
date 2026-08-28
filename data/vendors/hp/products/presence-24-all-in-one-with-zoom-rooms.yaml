@@ -1,0 +1,10 @@
+id: presence-24-all-in-one-with-zoom-rooms
+vendor_id: hp
+name: Presence 24 All-In-One With Zoom Rooms
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:presence_24_all\-in\-one_with_zoom_rooms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: presence_24_all-in-one_with_zoom_rooms
+  confidence: auto

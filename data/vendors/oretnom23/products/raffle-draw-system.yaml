@@ -1,0 +1,10 @@
+id: raffle-draw-system
+vendor_id: oretnom23
+name: Raffle Draw System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:raffle_draw_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: raffle_draw_system
+  confidence: auto

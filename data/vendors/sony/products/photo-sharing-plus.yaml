@@ -1,0 +1,10 @@
+id: photo-sharing-plus
+vendor_id: sony
+name: Photo Sharing Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:photo_sharing_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photo_sharing_plus
+  confidence: auto

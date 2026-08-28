@@ -1,0 +1,10 @@
+id: inrouter-900-firmware
+vendor_id: inhandnetworks
+name: Inrouter 900 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:inhandnetworks:inrouter_900_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inrouter_900_firmware
+  confidence: auto

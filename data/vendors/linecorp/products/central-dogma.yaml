@@ -1,0 +1,10 @@
+id: central-dogma
+vendor_id: linecorp
+name: Central Dogma
+type: software
+tags: []
+cpe: cpe:2.3:a:linecorp:central_dogma:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: central_dogma
+  confidence: auto

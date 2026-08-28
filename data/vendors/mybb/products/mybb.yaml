@@ -1,0 +1,10 @@
+id: mybb
+vendor_id: mybb
+name: Mybb
+type: software
+tags: []
+cpe: cpe:2.3:a:mybb:mybb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mybb
+  confidence: auto

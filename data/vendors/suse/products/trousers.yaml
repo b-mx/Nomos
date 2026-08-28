@@ -1,0 +1,10 @@
+id: trousers
+vendor_id: suse
+name: Trousers
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:trousers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trousers
+  confidence: auto

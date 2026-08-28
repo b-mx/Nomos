@@ -1,0 +1,10 @@
+id: cajun-p330
+vendor_id: avaya
+name: Cajun P330
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:cajun_p330:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cajun_p330
+  confidence: auto

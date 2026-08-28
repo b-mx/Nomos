@@ -1,0 +1,10 @@
+id: atlalink-c8055
+vendor_id: xerox
+name: Atlalink C8055
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:atlalink_c8055:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atlalink_c8055
+  confidence: auto

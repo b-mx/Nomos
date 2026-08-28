@@ -1,0 +1,10 @@
+id: discourse-chat
+vendor_id: discourse
+name: Discourse-Chat
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:discourse\-chat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discourse-chat
+  confidence: auto

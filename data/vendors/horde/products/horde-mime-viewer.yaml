@@ -1,0 +1,10 @@
+id: horde-mime-viewer
+vendor_id: horde
+name: Horde Mime Viewer
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:horde_mime_viewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: horde_mime_viewer
+  confidence: auto

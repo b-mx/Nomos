@@ -1,0 +1,10 @@
+id: q172dscpu-firmware
+vendor_id: mitsubishielectric
+name: Q172Dscpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:q172dscpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q172dscpu_firmware
+  confidence: auto

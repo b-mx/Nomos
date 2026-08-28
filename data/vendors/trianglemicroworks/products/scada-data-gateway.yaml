@@ -1,0 +1,10 @@
+id: scada-data-gateway
+vendor_id: trianglemicroworks
+name: Scada Data Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:trianglemicroworks:scada_data_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scada_data_gateway
+  confidence: auto

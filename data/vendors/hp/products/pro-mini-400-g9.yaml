@@ -1,0 +1,10 @@
+id: pro-mini-400-g9
+vendor_id: hp
+name: Pro Mini 400 G9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pro_mini_400_g9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_mini_400_g9
+  confidence: auto

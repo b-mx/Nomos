@@ -1,0 +1,10 @@
+id: centum-vp-entry-class
+vendor_id: yokogawa
+name: Centum Vp Entry Class
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:centum_vp_entry_class:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centum_vp_entry_class
+  confidence: auto

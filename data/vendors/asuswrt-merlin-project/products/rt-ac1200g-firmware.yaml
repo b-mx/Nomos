@@ -1,0 +1,10 @@
+id: rt-ac1200g-firmware
+vendor_id: asuswrt-merlin-project
+name: Rt Ac1200G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:asuswrt\-merlin_project:rt_ac1200g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt_ac1200g_firmware
+  confidence: auto

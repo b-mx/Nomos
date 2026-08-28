@@ -1,0 +1,10 @@
+id: mx250-firmware
+vendor_id: zultys
+name: Mx250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zultys:mx250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx250_firmware
+  confidence: auto

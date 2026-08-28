@@ -1,0 +1,10 @@
+id: tremor-script
+vendor_id: linuxfoundation
+name: Tremor-Script
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:tremor\-script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tremor-script
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aruba-cx-8360-12c-jl708c
+vendor_id: hpe
+name: Aruba Cx 8360-12C (Jl708C)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_8360\-12c_\(jl708c\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_8360-12c_(jl708c)
+  confidence: auto

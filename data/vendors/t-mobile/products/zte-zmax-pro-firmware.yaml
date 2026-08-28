@@ -1,0 +1,10 @@
+id: zte-zmax-pro-firmware
+vendor_id: t-mobile
+name: Zte Zmax Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:t\-mobile:zte_zmax_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zte_zmax_pro_firmware
+  confidence: auto

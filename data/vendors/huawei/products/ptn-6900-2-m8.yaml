@@ -1,0 +1,10 @@
+id: ptn-6900-2-m8
+vendor_id: huawei
+name: Ptn 6900-2-M8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ptn_6900\-2\-m8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ptn_6900-2-m8
+  confidence: auto

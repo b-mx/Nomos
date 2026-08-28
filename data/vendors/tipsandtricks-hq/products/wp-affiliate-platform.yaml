@@ -1,0 +1,10 @@
+id: wp-affiliate-platform
+vendor_id: tipsandtricks-hq
+name: Wp Affiliate Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:tipsandtricks\-hq:wp_affiliate_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_affiliate_platform
+  confidence: auto

@@ -1,0 +1,10 @@
+id: genesis32
+vendor_id: iconics
+name: Genesis32
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:genesis32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: genesis32
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x950
+vendor_id: lexmark
+name: X950
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x950:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x950
+  confidence: auto

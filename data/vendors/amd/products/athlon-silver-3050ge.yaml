@@ -1,0 +1,10 @@
+id: athlon-silver-3050ge
+vendor_id: amd
+name: Athlon Silver 3050Ge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_silver_3050ge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_silver_3050ge
+  confidence: auto

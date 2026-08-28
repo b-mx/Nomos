@@ -1,0 +1,10 @@
+id: ibr-7150
+vendor_id: wayos
+name: Ibr-7150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wayos:ibr\-7150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ibr-7150
+  confidence: auto

@@ -1,0 +1,10 @@
+id: photo-and-imaging-gallery
+vendor_id: hp
+name: Photo And Imaging Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:photo_and_imaging_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photo_and_imaging_gallery
+  confidence: auto

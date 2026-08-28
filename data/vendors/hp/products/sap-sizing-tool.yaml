@@ -1,0 +1,10 @@
+id: sap-sizing-tool
+vendor_id: hp
+name: Sap Sizing Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:sap_sizing_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sap_sizing_tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aio520-24arr
+vendor_id: lenovo
+name: Aio520-24Arr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:aio520\-24arr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aio520-24arr
+  confidence: auto

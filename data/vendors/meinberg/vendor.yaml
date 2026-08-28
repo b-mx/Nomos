@@ -1,0 +1,7 @@
+id: meinberg
+name: Meinberg
+cpe: cpe:2.3:*:meinberg:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meinberg
+  confidence: auto

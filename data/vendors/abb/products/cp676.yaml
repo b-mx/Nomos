@@ -1,0 +1,10 @@
+id: cp676
+vendor_id: abb
+name: Cp676
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:cp676:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp676
+  confidence: auto

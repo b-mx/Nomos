@@ -1,0 +1,10 @@
+id: zxa10-f821
+vendor_id: zte
+name: Zxa10 F821
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxa10_f821:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxa10_f821
+  confidence: auto

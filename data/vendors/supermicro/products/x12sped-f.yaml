@@ -1,0 +1,10 @@
+id: x12sped-f
+vendor_id: supermicro
+name: X12Sped-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12sped\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12sped-f
+  confidence: auto

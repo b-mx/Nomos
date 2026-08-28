@@ -1,0 +1,10 @@
+id: laserjet-flow-m525c
+vendor_id: hp
+name: Laserjet Flow M525C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_flow_m525c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_flow_m525c
+  confidence: auto

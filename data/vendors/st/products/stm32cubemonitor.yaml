@@ -1,0 +1,10 @@
+id: stm32cubemonitor
+vendor_id: st
+name: Stm32Cubemonitor
+type: software
+tags: []
+cpe: cpe:2.3:a:st:stm32cubemonitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32cubemonitor
+  confidence: auto

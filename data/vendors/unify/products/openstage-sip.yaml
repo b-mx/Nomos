@@ -1,0 +1,10 @@
+id: openstage-sip
+vendor_id: unify
+name: Openstage Sip
+type: software
+tags: []
+cpe: cpe:2.3:a:unify:openstage_sip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstage_sip
+  confidence: auto

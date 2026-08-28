@@ -1,0 +1,10 @@
+id: pnm-9000vd
+vendor_id: hanwhavision
+name: Pnm-9000Vd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:pnm\-9000vd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pnm-9000vd
+  confidence: auto

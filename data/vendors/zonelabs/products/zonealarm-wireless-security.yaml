@@ -1,0 +1,10 @@
+id: zonealarm-wireless-security
+vendor_id: zonelabs
+name: Zonealarm Wireless Security
+type: software
+tags: []
+cpe: cpe:2.3:a:zonelabs:zonealarm_wireless_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zonealarm_wireless_security
+  confidence: auto

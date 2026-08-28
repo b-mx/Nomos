@@ -1,0 +1,10 @@
+id: mainwp-google-analytics-extension
+vendor_id: mainwp
+name: Mainwp Google Analytics Extension
+type: software
+tags: []
+cpe: cpe:2.3:a:mainwp:mainwp_google_analytics_extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mainwp_google_analytics_extension
+  confidence: auto

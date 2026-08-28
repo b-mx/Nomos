@@ -1,0 +1,10 @@
+id: alert4000
+vendor_id: atisystem
+name: Alert4000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:atisystem:alert4000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alert4000
+  confidence: auto

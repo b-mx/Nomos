@@ -1,0 +1,10 @@
+id: snc-xm631l
+vendor_id: sony
+name: Snc-Xm631L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-xm631l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-xm631l
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rg-rap630ioda-firmware
+vendor_id: ruijie
+name: Rg-Rap630Ioda Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-rap630ioda_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-rap630ioda_firmware
+  confidence: auto

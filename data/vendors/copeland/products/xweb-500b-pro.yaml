@@ -1,0 +1,10 @@
+id: xweb-500b-pro
+vendor_id: copeland
+name: Xweb 500B Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:copeland:xweb_500b_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xweb_500b_pro
+  confidence: auto

@@ -1,0 +1,10 @@
+id: juno
+vendor_id: openstack
+name: Juno
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:juno:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: juno
+  confidence: auto

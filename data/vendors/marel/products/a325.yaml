@@ -1,0 +1,10 @@
+id: a325
+vendor_id: marel
+name: A325
+type: hardware
+tags: []
+cpe: cpe:2.3:h:marel:a325:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a325
+  confidence: auto

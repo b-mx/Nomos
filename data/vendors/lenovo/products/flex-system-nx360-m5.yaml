@@ -1,0 +1,10 @@
+id: flex-system-nx360-m5
+vendor_id: lenovo
+name: Flex System Nx360 M5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:flex_system_nx360_m5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_system_nx360_m5
+  confidence: auto

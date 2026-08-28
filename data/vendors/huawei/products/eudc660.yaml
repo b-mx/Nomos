@@ -1,0 +1,10 @@
+id: eudc660
+vendor_id: huawei
+name: Eudc660
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:eudc660:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eudc660
+  confidence: auto

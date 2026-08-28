@@ -1,0 +1,10 @@
+id: qualityprotect
+vendor_id: oppo
+name: Qualityprotect
+type: software
+tags: []
+cpe: cpe:2.3:a:oppo:qualityprotect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qualityprotect
+  confidence: auto

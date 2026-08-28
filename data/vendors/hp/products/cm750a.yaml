@@ -1,0 +1,10 @@
+id: cm750a
+vendor_id: hp
+name: Cm750A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cm750a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm750a
+  confidence: auto

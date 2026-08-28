@@ -1,0 +1,10 @@
+id: m70v
+vendor_id: mitsubishielectric
+name: M70V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:m70v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m70v
+  confidence: auto

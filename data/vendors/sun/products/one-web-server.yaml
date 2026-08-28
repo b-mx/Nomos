@@ -1,0 +1,10 @@
+id: one-web-server
+vendor_id: sun
+name: One Web Server
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:one_web_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_web_server
+  confidence: auto

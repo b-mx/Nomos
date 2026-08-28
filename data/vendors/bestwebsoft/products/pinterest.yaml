@@ -1,0 +1,10 @@
+id: pinterest
+vendor_id: bestwebsoft
+name: Pinterest
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:pinterest:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pinterest
+  confidence: auto

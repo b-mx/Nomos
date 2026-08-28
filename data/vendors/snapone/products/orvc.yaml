@@ -1,0 +1,10 @@
+id: orvc
+vendor_id: snapone
+name: Orvc
+type: software
+tags: []
+cpe: cpe:2.3:a:snapone:orvc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: orvc
+  confidence: auto

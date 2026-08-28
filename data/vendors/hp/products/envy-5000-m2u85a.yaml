@@ -1,0 +1,10 @@
+id: envy-5000-m2u85a
+vendor_id: hp
+name: Envy 5000 M2U85A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5000_m2u85a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5000_m2u85a
+  confidence: auto

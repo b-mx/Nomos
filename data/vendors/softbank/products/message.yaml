@@ -1,0 +1,10 @@
+id: message
+vendor_id: softbank
+name: + Message
+type: software
+tags: []
+cpe: cpe:2.3:a:softbank:\+_message:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: +_message
+  confidence: auto

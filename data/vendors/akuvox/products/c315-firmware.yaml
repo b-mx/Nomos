@@ -1,0 +1,10 @@
+id: c315-firmware
+vendor_id: akuvox
+name: C315 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:akuvox:c315_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c315_firmware
+  confidence: auto

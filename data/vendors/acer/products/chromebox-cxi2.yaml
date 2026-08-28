@@ -1,0 +1,10 @@
+id: chromebox-cxi2
+vendor_id: acer
+name: Chromebox Cxi2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:chromebox_cxi2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chromebox_cxi2
+  confidence: auto

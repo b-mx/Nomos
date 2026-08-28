@@ -1,0 +1,10 @@
+id: p10
+vendor_id: huawei
+name: P10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p10
+  confidence: auto

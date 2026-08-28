@@ -1,0 +1,10 @@
+id: python-keystoneclient
+vendor_id: openstack
+name: Python-Keystoneclient
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:python\-keystoneclient:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: python-keystoneclient
+  confidence: auto

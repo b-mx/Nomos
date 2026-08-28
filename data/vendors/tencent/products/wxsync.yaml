@@ -1,0 +1,10 @@
+id: wxsync
+vendor_id: tencent
+name: Wxsync
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:wxsync:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wxsync
+  confidence: auto

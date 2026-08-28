@@ -1,0 +1,10 @@
+id: openldap2
+vendor_id: opensuse
+name: Openldap2
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:openldap2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openldap2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bm78-firmware
+vendor_id: microchip
+name: Bm78 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:bm78_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm78_firmware
+  confidence: auto

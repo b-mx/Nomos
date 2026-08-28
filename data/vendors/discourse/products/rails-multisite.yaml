@@ -1,0 +1,10 @@
+id: rails-multisite
+vendor_id: discourse
+name: Rails Multisite
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:rails_multisite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rails_multisite
+  confidence: auto

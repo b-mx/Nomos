@@ -1,0 +1,10 @@
+id: c800
+vendor_id: netapp
+name: C800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:c800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c800
+  confidence: auto

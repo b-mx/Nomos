@@ -1,0 +1,10 @@
+id: ryzen-5-4600u
+vendor_id: amd
+name: Ryzen 5 4600U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_4600u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_4600u
+  confidence: auto

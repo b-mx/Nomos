@@ -1,0 +1,10 @@
+id: nec-x841uhd
+vendor_id: sharp
+name: Nec X841Uhd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:nec_x841uhd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_x841uhd
+  confidence: auto

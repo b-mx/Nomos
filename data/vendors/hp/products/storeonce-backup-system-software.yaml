@@ -1,0 +1,10 @@
+id: storeonce-backup-system-software
+vendor_id: hp
+name: Storeonce Backup System Software
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:storeonce_backup_system_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_backup_system_software
+  confidence: auto

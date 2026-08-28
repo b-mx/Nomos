@@ -1,0 +1,10 @@
+id: uc-3111-t-ap-lx-nw-firmware
+vendor_id: moxa
+name: Uc-3111-T-Ap-Lx-Nw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-3111\-t\-ap\-lx\-nw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-3111-t-ap-lx-nw_firmware
+  confidence: auto

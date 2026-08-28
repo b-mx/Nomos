@@ -1,0 +1,10 @@
+id: airlive-od-2025hd
+vendor_id: ovislink
+name: Airlive Od-2025Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ovislink:airlive_od\-2025hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airlive_od-2025hd
+  confidence: auto

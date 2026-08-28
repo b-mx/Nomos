@@ -1,0 +1,10 @@
+id: wrc-g01-w-firmware
+vendor_id: elecom
+name: Wrc-G01-W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wrc\-g01\-w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrc-g01-w_firmware
+  confidence: auto

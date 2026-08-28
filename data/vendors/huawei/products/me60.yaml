@@ -1,0 +1,10 @@
+id: me60
+vendor_id: huawei
+name: Me60
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:me60:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: me60
+  confidence: auto

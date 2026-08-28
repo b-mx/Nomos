@@ -1,0 +1,7 @@
+id: wireshark
+name: Wireshark
+cpe: cpe:2.3:*:wireshark:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireshark
+  confidence: auto

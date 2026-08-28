@@ -1,0 +1,10 @@
+id: le7-40gu-l-firmware
+vendor_id: mitsubishielectric
+name: Le7-40Gu-L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:le7\-40gu\-l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: le7-40gu-l_firmware
+  confidence: auto

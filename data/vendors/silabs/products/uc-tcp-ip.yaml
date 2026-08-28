@@ -1,0 +1,10 @@
+id: uc-tcp-ip
+vendor_id: silabs
+name: Uc/Tcp-Ip
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:uc\/tcp\-ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc/tcp-ip
+  confidence: auto

@@ -1,0 +1,10 @@
+id: command-center-agent
+vendor_id: ncr
+name: Command Center Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:ncr:command_center_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: command_center_agent
+  confidence: auto

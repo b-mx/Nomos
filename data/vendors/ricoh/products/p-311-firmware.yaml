@@ -1,0 +1,10 @@
+id: p-311-firmware
+vendor_id: ricoh
+name: P 311 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:p_311_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p_311_firmware
+  confidence: auto

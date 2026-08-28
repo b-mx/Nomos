@@ -1,0 +1,10 @@
+id: m900
+vendor_id: ui
+name: M900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:m900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m900
+  confidence: auto

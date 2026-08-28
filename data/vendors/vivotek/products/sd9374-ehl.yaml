@@ -1,0 +1,10 @@
+id: sd9374-ehl
+vendor_id: vivotek
+name: Sd9374-Ehl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:sd9374\-ehl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd9374-ehl
+  confidence: auto

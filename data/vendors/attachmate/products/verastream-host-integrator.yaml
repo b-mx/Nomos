@@ -1,0 +1,10 @@
+id: verastream-host-integrator
+vendor_id: attachmate
+name: Verastream Host Integrator
+type: software
+tags: []
+cpe: cpe:2.3:a:attachmate:verastream_host_integrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: verastream_host_integrator
+  confidence: auto

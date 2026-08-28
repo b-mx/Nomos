@@ -1,0 +1,10 @@
+id: ftmg-esr50sxx
+vendor_id: sick
+name: Ftmg-Esr50Sxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:ftmg\-esr50sxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ftmg-esr50sxx
+  confidence: auto

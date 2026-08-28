@@ -1,0 +1,10 @@
+id: hes-319m2w-firmware
+vendor_id: huawei
+name: Hes-319M2W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hes\-319m2w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hes-319m2w_firmware
+  confidence: auto

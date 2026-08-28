@@ -1,0 +1,10 @@
+id: xbee-2
+vendor_id: digi
+name: Xbee 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:xbee_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbee_2
+  confidence: auto

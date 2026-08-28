@@ -1,0 +1,10 @@
+id: zxcdn-iamweb-firmware
+vendor_id: zte
+name: Zxcdn Iamweb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxcdn_iamweb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxcdn_iamweb_firmware
+  confidence: auto

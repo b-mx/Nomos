@@ -1,0 +1,10 @@
+id: tdc-x401gl-firmware
+vendor_id: sick
+name: Tdc-X401Gl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:tdc\-x401gl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tdc-x401gl_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: amc2
+vendor_id: bosch
+name: Amc2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:amc2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amc2
+  confidence: auto

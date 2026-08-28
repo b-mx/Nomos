@@ -1,0 +1,10 @@
+id: 20ex
+vendor_id: lenovo
+name: 20Ex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20ex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20ex
+  confidence: auto

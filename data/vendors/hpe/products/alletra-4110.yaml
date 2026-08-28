@@ -1,0 +1,10 @@
+id: alletra-4110
+vendor_id: hpe
+name: Alletra 4110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:alletra_4110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alletra_4110
+  confidence: auto

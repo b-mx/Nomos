@@ -1,0 +1,10 @@
+id: i-lon-100
+vendor_id: echelon
+name: I.Lon 100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:echelon:i\.lon_100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.lon_100
+  confidence: auto

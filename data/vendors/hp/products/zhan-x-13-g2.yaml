@@ -1,0 +1,10 @@
+id: zhan-x-13-g2
+vendor_id: hp
+name: Zhan X 13 G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zhan_x_13_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhan_x_13_g2
+  confidence: auto

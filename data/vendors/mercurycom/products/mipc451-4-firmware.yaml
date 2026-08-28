@@ -1,0 +1,10 @@
+id: mipc451-4-firmware
+vendor_id: mercurycom
+name: Mipc451-4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mercurycom:mipc451\-4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mipc451-4_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: coslat
+vendor_id: bg-tek
+name: Coslat
+type: software
+tags: []
+cpe: cpe:2.3:a:bg\-tek:coslat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coslat
+  confidence: auto

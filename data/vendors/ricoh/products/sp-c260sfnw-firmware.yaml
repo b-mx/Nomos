@@ -1,0 +1,10 @@
+id: sp-c260sfnw-firmware
+vendor_id: ricoh
+name: Sp C260Sfnw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:sp_c260sfnw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_c260sfnw_firmware
+  confidence: auto

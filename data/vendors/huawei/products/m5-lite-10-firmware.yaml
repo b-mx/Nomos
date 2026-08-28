@@ -1,0 +1,10 @@
+id: m5-lite-10-firmware
+vendor_id: huawei
+name: M5 Lite 10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:m5_lite_10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m5_lite_10_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: eds-subsystem
+vendor_id: rockwellautomation
+name: Eds Subsystem
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:eds_subsystem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eds_subsystem
+  confidence: auto

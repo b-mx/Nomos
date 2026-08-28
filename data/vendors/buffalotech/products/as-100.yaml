@@ -1,0 +1,10 @@
+id: as-100
+vendor_id: buffalotech
+name: As-100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:as\-100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: as-100
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dropwizard
+vendor_id: dropwizard
+name: Dropwizard
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: dropwizard
+  confidence: auto

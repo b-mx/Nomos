@@ -1,0 +1,10 @@
+id: xnv-8081z
+vendor_id: hanwhavision
+name: Xnv-8081Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-8081z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-8081z
+  confidence: auto

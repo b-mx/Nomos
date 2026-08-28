@@ -1,0 +1,10 @@
+id: nr4h
+vendor_id: cbc
+name: Nr4H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:nr4h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr4h
+  confidence: auto

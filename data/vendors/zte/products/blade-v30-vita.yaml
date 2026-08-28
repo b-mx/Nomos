@@ -1,0 +1,10 @@
+id: blade-v30-vita
+vendor_id: zte
+name: Blade V30 Vita
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:blade_v30_vita:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_v30_vita
+  confidence: auto

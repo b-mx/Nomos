@@ -1,0 +1,10 @@
+id: bl-x26-ac8
+vendor_id: b-link
+name: Bl-X26 Ac8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:b\-link:bl\-x26_ac8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-x26_ac8
+  confidence: auto

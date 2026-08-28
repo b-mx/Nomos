@@ -1,0 +1,10 @@
+id: k22-80-firmware
+vendor_id: lenovo
+name: K22-80 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:k22\-80_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k22-80_firmware
+  confidence: auto

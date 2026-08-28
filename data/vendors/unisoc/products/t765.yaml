@@ -1,0 +1,10 @@
+id: t765
+vendor_id: unisoc
+name: T765
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:t765:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t765
+  confidence: auto

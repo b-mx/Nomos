@@ -1,0 +1,10 @@
+id: b315s-22
+vendor_id: huawei
+name: B315S-22
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:b315s\-22:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b315s-22
+  confidence: auto

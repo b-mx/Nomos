@@ -1,0 +1,10 @@
+id: rg-nbr2100g-e-firmware
+vendor_id: ruijienetworks
+name: Rg-Nbr2100G-E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijienetworks:rg\-nbr2100g\-e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-nbr2100g-e_firmware
+  confidence: auto

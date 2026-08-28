@@ -1,0 +1,10 @@
+id: workcentre-40-color
+vendor_id: xerox
+name: Workcentre 40 Color
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:workcentre_40_color:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_40_color
+  confidence: auto

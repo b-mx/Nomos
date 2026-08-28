@@ -1,0 +1,10 @@
+id: h4-plus-firmware
+vendor_id: chuango
+name: H4 Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chuango:h4_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h4_plus_firmware
+  confidence: auto

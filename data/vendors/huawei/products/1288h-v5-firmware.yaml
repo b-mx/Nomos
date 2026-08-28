@@ -1,0 +1,10 @@
+id: 1288h-v5-firmware
+vendor_id: huawei
+name: 1288H V5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:1288h_v5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1288h_v5_firmware
+  confidence: auto

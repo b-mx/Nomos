@@ -1,0 +1,10 @@
+id: plugin-set
+vendor_id: tenable
+name: Plugin-Set
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:plugin\-set:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plugin-set
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xiaomi-ai-speaker-firmware
+vendor_id: mi
+name: Xiaomi Ai Speaker Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:xiaomi_ai_speaker_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaomi_ai_speaker_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: isc2500-s
+vendor_id: uniview
+name: Isc2500-S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:uniview:isc2500\-s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isc2500-s
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mx-b400p
+vendor_id: sharp
+name: Mx-B400P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-b400p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-b400p
+  confidence: auto

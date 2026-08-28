@@ -1,0 +1,10 @@
+id: hb9932
+vendor_id: hbgk
+name: Hb9932
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hbgk:hb9932:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb9932
+  confidence: auto

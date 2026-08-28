@@ -1,0 +1,10 @@
+id: harmony-hub
+vendor_id: logitech
+name: Harmony Hub
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:harmony_hub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: harmony_hub
+  confidence: auto

@@ -1,0 +1,10 @@
+id: visionpass-mdpi
+vendor_id: idemia
+name: Visionpass Mdpi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idemia:visionpass_mdpi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visionpass_mdpi
+  confidence: auto

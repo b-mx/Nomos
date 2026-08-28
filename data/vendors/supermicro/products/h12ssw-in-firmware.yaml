@@ -1,0 +1,10 @@
+id: h12ssw-in-firmware
+vendor_id: supermicro
+name: H12Ssw-In Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:h12ssw\-in_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12ssw-in_firmware
+  confidence: auto

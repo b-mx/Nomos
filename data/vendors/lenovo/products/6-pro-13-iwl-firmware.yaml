@@ -1,0 +1,10 @@
+id: 6-pro-13-iwl-firmware
+vendor_id: lenovo
+name: 6 Pro-13-Iwl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:6_pro\-13\-iwl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 6_pro-13-iwl_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: edgemax
+vendor_id: ui
+name: Edgemax
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:edgemax:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgemax
+  confidence: auto

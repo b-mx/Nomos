@@ -1,0 +1,10 @@
+id: gradle-enterprise
+vendor_id: gradle
+name: Gradle Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:gradle:gradle_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gradle_enterprise
+  confidence: auto

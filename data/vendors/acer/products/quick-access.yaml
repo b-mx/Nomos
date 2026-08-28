@@ -1,0 +1,10 @@
+id: quick-access
+vendor_id: acer
+name: Quick Access
+type: software
+tags: []
+cpe: cpe:2.3:a:acer:quick_access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quick_access
+  confidence: auto

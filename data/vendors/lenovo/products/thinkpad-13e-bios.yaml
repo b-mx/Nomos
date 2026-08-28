@@ -1,0 +1,10 @@
+id: thinkpad-13e-bios
+vendor_id: lenovo
+name: Thinkpad 13E Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_13e_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_13e_bios
+  confidence: auto

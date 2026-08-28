@@ -1,0 +1,10 @@
+id: antivir-mailgate-suite
+vendor_id: avira
+name: Antivir Mailgate Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:antivir_mailgate_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivir_mailgate_suite
+  confidence: auto

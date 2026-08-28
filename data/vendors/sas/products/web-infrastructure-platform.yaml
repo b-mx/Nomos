@@ -1,0 +1,10 @@
+id: web-infrastructure-platform
+vendor_id: sas
+name: Web Infrastructure Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:sas:web_infrastructure_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_infrastructure_platform
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 320-15ikbrn-touch
+vendor_id: hp
+name: 320-15Ikbrn Touch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:320\-15ikbrn_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 320-15ikbrn_touch
+  confidence: auto

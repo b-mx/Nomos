@@ -1,0 +1,10 @@
+id: dvr-16cif
+vendor_id: swann
+name: Dvr-16Cif
+type: hardware
+tags: []
+cpe: cpe:2.3:h:swann:dvr\-16cif:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvr-16cif
+  confidence: auto

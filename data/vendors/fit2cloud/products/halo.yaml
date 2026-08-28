@@ -1,0 +1,10 @@
+id: halo
+vendor_id: fit2cloud
+name: Halo
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:halo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: halo
+  confidence: auto

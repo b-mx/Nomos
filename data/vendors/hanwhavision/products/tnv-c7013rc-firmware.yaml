@@ -1,0 +1,10 @@
+id: tnv-c7013rc-firmware
+vendor_id: hanwhavision
+name: Tnv-C7013Rc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:tnv\-c7013rc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tnv-c7013rc_firmware
+  confidence: auto

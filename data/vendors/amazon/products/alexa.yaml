@@ -1,0 +1,10 @@
+id: alexa
+vendor_id: amazon
+name: Alexa
+type: os
+tags: []
+cpe: cpe:2.3:o:amazon:alexa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alexa
+  confidence: auto

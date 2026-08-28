@@ -1,0 +1,10 @@
+id: bond-pro
+vendor_id: teradek
+name: Bond Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teradek:bond_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bond_pro
+  confidence: auto

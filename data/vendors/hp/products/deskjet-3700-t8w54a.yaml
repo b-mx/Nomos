@@ -1,0 +1,10 @@
+id: deskjet-3700-t8w54a
+vendor_id: hp
+name: Deskjet 3700 T8W54A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_3700_t8w54a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3700_t8w54a
+  confidence: auto

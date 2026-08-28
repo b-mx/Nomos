@@ -1,0 +1,10 @@
+id: sc9705-firmware
+vendor_id: timetoolsltd
+name: Sc9705 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:timetoolsltd:sc9705_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc9705_firmware
+  confidence: auto

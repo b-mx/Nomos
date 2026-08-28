@@ -1,0 +1,10 @@
+id: cz992a
+vendor_id: hp
+name: Cz992A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz992a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz992a
+  confidence: auto

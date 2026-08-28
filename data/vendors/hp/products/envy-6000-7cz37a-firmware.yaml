@@ -1,0 +1,10 @@
+id: envy-6000-7cz37a-firmware
+vendor_id: hp
+name: Envy 6000 7Cz37A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_6000_7cz37a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6000_7cz37a_firmware
+  confidence: auto

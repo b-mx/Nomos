@@ -1,0 +1,10 @@
+id: p754q-firmware
+vendor_id: sharp-nec-displays
+name: P754Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp\-nec\-displays:p754q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p754q_firmware
+  confidence: auto

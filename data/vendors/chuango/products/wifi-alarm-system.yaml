@@ -1,0 +1,10 @@
+id: wifi-alarm-system
+vendor_id: chuango
+name: Wifi Alarm System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chuango:wifi_alarm_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifi_alarm_system
+  confidence: auto

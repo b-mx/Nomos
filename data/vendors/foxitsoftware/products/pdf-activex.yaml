@@ -1,0 +1,10 @@
+id: pdf-activex
+vendor_id: foxitsoftware
+name: Pdf Activex
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:pdf_activex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdf_activex
+  confidence: auto

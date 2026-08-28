@@ -1,0 +1,10 @@
+id: enterprise-data-management
+vendor_id: aveva
+name: Enterprise Data Management
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:enterprise_data_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_data_management
+  confidence: auto

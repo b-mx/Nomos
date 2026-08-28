@@ -1,0 +1,10 @@
+id: x13seed-sf
+vendor_id: supermicro
+name: X13Seed-Sf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13seed\-sf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13seed-sf
+  confidence: auto

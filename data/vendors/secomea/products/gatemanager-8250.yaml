@@ -1,0 +1,10 @@
+id: gatemanager-8250
+vendor_id: secomea
+name: Gatemanager 8250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:secomea:gatemanager_8250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gatemanager_8250
+  confidence: auto

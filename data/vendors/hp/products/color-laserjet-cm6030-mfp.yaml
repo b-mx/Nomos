@@ -1,0 +1,10 @@
+id: color-laserjet-cm6030-mfp
+vendor_id: hp
+name: Color Laserjet Cm6030 Mfp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_cm6030_mfp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_cm6030_mfp
+  confidence: auto

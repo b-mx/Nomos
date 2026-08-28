@@ -1,0 +1,10 @@
+id: 750w
+vendor_id: utt
+name: 750W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:utt:750w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 750w
+  confidence: auto

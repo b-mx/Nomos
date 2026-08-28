@@ -1,0 +1,13 @@
+id: tails
+vendor_id: tails-project
+name: Tails
+type: os
+tags: []
+cpe: cpe:2.3:o:tails_project:tails:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: tails
+  confidence: auto
+- source: nvd
+  value: tails
+  confidence: auto

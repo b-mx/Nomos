@@ -1,0 +1,10 @@
+id: ideacentre-300s-11ish
+vendor_id: lenovo
+name: Ideacentre 300S-11Ish
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_300s\-11ish:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_300s-11ish
+  confidence: auto

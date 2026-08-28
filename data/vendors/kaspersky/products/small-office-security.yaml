@@ -1,0 +1,10 @@
+id: small-office-security
+vendor_id: kaspersky
+name: Small Office Security
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:small_office_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: small_office_security
+  confidence: auto

@@ -1,0 +1,10 @@
+id: px-b510
+vendor_id: epson
+name: Px-B510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-b510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-b510
+  confidence: auto

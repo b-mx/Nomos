@@ -1,0 +1,10 @@
+id: pyxis-parassist-firmware
+vendor_id: bd
+name: Pyxis Parassist Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:pyxis_parassist_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_parassist_firmware
+  confidence: auto

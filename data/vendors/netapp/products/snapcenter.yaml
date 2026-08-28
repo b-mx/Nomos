@@ -1,0 +1,10 @@
+id: snapcenter
+vendor_id: netapp
+name: Snapcenter
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:snapcenter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snapcenter
+  confidence: auto

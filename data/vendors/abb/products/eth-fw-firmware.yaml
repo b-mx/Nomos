@@ -1,0 +1,10 @@
+id: eth-fw-firmware
+vendor_id: abb
+name: Eth-Fw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:eth\-fw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eth-fw_firmware
+  confidence: auto

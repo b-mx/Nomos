@@ -1,0 +1,10 @@
+id: proliant-m710-server-cartridge
+vendor_id: hp
+name: Proliant M710 Server Cartridge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_m710_server_cartridge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_m710_server_cartridge
+  confidence: auto

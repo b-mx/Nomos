@@ -1,0 +1,10 @@
+id: intelligent-management-center-user-access-management
+vendor_id: hp
+name: Intelligent Management Center User Access Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:intelligent_management_center_user_access_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_management_center_user_access_management
+  confidence: auto

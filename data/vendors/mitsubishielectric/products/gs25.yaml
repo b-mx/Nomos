@@ -1,0 +1,10 @@
+id: gs25
+vendor_id: mitsubishielectric
+name: Gs25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:gs25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gs25
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mic-ip-ultra-7100i
+vendor_id: bosch
+name: Mic Ip Ultra 7100I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:mic_ip_ultra_7100i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mic_ip_ultra_7100i
+  confidence: auto

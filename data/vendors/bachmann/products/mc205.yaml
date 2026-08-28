@@ -1,0 +1,10 @@
+id: mc205
+vendor_id: bachmann
+name: Mc205
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mc205:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc205
+  confidence: auto

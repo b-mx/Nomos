@@ -1,0 +1,10 @@
+id: twincat-bsd
+vendor_id: beckhoff
+name: Twincat/Bsd
+type: os
+tags: []
+cpe: cpe:2.3:o:beckhoff:twincat\/bsd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twincat/bsd
+  confidence: auto

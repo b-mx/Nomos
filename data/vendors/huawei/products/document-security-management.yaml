@@ -1,0 +1,10 @@
+id: document-security-management
+vendor_id: huawei
+name: Document Security Management
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:document_security_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: document_security_management
+  confidence: auto

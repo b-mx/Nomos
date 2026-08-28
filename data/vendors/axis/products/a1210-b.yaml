@@ -1,0 +1,10 @@
+id: a1210-b
+vendor_id: axis
+name: A1210 (-B)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:a1210_\(\-b\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1210_(-b)
+  confidence: auto

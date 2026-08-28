@@ -1,0 +1,10 @@
+id: melsec-q-q04udpvcpu
+vendor_id: mitsubishielectric
+name: Melsec Q-Q04Udpvcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_q\-q04udpvcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q-q04udpvcpu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bisheng-wnm-firmware
+vendor_id: huawei
+name: Bisheng-Wnm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:bisheng\-wnm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bisheng-wnm_firmware
+  confidence: auto

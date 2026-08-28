@@ -1,0 +1,10 @@
+id: linux-enterprise-point-of-sale
+vendor_id: suse
+name: Linux Enterprise Point Of Sale
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:linux_enterprise_point_of_sale:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_point_of_sale
+  confidence: auto

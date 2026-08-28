@@ -1,0 +1,10 @@
+id: control-m-managed-file-transfer
+vendor_id: bmc
+name: Control-M/Managed File Transfer
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:control\-m\/managed_file_transfer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control-m/managed_file_transfer
+  confidence: auto

@@ -1,0 +1,7 @@
+id: eclipse
+name: Eclipse
+cpe: cpe:2.3:*:eclipse:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eclipse
+  confidence: auto

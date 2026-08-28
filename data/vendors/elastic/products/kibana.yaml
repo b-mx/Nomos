@@ -2,9 +2,7 @@ id: kibana
 vendor_id: elastic
 name: Kibana
 type: software
-tags:
-- logging
-icon: cib:elastic
+tags: []
 aliases:
 - source: cisa_kev
   value: Kibana

@@ -1,0 +1,10 @@
+id: freelancer-script
+vendor_id: itechscripts
+name: Freelancer Script
+type: software
+tags: []
+cpe: cpe:2.3:a:itechscripts:freelancer_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freelancer_script
+  confidence: auto

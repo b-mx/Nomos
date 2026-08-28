@@ -1,0 +1,10 @@
+id: laserjet-m118-4pa39a
+vendor_id: hp
+name: Laserjet M118 4Pa39A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m118_4pa39a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m118_4pa39a
+  confidence: auto

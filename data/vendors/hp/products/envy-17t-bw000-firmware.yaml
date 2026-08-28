@@ -1,0 +1,10 @@
+id: envy-17t-bw000-firmware
+vendor_id: hp
+name: Envy - 17T-Bw000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_\-_17t\-bw000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_-_17t-bw000_firmware
+  confidence: auto

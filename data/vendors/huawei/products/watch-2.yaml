@@ -1,0 +1,10 @@
+id: watch-2
+vendor_id: huawei
+name: Watch 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:watch_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: watch_2
+  confidence: auto

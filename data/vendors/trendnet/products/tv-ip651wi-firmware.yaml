@@ -1,0 +1,10 @@
+id: tv-ip651wi-firmware
+vendor_id: trendnet
+name: Tv-Ip651Wi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:tv\-ip651wi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv-ip651wi_firmware
+  confidence: auto

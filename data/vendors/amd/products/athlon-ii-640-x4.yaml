@@ -1,0 +1,10 @@
+id: athlon-ii-640-x4
+vendor_id: amd
+name: Athlon Ii 640 X4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_ii_640_x4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_ii_640_x4
+  confidence: auto

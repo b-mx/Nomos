@@ -1,0 +1,10 @@
+id: columbia-l29d-firmware
+vendor_id: huawei
+name: Columbia-L29D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:columbia\-l29d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: columbia-l29d_firmware
+  confidence: auto

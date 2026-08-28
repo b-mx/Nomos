@@ -1,0 +1,10 @@
+id: synergy-480
+vendor_id: hp
+name: Synergy 480
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:synergy_480:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy_480
+  confidence: auto

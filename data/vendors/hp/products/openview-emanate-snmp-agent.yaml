@@ -1,0 +1,10 @@
+id: openview-emanate-snmp-agent
+vendor_id: hp
+name: Openview Emanate Snmp Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:openview_emanate_snmp_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openview_emanate_snmp_agent
+  confidence: auto

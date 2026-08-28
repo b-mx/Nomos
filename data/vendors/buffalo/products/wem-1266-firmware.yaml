@@ -1,0 +1,10 @@
+id: wem-1266-firmware
+vendor_id: buffalo
+name: Wem-1266 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wem\-1266_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wem-1266_firmware
+  confidence: auto

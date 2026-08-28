@@ -1,0 +1,10 @@
+id: sd-32-m3g-firmware
+vendor_id: netvu
+name: Sd 32 (M3G) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netvu:sd_32_\(m3g\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd_32_(m3g)_firmware
+  confidence: auto

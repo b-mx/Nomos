@@ -1,0 +1,10 @@
+id: xnv-c6083
+vendor_id: hanwhavision
+name: Xnv-C6083
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-c6083:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-c6083
+  confidence: auto

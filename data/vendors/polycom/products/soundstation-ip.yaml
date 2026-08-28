@@ -1,0 +1,10 @@
+id: soundstation-ip
+vendor_id: polycom
+name: Soundstation Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:soundstation_ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soundstation_ip
+  confidence: auto

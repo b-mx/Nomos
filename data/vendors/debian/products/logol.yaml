@@ -1,0 +1,10 @@
+id: logol
+vendor_id: debian
+name: Logol
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:logol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logol
+  confidence: auto

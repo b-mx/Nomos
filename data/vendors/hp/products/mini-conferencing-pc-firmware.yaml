@@ -1,0 +1,10 @@
+id: mini-conferencing-pc-firmware
+vendor_id: hp
+name: Mini Conferencing Pc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:mini_conferencing_pc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mini_conferencing_pc_firmware
+  confidence: auto

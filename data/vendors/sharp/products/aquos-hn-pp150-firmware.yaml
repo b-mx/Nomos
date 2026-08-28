@@ -1,0 +1,10 @@
+id: aquos-hn-pp150-firmware
+vendor_id: sharp
+name: Aquos Hn-Pp150 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:aquos_hn\-pp150_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_hn-pp150_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hfas1-firmware
+vendor_id: iodata
+name: Hfas1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:hfas1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hfas1_firmware
+  confidence: auto

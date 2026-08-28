@@ -1,0 +1,10 @@
+id: qnf-8010
+vendor_id: hanwhavision
+name: Qnf-8010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:qnf\-8010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnf-8010
+  confidence: auto

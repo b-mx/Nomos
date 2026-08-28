@@ -1,0 +1,10 @@
+id: aws-software-development-kit
+vendor_id: amazon
+name: Aws Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_software_development_kit
+  confidence: auto

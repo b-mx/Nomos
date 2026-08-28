@@ -1,0 +1,10 @@
+id: content-transfer
+vendor_id: sony
+name: Content Transfer
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:content_transfer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: content_transfer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: keon-registration-authority-web-interface
+vendor_id: rsa
+name: Keon Registration Authority Web Interface
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:keon_registration_authority_web_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keon_registration_authority_web_interface
+  confidence: auto

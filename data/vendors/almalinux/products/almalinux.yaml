@@ -1,0 +1,13 @@
+id: almalinux
+vendor_id: almalinux
+name: AlmaLinux OS
+type: os
+tags: []
+cpe: cpe:2.3:o:almalinux:almalinux:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: almalinux
+  confidence: auto
+- source: nvd
+  value: almalinux
+  confidence: auto

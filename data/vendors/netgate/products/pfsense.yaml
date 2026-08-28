@@ -1,0 +1,10 @@
+id: pfsense
+vendor_id: netgate
+name: Pfsense
+type: software
+tags: []
+cpe: cpe:2.3:a:netgate:pfsense:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pfsense
+  confidence: auto

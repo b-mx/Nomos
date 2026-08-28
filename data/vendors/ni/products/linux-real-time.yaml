@@ -1,0 +1,10 @@
+id: linux-real-time
+vendor_id: ni
+name: Linux Real-Time
+type: os
+tags: []
+cpe: cpe:2.3:o:ni:linux_real\-time:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_real-time
+  confidence: auto

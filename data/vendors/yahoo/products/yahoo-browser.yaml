@@ -1,0 +1,10 @@
+id: yahoo-browser
+vendor_id: yahoo
+name: Yahoo! Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:yahoo\!_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yahoo!_browser
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pacsystems-cpu320
+vendor_id: ge
+name: Pacsystems Cpu320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:pacsystems_cpu320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pacsystems_cpu320
+  confidence: auto

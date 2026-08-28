@@ -1,0 +1,10 @@
+id: csrf-protection
+vendor_id: fastify
+name: Csrf-Protection
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:csrf\-protection:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: csrf-protection
+  confidence: auto

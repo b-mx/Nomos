@@ -1,0 +1,10 @@
+id: h-sphere
+vendor_id: parallels
+name: H-Sphere
+type: software
+tags: []
+cpe: cpe:2.3:a:parallels:h\-sphere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h-sphere
+  confidence: auto

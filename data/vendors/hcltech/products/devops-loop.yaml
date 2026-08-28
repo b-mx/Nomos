@@ -1,0 +1,10 @@
+id: devops-loop
+vendor_id: hcltech
+name: Devops Loop
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:devops_loop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: devops_loop
+  confidence: auto

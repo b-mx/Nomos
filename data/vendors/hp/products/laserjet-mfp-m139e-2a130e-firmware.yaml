@@ -1,0 +1,10 @@
+id: laserjet-mfp-m139e-2a130e-firmware
+vendor_id: hp
+name: Laserjet Mfp M139E 2A130E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_mfp_m139e_2a130e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m139e_2a130e_firmware
+  confidence: auto

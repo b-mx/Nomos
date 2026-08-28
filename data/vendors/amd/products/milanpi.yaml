@@ -1,0 +1,10 @@
+id: milanpi
+vendor_id: amd
+name: Milanpi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:milanpi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: milanpi
+  confidence: auto

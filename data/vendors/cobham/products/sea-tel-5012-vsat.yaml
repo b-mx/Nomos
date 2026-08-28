@@ -1,0 +1,10 @@
+id: sea-tel-5012-vsat
+vendor_id: cobham
+name: Sea Tel 5012 Vsat
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cobham:sea_tel_5012_vsat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sea_tel_5012_vsat
+  confidence: auto

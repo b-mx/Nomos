@@ -1,0 +1,10 @@
+id: nomad-server-on-domino
+vendor_id: hcltech
+name: Nomad Server On Domino
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:nomad_server_on_domino:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nomad_server_on_domino
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lifebook-u7511
+vendor_id: fujitsu
+name: Lifebook U7511
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:lifebook_u7511:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lifebook_u7511
+  confidence: auto

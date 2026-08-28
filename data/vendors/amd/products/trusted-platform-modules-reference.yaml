@@ -1,0 +1,10 @@
+id: trusted-platform-modules-reference
+vendor_id: amd
+name: Trusted Platform Modules Reference
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:trusted_platform_modules_reference:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trusted_platform_modules_reference
+  confidence: auto

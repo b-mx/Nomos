@@ -1,0 +1,10 @@
+id: ns-2
+vendor_id: akuvox
+name: Ns-2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akuvox:ns\-2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ns-2
+  confidence: auto

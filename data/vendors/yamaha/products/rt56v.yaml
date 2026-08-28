@@ -1,0 +1,10 @@
+id: rt56v
+vendor_id: yamaha
+name: Rt56V
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rt56v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt56v
+  confidence: auto

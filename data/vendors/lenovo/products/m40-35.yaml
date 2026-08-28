@@ -1,0 +1,10 @@
+id: m40-35
+vendor_id: lenovo
+name: M40-35
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:m40\-35:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m40-35
+  confidence: auto

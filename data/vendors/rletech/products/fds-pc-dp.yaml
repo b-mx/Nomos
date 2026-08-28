@@ -1,0 +1,10 @@
+id: fds-pc-dp
+vendor_id: rletech
+name: Fds-Pc-Dp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rletech:fds\-pc\-dp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fds-pc-dp
+  confidence: auto

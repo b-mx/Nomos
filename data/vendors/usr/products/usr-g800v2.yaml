@@ -1,0 +1,10 @@
+id: usr-g800v2
+vendor_id: usr
+name: Usr-G800V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:usr:usr\-g800v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usr-g800v2
+  confidence: auto

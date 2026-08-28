@@ -1,0 +1,10 @@
+id: monitor-8
+vendor_id: motu
+name: Monitor 8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:monitor_8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: monitor_8
+  confidence: auto

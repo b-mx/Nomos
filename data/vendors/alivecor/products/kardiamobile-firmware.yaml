@@ -1,0 +1,10 @@
+id: kardiamobile-firmware
+vendor_id: alivecor
+name: Kardiamobile Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:alivecor:kardiamobile_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kardiamobile_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mx900-firmware
+vendor_id: verifone
+name: Mx900 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:verifone:mx900_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx900_firmware
+  confidence: auto

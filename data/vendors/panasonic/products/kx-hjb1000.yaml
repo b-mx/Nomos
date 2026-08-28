@@ -1,0 +1,10 @@
+id: kx-hjb1000
+vendor_id: panasonic
+name: Kx-Hjb1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:panasonic:kx\-hjb1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kx-hjb1000
+  confidence: auto

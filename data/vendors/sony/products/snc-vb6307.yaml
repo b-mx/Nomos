@@ -1,0 +1,10 @@
+id: snc-vb6307
+vendor_id: sony
+name: Snc-Vb6307
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-vb6307:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-vb6307
+  confidence: auto

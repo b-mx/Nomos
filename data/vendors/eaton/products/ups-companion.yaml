@@ -1,0 +1,10 @@
+id: ups-companion
+vendor_id: eaton
+name: Ups Companion
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:ups_companion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ups_companion
+  confidence: auto

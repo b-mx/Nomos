@@ -1,0 +1,10 @@
+id: srs-xb33
+vendor_id: sony
+name: Srs-Xb33
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:srs\-xb33:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srs-xb33
+  confidence: auto

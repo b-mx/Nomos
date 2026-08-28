@@ -1,0 +1,10 @@
+id: pm554-firmware
+vendor_id: abb
+name: Pm554 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:pm554_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm554_firmware
+  confidence: auto

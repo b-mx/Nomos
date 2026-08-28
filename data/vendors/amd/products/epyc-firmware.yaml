@@ -1,0 +1,10 @@
+id: epyc-firmware
+vendor_id: amd
+name: Epyc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:epyc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_firmware
+  confidence: auto

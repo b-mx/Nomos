@@ -1,0 +1,10 @@
+id: dcp-j767n
+vendor_id: brother
+name: Dcp-J767N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-j767n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-j767n
+  confidence: auto

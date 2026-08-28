@@ -1,0 +1,6 @@
+id: sonarqube-server
+name: SonarQube Server
+aliases:
+- source: endoflife
+  value: sonarqube-server
+  confidence: auto

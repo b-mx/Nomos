@@ -1,0 +1,10 @@
+id: telemetry-schema-files
+vendor_id: opentelemetry
+name: Telemetry Schema Files
+type: software
+tags: []
+cpe: cpe:2.3:a:opentelemetry:telemetry_schema_files:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: telemetry_schema_files
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dvr-04ch-firmware
+vendor_id: huntcctv
+name: Dvr-04Ch Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huntcctv:dvr\-04ch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvr-04ch_firmware
+  confidence: auto

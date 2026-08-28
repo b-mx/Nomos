@@ -1,0 +1,10 @@
+id: xbindkeys-config
+vendor_id: debian
+name: Xbindkeys-Config
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:xbindkeys\-config:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbindkeys-config
+  confidence: auto

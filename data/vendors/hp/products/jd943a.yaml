@@ -1,0 +1,10 @@
+id: jd943a
+vendor_id: hp
+name: Jd943A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd943a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd943a
+  confidence: auto

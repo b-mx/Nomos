@@ -1,0 +1,10 @@
+id: usg5100-firmware
+vendor_id: huawei
+name: Usg5100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:usg5100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usg5100_firmware
+  confidence: auto

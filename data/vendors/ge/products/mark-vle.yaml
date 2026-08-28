@@ -1,0 +1,10 @@
+id: mark-vle
+vendor_id: ge
+name: Mark Vle
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:mark_vle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mark_vle
+  confidence: auto

@@ -1,0 +1,10 @@
+id: evera-icd-firmware
+vendor_id: medtronic
+name: Evera Icd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:evera_icd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evera_icd_firmware
+  confidence: auto

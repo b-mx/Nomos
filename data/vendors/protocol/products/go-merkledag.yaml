@@ -1,0 +1,10 @@
+id: go-merkledag
+vendor_id: protocol
+name: Go-Merkledag
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:go\-merkledag:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go-merkledag
+  confidence: auto

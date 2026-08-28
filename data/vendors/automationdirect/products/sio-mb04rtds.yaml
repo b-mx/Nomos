@@ -1,0 +1,10 @@
+id: sio-mb04rtds
+vendor_id: automationdirect
+name: Sio-Mb04Rtds
+type: hardware
+tags: []
+cpe: cpe:2.3:h:automationdirect:sio\-mb04rtds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sio-mb04rtds
+  confidence: auto

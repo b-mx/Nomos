@@ -1,0 +1,10 @@
+id: xnv-6120rs
+vendor_id: hanwhavision
+name: Xnv-6120Rs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-6120rs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-6120rs
+  confidence: auto

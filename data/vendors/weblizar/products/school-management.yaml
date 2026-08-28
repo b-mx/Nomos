@@ -1,0 +1,10 @@
+id: school-management
+vendor_id: weblizar
+name: School Management
+type: software
+tags: []
+cpe: cpe:2.3:a:weblizar:school_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: school_management
+  confidence: auto

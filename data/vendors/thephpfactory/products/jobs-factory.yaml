@@ -1,0 +1,10 @@
+id: jobs-factory
+vendor_id: thephpfactory
+name: Jobs Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:jobs_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jobs_factory
+  confidence: auto

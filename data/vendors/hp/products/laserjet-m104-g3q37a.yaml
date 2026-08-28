@@ -1,0 +1,10 @@
+id: laserjet-m104-g3q37a
+vendor_id: hp
+name: Laserjet M104 G3Q37A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m104_g3q37a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m104_g3q37a
+  confidence: auto

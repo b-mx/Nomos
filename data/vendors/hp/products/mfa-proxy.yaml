@@ -1,0 +1,10 @@
+id: mfa-proxy
+vendor_id: hp
+name: Mfa Proxy
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:mfa_proxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfa_proxy
+  confidence: auto

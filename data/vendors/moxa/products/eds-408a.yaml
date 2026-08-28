@@ -1,0 +1,10 @@
+id: eds-408a
+vendor_id: moxa
+name: Eds-408A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:eds\-408a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eds-408a
+  confidence: auto

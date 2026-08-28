@@ -1,0 +1,10 @@
+id: marine-pro-observer
+vendor_id: auto-maskin
+name: Marine Pro Observer
+type: software
+tags: []
+cpe: cpe:2.3:a:auto\-maskin:marine_pro_observer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: marine_pro_observer
+  confidence: auto

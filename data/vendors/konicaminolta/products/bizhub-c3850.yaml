@@ -1,0 +1,10 @@
+id: bizhub-c3850
+vendor_id: konicaminolta
+name: Bizhub C3850
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_c3850:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c3850
+  confidence: auto

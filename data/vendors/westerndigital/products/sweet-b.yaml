@@ -1,0 +1,10 @@
+id: sweet-b
+vendor_id: westerndigital
+name: Sweet B
+type: software
+tags: []
+cpe: cpe:2.3:a:westerndigital:sweet_b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sweet_b
+  confidence: auto

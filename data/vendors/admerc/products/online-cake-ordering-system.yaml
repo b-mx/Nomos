@@ -1,0 +1,10 @@
+id: online-cake-ordering-system
+vendor_id: admerc
+name: Online Cake Ordering System
+type: software
+tags: []
+cpe: cpe:2.3:a:admerc:online_cake_ordering_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_cake_ordering_system
+  confidence: auto

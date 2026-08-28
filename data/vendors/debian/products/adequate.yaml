@@ -1,0 +1,10 @@
+id: adequate
+vendor_id: debian
+name: Adequate
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:adequate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adequate
+  confidence: auto

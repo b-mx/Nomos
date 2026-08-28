@@ -1,0 +1,10 @@
+id: plant-connect
+vendor_id: abb
+name: Plant Connect
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:plant_connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plant_connect
+  confidence: auto

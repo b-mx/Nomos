@@ -1,0 +1,10 @@
+id: hbd3pr2-firmware
+vendor_id: honeywell
+name: Hbd3Pr2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hbd3pr2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hbd3pr2_firmware
+  confidence: auto

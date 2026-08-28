@@ -1,0 +1,10 @@
+id: im-c530f
+vendor_id: ricoh
+name: Im C530F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_c530f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_c530f
+  confidence: auto

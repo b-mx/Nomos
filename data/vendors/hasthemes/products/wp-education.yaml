@@ -1,0 +1,10 @@
+id: wp-education
+vendor_id: hasthemes
+name: Wp Education
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:wp_education:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_education
+  confidence: auto

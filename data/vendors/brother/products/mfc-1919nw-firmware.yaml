@@ -1,0 +1,10 @@
+id: mfc-1919nw-firmware
+vendor_id: brother
+name: Mfc-1919Nw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-1919nw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-1919nw_firmware
+  confidence: auto

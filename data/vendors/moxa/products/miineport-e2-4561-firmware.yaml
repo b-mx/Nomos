@@ -1,0 +1,10 @@
+id: miineport-e2-4561-firmware
+vendor_id: moxa
+name: Miineport E2 4561 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:miineport_e2_4561_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miineport_e2_4561_firmware
+  confidence: auto

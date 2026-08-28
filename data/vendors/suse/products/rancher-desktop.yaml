@@ -1,0 +1,10 @@
+id: rancher-desktop
+vendor_id: suse
+name: Rancher Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:rancher_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rancher_desktop
+  confidence: auto

@@ -1,0 +1,10 @@
+id: comfort-40-firmware
+vendor_id: binatoneglobal
+name: Comfort 40 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:comfort_40_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comfort_40_firmware
+  confidence: auto

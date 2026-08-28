@@ -1,0 +1,10 @@
+id: yangtian-mc-godavari-firmware
+vendor_id: lenovo
+name: Yangtian Mc Godavari Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yangtian_mc_godavari_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_mc_godavari_firmware
+  confidence: auto

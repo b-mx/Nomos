@@ -1,0 +1,10 @@
+id: key-trustee-server
+vendor_id: cloudera
+name: Key Trustee Server
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudera:key_trustee_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: key_trustee_server
+  confidence: auto

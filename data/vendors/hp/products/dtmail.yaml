@@ -1,0 +1,10 @@
+id: dtmail
+vendor_id: hp
+name: Dtmail
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:dtmail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dtmail
+  confidence: auto

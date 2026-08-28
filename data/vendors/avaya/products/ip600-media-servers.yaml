@@ -1,0 +1,10 @@
+id: ip600-media-servers
+vendor_id: avaya
+name: Ip600 Media Servers
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:ip600_media_servers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip600_media_servers
+  confidence: auto

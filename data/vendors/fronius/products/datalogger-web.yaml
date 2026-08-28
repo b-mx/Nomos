@@ -1,0 +1,10 @@
+id: datalogger-web
+vendor_id: fronius
+name: Datalogger Web
+type: software
+tags: []
+cpe: cpe:2.3:a:fronius:datalogger_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: datalogger_web
+  confidence: auto

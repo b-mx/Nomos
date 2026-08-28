@@ -1,0 +1,10 @@
+id: proliant-ws460c-gen9-graphics-server-blade
+vendor_id: hpe
+name: Proliant Ws460C Gen9 Graphics Server Blade
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_ws460c_gen9_graphics_server_blade:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_ws460c_gen9_graphics_server_blade
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x10dru-xll
+vendor_id: supermicro
+name: X10Dru-Xll
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10dru\-xll:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10dru-xll
+  confidence: auto

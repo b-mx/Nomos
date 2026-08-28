@@ -1,0 +1,10 @@
+id: buck
+vendor_id: facebook
+name: Buck
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:buck:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: buck
+  confidence: auto

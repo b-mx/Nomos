@@ -1,0 +1,10 @@
+id: cx931
+vendor_id: lexmark
+name: Cx931
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx931:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx931
+  confidence: auto

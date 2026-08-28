@@ -1,0 +1,10 @@
+id: cyw20707a2kubgt-firmware
+vendor_id: cypress
+name: Cyw20707A2Kubgt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cypress:cyw20707a2kubgt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyw20707a2kubgt_firmware
+  confidence: auto

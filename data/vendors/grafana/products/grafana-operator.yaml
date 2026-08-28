@@ -1,0 +1,10 @@
+id: grafana-operator
+vendor_id: grafana
+name: Grafana Operator
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:grafana_operator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: grafana_operator
+  confidence: auto

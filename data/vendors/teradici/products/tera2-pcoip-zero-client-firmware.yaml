@@ -1,0 +1,10 @@
+id: tera2-pcoip-zero-client-firmware
+vendor_id: teradici
+name: Tera2 Pcoip Zero Client Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teradici:tera2_pcoip_zero_client_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tera2_pcoip_zero_client_firmware
+  confidence: auto

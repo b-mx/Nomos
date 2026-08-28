@@ -1,0 +1,7 @@
+id: tcl
+name: Tcl
+cpe: cpe:2.3:*:tcl:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tcl
+  confidence: auto

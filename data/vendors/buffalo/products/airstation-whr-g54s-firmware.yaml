@@ -1,0 +1,10 @@
+id: airstation-whr-g54s-firmware
+vendor_id: buffalo
+name: Airstation Whr-G54S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:airstation_whr\-g54s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airstation_whr-g54s_firmware
+  confidence: auto

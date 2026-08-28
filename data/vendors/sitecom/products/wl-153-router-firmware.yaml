@@ -1,0 +1,10 @@
+id: wl-153-router-firmware
+vendor_id: sitecom
+name: Wl-153 Router Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sitecom:wl\-153_router_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-153_router_firmware
+  confidence: auto

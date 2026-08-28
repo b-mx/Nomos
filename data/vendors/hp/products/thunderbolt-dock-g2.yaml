@@ -1,0 +1,10 @@
+id: thunderbolt-dock-g2
+vendor_id: hp
+name: Thunderbolt Dock G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:thunderbolt_dock_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thunderbolt_dock_g2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ua-net-standard-stack
+vendor_id: opcfoundation
+name: Ua .Net Standard Stack
+type: software
+tags: []
+cpe: cpe:2.3:a:opcfoundation:ua_\.net_standard_stack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ua_.net_standard_stack
+  confidence: auto

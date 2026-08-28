@@ -1,0 +1,10 @@
+id: tg-n366
+vendor_id: siklu
+name: Tg N366
+type: hardware
+tags: []
+cpe: cpe:2.3:h:siklu:tg_n366:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg_n366
+  confidence: auto

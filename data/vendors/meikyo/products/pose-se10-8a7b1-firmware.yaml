@@ -1,0 +1,10 @@
+id: pose-se10-8a7b1-firmware
+vendor_id: meikyo
+name: Pose Se10-8A7B1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meikyo:pose_se10\-8a7b1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pose_se10-8a7b1_firmware
+  confidence: auto

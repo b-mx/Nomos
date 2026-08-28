@@ -1,0 +1,10 @@
+id: x915
+vendor_id: akuvox
+name: X915
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akuvox:x915:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x915
+  confidence: auto

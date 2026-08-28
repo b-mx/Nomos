@@ -1,0 +1,10 @@
+id: v520-firmware
+vendor_id: lenovo
+name: V520 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v520_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v520_firmware
+  confidence: auto

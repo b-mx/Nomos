@@ -1,0 +1,10 @@
+id: homematic-ccu2-firmware
+vendor_id: eq-3
+name: Homematic Ccu2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eq\-3:homematic_ccu2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: homematic_ccu2_firmware
+  confidence: auto

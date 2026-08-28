@@ -1,0 +1,10 @@
+id: iec-61850-software-library
+vendor_id: trianglemicroworks
+name: Iec 61850 Software Library
+type: software
+tags: []
+cpe: cpe:2.3:a:trianglemicroworks:iec_61850_software_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iec_61850_software_library
+  confidence: auto

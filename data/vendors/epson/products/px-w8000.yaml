@@ -1,0 +1,10 @@
+id: px-w8000
+vendor_id: epson
+name: Px-W8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-w8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-w8000
+  confidence: auto

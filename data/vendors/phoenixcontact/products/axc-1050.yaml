@@ -1,0 +1,10 @@
+id: axc-1050
+vendor_id: phoenixcontact
+name: Axc 1050
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:axc_1050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axc_1050
+  confidence: auto

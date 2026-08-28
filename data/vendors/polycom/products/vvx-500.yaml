@@ -1,0 +1,10 @@
+id: vvx-500
+vendor_id: polycom
+name: Vvx 500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx_500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx_500
+  confidence: auto

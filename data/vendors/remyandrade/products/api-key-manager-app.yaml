@@ -1,0 +1,10 @@
+id: api-key-manager-app
+vendor_id: remyandrade
+name: Api Key Manager App
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:api_key_manager_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: api_key_manager_app
+  confidence: auto

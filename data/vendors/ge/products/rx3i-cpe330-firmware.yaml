@@ -1,0 +1,10 @@
+id: rx3i-cpe330-firmware
+vendor_id: ge
+name: Rx3I Cpe330 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:rx3i_cpe330_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx3i_cpe330_firmware
+  confidence: auto

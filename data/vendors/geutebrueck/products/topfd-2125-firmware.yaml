@@ -1,0 +1,10 @@
+id: topfd-2125-firmware
+vendor_id: geutebrueck
+name: Topfd-2125 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:geutebrueck:topfd\-2125_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: topfd-2125_firmware
+  confidence: auto

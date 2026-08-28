@@ -1,0 +1,10 @@
+id: jsonwebtoken
+vendor_id: auth0
+name: Jsonwebtoken
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:jsonwebtoken:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jsonwebtoken
+  confidence: auto

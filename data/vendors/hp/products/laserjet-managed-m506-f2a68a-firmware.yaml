@@ -1,0 +1,10 @@
+id: laserjet-managed-m506-f2a68a-firmware
+vendor_id: hp
+name: Laserjet Managed M506 F2A68A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_m506_f2a68a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_m506_f2a68a_firmware
+  confidence: auto

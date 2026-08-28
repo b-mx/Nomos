@@ -1,0 +1,10 @@
+id: airvelocity-1500
+vendor_id: airspan
+name: Airvelocity 1500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airspan:airvelocity_1500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airvelocity_1500
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ga10
+vendor_id: yokogawa
+name: Ga10
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:ga10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ga10
+  confidence: auto

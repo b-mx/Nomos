@@ -1,0 +1,10 @@
+id: performance-co-pilot
+vendor_id: sgi
+name: Performance Co-Pilot
+type: software
+tags: []
+cpe: cpe:2.3:a:sgi:performance_co\-pilot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: performance_co-pilot
+  confidence: auto

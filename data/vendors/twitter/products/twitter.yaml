@@ -1,0 +1,10 @@
+id: twitter
+vendor_id: twitter
+name: Twitter
+type: software
+tags: []
+cpe: cpe:2.3:a:twitter:twitter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twitter
+  confidence: auto

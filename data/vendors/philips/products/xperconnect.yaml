@@ -1,0 +1,10 @@
+id: xperconnect
+vendor_id: philips
+name: Xperconnect
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:xperconnect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xperconnect
+  confidence: auto

@@ -1,0 +1,10 @@
+id: snyk-language-server
+vendor_id: snyk
+name: Snyk Language Server
+type: software
+tags: []
+cpe: cpe:2.3:a:snyk:snyk_language_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snyk_language_server
+  confidence: auto

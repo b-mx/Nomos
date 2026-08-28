@@ -1,0 +1,7 @@
+id: matomo
+name: Matomo
+cpe: cpe:2.3:*:matomo:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matomo
+  confidence: auto

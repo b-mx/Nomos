@@ -1,0 +1,10 @@
+id: gnome-remote-desktop
+vendor_id: gnome
+name: Gnome-Remote-Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-remote\-desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-remote-desktop
+  confidence: auto

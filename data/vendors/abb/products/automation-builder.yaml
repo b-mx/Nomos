@@ -1,0 +1,10 @@
+id: automation-builder
+vendor_id: abb
+name: Automation Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:automation_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automation_builder
+  confidence: auto

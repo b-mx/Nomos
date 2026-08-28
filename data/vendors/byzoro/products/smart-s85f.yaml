@@ -1,0 +1,10 @@
+id: smart-s85f
+vendor_id: byzoro
+name: Smart S85F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:byzoro:smart_s85f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_s85f
+  confidence: auto

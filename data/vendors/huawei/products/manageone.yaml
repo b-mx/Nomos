@@ -1,0 +1,10 @@
+id: manageone
+vendor_id: huawei
+name: Manageone
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:manageone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageone
+  confidence: auto

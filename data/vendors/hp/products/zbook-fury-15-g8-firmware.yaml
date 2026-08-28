@@ -1,0 +1,10 @@
+id: zbook-fury-15-g8-firmware
+vendor_id: hp
+name: Zbook Fury 15 G8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zbook_fury_15_g8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_fury_15_g8_firmware
+  confidence: auto

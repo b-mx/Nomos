@@ -1,0 +1,10 @@
+id: wp-pipes
+vendor_id: thimpress
+name: Wp Pipes
+type: software
+tags: []
+cpe: cpe:2.3:a:thimpress:wp_pipes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_pipes
+  confidence: auto

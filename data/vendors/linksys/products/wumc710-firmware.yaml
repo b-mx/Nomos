@@ -1,0 +1,10 @@
+id: wumc710-firmware
+vendor_id: linksys
+name: Wumc710 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:wumc710_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wumc710_firmware
+  confidence: auto

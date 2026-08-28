@@ -1,0 +1,10 @@
+id: sketchbook
+vendor_id: autodesk
+name: Sketchbook
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:sketchbook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sketchbook
+  confidence: auto

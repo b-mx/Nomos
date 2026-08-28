@@ -1,0 +1,10 @@
+id: vap11ac
+vendor_id: vonets
+name: Vap11Ac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vonets:vap11ac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vap11ac
+  confidence: auto

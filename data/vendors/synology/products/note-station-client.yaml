@@ -1,0 +1,10 @@
+id: note-station-client
+vendor_id: synology
+name: Note Station Client
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:note_station_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: note_station_client
+  confidence: auto

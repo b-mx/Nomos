@@ -1,0 +1,10 @@
+id: advance-steel
+vendor_id: autodesk
+name: Advance Steel
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:advance_steel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advance_steel
+  confidence: auto

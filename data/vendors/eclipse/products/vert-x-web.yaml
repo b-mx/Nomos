@@ -1,0 +1,10 @@
+id: vert-x-web
+vendor_id: eclipse
+name: Vert.X-Web
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:vert\.x\-web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vert.x-web
+  confidence: auto

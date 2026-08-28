@@ -2,9 +2,7 @@ id: elasticsearch
 vendor_id: elastic
 name: Elasticsearch
 type: software
-tags:
-- database
-icon: cib:elastic
+tags: []
 aliases:
 - source: cisa_kev
   value: Elasticsearch

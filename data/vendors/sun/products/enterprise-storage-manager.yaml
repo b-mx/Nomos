@@ -1,0 +1,10 @@
+id: enterprise-storage-manager
+vendor_id: sun
+name: Enterprise Storage Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:enterprise_storage_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_storage_manager
+  confidence: auto

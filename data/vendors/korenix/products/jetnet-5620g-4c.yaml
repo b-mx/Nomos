@@ -1,0 +1,10 @@
+id: jetnet-5620g-4c
+vendor_id: korenix
+name: Jetnet 5620G-4C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetnet_5620g\-4c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_5620g-4c
+  confidence: auto

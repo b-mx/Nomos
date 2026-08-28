@@ -1,0 +1,10 @@
+id: officejet-6835-t6t84a
+vendor_id: hp
+name: Officejet 6835 T6T84A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_6835_t6t84a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_6835_t6t84a
+  confidence: auto

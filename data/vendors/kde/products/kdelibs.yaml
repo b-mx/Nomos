@@ -1,0 +1,10 @@
+id: kdelibs
+vendor_id: kde
+name: Kdelibs
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kdelibs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kdelibs
+  confidence: auto

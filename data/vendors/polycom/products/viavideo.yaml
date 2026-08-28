@@ -1,0 +1,10 @@
+id: viavideo
+vendor_id: polycom
+name: Viavideo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:viavideo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viavideo
+  confidence: auto

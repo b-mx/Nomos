@@ -1,0 +1,10 @@
+id: x11spm-tpf-firmware
+vendor_id: supermicro
+name: X11Spm-Tpf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11spm\-tpf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11spm-tpf_firmware
+  confidence: auto

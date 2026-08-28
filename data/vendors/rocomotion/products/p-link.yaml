@@ -1,0 +1,10 @@
+id: p-link
+vendor_id: rocomotion
+name: P Link
+type: software
+tags: []
+cpe: cpe:2.3:a:rocomotion:p_link:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p_link
+  confidence: auto

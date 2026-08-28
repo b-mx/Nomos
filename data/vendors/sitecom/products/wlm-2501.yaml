@@ -1,0 +1,10 @@
+id: wlm-2501
+vendor_id: sitecom
+name: Wlm-2501
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sitecom:wlm\-2501:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlm-2501
+  confidence: auto

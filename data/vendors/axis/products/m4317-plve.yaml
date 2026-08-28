@@ -1,0 +1,10 @@
+id: m4317-plve
+vendor_id: axis
+name: M4317-Plve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m4317\-plve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m4317-plve
+  confidence: auto

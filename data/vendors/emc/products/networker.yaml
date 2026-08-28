@@ -1,0 +1,10 @@
+id: networker
+vendor_id: emc
+name: Networker
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:networker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: networker
+  confidence: auto

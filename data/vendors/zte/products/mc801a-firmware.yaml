@@ -1,0 +1,10 @@
+id: mc801a-firmware
+vendor_id: zte
+name: Mc801A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:mc801a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc801a_firmware
+  confidence: auto

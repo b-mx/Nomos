@@ -1,0 +1,10 @@
+id: srg3300-firmware
+vendor_id: huawei
+name: Srg3300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:srg3300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srg3300_firmware
+  confidence: auto

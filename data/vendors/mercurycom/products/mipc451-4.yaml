@@ -1,0 +1,10 @@
+id: mipc451-4
+vendor_id: mercurycom
+name: Mipc451-4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mercurycom:mipc451\-4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mipc451-4
+  confidence: auto

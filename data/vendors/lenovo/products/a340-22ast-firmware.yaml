@@ -1,0 +1,10 @@
+id: a340-22ast-firmware
+vendor_id: lenovo
+name: A340-22Ast Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:a340\-22ast_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a340-22ast_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: enterprise-suite
+vendor_id: safensoft
+name: Enterprise Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:safensoft:enterprise_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_suite
+  confidence: auto

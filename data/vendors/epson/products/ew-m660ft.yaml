@@ -1,0 +1,10 @@
+id: ew-m660ft
+vendor_id: epson
+name: Ew-M660Ft
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ew\-m660ft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ew-m660ft
+  confidence: auto

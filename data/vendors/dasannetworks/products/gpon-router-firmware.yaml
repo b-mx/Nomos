@@ -1,0 +1,10 @@
+id: gpon-router-firmware
+vendor_id: dasannetworks
+name: Gpon Router Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dasannetworks:gpon_router_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gpon_router_firmware
+  confidence: auto

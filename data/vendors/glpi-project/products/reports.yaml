@@ -1,0 +1,10 @@
+id: reports
+vendor_id: glpi-project
+name: Reports
+type: software
+tags: []
+cpe: cpe:2.3:a:glpi\-project:reports:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reports
+  confidence: auto

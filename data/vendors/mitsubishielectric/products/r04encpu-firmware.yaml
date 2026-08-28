@@ -1,0 +1,10 @@
+id: r04encpu-firmware
+vendor_id: mitsubishielectric
+name: R04Encpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:r04encpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r04encpu_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e750-firmware
+vendor_id: gl-inet
+name: E750 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:e750_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e750_firmware
+  confidence: auto

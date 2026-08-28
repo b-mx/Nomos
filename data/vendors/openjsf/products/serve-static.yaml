@@ -1,0 +1,10 @@
+id: serve-static
+vendor_id: openjsf
+name: Serve-Static
+type: software
+tags: []
+cpe: cpe:2.3:a:openjsf:serve\-static:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: serve-static
+  confidence: auto

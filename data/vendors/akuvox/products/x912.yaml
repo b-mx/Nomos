@@ -1,0 +1,10 @@
+id: x912
+vendor_id: akuvox
+name: X912
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akuvox:x912:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x912
+  confidence: auto

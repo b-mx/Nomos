@@ -1,0 +1,14 @@
+id: emberjs
+vendor_id: emberjs
+name: Ember
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:emberjs:ember\.js:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: emberjs
+  confidence: auto
+- source: nvd
+  value: ember.js
+  confidence: auto

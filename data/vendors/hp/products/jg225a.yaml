@@ -1,0 +1,10 @@
+id: jg225a
+vendor_id: hp
+name: Jg225A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg225a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg225a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 88w8787-firmware
+vendor_id: marvell
+name: 88W8787 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marvell:88w8787_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 88w8787_firmware
+  confidence: auto

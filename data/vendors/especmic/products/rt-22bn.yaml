@@ -1,0 +1,10 @@
+id: rt-22bn
+vendor_id: especmic
+name: Rt-22Bn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:especmic:rt\-22bn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-22bn
+  confidence: auto

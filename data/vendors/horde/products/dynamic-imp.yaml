@@ -1,0 +1,10 @@
+id: dynamic-imp
+vendor_id: horde
+name: Dynamic Imp
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:dynamic_imp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dynamic_imp
+  confidence: auto

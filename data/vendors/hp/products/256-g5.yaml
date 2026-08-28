@@ -1,0 +1,10 @@
+id: 256-g5
+vendor_id: hp
+name: 256 G5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:256_g5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 256_g5
+  confidence: auto

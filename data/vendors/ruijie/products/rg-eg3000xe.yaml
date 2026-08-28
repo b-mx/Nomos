@@ -1,0 +1,10 @@
+id: rg-eg3000xe
+vendor_id: ruijie
+name: Rg-Eg3000Xe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-eg3000xe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-eg3000xe
+  confidence: auto

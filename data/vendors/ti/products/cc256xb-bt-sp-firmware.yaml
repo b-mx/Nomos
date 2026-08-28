@@ -1,0 +1,10 @@
+id: cc256xb-bt-sp-firmware
+vendor_id: ti
+name: Cc256Xb-Bt-Sp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ti:cc256xb\-bt\-sp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc256xb-bt-sp_firmware
+  confidence: auto

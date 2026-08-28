@@ -1,0 +1,10 @@
+id: billing-software
+vendor_id: kashipara
+name: Billing Software
+type: software
+tags: []
+cpe: cpe:2.3:a:kashipara:billing_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: billing_software
+  confidence: auto

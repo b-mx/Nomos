@@ -1,0 +1,10 @@
+id: plus-ex
+vendor_id: jtekt
+name: Plus Ex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:plus_ex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plus_ex
+  confidence: auto

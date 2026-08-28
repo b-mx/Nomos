@@ -1,0 +1,10 @@
+id: ba30-n
+vendor_id: smtav
+name: Ba30-N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:smtav:ba30\-n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ba30-n
+  confidence: auto

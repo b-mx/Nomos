@@ -1,0 +1,10 @@
+id: c9s13a
+vendor_id: hp
+name: C9S13A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:c9s13a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c9s13a
+  confidence: auto

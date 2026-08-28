@@ -1,0 +1,10 @@
+id: edge-controller-firmware
+vendor_id: wago
+name: Edge Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:edge_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edge_controller_firmware
+  confidence: auto

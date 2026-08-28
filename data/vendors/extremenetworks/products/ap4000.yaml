@@ -1,0 +1,10 @@
+id: ap4000
+vendor_id: extremenetworks
+name: Ap4000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap4000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap4000
+  confidence: auto

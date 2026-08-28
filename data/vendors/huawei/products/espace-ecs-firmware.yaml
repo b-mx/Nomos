@@ -1,0 +1,10 @@
+id: espace-ecs-firmware
+vendor_id: huawei
+name: Espace Ecs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:espace_ecs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espace_ecs_firmware
+  confidence: auto

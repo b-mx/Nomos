@@ -1,0 +1,10 @@
+id: sgi-tempo
+vendor_id: hp
+name: Sgi Tempo
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:sgi_tempo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sgi_tempo
+  confidence: auto

@@ -1,0 +1,10 @@
+id: data-domain-os
+vendor_id: emc
+name: Data Domain Os
+type: os
+tags: []
+cpe: cpe:2.3:o:emc:data_domain_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_domain_os
+  confidence: auto

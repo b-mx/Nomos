@@ -1,0 +1,10 @@
+id: proxysg
+vendor_id: bluecoat
+name: Proxysg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bluecoat:proxysg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proxysg
+  confidence: auto

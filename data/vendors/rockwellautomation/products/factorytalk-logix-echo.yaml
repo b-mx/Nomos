@@ -1,0 +1,10 @@
+id: factorytalk-logix-echo
+vendor_id: rockwellautomation
+name: Factorytalk Logix Echo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:factorytalk_logix_echo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_logix_echo
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hg2201t-firmware
+vendor_id: fiberhome
+name: Hg2201T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fiberhome:hg2201t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg2201t_firmware
+  confidence: auto

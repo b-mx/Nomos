@@ -1,0 +1,10 @@
+id: asterisk-appliance-developer-kit
+vendor_id: digium
+name: Asterisk Appliance Developer Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:digium:asterisk_appliance_developer_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asterisk_appliance_developer_kit
+  confidence: auto

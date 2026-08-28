@@ -1,0 +1,10 @@
+id: trend-iq411-firmware
+vendor_id: honeywell
+name: Trend Iq411 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:trend_iq411_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trend_iq411_firmware
+  confidence: auto

@@ -1,0 +1,6 @@
+id: forgejo
+name: Forgejo
+aliases:
+- source: nvd
+  value: forgejo
+  confidence: auto

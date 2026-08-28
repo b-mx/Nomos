@@ -1,0 +1,10 @@
+id: sg5
+vendor_id: avaya
+name: Sg5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:sg5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg5
+  confidence: auto

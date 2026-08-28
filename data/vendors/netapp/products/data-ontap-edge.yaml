@@ -1,0 +1,10 @@
+id: data-ontap-edge
+vendor_id: netapp
+name: Data Ontap Edge
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:data_ontap_edge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_ontap_edge
+  confidence: auto

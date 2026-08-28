@@ -1,0 +1,10 @@
+id: network-interface-board-cc-link
+vendor_id: mitsubishielectric
+name: Network Interface Board Cc-Link
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:network_interface_board_cc\-link:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_interface_board_cc-link
+  confidence: auto

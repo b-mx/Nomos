@@ -1,0 +1,10 @@
+id: pharmacy-management
+vendor_id: code-projects
+name: Pharmacy Management
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:pharmacy_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pharmacy_management
+  confidence: auto

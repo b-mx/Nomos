@@ -1,0 +1,10 @@
+id: hashbar
+vendor_id: hasthemes
+name: Hashbar
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:hashbar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hashbar
+  confidence: auto

@@ -1,0 +1,10 @@
+id: multilin-urplus-c90
+vendor_id: ge
+name: Multilin Urplus C90
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:multilin_urplus_c90:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_urplus_c90
+  confidence: auto

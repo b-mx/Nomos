@@ -1,0 +1,10 @@
+id: santricity-cloud-connector
+vendor_id: netapp
+name: Santricity Cloud Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:santricity_cloud_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: santricity_cloud_connector
+  confidence: auto

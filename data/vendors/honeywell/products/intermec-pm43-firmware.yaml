@@ -1,0 +1,10 @@
+id: intermec-pm43-firmware
+vendor_id: honeywell
+name: Intermec Pm43 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:intermec_pm43_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intermec_pm43_firmware
+  confidence: auto

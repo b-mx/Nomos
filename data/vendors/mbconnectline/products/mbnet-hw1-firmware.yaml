@@ -1,0 +1,10 @@
+id: mbnet-hw1-firmware
+vendor_id: mbconnectline
+name: Mbnet Hw1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mbconnectline:mbnet_hw1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbnet_hw1_firmware
+  confidence: auto

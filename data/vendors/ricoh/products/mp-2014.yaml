@@ -1,0 +1,10 @@
+id: mp-2014
+vendor_id: ricoh
+name: Mp 2014
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_2014:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_2014
+  confidence: auto

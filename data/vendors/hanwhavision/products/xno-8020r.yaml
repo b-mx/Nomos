@@ -1,0 +1,10 @@
+id: xno-8020r
+vendor_id: hanwhavision
+name: Xno-8020R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xno\-8020r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xno-8020r
+  confidence: auto

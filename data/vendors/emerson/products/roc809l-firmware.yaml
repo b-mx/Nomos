@@ -1,0 +1,10 @@
+id: roc809l-firmware
+vendor_id: emerson
+name: Roc809L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:roc809l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roc809l_firmware
+  confidence: auto

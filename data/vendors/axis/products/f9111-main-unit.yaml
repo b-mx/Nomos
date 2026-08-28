@@ -1,0 +1,10 @@
+id: f9111-main-unit
+vendor_id: axis
+name: F9111 Main Unit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:f9111_main_unit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f9111_main_unit
+  confidence: auto

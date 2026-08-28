@@ -1,0 +1,10 @@
+id: storeonce-2610-iscsi-backup-system
+vendor_id: hp
+name: Storeonce 2610 Iscsi Backup System
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:storeonce_2610_iscsi_backup_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_2610_iscsi_backup_system
+  confidence: auto

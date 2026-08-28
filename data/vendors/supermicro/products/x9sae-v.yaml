@@ -1,0 +1,10 @@
+id: x9sae-v
+vendor_id: supermicro
+name: X9Sae(-V)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9sae\(\-v\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9sae(-v)
+  confidence: auto

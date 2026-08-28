@@ -1,0 +1,10 @@
+id: calsos-csdx-firmware
+vendor_id: necplatforms
+name: Calsos Csdx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:necplatforms:calsos_csdx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: calsos_csdx_firmware
+  confidence: auto

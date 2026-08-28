@@ -1,0 +1,13 @@
+id: proftpd
+vendor_id: proftpd
+name: ProFTPD
+type: software
+tags: []
+cpe: cpe:2.3:a:proftpd:proftpd:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: proftpd
+  confidence: auto
+- source: nvd
+  value: proftpd
+  confidence: auto

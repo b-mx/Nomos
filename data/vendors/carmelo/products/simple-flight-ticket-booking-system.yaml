@@ -1,0 +1,10 @@
+id: simple-flight-ticket-booking-system
+vendor_id: carmelo
+name: Simple Flight Ticket Booking System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:simple_flight_ticket_booking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_flight_ticket_booking_system
+  confidence: auto

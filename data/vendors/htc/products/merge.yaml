@@ -1,0 +1,10 @@
+id: merge
+vendor_id: htc
+name: Merge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:merge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: merge
+  confidence: auto

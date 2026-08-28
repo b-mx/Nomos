@@ -1,0 +1,10 @@
+id: train-ticket-reservation-system
+vendor_id: fabian
+name: Train Ticket Reservation System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:train_ticket_reservation_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: train_ticket_reservation_system
+  confidence: auto

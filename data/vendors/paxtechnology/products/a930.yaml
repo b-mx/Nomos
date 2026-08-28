@@ -1,0 +1,10 @@
+id: a930
+vendor_id: paxtechnology
+name: A930
+type: hardware
+tags: []
+cpe: cpe:2.3:h:paxtechnology:a930:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a930
+  confidence: auto

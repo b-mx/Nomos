@@ -1,0 +1,10 @@
+id: ms-n7032-uh-firmware
+vendor_id: milesight
+name: Ms-N7032-Uh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:milesight:ms\-n7032\-uh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms-n7032-uh_firmware
+  confidence: auto

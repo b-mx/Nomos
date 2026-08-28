@@ -1,0 +1,10 @@
+id: ht-feed
+vendor_id: hasthemes
+name: Ht Feed
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:ht_feed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ht_feed
+  confidence: auto

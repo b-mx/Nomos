@@ -1,0 +1,10 @@
+id: storeonce-3640
+vendor_id: hpe
+name: Storeonce 3640
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:storeonce_3640:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_3640
+  confidence: auto

@@ -1,0 +1,10 @@
+id: giga-pro
+vendor_id: gotrango
+name: Giga Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gotrango:giga_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: giga_pro
+  confidence: auto

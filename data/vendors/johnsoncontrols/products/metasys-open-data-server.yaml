@@ -1,0 +1,10 @@
+id: metasys-open-data-server
+vendor_id: johnsoncontrols
+name: Metasys Open Data Server
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:metasys_open_data_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: metasys_open_data_server
+  confidence: auto

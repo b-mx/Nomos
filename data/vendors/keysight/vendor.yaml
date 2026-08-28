@@ -1,0 +1,7 @@
+id: keysight
+name: Keysight
+cpe: cpe:2.3:*:keysight:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keysight
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lan-w451ngr-firmware
+vendor_id: elecom
+name: Lan-W451Ngr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:lan\-w451ngr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-w451ngr_firmware
+  confidence: auto

@@ -1,0 +1,13 @@
+id: godot
+vendor_id: godotengine
+name: Godot
+type: software
+tags: []
+cpe: cpe:2.3:a:godotengine:godot:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: godot
+  confidence: auto
+- source: nvd
+  value: godot
+  confidence: auto

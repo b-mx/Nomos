@@ -1,0 +1,10 @@
+id: compute-node-x440
+vendor_id: lenovo
+name: Compute Node-X440
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:compute_node\-x440:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compute_node-x440
+  confidence: auto

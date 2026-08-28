@@ -1,0 +1,10 @@
+id: autocad-plant-3d
+vendor_id: autodesk
+name: Autocad Plant 3D
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autocad_plant_3d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocad_plant_3d
+  confidence: auto

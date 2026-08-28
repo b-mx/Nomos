@@ -1,0 +1,10 @@
+id: kuadrant
+vendor_id: linuxfoundation
+name: Kuadrant
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:kuadrant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kuadrant
+  confidence: auto

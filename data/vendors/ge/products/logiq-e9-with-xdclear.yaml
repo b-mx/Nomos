@@ -1,0 +1,10 @@
+id: logiq-e9-with-xdclear
+vendor_id: ge
+name: Logiq E9 With Xdclear
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:logiq_e9_with_xdclear:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logiq_e9_with_xdclear
+  confidence: auto

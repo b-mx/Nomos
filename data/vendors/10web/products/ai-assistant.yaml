@@ -1,0 +1,10 @@
+id: ai-assistant
+vendor_id: 10web
+name: Ai Assistant
+type: software
+tags: []
+cpe: cpe:2.3:a:10web:ai_assistant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ai_assistant
+  confidence: auto

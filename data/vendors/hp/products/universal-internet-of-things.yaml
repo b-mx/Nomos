@@ -1,0 +1,10 @@
+id: universal-internet-of-things
+vendor_id: hp
+name: Universal Internet Of Things
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:universal_internet_of_things:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_internet_of_things
+  confidence: auto

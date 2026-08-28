@@ -1,0 +1,10 @@
+id: yoga-700-11isk
+vendor_id: lenovo
+name: Yoga 700-11Isk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yoga_700\-11isk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_700-11isk
+  confidence: auto

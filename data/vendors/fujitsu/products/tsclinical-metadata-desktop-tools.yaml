@@ -1,0 +1,10 @@
+id: tsclinical-metadata-desktop-tools
+vendor_id: fujitsu
+name: Tsclinical Metadata Desktop Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:tsclinical_metadata_desktop_tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tsclinical_metadata_desktop_tools
+  confidence: auto

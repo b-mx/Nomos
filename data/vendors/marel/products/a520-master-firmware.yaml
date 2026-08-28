@@ -1,0 +1,10 @@
+id: a520-master-firmware
+vendor_id: marel
+name: A520 Master Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:a520_master_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a520_master_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dcp-1610wr
+vendor_id: brother
+name: Dcp-1610Wr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-1610wr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-1610wr
+  confidence: auto

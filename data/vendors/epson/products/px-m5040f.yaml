@@ -1,0 +1,10 @@
+id: px-m5040f
+vendor_id: epson
+name: Px-M5040F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-m5040f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-m5040f
+  confidence: auto

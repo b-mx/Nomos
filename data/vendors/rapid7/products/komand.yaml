@@ -1,0 +1,10 @@
+id: komand
+vendor_id: rapid7
+name: Komand
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:komand:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: komand
+  confidence: auto

@@ -1,0 +1,7 @@
+id: clerk
+name: Clerk
+cpe: cpe:2.3:*:clerk:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rg-uac-6000-e50-firmware
+vendor_id: ruijie
+name: Rg-Uac 6000-E50 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-uac_6000\-e50_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-uac_6000-e50_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cloudlink-board-firmware
+vendor_id: huawei
+name: Cloudlink Board Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:cloudlink_board_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudlink_board_firmware
+  confidence: auto

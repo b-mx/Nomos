@@ -1,0 +1,10 @@
+id: s540-15iwl-gtx
+vendor_id: lenovo
+name: S540-15Iwl Gtx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s540\-15iwl_gtx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s540-15iwl_gtx
+  confidence: auto

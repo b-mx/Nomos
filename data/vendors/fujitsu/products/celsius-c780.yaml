@@ -1,0 +1,10 @@
+id: celsius-c780
+vendor_id: fujitsu
+name: Celsius C780
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:celsius_c780:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: celsius_c780
+  confidence: auto

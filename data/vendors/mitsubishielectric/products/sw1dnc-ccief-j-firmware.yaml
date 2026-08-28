@@ -1,0 +1,10 @@
+id: sw1dnc-ccief-j-firmware
+vendor_id: mitsubishielectric
+name: Sw1Dnc-Ccief-J Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:sw1dnc\-ccief\-j_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sw1dnc-ccief-j_firmware
+  confidence: auto

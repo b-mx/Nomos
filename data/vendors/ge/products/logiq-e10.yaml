@@ -1,0 +1,10 @@
+id: logiq-e10
+vendor_id: ge
+name: Logiq E10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:logiq_e10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logiq_e10
+  confidence: auto

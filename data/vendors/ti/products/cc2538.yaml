@@ -1,0 +1,10 @@
+id: cc2538
+vendor_id: ti
+name: Cc2538
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:cc2538:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc2538
+  confidence: auto

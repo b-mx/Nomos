@@ -1,0 +1,10 @@
+id: hmi-sl
+vendor_id: codesys
+name: Hmi Sl
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:hmi_sl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hmi_sl
+  confidence: auto

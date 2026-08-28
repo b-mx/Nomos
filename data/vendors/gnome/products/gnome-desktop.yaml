@@ -1,0 +1,10 @@
+id: gnome-desktop
+vendor_id: gnome
+name: Gnome-Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-desktop
+  confidence: auto

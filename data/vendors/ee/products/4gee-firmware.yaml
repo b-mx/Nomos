@@ -1,0 +1,10 @@
+id: 4gee-firmware
+vendor_id: ee
+name: 4Gee Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ee:4gee_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4gee_firmware
+  confidence: auto

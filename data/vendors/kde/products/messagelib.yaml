@@ -1,0 +1,10 @@
+id: messagelib
+vendor_id: kde
+name: Messagelib
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:messagelib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: messagelib
+  confidence: auto

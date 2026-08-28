@@ -1,0 +1,10 @@
+id: workcentre-pro-65
+vendor_id: xerox
+name: Workcentre Pro 65
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:workcentre_pro_65:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_pro_65
+  confidence: auto

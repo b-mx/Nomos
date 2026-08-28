@@ -1,0 +1,10 @@
+id: x11scl-if
+vendor_id: supermicro
+name: X11Scl-If
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11scl\-if:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11scl-if
+  confidence: auto

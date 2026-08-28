@@ -1,0 +1,10 @@
+id: wow-countdowns
+vendor_id: wow-company
+name: Wow Countdowns
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:wow_countdowns:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wow_countdowns
+  confidence: auto

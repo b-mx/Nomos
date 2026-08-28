@@ -1,0 +1,10 @@
+id: mb2442-firmware
+vendor_id: lexmark
+name: Mb2442 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:mb2442_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mb2442_firmware
+  confidence: auto

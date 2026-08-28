@@ -1,0 +1,10 @@
+id: cam-v3-firmware
+vendor_id: wyze
+name: Cam V3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wyze:cam_v3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cam_v3_firmware
+  confidence: auto

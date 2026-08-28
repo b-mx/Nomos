@@ -1,0 +1,10 @@
+id: color-laserjet-pro-m452-cf389a-firmware
+vendor_id: hp
+name: Color Laserjet Pro M452 Cf389A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_pro_m452_cf389a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_pro_m452_cf389a_firmware
+  confidence: auto

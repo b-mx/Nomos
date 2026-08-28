@@ -1,0 +1,10 @@
+id: operational-analyst
+vendor_id: avaya
+name: Operational Analyst
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:operational_analyst:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: operational_analyst
+  confidence: auto

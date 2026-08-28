@@ -1,0 +1,10 @@
+id: point-of-sales
+vendor_id: janobe
+name: Point Of Sales
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:point_of_sales:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: point_of_sales
+  confidence: auto

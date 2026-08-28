@@ -1,0 +1,10 @@
+id: wmr-433w
+vendor_id: buffalo
+name: Wmr-433W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wmr\-433w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wmr-433w
+  confidence: auto

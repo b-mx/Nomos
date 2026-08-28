@@ -1,0 +1,10 @@
+id: classic-arms-militaria
+vendor_id: pocketmags
+name: Classic Arms & Militaria
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:classic_arms_\&_militaria:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: classic_arms_&_militaria
+  confidence: auto

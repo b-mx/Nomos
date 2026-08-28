@@ -1,0 +1,10 @@
+id: zenworks-servers
+vendor_id: novell
+name: Zenworks Servers
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:zenworks_servers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenworks_servers
+  confidence: auto

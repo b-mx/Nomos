@@ -1,0 +1,10 @@
+id: regina-sweets-bakery
+vendor_id: linecorp
+name: Regina Sweets&Bakery
+type: software
+tags: []
+cpe: cpe:2.3:a:linecorp:regina_sweets\&bakery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: regina_sweets&bakery
+  confidence: auto

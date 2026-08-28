@@ -1,0 +1,10 @@
+id: oculina-mobile-banking
+vendor_id: meafinancial
+name: Oculina Mobile Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:oculina_mobile_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oculina_mobile_banking
+  confidence: auto

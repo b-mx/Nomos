@@ -1,0 +1,10 @@
+id: series-18i-wb
+vendor_id: fanuc
+name: Series 18I-Wb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:series_18i\-wb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: series_18i-wb
+  confidence: auto

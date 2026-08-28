@@ -1,0 +1,10 @@
+id: mr804
+vendor_id: mercurycom
+name: Mr804
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mercurycom:mr804:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mr804
+  confidence: auto

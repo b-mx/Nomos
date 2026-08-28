@@ -1,0 +1,10 @@
+id: speed-browser
+vendor_id: '360'
+name: Speed Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:360:speed_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: speed_browser
+  confidence: auto

@@ -1,0 +1,10 @@
+id: h13ssf
+vendor_id: supermicro
+name: H13Ssf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h13ssf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h13ssf
+  confidence: auto

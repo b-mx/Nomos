@@ -1,0 +1,10 @@
+id: usb-host-uvc-class-driver
+vendor_id: espressif
+name: Usb Host Uvc Class Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:espressif:usb_host_uvc_class_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usb_host_uvc_class_driver
+  confidence: auto

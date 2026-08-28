@@ -1,0 +1,10 @@
+id: univerge-aspire-wx
+vendor_id: necplatforms
+name: Univerge Aspire Wx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:necplatforms:univerge_aspire_wx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: univerge_aspire_wx
+  confidence: auto

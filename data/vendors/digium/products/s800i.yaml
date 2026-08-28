@@ -1,0 +1,10 @@
+id: s800i
+vendor_id: digium
+name: S800I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digium:s800i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s800i
+  confidence: auto

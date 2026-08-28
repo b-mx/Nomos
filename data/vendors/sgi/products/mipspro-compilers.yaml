@@ -1,0 +1,10 @@
+id: mipspro-compilers
+vendor_id: sgi
+name: Mipspro Compilers
+type: software
+tags: []
+cpe: cpe:2.3:a:sgi:mipspro_compilers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mipspro_compilers
+  confidence: auto

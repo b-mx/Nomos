@@ -1,0 +1,10 @@
+id: intelligent-platform-management-firmware
+vendor_id: supermicro
+name: Intelligent Platform Management Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:intelligent_platform_management_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_platform_management_firmware
+  confidence: auto

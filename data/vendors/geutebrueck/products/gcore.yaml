@@ -1,0 +1,10 @@
+id: gcore
+vendor_id: geutebrueck
+name: Gcore
+type: software
+tags: []
+cpe: cpe:2.3:a:geutebrueck:gcore:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gcore
+  confidence: auto

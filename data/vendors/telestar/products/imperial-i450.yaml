@@ -1,0 +1,10 @@
+id: imperial-i450
+vendor_id: telestar
+name: Imperial I450
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telestar:imperial_i450:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imperial_i450
+  confidence: auto

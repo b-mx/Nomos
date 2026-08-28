@@ -1,0 +1,10 @@
+id: content-platform-anywhere
+vendor_id: hitachi
+name: Content Platform Anywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:content_platform_anywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: content_platform_anywhere
+  confidence: auto

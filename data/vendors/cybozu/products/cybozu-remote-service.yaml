@@ -1,0 +1,10 @@
+id: cybozu-remote-service
+vendor_id: cybozu
+name: Cybozu Remote Service
+type: software
+tags: []
+cpe: cpe:2.3:a:cybozu:cybozu_remote_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cybozu_remote_service
+  confidence: auto

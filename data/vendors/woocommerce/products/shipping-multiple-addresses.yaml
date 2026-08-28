@@ -1,0 +1,10 @@
+id: shipping-multiple-addresses
+vendor_id: woocommerce
+name: Shipping Multiple Addresses
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:shipping_multiple_addresses:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shipping_multiple_addresses
+  confidence: auto

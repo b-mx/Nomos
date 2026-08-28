@@ -1,0 +1,10 @@
+id: multilin-f35
+vendor_id: ge
+name: Multilin F35
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:multilin_f35:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_f35
+  confidence: auto

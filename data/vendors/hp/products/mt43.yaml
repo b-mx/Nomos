@@ -1,0 +1,10 @@
+id: mt43
+vendor_id: hp
+name: Mt43
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mt43:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt43
+  confidence: auto

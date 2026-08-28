@@ -1,0 +1,10 @@
+id: exaquantum
+vendor_id: yokogawa
+name: Exaquantum
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:exaquantum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exaquantum
+  confidence: auto

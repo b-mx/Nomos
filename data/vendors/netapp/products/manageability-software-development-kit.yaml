@@ -1,0 +1,10 @@
+id: manageability-software-development-kit
+vendor_id: netapp
+name: Manageability Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:manageability_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageability_software_development_kit
+  confidence: auto

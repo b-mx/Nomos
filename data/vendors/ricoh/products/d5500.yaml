@@ -1,0 +1,10 @@
+id: d5500
+vendor_id: ricoh
+name: D5500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:d5500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d5500
+  confidence: auto

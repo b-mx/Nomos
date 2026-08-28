@@ -1,0 +1,10 @@
+id: configfree-utility
+vendor_id: toshiba
+name: Configfree Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:toshiba:configfree_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: configfree_utility
+  confidence: auto

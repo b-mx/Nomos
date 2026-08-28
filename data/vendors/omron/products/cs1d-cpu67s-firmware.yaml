@@ -1,0 +1,10 @@
+id: cs1d-cpu67s-firmware
+vendor_id: omron
+name: Cs1D-Cpu67S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cs1d\-cpu67s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1d-cpu67s_firmware
+  confidence: auto

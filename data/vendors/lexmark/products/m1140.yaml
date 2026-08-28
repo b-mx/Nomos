@@ -1,0 +1,10 @@
+id: m1140
+vendor_id: lexmark
+name: M1140
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:m1140:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m1140
+  confidence: auto

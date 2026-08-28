@@ -1,0 +1,10 @@
+id: datamanager-box-2-0
+vendor_id: fronius
+name: Datamanager Box 2.0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fronius:datamanager_box_2\.0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: datamanager_box_2.0
+  confidence: auto

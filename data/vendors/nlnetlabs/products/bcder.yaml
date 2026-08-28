@@ -1,0 +1,10 @@
+id: bcder
+vendor_id: nlnetlabs
+name: Bcder
+type: software
+tags: []
+cpe: cpe:2.3:a:nlnetlabs:bcder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcder
+  confidence: auto

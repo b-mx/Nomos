@@ -1,0 +1,10 @@
+id: up-t2-4k
+vendor_id: zte
+name: Up T2 4K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:up_t2_4k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: up_t2_4k
+  confidence: auto

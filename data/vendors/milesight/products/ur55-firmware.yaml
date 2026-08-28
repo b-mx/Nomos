@@ -1,0 +1,10 @@
+id: ur55-firmware
+vendor_id: milesight
+name: Ur55 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:milesight:ur55_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ur55_firmware
+  confidence: auto

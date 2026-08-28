@@ -1,0 +1,10 @@
+id: tv-ip572pi
+vendor_id: trendnet
+name: Tv-Ip572Pi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tv\-ip572pi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv-ip572pi
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sp-210su-china-firmware
+vendor_id: ricoh
+name: Sp 210Su (China) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:sp_210su_\(china\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_210su_(china)_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rd55up06-v-firmware
+vendor_id: mitsubishielectric
+name: Rd55Up06-V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rd55up06\-v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rd55up06-v_firmware
+  confidence: auto

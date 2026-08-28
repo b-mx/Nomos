@@ -1,0 +1,10 @@
+id: hirschmann-red25
+vendor_id: belden
+name: Hirschmann Red25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_red25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_red25
+  confidence: auto

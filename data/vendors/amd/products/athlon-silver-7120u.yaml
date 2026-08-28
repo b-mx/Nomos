@@ -1,0 +1,10 @@
+id: athlon-silver-7120u
+vendor_id: amd
+name: Athlon Silver 7120U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_silver_7120u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_silver_7120u
+  confidence: auto

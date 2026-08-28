@@ -1,0 +1,10 @@
+id: wrh-150wh
+vendor_id: elecom
+name: Wrh-150Wh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:wrh\-150wh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrh-150wh
+  confidence: auto

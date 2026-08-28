@@ -1,0 +1,10 @@
+id: a9u23
+vendor_id: hp
+name: A9U23
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:a9u23:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a9u23
+  confidence: auto

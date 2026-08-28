@@ -1,0 +1,10 @@
+id: dryice-mycloud
+vendor_id: hcltech
+name: Dryice Mycloud
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:dryice_mycloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dryice_mycloud
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x11ssn-h-wohs
+vendor_id: supermicro
+name: X11Ssn-H-Wohs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11ssn\-h\-wohs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssn-h-wohs
+  confidence: auto

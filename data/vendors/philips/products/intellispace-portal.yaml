@@ -1,0 +1,10 @@
+id: intellispace-portal
+vendor_id: philips
+name: Intellispace Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:intellispace_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellispace_portal
+  confidence: auto

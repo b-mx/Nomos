@@ -1,0 +1,10 @@
+id: fpv-firmware
+vendor_id: dji
+name: Fpv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dji:fpv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fpv_firmware
+  confidence: auto

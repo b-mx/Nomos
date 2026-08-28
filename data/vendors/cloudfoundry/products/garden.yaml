@@ -1,0 +1,10 @@
+id: garden
+vendor_id: cloudfoundry
+name: Garden
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:garden:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: garden
+  confidence: auto

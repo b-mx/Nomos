@@ -1,0 +1,10 @@
+id: cx600
+vendor_id: huawei
+name: Cx600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cx600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx600
+  confidence: auto

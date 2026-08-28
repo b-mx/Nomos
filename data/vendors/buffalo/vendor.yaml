@@ -1,0 +1,7 @@
+id: buffalo
+name: Buffalo
+cpe: cpe:2.3:*:buffalo:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: buffalo
+  confidence: auto

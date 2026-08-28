@@ -1,0 +1,10 @@
+id: tiff
+vendor_id: golang
+name: Tiff
+type: software
+tags: []
+cpe: cpe:2.3:a:golang:tiff:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tiff
+  confidence: auto

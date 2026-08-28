@@ -1,0 +1,10 @@
+id: wp-templata
+vendor_id: hasthemes
+name: Wp Templata
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:wp_templata:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_templata
+  confidence: auto

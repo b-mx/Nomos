@@ -1,0 +1,10 @@
+id: esp32-wroom-32e-firmware
+vendor_id: espressif
+name: Esp32-Wroom-32E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:espressif:esp32\-wroom\-32e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32-wroom-32e_firmware
+  confidence: auto

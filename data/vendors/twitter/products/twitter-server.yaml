@@ -1,0 +1,10 @@
+id: twitter-server
+vendor_id: twitter
+name: Twitter-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:twitter:twitter\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twitter-server
+  confidence: auto

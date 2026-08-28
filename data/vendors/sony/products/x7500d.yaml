@@ -1,0 +1,10 @@
+id: x7500d
+vendor_id: sony
+name: X7500D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:x7500d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x7500d
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cp1e-e14sdr-a-firmware
+vendor_id: omron
+name: Cp1E-E14Sdr-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1e\-e14sdr\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1e-e14sdr-a_firmware
+  confidence: auto

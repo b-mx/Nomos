@@ -1,0 +1,10 @@
+id: mp-c4503
+vendor_id: ricoh
+name: Mp C4503
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_c4503:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c4503
+  confidence: auto

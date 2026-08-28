@@ -1,0 +1,10 @@
+id: stm32cubeprogrammer
+vendor_id: st
+name: Stm32Cubeprogrammer
+type: software
+tags: []
+cpe: cpe:2.3:a:st:stm32cubeprogrammer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32cubeprogrammer
+  confidence: auto

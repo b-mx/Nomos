@@ -1,0 +1,10 @@
+id: apollo-query-planner
+vendor_id: apollographql
+name: Apollo Query-Planner
+type: software
+tags: []
+cpe: cpe:2.3:a:apollographql:apollo_query\-planner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_query-planner
+  confidence: auto

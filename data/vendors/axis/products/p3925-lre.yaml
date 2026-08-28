@@ -1,0 +1,10 @@
+id: p3925-lre
+vendor_id: axis
+name: P3925-Lre
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p3925\-lre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3925-lre
+  confidence: auto

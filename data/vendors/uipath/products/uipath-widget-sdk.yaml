@@ -1,0 +1,10 @@
+id: uipath-widget-sdk
+vendor_id: uipath
+name: Uipath/Widget.Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/widget\.sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/widget.sdk
+  confidence: auto

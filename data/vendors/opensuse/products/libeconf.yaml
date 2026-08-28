@@ -1,0 +1,10 @@
+id: libeconf
+vendor_id: opensuse
+name: Libeconf
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:libeconf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libeconf
+  confidence: auto

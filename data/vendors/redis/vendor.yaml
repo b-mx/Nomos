@@ -1,10 +1,6 @@
 id: redis
 name: Redis
-icon: logos:redis
 aliases:
-  - source: nvd
-    value: redis
-    confidence: curated
-  - source: endoflife
-    value: redis
-    confidence: curated
+- source: cisa_kev
+  value: Redis
+  confidence: auto

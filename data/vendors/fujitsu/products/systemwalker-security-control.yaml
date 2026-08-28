@@ -1,0 +1,10 @@
+id: systemwalker-security-control
+vendor_id: fujitsu
+name: Systemwalker Security Control
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:systemwalker_security_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: systemwalker_security_control
+  confidence: auto

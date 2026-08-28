@@ -1,0 +1,10 @@
+id: xilinx-z-7030
+vendor_id: amd
+name: Xilinx Z-7030
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:xilinx_z\-7030:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xilinx_z-7030
+  confidence: auto

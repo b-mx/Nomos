@@ -1,0 +1,10 @@
+id: sprecon-e-c
+vendor_id: sprecher-automation
+name: Sprecon-E-C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sprecher\-automation:sprecon\-e\-c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sprecon-e-c
+  confidence: auto

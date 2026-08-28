@@ -1,0 +1,7 @@
+id: php-nuke
+name: Php-Nuke
+cpe: cpe:2.3:*:php\-nuke:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: php-nuke
+  confidence: auto

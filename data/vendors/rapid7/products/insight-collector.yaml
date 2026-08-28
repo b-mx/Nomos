@@ -1,0 +1,10 @@
+id: insight-collector
+vendor_id: rapid7
+name: Insight Collector
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:insight_collector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_collector
+  confidence: auto

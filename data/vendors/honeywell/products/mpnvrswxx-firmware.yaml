@@ -1,0 +1,10 @@
+id: mpnvrswxx-firmware
+vendor_id: honeywell
+name: Mpnvrswxx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:mpnvrswxx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mpnvrswxx_firmware
+  confidence: auto

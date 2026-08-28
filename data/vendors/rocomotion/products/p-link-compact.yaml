@@ -1,0 +1,10 @@
+id: p-link-compact
+vendor_id: rocomotion
+name: P Link Compact
+type: software
+tags: []
+cpe: cpe:2.3:a:rocomotion:p_link_compact:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p_link_compact
+  confidence: auto

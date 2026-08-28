@@ -1,0 +1,10 @@
+id: laserjet-mfp-m72625-m72630-2zn49a
+vendor_id: hp
+name: Laserjet Mfp M72625-M72630 2Zn49A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m72625\-m72630_2zn49a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m72625-m72630_2zn49a
+  confidence: auto

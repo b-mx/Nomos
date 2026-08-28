@@ -1,0 +1,10 @@
+id: management-agents
+vendor_id: compaq
+name: Management Agents
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:management_agents:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: management_agents
+  confidence: auto

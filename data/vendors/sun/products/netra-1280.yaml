@@ -1,0 +1,10 @@
+id: netra-1280
+vendor_id: sun
+name: Netra 1280
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sun:netra_1280:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netra_1280
+  confidence: auto

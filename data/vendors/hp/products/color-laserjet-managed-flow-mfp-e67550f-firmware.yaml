@@ -1,0 +1,10 @@
+id: color-laserjet-managed-flow-mfp-e67550f-firmware
+vendor_id: hp
+name: Color Laserjet Managed Flow Mfp E67550F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_managed_flow_mfp_e67550f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_managed_flow_mfp_e67550f_firmware
+  confidence: auto

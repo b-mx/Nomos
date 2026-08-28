@@ -1,0 +1,10 @@
+id: wow-skype-buttons
+vendor_id: wow-company
+name: Wow Skype Buttons
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:wow_skype_buttons:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wow_skype_buttons
+  confidence: auto

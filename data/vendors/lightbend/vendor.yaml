@@ -1,0 +1,7 @@
+id: lightbend
+name: Lightbend
+cpe: cpe:2.3:*:lightbend:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lightbend
+  confidence: auto

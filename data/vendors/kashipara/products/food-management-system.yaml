@@ -1,0 +1,10 @@
+id: food-management-system
+vendor_id: kashipara
+name: Food Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:kashipara:food_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: food_management_system
+  confidence: auto

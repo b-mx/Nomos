@@ -1,0 +1,10 @@
+id: replistor
+vendor_id: emc
+name: Replistor
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:replistor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: replistor
+  confidence: auto

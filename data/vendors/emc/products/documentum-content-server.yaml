@@ -1,0 +1,10 @@
+id: documentum-content-server
+vendor_id: emc
+name: Documentum Content Server
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_content_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_content_server
+  confidence: auto

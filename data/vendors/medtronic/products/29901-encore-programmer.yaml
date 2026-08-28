@@ -1,0 +1,10 @@
+id: 29901-encore-programmer
+vendor_id: medtronic
+name: 29901 Encore Programmer
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:29901_encore_programmer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 29901_encore_programmer
+  confidence: auto

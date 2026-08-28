@@ -1,0 +1,10 @@
+id: gaa2820
+vendor_id: rstinstruments
+name: Gaa2820
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:gaa2820:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gaa2820
+  confidence: auto

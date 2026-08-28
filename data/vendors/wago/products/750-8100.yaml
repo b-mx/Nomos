@@ -1,0 +1,10 @@
+id: 750-8100
+vendor_id: wago
+name: 750-8100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:750\-8100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 750-8100
+  confidence: auto

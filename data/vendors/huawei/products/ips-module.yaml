@@ -1,0 +1,10 @@
+id: ips-module
+vendor_id: huawei
+name: Ips Module
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ips_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ips_module
+  confidence: auto

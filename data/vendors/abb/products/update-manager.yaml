@@ -1,0 +1,10 @@
+id: update-manager
+vendor_id: abb
+name: Update Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:update_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: update_manager
+  confidence: auto

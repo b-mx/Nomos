@@ -1,0 +1,10 @@
+id: quidway-s6300
+vendor_id: huawei
+name: Quidway S6300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:quidway_s6300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quidway_s6300
+  confidence: auto

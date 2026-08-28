@@ -1,0 +1,10 @@
+id: windows-stemcells
+vendor_id: pivotal-software
+name: Windows Stemcells
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:windows_stemcells:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: windows_stemcells
+  confidence: auto

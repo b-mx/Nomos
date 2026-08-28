@@ -1,0 +1,10 @@
+id: x11san
+vendor_id: supermicro
+name: X11San
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11san:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11san
+  confidence: auto

@@ -1,0 +1,10 @@
+id: neu-ipd220-28
+vendor_id: neutron
+name: Neu-Ipd220-28
+type: hardware
+tags: []
+cpe: cpe:2.3:h:neutron:neu\-ipd220\-28:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neu-ipd220-28
+  confidence: auto

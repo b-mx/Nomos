@@ -1,0 +1,10 @@
+id: proliant-dl585-g7-server-amd
+vendor_id: hp
+name: Proliant Dl585 G7 Server (Amd)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_dl585_g7_server_\(amd\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_dl585_g7_server_(amd)
+  confidence: auto

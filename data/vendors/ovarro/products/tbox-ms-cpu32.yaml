@@ -1,0 +1,10 @@
+id: tbox-ms-cpu32
+vendor_id: ovarro
+name: Tbox Ms-Cpu32
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ovarro:tbox_ms\-cpu32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tbox_ms-cpu32
+  confidence: auto

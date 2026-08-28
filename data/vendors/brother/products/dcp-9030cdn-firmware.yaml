@@ -1,0 +1,10 @@
+id: dcp-9030cdn-firmware
+vendor_id: brother
+name: Dcp-9030Cdn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp\-9030cdn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-9030cdn_firmware
+  confidence: auto

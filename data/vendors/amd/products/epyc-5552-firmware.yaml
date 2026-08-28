@@ -1,0 +1,10 @@
+id: epyc-5552-firmware
+vendor_id: amd
+name: Epyc 5552 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:epyc_5552_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_5552_firmware
+  confidence: auto

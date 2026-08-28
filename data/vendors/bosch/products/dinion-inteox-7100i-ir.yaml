@@ -1,0 +1,10 @@
+id: dinion-inteox-7100i-ir
+vendor_id: bosch
+name: Dinion Inteox 7100I Ir
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:dinion_inteox_7100i_ir:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_inteox_7100i_ir
+  confidence: auto

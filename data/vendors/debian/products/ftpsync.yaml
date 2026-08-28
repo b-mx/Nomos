@@ -1,0 +1,10 @@
+id: ftpsync
+vendor_id: debian
+name: Ftpsync
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:ftpsync:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ftpsync
+  confidence: auto

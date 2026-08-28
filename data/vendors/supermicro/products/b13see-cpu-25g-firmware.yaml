@@ -1,0 +1,10 @@
+id: b13see-cpu-25g-firmware
+vendor_id: supermicro
+name: B13See-Cpu-25G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:b13see\-cpu\-25g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b13see-cpu-25g_firmware
+  confidence: auto

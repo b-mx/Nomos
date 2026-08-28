@@ -1,0 +1,10 @@
+id: omnicore-e10
+vendor_id: abb
+name: Omnicore E10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:omnicore_e10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omnicore_e10
+  confidence: auto

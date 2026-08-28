@@ -1,0 +1,10 @@
+id: sc-f7200
+vendor_id: epson
+name: Sc-F7200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-f7200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-f7200
+  confidence: auto

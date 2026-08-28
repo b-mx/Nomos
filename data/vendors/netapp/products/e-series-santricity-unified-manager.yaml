@@ -1,0 +1,10 @@
+id: e-series-santricity-unified-manager
+vendor_id: netapp
+name: E-Series Santricity Unified Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:e\-series_santricity_unified_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-series_santricity_unified_manager
+  confidence: auto

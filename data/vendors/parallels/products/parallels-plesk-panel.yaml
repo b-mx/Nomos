@@ -1,0 +1,10 @@
+id: parallels-plesk-panel
+vendor_id: parallels
+name: Parallels Plesk Panel
+type: software
+tags: []
+cpe: cpe:2.3:a:parallels:parallels_plesk_panel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: parallels_plesk_panel
+  confidence: auto

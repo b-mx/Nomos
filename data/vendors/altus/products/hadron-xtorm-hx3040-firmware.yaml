@@ -1,0 +1,10 @@
+id: hadron-xtorm-hx3040-firmware
+vendor_id: altus
+name: Hadron Xtorm Hx3040 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:altus:hadron_xtorm_hx3040_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hadron_xtorm_hx3040_firmware
+  confidence: auto

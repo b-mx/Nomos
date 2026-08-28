@@ -1,0 +1,10 @@
+id: gc-a26-j2-firmware
+vendor_id: jtekt
+name: Gc-A26-J2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:gc\-a26\-j2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gc-a26-j2_firmware
+  confidence: auto

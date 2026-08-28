@@ -1,0 +1,10 @@
+id: ipharm
+vendor_id: axiomthemes
+name: Ipharm
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:ipharm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipharm
+  confidence: auto

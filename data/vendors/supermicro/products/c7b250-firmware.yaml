@@ -1,0 +1,10 @@
+id: c7b250-firmware
+vendor_id: supermicro
+name: C7B250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:c7b250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c7b250_firmware
+  confidence: auto

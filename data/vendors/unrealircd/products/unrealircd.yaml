@@ -1,0 +1,13 @@
+id: unrealircd
+vendor_id: unrealircd
+name: UnrealIRCd
+type: software
+tags: []
+cpe: cpe:2.3:a:unrealircd:unrealircd:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: unrealircd
+  confidence: auto
+- source: nvd
+  value: unrealircd
+  confidence: auto

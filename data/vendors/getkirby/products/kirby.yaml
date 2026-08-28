@@ -1,0 +1,13 @@
+id: kirby
+vendor_id: getkirby
+name: Kirby
+type: software
+tags: []
+cpe: cpe:2.3:a:getkirby:kirby:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: kirby
+  confidence: auto
+- source: nvd
+  value: kirby
+  confidence: auto

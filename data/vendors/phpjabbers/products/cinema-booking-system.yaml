@@ -1,0 +1,10 @@
+id: cinema-booking-system
+vendor_id: phpjabbers
+name: Cinema Booking System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:cinema_booking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cinema_booking_system
+  confidence: auto

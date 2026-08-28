@@ -1,0 +1,10 @@
+id: mainframe-enablers-resourcepak-base
+vendor_id: emc
+name: Mainframe Enablers Resourcepak Base
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:mainframe_enablers_resourcepak_base:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mainframe_enablers_resourcepak_base
+  confidence: auto

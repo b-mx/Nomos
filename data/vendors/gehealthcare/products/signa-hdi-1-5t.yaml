@@ -1,0 +1,10 @@
+id: signa-hdi-1-5t
+vendor_id: gehealthcare
+name: Signa Hdi 1.5T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:signa_hdi_1\.5t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: signa_hdi_1.5t
+  confidence: auto

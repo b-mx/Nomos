@@ -1,0 +1,10 @@
+id: a2004se
+vendor_id: iptime
+name: A2004Se
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a2004se:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a2004se
+  confidence: auto

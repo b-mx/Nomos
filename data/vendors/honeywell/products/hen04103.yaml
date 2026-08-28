@@ -1,0 +1,10 @@
+id: hen04103
+vendor_id: honeywell
+name: Hen04103
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hen04103:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hen04103
+  confidence: auto

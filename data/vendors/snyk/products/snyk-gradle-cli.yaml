@@ -1,0 +1,10 @@
+id: snyk-gradle-cli
+vendor_id: snyk
+name: Snyk Gradle Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:snyk:snyk_gradle_cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snyk_gradle_cli
+  confidence: auto

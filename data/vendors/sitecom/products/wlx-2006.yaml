@@ -1,0 +1,10 @@
+id: wlx-2006
+vendor_id: sitecom
+name: Wlx-2006
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sitecom:wlx\-2006:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlx-2006
+  confidence: auto

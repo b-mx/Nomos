@@ -1,0 +1,10 @@
+id: nvr-915
+vendor_id: planet
+name: Nvr-915
+type: hardware
+tags: []
+cpe: cpe:2.3:h:planet:nvr\-915:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nvr-915
+  confidence: auto

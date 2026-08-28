@@ -1,0 +1,10 @@
+id: bently-nevada-60m100-firmware
+vendor_id: bakerhughes
+name: Bently Nevada 60M100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bakerhughes:bently_nevada_60m100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bently_nevada_60m100_firmware
+  confidence: auto

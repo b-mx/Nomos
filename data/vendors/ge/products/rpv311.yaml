@@ -1,0 +1,10 @@
+id: rpv311
+vendor_id: ge
+name: Rpv311
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:rpv311:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rpv311
+  confidence: auto

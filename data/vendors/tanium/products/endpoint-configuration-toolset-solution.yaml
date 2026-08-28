@@ -1,0 +1,10 @@
+id: endpoint-configuration-toolset-solution
+vendor_id: tanium
+name: Endpoint Configuration Toolset Solution
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:endpoint_configuration_toolset_solution:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: endpoint_configuration_toolset_solution
+  confidence: auto

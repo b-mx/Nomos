@@ -1,0 +1,10 @@
+id: 2a69a
+vendor_id: hp
+name: 2A69A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:2a69a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2a69a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: etherhaul-70ghz-e-band-radio
+vendor_id: siklu
+name: Etherhaul 70Ghz E-Band Radio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:siklu:etherhaul_70ghz_e\-band_radio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: etherhaul_70ghz_e-band_radio
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ms317
+vendor_id: lexmark
+name: Ms317
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms317:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms317
+  confidence: auto

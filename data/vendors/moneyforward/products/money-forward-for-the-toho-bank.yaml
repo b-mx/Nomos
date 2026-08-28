@@ -1,0 +1,10 @@
+id: money-forward-for-the-toho-bank
+vendor_id: moneyforward
+name: Money Forward For The Toho Bank
+type: software
+tags: []
+cpe: cpe:2.3:a:moneyforward:money_forward_for_the_toho_bank:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: money_forward_for_the_toho_bank
+  confidence: auto

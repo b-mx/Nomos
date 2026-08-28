@@ -1,0 +1,10 @@
+id: flets-install-tool
+vendor_id: ntt
+name: Flets Install Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:ntt:flets_install_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flets_install_tool
+  confidence: auto

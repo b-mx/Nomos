@@ -1,0 +1,10 @@
+id: multiwriter-1700c
+vendor_id: nec
+name: Multiwriter 1700C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:multiwriter_1700c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multiwriter_1700c
+  confidence: auto

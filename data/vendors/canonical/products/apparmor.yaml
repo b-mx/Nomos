@@ -1,0 +1,10 @@
+id: apparmor
+vendor_id: canonical
+name: Apparmor
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:apparmor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apparmor
+  confidence: auto

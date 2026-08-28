@@ -1,0 +1,10 @@
+id: 330-15arr
+vendor_id: lenovo
+name: 330-15Arr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:330\-15arr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 330-15arr
+  confidence: auto

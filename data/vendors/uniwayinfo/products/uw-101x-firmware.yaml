@@ -1,0 +1,10 @@
+id: uw-101x-firmware
+vendor_id: uniwayinfo
+name: Uw-101X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:uniwayinfo:uw\-101x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uw-101x_firmware
+  confidence: auto

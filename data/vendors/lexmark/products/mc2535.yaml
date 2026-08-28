@@ -1,0 +1,10 @@
+id: mc2535
+vendor_id: lexmark
+name: Mc2535
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mc2535:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc2535
+  confidence: auto

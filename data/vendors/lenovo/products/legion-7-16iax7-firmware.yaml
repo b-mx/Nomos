@@ -1,0 +1,10 @@
+id: legion-7-16iax7-firmware
+vendor_id: lenovo
+name: Legion 7 16Iax7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_7_16iax7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_7_16iax7_firmware
+  confidence: auto

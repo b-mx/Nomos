@@ -1,0 +1,10 @@
+id: webinspect
+vendor_id: hp
+name: Webinspect
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:webinspect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webinspect
+  confidence: auto

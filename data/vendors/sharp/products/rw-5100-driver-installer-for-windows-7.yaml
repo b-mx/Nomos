@@ -1,0 +1,10 @@
+id: rw-5100-driver-installer-for-windows-7
+vendor_id: sharp
+name: Rw-5100 Driver Installer For Windows 7
+type: software
+tags: []
+cpe: cpe:2.3:a:sharp:rw\-5100_driver_installer_for_windows_7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rw-5100_driver_installer_for_windows_7
+  confidence: auto

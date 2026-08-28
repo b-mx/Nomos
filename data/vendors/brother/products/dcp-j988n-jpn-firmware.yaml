@@ -1,0 +1,10 @@
+id: dcp-j988n-jpn-firmware
+vendor_id: brother
+name: Dcp-J988N(Jpn) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp\-j988n\(jpn\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-j988n(jpn)_firmware
+  confidence: auto

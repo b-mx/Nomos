@@ -1,0 +1,10 @@
+id: bently-nevada-3500-22m-serial-firmware
+vendor_id: ge
+name: Bently Nevada 3500/22M Serial Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:bently_nevada_3500\/22m_serial_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bently_nevada_3500/22m_serial_firmware
+  confidence: auto

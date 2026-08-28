@@ -1,0 +1,10 @@
+id: elitebook-845-g7
+vendor_id: hp
+name: Elitebook 845 G7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_845_g7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_845_g7
+  confidence: auto

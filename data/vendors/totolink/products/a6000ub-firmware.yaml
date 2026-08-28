@@ -1,0 +1,10 @@
+id: a6000ub-firmware
+vendor_id: totolink
+name: A6000Ub Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:a6000ub_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a6000ub_firmware
+  confidence: auto

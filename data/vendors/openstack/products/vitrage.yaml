@@ -1,0 +1,10 @@
+id: vitrage
+vendor_id: openstack
+name: Vitrage
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:vitrage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vitrage
+  confidence: auto

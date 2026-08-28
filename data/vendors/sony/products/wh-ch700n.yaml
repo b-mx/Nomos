@@ -1,0 +1,10 @@
+id: wh-ch700n
+vendor_id: sony
+name: Wh-Ch700N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:wh\-ch700n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wh-ch700n
+  confidence: auto

@@ -1,0 +1,10 @@
+id: suresigns-vs4
+vendor_id: philips
+name: Suresigns Vs4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:suresigns_vs4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suresigns_vs4
+  confidence: auto

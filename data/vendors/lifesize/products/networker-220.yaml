@@ -1,0 +1,10 @@
+id: networker-220
+vendor_id: lifesize
+name: Networker 220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lifesize:networker_220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: networker_220
+  confidence: auto

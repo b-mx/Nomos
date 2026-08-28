@@ -1,0 +1,10 @@
+id: nip200
+vendor_id: huawei
+name: Nip200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nip200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nip200
+  confidence: auto

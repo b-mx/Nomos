@@ -1,0 +1,10 @@
+id: m2u87a
+vendor_id: hp
+name: M2U87A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m2u87a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2u87a
+  confidence: auto

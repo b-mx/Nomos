@@ -1,0 +1,10 @@
+id: ccx-400-firmware
+vendor_id: poly
+name: Ccx 400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:poly:ccx_400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ccx_400_firmware
+  confidence: auto

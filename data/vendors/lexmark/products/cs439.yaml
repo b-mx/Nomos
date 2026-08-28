@@ -1,0 +1,10 @@
+id: cs439
+vendor_id: lexmark
+name: Cs439
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs439:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs439
+  confidence: auto

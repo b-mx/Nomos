@@ -1,0 +1,7 @@
+id: prestashop
+name: Prestashop
+cpe: cpe:2.3:*:prestashop:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prestashop
+  confidence: auto

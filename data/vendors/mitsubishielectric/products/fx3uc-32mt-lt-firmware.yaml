@@ -1,0 +1,10 @@
+id: fx3uc-32mt-lt-firmware
+vendor_id: mitsubishielectric
+name: Fx3Uc-32Mt-Lt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3uc\-32mt\-lt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3uc-32mt-lt_firmware
+  confidence: auto

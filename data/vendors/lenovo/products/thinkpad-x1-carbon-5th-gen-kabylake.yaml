@@ -1,0 +1,10 @@
+id: thinkpad-x1-carbon-5th-gen-kabylake
+vendor_id: lenovo
+name: Thinkpad X1 Carbon 5Th Gen Kabylake
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x1_carbon_5th_gen_kabylake:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_carbon_5th_gen_kabylake
+  confidence: auto

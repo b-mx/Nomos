@@ -1,0 +1,10 @@
+id: m720vs-firmware
+vendor_id: mitsubishielectric
+name: M720Vs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:m720vs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m720vs_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 9000-firmware
+vendor_id: netapp
+name: 9000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:9000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9000_firmware
+  confidence: auto

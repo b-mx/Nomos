@@ -1,10 +1,6 @@
 id: microsoft
 name: Microsoft
-icon: logos:microsoft-icon
 aliases:
-  - source: nvd
-    value: microsoft
-    confidence: curated
-  - source: cisa_kev
-    value: "Microsoft Corporation"
-    confidence: curated
+- source: cisa_kev
+  value: Microsoft
+  confidence: auto

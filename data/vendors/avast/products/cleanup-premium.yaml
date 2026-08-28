@@ -1,0 +1,10 @@
+id: cleanup-premium
+vendor_id: avast
+name: Cleanup Premium
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:cleanup_premium:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cleanup_premium
+  confidence: auto

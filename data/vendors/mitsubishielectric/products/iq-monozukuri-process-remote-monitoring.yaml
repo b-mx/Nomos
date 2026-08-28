@@ -1,0 +1,10 @@
+id: iq-monozukuri-process-remote-monitoring
+vendor_id: mitsubishielectric
+name: Iq Monozukuri Process Remote Monitoring
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:iq_monozukuri_process_remote_monitoring:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq_monozukuri_process_remote_monitoring
+  confidence: auto

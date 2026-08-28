@@ -1,0 +1,10 @@
+id: hustle
+vendor_id: wpmudev
+name: Hustle
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmudev:hustle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hustle
+  confidence: auto

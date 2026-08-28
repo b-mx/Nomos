@@ -1,0 +1,10 @@
+id: jetport
+vendor_id: korenix
+name: Jetport
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetport
+  confidence: auto

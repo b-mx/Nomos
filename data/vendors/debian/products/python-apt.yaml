@@ -1,0 +1,10 @@
+id: python-apt
+vendor_id: debian
+name: Python-Apt
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:python\-apt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: python-apt
+  confidence: auto

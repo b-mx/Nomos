@@ -1,0 +1,10 @@
+id: lp-s5300r
+vendor_id: epson
+name: Lp-S5300R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:lp\-s5300r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-s5300r
+  confidence: auto

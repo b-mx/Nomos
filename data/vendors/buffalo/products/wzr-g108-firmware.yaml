@@ -1,0 +1,10 @@
+id: wzr-g108-firmware
+vendor_id: buffalo
+name: Wzr-G108 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wzr\-g108_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr-g108_firmware
+  confidence: auto

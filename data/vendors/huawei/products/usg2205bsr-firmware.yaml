@@ -1,0 +1,10 @@
+id: usg2205bsr-firmware
+vendor_id: huawei
+name: Usg2205Bsr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:usg2205bsr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usg2205bsr_firmware
+  confidence: auto

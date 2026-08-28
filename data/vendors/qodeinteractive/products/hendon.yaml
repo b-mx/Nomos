@@ -1,0 +1,10 @@
+id: hendon
+vendor_id: qodeinteractive
+name: Hendon
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:hendon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hendon
+  confidence: auto

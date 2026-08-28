@@ -1,0 +1,10 @@
+id: ascend-p6-edge-t00
+vendor_id: huawei
+name: Ascend P6 Edge-T00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ascend_p6_edge\-t00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ascend_p6_edge-t00
+  confidence: auto

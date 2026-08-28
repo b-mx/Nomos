@@ -1,0 +1,10 @@
+id: optima-quantum-firmware
+vendor_id: gehealthcare
+name: Optima Quantum Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:optima_quantum_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_quantum_firmware
+  confidence: auto

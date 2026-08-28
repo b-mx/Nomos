@@ -1,0 +1,10 @@
+id: ib8382-et
+vendor_id: vivotek
+name: Ib8382-Et
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ib8382\-et:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib8382-et
+  confidence: auto

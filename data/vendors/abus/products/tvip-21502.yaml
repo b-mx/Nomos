@@ -1,0 +1,10 @@
+id: tvip-21502
+vendor_id: abus
+name: Tvip 21502
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abus:tvip_21502:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_21502
+  confidence: auto

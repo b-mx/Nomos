@@ -1,0 +1,10 @@
+id: converged-communications-server
+vendor_id: avaya
+name: Converged Communications Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:converged_communications_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: converged_communications_server
+  confidence: auto

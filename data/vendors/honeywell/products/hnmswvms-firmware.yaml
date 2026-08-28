@@ -1,0 +1,10 @@
+id: hnmswvms-firmware
+vendor_id: honeywell
+name: Hnmswvms Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hnmswvms_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hnmswvms_firmware
+  confidence: auto

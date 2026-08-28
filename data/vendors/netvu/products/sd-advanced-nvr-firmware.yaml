@@ -1,0 +1,10 @@
+id: sd-advanced-nvr-firmware
+vendor_id: netvu
+name: Sd Advanced Nvr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netvu:sd_advanced_nvr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd_advanced_nvr_firmware
+  confidence: auto

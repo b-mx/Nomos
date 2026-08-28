@@ -1,0 +1,13 @@
+id: font-awesome
+vendor_id: fontawesome
+name: Font Awesome
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: font-awesome
+  confidence: auto
+- source: nvd
+  value: font_awesome
+  confidence: auto

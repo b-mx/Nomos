@@ -1,0 +1,10 @@
+id: hnmswvms
+vendor_id: honeywell
+name: Hnmswvms
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hnmswvms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hnmswvms
+  confidence: auto

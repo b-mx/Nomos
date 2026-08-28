@@ -1,0 +1,10 @@
+id: odoh-rs
+vendor_id: cloudflare
+name: Odoh-Rs
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:odoh\-rs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: odoh-rs
+  confidence: auto

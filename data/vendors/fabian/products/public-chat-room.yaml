@@ -1,0 +1,10 @@
+id: public-chat-room
+vendor_id: fabian
+name: Public Chat Room
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:public_chat_room:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: public_chat_room
+  confidence: auto

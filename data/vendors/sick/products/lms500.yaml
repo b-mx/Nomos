@@ -1,0 +1,10 @@
+id: lms500
+vendor_id: sick
+name: Lms500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:lms500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lms500
+  confidence: auto

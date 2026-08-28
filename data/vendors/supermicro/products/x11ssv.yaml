@@ -1,0 +1,10 @@
+id: x11ssv
+vendor_id: supermicro
+name: X11Ssv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11ssv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssv
+  confidence: auto

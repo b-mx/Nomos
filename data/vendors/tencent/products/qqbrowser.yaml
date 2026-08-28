@@ -1,0 +1,10 @@
+id: qqbrowser
+vendor_id: tencent
+name: Qqbrowser
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:qqbrowser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qqbrowser
+  confidence: auto

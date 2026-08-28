@@ -1,0 +1,10 @@
+id: alpha5-smart-loader-firmware
+vendor_id: fujielectric
+name: Alpha5 Smart Loader Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujielectric:alpha5_smart_loader_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alpha5_smart_loader_firmware
+  confidence: auto

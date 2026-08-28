@@ -1,0 +1,10 @@
+id: business-security
+vendor_id: avast
+name: Business Security
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:business_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_security
+  confidence: auto

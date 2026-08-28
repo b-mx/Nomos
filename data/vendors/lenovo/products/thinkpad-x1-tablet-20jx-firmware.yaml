@@ -1,0 +1,10 @@
+id: thinkpad-x1-tablet-20jx-firmware
+vendor_id: lenovo
+name: Thinkpad X1 Tablet (20Jx) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_x1_tablet_\(20jx\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_tablet_(20jx)_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sync241-m1-firmware
+vendor_id: kalkitech
+name: Sync241-M1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kalkitech:sync241\-m1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sync241-m1_firmware
+  confidence: auto

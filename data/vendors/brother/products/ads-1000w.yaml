@@ -1,0 +1,10 @@
+id: ads-1000w
+vendor_id: brother
+name: Ads-1000W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:ads\-1000w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ads-1000w
+  confidence: auto

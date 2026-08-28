@@ -1,0 +1,10 @@
+id: zxhn-z500
+vendor_id: zte
+name: Zxhn Z500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxhn_z500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxhn_z500
+  confidence: auto

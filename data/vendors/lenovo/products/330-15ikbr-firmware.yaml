@@ -1,0 +1,10 @@
+id: 330-15ikbr-firmware
+vendor_id: lenovo
+name: 330-15Ikbr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:330\-15ikbr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 330-15ikbr_firmware
+  confidence: auto

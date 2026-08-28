@@ -1,0 +1,6 @@
+id: cnspec
+name: Cnspec
+aliases:
+- source: nvd
+  value: cnspec
+  confidence: auto

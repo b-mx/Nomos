@@ -1,0 +1,10 @@
+id: prodesk-400-g2-5-sff
+vendor_id: hp
+name: Prodesk 400 G2.5 Sff
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_400_g2\.5_sff:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_400_g2.5_sff
+  confidence: auto

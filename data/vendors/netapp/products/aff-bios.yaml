@@ -1,0 +1,10 @@
+id: aff-bios
+vendor_id: netapp
+name: Aff Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:aff_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aff_bios
+  confidence: auto

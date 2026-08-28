@@ -1,0 +1,10 @@
+id: 260-g3-desktop-mini-pc-firmware
+vendor_id: hp
+name: 260 G3 Desktop Mini Pc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:260_g3_desktop_mini_pc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 260_g3_desktop_mini_pc_firmware
+  confidence: auto

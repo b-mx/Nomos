@@ -1,0 +1,10 @@
+id: fas9000
+vendor_id: netapp
+name: Fas9000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:fas9000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fas9000
+  confidence: auto

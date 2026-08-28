@@ -1,0 +1,10 @@
+id: evo-design-4g
+vendor_id: htc
+name: Evo Design 4G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:evo_design_4g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evo_design_4g
+  confidence: auto

@@ -1,0 +1,10 @@
+id: message
+vendor_id: kddi
+name: + Message
+type: software
+tags: []
+cpe: cpe:2.3:a:kddi:\+_message:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: +_message
+  confidence: auto

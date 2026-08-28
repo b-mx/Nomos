@@ -1,0 +1,10 @@
+id: node-js
+vendor_id: joyent
+name: Node.Js
+type: software
+tags: []
+cpe: cpe:2.3:a:joyent:node\.js:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: node.js
+  confidence: auto

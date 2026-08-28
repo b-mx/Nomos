@@ -1,0 +1,10 @@
+id: ftp-print-server
+vendor_id: hp
+name: Ftp Print Server
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:ftp_print_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ftp_print_server
+  confidence: auto

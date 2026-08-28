@@ -1,0 +1,10 @@
+id: nexto-xpress-xp300-firmware
+vendor_id: altus
+name: Nexto Xpress Xp300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:altus:nexto_xpress_xp300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexto_xpress_xp300_firmware
+  confidence: auto

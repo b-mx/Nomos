@@ -1,0 +1,10 @@
+id: lc1c-firmware
+vendor_id: ezviz
+name: Lc1C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ezviz:lc1c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lc1c_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: t8
+vendor_id: totolink
+name: T8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:t8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t8
+  confidence: auto

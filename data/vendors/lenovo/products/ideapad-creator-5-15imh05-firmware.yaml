@@ -1,0 +1,10 @@
+id: ideapad-creator-5-15imh05-firmware
+vendor_id: lenovo
+name: Ideapad Creator 5-15Imh05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_creator_5\-15imh05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_creator_5-15imh05_firmware
+  confidence: auto

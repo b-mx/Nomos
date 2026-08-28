@@ -1,0 +1,10 @@
+id: pr-400ne
+vendor_id: ntt-west
+name: Pr-400Ne
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-west:pr\-400ne:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pr-400ne
+  confidence: auto

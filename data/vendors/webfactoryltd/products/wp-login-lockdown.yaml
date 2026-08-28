@@ -1,0 +1,10 @@
+id: wp-login-lockdown
+vendor_id: webfactoryltd
+name: Wp Login Lockdown
+type: software
+tags: []
+cpe: cpe:2.3:a:webfactoryltd:wp_login_lockdown:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_login_lockdown
+  confidence: auto

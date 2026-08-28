@@ -1,0 +1,10 @@
+id: click-to-chat
+vendor_id: ninjateam
+name: Click To Chat
+type: software
+tags: []
+cpe: cpe:2.3:a:ninjateam:click_to_chat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: click_to_chat
+  confidence: auto

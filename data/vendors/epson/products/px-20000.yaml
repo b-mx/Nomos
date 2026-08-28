@@ -1,0 +1,10 @@
+id: px-20000
+vendor_id: epson
+name: Px-20000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-20000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-20000
+  confidence: auto

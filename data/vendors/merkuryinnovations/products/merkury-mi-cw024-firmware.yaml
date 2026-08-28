@@ -1,0 +1,10 @@
+id: merkury-mi-cw024-firmware
+vendor_id: merkuryinnovations
+name: Merkury Mi-Cw024 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:merkuryinnovations:merkury_mi\-cw024_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: merkury_mi-cw024_firmware
+  confidence: auto

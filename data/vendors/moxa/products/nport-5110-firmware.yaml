@@ -1,0 +1,10 @@
+id: nport-5110-firmware
+vendor_id: moxa
+name: Nport 5110 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_5110_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5110_firmware
+  confidence: auto

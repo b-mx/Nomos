@@ -1,0 +1,10 @@
+id: intermec-pm23
+vendor_id: honeywell
+name: Intermec Pm23
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:intermec_pm23:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intermec_pm23
+  confidence: auto

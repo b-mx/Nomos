@@ -1,0 +1,10 @@
+id: sr506n
+vendor_id: adtran
+name: Sr506N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:adtran:sr506n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sr506n
+  confidence: auto

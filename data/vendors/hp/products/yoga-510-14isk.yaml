@@ -1,0 +1,10 @@
+id: yoga-510-14isk
+vendor_id: hp
+name: Yoga 510-14Isk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:yoga_510\-14isk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_510-14isk
+  confidence: auto

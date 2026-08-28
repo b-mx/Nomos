@@ -1,0 +1,10 @@
+id: awk-1127
+vendor_id: moxa
+name: Awk-1127
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:awk\-1127:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awk-1127
+  confidence: auto

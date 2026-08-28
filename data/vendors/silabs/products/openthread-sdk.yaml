@@ -1,0 +1,10 @@
+id: openthread-sdk
+vendor_id: silabs
+name: Openthread Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:openthread_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openthread_sdk
+  confidence: auto

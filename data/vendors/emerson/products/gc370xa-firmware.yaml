@@ -1,0 +1,10 @@
+id: gc370xa-firmware
+vendor_id: emerson
+name: Gc370Xa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:gc370xa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gc370xa_firmware
+  confidence: auto

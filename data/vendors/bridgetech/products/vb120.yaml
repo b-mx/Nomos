@@ -1,0 +1,10 @@
+id: vb120
+vendor_id: bridgetech
+name: Vb120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bridgetech:vb120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vb120
+  confidence: auto

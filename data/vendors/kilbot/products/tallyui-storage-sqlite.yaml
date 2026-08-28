@@ -1,0 +1,10 @@
+id: tallyui-storage-sqlite
+vendor_id: kilbot
+name: Tallyui/Storage-Sqlite
+type: software
+tags: []
+cpe: cpe:2.3:a:kilbot:tallyui\/storage\-sqlite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tallyui/storage-sqlite
+  confidence: auto

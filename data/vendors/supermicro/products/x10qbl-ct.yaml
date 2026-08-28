@@ -1,0 +1,10 @@
+id: x10qbl-ct
+vendor_id: supermicro
+name: X10Qbl-Ct
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10qbl\-ct:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10qbl-ct
+  confidence: auto

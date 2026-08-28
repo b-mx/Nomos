@@ -1,0 +1,10 @@
+id: imail-client
+vendor_id: ipswitch
+name: Imail Client
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:imail_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imail_client
+  confidence: auto

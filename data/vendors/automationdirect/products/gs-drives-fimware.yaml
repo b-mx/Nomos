@@ -1,0 +1,10 @@
+id: gs-drives-fimware
+vendor_id: automationdirect
+name: Gs Drives Fimware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:gs_drives_fimware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gs_drives_fimware
+  confidence: auto

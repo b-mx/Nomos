@@ -1,0 +1,10 @@
+id: smp-pro4-firmware
+vendor_id: cayintech
+name: Smp-Pro4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cayintech:smp\-pro4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smp-pro4_firmware
+  confidence: auto

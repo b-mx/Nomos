@@ -1,0 +1,10 @@
+id: seno-200d-firmware
+vendor_id: gehealthcare
+name: Seno 200D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:seno_200d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seno_200d_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mdbook
+vendor_id: rust-lang
+name: Mdbook
+type: software
+tags: []
+cpe: cpe:2.3:a:rust\-lang:mdbook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mdbook
+  confidence: auto

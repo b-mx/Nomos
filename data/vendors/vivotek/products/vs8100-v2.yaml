@@ -1,0 +1,10 @@
+id: vs8100-v2
+vendor_id: vivotek
+name: Vs8100-V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:vs8100\-v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vs8100-v2
+  confidence: auto

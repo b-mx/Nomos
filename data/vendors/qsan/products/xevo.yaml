@@ -1,0 +1,10 @@
+id: xevo
+vendor_id: qsan
+name: Xevo
+type: software
+tags: []
+cpe: cpe:2.3:a:qsan:xevo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xevo
+  confidence: auto

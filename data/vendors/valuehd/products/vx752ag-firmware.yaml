@@ -1,0 +1,10 @@
+id: vx752ag-firmware
+vendor_id: valuehd
+name: Vx752Ag Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:valuehd:vx752ag_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx752ag_firmware
+  confidence: auto

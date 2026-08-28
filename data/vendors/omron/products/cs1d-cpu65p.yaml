@@ -1,0 +1,10 @@
+id: cs1d-cpu65p
+vendor_id: omron
+name: Cs1D-Cpu65P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cs1d\-cpu65p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1d-cpu65p
+  confidence: auto

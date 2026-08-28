@@ -1,0 +1,10 @@
+id: acrn
+vendor_id: linuxfoundation
+name: Acrn
+type: os
+tags: []
+cpe: cpe:2.3:o:linuxfoundation:acrn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acrn
+  confidence: auto

@@ -1,0 +1,13 @@
+id: jekyll
+vendor_id: jekyllrb
+name: Jekyll
+type: software
+tags: []
+cpe: cpe:2.3:a:jekyllrb:jekyll:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: jekyll
+  confidence: auto
+- source: nvd
+  value: jekyll
+  confidence: auto

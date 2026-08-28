@@ -1,0 +1,10 @@
+id: air-6372
+vendor_id: airties
+name: Air 6372
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airties:air_6372:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air_6372
+  confidence: auto

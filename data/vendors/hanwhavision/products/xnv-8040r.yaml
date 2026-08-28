@@ -1,0 +1,10 @@
+id: xnv-8040r
+vendor_id: hanwhavision
+name: Xnv-8040R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-8040r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-8040r
+  confidence: auto

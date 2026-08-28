@@ -1,0 +1,10 @@
+id: hes-339m
+vendor_id: huawei
+name: Hes-339M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hes\-339m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hes-339m
+  confidence: auto

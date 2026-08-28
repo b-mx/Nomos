@@ -1,0 +1,9 @@
+id: ancillary-function-driver-afd-sys
+vendor_id: microsoft
+name: Ancillary Function Driver (afd.sys)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Ancillary Function Driver (afd.sys)
+  confidence: auto

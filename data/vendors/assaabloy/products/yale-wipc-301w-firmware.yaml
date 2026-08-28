@@ -1,0 +1,10 @@
+id: yale-wipc-301w-firmware
+vendor_id: assaabloy
+name: Yale Wipc-301W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:assaabloy:yale_wipc\-301w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale_wipc-301w_firmware
+  confidence: auto

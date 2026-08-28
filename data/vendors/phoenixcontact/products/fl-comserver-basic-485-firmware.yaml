@@ -1,0 +1,10 @@
+id: fl-comserver-basic-485-firmware
+vendor_id: phoenixcontact
+name: Fl Comserver Basic 485 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fl_comserver_basic_485_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_comserver_basic_485_firmware
+  confidence: auto

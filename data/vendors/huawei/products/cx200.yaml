@@ -1,0 +1,10 @@
+id: cx200
+vendor_id: huawei
+name: Cx200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cx200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx200
+  confidence: auto

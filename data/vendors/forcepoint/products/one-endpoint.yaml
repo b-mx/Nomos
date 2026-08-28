@@ -1,0 +1,10 @@
+id: one-endpoint
+vendor_id: forcepoint
+name: One Endpoint
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:one_endpoint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_endpoint
+  confidence: auto

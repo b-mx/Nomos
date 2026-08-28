@@ -1,0 +1,10 @@
+id: vip-app
+vendor_id: huawei
+name: Vip App
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:vip_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vip_app
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kb-ahr04d
+vendor_id: kbdevice
+name: Kb-Ahr04D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kbdevice:kb\-ahr04d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kb-ahr04d
+  confidence: auto

@@ -1,0 +1,10 @@
+id: autopass-license-server
+vendor_id: hpe
+name: Autopass License Server
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:autopass_license_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autopass_license_server
+  confidence: auto

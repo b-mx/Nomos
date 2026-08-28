@@ -1,0 +1,10 @@
+id: ux552s
+vendor_id: sharp-nec-displays
+name: Ux552S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp\-nec\-displays:ux552s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ux552s
+  confidence: auto

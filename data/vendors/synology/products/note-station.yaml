@@ -1,0 +1,10 @@
+id: note-station
+vendor_id: synology
+name: Note Station
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:note_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: note_station
+  confidence: auto

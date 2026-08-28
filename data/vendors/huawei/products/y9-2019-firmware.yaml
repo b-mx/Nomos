@@ -1,0 +1,10 @@
+id: y9-2019-firmware
+vendor_id: huawei
+name: Y9 2019 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:y9_2019_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y9_2019_firmware
+  confidence: auto

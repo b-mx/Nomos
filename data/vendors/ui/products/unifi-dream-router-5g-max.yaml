@@ -1,0 +1,10 @@
+id: unifi-dream-router-5g-max
+vendor_id: ui
+name: Unifi Dream Router 5G Max
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:unifi_dream_router_5g_max:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_dream_router_5g_max
+  confidence: auto

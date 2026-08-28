@@ -1,0 +1,10 @@
+id: communication-server-1000-telephony-manager
+vendor_id: avaya
+name: Communication Server 1000 Telephony Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:communication_server_1000_telephony_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: communication_server_1000_telephony_manager
+  confidence: auto

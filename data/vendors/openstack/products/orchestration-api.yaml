@@ -1,0 +1,10 @@
+id: orchestration-api
+vendor_id: openstack
+name: Orchestration Api
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:orchestration_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: orchestration_api
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cloudlink-phone-7900-firmware
+vendor_id: huawei
+name: Cloudlink Phone 7900 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:cloudlink_phone_7900_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudlink_phone_7900_firmware
+  confidence: auto

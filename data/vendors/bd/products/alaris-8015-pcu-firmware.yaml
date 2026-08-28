@@ -1,0 +1,10 @@
+id: alaris-8015-pcu-firmware
+vendor_id: bd
+name: Alaris 8015 Pcu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:alaris_8015_pcu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_8015_pcu_firmware
+  confidence: auto

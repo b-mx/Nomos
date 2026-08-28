@@ -1,0 +1,10 @@
+id: isg-800w
+vendor_id: systrome
+name: Isg-800W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:systrome:isg\-800w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isg-800w
+  confidence: auto

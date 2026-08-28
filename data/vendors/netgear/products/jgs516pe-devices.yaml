@@ -1,9 +1,8 @@
 id: jgs516pe-devices
 vendor_id: netgear
 name: JGS516PE Devices
-type: hardware
+type: software
 tags: []
-icon: simple-icons:netgear
 aliases:
 - source: cisa_kev
   value: JGS516PE Devices

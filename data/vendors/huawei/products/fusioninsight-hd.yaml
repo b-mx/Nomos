@@ -1,0 +1,10 @@
+id: fusioninsight-hd
+vendor_id: huawei
+name: Fusioninsight Hd
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:fusioninsight_hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusioninsight_hd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: premier
+vendor_id: avast
+name: Premier
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:premier:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: premier
+  confidence: auto

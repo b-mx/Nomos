@@ -1,0 +1,10 @@
+id: laserjet-tank-2502-381v4a
+vendor_id: hp
+name: Laserjet Tank 2502 381V4A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_tank_2502_381v4a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_tank_2502_381v4a
+  confidence: auto

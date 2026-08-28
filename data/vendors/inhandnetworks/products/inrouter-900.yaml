@@ -1,0 +1,10 @@
+id: inrouter-900
+vendor_id: inhandnetworks
+name: Inrouter 900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:inhandnetworks:inrouter_900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inrouter_900
+  confidence: auto

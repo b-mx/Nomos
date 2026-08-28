@@ -1,0 +1,10 @@
+id: total-security
+vendor_id: k7computing
+name: Total Security
+type: software
+tags: []
+cpe: cpe:2.3:a:k7computing:total_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: total_security
+  confidence: auto

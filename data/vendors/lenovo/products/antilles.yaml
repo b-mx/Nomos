@@ -1,0 +1,10 @@
+id: antilles
+vendor_id: lenovo
+name: Antilles
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:antilles:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antilles
+  confidence: auto

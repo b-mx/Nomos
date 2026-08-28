@@ -1,0 +1,10 @@
+id: elite-slice-g2-audio-ready-with-zoom-rooms-firmware
+vendor_id: hp
+name: Elite Slice G2 - Audio Ready With Zoom Rooms Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elite_slice_g2_\-_audio_ready_with_zoom_rooms_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_slice_g2_-_audio_ready_with_zoom_rooms_firmware
+  confidence: auto

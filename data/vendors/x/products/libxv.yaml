@@ -1,0 +1,10 @@
+id: libxv
+vendor_id: x
+name: Libxv
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxv
+  confidence: auto

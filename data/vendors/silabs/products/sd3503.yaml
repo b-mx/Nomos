@@ -1,0 +1,10 @@
+id: sd3503
+vendor_id: silabs
+name: Sd3503
+type: hardware
+tags: []
+cpe: cpe:2.3:h:silabs:sd3503:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd3503
+  confidence: auto

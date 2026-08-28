@@ -1,0 +1,10 @@
+id: penny-auction-factory
+vendor_id: thephpfactory
+name: Penny Auction Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:penny_auction_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: penny_auction_factory
+  confidence: auto

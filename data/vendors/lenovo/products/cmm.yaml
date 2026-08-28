@@ -1,0 +1,10 @@
+id: cmm
+vendor_id: lenovo
+name: Cmm
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:cmm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmm
+  confidence: auto

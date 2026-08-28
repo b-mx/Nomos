@@ -1,0 +1,10 @@
+id: mx710
+vendor_id: lexmark
+name: Mx710
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx710:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx710
+  confidence: auto

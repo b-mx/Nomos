@@ -1,0 +1,10 @@
+id: alerton-compass
+vendor_id: honeywell
+name: Alerton Compass
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:alerton_compass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alerton_compass
+  confidence: auto

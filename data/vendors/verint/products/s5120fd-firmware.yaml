@@ -1,0 +1,10 @@
+id: s5120fd-firmware
+vendor_id: verint
+name: S5120Fd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:verint:s5120fd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5120fd_firmware
+  confidence: auto

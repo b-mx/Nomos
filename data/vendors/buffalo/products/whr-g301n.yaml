@@ -1,0 +1,10 @@
+id: whr-g301n
+vendor_id: buffalo
+name: Whr-G301N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:whr\-g301n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-g301n
+  confidence: auto

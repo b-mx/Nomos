@@ -1,0 +1,10 @@
+id: rtx830
+vendor_id: yamaha
+name: Rtx830
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:rtx830:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtx830
+  confidence: auto

@@ -1,0 +1,10 @@
+id: classic-car-buyer
+vendor_id: pocketmags
+name: Classic Car Buyer
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:classic_car_buyer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: classic_car_buyer
+  confidence: auto

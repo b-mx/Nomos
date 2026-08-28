@@ -1,0 +1,10 @@
+id: d4200-ve
+vendor_id: axis
+name: D4200-Ve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:d4200\-ve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d4200-ve
+  confidence: auto

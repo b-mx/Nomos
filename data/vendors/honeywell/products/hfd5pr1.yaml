@@ -1,0 +1,10 @@
+id: hfd5pr1
+vendor_id: honeywell
+name: Hfd5Pr1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hfd5pr1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hfd5pr1
+  confidence: auto

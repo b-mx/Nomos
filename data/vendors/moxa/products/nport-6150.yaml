@@ -1,0 +1,10 @@
+id: nport-6150
+vendor_id: moxa
+name: Nport 6150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_6150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_6150
+  confidence: auto

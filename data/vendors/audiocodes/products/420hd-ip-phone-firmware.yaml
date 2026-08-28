@@ -1,0 +1,10 @@
+id: 420hd-ip-phone-firmware
+vendor_id: audiocodes
+name: 420Hd Ip Phone Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:audiocodes:420hd_ip_phone_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 420hd_ip_phone_firmware
+  confidence: auto

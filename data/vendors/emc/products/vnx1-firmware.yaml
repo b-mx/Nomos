@@ -1,0 +1,10 @@
+id: vnx1-firmware
+vendor_id: emc
+name: Vnx1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emc:vnx1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vnx1_firmware
+  confidence: auto

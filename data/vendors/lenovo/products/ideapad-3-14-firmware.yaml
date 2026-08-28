@@ -1,0 +1,10 @@
+id: ideapad-3-14-firmware
+vendor_id: lenovo
+name: Ideapad 3 14 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_3_14_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_3_14_firmware
+  confidence: auto

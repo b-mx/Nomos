@@ -1,0 +1,10 @@
+id: unify-openscape-common-management
+vendor_id: atos
+name: Unify Openscape Common Management
+type: software
+tags: []
+cpe: cpe:2.3:a:atos:unify_openscape_common_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unify_openscape_common_management
+  confidence: auto

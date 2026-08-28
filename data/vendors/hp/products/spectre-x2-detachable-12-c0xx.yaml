@@ -1,0 +1,10 @@
+id: spectre-x2-detachable-12-c0xx
+vendor_id: hp
+name: Spectre X2 Detachable 12-C0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_x2_detachable_12\-c0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_x2_detachable_12-c0xx
+  confidence: auto

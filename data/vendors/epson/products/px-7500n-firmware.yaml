@@ -1,0 +1,10 @@
+id: px-7500n-firmware
+vendor_id: epson
+name: Px-7500N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:px\-7500n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-7500n_firmware
+  confidence: auto

@@ -1,0 +1,9 @@
+id: whatsapp
+vendor_id: meta-platforms
+name: WhatsApp
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: WhatsApp
+  confidence: auto

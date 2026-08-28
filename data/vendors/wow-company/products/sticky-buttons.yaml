@@ -1,0 +1,10 @@
+id: sticky-buttons
+vendor_id: wow-company
+name: Sticky Buttons
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:sticky_buttons:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sticky_buttons
+  confidence: auto

@@ -1,0 +1,10 @@
+id: b13see-cpu-25g
+vendor_id: supermicro
+name: B13See-Cpu-25G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b13see\-cpu\-25g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b13see-cpu-25g
+  confidence: auto

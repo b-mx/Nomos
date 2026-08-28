@@ -1,0 +1,10 @@
+id: arris-tr3300-firmware
+vendor_id: commscope
+name: Arris Tr3300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:commscope:arris_tr3300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_tr3300_firmware
+  confidence: auto

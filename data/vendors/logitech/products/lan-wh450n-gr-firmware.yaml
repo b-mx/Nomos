@@ -1,0 +1,10 @@
+id: lan-wh450n-gr-firmware
+vendor_id: logitech
+name: Lan-Wh450N/Gr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:logitech:lan\-wh450n\/gr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-wh450n/gr_firmware
+  confidence: auto

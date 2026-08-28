@@ -1,0 +1,10 @@
+id: sensorx23-qc-master-firmware
+vendor_id: marel
+name: Sensorx23 Qc Master Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:sensorx23_qc_master_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensorx23_qc_master_firmware
+  confidence: auto

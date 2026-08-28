@@ -1,0 +1,10 @@
+id: innova-2100-iq
+vendor_id: gehealthcare
+name: Innova 2100-Iq
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:innova_2100\-iq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: innova_2100-iq
+  confidence: auto

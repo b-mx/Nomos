@@ -1,0 +1,10 @@
+id: wp-gravity-forms-hubspot
+vendor_id: crmperks
+name: Wp Gravity Forms Hubspot
+type: software
+tags: []
+cpe: cpe:2.3:a:crmperks:wp_gravity_forms_hubspot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_gravity_forms_hubspot
+  confidence: auto

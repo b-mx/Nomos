@@ -1,0 +1,10 @@
+id: rescuer-e520-15ikb
+vendor_id: lenovo
+name: Rescuer E520-15Ikb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:rescuer_e520\-15ikb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rescuer_e520-15ikb
+  confidence: auto

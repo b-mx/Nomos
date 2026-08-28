@@ -1,0 +1,10 @@
+id: unifi-cloudkey-enterprise-firmware
+vendor_id: ui
+name: Unifi Cloudkey Enterprise Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:unifi_cloudkey_enterprise_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_cloudkey_enterprise_firmware
+  confidence: auto

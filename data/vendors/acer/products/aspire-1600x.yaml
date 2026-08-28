@@ -1,0 +1,10 @@
+id: aspire-1600x
+vendor_id: acer
+name: Aspire 1600X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_1600x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_1600x
+  confidence: auto

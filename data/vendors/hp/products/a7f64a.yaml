@@ -1,0 +1,10 @@
+id: a7f64a
+vendor_id: hp
+name: A7F64A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:a7f64a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a7f64a
+  confidence: auto

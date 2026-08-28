@@ -1,0 +1,10 @@
+id: esoms
+vendor_id: hitachienergy
+name: Esoms
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:esoms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esoms
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mguard-rs2000-3g-vpn
+vendor_id: phoenixcontact
+name: Mguard Rs2000 3G Vpn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:mguard_rs2000_3g_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_rs2000_3g_vpn
+  confidence: auto

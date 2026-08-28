@@ -1,0 +1,10 @@
+id: elitebook-840r-g4
+vendor_id: hp
+name: Elitebook 840R G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_840r_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_840r_g4
+  confidence: auto

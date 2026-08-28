@@ -1,0 +1,10 @@
+id: rackswitch-ne10032
+vendor_id: lenovo
+name: Rackswitch Ne10032
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:rackswitch_ne10032:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rackswitch_ne10032
+  confidence: auto

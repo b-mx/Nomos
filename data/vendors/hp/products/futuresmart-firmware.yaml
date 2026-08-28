@@ -1,0 +1,10 @@
+id: futuresmart-firmware
+vendor_id: hp
+name: Futuresmart Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:futuresmart_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: futuresmart_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: r5c-firmware
+vendor_id: sony
+name: R5C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:r5c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r5c_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: add-product-tabs
+vendor_id: xforwoocommerce
+name: Add Product Tabs
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:add_product_tabs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: add_product_tabs
+  confidence: auto

@@ -1,0 +1,10 @@
+id: building-integration-system
+vendor_id: bosch
+name: Building Integration System
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:building_integration_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: building_integration_system
+  confidence: auto

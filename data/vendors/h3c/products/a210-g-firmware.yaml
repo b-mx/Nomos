@@ -1,0 +1,10 @@
+id: a210-g-firmware
+vendor_id: h3c
+name: A210-G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:a210\-g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a210-g_firmware
+  confidence: auto

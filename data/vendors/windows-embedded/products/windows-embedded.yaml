@@ -1,0 +1,9 @@
+id: windows-embedded
+vendor_id: windows-embedded
+name: Microsoft Windows Embedded
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: windows-embedded
+  confidence: auto

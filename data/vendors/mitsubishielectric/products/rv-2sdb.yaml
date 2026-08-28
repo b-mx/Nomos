@@ -1,0 +1,10 @@
+id: rv-2sdb
+vendor_id: mitsubishielectric
+name: Rv-2Sdb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv\-2sdb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-2sdb
+  confidence: auto

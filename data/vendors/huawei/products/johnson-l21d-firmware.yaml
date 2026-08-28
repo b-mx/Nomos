@@ -1,0 +1,10 @@
+id: johnson-l21d-firmware
+vendor_id: huawei
+name: Johnson-L21D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:johnson\-l21d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: johnson-l21d_firmware
+  confidence: auto

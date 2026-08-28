@@ -1,0 +1,10 @@
+id: tlsr8269
+vendor_id: telink-semi
+name: Tlsr8269
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telink\-semi:tlsr8269:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tlsr8269
+  confidence: auto

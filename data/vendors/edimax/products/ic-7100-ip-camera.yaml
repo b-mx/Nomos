@@ -1,9 +1,8 @@
 id: ic-7100-ip-camera
 vendor_id: edimax
 name: IC-7100 IP Camera
-type: hardware
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: IC-7100 IP Camera

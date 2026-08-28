@@ -1,0 +1,10 @@
+id: w300p
+vendor_id: aterm
+name: W300P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aterm:w300p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w300p
+  confidence: auto

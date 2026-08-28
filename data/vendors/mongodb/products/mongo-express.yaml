@@ -3,7 +3,6 @@ vendor_id: mongodb
 name: mongo-express
 type: software
 tags: []
-icon: logos:mongodb-icon
 aliases:
 - source: cisa_kev
   value: mongo-express

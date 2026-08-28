@@ -1,0 +1,10 @@
+id: dbus
+vendor_id: freedesktop
+name: Dbus
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:dbus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dbus
+  confidence: auto

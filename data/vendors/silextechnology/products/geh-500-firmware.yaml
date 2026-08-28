@@ -1,0 +1,10 @@
+id: geh-500-firmware
+vendor_id: silextechnology
+name: Geh-500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:silextechnology:geh\-500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: geh-500_firmware
+  confidence: auto

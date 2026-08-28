@@ -1,0 +1,10 @@
+id: m357-ai-firmware
+vendor_id: proscend
+name: M357-Ai Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:proscend:m357\-ai_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m357-ai_firmware
+  confidence: auto

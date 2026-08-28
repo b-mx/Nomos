@@ -1,0 +1,10 @@
+id: air-link-3g
+vendor_id: jensenofscandinavia
+name: Air:Link 3G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jensenofscandinavia:air\:link_3g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air:link_3g
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rh2485-v2
+vendor_id: huawei
+name: Rh2485 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rh2485_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh2485_v2
+  confidence: auto

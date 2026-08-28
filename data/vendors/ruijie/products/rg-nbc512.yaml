@@ -1,0 +1,10 @@
+id: rg-nbc512
+vendor_id: ruijie
+name: Rg-Nbc512
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-nbc512:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-nbc512
+  confidence: auto

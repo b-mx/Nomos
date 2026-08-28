@@ -1,0 +1,10 @@
+id: nhl-3fb1-firmware
+vendor_id: patlite
+name: Nhl-3Fb1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:patlite:nhl\-3fb1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nhl-3fb1_firmware
+  confidence: auto

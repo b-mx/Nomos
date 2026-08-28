@@ -1,0 +1,10 @@
+id: lenovo-ideapad-320-14ikb-i-n
+vendor_id: hp
+name: Lenovo Ideapad 320-14Ikb(I+N)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:lenovo_ideapad_320\-14ikb\(i\+n\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_ideapad_320-14ikb(i+n)
+  confidence: auto

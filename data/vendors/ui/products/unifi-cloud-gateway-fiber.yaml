@@ -1,0 +1,10 @@
+id: unifi-cloud-gateway-fiber
+vendor_id: ui
+name: Unifi Cloud Gateway Fiber
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:unifi_cloud_gateway_fiber:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_cloud_gateway_fiber
+  confidence: auto

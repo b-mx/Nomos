@@ -1,0 +1,10 @@
+id: laptop-15g-dr1xxx
+vendor_id: hp
+name: Laptop 15G-Dr1Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_15g\-dr1xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_15g-dr1xxx
+  confidence: auto

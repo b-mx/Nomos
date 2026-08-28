@@ -1,0 +1,10 @@
+id: ip-softphone-2050
+vendor_id: nortel
+name: Ip Softphone 2050
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:ip_softphone_2050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_softphone_2050
+  confidence: auto

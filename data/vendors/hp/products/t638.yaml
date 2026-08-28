@@ -1,0 +1,10 @@
+id: t638
+vendor_id: hp
+name: T638
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:t638:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t638
+  confidence: auto

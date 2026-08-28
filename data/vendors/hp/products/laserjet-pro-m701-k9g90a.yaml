@@ -1,0 +1,10 @@
+id: laserjet-pro-m701-k9g90a
+vendor_id: hp
+name: Laserjet Pro M701 K9G90A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m701_k9g90a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m701_k9g90a
+  confidence: auto

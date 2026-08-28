@@ -1,0 +1,10 @@
+id: network-software-scanner
+vendor_id: emcosoftware
+name: Network Software Scanner
+type: software
+tags: []
+cpe: cpe:2.3:a:emcosoftware:network_software_scanner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_software_scanner
+  confidence: auto

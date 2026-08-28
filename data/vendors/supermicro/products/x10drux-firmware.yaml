@@ -1,0 +1,10 @@
+id: x10drux-firmware
+vendor_id: supermicro
+name: X10Drux Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10drux_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drux_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: n702r
+vendor_id: iptime
+name: N702R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:n702r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n702r
+  confidence: auto

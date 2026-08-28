@@ -1,0 +1,10 @@
+id: smp-4-dp-firmware
+vendor_id: eaton
+name: Smp 4/Dp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eaton:smp_4\/dp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smp_4/dp_firmware
+  confidence: auto

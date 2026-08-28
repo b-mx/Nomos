@@ -1,0 +1,10 @@
+id: data-loss-prevention
+vendor_id: forcepoint
+name: Data Loss Prevention
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:data_loss_prevention:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_loss_prevention
+  confidence: auto

@@ -1,0 +1,10 @@
+id: armeria
+vendor_id: linecorp
+name: Armeria
+type: software
+tags: []
+cpe: cpe:2.3:a:linecorp:armeria:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: armeria
+  confidence: auto

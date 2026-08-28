@@ -1,0 +1,10 @@
+id: mate-20-pro-ud-firmware
+vendor_id: huawei
+name: Mate 20 Pro (Ud) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:mate_20_pro_\(ud\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mate_20_pro_(ud)_firmware
+  confidence: auto

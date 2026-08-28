@@ -1,0 +1,10 @@
+id: devscripts
+vendor_id: debian
+name: Devscripts
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:devscripts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: devscripts
+  confidence: auto

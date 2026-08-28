@@ -1,0 +1,10 @@
+id: jetnet-5620g-4c-firmware
+vendor_id: korenix
+name: Jetnet 5620G-4C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetnet_5620g\-4c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_5620g-4c_firmware
+  confidence: auto

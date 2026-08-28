@@ -1,0 +1,10 @@
+id: rt7620
+vendor_id: coship
+name: Rt7620
+type: hardware
+tags: []
+cpe: cpe:2.3:h:coship:rt7620:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt7620
+  confidence: auto

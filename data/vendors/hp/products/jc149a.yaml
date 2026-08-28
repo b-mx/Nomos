@@ -1,0 +1,10 @@
+id: jc149a
+vendor_id: hp
+name: Jc149A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc149a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc149a
+  confidence: auto

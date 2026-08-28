@@ -1,0 +1,10 @@
+id: spinnaker
+vendor_id: linuxfoundation
+name: Spinnaker
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:spinnaker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spinnaker
+  confidence: auto

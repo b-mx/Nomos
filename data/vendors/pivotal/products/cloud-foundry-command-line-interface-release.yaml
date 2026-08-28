@@ -1,0 +1,10 @@
+id: cloud-foundry-command-line-interface-release
+vendor_id: pivotal
+name: Cloud Foundry Command Line Interface Release
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:cloud_foundry_command_line_interface_release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_command_line_interface_release
+  confidence: auto

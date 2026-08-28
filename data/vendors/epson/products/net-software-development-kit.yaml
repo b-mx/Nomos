@@ -1,0 +1,10 @@
+id: net-software-development-kit
+vendor_id: epson
+name: Net Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:net_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: net_software_development_kit
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nbconvert
+vendor_id: jupyter
+name: Nbconvert
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:nbconvert:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbconvert
+  confidence: auto

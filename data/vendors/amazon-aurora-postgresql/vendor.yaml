@@ -1,0 +1,6 @@
+id: amazon-aurora-postgresql
+name: Amazon Aurora PostgreSQL
+aliases:
+- source: endoflife
+  value: amazon-aurora-postgresql
+  confidence: auto

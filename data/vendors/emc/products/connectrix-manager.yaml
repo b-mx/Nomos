@@ -1,0 +1,10 @@
+id: connectrix-manager
+vendor_id: emc
+name: Connectrix Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:connectrix_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connectrix_manager
+  confidence: auto

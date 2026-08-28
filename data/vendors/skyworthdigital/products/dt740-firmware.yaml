@@ -1,0 +1,10 @@
+id: dt740-firmware
+vendor_id: skyworthdigital
+name: Dt740 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:skyworthdigital:dt740_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt740_firmware
+  confidence: auto

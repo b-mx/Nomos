@@ -1,0 +1,10 @@
+id: remedy-it-service-management-suite
+vendor_id: bmc
+name: Remedy It Service Management Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:remedy_it_service_management_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remedy_it_service_management_suite
+  confidence: auto

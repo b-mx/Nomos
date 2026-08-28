@@ -1,0 +1,10 @@
+id: mbts-site-controller
+vendor_id: motorola
+name: Mbts Site Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:mbts_site_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbts_site_controller
+  confidence: auto

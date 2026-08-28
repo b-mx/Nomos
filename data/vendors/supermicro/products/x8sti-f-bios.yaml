@@ -1,0 +1,10 @@
+id: x8sti-f-bios
+vendor_id: supermicro
+name: X8Sti-F Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x8sti\-f_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x8sti-f_bios
+  confidence: auto

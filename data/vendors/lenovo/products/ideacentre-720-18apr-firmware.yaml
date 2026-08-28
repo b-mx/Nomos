@@ -1,0 +1,10 @@
+id: ideacentre-720-18apr-firmware
+vendor_id: lenovo
+name: Ideacentre 720-18Apr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_720\-18apr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_720-18apr_firmware
+  confidence: auto

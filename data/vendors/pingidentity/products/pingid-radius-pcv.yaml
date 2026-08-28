@@ -1,0 +1,10 @@
+id: pingid-radius-pcv
+vendor_id: pingidentity
+name: Pingid Radius Pcv
+type: software
+tags: []
+cpe: cpe:2.3:a:pingidentity:pingid_radius_pcv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pingid_radius_pcv
+  confidence: auto

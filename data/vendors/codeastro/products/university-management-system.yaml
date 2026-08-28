@@ -1,0 +1,10 @@
+id: university-management-system
+vendor_id: codeastro
+name: University Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:codeastro:university_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: university_management_system
+  confidence: auto

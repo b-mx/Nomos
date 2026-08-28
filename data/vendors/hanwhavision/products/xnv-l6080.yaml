@@ -1,0 +1,10 @@
+id: xnv-l6080
+vendor_id: hanwhavision
+name: Xnv-L6080
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-l6080:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-l6080
+  confidence: auto

@@ -1,0 +1,10 @@
+id: psi-modem-eth
+vendor_id: phoenixcontact
+name: Psi-Modem/Eth
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:psi\-modem\/eth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: psi-modem/eth
+  confidence: auto

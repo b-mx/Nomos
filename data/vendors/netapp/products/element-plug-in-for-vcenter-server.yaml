@@ -1,0 +1,10 @@
+id: element-plug-in-for-vcenter-server
+vendor_id: netapp
+name: Element Plug-In For Vcenter Server
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:element_plug\-in_for_vcenter_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: element_plug-in_for_vcenter_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ap510c
+vendor_id: extremenetworks
+name: Ap510C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap510c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap510c
+  confidence: auto

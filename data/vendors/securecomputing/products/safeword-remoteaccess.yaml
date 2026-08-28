@@ -1,0 +1,10 @@
+id: safeword-remoteaccess
+vendor_id: securecomputing
+name: Safeword Remoteaccess
+type: software
+tags: []
+cpe: cpe:2.3:a:securecomputing:safeword_remoteaccess:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safeword_remoteaccess
+  confidence: auto

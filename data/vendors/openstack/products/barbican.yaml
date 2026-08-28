@@ -1,0 +1,10 @@
+id: barbican
+vendor_id: openstack
+name: Barbican
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:barbican:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: barbican
+  confidence: auto

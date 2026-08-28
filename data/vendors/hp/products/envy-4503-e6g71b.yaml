@@ -1,0 +1,10 @@
+id: envy-4503-e6g71b
+vendor_id: hp
+name: Envy 4503 E6G71B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_4503_e6g71b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_4503_e6g71b
+  confidence: auto

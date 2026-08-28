@@ -1,0 +1,10 @@
+id: 130-14ast-firmware
+vendor_id: lenovo
+name: 130-14Ast Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:130\-14ast_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 130-14ast_firmware
+  confidence: auto

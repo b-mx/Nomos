@@ -1,0 +1,10 @@
+id: communication-manager
+vendor_id: avaya
+name: Communication Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:communication_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: communication_manager
+  confidence: auto

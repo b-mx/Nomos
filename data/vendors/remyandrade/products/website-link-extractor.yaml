@@ -1,0 +1,10 @@
+id: website-link-extractor
+vendor_id: remyandrade
+name: Website Link Extractor
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:website_link_extractor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: website_link_extractor
+  confidence: auto

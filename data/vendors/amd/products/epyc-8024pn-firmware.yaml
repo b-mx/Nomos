@@ -1,0 +1,10 @@
+id: epyc-8024pn-firmware
+vendor_id: amd
+name: Epyc 8024Pn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:epyc_8024pn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_8024pn_firmware
+  confidence: auto

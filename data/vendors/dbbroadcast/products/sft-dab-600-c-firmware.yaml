@@ -1,0 +1,10 @@
+id: sft-dab-600-c-firmware
+vendor_id: dbbroadcast
+name: Sft Dab 600/C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dbbroadcast:sft_dab_600\/c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sft_dab_600/c_firmware
+  confidence: auto

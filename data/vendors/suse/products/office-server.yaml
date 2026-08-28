@@ -1,0 +1,10 @@
+id: office-server
+vendor_id: suse
+name: Office Server
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:office_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: office_server
+  confidence: auto

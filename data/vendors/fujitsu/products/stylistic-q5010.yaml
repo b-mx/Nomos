@@ -1,0 +1,10 @@
+id: stylistic-q5010
+vendor_id: fujitsu
+name: Stylistic Q5010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:stylistic_q5010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stylistic_q5010
+  confidence: auto

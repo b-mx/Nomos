@@ -1,0 +1,10 @@
+id: hid-digitalpersona-4500
+vendor_id: assaabloy
+name: Hid Digitalpersona 4500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:assaabloy:hid_digitalpersona_4500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hid_digitalpersona_4500
+  confidence: auto

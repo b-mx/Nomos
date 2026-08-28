@@ -1,0 +1,10 @@
+id: gaussdb-200
+vendor_id: huawei
+name: Gaussdb 200
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:gaussdb_200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gaussdb_200
+  confidence: auto

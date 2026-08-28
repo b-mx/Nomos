@@ -1,0 +1,10 @@
+id: opentelemetry-exporter-onecollector
+vendor_id: opentelemetry
+name: Opentelemetry.Exporter.Onecollector
+type: software
+tags: []
+cpe: cpe:2.3:a:opentelemetry:opentelemetry\.exporter\.onecollector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentelemetry.exporter.onecollector
+  confidence: auto

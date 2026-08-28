@@ -1,0 +1,10 @@
+id: orion5r-dnp-master
+vendor_id: novatech
+name: Orion5R Dnp Master
+type: hardware
+tags: []
+cpe: cpe:2.3:h:novatech:orion5r_dnp_master:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: orion5r_dnp_master
+  confidence: auto

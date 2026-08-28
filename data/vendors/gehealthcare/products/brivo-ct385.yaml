@@ -1,0 +1,10 @@
+id: brivo-ct385
+vendor_id: gehealthcare
+name: Brivo Ct385
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:brivo_ct385:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brivo_ct385
+  confidence: auto

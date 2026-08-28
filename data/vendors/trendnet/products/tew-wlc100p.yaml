@@ -1,0 +1,10 @@
+id: tew-wlc100p
+vendor_id: trendnet
+name: Tew-Wlc100P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tew\-wlc100p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tew-wlc100p
+  confidence: auto

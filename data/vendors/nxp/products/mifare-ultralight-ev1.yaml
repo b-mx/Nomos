@@ -1,0 +1,10 @@
+id: mifare-ultralight-ev1
+vendor_id: nxp
+name: Mifare Ultralight Ev1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:mifare_ultralight_ev1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mifare_ultralight_ev1
+  confidence: auto

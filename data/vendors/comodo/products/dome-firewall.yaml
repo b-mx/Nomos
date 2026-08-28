@@ -1,0 +1,10 @@
+id: dome-firewall
+vendor_id: comodo
+name: Dome Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:comodo:dome_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dome_firewall
+  confidence: auto

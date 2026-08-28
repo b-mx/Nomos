@@ -1,0 +1,10 @@
+id: ideacentre-a340-22igm
+vendor_id: lenovo
+name: Ideacentre A340-22Igm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_a340\-22igm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_a340-22igm
+  confidence: auto

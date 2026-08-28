@@ -1,0 +1,10 @@
+id: composite-products
+vendor_id: woocommerce
+name: Composite Products
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:composite_products:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: composite_products
+  confidence: auto

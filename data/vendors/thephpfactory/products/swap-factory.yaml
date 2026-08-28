@@ -1,0 +1,10 @@
+id: swap-factory
+vendor_id: thephpfactory
+name: Swap Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:swap_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swap_factory
+  confidence: auto

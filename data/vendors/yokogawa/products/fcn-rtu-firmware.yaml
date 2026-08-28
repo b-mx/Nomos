@@ -1,0 +1,10 @@
+id: fcn-rtu-firmware
+vendor_id: yokogawa
+name: Fcn-Rtu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yokogawa:fcn\-rtu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fcn-rtu_firmware
+  confidence: auto

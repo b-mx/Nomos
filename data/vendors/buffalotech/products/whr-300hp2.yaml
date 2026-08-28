@@ -1,0 +1,10 @@
+id: whr-300hp2
+vendor_id: buffalotech
+name: Whr-300Hp2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:whr\-300hp2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-300hp2
+  confidence: auto

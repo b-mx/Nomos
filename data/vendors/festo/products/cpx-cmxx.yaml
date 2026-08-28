@@ -1,0 +1,10 @@
+id: cpx-cmxx
+vendor_id: festo
+name: Cpx-Cmxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:cpx\-cmxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpx-cmxx
+  confidence: auto

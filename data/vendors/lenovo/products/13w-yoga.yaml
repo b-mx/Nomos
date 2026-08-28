@@ -1,0 +1,10 @@
+id: 13w-yoga
+vendor_id: lenovo
+name: 13W Yoga
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:13w_yoga:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 13w_yoga
+  confidence: auto

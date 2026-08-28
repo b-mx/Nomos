@@ -1,0 +1,10 @@
+id: diaenergie
+vendor_id: deltaww
+name: Diaenergie
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:diaenergie:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diaenergie
+  confidence: auto

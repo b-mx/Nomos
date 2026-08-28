@@ -1,0 +1,7 @@
+id: digium
+name: Digium
+cpe: cpe:2.3:*:digium:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: digium
+  confidence: auto

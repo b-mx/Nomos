@@ -1,0 +1,10 @@
+id: qno-8010r-firmware
+vendor_id: hanwhavision
+name: Qno-8010R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:qno\-8010r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qno-8010r_firmware
+  confidence: auto

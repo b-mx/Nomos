@@ -1,0 +1,10 @@
+id: univerge-wa1511
+vendor_id: nec
+name: Univerge Wa1511
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:univerge_wa1511:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: univerge_wa1511
+  confidence: auto

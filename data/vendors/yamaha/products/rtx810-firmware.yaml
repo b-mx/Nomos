@@ -1,0 +1,10 @@
+id: rtx810-firmware
+vendor_id: yamaha
+name: Rtx810 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rtx810_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtx810_firmware
+  confidence: auto

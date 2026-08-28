@@ -1,0 +1,10 @@
+id: elitebook-x360-1040-g6-firmware
+vendor_id: hp
+name: Elitebook X360 1040 G6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitebook_x360_1040_g6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_x360_1040_g6_firmware
+  confidence: auto

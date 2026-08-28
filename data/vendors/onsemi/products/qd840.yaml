@@ -1,0 +1,10 @@
+id: qd840
+vendor_id: onsemi
+name: Qd840
+type: hardware
+tags: []
+cpe: cpe:2.3:h:onsemi:qd840:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qd840
+  confidence: auto

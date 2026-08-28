@@ -1,0 +1,10 @@
+id: rt-ac1200
+vendor_id: asuswrt-merlin
+name: Rt-Ac1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-ac1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-ac1200
+  confidence: auto

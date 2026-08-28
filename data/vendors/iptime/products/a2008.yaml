@@ -1,0 +1,10 @@
+id: a2008
+vendor_id: iptime
+name: A2008
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a2008:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a2008
+  confidence: auto

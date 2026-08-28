@@ -1,0 +1,10 @@
+id: nae55
+vendor_id: johnsoncontrols
+name: Nae55
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:nae55:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nae55
+  confidence: auto

@@ -1,0 +1,10 @@
+id: factorytalk-transaction-manager
+vendor_id: rockwellautomation
+name: Factorytalk Transaction Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:factorytalk_transaction_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_transaction_manager
+  confidence: auto

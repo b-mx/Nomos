@@ -1,0 +1,10 @@
+id: billboard-js
+vendor_id: naver
+name: Billboard.Js
+type: software
+tags: []
+cpe: cpe:2.3:a:naver:billboard\.js:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: billboard.js
+  confidence: auto

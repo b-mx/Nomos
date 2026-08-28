@@ -1,0 +1,10 @@
+id: ak5xx
+vendor_id: amino
+name: Ak5Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amino:ak5xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ak5xx
+  confidence: auto

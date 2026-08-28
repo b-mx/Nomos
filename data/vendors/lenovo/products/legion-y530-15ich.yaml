@@ -1,0 +1,10 @@
+id: legion-y530-15ich
+vendor_id: lenovo
+name: Legion Y530-15Ich
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_y530\-15ich:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y530-15ich
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pro-tablet-608-g1
+vendor_id: hp
+name: Pro Tablet 608 G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pro_tablet_608_g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_tablet_608_g1
+  confidence: auto

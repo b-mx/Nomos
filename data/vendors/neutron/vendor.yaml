@@ -1,0 +1,7 @@
+id: neutron
+name: Neutron
+cpe: cpe:2.3:*:neutron:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neutron
+  confidence: auto

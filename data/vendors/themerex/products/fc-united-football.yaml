@@ -1,0 +1,10 @@
+id: fc-united-football
+vendor_id: themerex
+name: Fc United-Football
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:fc_united\-football:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fc_united-football
+  confidence: auto

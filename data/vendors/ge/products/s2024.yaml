@@ -1,0 +1,10 @@
+id: s2024
+vendor_id: ge
+name: S2024
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:s2024:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s2024
+  confidence: auto

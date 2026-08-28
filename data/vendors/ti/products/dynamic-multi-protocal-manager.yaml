@@ -1,0 +1,10 @@
+id: dynamic-multi-protocal-manager
+vendor_id: ti
+name: Dynamic Multi-Protocal Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:ti:dynamic_multi\-protocal_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dynamic_multi-protocal_manager
+  confidence: auto

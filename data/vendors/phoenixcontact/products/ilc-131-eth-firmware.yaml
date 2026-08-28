@@ -1,0 +1,10 @@
+id: ilc-131-eth-firmware
+vendor_id: phoenixcontact
+name: Ilc 131 Eth Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:ilc_131_eth_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilc_131_eth_firmware
+  confidence: auto

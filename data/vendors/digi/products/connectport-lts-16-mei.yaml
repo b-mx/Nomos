@@ -1,0 +1,10 @@
+id: connectport-lts-16-mei
+vendor_id: digi
+name: Connectport Lts 16 Mei
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:connectport_lts_16_mei:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connectport_lts_16_mei
+  confidence: auto

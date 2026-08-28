@@ -1,0 +1,10 @@
+id: enhanced-image
+vendor_id: ckeditor
+name: Enhanced Image
+type: software
+tags: []
+cpe: cpe:2.3:a:ckeditor:enhanced_image:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enhanced_image
+  confidence: auto

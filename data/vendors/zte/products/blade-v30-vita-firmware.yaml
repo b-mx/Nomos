@@ -1,0 +1,10 @@
+id: blade-v30-vita-firmware
+vendor_id: zte
+name: Blade V30 Vita Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:blade_v30_vita_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_v30_vita_firmware
+  confidence: auto

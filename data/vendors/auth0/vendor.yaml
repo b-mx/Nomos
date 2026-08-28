@@ -1,0 +1,7 @@
+id: auth0
+name: Auth0
+cpe: cpe:2.3:*:auth0:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: auth0
+  confidence: auto

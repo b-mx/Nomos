@@ -1,0 +1,10 @@
+id: x30-pro
+vendor_id: ruijie
+name: X30 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:x30_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x30_pro
+  confidence: auto

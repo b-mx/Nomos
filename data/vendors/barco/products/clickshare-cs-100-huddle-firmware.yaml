@@ -1,0 +1,10 @@
+id: clickshare-cs-100-huddle-firmware
+vendor_id: barco
+name: Clickshare Cs-100 Huddle Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:barco:clickshare_cs\-100_huddle_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clickshare_cs-100_huddle_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: seil-x1
+vendor_id: iij
+name: Seil/X1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iij:seil\/x1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil/x1
+  confidence: auto

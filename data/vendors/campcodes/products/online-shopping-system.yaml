@@ -1,0 +1,10 @@
+id: online-shopping-system
+vendor_id: campcodes
+name: Online Shopping System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:online_shopping_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_shopping_system
+  confidence: auto

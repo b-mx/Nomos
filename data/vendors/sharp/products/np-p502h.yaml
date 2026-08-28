@@ -1,0 +1,10 @@
+id: np-p502h
+vendor_id: sharp
+name: Np-P502H+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:np\-p502h\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: np-p502h+
+  confidence: auto

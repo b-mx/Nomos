@@ -1,0 +1,10 @@
+id: ryzen-9-3900xt-firmware
+vendor_id: amd
+name: Ryzen 9 3900Xt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_9_3900xt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_9_3900xt_firmware
+  confidence: auto

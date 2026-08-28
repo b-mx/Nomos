@@ -1,0 +1,9 @@
+id: cert-manager
+vendor_id: cert-manager
+name: cert-manager
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: cert-manager
+  confidence: auto

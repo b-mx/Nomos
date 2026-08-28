@@ -1,0 +1,9 @@
+id: sns-hardware
+vendor_id: sns-hardware
+name: Stormshield Firewall
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: sns-hardware
+  confidence: auto

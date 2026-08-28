@@ -1,0 +1,10 @@
+id: control-rte-sl-for-beckhoff-cx
+vendor_id: codesys
+name: Control Rte Sl (For Beckhoff Cx)
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_rte_sl_\(for_beckhoff_cx\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_rte_sl_(for_beckhoff_cx)
+  confidence: auto

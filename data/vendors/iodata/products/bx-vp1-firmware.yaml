@@ -1,0 +1,10 @@
+id: bx-vp1-firmware
+vendor_id: iodata
+name: Bx-Vp1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:bx\-vp1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bx-vp1_firmware
+  confidence: auto

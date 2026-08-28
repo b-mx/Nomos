@@ -1,0 +1,10 @@
+id: equinox-conferencing
+vendor_id: avaya
+name: Equinox Conferencing
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:equinox_conferencing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: equinox_conferencing
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mguard-smart2-firmware
+vendor_id: phoenixcontact
+name: Mguard Smart2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:mguard_smart2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_smart2_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: spectre-14t-ea000
+vendor_id: hp
+name: Spectre 14T-Ea000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_14t\-ea000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_14t-ea000
+  confidence: auto

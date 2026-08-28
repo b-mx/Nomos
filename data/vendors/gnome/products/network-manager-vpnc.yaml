@@ -1,0 +1,10 @@
+id: network-manager-vpnc
+vendor_id: gnome
+name: Network Manager Vpnc
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:network_manager_vpnc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_manager_vpnc
+  confidence: auto

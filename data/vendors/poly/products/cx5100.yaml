@@ -1,0 +1,10 @@
+id: cx5100
+vendor_id: poly
+name: Cx5100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:poly:cx5100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx5100
+  confidence: auto

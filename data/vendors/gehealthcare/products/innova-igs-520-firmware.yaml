@@ -1,0 +1,10 @@
+id: innova-igs-520-firmware
+vendor_id: gehealthcare
+name: Innova Igs 520 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:innova_igs_520_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: innova_igs_520_firmware
+  confidence: auto

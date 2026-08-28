@@ -1,0 +1,10 @@
+id: h610s
+vendor_id: netapp
+name: H610S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:h610s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h610s
+  confidence: auto

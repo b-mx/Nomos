@@ -1,0 +1,10 @@
+id: pa-risc
+vendor_id: hp
+name: Pa-Risc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pa\-risc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pa-risc
+  confidence: auto

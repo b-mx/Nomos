@@ -1,0 +1,10 @@
+id: newspack-ads
+vendor_id: automattic
+name: Newspack Ads
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:newspack_ads:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: newspack_ads
+  confidence: auto

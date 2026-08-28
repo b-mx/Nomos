@@ -1,0 +1,10 @@
+id: enterprise-server
+vendor_id: netscape
+name: Enterprise Server
+type: software
+tags: []
+cpe: cpe:2.3:a:netscape:enterprise_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_server
+  confidence: auto

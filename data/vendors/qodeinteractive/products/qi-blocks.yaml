@@ -1,0 +1,10 @@
+id: qi-blocks
+vendor_id: qodeinteractive
+name: Qi Blocks
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:qi_blocks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qi_blocks
+  confidence: auto

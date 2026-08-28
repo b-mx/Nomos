@@ -1,0 +1,10 @@
+id: emc-px4-400r
+vendor_id: lenovo
+name: Emc Px4-400R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:emc_px4\-400r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emc_px4-400r
+  confidence: auto

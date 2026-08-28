@@ -1,0 +1,10 @@
+id: max-data
+vendor_id: netapp
+name: Max Data
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:max_data:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_data
+  confidence: auto

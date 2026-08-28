@@ -1,0 +1,10 @@
+id: epson-workforce-wf-2861-firmware
+vendor_id: epson
+name: Epson Workforce Wf-2861 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:epson_workforce_wf\-2861_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epson_workforce_wf-2861_firmware
+  confidence: auto

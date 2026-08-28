@@ -1,0 +1,10 @@
+id: rut950
+vendor_id: teltonika-networks
+name: Rut950
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika\-networks:rut950:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rut950
+  confidence: auto

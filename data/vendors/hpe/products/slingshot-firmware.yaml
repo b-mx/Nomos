@@ -1,0 +1,10 @@
+id: slingshot-firmware
+vendor_id: hpe
+name: Slingshot Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:slingshot_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slingshot_firmware
+  confidence: auto

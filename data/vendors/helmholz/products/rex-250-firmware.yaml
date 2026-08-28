@@ -1,0 +1,10 @@
+id: rex-250-firmware
+vendor_id: helmholz
+name: Rex 250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:helmholz:rex_250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rex_250_firmware
+  confidence: auto

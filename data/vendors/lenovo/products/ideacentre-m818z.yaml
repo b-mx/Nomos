@@ -1,0 +1,10 @@
+id: ideacentre-m818z
+vendor_id: lenovo
+name: Ideacentre M818Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_m818z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_m818z
+  confidence: auto

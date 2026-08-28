@@ -1,0 +1,10 @@
+id: rt57i
+vendor_id: yamaha
+name: Rt57I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:rt57i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt57i
+  confidence: auto

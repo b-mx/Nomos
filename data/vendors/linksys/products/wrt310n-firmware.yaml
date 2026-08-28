@@ -1,0 +1,10 @@
+id: wrt310n-firmware
+vendor_id: linksys
+name: Wrt310N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:wrt310n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrt310n_firmware
+  confidence: auto

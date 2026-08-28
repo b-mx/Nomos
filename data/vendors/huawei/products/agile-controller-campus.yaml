@@ -1,0 +1,10 @@
+id: agile-controller-campus
+vendor_id: huawei
+name: Agile Controller-Campus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:agile_controller\-campus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: agile_controller-campus
+  confidence: auto

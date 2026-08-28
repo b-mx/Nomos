@@ -1,0 +1,10 @@
+id: fx5-enet-ip
+vendor_id: mitsubishielectric
+name: Fx5-Enet/Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:fx5\-enet\/ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx5-enet/ip
+  confidence: auto

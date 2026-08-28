@@ -1,0 +1,10 @@
+id: iwrap
+vendor_id: silabs
+name: Iwrap
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:iwrap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iwrap
+  confidence: auto

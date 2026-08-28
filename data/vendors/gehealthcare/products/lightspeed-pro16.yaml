@@ -1,0 +1,10 @@
+id: lightspeed-pro16
+vendor_id: gehealthcare
+name: Lightspeed Pro16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:lightspeed_pro16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lightspeed_pro16
+  confidence: auto

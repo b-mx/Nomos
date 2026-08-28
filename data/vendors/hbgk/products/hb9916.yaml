@@ -1,0 +1,10 @@
+id: hb9916
+vendor_id: hbgk
+name: Hb9916
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hbgk:hb9916:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb9916
+  confidence: auto

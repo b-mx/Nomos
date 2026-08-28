@@ -1,0 +1,10 @@
+id: horde-application-framework
+vendor_id: horde
+name: Horde Application Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:horde_application_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: horde_application_framework
+  confidence: auto

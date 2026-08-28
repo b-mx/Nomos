@@ -1,0 +1,10 @@
+id: litespeed-web-server
+vendor_id: litespeedtech
+name: Litespeed Web Server
+type: software
+tags: []
+cpe: cpe:2.3:a:litespeedtech:litespeed_web_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: litespeed_web_server
+  confidence: auto

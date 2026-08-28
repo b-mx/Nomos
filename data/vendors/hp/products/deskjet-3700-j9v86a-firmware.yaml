@@ -1,0 +1,10 @@
+id: deskjet-3700-j9v86a-firmware
+vendor_id: hp
+name: Deskjet 3700 J9V86A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:deskjet_3700_j9v86a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3700_j9v86a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rut905-firmware
+vendor_id: teltonika
+name: Rut905 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teltonika:rut905_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rut905_firmware
+  confidence: auto

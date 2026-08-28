@@ -1,0 +1,10 @@
+id: nb3700
+vendor_id: netmodule
+name: Nb3700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:nb3700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb3700
+  confidence: auto

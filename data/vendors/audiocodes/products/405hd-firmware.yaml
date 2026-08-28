@@ -1,0 +1,10 @@
+id: 405hd-firmware
+vendor_id: audiocodes
+name: 405Hd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:audiocodes:405hd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 405hd_firmware
+  confidence: auto

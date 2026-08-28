@@ -1,0 +1,10 @@
+id: f9104-b-main-unit
+vendor_id: axis
+name: F9104-B Main Unit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:f9104\-b_main_unit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f9104-b_main_unit
+  confidence: auto

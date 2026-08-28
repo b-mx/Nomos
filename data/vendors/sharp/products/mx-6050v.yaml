@@ -1,0 +1,10 @@
+id: mx-6050v
+vendor_id: sharp
+name: Mx-6050V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-6050v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-6050v
+  confidence: auto

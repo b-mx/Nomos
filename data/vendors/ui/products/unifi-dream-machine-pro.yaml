@@ -1,0 +1,10 @@
+id: unifi-dream-machine-pro
+vendor_id: ui
+name: Unifi Dream Machine Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:unifi_dream_machine_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_dream_machine_pro
+  confidence: auto

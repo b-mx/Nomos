@@ -1,0 +1,10 @@
+id: t920
+vendor_id: hp
+name: T920
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:t920:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t920
+  confidence: auto

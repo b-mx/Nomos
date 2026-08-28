@@ -1,0 +1,10 @@
+id: airbot-z1
+vendor_id: ecovacs
+name: Airbot Z1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:airbot_z1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airbot_z1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dcp-j1100dw
+vendor_id: brother
+name: Dcp-J1100Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-j1100dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-j1100dw
+  confidence: auto

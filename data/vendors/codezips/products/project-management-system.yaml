@@ -1,0 +1,10 @@
+id: project-management-system
+vendor_id: codezips
+name: Project Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:codezips:project_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: project_management_system
+  confidence: auto

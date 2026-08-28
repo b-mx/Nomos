@@ -1,0 +1,10 @@
+id: pbm5
+vendor_id: ui
+name: Pbm5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:pbm5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pbm5
+  confidence: auto

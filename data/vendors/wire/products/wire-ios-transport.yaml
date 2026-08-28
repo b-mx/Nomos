@@ -1,0 +1,10 @@
+id: wire-ios-transport
+vendor_id: wire
+name: Wire-Ios-Transport
+type: software
+tags: []
+cpe: cpe:2.3:a:wire:wire\-ios\-transport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wire-ios-transport
+  confidence: auto

@@ -1,0 +1,10 @@
+id: p27v-g4-firmware
+vendor_id: hp
+name: P27V G4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:p27v_g4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p27v_g4_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: botvac-85-firmware
+vendor_id: neatorobotics
+name: Botvac 85 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:neatorobotics:botvac_85_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: botvac_85_firmware
+  confidence: auto

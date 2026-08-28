@@ -1,0 +1,10 @@
+id: mp-112-firmware
+vendor_id: audiocodes
+name: Mp-112 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:audiocodes:mp\-112_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp-112_firmware
+  confidence: auto

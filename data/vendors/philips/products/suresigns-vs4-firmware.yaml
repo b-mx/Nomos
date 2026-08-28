@@ -1,0 +1,10 @@
+id: suresigns-vs4-firmware
+vendor_id: philips
+name: Suresigns Vs4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:suresigns_vs4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suresigns_vs4_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: archer
+vendor_id: rsa
+name: Archer
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:archer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: archer
+  confidence: auto

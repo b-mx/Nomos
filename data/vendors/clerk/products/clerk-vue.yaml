@@ -1,0 +1,10 @@
+id: clerk-vue
+vendor_id: clerk
+name: Clerk/Vue
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/vue:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/vue
+  confidence: auto

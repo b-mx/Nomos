@@ -1,0 +1,10 @@
+id: news-module
+vendor_id: php-nuke
+name: News Module
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-nuke:news_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: news_module
+  confidence: auto

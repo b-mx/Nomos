@@ -1,0 +1,10 @@
+id: accesspress-custom-post-type
+vendor_id: accesspressthemes
+name: Accesspress Custom Post Type
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:accesspress_custom_post_type:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accesspress_custom_post_type
+  confidence: auto

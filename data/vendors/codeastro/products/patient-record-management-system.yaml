@@ -1,0 +1,10 @@
+id: patient-record-management-system
+vendor_id: codeastro
+name: Patient Record Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:codeastro:patient_record_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: patient_record_management_system
+  confidence: auto

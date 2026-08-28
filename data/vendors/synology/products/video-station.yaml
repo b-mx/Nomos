@@ -1,0 +1,10 @@
+id: video-station
+vendor_id: synology
+name: Video Station
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:video_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_station
+  confidence: auto

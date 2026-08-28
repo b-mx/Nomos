@@ -1,0 +1,10 @@
+id: mx-se-ii
+vendor_id: zultys
+name: Mx-Se Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zultys:mx\-se_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-se_ii
+  confidence: auto

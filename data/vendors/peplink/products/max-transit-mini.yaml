@@ -1,0 +1,10 @@
+id: max-transit-mini
+vendor_id: peplink
+name: Max Transit Mini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:max_transit_mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_transit_mini
+  confidence: auto

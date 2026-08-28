@@ -1,0 +1,10 @@
+id: c760
+vendor_id: lexmark
+name: C760
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c760:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c760
+  confidence: auto

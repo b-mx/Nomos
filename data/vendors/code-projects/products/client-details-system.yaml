@@ -1,0 +1,10 @@
+id: client-details-system
+vendor_id: code-projects
+name: Client Details System
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:client_details_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: client_details_system
+  confidence: auto

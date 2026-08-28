@@ -1,0 +1,10 @@
+id: com-server-highspeed-office-1port
+vendor_id: wut
+name: Com-Server Highspeed Office 1Port
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wut:com\-server_highspeed_office_1port:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: com-server_highspeed_office_1port
+  confidence: auto

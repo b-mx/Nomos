@@ -1,0 +1,10 @@
+id: sigstore-timestamp-authority
+vendor_id: linuxfoundation
+name: Sigstore Timestamp Authority
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:sigstore_timestamp_authority:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sigstore_timestamp_authority
+  confidence: auto

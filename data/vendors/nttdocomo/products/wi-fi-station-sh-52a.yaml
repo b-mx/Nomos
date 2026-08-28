@@ -1,0 +1,10 @@
+id: wi-fi-station-sh-52a
+vendor_id: nttdocomo
+name: Wi-Fi Station Sh-52A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nttdocomo:wi\-fi_station_sh\-52a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wi-fi_station_sh-52a
+  confidence: auto

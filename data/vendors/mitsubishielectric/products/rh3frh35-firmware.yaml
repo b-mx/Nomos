@@ -1,0 +1,10 @@
+id: rh3frh35-firmware
+vendor_id: mitsubishielectric
+name: Rh3Frh35 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rh3frh35_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh3frh35_firmware
+  confidence: auto

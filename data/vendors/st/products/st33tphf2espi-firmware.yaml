@@ -1,0 +1,10 @@
+id: st33tphf2espi-firmware
+vendor_id: st
+name: St33Tphf2Espi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:st:st33tphf2espi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: st33tphf2espi_firmware
+  confidence: auto

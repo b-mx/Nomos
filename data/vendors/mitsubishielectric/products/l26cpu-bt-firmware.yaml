@@ -1,0 +1,10 @@
+id: l26cpu-bt-firmware
+vendor_id: mitsubishielectric
+name: L26Cpu-Bt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:l26cpu\-bt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l26cpu-bt_firmware
+  confidence: auto

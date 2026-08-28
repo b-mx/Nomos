@@ -1,0 +1,10 @@
+id: emberznet
+vendor_id: silabs
+name: Emberznet
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:emberznet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emberznet
+  confidence: auto

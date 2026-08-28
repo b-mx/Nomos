@@ -1,0 +1,10 @@
+id: arris-tg1682g
+vendor_id: commscope
+name: Arris Tg1682G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:arris_tg1682g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_tg1682g
+  confidence: auto

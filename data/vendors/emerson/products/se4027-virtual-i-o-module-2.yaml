@@ -1,0 +1,10 @@
+id: se4027-virtual-i-o-module-2
+vendor_id: emerson
+name: Se4027 Virtual I/O Module 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:se4027_virtual_i\/o_module_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se4027_virtual_i/o_module_2
+  confidence: auto

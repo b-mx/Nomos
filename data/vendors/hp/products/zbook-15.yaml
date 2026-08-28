@@ -1,0 +1,10 @@
+id: zbook-15
+vendor_id: hp
+name: Zbook 15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_15
+  confidence: auto

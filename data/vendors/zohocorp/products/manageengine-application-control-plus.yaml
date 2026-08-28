@@ -1,0 +1,10 @@
+id: manageengine-application-control-plus
+vendor_id: zohocorp
+name: Manageengine Application Control Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_application_control_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_application_control_plus
+  confidence: auto

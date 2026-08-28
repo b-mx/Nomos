@@ -1,0 +1,10 @@
+id: jd025a
+vendor_id: hp
+name: Jd025A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd025a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd025a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: eos-6d
+vendor_id: canon
+name: Eos 6D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_6d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_6d
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dg860a-firmware
+vendor_id: arris
+name: Dg860A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arris:dg860a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dg860a_firmware
+  confidence: auto

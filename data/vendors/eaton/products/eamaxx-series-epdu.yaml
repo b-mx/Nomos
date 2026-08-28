@@ -1,0 +1,10 @@
+id: eamaxx-series-epdu
+vendor_id: eaton
+name: Eamaxx Series Epdu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:eaton:eamaxx_series_epdu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eamaxx_series_epdu
+  confidence: auto

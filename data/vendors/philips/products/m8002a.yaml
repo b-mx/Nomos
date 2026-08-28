@@ -1,0 +1,10 @@
+id: m8002a
+vendor_id: philips
+name: M8002A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:m8002a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m8002a
+  confidence: auto

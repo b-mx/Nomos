@@ -1,0 +1,10 @@
+id: ip-he950e
+vendor_id: fujitsu
+name: Ip-He950E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:ip\-he950e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip-he950e
+  confidence: auto

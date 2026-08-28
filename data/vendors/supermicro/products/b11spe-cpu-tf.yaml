@@ -1,0 +1,10 @@
+id: b11spe-cpu-tf
+vendor_id: supermicro
+name: B11Spe-Cpu-Tf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b11spe\-cpu\-tf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b11spe-cpu-tf
+  confidence: auto

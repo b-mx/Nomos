@@ -1,0 +1,10 @@
+id: ms510
+vendor_id: lexmark
+name: Ms510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms510
+  confidence: auto

@@ -1,0 +1,6 @@
+id: netapp-ontap
+name: NetApp ONTAP
+aliases:
+- source: endoflife
+  value: netapp-ontap
+  confidence: auto

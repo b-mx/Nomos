@@ -1,0 +1,10 @@
+id: p8510-firmware
+vendor_id: cometsystem
+name: P8510 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cometsystem:p8510_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p8510_firmware
+  confidence: auto

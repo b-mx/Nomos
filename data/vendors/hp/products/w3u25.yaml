@@ -1,0 +1,10 @@
+id: w3u25
+vendor_id: hp
+name: W3U25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:w3u25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w3u25
+  confidence: auto

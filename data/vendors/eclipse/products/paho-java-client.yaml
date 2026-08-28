@@ -1,0 +1,10 @@
+id: paho-java-client
+vendor_id: eclipse
+name: Paho Java Client
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:paho_java_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paho_java_client
+  confidence: auto

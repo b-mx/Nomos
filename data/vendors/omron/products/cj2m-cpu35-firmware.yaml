@@ -1,0 +1,10 @@
+id: cj2m-cpu35-firmware
+vendor_id: omron
+name: Cj2M-Cpu35 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cj2m\-cpu35_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cj2m-cpu35_firmware
+  confidence: auto

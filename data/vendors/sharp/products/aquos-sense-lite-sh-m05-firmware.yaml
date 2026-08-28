@@ -1,0 +1,10 @@
+id: aquos-sense-lite-sh-m05-firmware
+vendor_id: sharp
+name: Aquos Sense Lite Sh-M05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:aquos_sense_lite_sh\-m05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_sense_lite_sh-m05_firmware
+  confidence: auto

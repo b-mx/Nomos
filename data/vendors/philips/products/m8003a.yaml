@@ -1,0 +1,10 @@
+id: m8003a
+vendor_id: philips
+name: M8003A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:m8003a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m8003a
+  confidence: auto

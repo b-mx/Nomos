@@ -1,0 +1,10 @@
+id: envy-5530
+vendor_id: hp
+name: Envy 5530
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5530:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5530
+  confidence: auto

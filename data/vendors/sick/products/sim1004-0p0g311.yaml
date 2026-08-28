@@ -1,0 +1,10 @@
+id: sim1004-0p0g311
+vendor_id: sick
+name: Sim1004-0P0G311
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:sim1004\-0p0g311:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim1004-0p0g311
+  confidence: auto

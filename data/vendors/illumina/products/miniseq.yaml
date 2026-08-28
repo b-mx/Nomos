@@ -1,0 +1,10 @@
+id: miniseq
+vendor_id: illumina
+name: Miniseq
+type: hardware
+tags: []
+cpe: cpe:2.3:h:illumina:miniseq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miniseq
+  confidence: auto

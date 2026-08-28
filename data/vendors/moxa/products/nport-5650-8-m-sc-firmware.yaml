@@ -1,0 +1,10 @@
+id: nport-5650-8-m-sc-firmware
+vendor_id: moxa
+name: Nport 5650-8-M-Sc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_5650\-8\-m\-sc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5650-8-m-sc_firmware
+  confidence: auto

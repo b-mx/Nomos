@@ -1,0 +1,10 @@
+id: php-crm-platform
+vendor_id: gzscripts
+name: Php Crm Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:php_crm_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: php_crm_platform
+  confidence: auto

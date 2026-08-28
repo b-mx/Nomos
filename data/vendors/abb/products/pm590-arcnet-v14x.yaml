@@ -1,0 +1,10 @@
+id: pm590-arcnet-v14x
+vendor_id: abb
+name: Pm590-Arcnet-V14X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm590\-arcnet\-v14x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm590-arcnet-v14x
+  confidence: auto

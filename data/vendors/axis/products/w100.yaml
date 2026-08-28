@@ -1,0 +1,10 @@
+id: w100
+vendor_id: axis
+name: W100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:w100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w100
+  confidence: auto

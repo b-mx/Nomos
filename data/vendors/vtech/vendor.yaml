@@ -1,0 +1,7 @@
+id: vtech
+name: Vtech
+cpe: cpe:2.3:*:vtech:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vtech
+  confidence: auto

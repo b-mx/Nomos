@@ -1,0 +1,10 @@
+id: alerton-bcm-web
+vendor_id: honeywell
+name: Alerton Bcm-Web
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:alerton_bcm\-web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alerton_bcm-web
+  confidence: auto

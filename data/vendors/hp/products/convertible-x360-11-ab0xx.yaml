@@ -1,0 +1,10 @@
+id: convertible-x360-11-ab0xx
+vendor_id: hp
+name: Convertible X360 11-Ab0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:convertible_x360_11\-ab0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: convertible_x360_11-ab0xx
+  confidence: auto

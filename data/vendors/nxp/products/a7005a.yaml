@@ -1,0 +1,10 @@
+id: a7005a
+vendor_id: nxp
+name: A7005A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:a7005a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a7005a
+  confidence: auto

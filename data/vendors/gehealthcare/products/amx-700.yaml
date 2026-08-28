@@ -1,0 +1,10 @@
+id: amx-700
+vendor_id: gehealthcare
+name: Amx 700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:amx_700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amx_700
+  confidence: auto

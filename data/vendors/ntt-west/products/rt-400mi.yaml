@@ -1,0 +1,10 @@
+id: rt-400mi
+vendor_id: ntt-west
+name: Rt-400Mi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-west:rt\-400mi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-400mi
+  confidence: auto

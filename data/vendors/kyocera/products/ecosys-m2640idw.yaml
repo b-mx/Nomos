@@ -1,0 +1,10 @@
+id: ecosys-m2640idw
+vendor_id: kyocera
+name: Ecosys M2640Idw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kyocera:ecosys_m2640idw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecosys_m2640idw
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gr8-tv
+vendor_id: magzter
+name: Gr8! Tv
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:gr8\!_tv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gr8!_tv
+  confidence: auto

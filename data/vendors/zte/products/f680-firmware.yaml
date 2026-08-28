@@ -1,0 +1,10 @@
+id: f680-firmware
+vendor_id: zte
+name: F680 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:f680_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f680_firmware
+  confidence: auto

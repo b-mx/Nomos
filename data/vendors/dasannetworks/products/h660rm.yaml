@@ -1,0 +1,10 @@
+id: h660rm
+vendor_id: dasannetworks
+name: H660Rm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dasannetworks:h660rm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h660rm
+  confidence: auto

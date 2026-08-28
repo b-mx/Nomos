@@ -1,0 +1,10 @@
+id: ip-gateway
+vendor_id: abb
+name: Ip Gateway
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:ip_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_gateway
+  confidence: auto

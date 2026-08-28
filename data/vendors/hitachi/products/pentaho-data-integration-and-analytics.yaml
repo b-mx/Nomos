@@ -1,0 +1,10 @@
+id: pentaho-data-integration-and-analytics
+vendor_id: hitachi
+name: Pentaho Data Integration And Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:pentaho_data_integration_and_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pentaho_data_integration_and_analytics
+  confidence: auto

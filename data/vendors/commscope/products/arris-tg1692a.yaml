@@ -1,0 +1,10 @@
+id: arris-tg1692a
+vendor_id: commscope
+name: Arris Tg1692A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:arris_tg1692a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_tg1692a
+  confidence: auto

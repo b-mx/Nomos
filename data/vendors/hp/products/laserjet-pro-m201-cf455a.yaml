@@ -1,0 +1,10 @@
+id: laserjet-pro-m201-cf455a
+vendor_id: hp
+name: Laserjet Pro M201 Cf455A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m201_cf455a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m201_cf455a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: java-system-identity-manager
+vendor_id: sun
+name: Java System Identity Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_system_identity_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_system_identity_manager
+  confidence: auto

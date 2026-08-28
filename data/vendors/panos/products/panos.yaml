@@ -1,0 +1,9 @@
+id: panos
+vendor_id: panos
+name: Palo Alto Networks PAN-OS
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: panos
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mrd-355-din-firmware
+vendor_id: westermo
+name: Mrd-355-Din Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westermo:mrd\-355\-din_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mrd-355-din_firmware
+  confidence: auto

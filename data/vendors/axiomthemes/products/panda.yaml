@@ -1,0 +1,10 @@
+id: panda
+vendor_id: axiomthemes
+name: Panda
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:panda:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: panda
+  confidence: auto

@@ -1,0 +1,10 @@
+id: t430-thin-client-firmware
+vendor_id: hp
+name: T430 Thin Client Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:t430_thin_client_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t430_thin_client_firmware
+  confidence: auto

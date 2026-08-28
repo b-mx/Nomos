@@ -1,0 +1,10 @@
+id: accesspress-mag
+vendor_id: accesspressthemes
+name: Accesspress Mag
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:accesspress_mag:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accesspress_mag
+  confidence: auto

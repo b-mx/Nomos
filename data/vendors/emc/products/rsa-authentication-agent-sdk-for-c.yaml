@@ -1,0 +1,10 @@
+id: rsa-authentication-agent-sdk-for-c
+vendor_id: emc
+name: Rsa Authentication Agent Sdk For C
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_authentication_agent_sdk_for_c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_authentication_agent_sdk_for_c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rhone-al00
+vendor_id: huawei
+name: Rhone-Al00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rhone\-al00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rhone-al00
+  confidence: auto

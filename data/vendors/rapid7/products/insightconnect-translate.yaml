@@ -1,0 +1,10 @@
+id: insightconnect-translate
+vendor_id: rapid7
+name: Insightconnect Translate
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:insightconnect_translate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insightconnect_translate
+  confidence: auto

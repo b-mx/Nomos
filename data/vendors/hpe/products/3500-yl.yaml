@@ -1,0 +1,10 @@
+id: 3500-yl
+vendor_id: hpe
+name: 3500 Yl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:3500_yl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3500_yl
+  confidence: auto

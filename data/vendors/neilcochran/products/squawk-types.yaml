@@ -1,0 +1,10 @@
+id: squawk-types
+vendor_id: neilcochran
+name: Squawk/Types
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/types:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/types
+  confidence: auto

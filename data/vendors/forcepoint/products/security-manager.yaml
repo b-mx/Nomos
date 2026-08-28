@@ -1,0 +1,10 @@
+id: security-manager
+vendor_id: forcepoint
+name: Security Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:security_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: security_manager
+  confidence: auto

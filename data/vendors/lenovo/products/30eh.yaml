@@ -1,0 +1,10 @@
+id: 30eh
+vendor_id: lenovo
+name: 30Eh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:30eh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 30eh
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hen32204-firmware
+vendor_id: honeywell
+name: Hen32204 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hen32204_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hen32204_firmware
+  confidence: auto

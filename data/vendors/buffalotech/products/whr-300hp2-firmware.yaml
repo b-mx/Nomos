@@ -1,0 +1,10 @@
+id: whr-300hp2-firmware
+vendor_id: buffalotech
+name: Whr-300Hp2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalotech:whr\-300hp2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-300hp2_firmware
+  confidence: auto

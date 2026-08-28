@@ -1,0 +1,10 @@
+id: pipecd
+vendor_id: linuxfoundation
+name: Pipecd
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:pipecd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pipecd
+  confidence: auto

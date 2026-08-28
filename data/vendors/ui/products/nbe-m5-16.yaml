@@ -1,0 +1,10 @@
+id: nbe-m5-16
+vendor_id: ui
+name: Nbe-M5-16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:nbe\-m5\-16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbe-m5-16
+  confidence: auto

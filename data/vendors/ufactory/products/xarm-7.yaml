@@ -1,0 +1,10 @@
+id: xarm-7
+vendor_id: ufactory
+name: Xarm 7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ufactory:xarm_7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xarm_7
+  confidence: auto

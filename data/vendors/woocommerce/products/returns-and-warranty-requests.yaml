@@ -1,0 +1,10 @@
+id: returns-and-warranty-requests
+vendor_id: woocommerce
+name: Returns And Warranty Requests
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:returns_and_warranty_requests:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: returns_and_warranty_requests
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sphere-firmware
+vendor_id: teradek
+name: Sphere Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teradek:sphere_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sphere_firmware
+  confidence: auto

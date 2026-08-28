@@ -1,0 +1,10 @@
+id: openmct
+vendor_id: nasa
+name: Openmct
+type: software
+tags: []
+cpe: cpe:2.3:a:nasa:openmct:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openmct
+  confidence: auto

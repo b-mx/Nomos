@@ -1,0 +1,10 @@
+id: fl-mguard-centerport-vpn-1000
+vendor_id: phoenixcontact
+name: Fl Mguard Centerport Vpn-1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_mguard_centerport_vpn\-1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_centerport_vpn-1000
+  confidence: auto

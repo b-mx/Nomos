@@ -1,0 +1,10 @@
+id: box
+vendor_id: bitdefender
+name: Box
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bitdefender:box:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: box
+  confidence: auto

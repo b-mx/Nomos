@@ -1,0 +1,10 @@
+id: icontrol
+vendor_id: hcltech
+name: Icontrol
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:icontrol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icontrol
+  confidence: auto

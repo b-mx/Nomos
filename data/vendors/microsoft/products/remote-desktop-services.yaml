@@ -1,0 +1,9 @@
+id: remote-desktop-services
+vendor_id: microsoft
+name: Remote Desktop Services
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Remote Desktop Services
+  confidence: auto

@@ -1,0 +1,10 @@
+id: speed-batcher-firmware
+vendor_id: marel
+name: Speed Batcher Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:speed_batcher_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: speed_batcher_firmware
+  confidence: auto

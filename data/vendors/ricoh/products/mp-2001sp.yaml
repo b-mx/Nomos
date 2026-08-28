@@ -1,0 +1,10 @@
+id: mp-2001sp
+vendor_id: ricoh
+name: Mp 2001Sp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_2001sp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_2001sp
+  confidence: auto

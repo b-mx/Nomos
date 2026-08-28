@@ -1,0 +1,10 @@
+id: v1202-ct-t
+vendor_id: moxa
+name: V1202-Ct-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:v1202\-ct\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v1202-ct-t
+  confidence: auto

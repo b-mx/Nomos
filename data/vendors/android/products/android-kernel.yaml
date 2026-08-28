@@ -1,11 +1,9 @@
 id: android-kernel
 vendor_id: android
 name: Android Kernel
-type: os
-tags:
-- operating-system
-icon: logos:android-icon
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: Android Kernel
-  confidence: curated
+  confidence: auto

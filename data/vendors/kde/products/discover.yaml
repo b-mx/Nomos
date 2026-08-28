@@ -1,0 +1,10 @@
+id: discover
+vendor_id: kde
+name: Discover
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:discover:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discover
+  confidence: auto

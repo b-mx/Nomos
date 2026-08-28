@@ -1,0 +1,10 @@
+id: neutron
+vendor_id: openstack
+name: Neutron
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:neutron:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neutron
+  confidence: auto

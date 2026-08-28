@@ -1,0 +1,10 @@
+id: mirrorcache
+vendor_id: opensuse
+name: Mirrorcache
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:mirrorcache:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mirrorcache
+  confidence: auto

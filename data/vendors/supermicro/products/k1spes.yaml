@@ -1,0 +1,10 @@
+id: k1spes
+vendor_id: supermicro
+name: K1Spes
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:k1spes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k1spes
+  confidence: auto

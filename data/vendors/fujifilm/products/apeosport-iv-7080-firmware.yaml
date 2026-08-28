@@ -1,0 +1,10 @@
+id: apeosport-iv-7080-firmware
+vendor_id: fujifilm
+name: Apeosport-Iv 7080 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:apeosport\-iv_7080_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport-iv_7080_firmware
+  confidence: auto

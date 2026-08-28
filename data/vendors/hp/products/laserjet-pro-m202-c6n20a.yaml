@@ -1,0 +1,10 @@
+id: laserjet-pro-m202-c6n20a
+vendor_id: hp
+name: Laserjet Pro M202 C6N20A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m202_c6n20a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m202_c6n20a
+  confidence: auto

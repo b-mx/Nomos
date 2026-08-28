@@ -1,0 +1,10 @@
+id: q1728-le
+vendor_id: axis
+name: Q1728-Le
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q1728\-le:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q1728-le
+  confidence: auto

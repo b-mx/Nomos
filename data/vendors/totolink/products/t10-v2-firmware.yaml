@@ -1,0 +1,10 @@
+id: t10-v2-firmware
+vendor_id: totolink
+name: T10 V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:t10_v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t10_v2_firmware
+  confidence: auto

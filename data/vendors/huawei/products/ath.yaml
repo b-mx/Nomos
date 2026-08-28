@@ -1,0 +1,10 @@
+id: ath
+vendor_id: huawei
+name: Ath
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ath:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ath
+  confidence: auto

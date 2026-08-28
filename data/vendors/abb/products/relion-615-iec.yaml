@@ -1,0 +1,10 @@
+id: relion-615-iec
+vendor_id: abb
+name: Relion 615 Iec
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:relion_615_iec:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: relion_615_iec
+  confidence: auto

@@ -1,0 +1,10 @@
+id: alpha7-pc-loader
+vendor_id: fujielectric
+name: Alpha7 Pc Loader
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujielectric:alpha7_pc_loader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alpha7_pc_loader
+  confidence: auto

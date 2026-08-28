@@ -1,0 +1,10 @@
+id: coreldraw-photo-paint
+vendor_id: corel
+name: Coreldraw Photo Paint
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:coreldraw_photo_paint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coreldraw_photo_paint
+  confidence: auto

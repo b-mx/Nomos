@@ -1,0 +1,10 @@
+id: rmnf22tb30-firmware
+vendor_id: se
+name: Rmnf22Tb30 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:se:rmnf22tb30_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rmnf22tb30_firmware
+  confidence: auto

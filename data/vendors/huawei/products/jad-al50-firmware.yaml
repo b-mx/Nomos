@@ -1,0 +1,10 @@
+id: jad-al50-firmware
+vendor_id: huawei
+name: Jad-Al50 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:jad\-al50_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jad-al50_firmware
+  confidence: auto

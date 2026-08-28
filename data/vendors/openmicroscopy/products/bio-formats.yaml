@@ -1,0 +1,10 @@
+id: bio-formats
+vendor_id: openmicroscopy
+name: Bio-Formats
+type: software
+tags: []
+cpe: cpe:2.3:a:openmicroscopy:bio\-formats:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bio-formats
+  confidence: auto

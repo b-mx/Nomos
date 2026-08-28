@@ -1,0 +1,10 @@
+id: st-ipm-8460-firmware
+vendor_id: redlioncontrols
+name: St-Ipm-8460 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:redlioncontrols:st\-ipm\-8460_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: st-ipm-8460_firmware
+  confidence: auto

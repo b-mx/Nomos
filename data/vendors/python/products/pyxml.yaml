@@ -1,0 +1,10 @@
+id: pyxml
+vendor_id: python
+name: Pyxml
+type: software
+tags: []
+cpe: cpe:2.3:a:python:pyxml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxml
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mgate-5109-t-firmware
+vendor_id: moxa
+name: Mgate 5109-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:mgate_5109\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mgate_5109-t_firmware
+  confidence: auto

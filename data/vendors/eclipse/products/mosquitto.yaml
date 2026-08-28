@@ -1,0 +1,10 @@
+id: mosquitto
+vendor_id: eclipse
+name: Mosquitto
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:mosquitto:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mosquitto
+  confidence: auto

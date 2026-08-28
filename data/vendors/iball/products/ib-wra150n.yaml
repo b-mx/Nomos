@@ -1,0 +1,10 @@
+id: ib-wra150n
+vendor_id: iball
+name: Ib-Wra150N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iball:ib\-wra150n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib-wra150n
+  confidence: auto

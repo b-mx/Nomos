@@ -1,0 +1,10 @@
+id: ccx-400
+vendor_id: poly
+name: Ccx 400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:poly:ccx_400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ccx_400
+  confidence: auto

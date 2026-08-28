@@ -1,0 +1,10 @@
+id: x12dsc-6-firmware
+vendor_id: supermicro
+name: X12Dsc-6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x12dsc\-6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dsc-6_firmware
+  confidence: auto

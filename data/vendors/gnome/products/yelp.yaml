@@ -1,0 +1,10 @@
+id: yelp
+vendor_id: gnome
+name: Yelp
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:yelp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yelp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x9d24b
+vendor_id: hp
+name: X9D24B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:x9d24b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9d24b
+  confidence: auto

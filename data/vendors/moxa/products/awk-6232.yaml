@@ -1,0 +1,10 @@
+id: awk-6232
+vendor_id: moxa
+name: Awk-6232
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:awk\-6232:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awk-6232
+  confidence: auto

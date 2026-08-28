@@ -1,0 +1,10 @@
+id: wp-user-frontend
+vendor_id: wedevs
+name: Wp User Frontend
+type: software
+tags: []
+cpe: cpe:2.3:a:wedevs:wp_user_frontend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_user_frontend
+  confidence: auto

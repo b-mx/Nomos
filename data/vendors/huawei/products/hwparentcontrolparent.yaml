@@ -1,0 +1,10 @@
+id: hwparentcontrolparent
+vendor_id: huawei
+name: Hwparentcontrolparent
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hwparentcontrolparent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hwparentcontrolparent
+  confidence: auto

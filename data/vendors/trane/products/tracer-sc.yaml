@@ -1,0 +1,10 @@
+id: tracer-sc
+vendor_id: trane
+name: Tracer Sc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trane:tracer_sc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tracer_sc
+  confidence: auto

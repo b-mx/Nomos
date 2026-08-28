@@ -1,0 +1,10 @@
+id: sne22000-firmware
+vendor_id: johnsoncontrols
+name: Sne22000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:johnsoncontrols:sne22000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sne22000_firmware
+  confidence: auto

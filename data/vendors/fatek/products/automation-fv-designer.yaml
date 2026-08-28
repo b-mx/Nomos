@@ -1,0 +1,10 @@
+id: automation-fv-designer
+vendor_id: fatek
+name: Automation Fv Designer
+type: software
+tags: []
+cpe: cpe:2.3:a:fatek:automation_fv_designer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automation_fv_designer
+  confidence: auto

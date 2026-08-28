@@ -1,0 +1,10 @@
+id: xnd-8080rv
+vendor_id: hanwhavision
+name: Xnd-8080Rv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnd\-8080rv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnd-8080rv
+  confidence: auto

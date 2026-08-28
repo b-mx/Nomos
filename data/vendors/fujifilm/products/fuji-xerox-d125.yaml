@@ -1,0 +1,10 @@
+id: fuji-xerox-d125
+vendor_id: fujifilm
+name: Fuji Xerox D125
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:fuji_xerox_d125:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fuji_xerox_d125
+  confidence: auto

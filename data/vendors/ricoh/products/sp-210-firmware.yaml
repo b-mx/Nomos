@@ -1,0 +1,10 @@
+id: sp-210-firmware
+vendor_id: ricoh
+name: Sp 210 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:sp_210_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_210_firmware
+  confidence: auto

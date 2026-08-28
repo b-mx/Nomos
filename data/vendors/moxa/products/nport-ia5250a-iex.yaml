@@ -1,0 +1,10 @@
+id: nport-ia5250a-iex
+vendor_id: moxa
+name: Nport Ia5250A-Iex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_ia5250a\-iex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_ia5250a-iex
+  confidence: auto

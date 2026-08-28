@@ -1,0 +1,10 @@
+id: y0s18a-firmware
+vendor_id: hp
+name: Y0S18A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:y0s18a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y0s18a_firmware
+  confidence: auto

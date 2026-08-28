@@ -1,0 +1,10 @@
+id: go-unixfs
+vendor_id: protocol
+name: Go-Unixfs
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:go\-unixfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go-unixfs
+  confidence: auto

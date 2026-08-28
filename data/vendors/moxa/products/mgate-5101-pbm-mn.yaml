@@ -1,0 +1,10 @@
+id: mgate-5101-pbm-mn
+vendor_id: moxa
+name: Mgate 5101-Pbm-Mn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:mgate_5101\-pbm\-mn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mgate_5101-pbm-mn
+  confidence: auto

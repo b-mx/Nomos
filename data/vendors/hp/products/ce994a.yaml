@@ -1,0 +1,10 @@
+id: ce994a
+vendor_id: hp
+name: Ce994A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:ce994a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ce994a
+  confidence: auto

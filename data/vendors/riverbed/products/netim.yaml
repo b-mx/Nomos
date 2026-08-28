@@ -1,0 +1,10 @@
+id: netim
+vendor_id: riverbed
+name: Netim
+type: software
+tags: []
+cpe: cpe:2.3:a:riverbed:netim:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netim
+  confidence: auto

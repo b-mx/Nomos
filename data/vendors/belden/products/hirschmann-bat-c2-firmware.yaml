@@ -1,0 +1,10 @@
+id: hirschmann-bat-c2-firmware
+vendor_id: belden
+name: Hirschmann Bat-C2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belden:hirschmann_bat\-c2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_bat-c2_firmware
+  confidence: auto

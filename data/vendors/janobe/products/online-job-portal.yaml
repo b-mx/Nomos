@@ -1,0 +1,10 @@
+id: online-job-portal
+vendor_id: janobe
+name: Online Job Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:online_job_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_job_portal
+  confidence: auto

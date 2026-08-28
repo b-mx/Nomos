@@ -1,0 +1,10 @@
+id: vsu-2000
+vendor_id: avaya
+name: Vsu 2000
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:vsu_2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsu_2000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: libp2p
+vendor_id: protocol
+name: Libp2P
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:libp2p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libp2p
+  confidence: auto

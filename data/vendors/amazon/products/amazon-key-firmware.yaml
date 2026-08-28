@@ -1,0 +1,10 @@
+id: amazon-key-firmware
+vendor_id: amazon
+name: Amazon Key Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amazon:amazon_key_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_key_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 6hu08a-firmware
+vendor_id: hp
+name: 6Hu08A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:6hu08a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 6hu08a_firmware
+  confidence: auto

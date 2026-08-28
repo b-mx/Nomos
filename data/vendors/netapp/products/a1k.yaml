@@ -1,0 +1,10 @@
+id: a1k
+vendor_id: netapp
+name: A1K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:a1k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1k
+  confidence: auto

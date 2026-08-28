@@ -1,0 +1,10 @@
+id: tallyui-database
+vendor_id: kilbot
+name: Tallyui/Database
+type: software
+tags: []
+cpe: cpe:2.3:a:kilbot:tallyui\/database:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tallyui/database
+  confidence: auto

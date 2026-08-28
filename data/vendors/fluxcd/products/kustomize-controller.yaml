@@ -1,0 +1,10 @@
+id: kustomize-controller
+vendor_id: fluxcd
+name: Kustomize-Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:fluxcd:kustomize\-controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kustomize-controller
+  confidence: auto

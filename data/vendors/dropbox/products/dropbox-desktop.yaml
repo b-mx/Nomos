@@ -1,0 +1,10 @@
+id: dropbox-desktop
+vendor_id: dropbox
+name: Dropbox Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:dropbox:dropbox_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dropbox_desktop
+  confidence: auto

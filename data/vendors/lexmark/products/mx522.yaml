@@ -1,0 +1,10 @@
+id: mx522
+vendor_id: lexmark
+name: Mx522
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx522:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx522
+  confidence: auto

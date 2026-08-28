@@ -1,0 +1,10 @@
+id: xm-jpr2-lx-firmware
+vendor_id: xiongmaitech
+name: Xm-Jpr2-Lx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:xm\-jpr2\-lx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm-jpr2-lx_firmware
+  confidence: auto

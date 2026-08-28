@@ -1,0 +1,7 @@
+id: fedoraproject
+name: Fedoraproject
+cpe: cpe:2.3:*:fedoraproject:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fedoraproject
+  confidence: auto

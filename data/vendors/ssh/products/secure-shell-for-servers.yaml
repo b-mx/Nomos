@@ -1,0 +1,10 @@
+id: secure-shell-for-servers
+vendor_id: ssh
+name: Secure Shell For Servers
+type: software
+tags: []
+cpe: cpe:2.3:a:ssh:secure_shell_for_servers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_shell_for_servers
+  confidence: auto

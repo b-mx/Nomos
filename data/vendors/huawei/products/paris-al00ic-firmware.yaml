@@ -1,0 +1,10 @@
+id: paris-al00ic-firmware
+vendor_id: huawei
+name: Paris-Al00Ic Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:paris\-al00ic_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paris-al00ic_firmware
+  confidence: auto

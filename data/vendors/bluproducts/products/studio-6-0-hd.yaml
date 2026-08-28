@@ -1,0 +1,10 @@
+id: studio-6-0-hd
+vendor_id: bluproducts
+name: Studio 6.0 Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bluproducts:studio_6\.0_hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_6.0_hd
+  confidence: auto

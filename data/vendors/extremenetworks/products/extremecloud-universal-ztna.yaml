@@ -1,0 +1,10 @@
+id: extremecloud-universal-ztna
+vendor_id: extremenetworks
+name: Extremecloud Universal Ztna
+type: software
+tags: []
+cpe: cpe:2.3:a:extremenetworks:extremecloud_universal_ztna:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: extremecloud_universal_ztna
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mf4780w-firmware
+vendor_id: canon
+name: Mf4780W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:mf4780w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf4780w_firmware
+  confidence: auto

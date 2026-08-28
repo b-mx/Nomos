@@ -1,0 +1,10 @@
+id: mx-component
+vendor_id: mitsubishielectric
+name: Mx Component
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mx_component:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx_component
+  confidence: auto

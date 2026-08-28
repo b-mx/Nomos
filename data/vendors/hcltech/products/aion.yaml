@@ -1,0 +1,10 @@
+id: aion
+vendor_id: hcltech
+name: Aion
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:aion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aion
+  confidence: auto

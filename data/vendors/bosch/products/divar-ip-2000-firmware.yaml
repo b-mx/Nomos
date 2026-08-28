@@ -1,0 +1,10 @@
+id: divar-ip-2000-firmware
+vendor_id: bosch
+name: Divar Ip 2000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:divar_ip_2000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: divar_ip_2000_firmware
+  confidence: auto

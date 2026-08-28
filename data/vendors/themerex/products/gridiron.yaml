@@ -1,0 +1,10 @@
+id: gridiron
+vendor_id: themerex
+name: Gridiron
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:gridiron:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gridiron
+  confidence: auto

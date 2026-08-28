@@ -1,0 +1,10 @@
+id: bigfix-insights
+vendor_id: hcltech
+name: Bigfix Insights
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:bigfix_insights:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bigfix_insights
+  confidence: auto

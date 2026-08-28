@@ -1,0 +1,10 @@
+id: cp400pb-firmware
+vendor_id: abb
+name: Cp400Pb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:cp400pb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp400pb_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: px-048a
+vendor_id: epson
+name: Px-048A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-048a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-048a
+  confidence: auto

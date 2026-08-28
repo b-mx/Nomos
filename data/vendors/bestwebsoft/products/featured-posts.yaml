@@ -1,0 +1,10 @@
+id: featured-posts
+vendor_id: bestwebsoft
+name: Featured Posts
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:featured_posts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: featured_posts
+  confidence: auto

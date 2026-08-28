@@ -1,0 +1,10 @@
+id: ev
+vendor_id: php-nuke
+name: Ev
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-nuke:ev:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ev
+  confidence: auto

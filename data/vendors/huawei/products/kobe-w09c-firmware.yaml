@@ -1,0 +1,10 @@
+id: kobe-w09c-firmware
+vendor_id: huawei
+name: Kobe-W09C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:kobe\-w09c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kobe-w09c_firmware
+  confidence: auto

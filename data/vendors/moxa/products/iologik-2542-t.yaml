@@ -1,0 +1,10 @@
+id: iologik-2542-t
+vendor_id: moxa
+name: Iologik 2542-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:iologik_2542\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iologik_2542-t
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sysmac-cp1e-e30dr-a
+vendor_id: omron
+name: Sysmac Cp1E-E30Dr-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cp1e\-e30dr\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cp1e-e30dr-a
+  confidence: auto

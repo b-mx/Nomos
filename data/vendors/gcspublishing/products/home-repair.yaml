@@ -1,0 +1,10 @@
+id: home-repair
+vendor_id: gcspublishing
+name: Home Repair
+type: software
+tags: []
+cpe: cpe:2.3:a:gcspublishing:home_repair:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: home_repair
+  confidence: auto

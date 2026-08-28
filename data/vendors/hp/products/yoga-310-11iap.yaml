@@ -1,0 +1,10 @@
+id: yoga-310-11iap
+vendor_id: hp
+name: Yoga 310-11Iap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:yoga_310\-11iap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_310-11iap
+  confidence: auto

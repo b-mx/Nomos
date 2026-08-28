@@ -1,0 +1,14 @@
+id: vuetify
+vendor_id: vuetifyjs
+name: Vuetify
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:vuetifyjs:vuetify:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: vuetify
+  confidence: auto
+- source: nvd
+  value: vuetify
+  confidence: auto

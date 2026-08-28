@@ -1,0 +1,10 @@
+id: jakarta-expression-language
+vendor_id: eclipse
+name: Jakarta Expression Language
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:jakarta_expression_language:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jakarta_expression_language
+  confidence: auto

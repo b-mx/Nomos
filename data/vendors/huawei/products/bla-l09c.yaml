@@ -1,0 +1,10 @@
+id: bla-l09c
+vendor_id: huawei
+name: Bla-L09C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:bla\-l09c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bla-l09c
+  confidence: auto

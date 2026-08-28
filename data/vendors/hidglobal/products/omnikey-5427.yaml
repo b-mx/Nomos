@@ -1,0 +1,10 @@
+id: omnikey-5427
+vendor_id: hidglobal
+name: Omnikey 5427
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hidglobal:omnikey_5427:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omnikey_5427
+  confidence: auto

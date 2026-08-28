@@ -1,0 +1,10 @@
+id: mfc-l8610cdw-japan
+vendor_id: brother
+name: Mfc-L8610Cdw(Japan)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-l8610cdw\(japan\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l8610cdw(japan)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: omero-server
+vendor_id: openmicroscopy
+name: Omero.Server
+type: software
+tags: []
+cpe: cpe:2.3:a:openmicroscopy:omero\.server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omero.server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: officeconnect-1850-48g-4xgt-poe
+vendor_id: hpe
+name: Officeconnect 1850 48G 4Xgt Poe+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:officeconnect_1850_48g_4xgt_poe\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officeconnect_1850_48g_4xgt_poe+
+  confidence: auto

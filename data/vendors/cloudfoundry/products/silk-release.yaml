@@ -1,0 +1,10 @@
+id: silk-release
+vendor_id: cloudfoundry
+name: Silk-Release
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:silk\-release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: silk-release
+  confidence: auto

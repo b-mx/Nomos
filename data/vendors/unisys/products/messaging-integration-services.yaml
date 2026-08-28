@@ -1,0 +1,10 @@
+id: messaging-integration-services
+vendor_id: unisys
+name: Messaging Integration Services
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:messaging_integration_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: messaging_integration_services
+  confidence: auto

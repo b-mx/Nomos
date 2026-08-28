@@ -1,0 +1,10 @@
+id: oaklouds-mailsherlock
+vendor_id: hgiga
+name: Oaklouds Mailsherlock
+type: software
+tags: []
+cpe: cpe:2.3:a:hgiga:oaklouds_mailsherlock:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oaklouds_mailsherlock
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nano-2et
+vendor_id: jtekt
+name: Nano 2Et
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:nano_2et:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nano_2et
+  confidence: auto

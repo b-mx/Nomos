@@ -1,0 +1,10 @@
+id: ac700f-firmware
+vendor_id: abb
+name: Ac700F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:ac700f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac700f_firmware
+  confidence: auto

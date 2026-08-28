@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m806-cz245a-firmware
+vendor_id: hp
+name: Laserjet Enterprise M806 Cz245A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_enterprise_m806_cz245a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m806_cz245a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: r-car-h3e
+vendor_id: renesas
+name: R-Car H3E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:renesas:r\-car_h3e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r-car_h3e
+  confidence: auto

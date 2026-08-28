@@ -1,0 +1,10 @@
+id: eda70
+vendor_id: honeywell
+name: Eda70
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:eda70:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eda70
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aircam-dome
+vendor_id: ui
+name: Aircam Dome
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:aircam_dome:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aircam_dome
+  confidence: auto

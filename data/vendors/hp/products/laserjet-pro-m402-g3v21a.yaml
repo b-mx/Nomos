@@ -1,0 +1,10 @@
+id: laserjet-pro-m402-g3v21a
+vendor_id: hp
+name: Laserjet Pro M402 G3V21A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m402_g3v21a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m402_g3v21a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ar-5387un-firmware
+vendor_id: comtrend
+name: Ar-5387Un Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:comtrend:ar\-5387un_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar-5387un_firmware
+  confidence: auto

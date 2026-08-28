@@ -1,0 +1,10 @@
+id: event-registration-system
+vendor_id: oretnom23
+name: Event Registration System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:event_registration_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: event_registration_system
+  confidence: auto

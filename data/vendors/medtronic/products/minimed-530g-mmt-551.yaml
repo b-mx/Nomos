@@ -1,0 +1,10 @@
+id: minimed-530g-mmt-551
+vendor_id: medtronic
+name: Minimed 530G Mmt-551
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:minimed_530g_mmt\-551:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_530g_mmt-551
+  confidence: auto

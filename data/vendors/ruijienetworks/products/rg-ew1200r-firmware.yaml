@@ -1,0 +1,10 @@
+id: rg-ew1200r-firmware
+vendor_id: ruijienetworks
+name: Rg-Ew1200R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijienetworks:rg\-ew1200r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-ew1200r_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lawyer
+vendor_id: phpscriptpoint
+name: Lawyer
+type: software
+tags: []
+cpe: cpe:2.3:a:phpscriptpoint:lawyer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lawyer
+  confidence: auto

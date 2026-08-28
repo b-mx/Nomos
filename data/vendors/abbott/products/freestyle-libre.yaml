@@ -1,0 +1,10 @@
+id: freestyle-libre
+vendor_id: abbott
+name: Freestyle Libre
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abbott:freestyle_libre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freestyle_libre
+  confidence: auto

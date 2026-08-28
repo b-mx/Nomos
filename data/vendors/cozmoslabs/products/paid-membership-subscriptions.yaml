@@ -1,0 +1,10 @@
+id: paid-membership-subscriptions
+vendor_id: cozmoslabs
+name: Paid Membership Subscriptions
+type: software
+tags: []
+cpe: cpe:2.3:a:cozmoslabs:paid_membership_subscriptions:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paid_membership_subscriptions
+  confidence: auto

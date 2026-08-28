@@ -1,0 +1,10 @@
+id: vecaster-hd-hevc
+vendor_id: provideoinstruments
+name: Vecaster-Hd-Hevc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:provideoinstruments:vecaster\-hd\-hevc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vecaster-hd-hevc
+  confidence: auto

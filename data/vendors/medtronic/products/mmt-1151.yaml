@@ -1,0 +1,10 @@
+id: mmt-1151
+vendor_id: medtronic
+name: Mmt-1151
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:mmt\-1151:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mmt-1151
+  confidence: auto

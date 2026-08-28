@@ -1,0 +1,10 @@
+id: softpaq-installer
+vendor_id: hp
+name: Softpaq Installer
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:softpaq_installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softpaq_installer
+  confidence: auto

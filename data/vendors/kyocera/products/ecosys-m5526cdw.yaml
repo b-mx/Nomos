@@ -1,0 +1,10 @@
+id: ecosys-m5526cdw
+vendor_id: kyocera
+name: Ecosys M5526Cdw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kyocera:ecosys_m5526cdw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecosys_m5526cdw
+  confidence: auto

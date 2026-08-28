@@ -1,0 +1,9 @@
+id: samsung-galaxy-watch
+vendor_id: samsung-galaxy-watch
+name: Samsung Galaxy Watch
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: samsung-galaxy-watch
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nas-i
+vendor_id: iptime
+name: Nas-I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:nas\-i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nas-i
+  confidence: auto

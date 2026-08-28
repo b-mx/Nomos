@@ -1,0 +1,10 @@
+id: m-320
+vendor_id: ricoh
+name: M 320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:m_320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m_320
+  confidence: auto

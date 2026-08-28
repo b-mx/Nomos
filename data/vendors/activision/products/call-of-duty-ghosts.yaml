@@ -1,0 +1,10 @@
+id: call-of-duty-ghosts
+vendor_id: activision
+name: 'Call Of Duty: Ghosts'
+type: software
+tags: []
+cpe: cpe:2.3:a:activision:call_of_duty\:_ghosts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: call_of_duty:_ghosts
+  confidence: auto

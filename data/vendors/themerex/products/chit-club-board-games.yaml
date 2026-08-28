@@ -1,0 +1,10 @@
+id: chit-club-board-games
+vendor_id: themerex
+name: Chit Club-Board Games
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:chit_club\-board_games:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chit_club-board_games
+  confidence: auto

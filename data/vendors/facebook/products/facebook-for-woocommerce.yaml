@@ -1,0 +1,10 @@
+id: facebook-for-woocommerce
+vendor_id: facebook
+name: Facebook For Woocommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:facebook_for_woocommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: facebook_for_woocommerce
+  confidence: auto

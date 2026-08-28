@@ -1,0 +1,10 @@
+id: jg210a
+vendor_id: hp
+name: Jg210A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg210a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg210a
+  confidence: auto

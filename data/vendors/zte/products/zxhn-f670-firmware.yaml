@@ -1,0 +1,10 @@
+id: zxhn-f670-firmware
+vendor_id: zte
+name: Zxhn F670 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxhn_f670_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxhn_f670_firmware
+  confidence: auto

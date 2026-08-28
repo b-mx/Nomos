@@ -1,0 +1,10 @@
+id: servicedesk-plus
+vendor_id: zohocorp
+name: Servicedesk Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:servicedesk_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: servicedesk_plus
+  confidence: auto

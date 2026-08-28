@@ -1,0 +1,10 @@
+id: playstation-portable
+vendor_id: sony
+name: Playstation Portable
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:playstation_portable:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: playstation_portable
+  confidence: auto

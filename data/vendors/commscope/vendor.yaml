@@ -1,0 +1,7 @@
+id: commscope
+name: Commscope
+cpe: cpe:2.3:*:commscope:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: commscope
+  confidence: auto

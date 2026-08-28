@@ -1,0 +1,10 @@
+id: cni-network-plugins
+vendor_id: linuxfoundation
+name: Cni Network Plugins
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:cni_network_plugins:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cni_network_plugins
+  confidence: auto

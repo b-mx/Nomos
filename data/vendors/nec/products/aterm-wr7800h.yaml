@@ -1,0 +1,10 @@
+id: aterm-wr7800h
+vendor_id: nec
+name: Aterm Wr7800H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wr7800h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wr7800h
+  confidence: auto

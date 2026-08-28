@@ -1,0 +1,10 @@
+id: infobox
+vendor_id: phoenixcontact
+name: Infobox
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:infobox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infobox
+  confidence: auto

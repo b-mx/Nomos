@@ -1,0 +1,10 @@
+id: myna
+vendor_id: huawei
+name: Myna
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:myna:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: myna
+  confidence: auto

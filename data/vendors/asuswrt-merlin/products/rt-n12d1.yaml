@@ -1,0 +1,10 @@
+id: rt-n12d1
+vendor_id: asuswrt-merlin
+name: Rt-N12D1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-n12d1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-n12d1
+  confidence: auto

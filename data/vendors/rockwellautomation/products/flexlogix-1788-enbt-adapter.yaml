@@ -1,0 +1,10 @@
+id: flexlogix-1788-enbt-adapter
+vendor_id: rockwellautomation
+name: Flexlogix 1788-Enbt Adapter
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:flexlogix_1788\-enbt_adapter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexlogix_1788-enbt_adapter
+  confidence: auto

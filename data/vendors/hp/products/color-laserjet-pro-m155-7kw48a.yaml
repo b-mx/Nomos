@@ -1,0 +1,10 @@
+id: color-laserjet-pro-m155-7kw48a
+vendor_id: hp
+name: Color Laserjet Pro M155 7Kw48A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_pro_m155_7kw48a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_pro_m155_7kw48a
+  confidence: auto

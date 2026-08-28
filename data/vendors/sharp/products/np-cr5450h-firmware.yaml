@@ -1,0 +1,10 @@
+id: np-cr5450h-firmware
+vendor_id: sharp
+name: Np-Cr5450H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:np\-cr5450h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: np-cr5450h_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hulk-al00c-firmware
+vendor_id: huawei
+name: Hulk-Al00C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hulk\-al00c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hulk-al00c_firmware
+  confidence: auto

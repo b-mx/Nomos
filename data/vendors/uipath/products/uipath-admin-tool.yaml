@@ -1,0 +1,10 @@
+id: uipath-admin-tool
+vendor_id: uipath
+name: Uipath/Admin-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/admin\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/admin-tool
+  confidence: auto

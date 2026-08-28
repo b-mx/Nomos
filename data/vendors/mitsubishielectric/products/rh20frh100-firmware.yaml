@@ -1,0 +1,10 @@
+id: rh20frh100-firmware
+vendor_id: mitsubishielectric
+name: Rh20Frh100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rh20frh100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh20frh100_firmware
+  confidence: auto

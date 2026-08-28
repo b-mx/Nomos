@@ -1,0 +1,10 @@
+id: pra-es8p2s-firmware
+vendor_id: bosch
+name: Pra-Es8P2S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:pra\-es8p2s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pra-es8p2s_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: brocade-network-advisor
+vendor_id: netapp
+name: Brocade Network Advisor
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:brocade_network_advisor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brocade_network_advisor
+  confidence: auto

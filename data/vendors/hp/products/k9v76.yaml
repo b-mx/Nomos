@@ -1,0 +1,10 @@
+id: k9v76
+vendor_id: hp
+name: K9V76
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k9v76:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k9v76
+  confidence: auto

@@ -1,0 +1,10 @@
+id: stm32f030cc
+vendor_id: st
+name: Stm32F030Cc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32f030cc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f030cc
+  confidence: auto

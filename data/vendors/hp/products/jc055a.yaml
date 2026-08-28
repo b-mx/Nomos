@@ -1,0 +1,10 @@
+id: jc055a
+vendor_id: hp
+name: Jc055A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc055a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc055a
+  confidence: auto

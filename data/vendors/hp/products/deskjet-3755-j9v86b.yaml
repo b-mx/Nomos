@@ -1,0 +1,10 @@
+id: deskjet-3755-j9v86b
+vendor_id: hp
+name: Deskjet 3755 J9V86B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_3755_j9v86b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3755_j9v86b
+  confidence: auto

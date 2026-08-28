@@ -1,0 +1,10 @@
+id: athlon-x4-940
+vendor_id: amd
+name: Athlon X4 940
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_x4_940:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_x4_940
+  confidence: auto

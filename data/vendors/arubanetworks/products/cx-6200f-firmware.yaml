@@ -1,0 +1,10 @@
+id: cx-6200f-firmware
+vendor_id: arubanetworks
+name: Cx 6200F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:cx_6200f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx_6200f_firmware
+  confidence: auto

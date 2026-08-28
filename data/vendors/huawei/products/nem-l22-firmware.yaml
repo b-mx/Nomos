@@ -1,0 +1,10 @@
+id: nem-l22-firmware
+vendor_id: huawei
+name: Nem-L22 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:nem\-l22_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nem-l22_firmware
+  confidence: auto

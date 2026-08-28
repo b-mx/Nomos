@@ -1,0 +1,10 @@
+id: twincat-opc-ua-server
+vendor_id: beckhoff
+name: Twincat Opc Ua Server
+type: software
+tags: []
+cpe: cpe:2.3:a:beckhoff:twincat_opc_ua_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twincat_opc_ua_server
+  confidence: auto

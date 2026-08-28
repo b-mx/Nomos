@@ -1,0 +1,10 @@
+id: dasdec-iii
+vendor_id: digitalalertsystems
+name: Dasdec Iii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digitalalertsystems:dasdec_iii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dasdec_iii
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fuji-xerox-color-c60
+vendor_id: fujifilm
+name: Fuji Xerox Color C60
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:fuji_xerox_color_c60:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fuji_xerox_color_c60
+  confidence: auto

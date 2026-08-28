@@ -1,0 +1,10 @@
+id: smartkey
+vendor_id: iij
+name: Smartkey
+type: software
+tags: []
+cpe: cpe:2.3:a:iij:smartkey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartkey
+  confidence: auto

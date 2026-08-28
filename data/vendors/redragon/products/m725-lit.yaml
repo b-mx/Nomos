@@ -1,0 +1,10 @@
+id: m725-lit
+vendor_id: redragon
+name: M725-Lit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redragon:m725\-lit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m725-lit
+  confidence: auto

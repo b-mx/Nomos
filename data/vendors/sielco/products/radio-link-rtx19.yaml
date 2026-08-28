@@ -1,0 +1,10 @@
+id: radio-link-rtx19
+vendor_id: sielco
+name: Radio Link Rtx19
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sielco:radio_link_rtx19:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radio_link_rtx19
+  confidence: auto

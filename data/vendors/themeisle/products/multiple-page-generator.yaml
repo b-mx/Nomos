@@ -1,0 +1,10 @@
+id: multiple-page-generator
+vendor_id: themeisle
+name: Multiple Page Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:themeisle:multiple_page_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multiple_page_generator
+  confidence: auto

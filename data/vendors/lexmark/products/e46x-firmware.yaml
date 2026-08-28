@@ -1,0 +1,10 @@
+id: e46x-firmware
+vendor_id: lexmark
+name: E46X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:e46x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e46x_firmware
+  confidence: auto

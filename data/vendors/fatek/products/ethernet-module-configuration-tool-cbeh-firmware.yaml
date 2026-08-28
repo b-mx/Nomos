@@ -1,0 +1,10 @@
+id: ethernet-module-configuration-tool-cbeh-firmware
+vendor_id: fatek
+name: Ethernet Module Configuration Tool Cbeh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fatek:ethernet_module_configuration_tool_cbeh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ethernet_module_configuration_tool_cbeh_firmware
+  confidence: auto

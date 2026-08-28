@@ -1,0 +1,10 @@
+id: mems-tilt-meter-firmware
+vendor_id: rstinstruments
+name: Mems Tilt Meter Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:mems_tilt_meter_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mems_tilt_meter_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cd8371-hntv-firmware
+vendor_id: vivotek
+name: Cd8371-Hntv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:cd8371\-hntv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cd8371-hntv_firmware
+  confidence: auto

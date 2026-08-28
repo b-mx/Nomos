@@ -1,0 +1,10 @@
+id: bulletlte-na2
+vendor_id: microhardcorp
+name: Bulletlte-Na2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microhardcorp:bulletlte\-na2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bulletlte-na2
+  confidence: auto

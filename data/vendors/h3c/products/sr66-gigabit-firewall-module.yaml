@@ -1,0 +1,10 @@
+id: sr66-gigabit-firewall-module
+vendor_id: h3c
+name: Sr66 Gigabit Firewall Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:sr66_gigabit_firewall_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sr66_gigabit_firewall_module
+  confidence: auto

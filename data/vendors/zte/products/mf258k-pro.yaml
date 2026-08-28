@@ -1,0 +1,10 @@
+id: mf258k-pro
+vendor_id: zte
+name: Mf258K Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:mf258k_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf258k_pro
+  confidence: auto

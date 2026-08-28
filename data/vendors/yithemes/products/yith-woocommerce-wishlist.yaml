@@ -1,0 +1,10 @@
+id: yith-woocommerce-wishlist
+vendor_id: yithemes
+name: Yith Woocommerce Wishlist
+type: software
+tags: []
+cpe: cpe:2.3:a:yithemes:yith_woocommerce_wishlist:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yith_woocommerce_wishlist
+  confidence: auto

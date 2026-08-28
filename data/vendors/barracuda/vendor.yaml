@@ -1,0 +1,7 @@
+id: barracuda
+name: Barracuda
+cpe: cpe:2.3:*:barracuda:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: barracuda
+  confidence: auto

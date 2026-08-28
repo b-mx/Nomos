@@ -1,0 +1,10 @@
+id: mcollective-puppet-agent
+vendor_id: puppet
+name: Mcollective-Puppet-Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:mcollective\-puppet\-agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcollective-puppet-agent
+  confidence: auto

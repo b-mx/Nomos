@@ -1,0 +1,10 @@
+id: nuxt-nitro-server
+vendor_id: nuxt
+name: Nuxt/Nitro-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:nuxt:nuxt\/nitro\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nuxt/nitro-server
+  confidence: auto

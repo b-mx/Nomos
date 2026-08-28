@@ -1,0 +1,10 @@
+id: yubihsm-shell
+vendor_id: yubico
+name: Yubihsm-Shell
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:yubihsm\-shell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yubihsm-shell
+  confidence: auto

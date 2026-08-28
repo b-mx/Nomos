@@ -1,0 +1,10 @@
+id: ve4104-ethernet-ip-control-tag-integration-for-ethernet-connected-i-o-eioc
+vendor_id: emerson
+name: Ve4104 Ethernet/Ip Control Tag Integration For Ethernet Connected I/O (Eioc)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:ve4104_ethernet\/ip_control_tag_integration_for_ethernet_connected_i\/o_\(eioc\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ve4104_ethernet/ip_control_tag_integration_for_ethernet_connected_i/o_(eioc)
+  confidence: auto

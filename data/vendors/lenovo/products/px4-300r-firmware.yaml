@@ -1,0 +1,10 @@
+id: px4-300r-firmware
+vendor_id: lenovo
+name: Px4-300R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:px4\-300r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px4-300r_firmware
+  confidence: auto

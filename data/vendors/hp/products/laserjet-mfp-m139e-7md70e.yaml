@@ -1,0 +1,10 @@
+id: laserjet-mfp-m139e-7md70e
+vendor_id: hp
+name: Laserjet Mfp M139E 7Md70E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m139e_7md70e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m139e_7md70e
+  confidence: auto

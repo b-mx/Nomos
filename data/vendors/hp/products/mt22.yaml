@@ -1,0 +1,10 @@
+id: mt22
+vendor_id: hp
+name: Mt22
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mt22:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt22
+  confidence: auto

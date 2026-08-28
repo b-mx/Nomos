@@ -1,0 +1,10 @@
+id: mi-browser
+vendor_id: mi
+name: Mi Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:mi:mi_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mi_browser
+  confidence: auto

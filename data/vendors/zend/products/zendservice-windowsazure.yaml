@@ -1,0 +1,10 @@
+id: zendservice-windowsazure
+vendor_id: zend
+name: Zendservice Windowsazure
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zendservice_windowsazure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendservice_windowsazure
+  confidence: auto

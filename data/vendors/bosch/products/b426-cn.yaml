@@ -1,0 +1,10 @@
+id: b426-cn
+vendor_id: bosch
+name: B426-Cn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:b426\-cn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b426-cn
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zenworks-patch-management-server
+vendor_id: novell
+name: Zenworks Patch Management Server
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:zenworks_patch_management_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenworks_patch_management_server
+  confidence: auto

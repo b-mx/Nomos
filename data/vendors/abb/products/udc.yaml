@@ -1,0 +1,10 @@
+id: udc
+vendor_id: abb
+name: Udc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:udc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: udc
+  confidence: auto

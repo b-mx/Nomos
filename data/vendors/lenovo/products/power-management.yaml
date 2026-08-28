@@ -1,0 +1,10 @@
+id: power-management
+vendor_id: lenovo
+name: Power Management
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:power_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: power_management
+  confidence: auto

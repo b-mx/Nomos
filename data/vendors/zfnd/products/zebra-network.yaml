@@ -1,0 +1,10 @@
+id: zebra-network
+vendor_id: zfnd
+name: Zebra-Network
+type: software
+tags: []
+cpe: cpe:2.3:a:zfnd:zebra\-network:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zebra-network
+  confidence: auto

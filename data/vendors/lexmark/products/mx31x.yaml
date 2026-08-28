@@ -1,0 +1,10 @@
+id: mx31x
+vendor_id: lexmark
+name: Mx31X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx31x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx31x
+  confidence: auto

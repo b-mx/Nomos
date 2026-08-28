@@ -1,0 +1,10 @@
+id: arcsight-intelligence
+vendor_id: opentext
+name: Arcsight Intelligence
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:arcsight_intelligence:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcsight_intelligence
+  confidence: auto

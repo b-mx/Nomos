@@ -1,0 +1,10 @@
+id: workcentre-ec7836
+vendor_id: xerox
+name: Workcentre Ec7836
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:workcentre_ec7836:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_ec7836
+  confidence: auto

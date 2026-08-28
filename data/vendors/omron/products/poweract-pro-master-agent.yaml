@@ -1,0 +1,10 @@
+id: poweract-pro-master-agent
+vendor_id: omron
+name: Poweract Pro Master Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:poweract_pro_master_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poweract_pro_master_agent
+  confidence: auto

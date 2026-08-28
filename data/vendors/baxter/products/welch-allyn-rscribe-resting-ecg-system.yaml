@@ -1,0 +1,10 @@
+id: welch-allyn-rscribe-resting-ecg-system
+vendor_id: baxter
+name: Welch Allyn Rscribe Resting Ecg System
+type: software
+tags: []
+cpe: cpe:2.3:a:baxter:welch_allyn_rscribe_resting_ecg_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: welch_allyn_rscribe_resting_ecg_system
+  confidence: auto

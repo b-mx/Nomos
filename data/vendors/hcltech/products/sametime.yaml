@@ -1,0 +1,10 @@
+id: sametime
+vendor_id: hcltech
+name: Sametime
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:sametime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sametime
+  confidence: auto

@@ -1,0 +1,10 @@
+id: apeosport-c2360
+vendor_id: fujixerox
+name: Apeosport C2360
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujixerox:apeosport_c2360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport_c2360
+  confidence: auto

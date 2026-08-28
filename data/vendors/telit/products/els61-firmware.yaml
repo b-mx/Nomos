@@ -1,0 +1,10 @@
+id: els61-firmware
+vendor_id: telit
+name: Els61 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:telit:els61_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: els61_firmware
+  confidence: auto

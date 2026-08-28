@@ -1,0 +1,10 @@
+id: vagrant-vmware-fusion
+vendor_id: hashicorp
+name: Vagrant Vmware Fusion
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:vagrant_vmware_fusion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vagrant_vmware_fusion
+  confidence: auto

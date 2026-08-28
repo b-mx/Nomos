@@ -1,0 +1,10 @@
+id: acms
+vendor_id: compaq
+name: Acms
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:acms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acms
+  confidence: auto

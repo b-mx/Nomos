@@ -1,0 +1,10 @@
+id: cloud-secure-agent
+vendor_id: netapp
+name: Cloud Secure Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:cloud_secure_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_secure_agent
+  confidence: auto

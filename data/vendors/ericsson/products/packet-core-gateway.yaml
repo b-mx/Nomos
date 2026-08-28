@@ -1,0 +1,10 @@
+id: packet-core-gateway
+vendor_id: ericsson
+name: Packet Core Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:ericsson:packet_core_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: packet_core_gateway
+  confidence: auto

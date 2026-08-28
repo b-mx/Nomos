@@ -1,0 +1,10 @@
+id: cdm-625
+vendor_id: comtech
+name: Cdm-625
+type: hardware
+tags: []
+cpe: cpe:2.3:h:comtech:cdm\-625:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cdm-625
+  confidence: auto

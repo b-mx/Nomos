@@ -1,0 +1,10 @@
+id: online-movie-streaming
+vendor_id: anisha
+name: Online Movie Streaming
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:online_movie_streaming:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_movie_streaming
+  confidence: auto

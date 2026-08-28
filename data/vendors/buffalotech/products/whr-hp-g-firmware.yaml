@@ -1,0 +1,10 @@
+id: whr-hp-g-firmware
+vendor_id: buffalotech
+name: Whr-Hp-G Firmware
+type: software
+tags: []
+cpe: cpe:2.3:a:buffalotech:whr\-hp\-g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-hp-g_firmware
+  confidence: auto

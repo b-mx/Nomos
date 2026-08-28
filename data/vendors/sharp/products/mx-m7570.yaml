@@ -1,0 +1,10 @@
+id: mx-m7570
+vendor_id: sharp
+name: Mx-M7570
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-m7570:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m7570
+  confidence: auto

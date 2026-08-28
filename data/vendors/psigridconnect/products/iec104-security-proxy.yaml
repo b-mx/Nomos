@@ -1,0 +1,10 @@
+id: iec104-security-proxy
+vendor_id: psigridconnect
+name: Iec104 Security Proxy
+type: hardware
+tags: []
+cpe: cpe:2.3:h:psigridconnect:iec104_security_proxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iec104_security_proxy
+  confidence: auto

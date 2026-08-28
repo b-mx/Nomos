@@ -1,0 +1,10 @@
+id: serious-slider
+vendor_id: cryoutcreations
+name: Serious Slider
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:serious_slider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: serious_slider
+  confidence: auto

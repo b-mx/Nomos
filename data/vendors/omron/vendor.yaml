@@ -1,0 +1,7 @@
+id: omron
+name: Omron
+cpe: cpe:2.3:*:omron:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omron
+  confidence: auto

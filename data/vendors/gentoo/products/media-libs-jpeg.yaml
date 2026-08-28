@@ -1,0 +1,10 @@
+id: media-libs-jpeg
+vendor_id: gentoo
+name: Media-Libs Jpeg
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:media\-libs_jpeg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: media-libs_jpeg
+  confidence: auto

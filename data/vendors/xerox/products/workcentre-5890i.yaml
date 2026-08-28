@@ -1,0 +1,10 @@
+id: workcentre-5890i
+vendor_id: xerox
+name: Workcentre 5890I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:workcentre_5890i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_5890i
+  confidence: auto

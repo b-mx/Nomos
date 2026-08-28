@@ -1,0 +1,10 @@
+id: pfc200
+vendor_id: wago
+name: Pfc200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:pfc200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pfc200
+  confidence: auto

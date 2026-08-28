@@ -1,0 +1,10 @@
+id: ryzen-5-1600-af
+vendor_id: amd
+name: Ryzen 5 1600 Af
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_1600_af:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_1600_af
+  confidence: auto

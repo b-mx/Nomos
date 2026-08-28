@@ -1,0 +1,10 @@
+id: sitemanager
+vendor_id: secomea
+name: Sitemanager
+type: hardware
+tags: []
+cpe: cpe:2.3:h:secomea:sitemanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sitemanager
+  confidence: auto

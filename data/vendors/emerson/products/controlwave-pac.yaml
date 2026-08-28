@@ -1,0 +1,10 @@
+id: controlwave-pac
+vendor_id: emerson
+name: Controlwave Pac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:controlwave_pac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controlwave_pac
+  confidence: auto

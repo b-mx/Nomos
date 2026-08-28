@@ -1,0 +1,10 @@
+id: hirschmann-grs1042
+vendor_id: belden
+name: Hirschmann Grs1042
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_grs1042:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_grs1042
+  confidence: auto

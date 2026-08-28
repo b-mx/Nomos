@@ -1,0 +1,10 @@
+id: mgate-mb3170-m-sc-t
+vendor_id: moxa
+name: Mgate Mb3170-M-Sc-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:mgate_mb3170\-m\-sc\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mgate_mb3170-m-sc-t
+  confidence: auto

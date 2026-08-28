@@ -1,0 +1,10 @@
+id: j9588a
+vendor_id: hp
+name: J9588A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:j9588a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j9588a
+  confidence: auto

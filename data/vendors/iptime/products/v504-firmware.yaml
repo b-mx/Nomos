@@ -1,0 +1,10 @@
+id: v504-firmware
+vendor_id: iptime
+name: V504 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:v504_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v504_firmware
+  confidence: auto

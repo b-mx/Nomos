@@ -1,0 +1,10 @@
+id: raspberry-pi
+vendor_id: codesys
+name: Raspberry Pi
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:raspberry_pi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: raspberry_pi
+  confidence: auto

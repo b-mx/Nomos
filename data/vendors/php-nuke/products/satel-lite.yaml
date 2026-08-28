@@ -1,0 +1,10 @@
+id: satel-lite
+vendor_id: php-nuke
+name: Satel Lite
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-nuke:satel_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: satel_lite
+  confidence: auto

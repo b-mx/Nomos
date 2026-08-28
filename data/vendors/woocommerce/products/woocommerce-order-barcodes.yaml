@@ -1,0 +1,10 @@
+id: woocommerce-order-barcodes
+vendor_id: woocommerce
+name: Woocommerce Order Barcodes
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:woocommerce_order_barcodes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_order_barcodes
+  confidence: auto

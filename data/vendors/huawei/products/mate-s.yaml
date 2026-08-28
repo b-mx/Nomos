@@ -1,0 +1,10 @@
+id: mate-s
+vendor_id: huawei
+name: Mate S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:mate_s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mate_s
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 20kc-firmware
+vendor_id: lenovo
+name: 20Kc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:20kc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20kc_firmware
+  confidence: auto

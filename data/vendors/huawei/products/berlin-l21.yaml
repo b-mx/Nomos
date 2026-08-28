@@ -1,0 +1,10 @@
+id: berlin-l21
+vendor_id: huawei
+name: Berlin-L21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:berlin\-l21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: berlin-l21
+  confidence: auto

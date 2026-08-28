@@ -1,0 +1,10 @@
+id: storeonce-vsa-4tb
+vendor_id: hpe
+name: Storeonce Vsa 4Tb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:storeonce_vsa_4tb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_vsa_4tb
+  confidence: auto

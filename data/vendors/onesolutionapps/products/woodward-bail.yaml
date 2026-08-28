@@ -1,0 +1,10 @@
+id: woodward-bail
+vendor_id: onesolutionapps
+name: Woodward Bail
+type: software
+tags: []
+cpe: cpe:2.3:a:onesolutionapps:woodward_bail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woodward_bail
+  confidence: auto

@@ -1,0 +1,10 @@
+id: netengine-16ex-firmware
+vendor_id: huawei
+name: Netengine 16Ex Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:netengine_16ex_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netengine_16ex_firmware
+  confidence: auto

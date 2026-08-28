@@ -1,0 +1,10 @@
+id: expense-tracker
+vendor_id: oretnom23
+name: Expense Tracker
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:expense_tracker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: expense_tracker
+  confidence: auto

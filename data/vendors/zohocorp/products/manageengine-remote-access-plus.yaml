@@ -1,0 +1,10 @@
+id: manageengine-remote-access-plus
+vendor_id: zohocorp
+name: Manageengine Remote Access Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_remote_access_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_remote_access_plus
+  confidence: auto

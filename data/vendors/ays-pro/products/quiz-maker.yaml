@@ -1,0 +1,10 @@
+id: quiz-maker
+vendor_id: ays-pro
+name: Quiz Maker
+type: software
+tags: []
+cpe: cpe:2.3:a:ays\-pro:quiz_maker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quiz_maker
+  confidence: auto

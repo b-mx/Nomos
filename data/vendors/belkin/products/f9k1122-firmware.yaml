@@ -1,0 +1,10 @@
+id: f9k1122-firmware
+vendor_id: belkin
+name: F9K1122 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:f9k1122_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f9k1122_firmware
+  confidence: auto

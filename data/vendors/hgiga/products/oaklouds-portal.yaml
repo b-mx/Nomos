@@ -1,0 +1,10 @@
+id: oaklouds-portal
+vendor_id: hgiga
+name: Oaklouds Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:hgiga:oaklouds_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oaklouds_portal
+  confidence: auto

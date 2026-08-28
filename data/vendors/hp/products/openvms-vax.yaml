@@ -1,0 +1,10 @@
+id: openvms-vax
+vendor_id: hp
+name: Openvms Vax
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:openvms_vax:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openvms_vax
+  confidence: auto

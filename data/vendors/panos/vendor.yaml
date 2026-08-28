@@ -1,0 +1,6 @@
+id: panos
+name: Palo Alto Networks PAN-OS
+aliases:
+- source: endoflife
+  value: panos
+  confidence: auto

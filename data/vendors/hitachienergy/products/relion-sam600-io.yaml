@@ -1,0 +1,10 @@
+id: relion-sam600-io
+vendor_id: hitachienergy
+name: Relion Sam600-Io
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:relion_sam600\-io:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: relion_sam600-io
+  confidence: auto

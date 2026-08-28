@@ -1,0 +1,10 @@
+id: jupyter-server-proxy
+vendor_id: jupyter
+name: Jupyter Server Proxy
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:jupyter_server_proxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jupyter_server_proxy
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mini
+vendor_id: birddog
+name: Mini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:birddog:mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mini
+  confidence: auto

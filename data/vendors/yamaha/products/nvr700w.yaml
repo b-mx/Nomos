@@ -1,0 +1,10 @@
+id: nvr700w
+vendor_id: yamaha
+name: Nvr700W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:nvr700w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nvr700w
+  confidence: auto

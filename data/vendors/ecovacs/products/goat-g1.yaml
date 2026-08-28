@@ -1,0 +1,10 @@
+id: goat-g1
+vendor_id: ecovacs
+name: Goat G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:goat_g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: goat_g1
+  confidence: auto

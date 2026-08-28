@@ -1,0 +1,10 @@
+id: ac9v1-0-firmware
+vendor_id: tendacn
+name: Ac9V1.0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tendacn:ac9v1\.0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac9v1.0_firmware
+  confidence: auto

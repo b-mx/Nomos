@@ -1,0 +1,10 @@
+id: kde-frameworks
+vendor_id: kde
+name: Kde Frameworks
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kde_frameworks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kde_frameworks
+  confidence: auto

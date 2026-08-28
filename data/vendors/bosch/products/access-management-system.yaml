@@ -1,0 +1,10 @@
+id: access-management-system
+vendor_id: bosch
+name: Access Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:access_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_management_system
+  confidence: auto

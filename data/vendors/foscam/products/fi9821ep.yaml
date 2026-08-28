@@ -1,0 +1,10 @@
+id: fi9821ep
+vendor_id: foscam
+name: Fi9821Ep
+type: hardware
+tags: []
+cpe: cpe:2.3:h:foscam:fi9821ep:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fi9821ep
+  confidence: auto

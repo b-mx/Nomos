@@ -1,0 +1,10 @@
+id: custom-url-tracking
+vendor_id: ithemes
+name: Custom Url Tracking
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:custom_url_tracking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: custom_url_tracking
+  confidence: auto

@@ -1,0 +1,10 @@
+id: airwave-glass
+vendor_id: arubanetworks
+name: Airwave Glass
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:airwave_glass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airwave_glass
+  confidence: auto

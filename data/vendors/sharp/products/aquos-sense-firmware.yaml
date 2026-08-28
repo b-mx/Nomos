@@ -1,0 +1,10 @@
+id: aquos-sense-firmware
+vendor_id: sharp
+name: Aquos Sense Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:aquos_sense_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_sense_firmware
+  confidence: auto

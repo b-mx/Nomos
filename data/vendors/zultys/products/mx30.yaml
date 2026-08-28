@@ -1,0 +1,10 @@
+id: mx30
+vendor_id: zultys
+name: Mx30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zultys:mx30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx30
+  confidence: auto

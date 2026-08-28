@@ -1,0 +1,10 @@
+id: bc-csharp
+vendor_id: bouncycastle
+name: Bc-Csharp
+type: software
+tags: []
+cpe: cpe:2.3:a:bouncycastle:bc\-csharp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bc-csharp
+  confidence: auto

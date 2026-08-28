@@ -1,0 +1,10 @@
+id: pi-connector
+vendor_id: osisoft
+name: Pi Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_connector
+  confidence: auto

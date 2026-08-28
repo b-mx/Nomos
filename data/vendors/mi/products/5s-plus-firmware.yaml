@@ -1,0 +1,10 @@
+id: 5s-plus-firmware
+vendor_id: mi
+name: 5S Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:5s_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5s_plus_firmware
+  confidence: auto

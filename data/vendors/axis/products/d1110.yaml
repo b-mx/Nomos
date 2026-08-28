@@ -1,0 +1,10 @@
+id: d1110
+vendor_id: axis
+name: D1110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:d1110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d1110
+  confidence: auto

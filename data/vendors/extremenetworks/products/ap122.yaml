@@ -1,0 +1,10 @@
+id: ap122
+vendor_id: extremenetworks
+name: Ap122
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap122:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap122
+  confidence: auto

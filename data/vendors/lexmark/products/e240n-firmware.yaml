@@ -1,0 +1,10 @@
+id: e240n-firmware
+vendor_id: lexmark
+name: E240N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:e240n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e240n_firmware
+  confidence: auto

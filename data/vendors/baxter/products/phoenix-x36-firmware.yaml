@@ -1,0 +1,10 @@
+id: phoenix-x36-firmware
+vendor_id: baxter
+name: Phoenix X36 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baxter:phoenix_x36_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phoenix_x36_firmware
+  confidence: auto

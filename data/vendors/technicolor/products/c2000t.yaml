@@ -1,0 +1,10 @@
+id: c2000t
+vendor_id: technicolor
+name: C2000T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:c2000t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c2000t
+  confidence: auto

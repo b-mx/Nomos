@@ -1,0 +1,10 @@
+id: officejet-managed-color-mfp-x585
+vendor_id: hp
+name: Officejet Managed Color Mfp X585
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_managed_color_mfp_x585:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_managed_color_mfp_x585
+  confidence: auto

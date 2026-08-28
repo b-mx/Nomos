@@ -1,0 +1,10 @@
+id: ecns210-td-firmware
+vendor_id: huawei
+name: Ecns210 Td Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ecns210_td_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecns210_td_firmware
+  confidence: auto

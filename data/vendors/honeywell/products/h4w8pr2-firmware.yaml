@@ -1,0 +1,10 @@
+id: h4w8pr2-firmware
+vendor_id: honeywell
+name: H4W8Pr2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:h4w8pr2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h4w8pr2_firmware
+  confidence: auto

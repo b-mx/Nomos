@@ -1,0 +1,10 @@
+id: 840g
+vendor_id: utt
+name: 840G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:utt:840g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 840g
+  confidence: auto

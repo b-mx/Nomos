@@ -1,0 +1,10 @@
+id: solidfire-enterprise-sds-hci-storage-node
+vendor_id: netapp
+name: Solidfire, Enterprise Sds & Hci Storage Node
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:solidfire\,_enterprise_sds_\&_hci_storage_node:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solidfire,_enterprise_sds_&_hci_storage_node
+  confidence: auto

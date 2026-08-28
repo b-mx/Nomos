@@ -1,0 +1,10 @@
+id: pacsystems-rxi
+vendor_id: ge
+name: Pacsystems Rxi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:pacsystems_rxi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pacsystems_rxi
+  confidence: auto

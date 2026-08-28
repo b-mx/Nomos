@@ -1,0 +1,10 @@
+id: mguard-pci-hw-102020
+vendor_id: innominate
+name: Mguard Pci Hw-102020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:innominate:mguard_pci_hw\-102020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_pci_hw-102020
+  confidence: auto

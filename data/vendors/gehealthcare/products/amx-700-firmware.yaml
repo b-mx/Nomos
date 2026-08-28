@@ -1,0 +1,10 @@
+id: amx-700-firmware
+vendor_id: gehealthcare
+name: Amx 700 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:amx_700_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amx_700_firmware
+  confidence: auto

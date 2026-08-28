@@ -1,0 +1,10 @@
+id: msa-1040-san-storage-firmware
+vendor_id: hp
+name: Msa 1040 San Storage Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:msa_1040_san_storage_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msa_1040_san_storage_firmware
+  confidence: auto

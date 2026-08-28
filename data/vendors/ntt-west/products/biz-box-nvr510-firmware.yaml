@@ -1,0 +1,10 @@
+id: biz-box-nvr510-firmware
+vendor_id: ntt-west
+name: Biz Box Nvr510 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ntt\-west:biz_box_nvr510_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biz_box_nvr510_firmware
+  confidence: auto

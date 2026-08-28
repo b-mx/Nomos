@@ -1,0 +1,10 @@
+id: hx50l
+vendor_id: hughes
+name: Hx50L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hughes:hx50l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hx50l
+  confidence: auto

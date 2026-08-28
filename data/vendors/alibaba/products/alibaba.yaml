@@ -1,0 +1,10 @@
+id: alibaba
+vendor_id: alibaba
+name: Alibaba
+type: software
+tags: []
+cpe: cpe:2.3:a:alibaba:alibaba:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alibaba
+  confidence: auto

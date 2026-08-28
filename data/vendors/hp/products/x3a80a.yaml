@@ -1,0 +1,10 @@
+id: x3a80a
+vendor_id: hp
+name: X3A80A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:x3a80a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x3a80a
+  confidence: auto

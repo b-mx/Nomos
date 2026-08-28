@@ -1,0 +1,10 @@
+id: bigfix-webui
+vendor_id: hcltech
+name: Bigfix Webui
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:bigfix_webui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bigfix_webui
+  confidence: auto

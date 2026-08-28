@@ -1,0 +1,12 @@
+id: amazon-linux
+vendor_id: amazon
+name: Amazon Linux
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: amazon-linux
+  confidence: auto
+- source: nvd
+  value: linux
+  confidence: auto

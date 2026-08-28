@@ -1,0 +1,10 @@
+id: insight-control-performance-management
+vendor_id: hp
+name: Insight Control Performance Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:insight_control_performance_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_control_performance_management
+  confidence: auto

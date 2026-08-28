@@ -1,0 +1,10 @@
+id: e9000
+vendor_id: huawei
+name: E9000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e9000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e9000
+  confidence: auto

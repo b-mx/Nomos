@@ -1,0 +1,10 @@
+id: curly
+vendor_id: qodeinteractive
+name: Curly
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:curly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: curly
+  confidence: auto

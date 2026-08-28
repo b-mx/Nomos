@@ -1,0 +1,10 @@
+id: epyc
+vendor_id: amd
+name: Epyc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc
+  confidence: auto

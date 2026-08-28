@@ -1,0 +1,10 @@
+id: java-html-sanitizer
+vendor_id: owasp
+name: Java Html Sanitizer
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:java_html_sanitizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_html_sanitizer
+  confidence: auto

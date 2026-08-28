@@ -1,0 +1,10 @@
+id: smp-16-firmware
+vendor_id: eaton
+name: Smp 16 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eaton:smp_16_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smp_16_firmware
+  confidence: auto

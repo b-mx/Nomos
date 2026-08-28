@@ -1,0 +1,10 @@
+id: cdo-local-uuid-utility
+vendor_id: lfprojects
+name: Cdo Local Uuid Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:cdo_local_uuid_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cdo_local_uuid_utility
+  confidence: auto

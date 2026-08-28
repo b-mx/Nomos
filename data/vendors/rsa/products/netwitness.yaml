@@ -1,0 +1,10 @@
+id: netwitness
+vendor_id: rsa
+name: Netwitness
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:netwitness:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netwitness
+  confidence: auto

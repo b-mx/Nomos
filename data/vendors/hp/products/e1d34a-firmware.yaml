@@ -1,0 +1,10 @@
+id: e1d34a-firmware
+vendor_id: hp
+name: E1D34A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:e1d34a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e1d34a_firmware
+  confidence: auto

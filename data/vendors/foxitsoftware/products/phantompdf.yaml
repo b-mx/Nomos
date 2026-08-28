@@ -1,0 +1,10 @@
+id: phantompdf
+vendor_id: foxitsoftware
+name: Phantompdf
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:phantompdf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phantompdf
+  confidence: auto

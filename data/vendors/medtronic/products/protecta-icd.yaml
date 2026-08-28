@@ -1,0 +1,10 @@
+id: protecta-icd
+vendor_id: medtronic
+name: Protecta Icd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:protecta_icd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protecta_icd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: target-management
+vendor_id: eclipse
+name: Target Management
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:target_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: target_management
+  confidence: auto

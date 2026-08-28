@@ -1,0 +1,10 @@
+id: envy-6000-5se17a-firmware
+vendor_id: hp
+name: Envy 6000 5Se17A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_6000_5se17a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6000_5se17a_firmware
+  confidence: auto

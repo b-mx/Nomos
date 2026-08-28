@@ -1,0 +1,10 @@
+id: wlae-ag300n
+vendor_id: buffalo
+name: Wlae-Ag300N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wlae\-ag300n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlae-ag300n
+  confidence: auto

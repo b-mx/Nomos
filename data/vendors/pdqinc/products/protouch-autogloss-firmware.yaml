@@ -1,0 +1,10 @@
+id: protouch-autogloss-firmware
+vendor_id: pdqinc
+name: Protouch Autogloss Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pdqinc:protouch_autogloss_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protouch_autogloss_firmware
+  confidence: auto

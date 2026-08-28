@@ -1,0 +1,10 @@
+id: insight-management-sizer
+vendor_id: hp
+name: Insight Management Sizer
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:insight_management_sizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_management_sizer
+  confidence: auto

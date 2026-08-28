@@ -1,0 +1,10 @@
+id: sy-777
+vendor_id: synel
+name: Sy-777
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synel:sy\-777:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sy-777
+  confidence: auto

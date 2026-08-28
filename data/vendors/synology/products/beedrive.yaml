@@ -1,0 +1,10 @@
+id: beedrive
+vendor_id: synology
+name: Beedrive
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:beedrive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: beedrive
+  confidence: auto

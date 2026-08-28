@@ -1,0 +1,10 @@
+id: agent-access
+vendor_id: avaya
+name: Agent Access
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:agent_access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: agent_access
+  confidence: auto

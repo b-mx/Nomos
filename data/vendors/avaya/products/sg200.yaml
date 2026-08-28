@@ -1,0 +1,10 @@
+id: sg200
+vendor_id: avaya
+name: Sg200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:sg200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg200
+  confidence: auto

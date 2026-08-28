@@ -1,0 +1,13 @@
+id: freebsd
+vendor_id: freebsd
+name: FreeBSD
+type: os
+tags: []
+cpe: cpe:2.3:o:freebsd:freebsd:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: freebsd
+  confidence: auto
+- source: nvd
+  value: freebsd
+  confidence: auto

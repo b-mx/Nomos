@@ -1,0 +1,10 @@
+id: c1710
+vendor_id: axis
+name: C1710
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:c1710:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1710
+  confidence: auto

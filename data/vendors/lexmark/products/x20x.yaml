@@ -1,0 +1,10 @@
+id: x20x
+vendor_id: lexmark
+name: X20X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x20x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x20x
+  confidence: auto

@@ -1,0 +1,10 @@
+id: libsocialweb
+vendor_id: gnome
+name: Libsocialweb
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:libsocialweb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libsocialweb
+  confidence: auto

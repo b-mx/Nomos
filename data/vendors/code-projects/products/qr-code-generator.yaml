@@ -1,0 +1,10 @@
+id: qr-code-generator
+vendor_id: code-projects
+name: Qr Code Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:qr_code_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qr_code_generator
+  confidence: auto

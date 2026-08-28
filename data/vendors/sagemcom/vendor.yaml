@@ -1,0 +1,7 @@
+id: sagemcom
+name: Sagemcom
+cpe: cpe:2.3:*:sagemcom:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sagemcom
+  confidence: auto

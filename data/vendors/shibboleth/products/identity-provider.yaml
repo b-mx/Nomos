@@ -1,0 +1,10 @@
+id: identity-provider
+vendor_id: shibboleth
+name: Identity Provider
+type: software
+tags: []
+cpe: cpe:2.3:a:shibboleth:identity_provider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: identity_provider
+  confidence: auto

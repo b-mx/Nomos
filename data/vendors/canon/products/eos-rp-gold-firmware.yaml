@@ -1,0 +1,10 @@
+id: eos-rp-gold-firmware
+vendor_id: canon
+name: Eos Rp Gold Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:eos_rp_gold_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_rp_gold_firmware
+  confidence: auto

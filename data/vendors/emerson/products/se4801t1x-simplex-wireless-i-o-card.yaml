@@ -1,0 +1,10 @@
+id: se4801t1x-simplex-wireless-i-o-card
+vendor_id: emerson
+name: Se4801T1X Simplex Wireless I/O Card
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:se4801t1x_simplex_wireless_i\/o_card:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se4801t1x_simplex_wireless_i/o_card
+  confidence: auto

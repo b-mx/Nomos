@@ -1,0 +1,10 @@
+id: mirrorselect
+vendor_id: gentoo
+name: Mirrorselect
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:mirrorselect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mirrorselect
+  confidence: auto

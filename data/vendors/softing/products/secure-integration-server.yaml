@@ -1,0 +1,10 @@
+id: secure-integration-server
+vendor_id: softing
+name: Secure Integration Server
+type: software
+tags: []
+cpe: cpe:2.3:a:softing:secure_integration_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_integration_server
+  confidence: auto

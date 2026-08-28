@@ -1,0 +1,10 @@
+id: church-management-system
+vendor_id: campcodes
+name: Church Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:church_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: church_management_system
+  confidence: auto

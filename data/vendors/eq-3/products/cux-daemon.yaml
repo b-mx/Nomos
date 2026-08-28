@@ -1,0 +1,10 @@
+id: cux-daemon
+vendor_id: eq-3
+name: Cux-Daemon
+type: software
+tags: []
+cpe: cpe:2.3:a:eq\-3:cux\-daemon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cux-daemon
+  confidence: auto

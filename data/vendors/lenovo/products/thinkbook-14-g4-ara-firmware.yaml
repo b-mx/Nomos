@@ -1,0 +1,10 @@
+id: thinkbook-14-g4-ara-firmware
+vendor_id: lenovo
+name: Thinkbook 14 G4+ Ara Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkbook_14_g4\+_ara_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_14_g4+_ara_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: convert-pro
+vendor_id: brainstormforce
+name: Convert Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:convert_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: convert_pro
+  confidence: auto

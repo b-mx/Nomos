@@ -1,0 +1,10 @@
+id: intelligent-platforms-proficy-batch-execution
+vendor_id: ge
+name: Intelligent Platforms Proficy Batch Execution
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:intelligent_platforms_proficy_batch_execution:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_platforms_proficy_batch_execution
+  confidence: auto

@@ -1,0 +1,10 @@
+id: activecgm-browser
+vendor_id: corel
+name: Activecgm Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:activecgm_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: activecgm_browser
+  confidence: auto

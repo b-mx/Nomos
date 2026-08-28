@@ -1,0 +1,7 @@
+id: toshiba
+name: Toshiba
+cpe: cpe:2.3:*:toshiba:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toshiba
+  confidence: auto

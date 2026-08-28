@@ -1,0 +1,10 @@
+id: tectia-connector
+vendor_id: ssh
+name: Tectia Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:ssh:tectia_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tectia_connector
+  confidence: auto

@@ -1,0 +1,10 @@
+id: transport-lr54
+vendor_id: digi
+name: Transport Lr54
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:transport_lr54:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: transport_lr54
+  confidence: auto

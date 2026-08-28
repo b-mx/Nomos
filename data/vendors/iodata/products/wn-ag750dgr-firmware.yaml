@@ -1,0 +1,10 @@
+id: wn-ag750dgr-firmware
+vendor_id: iodata
+name: Wn-Ag750Dgr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:wn\-ag750dgr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn-ag750dgr_firmware
+  confidence: auto

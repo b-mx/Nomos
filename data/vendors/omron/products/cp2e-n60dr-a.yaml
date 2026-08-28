@@ -1,0 +1,10 @@
+id: cp2e-n60dr-a
+vendor_id: omron
+name: Cp2E-N60Dr-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp2e\-n60dr\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp2e-n60dr-a
+  confidence: auto

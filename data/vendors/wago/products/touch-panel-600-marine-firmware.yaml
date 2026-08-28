@@ -1,0 +1,10 @@
+id: touch-panel-600-marine-firmware
+vendor_id: wago
+name: Touch Panel 600 Marine Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:touch_panel_600_marine_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: touch_panel_600_marine_firmware
+  confidence: auto

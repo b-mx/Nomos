@@ -1,0 +1,10 @@
+id: rsa-data-loss-prevention
+vendor_id: emc
+name: Rsa Data Loss Prevention
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_data_loss_prevention:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_data_loss_prevention
+  confidence: auto

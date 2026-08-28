@@ -1,0 +1,10 @@
+id: lcos
+vendor_id: lancom-systems
+name: Lcos
+type: os
+tags: []
+cpe: cpe:2.3:o:lancom\-systems:lcos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lcos
+  confidence: auto

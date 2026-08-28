@@ -1,0 +1,10 @@
+id: nb3720
+vendor_id: netmodule
+name: Nb3720
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:nb3720:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb3720
+  confidence: auto

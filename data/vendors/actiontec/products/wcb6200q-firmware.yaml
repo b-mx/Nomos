@@ -1,0 +1,10 @@
+id: wcb6200q-firmware
+vendor_id: actiontec
+name: Wcb6200Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:actiontec:wcb6200q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wcb6200q_firmware
+  confidence: auto

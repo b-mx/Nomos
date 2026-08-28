@@ -1,0 +1,10 @@
+id: sd-advanced-nvr
+vendor_id: netvu
+name: Sd Advanced Nvr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netvu:sd_advanced_nvr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd_advanced_nvr
+  confidence: auto

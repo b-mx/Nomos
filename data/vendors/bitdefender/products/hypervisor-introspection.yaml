@@ -1,0 +1,10 @@
+id: hypervisor-introspection
+vendor_id: bitdefender
+name: Hypervisor Introspection
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:hypervisor_introspection:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hypervisor_introspection
+  confidence: auto

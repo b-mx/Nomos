@@ -1,0 +1,10 @@
+id: pluggable-authentication-module-agent
+vendor_id: rsa
+name: Pluggable Authentication Module Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:pluggable_authentication_module_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pluggable_authentication_module_agent
+  confidence: auto

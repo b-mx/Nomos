@@ -1,0 +1,10 @@
+id: icecast-ezstream
+vendor_id: xiph
+name: Icecast Ezstream
+type: software
+tags: []
+cpe: cpe:2.3:a:xiph:icecast_ezstream:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icecast_ezstream
+  confidence: auto

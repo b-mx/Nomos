@@ -1,0 +1,10 @@
+id: wp-chat-app
+vendor_id: ninjateam
+name: Wp Chat App
+type: software
+tags: []
+cpe: cpe:2.3:a:ninjateam:wp_chat_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_chat_app
+  confidence: auto

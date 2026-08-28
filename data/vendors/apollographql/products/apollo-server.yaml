@@ -1,0 +1,10 @@
+id: apollo-server
+vendor_id: apollographql
+name: Apollo Server
+type: software
+tags: []
+cpe: cpe:2.3:a:apollographql:apollo_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_server
+  confidence: auto

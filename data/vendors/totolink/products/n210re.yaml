@@ -1,0 +1,10 @@
+id: n210re
+vendor_id: totolink
+name: N210Re
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:n210re:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n210re
+  confidence: auto

@@ -1,0 +1,7 @@
+id: sricam
+name: Sricam
+cpe: cpe:2.3:*:sricam:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sricam
+  confidence: auto

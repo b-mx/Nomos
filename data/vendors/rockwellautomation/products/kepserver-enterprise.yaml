@@ -1,0 +1,10 @@
+id: kepserver-enterprise
+vendor_id: rockwellautomation
+name: Kepserver Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:kepserver_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kepserver_enterprise
+  confidence: auto

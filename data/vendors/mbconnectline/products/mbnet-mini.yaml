@@ -1,0 +1,10 @@
+id: mbnet-mini
+vendor_id: mbconnectline
+name: Mbnet.Mini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbconnectline:mbnet\.mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbnet.mini
+  confidence: auto

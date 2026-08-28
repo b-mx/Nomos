@@ -1,0 +1,10 @@
+id: centerstage
+vendor_id: emc
+name: Centerstage
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:centerstage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centerstage
+  confidence: auto

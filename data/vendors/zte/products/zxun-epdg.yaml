@@ -1,0 +1,10 @@
+id: zxun-epdg
+vendor_id: zte
+name: Zxun-Epdg
+type: software
+tags: []
+cpe: cpe:2.3:a:zte:zxun\-epdg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxun-epdg
+  confidence: auto

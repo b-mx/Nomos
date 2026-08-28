@@ -1,0 +1,10 @@
+id: telecontrol-gateway-xs-mu-firmware
+vendor_id: psigridconnect
+name: Telecontrol Gateway Xs-Mu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:psigridconnect:telecontrol_gateway_xs\-mu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: telecontrol_gateway_xs-mu_firmware
+  confidence: auto

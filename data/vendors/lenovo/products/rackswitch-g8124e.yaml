@@ -1,0 +1,10 @@
+id: rackswitch-g8124e
+vendor_id: lenovo
+name: Rackswitch G8124E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:rackswitch_g8124e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rackswitch_g8124e
+  confidence: auto

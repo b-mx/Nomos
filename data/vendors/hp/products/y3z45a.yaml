@@ -1,0 +1,10 @@
+id: y3z45a
+vendor_id: hp
+name: 'Y3Z45A '
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:y3z45a_:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y3z45a_
+  confidence: auto

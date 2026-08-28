@@ -1,0 +1,10 @@
+id: brocade-san-navigator
+vendor_id: netapp
+name: Brocade San Navigator
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:brocade_san_navigator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brocade_san_navigator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wi-fi-station-l-02f
+vendor_id: nttdocomo
+name: Wi-Fi Station L-02F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nttdocomo:wi\-fi_station_l\-02f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wi-fi_station_l-02f
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e6000-chassis-firmware
+vendor_id: huawei
+name: E6000 Chassis Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:e6000_chassis_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e6000_chassis_firmware
+  confidence: auto

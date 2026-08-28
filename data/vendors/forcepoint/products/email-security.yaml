@@ -1,0 +1,10 @@
+id: email-security
+vendor_id: forcepoint
+name: Email Security
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:email_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: email_security
+  confidence: auto

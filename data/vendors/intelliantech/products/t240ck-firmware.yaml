@@ -1,0 +1,10 @@
+id: t240ck-firmware
+vendor_id: intelliantech
+name: T240Ck Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelliantech:t240ck_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t240ck_firmware
+  confidence: auto

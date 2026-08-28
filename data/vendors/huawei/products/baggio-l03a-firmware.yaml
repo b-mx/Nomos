@@ -1,0 +1,10 @@
+id: baggio-l03a-firmware
+vendor_id: huawei
+name: Baggio-L03A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:baggio\-l03a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baggio-l03a_firmware
+  confidence: auto

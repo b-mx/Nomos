@@ -1,0 +1,10 @@
+id: nport-6250-s-sc-t-firmware
+vendor_id: moxa
+name: Nport 6250-S-Sc-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_6250\-s\-sc\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_6250-s-sc-t_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: s8006
+vendor_id: unisoc
+name: S8006
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8006:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8006
+  confidence: auto

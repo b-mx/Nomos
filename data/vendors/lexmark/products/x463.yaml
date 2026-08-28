@@ -1,0 +1,10 @@
+id: x463
+vendor_id: lexmark
+name: X463
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x463:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x463
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bently-nevada-60m100
+vendor_id: bakerhughes
+name: Bently Nevada 60M100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bakerhughes:bently_nevada_60m100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bently_nevada_60m100
+  confidence: auto

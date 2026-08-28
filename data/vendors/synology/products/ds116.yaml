@@ -1,0 +1,10 @@
+id: ds116
+vendor_id: synology
+name: Ds116
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synology:ds116:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds116
+  confidence: auto

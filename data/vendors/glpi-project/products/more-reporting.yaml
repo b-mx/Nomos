@@ -1,0 +1,10 @@
+id: more-reporting
+vendor_id: glpi-project
+name: More Reporting
+type: software
+tags: []
+cpe: cpe:2.3:a:glpi\-project:more_reporting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: more_reporting
+  confidence: auto

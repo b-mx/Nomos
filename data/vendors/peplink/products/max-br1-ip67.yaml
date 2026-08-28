@@ -1,0 +1,10 @@
+id: max-br1-ip67
+vendor_id: peplink
+name: Max Br1  Ip67
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:max_br1__ip67:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_br1__ip67
+  confidence: auto

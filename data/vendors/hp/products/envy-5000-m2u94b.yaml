@@ -1,0 +1,10 @@
+id: envy-5000-m2u94b
+vendor_id: hp
+name: Envy 5000 M2U94B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5000_m2u94b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5000_m2u94b
+  confidence: auto

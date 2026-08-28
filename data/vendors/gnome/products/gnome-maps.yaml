@@ -1,0 +1,10 @@
+id: gnome-maps
+vendor_id: gnome
+name: Gnome-Maps
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-maps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-maps
+  confidence: auto

@@ -1,0 +1,10 @@
+id: solis-ress-u-bt
+vendor_id: sloan
+name: Solis Ress-U Bt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:solis_ress\-u_bt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solis_ress-u_bt
+  confidence: auto

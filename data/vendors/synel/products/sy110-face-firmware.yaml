@@ -1,0 +1,10 @@
+id: sy110-face-firmware
+vendor_id: synel
+name: Sy110 Face Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:synel:sy110_face_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sy110_face_firmware
+  confidence: auto

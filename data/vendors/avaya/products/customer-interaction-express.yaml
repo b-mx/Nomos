@@ -1,0 +1,10 @@
+id: customer-interaction-express
+vendor_id: avaya
+name: Customer Interaction Express
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:customer_interaction_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: customer_interaction_express
+  confidence: auto

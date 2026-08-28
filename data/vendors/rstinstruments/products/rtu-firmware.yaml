@@ -1,0 +1,10 @@
+id: rtu-firmware
+vendor_id: rstinstruments
+name: Rtu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:rtu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtu_firmware
+  confidence: auto

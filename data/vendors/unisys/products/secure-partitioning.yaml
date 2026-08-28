@@ -1,0 +1,10 @@
+id: secure-partitioning
+vendor_id: unisys
+name: Secure Partitioning
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:secure_partitioning:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_partitioning
+  confidence: auto

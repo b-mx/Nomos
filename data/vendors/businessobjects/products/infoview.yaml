@@ -1,0 +1,10 @@
+id: infoview
+vendor_id: businessobjects
+name: Infoview
+type: software
+tags: []
+cpe: cpe:2.3:a:businessobjects:infoview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infoview
+  confidence: auto

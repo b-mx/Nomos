@@ -1,0 +1,10 @@
+id: cp-appointment-calendar
+vendor_id: codepeople
+name: Cp Appointment Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:codepeople:cp_appointment_calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp_appointment_calendar
+  confidence: auto

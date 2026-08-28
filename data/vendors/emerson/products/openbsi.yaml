@@ -1,0 +1,10 @@
+id: openbsi
+vendor_id: emerson
+name: Openbsi
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:openbsi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openbsi
+  confidence: auto

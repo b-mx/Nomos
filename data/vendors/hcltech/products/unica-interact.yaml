@@ -1,0 +1,10 @@
+id: unica-interact
+vendor_id: hcltech
+name: Unica Interact
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:unica_interact:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unica_interact
+  confidence: auto

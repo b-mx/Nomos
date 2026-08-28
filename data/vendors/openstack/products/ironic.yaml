@@ -1,0 +1,10 @@
+id: ironic
+vendor_id: openstack
+name: Ironic
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:ironic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ironic
+  confidence: auto

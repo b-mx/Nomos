@@ -1,0 +1,10 @@
+id: x11ssz-firmware
+vendor_id: supermicro
+name: X11Ssz Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11ssz_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssz_firmware
+  confidence: auto

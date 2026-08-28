@@ -1,0 +1,10 @@
+id: psp-driver
+vendor_id: amd
+name: Psp Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:psp_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: psp_driver
+  confidence: auto

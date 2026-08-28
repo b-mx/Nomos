@@ -1,0 +1,10 @@
+id: athlon-gold-7220u-firmware
+vendor_id: amd
+name: Athlon Gold 7220U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:athlon_gold_7220u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_gold_7220u_firmware
+  confidence: auto

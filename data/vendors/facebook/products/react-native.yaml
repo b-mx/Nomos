@@ -1,0 +1,14 @@
+id: react-native
+vendor_id: facebook
+name: React Native
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:facebook:react\-native:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: react-native
+  confidence: auto
+- source: nvd
+  value: react-native
+  confidence: auto

@@ -1,0 +1,10 @@
+id: infinia-hawkeye-4-firmware
+vendor_id: ge
+name: Infinia Hawkeye 4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:infinia_hawkeye_4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infinia_hawkeye_4_firmware
+  confidence: auto

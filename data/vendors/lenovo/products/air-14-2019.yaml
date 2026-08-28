@@ -1,0 +1,10 @@
+id: air-14-2019
+vendor_id: lenovo
+name: Air-14 2019
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:air\-14_2019:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air-14_2019
+  confidence: auto

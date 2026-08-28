@@ -1,0 +1,10 @@
+id: 720s-13arr-firmware
+vendor_id: lenovo
+name: 720S-13Arr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:720s\-13arr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 720s-13arr_firmware
+  confidence: auto

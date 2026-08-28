@@ -1,0 +1,10 @@
+id: m365
+vendor_id: mi
+name: M365
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:m365:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m365
+  confidence: auto

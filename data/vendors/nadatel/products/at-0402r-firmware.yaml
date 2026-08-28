@@ -1,0 +1,10 @@
+id: at-0402r-firmware
+vendor_id: nadatel
+name: At-0402R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nadatel:at\-0402r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: at-0402r_firmware
+  confidence: auto

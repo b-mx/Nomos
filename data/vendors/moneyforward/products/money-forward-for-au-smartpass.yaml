@@ -1,0 +1,10 @@
+id: money-forward-for-au-smartpass
+vendor_id: moneyforward
+name: Money Forward For Au Smartpass
+type: software
+tags: []
+cpe: cpe:2.3:a:moneyforward:money_forward_for_au_smartpass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: money_forward_for_au_smartpass
+  confidence: auto

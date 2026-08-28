@@ -1,0 +1,14 @@
+id: nuxt
+vendor_id: nuxt
+name: Nuxt
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:nuxt:framework:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: nuxt
+  confidence: auto
+- source: nvd
+  value: framework
+  confidence: auto

@@ -1,0 +1,10 @@
+id: track-it
+vendor_id: bmc
+name: Track-It!
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:track\-it\!:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: track-it!
+  confidence: auto

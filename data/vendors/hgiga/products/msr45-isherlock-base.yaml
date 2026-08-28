@@ -1,0 +1,10 @@
+id: msr45-isherlock-base
+vendor_id: hgiga
+name: Msr45 Isherlock-Base
+type: software
+tags: []
+cpe: cpe:2.3:a:hgiga:msr45_isherlock\-base:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msr45_isherlock-base
+  confidence: auto

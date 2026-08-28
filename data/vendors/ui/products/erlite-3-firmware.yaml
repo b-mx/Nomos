@@ -1,0 +1,10 @@
+id: erlite-3-firmware
+vendor_id: ui
+name: Erlite-3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:erlite\-3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: erlite-3_firmware
+  confidence: auto

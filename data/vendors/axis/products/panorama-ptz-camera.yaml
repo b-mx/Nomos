@@ -1,0 +1,10 @@
+id: panorama-ptz-camera
+vendor_id: axis
+name: Panorama Ptz Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:panorama_ptz_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: panorama_ptz_camera
+  confidence: auto

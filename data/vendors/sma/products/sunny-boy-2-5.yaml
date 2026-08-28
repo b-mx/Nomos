@@ -1,0 +1,10 @@
+id: sunny-boy-2-5
+vendor_id: sma
+name: Sunny Boy 2.5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sma:sunny_boy_2\.5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_boy_2.5
+  confidence: auto

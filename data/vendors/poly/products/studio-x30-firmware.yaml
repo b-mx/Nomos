@@ -1,0 +1,10 @@
+id: studio-x30-firmware
+vendor_id: poly
+name: Studio X30 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:poly:studio_x30_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_x30_firmware
+  confidence: auto

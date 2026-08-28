@@ -1,0 +1,10 @@
+id: mx-m315uv
+vendor_id: sharp
+name: Mx-M315Uv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-m315uv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m315uv
+  confidence: auto

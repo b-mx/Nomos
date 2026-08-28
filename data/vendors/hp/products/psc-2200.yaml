@@ -1,0 +1,10 @@
+id: psc-2200
+vendor_id: hp
+name: Psc 2200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:psc_2200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: psc_2200
+  confidence: auto

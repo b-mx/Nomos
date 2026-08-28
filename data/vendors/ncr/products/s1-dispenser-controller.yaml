@@ -1,0 +1,10 @@
+id: s1-dispenser-controller
+vendor_id: ncr
+name: S1 Dispenser Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ncr:s1_dispenser_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s1_dispenser_controller
+  confidence: auto

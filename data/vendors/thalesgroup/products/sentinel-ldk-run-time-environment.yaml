@@ -1,0 +1,10 @@
+id: sentinel-ldk-run-time-environment
+vendor_id: thalesgroup
+name: Sentinel Ldk Run-Time Environment
+type: software
+tags: []
+cpe: cpe:2.3:a:thalesgroup:sentinel_ldk_run\-time_environment:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sentinel_ldk_run-time_environment
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rv-12sdl
+vendor_id: mitsubishielectric
+name: Rv-12Sdl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv\-12sdl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-12sdl
+  confidence: auto

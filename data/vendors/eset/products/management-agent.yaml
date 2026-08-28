@@ -1,0 +1,10 @@
+id: management-agent
+vendor_id: eset
+name: Management Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:management_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: management_agent
+  confidence: auto

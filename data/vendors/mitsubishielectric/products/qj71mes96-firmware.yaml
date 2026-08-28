@@ -1,0 +1,10 @@
+id: qj71mes96-firmware
+vendor_id: mitsubishielectric
+name: Qj71Mes96 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:qj71mes96_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qj71mes96_firmware
+  confidence: auto

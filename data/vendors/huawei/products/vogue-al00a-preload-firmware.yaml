@@ -1,0 +1,10 @@
+id: vogue-al00a-preload-firmware
+vendor_id: huawei
+name: Vogue-Al00A-Preload Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:vogue\-al00a\-preload_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vogue-al00a-preload_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flexidome-ip-micro-2000-hd-firmware
+vendor_id: bosch
+name: Flexidome Ip Micro 2000 Hd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:flexidome_ip_micro_2000_hd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_ip_micro_2000_hd_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wishsuite
+vendor_id: hasthemes
+name: Wishsuite
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:wishsuite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wishsuite
+  confidence: auto

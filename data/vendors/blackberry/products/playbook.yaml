@@ -1,0 +1,10 @@
+id: playbook
+vendor_id: blackberry
+name: Playbook
+type: hardware
+tags: []
+cpe: cpe:2.3:h:blackberry:playbook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: playbook
+  confidence: auto

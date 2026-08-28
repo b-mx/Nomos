@@ -1,0 +1,10 @@
+id: wp-insurance
+vendor_id: hasthemes
+name: Wp Insurance
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:wp_insurance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_insurance
+  confidence: auto

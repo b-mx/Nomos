@@ -1,0 +1,10 @@
+id: hwclouddrive-emui6-0
+vendor_id: huawei
+name: Hwclouddrive(Emui6.0)
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hwclouddrive\(emui6\.0\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hwclouddrive(emui6.0)
+  confidence: auto

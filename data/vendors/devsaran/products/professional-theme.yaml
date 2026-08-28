@@ -1,0 +1,10 @@
+id: professional-theme
+vendor_id: devsaran
+name: Professional Theme
+type: software
+tags: []
+cpe: cpe:2.3:a:devsaran:professional_theme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: professional_theme
+  confidence: auto

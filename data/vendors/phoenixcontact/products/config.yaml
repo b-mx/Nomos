@@ -1,0 +1,10 @@
+id: config
+vendor_id: phoenixcontact
+name: Config+
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:config\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: config+
+  confidence: auto

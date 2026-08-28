@@ -1,0 +1,10 @@
+id: jg247a
+vendor_id: hp
+name: Jg247A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg247a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg247a
+  confidence: auto

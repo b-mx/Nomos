@@ -1,0 +1,10 @@
+id: vw2106-firmware
+vendor_id: rstinstruments
+name: Vw2106 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:vw2106_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vw2106_firmware
+  confidence: auto

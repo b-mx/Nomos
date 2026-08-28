@@ -1,0 +1,10 @@
+id: spidervplayer
+vendor_id: web-dorado
+name: Spidervplayer
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:spidervplayer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spidervplayer
+  confidence: auto

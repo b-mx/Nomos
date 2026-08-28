@@ -1,0 +1,10 @@
+id: nas-a300u-firmware
+vendor_id: iomega
+name: Nas A300U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iomega:nas_a300u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nas_a300u_firmware
+  confidence: auto

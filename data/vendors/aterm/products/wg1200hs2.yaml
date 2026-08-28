@@ -1,0 +1,10 @@
+id: wg1200hs2
+vendor_id: aterm
+name: Wg1200Hs2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aterm:wg1200hs2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wg1200hs2
+  confidence: auto

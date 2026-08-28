@@ -1,0 +1,10 @@
+id: gh-ost
+vendor_id: github
+name: Gh-Ost
+type: software
+tags: []
+cpe: cpe:2.3:a:github:gh\-ost:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gh-ost
+  confidence: auto

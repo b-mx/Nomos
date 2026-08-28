@@ -1,0 +1,10 @@
+id: nats-server
+vendor_id: linuxfoundation
+name: Nats-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:nats\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nats-server
+  confidence: auto

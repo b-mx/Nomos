@@ -1,0 +1,10 @@
+id: maintenance
+vendor_id: webfactoryltd
+name: Maintenance
+type: software
+tags: []
+cpe: cpe:2.3:a:webfactoryltd:maintenance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maintenance
+  confidence: auto

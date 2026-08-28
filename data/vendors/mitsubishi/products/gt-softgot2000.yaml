@@ -1,0 +1,10 @@
+id: gt-softgot2000
+vendor_id: mitsubishi
+name: Gt Softgot2000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:gt_softgot2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gt_softgot2000
+  confidence: auto

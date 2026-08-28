@@ -1,0 +1,10 @@
+id: energy-analytix
+vendor_id: iconics
+name: Energy Analytix
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:energy_analytix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: energy_analytix
+  confidence: auto

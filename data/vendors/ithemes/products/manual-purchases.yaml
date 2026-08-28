@@ -1,0 +1,10 @@
+id: manual-purchases
+vendor_id: ithemes
+name: Manual Purchases
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:manual_purchases:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manual_purchases
+  confidence: auto

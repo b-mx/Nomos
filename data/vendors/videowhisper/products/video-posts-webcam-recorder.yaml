@@ -1,0 +1,10 @@
+id: video-posts-webcam-recorder
+vendor_id: videowhisper
+name: Video Posts Webcam Recorder
+type: software
+tags: []
+cpe: cpe:2.3:a:videowhisper:video_posts_webcam_recorder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_posts_webcam_recorder
+  confidence: auto

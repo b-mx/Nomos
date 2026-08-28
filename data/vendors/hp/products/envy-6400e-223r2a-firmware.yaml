@@ -1,0 +1,10 @@
+id: envy-6400e-223r2a-firmware
+vendor_id: hp
+name: Envy 6400E 223R2A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_6400e_223r2a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6400e_223r2a_firmware
+  confidence: auto

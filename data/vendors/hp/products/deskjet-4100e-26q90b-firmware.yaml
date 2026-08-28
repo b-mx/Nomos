@@ -1,0 +1,10 @@
+id: deskjet-4100e-26q90b-firmware
+vendor_id: hp
+name: Deskjet 4100E 26Q90B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:deskjet_4100e_26q90b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_4100e_26q90b_firmware
+  confidence: auto

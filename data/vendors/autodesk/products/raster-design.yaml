@@ -1,0 +1,10 @@
+id: raster-design
+vendor_id: autodesk
+name: Raster Design
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:raster_design:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: raster_design
+  confidence: auto

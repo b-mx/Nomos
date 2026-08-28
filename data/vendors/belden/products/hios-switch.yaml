@@ -1,0 +1,10 @@
+id: hios-switch
+vendor_id: belden
+name: Hios Switch
+type: software
+tags: []
+cpe: cpe:2.3:a:belden:hios_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hios_switch
+  confidence: auto

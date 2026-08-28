@@ -1,0 +1,10 @@
+id: rg-ws6008
+vendor_id: ruijie
+name: Rg-Ws6008
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-ws6008:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-ws6008
+  confidence: auto

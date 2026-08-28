@@ -1,0 +1,10 @@
+id: screensaver
+vendor_id: gnome
+name: Screensaver
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:screensaver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: screensaver
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vidiu-mini-firmware
+vendor_id: teradek
+name: Vidiu Mini Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teradek:vidiu_mini_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vidiu_mini_firmware
+  confidence: auto

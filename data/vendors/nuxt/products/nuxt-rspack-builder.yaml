@@ -1,0 +1,10 @@
+id: nuxt-rspack-builder
+vendor_id: nuxt
+name: Nuxt/Rspack-Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:nuxt:nuxt\/rspack\-builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nuxt/rspack-builder
+  confidence: auto

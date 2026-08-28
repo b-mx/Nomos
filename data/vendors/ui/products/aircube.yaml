@@ -1,0 +1,10 @@
+id: aircube
+vendor_id: ui
+name: Aircube
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:aircube:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aircube
+  confidence: auto

@@ -1,0 +1,10 @@
+id: field-xpert-smt79-firmware
+vendor_id: endress
+name: Field Xpert Smt79 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:endress:field_xpert_smt79_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: field_xpert_smt79_firmware
+  confidence: auto

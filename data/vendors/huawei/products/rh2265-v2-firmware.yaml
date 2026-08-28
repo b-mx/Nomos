@@ -1,0 +1,10 @@
+id: rh2265-v2-firmware
+vendor_id: huawei
+name: Rh2265 V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:rh2265_v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh2265_v2_firmware
+  confidence: auto

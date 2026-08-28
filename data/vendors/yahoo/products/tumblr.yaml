@@ -1,0 +1,10 @@
+id: tumblr
+vendor_id: yahoo
+name: Tumblr
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:tumblr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tumblr
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sc-f7200-firmware
+vendor_id: epson
+name: Sc-F7200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:sc\-f7200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-f7200_firmware
+  confidence: auto

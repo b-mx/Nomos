@@ -1,0 +1,10 @@
+id: ezsocket
+vendor_id: mitsubishielectric
+name: Ezsocket
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:ezsocket:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ezsocket
+  confidence: auto

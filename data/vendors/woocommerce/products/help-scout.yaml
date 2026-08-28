@@ -1,0 +1,10 @@
+id: help-scout
+vendor_id: woocommerce
+name: Help Scout
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:help_scout:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: help_scout
+  confidence: auto

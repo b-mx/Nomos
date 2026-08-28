@@ -1,0 +1,10 @@
+id: mmt-7306-firmware
+vendor_id: medtronic
+name: Mmt-7306 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:mmt\-7306_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mmt-7306_firmware
+  confidence: auto

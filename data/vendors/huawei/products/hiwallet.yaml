@@ -1,0 +1,10 @@
+id: hiwallet
+vendor_id: huawei
+name: Hiwallet
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hiwallet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hiwallet
+  confidence: auto

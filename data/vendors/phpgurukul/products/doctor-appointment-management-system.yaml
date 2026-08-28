@@ -1,0 +1,10 @@
+id: doctor-appointment-management-system
+vendor_id: phpgurukul
+name: Doctor Appointment Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:doctor_appointment_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: doctor_appointment_management_system
+  confidence: auto

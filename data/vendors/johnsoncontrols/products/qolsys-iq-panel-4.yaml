@@ -1,0 +1,10 @@
+id: qolsys-iq-panel-4
+vendor_id: johnsoncontrols
+name: Qolsys Iq Panel 4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:qolsys_iq_panel_4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qolsys_iq_panel_4
+  confidence: auto

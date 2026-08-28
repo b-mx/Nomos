@@ -1,0 +1,10 @@
+id: ar3200-firmware
+vendor_id: huawei
+name: Ar3200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ar3200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar3200_firmware
+  confidence: auto

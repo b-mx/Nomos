@@ -1,0 +1,10 @@
+id: 4gee
+vendor_id: ee
+name: 4Gee
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ee:4gee:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4gee
+  confidence: auto

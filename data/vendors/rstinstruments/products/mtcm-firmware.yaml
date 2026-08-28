@@ -1,0 +1,10 @@
+id: mtcm-firmware
+vendor_id: rstinstruments
+name: Mtcm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:mtcm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mtcm_firmware
+  confidence: auto

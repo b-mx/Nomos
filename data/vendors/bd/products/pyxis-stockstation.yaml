@@ -1,0 +1,10 @@
+id: pyxis-stockstation
+vendor_id: bd
+name: Pyxis Stockstation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_stockstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_stockstation
+  confidence: auto

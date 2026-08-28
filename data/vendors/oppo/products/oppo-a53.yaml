@@ -1,0 +1,10 @@
+id: oppo-a53
+vendor_id: oppo
+name: Oppo A53
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_a53:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_a53
+  confidence: auto

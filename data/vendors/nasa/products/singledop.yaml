@@ -1,0 +1,10 @@
+id: singledop
+vendor_id: nasa
+name: Singledop
+type: software
+tags: []
+cpe: cpe:2.3:a:nasa:singledop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: singledop
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mp-c6003
+vendor_id: ricoh
+name: Mp C6003
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_c6003:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c6003
+  confidence: auto

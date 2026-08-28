@@ -1,0 +1,10 @@
+id: ruckus-virtual-smartzone
+vendor_id: commscope
+name: Ruckus Virtual Smartzone
+type: software
+tags: []
+cpe: cpe:2.3:a:commscope:ruckus_virtual_smartzone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_virtual_smartzone
+  confidence: auto

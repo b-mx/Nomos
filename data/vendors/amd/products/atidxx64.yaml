@@ -1,0 +1,10 @@
+id: atidxx64
+vendor_id: amd
+name: Atidxx64
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:atidxx64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atidxx64
+  confidence: auto

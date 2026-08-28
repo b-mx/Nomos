@@ -1,0 +1,10 @@
+id: e4-14arr-firmware
+vendor_id: lenovo
+name: E4-14Arr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:e4\-14arr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e4-14arr_firmware
+  confidence: auto

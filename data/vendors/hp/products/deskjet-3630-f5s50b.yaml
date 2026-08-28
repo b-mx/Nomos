@@ -1,0 +1,10 @@
+id: deskjet-3630-f5s50b
+vendor_id: hp
+name: Deskjet 3630 F5S50B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_3630_f5s50b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3630_f5s50b
+  confidence: auto

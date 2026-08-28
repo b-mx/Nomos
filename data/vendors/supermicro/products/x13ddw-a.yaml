@@ -1,0 +1,10 @@
+id: x13ddw-a
+vendor_id: supermicro
+name: X13Ddw-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13ddw\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13ddw-a
+  confidence: auto

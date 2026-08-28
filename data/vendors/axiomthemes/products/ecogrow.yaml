@@ -1,0 +1,10 @@
+id: ecogrow
+vendor_id: axiomthemes
+name: Ecogrow
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:ecogrow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecogrow
+  confidence: auto

@@ -1,0 +1,10 @@
+id: npcm750r
+vendor_id: nuvoton
+name: Npcm750R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nuvoton:npcm750r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: npcm750r
+  confidence: auto

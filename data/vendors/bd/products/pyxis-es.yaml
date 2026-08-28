@@ -1,0 +1,10 @@
+id: pyxis-es
+vendor_id: bd
+name: Pyxis Es
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:pyxis_es:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_es
+  confidence: auto

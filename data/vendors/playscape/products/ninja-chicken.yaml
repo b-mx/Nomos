@@ -1,0 +1,10 @@
+id: ninja-chicken
+vendor_id: playscape
+name: Ninja Chicken
+type: software
+tags: []
+cpe: cpe:2.3:a:playscape:ninja_chicken:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ninja_chicken
+  confidence: auto

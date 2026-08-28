@@ -1,0 +1,10 @@
+id: data-master
+vendor_id: asustor
+name: Data Master
+type: os
+tags: []
+cpe: cpe:2.3:o:asustor:data_master:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_master
+  confidence: auto

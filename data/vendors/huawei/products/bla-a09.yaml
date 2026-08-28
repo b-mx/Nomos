@@ -1,0 +1,10 @@
+id: bla-a09
+vendor_id: huawei
+name: Bla-A09
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:bla\-a09:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bla-a09
+  confidence: auto

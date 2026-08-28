@@ -1,0 +1,10 @@
+id: ws7100-10
+vendor_id: huawei
+name: Ws7100-10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ws7100\-10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws7100-10
+  confidence: auto

@@ -1,0 +1,10 @@
+id: update-manager-core
+vendor_id: gnome
+name: Update-Manager-Core
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:update\-manager\-core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: update-manager-core
+  confidence: auto

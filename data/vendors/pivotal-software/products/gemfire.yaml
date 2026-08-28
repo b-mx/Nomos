@@ -1,0 +1,10 @@
+id: gemfire
+vendor_id: pivotal-software
+name: Gemfire
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:gemfire:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gemfire
+  confidence: auto

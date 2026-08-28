@@ -1,0 +1,10 @@
+id: ampereone-a160-28m
+vendor_id: amperecomputing
+name: Ampereone A160-28M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amperecomputing:ampereone_a160\-28m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ampereone_a160-28m
+  confidence: auto

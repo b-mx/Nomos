@@ -1,0 +1,10 @@
+id: manageengine-firewall
+vendor_id: zohocorp
+name: Manageengine Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_firewall
+  confidence: auto

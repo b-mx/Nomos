@@ -1,0 +1,10 @@
+id: botvac-d4-connected-firmware
+vendor_id: neatorobotics
+name: Botvac D4 Connected Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:neatorobotics:botvac_d4_connected_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: botvac_d4_connected_firmware
+  confidence: auto

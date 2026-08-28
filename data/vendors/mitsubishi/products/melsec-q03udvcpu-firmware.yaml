@@ -1,0 +1,10 @@
+id: melsec-q03udvcpu-firmware
+vendor_id: mitsubishi
+name: Melsec Q03Udvcpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishi:melsec_q03udvcpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q03udvcpu_firmware
+  confidence: auto

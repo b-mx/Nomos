@@ -1,0 +1,10 @@
+id: admin-dashboard
+vendor_id: code-projects
+name: Admin Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:admin_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: admin_dashboard
+  confidence: auto

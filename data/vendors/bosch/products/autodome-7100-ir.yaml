@@ -1,0 +1,10 @@
+id: autodome-7100-ir
+vendor_id: bosch
+name: Autodome 7100 Ir
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:autodome_7100_ir:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autodome_7100_ir
+  confidence: auto

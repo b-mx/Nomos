@@ -1,0 +1,10 @@
+id: appliance-x
+vendor_id: blackberry
+name: Appliance-X
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:appliance\-x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: appliance-x
+  confidence: auto

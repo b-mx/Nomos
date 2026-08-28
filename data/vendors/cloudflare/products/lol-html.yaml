@@ -1,0 +1,10 @@
+id: lol-html
+vendor_id: cloudflare
+name: Lol-Html
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:lol\-html:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lol-html
+  confidence: auto

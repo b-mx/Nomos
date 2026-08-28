@@ -1,0 +1,10 @@
+id: salt-netapi-client
+vendor_id: suse
+name: Salt-Netapi-Client
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:salt\-netapi\-client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: salt-netapi-client
+  confidence: auto

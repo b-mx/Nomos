@@ -1,0 +1,10 @@
+id: vpn-firewall-appliance
+vendor_id: hp
+name: Vpn Firewall Appliance
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:vpn_firewall_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vpn_firewall_appliance
+  confidence: auto

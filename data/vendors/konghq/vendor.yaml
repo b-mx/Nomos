@@ -1,0 +1,7 @@
+id: konghq
+name: Konghq
+cpe: cpe:2.3:*:konghq:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: konghq
+  confidence: auto

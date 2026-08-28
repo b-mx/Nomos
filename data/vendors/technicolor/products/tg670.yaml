@@ -1,0 +1,10 @@
+id: tg670
+vendor_id: technicolor
+name: Tg670
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tg670:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg670
+  confidence: auto

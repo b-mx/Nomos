@@ -1,0 +1,10 @@
+id: unify-openscape-uc-web-client
+vendor_id: atos
+name: Unify Openscape Uc Web Client
+type: software
+tags: []
+cpe: cpe:2.3:a:atos:unify_openscape_uc_web_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unify_openscape_uc_web_client
+  confidence: auto

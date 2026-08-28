@@ -1,0 +1,10 @@
+id: vocal
+vendor_id: axiomthemes
+name: Vocal
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:vocal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vocal
+  confidence: auto

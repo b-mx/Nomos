@@ -1,0 +1,10 @@
+id: bm5hp
+vendor_id: ui
+name: Bm5Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:bm5hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm5hp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ip7160-firmware
+vendor_id: vivotek
+name: Ip7160 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ip7160_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip7160_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sparc-m12-1
+vendor_id: fujitsu
+name: Sparc M12-1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:sparc_m12\-1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sparc_m12-1
+  confidence: auto

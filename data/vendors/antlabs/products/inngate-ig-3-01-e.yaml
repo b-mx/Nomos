@@ -1,0 +1,10 @@
+id: inngate-ig-3-01-e
+vendor_id: antlabs
+name: Inngate Ig 3.01 E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:antlabs:inngate_ig_3\.01_e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inngate_ig_3.01_e
+  confidence: auto

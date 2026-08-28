@@ -1,0 +1,10 @@
+id: job-portal-script
+vendor_id: itechscripts
+name: Job Portal Script
+type: software
+tags: []
+cpe: cpe:2.3:a:itechscripts:job_portal_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: job_portal_script
+  confidence: auto

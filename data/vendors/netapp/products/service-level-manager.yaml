@@ -1,0 +1,10 @@
+id: service-level-manager
+vendor_id: netapp
+name: Service Level Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:service_level_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_level_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sg350
+vendor_id: rstinstruments
+name: Sg350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:sg350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg350
+  confidence: auto

@@ -1,0 +1,10 @@
+id: toronto-al00a-firmware
+vendor_id: huawei
+name: Toronto-Al00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:toronto\-al00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toronto-al00a_firmware
+  confidence: auto

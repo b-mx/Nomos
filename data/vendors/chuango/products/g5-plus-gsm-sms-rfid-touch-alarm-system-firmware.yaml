@@ -1,0 +1,10 @@
+id: g5-plus-gsm-sms-rfid-touch-alarm-system-firmware
+vendor_id: chuango
+name: G5 Plus Gsm/Sms/Rfid Touch Alarm System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chuango:g5_plus_gsm\/sms\/rfid_touch_alarm_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g5_plus_gsm/sms/rfid_touch_alarm_system_firmware
+  confidence: auto

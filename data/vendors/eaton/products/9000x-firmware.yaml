@@ -1,0 +1,10 @@
+id: 9000x-firmware
+vendor_id: eaton
+name: 9000X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eaton:9000x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9000x_firmware
+  confidence: auto

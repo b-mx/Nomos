@@ -1,0 +1,10 @@
+id: atlasdb
+vendor_id: palantir
+name: Atlasdb
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:atlasdb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atlasdb
+  confidence: auto

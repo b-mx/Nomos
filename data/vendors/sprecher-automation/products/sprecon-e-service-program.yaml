@@ -1,0 +1,10 @@
+id: sprecon-e-service-program
+vendor_id: sprecher-automation
+name: Sprecon-E Service Program
+type: software
+tags: []
+cpe: cpe:2.3:a:sprecher\-automation:sprecon\-e_service_program:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sprecon-e_service_program
+  confidence: auto

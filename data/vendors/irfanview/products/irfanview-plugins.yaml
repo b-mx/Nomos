@@ -1,0 +1,10 @@
+id: irfanview-plugins
+vendor_id: irfanview
+name: Irfanview Plugins
+type: software
+tags: []
+cpe: cpe:2.3:a:irfanview:irfanview_plugins:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: irfanview_plugins
+  confidence: auto

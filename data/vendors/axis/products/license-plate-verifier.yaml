@@ -1,0 +1,10 @@
+id: license-plate-verifier
+vendor_id: axis
+name: License Plate Verifier
+type: software
+tags: []
+cpe: cpe:2.3:a:axis:license_plate_verifier:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: license_plate_verifier
+  confidence: auto

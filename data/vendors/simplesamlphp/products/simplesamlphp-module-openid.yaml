@@ -1,0 +1,10 @@
+id: simplesamlphp-module-openid
+vendor_id: simplesamlphp
+name: Simplesamlphp-Module-Openid
+type: software
+tags: []
+cpe: cpe:2.3:a:simplesamlphp:simplesamlphp\-module\-openid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplesamlphp-module-openid
+  confidence: auto

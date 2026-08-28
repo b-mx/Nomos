@@ -1,0 +1,10 @@
+id: foxit-advanced-pdf-editor
+vendor_id: foxitsoftware
+name: Foxit Advanced Pdf Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:foxit_advanced_pdf_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foxit_advanced_pdf_editor
+  confidence: auto

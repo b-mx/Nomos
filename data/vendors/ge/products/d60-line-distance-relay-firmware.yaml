@@ -1,0 +1,10 @@
+id: d60-line-distance-relay-firmware
+vendor_id: ge
+name: D60 Line Distance Relay Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:d60_line_distance_relay_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d60_line_distance_relay_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nj101-9020-firmware
+vendor_id: omron
+name: Nj101-9020 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:nj101\-9020_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nj101-9020_firmware
+  confidence: auto

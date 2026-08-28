@@ -1,0 +1,10 @@
+id: ad-ldap-connector
+vendor_id: auth0
+name: Ad/Ldap Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:ad\/ldap_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ad/ldap_connector
+  confidence: auto

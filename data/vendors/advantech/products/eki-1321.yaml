@@ -1,0 +1,10 @@
+id: eki-1321
+vendor_id: advantech
+name: Eki-1321
+type: hardware
+tags: []
+cpe: cpe:2.3:h:advantech:eki\-1321:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eki-1321
+  confidence: auto

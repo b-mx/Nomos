@@ -1,0 +1,13 @@
+id: privatebin
+vendor_id: privatebin
+name: PrivateBin
+type: software
+tags: []
+cpe: cpe:2.3:a:privatebin:privatebin:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: privatebin
+  confidence: auto
+- source: nvd
+  value: privatebin
+  confidence: auto

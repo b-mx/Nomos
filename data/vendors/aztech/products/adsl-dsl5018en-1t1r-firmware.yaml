@@ -1,0 +1,10 @@
+id: adsl-dsl5018en-1t1r-firmware
+vendor_id: aztech
+name: Adsl Dsl5018En (1T1R) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:aztech:adsl_dsl5018en_\(1t1r\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adsl_dsl5018en_(1t1r)_firmware
+  confidence: auto

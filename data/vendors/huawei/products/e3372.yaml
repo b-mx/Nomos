@@ -1,0 +1,10 @@
+id: e3372
+vendor_id: huawei
+name: E3372
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e3372:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e3372
+  confidence: auto

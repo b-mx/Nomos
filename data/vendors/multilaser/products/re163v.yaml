@@ -1,0 +1,10 @@
+id: re163v
+vendor_id: multilaser
+name: Re163V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:multilaser:re163v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re163v
+  confidence: auto

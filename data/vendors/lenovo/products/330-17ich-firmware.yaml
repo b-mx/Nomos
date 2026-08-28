@@ -1,0 +1,10 @@
+id: 330-17ich-firmware
+vendor_id: lenovo
+name: 330-17Ich Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:330\-17ich_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 330-17ich_firmware
+  confidence: auto

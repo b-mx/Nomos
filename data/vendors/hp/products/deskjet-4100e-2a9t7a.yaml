@@ -1,0 +1,10 @@
+id: deskjet-4100e-2a9t7a
+vendor_id: hp
+name: Deskjet 4100E 2A9T7A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_4100e_2a9t7a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_4100e_2a9t7a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: traveler-companion
+vendor_id: hcltech
+name: Traveler Companion
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:traveler_companion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: traveler_companion
+  confidence: auto

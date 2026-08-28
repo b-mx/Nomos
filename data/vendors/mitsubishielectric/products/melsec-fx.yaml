@@ -1,0 +1,10 @@
+id: melsec-fx
+vendor_id: mitsubishielectric
+name: Melsec-Fx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec\-fx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec-fx
+  confidence: auto

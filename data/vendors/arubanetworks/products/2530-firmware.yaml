@@ -1,0 +1,10 @@
+id: 2530-firmware
+vendor_id: arubanetworks
+name: 2530 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:2530_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2530_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m751-t3u44a
+vendor_id: hp
+name: Laserjet Enterprise M751 T3U44A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_m751_t3u44a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m751_t3u44a
+  confidence: auto

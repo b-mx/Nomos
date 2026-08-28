@@ -1,0 +1,10 @@
+id: external-provisioner
+vendor_id: kubernetes
+name: External-Provisioner
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:external\-provisioner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: external-provisioner
+  confidence: auto

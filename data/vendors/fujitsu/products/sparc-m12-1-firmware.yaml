@@ -1,0 +1,10 @@
+id: sparc-m12-1-firmware
+vendor_id: fujitsu
+name: Sparc M12-1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:sparc_m12\-1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sparc_m12-1_firmware
+  confidence: auto

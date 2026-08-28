@@ -1,0 +1,10 @@
+id: array-configuration-utility
+vendor_id: hp
+name: Array Configuration Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:array_configuration_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: array_configuration_utility
+  confidence: auto

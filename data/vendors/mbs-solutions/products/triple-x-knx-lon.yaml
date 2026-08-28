@@ -1,0 +1,10 @@
+id: triple-x-knx-lon
+vendor_id: mbs-solutions
+name: Triple-X Knx+Lon
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:triple\-x_knx\+lon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: triple-x_knx+lon
+  confidence: auto

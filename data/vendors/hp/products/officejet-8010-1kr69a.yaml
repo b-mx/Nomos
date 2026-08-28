@@ -1,0 +1,10 @@
+id: officejet-8010-1kr69a
+vendor_id: hp
+name: Officejet 8010 1Kr69A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_8010_1kr69a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_8010_1kr69a
+  confidence: auto

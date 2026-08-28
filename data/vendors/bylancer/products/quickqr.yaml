@@ -1,0 +1,10 @@
+id: quickqr
+vendor_id: bylancer
+name: Quickqr
+type: software
+tags: []
+cpe: cpe:2.3:a:bylancer:quickqr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quickqr
+  confidence: auto

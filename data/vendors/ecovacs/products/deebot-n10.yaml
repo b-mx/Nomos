@@ -1,0 +1,10 @@
+id: deebot-n10
+vendor_id: ecovacs
+name: Deebot N10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_n10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_n10
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a510-f1
+vendor_id: proscend
+name: A510-F1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:proscend:a510\-f1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a510-f1
+  confidence: auto

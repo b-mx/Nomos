@@ -1,0 +1,10 @@
+id: flex-2-pro-15-firmware
+vendor_id: lenovo
+name: Flex 2 Pro-15 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:flex_2_pro\-15_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_2_pro-15_firmware
+  confidence: auto

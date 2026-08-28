@@ -1,0 +1,10 @@
+id: oracle-for-openview
+vendor_id: hp
+name: Oracle For Openview
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:oracle_for_openview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oracle_for_openview
+  confidence: auto

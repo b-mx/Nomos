@@ -1,0 +1,10 @@
+id: v14-igl
+vendor_id: lenovo
+name: V14-Igl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v14\-igl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v14-igl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cp1l-el20dr-d-firmware
+vendor_id: omron
+name: Cp1L-El20Dr-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1l\-el20dr\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1l-el20dr-d_firmware
+  confidence: auto

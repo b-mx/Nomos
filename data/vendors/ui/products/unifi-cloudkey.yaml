@@ -1,0 +1,10 @@
+id: unifi-cloudkey
+vendor_id: ui
+name: Unifi Cloudkey
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:unifi_cloudkey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_cloudkey
+  confidence: auto

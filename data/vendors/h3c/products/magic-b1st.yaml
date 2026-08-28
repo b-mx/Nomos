@@ -1,0 +1,10 @@
+id: magic-b1st
+vendor_id: h3c
+name: Magic B1St
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:magic_b1st:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_b1st
+  confidence: auto

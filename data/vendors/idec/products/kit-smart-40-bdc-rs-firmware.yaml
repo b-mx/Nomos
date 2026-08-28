@@ -1,0 +1,10 @@
+id: kit-smart-40-bdc-rs-firmware
+vendor_id: idec
+name: Kit-Smart-40-Bdc-Rs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idec:kit\-smart\-40\-bdc\-rs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kit-smart-40-bdc-rs_firmware
+  confidence: auto

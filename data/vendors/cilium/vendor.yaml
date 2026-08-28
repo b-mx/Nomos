@@ -1,0 +1,7 @@
+id: cilium
+name: Cilium
+cpe: cpe:2.3:*:cilium:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cilium
+  confidence: auto

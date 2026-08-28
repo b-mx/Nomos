@@ -1,0 +1,10 @@
+id: hp-envy-14-k100
+vendor_id: hp
+name: Hp Envy 14-K100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_envy_14\-k100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_envy_14-k100
+  confidence: auto

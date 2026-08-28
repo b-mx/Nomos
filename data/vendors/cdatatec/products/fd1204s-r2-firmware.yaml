@@ -1,0 +1,10 @@
+id: fd1204s-r2-firmware
+vendor_id: cdatatec
+name: Fd1204S-R2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cdatatec:fd1204s\-r2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd1204s-r2_firmware
+  confidence: auto

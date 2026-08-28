@@ -1,0 +1,10 @@
+id: v-sft
+vendor_id: fujielectric
+name: V-Sft
+type: software
+tags: []
+cpe: cpe:2.3:a:fujielectric:v\-sft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v-sft
+  confidence: auto

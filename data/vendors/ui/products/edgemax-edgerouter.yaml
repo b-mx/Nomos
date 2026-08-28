@@ -1,0 +1,10 @@
+id: edgemax-edgerouter
+vendor_id: ui
+name: Edgemax Edgerouter
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:edgemax_edgerouter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgemax_edgerouter
+  confidence: auto

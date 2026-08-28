@@ -1,0 +1,10 @@
+id: isilon-onefs
+vendor_id: emc
+name: Isilon Onefs
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:isilon_onefs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isilon_onefs
+  confidence: auto

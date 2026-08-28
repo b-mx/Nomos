@@ -1,0 +1,10 @@
+id: litespeed-whm-plugin
+vendor_id: litespeedtech
+name: Litespeed Whm Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:litespeedtech:litespeed_whm_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: litespeed_whm_plugin
+  confidence: auto

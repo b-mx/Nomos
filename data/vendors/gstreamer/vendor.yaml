@@ -1,0 +1,7 @@
+id: gstreamer
+name: Gstreamer
+cpe: cpe:2.3:*:gstreamer:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gstreamer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: j3d081-m61
+vendor_id: nxp
+name: J3D081 M61
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:j3d081_m61:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j3d081_m61
+  confidence: auto

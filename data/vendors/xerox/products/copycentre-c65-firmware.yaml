@@ -1,0 +1,10 @@
+id: copycentre-c65-firmware
+vendor_id: xerox
+name: Copycentre C65 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xerox:copycentre_c65_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: copycentre_c65_firmware
+  confidence: auto

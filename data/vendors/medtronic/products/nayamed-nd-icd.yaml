@@ -1,0 +1,10 @@
+id: nayamed-nd-icd
+vendor_id: medtronic
+name: Nayamed Nd Icd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:nayamed_nd_icd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nayamed_nd_icd
+  confidence: auto

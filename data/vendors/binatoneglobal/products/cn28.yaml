@@ -1,0 +1,10 @@
+id: cn28
+vendor_id: binatoneglobal
+name: Cn28
+type: hardware
+tags: []
+cpe: cpe:2.3:h:binatoneglobal:cn28:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn28
+  confidence: auto

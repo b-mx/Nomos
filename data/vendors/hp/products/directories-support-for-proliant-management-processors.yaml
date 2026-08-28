@@ -1,0 +1,10 @@
+id: directories-support-for-proliant-management-processors
+vendor_id: hp
+name: Directories Support For Proliant Management Processors
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:directories_support_for_proliant_management_processors:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: directories_support_for_proliant_management_processors
+  confidence: auto

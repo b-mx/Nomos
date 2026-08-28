@@ -1,0 +1,10 @@
+id: snc-dh280
+vendor_id: sony
+name: Snc Dh280
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc_dh280:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc_dh280
+  confidence: auto

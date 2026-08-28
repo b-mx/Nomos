@@ -1,0 +1,10 @@
+id: matrix-screen-saver
+vendor_id: macromedia
+name: Matrix Screen Saver
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:matrix_screen_saver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matrix_screen_saver
+  confidence: auto

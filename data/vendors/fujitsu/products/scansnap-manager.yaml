@@ -1,0 +1,10 @@
+id: scansnap-manager
+vendor_id: fujitsu
+name: Scansnap Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:scansnap_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scansnap_manager
+  confidence: auto

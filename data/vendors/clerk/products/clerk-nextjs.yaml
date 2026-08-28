@@ -1,0 +1,10 @@
+id: clerk-nextjs
+vendor_id: clerk
+name: Clerk/Nextjs
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/nextjs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/nextjs
+  confidence: auto

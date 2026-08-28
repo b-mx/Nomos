@@ -1,0 +1,10 @@
+id: sitemanager-embedded
+vendor_id: secomea
+name: Sitemanager Embedded
+type: software
+tags: []
+cpe: cpe:2.3:a:secomea:sitemanager_embedded:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sitemanager_embedded
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nfc-port-software-remover
+vendor_id: sony
+name: Nfc Port Software Remover
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:nfc_port_software_remover:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nfc_port_software_remover
+  confidence: auto

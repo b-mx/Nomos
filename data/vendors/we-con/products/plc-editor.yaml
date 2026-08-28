@@ -1,0 +1,10 @@
+id: plc-editor
+vendor_id: we-con
+name: Plc Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:we\-con:plc_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plc_editor
+  confidence: auto

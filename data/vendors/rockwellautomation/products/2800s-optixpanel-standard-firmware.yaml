@@ -1,0 +1,10 @@
+id: 2800s-optixpanel-standard-firmware
+vendor_id: rockwellautomation
+name: 2800S Optixpanel Standard Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:2800s_optixpanel_standard_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2800s_optixpanel_standard_firmware
+  confidence: auto

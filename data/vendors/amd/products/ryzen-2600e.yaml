@@ -1,0 +1,10 @@
+id: ryzen-2600e
+vendor_id: amd
+name: Ryzen 2600E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_2600e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_2600e
+  confidence: auto

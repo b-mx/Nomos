@@ -1,0 +1,10 @@
+id: var1200-l
+vendor_id: vonets
+name: Var1200-L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vonets:var1200\-l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: var1200-l
+  confidence: auto

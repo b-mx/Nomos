@@ -1,0 +1,10 @@
+id: wp-cookie-user-info
+vendor_id: accesspressthemes
+name: Wp Cookie User Info
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:wp_cookie_user_info:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_cookie_user_info
+  confidence: auto

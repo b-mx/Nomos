@@ -1,0 +1,10 @@
+id: ace-server
+vendor_id: rsa
+name: Ace Server
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:ace_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ace_server
+  confidence: auto

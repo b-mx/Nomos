@@ -1,0 +1,10 @@
+id: dixell-xweb-500
+vendor_id: emerson
+name: Dixell Xweb-500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:dixell_xweb\-500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dixell_xweb-500
+  confidence: auto

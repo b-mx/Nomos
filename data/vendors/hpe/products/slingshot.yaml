@@ -1,0 +1,10 @@
+id: slingshot
+vendor_id: hpe
+name: Slingshot
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:slingshot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slingshot
+  confidence: auto

@@ -1,0 +1,10 @@
+id: taskalfa-305
+vendor_id: kyocera
+name: Taskalfa 305
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kyocera:taskalfa_305:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: taskalfa_305
+  confidence: auto

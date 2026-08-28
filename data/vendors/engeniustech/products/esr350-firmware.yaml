@@ -1,0 +1,10 @@
+id: esr350-firmware
+vendor_id: engeniustech
+name: Esr350 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:engeniustech:esr350_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esr350_firmware
+  confidence: auto

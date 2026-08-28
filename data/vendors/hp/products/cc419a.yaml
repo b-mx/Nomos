@@ -1,0 +1,10 @@
+id: cc419a
+vendor_id: hp
+name: Cc419A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cc419a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc419a
+  confidence: auto

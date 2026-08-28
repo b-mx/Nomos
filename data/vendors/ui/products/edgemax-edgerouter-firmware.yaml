@@ -1,0 +1,10 @@
+id: edgemax-edgerouter-firmware
+vendor_id: ui
+name: Edgemax Edgerouter Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:edgemax_edgerouter_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgemax_edgerouter_firmware
+  confidence: auto

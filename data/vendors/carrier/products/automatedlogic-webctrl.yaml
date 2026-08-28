@@ -1,0 +1,10 @@
+id: automatedlogic-webctrl
+vendor_id: carrier
+name: Automatedlogic Webctrl
+type: software
+tags: []
+cpe: cpe:2.3:a:carrier:automatedlogic_webctrl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automatedlogic_webctrl
+  confidence: auto

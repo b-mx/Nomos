@@ -1,0 +1,10 @@
+id: jetnet-6628xp-4f-us-firmware
+vendor_id: korenix
+name: Jetnet 6628Xp-4F-Us Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetnet_6628xp\-4f\-us_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_6628xp-4f-us_firmware
+  confidence: auto

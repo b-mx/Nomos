@@ -1,0 +1,10 @@
+id: virtex-ultrascale-vu7p
+vendor_id: amd
+name: Virtex Ultrascale+ Vu7P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:virtex_ultrascale\+_vu7p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtex_ultrascale+_vu7p
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vmware-harbor-registry
+vendor_id: pivotal
+name: Vmware Harbor Registry
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:vmware_harbor_registry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vmware_harbor_registry
+  confidence: auto

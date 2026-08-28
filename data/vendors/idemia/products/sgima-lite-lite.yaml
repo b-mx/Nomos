@@ -1,0 +1,10 @@
+id: sgima-lite-lite
+vendor_id: idemia
+name: Sgima Lite & Lite+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idemia:sgima_lite_\&_lite\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sgima_lite_&_lite+
+  confidence: auto

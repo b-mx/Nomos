@@ -1,0 +1,10 @@
+id: fastify-reply-from
+vendor_id: fastify
+name: Fastify/Reply-From
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:fastify\/reply\-from:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastify/reply-from
+  confidence: auto

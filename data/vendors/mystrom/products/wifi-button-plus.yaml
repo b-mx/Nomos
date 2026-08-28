@@ -1,0 +1,10 @@
+id: wifi-button-plus
+vendor_id: mystrom
+name: Wifi Button Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mystrom:wifi_button_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifi_button_plus
+  confidence: auto

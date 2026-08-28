@@ -1,0 +1,10 @@
+id: eluga-i9-firmware
+vendor_id: panasonic
+name: Eluga I9 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:panasonic:eluga_i9_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eluga_i9_firmware
+  confidence: auto

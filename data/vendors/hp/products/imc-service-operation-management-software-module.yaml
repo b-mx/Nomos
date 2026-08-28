@@ -1,0 +1,10 @@
+id: imc-service-operation-management-software-module
+vendor_id: hp
+name: Imc Service Operation Management Software Module
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:imc_service_operation_management_software_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imc_service_operation_management_software_module
+  confidence: auto

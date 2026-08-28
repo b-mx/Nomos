@@ -1,0 +1,10 @@
+id: nh8091-firmware
+vendor_id: zte
+name: Nh8091 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:nh8091_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nh8091_firmware
+  confidence: auto

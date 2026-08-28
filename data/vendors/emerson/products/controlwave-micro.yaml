@@ -1,0 +1,10 @@
+id: controlwave-micro
+vendor_id: emerson
+name: Controlwave Micro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:controlwave_micro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controlwave_micro
+  confidence: auto

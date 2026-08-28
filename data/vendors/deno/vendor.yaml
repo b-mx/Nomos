@@ -1,0 +1,7 @@
+id: deno
+name: Deno
+cpe: cpe:2.3:*:deno:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deno
+  confidence: auto

@@ -1,0 +1,10 @@
+id: inpost-gallery
+vendor_id: pluginus
+name: Inpost Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:pluginus:inpost_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inpost_gallery
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ti-g160i-firmware
+vendor_id: trendnet
+name: Ti-G160I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:ti\-g160i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ti-g160i_firmware
+  confidence: auto

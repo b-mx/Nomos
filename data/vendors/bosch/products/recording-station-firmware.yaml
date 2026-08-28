@@ -1,0 +1,10 @@
+id: recording-station-firmware
+vendor_id: bosch
+name: Recording Station Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:recording_station_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recording_station_firmware
+  confidence: auto

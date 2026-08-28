@@ -1,0 +1,10 @@
+id: lbp6030w-firmware
+vendor_id: canon
+name: Lbp6030W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:lbp6030w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lbp6030w_firmware
+  confidence: auto

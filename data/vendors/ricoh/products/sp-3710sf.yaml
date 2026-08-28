@@ -1,0 +1,10 @@
+id: sp-3710sf
+vendor_id: ricoh
+name: Sp 3710Sf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_3710sf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_3710sf
+  confidence: auto

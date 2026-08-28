@@ -1,0 +1,10 @@
+id: charlotte-al00a-firmware
+vendor_id: huawei
+name: Charlotte-Al00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:charlotte\-al00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: charlotte-al00a_firmware
+  confidence: auto

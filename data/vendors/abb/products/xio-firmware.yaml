@@ -1,0 +1,10 @@
+id: xio-firmware
+vendor_id: abb
+name: Xio Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:xio_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xio_firmware
+  confidence: auto

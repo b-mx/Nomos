@@ -1,0 +1,10 @@
+id: patrol-agent
+vendor_id: bmc
+name: Patrol Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:patrol_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: patrol_agent
+  confidence: auto

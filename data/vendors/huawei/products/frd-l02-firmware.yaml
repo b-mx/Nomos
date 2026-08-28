@@ -1,0 +1,10 @@
+id: frd-l02-firmware
+vendor_id: huawei
+name: Frd-L02 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:frd\-l02_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frd-l02_firmware
+  confidence: auto

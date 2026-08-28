@@ -1,0 +1,10 @@
+id: clickshare-cse-200-firmware
+vendor_id: barco
+name: Clickshare Cse-200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:barco:clickshare_cse\-200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clickshare_cse-200_firmware
+  confidence: auto

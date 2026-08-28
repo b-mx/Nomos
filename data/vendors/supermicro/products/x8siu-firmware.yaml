@@ -1,0 +1,10 @@
+id: x8siu-firmware
+vendor_id: supermicro
+name: X8Siu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x8siu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x8siu_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wot-api
+vendor_id: neilcochran
+name: Wot-Api
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:wot\-api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wot-api
+  confidence: auto

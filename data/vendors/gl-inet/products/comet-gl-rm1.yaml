@@ -1,0 +1,10 @@
+id: comet-gl-rm1
+vendor_id: gl-inet
+name: Comet Gl-Rm1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:comet_gl\-rm1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comet_gl-rm1
+  confidence: auto

@@ -1,0 +1,7 @@
+id: 3com
+name: 3Com
+cpe: cpe:2.3:*:3com:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3com
+  confidence: auto

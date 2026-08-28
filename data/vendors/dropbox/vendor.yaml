@@ -1,0 +1,7 @@
+id: dropbox
+name: Dropbox
+cpe: cpe:2.3:*:dropbox:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dropbox
+  confidence: auto

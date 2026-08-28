@@ -1,0 +1,10 @@
+id: locom2
+vendor_id: ui
+name: Locom2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:locom2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: locom2
+  confidence: auto

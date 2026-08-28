@@ -1,0 +1,10 @@
+id: lpc55s69jbd100-firmware
+vendor_id: nxp
+name: Lpc55S69Jbd100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:lpc55s69jbd100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lpc55s69jbd100_firmware
+  confidence: auto

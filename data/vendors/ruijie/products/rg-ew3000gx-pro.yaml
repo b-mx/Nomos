@@ -1,0 +1,10 @@
+id: rg-ew3000gx-pro
+vendor_id: ruijie
+name: Rg-Ew3000Gx Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-ew3000gx_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-ew3000gx_pro
+  confidence: auto

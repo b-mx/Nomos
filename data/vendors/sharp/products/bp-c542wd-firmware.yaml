@@ -1,0 +1,10 @@
+id: bp-c542wd-firmware
+vendor_id: sharp
+name: Bp-C542Wd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:bp\-c542wd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bp-c542wd_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: c1-hd-indoor-camera
+vendor_id: foscam
+name: C1 Hd Indoor Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:foscam:c1_hd_indoor_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1_hd_indoor_camera
+  confidence: auto

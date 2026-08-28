@@ -1,0 +1,10 @@
+id: global-link-manager
+vendor_id: hitachi
+name: Global Link Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:global_link_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: global_link_manager
+  confidence: auto

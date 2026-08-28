@@ -1,0 +1,7 @@
+id: beckhoff
+name: Beckhoff
+cpe: cpe:2.3:*:beckhoff:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: beckhoff
+  confidence: auto

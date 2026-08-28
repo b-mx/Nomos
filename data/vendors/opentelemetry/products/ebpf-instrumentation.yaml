@@ -1,0 +1,10 @@
+id: ebpf-instrumentation
+vendor_id: opentelemetry
+name: Ebpf Instrumentation
+type: software
+tags: []
+cpe: cpe:2.3:a:opentelemetry:ebpf_instrumentation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ebpf_instrumentation
+  confidence: auto

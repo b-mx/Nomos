@@ -1,0 +1,10 @@
+id: elasticsearch
+vendor_id: anynines
+name: Elasticsearch
+type: software
+tags: []
+cpe: cpe:2.3:a:anynines:elasticsearch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elasticsearch
+  confidence: auto

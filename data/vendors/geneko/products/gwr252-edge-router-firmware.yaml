@@ -1,0 +1,10 @@
+id: gwr252-edge-router-firmware
+vendor_id: geneko
+name: Gwr252 Edge Router Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:geneko:gwr252_edge_router_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gwr252_edge_router_firmware
+  confidence: auto

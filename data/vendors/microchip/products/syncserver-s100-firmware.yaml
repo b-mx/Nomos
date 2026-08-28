@@ -1,0 +1,10 @@
+id: syncserver-s100-firmware
+vendor_id: microchip
+name: Syncserver S100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:syncserver_s100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: syncserver_s100_firmware
+  confidence: auto

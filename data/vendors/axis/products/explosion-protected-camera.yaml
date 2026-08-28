@@ -1,0 +1,10 @@
+id: explosion-protected-camera
+vendor_id: axis
+name: Explosion-Protected Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:explosion\-protected_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: explosion-protected_camera
+  confidence: auto

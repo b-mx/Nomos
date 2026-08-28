@@ -1,0 +1,10 @@
+id: j3e082-m65
+vendor_id: nxp
+name: J3E082 M65
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:j3e082_m65:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j3e082_m65
+  confidence: auto

@@ -1,0 +1,10 @@
+id: libpeas
+vendor_id: gnome
+name: Libpeas
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:libpeas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libpeas
+  confidence: auto

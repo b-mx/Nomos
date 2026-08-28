@@ -1,0 +1,10 @@
+id: '3810'
+vendor_id: arubanetworks
+name: '3810'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:3810:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '3810'
+  confidence: auto

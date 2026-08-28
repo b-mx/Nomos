@@ -1,0 +1,10 @@
+id: fd114y
+vendor_id: cdatatec
+name: Fd114Y
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cdatatec:fd114y:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd114y
+  confidence: auto

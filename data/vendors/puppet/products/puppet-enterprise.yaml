@@ -1,0 +1,10 @@
+id: puppet-enterprise
+vendor_id: puppet
+name: Puppet Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:puppet_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppet_enterprise
+  confidence: auto

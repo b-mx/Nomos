@@ -1,0 +1,10 @@
+id: m1055-l
+vendor_id: axis
+name: M1055-L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m1055\-l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m1055-l
+  confidence: auto

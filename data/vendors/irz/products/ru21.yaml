@@ -1,0 +1,10 @@
+id: ru21
+vendor_id: irz
+name: Ru21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:irz:ru21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ru21
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rx65n
+vendor_id: renesas
+name: Rx65N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:renesas:rx65n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx65n
+  confidence: auto

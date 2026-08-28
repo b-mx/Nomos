@@ -1,0 +1,10 @@
+id: aruba-cx-6000-12g-r8n89a
+vendor_id: hpe
+name: Aruba Cx 6000 12G (R8N89A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6000_12g_\(r8n89a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6000_12g_(r8n89a)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: myrex24
+vendor_id: helmholz
+name: Myrex24
+type: software
+tags: []
+cpe: cpe:2.3:a:helmholz:myrex24:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: myrex24
+  confidence: auto

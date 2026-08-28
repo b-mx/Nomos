@@ -1,0 +1,10 @@
+id: cloud-foundry-log-cache-release
+vendor_id: pivotal
+name: Cloud Foundry Log Cache Release
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:cloud_foundry_log_cache_release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_log_cache_release
+  confidence: auto

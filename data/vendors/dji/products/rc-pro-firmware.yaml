@@ -1,0 +1,10 @@
+id: rc-pro-firmware
+vendor_id: dji
+name: Rc Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dji:rc_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rc_pro_firmware
+  confidence: auto

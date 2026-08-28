@@ -1,0 +1,10 @@
+id: article-factory-manager
+vendor_id: thephpfactory
+name: Article Factory Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:article_factory_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: article_factory_manager
+  confidence: auto

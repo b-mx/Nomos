@@ -1,0 +1,10 @@
+id: flexidome-outdoor-5100i
+vendor_id: bosch
+name: Flexidome Outdoor 5100I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_outdoor_5100i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_outdoor_5100i
+  confidence: auto

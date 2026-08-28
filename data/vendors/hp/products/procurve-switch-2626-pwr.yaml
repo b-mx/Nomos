@@ -1,0 +1,10 @@
+id: procurve-switch-2626-pwr
+vendor_id: hp
+name: Procurve Switch 2626-Pwr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:procurve_switch_2626\-pwr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: procurve_switch_2626-pwr
+  confidence: auto

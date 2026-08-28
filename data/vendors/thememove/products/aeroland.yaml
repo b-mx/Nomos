@@ -1,0 +1,10 @@
+id: aeroland
+vendor_id: thememove
+name: Aeroland
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:aeroland:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aeroland
+  confidence: auto

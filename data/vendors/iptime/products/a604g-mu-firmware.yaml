@@ -1,0 +1,10 @@
+id: a604g-mu-firmware
+vendor_id: iptime
+name: A604G-Mu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:a604g\-mu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a604g-mu_firmware
+  confidence: auto

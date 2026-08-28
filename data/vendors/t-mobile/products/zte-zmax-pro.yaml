@@ -1,0 +1,10 @@
+id: zte-zmax-pro
+vendor_id: t-mobile
+name: Zte Zmax Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:t\-mobile:zte_zmax_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zte_zmax_pro
+  confidence: auto

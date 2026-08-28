@@ -1,0 +1,10 @@
+id: c1000a
+vendor_id: actiontec
+name: C1000A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:actiontec:c1000a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1000a
+  confidence: auto

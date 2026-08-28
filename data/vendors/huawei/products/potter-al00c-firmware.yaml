@@ -1,0 +1,10 @@
+id: potter-al00c-firmware
+vendor_id: huawei
+name: Potter-Al00C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:potter\-al00c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: potter-al00c_firmware
+  confidence: auto

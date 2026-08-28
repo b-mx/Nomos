@@ -1,0 +1,10 @@
+id: 280-g4-microtower-rom-family-ssid-843c-firmware
+vendor_id: hp
+name: 280 G4 Microtower (Rom Family Ssid 843C) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:280_g4_microtower_\(rom_family_ssid_843c\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 280_g4_microtower_(rom_family_ssid_843c)_firmware
+  confidence: auto

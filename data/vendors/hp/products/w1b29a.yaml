@@ -1,0 +1,10 @@
+id: w1b29a
+vendor_id: hp
+name: W1B29A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:w1b29a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1b29a
+  confidence: auto

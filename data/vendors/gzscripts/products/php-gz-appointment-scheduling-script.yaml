@@ -1,0 +1,10 @@
+id: php-gz-appointment-scheduling-script
+vendor_id: gzscripts
+name: Php Gz Appointment Scheduling Script
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:php_gz_appointment_scheduling_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: php_gz_appointment_scheduling_script
+  confidence: auto

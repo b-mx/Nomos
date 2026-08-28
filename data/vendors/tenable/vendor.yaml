@@ -1,0 +1,7 @@
+id: tenable
+name: Tenable
+cpe: cpe:2.3:*:tenable:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tenable
+  confidence: auto

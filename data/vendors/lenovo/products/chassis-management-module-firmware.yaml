@@ -1,0 +1,10 @@
+id: chassis-management-module-firmware
+vendor_id: lenovo
+name: Chassis Management Module Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:chassis_management_module_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chassis_management_module_firmware
+  confidence: auto

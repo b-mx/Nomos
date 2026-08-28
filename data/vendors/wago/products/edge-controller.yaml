@@ -1,0 +1,10 @@
+id: edge-controller
+vendor_id: wago
+name: Edge Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:edge_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edge_controller
+  confidence: auto

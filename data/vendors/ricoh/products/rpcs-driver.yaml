@@ -1,0 +1,10 @@
+id: rpcs-driver
+vendor_id: ricoh
+name: Rpcs Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:rpcs_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rpcs_driver
+  confidence: auto

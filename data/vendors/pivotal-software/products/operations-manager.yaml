@@ -1,0 +1,10 @@
+id: operations-manager
+vendor_id: pivotal-software
+name: Operations Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:operations_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: operations_manager
+  confidence: auto

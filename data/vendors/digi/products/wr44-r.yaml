@@ -1,0 +1,10 @@
+id: wr44-r
+vendor_id: digi
+name: Wr44 R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:wr44_r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wr44_r
+  confidence: auto

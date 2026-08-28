@@ -1,0 +1,10 @@
+id: '7024'
+vendor_id: arubanetworks
+name: '7024'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:7024:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '7024'
+  confidence: auto

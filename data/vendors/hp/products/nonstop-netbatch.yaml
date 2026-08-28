@@ -1,0 +1,10 @@
+id: nonstop-netbatch
+vendor_id: hp
+name: Nonstop Netbatch
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:nonstop_netbatch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nonstop_netbatch
+  confidence: auto

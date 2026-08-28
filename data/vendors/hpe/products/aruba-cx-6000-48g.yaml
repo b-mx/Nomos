@@ -1,0 +1,10 @@
+id: aruba-cx-6000-48g
+vendor_id: hpe
+name: Aruba Cx 6000 48G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6000_48g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6000_48g
+  confidence: auto

@@ -1,0 +1,10 @@
+id: verix-os
+vendor_id: verifone
+name: Verix Os
+type: os
+tags: []
+cpe: cpe:2.3:o:verifone:verix_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: verix_os
+  confidence: auto

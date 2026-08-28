@@ -1,0 +1,10 @@
+id: ex3000
+vendor_id: exagrid
+name: Ex3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:exagrid:ex3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex3000
+  confidence: auto

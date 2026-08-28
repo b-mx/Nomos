@@ -1,0 +1,10 @@
+id: datagate-mk2
+vendor_id: enttec
+name: Datagate Mk2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:enttec:datagate_mk2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: datagate_mk2
+  confidence: auto

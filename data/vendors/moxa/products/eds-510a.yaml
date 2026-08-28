@@ -1,0 +1,10 @@
+id: eds-510a
+vendor_id: moxa
+name: Eds-510A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:eds\-510a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eds-510a
+  confidence: auto

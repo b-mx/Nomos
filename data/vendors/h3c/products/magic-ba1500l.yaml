@@ -1,0 +1,10 @@
+id: magic-ba1500l
+vendor_id: h3c
+name: Magic Ba1500L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:magic_ba1500l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_ba1500l
+  confidence: auto

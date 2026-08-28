@@ -1,0 +1,10 @@
+id: solar-log-250-firmware
+vendor_id: solar-log
+name: Solar-Log 250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:solar\-log:solar\-log_250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solar-log_250_firmware
+  confidence: auto

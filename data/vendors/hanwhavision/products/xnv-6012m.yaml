@@ -1,0 +1,10 @@
+id: xnv-6012m
+vendor_id: hanwhavision
+name: Xnv-6012M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-6012m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-6012m
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rh20frh100
+vendor_id: mitsubishielectric
+name: Rh20Frh100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rh20frh100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh20frh100
+  confidence: auto

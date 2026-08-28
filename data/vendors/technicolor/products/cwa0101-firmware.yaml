@@ -1,0 +1,10 @@
+id: cwa0101-firmware
+vendor_id: technicolor
+name: Cwa0101 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:cwa0101_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cwa0101_firmware
+  confidence: auto

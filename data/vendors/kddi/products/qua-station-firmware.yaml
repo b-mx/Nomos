@@ -1,0 +1,10 @@
+id: qua-station-firmware
+vendor_id: kddi
+name: Qua Station Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kddi:qua_station_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qua_station_firmware
+  confidence: auto

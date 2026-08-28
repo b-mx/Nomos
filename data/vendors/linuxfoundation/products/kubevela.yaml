@@ -1,0 +1,10 @@
+id: kubevela
+vendor_id: linuxfoundation
+name: Kubevela
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:kubevela:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kubevela
+  confidence: auto

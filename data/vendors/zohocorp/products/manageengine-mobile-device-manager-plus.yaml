@@ -1,0 +1,10 @@
+id: manageengine-mobile-device-manager-plus
+vendor_id: zohocorp
+name: Manageengine Mobile Device Manager Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_mobile_device_manager_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_mobile_device_manager_plus
+  confidence: auto

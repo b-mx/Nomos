@@ -1,0 +1,10 @@
+id: vpn-gateway-3070
+vendor_id: nortel
+name: Vpn Gateway 3070
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:vpn_gateway_3070:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vpn_gateway_3070
+  confidence: auto

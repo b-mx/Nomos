@@ -1,0 +1,10 @@
+id: biplane-forum
+vendor_id: gcspublishing
+name: Biplane Forum
+type: software
+tags: []
+cpe: cpe:2.3:a:gcspublishing:biplane_forum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biplane_forum
+  confidence: auto

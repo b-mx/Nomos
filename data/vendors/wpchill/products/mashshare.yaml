@@ -1,0 +1,10 @@
+id: mashshare
+vendor_id: wpchill
+name: Mashshare
+type: software
+tags: []
+cpe: cpe:2.3:a:wpchill:mashshare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mashshare
+  confidence: auto

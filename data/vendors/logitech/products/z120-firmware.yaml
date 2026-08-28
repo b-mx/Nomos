@@ -1,0 +1,10 @@
+id: z120-firmware
+vendor_id: logitech
+name: Z120 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:logitech:z120_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z120_firmware
+  confidence: auto

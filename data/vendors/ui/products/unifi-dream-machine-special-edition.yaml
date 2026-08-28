@@ -1,0 +1,10 @@
+id: unifi-dream-machine-special-edition
+vendor_id: ui
+name: Unifi Dream Machine Special Edition
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:unifi_dream_machine_special_edition:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_dream_machine_special_edition
+  confidence: auto

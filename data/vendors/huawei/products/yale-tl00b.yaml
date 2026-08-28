@@ -1,0 +1,10 @@
+id: yale-tl00b
+vendor_id: huawei
+name: Yale-Tl00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:yale\-tl00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale-tl00b
+  confidence: auto

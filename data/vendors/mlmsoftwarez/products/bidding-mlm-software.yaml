@@ -1,0 +1,10 @@
+id: bidding-mlm-software
+vendor_id: mlmsoftwarez
+name: Bidding Mlm Software
+type: software
+tags: []
+cpe: cpe:2.3:a:mlmsoftwarez:bidding_mlm_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bidding_mlm_software
+  confidence: auto

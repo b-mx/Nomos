@@ -1,0 +1,10 @@
+id: snom-820
+vendor_id: snom
+name: Snom 820
+type: hardware
+tags: []
+cpe: cpe:2.3:h:snom:snom_820:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snom_820
+  confidence: auto

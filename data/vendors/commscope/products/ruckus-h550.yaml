@@ -1,0 +1,10 @@
+id: ruckus-h550
+vendor_id: commscope
+name: Ruckus H550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:ruckus_h550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_h550
+  confidence: auto

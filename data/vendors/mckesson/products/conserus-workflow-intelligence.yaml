@@ -1,0 +1,10 @@
+id: conserus-workflow-intelligence
+vendor_id: mckesson
+name: Conserus Workflow Intelligence
+type: software
+tags: []
+cpe: cpe:2.3:a:mckesson:conserus_workflow_intelligence:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: conserus_workflow_intelligence
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bsf
+vendor_id: free5gc
+name: Bsf
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:bsf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bsf
+  confidence: auto

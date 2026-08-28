@@ -1,0 +1,10 @@
+id: d8s-pdfs
+vendor_id: democritus
+name: D8S-Pdfs
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-pdfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-pdfs
+  confidence: auto

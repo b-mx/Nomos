@@ -1,0 +1,10 @@
+id: tops-unfold
+vendor_id: trumpf
+name: Tops Unfold
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:tops_unfold:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tops_unfold
+  confidence: auto

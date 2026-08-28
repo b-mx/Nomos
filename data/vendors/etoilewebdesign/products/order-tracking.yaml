@@ -1,0 +1,10 @@
+id: order-tracking
+vendor_id: etoilewebdesign
+name: Order Tracking
+type: software
+tags: []
+cpe: cpe:2.3:a:etoilewebdesign:order_tracking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: order_tracking
+  confidence: auto

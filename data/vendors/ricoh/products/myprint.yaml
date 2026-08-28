@@ -1,0 +1,10 @@
+id: myprint
+vendor_id: ricoh
+name: Myprint
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:myprint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: myprint
+  confidence: auto

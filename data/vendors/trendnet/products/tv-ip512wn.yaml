@@ -1,0 +1,10 @@
+id: tv-ip512wn
+vendor_id: trendnet
+name: Tv-Ip512Wn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tv\-ip512wn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv-ip512wn
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cs1h-cpu67h
+vendor_id: omron
+name: Cs1H-Cpu67H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cs1h\-cpu67h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1h-cpu67h
+  confidence: auto

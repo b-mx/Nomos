@@ -1,0 +1,10 @@
+id: express-4k
+vendor_id: roku
+name: Express 4K+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:roku:express_4k\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: express_4k+
+  confidence: auto

@@ -1,0 +1,10 @@
+id: load-balancer-adc-firmware
+vendor_id: barracuda
+name: Load Balancer Adc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:barracuda:load_balancer_adc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: load_balancer_adc_firmware
+  confidence: auto

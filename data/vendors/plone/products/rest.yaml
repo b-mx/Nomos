@@ -1,0 +1,10 @@
+id: rest
+vendor_id: plone
+name: Rest
+type: software
+tags: []
+cpe: cpe:2.3:a:plone:rest:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rest
+  confidence: auto

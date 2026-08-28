@@ -1,0 +1,10 @@
+id: zxhn-h388x-firmware
+vendor_id: zte
+name: Zxhn H388X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxhn_h388x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxhn_h388x_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: workcentre-pro-65-firmware
+vendor_id: xerox
+name: Workcentre Pro 65 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xerox:workcentre_pro_65_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_pro_65_firmware
+  confidence: auto

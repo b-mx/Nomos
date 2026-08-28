@@ -1,0 +1,10 @@
+id: laserjet-pro-m304-m305-w1a66a-firmware
+vendor_id: hp
+name: Laserjet Pro M304-M305 W1A66A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m304\-m305_w1a66a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m304-m305_w1a66a_firmware
+  confidence: auto

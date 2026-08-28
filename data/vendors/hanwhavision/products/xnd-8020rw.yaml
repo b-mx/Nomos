@@ -1,0 +1,10 @@
+id: xnd-8020rw
+vendor_id: hanwhavision
+name: Xnd-8020Rw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnd\-8020rw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnd-8020rw
+  confidence: auto

@@ -1,0 +1,10 @@
+id: q1
+vendor_id: iptime
+name: Q1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:q1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 20nr
+vendor_id: lenovo
+name: 20Nr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20nr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20nr
+  confidence: auto

@@ -1,0 +1,7 @@
+id: fronius
+name: Fronius
+cpe: cpe:2.3:*:fronius:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fronius
+  confidence: auto

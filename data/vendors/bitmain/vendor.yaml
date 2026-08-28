@@ -1,0 +1,7 @@
+id: bitmain
+name: Bitmain
+cpe: cpe:2.3:*:bitmain:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bitmain
+  confidence: auto

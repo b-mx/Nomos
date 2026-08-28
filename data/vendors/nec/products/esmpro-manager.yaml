@@ -1,0 +1,10 @@
+id: esmpro-manager
+vendor_id: nec
+name: Esmpro Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:esmpro_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esmpro_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: imsecure
+vendor_id: zonelabs
+name: Imsecure
+type: software
+tags: []
+cpe: cpe:2.3:a:zonelabs:imsecure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imsecure
+  confidence: auto

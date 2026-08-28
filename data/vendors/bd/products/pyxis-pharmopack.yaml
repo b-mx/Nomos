@@ -1,0 +1,10 @@
+id: pyxis-pharmopack
+vendor_id: bd
+name: Pyxis Pharmopack
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_pharmopack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_pharmopack
+  confidence: auto

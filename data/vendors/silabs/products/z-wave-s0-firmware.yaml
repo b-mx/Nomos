@@ -1,0 +1,10 @@
+id: z-wave-s0-firmware
+vendor_id: silabs
+name: Z-Wave S0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:silabs:z\-wave_s0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z-wave_s0_firmware
+  confidence: auto

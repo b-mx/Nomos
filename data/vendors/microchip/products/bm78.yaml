@@ -1,0 +1,10 @@
+id: bm78
+vendor_id: microchip
+name: Bm78
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:bm78:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm78
+  confidence: auto

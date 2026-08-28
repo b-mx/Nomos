@@ -1,0 +1,10 @@
+id: bacnet-ip-firmware
+vendor_id: wago
+name: Bacnet/Ip Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:bacnet\/ip_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bacnet/ip_firmware
+  confidence: auto

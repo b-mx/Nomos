@@ -1,0 +1,10 @@
+id: bcpg-fips
+vendor_id: bouncycastle
+name: Bcpg-Fips
+type: software
+tags: []
+cpe: cpe:2.3:a:bouncycastle:bcpg\-fips:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcpg-fips
+  confidence: auto

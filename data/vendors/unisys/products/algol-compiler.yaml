@@ -1,0 +1,10 @@
+id: algol-compiler
+vendor_id: unisys
+name: Algol Compiler
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:algol_compiler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: algol_compiler
+  confidence: auto

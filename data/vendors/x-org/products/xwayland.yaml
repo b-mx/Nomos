@@ -1,0 +1,10 @@
+id: xwayland
+vendor_id: x-org
+name: Xwayland
+type: software
+tags: []
+cpe: cpe:2.3:a:x\.org:xwayland:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xwayland
+  confidence: auto

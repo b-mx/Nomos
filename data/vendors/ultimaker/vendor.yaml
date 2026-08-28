@@ -1,0 +1,7 @@
+id: ultimaker
+name: Ultimaker
+cpe: cpe:2.3:*:ultimaker:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultimaker
+  confidence: auto

@@ -1,0 +1,10 @@
+id: speed-batcher
+vendor_id: marel
+name: Speed Batcher
+type: hardware
+tags: []
+cpe: cpe:2.3:h:marel:speed_batcher:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: speed_batcher
+  confidence: auto

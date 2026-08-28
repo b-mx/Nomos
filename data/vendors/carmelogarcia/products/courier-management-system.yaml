@@ -1,0 +1,10 @@
+id: courier-management-system
+vendor_id: carmelogarcia
+name: Courier Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelogarcia:courier_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: courier_management_system
+  confidence: auto

@@ -1,0 +1,10 @@
+id: internet-security
+vendor_id: avg
+name: Internet Security
+type: software
+tags: []
+cpe: cpe:2.3:a:avg:internet_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet_security
+  confidence: auto

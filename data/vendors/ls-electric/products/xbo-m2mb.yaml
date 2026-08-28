@@ -1,0 +1,10 @@
+id: xbo-m2mb
+vendor_id: ls-electric
+name: Xbo-M2Mb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xbo\-m2mb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbo-m2mb
+  confidence: auto

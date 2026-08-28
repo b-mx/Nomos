@@ -1,0 +1,13 @@
+id: clamav
+vendor_id: clamav
+name: ClamAV
+type: software
+tags: []
+cpe: cpe:2.3:a:clamav:clamav:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: clamav
+  confidence: auto
+- source: nvd
+  value: clamav
+  confidence: auto

@@ -1,0 +1,10 @@
+id: plant-resource-manager
+vendor_id: yokogawa
+name: Plant Resource Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:plant_resource_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plant_resource_manager
+  confidence: auto

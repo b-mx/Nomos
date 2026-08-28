@@ -1,0 +1,10 @@
+id: micrium-os
+vendor_id: silabs
+name: Micrium Os
+type: os
+tags: []
+cpe: cpe:2.3:o:silabs:micrium_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: micrium_os
+  confidence: auto

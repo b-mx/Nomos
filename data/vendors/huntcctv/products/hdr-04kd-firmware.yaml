@@ -1,0 +1,10 @@
+id: hdr-04kd-firmware
+vendor_id: huntcctv
+name: Hdr-04Kd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huntcctv:hdr\-04kd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdr-04kd_firmware
+  confidence: auto

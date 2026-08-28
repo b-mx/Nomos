@@ -1,0 +1,10 @@
+id: desktop-pro-300-g3-firmware
+vendor_id: hp
+name: Desktop Pro 300 G3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:desktop_pro_300_g3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_pro_300_g3_firmware
+  confidence: auto

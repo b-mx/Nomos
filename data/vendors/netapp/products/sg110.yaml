@@ -1,0 +1,10 @@
+id: sg110
+vendor_id: netapp
+name: Sg110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:sg110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg110
+  confidence: auto

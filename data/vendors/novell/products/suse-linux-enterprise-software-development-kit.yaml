@@ -1,0 +1,10 @@
+id: suse-linux-enterprise-software-development-kit
+vendor_id: novell
+name: Suse Linux Enterprise Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:suse_linux_enterprise_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_enterprise_software_development_kit
+  confidence: auto

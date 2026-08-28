@@ -1,0 +1,7 @@
+id: mitsubishi
+name: Mitsubishi
+cpe: cpe:2.3:*:mitsubishi:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mitsubishi
+  confidence: auto

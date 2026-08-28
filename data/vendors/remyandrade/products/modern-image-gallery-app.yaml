@@ -1,0 +1,10 @@
+id: modern-image-gallery-app
+vendor_id: remyandrade
+name: Modern Image Gallery App
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:modern_image_gallery_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modern_image_gallery_app
+  confidence: auto

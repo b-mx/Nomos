@@ -1,0 +1,10 @@
+id: koa-shopify-auth
+vendor_id: shopify
+name: Koa-Shopify-Auth
+type: software
+tags: []
+cpe: cpe:2.3:a:shopify:koa\-shopify\-auth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: koa-shopify-auth
+  confidence: auto

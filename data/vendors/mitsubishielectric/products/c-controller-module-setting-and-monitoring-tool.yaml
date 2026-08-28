@@ -1,0 +1,10 @@
+id: c-controller-module-setting-and-monitoring-tool
+vendor_id: mitsubishielectric
+name: C Controller Module Setting And Monitoring Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:c_controller_module_setting_and_monitoring_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c_controller_module_setting_and_monitoring_tool
+  confidence: auto

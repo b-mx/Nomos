@@ -1,0 +1,10 @@
+id: rv-7f
+vendor_id: mitsubishielectric
+name: Rv-7F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv\-7f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-7f
+  confidence: auto

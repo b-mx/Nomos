@@ -1,0 +1,7 @@
+id: solar-log
+name: Solar-Log
+cpe: cpe:2.3:*:solar\-log:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solar-log
+  confidence: auto

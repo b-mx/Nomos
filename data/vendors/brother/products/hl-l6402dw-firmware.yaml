@@ -1,0 +1,10 @@
+id: hl-l6402dw-firmware
+vendor_id: brother
+name: Hl-L6402Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:hl\-l6402dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hl-l6402dw_firmware
+  confidence: auto

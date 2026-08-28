@@ -1,0 +1,10 @@
+id: mt32
+vendor_id: hp
+name: Mt32
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mt32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt32
+  confidence: auto

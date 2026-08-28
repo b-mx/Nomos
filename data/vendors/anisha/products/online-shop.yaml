@@ -1,0 +1,10 @@
+id: online-shop
+vendor_id: anisha
+name: Online Shop
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:online_shop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_shop
+  confidence: auto

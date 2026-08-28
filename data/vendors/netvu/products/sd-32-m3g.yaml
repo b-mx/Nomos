@@ -1,0 +1,10 @@
+id: sd-32-m3g
+vendor_id: netvu
+name: Sd 32 (M3G)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netvu:sd_32_\(m3g\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd_32_(m3g)
+  confidence: auto

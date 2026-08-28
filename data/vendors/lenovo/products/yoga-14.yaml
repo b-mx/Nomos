@@ -1,0 +1,10 @@
+id: yoga-14
+vendor_id: lenovo
+name: Yoga 14
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yoga_14:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_14
+  confidence: auto

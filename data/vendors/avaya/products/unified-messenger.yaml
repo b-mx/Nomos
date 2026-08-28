@@ -1,0 +1,10 @@
+id: unified-messenger
+vendor_id: avaya
+name: Unified Messenger
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:unified_messenger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unified_messenger
+  confidence: auto

@@ -1,0 +1,10 @@
+id: puppetlabs-mysql
+vendor_id: puppet
+name: Puppetlabs-Mysql
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:puppetlabs\-mysql:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppetlabs-mysql
+  confidence: auto

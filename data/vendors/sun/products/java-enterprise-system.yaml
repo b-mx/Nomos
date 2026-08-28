@@ -1,0 +1,10 @@
+id: java-enterprise-system
+vendor_id: sun
+name: Java Enterprise System
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_enterprise_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_enterprise_system
+  confidence: auto

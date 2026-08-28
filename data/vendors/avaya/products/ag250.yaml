@@ -1,0 +1,10 @@
+id: ag250
+vendor_id: avaya
+name: Ag250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:ag250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ag250
+  confidence: auto

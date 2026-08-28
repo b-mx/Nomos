@@ -1,0 +1,10 @@
+id: optima-cl320i-firmware
+vendor_id: gehealthcare
+name: Optima Cl320I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:optima_cl320i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_cl320i_firmware
+  confidence: auto

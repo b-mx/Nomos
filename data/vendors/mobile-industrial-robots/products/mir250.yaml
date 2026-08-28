@@ -1,0 +1,10 @@
+id: mir250
+vendor_id: mobile-industrial-robots
+name: Mir250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mobile\-industrial\-robots:mir250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mir250
+  confidence: auto

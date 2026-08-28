@@ -1,0 +1,7 @@
+id: pivotal
+name: Pivotal
+cpe: cpe:2.3:*:pivotal:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pivotal
+  confidence: auto

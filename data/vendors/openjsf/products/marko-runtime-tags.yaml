@@ -1,0 +1,10 @@
+id: marko-runtime-tags
+vendor_id: openjsf
+name: Marko/Runtime-Tags
+type: software
+tags: []
+cpe: cpe:2.3:a:openjsf:marko\/runtime\-tags:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: marko/runtime-tags
+  confidence: auto

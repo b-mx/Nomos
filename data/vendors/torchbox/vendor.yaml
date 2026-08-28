@@ -1,0 +1,7 @@
+id: torchbox
+name: Torchbox
+cpe: cpe:2.3:*:torchbox:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: torchbox
+  confidence: auto

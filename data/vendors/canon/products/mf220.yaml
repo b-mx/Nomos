@@ -1,0 +1,10 @@
+id: mf220
+vendor_id: canon
+name: Mf220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:mf220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf220
+  confidence: auto

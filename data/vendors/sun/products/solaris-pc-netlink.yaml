@@ -1,0 +1,10 @@
+id: solaris-pc-netlink
+vendor_id: sun
+name: Solaris Pc Netlink
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:solaris_pc_netlink:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solaris_pc_netlink
+  confidence: auto

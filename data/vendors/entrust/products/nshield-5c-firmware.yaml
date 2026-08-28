@@ -1,0 +1,10 @@
+id: nshield-5c-firmware
+vendor_id: entrust
+name: Nshield 5C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:entrust:nshield_5c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nshield_5c_firmware
+  confidence: auto

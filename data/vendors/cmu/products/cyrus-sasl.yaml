@@ -1,0 +1,10 @@
+id: cyrus-sasl
+vendor_id: cmu
+name: Cyrus-Sasl
+type: software
+tags: []
+cpe: cpe:2.3:a:cmu:cyrus\-sasl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyrus-sasl
+  confidence: auto

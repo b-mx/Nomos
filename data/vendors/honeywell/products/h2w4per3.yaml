@@ -1,0 +1,10 @@
+id: h2w4per3
+vendor_id: honeywell
+name: H2W4Per3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:h2w4per3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h2w4per3
+  confidence: auto

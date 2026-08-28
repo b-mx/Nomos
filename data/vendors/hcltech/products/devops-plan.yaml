@@ -1,0 +1,10 @@
+id: devops-plan
+vendor_id: hcltech
+name: Devops Plan
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:devops_plan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: devops_plan
+  confidence: auto

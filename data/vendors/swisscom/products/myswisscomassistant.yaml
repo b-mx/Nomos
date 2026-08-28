@@ -1,0 +1,10 @@
+id: myswisscomassistant
+vendor_id: swisscom
+name: Myswisscomassistant
+type: software
+tags: []
+cpe: cpe:2.3:a:swisscom:myswisscomassistant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: myswisscomassistant
+  confidence: auto

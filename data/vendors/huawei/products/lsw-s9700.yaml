@@ -1,0 +1,10 @@
+id: lsw-s9700
+vendor_id: huawei
+name: Lsw S9700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:lsw_s9700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lsw_s9700
+  confidence: auto

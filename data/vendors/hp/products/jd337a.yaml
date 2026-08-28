@@ -1,0 +1,10 @@
+id: jd337a
+vendor_id: hp
+name: Jd337A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd337a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd337a
+  confidence: auto

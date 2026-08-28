@@ -1,0 +1,10 @@
+id: x-cpu-31
+vendor_id: hima
+name: X-Cpu 31
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hima:x\-cpu_31:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-cpu_31
+  confidence: auto

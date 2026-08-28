@@ -1,0 +1,10 @@
+id: minimed-paradigm-511-firmware
+vendor_id: medtronic
+name: Minimed Paradigm 511 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:minimed_paradigm_511_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_paradigm_511_firmware
+  confidence: auto

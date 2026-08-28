@@ -1,0 +1,10 @@
+id: contextcapture-viewer
+vendor_id: bentley
+name: Contextcapture Viewer
+type: software
+tags: []
+cpe: cpe:2.3:a:bentley:contextcapture_viewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contextcapture_viewer
+  confidence: auto

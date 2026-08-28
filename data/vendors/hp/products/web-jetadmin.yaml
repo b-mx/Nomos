@@ -1,0 +1,10 @@
+id: web-jetadmin
+vendor_id: hp
+name: Web Jetadmin
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:web_jetadmin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_jetadmin
+  confidence: auto

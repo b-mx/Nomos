@@ -1,0 +1,10 @@
+id: p8-smartphone-firmware
+vendor_id: huawei
+name: P8 Smartphone Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:p8_smartphone_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p8_smartphone_firmware
+  confidence: auto

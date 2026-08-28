@@ -1,0 +1,10 @@
+id: roc809
+vendor_id: emerson
+name: Roc809
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:roc809:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roc809
+  confidence: auto

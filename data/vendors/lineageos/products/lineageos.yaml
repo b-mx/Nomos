@@ -1,0 +1,13 @@
+id: lineageos
+vendor_id: lineageos
+name: LineageOS
+type: os
+tags: []
+cpe: cpe:2.3:o:lineageos:lineageos:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: lineageos
+  confidence: auto
+- source: nvd
+  value: lineageos
+  confidence: auto

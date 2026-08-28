@@ -1,0 +1,10 @@
+id: thinkbook-14-iml
+vendor_id: lenovo
+name: Thinkbook 14-Iml
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkbook_14\-iml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_14-iml
+  confidence: auto

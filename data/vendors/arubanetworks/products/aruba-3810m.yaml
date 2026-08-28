@@ -1,0 +1,10 @@
+id: aruba-3810m
+vendor_id: arubanetworks
+name: Aruba 3810M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:aruba_3810m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_3810m
+  confidence: auto

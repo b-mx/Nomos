@@ -1,0 +1,10 @@
+id: chainpress
+vendor_id: themerex
+name: Chainpress
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:chainpress:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chainpress
+  confidence: auto

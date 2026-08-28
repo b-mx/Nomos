@@ -1,0 +1,10 @@
+id: cmark-gfm
+vendor_id: github
+name: Cmark-Gfm
+type: software
+tags: []
+cpe: cpe:2.3:a:github:cmark\-gfm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmark-gfm
+  confidence: auto

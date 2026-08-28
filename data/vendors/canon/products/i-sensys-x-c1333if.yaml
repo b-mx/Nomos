@@ -1,0 +1,10 @@
+id: i-sensys-x-c1333if
+vendor_id: canon
+name: I-Sensys X C1333If
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:i\-sensys_x_c1333if:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i-sensys_x_c1333if
+  confidence: auto

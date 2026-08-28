@@ -1,0 +1,10 @@
+id: jd666a
+vendor_id: hp
+name: Jd666A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd666a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd666a
+  confidence: auto

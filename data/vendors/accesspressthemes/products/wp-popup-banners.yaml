@@ -1,0 +1,10 @@
+id: wp-popup-banners
+vendor_id: accesspressthemes
+name: Wp Popup Banners
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:wp_popup_banners:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_popup_banners
+  confidence: auto

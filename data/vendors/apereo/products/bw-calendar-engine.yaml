@@ -1,0 +1,10 @@
+id: bw-calendar-engine
+vendor_id: apereo
+name: Bw-Calendar-Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:apereo:bw\-calendar\-engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bw-calendar-engine
+  confidence: auto

@@ -1,0 +1,13 @@
+id: sonarqube-community
+vendor_id: sonarsource
+name: SonarQube Community Build
+type: software
+tags: []
+cpe: cpe:2.3:a:sonarsource:sonarqube:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: sonarqube-community
+  confidence: auto
+- source: nvd
+  value: sonarqube
+  confidence: auto

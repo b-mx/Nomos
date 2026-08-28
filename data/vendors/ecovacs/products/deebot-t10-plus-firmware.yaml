@@ -1,0 +1,10 @@
+id: deebot-t10-plus-firmware
+vendor_id: ecovacs
+name: Deebot T10 Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ecovacs:deebot_t10_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_t10_plus_firmware
+  confidence: auto

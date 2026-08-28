@@ -1,0 +1,10 @@
+id: kity-minder
+vendor_id: baidu
+name: Kity Minder
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:kity_minder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kity_minder
+  confidence: auto

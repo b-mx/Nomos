@@ -1,0 +1,10 @@
+id: sbg941
+vendor_id: motorola
+name: Sbg941
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:sbg941:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sbg941
+  confidence: auto

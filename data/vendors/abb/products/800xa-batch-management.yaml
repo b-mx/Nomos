@@ -1,0 +1,10 @@
+id: 800xa-batch-management
+vendor_id: abb
+name: 800Xa Batch Management
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:800xa_batch_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 800xa_batch_management
+  confidence: auto

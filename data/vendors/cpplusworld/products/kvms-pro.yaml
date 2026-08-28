@@ -1,0 +1,10 @@
+id: kvms-pro
+vendor_id: cpplusworld
+name: Kvms Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:cpplusworld:kvms_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kvms_pro
+  confidence: auto

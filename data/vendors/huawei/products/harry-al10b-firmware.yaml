@@ -1,0 +1,10 @@
+id: harry-al10b-firmware
+vendor_id: huawei
+name: Harry-Al10B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:harry\-al10b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: harry-al10b_firmware
+  confidence: auto

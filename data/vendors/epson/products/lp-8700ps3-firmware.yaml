@@ -1,0 +1,10 @@
+id: lp-8700ps3-firmware
+vendor_id: epson
+name: Lp-8700Ps3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:lp\-8700ps3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-8700ps3_firmware
+  confidence: auto

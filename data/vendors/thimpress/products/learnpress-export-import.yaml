@@ -1,0 +1,10 @@
+id: learnpress-export-import
+vendor_id: thimpress
+name: Learnpress Export Import
+type: software
+tags: []
+cpe: cpe:2.3:a:thimpress:learnpress_export_import:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: learnpress_export_import
+  confidence: auto

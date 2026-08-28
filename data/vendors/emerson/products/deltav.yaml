@@ -1,0 +1,10 @@
+id: deltav
+vendor_id: emerson
+name: Deltav
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:deltav:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deltav
+  confidence: auto

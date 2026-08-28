@@ -1,0 +1,10 @@
+id: news365
+vendor_id: bdtask
+name: News365
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:news365:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: news365
+  confidence: auto

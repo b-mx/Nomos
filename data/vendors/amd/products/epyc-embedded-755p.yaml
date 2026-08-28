@@ -1,0 +1,10 @@
+id: epyc-embedded-755p
+vendor_id: amd
+name: Epyc Embedded 755P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_embedded_755p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_embedded_755p
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flash-player
+vendor_id: macromedia
+name: Flash Player
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:flash_player:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flash_player
+  confidence: auto

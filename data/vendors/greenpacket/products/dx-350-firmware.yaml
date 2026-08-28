@@ -1,0 +1,10 @@
+id: dx-350-firmware
+vendor_id: greenpacket
+name: Dx-350 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:greenpacket:dx\-350_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dx-350_firmware
+  confidence: auto

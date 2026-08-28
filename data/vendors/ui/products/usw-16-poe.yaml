@@ -1,0 +1,10 @@
+id: usw-16-poe
+vendor_id: ui
+name: Usw-16-Poe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:usw\-16\-poe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usw-16-poe
+  confidence: auto

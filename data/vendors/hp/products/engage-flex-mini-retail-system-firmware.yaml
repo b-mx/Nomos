@@ -1,0 +1,10 @@
+id: engage-flex-mini-retail-system-firmware
+vendor_id: hp
+name: Engage Flex Mini Retail System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:engage_flex_mini_retail_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engage_flex_mini_retail_system_firmware
+  confidence: auto

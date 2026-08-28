@@ -1,0 +1,10 @@
+id: flexlogger
+vendor_id: ni
+name: Flexlogger
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:flexlogger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexlogger
+  confidence: auto

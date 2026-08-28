@@ -1,0 +1,10 @@
+id: paris-l21b-firmware
+vendor_id: huawei
+name: Paris-L21B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:paris\-l21b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paris-l21b_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: uap2105-firmware
+vendor_id: huawei
+name: Uap2105 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:uap2105_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uap2105_firmware
+  confidence: auto

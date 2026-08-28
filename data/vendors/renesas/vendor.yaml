@@ -1,0 +1,7 @@
+id: renesas
+name: Renesas
+cpe: cpe:2.3:*:renesas:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: renesas
+  confidence: auto

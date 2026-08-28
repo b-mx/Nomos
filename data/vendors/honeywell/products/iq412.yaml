@@ -1,0 +1,10 @@
+id: iq412
+vendor_id: honeywell
+name: Iq412
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:iq412:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq412
+  confidence: auto

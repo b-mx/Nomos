@@ -1,0 +1,10 @@
+id: profinet-firmware
+vendor_id: pepperl-fuchs
+name: Profinet Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:profinet_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: profinet_firmware
+  confidence: auto

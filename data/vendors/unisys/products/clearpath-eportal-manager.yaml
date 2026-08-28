@@ -1,0 +1,10 @@
+id: clearpath-eportal-manager
+vendor_id: unisys
+name: Clearpath Eportal Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:clearpath_eportal_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clearpath_eportal_manager
+  confidence: auto

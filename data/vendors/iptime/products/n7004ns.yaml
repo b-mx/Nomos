@@ -1,0 +1,10 @@
+id: n7004ns
+vendor_id: iptime
+name: N7004Ns
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:n7004ns:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n7004ns
+  confidence: auto

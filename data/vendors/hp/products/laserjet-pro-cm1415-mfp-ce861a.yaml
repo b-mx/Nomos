@@ -1,0 +1,10 @@
+id: laserjet-pro-cm1415-mfp-ce861a
+vendor_id: hp
+name: Laserjet Pro Cm1415 Mfp Ce861A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_cm1415_mfp_ce861a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_cm1415_mfp_ce861a
+  confidence: auto

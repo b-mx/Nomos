@@ -1,0 +1,10 @@
+id: h80i
+vendor_id: corsair
+name: H80I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:h80i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h80i
+  confidence: auto

@@ -1,0 +1,10 @@
+id: '370'
+vendor_id: hp
+name: '370'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:370:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '370'
+  confidence: auto

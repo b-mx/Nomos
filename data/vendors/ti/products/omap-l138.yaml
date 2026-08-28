@@ -1,0 +1,10 @@
+id: omap-l138
+vendor_id: ti
+name: Omap L138
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:omap_l138:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omap_l138
+  confidence: auto

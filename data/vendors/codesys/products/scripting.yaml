@@ -1,0 +1,10 @@
+id: scripting
+vendor_id: codesys
+name: Scripting
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:scripting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scripting
+  confidence: auto

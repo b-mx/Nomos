@@ -1,0 +1,10 @@
+id: cumilon-isg-600c
+vendor_id: systrome
+name: Cumilon Isg-600C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:systrome:cumilon_isg\-600c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cumilon_isg-600c
+  confidence: auto

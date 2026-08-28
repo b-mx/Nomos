@@ -1,0 +1,10 @@
+id: 520s-14ikb-firmware
+vendor_id: hp
+name: 520S-14Ikb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:520s\-14ikb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 520s-14ikb_firmware
+  confidence: auto

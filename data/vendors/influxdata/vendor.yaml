@@ -1,0 +1,7 @@
+id: influxdata
+name: Influxdata
+cpe: cpe:2.3:*:influxdata:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: influxdata
+  confidence: auto

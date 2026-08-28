@@ -1,0 +1,10 @@
+id: wtc-300hwh
+vendor_id: elecom
+name: Wtc-300Hwh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:wtc\-300hwh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wtc-300hwh
+  confidence: auto

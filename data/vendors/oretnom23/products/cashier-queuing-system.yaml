@@ -1,0 +1,10 @@
+id: cashier-queuing-system
+vendor_id: oretnom23
+name: Cashier Queuing System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:cashier_queuing_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cashier_queuing_system
+  confidence: auto

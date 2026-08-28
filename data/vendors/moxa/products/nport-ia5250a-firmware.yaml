@@ -1,0 +1,10 @@
+id: nport-ia5250a-firmware
+vendor_id: moxa
+name: Nport Ia5250A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_ia5250a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_ia5250a_firmware
+  confidence: auto

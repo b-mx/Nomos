@@ -1,0 +1,10 @@
+id: cm-ad-changer
+vendor_id: cminds
+name: Cm Ad Changer
+type: software
+tags: []
+cpe: cpe:2.3:a:cminds:cm_ad_changer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm_ad_changer
+  confidence: auto

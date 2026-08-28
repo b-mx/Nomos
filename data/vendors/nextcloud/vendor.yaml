@@ -1,0 +1,7 @@
+id: nextcloud
+name: Nextcloud
+cpe: cpe:2.3:*:nextcloud:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextcloud
+  confidence: auto

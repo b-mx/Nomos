@@ -1,0 +1,10 @@
+id: mx-3551-firmware
+vendor_id: sharp
+name: Mx-3551 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-3551_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-3551_firmware
+  confidence: auto

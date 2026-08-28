@@ -1,0 +1,10 @@
+id: weos
+vendor_id: westermo
+name: Weos
+type: os
+tags: []
+cpe: cpe:2.3:o:westermo:weos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: weos
+  confidence: auto

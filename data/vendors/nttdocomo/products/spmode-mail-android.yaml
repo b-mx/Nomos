@@ -1,0 +1,10 @@
+id: spmode-mail-android
+vendor_id: nttdocomo
+name: Spmode Mail Android
+type: software
+tags: []
+cpe: cpe:2.3:a:nttdocomo:spmode_mail_android:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spmode_mail_android
+  confidence: auto

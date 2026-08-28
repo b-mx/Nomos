@@ -1,0 +1,10 @@
+id: ontap-9
+vendor_id: netapp
+name: Ontap 9
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:ontap_9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ontap_9
+  confidence: auto

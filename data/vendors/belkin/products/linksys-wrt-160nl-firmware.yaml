@@ -1,0 +1,10 @@
+id: linksys-wrt-160nl-firmware
+vendor_id: belkin
+name: Linksys Wrt 160Nl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:linksys_wrt_160nl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linksys_wrt_160nl_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a3004-dual-firmware
+vendor_id: iptime
+name: A3004-Dual Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:a3004\-dual_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3004-dual_firmware
+  confidence: auto

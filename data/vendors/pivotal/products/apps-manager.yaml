@@ -1,0 +1,10 @@
+id: apps-manager
+vendor_id: pivotal
+name: Apps Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:apps_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apps_manager
+  confidence: auto

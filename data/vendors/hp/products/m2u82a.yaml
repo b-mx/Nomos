@@ -1,0 +1,10 @@
+id: m2u82a
+vendor_id: hp
+name: M2U82A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m2u82a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2u82a
+  confidence: auto

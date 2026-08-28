@@ -1,0 +1,10 @@
+id: data-synchronizer
+vendor_id: novell
+name: Data Synchronizer
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:data_synchronizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_synchronizer
+  confidence: auto

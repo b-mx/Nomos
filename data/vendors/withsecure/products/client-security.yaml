@@ -1,0 +1,10 @@
+id: client-security
+vendor_id: withsecure
+name: Client Security
+type: software
+tags: []
+cpe: cpe:2.3:a:withsecure:client_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: client_security
+  confidence: auto

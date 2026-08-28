@@ -1,0 +1,10 @@
+id: connectport-lts-32
+vendor_id: digi
+name: Connectport Lts 32
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:connectport_lts_32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connectport_lts_32
+  confidence: auto

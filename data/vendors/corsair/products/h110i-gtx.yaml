@@ -1,0 +1,10 @@
+id: h110i-gtx
+vendor_id: corsair
+name: H110I Gtx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:h110i_gtx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h110i_gtx
+  confidence: auto

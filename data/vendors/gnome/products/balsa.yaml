@@ -1,0 +1,10 @@
+id: balsa
+vendor_id: gnome
+name: Balsa
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:balsa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: balsa
+  confidence: auto

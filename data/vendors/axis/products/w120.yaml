@@ -1,0 +1,10 @@
+id: w120
+vendor_id: axis
+name: W120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:w120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w120
+  confidence: auto

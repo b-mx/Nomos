@@ -1,0 +1,10 @@
+id: spe-420
+vendor_id: hanwhavision
+name: Spe-420
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:spe\-420:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spe-420
+  confidence: auto

@@ -1,0 +1,10 @@
+id: storage-replication-adapter-for-clustered-data-ontap-for-vmware-vsphere
+vendor_id: netapp
+name: Storage Replication Adapter For Clustered Data Ontap For Vmware Vsphere
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:storage_replication_adapter_for_clustered_data_ontap_for_vmware_vsphere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_replication_adapter_for_clustered_data_ontap_for_vmware_vsphere
+  confidence: auto

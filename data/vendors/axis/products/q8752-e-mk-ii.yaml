@@ -1,0 +1,10 @@
+id: q8752-e-mk-ii
+vendor_id: axis
+name: Q8752-E Mk Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q8752\-e_mk_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q8752-e_mk_ii
+  confidence: auto

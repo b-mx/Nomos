@@ -1,0 +1,10 @@
+id: xc4240
+vendor_id: lexmark
+name: Xc4240
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xc4240:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xc4240
+  confidence: auto

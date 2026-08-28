@@ -1,0 +1,10 @@
+id: nec-p801
+vendor_id: sharp
+name: Nec P801
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:nec_p801:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_p801
+  confidence: auto

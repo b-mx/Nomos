@@ -1,0 +1,10 @@
+id: dinion-ip-5000-mp
+vendor_id: bosch
+name: Dinion Ip 5000 Mp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:dinion_ip_5000_mp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_ip_5000_mp
+  confidence: auto

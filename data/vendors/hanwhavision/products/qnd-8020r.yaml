@@ -1,0 +1,10 @@
+id: qnd-8020r
+vendor_id: hanwhavision
+name: Qnd-8020R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:qnd\-8020r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnd-8020r
+  confidence: auto

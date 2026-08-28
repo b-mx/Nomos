@@ -1,0 +1,10 @@
+id: ipcom-ve2-ls-220-firmware
+vendor_id: fujitsu
+name: Ipcom Ve2 Ls 220 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:ipcom_ve2_ls_220_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipcom_ve2_ls_220_firmware
+  confidence: auto

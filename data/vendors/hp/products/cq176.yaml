@@ -1,0 +1,10 @@
+id: cq176
+vendor_id: hp
+name: Cq176
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cq176:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cq176
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aura-orchestration-designer
+vendor_id: avaya
+name: Aura Orchestration Designer
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura_orchestration_designer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_orchestration_designer
+  confidence: auto

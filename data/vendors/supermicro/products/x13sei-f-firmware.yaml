@@ -1,0 +1,10 @@
+id: x13sei-f-firmware
+vendor_id: supermicro
+name: X13Sei-F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x13sei\-f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13sei-f_firmware
+  confidence: auto

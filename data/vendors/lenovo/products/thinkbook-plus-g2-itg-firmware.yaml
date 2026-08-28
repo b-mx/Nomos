@@ -1,0 +1,10 @@
+id: thinkbook-plus-g2-itg-firmware
+vendor_id: lenovo
+name: Thinkbook Plus G2 Itg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkbook_plus_g2_itg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_plus_g2_itg_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: printer-firmware
+vendor_id: lexmark
+name: Printer Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:printer_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: printer_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: changxiang-8-plus
+vendor_id: huawei
+name: Changxiang 8 Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:changxiang_8_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: changxiang_8_plus
+  confidence: auto

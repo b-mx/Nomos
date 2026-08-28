@@ -1,0 +1,10 @@
+id: pyxis-track-and-deliver
+vendor_id: bd
+name: Pyxis Track And Deliver
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_track_and_deliver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_track_and_deliver
+  confidence: auto

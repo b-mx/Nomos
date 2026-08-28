@@ -1,0 +1,10 @@
+id: 380hw6-firmware
+vendor_id: peplink
+name: 380Hw6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:380hw6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 380hw6_firmware
+  confidence: auto

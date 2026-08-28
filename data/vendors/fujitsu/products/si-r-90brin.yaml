@@ -1,0 +1,10 @@
+id: si-r-90brin
+vendor_id: fujitsu
+name: Si-R 90Brin
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:si\-r_90brin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: si-r_90brin
+  confidence: auto

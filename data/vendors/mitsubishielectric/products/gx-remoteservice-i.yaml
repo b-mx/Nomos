@@ -1,0 +1,10 @@
+id: gx-remoteservice-i
+vendor_id: mitsubishielectric
+name: Gx Remoteservice-I
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:gx_remoteservice\-i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gx_remoteservice-i
+  confidence: auto

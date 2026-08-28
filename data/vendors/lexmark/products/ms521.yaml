@@ -1,0 +1,10 @@
+id: ms521
+vendor_id: lexmark
+name: Ms521
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms521:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms521
+  confidence: auto

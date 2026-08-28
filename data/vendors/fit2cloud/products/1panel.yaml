@@ -1,0 +1,10 @@
+id: 1panel
+vendor_id: fit2cloud
+name: 1Panel
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:1panel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1panel
+  confidence: auto

@@ -1,0 +1,10 @@
+id: probook-fortis-g10-firmware
+vendor_id: hp
+name: Probook Fortis G10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:probook_fortis_g10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: probook_fortis_g10_firmware
+  confidence: auto

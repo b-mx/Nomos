@@ -1,0 +1,10 @@
+id: i-mx-6quadplus-firmware
+vendor_id: nxp
+name: I.Mx 6Quadplus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:i\.mx_6quadplus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_6quadplus_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: foreman-azurerm
+vendor_id: theforeman
+name: Foreman Azurerm
+type: software
+tags: []
+cpe: cpe:2.3:a:theforeman:foreman_azurerm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foreman_azurerm
+  confidence: auto

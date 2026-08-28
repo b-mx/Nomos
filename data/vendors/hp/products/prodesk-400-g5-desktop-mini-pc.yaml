@@ -1,0 +1,10 @@
+id: prodesk-400-g5-desktop-mini-pc
+vendor_id: hp
+name: Prodesk 400 G5 Desktop Mini Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_400_g5_desktop_mini_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_400_g5_desktop_mini_pc
+  confidence: auto

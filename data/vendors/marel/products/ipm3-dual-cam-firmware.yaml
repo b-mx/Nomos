@@ -1,0 +1,10 @@
+id: ipm3-dual-cam-firmware
+vendor_id: marel
+name: Ipm3 Dual Cam Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:ipm3_dual_cam_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipm3_dual_cam_firmware
+  confidence: auto

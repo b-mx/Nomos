@@ -1,0 +1,10 @@
+id: thinkserver-rd550-firmware
+vendor_id: lenovo
+name: Thinkserver Rd550 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkserver_rd550_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkserver_rd550_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: itouch-keyboard
+vendor_id: logitech
+name: Itouch Keyboard
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:itouch_keyboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itouch_keyboard
+  confidence: auto

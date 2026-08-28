@@ -1,0 +1,10 @@
+id: wonderware-information-server
+vendor_id: invensys
+name: Wonderware Information Server
+type: software
+tags: []
+cpe: cpe:2.3:a:invensys:wonderware_information_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wonderware_information_server
+  confidence: auto

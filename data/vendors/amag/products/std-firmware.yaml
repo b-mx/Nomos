@@ -1,0 +1,10 @@
+id: std-firmware
+vendor_id: amag
+name: Std Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amag:std_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: std_firmware
+  confidence: auto

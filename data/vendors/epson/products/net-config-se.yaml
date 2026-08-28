@@ -1,0 +1,10 @@
+id: net-config-se
+vendor_id: epson
+name: Net Config Se
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:net_config_se:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: net_config_se
+  confidence: auto

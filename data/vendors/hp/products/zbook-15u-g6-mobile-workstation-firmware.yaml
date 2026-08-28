@@ -1,0 +1,10 @@
+id: zbook-15u-g6-mobile-workstation-firmware
+vendor_id: hp
+name: Zbook 15U G6 Mobile Workstation Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zbook_15u_g6_mobile_workstation_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_15u_g6_mobile_workstation_firmware
+  confidence: auto

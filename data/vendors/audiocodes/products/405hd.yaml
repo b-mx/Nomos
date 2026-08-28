@@ -1,0 +1,10 @@
+id: 405hd
+vendor_id: audiocodes
+name: 405Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:audiocodes:405hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 405hd
+  confidence: auto

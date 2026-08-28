@@ -1,0 +1,10 @@
+id: cc2650
+vendor_id: ti
+name: Cc2650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:cc2650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc2650
+  confidence: auto

@@ -1,0 +1,10 @@
+id: optoopcserver
+vendor_id: opto22
+name: Optoopcserver
+type: software
+tags: []
+cpe: cpe:2.3:a:opto22:optoopcserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optoopcserver
+  confidence: auto

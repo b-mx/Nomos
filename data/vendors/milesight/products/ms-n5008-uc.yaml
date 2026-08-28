@@ -1,0 +1,10 @@
+id: ms-n5008-uc
+vendor_id: milesight
+name: Ms-N5008-Uc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:milesight:ms\-n5008\-uc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms-n5008-uc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: litestation-m5
+vendor_id: ui
+name: Litestation M5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:litestation_m5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: litestation_m5
+  confidence: auto

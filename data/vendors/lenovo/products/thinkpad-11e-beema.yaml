@@ -1,0 +1,10 @@
+id: thinkpad-11e-beema
+vendor_id: lenovo
+name: Thinkpad 11E Beema
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_11e_beema:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_11e_beema
+  confidence: auto

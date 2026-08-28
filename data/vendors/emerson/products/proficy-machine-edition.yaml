@@ -1,0 +1,10 @@
+id: proficy-machine-edition
+vendor_id: emerson
+name: Proficy Machine Edition
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:proficy_machine_edition:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proficy_machine_edition
+  confidence: auto

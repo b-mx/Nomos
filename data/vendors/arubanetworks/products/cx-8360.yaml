@@ -1,0 +1,10 @@
+id: cx-8360
+vendor_id: arubanetworks
+name: Cx 8360
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:cx_8360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx_8360
+  confidence: auto

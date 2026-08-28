@@ -1,0 +1,10 @@
+id: ib8360
+vendor_id: vivotek
+name: Ib8360
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ib8360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib8360
+  confidence: auto

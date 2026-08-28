@@ -1,0 +1,10 @@
+id: 2460-network-dvr
+vendor_id: axis
+name: 2460 Network Dvr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:2460_network_dvr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2460_network_dvr
+  confidence: auto

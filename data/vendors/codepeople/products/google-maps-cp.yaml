@@ -1,0 +1,10 @@
+id: google-maps-cp
+vendor_id: codepeople
+name: Google Maps Cp
+type: software
+tags: []
+cpe: cpe:2.3:a:codepeople:google_maps_cp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: google_maps_cp
+  confidence: auto

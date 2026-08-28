@@ -1,0 +1,10 @@
+id: mtm5500-firmware
+vendor_id: motorola
+name: Mtm5500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:mtm5500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mtm5500_firmware
+  confidence: auto

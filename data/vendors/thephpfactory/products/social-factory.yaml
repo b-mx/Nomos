@@ -1,0 +1,10 @@
+id: social-factory
+vendor_id: thephpfactory
+name: Social Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:social_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: social_factory
+  confidence: auto

@@ -1,0 +1,10 @@
+id: netmodule-router-software
+vendor_id: netmodule
+name: Netmodule Router Software
+type: software
+tags: []
+cpe: cpe:2.3:a:netmodule:netmodule_router_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netmodule_router_software
+  confidence: auto

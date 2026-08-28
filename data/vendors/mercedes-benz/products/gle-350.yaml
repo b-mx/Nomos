@@ -1,0 +1,10 @@
+id: gle-350
+vendor_id: mercedes-benz
+name: Gle 350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mercedes\-benz:gle_350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gle_350
+  confidence: auto

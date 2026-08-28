@@ -1,0 +1,10 @@
+id: ultimaker-s3-firmware
+vendor_id: ultimaker
+name: Ultimaker S3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ultimaker:ultimaker_s3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultimaker_s3_firmware
+  confidence: auto

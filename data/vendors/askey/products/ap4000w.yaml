@@ -1,0 +1,10 @@
+id: ap4000w
+vendor_id: askey
+name: Ap4000W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:askey:ap4000w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap4000w
+  confidence: auto

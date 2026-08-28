@@ -1,0 +1,10 @@
+id: smartlink-hw-dp
+vendor_id: softing
+name: Smartlink Hw-Dp
+type: software
+tags: []
+cpe: cpe:2.3:a:softing:smartlink_hw\-dp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartlink_hw-dp
+  confidence: auto

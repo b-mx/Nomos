@@ -1,0 +1,10 @@
+id: p24v-g4
+vendor_id: hp
+name: P24V G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:p24v_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p24v_g4
+  confidence: auto

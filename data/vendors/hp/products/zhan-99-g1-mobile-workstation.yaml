@@ -1,0 +1,10 @@
+id: zhan-99-g1-mobile-workstation
+vendor_id: hp
+name: Zhan 99 G1 Mobile Workstation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zhan_99_g1_mobile_workstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhan_99_g1_mobile_workstation
+  confidence: auto

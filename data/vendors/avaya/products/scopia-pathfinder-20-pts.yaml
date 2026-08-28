@@ -1,0 +1,10 @@
+id: scopia-pathfinder-20-pts
+vendor_id: avaya
+name: Scopia Pathfinder 20 Pts
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:scopia_pathfinder_20_pts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scopia_pathfinder_20_pts
+  confidence: auto

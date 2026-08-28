@@ -1,0 +1,10 @@
+id: arcreader
+vendor_id: esri
+name: Arcreader
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:arcreader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcreader
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xm5163-firmware
+vendor_id: lexmark
+name: Xm5163 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:xm5163_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm5163_firmware
+  confidence: auto

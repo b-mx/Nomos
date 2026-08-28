@@ -1,0 +1,13 @@
+id: jaeger
+vendor_id: linuxfoundation
+name: Jaeger
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:jaeger:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: jaeger
+  confidence: auto
+- source: nvd
+  value: jaeger
+  confidence: auto

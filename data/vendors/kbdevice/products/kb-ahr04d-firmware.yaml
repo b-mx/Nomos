@@ -1,0 +1,10 @@
+id: kb-ahr04d-firmware
+vendor_id: kbdevice
+name: Kb-Ahr04D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kbdevice:kb\-ahr04d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kb-ahr04d_firmware
+  confidence: auto

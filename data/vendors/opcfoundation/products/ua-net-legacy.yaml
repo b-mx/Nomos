@@ -1,0 +1,10 @@
+id: ua-net-legacy
+vendor_id: opcfoundation
+name: Ua-.Net-Legacy
+type: software
+tags: []
+cpe: cpe:2.3:a:opcfoundation:ua\-\.net\-legacy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ua-.net-legacy
+  confidence: auto

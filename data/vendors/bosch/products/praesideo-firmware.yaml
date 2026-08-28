@@ -1,0 +1,10 @@
+id: praesideo-firmware
+vendor_id: bosch
+name: Praesideo Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:praesideo_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: praesideo_firmware
+  confidence: auto

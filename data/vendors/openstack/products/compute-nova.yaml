@@ -1,0 +1,10 @@
+id: compute-nova
+vendor_id: openstack
+name: Compute (Nova)
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:compute_\(nova\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compute_(nova)
+  confidence: auto

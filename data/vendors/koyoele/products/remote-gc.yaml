@@ -1,0 +1,10 @@
+id: remote-gc
+vendor_id: koyoele
+name: Remote Gc
+type: software
+tags: []
+cpe: cpe:2.3:a:koyoele:remote_gc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_gc
+  confidence: auto

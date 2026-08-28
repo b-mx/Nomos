@@ -1,0 +1,10 @@
+id: xgi-d24b-firmware
+vendor_id: ls-electric
+name: Xgi-D24B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgi\-d24b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgi-d24b_firmware
+  confidence: auto

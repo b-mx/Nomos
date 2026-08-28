@@ -1,0 +1,10 @@
+id: plus-bus-ex
+vendor_id: jtekt
+name: Plus Bus-Ex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:plus_bus\-ex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plus_bus-ex
+  confidence: auto

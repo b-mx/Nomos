@@ -1,0 +1,10 @@
+id: susiaccess
+vendor_id: advantech
+name: Susiaccess
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:susiaccess:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: susiaccess
+  confidence: auto

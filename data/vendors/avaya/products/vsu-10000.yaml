@@ -1,0 +1,10 @@
+id: vsu-10000
+vendor_id: avaya
+name: Vsu 10000
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:vsu_10000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsu_10000
+  confidence: auto

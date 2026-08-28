@@ -1,0 +1,10 @@
+id: wp-erp
+vendor_id: wedevs
+name: Wp Erp
+type: software
+tags: []
+cpe: cpe:2.3:a:wedevs:wp_erp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_erp
+  confidence: auto

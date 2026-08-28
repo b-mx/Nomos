@@ -1,0 +1,10 @@
+id: cp-vnr-3104-firmware
+vendor_id: cpplusworld
+name: Cp-Vnr-3104 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cpplusworld:cp\-vnr\-3104_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp-vnr-3104_firmware
+  confidence: auto

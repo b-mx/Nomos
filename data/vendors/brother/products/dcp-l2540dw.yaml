@@ -1,0 +1,10 @@
+id: dcp-l2540dw
+vendor_id: brother
+name: Dcp-L2540Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-l2540dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-l2540dw
+  confidence: auto

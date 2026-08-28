@@ -1,0 +1,10 @@
+id: polis
+vendor_id: ory
+name: Polis
+type: software
+tags: []
+cpe: cpe:2.3:a:ory:polis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: polis
+  confidence: auto

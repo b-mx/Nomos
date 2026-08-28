@@ -1,0 +1,10 @@
+id: smartax-ma5600t-firmware
+vendor_id: huawei
+name: Smartax Ma5600T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:smartax_ma5600t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartax_ma5600t_firmware
+  confidence: auto

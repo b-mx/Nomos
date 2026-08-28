@@ -1,0 +1,10 @@
+id: sea-tel-116
+vendor_id: cobham
+name: Sea Tel 116
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cobham:sea_tel_116:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sea_tel_116
+  confidence: auto

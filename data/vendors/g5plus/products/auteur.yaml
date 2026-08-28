@@ -1,0 +1,10 @@
+id: auteur
+vendor_id: g5plus
+name: Auteur
+type: software
+tags: []
+cpe: cpe:2.3:a:g5plus:auteur:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: auteur
+  confidence: auto

@@ -1,0 +1,13 @@
+id: haproxy
+vendor_id: haproxy
+name: HAProxy
+type: software
+tags: []
+cpe: cpe:2.3:a:haproxy:haproxy:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: haproxy
+  confidence: auto
+- source: nvd
+  value: haproxy
+  confidence: auto

@@ -1,0 +1,10 @@
+id: com-server-highspeed-isolated
+vendor_id: wut
+name: Com-Server Highspeed Isolated
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wut:com\-server_highspeed_isolated:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: com-server_highspeed_isolated
+  confidence: auto

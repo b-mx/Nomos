@@ -1,0 +1,10 @@
+id: hp-255-g3
+vendor_id: hp
+name: Hp 255 G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_255_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_255_g3
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vl-bpc-1000
+vendor_id: phoenixcontact
+name: Vl Bpc 1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:vl_bpc_1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vl_bpc_1000
+  confidence: auto

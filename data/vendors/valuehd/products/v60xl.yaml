@@ -1,0 +1,10 @@
+id: v60xl
+vendor_id: valuehd
+name: V60Xl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:valuehd:v60xl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v60xl
+  confidence: auto

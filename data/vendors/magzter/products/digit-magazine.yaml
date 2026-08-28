@@ -1,0 +1,10 @@
+id: digit-magazine
+vendor_id: magzter
+name: Digit Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:digit_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: digit_magazine
+  confidence: auto

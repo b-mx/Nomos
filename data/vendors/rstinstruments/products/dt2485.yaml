@@ -1,0 +1,10 @@
+id: dt2485
+vendor_id: rstinstruments
+name: Dt2485
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:dt2485:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt2485
+  confidence: auto

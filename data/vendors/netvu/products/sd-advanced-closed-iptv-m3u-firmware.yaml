@@ -1,0 +1,10 @@
+id: sd-advanced-closed-iptv-m3u-firmware
+vendor_id: netvu
+name: Sd Advanced Closed Iptv (M3U) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netvu:sd_advanced_closed_iptv_\(m3u\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd_advanced_closed_iptv_(m3u)_firmware
+  confidence: auto

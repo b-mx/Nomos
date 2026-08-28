@@ -1,0 +1,10 @@
+id: minimed-paradigm-veo-554cm-firmware
+vendor_id: medtronic
+name: Minimed Paradigm Veo 554Cm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:minimed_paradigm_veo_554cm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_paradigm_veo_554cm_firmware
+  confidence: auto

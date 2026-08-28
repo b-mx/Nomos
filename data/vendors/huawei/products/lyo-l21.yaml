@@ -1,0 +1,10 @@
+id: lyo-l21
+vendor_id: huawei
+name: Lyo-L21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:lyo\-l21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lyo-l21
+  confidence: auto

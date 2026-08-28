@@ -1,0 +1,10 @@
+id: cross-stitch
+vendor_id: neilcochran
+name: Cross-Stitch
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:cross\-stitch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cross-stitch
+  confidence: auto

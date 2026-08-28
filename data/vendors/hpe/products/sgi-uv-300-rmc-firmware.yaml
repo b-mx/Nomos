@@ -1,0 +1,10 @@
+id: sgi-uv-300-rmc-firmware
+vendor_id: hpe
+name: Sgi Uv 300 Rmc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:sgi_uv_300_rmc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sgi_uv_300_rmc_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: system-platform
+vendor_id: aveva
+name: System Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:system_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_platform
+  confidence: auto

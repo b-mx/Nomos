@@ -1,0 +1,10 @@
+id: cc2640
+vendor_id: ti
+name: Cc2640
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:cc2640:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc2640
+  confidence: auto

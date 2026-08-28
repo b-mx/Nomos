@@ -1,0 +1,10 @@
+id: faceted-search-module
+vendor_id: prestashop
+name: Faceted Search Module
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:faceted_search_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: faceted_search_module
+  confidence: auto

@@ -1,0 +1,9 @@
+id: forefront-threat-management-gateway-tmg
+vendor_id: microsoft
+name: Forefront Threat Management Gateway (TMG)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Forefront Threat Management Gateway (TMG)
+  confidence: auto

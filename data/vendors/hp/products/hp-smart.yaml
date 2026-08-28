@@ -1,0 +1,10 @@
+id: hp-smart
+vendor_id: hp
+name: Hp Smart
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:hp_smart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_smart
+  confidence: auto

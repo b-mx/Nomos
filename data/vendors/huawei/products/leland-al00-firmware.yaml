@@ -1,0 +1,10 @@
+id: leland-al00-firmware
+vendor_id: huawei
+name: Leland-Al00 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:leland\-al00_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: leland-al00_firmware
+  confidence: auto

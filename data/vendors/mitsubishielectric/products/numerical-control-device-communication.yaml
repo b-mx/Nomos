@@ -1,0 +1,10 @@
+id: numerical-control-device-communication
+vendor_id: mitsubishielectric
+name: Numerical Control Device Communication
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:numerical_control_device_communication:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: numerical_control_device_communication
+  confidence: auto

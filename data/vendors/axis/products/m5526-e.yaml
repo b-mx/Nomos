@@ -1,0 +1,10 @@
+id: m5526-e
+vendor_id: axis
+name: M5526-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m5526\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m5526-e
+  confidence: auto

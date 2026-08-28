@@ -1,0 +1,10 @@
+id: t100q-firmware
+vendor_id: intelliantech
+name: T100Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelliantech:t100q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t100q_firmware
+  confidence: auto

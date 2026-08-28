@@ -1,0 +1,10 @@
+id: prismaflex
+vendor_id: baxter
+name: Prismaflex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baxter:prismaflex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prismaflex
+  confidence: auto

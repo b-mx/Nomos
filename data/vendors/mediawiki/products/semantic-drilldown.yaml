@@ -1,0 +1,10 @@
+id: semantic-drilldown
+vendor_id: mediawiki
+name: Semantic Drilldown
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:semantic_drilldown:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: semantic_drilldown
+  confidence: auto

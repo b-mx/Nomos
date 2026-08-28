@@ -1,0 +1,10 @@
+id: ch121l-v5
+vendor_id: huawei
+name: Ch121L V5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ch121l_v5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch121l_v5
+  confidence: auto

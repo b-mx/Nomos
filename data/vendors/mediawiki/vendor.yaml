@@ -1,0 +1,7 @@
+id: mediawiki
+name: Mediawiki
+cpe: cpe:2.3:*:mediawiki:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mediawiki
+  confidence: auto

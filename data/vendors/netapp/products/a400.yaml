@@ -1,0 +1,10 @@
+id: a400
+vendor_id: netapp
+name: A400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:a400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a400
+  confidence: auto

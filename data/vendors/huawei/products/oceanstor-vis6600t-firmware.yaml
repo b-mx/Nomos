@@ -1,0 +1,10 @@
+id: oceanstor-vis6600t-firmware
+vendor_id: huawei
+name: Oceanstor Vis6600T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:oceanstor_vis6600t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oceanstor_vis6600t_firmware
+  confidence: auto

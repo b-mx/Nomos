@@ -1,0 +1,10 @@
+id: smart-tank-plus-650-wireless-firmware
+vendor_id: hp
+name: Smart Tank Plus 650 Wireless Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:smart_tank_plus_650_wireless_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_plus_650_wireless_firmware
+  confidence: auto

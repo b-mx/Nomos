@@ -1,0 +1,10 @@
+id: nvr-915-firmware
+vendor_id: planet
+name: Nvr-915 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:planet:nvr\-915_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nvr-915_firmware
+  confidence: auto

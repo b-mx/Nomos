@@ -1,0 +1,10 @@
+id: modem
+vendor_id: vivo
+name: Modem
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivo:modem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modem
+  confidence: auto

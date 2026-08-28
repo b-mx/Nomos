@@ -1,0 +1,10 @@
+id: business-directory-script
+vendor_id: phpjabbers
+name: Business Directory Script
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:business_directory_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_directory_script
+  confidence: auto

@@ -1,0 +1,10 @@
+id: p-dga4001n-firmware
+vendor_id: adbglobal
+name: P.Dga4001N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:adbglobal:p\.dga4001n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p.dga4001n_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: elite-x360-830-g9-firmware
+vendor_id: hp
+name: Elite X360 830 G9 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elite_x360_830_g9_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_x360_830_g9_firmware
+  confidence: auto

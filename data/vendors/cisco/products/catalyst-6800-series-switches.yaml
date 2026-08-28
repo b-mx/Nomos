@@ -1,9 +1,8 @@
 id: catalyst-6800-series-switches
 vendor_id: cisco
 name: Catalyst 6800 Series Switches
-type: hardware
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: Catalyst 6800 Series Switches

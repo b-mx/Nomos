@@ -1,0 +1,10 @@
+id: nport-iaw5150a-12i-o
+vendor_id: moxa
+name: Nport Iaw5150A-12I/O
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_iaw5150a\-12i\/o:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_iaw5150a-12i/o
+  confidence: auto

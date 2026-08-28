@@ -1,0 +1,10 @@
+id: solidworks-edrawings
+vendor_id: 3ds
+name: Solidworks Edrawings
+type: software
+tags: []
+cpe: cpe:2.3:a:3ds:solidworks_edrawings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solidworks_edrawings
+  confidence: auto

@@ -1,0 +1,10 @@
+id: safe
+vendor_id: hidglobal
+name: Safe
+type: software
+tags: []
+cpe: cpe:2.3:a:hidglobal:safe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safe
+  confidence: auto

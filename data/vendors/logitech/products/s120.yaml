@@ -1,0 +1,10 @@
+id: s120
+vendor_id: logitech
+name: S120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:s120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s120
+  confidence: auto

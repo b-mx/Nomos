@@ -1,0 +1,10 @@
+id: optima-xr220amx-firmware
+vendor_id: gehealthcare
+name: Optima Xr220Amx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:optima_xr220amx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_xr220amx_firmware
+  confidence: auto

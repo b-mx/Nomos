@@ -1,0 +1,10 @@
+id: dv-360
+vendor_id: greenpacket
+name: Dv-360
+type: hardware
+tags: []
+cpe: cpe:2.3:h:greenpacket:dv\-360:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dv-360
+  confidence: auto

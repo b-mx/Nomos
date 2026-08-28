@@ -1,0 +1,10 @@
+id: bizhub-266i-firmware
+vendor_id: konicaminolta
+name: Bizhub 266I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:konicaminolta:bizhub_266i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_266i_firmware
+  confidence: auto

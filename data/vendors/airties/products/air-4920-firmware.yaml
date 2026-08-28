@@ -1,0 +1,10 @@
+id: air-4920-firmware
+vendor_id: airties
+name: Air 4920 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airties:air_4920_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air_4920_firmware
+  confidence: auto

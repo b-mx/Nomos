@@ -1,0 +1,10 @@
+id: aruba-cx-10040-s4r58a
+vendor_id: hpe
+name: Aruba Cx 10040 (S4R58A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_10040_\(s4r58a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_10040_(s4r58a)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: athenz
+vendor_id: yahoo
+name: Athenz
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:athenz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athenz
+  confidence: auto

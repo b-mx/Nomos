@@ -1,0 +1,10 @@
+id: hg8045q
+vendor_id: huawei
+name: Hg8045Q
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hg8045q:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg8045q
+  confidence: auto

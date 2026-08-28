@@ -1,0 +1,10 @@
+id: rslogix-emulate-5000-firmware
+vendor_id: rockwellautomation
+name: Rslogix Emulate 5000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:rslogix_emulate_5000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rslogix_emulate_5000_firmware
+  confidence: auto

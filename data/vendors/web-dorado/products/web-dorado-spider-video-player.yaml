@@ -1,0 +1,10 @@
+id: web-dorado-spider-video-player
+vendor_id: web-dorado
+name: Web-Dorado Spider Video Player
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:web\-dorado_spider_video_player:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web-dorado_spider_video_player
+  confidence: auto

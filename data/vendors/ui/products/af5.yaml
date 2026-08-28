@@ -1,0 +1,10 @@
+id: af5
+vendor_id: ui
+name: Af5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:af5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: af5
+  confidence: auto

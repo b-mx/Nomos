@@ -1,0 +1,10 @@
+id: enterprise-server-express
+vendor_id: blackberry
+name: Enterprise Server Express
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:enterprise_server_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_server_express
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nb2710
+vendor_id: netmodule
+name: Nb2710
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:nb2710:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb2710
+  confidence: auto

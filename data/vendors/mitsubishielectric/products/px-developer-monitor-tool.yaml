@@ -1,0 +1,10 @@
+id: px-developer-monitor-tool
+vendor_id: mitsubishielectric
+name: Px Developer/Monitor Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:px_developer\/monitor_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px_developer/monitor_tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cc400w
+vendor_id: synology
+name: Cc400W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synology:cc400w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc400w
+  confidence: auto

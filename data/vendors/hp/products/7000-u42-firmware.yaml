@@ -1,0 +1,10 @@
+id: 7000-u42-firmware
+vendor_id: hp
+name: 7000 U42 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:7000_u42_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 7000_u42_firmware
+  confidence: auto

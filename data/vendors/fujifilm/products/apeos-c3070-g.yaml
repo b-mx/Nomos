@@ -1,0 +1,10 @@
+id: apeos-c3070-g
+vendor_id: fujifilm
+name: Apeos C3070 G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_c3070_g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_c3070_g
+  confidence: auto

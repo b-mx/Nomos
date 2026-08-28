@@ -1,0 +1,10 @@
+id: dota-2
+vendor_id: valvesoftware
+name: Dota 2
+type: software
+tags: []
+cpe: cpe:2.3:a:valvesoftware:dota_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dota_2
+  confidence: auto

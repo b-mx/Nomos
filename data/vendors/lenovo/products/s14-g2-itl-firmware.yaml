@@ -1,0 +1,10 @@
+id: s14-g2-itl-firmware
+vendor_id: lenovo
+name: S14 G2 Itl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s14_g2_itl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s14_g2_itl_firmware
+  confidence: auto

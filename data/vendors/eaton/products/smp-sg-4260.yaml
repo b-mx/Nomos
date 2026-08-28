@@ -1,0 +1,10 @@
+id: smp-sg-4260
+vendor_id: eaton
+name: Smp Sg-4260
+type: hardware
+tags: []
+cpe: cpe:2.3:h:eaton:smp_sg\-4260:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smp_sg-4260
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mediafast-750
+vendor_id: peplink
+name: Mediafast 750
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:mediafast_750:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mediafast_750
+  confidence: auto

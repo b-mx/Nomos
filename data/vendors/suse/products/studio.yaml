@@ -1,0 +1,10 @@
+id: studio
+vendor_id: suse
+name: Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio
+  confidence: auto

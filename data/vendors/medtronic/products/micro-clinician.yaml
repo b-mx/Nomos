@@ -1,0 +1,10 @@
+id: micro-clinician
+vendor_id: medtronic
+name: Micro Clinician
+type: software
+tags: []
+cpe: cpe:2.3:a:medtronic:micro_clinician:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: micro_clinician
+  confidence: auto

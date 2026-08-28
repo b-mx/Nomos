@@ -1,0 +1,10 @@
+id: xl1050-firmware
+vendor_id: trane
+name: Xl1050 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trane:xl1050_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xl1050_firmware
+  confidence: auto

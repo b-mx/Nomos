@@ -1,0 +1,10 @@
+id: s3016
+vendor_id: axis
+name: S3016
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:s3016:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s3016
+  confidence: auto

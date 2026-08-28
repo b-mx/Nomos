@@ -1,0 +1,10 @@
+id: zendservice-amazon
+vendor_id: zend
+name: Zendservice Amazon
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zendservice_amazon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendservice_amazon
+  confidence: auto

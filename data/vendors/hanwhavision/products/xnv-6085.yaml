@@ -1,0 +1,10 @@
+id: xnv-6085
+vendor_id: hanwhavision
+name: Xnv-6085
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-6085:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-6085
+  confidence: auto

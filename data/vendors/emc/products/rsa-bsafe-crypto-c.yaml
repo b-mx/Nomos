@@ -1,0 +1,10 @@
+id: rsa-bsafe-crypto-c
+vendor_id: emc
+name: Rsa Bsafe Crypto-C
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_bsafe_crypto\-c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_bsafe_crypto-c
+  confidence: auto

@@ -1,0 +1,7 @@
+id: meross
+name: Meross
+cpe: cpe:2.3:*:meross:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meross
+  confidence: auto

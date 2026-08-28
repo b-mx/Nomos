@@ -1,0 +1,10 @@
+id: flex-system-x280-x6
+vendor_id: lenovo
+name: Flex System X280 X6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:flex_system_x280_x6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_system_x280_x6
+  confidence: auto

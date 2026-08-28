@@ -1,0 +1,10 @@
+id: flexidome-ip-outdoor-5000-hd
+vendor_id: bosch
+name: Flexidome Ip Outdoor 5000 Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_ip_outdoor_5000_hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_ip_outdoor_5000_hd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flexidome-ip-indoor-4000-ir
+vendor_id: bosch
+name: Flexidome Ip Indoor 4000 Ir
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_ip_indoor_4000_ir:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_ip_indoor_4000_ir
+  confidence: auto

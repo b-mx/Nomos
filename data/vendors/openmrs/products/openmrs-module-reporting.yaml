@@ -1,0 +1,10 @@
+id: openmrs-module-reporting
+vendor_id: openmrs
+name: Openmrs Module Reporting
+type: software
+tags: []
+cpe: cpe:2.3:a:openmrs:openmrs_module_reporting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openmrs_module_reporting
+  confidence: auto

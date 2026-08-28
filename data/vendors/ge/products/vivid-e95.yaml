@@ -1,0 +1,10 @@
+id: vivid-e95
+vendor_id: ge
+name: Vivid E95
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:vivid_e95:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vivid_e95
+  confidence: auto

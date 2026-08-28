@@ -1,0 +1,10 @@
+id: enjoy-5s
+vendor_id: huawei
+name: Enjoy 5S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:enjoy_5s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enjoy_5s
+  confidence: auto

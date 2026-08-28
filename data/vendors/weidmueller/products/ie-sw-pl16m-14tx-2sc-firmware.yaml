@@ -1,0 +1,10 @@
+id: ie-sw-pl16m-14tx-2sc-firmware
+vendor_id: weidmueller
+name: Ie-Sw-Pl16M-14Tx-2Sc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:weidmueller:ie\-sw\-pl16m\-14tx\-2sc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ie-sw-pl16m-14tx-2sc_firmware
+  confidence: auto

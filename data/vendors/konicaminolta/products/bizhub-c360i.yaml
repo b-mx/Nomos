@@ -1,0 +1,10 @@
+id: bizhub-c360i
+vendor_id: konicaminolta
+name: Bizhub C360I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_c360i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c360i
+  confidence: auto

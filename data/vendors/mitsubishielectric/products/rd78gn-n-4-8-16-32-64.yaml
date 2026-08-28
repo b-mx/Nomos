@@ -1,0 +1,10 @@
+id: rd78gn-n-4-8-16-32-64
+vendor_id: mitsubishielectric
+name: Rd78Gn(N=4,8,16,32,64)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rd78gn\(n\=4\,8\,16\,32\,64\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rd78gn(n=4,8,16,32,64)
+  confidence: auto

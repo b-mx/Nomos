@@ -1,0 +1,10 @@
+id: xm5170
+vendor_id: lexmark
+name: Xm5170
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xm5170:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm5170
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wrangler
+vendor_id: suse
+name: Wrangler
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:wrangler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrangler
+  confidence: auto

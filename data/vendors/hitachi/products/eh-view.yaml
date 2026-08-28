@@ -1,0 +1,10 @@
+id: eh-view
+vendor_id: hitachi
+name: Eh-View
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:eh\-view:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eh-view
+  confidence: auto

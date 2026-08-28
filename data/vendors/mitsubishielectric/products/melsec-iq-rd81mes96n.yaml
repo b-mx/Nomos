@@ -1,0 +1,10 @@
+id: melsec-iq-rd81mes96n
+vendor_id: mitsubishielectric
+name: Melsec Iq-Rd81Mes96N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_iq\-rd81mes96n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-rd81mes96n
+  confidence: auto

@@ -1,0 +1,14 @@
+id: memcached
+vendor_id: memcached
+name: Memcached
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:memcached:memcached:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: memcached
+  confidence: auto
+- source: nvd
+  value: memcached
+  confidence: auto

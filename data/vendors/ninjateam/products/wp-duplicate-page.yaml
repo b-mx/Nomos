@@ -1,0 +1,10 @@
+id: wp-duplicate-page
+vendor_id: ninjateam
+name: Wp Duplicate Page
+type: software
+tags: []
+cpe: cpe:2.3:a:ninjateam:wp_duplicate_page:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_duplicate_page
+  confidence: auto

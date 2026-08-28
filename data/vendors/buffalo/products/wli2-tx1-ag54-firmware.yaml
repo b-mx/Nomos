@@ -1,0 +1,10 @@
+id: wli2-tx1-ag54-firmware
+vendor_id: buffalo
+name: Wli2-Tx1-Ag54 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wli2\-tx1\-ag54_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wli2-tx1-ag54_firmware
+  confidence: auto

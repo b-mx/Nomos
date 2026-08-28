@@ -1,0 +1,10 @@
+id: image-vault
+vendor_id: gehealthcare
+name: Image Vault
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:image_vault:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: image_vault
+  confidence: auto

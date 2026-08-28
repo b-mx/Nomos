@@ -1,0 +1,10 @@
+id: mediapad-m3
+vendor_id: huawei
+name: Mediapad M3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:mediapad_m3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mediapad_m3
+  confidence: auto

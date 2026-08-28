@@ -1,0 +1,10 @@
+id: mt45-firmware
+vendor_id: hp
+name: Mt45 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:mt45_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt45_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkcentre-e73-desktop
+vendor_id: lenovo
+name: Thinkcentre E73 Desktop
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_e73_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_e73_desktop
+  confidence: auto

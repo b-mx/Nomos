@@ -1,0 +1,10 @@
+id: thinksystem-hr630x
+vendor_id: lenovo
+name: Thinksystem Hr630X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_hr630x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_hr630x
+  confidence: auto

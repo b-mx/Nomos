@@ -1,0 +1,10 @@
+id: secvest-wireless-control-fube50001
+vendor_id: abus
+name: Secvest Wireless Control Fube50001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abus:secvest_wireless_control_fube50001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secvest_wireless_control_fube50001
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x11sca
+vendor_id: supermicro
+name: X11Sca
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11sca:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sca
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e-350
+vendor_id: mercedes-benz
+name: E 350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mercedes\-benz:e_350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e_350
+  confidence: auto

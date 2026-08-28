@@ -1,0 +1,10 @@
+id: factorytalk-activation
+vendor_id: rockwellautomation
+name: Factorytalk Activation
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:factorytalk_activation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_activation
+  confidence: auto

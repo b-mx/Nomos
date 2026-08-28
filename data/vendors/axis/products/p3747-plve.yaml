@@ -1,0 +1,10 @@
+id: p3747-plve
+vendor_id: axis
+name: P3747-Plve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p3747\-plve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3747-plve
+  confidence: auto

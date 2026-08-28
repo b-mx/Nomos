@@ -1,0 +1,13 @@
+id: kong-gateway
+vendor_id: konghq
+name: Kong Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:konghq:kong_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: kong-gateway
+  confidence: auto
+- source: nvd
+  value: kong_gateway
+  confidence: auto

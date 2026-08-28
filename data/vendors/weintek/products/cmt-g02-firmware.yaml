@@ -1,0 +1,10 @@
+id: cmt-g02-firmware
+vendor_id: weintek
+name: Cmt-G02 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:weintek:cmt\-g02_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt-g02_firmware
+  confidence: auto

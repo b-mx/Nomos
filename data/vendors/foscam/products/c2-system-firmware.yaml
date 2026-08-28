@@ -1,0 +1,10 @@
+id: c2-system-firmware
+vendor_id: foscam
+name: C2 System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:foscam:c2_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c2_system_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laptop-14-bp0xx
+vendor_id: hp
+name: Laptop 14-Bp0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_14\-bp0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_14-bp0xx
+  confidence: auto

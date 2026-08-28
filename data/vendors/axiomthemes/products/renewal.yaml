@@ -1,0 +1,10 @@
+id: renewal
+vendor_id: axiomthemes
+name: Renewal
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:renewal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: renewal
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mf258k-pro-firmware
+vendor_id: zte
+name: Mf258K Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:mf258k_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf258k_pro_firmware
+  confidence: auto

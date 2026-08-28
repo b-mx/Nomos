@@ -1,0 +1,10 @@
+id: hmi
+vendor_id: codesys
+name: Hmi
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:hmi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hmi
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mse-msg-gw-application-e-ltu
+vendor_id: hp
+name: Mse Msg Gw Application E-Ltu
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:mse_msg_gw_application_e\-ltu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mse_msg_gw_application_e-ltu
+  confidence: auto

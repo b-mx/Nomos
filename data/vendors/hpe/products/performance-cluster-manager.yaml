@@ -1,0 +1,10 @@
+id: performance-cluster-manager
+vendor_id: hpe
+name: Performance Cluster Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:performance_cluster_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: performance_cluster_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: v540s-13-firmware
+vendor_id: lenovo
+name: V540S-13 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v540s\-13_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v540s-13_firmware
+  confidence: auto

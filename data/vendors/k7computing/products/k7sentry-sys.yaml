@@ -1,0 +1,10 @@
+id: k7sentry-sys
+vendor_id: k7computing
+name: K7Sentry.Sys
+type: software
+tags: []
+cpe: cpe:2.3:a:k7computing:k7sentry\.sys:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7sentry.sys
+  confidence: auto

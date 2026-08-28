@@ -1,0 +1,10 @@
+id: partiso-electioncampaign
+vendor_id: themerex
+name: Partiso Electioncampaign
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:partiso_electioncampaign:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: partiso_electioncampaign
+  confidence: auto

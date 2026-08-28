@@ -1,0 +1,10 @@
+id: color-laserjet-pro-4201-4203-5hh48a-firmware
+vendor_id: hp
+name: Color Laserjet Pro 4201-4203 5Hh48A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_pro_4201\-4203_5hh48a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_pro_4201-4203_5hh48a_firmware
+  confidence: auto

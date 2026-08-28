@@ -1,0 +1,10 @@
+id: thinkagile-mx3520-h
+vendor_id: lenovo
+name: Thinkagile Mx3520 H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_mx3520_h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_mx3520_h
+  confidence: auto

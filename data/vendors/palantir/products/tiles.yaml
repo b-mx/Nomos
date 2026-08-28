@@ -1,0 +1,10 @@
+id: tiles
+vendor_id: palantir
+name: Tiles
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:tiles:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tiles
+  confidence: auto

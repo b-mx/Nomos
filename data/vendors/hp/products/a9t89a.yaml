@@ -1,0 +1,10 @@
+id: a9t89a
+vendor_id: hp
+name: A9T89A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:a9t89a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a9t89a
+  confidence: auto

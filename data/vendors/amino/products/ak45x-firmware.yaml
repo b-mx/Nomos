@@ -1,0 +1,10 @@
+id: ak45x-firmware
+vendor_id: amino
+name: Ak45X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amino:ak45x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ak45x_firmware
+  confidence: auto

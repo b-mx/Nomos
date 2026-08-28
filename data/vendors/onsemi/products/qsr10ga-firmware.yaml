@@ -1,0 +1,10 @@
+id: qsr10ga-firmware
+vendor_id: onsemi
+name: Qsr10Ga Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:onsemi:qsr10ga_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qsr10ga_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: s8016
+vendor_id: unisoc
+name: S8016
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8016:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8016
+  confidence: auto

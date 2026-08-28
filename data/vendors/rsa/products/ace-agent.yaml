@@ -1,0 +1,10 @@
+id: ace-agent
+vendor_id: rsa
+name: Ace Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:ace_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ace_agent
+  confidence: auto

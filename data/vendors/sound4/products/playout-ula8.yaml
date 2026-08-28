@@ -1,0 +1,10 @@
+id: playout-ula8
+vendor_id: sound4
+name: Playout Ula8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sound4:playout_ula8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: playout_ula8
+  confidence: auto

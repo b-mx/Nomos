@@ -1,0 +1,10 @@
+id: traveler
+vendor_id: hcltech
+name: Traveler
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:traveler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: traveler
+  confidence: auto

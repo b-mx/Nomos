@@ -1,0 +1,10 @@
+id: epson-workforce-wf-2861
+vendor_id: epson
+name: Epson Workforce Wf-2861
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:epson_workforce_wf\-2861:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epson_workforce_wf-2861
+  confidence: auto

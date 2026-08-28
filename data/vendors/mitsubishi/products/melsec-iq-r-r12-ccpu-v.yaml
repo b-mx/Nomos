@@ -1,0 +1,10 @@
+id: melsec-iq-r-r12-ccpu-v
+vendor_id: mitsubishi
+name: Melsec Iq-R R12 Ccpu-V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_iq\-r_r12_ccpu\-v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-r_r12_ccpu-v
+  confidence: auto

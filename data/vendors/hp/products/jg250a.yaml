@@ -1,0 +1,10 @@
+id: jg250a
+vendor_id: hp
+name: Jg250A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg250a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg250a
+  confidence: auto

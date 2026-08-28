@@ -1,0 +1,10 @@
+id: laserjet-managed-mfp-e82560-x3a72a-firmware
+vendor_id: hp
+name: Laserjet Managed Mfp E82560 X3A72A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_mfp_e82560_x3a72a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_mfp_e82560_x3a72a_firmware
+  confidence: auto

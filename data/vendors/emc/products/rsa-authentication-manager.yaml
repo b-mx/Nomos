@@ -1,0 +1,10 @@
+id: rsa-authentication-manager
+vendor_id: emc
+name: Rsa Authentication Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_authentication_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_authentication_manager
+  confidence: auto

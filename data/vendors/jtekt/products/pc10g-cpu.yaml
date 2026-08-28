@@ -1,0 +1,10 @@
+id: pc10g-cpu
+vendor_id: jtekt
+name: Pc10G-Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:pc10g\-cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10g-cpu
+  confidence: auto

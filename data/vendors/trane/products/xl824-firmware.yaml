@@ -1,0 +1,10 @@
+id: xl824-firmware
+vendor_id: trane
+name: Xl824 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trane:xl824_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xl824_firmware
+  confidence: auto

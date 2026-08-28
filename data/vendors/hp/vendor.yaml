@@ -1,0 +1,7 @@
+id: hp
+name: Hp
+cpe: cpe:2.3:*:hp:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp
+  confidence: auto

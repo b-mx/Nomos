@@ -1,0 +1,10 @@
+id: hpb-dashboard
+vendor_id: justsystems
+name: Hpb Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:hpb_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpb_dashboard
+  confidence: auto

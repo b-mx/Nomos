@@ -1,0 +1,10 @@
+id: gz-multi-hotel-booking-system
+vendor_id: gzscripts
+name: Gz Multi Hotel Booking System
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:gz_multi_hotel_booking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gz_multi_hotel_booking_system
+  confidence: auto

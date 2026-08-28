@@ -1,0 +1,10 @@
+id: terminal-handler
+vendor_id: ncr
+name: Terminal Handler
+type: software
+tags: []
+cpe: cpe:2.3:a:ncr:terminal_handler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: terminal_handler
+  confidence: auto

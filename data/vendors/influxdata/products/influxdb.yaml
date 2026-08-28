@@ -1,0 +1,14 @@
+id: influxdb
+vendor_id: influxdata
+name: InfluxDB
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:influxdata:influxdb:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: influxdb
+  confidence: auto
+- source: nvd
+  value: influxdb
+  confidence: auto

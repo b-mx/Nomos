@@ -1,0 +1,10 @@
+id: yck002-firmware
+vendor_id: y-cam
+name: Yck002 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:y\-cam:yck002_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yck002_firmware
+  confidence: auto

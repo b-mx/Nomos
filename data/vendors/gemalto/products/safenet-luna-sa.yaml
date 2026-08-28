@@ -1,0 +1,10 @@
+id: safenet-luna-sa
+vendor_id: gemalto
+name: Safenet Luna Sa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gemalto:safenet_luna_sa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safenet_luna_sa
+  confidence: auto

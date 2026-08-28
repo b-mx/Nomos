@@ -1,0 +1,10 @@
+id: thinkstation-stadia-ggp-120-firmware
+vendor_id: lenovo
+name: Thinkstation Stadia Ggp-120 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkstation_stadia_ggp\-120_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkstation_stadia_ggp-120_firmware
+  confidence: auto

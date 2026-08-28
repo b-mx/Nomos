@@ -1,0 +1,10 @@
+id: q6020-e
+vendor_id: axis
+name: Q6020-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q6020\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q6020-e
+  confidence: auto

@@ -1,0 +1,10 @@
+id: yoga-310-11iap-firmware
+vendor_id: hp
+name: Yoga 310-11Iap Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:yoga_310\-11iap_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_310-11iap_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mss550x-firmware
+vendor_id: meross
+name: Mss550X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meross:mss550x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mss550x_firmware
+  confidence: auto

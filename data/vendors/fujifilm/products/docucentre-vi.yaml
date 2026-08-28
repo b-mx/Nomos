@@ -1,0 +1,10 @@
+id: docucentre-vi
+vendor_id: fujifilm
+name: Docucentre-Vi
+type: software
+tags: []
+cpe: cpe:2.3:a:fujifilm:docucentre\-vi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docucentre-vi
+  confidence: auto

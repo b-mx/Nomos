@@ -1,0 +1,10 @@
+id: e9450-sg
+vendor_id: linksys
+name: E9450-Sg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:e9450\-sg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e9450-sg
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 3xv19a-firmware
+vendor_id: hp
+name: 3Xv19A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:3xv19a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3xv19a_firmware
+  confidence: auto

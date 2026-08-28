@@ -1,0 +1,10 @@
+id: operations-agent
+vendor_id: hp
+name: Operations Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:operations_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: operations_agent
+  confidence: auto

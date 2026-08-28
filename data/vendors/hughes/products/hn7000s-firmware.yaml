@@ -1,0 +1,10 @@
+id: hn7000s-firmware
+vendor_id: hughes
+name: Hn7000S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hughes:hn7000s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hn7000s_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bl-f1200-at1-firmware
+vendor_id: b-link
+name: Bl-F1200 At1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:b\-link:bl\-f1200_at1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-f1200_at1_firmware
+  confidence: auto

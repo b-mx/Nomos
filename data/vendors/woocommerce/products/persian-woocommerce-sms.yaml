@@ -1,0 +1,10 @@
+id: persian-woocommerce-sms
+vendor_id: woocommerce
+name: Persian Woocommerce Sms
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:persian_woocommerce_sms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: persian_woocommerce_sms
+  confidence: auto

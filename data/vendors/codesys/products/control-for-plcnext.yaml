@@ -1,0 +1,10 @@
+id: control-for-plcnext
+vendor_id: codesys
+name: Control For Plcnext
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_for_plcnext:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_for_plcnext
+  confidence: auto

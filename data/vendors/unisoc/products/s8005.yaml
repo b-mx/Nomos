@@ -1,0 +1,10 @@
+id: s8005
+vendor_id: unisoc
+name: S8005
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8005:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8005
+  confidence: auto

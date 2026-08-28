@@ -1,0 +1,10 @@
+id: ideacentre-a340-22icb-all-in-one
+vendor_id: lenovo
+name: Ideacentre A340-22Icb All-In-One
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_a340\-22icb_all\-in\-one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_a340-22icb_all-in-one
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sr7110
+vendor_id: timetoolsltd
+name: Sr7110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:timetoolsltd:sr7110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sr7110
+  confidence: auto

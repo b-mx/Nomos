@@ -1,0 +1,10 @@
+id: car-rental-php-script
+vendor_id: gzscripts
+name: Car Rental Php Script
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:car_rental_php_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: car_rental_php_script
+  confidence: auto

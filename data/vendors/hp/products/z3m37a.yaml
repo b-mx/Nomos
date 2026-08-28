@@ -1,0 +1,10 @@
+id: z3m37a
+vendor_id: hp
+name: Z3M37A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:z3m37a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z3m37a
+  confidence: auto

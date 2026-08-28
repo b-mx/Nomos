@@ -1,0 +1,10 @@
+id: conjur-service-broker
+vendor_id: cyberark
+name: Conjur Service Broker
+type: software
+tags: []
+cpe: cpe:2.3:a:cyberark:conjur_service_broker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: conjur_service_broker
+  confidence: auto

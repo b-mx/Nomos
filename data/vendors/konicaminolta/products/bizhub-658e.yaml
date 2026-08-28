@@ -1,0 +1,10 @@
+id: bizhub-658e
+vendor_id: konicaminolta
+name: Bizhub 658E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_658e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_658e
+  confidence: auto

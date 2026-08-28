@@ -1,0 +1,10 @@
+id: sp008
+vendor_id: sricam
+name: Sp008
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sricam:sp008:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp008
+  confidence: auto

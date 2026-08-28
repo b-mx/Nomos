@@ -1,0 +1,10 @@
+id: network-automation
+vendor_id: hp
+name: Network Automation
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:network_automation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_automation
+  confidence: auto

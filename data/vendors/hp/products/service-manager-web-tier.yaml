@@ -1,0 +1,10 @@
+id: service-manager-web-tier
+vendor_id: hp
+name: Service Manager Web Tier
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:service_manager_web_tier:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_manager_web_tier
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sailor-600-vsat-ku-firmware
+vendor_id: cobham
+name: Sailor 600 Vsat Ku Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cobham:sailor_600_vsat_ku_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sailor_600_vsat_ku_firmware
+  confidence: auto

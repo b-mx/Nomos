@@ -1,0 +1,10 @@
+id: nessus
+vendor_id: tenable
+name: Nessus
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:nessus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nessus
+  confidence: auto

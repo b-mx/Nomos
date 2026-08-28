@@ -1,0 +1,10 @@
+id: hb7908
+vendor_id: hbgk
+name: Hb7908
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hbgk:hb7908:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb7908
+  confidence: auto

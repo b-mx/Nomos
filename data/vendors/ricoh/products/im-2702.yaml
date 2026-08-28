@@ -1,0 +1,10 @@
+id: im-2702
+vendor_id: ricoh
+name: Im 2702
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_2702:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_2702
+  confidence: auto

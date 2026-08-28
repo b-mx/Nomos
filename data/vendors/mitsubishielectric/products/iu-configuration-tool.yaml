@@ -1,0 +1,10 @@
+id: iu-configuration-tool
+vendor_id: mitsubishielectric
+name: Iu Configuration Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:iu_configuration_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iu_configuration_tool
+  confidence: auto

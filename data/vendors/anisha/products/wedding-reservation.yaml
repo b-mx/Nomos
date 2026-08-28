@@ -1,0 +1,10 @@
+id: wedding-reservation
+vendor_id: anisha
+name: Wedding Reservation
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:wedding_reservation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wedding_reservation
+  confidence: auto

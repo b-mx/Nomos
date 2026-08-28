@@ -1,0 +1,10 @@
+id: kio-1m
+vendor_id: tekon
+name: Kio-1M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tekon:kio\-1m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kio-1m
+  confidence: auto

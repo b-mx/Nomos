@@ -1,0 +1,10 @@
+id: rsa-identity-management-and-governance
+vendor_id: emc
+name: Rsa Identity Management And Governance
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_identity_management_and_governance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_identity_management_and_governance
+  confidence: auto

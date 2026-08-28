@@ -1,0 +1,10 @@
+id: boxo
+vendor_id: protocol
+name: Boxo
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:boxo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: boxo
+  confidence: auto

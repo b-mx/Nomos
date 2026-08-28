@@ -1,0 +1,10 @@
+id: ap-300-series-access-points-firmware
+vendor_id: arubanetworks
+name: Ap-300 Series Access Points Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:ap\-300_series_access_points_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-300_series_access_points_firmware
+  confidence: auto

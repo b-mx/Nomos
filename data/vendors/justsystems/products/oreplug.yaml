@@ -1,0 +1,10 @@
+id: oreplug
+vendor_id: justsystems
+name: Oreplug
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:oreplug:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oreplug
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a604g-skylife
+vendor_id: iptime
+name: A604G-Skylife
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a604g\-skylife:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a604g-skylife
+  confidence: auto

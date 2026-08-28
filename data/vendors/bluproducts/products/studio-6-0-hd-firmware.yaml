@@ -1,0 +1,10 @@
+id: studio-6-0-hd-firmware
+vendor_id: bluproducts
+name: Studio 6.0 Hd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bluproducts:studio_6\.0_hd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_6.0_hd_firmware
+  confidence: auto

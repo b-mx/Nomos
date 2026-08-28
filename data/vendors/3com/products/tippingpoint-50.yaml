@@ -1,0 +1,10 @@
+id: tippingpoint-50
+vendor_id: 3com
+name: Tippingpoint 50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:3com:tippingpoint_50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tippingpoint_50
+  confidence: auto

@@ -1,0 +1,10 @@
+id: netiron-cer-2024f-4x-rt
+vendor_id: brocade
+name: Netiron Cer 2024F-4X-Rt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brocade:netiron_cer_2024f\-4x\-rt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netiron_cer_2024f-4x-rt
+  confidence: auto

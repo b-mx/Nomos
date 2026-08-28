@@ -1,0 +1,10 @@
+id: cacheos-ca-sa
+vendor_id: bluecoat
+name: Cacheos Ca Sa
+type: os
+tags: []
+cpe: cpe:2.3:o:bluecoat:cacheos_ca_sa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cacheos_ca_sa
+  confidence: auto

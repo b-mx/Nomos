@@ -1,0 +1,10 @@
+id: securityreporter
+vendor_id: securecomputing
+name: Securityreporter
+type: software
+tags: []
+cpe: cpe:2.3:a:securecomputing:securityreporter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: securityreporter
+  confidence: auto

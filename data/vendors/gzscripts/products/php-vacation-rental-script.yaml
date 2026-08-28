@@ -1,0 +1,10 @@
+id: php-vacation-rental-script
+vendor_id: gzscripts
+name: Php Vacation Rental Script
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:php_vacation_rental_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: php_vacation_rental_script
+  confidence: auto

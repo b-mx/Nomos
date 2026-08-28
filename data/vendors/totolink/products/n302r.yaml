@@ -1,0 +1,10 @@
+id: n302r
+vendor_id: totolink
+name: N302R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:n302r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n302r
+  confidence: auto

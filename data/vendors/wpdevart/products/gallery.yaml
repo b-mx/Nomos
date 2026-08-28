@@ -1,0 +1,10 @@
+id: gallery
+vendor_id: wpdevart
+name: Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:wpdevart:gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gallery
+  confidence: auto

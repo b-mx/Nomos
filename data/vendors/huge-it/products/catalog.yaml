@@ -1,0 +1,10 @@
+id: catalog
+vendor_id: huge-it
+name: Catalog
+type: software
+tags: []
+cpe: cpe:2.3:a:huge\-it:catalog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catalog
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nova-lite-3
+vendor_id: huawei
+name: Nova Lite 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nova_lite_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova_lite_3
+  confidence: auto

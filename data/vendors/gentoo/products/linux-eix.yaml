@@ -1,0 +1,10 @@
+id: linux-eix
+vendor_id: gentoo
+name: Linux Eix
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:linux_eix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_eix
+  confidence: auto

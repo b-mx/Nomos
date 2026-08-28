@@ -1,0 +1,10 @@
+id: mainwp-wordfence-extension
+vendor_id: mainwp
+name: Mainwp Wordfence Extension
+type: software
+tags: []
+cpe: cpe:2.3:a:mainwp:mainwp_wordfence_extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mainwp_wordfence_extension
+  confidence: auto

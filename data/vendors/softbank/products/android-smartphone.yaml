@@ -1,0 +1,10 @@
+id: android-smartphone
+vendor_id: softbank
+name: Android Smartphone
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softbank:android_smartphone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: android_smartphone
+  confidence: auto

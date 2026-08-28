@@ -1,0 +1,10 @@
+id: designjet-t920-cr355a
+vendor_id: hp
+name: Designjet T920 Cr355A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_t920_cr355a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_t920_cr355a
+  confidence: auto

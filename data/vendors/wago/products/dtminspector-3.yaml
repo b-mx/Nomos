@@ -1,0 +1,10 @@
+id: dtminspector-3
+vendor_id: wago
+name: Dtminspector 3
+type: software
+tags: []
+cpe: cpe:2.3:a:wago:dtminspector_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dtminspector_3
+  confidence: auto

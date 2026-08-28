@@ -1,0 +1,10 @@
+id: wp-reset-pro
+vendor_id: webfactoryltd
+name: Wp Reset Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:webfactoryltd:wp_reset_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_reset_pro
+  confidence: auto

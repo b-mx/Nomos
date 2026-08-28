@@ -1,0 +1,10 @@
+id: c7z270cg
+vendor_id: supermicro
+name: C7Z270Cg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:c7z270cg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c7z270cg
+  confidence: auto

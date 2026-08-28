@@ -1,0 +1,10 @@
+id: xr2436
+vendor_id: cambiumnetworks
+name: Xr2436
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cambiumnetworks:xr2436:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xr2436
+  confidence: auto

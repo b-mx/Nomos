@@ -1,0 +1,10 @@
+id: xgl-c22b-firmware
+vendor_id: ls-electric
+name: Xgl-C22B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgl\-c22b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgl-c22b_firmware
+  confidence: auto

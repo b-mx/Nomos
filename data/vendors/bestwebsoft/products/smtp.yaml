@@ -1,0 +1,10 @@
+id: smtp
+vendor_id: bestwebsoft
+name: Smtp
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:smtp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smtp
+  confidence: auto

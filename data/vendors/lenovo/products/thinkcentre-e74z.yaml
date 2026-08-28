@@ -1,0 +1,10 @@
+id: thinkcentre-e74z
+vendor_id: lenovo
+name: Thinkcentre E74Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_e74z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_e74z
+  confidence: auto

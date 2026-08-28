@@ -1,0 +1,10 @@
+id: asset-suite
+vendor_id: hitachienergy
+name: Asset Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:asset_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asset_suite
+  confidence: auto

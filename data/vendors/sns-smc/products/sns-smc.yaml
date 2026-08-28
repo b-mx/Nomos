@@ -1,0 +1,9 @@
+id: sns-smc
+vendor_id: sns-smc
+name: Stormshield Management Center
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: sns-smc
+  confidence: auto

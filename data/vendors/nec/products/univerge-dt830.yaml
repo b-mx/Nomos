@@ -1,0 +1,10 @@
+id: univerge-dt830
+vendor_id: nec
+name: Univerge Dt830
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:univerge_dt830:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: univerge_dt830
+  confidence: auto

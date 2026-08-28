@@ -1,0 +1,10 @@
+id: cp300
+vendor_id: totolink
+name: Cp300+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:cp300\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp300+
+  confidence: auto

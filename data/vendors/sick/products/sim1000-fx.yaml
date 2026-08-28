@@ -1,0 +1,10 @@
+id: sim1000-fx
+vendor_id: sick
+name: Sim1000 Fx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:sim1000_fx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim1000_fx
+  confidence: auto

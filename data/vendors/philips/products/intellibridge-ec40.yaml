@@ -1,0 +1,10 @@
+id: intellibridge-ec40
+vendor_id: philips
+name: Intellibridge Ec40
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:intellibridge_ec40:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellibridge_ec40
+  confidence: auto

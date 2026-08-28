@@ -1,0 +1,10 @@
+id: 290-g4
+vendor_id: hp
+name: 290 G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:290_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 290_g4
+  confidence: auto

@@ -1,0 +1,10 @@
+id: arduino-esp8266
+vendor_id: espressif
+name: Arduino Esp8266
+type: software
+tags: []
+cpe: cpe:2.3:a:espressif:arduino_esp8266:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arduino_esp8266
+  confidence: auto

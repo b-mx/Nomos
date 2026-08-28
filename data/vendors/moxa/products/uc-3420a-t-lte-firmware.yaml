@@ -1,0 +1,10 @@
+id: uc-3420a-t-lte-firmware
+vendor_id: moxa
+name: Uc-3420A-T-Lte Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-3420a\-t\-lte_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-3420a-t-lte_firmware
+  confidence: auto

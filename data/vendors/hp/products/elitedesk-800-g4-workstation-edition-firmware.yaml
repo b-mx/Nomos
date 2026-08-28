@@ -1,0 +1,10 @@
+id: elitedesk-800-g4-workstation-edition-firmware
+vendor_id: hp
+name: Elitedesk 800 G4 Workstation Edition Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitedesk_800_g4_workstation_edition_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitedesk_800_g4_workstation_edition_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: unifi-firmware
+vendor_id: ui
+name: Unifi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:unifi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_firmware
+  confidence: auto

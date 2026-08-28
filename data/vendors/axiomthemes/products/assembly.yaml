@@ -1,0 +1,10 @@
+id: assembly
+vendor_id: axiomthemes
+name: Assembly
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:assembly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: assembly
+  confidence: auto

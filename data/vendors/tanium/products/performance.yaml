@@ -1,0 +1,10 @@
+id: performance
+vendor_id: tanium
+name: Performance
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:performance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: performance
+  confidence: auto

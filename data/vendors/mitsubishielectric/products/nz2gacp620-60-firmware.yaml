@@ -1,0 +1,10 @@
+id: nz2gacp620-60-firmware
+vendor_id: mitsubishielectric
+name: Nz2Gacp620-60 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:nz2gacp620\-60_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nz2gacp620-60_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: omnikey-5427-firmware
+vendor_id: hidglobal
+name: Omnikey 5427 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hidglobal:omnikey_5427_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omnikey_5427_firmware
+  confidence: auto

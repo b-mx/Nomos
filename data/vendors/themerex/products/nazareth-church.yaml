@@ -1,0 +1,10 @@
+id: nazareth-church
+vendor_id: themerex
+name: Nazareth-Church
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:nazareth\-church:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nazareth-church
+  confidence: auto

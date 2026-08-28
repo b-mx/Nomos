@@ -1,0 +1,7 @@
+id: sonarsource
+name: Sonarsource
+cpe: cpe:2.3:*:sonarsource:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sonarsource
+  confidence: auto

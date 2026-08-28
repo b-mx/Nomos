@@ -1,0 +1,10 @@
+id: wip-330-wireless-g-ip-phone
+vendor_id: linksys
+name: Wip 330 Wireless-G Ip Phone
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wip_330_wireless\-g_ip_phone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wip_330_wireless-g_ip_phone
+  confidence: auto

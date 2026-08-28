@@ -1,0 +1,10 @@
+id: laptop-17-by0xxx
+vendor_id: hp
+name: Laptop 17-By0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_17\-by0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_17-by0xxx
+  confidence: auto

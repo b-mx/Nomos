@@ -1,0 +1,9 @@
+id: suse-manager
+vendor_id: suse-manager
+name: SUSE Multi-Linux Manager
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: suse-manager
+  confidence: auto

@@ -2,8 +2,7 @@ id: spring-cloud-configuration-config-server
 vendor_id: vmware-tanzu
 name: Spring Cloud Configuration (Config) Server
 type: software
-tags:
-- framework
+tags: []
 aliases:
 - source: cisa_kev
   value: Spring Cloud Configuration (Config) Server

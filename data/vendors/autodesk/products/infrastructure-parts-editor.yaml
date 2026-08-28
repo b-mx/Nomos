@@ -1,0 +1,10 @@
+id: infrastructure-parts-editor
+vendor_id: autodesk
+name: Infrastructure Parts Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:infrastructure_parts_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infrastructure_parts_editor
+  confidence: auto

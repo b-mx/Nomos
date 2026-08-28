@@ -1,0 +1,10 @@
+id: sbr-ac3200p
+vendor_id: arris
+name: Sbr-Ac3200P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arris:sbr\-ac3200p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sbr-ac3200p
+  confidence: auto

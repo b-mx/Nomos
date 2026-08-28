@@ -1,0 +1,10 @@
+id: uipath-packager-tool-functions
+vendor_id: uipath
+name: Uipath/Packager-Tool-Functions
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/packager\-tool\-functions:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/packager-tool-functions
+  confidence: auto

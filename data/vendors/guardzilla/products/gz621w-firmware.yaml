@@ -1,0 +1,10 @@
+id: gz621w-firmware
+vendor_id: guardzilla
+name: Gz621W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:guardzilla:gz621w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gz621w_firmware
+  confidence: auto

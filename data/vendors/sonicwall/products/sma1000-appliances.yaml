@@ -1,9 +1,8 @@
 id: sma1000-appliances
 vendor_id: sonicwall
 name: SMA1000 Appliances
-type: hardware
+type: software
 tags: []
-icon: simple-icons:sonicwall
 aliases:
 - source: cisa_kev
   value: SMA1000 Appliances

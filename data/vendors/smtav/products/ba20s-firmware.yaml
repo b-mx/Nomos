@@ -1,0 +1,10 @@
+id: ba20s-firmware
+vendor_id: smtav
+name: Ba20S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:smtav:ba20s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ba20s_firmware
+  confidence: auto

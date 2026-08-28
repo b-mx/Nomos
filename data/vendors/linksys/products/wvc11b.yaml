@@ -1,0 +1,10 @@
+id: wvc11b
+vendor_id: linksys
+name: Wvc11B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wvc11b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wvc11b
+  confidence: auto

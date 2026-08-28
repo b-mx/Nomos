@@ -1,0 +1,10 @@
+id: spark
+vendor_id: dji
+name: Spark
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dji:spark:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spark
+  confidence: auto

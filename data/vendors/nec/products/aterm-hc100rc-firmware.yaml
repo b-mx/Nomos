@@ -1,0 +1,10 @@
+id: aterm-hc100rc-firmware
+vendor_id: nec
+name: Aterm Hc100Rc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:aterm_hc100rc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_hc100rc_firmware
+  confidence: auto

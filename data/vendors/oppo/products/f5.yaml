@@ -1,0 +1,10 @@
+id: f5
+vendor_id: oppo
+name: F5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:f5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f5
+  confidence: auto

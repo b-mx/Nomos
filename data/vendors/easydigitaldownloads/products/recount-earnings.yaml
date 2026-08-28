@@ -1,0 +1,10 @@
+id: recount-earnings
+vendor_id: easydigitaldownloads
+name: Recount Earnings
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:recount_earnings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recount_earnings
+  confidence: auto

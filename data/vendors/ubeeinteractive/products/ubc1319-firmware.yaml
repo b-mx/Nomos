@@ -1,0 +1,10 @@
+id: ubc1319-firmware
+vendor_id: ubeeinteractive
+name: Ubc1319 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ubeeinteractive:ubc1319_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubc1319_firmware
+  confidence: auto

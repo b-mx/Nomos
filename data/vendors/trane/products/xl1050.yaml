@@ -1,0 +1,10 @@
+id: xl1050
+vendor_id: trane
+name: Xl1050
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trane:xl1050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xl1050
+  confidence: auto

@@ -1,0 +1,10 @@
+id: j7x28a-firmware
+vendor_id: hp
+name: J7X28A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:j7x28a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j7x28a_firmware
+  confidence: auto

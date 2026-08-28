@@ -1,0 +1,10 @@
+id: flex-5-1470-r-firmware
+vendor_id: lenovo
+name: Flex 5-1470(R) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:flex_5\-1470\(r\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_5-1470(r)_firmware
+  confidence: auto

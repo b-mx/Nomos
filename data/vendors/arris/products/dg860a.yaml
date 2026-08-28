@@ -1,0 +1,10 @@
+id: dg860a
+vendor_id: arris
+name: Dg860A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arris:dg860a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dg860a
+  confidence: auto

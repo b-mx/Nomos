@@ -1,0 +1,10 @@
+id: advanced-material-exchange
+vendor_id: autodesk
+name: Advanced Material Exchange
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:advanced_material_exchange:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_material_exchange
+  confidence: auto

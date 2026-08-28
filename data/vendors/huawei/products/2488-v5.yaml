@@ -1,0 +1,10 @@
+id: 2488-v5
+vendor_id: huawei
+name: 2488 V5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:2488_v5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2488_v5
+  confidence: auto

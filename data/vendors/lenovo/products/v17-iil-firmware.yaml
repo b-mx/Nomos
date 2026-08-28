@@ -1,0 +1,10 @@
+id: v17-iil-firmware
+vendor_id: lenovo
+name: V17-Iil Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v17\-iil_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v17-iil_firmware
+  confidence: auto

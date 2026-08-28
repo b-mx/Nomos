@@ -1,0 +1,10 @@
+id: bu-3026-firmware
+vendor_id: airlive
+name: Bu-3026 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airlive:bu\-3026_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bu-3026_firmware
+  confidence: auto

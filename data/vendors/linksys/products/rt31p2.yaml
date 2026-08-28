@@ -1,0 +1,10 @@
+id: rt31p2
+vendor_id: linksys
+name: Rt31P2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:rt31p2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt31p2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: good-control
+vendor_id: blackberry
+name: Good Control
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:good_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: good_control
+  confidence: auto

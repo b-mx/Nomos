@@ -1,0 +1,10 @@
+id: ew-50e
+vendor_id: mitsubishi
+name: Ew-50E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:ew\-50e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ew-50e
+  confidence: auto

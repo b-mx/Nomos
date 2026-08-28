@@ -1,0 +1,10 @@
+id: aws-s3-crypto-sdk
+vendor_id: amazon
+name: Aws S3 Crypto Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_s3_crypto_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_s3_crypto_sdk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: esaml
+vendor_id: dropbox
+name: Esaml
+type: software
+tags: []
+cpe: cpe:2.3:a:dropbox:esaml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esaml
+  confidence: auto

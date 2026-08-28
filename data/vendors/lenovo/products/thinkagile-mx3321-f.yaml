@@ -1,0 +1,10 @@
+id: thinkagile-mx3321-f
+vendor_id: lenovo
+name: Thinkagile Mx3321 F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_mx3321_f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_mx3321_f
+  confidence: auto

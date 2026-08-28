@@ -1,0 +1,10 @@
+id: big-store
+vendor_id: themehunk
+name: Big Store
+type: software
+tags: []
+cpe: cpe:2.3:a:themehunk:big_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: big_store
+  confidence: auto

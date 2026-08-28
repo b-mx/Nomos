@@ -1,0 +1,10 @@
+id: repurchase-mlm-software
+vendor_id: mlmsoftwarez
+name: Repurchase Mlm Software
+type: software
+tags: []
+cpe: cpe:2.3:a:mlmsoftwarez:repurchase_mlm_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: repurchase_mlm_software
+  confidence: auto

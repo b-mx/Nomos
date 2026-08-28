@@ -1,0 +1,10 @@
+id: hci
+vendor_id: netapp
+name: Hci
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:hci:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hci
+  confidence: auto

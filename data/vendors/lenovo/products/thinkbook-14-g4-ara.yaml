@@ -1,0 +1,10 @@
+id: thinkbook-14-g4-ara
+vendor_id: lenovo
+name: Thinkbook 14 G4+ Ara
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkbook_14_g4\+_ara:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_14_g4+_ara
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x11ssz-qf
+vendor_id: supermicro
+name: X11Ssz-Qf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11ssz\-qf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssz-qf
+  confidence: auto

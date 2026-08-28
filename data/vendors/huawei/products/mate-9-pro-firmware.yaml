@@ -1,0 +1,10 @@
+id: mate-9-pro-firmware
+vendor_id: huawei
+name: Mate 9 Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:mate_9_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mate_9_pro_firmware
+  confidence: auto

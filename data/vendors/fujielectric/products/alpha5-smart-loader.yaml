@@ -1,0 +1,10 @@
+id: alpha5-smart-loader
+vendor_id: fujielectric
+name: Alpha5 Smart Loader
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujielectric:alpha5_smart_loader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alpha5_smart_loader
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ryzen-7-pro-7730u
+vendor_id: amd
+name: Ryzen 7 Pro 7730U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_pro_7730u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_pro_7730u
+  confidence: auto

@@ -1,0 +1,10 @@
+id: intelligent-platforms-proficy-pulse
+vendor_id: ge
+name: Intelligent Platforms Proficy Pulse
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:intelligent_platforms_proficy_pulse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_platforms_proficy_pulse
+  confidence: auto

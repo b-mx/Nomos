@@ -1,0 +1,10 @@
+id: laserjet-enterprise-600-m602-firmware
+vendor_id: hp
+name: Laserjet Enterprise 600 M602 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_enterprise_600_m602_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_600_m602_firmware
+  confidence: auto

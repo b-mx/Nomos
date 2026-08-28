@@ -1,0 +1,10 @@
+id: jg304a
+vendor_id: hp
+name: Jg304A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg304a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg304a
+  confidence: auto

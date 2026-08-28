@@ -1,0 +1,10 @@
+id: sunny-webbox
+vendor_id: sma
+name: Sunny Webbox
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sma:sunny_webbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_webbox
+  confidence: auto

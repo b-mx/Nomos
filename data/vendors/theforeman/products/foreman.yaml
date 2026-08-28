@@ -1,0 +1,13 @@
+id: foreman
+vendor_id: theforeman
+name: Foreman
+type: software
+tags: []
+cpe: cpe:2.3:a:theforeman:foreman:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: foreman
+  confidence: auto
+- source: nvd
+  value: foreman
+  confidence: auto

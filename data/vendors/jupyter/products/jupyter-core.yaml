@@ -1,0 +1,10 @@
+id: jupyter-core
+vendor_id: jupyter
+name: Jupyter Core
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:jupyter_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jupyter_core
+  confidence: auto

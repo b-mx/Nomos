@@ -1,0 +1,10 @@
+id: plant-scada
+vendor_id: aveva
+name: Plant Scada
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:plant_scada:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plant_scada
+  confidence: auto

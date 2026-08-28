@@ -1,0 +1,10 @@
+id: bcr810w-firmware
+vendor_id: ruijienetworks
+name: Bcr810W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijienetworks:bcr810w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcr810w_firmware
+  confidence: auto

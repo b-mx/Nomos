@@ -1,0 +1,10 @@
+id: pro-antivirus
+vendor_id: avast
+name: Pro Antivirus
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:pro_antivirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_antivirus
+  confidence: auto

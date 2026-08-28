@@ -1,0 +1,10 @@
+id: jd675a
+vendor_id: hp
+name: Jd675A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd675a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd675a
+  confidence: auto

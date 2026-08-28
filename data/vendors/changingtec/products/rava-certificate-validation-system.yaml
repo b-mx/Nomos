@@ -1,0 +1,10 @@
+id: rava-certificate-validation-system
+vendor_id: changingtec
+name: Rava Certificate Validation System
+type: software
+tags: []
+cpe: cpe:2.3:a:changingtec:rava_certificate_validation_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rava_certificate_validation_system
+  confidence: auto

@@ -1,0 +1,10 @@
+id: engage-go-10-firmware
+vendor_id: hp
+name: Engage Go 10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:engage_go_10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engage_go_10_firmware
+  confidence: auto

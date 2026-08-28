@@ -1,0 +1,10 @@
+id: true-color
+vendor_id: msi
+name: True Color
+type: software
+tags: []
+cpe: cpe:2.3:a:msi:true_color:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: true_color
+  confidence: auto

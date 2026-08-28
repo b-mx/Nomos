@@ -1,0 +1,10 @@
+id: ecostruxure-control-expert
+vendor_id: se
+name: Ecostruxure Control Expert
+type: software
+tags: []
+cpe: cpe:2.3:a:se:ecostruxure_control_expert:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecostruxure_control_expert
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ads-2400n
+vendor_id: brother
+name: Ads-2400N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:ads\-2400n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ads-2400n
+  confidence: auto

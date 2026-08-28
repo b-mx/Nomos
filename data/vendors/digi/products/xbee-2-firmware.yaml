@@ -1,0 +1,10 @@
+id: xbee-2-firmware
+vendor_id: digi
+name: Xbee 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:xbee_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbee_2_firmware
+  confidence: auto

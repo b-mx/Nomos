@@ -1,0 +1,10 @@
+id: web-management-portal
+vendor_id: arubanetworks
+name: Web Management Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:web_management_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_management_portal
+  confidence: auto

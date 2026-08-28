@@ -1,0 +1,10 @@
+id: wab-s300iw-pd
+vendor_id: elecom
+name: Wab-S300Iw-Pd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:wab\-s300iw\-pd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wab-s300iw-pd
+  confidence: auto

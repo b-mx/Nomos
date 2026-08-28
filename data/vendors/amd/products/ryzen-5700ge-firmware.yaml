@@ -1,0 +1,10 @@
+id: ryzen-5700ge-firmware
+vendor_id: amd
+name: Ryzen 5700Ge Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_5700ge_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5700ge_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x10drd
+vendor_id: supermicro
+name: X10Drd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10drd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drd
+  confidence: auto

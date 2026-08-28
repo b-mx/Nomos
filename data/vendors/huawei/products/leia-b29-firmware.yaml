@@ -1,0 +1,10 @@
+id: leia-b29-firmware
+vendor_id: huawei
+name: Leia-B29 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:leia\-b29_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: leia-b29_firmware
+  confidence: auto

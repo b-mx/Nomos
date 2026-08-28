@@ -1,0 +1,10 @@
+id: requests
+vendor_id: python
+name: Requests
+type: software
+tags: []
+cpe: cpe:2.3:a:python:requests:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: requests
+  confidence: auto

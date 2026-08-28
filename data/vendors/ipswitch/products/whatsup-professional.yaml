@@ -1,0 +1,10 @@
+id: whatsup-professional
+vendor_id: ipswitch
+name: Whatsup Professional
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:whatsup_professional:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whatsup_professional
+  confidence: auto

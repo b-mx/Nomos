@@ -1,0 +1,10 @@
+id: nextgen-api
+vendor_id: netapp
+name: Nextgen Api
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:nextgen_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextgen_api
+  confidence: auto

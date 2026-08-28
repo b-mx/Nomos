@@ -1,0 +1,10 @@
+id: serverview-operations-manager
+vendor_id: fujitsu
+name: Serverview Operations Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:serverview_operations_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: serverview_operations_manager
+  confidence: auto

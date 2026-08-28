@@ -1,0 +1,10 @@
+id: pro-x2-612-g1
+vendor_id: hp
+name: Pro X2 612 G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pro_x2_612_g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_x2_612_g1
+  confidence: auto

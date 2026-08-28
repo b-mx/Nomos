@@ -1,0 +1,10 @@
+id: pavilion-14-g1-notebook-pc
+vendor_id: hp
+name: Pavilion 14 G1 Notebook Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_14_g1_notebook_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_14_g1_notebook_pc
+  confidence: auto

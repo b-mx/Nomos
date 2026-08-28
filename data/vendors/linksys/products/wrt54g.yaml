@@ -1,0 +1,10 @@
+id: wrt54g
+vendor_id: linksys
+name: Wrt54G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wrt54g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrt54g
+  confidence: auto

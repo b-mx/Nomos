@@ -1,0 +1,10 @@
+id: cubefs
+vendor_id: linuxfoundation
+name: Cubefs
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:cubefs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cubefs
+  confidence: auto

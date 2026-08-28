@@ -1,0 +1,10 @@
+id: cr1000
+vendor_id: campbellsci
+name: Cr1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:campbellsci:cr1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cr1000
+  confidence: auto

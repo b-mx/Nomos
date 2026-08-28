@@ -1,0 +1,10 @@
+id: z2-mini-g4-workstation
+vendor_id: hp
+name: Z2 Mini G4 Workstation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:z2_mini_g4_workstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z2_mini_g4_workstation
+  confidence: auto

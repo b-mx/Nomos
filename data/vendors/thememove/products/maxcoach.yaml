@@ -1,0 +1,10 @@
+id: maxcoach
+vendor_id: thememove
+name: Maxcoach
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:maxcoach:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxcoach
+  confidence: auto

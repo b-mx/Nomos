@@ -1,0 +1,10 @@
+id: thinkpad-x12-detachable-gen-1
+vendor_id: lenovo
+name: Thinkpad X12 Detachable Gen 1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x12_detachable_gen_1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x12_detachable_gen_1
+  confidence: auto

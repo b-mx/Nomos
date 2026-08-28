@@ -1,0 +1,10 @@
+id: targetvisu-sl
+vendor_id: codesys
+name: Targetvisu Sl
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:targetvisu_sl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: targetvisu_sl
+  confidence: auto

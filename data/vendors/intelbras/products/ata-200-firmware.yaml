@@ -1,0 +1,10 @@
+id: ata-200-firmware
+vendor_id: intelbras
+name: Ata 200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelbras:ata_200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ata_200_firmware
+  confidence: auto

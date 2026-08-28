@@ -1,0 +1,10 @@
+id: agile-controller-campus-firmware
+vendor_id: huawei
+name: Agile Controller-Campus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:agile_controller\-campus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: agile_controller-campus_firmware
+  confidence: auto

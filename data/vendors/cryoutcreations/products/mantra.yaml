@@ -1,0 +1,10 @@
+id: mantra
+vendor_id: cryoutcreations
+name: Mantra
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:mantra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mantra
+  confidence: auto

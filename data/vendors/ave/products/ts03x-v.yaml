@@ -1,0 +1,10 @@
+id: ts03x-v
+vendor_id: ave
+name: Ts03X-V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ave:ts03x\-v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts03x-v
+  confidence: auto

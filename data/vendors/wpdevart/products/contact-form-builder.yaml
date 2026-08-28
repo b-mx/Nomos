@@ -1,0 +1,10 @@
+id: contact-form-builder
+vendor_id: wpdevart
+name: Contact Form Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:wpdevart:contact_form_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contact_form_builder
+  confidence: auto

@@ -1,0 +1,7 @@
+id: debian
+name: Debian
+cpe: cpe:2.3:*:debian:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: debian
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mini-2
+vendor_id: dji
+name: Mini 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dji:mini_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mini_2
+  confidence: auto

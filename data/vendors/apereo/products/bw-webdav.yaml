@@ -1,0 +1,10 @@
+id: bw-webdav
+vendor_id: apereo
+name: Bw-Webdav
+type: software
+tags: []
+cpe: cpe:2.3:a:apereo:bw\-webdav:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bw-webdav
+  confidence: auto

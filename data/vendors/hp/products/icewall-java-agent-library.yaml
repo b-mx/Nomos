@@ -1,0 +1,10 @@
+id: icewall-java-agent-library
+vendor_id: hp
+name: Icewall Java Agent Library
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:icewall_java_agent_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icewall_java_agent_library
+  confidence: auto

@@ -1,0 +1,10 @@
+id: armor-powerflex
+vendor_id: rockwellautomation
+name: Armor Powerflex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:armor_powerflex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: armor_powerflex
+  confidence: auto

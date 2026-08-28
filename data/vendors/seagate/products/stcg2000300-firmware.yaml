@@ -1,0 +1,10 @@
+id: stcg2000300-firmware
+vendor_id: seagate
+name: Stcg2000300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seagate:stcg2000300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stcg2000300_firmware
+  confidence: auto

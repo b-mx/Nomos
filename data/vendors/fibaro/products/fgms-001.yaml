@@ -1,0 +1,10 @@
+id: fgms-001
+vendor_id: fibaro
+name: Fgms-001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fibaro:fgms\-001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fgms-001
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wl-system-access-point-127v
+vendor_id: abb
+name: Wl-System Access Point 127V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:wl\-system_access_point_127v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-system_access_point_127v
+  confidence: auto

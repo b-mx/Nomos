@@ -1,0 +1,10 @@
+id: wr31-firmware
+vendor_id: digi
+name: Wr31 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:wr31_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wr31_firmware
+  confidence: auto

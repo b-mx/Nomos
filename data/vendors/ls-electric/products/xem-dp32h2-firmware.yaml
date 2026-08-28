@@ -1,0 +1,10 @@
+id: xem-dp32h2-firmware
+vendor_id: ls-electric
+name: Xem-Dp32H2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xem\-dp32h2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xem-dp32h2_firmware
+  confidence: auto

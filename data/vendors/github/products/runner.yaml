@@ -1,0 +1,10 @@
+id: runner
+vendor_id: github
+name: Runner
+type: software
+tags: []
+cpe: cpe:2.3:a:github:runner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: runner
+  confidence: auto

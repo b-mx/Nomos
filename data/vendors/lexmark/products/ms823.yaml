@@ -1,0 +1,10 @@
+id: ms823
+vendor_id: lexmark
+name: Ms823
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms823:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms823
+  confidence: auto

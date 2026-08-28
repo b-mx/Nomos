@@ -1,0 +1,10 @@
+id: series-35i-b
+vendor_id: fanuc
+name: Series 35I-B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:series_35i\-b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: series_35i-b
+  confidence: auto

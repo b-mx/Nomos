@@ -1,0 +1,10 @@
+id: it9388-ht
+vendor_id: vivotek
+name: It9388-Ht
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:it9388\-ht:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: it9388-ht
+  confidence: auto

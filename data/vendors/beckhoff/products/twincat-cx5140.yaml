@@ -1,0 +1,10 @@
+id: twincat-cx5140
+vendor_id: beckhoff
+name: Twincat Cx5140
+type: hardware
+tags: []
+cpe: cpe:2.3:h:beckhoff:twincat_cx5140:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twincat_cx5140
+  confidence: auto

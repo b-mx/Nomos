@@ -1,0 +1,10 @@
+id: cp1w-ts001
+vendor_id: omron
+name: Cp1W-Ts001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp1w\-ts001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-ts001
+  confidence: auto

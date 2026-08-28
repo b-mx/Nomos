@@ -1,0 +1,10 @@
+id: tourist-reservation-system
+vendor_id: razormist
+name: Tourist Reservation System
+type: software
+tags: []
+cpe: cpe:2.3:a:razormist:tourist_reservation_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tourist_reservation_system
+  confidence: auto

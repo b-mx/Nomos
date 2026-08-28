@@ -1,0 +1,10 @@
+id: video-software-development-kit
+vendor_id: zoom
+name: Video Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:video_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_software_development_kit
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lgate-50
+vendor_id: locusenergy
+name: Lgate 50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:locusenergy:lgate_50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lgate_50
+  confidence: auto

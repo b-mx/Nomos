@@ -1,0 +1,10 @@
+id: sensorx13-qc-flow-line
+vendor_id: marel
+name: Sensorx13 Qc Flow Line
+type: hardware
+tags: []
+cpe: cpe:2.3:h:marel:sensorx13_qc_flow_line:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensorx13_qc_flow_line
+  confidence: auto

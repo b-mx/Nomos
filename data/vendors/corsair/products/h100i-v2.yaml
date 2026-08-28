@@ -1,0 +1,10 @@
+id: h100i-v2
+vendor_id: corsair
+name: H100I V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:h100i_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h100i_v2
+  confidence: auto

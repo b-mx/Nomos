@@ -1,0 +1,10 @@
+id: a1710-b
+vendor_id: axis
+name: A1710-B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:a1710\-b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1710-b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: l35e
+vendor_id: rockwellautomation
+name: L35E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:l35e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l35e
+  confidence: auto

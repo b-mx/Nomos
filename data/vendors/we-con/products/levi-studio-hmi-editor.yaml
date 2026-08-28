@@ -1,0 +1,10 @@
+id: levi-studio-hmi-editor
+vendor_id: we-con
+name: Levi Studio Hmi Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:we\-con:levi_studio_hmi_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: levi_studio_hmi_editor
+  confidence: auto

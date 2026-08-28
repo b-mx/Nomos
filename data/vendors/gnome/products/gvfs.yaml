@@ -1,0 +1,10 @@
+id: gvfs
+vendor_id: gnome
+name: Gvfs
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gvfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gvfs
+  confidence: auto

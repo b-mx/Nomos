@@ -1,0 +1,10 @@
+id: ruckus-m510-jp
+vendor_id: commscope
+name: Ruckus M510-Jp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:ruckus_m510\-jp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_m510-jp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: oppo-reno
+vendor_id: oppo
+name: Oppo Reno
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_reno:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_reno
+  confidence: auto

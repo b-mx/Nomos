@@ -1,0 +1,10 @@
+id: pc2r
+vendor_id: xovis
+name: Pc2R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xovis:pc2r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc2r
+  confidence: auto

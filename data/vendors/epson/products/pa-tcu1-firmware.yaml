@@ -1,0 +1,10 @@
+id: pa-tcu1-firmware
+vendor_id: epson
+name: Pa-Tcu1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:pa\-tcu1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pa-tcu1_firmware
+  confidence: auto

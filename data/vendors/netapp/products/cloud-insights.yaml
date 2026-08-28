@@ -1,0 +1,10 @@
+id: cloud-insights
+vendor_id: netapp
+name: Cloud Insights
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:cloud_insights:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_insights
+  confidence: auto

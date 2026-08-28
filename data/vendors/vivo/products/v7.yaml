@@ -1,0 +1,10 @@
+id: v7
+vendor_id: vivo
+name: V7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivo:v7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v7
+  confidence: auto

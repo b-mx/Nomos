@@ -1,0 +1,10 @@
+id: wd75-firmware
+vendor_id: sony
+name: Wd75 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:wd75_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wd75_firmware
+  confidence: auto

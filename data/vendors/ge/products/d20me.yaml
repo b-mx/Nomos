@@ -1,0 +1,10 @@
+id: d20me
+vendor_id: ge
+name: D20Me
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:d20me:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d20me
+  confidence: auto

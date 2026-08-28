@@ -1,0 +1,10 @@
+id: secure-browser
+vendor_id: avast
+name: Secure Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:secure_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_browser
+  confidence: auto

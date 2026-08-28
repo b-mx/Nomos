@@ -1,0 +1,10 @@
+id: fastgate
+vendor_id: fastweb
+name: Fastgate
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fastweb:fastgate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastgate
+  confidence: auto

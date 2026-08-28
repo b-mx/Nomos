@@ -1,0 +1,10 @@
+id: cc421a
+vendor_id: hp
+name: Cc421A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cc421a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc421a
+  confidence: auto

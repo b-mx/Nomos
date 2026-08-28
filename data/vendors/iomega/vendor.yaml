@@ -1,0 +1,7 @@
+id: iomega
+name: Iomega
+cpe: cpe:2.3:*:iomega:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iomega
+  confidence: auto

@@ -1,0 +1,10 @@
+id: diactoros
+vendor_id: zend
+name: Diactoros
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:diactoros:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diactoros
+  confidence: auto

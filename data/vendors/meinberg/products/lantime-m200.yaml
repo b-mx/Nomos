@@ -1,0 +1,10 @@
+id: lantime-m200
+vendor_id: meinberg
+name: Lantime M200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meinberg:lantime_m200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lantime_m200
+  confidence: auto

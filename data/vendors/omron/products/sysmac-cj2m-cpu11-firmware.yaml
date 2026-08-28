@@ -1,0 +1,10 @@
+id: sysmac-cj2m-cpu11-firmware
+vendor_id: omron
+name: Sysmac Cj2M-Cpu11 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:sysmac_cj2m\-cpu11_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cj2m-cpu11_firmware
+  confidence: auto

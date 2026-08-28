@@ -1,0 +1,10 @@
+id: rsa-access-manager
+vendor_id: emc
+name: Rsa Access Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_access_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_access_manager
+  confidence: auto

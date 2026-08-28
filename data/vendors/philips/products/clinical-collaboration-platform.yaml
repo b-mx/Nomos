@@ -1,0 +1,10 @@
+id: clinical-collaboration-platform
+vendor_id: philips
+name: Clinical Collaboration Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:clinical_collaboration_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clinical_collaboration_platform
+  confidence: auto

@@ -1,0 +1,10 @@
+id: armorlock
+vendor_id: westerndigital
+name: Armorlock
+type: software
+tags: []
+cpe: cpe:2.3:a:westerndigital:armorlock:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: armorlock
+  confidence: auto

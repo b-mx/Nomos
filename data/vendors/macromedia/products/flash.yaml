@@ -1,0 +1,10 @@
+id: flash
+vendor_id: macromedia
+name: Flash
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:flash:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flash
+  confidence: auto

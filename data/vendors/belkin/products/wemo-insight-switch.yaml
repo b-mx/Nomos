@@ -1,0 +1,10 @@
+id: wemo-insight-switch
+vendor_id: belkin
+name: Wemo Insight Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belkin:wemo_insight_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wemo_insight_switch
+  confidence: auto

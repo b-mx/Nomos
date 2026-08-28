@@ -1,0 +1,10 @@
+id: easy-digital-downloads
+vendor_id: wow-company
+name: Easy Digital Downloads
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:easy_digital_downloads:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_digital_downloads
+  confidence: auto

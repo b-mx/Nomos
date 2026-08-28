@@ -1,0 +1,10 @@
+id: mpc265
+vendor_id: bachmann
+name: Mpc265
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mpc265:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mpc265
+  confidence: auto

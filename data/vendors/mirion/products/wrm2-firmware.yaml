@@ -1,0 +1,10 @@
+id: wrm2-firmware
+vendor_id: mirion
+name: Wrm2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mirion:wrm2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrm2_firmware
+  confidence: auto

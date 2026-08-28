@@ -1,0 +1,10 @@
+id: java-web-start
+vendor_id: sun
+name: Java Web Start
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_web_start:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_web_start
+  confidence: auto

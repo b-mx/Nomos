@@ -1,0 +1,10 @@
+id: quasar
+vendor_id: quasar
+name: Quasar
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: quasar
+  confidence: auto

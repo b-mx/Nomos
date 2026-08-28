@@ -1,0 +1,10 @@
+id: anybus-compactcom-30-module-usb-without-housing-firmware
+vendor_id: hms-networks
+name: Anybus Compactcom 30 Module Usb Without Housing Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hms\-networks:anybus_compactcom_30_module_usb_without_housing_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anybus_compactcom_30_module_usb_without_housing_firmware
+  confidence: auto

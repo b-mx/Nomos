@@ -1,0 +1,10 @@
+id: compaqhttpserver
+vendor_id: hp
+name: Compaqhttpserver
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:compaqhttpserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compaqhttpserver
+  confidence: auto

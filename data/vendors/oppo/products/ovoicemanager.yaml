@@ -1,0 +1,10 @@
+id: ovoicemanager
+vendor_id: oppo
+name: Ovoicemanager
+type: software
+tags: []
+cpe: cpe:2.3:a:oppo:ovoicemanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ovoicemanager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: t550
+vendor_id: timetoolsltd
+name: T550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:timetoolsltd:t550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t550
+  confidence: auto

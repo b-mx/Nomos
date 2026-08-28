@@ -1,0 +1,10 @@
+id: thinkbook-13s-iwl-firmware
+vendor_id: lenovo
+name: Thinkbook 13S-Iwl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkbook_13s\-iwl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_13s-iwl_firmware
+  confidence: auto

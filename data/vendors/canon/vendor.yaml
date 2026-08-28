@@ -1,0 +1,7 @@
+id: canon
+name: Canon
+cpe: cpe:2.3:*:canon:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: canon
+  confidence: auto

@@ -1,0 +1,10 @@
+id: openplatform
+vendor_id: totaljs
+name: Openplatform
+type: software
+tags: []
+cpe: cpe:2.3:a:totaljs:openplatform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openplatform
+  confidence: auto

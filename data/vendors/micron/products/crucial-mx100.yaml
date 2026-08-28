@@ -1,0 +1,10 @@
+id: crucial-mx100
+vendor_id: micron
+name: Crucial Mx100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:micron:crucial_mx100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crucial_mx100
+  confidence: auto

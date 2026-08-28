@@ -1,0 +1,10 @@
+id: u3d
+vendor_id: foxitsoftware
+name: U3D
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:u3d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: u3d
+  confidence: auto

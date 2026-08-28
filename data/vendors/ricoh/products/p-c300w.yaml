@@ -1,0 +1,10 @@
+id: p-c300w
+vendor_id: ricoh
+name: P C300W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:p_c300w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p_c300w
+  confidence: auto

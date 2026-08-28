@@ -1,0 +1,10 @@
+id: edr-810-firmware
+vendor_id: moxa
+name: Edr-810 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:edr\-810_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edr-810_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: els61
+vendor_id: thalesgroup
+name: Els61
+type: hardware
+tags: []
+cpe: cpe:2.3:h:thalesgroup:els61:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: els61
+  confidence: auto

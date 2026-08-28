@@ -1,0 +1,10 @@
+id: thinkagile-vx645-v3
+vendor_id: lenovo
+name: Thinkagile Vx645 V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_vx645_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_vx645_v3
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aio-330-20ast
+vendor_id: lenovo
+name: Aio 330-20Ast
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:aio_330\-20ast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aio_330-20ast
+  confidence: auto

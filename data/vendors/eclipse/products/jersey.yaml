@@ -1,0 +1,10 @@
+id: jersey
+vendor_id: eclipse
+name: Jersey
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:jersey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jersey
+  confidence: auto

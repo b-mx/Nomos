@@ -1,0 +1,10 @@
+id: rg-ew300-pro
+vendor_id: ruijienetworks
+name: Rg-Ew300 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijienetworks:rg\-ew300_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-ew300_pro
+  confidence: auto

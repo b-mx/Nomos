@@ -1,0 +1,10 @@
+id: goflow
+vendor_id: cloudflare
+name: Goflow
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:goflow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: goflow
+  confidence: auto

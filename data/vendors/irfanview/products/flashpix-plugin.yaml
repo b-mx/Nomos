@@ -1,0 +1,10 @@
+id: flashpix-plugin
+vendor_id: irfanview
+name: Flashpix Plugin
+type: software
+tags: []
+cpe: cpe:2.3:a:irfanview:flashpix_plugin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flashpix_plugin
+  confidence: auto

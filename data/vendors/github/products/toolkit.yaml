@@ -1,0 +1,10 @@
+id: toolkit
+vendor_id: github
+name: Toolkit
+type: software
+tags: []
+cpe: cpe:2.3:a:github:toolkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toolkit
+  confidence: auto

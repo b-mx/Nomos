@@ -1,0 +1,10 @@
+id: openvms
+vendor_id: hp
+name: Openvms
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:openvms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openvms
+  confidence: auto

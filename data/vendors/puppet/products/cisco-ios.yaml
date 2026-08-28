@@ -1,0 +1,10 @@
+id: cisco-ios
+vendor_id: puppet
+name: Cisco Ios
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:cisco_ios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cisco_ios
+  confidence: auto

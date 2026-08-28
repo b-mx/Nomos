@@ -1,0 +1,10 @@
+id: tro670
+vendor_id: hitachienergy
+name: Tro670
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:tro670:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tro670
+  confidence: auto

@@ -1,0 +1,10 @@
+id: swauth
+vendor_id: openstack
+name: Swauth
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:swauth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swauth
+  confidence: auto

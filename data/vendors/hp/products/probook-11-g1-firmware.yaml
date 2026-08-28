@@ -1,0 +1,10 @@
+id: probook-11-g1-firmware
+vendor_id: hp
+name: Probook 11 G1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:probook_11_g1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: probook_11_g1_firmware
+  confidence: auto

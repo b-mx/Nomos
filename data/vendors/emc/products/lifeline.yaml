@@ -1,0 +1,10 @@
+id: lifeline
+vendor_id: emc
+name: Lifeline
+type: os
+tags: []
+cpe: cpe:2.3:o:emc:lifeline:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lifeline
+  confidence: auto

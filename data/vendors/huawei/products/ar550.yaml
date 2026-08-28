@@ -1,0 +1,10 @@
+id: ar550
+vendor_id: huawei
+name: Ar550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar550
+  confidence: auto

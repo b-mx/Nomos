@@ -1,0 +1,10 @@
+id: raffle-factory
+vendor_id: thephpfactory
+name: Raffle Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:raffle_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: raffle_factory
+  confidence: auto

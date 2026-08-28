@@ -1,0 +1,10 @@
+id: honeybee-mag
+vendor_id: magzter
+name: Honeybee Mag
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:honeybee_mag:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honeybee_mag
+  confidence: auto

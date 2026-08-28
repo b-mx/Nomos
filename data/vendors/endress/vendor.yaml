@@ -1,0 +1,7 @@
+id: endress
+name: Endress
+cpe: cpe:2.3:*:endress:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: endress
+  confidence: auto

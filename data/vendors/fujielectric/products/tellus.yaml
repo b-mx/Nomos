@@ -1,0 +1,10 @@
+id: tellus
+vendor_id: fujielectric
+name: Tellus
+type: software
+tags: []
+cpe: cpe:2.3:a:fujielectric:tellus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tellus
+  confidence: auto

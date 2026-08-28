@@ -1,0 +1,10 @@
+id: fruit-shop-management-system
+vendor_id: carmelo
+name: Fruit Shop Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:fruit_shop_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fruit_shop_management_system
+  confidence: auto

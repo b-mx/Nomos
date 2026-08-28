@@ -1,0 +1,10 @@
+id: pm-t990-firmware
+vendor_id: epson
+name: Pm-T990 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:pm\-t990_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm-t990_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vpnremote
+vendor_id: avaya
+name: Vpnremote
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:vpnremote:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vpnremote
+  confidence: auto

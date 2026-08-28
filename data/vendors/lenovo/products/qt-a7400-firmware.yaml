@@ -1,0 +1,10 @@
+id: qt-a7400-firmware
+vendor_id: lenovo
+name: Qt A7400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:qt_a7400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qt_a7400_firmware
+  confidence: auto

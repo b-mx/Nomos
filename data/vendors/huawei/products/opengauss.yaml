@@ -1,0 +1,10 @@
+id: opengauss
+vendor_id: huawei
+name: Opengauss
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:opengauss:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opengauss
+  confidence: auto

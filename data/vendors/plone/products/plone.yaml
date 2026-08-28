@@ -1,0 +1,13 @@
+id: plone
+vendor_id: plone
+name: Plone
+type: software
+tags: []
+cpe: cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: plone
+  confidence: auto
+- source: nvd
+  value: plone
+  confidence: auto

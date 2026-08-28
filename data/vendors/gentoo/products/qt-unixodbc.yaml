@@ -1,0 +1,10 @@
+id: qt-unixodbc
+vendor_id: gentoo
+name: Qt-Unixodbc
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:qt\-unixodbc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qt-unixodbc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cacheos
+vendor_id: bluecoat
+name: Cacheos
+type: os
+tags: []
+cpe: cpe:2.3:o:bluecoat:cacheos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cacheos
+  confidence: auto

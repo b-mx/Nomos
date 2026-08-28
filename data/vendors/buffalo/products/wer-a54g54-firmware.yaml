@@ -1,0 +1,10 @@
+id: wer-a54g54-firmware
+vendor_id: buffalo
+name: Wer-A54G54 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wer\-a54g54_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wer-a54g54_firmware
+  confidence: auto

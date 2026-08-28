@@ -1,0 +1,10 @@
+id: c1000a-firmware
+vendor_id: actiontec
+name: C1000A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:actiontec:c1000a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1000a_firmware
+  confidence: auto

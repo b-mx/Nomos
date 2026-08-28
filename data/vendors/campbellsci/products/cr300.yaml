@@ -1,0 +1,10 @@
+id: cr300
+vendor_id: campbellsci
+name: Cr300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:campbellsci:cr300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cr300
+  confidence: auto

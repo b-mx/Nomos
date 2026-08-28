@@ -1,0 +1,10 @@
+id: lp1502
+vendor_id: hidglobal
+name: Lp1502
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hidglobal:lp1502:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp1502
+  confidence: auto

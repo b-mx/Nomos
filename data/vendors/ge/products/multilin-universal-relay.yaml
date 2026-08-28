@@ -1,0 +1,10 @@
+id: multilin-universal-relay
+vendor_id: ge
+name: Multilin Universal Relay
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:multilin_universal_relay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_universal_relay
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aim-t-manageability-api
+vendor_id: amd
+name: Aim-T Manageability Api
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:aim\-t_manageability_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aim-t_manageability_api
+  confidence: auto

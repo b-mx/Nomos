@@ -1,0 +1,9 @@
+id: office
+vendor_id: microsoft
+name: Office
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Office
+  confidence: auto

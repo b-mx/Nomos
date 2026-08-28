@@ -1,0 +1,10 @@
+id: mbnet-rokey-rkh-216-firmware
+vendor_id: redlion
+name: Mbnet.Rokey Rkh 216 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:redlion:mbnet\.rokey_rkh_216_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbnet.rokey_rkh_216_firmware
+  confidence: auto

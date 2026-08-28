@@ -1,0 +1,10 @@
+id: plus-cpu-firmware
+vendor_id: jtekt
+name: Plus Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:plus_cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plus_cpu_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rental-management-system
+vendor_id: carmelo
+name: Rental Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:rental_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rental_management_system
+  confidence: auto

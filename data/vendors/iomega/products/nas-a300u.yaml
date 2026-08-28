@@ -1,0 +1,10 @@
+id: nas-a300u
+vendor_id: iomega
+name: Nas A300U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iomega:nas_a300u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nas_a300u
+  confidence: auto

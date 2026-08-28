@@ -1,0 +1,10 @@
+id: cd645a
+vendor_id: hp
+name: Cd645A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cd645a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cd645a
+  confidence: auto

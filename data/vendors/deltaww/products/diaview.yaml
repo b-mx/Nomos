@@ -1,0 +1,10 @@
+id: diaview
+vendor_id: deltaww
+name: Diaview
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:diaview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diaview
+  confidence: auto

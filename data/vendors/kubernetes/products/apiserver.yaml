@@ -1,0 +1,10 @@
+id: apiserver
+vendor_id: kubernetes
+name: Apiserver
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:apiserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apiserver
+  confidence: auto

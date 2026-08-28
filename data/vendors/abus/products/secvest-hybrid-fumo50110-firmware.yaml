@@ -1,0 +1,10 @@
+id: secvest-hybrid-fumo50110-firmware
+vendor_id: abus
+name: Secvest Hybrid Fumo50110 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abus:secvest_hybrid_fumo50110_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secvest_hybrid_fumo50110_firmware
+  confidence: auto

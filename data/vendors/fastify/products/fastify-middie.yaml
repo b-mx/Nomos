@@ -1,0 +1,10 @@
+id: fastify-middie
+vendor_id: fastify
+name: Fastify/Middie
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:fastify\/middie:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastify/middie
+  confidence: auto

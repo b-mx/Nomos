@@ -1,0 +1,10 @@
+id: ma9321-ehtv-firmware
+vendor_id: vivotek
+name: Ma9321-Ehtv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ma9321\-ehtv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ma9321-ehtv_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: n4l14c
+vendor_id: hp
+name: N4L14C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:n4l14c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n4l14c
+  confidence: auto

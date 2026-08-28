@@ -1,0 +1,10 @@
+id: ano-l7022r-firmware
+vendor_id: hanwhavision
+name: Ano-L7022R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:ano\-l7022r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ano-l7022r_firmware
+  confidence: auto

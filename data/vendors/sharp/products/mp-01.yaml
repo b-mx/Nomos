@@ -1,0 +1,10 @@
+id: mp-01
+vendor_id: sharp
+name: Mp-01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mp\-01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp-01
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ilc-plcs
+vendor_id: phoenixcontact
+name: Ilc Plcs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:ilc_plcs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilc_plcs
+  confidence: auto

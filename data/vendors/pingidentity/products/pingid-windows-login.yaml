@@ -1,0 +1,10 @@
+id: pingid-windows-login
+vendor_id: pingidentity
+name: Pingid Windows Login
+type: software
+tags: []
+cpe: cpe:2.3:a:pingidentity:pingid_windows_login:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pingid_windows_login
+  confidence: auto

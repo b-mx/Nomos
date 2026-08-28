@@ -1,0 +1,10 @@
+id: insightconnect-compression
+vendor_id: rapid7
+name: Insightconnect Compression
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:insightconnect_compression:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insightconnect_compression
+  confidence: auto

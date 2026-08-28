@@ -1,0 +1,10 @@
+id: smart-vms
+vendor_id: neutron
+name: Smart Vms
+type: software
+tags: []
+cpe: cpe:2.3:a:neutron:smart_vms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_vms
+  confidence: auto

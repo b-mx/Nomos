@@ -1,0 +1,13 @@
+id: dependency-track
+vendor_id: owasp
+name: Dependency-Track
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:dependency\-track:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: dependency-track
+  confidence: auto
+- source: nvd
+  value: dependency-track
+  confidence: auto

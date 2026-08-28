@@ -1,0 +1,10 @@
+id: cyw89072brfb5g-firmware
+vendor_id: cypress
+name: Cyw89072Brfb5G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cypress:cyw89072brfb5g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyw89072brfb5g_firmware
+  confidence: auto

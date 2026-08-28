@@ -1,0 +1,10 @@
+id: portfolio
+vendor_id: radiustheme
+name: Portfolio
+type: software
+tags: []
+cpe: cpe:2.3:a:radiustheme:portfolio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portfolio
+  confidence: auto

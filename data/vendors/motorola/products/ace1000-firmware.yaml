@@ -1,0 +1,10 @@
+id: ace1000-firmware
+vendor_id: motorola
+name: Ace1000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:ace1000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ace1000_firmware
+  confidence: auto

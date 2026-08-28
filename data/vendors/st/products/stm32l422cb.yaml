@@ -1,0 +1,10 @@
+id: stm32l422cb
+vendor_id: st
+name: Stm32L422Cb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l422cb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l422cb
+  confidence: auto

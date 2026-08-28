@@ -1,0 +1,10 @@
+id: media-slider
+vendor_id: awplife
+name: Media Slider
+type: software
+tags: []
+cpe: cpe:2.3:a:awplife:media_slider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: media_slider
+  confidence: auto

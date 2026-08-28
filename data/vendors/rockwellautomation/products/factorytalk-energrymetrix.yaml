@@ -1,0 +1,10 @@
+id: factorytalk-energrymetrix
+vendor_id: rockwellautomation
+name: Factorytalk Energrymetrix
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:factorytalk_energrymetrix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_energrymetrix
+  confidence: auto

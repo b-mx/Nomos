@@ -1,0 +1,10 @@
+id: wire
+vendor_id: wire
+name: Wire
+type: software
+tags: []
+cpe: cpe:2.3:a:wire:wire:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wire
+  confidence: auto

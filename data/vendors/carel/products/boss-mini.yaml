@@ -1,0 +1,10 @@
+id: boss-mini
+vendor_id: carel
+name: Boss Mini
+type: hardware
+tags: []
+cpe: cpe:2.3:h:carel:boss_mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: boss_mini
+  confidence: auto

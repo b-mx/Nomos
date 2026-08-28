@@ -1,0 +1,10 @@
+id: msr45-isherlock-useradmin
+vendor_id: hgiga
+name: Msr45 Isherlock-Useradmin
+type: software
+tags: []
+cpe: cpe:2.3:a:hgiga:msr45_isherlock\-useradmin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msr45_isherlock-useradmin
+  confidence: auto

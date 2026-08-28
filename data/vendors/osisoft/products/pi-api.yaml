@@ -1,0 +1,10 @@
+id: pi-api
+vendor_id: osisoft
+name: Pi Api
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_api
+  confidence: auto

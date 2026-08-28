@@ -1,0 +1,10 @@
+id: project-and-portfolio-management-center
+vendor_id: hpe
+name: Project And Portfolio Management Center
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:project_and_portfolio_management_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: project_and_portfolio_management_center
+  confidence: auto

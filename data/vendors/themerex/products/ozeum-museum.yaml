@@ -1,0 +1,10 @@
+id: ozeum-museum
+vendor_id: themerex
+name: Ozeum-Museum
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:ozeum\-museum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ozeum-museum
+  confidence: auto

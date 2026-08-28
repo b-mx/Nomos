@@ -1,0 +1,10 @@
+id: telemetry-server
+vendor_id: aveva
+name: Telemetry Server
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:telemetry_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: telemetry_server
+  confidence: auto

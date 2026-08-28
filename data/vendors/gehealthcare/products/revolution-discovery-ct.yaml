@@ -1,0 +1,10 @@
+id: revolution-discovery-ct
+vendor_id: gehealthcare
+name: Revolution Discovery Ct
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:revolution_discovery_ct:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revolution_discovery_ct
+  confidence: auto

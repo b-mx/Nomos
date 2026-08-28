@@ -1,0 +1,10 @@
+id: smart-tank-510-4sb23a
+vendor_id: hp
+name: Smart Tank 510 4Sb23A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_510_4sb23a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_510_4sb23a
+  confidence: auto

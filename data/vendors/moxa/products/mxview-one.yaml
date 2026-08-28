@@ -1,0 +1,10 @@
+id: mxview-one
+vendor_id: moxa
+name: Mxview One
+type: software
+tags: []
+cpe: cpe:2.3:a:moxa:mxview_one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mxview_one
+  confidence: auto

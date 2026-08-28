@@ -1,0 +1,10 @@
+id: white-rabbit
+vendor_id: axiomthemes
+name: White Rabbit
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:white_rabbit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: white_rabbit
+  confidence: auto

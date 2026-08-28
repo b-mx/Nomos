@@ -1,0 +1,10 @@
+id: laserjet-managed-m605-e6b69a
+vendor_id: hp
+name: Laserjet Managed M605 E6B69A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_m605_e6b69a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_m605_e6b69a
+  confidence: auto

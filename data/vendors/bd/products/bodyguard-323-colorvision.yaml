@@ -1,0 +1,10 @@
+id: bodyguard-323-colorvision
+vendor_id: bd
+name: Bodyguard 323 Colorvision
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:bodyguard_323_colorvision:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bodyguard_323_colorvision
+  confidence: auto

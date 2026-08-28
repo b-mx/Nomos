@@ -1,0 +1,10 @@
+id: thinkagile-hx3375
+vendor_id: lenovo
+name: Thinkagile Hx3375
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_hx3375:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_hx3375
+  confidence: auto

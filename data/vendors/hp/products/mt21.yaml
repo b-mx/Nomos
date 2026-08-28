@@ -1,0 +1,10 @@
+id: mt21
+vendor_id: hp
+name: Mt21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mt21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt21
+  confidence: auto

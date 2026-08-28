@@ -1,0 +1,10 @@
+id: ble-stack
+vendor_id: ti
+name: Ble-Stack
+type: software
+tags: []
+cpe: cpe:2.3:a:ti:ble\-stack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ble-stack
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kb-irip16a
+vendor_id: kbdevice
+name: Kb-Irip16A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kbdevice:kb\-irip16a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kb-irip16a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: yck003
+vendor_id: y-cam
+name: Yck003
+type: hardware
+tags: []
+cpe: cpe:2.3:h:y\-cam:yck003:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yck003
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pavilion-tp01-1xxx
+vendor_id: hp
+name: Pavilion Tp01-1Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_tp01\-1xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_tp01-1xxx
+  confidence: auto

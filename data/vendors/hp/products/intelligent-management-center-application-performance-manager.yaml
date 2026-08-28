@@ -1,0 +1,10 @@
+id: intelligent-management-center-application-performance-manager
+vendor_id: hp
+name: Intelligent Management Center Application Performance Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:intelligent_management_center_application_performance_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_management_center_application_performance_manager
+  confidence: auto

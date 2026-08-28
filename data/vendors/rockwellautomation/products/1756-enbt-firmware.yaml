@@ -1,0 +1,10 @@
+id: 1756-enbt-firmware
+vendor_id: rockwellautomation
+name: 1756-Enbt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:1756\-enbt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1756-enbt_firmware
+  confidence: auto

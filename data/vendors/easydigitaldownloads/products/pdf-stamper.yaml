@@ -1,0 +1,10 @@
+id: pdf-stamper
+vendor_id: easydigitaldownloads
+name: Pdf Stamper
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:pdf_stamper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdf_stamper
+  confidence: auto

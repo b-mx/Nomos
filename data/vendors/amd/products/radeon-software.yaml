@@ -1,0 +1,10 @@
+id: radeon-software
+vendor_id: amd
+name: Radeon Software
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:radeon_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radeon_software
+  confidence: auto

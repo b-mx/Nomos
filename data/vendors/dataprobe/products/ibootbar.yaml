@@ -1,0 +1,10 @@
+id: ibootbar
+vendor_id: dataprobe
+name: Ibootbar
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dataprobe:ibootbar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ibootbar
+  confidence: auto

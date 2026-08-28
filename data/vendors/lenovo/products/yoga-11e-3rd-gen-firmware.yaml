@@ -1,0 +1,10 @@
+id: yoga-11e-3rd-gen-firmware
+vendor_id: lenovo
+name: Yoga 11E 3Rd Gen Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yoga_11e_3rd_gen_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_11e_3rd_gen_firmware
+  confidence: auto

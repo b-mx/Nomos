@@ -1,0 +1,10 @@
+id: proliant-sl390s-g7-server
+vendor_id: hp
+name: Proliant Sl390S G7 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_sl390s_g7_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_sl390s_g7_server
+  confidence: auto

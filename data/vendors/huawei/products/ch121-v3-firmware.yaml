@@ -1,0 +1,10 @@
+id: ch121-v3-firmware
+vendor_id: huawei
+name: Ch121 V3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ch121_v3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch121_v3_firmware
+  confidence: auto

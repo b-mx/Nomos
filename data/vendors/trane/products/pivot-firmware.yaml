@@ -1,0 +1,10 @@
+id: pivot-firmware
+vendor_id: trane
+name: Pivot Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trane:pivot_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pivot_firmware
+  confidence: auto

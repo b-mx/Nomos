@@ -1,0 +1,10 @@
+id: cs622
+vendor_id: lexmark
+name: Cs622
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs622:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs622
+  confidence: auto

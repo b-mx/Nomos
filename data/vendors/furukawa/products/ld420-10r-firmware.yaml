@@ -1,0 +1,10 @@
+id: ld420-10r-firmware
+vendor_id: furukawa
+name: Ld420-10R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:furukawa:ld420\-10r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ld420-10r_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cf-e4
+vendor_id: comfast
+name: Cf-E4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:comfast:cf\-e4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf-e4
+  confidence: auto

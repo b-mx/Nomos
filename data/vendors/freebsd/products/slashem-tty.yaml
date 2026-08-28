@@ -1,0 +1,10 @@
+id: slashem-tty
+vendor_id: freebsd
+name: Slashem-Tty
+type: software
+tags: []
+cpe: cpe:2.3:a:freebsd:slashem\-tty:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slashem-tty
+  confidence: auto

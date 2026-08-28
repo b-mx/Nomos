@@ -1,0 +1,10 @@
+id: orca
+vendor_id: gnome
+name: Orca
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:orca:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: orca
+  confidence: auto

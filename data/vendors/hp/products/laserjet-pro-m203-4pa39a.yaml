@@ -1,0 +1,10 @@
+id: laserjet-pro-m203-4pa39a
+vendor_id: hp
+name: Laserjet Pro M203 4Pa39A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m203_4pa39a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m203_4pa39a
+  confidence: auto

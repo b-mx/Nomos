@@ -1,0 +1,10 @@
+id: foxit-pdf-toolkit
+vendor_id: foxitsoftware
+name: Foxit Pdf Toolkit
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:foxit_pdf_toolkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foxit_pdf_toolkit
+  confidence: auto

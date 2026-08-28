@@ -1,0 +1,10 @@
+id: es7506
+vendor_id: pepperl-fuchs
+name: Es7506
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pepperl\-fuchs:es7506:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: es7506
+  confidence: auto

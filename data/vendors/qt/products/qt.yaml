@@ -1,0 +1,14 @@
+id: qt
+vendor_id: qt
+name: Qt
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:qt:qt:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: qt
+  confidence: auto
+- source: nvd
+  value: qt
+  confidence: auto

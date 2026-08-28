@@ -1,0 +1,10 @@
+id: kintex-ultrascale-ku3p
+vendor_id: amd
+name: Kintex Ultrascale+ Ku3P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:kintex_ultrascale\+_ku3p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kintex_ultrascale+_ku3p
+  confidence: auto

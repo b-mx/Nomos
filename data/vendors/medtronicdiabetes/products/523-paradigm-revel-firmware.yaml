@@ -1,0 +1,10 @@
+id: 523-paradigm-revel-firmware
+vendor_id: medtronicdiabetes
+name: 523 Paradigm Revel Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronicdiabetes:523_paradigm_revel_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 523_paradigm_revel_firmware
+  confidence: auto

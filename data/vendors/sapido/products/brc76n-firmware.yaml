@@ -1,0 +1,10 @@
+id: brc76n-firmware
+vendor_id: sapido
+name: Brc76N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sapido:brc76n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brc76n_firmware
+  confidence: auto

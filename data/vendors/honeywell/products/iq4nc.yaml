@@ -1,0 +1,10 @@
+id: iq4nc
+vendor_id: honeywell
+name: Iq4Nc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:iq4nc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq4nc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: management-system
+vendor_id: anviz
+name: Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:anviz:management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: management_system
+  confidence: auto

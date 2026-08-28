@@ -1,0 +1,10 @@
+id: v3c18
+vendor_id: amd
+name: V3C18
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:v3c18:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v3c18
+  confidence: auto

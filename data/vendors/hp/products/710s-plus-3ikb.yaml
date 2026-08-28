@@ -1,0 +1,10 @@
+id: 710s-plus-3ikb
+vendor_id: hp
+name: 710S Plus-3Ikb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:710s_plus\-3ikb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 710s_plus-3ikb
+  confidence: auto

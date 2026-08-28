@@ -1,0 +1,10 @@
+id: suse-openstack-cloud
+vendor_id: novell
+name: Suse Openstack Cloud
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:suse_openstack_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_openstack_cloud
+  confidence: auto

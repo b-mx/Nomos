@@ -1,0 +1,10 @@
+id: lpc5514jbd100
+vendor_id: nxp
+name: Lpc5514Jbd100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:lpc5514jbd100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lpc5514jbd100
+  confidence: auto

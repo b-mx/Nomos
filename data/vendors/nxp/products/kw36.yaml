@@ -1,0 +1,10 @@
+id: kw36
+vendor_id: nxp
+name: Kw36
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:kw36:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kw36
+  confidence: auto

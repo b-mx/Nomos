@@ -1,0 +1,10 @@
+id: 2a68a-firmware
+vendor_id: hp
+name: 2A68A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:2a68a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2a68a_firmware
+  confidence: auto

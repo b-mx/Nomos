@@ -1,0 +1,10 @@
+id: mu320e
+vendor_id: ge
+name: Mu320E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:mu320e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mu320e
+  confidence: auto

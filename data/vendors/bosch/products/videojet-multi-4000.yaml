@@ -1,0 +1,10 @@
+id: videojet-multi-4000
+vendor_id: bosch
+name: Videojet Multi 4000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:videojet_multi_4000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: videojet_multi_4000
+  confidence: auto

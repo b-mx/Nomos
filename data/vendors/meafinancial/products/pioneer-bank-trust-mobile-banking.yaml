@@ -1,0 +1,10 @@
+id: pioneer-bank-trust-mobile-banking
+vendor_id: meafinancial
+name: Pioneer Bank & Trust Mobile Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:pioneer_bank_\&_trust_mobile_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pioneer_bank_&_trust_mobile_banking
+  confidence: auto

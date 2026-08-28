@@ -1,0 +1,10 @@
+id: ch140-v3-server
+vendor_id: huawei
+name: Ch140 V3 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ch140_v3_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch140_v3_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: post-to-csv
+vendor_id: bestwebsoft
+name: Post To Csv
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:post_to_csv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: post_to_csv
+  confidence: auto

@@ -1,0 +1,10 @@
+id: designjet-t1530-l2y24b
+vendor_id: hp
+name: Designjet T1530 L2Y24B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_t1530_l2y24b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_t1530_l2y24b
+  confidence: auto

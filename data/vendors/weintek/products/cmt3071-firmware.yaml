@@ -1,0 +1,10 @@
+id: cmt3071-firmware
+vendor_id: weintek
+name: Cmt3071 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:weintek:cmt3071_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt3071_firmware
+  confidence: auto

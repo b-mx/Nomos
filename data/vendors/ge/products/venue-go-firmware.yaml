@@ -1,0 +1,10 @@
+id: venue-go-firmware
+vendor_id: ge
+name: Venue Go Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:venue_go_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: venue_go_firmware
+  confidence: auto

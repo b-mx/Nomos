@@ -1,0 +1,10 @@
+id: ur55
+vendor_id: milesight
+name: Ur55
+type: hardware
+tags: []
+cpe: cpe:2.3:h:milesight:ur55:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ur55
+  confidence: auto

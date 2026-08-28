@@ -1,0 +1,10 @@
+id: netengine-16ex
+vendor_id: huawei
+name: Netengine 16Ex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:netengine_16ex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netengine_16ex
+  confidence: auto

@@ -1,0 +1,10 @@
+id: officejet-8022-3uc65a-firmware
+vendor_id: hp
+name: Officejet 8022 3Uc65A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_8022_3uc65a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_8022_3uc65a_firmware
+  confidence: auto

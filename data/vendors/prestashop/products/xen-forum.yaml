@@ -1,0 +1,10 @@
+id: xen-forum
+vendor_id: prestashop
+name: Xen Forum
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:xen_forum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xen_forum
+  confidence: auto

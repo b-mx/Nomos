@@ -1,0 +1,10 @@
+id: yale-wipc-301w
+vendor_id: assaabloy
+name: Yale Wipc-301W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:assaabloy:yale_wipc\-301w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale_wipc-301w
+  confidence: auto

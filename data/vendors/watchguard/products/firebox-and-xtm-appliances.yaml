@@ -1,0 +1,9 @@
+id: firebox-and-xtm-appliances
+vendor_id: watchguard
+name: Firebox and XTM Appliances
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Firebox and XTM Appliances
+  confidence: auto

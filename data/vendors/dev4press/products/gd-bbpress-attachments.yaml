@@ -1,0 +1,10 @@
+id: gd-bbpress-attachments
+vendor_id: dev4press
+name: Gd Bbpress Attachments
+type: software
+tags: []
+cpe: cpe:2.3:a:dev4press:gd_bbpress_attachments:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gd_bbpress_attachments
+  confidence: auto

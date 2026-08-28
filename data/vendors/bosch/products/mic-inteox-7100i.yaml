@@ -1,0 +1,10 @@
+id: mic-inteox-7100i
+vendor_id: bosch
+name: Mic Inteox 7100I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:mic_inteox_7100i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mic_inteox_7100i
+  confidence: auto

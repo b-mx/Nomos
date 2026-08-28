@@ -1,0 +1,10 @@
+id: thinkpad-t431s
+vendor_id: lenovo
+name: Thinkpad T431S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_t431s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t431s
+  confidence: auto

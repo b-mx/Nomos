@@ -1,0 +1,10 @@
+id: vx720l-firmware
+vendor_id: valuehd
+name: Vx720L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:valuehd:vx720l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx720l_firmware
+  confidence: auto

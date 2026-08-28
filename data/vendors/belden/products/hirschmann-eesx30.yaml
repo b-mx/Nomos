@@ -1,0 +1,10 @@
+id: hirschmann-eesx30
+vendor_id: belden
+name: Hirschmann Eesx30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_eesx30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_eesx30
+  confidence: auto

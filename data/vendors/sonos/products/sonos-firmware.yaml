@@ -1,0 +1,10 @@
+id: sonos-firmware
+vendor_id: sonos
+name: Sonos Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sonos:sonos_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sonos_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mcp-java-sdk
+vendor_id: lfprojects
+name: Mcp Java Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:mcp_java_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcp_java_sdk
+  confidence: auto

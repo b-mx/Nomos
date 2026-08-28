@@ -1,0 +1,10 @@
+id: re6400
+vendor_id: linksys
+name: Re6400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:re6400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re6400
+  confidence: auto

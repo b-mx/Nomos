@@ -1,0 +1,10 @@
+id: web6000q
+vendor_id: actiontec
+name: Web6000Q
+type: hardware
+tags: []
+cpe: cpe:2.3:h:actiontec:web6000q:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web6000q
+  confidence: auto

@@ -1,0 +1,10 @@
+id: um4730-firmware
+vendor_id: nec
+name: Um4730 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:um4730_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: um4730_firmware
+  confidence: auto

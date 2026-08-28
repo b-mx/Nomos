@@ -1,0 +1,10 @@
+id: aromatica
+vendor_id: axiomthemes
+name: Aromatica
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:aromatica:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aromatica
+  confidence: auto

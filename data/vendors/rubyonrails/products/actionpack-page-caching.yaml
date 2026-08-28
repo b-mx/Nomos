@@ -1,0 +1,10 @@
+id: actionpack-page-caching
+vendor_id: rubyonrails
+name: Actionpack Page-Caching
+type: software
+tags: []
+cpe: cpe:2.3:a:rubyonrails:actionpack_page\-caching:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: actionpack_page-caching
+  confidence: auto

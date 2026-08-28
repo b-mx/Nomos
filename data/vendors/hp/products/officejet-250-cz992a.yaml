@@ -1,0 +1,10 @@
+id: officejet-250-cz992a
+vendor_id: hp
+name: Officejet 250 Cz992A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_250_cz992a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_250_cz992a
+  confidence: auto

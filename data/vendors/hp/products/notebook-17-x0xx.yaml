@@ -1,0 +1,10 @@
+id: notebook-17-x0xx
+vendor_id: hp
+name: Notebook 17-X0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:notebook_17\-x0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_17-x0xx
+  confidence: auto

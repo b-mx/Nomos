@@ -1,0 +1,10 @@
+id: sensation-4g
+vendor_id: htc
+name: Sensation 4G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:sensation_4g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensation_4g
+  confidence: auto

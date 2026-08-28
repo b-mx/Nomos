@@ -1,0 +1,10 @@
+id: p400
+vendor_id: verifone
+name: P400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verifone:p400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p400
+  confidence: auto

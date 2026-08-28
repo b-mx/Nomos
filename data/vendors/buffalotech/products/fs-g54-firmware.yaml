@@ -1,0 +1,10 @@
+id: fs-g54-firmware
+vendor_id: buffalotech
+name: Fs-G54 Firmware
+type: software
+tags: []
+cpe: cpe:2.3:a:buffalotech:fs\-g54_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fs-g54_firmware
+  confidence: auto

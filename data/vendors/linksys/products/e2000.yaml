@@ -1,0 +1,10 @@
+id: e2000
+vendor_id: linksys
+name: E2000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:e2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e2000
+  confidence: auto

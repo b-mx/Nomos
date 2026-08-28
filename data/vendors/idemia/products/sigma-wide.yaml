@@ -1,0 +1,10 @@
+id: sigma-wide
+vendor_id: idemia
+name: Sigma Wide
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idemia:sigma_wide:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sigma_wide
+  confidence: auto

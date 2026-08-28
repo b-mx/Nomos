@@ -1,0 +1,10 @@
+id: bookme
+vendor_id: bylancer
+name: Bookme
+type: software
+tags: []
+cpe: cpe:2.3:a:bylancer:bookme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bookme
+  confidence: auto

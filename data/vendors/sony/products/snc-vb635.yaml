@@ -1,0 +1,10 @@
+id: snc-vb635
+vendor_id: sony
+name: Snc-Vb635
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-vb635:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-vb635
+  confidence: auto

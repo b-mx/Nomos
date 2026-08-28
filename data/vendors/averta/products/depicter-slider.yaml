@@ -1,0 +1,10 @@
+id: depicter-slider
+vendor_id: averta
+name: Depicter Slider
+type: software
+tags: []
+cpe: cpe:2.3:a:averta:depicter_slider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: depicter_slider
+  confidence: auto

@@ -1,0 +1,10 @@
+id: benaa
+vendor_id: g5plus
+name: Benaa
+type: software
+tags: []
+cpe: cpe:2.3:a:g5plus:benaa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: benaa
+  confidence: auto

@@ -1,0 +1,10 @@
+id: t1p99-firmware
+vendor_id: hp
+name: T1P99 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:t1p99_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t1p99_firmware
+  confidence: auto

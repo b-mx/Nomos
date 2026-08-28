@@ -1,0 +1,10 @@
+id: sch-i730-phone
+vendor_id: securecomputing
+name: Sch I730 Phone
+type: hardware
+tags: []
+cpe: cpe:2.3:h:securecomputing:sch_i730_phone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sch_i730_phone
+  confidence: auto

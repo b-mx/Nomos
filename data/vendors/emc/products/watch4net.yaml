@@ -1,0 +1,10 @@
+id: watch4net
+vendor_id: emc
+name: Watch4Net
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:watch4net:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: watch4net
+  confidence: auto

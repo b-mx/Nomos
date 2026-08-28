@@ -1,0 +1,10 @@
+id: gutenkit
+vendor_id: wpmet
+name: Gutenkit
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmet:gutenkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gutenkit
+  confidence: auto

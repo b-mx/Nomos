@@ -1,0 +1,10 @@
+id: hmi-panel
+vendor_id: redlion
+name: Hmi Panel
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redlion:hmi_panel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hmi_panel
+  confidence: auto

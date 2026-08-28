@@ -1,0 +1,10 @@
+id: development-tools-module
+vendor_id: suse
+name: Development Tools Module
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:development_tools_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: development_tools_module
+  confidence: auto

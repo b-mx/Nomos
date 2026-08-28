@@ -1,0 +1,10 @@
+id: php-fusion
+vendor_id: php-fusion
+name: Php-Fusion
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-fusion:php\-fusion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: php-fusion
+  confidence: auto

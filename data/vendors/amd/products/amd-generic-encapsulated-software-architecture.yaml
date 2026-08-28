@@ -1,0 +1,10 @@
+id: amd-generic-encapsulated-software-architecture
+vendor_id: amd
+name: Amd Generic Encapsulated Software Architecture
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:amd_generic_encapsulated_software_architecture:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amd_generic_encapsulated_software_architecture
+  confidence: auto

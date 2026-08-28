@@ -1,0 +1,10 @@
+id: a6-firmware
+vendor_id: haier
+name: A6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:haier:a6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a6_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-pro-cp1525nw-color-printer
+vendor_id: hp
+name: Laserjet Pro Cp1525Nw Color Printer
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_cp1525nw_color_printer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_cp1525nw_color_printer
+  confidence: auto

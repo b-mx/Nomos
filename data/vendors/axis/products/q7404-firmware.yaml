@@ -1,0 +1,10 @@
+id: q7404-firmware
+vendor_id: axis
+name: Q7404 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:q7404_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q7404_firmware
+  confidence: auto

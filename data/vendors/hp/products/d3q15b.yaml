@@ -1,0 +1,10 @@
+id: d3q15b
+vendor_id: hp
+name: D3Q15B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:d3q15b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d3q15b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: appsync
+vendor_id: emc
+name: Appsync
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:appsync:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: appsync
+  confidence: auto

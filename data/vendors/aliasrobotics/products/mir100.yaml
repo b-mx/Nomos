@@ -1,0 +1,10 @@
+id: mir100
+vendor_id: aliasrobotics
+name: Mir100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aliasrobotics:mir100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mir100
+  confidence: auto

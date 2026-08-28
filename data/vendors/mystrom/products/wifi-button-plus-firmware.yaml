@@ -1,0 +1,10 @@
+id: wifi-button-plus-firmware
+vendor_id: mystrom
+name: Wifi Button Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mystrom:wifi_button_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifi_button_plus_firmware
+  confidence: auto

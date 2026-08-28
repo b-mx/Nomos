@@ -1,0 +1,10 @@
+id: ryzen-pro-2400g
+vendor_id: amd
+name: Ryzen Pro 2400G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_pro_2400g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_pro_2400g
+  confidence: auto

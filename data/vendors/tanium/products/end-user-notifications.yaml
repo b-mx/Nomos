@@ -1,0 +1,10 @@
+id: end-user-notifications
+vendor_id: tanium
+name: End-User Notifications
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:end\-user_notifications:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: end-user_notifications
+  confidence: auto

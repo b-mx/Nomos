@@ -1,0 +1,10 @@
+id: paho-mqtt-c-c-client
+vendor_id: eclipse
+name: Paho Mqtt C/C++ Client
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:paho_mqtt_c\/c\+\+_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paho_mqtt_c/c++_client
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wild-web-developer
+vendor_id: eclipse
+name: Wild Web Developer
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:wild_web_developer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wild_web_developer
+  confidence: auto

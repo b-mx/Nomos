@@ -1,0 +1,10 @@
+id: terrascan
+vendor_id: tenable
+name: Terrascan
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:terrascan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: terrascan
+  confidence: auto

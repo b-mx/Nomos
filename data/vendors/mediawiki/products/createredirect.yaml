@@ -1,0 +1,10 @@
+id: createredirect
+vendor_id: mediawiki
+name: Createredirect
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:createredirect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: createredirect
+  confidence: auto

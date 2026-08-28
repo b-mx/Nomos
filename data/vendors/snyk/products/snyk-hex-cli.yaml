@@ -1,0 +1,10 @@
+id: snyk-hex-cli
+vendor_id: snyk
+name: Snyk Hex Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:snyk:snyk_hex_cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snyk_hex_cli
+  confidence: auto

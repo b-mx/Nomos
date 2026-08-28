@@ -1,0 +1,10 @@
+id: squawk-geo
+vendor_id: neilcochran
+name: Squawk/Geo
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/geo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/geo
+  confidence: auto

@@ -1,0 +1,10 @@
+id: enterprise-network-video-recorder
+vendor_id: ui
+name: Enterprise Network Video Recorder
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:enterprise_network_video_recorder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_network_video_recorder
+  confidence: auto

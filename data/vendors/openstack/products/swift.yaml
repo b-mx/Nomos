@@ -1,0 +1,10 @@
+id: swift
+vendor_id: openstack
+name: Swift
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:swift:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swift
+  confidence: auto

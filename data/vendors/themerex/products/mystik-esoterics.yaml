@@ -1,0 +1,10 @@
+id: mystik-esoterics
+vendor_id: themerex
+name: Mystik-Esoterics
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:mystik\-esoterics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mystik-esoterics
+  confidence: auto

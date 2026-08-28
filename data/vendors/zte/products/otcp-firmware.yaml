@@ -1,0 +1,10 @@
+id: otcp-firmware
+vendor_id: zte
+name: Otcp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:otcp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: otcp_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sysmac-cs1h-cpu63h-firmware
+vendor_id: omron
+name: Sysmac Cs1H-Cpu63H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:sysmac_cs1h\-cpu63h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cs1h-cpu63h_firmware
+  confidence: auto

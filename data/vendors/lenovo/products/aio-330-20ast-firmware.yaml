@@ -1,0 +1,10 @@
+id: aio-330-20ast-firmware
+vendor_id: lenovo
+name: Aio 330-20Ast Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:aio_330\-20ast_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aio_330-20ast_firmware
+  confidence: auto

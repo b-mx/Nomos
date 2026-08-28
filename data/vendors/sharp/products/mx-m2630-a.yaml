@@ -1,0 +1,10 @@
+id: mx-m2630-a
+vendor_id: sharp
+name: Mx-M2630 A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-m2630_a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m2630_a
+  confidence: auto

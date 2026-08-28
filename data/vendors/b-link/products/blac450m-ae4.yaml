@@ -1,0 +1,10 @@
+id: blac450m-ae4
+vendor_id: b-link
+name: Blac450M Ae4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:b\-link:blac450m_ae4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blac450m_ae4
+  confidence: auto

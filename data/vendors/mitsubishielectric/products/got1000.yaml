@@ -1,0 +1,10 @@
+id: got1000
+vendor_id: mitsubishielectric
+name: Got1000
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:got1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: got1000
+  confidence: auto

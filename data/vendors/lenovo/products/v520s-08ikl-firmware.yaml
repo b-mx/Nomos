@@ -1,0 +1,10 @@
+id: v520s-08ikl-firmware
+vendor_id: lenovo
+name: V520S-08Ikl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v520s\-08ikl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v520s-08ikl_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wxr-1750dhp-firmware
+vendor_id: buffalo
+name: Wxr-1750Dhp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wxr\-1750dhp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wxr-1750dhp_firmware
+  confidence: auto

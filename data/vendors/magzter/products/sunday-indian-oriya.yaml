@@ -1,0 +1,10 @@
+id: sunday-indian-oriya
+vendor_id: magzter
+name: Sunday Indian Oriya
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:sunday_indian_oriya:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunday_indian_oriya
+  confidence: auto

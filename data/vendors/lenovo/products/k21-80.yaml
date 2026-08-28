@@ -1,0 +1,10 @@
+id: k21-80
+vendor_id: lenovo
+name: K21-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:k21\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k21-80
+  confidence: auto

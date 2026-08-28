@@ -1,0 +1,10 @@
+id: primo-5-0-1-aus
+vendor_id: fronius
+name: Primo 5.0-1 Aus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fronius:primo_5\.0\-1_aus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primo_5.0-1_aus
+  confidence: auto

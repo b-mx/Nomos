@@ -1,0 +1,10 @@
+id: active-threads
+vendor_id: mybb
+name: Active Threads
+type: software
+tags: []
+cpe: cpe:2.3:a:mybb:active_threads:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_threads
+  confidence: auto

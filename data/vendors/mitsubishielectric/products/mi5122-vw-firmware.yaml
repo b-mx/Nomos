@@ -1,0 +1,10 @@
+id: mi5122-vw-firmware
+vendor_id: mitsubishielectric
+name: Mi5122-Vw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:mi5122\-vw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mi5122-vw_firmware
+  confidence: auto

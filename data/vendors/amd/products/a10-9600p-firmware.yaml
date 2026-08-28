@@ -1,0 +1,10 @@
+id: a10-9600p-firmware
+vendor_id: amd
+name: A10-9600P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:a10\-9600p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a10-9600p_firmware
+  confidence: auto

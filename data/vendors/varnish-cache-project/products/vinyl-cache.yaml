@@ -1,0 +1,13 @@
+id: vinyl-cache
+vendor_id: varnish-cache-project
+name: Vinyl Cache
+type: software
+tags: []
+cpe: cpe:2.3:a:varnish_cache_project:varnish_cache:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: vinyl-cache
+  confidence: auto
+- source: nvd
+  value: varnish_cache
+  confidence: auto

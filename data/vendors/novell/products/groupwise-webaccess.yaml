@@ -1,0 +1,10 @@
+id: groupwise-webaccess
+vendor_id: novell
+name: Groupwise Webaccess
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:groupwise_webaccess:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: groupwise_webaccess
+  confidence: auto

@@ -1,0 +1,10 @@
+id: manageengine-secure-gateway-server
+vendor_id: zohocorp
+name: Manageengine Secure Gateway Server
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_secure_gateway_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_secure_gateway_server
+  confidence: auto

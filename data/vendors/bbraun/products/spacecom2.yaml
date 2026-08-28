@@ -1,0 +1,10 @@
+id: spacecom2
+vendor_id: bbraun
+name: Spacecom2
+type: os
+tags: []
+cpe: cpe:2.3:o:bbraun:spacecom2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spacecom2
+  confidence: auto

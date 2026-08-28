@@ -1,0 +1,10 @@
+id: l-04d-firmware
+vendor_id: nttdocomo
+name: L-04D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nttdocomo:l\-04d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l-04d_firmware
+  confidence: auto

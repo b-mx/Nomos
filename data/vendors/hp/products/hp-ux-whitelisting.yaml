@@ -1,0 +1,10 @@
+id: hp-ux-whitelisting
+vendor_id: hp
+name: Hp-Ux Whitelisting
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:hp\-ux_whitelisting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp-ux_whitelisting
+  confidence: auto

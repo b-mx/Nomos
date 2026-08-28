@@ -1,0 +1,10 @@
+id: pro-tablet-10-ee-g1
+vendor_id: hp
+name: Pro Tablet 10 Ee G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pro_tablet_10_ee_g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_tablet_10_ee_g1
+  confidence: auto

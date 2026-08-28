@@ -1,0 +1,10 @@
+id: mx-3100g
+vendor_id: sharp
+name: Mx-3100G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-3100g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-3100g
+  confidence: auto

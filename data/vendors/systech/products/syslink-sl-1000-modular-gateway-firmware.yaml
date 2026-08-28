@@ -1,0 +1,10 @@
+id: syslink-sl-1000-modular-gateway-firmware
+vendor_id: systech
+name: Syslink Sl-1000 Modular Gateway Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:systech:syslink_sl\-1000_modular_gateway_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: syslink_sl-1000_modular_gateway_firmware
+  confidence: auto

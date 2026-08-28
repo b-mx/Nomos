@@ -1,0 +1,10 @@
+id: p10
+vendor_id: haier
+name: P10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:haier:p10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p10
+  confidence: auto

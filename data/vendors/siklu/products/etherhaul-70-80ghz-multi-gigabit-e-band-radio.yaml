@@ -1,0 +1,10 @@
+id: etherhaul-70-80ghz-multi-gigabit-e-band-radio
+vendor_id: siklu
+name: Etherhaul 70/80Ghz Multi-Gigabit E-Band Radio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:siklu:etherhaul_70\/80ghz_multi\-gigabit_e\-band_radio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: etherhaul_70/80ghz_multi-gigabit_e-band_radio
+  confidence: auto

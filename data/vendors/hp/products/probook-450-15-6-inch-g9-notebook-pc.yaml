@@ -1,0 +1,10 @@
+id: probook-450-15-6-inch-g9-notebook-pc
+vendor_id: hp
+name: Probook 450 15.6 Inch G9 Notebook Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:probook_450_15\.6_inch_g9_notebook_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: probook_450_15.6_inch_g9_notebook_pc
+  confidence: auto

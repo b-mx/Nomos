@@ -1,0 +1,10 @@
+id: wonderware-intouch-access-anywhere
+vendor_id: aveva
+name: Wonderware Intouch Access Anywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:wonderware_intouch_access_anywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wonderware_intouch_access_anywhere
+  confidence: auto

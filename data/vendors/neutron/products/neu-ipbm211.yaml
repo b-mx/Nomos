@@ -1,0 +1,10 @@
+id: neu-ipbm211
+vendor_id: neutron
+name: Neu-Ipbm211
+type: hardware
+tags: []
+cpe: cpe:2.3:h:neutron:neu\-ipbm211:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neu-ipbm211
+  confidence: auto

@@ -1,0 +1,10 @@
+id: csu-5000
+vendor_id: avaya
+name: Csu 5000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:csu_5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: csu_5000
+  confidence: auto

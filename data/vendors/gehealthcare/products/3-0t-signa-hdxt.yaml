@@ -1,0 +1,10 @@
+id: 3-0t-signa-hdxt
+vendor_id: gehealthcare
+name: 3.0T Signa Hdxt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:3\.0t_signa_hdxt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3.0t_signa_hdxt
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ncc-ewf100rmwh2-firmware
+vendor_id: elecom
+name: Ncc-Ewf100Rmwh2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:ncc\-ewf100rmwh2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ncc-ewf100rmwh2_firmware
+  confidence: auto

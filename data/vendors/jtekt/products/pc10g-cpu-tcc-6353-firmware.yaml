@@ -1,0 +1,10 @@
+id: pc10g-cpu-tcc-6353-firmware
+vendor_id: jtekt
+name: Pc10G-Cpu Tcc-6353 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:pc10g\-cpu_tcc\-6353_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10g-cpu_tcc-6353_firmware
+  confidence: auto

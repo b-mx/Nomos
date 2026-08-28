@@ -1,0 +1,6 @@
+id: vmware-harbor-registry
+name: VMware Harbor Registry
+aliases:
+- source: endoflife
+  value: vmware-harbor-registry
+  confidence: auto

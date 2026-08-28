@@ -1,0 +1,10 @@
+id: a920
+vendor_id: paxtechnology
+name: A920
+type: hardware
+tags: []
+cpe: cpe:2.3:h:paxtechnology:a920:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a920
+  confidence: auto

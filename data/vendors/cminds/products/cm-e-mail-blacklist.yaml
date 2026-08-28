@@ -1,0 +1,10 @@
+id: cm-e-mail-blacklist
+vendor_id: cminds
+name: Cm E-Mail Blacklist
+type: software
+tags: []
+cpe: cpe:2.3:a:cminds:cm_e\-mail_blacklist:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm_e-mail_blacklist
+  confidence: auto

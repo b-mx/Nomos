@@ -1,0 +1,10 @@
+id: iq41x
+vendor_id: honeywell
+name: Iq41X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:iq41x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq41x
+  confidence: auto

@@ -1,0 +1,7 @@
+id: ethereum
+name: Ethereum
+cpe: cpe:2.3:*:ethereum:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ethereum
+  confidence: auto

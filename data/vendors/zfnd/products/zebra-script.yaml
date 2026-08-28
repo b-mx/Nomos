@@ -1,0 +1,10 @@
+id: zebra-script
+vendor_id: zfnd
+name: Zebra-Script
+type: software
+tags: []
+cpe: cpe:2.3:a:zfnd:zebra\-script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zebra-script
+  confidence: auto

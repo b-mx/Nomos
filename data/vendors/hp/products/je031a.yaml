@@ -1,0 +1,10 @@
+id: je031a
+vendor_id: hp
+name: Je031A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je031a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je031a
+  confidence: auto

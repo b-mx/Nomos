@@ -1,0 +1,10 @@
+id: linux-enterprise-high-performance-computing
+vendor_id: suse
+name: Linux Enterprise High Performance Computing
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux_enterprise_high_performance_computing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_high_performance_computing
+  confidence: auto

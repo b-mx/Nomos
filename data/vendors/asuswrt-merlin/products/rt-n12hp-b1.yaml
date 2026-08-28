@@ -1,0 +1,10 @@
+id: rt-n12hp-b1
+vendor_id: asuswrt-merlin
+name: Rt-N12Hp B1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-n12hp_b1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-n12hp_b1
+  confidence: auto

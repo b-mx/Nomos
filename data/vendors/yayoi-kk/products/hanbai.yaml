@@ -1,0 +1,10 @@
+id: hanbai
+vendor_id: yayoi-kk
+name: Hanbai
+type: software
+tags: []
+cpe: cpe:2.3:a:yayoi\-kk:hanbai:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hanbai
+  confidence: auto

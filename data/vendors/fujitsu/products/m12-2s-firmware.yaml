@@ -1,0 +1,10 @@
+id: m12-2s-firmware
+vendor_id: fujitsu
+name: M12-2S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:m12\-2s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m12-2s_firmware
+  confidence: auto

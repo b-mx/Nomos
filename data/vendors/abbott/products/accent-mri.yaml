@@ -1,0 +1,10 @@
+id: accent-mri
+vendor_id: abbott
+name: Accent Mri
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abbott:accent_mri:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accent_mri
+  confidence: auto

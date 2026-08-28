@@ -1,0 +1,10 @@
+id: vidiu
+vendor_id: teradek
+name: Vidiu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teradek:vidiu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vidiu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: b9drg-3m-firmware
+vendor_id: supermicro
+name: B9Drg-3M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:b9drg\-3m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b9drg-3m_firmware
+  confidence: auto

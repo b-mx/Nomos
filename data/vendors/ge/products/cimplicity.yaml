@@ -1,0 +1,10 @@
+id: cimplicity
+vendor_id: ge
+name: Cimplicity
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:cimplicity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cimplicity
+  confidence: auto

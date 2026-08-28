@@ -1,0 +1,10 @@
+id: l06cpu
+vendor_id: mitsubishielectric
+name: L06Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:l06cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l06cpu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: desktop-for-mac
+vendor_id: pgp
+name: Desktop For Mac
+type: software
+tags: []
+cpe: cpe:2.3:a:pgp:desktop_for_mac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_for_mac
+  confidence: auto

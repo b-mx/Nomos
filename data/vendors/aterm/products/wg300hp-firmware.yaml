@@ -1,0 +1,10 @@
+id: wg300hp-firmware
+vendor_id: aterm
+name: Wg300Hp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:aterm:wg300hp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wg300hp_firmware
+  confidence: auto

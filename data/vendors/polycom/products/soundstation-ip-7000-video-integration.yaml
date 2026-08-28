@@ -1,0 +1,10 @@
+id: soundstation-ip-7000-video-integration
+vendor_id: polycom
+name: Soundstation Ip 7000 Video Integration
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:soundstation_ip_7000_video_integration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soundstation_ip_7000_video_integration
+  confidence: auto

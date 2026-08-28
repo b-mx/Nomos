@@ -1,0 +1,10 @@
+id: midas
+vendor_id: honeywell
+name: Midas
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:midas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: midas
+  confidence: auto

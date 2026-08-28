@@ -1,0 +1,10 @@
+id: gift-cards
+vendor_id: woocommerce
+name: Gift Cards
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:gift_cards:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gift_cards
+  confidence: auto

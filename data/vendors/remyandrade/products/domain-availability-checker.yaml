@@ -1,0 +1,10 @@
+id: domain-availability-checker
+vendor_id: remyandrade
+name: Domain Availability Checker
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:domain_availability_checker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: domain_availability_checker
+  confidence: auto

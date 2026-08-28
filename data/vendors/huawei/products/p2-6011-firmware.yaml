@@ -1,0 +1,10 @@
+id: p2-6011-firmware
+vendor_id: huawei
+name: P2-6011 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:p2\-6011_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p2-6011_firmware
+  confidence: auto

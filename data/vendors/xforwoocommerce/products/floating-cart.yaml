@@ -1,0 +1,10 @@
+id: floating-cart
+vendor_id: xforwoocommerce
+name: Floating Cart
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:floating_cart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: floating_cart
+  confidence: auto

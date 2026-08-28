@@ -1,0 +1,10 @@
+id: l3u44a-firmware
+vendor_id: hp
+name: L3U44A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:l3u44a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l3u44a_firmware
+  confidence: auto

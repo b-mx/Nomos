@@ -1,0 +1,10 @@
+id: ec156
+vendor_id: huawei
+name: Ec156
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ec156:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ec156
+  confidence: auto

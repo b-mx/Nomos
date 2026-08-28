@@ -1,0 +1,10 @@
+id: rccmd
+vendor_id: abb
+name: Rccmd
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:rccmd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rccmd
+  confidence: auto

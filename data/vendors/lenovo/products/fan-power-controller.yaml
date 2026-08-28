@@ -1,0 +1,10 @@
+id: fan-power-controller
+vendor_id: lenovo
+name: Fan Power Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:fan_power_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fan_power_controller
+  confidence: auto

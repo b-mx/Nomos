@@ -1,0 +1,10 @@
+id: vitalevent
+vendor_id: lucent
+name: Vitalevent
+type: software
+tags: []
+cpe: cpe:2.3:a:lucent:vitalevent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vitalevent
+  confidence: auto

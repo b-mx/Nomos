@@ -1,0 +1,10 @@
+id: fusionstorage
+vendor_id: huawei
+name: Fusionstorage
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:fusionstorage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionstorage
+  confidence: auto

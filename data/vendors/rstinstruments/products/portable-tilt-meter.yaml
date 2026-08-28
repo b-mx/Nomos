@@ -1,0 +1,10 @@
+id: portable-tilt-meter
+vendor_id: rstinstruments
+name: Portable Tilt Meter
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:portable_tilt_meter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portable_tilt_meter
+  confidence: auto

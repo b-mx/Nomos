@@ -1,0 +1,10 @@
+id: music-center-for-pc
+vendor_id: sony
+name: Music Center For Pc
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:music_center_for_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: music_center_for_pc
+  confidence: auto

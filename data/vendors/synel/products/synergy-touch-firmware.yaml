@@ -1,0 +1,10 @@
+id: synergy-touch-firmware
+vendor_id: synel
+name: Synergy Touch Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:synel:synergy_touch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy_touch_firmware
+  confidence: auto

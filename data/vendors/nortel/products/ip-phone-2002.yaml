@@ -1,0 +1,10 @@
+id: ip-phone-2002
+vendor_id: nortel
+name: Ip Phone 2002
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:ip_phone_2002:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_phone_2002
+  confidence: auto

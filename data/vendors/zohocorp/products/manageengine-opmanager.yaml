@@ -1,0 +1,10 @@
+id: manageengine-opmanager
+vendor_id: zohocorp
+name: Manageengine Opmanager
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_opmanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_opmanager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e52-80
+vendor_id: hp
+name: E52-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:e52\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e52-80
+  confidence: auto

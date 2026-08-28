@@ -1,0 +1,10 @@
+id: aig-301-t-us-azu-lx-firmware
+vendor_id: moxa
+name: Aig-301-T-Us-Azu-Lx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:aig\-301\-t\-us\-azu\-lx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aig-301-t-us-azu-lx_firmware
+  confidence: auto

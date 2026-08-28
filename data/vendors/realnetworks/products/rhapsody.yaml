@@ -1,0 +1,10 @@
+id: rhapsody
+vendor_id: realnetworks
+name: Rhapsody
+type: software
+tags: []
+cpe: cpe:2.3:a:realnetworks:rhapsody:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rhapsody
+  confidence: auto

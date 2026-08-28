@@ -1,0 +1,10 @@
+id: checkinstall
+vendor_id: canonical
+name: Checkinstall
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:checkinstall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: checkinstall
+  confidence: auto

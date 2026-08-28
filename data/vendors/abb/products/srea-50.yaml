@@ -1,0 +1,10 @@
+id: srea-50
+vendor_id: abb
+name: Srea-50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:srea\-50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srea-50
+  confidence: auto

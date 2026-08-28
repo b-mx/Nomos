@@ -1,0 +1,10 @@
+id: deskjet-plus-4100-7fs74d-firmware
+vendor_id: hp
+name: Deskjet Plus 4100 7Fs74D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:deskjet_plus_4100_7fs74d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_plus_4100_7fs74d_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: melsec-l-flexible-high-speed-i-o-control-module-configuration-tool
+vendor_id: mitsubishielectric
+name: Melsec-L Flexible High-Speed I/O Control Module Configuration Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:melsec\-l_flexible_high\-speed_i\/o_control_module_configuration_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec-l_flexible_high-speed_i/o_control_module_configuration_tool
+  confidence: auto

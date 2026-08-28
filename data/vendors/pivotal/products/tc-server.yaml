@@ -1,0 +1,10 @@
+id: tc-server
+vendor_id: pivotal
+name: Tc Server
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:tc_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc_server
+  confidence: auto

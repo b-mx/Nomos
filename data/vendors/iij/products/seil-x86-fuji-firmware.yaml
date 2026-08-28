@@ -1,0 +1,10 @@
+id: seil-x86-fuji-firmware
+vendor_id: iij
+name: Seil X86 Fuji Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iij:seil_x86_fuji_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil_x86_fuji_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: java-dynamic-management-kit
+vendor_id: sun
+name: Java Dynamic Management Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_dynamic_management_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_dynamic_management_kit
+  confidence: auto

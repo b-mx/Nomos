@@ -1,0 +1,10 @@
+id: signa-vibrant-firmware
+vendor_id: gehealthcare
+name: Signa Vibrant Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:signa_vibrant_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: signa_vibrant_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hg8045q-firmware
+vendor_id: huawei
+name: Hg8045Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hg8045q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg8045q_firmware
+  confidence: auto

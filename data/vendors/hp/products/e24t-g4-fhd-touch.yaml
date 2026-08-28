@@ -1,0 +1,10 @@
+id: e24t-g4-fhd-touch
+vendor_id: hp
+name: E24T G4 Fhd Touch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:e24t_g4_fhd_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e24t_g4_fhd_touch
+  confidence: auto

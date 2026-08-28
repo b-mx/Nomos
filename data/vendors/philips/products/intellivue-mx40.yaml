@@ -1,0 +1,10 @@
+id: intellivue-mx40
+vendor_id: philips
+name: Intellivue Mx40
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:intellivue_mx40:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellivue_mx40
+  confidence: auto

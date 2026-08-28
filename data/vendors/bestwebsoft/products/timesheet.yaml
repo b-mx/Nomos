@@ -1,0 +1,10 @@
+id: timesheet
+vendor_id: bestwebsoft
+name: Timesheet
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:timesheet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: timesheet
+  confidence: auto

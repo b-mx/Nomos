@@ -1,0 +1,10 @@
+id: 288-pro-g3-microtower-firmware
+vendor_id: hp
+name: 288 Pro G3 Microtower Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:288_pro_g3_microtower_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 288_pro_g3_microtower_firmware
+  confidence: auto

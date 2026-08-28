@@ -1,0 +1,10 @@
+id: ideacentre-510-15icb
+vendor_id: lenovo
+name: Ideacentre 510-15Icb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_510\-15icb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_510-15icb
+  confidence: auto

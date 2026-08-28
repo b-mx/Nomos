@@ -1,0 +1,10 @@
+id: aespire-7100
+vendor_id: ge
+name: Aespire 7100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:aespire_7100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aespire_7100
+  confidence: auto

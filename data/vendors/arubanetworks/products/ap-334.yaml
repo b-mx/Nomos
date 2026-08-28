@@ -1,0 +1,10 @@
+id: ap-334
+vendor_id: arubanetworks
+name: Ap-334
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-334:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-334
+  confidence: auto

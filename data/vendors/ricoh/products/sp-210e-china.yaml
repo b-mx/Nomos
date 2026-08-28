@@ -1,0 +1,10 @@
+id: sp-210e-china
+vendor_id: ricoh
+name: Sp 210E (China)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_210e_\(china\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_210e_(china)
+  confidence: auto

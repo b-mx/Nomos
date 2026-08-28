@@ -1,0 +1,10 @@
+id: texlive-filesystem
+vendor_id: opensuse
+name: Texlive-Filesystem
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:texlive\-filesystem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: texlive-filesystem
+  confidence: auto

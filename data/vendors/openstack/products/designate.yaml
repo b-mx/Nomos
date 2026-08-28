@@ -1,0 +1,10 @@
+id: designate
+vendor_id: openstack
+name: Designate
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:designate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designate
+  confidence: auto

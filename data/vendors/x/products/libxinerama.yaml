@@ -1,0 +1,10 @@
+id: libxinerama
+vendor_id: x
+name: Libxinerama
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxinerama:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxinerama
+  confidence: auto

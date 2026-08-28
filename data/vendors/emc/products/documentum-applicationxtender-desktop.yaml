@@ -1,0 +1,10 @@
+id: documentum-applicationxtender-desktop
+vendor_id: emc
+name: Documentum Applicationxtender Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_applicationxtender_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_applicationxtender_desktop
+  confidence: auto

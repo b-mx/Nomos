@@ -1,0 +1,10 @@
+id: kerberos
+vendor_id: mit
+name: Kerberos
+type: software
+tags: []
+cpe: cpe:2.3:a:mit:kerberos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kerberos
+  confidence: auto

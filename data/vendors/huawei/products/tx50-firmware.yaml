@@ -1,0 +1,10 @@
+id: tx50-firmware
+vendor_id: huawei
+name: Tx50 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:tx50_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tx50_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: disney-mobile-android-smartphone
+vendor_id: softbank
+name: Disney Mobile Android Smartphone
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softbank:disney_mobile_android_smartphone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: disney_mobile_android_smartphone
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hdl-xv
+vendor_id: iodata
+name: Hdl-Xv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:hdl\-xv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdl-xv
+  confidence: auto

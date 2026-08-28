@@ -1,0 +1,10 @@
+id: dacenter
+vendor_id: moxa
+name: Dacenter
+type: software
+tags: []
+cpe: cpe:2.3:a:moxa:dacenter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dacenter
+  confidence: auto

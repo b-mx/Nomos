@@ -1,0 +1,10 @@
+id: lenovoemc-px2-300d
+vendor_id: lenovo
+name: Lenovoemc Px2-300D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:lenovoemc_px2\-300d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovoemc_px2-300d
+  confidence: auto

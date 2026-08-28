@@ -1,0 +1,10 @@
+id: gatemanager-8250-firmware
+vendor_id: secomea
+name: Gatemanager 8250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:secomea:gatemanager_8250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gatemanager_8250_firmware
+  confidence: auto

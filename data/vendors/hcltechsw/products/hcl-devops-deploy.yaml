@@ -1,0 +1,10 @@
+id: hcl-devops-deploy
+vendor_id: hcltechsw
+name: Hcl Devops Deploy
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltechsw:hcl_devops_deploy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_devops_deploy
+  confidence: auto

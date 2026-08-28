@@ -1,0 +1,10 @@
+id: pdf-invoices
+vendor_id: easydigitaldownloads
+name: Pdf Invoices
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:pdf_invoices:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdf_invoices
+  confidence: auto

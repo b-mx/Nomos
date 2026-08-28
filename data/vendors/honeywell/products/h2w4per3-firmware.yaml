@@ -1,0 +1,10 @@
+id: h2w4per3-firmware
+vendor_id: honeywell
+name: H2W4Per3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:h2w4per3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h2w4per3_firmware
+  confidence: auto

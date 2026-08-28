@@ -1,0 +1,10 @@
+id: seil-turbo-firmware
+vendor_id: iij
+name: Seil Turbo Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iij:seil_turbo_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil_turbo_firmware
+  confidence: auto

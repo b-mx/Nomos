@@ -1,0 +1,10 @@
+id: minikube
+vendor_id: kubernetes
+name: Minikube
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:minikube:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minikube
+  confidence: auto

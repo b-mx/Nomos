@@ -1,0 +1,10 @@
+id: ichain
+vendor_id: novell
+name: Ichain
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:ichain:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ichain
+  confidence: auto

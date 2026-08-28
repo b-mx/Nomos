@@ -1,0 +1,10 @@
+id: zxr10-1800-2s-firmware
+vendor_id: zte
+name: Zxr10 1800-2S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxr10_1800\-2s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxr10_1800-2s_firmware
+  confidence: auto

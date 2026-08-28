@@ -1,0 +1,7 @@
+id: duckdb
+name: Duckdb
+cpe: cpe:2.3:*:duckdb:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: duckdb
+  confidence: auto

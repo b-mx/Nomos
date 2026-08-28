@@ -1,0 +1,10 @@
+id: homeworks-qs
+vendor_id: lutron
+name: Homeworks Qs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lutron:homeworks_qs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: homeworks_qs
+  confidence: auto

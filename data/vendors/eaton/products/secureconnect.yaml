@@ -1,0 +1,10 @@
+id: secureconnect
+vendor_id: eaton
+name: Secureconnect
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:secureconnect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secureconnect
+  confidence: auto

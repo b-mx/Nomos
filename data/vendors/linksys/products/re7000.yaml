@@ -1,0 +1,10 @@
+id: re7000
+vendor_id: linksys
+name: Re7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:re7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re7000
+  confidence: auto

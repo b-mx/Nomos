@@ -1,0 +1,10 @@
+id: tutor-lms-migration-tool
+vendor_id: themeum
+name: Tutor Lms - Migration Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:themeum:tutor_lms_\-_migration_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tutor_lms_-_migration_tool
+  confidence: auto

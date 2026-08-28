@@ -1,0 +1,10 @@
+id: kla-journal-service
+vendor_id: bd
+name: Kla Journal Service
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:kla_journal_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kla_journal_service
+  confidence: auto

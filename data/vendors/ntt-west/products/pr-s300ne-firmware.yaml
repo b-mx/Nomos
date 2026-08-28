@@ -1,0 +1,10 @@
+id: pr-s300ne-firmware
+vendor_id: ntt-west
+name: Pr-S300Ne Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ntt\-west:pr\-s300ne_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pr-s300ne_firmware
+  confidence: auto

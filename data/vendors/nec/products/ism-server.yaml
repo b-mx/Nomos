@@ -1,0 +1,10 @@
+id: ism-server
+vendor_id: nec
+name: Ism Server
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:ism_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ism_server
+  confidence: auto

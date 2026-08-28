@@ -1,0 +1,10 @@
+id: ms321
+vendor_id: lexmark
+name: Ms321
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms321:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms321
+  confidence: auto

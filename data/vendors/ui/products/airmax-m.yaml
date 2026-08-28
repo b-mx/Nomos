@@ -1,0 +1,10 @@
+id: airmax-m
+vendor_id: ui
+name: Airmax M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:airmax_m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airmax_m
+  confidence: auto

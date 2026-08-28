@@ -1,0 +1,10 @@
+id: xnv-8020rmn
+vendor_id: hanwhavision
+name: Xnv-8020Rmn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-8020rmn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-8020rmn
+  confidence: auto

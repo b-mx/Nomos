@@ -1,0 +1,10 @@
+id: shotx
+vendor_id: huawei
+name: Shotx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:shotx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shotx
+  confidence: auto

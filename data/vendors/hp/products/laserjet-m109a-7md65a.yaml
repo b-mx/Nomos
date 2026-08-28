@@ -1,0 +1,10 @@
+id: laserjet-m109a-7md65a
+vendor_id: hp
+name: Laserjet M109A 7Md65A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m109a_7md65a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m109a_7md65a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sentinel-ldk-rte
+vendor_id: gemalto
+name: Sentinel Ldk Rte
+type: software
+tags: []
+cpe: cpe:2.3:a:gemalto:sentinel_ldk_rte:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sentinel_ldk_rte
+  confidence: auto

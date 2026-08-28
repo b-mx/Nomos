@@ -1,0 +1,10 @@
+id: e4-14arr
+vendor_id: lenovo
+name: E4-14Arr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:e4\-14arr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e4-14arr
+  confidence: auto

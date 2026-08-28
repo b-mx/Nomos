@@ -1,0 +1,10 @@
+id: aruba-2530ya
+vendor_id: arubanetworks
+name: Aruba 2530Ya
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:aruba_2530ya:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_2530ya
+  confidence: auto

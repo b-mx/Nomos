@@ -1,0 +1,6 @@
+id: amazon-aurora-mysql
+name: Amazon Aurora MySQL
+aliases:
+- source: endoflife
+  value: amazon-aurora-mysql
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ds-photo
+vendor_id: synology
+name: Ds Photo+
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:ds_photo\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds_photo+
+  confidence: auto

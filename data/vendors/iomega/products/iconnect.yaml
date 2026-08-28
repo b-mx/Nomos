@@ -1,0 +1,10 @@
+id: iconnect
+vendor_id: iomega
+name: Iconnect
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iomega:iconnect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iconnect
+  confidence: auto

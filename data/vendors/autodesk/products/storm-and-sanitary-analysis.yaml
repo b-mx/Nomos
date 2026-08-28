@@ -1,0 +1,10 @@
+id: storm-and-sanitary-analysis
+vendor_id: autodesk
+name: Storm And Sanitary Analysis
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:storm_and_sanitary_analysis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storm_and_sanitary_analysis
+  confidence: auto

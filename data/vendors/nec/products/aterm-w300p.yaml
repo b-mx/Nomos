@@ -1,0 +1,10 @@
+id: aterm-w300p
+vendor_id: nec
+name: Aterm W300P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_w300p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_w300p
+  confidence: auto

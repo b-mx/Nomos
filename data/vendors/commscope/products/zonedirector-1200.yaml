@@ -1,0 +1,10 @@
+id: zonedirector-1200
+vendor_id: commscope
+name: Zonedirector 1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:zonedirector_1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zonedirector_1200
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pavilion-laptop-15-cc5xx
+vendor_id: hp
+name: Pavilion Laptop 15-Cc5Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_laptop_15\-cc5xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_laptop_15-cc5xx
+  confidence: auto

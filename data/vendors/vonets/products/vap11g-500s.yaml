@@ -1,0 +1,10 @@
+id: vap11g-500s
+vendor_id: vonets
+name: Vap11G-500S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vonets:vap11g\-500s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vap11g-500s
+  confidence: auto

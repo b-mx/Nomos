@@ -1,0 +1,10 @@
+id: lpc5514jbd64-firmware
+vendor_id: nxp
+name: Lpc5514Jbd64 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:lpc5514jbd64_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lpc5514jbd64_firmware
+  confidence: auto

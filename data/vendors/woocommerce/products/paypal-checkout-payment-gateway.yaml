@@ -1,0 +1,10 @@
+id: paypal-checkout-payment-gateway
+vendor_id: woocommerce
+name: Paypal Checkout Payment Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:paypal_checkout_payment_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paypal_checkout_payment_gateway
+  confidence: auto

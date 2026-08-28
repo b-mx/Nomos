@@ -1,0 +1,10 @@
+id: b50-10-firmware
+vendor_id: lenovo
+name: B50-10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:b50\-10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b50-10_firmware
+  confidence: auto

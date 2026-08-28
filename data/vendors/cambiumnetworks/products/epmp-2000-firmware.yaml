@@ -1,0 +1,10 @@
+id: epmp-2000-firmware
+vendor_id: cambiumnetworks
+name: Epmp 2000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cambiumnetworks:epmp_2000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epmp_2000_firmware
+  confidence: auto

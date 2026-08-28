@@ -1,0 +1,10 @@
+id: libbsd
+vendor_id: freedesktop
+name: Libbsd
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:libbsd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libbsd
+  confidence: auto

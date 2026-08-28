@@ -1,0 +1,10 @@
+id: fox515t-firmware
+vendor_id: hitachienergy
+name: Fox515T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitachienergy:fox515t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fox515t_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x10drd-ltp
+vendor_id: supermicro
+name: X10Drd-Ltp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10drd\-ltp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drd-ltp
+  confidence: auto

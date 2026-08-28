@@ -1,0 +1,10 @@
+id: flair-z1
+vendor_id: lavamobiles
+name: Flair Z1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lavamobiles:flair_z1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flair_z1
+  confidence: auto

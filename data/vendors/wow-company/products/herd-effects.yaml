@@ -1,0 +1,10 @@
+id: herd-effects
+vendor_id: wow-company
+name: Herd Effects
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:herd_effects:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: herd_effects
+  confidence: auto

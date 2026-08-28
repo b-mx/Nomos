@@ -1,0 +1,10 @@
+id: commissions
+vendor_id: easydigitaldownloads
+name: Commissions
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:commissions:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: commissions
+  confidence: auto

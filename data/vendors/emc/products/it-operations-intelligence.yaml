@@ -1,0 +1,10 @@
+id: it-operations-intelligence
+vendor_id: emc
+name: It Operations Intelligence
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:it_operations_intelligence:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: it_operations_intelligence
+  confidence: auto

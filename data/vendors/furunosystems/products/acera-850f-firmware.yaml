@@ -1,0 +1,10 @@
+id: acera-850f-firmware
+vendor_id: furunosystems
+name: Acera 850F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:furunosystems:acera_850f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acera_850f_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sigma-spectrum-infusion-system-firmware
+vendor_id: baxter
+name: Sigma Spectrum Infusion System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baxter:sigma_spectrum_infusion_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sigma_spectrum_infusion_system_firmware
+  confidence: auto

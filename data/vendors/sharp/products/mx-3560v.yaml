@@ -1,0 +1,10 @@
+id: mx-3560v
+vendor_id: sharp
+name: Mx-3560V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-3560v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-3560v
+  confidence: auto

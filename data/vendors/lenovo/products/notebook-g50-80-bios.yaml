@@ -1,0 +1,10 @@
+id: notebook-g50-80-bios
+vendor_id: lenovo
+name: Notebook G50 80 Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:notebook_g50_80_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_g50_80_bios
+  confidence: auto

@@ -1,0 +1,10 @@
+id: runtastic-me
+vendor_id: runtastic
+name: Runtastic Me
+type: software
+tags: []
+cpe: cpe:2.3:a:runtastic:runtastic_me:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: runtastic_me
+  confidence: auto

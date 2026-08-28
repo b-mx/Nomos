@@ -1,0 +1,10 @@
+id: pyxis-supplyroller
+vendor_id: bd
+name: Pyxis Supplyroller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_supplyroller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_supplyroller
+  confidence: auto

@@ -1,0 +1,10 @@
+id: j8700a
+vendor_id: hp
+name: J8700A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:j8700a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j8700a
+  confidence: auto

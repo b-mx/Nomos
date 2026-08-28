@@ -1,0 +1,10 @@
+id: z60s-firmware
+vendor_id: lavamobiles
+name: Z60S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lavamobiles:z60s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z60s_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zbook-studio-g3-firmware
+vendor_id: hp
+name: Zbook Studio G3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zbook_studio_g3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_studio_g3_firmware
+  confidence: auto

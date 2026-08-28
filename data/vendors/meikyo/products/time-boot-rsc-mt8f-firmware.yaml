@@ -1,0 +1,10 @@
+id: time-boot-rsc-mt8f-firmware
+vendor_id: meikyo
+name: Time Boot Rsc-Mt8F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meikyo:time_boot_rsc\-mt8f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: time_boot_rsc-mt8f_firmware
+  confidence: auto

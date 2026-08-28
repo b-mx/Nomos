@@ -1,0 +1,10 @@
+id: wp-events-manager
+vendor_id: thimpress
+name: Wp Events Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:thimpress:wp_events_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_events_manager
+  confidence: auto

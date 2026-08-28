@@ -1,0 +1,10 @@
+id: xiaomi-router-ax3200
+vendor_id: mi
+name: Xiaomi Router Ax3200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:xiaomi_router_ax3200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaomi_router_ax3200
+  confidence: auto

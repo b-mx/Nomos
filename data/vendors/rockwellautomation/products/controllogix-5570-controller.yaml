@@ -1,0 +1,10 @@
+id: controllogix-5570-controller
+vendor_id: rockwellautomation
+name: Controllogix 5570 Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:controllogix_5570_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controllogix_5570_controller
+  confidence: auto

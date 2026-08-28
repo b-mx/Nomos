@@ -1,0 +1,10 @@
+id: p3265-v
+vendor_id: axis
+name: P3265-V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p3265\-v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3265-v
+  confidence: auto

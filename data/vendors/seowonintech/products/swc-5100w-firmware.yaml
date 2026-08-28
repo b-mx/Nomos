@@ -1,0 +1,10 @@
+id: swc-5100w-firmware
+vendor_id: seowonintech
+name: Swc-5100W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seowonintech:swc\-5100w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swc-5100w_firmware
+  confidence: auto

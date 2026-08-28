@@ -1,0 +1,10 @@
+id: opentext-portal
+vendor_id: opentext
+name: Opentext Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:opentext_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentext_portal
+  confidence: auto

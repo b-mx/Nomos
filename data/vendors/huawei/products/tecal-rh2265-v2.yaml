@@ -1,0 +1,10 @@
+id: tecal-rh2265-v2
+vendor_id: huawei
+name: Tecal Rh2265 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tecal_rh2265_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_rh2265_v2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: product-key-explorer
+vendor_id: nsasoft
+name: Product Key Explorer
+type: software
+tags: []
+cpe: cpe:2.3:a:nsasoft:product_key_explorer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_key_explorer
+  confidence: auto

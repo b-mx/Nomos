@@ -1,0 +1,10 @@
+id: elitebook-828-g3-firmware
+vendor_id: hp
+name: Elitebook 828 G3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitebook_828_g3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_828_g3_firmware
+  confidence: auto

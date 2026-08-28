@@ -1,0 +1,10 @@
+id: student-clearance-system
+vendor_id: campcodes
+name: Student Clearance System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:student_clearance_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: student_clearance_system
+  confidence: auto

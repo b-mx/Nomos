@@ -1,0 +1,10 @@
+id: fx3s-10mt-ds
+vendor_id: mitsubishielectric
+name: Fx3S-10Mt/Ds
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:fx3s\-10mt\/ds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3s-10mt/ds
+  confidence: auto

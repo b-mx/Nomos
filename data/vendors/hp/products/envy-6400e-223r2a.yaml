@@ -1,0 +1,10 @@
+id: envy-6400e-223r2a
+vendor_id: hp
+name: Envy 6400E 223R2A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_6400e_223r2a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6400e_223r2a
+  confidence: auto

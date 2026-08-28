@@ -1,0 +1,10 @@
+id: enterprise-server
+vendor_id: mandriva
+name: Enterprise Server
+type: os
+tags: []
+cpe: cpe:2.3:o:mandriva:enterprise_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_server
+  confidence: auto

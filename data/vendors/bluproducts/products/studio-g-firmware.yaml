@@ -1,0 +1,10 @@
+id: studio-g-firmware
+vendor_id: bluproducts
+name: Studio G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bluproducts:studio_g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_g_firmware
+  confidence: auto

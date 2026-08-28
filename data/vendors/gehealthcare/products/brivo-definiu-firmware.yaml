@@ -1,0 +1,10 @@
+id: brivo-definiu-firmware
+vendor_id: gehealthcare
+name: Brivo Definiu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:brivo_definiu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brivo_definiu_firmware
+  confidence: auto

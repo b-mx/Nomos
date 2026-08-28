@@ -1,0 +1,10 @@
+id: single-a
+vendor_id: mbs-solutions
+name: Single-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:single\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: single-a
+  confidence: auto

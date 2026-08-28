@@ -1,0 +1,10 @@
+id: pacemaker
+vendor_id: clusterlabs
+name: Pacemaker
+type: software
+tags: []
+cpe: cpe:2.3:a:clusterlabs:pacemaker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pacemaker
+  confidence: auto

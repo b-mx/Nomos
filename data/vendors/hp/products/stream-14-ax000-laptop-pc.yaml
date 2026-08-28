@@ -1,0 +1,10 @@
+id: stream-14-ax000-laptop-pc
+vendor_id: hp
+name: Stream 14-Ax000 Laptop Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:stream_14\-ax000_laptop_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stream_14-ax000_laptop_pc
+  confidence: auto

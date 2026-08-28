@@ -1,0 +1,10 @@
+id: fortify-software-security-center
+vendor_id: hp
+name: Fortify Software Security Center
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:fortify_software_security_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fortify_software_security_center
+  confidence: auto

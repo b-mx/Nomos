@@ -1,0 +1,10 @@
+id: a3004ns-bcm
+vendor_id: iptime
+name: A3004Ns-Bcm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a3004ns\-bcm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3004ns-bcm
+  confidence: auto

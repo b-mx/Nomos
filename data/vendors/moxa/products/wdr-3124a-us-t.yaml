@@ -1,0 +1,10 @@
+id: wdr-3124a-us-t
+vendor_id: moxa
+name: Wdr-3124A-Us-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:wdr\-3124a\-us\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wdr-3124a-us-t
+  confidence: auto

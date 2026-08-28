@@ -1,0 +1,10 @@
+id: deployment-wizard
+vendor_id: hummingbird
+name: Deployment Wizard
+type: software
+tags: []
+cpe: cpe:2.3:a:hummingbird:deployment_wizard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deployment_wizard
+  confidence: auto

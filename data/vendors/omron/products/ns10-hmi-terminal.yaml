@@ -1,0 +1,10 @@
+id: ns10-hmi-terminal
+vendor_id: omron
+name: Ns10 Hmi Terminal
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:ns10_hmi_terminal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ns10_hmi_terminal
+  confidence: auto

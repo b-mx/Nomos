@@ -1,0 +1,10 @@
+id: vr-u300w
+vendor_id: buffalo
+name: Vr-U300W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:vr\-u300w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vr-u300w
+  confidence: auto

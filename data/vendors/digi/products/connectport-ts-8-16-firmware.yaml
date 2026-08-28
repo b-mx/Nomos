@@ -1,0 +1,10 @@
+id: connectport-ts-8-16-firmware
+vendor_id: digi
+name: Connectport Ts 8/16 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:connectport_ts_8\/16_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connectport_ts_8/16_firmware
+  confidence: auto

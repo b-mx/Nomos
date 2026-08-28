@@ -1,0 +1,10 @@
+id: ncr-camera-firmware
+vendor_id: milesight
+name: Ncr/Camera Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:milesight:ncr\/camera_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ncr/camera_firmware
+  confidence: auto

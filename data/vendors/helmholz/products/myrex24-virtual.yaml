@@ -1,0 +1,10 @@
+id: myrex24-virtual
+vendor_id: helmholz
+name: Myrex24.Virtual
+type: software
+tags: []
+cpe: cpe:2.3:a:helmholz:myrex24\.virtual:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: myrex24.virtual
+  confidence: auto

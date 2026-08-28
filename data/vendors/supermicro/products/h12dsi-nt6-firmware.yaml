@@ -1,0 +1,10 @@
+id: h12dsi-nt6-firmware
+vendor_id: supermicro
+name: H12Dsi-Nt6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:h12dsi\-nt6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12dsi-nt6_firmware
+  confidence: auto

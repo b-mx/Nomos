@@ -1,0 +1,10 @@
+id: wemo-switch-28b-firmware
+vendor_id: belkin
+name: Wemo Switch 28B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:wemo_switch_28b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wemo_switch_28b_firmware
+  confidence: auto

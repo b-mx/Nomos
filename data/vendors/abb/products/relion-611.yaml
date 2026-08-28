@@ -1,0 +1,10 @@
+id: relion-611
+vendor_id: abb
+name: Relion 611
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:relion_611:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: relion_611
+  confidence: auto

@@ -1,0 +1,10 @@
+id: v61w-firmware
+vendor_id: valuehd
+name: V61W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:valuehd:v61w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v61w_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: smart-camera-x5
+vendor_id: lenovo
+name: Smart Camera X5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:smart_camera_x5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_camera_x5
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wl-nu516u1-firmware
+vendor_id: wavlink
+name: Wl-Nu516U1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wavlink:wl\-nu516u1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-nu516u1_firmware
+  confidence: auto

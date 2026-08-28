@@ -1,0 +1,10 @@
+id: sysgauge
+vendor_id: flexense
+name: Sysgauge
+type: software
+tags: []
+cpe: cpe:2.3:a:flexense:sysgauge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysgauge
+  confidence: auto

@@ -1,0 +1,10 @@
+id: linux
+vendor_id: gentoo
+name: Linux
+type: os
+tags: []
+cpe: cpe:2.3:o:gentoo:linux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux
+  confidence: auto

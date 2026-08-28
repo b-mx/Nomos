@@ -1,0 +1,10 @@
+id: nc-3100h
+vendor_id: brother
+name: Nc-3100H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:nc\-3100h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nc-3100h
+  confidence: auto

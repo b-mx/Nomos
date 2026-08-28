@@ -1,0 +1,10 @@
+id: thinkbook-14-g3-itl
+vendor_id: lenovo
+name: Thinkbook 14 G3 Itl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkbook_14_g3_itl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_14_g3_itl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: favorites
+vendor_id: easydigitaldownloads
+name: Favorites
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:favorites:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: favorites
+  confidence: auto

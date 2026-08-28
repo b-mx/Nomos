@@ -1,0 +1,10 @@
+id: e-350-4matic
+vendor_id: mercedes-benz
+name: E 350 4Matic
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mercedes\-benz:e_350_4matic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e_350_4matic
+  confidence: auto

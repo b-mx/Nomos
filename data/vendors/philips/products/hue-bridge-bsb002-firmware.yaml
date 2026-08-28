@@ -1,0 +1,10 @@
+id: hue-bridge-bsb002-firmware
+vendor_id: philips
+name: Hue Bridge Bsb002 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:hue_bridge_bsb002_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hue_bridge_bsb002_firmware
+  confidence: auto

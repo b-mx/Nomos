@@ -1,0 +1,10 @@
+id: remote-service-manager
+vendor_id: cybozu
+name: Remote Service Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:cybozu:remote_service_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_service_manager
+  confidence: auto

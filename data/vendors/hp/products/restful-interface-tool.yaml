@@ -1,0 +1,10 @@
+id: restful-interface-tool
+vendor_id: hp
+name: Restful Interface Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:restful_interface_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: restful_interface_tool
+  confidence: auto

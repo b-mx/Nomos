@@ -1,0 +1,10 @@
+id: teu-12n
+vendor_id: especmic
+name: Teu-12N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:especmic:teu\-12n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: teu-12n
+  confidence: auto

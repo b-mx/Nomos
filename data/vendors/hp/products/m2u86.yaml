@@ -1,0 +1,10 @@
+id: m2u86
+vendor_id: hp
+name: M2U86
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m2u86:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2u86
+  confidence: auto

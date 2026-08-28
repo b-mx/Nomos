@@ -1,0 +1,10 @@
+id: webproxy
+vendor_id: bluecoat
+name: Webproxy
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:webproxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webproxy
+  confidence: auto

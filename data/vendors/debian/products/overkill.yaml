@@ -1,0 +1,10 @@
+id: overkill
+vendor_id: debian
+name: Overkill
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:overkill:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: overkill
+  confidence: auto

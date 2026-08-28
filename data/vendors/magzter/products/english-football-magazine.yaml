@@ -1,0 +1,10 @@
+id: english-football-magazine
+vendor_id: magzter
+name: English Football Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:english_football_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: english_football_magazine
+  confidence: auto

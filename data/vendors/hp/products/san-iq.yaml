@@ -1,0 +1,10 @@
+id: san-iq
+vendor_id: hp
+name: San/Iq
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:san\/iq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: san/iq
+  confidence: auto

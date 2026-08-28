@@ -1,0 +1,9 @@
+id: metallb
+vendor_id: metallb
+name: MetalLB
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: metallb
+  confidence: auto

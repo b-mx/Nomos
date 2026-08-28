@@ -1,0 +1,10 @@
+id: taurus-al00b
+vendor_id: huawei
+name: Taurus-Al00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:taurus\-al00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: taurus-al00b
+  confidence: auto

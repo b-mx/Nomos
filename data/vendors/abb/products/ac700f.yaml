@@ -1,0 +1,10 @@
+id: ac700f
+vendor_id: abb
+name: Ac700F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:ac700f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac700f
+  confidence: auto

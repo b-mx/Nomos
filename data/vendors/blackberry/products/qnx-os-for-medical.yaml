@@ -1,0 +1,10 @@
+id: qnx-os-for-medical
+vendor_id: blackberry
+name: Qnx Os For Medical
+type: os
+tags: []
+cpe: cpe:2.3:o:blackberry:qnx_os_for_medical:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnx_os_for_medical
+  confidence: auto

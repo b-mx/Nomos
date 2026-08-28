@@ -1,0 +1,10 @@
+id: c1-firmware
+vendor_id: motorola
+name: C1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:c1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1_firmware
+  confidence: auto

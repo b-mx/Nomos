@@ -1,0 +1,10 @@
+id: jd369a
+vendor_id: hp
+name: Jd369A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd369a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd369a
+  confidence: auto

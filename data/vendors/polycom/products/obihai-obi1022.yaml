@@ -1,0 +1,10 @@
+id: obihai-obi1022
+vendor_id: polycom
+name: Obihai Obi1022
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:obihai_obi1022:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: obihai_obi1022
+  confidence: auto

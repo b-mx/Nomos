@@ -1,0 +1,10 @@
+id: domino-leap
+vendor_id: hcltech
+name: Domino Leap
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:domino_leap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: domino_leap
+  confidence: auto

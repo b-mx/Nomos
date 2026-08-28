@@ -1,0 +1,10 @@
+id: elite-folio-2-in-1-firmware
+vendor_id: hp
+name: Elite Folio 2-In-1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elite_folio_2\-in\-1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_folio_2-in-1_firmware
+  confidence: auto

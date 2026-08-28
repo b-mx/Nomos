@@ -1,0 +1,10 @@
+id: tp3106
+vendor_id: huawei
+name: Tp3106
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tp3106:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tp3106
+  confidence: auto

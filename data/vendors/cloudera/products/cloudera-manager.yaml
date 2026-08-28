@@ -1,0 +1,10 @@
+id: cloudera-manager
+vendor_id: cloudera
+name: Cloudera Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudera_manager
+  confidence: auto

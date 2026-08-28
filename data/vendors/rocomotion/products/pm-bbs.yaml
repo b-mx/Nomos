@@ -1,0 +1,10 @@
+id: pm-bbs
+vendor_id: rocomotion
+name: Pm Bbs
+type: software
+tags: []
+cpe: cpe:2.3:a:rocomotion:pm_bbs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm_bbs
+  confidence: auto

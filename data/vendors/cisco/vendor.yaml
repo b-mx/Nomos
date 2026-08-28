@@ -1,10 +1,6 @@
 id: cisco
 name: Cisco
-icon: cib:cisco
 aliases:
-  - source: nvd
-    value: cisco
-    confidence: curated
-  - source: cisa_kev
-    value: Cisco
-    confidence: curated
+- source: cisa_kev
+  value: Cisco
+  confidence: auto

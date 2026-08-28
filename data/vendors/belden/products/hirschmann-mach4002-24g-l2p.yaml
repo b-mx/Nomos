@@ -1,0 +1,10 @@
+id: hirschmann-mach4002-24g-l2p
+vendor_id: belden
+name: Hirschmann Mach4002-24G-L2P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_mach4002\-24g\-l2p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_mach4002-24g-l2p
+  confidence: auto

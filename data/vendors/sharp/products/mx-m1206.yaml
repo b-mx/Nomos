@@ -1,0 +1,10 @@
+id: mx-m1206
+vendor_id: sharp
+name: Mx-M1206
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-m1206:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m1206
+  confidence: auto

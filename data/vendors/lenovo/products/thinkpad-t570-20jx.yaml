@@ -1,0 +1,10 @@
+id: thinkpad-t570-20jx
+vendor_id: lenovo
+name: Thinkpad T570(20Jx)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_t570\(20jx\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t570(20jx)
+  confidence: auto

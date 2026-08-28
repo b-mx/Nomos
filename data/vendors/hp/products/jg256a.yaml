@@ -1,0 +1,10 @@
+id: jg256a
+vendor_id: hp
+name: Jg256A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg256a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg256a
+  confidence: auto

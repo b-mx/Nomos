@@ -1,0 +1,10 @@
+id: dmc-3000-transmitter
+vendor_id: mirion
+name: Dmc 3000 Transmitter
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mirion:dmc_3000_transmitter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dmc_3000_transmitter
+  confidence: auto

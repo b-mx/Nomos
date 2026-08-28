@@ -1,0 +1,10 @@
+id: armorstart-st-284ee-firmware
+vendor_id: rockwellautomation
+name: Armorstart St 284Ee Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:armorstart_st_284ee_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: armorstart_st_284ee_firmware
+  confidence: auto

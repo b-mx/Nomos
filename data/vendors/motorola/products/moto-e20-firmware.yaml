@@ -1,0 +1,10 @@
+id: moto-e20-firmware
+vendor_id: motorola
+name: Moto E20 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:moto_e20_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moto_e20_firmware
+  confidence: auto

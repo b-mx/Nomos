@@ -1,0 +1,10 @@
+id: iptv-h-264-video-encoder-firmware
+vendor_id: szuray
+name: Iptv/H.264 Video Encoder Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:szuray:iptv\/h\.264_video_encoder_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iptv/h.264_video_encoder_firmware
+  confidence: auto

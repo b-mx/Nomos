@@ -1,0 +1,10 @@
+id: nj501-r420-firmware
+vendor_id: omron
+name: Nj501-R420 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:nj501\-r420_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nj501-r420_firmware
+  confidence: auto

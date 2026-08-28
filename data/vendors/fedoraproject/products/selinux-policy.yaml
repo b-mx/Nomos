@@ -1,0 +1,10 @@
+id: selinux-policy
+vendor_id: fedoraproject
+name: Selinux-Policy
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:selinux\-policy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: selinux-policy
+  confidence: auto

@@ -1,0 +1,10 @@
+id: endpoint-security
+vendor_id: kaspersky
+name: Endpoint Security
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:endpoint_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: endpoint_security
+  confidence: auto

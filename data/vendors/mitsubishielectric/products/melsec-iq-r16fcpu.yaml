@@ -1,0 +1,10 @@
+id: melsec-iq-r16fcpu
+vendor_id: mitsubishielectric
+name: Melsec Iq-R16Fcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_iq\-r16fcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-r16fcpu
+  confidence: auto

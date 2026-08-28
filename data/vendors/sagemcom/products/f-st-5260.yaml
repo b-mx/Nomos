@@ -1,0 +1,10 @@
+id: f-st-5260
+vendor_id: sagemcom
+name: F@St 5260
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sagemcom:f\@st_5260:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f@st_5260
+  confidence: auto

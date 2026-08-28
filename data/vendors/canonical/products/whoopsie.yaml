@@ -1,0 +1,10 @@
+id: whoopsie
+vendor_id: canonical
+name: Whoopsie
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:whoopsie:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whoopsie
+  confidence: auto

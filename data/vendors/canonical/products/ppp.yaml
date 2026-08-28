@@ -1,0 +1,10 @@
+id: ppp
+vendor_id: canonical
+name: Ppp
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:ppp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ppp
+  confidence: auto

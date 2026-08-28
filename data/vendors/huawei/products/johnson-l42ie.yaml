@@ -1,0 +1,10 @@
+id: johnson-l42ie
+vendor_id: huawei
+name: Johnson-L42Ie
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:johnson\-l42ie:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: johnson-l42ie
+  confidence: auto

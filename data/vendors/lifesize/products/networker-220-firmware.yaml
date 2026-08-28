@@ -1,0 +1,10 @@
+id: networker-220-firmware
+vendor_id: lifesize
+name: Networker 220 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lifesize:networker_220_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: networker_220_firmware
+  confidence: auto

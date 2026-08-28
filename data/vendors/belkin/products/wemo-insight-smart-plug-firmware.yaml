@@ -1,0 +1,10 @@
+id: wemo-insight-smart-plug-firmware
+vendor_id: belkin
+name: Wemo Insight Smart Plug Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:wemo_insight_smart_plug_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wemo_insight_smart_plug_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 5015-aenftxt-firmware
+vendor_id: rockwellautomation
+name: 5015-Aenftxt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:5015\-aenftxt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5015-aenftxt_firmware
+  confidence: auto

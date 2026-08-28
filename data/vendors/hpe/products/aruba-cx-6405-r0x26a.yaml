@@ -1,0 +1,10 @@
+id: aruba-cx-6405-r0x26a
+vendor_id: hpe
+name: Aruba Cx 6405 (R0X26A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6405_\(r0x26a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6405_(r0x26a)
+  confidence: auto

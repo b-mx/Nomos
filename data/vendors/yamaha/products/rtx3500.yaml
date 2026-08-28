@@ -1,0 +1,10 @@
+id: rtx3500
+vendor_id: yamaha
+name: Rtx3500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:rtx3500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtx3500
+  confidence: auto

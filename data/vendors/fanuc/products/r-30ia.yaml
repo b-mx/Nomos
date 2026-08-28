@@ -1,0 +1,10 @@
+id: r-30ia
+vendor_id: fanuc
+name: R-30Ia
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:r\-30ia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r-30ia
+  confidence: auto

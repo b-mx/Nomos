@@ -1,0 +1,10 @@
+id: passport-integrated-console-server-firmware
+vendor_id: digi
+name: Passport Integrated Console Server Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:passport_integrated_console_server_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: passport_integrated_console_server_firmware
+  confidence: auto

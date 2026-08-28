@@ -1,0 +1,10 @@
+id: merchant-sdk
+vendor_id: amazon
+name: Merchant Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:merchant_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: merchant_sdk
+  confidence: auto

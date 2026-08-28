@@ -1,0 +1,10 @@
+id: plcnext-engineer
+vendor_id: phoenixcontact
+name: Plcnext Engineer
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:plcnext_engineer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plcnext_engineer
+  confidence: auto

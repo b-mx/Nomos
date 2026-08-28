@@ -1,0 +1,10 @@
+id: smart-tank-6000-2h3n3a
+vendor_id: hp
+name: Smart Tank 6000 2H3N3A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_6000_2h3n3a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_6000_2h3n3a
+  confidence: auto

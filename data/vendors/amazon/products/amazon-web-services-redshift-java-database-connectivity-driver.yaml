@@ -1,0 +1,10 @@
+id: amazon-web-services-redshift-java-database-connectivity-driver
+vendor_id: amazon
+name: Amazon Web Services Redshift Java Database Connectivity Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:amazon_web_services_redshift_java_database_connectivity_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_web_services_redshift_java_database_connectivity_driver
+  confidence: auto

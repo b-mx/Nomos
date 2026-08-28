@@ -1,0 +1,10 @@
+id: 6-pro-13-iwl
+vendor_id: lenovo
+name: 6 Pro-13-Iwl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:6_pro\-13\-iwl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 6_pro-13-iwl
+  confidence: auto

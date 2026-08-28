@@ -1,0 +1,10 @@
+id: potter-al00c
+vendor_id: huawei
+name: Potter-Al00C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:potter\-al00c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: potter-al00c
+  confidence: auto

@@ -1,0 +1,10 @@
+id: emily-l29c-firmware
+vendor_id: huawei
+name: Emily-L29C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:emily\-l29c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emily-l29c_firmware
+  confidence: auto

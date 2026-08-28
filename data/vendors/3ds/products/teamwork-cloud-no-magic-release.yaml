@@ -1,0 +1,10 @@
+id: teamwork-cloud-no-magic-release
+vendor_id: 3ds
+name: Teamwork Cloud No Magic Release
+type: software
+tags: []
+cpe: cpe:2.3:a:3ds:teamwork_cloud_no_magic_release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: teamwork_cloud_no_magic_release
+  confidence: auto

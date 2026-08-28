@@ -1,0 +1,10 @@
+id: pc-fax-generic-driver
+vendor_id: ricoh
+name: Pc Fax Generic Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:pc_fax_generic_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc_fax_generic_driver
+  confidence: auto

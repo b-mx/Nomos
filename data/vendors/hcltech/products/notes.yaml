@@ -1,0 +1,10 @@
+id: notes
+vendor_id: hcltech
+name: Notes
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notes
+  confidence: auto

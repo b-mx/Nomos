@@ -1,0 +1,10 @@
+id: smartdownload
+vendor_id: netscape
+name: Smartdownload
+type: software
+tags: []
+cpe: cpe:2.3:a:netscape:smartdownload:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartdownload
+  confidence: auto

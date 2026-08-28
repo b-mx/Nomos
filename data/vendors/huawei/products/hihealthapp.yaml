@@ -1,0 +1,10 @@
+id: hihealthapp
+vendor_id: huawei
+name: Hihealthapp
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hihealthapp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hihealthapp
+  confidence: auto

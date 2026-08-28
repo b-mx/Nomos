@@ -1,0 +1,10 @@
+id: shopengine
+vendor_id: wpmet
+name: Shopengine
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmet:shopengine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shopengine
+  confidence: auto

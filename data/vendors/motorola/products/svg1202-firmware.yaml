@@ -1,0 +1,10 @@
+id: svg1202-firmware
+vendor_id: motorola
+name: Svg1202 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:svg1202_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: svg1202_firmware
+  confidence: auto

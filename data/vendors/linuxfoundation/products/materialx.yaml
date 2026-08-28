@@ -1,0 +1,10 @@
+id: materialx
+vendor_id: linuxfoundation
+name: Materialx
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:materialx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: materialx
+  confidence: auto

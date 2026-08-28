@@ -1,0 +1,10 @@
+id: a2003mu
+vendor_id: iptime
+name: A2003Mu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a2003mu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a2003mu
+  confidence: auto

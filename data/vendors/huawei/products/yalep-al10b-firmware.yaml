@@ -1,0 +1,10 @@
+id: yalep-al10b-firmware
+vendor_id: huawei
+name: Yalep-Al10B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:yalep\-al10b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yalep-al10b_firmware
+  confidence: auto

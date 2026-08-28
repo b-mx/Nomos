@@ -1,0 +1,10 @@
+id: proliant-agentless-management
+vendor_id: hpe
+name: Proliant Agentless Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:proliant_agentless_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_agentless_management
+  confidence: auto

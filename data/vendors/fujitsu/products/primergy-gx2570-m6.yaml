@@ -1,0 +1,10 @@
+id: primergy-gx2570-m6
+vendor_id: fujitsu
+name: Primergy Gx2570 M6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:primergy_gx2570_m6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primergy_gx2570_m6
+  confidence: auto

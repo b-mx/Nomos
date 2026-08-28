@@ -1,0 +1,10 @@
+id: autohost
+vendor_id: idevspot
+name: Autohost
+type: software
+tags: []
+cpe: cpe:2.3:a:idevspot:autohost:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autohost
+  confidence: auto

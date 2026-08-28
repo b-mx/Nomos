@@ -1,0 +1,10 @@
+id: squawk-fix-data
+vendor_id: neilcochran
+name: Squawk/Fix-Data
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/fix\-data:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/fix-data
+  confidence: auto

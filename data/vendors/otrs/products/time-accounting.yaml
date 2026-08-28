@@ -1,0 +1,10 @@
+id: time-accounting
+vendor_id: otrs
+name: Time Accounting
+type: software
+tags: []
+cpe: cpe:2.3:a:otrs:time_accounting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: time_accounting
+  confidence: auto

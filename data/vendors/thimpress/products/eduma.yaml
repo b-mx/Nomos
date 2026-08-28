@@ -1,0 +1,10 @@
+id: eduma
+vendor_id: thimpress
+name: Eduma
+type: software
+tags: []
+cpe: cpe:2.3:a:thimpress:eduma:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eduma
+  confidence: auto

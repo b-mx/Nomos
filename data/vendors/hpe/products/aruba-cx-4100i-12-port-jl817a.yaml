@@ -1,0 +1,10 @@
+id: aruba-cx-4100i-12-port-jl817a
+vendor_id: hpe
+name: Aruba Cx 4100I 12-Port (Jl817A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_4100i_12\-port_\(jl817a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_4100i_12-port_(jl817a)
+  confidence: auto

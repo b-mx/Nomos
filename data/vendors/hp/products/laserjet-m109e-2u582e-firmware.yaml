@@ -1,0 +1,10 @@
+id: laserjet-m109e-2u582e-firmware
+vendor_id: hp
+name: Laserjet M109E 2U582E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_m109e_2u582e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m109e_2u582e_firmware
+  confidence: auto

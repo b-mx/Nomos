@@ -1,0 +1,10 @@
+id: prodesk-680-g2-microtower
+vendor_id: hp
+name: Prodesk 680 G2 Microtower
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_680_g2_microtower:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_680_g2_microtower
+  confidence: auto

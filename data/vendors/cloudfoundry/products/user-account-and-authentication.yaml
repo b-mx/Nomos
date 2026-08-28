@@ -1,0 +1,10 @@
+id: user-account-and-authentication
+vendor_id: cloudfoundry
+name: User Account And Authentication
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:user_account_and_authentication:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: user_account_and_authentication
+  confidence: auto

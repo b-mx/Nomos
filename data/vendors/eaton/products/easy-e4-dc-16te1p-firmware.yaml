@@ -1,0 +1,10 @@
+id: easy-e4-dc-16te1p-firmware
+vendor_id: eaton
+name: Easy-E4-Dc-16Te1P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eaton:easy\-e4\-dc\-16te1p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy-e4-dc-16te1p_firmware
+  confidence: auto

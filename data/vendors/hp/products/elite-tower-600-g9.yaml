@@ -1,0 +1,10 @@
+id: elite-tower-600-g9
+vendor_id: hp
+name: Elite Tower 600 G9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elite_tower_600_g9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_tower_600_g9
+  confidence: auto

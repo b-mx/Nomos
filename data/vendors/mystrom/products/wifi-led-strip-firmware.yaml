@@ -1,0 +1,10 @@
+id: wifi-led-strip-firmware
+vendor_id: mystrom
+name: Wifi Led Strip Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mystrom:wifi_led_strip_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifi_led_strip_firmware
+  confidence: auto

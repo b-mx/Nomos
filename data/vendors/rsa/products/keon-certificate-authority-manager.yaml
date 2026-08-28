@@ -1,0 +1,10 @@
+id: keon-certificate-authority-manager
+vendor_id: rsa
+name: Keon Certificate Authority Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:keon_certificate_authority_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keon_certificate_authority_manager
+  confidence: auto

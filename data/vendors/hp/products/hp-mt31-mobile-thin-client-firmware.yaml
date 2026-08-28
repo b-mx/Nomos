@@ -1,0 +1,10 @@
+id: hp-mt31-mobile-thin-client-firmware
+vendor_id: hp
+name: Hp Mt31 Mobile Thin Client Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:hp_mt31_mobile_thin_client_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_mt31_mobile_thin_client_firmware
+  confidence: auto

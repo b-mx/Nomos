@@ -1,0 +1,10 @@
+id: uc-1222a
+vendor_id: moxa
+name: Uc-1222A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:uc\-1222a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-1222a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gps-firmware
+vendor_id: fujitsu
+name: Gps Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:gps_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gps_firmware
+  confidence: auto

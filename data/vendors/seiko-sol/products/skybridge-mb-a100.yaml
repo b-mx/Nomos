@@ -1,0 +1,10 @@
+id: skybridge-mb-a100
+vendor_id: seiko-sol
+name: Skybridge Mb-A100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seiko\-sol:skybridge_mb\-a100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skybridge_mb-a100
+  confidence: auto

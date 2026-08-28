@@ -1,0 +1,10 @@
+id: trend-iq422
+vendor_id: honeywell
+name: Trend Iq422
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:trend_iq422:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trend_iq422
+  confidence: auto

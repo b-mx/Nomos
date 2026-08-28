@@ -1,0 +1,10 @@
+id: proliant-e910-server-blade
+vendor_id: hpe
+name: Proliant E910 Server Blade
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_e910_server_blade:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_e910_server_blade
+  confidence: auto

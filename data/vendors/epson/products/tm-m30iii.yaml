@@ -1,0 +1,10 @@
+id: tm-m30iii
+vendor_id: epson
+name: Tm-M30Iii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-m30iii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-m30iii
+  confidence: auto

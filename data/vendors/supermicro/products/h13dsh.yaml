@@ -1,0 +1,10 @@
+id: h13dsh
+vendor_id: supermicro
+name: H13Dsh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h13dsh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h13dsh
+  confidence: auto

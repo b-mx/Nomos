@@ -1,0 +1,10 @@
+id: vplex-geosynchrony
+vendor_id: emc
+name: Vplex Geosynchrony
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:vplex_geosynchrony:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vplex_geosynchrony
+  confidence: auto

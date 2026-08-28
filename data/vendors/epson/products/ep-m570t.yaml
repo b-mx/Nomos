@@ -1,0 +1,10 @@
+id: ep-m570t
+vendor_id: epson
+name: Ep-M570T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ep\-m570t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep-m570t
+  confidence: auto

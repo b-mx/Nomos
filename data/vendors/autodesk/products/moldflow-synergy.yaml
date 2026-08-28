@@ -1,0 +1,10 @@
+id: moldflow-synergy
+vendor_id: autodesk
+name: Moldflow Synergy
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:moldflow_synergy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moldflow_synergy
+  confidence: auto

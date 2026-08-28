@@ -1,0 +1,10 @@
+id: sound-forge
+vendor_id: sony
+name: Sound Forge
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:sound_forge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sound_forge
+  confidence: auto

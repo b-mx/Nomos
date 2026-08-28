@@ -1,0 +1,10 @@
+id: ne80e
+vendor_id: huawei
+name: Ne80E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ne80e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ne80e
+  confidence: auto

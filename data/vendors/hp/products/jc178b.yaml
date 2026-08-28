@@ -1,0 +1,10 @@
+id: jc178b
+vendor_id: hp
+name: Jc178B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc178b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc178b
+  confidence: auto

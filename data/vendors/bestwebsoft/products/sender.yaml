@@ -1,0 +1,10 @@
+id: sender
+vendor_id: bestwebsoft
+name: Sender
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:sender:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sender
+  confidence: auto

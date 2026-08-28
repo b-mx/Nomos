@@ -1,0 +1,10 @@
+id: bravia
+vendor_id: sony
+name: Bravia
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:bravia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bravia
+  confidence: auto

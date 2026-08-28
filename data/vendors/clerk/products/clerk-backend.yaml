@@ -1,0 +1,10 @@
+id: clerk-backend
+vendor_id: clerk
+name: Clerk/Backend
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/backend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/backend
+  confidence: auto

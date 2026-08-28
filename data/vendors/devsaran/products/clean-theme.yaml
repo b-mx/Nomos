@@ -1,0 +1,10 @@
+id: clean-theme
+vendor_id: devsaran
+name: Clean Theme
+type: software
+tags: []
+cpe: cpe:2.3:a:devsaran:clean_theme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clean_theme
+  confidence: auto

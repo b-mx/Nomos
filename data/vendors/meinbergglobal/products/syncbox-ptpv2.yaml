@@ -1,0 +1,10 @@
+id: syncbox-ptpv2
+vendor_id: meinbergglobal
+name: Syncbox/Ptpv2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meinbergglobal:syncbox\/ptpv2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: syncbox/ptpv2
+  confidence: auto

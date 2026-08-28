@@ -1,0 +1,10 @@
+id: vie-l09-firmware
+vendor_id: huawei
+name: Vie-L09 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:vie\-l09_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vie-l09_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: samsung-clp680-firmware
+vendor_id: hp
+name: Samsung Clp680 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:samsung_clp680_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: samsung_clp680_firmware
+  confidence: auto

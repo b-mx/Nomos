@@ -1,0 +1,10 @@
+id: 280-g4-small-form-factor-rom-family-ssid-86e9
+vendor_id: hp
+name: 280 G4 Small Form Factor (Rom Family Ssid 86E9)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:280_g4_small_form_factor_\(rom_family_ssid_86e9\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 280_g4_small_form_factor_(rom_family_ssid_86e9)
+  confidence: auto

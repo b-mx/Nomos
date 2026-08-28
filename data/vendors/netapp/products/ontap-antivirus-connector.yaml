@@ -1,0 +1,10 @@
+id: ontap-antivirus-connector
+vendor_id: netapp
+name: Ontap Antivirus Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:ontap_antivirus_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ontap_antivirus_connector
+  confidence: auto

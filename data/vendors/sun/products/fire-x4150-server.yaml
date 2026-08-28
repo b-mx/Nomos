@@ -1,0 +1,10 @@
+id: fire-x4150-server
+vendor_id: sun
+name: Fire X4150 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sun:fire_x4150_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fire_x4150_server
+  confidence: auto

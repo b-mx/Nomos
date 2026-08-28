@@ -1,0 +1,10 @@
+id: vpn-router-portfolio
+vendor_id: nortel
+name: Vpn Router Portfolio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:vpn_router_portfolio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vpn_router_portfolio
+  confidence: auto

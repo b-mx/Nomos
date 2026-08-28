@@ -1,0 +1,10 @@
+id: uw-323dac-firmware
+vendor_id: uniwayinfo
+name: Uw-323Dac Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:uniwayinfo:uw\-323dac_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uw-323dac_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: online-time-table-generator
+vendor_id: projectworlds
+name: Online Time Table Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:projectworlds:online_time_table_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_time_table_generator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: florida-l03
+vendor_id: huawei
+name: Florida-L03
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:florida\-l03:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: florida-l03
+  confidence: auto

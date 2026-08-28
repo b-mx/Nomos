@@ -1,0 +1,10 @@
+id: g-code-eec-2400
+vendor_id: geutebrueck
+name: G-Code Eec-2400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:geutebrueck:g\-code_eec\-2400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g-code_eec-2400
+  confidence: auto

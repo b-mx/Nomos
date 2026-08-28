@@ -1,0 +1,10 @@
+id: unified-security-gateway-firmware
+vendor_id: huawei
+name: Unified Security Gateway Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:unified_security_gateway_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unified_security_gateway_firmware
+  confidence: auto

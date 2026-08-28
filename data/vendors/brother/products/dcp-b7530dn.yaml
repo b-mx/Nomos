@@ -1,0 +1,10 @@
+id: dcp-b7530dn
+vendor_id: brother
+name: Dcp-B7530Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-b7530dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-b7530dn
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ub-e04
+vendor_id: epson
+name: Ub-E04
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ub\-e04:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ub-e04
+  confidence: auto

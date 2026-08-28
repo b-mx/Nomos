@@ -1,0 +1,10 @@
+id: ex300-v2-firmware
+vendor_id: totolink
+name: Ex300 V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:ex300_v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex300_v2_firmware
+  confidence: auto

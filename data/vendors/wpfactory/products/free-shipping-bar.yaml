@@ -1,0 +1,10 @@
+id: free-shipping-bar
+vendor_id: wpfactory
+name: Free Shipping Bar
+type: software
+tags: []
+cpe: cpe:2.3:a:wpfactory:free_shipping_bar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: free_shipping_bar
+  confidence: auto

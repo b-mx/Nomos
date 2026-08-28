@@ -1,0 +1,10 @@
+id: aspire-tc-105
+vendor_id: acer
+name: Aspire Tc-105
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_tc\-105:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_tc-105
+  confidence: auto

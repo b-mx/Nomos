@@ -1,0 +1,10 @@
+id: a1300-firmware
+vendor_id: gl-inet
+name: A1300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:a1300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1300_firmware
+  confidence: auto

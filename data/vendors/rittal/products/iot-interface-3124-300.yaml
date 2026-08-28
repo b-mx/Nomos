@@ -1,0 +1,10 @@
+id: iot-interface-3124-300
+vendor_id: rittal
+name: Iot Interface 3124.300
+type: software
+tags: []
+cpe: cpe:2.3:a:rittal:iot_interface_3124\.300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iot_interface_3124.300
+  confidence: auto

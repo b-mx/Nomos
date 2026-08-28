@@ -1,0 +1,10 @@
+id: docuprint-3508-d
+vendor_id: fujifilm
+name: Docuprint 3508 D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:docuprint_3508_d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_3508_d
+  confidence: auto

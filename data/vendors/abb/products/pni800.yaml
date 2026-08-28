@@ -1,0 +1,10 @@
+id: pni800
+vendor_id: abb
+name: Pni800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pni800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pni800
+  confidence: auto

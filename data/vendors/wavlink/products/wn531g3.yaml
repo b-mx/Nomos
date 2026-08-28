@@ -1,0 +1,10 @@
+id: wn531g3
+vendor_id: wavlink
+name: Wn531G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wavlink:wn531g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn531g3
+  confidence: auto

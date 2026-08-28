@@ -1,0 +1,10 @@
+id: mf297d-firmware
+vendor_id: zte
+name: Mf297D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:mf297d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf297d_firmware
+  confidence: auto

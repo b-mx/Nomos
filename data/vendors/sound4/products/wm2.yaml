@@ -1,0 +1,10 @@
+id: wm2
+vendor_id: sound4
+name: Wm2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sound4:wm2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wm2
+  confidence: auto

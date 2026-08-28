@@ -1,0 +1,10 @@
+id: zxcloud-goldendata-vap
+vendor_id: zte
+name: Zxcloud Goldendata Vap
+type: software
+tags: []
+cpe: cpe:2.3:a:zte:zxcloud_goldendata_vap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxcloud_goldendata_vap
+  confidence: auto

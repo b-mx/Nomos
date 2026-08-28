@@ -1,0 +1,10 @@
+id: access-manager-server
+vendor_id: rsa
+name: Access Manager Server
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:access_manager_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_manager_server
+  confidence: auto

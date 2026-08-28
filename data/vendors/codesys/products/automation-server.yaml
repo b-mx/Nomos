@@ -1,0 +1,10 @@
+id: automation-server
+vendor_id: codesys
+name: Automation Server
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:automation_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automation_server
+  confidence: auto

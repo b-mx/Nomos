@@ -1,0 +1,10 @@
+id: galvo-1-5-1-208-240
+vendor_id: fronius
+name: Galvo 1.5-1 208-240
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fronius:galvo_1\.5\-1_208\-240:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: galvo_1.5-1_208-240
+  confidence: auto

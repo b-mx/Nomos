@@ -1,0 +1,10 @@
+id: unibox-u50
+vendor_id: indionetworks
+name: Unibox U50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:indionetworks:unibox_u50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unibox_u50
+  confidence: auto

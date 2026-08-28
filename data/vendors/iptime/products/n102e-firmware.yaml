@@ -1,0 +1,10 @@
+id: n102e-firmware
+vendor_id: iptime
+name: N102E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n102e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n102e_firmware
+  confidence: auto

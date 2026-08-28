@@ -1,0 +1,10 @@
+id: x94x
+vendor_id: lexmark
+name: X94X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x94x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x94x
+  confidence: auto

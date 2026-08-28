@@ -1,0 +1,10 @@
+id: 1200gw
+vendor_id: utt
+name: 1200Gw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:utt:1200gw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1200gw
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lead-5-firmware
+vendor_id: leagoo
+name: Lead 5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:leagoo:lead_5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lead_5_firmware
+  confidence: auto

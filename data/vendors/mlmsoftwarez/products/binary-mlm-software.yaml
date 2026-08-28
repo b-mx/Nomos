@@ -1,0 +1,10 @@
+id: binary-mlm-software
+vendor_id: mlmsoftwarez
+name: Binary Mlm Software
+type: software
+tags: []
+cpe: cpe:2.3:a:mlmsoftwarez:binary_mlm_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: binary_mlm_software
+  confidence: auto

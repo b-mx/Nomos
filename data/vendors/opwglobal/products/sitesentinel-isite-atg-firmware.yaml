@@ -1,0 +1,10 @@
+id: sitesentinel-isite-atg-firmware
+vendor_id: opwglobal
+name: Sitesentinel Isite Atg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:opwglobal:sitesentinel_isite_atg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sitesentinel_isite_atg_firmware
+  confidence: auto

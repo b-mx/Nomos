@@ -1,0 +1,10 @@
+id: securid-software-token-converter
+vendor_id: rsa
+name: Securid Software Token Converter
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:securid_software_token_converter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: securid_software_token_converter
+  confidence: auto

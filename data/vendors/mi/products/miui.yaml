@@ -1,0 +1,10 @@
+id: miui
+vendor_id: mi
+name: Miui
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:miui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miui
+  confidence: auto

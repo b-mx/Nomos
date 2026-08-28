@@ -1,0 +1,10 @@
+id: themify-builder
+vendor_id: themify
+name: Themify Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:themify:themify_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: themify_builder
+  confidence: auto

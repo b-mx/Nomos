@@ -1,0 +1,10 @@
+id: bl5000
+vendor_id: doogee
+name: Bl5000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:doogee:bl5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl5000
+  confidence: auto

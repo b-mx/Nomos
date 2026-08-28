@@ -1,0 +1,10 @@
+id: web-viewpoint
+vendor_id: hpe
+name: Web Viewpoint
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:web_viewpoint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_viewpoint
+  confidence: auto

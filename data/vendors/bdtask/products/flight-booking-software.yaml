@@ -1,0 +1,10 @@
+id: flight-booking-software
+vendor_id: bdtask
+name: Flight Booking Software
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:flight_booking_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flight_booking_software
+  confidence: auto

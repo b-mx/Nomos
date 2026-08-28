@@ -1,0 +1,10 @@
+id: download-theme
+vendor_id: metagauss
+name: Download Theme
+type: software
+tags: []
+cpe: cpe:2.3:a:metagauss:download_theme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: download_theme
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ec-01
+vendor_id: epson
+name: Ec-01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ec\-01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ec-01
+  confidence: auto

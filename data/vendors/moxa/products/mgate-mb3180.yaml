@@ -1,0 +1,10 @@
+id: mgate-mb3180
+vendor_id: moxa
+name: Mgate Mb3180
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:mgate_mb3180:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mgate_mb3180
+  confidence: auto

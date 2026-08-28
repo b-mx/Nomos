@@ -1,0 +1,10 @@
+id: integrity-mc990-x-server-rmc-firmware
+vendor_id: hpe
+name: Integrity Mc990 X Server Rmc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:integrity_mc990_x_server_rmc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrity_mc990_x_server_rmc_firmware
+  confidence: auto

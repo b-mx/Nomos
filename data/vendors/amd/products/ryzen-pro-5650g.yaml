@@ -1,0 +1,10 @@
+id: ryzen-pro-5650g
+vendor_id: amd
+name: Ryzen Pro 5650G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_pro_5650g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_pro_5650g
+  confidence: auto

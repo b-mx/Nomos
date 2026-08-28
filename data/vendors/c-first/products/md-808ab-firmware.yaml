@@ -1,0 +1,10 @@
+id: md-808ab-firmware
+vendor_id: c-first
+name: Md-808Ab Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:c\-first:md\-808ab_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: md-808ab_firmware
+  confidence: auto

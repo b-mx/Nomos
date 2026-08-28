@@ -1,0 +1,10 @@
+id: yoga
+vendor_id: lenovo
+name: Yoga
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yoga:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga
+  confidence: auto

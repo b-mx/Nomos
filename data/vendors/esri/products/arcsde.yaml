@@ -1,0 +1,10 @@
+id: arcsde
+vendor_id: esri
+name: Arcsde
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:arcsde:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcsde
+  confidence: auto

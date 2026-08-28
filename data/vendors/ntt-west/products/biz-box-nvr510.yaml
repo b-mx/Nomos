@@ -1,0 +1,10 @@
+id: biz-box-nvr510
+vendor_id: ntt-west
+name: Biz Box Nvr510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-west:biz_box_nvr510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biz_box_nvr510
+  confidence: auto

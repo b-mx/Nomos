@@ -1,0 +1,10 @@
+id: laserjet-managed-500-color-mfp-m575
+vendor_id: hp
+name: Laserjet Managed 500 Color Mfp M575
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_500_color_mfp_m575:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_500_color_mfp_m575
+  confidence: auto

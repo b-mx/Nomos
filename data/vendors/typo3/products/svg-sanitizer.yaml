@@ -1,0 +1,10 @@
+id: svg-sanitizer
+vendor_id: typo3
+name: Svg Sanitizer
+type: software
+tags: []
+cpe: cpe:2.3:a:typo3:svg_sanitizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: svg_sanitizer
+  confidence: auto

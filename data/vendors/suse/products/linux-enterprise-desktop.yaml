@@ -1,0 +1,10 @@
+id: linux-enterprise-desktop
+vendor_id: suse
+name: Linux Enterprise Desktop
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux_enterprise_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_desktop
+  confidence: auto

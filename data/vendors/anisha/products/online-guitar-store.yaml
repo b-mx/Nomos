@@ -1,0 +1,10 @@
+id: online-guitar-store
+vendor_id: anisha
+name: Online Guitar Store
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:online_guitar_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_guitar_store
+  confidence: auto

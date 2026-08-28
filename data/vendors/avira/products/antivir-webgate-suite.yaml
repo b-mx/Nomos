@@ -1,0 +1,10 @@
+id: antivir-webgate-suite
+vendor_id: avira
+name: Antivir Webgate Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:antivir_webgate_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivir_webgate_suite
+  confidence: auto

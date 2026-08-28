@@ -1,0 +1,10 @@
+id: ese620x-vess
+vendor_id: huawei
+name: Ese620X Vess
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ese620x_vess:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ese620x_vess
+  confidence: auto

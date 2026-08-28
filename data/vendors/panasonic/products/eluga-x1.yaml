@@ -1,0 +1,10 @@
+id: eluga-x1
+vendor_id: panasonic
+name: Eluga X1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:panasonic:eluga_x1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eluga_x1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lexical
+vendor_id: facebook
+name: Lexical
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:lexical:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lexical
+  confidence: auto

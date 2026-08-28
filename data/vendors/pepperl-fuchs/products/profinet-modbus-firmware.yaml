@@ -1,0 +1,10 @@
+id: profinet-modbus-firmware
+vendor_id: pepperl-fuchs
+name: Profinet/Modbus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:profinet\/modbus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: profinet/modbus_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hygon-2
+vendor_id: amd
+name: Hygon 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:hygon_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hygon_2
+  confidence: auto

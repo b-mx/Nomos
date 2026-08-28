@@ -1,0 +1,10 @@
+id: uc-2114-t-lx-firmware
+vendor_id: moxa
+name: Uc-2114-T-Lx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-2114\-t\-lx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-2114-t-lx_firmware
+  confidence: auto

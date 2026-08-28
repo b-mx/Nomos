@@ -1,0 +1,10 @@
+id: vvx-601-firmware
+vendor_id: polycom
+name: Vvx 601 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:polycom:vvx_601_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx_601_firmware
+  confidence: auto

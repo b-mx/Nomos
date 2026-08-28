@@ -1,0 +1,10 @@
+id: modicon-m340
+vendor_id: se
+name: Modicon M340
+type: hardware
+tags: []
+cpe: cpe:2.3:h:se:modicon_m340:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modicon_m340
+  confidence: auto

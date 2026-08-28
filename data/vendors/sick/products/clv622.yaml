@@ -1,0 +1,10 @@
+id: clv622
+vendor_id: sick
+name: Clv622
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:clv622:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clv622
+  confidence: auto

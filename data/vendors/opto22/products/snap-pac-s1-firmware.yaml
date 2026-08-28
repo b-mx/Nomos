@@ -1,0 +1,10 @@
+id: snap-pac-s1-firmware
+vendor_id: opto22
+name: Snap Pac S1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:opto22:snap_pac_s1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snap_pac_s1_firmware
+  confidence: auto

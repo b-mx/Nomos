@@ -1,0 +1,10 @@
+id: cyclone-data-distribution-service
+vendor_id: eclipse
+name: Cyclone Data Distribution Service
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:cyclone_data_distribution_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyclone_data_distribution_service
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fl-switch-3005
+vendor_id: phoenixcontact
+name: Fl Switch 3005
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_switch_3005:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_switch_3005
+  confidence: auto

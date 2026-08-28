@@ -1,0 +1,10 @@
+id: linux-desktop
+vendor_id: novell
+name: Linux Desktop
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:linux_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_desktop
+  confidence: auto

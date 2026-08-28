@@ -1,0 +1,10 @@
+id: faq-script-php
+vendor_id: simplephpscripts
+name: Faq Script Php
+type: software
+tags: []
+cpe: cpe:2.3:a:simplephpscripts:faq_script_php:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: faq_script_php
+  confidence: auto

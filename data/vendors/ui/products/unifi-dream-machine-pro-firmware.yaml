@@ -1,0 +1,10 @@
+id: unifi-dream-machine-pro-firmware
+vendor_id: ui
+name: Unifi Dream Machine Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:unifi_dream_machine_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_dream_machine_pro_firmware
+  confidence: auto

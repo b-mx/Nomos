@@ -1,0 +1,10 @@
+id: servisign
+vendor_id: changingtec
+name: Servisign
+type: software
+tags: []
+cpe: cpe:2.3:a:changingtec:servisign:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: servisign
+  confidence: auto

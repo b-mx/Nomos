@@ -1,0 +1,10 @@
+id: xfcg5
+vendor_id: abb
+name: Xfcg5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:xfcg5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xfcg5
+  confidence: auto

@@ -1,0 +1,10 @@
+id: patrolflow-am-2530pro
+vendor_id: byzoro
+name: Patrolflow-Am-2530Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:byzoro:patrolflow\-am\-2530pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: patrolflow-am-2530pro
+  confidence: auto

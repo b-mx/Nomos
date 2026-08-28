@@ -1,0 +1,10 @@
+id: officejet-250-cz992a-firmware
+vendor_id: hp
+name: Officejet 250 Cz992A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_250_cz992a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_250_cz992a_firmware
+  confidence: auto

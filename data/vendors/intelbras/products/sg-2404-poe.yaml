@@ -1,0 +1,10 @@
+id: sg-2404-poe
+vendor_id: intelbras
+name: Sg 2404 Poe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:sg_2404_poe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg_2404_poe
+  confidence: auto

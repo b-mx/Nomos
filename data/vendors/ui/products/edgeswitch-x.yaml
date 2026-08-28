@@ -1,0 +1,10 @@
+id: edgeswitch-x
+vendor_id: ui
+name: Edgeswitch X
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:edgeswitch_x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgeswitch_x
+  confidence: auto

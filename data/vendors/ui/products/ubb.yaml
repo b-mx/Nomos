@@ -1,0 +1,10 @@
+id: ubb
+vendor_id: ui
+name: Ubb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:ubb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubb
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mongodb
+vendor_id: anynines
+name: Mongodb
+type: software
+tags: []
+cpe: cpe:2.3:a:anynines:mongodb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mongodb
+  confidence: auto

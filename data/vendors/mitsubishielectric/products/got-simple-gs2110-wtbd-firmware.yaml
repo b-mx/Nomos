@@ -1,0 +1,10 @@
+id: got-simple-gs2110-wtbd-firmware
+vendor_id: mitsubishielectric
+name: Got Simple Gs2110-Wtbd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:got_simple_gs2110\-wtbd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: got_simple_gs2110-wtbd_firmware
+  confidence: auto

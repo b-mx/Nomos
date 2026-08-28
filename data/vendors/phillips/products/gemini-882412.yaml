@@ -1,0 +1,10 @@
+id: gemini-882412
+vendor_id: phillips
+name: Gemini 882412
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phillips:gemini_882412:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gemini_882412
+  confidence: auto

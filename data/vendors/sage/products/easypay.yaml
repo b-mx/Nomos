@@ -1,0 +1,10 @@
+id: easypay
+vendor_id: sage
+name: Easypay
+type: software
+tags: []
+cpe: cpe:2.3:a:sage:easypay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easypay
+  confidence: auto

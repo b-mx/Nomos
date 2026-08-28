@@ -1,0 +1,10 @@
+id: engage-go-10
+vendor_id: hp
+name: Engage Go 10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:engage_go_10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engage_go_10
+  confidence: auto

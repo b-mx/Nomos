@@ -1,0 +1,10 @@
+id: dapr
+vendor_id: linuxfoundation
+name: Dapr
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:dapr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dapr
+  confidence: auto

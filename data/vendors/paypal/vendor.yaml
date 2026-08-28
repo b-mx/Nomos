@@ -1,0 +1,7 @@
+id: paypal
+name: Paypal
+cpe: cpe:2.3:*:paypal:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paypal
+  confidence: auto

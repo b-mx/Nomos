@@ -1,0 +1,10 @@
+id: kscreenlocker
+vendor_id: kde
+name: Kscreenlocker
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kscreenlocker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kscreenlocker
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mzk-dp150n-firmware
+vendor_id: planex
+name: Mzk-Dp150N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:planex:mzk\-dp150n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mzk-dp150n_firmware
+  confidence: auto

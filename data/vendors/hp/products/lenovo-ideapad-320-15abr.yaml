@@ -1,0 +1,10 @@
+id: lenovo-ideapad-320-15abr
+vendor_id: hp
+name: Lenovo Ideapad 320-15Abr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:lenovo_ideapad_320\-15abr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_ideapad_320-15abr
+  confidence: auto

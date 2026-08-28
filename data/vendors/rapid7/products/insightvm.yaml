@@ -1,0 +1,10 @@
+id: insightvm
+vendor_id: rapid7
+name: Insightvm
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:insightvm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insightvm
+  confidence: auto

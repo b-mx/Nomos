@@ -1,0 +1,10 @@
+id: storedge-3310-scsi-array
+vendor_id: sun
+name: Storedge 3310 Scsi Array
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sun:storedge_3310_scsi_array:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storedge_3310_scsi_array
+  confidence: auto

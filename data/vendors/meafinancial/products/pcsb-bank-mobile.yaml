@@ -1,0 +1,10 @@
+id: pcsb-bank-mobile
+vendor_id: meafinancial
+name: Pcsb Bank Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:pcsb_bank_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcsb_bank_mobile
+  confidence: auto

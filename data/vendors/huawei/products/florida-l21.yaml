@@ -1,0 +1,10 @@
+id: florida-l21
+vendor_id: huawei
+name: Florida-L21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:florida\-l21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: florida-l21
+  confidence: auto

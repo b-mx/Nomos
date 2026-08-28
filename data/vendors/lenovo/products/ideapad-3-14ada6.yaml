@@ -1,0 +1,10 @@
+id: ideapad-3-14ada6
+vendor_id: lenovo
+name: Ideapad 3-14Ada6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideapad_3\-14ada6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_3-14ada6
+  confidence: auto

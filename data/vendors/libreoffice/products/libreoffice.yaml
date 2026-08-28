@@ -1,0 +1,13 @@
+id: libreoffice
+vendor_id: libreoffice
+name: LibreOffice
+type: software
+tags: []
+cpe: cpe:2.3:a:libreoffice:libreoffice:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: libreoffice
+  confidence: auto
+- source: nvd
+  value: libreoffice
+  confidence: auto

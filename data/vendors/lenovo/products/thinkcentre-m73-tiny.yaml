@@ -1,0 +1,10 @@
+id: thinkcentre-m73-tiny
+vendor_id: lenovo
+name: Thinkcentre M73 Tiny
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m73_tiny:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m73_tiny
+  confidence: auto

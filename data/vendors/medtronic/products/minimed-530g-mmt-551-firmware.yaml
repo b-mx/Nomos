@@ -1,0 +1,10 @@
+id: minimed-530g-mmt-551-firmware
+vendor_id: medtronic
+name: Minimed 530G Mmt-551 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:minimed_530g_mmt\-551_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_530g_mmt-551_firmware
+  confidence: auto

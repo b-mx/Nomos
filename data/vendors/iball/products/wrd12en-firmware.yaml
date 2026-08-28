@@ -1,0 +1,10 @@
+id: wrd12en-firmware
+vendor_id: iball
+name: Wrd12En Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iball:wrd12en_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrd12en_firmware
+  confidence: auto

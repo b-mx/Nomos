@@ -1,0 +1,10 @@
+id: e24i-g4-wuxga
+vendor_id: hp
+name: E24I G4 Wuxga
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:e24i_g4_wuxga:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e24i_g4_wuxga
+  confidence: auto

@@ -1,0 +1,6 @@
+id: windows-server
+name: Microsoft Windows Server
+aliases:
+- source: endoflife
+  value: windows-server
+  confidence: auto

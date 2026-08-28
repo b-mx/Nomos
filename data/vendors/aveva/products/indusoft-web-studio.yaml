@@ -1,0 +1,10 @@
+id: indusoft-web-studio
+vendor_id: aveva
+name: Indusoft Web Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:indusoft_web_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: indusoft_web_studio
+  confidence: auto

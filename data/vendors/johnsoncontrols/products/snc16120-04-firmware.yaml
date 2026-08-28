@@ -1,0 +1,10 @@
+id: snc16120-04-firmware
+vendor_id: johnsoncontrols
+name: Snc16120-04 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:johnsoncontrols:snc16120\-04_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc16120-04_firmware
+  confidence: auto

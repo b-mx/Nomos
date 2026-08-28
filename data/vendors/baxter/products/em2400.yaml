@@ -1,0 +1,10 @@
+id: em2400
+vendor_id: baxter
+name: Em2400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baxter:em2400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: em2400
+  confidence: auto

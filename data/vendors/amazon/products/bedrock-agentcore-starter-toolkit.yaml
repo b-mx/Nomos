@@ -1,0 +1,10 @@
+id: bedrock-agentcore-starter-toolkit
+vendor_id: amazon
+name: Bedrock Agentcore Starter Toolkit
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:bedrock_agentcore_starter_toolkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bedrock_agentcore_starter_toolkit
+  confidence: auto

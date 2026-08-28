@@ -1,0 +1,10 @@
+id: popup
+vendor_id: supsystic
+name: Popup
+type: software
+tags: []
+cpe: cpe:2.3:a:supsystic:popup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: popup
+  confidence: auto

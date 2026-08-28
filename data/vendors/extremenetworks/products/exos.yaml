@@ -1,0 +1,10 @@
+id: exos
+vendor_id: extremenetworks
+name: Exos
+type: os
+tags: []
+cpe: cpe:2.3:o:extremenetworks:exos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exos
+  confidence: auto

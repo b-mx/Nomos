@@ -1,0 +1,10 @@
+id: hirschmann-octopus-8m-train
+vendor_id: belden
+name: Hirschmann Octopus 8M-Train
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_octopus_8m\-train:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_octopus_8m-train
+  confidence: auto

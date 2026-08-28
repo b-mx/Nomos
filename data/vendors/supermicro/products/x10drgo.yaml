@@ -1,0 +1,10 @@
+id: x10drgo
+vendor_id: supermicro
+name: X10Drgo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10drgo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drgo
+  confidence: auto

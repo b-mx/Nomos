@@ -1,0 +1,10 @@
+id: 9288-firmware
+vendor_id: cdatatec
+name: 9288 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cdatatec:9288_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9288_firmware
+  confidence: auto

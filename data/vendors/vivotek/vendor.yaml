@@ -1,0 +1,7 @@
+id: vivotek
+name: Vivotek
+cpe: cpe:2.3:*:vivotek:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vivotek
+  confidence: auto

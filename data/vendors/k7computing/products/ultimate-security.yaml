@@ -1,0 +1,10 @@
+id: ultimate-security
+vendor_id: k7computing
+name: Ultimate Security
+type: software
+tags: []
+cpe: cpe:2.3:a:k7computing:ultimate_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultimate_security
+  confidence: auto

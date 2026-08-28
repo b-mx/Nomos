@@ -1,0 +1,10 @@
+id: building-systems
+vendor_id: autodesk
+name: Building Systems
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:building_systems:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: building_systems
+  confidence: auto

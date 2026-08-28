@@ -1,0 +1,10 @@
+id: formats
+vendor_id: irfanview
+name: Formats
+type: software
+tags: []
+cpe: cpe:2.3:a:irfanview:formats:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: formats
+  confidence: auto

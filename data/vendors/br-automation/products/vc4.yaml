@@ -1,0 +1,10 @@
+id: vc4
+vendor_id: br-automation
+name: Vc4
+type: software
+tags: []
+cpe: cpe:2.3:a:br\-automation:vc4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vc4
+  confidence: auto

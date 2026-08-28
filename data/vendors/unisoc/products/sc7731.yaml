@@ -1,0 +1,10 @@
+id: sc7731
+vendor_id: unisoc
+name: Sc7731
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:sc7731:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc7731
+  confidence: auto

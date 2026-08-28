@@ -1,0 +1,10 @@
+id: rg-ew1200r
+vendor_id: ruijie
+name: Rg-Ew1200R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-ew1200r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-ew1200r
+  confidence: auto

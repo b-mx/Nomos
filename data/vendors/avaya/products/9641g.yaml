@@ -1,0 +1,10 @@
+id: 9641g
+vendor_id: avaya
+name: 9641G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:9641g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9641g
+  confidence: auto

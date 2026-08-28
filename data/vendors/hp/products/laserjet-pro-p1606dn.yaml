@@ -1,0 +1,10 @@
+id: laserjet-pro-p1606dn
+vendor_id: hp
+name: Laserjet Pro P1606Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_p1606dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_p1606dn
+  confidence: auto

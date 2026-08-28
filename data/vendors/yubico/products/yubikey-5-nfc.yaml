@@ -1,0 +1,10 @@
+id: yubikey-5-nfc
+vendor_id: yubico
+name: Yubikey 5 Nfc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yubico:yubikey_5_nfc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yubikey_5_nfc
+  confidence: auto

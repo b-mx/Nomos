@@ -1,0 +1,10 @@
+id: enjoy-8-plus
+vendor_id: huawei
+name: Enjoy 8 Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:enjoy_8_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enjoy_8_plus
+  confidence: auto

@@ -1,0 +1,7 @@
+id: mercedes-benz
+name: Mercedes-Benz
+cpe: cpe:2.3:*:mercedes\-benz:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mercedes-benz
+  confidence: auto

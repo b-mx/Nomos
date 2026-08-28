@@ -1,0 +1,10 @@
+id: isilon-insightiq
+vendor_id: emc
+name: Isilon Insightiq
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:isilon_insightiq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isilon_insightiq
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flexidome-panoramic-5100i-ir
+vendor_id: bosch
+name: Flexidome Panoramic 5100I Ir
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_panoramic_5100i_ir:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_panoramic_5100i_ir
+  confidence: auto

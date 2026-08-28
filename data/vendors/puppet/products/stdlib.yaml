@@ -1,0 +1,10 @@
+id: stdlib
+vendor_id: puppet
+name: Stdlib
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:stdlib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stdlib
+  confidence: auto

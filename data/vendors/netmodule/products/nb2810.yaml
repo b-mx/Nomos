@@ -1,0 +1,10 @@
+id: nb2810
+vendor_id: netmodule
+name: Nb2810
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:nb2810:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb2810
+  confidence: auto

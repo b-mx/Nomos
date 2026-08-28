@@ -1,0 +1,10 @@
+id: fcj
+vendor_id: yokogawa
+name: Fcj
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yokogawa:fcj:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fcj
+  confidence: auto

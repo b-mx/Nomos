@@ -1,0 +1,10 @@
+id: a8207-ve-mk-ii
+vendor_id: axis
+name: A8207-Ve Mk Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:a8207\-ve_mk_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a8207-ve_mk_ii
+  confidence: auto

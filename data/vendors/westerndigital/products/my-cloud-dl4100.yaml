@@ -1,0 +1,10 @@
+id: my-cloud-dl4100
+vendor_id: westerndigital
+name: My Cloud Dl4100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westerndigital:my_cloud_dl4100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_cloud_dl4100
+  confidence: auto

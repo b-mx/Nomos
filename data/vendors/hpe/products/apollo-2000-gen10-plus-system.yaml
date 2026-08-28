@@ -1,0 +1,10 @@
+id: apollo-2000-gen10-plus-system
+vendor_id: hpe
+name: Apollo 2000 Gen10 Plus System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:apollo_2000_gen10_plus_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_2000_gen10_plus_system
+  confidence: auto

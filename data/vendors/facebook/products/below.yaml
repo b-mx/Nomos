@@ -1,0 +1,10 @@
+id: below
+vendor_id: facebook
+name: Below
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:below:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: below
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pet-discovery-iq-upgrade
+vendor_id: gehealthcare
+name: Pet Discovery Iq Upgrade
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:pet_discovery_iq_upgrade:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pet_discovery_iq_upgrade
+  confidence: auto

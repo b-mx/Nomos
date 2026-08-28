@@ -1,0 +1,10 @@
+id: mp3-wav-to-cd-burner
+vendor_id: ether-software
+name: Mp3 Wav To Cd Burner
+type: software
+tags: []
+cpe: cpe:2.3:a:ether_software:mp3_wav_to_cd_burner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp3_wav_to_cd_burner
+  confidence: auto

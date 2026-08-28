@@ -1,0 +1,7 @@
+id: honeywell
+name: Honeywell
+cpe: cpe:2.3:*:honeywell:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honeywell
+  confidence: auto

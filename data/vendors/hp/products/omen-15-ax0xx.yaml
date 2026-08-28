@@ -1,0 +1,10 @@
+id: omen-15-ax0xx
+vendor_id: hp
+name: Omen 15-Ax0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_15\-ax0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_15-ax0xx
+  confidence: auto

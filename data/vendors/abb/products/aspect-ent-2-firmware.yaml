@@ -1,0 +1,10 @@
+id: aspect-ent-2-firmware
+vendor_id: abb
+name: Aspect-Ent-2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:aspect\-ent\-2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspect-ent-2_firmware
+  confidence: auto

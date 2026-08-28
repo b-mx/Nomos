@@ -1,0 +1,10 @@
+id: fd8182-t
+vendor_id: vivotek
+name: Fd8182-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fd8182\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd8182-t
+  confidence: auto

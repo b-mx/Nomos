@@ -1,0 +1,10 @@
+id: qitian-4500-firmware
+vendor_id: lenovo
+name: Qitian 4500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:qitian_4500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qitian_4500_firmware
+  confidence: auto

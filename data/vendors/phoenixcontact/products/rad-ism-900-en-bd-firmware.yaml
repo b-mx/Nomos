@@ -1,0 +1,10 @@
+id: rad-ism-900-en-bd-firmware
+vendor_id: phoenixcontact
+name: Rad-Ism-900-En-Bd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:rad\-ism\-900\-en\-bd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rad-ism-900-en-bd_firmware
+  confidence: auto

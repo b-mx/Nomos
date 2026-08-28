@@ -1,0 +1,10 @@
+id: viewstation-v-35
+vendor_id: polycom
+name: Viewstation V.35
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:viewstation_v\.35:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viewstation_v.35
+  confidence: auto

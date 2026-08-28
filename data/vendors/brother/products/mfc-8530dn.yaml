@@ -1,0 +1,10 @@
+id: mfc-8530dn
+vendor_id: brother
+name: Mfc-8530Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-8530dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-8530dn
+  confidence: auto

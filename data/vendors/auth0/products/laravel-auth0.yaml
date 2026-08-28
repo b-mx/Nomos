@@ -1,0 +1,10 @@
+id: laravel-auth0
+vendor_id: auth0
+name: Laravel-Auth0
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:laravel\-auth0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laravel-auth0
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nport-w2150a-t
+vendor_id: moxa
+name: Nport W2150A-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_w2150a\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_w2150a-t
+  confidence: auto

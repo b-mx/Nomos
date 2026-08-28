@@ -1,0 +1,10 @@
+id: 2a9q5a-firmware
+vendor_id: hp
+name: 2A9Q5A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:2a9q5a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2a9q5a_firmware
+  confidence: auto

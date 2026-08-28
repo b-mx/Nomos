@@ -1,0 +1,10 @@
+id: e-350
+vendor_id: amd
+name: E-350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:e\-350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-350
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-enterprises-cp5525-ce707a
+vendor_id: hp
+name: Laserjet Enterprises Cp5525 Ce707A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprises_cp5525_ce707a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprises_cp5525_ce707a
+  confidence: auto

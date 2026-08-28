@@ -1,0 +1,10 @@
+id: ba12-n-firmware
+vendor_id: smtav
+name: Ba12-N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:smtav:ba12\-n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ba12-n_firmware
+  confidence: auto

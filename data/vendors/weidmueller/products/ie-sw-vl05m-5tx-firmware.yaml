@@ -1,0 +1,10 @@
+id: ie-sw-vl05m-5tx-firmware
+vendor_id: weidmueller
+name: Ie-Sw-Vl05M-5Tx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:weidmueller:ie\-sw\-vl05m\-5tx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ie-sw-vl05m-5tx_firmware
+  confidence: auto

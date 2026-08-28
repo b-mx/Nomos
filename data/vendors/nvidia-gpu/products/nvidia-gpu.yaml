@@ -1,0 +1,9 @@
+id: nvidia-gpu
+vendor_id: nvidia-gpu
+name: NVIDIA GPUs
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: nvidia-gpu
+  confidence: auto

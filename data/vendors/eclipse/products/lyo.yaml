@@ -1,0 +1,10 @@
+id: lyo
+vendor_id: eclipse
+name: Lyo
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:lyo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lyo
+  confidence: auto

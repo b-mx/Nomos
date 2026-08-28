@@ -1,0 +1,10 @@
+id: kio-extras
+vendor_id: kde
+name: Kio-Extras
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kio\-extras:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kio-extras
+  confidence: auto

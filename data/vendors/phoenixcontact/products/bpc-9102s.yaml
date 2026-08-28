@@ -1,0 +1,10 @@
+id: bpc-9102s
+vendor_id: phoenixcontact
+name: Bpc 9102S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:bpc_9102s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bpc_9102s
+  confidence: auto

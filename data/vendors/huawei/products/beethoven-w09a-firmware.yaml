@@ -1,0 +1,10 @@
+id: beethoven-w09a-firmware
+vendor_id: huawei
+name: Beethoven-W09A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:beethoven\-w09a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: beethoven-w09a_firmware
+  confidence: auto

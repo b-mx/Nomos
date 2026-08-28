@@ -1,0 +1,10 @@
+id: mi5122-vw
+vendor_id: mitsubishielectric
+name: Mi5122-Vw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:mi5122\-vw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mi5122-vw
+  confidence: auto

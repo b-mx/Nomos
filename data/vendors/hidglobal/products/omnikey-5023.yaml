@@ -1,0 +1,10 @@
+id: omnikey-5023
+vendor_id: hidglobal
+name: Omnikey 5023
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hidglobal:omnikey_5023:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omnikey_5023
+  confidence: auto

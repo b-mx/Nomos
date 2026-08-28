@@ -1,0 +1,7 @@
+id: automattic
+name: Automattic
+cpe: cpe:2.3:*:automattic:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automattic
+  confidence: auto

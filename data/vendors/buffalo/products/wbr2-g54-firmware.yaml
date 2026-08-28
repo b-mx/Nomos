@@ -1,0 +1,10 @@
+id: wbr2-g54-firmware
+vendor_id: buffalo
+name: Wbr2-G54 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wbr2\-g54_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wbr2-g54_firmware
+  confidence: auto

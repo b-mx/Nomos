@@ -1,0 +1,10 @@
+id: arcsight-enterprise-security-manager
+vendor_id: hp
+name: Arcsight Enterprise Security Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:arcsight_enterprise_security_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcsight_enterprise_security_manager
+  confidence: auto

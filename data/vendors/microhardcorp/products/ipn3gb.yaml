@@ -1,0 +1,10 @@
+id: ipn3gb
+vendor_id: microhardcorp
+name: Ipn3Gb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microhardcorp:ipn3gb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipn3gb
+  confidence: auto

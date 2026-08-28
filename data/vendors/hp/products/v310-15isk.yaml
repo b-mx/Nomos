@@ -1,0 +1,10 @@
+id: v310-15isk
+vendor_id: hp
+name: V310-15Isk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:v310\-15isk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v310-15isk
+  confidence: auto

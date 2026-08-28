@@ -1,0 +1,10 @@
+id: m730vs
+vendor_id: mitsubishielectric
+name: M730Vs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:m730vs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m730vs
+  confidence: auto

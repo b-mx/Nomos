@@ -1,0 +1,10 @@
+id: x9drff-7-firmware
+vendor_id: supermicro
+name: X9Drff(-7) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9drff\(\-7\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drff(-7)_firmware
+  confidence: auto

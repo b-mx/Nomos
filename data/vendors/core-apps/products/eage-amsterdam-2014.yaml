@@ -1,0 +1,10 @@
+id: eage-amsterdam-2014
+vendor_id: core-apps
+name: Eage Amsterdam 2014
+type: software
+tags: []
+cpe: cpe:2.3:a:core\-apps:eage_amsterdam_2014:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eage_amsterdam_2014
+  confidence: auto

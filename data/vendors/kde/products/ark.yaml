@@ -1,0 +1,10 @@
+id: ark
+vendor_id: kde
+name: Ark
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:ark:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ark
+  confidence: auto

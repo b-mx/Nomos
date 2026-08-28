@@ -1,0 +1,10 @@
+id: viz
+vendor_id: autodesk
+name: Viz
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:viz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viz
+  confidence: auto

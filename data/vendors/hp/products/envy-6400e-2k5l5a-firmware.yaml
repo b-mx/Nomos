@@ -1,0 +1,10 @@
+id: envy-6400e-2k5l5a-firmware
+vendor_id: hp
+name: Envy 6400E 2K5L5A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_6400e_2k5l5a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6400e_2k5l5a_firmware
+  confidence: auto

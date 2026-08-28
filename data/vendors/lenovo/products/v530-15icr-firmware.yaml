@@ -1,0 +1,10 @@
+id: v530-15icr-firmware
+vendor_id: lenovo
+name: V530-15Icr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v530\-15icr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v530-15icr_firmware
+  confidence: auto

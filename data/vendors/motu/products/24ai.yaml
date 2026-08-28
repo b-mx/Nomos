@@ -1,0 +1,10 @@
+id: 24ai
+vendor_id: motu
+name: 24Ai
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:24ai:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 24ai
+  confidence: auto

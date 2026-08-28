@@ -1,0 +1,10 @@
+id: smart-camera
+vendor_id: bosch
+name: Smart Camera
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:smart_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_camera
+  confidence: auto

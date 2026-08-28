@@ -1,0 +1,10 @@
+id: k9u05b
+vendor_id: hp
+name: K9U05B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k9u05b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k9u05b
+  confidence: auto

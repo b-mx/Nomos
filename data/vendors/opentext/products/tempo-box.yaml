@@ -1,0 +1,10 @@
+id: tempo-box
+vendor_id: opentext
+name: Tempo Box
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:tempo_box:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tempo_box
+  confidence: auto

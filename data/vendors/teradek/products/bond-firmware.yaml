@@ -1,0 +1,10 @@
+id: bond-firmware
+vendor_id: teradek
+name: Bond Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teradek:bond_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bond_firmware
+  confidence: auto

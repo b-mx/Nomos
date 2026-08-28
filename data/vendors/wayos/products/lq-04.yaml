@@ -1,0 +1,10 @@
+id: lq-04
+vendor_id: wayos
+name: Lq-04
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wayos:lq\-04:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lq-04
+  confidence: auto

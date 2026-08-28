@@ -1,0 +1,10 @@
+id: xnb-9003-firmware
+vendor_id: hanwhavision
+name: Xnb-9003 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:xnb\-9003_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnb-9003_firmware
+  confidence: auto

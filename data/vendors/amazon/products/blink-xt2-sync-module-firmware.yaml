@@ -1,0 +1,10 @@
+id: blink-xt2-sync-module-firmware
+vendor_id: amazon
+name: Blink Xt2 Sync Module Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amazon:blink_xt2_sync_module_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blink_xt2_sync_module_firmware
+  confidence: auto

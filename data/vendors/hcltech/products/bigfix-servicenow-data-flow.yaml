@@ -1,0 +1,10 @@
+id: bigfix-servicenow-data-flow
+vendor_id: hcltech
+name: Bigfix Servicenow Data Flow
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:bigfix_servicenow_data_flow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bigfix_servicenow_data_flow
+  confidence: auto

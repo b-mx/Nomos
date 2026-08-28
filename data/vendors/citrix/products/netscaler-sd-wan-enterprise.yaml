@@ -1,0 +1,9 @@
+id: netscaler-sd-wan-enterprise
+vendor_id: citrix
+name: NetScaler SD-WAN Enterprise
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: NetScaler SD-WAN Enterprise
+  confidence: auto

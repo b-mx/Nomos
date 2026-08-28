@@ -1,0 +1,10 @@
+id: workspaces-appliance-x
+vendor_id: blackberry
+name: Workspaces Appliance-X
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:workspaces_appliance\-x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workspaces_appliance-x
+  confidence: auto

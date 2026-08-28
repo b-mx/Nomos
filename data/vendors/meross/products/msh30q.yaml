@@ -1,0 +1,10 @@
+id: msh30q
+vendor_id: meross
+name: Msh30Q
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meross:msh30q:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msh30q
+  confidence: auto

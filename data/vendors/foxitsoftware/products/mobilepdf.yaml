@@ -1,0 +1,10 @@
+id: mobilepdf
+vendor_id: foxitsoftware
+name: Mobilepdf
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:mobilepdf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobilepdf
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dinion-ip-thermal-8000-firmware
+vendor_id: bosch
+name: Dinion Ip Thermal 8000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:dinion_ip_thermal_8000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_ip_thermal_8000_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cyrus-imap-server
+vendor_id: cmu
+name: Cyrus Imap Server
+type: software
+tags: []
+cpe: cpe:2.3:a:cmu:cyrus_imap_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyrus_imap_server
+  confidence: auto

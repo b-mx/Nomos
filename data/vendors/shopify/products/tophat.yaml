@@ -1,0 +1,10 @@
+id: tophat
+vendor_id: shopify
+name: Tophat
+type: software
+tags: []
+cpe: cpe:2.3:a:shopify:tophat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tophat
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rh-20sdh100
+vendor_id: mitsubishielectric
+name: Rh-20Sdh100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rh\-20sdh100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh-20sdh100
+  confidence: auto

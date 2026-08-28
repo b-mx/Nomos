@@ -1,0 +1,10 @@
+id: chat
+vendor_id: synology
+name: Chat
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:chat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chat
+  confidence: auto

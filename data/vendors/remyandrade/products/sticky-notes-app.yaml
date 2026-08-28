@@ -1,0 +1,10 @@
+id: sticky-notes-app
+vendor_id: remyandrade
+name: Sticky Notes App
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:sticky_notes_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sticky_notes_app
+  confidence: auto

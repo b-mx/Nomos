@@ -1,0 +1,10 @@
+id: nimbleos
+vendor_id: hpe
+name: Nimbleos
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:nimbleos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nimbleos
+  confidence: auto

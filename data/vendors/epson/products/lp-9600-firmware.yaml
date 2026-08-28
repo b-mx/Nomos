@@ -1,0 +1,10 @@
+id: lp-9600-firmware
+vendor_id: epson
+name: Lp-9600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:lp\-9600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-9600_firmware
+  confidence: auto

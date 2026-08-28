@@ -1,0 +1,10 @@
+id: woosidebars
+vendor_id: woocommerce
+name: Woosidebars
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:woosidebars:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woosidebars
+  confidence: auto

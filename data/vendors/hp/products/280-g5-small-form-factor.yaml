@@ -1,0 +1,10 @@
+id: 280-g5-small-form-factor
+vendor_id: hp
+name: 280 G5 Small Form Factor
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:280_g5_small_form_factor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 280_g5_small_form_factor
+  confidence: auto

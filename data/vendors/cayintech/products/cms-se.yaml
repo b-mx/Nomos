@@ -1,0 +1,10 @@
+id: cms-se
+vendor_id: cayintech
+name: Cms-Se
+type: software
+tags: []
+cpe: cpe:2.3:a:cayintech:cms\-se:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cms-se
+  confidence: auto

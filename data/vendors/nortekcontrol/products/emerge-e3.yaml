@@ -1,0 +1,10 @@
+id: emerge-e3
+vendor_id: nortekcontrol
+name: Emerge E3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortekcontrol:emerge_e3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emerge_e3
+  confidence: auto

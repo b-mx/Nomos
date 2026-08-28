@@ -1,0 +1,10 @@
+id: cfr-8eha
+vendor_id: c-first
+name: Cfr-8Eha
+type: hardware
+tags: []
+cpe: cpe:2.3:h:c\-first:cfr\-8eha:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cfr-8eha
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ct40
+vendor_id: honeywell
+name: Ct40
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:ct40:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ct40
+  confidence: auto

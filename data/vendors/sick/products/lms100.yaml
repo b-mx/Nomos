@@ -1,0 +1,10 @@
+id: lms100
+vendor_id: sick
+name: Lms100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:lms100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lms100
+  confidence: auto

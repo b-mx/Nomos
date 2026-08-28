@@ -1,0 +1,10 @@
+id: l26cpu-bt
+vendor_id: mitsubishielectric
+name: L26Cpu-Bt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:l26cpu\-bt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l26cpu-bt
+  confidence: auto

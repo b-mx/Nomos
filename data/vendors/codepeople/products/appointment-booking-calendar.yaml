@@ -1,0 +1,10 @@
+id: appointment-booking-calendar
+vendor_id: codepeople
+name: Appointment Booking Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:codepeople:appointment_booking_calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: appointment_booking_calendar
+  confidence: auto

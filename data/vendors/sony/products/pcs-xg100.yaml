@@ -1,0 +1,10 @@
+id: pcs-xg100
+vendor_id: sony
+name: Pcs-Xg100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:pcs\-xg100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcs-xg100
+  confidence: auto

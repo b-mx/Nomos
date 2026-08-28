@@ -1,0 +1,10 @@
+id: dominion-sx4
+vendor_id: raritan
+name: Dominion Sx4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:raritan:dominion_sx4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dominion_sx4
+  confidence: auto

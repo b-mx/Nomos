@@ -1,0 +1,10 @@
+id: vasa-provider
+vendor_id: netapp
+name: Vasa Provider
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:vasa_provider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vasa_provider
+  confidence: auto

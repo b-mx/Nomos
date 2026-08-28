@@ -1,0 +1,10 @@
+id: downloads-module
+vendor_id: php-nuke
+name: Downloads Module
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-nuke:downloads_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: downloads_module
+  confidence: auto

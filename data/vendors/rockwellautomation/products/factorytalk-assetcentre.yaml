@@ -1,0 +1,10 @@
+id: factorytalk-assetcentre
+vendor_id: rockwellautomation
+name: Factorytalk Assetcentre
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:factorytalk_assetcentre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_assetcentre
+  confidence: auto

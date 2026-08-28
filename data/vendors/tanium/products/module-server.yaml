@@ -1,0 +1,10 @@
+id: module-server
+vendor_id: tanium
+name: Module Server
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:module_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: module_server
+  confidence: auto

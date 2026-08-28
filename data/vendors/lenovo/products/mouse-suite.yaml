@@ -1,0 +1,10 @@
+id: mouse-suite
+vendor_id: lenovo
+name: Mouse Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:mouse_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mouse_suite
+  confidence: auto

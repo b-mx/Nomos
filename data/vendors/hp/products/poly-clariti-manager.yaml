@@ -1,0 +1,10 @@
+id: poly-clariti-manager
+vendor_id: hp
+name: Poly Clariti Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:poly_clariti_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_clariti_manager
+  confidence: auto

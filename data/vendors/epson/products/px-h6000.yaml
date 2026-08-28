@@ -1,0 +1,10 @@
+id: px-h6000
+vendor_id: epson
+name: Px-H6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-h6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-h6000
+  confidence: auto

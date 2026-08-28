@@ -1,0 +1,10 @@
+id: innova-2000
+vendor_id: gehealthcare
+name: Innova 2000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:innova_2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: innova_2000
+  confidence: auto

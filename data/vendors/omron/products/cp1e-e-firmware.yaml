@@ -1,0 +1,10 @@
+id: cp1e-e-firmware
+vendor_id: omron
+name: Cp1E-E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1e\-e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1e-e_firmware
+  confidence: auto

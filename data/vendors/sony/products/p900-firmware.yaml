@@ -1,0 +1,10 @@
+id: p900-firmware
+vendor_id: sony
+name: P900 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:p900_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p900_firmware
+  confidence: auto

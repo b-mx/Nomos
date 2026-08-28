@@ -1,0 +1,10 @@
+id: c7h270
+vendor_id: supermicro
+name: C7H270
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:c7h270:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c7h270
+  confidence: auto

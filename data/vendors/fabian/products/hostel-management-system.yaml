@@ -1,0 +1,10 @@
+id: hostel-management-system
+vendor_id: fabian
+name: Hostel Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:hostel_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hostel_management_system
+  confidence: auto

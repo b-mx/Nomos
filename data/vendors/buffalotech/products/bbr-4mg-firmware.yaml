@@ -1,0 +1,10 @@
+id: bbr-4mg-firmware
+vendor_id: buffalotech
+name: Bbr-4Mg Firmware
+type: software
+tags: []
+cpe: cpe:2.3:a:buffalotech:bbr\-4mg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bbr-4mg_firmware
+  confidence: auto

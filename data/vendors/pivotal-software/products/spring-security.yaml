@@ -1,0 +1,10 @@
+id: spring-security
+vendor_id: pivotal-software
+name: Spring Security
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:spring_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spring_security
+  confidence: auto

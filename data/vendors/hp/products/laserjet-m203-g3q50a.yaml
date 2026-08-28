@@ -1,0 +1,10 @@
+id: laserjet-m203-g3q50a
+vendor_id: hp
+name: Laserjet M203 G3Q50A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m203_g3q50a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m203_g3q50a
+  confidence: auto

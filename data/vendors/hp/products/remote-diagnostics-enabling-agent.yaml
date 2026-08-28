@@ -1,0 +1,10 @@
+id: remote-diagnostics-enabling-agent
+vendor_id: hp
+name: Remote Diagnostics Enabling Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:remote_diagnostics_enabling_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_diagnostics_enabling_agent
+  confidence: auto

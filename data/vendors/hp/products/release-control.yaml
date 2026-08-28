@@ -1,0 +1,10 @@
+id: release-control
+vendor_id: hp
+name: Release Control
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:release_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: release_control
+  confidence: auto

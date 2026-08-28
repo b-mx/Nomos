@@ -1,0 +1,10 @@
+id: laserjet-4250
+vendor_id: hp
+name: Laserjet 4250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_4250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_4250
+  confidence: auto

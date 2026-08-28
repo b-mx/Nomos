@@ -1,0 +1,10 @@
+id: frenic-loader
+vendor_id: fujielectric
+name: Frenic Loader
+type: os
+tags: []
+cpe: cpe:2.3:o:fujielectric:frenic_loader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frenic_loader
+  confidence: auto

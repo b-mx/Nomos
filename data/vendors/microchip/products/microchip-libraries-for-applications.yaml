@@ -1,0 +1,10 @@
+id: microchip-libraries-for-applications
+vendor_id: microchip
+name: Microchip Libraries For Applications
+type: software
+tags: []
+cpe: cpe:2.3:a:microchip:microchip_libraries_for_applications:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microchip_libraries_for_applications
+  confidence: auto

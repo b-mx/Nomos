@@ -1,0 +1,10 @@
+id: ar168f-4p
+vendor_id: huawei
+name: Ar168F-4P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar168f\-4p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar168f-4p
+  confidence: auto

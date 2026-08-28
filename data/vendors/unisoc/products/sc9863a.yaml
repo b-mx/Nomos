@@ -1,0 +1,10 @@
+id: sc9863a
+vendor_id: unisoc
+name: Sc9863A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:sc9863a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc9863a
+  confidence: auto

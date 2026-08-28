@@ -1,0 +1,10 @@
+id: laserjet-4345-mfp
+vendor_id: hp
+name: Laserjet 4345 Mfp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_4345_mfp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_4345_mfp
+  confidence: auto

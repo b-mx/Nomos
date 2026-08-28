@@ -1,0 +1,10 @@
+id: y7s
+vendor_id: huawei
+name: Y7S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:y7s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y7s
+  confidence: auto

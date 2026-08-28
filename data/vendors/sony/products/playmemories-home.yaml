@@ -1,0 +1,10 @@
+id: playmemories-home
+vendor_id: sony
+name: Playmemories Home
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:playmemories_home:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: playmemories_home
+  confidence: auto

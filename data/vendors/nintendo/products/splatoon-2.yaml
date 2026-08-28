@@ -1,0 +1,10 @@
+id: splatoon-2
+vendor_id: nintendo
+name: Splatoon 2
+type: software
+tags: []
+cpe: cpe:2.3:a:nintendo:splatoon_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: splatoon_2
+  confidence: auto

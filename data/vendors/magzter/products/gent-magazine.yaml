@@ -1,0 +1,10 @@
+id: gent-magazine
+vendor_id: magzter
+name: Gent Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:gent_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gent_magazine
+  confidence: auto

@@ -1,0 +1,10 @@
+id: backup-appliance
+vendor_id: exagrid
+name: Backup Appliance
+type: hardware
+tags: []
+cpe: cpe:2.3:h:exagrid:backup_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backup_appliance
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pac-project
+vendor_id: opto22
+name: Pac Project
+type: software
+tags: []
+cpe: cpe:2.3:a:opto22:pac_project:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pac_project
+  confidence: auto

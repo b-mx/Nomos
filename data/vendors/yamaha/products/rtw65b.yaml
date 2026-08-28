@@ -1,0 +1,10 @@
+id: rtw65b
+vendor_id: yamaha
+name: Rtw65B
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rtw65b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtw65b
+  confidence: auto

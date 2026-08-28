@@ -1,0 +1,10 @@
+id: biz-box-nvr700w
+vendor_id: ntt-west
+name: Biz Box Nvr700W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-west:biz_box_nvr700w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biz_box_nvr700w
+  confidence: auto

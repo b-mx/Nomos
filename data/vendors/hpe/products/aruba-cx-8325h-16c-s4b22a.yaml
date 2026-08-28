@@ -1,0 +1,10 @@
+id: aruba-cx-8325h-16c-s4b22a
+vendor_id: hpe
+name: Aruba Cx 8325H-16C (S4B22A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_8325h\-16c_\(s4b22a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_8325h-16c_(s4b22a)
+  confidence: auto

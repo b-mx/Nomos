@@ -1,0 +1,10 @@
+id: x11ssn-h-vdc-firmware
+vendor_id: supermicro
+name: X11Ssn-H-Vdc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11ssn\-h\-vdc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssn-h-vdc_firmware
+  confidence: auto

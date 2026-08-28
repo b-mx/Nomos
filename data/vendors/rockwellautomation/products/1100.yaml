@@ -1,0 +1,10 @@
+id: '1100'
+vendor_id: rockwellautomation
+name: '1100'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:1100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '1100'
+  confidence: auto

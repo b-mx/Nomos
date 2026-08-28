@@ -1,0 +1,10 @@
+id: haydn-l1jb
+vendor_id: huawei
+name: Haydn-L1Jb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:haydn\-l1jb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: haydn-l1jb
+  confidence: auto

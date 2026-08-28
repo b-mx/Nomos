@@ -1,0 +1,10 @@
+id: paperstream-ip-twain
+vendor_id: fujitsu
+name: Paperstream Ip (Twain)
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:paperstream_ip_\(twain\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paperstream_ip_(twain)
+  confidence: auto

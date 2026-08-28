@@ -1,0 +1,10 @@
+id: brightspeed-elite-firmware
+vendor_id: gehealthcare
+name: Brightspeed Elite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:brightspeed_elite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brightspeed_elite_firmware
+  confidence: auto

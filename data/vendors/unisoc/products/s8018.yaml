@@ -1,0 +1,10 @@
+id: s8018
+vendor_id: unisoc
+name: S8018
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8018:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8018
+  confidence: auto

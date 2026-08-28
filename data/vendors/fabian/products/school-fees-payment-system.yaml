@@ -1,0 +1,10 @@
+id: school-fees-payment-system
+vendor_id: fabian
+name: School Fees Payment System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:school_fees_payment_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: school_fees_payment_system
+  confidence: auto

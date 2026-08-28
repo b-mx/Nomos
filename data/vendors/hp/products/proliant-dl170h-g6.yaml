@@ -1,0 +1,10 @@
+id: proliant-dl170h-g6
+vendor_id: hp
+name: Proliant Dl170H G6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_dl170h_g6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_dl170h_g6
+  confidence: auto

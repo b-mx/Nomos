@@ -1,0 +1,10 @@
+id: ellipse-enterprise-asset-management
+vendor_id: hitachienergy
+name: Ellipse Enterprise Asset Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:ellipse_enterprise_asset_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ellipse_enterprise_asset_management
+  confidence: auto

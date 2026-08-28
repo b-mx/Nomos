@@ -1,0 +1,10 @@
+id: online-book-shop
+vendor_id: fabian
+name: Online Book Shop
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_book_shop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_book_shop
+  confidence: auto

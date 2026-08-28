@@ -1,0 +1,10 @@
+id: ssh
+vendor_id: ssh
+name: Ssh
+type: software
+tags: []
+cpe: cpe:2.3:a:ssh:ssh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ssh
+  confidence: auto

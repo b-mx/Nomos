@@ -1,0 +1,7 @@
+id: cyberark
+name: Cyberark
+cpe: cpe:2.3:*:cyberark:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyberark
+  confidence: auto

@@ -1,0 +1,10 @@
+id: murano-dashboard
+vendor_id: openstack
+name: Murano-Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:murano\-dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: murano-dashboard
+  confidence: auto

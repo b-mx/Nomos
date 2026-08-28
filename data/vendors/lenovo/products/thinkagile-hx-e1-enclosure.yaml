@@ -1,0 +1,10 @@
+id: thinkagile-hx-e1-enclosure
+vendor_id: lenovo
+name: Thinkagile Hx E1 Enclosure
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_hx_e1_enclosure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_hx_e1_enclosure
+  confidence: auto

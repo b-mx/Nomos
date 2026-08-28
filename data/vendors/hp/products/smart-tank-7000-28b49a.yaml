@@ -1,0 +1,10 @@
+id: smart-tank-7000-28b49a
+vendor_id: hp
+name: Smart Tank 7000 28B49A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_7000_28b49a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_7000_28b49a
+  confidence: auto

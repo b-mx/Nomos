@@ -1,0 +1,10 @@
+id: antivirus-essential
+vendor_id: synology
+name: Antivirus Essential
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:antivirus_essential:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivirus_essential
+  confidence: auto

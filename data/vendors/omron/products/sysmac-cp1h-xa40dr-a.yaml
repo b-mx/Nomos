@@ -1,0 +1,10 @@
+id: sysmac-cp1h-xa40dr-a
+vendor_id: omron
+name: Sysmac Cp1H-Xa40Dr-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cp1h\-xa40dr\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cp1h-xa40dr-a
+  confidence: auto

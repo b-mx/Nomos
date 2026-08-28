@@ -1,0 +1,10 @@
+id: m571t
+vendor_id: epson
+name: M571T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:m571t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m571t
+  confidence: auto

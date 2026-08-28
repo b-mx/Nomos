@@ -1,0 +1,10 @@
+id: hd-sb10tk
+vendor_id: toshiba
+name: Hd-Sb10Tk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshiba:hd\-sb10tk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hd-sb10tk
+  confidence: auto

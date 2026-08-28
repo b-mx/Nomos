@@ -1,0 +1,10 @@
+id: laserjet-pro-m203-g3q46a
+vendor_id: hp
+name: Laserjet Pro M203 G3Q46A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m203_g3q46a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m203_g3q46a
+  confidence: auto

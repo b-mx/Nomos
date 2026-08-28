@@ -1,0 +1,10 @@
+id: bc500
+vendor_id: synology
+name: Bc500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synology:bc500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bc500
+  confidence: auto

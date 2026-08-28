@@ -1,0 +1,10 @@
+id: fr8
+vendor_id: ifw8
+name: Fr8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ifw8:fr8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fr8
+  confidence: auto

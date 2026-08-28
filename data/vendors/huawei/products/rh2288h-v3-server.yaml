@@ -1,0 +1,10 @@
+id: rh2288h-v3-server
+vendor_id: huawei
+name: Rh2288H V3 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rh2288h_v3_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh2288h_v3_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hawkeye
+vendor_id: keysight
+name: Hawkeye
+type: software
+tags: []
+cpe: cpe:2.3:a:keysight:hawkeye:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hawkeye
+  confidence: auto

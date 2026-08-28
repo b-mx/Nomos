@@ -1,0 +1,10 @@
+id: e5186-firmware
+vendor_id: huawei
+name: E5186 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:e5186_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e5186_firmware
+  confidence: auto

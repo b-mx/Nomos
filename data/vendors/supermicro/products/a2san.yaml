@@ -1,0 +1,10 @@
+id: a2san
+vendor_id: supermicro
+name: A2San
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:a2san:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a2san
+  confidence: auto

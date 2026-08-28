@@ -1,0 +1,10 @@
+id: openpyxl
+vendor_id: python
+name: Openpyxl
+type: software
+tags: []
+cpe: cpe:2.3:a:python:openpyxl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openpyxl
+  confidence: auto

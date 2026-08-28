@@ -1,0 +1,10 @@
+id: one-net
+vendor_id: digitalalertsystems
+name: One-Net
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digitalalertsystems:one\-net:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one-net
+  confidence: auto

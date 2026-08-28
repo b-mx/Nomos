@@ -1,0 +1,10 @@
+id: woocommerce-checkout-field-manager
+vendor_id: najeebmedia
+name: Woocommerce Checkout Field Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:najeebmedia:woocommerce_checkout_field_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_checkout_field_manager
+  confidence: auto

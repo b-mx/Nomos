@@ -1,0 +1,10 @@
+id: gl-mv1000
+vendor_id: gl-inet
+name: Gl-Mv1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-mv1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-mv1000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rm5-ti
+vendor_id: ui
+name: Rm5-Ti
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:rm5\-ti:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rm5-ti
+  confidence: auto

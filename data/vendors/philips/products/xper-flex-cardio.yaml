@@ -1,0 +1,10 @@
+id: xper-flex-cardio
+vendor_id: philips
+name: Xper Flex Cardio
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:xper_flex_cardio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xper_flex_cardio
+  confidence: auto

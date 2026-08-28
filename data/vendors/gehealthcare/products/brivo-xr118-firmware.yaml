@@ -1,0 +1,10 @@
+id: brivo-xr118-firmware
+vendor_id: gehealthcare
+name: Brivo Xr118 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:brivo_xr118_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brivo_xr118_firmware
+  confidence: auto

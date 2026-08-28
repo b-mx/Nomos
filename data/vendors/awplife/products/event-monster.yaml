@@ -1,0 +1,10 @@
+id: event-monster
+vendor_id: awplife
+name: Event Monster
+type: software
+tags: []
+cpe: cpe:2.3:a:awplife:event_monster:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: event_monster
+  confidence: auto

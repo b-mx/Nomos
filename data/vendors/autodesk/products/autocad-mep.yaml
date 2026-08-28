@@ -1,0 +1,10 @@
+id: autocad-mep
+vendor_id: autodesk
+name: Autocad Mep
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autocad_mep:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocad_mep
+  confidence: auto

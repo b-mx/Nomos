@@ -1,0 +1,10 @@
+id: smart-tank-720-2h1t6a
+vendor_id: hp
+name: Smart Tank 720 2H1T6A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_720_2h1t6a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_720_2h1t6a
+  confidence: auto

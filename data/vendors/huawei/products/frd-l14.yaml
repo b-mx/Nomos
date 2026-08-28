@@ -1,0 +1,10 @@
+id: frd-l14
+vendor_id: huawei
+name: Frd-L14
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:frd\-l14:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frd-l14
+  confidence: auto

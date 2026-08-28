@@ -1,0 +1,10 @@
+id: s2300
+vendor_id: huawei
+name: S2300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s2300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s2300
+  confidence: auto

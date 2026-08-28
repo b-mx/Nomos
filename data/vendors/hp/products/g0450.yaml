@@ -1,0 +1,10 @@
+id: g0450
+vendor_id: hp
+name: G0450
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:g0450:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g0450
+  confidence: auto

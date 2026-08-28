@@ -1,0 +1,10 @@
+id: vigilant-centerium
+vendor_id: fresenius-kabi
+name: Vigilant Centerium
+type: software
+tags: []
+cpe: cpe:2.3:a:fresenius\-kabi:vigilant_centerium:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vigilant_centerium
+  confidence: auto

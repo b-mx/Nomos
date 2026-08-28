@@ -1,0 +1,10 @@
+id: ma7-firmware
+vendor_id: rstinstruments
+name: Ma7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:ma7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ma7_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: management-agents-for-servers
+vendor_id: compaq
+name: Management Agents For Servers
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:management_agents_for_servers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: management_agents_for_servers
+  confidence: auto

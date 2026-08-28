@@ -1,0 +1,10 @@
+id: nimble-storage-af20q-all-flash-dual-controller
+vendor_id: hpe
+name: Nimble Storage Af20Q All Flash Dual Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:nimble_storage_af20q_all_flash_dual_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nimble_storage_af20q_all_flash_dual_controller
+  confidence: auto

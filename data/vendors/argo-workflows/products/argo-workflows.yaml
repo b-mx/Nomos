@@ -1,0 +1,9 @@
+id: argo-workflows
+vendor_id: argo-workflows
+name: Argo Workflows
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: argo-workflows
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sc-s80650-firmware
+vendor_id: epson
+name: Sc-S80650 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:sc\-s80650_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-s80650_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dcp-j988n-jpn
+vendor_id: brother
+name: Dcp-J988N(Jpn)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-j988n\(jpn\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-j988n(jpn)
+  confidence: auto

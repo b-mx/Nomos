@@ -1,0 +1,10 @@
+id: express-220
+vendor_id: lifesize
+name: Express 220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lifesize:express_220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: express_220
+  confidence: auto

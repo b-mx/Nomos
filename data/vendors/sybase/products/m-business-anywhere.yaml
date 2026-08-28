@@ -1,0 +1,10 @@
+id: m-business-anywhere
+vendor_id: sybase
+name: M-Business Anywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:sybase:m\-business_anywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m-business_anywhere
+  confidence: auto

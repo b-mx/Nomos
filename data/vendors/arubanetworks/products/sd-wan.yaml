@@ -1,0 +1,10 @@
+id: sd-wan
+vendor_id: arubanetworks
+name: Sd-Wan
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:sd\-wan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd-wan
+  confidence: auto

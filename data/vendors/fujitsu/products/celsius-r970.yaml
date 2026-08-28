@@ -1,0 +1,10 @@
+id: celsius-r970
+vendor_id: fujitsu
+name: Celsius R970
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:celsius_r970:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: celsius_r970
+  confidence: auto

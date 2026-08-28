@@ -1,0 +1,10 @@
+id: pt7135-firmware
+vendor_id: vivotek
+name: Pt7135 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:pt7135_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pt7135_firmware
+  confidence: auto

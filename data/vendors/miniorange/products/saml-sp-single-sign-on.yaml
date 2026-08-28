@@ -1,0 +1,10 @@
+id: saml-sp-single-sign-on
+vendor_id: miniorange
+name: Saml Sp Single Sign On
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:saml_sp_single_sign_on:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: saml_sp_single_sign_on
+  confidence: auto

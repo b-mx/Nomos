@@ -1,0 +1,10 @@
+id: moveit-transfer-2017
+vendor_id: ipswitch
+name: Moveit Transfer 2017
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:moveit_transfer_2017:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moveit_transfer_2017
+  confidence: auto

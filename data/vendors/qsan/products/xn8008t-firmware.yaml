@@ -1,0 +1,10 @@
+id: xn8008t-firmware
+vendor_id: qsan
+name: Xn8008T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:qsan:xn8008t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xn8008t_firmware
+  confidence: auto

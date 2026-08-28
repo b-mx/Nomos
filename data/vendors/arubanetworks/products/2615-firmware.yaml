@@ -1,0 +1,10 @@
+id: 2615-firmware
+vendor_id: arubanetworks
+name: 2615 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:2615_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2615_firmware
+  confidence: auto

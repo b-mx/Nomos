@@ -1,0 +1,10 @@
+id: sf100-firmware
+vendor_id: hpe
+name: Sf100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:sf100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sf100_firmware
+  confidence: auto

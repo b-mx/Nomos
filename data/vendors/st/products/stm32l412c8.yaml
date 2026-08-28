@@ -1,0 +1,10 @@
+id: stm32l412c8
+vendor_id: st
+name: Stm32L412C8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l412c8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l412c8
+  confidence: auto

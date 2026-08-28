@@ -1,0 +1,10 @@
+id: hg532e
+vendor_id: huawei
+name: Hg532E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hg532e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg532e
+  confidence: auto

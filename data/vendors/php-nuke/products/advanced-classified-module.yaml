@@ -1,0 +1,10 @@
+id: advanced-classified-module
+vendor_id: php-nuke
+name: Advanced Classified Module
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-nuke:advanced_classified_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_classified_module
+  confidence: auto

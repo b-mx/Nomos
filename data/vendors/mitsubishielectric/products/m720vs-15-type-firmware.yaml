@@ -1,0 +1,10 @@
+id: m720vs-15-type-firmware
+vendor_id: mitsubishielectric
+name: M720Vs 15-Type Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:m720vs_15\-type_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m720vs_15-type_firmware
+  confidence: auto

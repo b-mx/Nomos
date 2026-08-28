@@ -1,0 +1,10 @@
+id: mfc-b7715dw-firmware
+vendor_id: brother
+name: Mfc-B7715Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-b7715dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-b7715dw_firmware
+  confidence: auto

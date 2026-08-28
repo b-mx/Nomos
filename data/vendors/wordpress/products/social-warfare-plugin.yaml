@@ -2,10 +2,8 @@ id: social-warfare-plugin
 vendor_id: wordpress
 name: Social Warfare Plugin
 type: software
-tags:
-- cms
-icon: skill-icons:wordpress
+tags: []
 aliases:
 - source: cisa_kev
   value: Social Warfare Plugin
-  confidence: curated
+  confidence: auto

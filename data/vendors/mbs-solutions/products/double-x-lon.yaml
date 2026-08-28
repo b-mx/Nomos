@@ -1,0 +1,10 @@
+id: double-x-lon
+vendor_id: mbs-solutions
+name: Double-X Lon
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:double\-x_lon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: double-x_lon
+  confidence: auto

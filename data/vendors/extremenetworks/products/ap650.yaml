@@ -1,0 +1,10 @@
+id: ap650
+vendor_id: extremenetworks
+name: Ap650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap650
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jd241a
+vendor_id: hp
+name: Jd241A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd241a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd241a
+  confidence: auto

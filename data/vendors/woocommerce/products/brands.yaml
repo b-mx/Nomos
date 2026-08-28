@@ -1,0 +1,10 @@
+id: brands
+vendor_id: woocommerce
+name: Brands
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:brands:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brands
+  confidence: auto

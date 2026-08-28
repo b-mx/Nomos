@@ -1,0 +1,10 @@
+id: album-management-system
+vendor_id: fabian
+name: Album Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:album_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: album_management_system
+  confidence: auto

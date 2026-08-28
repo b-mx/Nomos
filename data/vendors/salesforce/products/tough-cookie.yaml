@@ -1,0 +1,10 @@
+id: tough-cookie
+vendor_id: salesforce
+name: Tough-Cookie
+type: software
+tags: []
+cpe: cpe:2.3:a:salesforce:tough\-cookie:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tough-cookie
+  confidence: auto

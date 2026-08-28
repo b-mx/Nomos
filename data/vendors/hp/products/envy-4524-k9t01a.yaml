@@ -1,0 +1,10 @@
+id: envy-4524-k9t01a
+vendor_id: hp
+name: Envy 4524 K9T01A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_4524_k9t01a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_4524_k9t01a
+  confidence: auto

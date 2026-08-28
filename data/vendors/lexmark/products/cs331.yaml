@@ -1,0 +1,10 @@
+id: cs331
+vendor_id: lexmark
+name: Cs331
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs331:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs331
+  confidence: auto

@@ -1,0 +1,10 @@
+id: magzter-magazine-book-store
+vendor_id: magzter
+name: Magzter -Magazine & Book Store
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:magzter_\-magazine_\&_book_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magzter_-magazine_&_book_store
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rooms
+vendor_id: zoom
+name: Rooms
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:rooms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rooms
+  confidence: auto

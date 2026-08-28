@@ -1,0 +1,10 @@
+id: sp-c250dn
+vendor_id: ricoh
+name: Sp C250Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_c250dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_c250dn
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cm
+vendor_id: digi
+name: Cm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:cm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: magic-r300-2100m
+vendor_id: h3c
+name: Magic R300-2100M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:magic_r300\-2100m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_r300-2100m
+  confidence: auto

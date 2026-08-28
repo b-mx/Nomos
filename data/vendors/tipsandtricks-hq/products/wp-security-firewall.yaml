@@ -1,0 +1,10 @@
+id: wp-security-firewall
+vendor_id: tipsandtricks-hq
+name: Wp Security & Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:tipsandtricks\-hq:wp_security_\&_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_security_&_firewall
+  confidence: auto

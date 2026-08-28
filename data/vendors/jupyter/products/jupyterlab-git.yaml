@@ -1,0 +1,10 @@
+id: jupyterlab-git
+vendor_id: jupyter
+name: Jupyterlab-Git
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:jupyterlab\-git:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jupyterlab-git
+  confidence: auto

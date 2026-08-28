@@ -1,0 +1,10 @@
+id: eswap
+vendor_id: iscripts
+name: Eswap
+type: software
+tags: []
+cpe: cpe:2.3:a:iscripts:eswap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eswap
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laravel-property-management-system
+vendor_id: adonesevangelista
+name: Laravel Property Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:adonesevangelista:laravel_property_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laravel_property_management_system
+  confidence: auto

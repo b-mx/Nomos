@@ -1,0 +1,10 @@
+id: zte-blade-spark-firmware
+vendor_id: zteusa
+name: Zte Blade Spark Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zteusa:zte_blade_spark_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zte_blade_spark_firmware
+  confidence: auto

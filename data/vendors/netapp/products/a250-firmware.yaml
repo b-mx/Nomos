@@ -1,0 +1,10 @@
+id: a250-firmware
+vendor_id: netapp
+name: A250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:a250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a250_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: qhs710-firmware
+vendor_id: onsemi
+name: Qhs710 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:onsemi:qhs710_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qhs710_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: airmagnet-enterprise
+vendor_id: netscout
+name: Airmagnet Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:netscout:airmagnet_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airmagnet_enterprise
+  confidence: auto

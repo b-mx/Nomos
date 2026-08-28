@@ -1,0 +1,10 @@
+id: 1435p-firmware
+vendor_id: canon
+name: 1435P+ Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:1435p\+_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1435p+_firmware
+  confidence: auto

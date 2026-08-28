@@ -1,0 +1,10 @@
+id: m2u81
+vendor_id: hp
+name: M2U81
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m2u81:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2u81
+  confidence: auto

@@ -1,0 +1,10 @@
+id: perspective-editor
+vendor_id: pimcore
+name: Perspective Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:pimcore:perspective_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: perspective_editor
+  confidence: auto

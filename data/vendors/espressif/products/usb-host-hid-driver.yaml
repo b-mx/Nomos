@@ -1,0 +1,10 @@
+id: usb-host-hid-driver
+vendor_id: espressif
+name: Usb Host Hid Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:espressif:usb_host_hid_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usb_host_hid_driver
+  confidence: auto

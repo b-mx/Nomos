@@ -1,0 +1,10 @@
+id: mcp-typescript-sdk
+vendor_id: lfprojects
+name: Mcp Typescript Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:mcp_typescript_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcp_typescript_sdk
+  confidence: auto

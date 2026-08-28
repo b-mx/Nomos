@@ -1,0 +1,10 @@
+id: nport-5450-t
+vendor_id: moxa
+name: Nport 5450-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_5450\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5450-t
+  confidence: auto

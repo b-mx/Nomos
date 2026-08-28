@@ -1,0 +1,10 @@
+id: tac-plus
+vendor_id: facebook
+name: Tac Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:tac_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tac_plus
+  confidence: auto

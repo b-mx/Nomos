@@ -1,0 +1,10 @@
+id: airbot-andy-firmware
+vendor_id: ecovacs
+name: Airbot Andy Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ecovacs:airbot_andy_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airbot_andy_firmware
+  confidence: auto

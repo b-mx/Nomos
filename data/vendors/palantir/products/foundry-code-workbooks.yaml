@@ -1,0 +1,10 @@
+id: foundry-code-workbooks
+vendor_id: palantir
+name: Foundry Code-Workbooks
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:foundry_code\-workbooks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foundry_code-workbooks
+  confidence: auto

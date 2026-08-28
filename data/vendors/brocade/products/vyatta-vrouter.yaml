@@ -1,0 +1,10 @@
+id: vyatta-vrouter
+vendor_id: brocade
+name: Vyatta Vrouter
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brocade:vyatta_vrouter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vyatta_vrouter
+  confidence: auto

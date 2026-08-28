@@ -1,0 +1,10 @@
+id: fd600-301gw
+vendor_id: cdatatec
+name: Fd600-301Gw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cdatatec:fd600\-301gw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd600-301gw
+  confidence: auto

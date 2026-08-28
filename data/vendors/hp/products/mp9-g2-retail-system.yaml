@@ -1,0 +1,10 @@
+id: mp9-g2-retail-system
+vendor_id: hp
+name: Mp9 G2 Retail System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mp9_g2_retail_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp9_g2_retail_system
+  confidence: auto

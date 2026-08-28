@@ -1,0 +1,10 @@
+id: color-laserjet-cm4540-mfp-firmware
+vendor_id: hp
+name: Color Laserjet Cm4540 Mfp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_cm4540_mfp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_cm4540_mfp_firmware
+  confidence: auto

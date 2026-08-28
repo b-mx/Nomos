@@ -1,0 +1,10 @@
+id: dcp-l6600dw
+vendor_id: brother
+name: Dcp-L6600Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-l6600dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-l6600dw
+  confidence: auto

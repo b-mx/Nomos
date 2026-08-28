@@ -1,0 +1,10 @@
+id: blade-a5-2020-firmware
+vendor_id: zte
+name: Blade A5 2020 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:blade_a5_2020_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_a5_2020_firmware
+  confidence: auto

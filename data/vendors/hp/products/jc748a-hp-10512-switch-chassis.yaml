@@ -1,0 +1,10 @@
+id: jc748a-hp-10512-switch-chassis
+vendor_id: hp
+name: Jc748A Hp 10512 Switch Chassis
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc748a_hp_10512_switch_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc748a_hp_10512_switch_chassis
+  confidence: auto

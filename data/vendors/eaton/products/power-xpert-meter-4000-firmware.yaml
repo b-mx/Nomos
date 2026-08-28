@@ -1,0 +1,10 @@
+id: power-xpert-meter-4000-firmware
+vendor_id: eaton
+name: Power Xpert Meter 4000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eaton:power_xpert_meter_4000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: power_xpert_meter_4000_firmware
+  confidence: auto

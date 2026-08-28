@@ -1,0 +1,10 @@
+id: spider-facebook
+vendor_id: web-dorado
+name: Spider Facebook
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:spider_facebook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spider_facebook
+  confidence: auto

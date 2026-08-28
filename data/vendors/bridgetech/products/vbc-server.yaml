@@ -1,0 +1,10 @@
+id: vbc-server
+vendor_id: bridgetech
+name: Vbc Server
+type: software
+tags: []
+cpe: cpe:2.3:a:bridgetech:vbc_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vbc_server
+  confidence: auto

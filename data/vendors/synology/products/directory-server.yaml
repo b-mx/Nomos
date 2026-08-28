@@ -1,0 +1,10 @@
+id: directory-server
+vendor_id: synology
+name: Directory Server
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:directory_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: directory_server
+  confidence: auto

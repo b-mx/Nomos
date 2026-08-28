@@ -1,0 +1,10 @@
+id: mzk-dp300n
+vendor_id: planex
+name: Mzk-Dp300N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:planex:mzk\-dp300n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mzk-dp300n
+  confidence: auto

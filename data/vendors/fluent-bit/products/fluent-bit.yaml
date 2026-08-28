@@ -1,0 +1,9 @@
+id: fluent-bit
+vendor_id: fluent-bit
+name: Fluent Bit
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: fluent-bit
+  confidence: auto

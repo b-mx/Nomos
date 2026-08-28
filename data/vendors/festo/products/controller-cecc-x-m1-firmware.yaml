@@ -1,0 +1,10 @@
+id: controller-cecc-x-m1-firmware
+vendor_id: festo
+name: Controller Cecc-X-M1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:controller_cecc\-x\-m1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controller_cecc-x-m1_firmware
+  confidence: auto

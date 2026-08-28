@@ -1,0 +1,10 @@
+id: pc10pe-16-16p-firmware
+vendor_id: jtekt
+name: Pc10Pe-16/16P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:pc10pe\-16\/16p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10pe-16/16p_firmware
+  confidence: auto

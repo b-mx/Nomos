@@ -1,0 +1,10 @@
+id: paxstore
+vendor_id: paxtechnology
+name: Paxstore
+type: software
+tags: []
+cpe: cpe:2.3:a:paxtechnology:paxstore:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paxstore
+  confidence: auto

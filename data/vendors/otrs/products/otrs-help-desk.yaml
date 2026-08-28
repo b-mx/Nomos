@@ -1,0 +1,10 @@
+id: otrs-help-desk
+vendor_id: otrs
+name: Otrs Help Desk
+type: software
+tags: []
+cpe: cpe:2.3:a:otrs:otrs_help_desk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: otrs_help_desk
+  confidence: auto

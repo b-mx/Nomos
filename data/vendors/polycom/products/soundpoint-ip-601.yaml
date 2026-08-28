@@ -1,0 +1,10 @@
+id: soundpoint-ip-601
+vendor_id: polycom
+name: Soundpoint Ip 601
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:soundpoint_ip_601:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soundpoint_ip_601
+  confidence: auto

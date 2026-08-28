@@ -1,0 +1,10 @@
+id: sd-320an
+vendor_id: silextechnology
+name: Sd-320An
+type: hardware
+tags: []
+cpe: cpe:2.3:h:silextechnology:sd\-320an:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd-320an
+  confidence: auto

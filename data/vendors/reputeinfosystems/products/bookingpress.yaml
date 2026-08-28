@@ -1,0 +1,10 @@
+id: bookingpress
+vendor_id: reputeinfosystems
+name: Bookingpress
+type: software
+tags: []
+cpe: cpe:2.3:a:reputeinfosystems:bookingpress:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bookingpress
+  confidence: auto

@@ -1,0 +1,10 @@
+id: woocommerce-currency-switcher
+vendor_id: pluginus
+name: Woocommerce Currency Switcher
+type: software
+tags: []
+cpe: cpe:2.3:a:pluginus:woocommerce_currency_switcher:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_currency_switcher
+  confidence: auto

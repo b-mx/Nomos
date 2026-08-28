@@ -1,0 +1,10 @@
+id: ideapad-5-15aba7
+vendor_id: lenovo
+name: Ideapad 5 15Aba7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideapad_5_15aba7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_5_15aba7
+  confidence: auto

@@ -1,0 +1,10 @@
+id: g50-80-touch
+vendor_id: lenovo
+name: G50-80 Touch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:g50\-80_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g50-80_touch
+  confidence: auto

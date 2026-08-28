@@ -1,0 +1,10 @@
+id: simplivity-325
+vendor_id: hp
+name: Simplivity 325
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:simplivity_325:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplivity_325
+  confidence: auto

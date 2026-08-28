@@ -1,0 +1,10 @@
+id: strimzi
+vendor_id: linuxfoundation
+name: Strimzi
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:strimzi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: strimzi
+  confidence: auto

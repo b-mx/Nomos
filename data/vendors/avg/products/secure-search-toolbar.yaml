@@ -1,0 +1,10 @@
+id: secure-search-toolbar
+vendor_id: avg
+name: Secure Search Toolbar
+type: software
+tags: []
+cpe: cpe:2.3:a:avg:secure_search_toolbar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_search_toolbar
+  confidence: auto

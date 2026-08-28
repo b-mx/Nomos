@@ -1,0 +1,10 @@
+id: civic-2012
+vendor_id: honda
+name: Civic 2012
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honda:civic_2012:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: civic_2012
+  confidence: auto

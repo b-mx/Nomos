@@ -1,0 +1,10 @@
+id: sysmac-cs1h-cpu63h
+vendor_id: omron
+name: Sysmac Cs1H-Cpu63H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cs1h\-cpu63h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cs1h-cpu63h
+  confidence: auto

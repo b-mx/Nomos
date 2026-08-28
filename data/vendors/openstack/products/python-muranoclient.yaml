@@ -1,0 +1,10 @@
+id: python-muranoclient
+vendor_id: openstack
+name: Python-Muranoclient
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:python\-muranoclient:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: python-muranoclient
+  confidence: auto

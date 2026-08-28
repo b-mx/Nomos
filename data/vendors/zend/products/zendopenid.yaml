@@ -1,0 +1,10 @@
+id: zendopenid
+vendor_id: zend
+name: Zendopenid
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zendopenid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendopenid
+  confidence: auto

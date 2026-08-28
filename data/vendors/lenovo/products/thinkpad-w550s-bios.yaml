@@ -1,0 +1,10 @@
+id: thinkpad-w550s-bios
+vendor_id: lenovo
+name: Thinkpad W550S Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_w550s_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_w550s_bios
+  confidence: auto

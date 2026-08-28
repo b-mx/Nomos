@@ -1,0 +1,10 @@
+id: smart-tank-6000-30s82a
+vendor_id: hp
+name: Smart Tank 6000 30S82A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_6000_30s82a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_6000_30s82a
+  confidence: auto

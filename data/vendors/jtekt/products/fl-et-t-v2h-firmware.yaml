@@ -1,0 +1,10 @@
+id: fl-et-t-v2h-firmware
+vendor_id: jtekt
+name: Fl/Et-T-V2H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:fl\/et\-t\-v2h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl/et-t-v2h_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: solis-8152
+vendor_id: sloan
+name: Solis 8152
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:solis_8152:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solis_8152
+  confidence: auto

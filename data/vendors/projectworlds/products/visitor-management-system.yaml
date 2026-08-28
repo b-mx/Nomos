@@ -1,0 +1,10 @@
+id: visitor-management-system
+vendor_id: projectworlds
+name: Visitor Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:projectworlds:visitor_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visitor_management_system
+  confidence: auto

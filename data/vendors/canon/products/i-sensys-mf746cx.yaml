@@ -1,0 +1,10 @@
+id: i-sensys-mf746cx
+vendor_id: canon
+name: I-Sensys Mf746Cx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:i\-sensys_mf746cx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i-sensys_mf746cx
+  confidence: auto

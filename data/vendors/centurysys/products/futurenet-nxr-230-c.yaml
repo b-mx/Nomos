@@ -1,0 +1,10 @@
+id: futurenet-nxr-230-c
+vendor_id: centurysys
+name: Futurenet Nxr-230/C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:centurysys:futurenet_nxr\-230\/c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: futurenet_nxr-230/c
+  confidence: auto

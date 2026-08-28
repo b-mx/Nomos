@@ -1,0 +1,10 @@
+id: ns-series-firmware
+vendor_id: omron
+name: Ns Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:ns_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ns_series_firmware
+  confidence: auto

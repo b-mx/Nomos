@@ -1,0 +1,10 @@
+id: air-link-5000ac
+vendor_id: jensenofscandinavia
+name: Air:Link 5000Ac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jensenofscandinavia:air\:link_5000ac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air:link_5000ac
+  confidence: auto

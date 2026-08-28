@@ -1,0 +1,10 @@
+id: istar-ultra
+vendor_id: johnsoncontrols
+name: Istar Ultra
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:istar_ultra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: istar_ultra
+  confidence: auto

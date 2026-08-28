@@ -1,0 +1,10 @@
+id: rfu610-10600-firmware
+vendor_id: sick
+name: Rfu610-10600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:rfu610\-10600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfu610-10600_firmware
+  confidence: auto

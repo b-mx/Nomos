@@ -1,0 +1,10 @@
+id: anbox-cloud
+vendor_id: canonical
+name: Anbox Cloud
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:anbox_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anbox_cloud
+  confidence: auto

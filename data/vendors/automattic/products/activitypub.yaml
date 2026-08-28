@@ -1,0 +1,10 @@
+id: activitypub
+vendor_id: automattic
+name: Activitypub
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:activitypub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: activitypub
+  confidence: auto

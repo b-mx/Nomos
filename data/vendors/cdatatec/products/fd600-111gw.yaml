@@ -1,0 +1,10 @@
+id: fd600-111gw
+vendor_id: cdatatec
+name: Fd600-111Gw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cdatatec:fd600\-111gw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd600-111gw
+  confidence: auto

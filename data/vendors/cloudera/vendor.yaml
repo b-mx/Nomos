@@ -1,0 +1,7 @@
+id: cloudera
+name: Cloudera
+cpe: cpe:2.3:*:cloudera:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudera
+  confidence: auto

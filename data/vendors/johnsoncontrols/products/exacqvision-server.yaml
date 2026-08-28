@@ -1,0 +1,10 @@
+id: exacqvision-server
+vendor_id: johnsoncontrols
+name: Exacqvision Server
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:exacqvision_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exacqvision_server
+  confidence: auto

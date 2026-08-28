@@ -1,0 +1,10 @@
+id: asl-ux-4800
+vendor_id: nec
+name: Asl Ux 4800
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:asl_ux_4800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asl_ux_4800
+  confidence: auto

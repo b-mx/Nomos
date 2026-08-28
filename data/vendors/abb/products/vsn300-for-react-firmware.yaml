@@ -1,0 +1,10 @@
+id: vsn300-for-react-firmware
+vendor_id: abb
+name: Vsn300 For React Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:vsn300_for_react_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsn300_for_react_firmware
+  confidence: auto

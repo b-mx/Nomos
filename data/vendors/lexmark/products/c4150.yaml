@@ -1,0 +1,10 @@
+id: c4150
+vendor_id: lexmark
+name: C4150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c4150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c4150
+  confidence: auto

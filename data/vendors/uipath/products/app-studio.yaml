@@ -1,0 +1,10 @@
+id: app-studio
+vendor_id: uipath
+name: App Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:app_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: app_studio
+  confidence: auto

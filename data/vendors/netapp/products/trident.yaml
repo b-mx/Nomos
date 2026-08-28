@@ -1,0 +1,10 @@
+id: trident
+vendor_id: netapp
+name: Trident
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:trident:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trident
+  confidence: auto

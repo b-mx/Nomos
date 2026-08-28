@@ -1,0 +1,10 @@
+id: flexidome-hd-1080p-firmware
+vendor_id: bosch
+name: Flexidome Hd 1080P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:flexidome_hd_1080p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_hd_1080p_firmware
+  confidence: auto

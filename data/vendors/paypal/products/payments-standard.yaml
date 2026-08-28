@@ -1,0 +1,10 @@
+id: payments-standard
+vendor_id: paypal
+name: Payments Standard
+type: software
+tags: []
+cpe: cpe:2.3:a:paypal:payments_standard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: payments_standard
+  confidence: auto

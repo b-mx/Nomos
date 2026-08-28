@@ -1,0 +1,10 @@
+id: fsb-dequeen-mobile-banking
+vendor_id: meafinancial
+name: Fsb Dequeen Mobile Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:fsb_dequeen_mobile_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fsb_dequeen_mobile_banking
+  confidence: auto

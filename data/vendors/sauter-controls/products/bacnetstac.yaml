@@ -1,0 +1,10 @@
+id: bacnetstac
+vendor_id: sauter-controls
+name: Bacnetstac
+type: software
+tags: []
+cpe: cpe:2.3:a:sauter\-controls:bacnetstac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bacnetstac
+  confidence: auto

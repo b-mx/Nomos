@@ -1,0 +1,10 @@
+id: t2pro
+vendor_id: lenovo
+name: T2Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:t2pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t2pro
+  confidence: auto

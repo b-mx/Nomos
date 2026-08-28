@@ -1,0 +1,10 @@
+id: xp7-global-link-manager-software
+vendor_id: hp
+name: Xp7 Global Link Manager Software
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:xp7_global_link_manager_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp7_global_link_manager_software
+  confidence: auto

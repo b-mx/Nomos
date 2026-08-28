@@ -1,0 +1,10 @@
+id: compactlogix-l35e-controller
+vendor_id: rockwellautomation
+name: Compactlogix L35E Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:compactlogix_l35e_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactlogix_l35e_controller
+  confidence: auto

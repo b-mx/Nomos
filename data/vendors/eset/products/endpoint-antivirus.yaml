@@ -1,0 +1,10 @@
+id: endpoint-antivirus
+vendor_id: eset
+name: Endpoint Antivirus
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: endpoint_antivirus
+  confidence: auto

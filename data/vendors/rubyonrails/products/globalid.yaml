@@ -1,0 +1,10 @@
+id: globalid
+vendor_id: rubyonrails
+name: Globalid
+type: software
+tags: []
+cpe: cpe:2.3:a:rubyonrails:globalid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: globalid
+  confidence: auto

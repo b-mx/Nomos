@@ -1,0 +1,10 @@
+id: thinkagile-mx3331-h-hybrid
+vendor_id: lenovo
+name: Thinkagile Mx3331-H Hybrid
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_mx3331\-h_hybrid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_mx3331-h_hybrid
+  confidence: auto

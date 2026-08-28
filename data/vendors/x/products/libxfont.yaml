@@ -1,0 +1,10 @@
+id: libxfont
+vendor_id: x
+name: Libxfont
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxfont:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxfont
+  confidence: auto

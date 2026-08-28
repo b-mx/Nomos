@@ -1,0 +1,10 @@
+id: cq893a
+vendor_id: hp
+name: Cq893A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cq893a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cq893a
+  confidence: auto

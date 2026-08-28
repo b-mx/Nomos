@@ -1,0 +1,10 @@
+id: nb-2g18
+vendor_id: ui
+name: Nb-2G18
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:nb\-2g18:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb-2g18
+  confidence: auto

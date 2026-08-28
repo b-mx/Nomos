@@ -1,0 +1,10 @@
+id: dashboard-widget-suite
+vendor_id: plugin-planet
+name: Dashboard Widget Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:plugin\-planet:dashboard_widget_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dashboard_widget_suite
+  confidence: auto

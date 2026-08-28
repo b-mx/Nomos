@@ -1,0 +1,10 @@
+id: amd64
+vendor_id: amd
+name: Amd64
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:amd64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amd64
+  confidence: auto

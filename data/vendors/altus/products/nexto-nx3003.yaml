@@ -1,0 +1,10 @@
+id: nexto-nx3003
+vendor_id: altus
+name: Nexto Nx3003
+type: hardware
+tags: []
+cpe: cpe:2.3:h:altus:nexto_nx3003:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexto_nx3003
+  confidence: auto

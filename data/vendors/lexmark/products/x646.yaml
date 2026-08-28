@@ -1,0 +1,10 @@
+id: x646
+vendor_id: lexmark
+name: X646
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x646:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x646
+  confidence: auto

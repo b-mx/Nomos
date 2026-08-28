@@ -1,0 +1,10 @@
+id: blueking-configuration-management-database
+vendor_id: tencent
+name: Blueking Configuration Management Database
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:blueking_configuration_management_database:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blueking_configuration_management_database
+  confidence: auto

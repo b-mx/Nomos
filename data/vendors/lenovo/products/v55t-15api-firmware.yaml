@@ -1,0 +1,10 @@
+id: v55t-15api-firmware
+vendor_id: lenovo
+name: V55T-15Api Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v55t\-15api_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v55t-15api_firmware
+  confidence: auto

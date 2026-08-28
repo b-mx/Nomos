@@ -1,0 +1,10 @@
+id: proliant-se2160w-gen9-server
+vendor_id: hpe
+name: Proliant Se2160W Gen9 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_se2160w_gen9_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_se2160w_gen9_server
+  confidence: auto

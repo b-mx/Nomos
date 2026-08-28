@@ -1,0 +1,10 @@
+id: epiq-7
+vendor_id: philips
+name: Epiq 7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:epiq_7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epiq_7
+  confidence: auto

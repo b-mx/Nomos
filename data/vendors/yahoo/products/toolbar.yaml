@@ -1,0 +1,10 @@
+id: toolbar
+vendor_id: yahoo
+name: Toolbar
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:toolbar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toolbar
+  confidence: auto

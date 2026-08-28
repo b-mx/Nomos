@@ -1,0 +1,10 @@
+id: zendservice-nirvanix
+vendor_id: zend
+name: Zendservice Nirvanix
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zendservice_nirvanix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendservice_nirvanix
+  confidence: auto

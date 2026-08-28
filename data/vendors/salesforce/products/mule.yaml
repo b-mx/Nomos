@@ -1,0 +1,10 @@
+id: mule
+vendor_id: salesforce
+name: Mule
+type: software
+tags: []
+cpe: cpe:2.3:a:salesforce:mule:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mule
+  confidence: auto

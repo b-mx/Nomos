@@ -1,0 +1,10 @@
+id: pcd1-m0xx0
+vendor_id: saia-burgess-controls
+name: Pcd1.M0Xx0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:saia_burgess_controls:pcd1\.m0xx0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcd1.m0xx0
+  confidence: auto

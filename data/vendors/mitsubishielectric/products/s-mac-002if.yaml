@@ -1,0 +1,10 @@
+id: s-mac-002if
+vendor_id: mitsubishielectric
+name: S-Mac-002If
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:s\-mac\-002if:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s-mac-002if
+  confidence: auto

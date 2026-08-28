@@ -1,0 +1,10 @@
+id: storeonce-system
+vendor_id: hpe
+name: Storeonce System
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:storeonce_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_system
+  confidence: auto

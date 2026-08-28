@@ -1,0 +1,10 @@
+id: medical-card-system
+vendor_id: phpgurukul
+name: Medical Card System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:medical_card_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: medical_card_system
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bhojon
+vendor_id: bdtask
+name: Bhojon
+type: software
+tags: []
+cpe: cpe:2.3:a:bdtask:bhojon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bhojon
+  confidence: auto

@@ -1,0 +1,10 @@
+id: order
+vendor_id: glpi-project
+name: Order
+type: software
+tags: []
+cpe: cpe:2.3:a:glpi\-project:order:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: order
+  confidence: auto

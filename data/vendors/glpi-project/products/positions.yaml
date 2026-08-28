@@ -1,0 +1,10 @@
+id: positions
+vendor_id: glpi-project
+name: Positions
+type: software
+tags: []
+cpe: cpe:2.3:a:glpi\-project:positions:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: positions
+  confidence: auto

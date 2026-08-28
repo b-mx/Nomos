@@ -1,0 +1,10 @@
+id: ew302n
+vendor_id: iptime
+name: Ew302N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:ew302n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ew302n
+  confidence: auto

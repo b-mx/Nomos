@@ -1,0 +1,10 @@
+id: credhub-release
+vendor_id: pivotal-software
+name: Credhub-Release
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:credhub\-release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: credhub-release
+  confidence: auto

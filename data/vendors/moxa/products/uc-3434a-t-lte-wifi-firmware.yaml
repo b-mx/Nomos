@@ -1,0 +1,10 @@
+id: uc-3434a-t-lte-wifi-firmware
+vendor_id: moxa
+name: Uc-3434A-T-Lte-Wifi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-3434a\-t\-lte\-wifi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-3434a-t-lte-wifi_firmware
+  confidence: auto

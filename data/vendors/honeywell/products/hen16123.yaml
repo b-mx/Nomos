@@ -1,0 +1,10 @@
+id: hen16123
+vendor_id: honeywell
+name: Hen16123
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hen16123:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hen16123
+  confidence: auto

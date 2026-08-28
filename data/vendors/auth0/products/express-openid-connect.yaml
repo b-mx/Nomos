@@ -1,0 +1,10 @@
+id: express-openid-connect
+vendor_id: auth0
+name: Express Openid Connect
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:express_openid_connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: express_openid_connect
+  confidence: auto

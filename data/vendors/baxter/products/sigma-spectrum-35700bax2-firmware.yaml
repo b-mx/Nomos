@@ -1,0 +1,10 @@
+id: sigma-spectrum-35700bax2-firmware
+vendor_id: baxter
+name: Sigma Spectrum 35700Bax2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baxter:sigma_spectrum_35700bax2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sigma_spectrum_35700bax2_firmware
+  confidence: auto

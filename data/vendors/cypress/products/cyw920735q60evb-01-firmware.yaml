@@ -1,0 +1,10 @@
+id: cyw920735q60evb-01-firmware
+vendor_id: cypress
+name: Cyw920735Q60Evb-01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cypress:cyw920735q60evb\-01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyw920735q60evb-01_firmware
+  confidence: auto

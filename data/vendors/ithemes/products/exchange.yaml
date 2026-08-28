@@ -1,0 +1,10 @@
+id: exchange
+vendor_id: ithemes
+name: Exchange
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:exchange:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exchange
+  confidence: auto

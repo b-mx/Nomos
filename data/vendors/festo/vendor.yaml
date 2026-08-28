@@ -1,0 +1,7 @@
+id: festo
+name: Festo
+cpe: cpe:2.3:*:festo:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: festo
+  confidence: auto

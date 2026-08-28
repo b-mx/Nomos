@@ -1,0 +1,10 @@
+id: thinkpad-t25-20k7-firmware
+vendor_id: lenovo
+name: Thinkpad T25 (20K7) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_t25_\(20k7\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t25_(20k7)_firmware
+  confidence: auto

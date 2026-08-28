@@ -1,0 +1,10 @@
+id: command-line-interface
+vendor_id: cloudfoundry
+name: Command Line Interface
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:command_line_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: command_line_interface
+  confidence: auto

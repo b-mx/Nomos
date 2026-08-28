@@ -1,0 +1,10 @@
+id: airfiber-af24
+vendor_id: ui
+name: Airfiber Af24
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:airfiber_af24:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airfiber_af24
+  confidence: auto

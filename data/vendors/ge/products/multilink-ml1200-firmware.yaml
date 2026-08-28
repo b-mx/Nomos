@@ -1,0 +1,10 @@
+id: multilink-ml1200-firmware
+vendor_id: ge
+name: Multilink Ml1200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:multilink_ml1200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilink_ml1200_firmware
+  confidence: auto

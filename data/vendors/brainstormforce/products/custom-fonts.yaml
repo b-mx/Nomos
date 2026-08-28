@@ -1,0 +1,10 @@
+id: custom-fonts
+vendor_id: brainstormforce
+name: Custom Fonts
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:custom_fonts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: custom_fonts
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ryzen-9-7945hx3d-firmware
+vendor_id: amd
+name: Ryzen 9 7945Hx3D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_9_7945hx3d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_9_7945hx3d_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: q4809-pve
+vendor_id: axis
+name: Q4809-Pve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q4809\-pve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q4809-pve
+  confidence: auto

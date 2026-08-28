@@ -1,0 +1,10 @@
+id: sr-m-50ap1
+vendor_id: fujitsu
+name: Sr-M 50Ap1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:sr\-m_50ap1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sr-m_50ap1
+  confidence: auto

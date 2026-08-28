@@ -1,0 +1,10 @@
+id: home-media-network-hard-drive
+vendor_id: iomega
+name: Home Media Network Hard Drive
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iomega:home_media_network_hard_drive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: home_media_network_hard_drive
+  confidence: auto

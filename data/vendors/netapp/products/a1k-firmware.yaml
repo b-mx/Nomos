@@ -1,0 +1,10 @@
+id: a1k-firmware
+vendor_id: netapp
+name: A1K Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:a1k_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1k_firmware
+  confidence: auto

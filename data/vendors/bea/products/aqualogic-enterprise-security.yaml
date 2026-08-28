@@ -1,0 +1,10 @@
+id: aqualogic-enterprise-security
+vendor_id: bea
+name: Aqualogic Enterprise Security
+type: software
+tags: []
+cpe: cpe:2.3:a:bea:aqualogic_enterprise_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aqualogic_enterprise_security
+  confidence: auto

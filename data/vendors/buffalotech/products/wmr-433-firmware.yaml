@@ -1,0 +1,10 @@
+id: wmr-433-firmware
+vendor_id: buffalotech
+name: Wmr-433 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalotech:wmr\-433_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wmr-433_firmware
+  confidence: auto

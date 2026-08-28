@@ -1,0 +1,12 @@
+id: forgejo
+vendor_id: forgejo
+name: Forgejo
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: forgejo
+  confidence: auto
+- source: nvd
+  value: forgejo
+  confidence: auto

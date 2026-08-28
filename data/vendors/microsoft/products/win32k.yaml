@@ -1,0 +1,9 @@
+id: win32k
+vendor_id: microsoft
+name: Win32k
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Win32k
+  confidence: auto

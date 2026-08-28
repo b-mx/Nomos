@@ -1,0 +1,10 @@
+id: medzone-lite
+vendor_id: machothemes
+name: Medzone Lite
+type: software
+tags: []
+cpe: cpe:2.3:a:machothemes:medzone_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: medzone_lite
+  confidence: auto

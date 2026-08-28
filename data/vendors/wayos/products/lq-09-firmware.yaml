@@ -1,0 +1,10 @@
+id: lq-09-firmware
+vendor_id: wayos
+name: Lq-09 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wayos:lq\-09_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lq-09_firmware
+  confidence: auto

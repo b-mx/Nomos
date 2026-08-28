@@ -1,0 +1,10 @@
+id: epyc-7543p-firmware
+vendor_id: amd
+name: Epyc 7543P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:epyc_7543p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7543p_firmware
+  confidence: auto

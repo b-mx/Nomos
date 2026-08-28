@@ -1,0 +1,10 @@
+id: sp-311dnw
+vendor_id: ricoh
+name: Sp 311Dnw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_311dnw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_311dnw
+  confidence: auto

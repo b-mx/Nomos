@@ -1,0 +1,10 @@
+id: hermes
+vendor_id: mercedes-benz
+name: Hermes
+type: software
+tags: []
+cpe: cpe:2.3:a:mercedes\-benz:hermes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hermes
+  confidence: auto

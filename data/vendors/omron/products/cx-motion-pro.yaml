@@ -1,0 +1,10 @@
+id: cx-motion-pro
+vendor_id: omron
+name: Cx-Motion Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:cx\-motion_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-motion_pro
+  confidence: auto

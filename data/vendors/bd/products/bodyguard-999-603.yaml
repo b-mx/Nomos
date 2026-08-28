@@ -1,0 +1,10 @@
+id: bodyguard-999-603
+vendor_id: bd
+name: Bodyguard 999-603
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:bodyguard_999\-603:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bodyguard_999-603
+  confidence: auto

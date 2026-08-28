@@ -1,0 +1,10 @@
+id: yale-ia-210-firmware
+vendor_id: assaabloy
+name: Yale Ia-210 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:assaabloy:yale_ia\-210_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale_ia-210_firmware
+  confidence: auto

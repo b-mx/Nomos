@@ -1,0 +1,10 @@
+id: maxicharger-ac-pro
+vendor_id: autel
+name: Maxicharger Ac Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:autel:maxicharger_ac_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxicharger_ac_pro
+  confidence: auto

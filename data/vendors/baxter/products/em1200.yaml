@@ -1,0 +1,10 @@
+id: em1200
+vendor_id: baxter
+name: Em1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baxter:em1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: em1200
+  confidence: auto

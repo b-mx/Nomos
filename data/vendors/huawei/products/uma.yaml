@@ -1,0 +1,10 @@
+id: uma
+vendor_id: huawei
+name: Uma
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:uma:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uma
+  confidence: auto

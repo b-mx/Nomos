@@ -1,0 +1,10 @@
+id: watch-2-firmware
+vendor_id: huawei
+name: Watch 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:watch_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: watch_2_firmware
+  confidence: auto

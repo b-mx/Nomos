@@ -1,0 +1,10 @@
+id: time-boot-rsc-mt8f
+vendor_id: meikyo
+name: Time Boot Rsc-Mt8F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meikyo:time_boot_rsc\-mt8f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: time_boot_rsc-mt8f
+  confidence: auto

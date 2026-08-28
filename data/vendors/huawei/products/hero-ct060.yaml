@@ -1,0 +1,10 @@
+id: hero-ct060
+vendor_id: huawei
+name: Hero-Ct060
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hero\-ct060:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hero-ct060
+  confidence: auto

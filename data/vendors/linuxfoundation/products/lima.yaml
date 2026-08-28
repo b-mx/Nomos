@@ -1,0 +1,10 @@
+id: lima
+vendor_id: linuxfoundation
+name: Lima
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:lima:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lima
+  confidence: auto

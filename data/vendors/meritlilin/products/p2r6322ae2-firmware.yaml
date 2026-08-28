@@ -1,0 +1,10 @@
+id: p2r6322ae2-firmware
+vendor_id: meritlilin
+name: P2R6322Ae2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meritlilin:p2r6322ae2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p2r6322ae2_firmware
+  confidence: auto

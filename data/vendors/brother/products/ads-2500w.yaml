@@ -1,0 +1,10 @@
+id: ads-2500w
+vendor_id: brother
+name: Ads-2500W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:ads\-2500w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ads-2500w
+  confidence: auto

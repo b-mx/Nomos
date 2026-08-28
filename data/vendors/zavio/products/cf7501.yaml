@@ -1,0 +1,10 @@
+id: cf7501
+vendor_id: zavio
+name: Cf7501
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zavio:cf7501:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf7501
+  confidence: auto

@@ -1,0 +1,10 @@
+id: alcatel-linkzone-firmware
+vendor_id: tcl
+name: Alcatel Linkzone Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tcl:alcatel_linkzone_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alcatel_linkzone_firmware
+  confidence: auto

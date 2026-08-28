@@ -1,0 +1,10 @@
+id: docuworks-viewer-light
+vendor_id: fujixerox
+name: Docuworks Viewer Light
+type: software
+tags: []
+cpe: cpe:2.3:a:fujixerox:docuworks_viewer_light:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuworks_viewer_light
+  confidence: auto

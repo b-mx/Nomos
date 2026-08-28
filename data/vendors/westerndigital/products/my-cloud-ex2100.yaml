@@ -1,0 +1,10 @@
+id: my-cloud-ex2100
+vendor_id: westerndigital
+name: My Cloud Ex2100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westerndigital:my_cloud_ex2100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_cloud_ex2100
+  confidence: auto

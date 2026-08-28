@@ -1,0 +1,10 @@
+id: visual-vector-client
+vendor_id: avaya
+name: Visual Vector Client
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:visual_vector_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visual_vector_client
+  confidence: auto

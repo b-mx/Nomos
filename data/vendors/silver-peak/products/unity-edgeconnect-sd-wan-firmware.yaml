@@ -1,0 +1,10 @@
+id: unity-edgeconnect-sd-wan-firmware
+vendor_id: silver-peak
+name: Unity Edgeconnect Sd-Wan Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:silver\-peak:unity_edgeconnect_sd\-wan_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unity_edgeconnect_sd-wan_firmware
+  confidence: auto

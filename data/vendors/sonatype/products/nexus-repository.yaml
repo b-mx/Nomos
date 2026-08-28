@@ -1,0 +1,9 @@
+id: nexus-repository
+vendor_id: sonatype
+name: Nexus Repository
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Nexus Repository
+  confidence: auto

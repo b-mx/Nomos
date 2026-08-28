@@ -1,0 +1,10 @@
+id: pam-u2f
+vendor_id: yubico
+name: Pam-U2F
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:pam\-u2f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pam-u2f
+  confidence: auto

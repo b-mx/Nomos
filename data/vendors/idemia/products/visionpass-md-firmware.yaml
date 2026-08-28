@@ -1,0 +1,10 @@
+id: visionpass-md-firmware
+vendor_id: idemia
+name: Visionpass Md Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idemia:visionpass_md_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visionpass_md_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ruckus-t811-cm
+vendor_id: commscope
+name: Ruckus T811-Cm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:ruckus_t811\-cm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_t811-cm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: f3105
+vendor_id: zavio
+name: F3105
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zavio:f3105:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f3105
+  confidence: auto

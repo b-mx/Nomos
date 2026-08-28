@@ -1,0 +1,10 @@
+id: lr350
+vendor_id: totolink
+name: Lr350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:lr350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lr350
+  confidence: auto

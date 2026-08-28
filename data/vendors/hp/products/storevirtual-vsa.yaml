@@ -1,0 +1,10 @@
+id: storevirtual-vsa
+vendor_id: hp
+name: Storevirtual Vsa
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:storevirtual_vsa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storevirtual_vsa
+  confidence: auto

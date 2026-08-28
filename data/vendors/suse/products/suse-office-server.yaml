@@ -1,0 +1,10 @@
+id: suse-office-server
+vendor_id: suse
+name: Suse Office Server
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:suse_office_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_office_server
+  confidence: auto

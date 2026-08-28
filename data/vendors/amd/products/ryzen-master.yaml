@@ -1,0 +1,10 @@
+id: ryzen-master
+vendor_id: amd
+name: Ryzen Master
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_master:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_master
+  confidence: auto

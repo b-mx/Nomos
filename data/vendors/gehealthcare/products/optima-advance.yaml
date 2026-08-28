@@ -1,0 +1,10 @@
+id: optima-advance
+vendor_id: gehealthcare
+name: Optima Advance
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:optima_advance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_advance
+  confidence: auto

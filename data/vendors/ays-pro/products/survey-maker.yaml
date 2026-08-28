@@ -1,0 +1,10 @@
+id: survey-maker
+vendor_id: ays-pro
+name: Survey Maker
+type: software
+tags: []
+cpe: cpe:2.3:a:ays\-pro:survey_maker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: survey_maker
+  confidence: auto

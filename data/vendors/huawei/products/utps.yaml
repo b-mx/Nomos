@@ -1,0 +1,10 @@
+id: utps
+vendor_id: huawei
+name: Utps
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:utps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: utps
+  confidence: auto

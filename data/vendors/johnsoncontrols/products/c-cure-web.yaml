@@ -1,0 +1,10 @@
+id: c-cure-web
+vendor_id: johnsoncontrols
+name: C-Cure Web
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:c\-cure_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c-cure_web
+  confidence: auto

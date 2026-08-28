@@ -1,0 +1,10 @@
+id: contentsbridge-utility
+vendor_id: fujixerox
+name: Contentsbridge Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:fujixerox:contentsbridge_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contentsbridge_utility
+  confidence: auto

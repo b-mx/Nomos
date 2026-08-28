@@ -1,0 +1,10 @@
+id: emberznet-sdk
+vendor_id: silabs
+name: Emberznet Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:emberznet_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emberznet_sdk
+  confidence: auto

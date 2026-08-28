@@ -1,0 +1,10 @@
+id: sc-f9450
+vendor_id: epson
+name: Sc-F9450
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-f9450:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-f9450
+  confidence: auto

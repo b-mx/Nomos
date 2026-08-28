@@ -1,0 +1,10 @@
+id: moldflow-communicator
+vendor_id: autodesk
+name: Moldflow Communicator
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:moldflow_communicator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moldflow_communicator
+  confidence: auto

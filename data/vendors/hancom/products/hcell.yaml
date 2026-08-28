@@ -1,0 +1,10 @@
+id: hcell
+vendor_id: hancom
+name: Hcell
+type: software
+tags: []
+cpe: cpe:2.3:a:hancom:hcell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcell
+  confidence: auto

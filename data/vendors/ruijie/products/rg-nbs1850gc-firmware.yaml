@@ -1,0 +1,10 @@
+id: rg-nbs1850gc-firmware
+vendor_id: ruijie
+name: Rg-Nbs1850Gc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-nbs1850gc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-nbs1850gc_firmware
+  confidence: auto

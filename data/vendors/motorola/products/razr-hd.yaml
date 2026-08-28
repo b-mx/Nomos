@@ -1,0 +1,10 @@
+id: razr-hd
+vendor_id: motorola
+name: Razr Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:razr_hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: razr_hd
+  confidence: auto

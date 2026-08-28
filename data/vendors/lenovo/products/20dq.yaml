@@ -1,0 +1,10 @@
+id: 20dq
+vendor_id: lenovo
+name: 20Dq
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20dq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20dq
+  confidence: auto

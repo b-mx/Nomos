@@ -1,0 +1,10 @@
+id: m3216
+vendor_id: axis
+name: M3216
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m3216:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3216
+  confidence: auto

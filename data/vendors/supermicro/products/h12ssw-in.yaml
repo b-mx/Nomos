@@ -1,0 +1,10 @@
+id: h12ssw-in
+vendor_id: supermicro
+name: H12Ssw-In
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h12ssw\-in:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12ssw-in
+  confidence: auto

@@ -1,0 +1,10 @@
+id: affa900
+vendor_id: netapp
+name: Affa900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:affa900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: affa900
+  confidence: auto

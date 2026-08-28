@@ -1,0 +1,10 @@
+id: react-sdk
+vendor_id: matrix
+name: React Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:react_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: react_sdk
+  confidence: auto

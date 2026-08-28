@@ -1,0 +1,10 @@
+id: ns8
+vendor_id: omron
+name: Ns8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:ns8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ns8
+  confidence: auto

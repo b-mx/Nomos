@@ -1,0 +1,10 @@
+id: rsvp-and-event-management
+vendor_id: wpchill
+name: Rsvp And Event Management
+type: software
+tags: []
+cpe: cpe:2.3:a:wpchill:rsvp_and_event_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsvp_and_event_management
+  confidence: auto

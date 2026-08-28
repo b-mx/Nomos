@@ -1,0 +1,10 @@
+id: 3dp64a
+vendor_id: hp
+name: 3Dp64A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:3dp64a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3dp64a
+  confidence: auto

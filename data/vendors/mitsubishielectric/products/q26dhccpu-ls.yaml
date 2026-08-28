@@ -1,0 +1,10 @@
+id: q26dhccpu-ls
+vendor_id: mitsubishielectric
+name: Q26Dhccpu-Ls
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:q26dhccpu\-ls:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q26dhccpu-ls
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ehs8
+vendor_id: telit
+name: Ehs8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telit:ehs8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ehs8
+  confidence: auto

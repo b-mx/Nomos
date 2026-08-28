@@ -1,0 +1,10 @@
+id: px-7550s
+vendor_id: epson
+name: Px-7550S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-7550s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-7550s
+  confidence: auto

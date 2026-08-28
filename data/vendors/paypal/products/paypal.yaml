@@ -1,0 +1,10 @@
+id: paypal
+vendor_id: paypal
+name: Paypal
+type: software
+tags: []
+cpe: cpe:2.3:a:paypal:paypal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paypal
+  confidence: auto

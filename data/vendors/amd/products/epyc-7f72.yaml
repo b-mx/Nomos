@@ -1,0 +1,10 @@
+id: epyc-7f72
+vendor_id: amd
+name: Epyc 7F72
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_7f72:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7f72
+  confidence: auto

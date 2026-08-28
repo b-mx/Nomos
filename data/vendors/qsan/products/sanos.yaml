@@ -1,0 +1,10 @@
+id: sanos
+vendor_id: qsan
+name: Sanos
+type: software
+tags: []
+cpe: cpe:2.3:a:qsan:sanos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sanos
+  confidence: auto

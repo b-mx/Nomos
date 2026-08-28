@@ -1,0 +1,10 @@
+id: moonshot-component-pack
+vendor_id: hp
+name: Moonshot Component Pack
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:moonshot_component_pack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moonshot_component_pack
+  confidence: auto

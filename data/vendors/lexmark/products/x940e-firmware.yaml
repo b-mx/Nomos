@@ -1,0 +1,10 @@
+id: x940e-firmware
+vendor_id: lexmark
+name: X940E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:x940e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x940e_firmware
+  confidence: auto

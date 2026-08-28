@@ -1,0 +1,10 @@
+id: dopsoft
+vendor_id: deltaww
+name: Dopsoft
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:dopsoft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dopsoft
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mso-1300-firmware
+vendor_id: idemia
+name: Mso 1300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idemia:mso_1300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mso_1300_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sp-4510sf
+vendor_id: ricoh
+name: Sp 4510Sf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_4510sf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_4510sf
+  confidence: auto

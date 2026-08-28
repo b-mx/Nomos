@@ -1,0 +1,10 @@
+id: partner-integration
+vendor_id: tanium
+name: Partner Integration
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:partner_integration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: partner_integration
+  confidence: auto

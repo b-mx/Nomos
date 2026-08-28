@@ -1,0 +1,10 @@
+id: unifying-receiver-firmware
+vendor_id: logitech
+name: Unifying Receiver Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:logitech:unifying_receiver_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifying_receiver_firmware
+  confidence: auto

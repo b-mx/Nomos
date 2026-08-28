@@ -1,0 +1,10 @@
+id: l9b95a-firmware
+vendor_id: hp
+name: L9B95A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:l9b95a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l9b95a_firmware
+  confidence: auto

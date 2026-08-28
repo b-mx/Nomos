@@ -1,0 +1,10 @@
+id: d901-firmware
+vendor_id: '360'
+name: D901 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:360:d901_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d901_firmware
+  confidence: auto

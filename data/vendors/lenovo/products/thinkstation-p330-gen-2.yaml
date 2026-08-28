@@ -1,0 +1,10 @@
+id: thinkstation-p330-gen-2
+vendor_id: lenovo
+name: Thinkstation P330 Gen 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkstation_p330_gen_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkstation_p330_gen_2
+  confidence: auto

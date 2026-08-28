@@ -1,0 +1,10 @@
+id: cncsoft
+vendor_id: deltaww
+name: Cncsoft
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:cncsoft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cncsoft
+  confidence: auto

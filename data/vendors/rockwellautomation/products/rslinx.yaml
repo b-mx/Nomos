@@ -1,0 +1,10 @@
+id: rslinx
+vendor_id: rockwellautomation
+name: Rslinx
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:rslinx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rslinx
+  confidence: auto

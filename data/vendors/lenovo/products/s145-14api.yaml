@@ -1,0 +1,10 @@
+id: s145-14api
+vendor_id: lenovo
+name: S145-14Api
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s145\-14api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s145-14api
+  confidence: auto

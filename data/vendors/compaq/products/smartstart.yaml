@@ -1,0 +1,10 @@
+id: smartstart
+vendor_id: compaq
+name: Smartstart
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:smartstart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartstart
+  confidence: auto

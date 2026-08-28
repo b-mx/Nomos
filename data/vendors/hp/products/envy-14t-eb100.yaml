@@ -1,0 +1,10 @@
+id: envy-14t-eb100
+vendor_id: hp
+name: Envy 14T-Eb100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_14t\-eb100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_14t-eb100
+  confidence: auto

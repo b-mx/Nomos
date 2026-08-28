@@ -1,0 +1,10 @@
+id: dsl-100hn-t1
+vendor_id: mitrastar
+name: Dsl-100Hn-T1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitrastar:dsl\-100hn\-t1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dsl-100hn-t1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: on-demand-services-sdk
+vendor_id: pivotal-software
+name: On Demand Services Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:on_demand_services_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: on_demand_services_sdk
+  confidence: auto

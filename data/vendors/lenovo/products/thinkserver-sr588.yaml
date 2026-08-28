@@ -1,0 +1,10 @@
+id: thinkserver-sr588
+vendor_id: lenovo
+name: Thinkserver Sr588
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkserver_sr588:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkserver_sr588
+  confidence: auto

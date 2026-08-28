@@ -1,0 +1,10 @@
+id: bladelogic-server-automation-console
+vendor_id: bmc
+name: Bladelogic Server Automation Console
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:bladelogic_server_automation_console:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bladelogic_server_automation_console
+  confidence: auto

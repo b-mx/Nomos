@@ -1,0 +1,10 @@
+id: cc420a
+vendor_id: hp
+name: Cc420A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cc420a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc420a
+  confidence: auto

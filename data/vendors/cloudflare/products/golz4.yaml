@@ -1,0 +1,10 @@
+id: golz4
+vendor_id: cloudflare
+name: Golz4
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:golz4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: golz4
+  confidence: auto

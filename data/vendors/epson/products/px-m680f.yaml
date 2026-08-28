@@ -1,0 +1,10 @@
+id: px-m680f
+vendor_id: epson
+name: Px-M680F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-m680f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-m680f
+  confidence: auto

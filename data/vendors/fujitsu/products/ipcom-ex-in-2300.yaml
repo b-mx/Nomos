@@ -1,0 +1,10 @@
+id: ipcom-ex-in-2300
+vendor_id: fujitsu
+name: Ipcom Ex In 2300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:ipcom_ex_in_2300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipcom_ex_in_2300
+  confidence: auto

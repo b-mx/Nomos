@@ -1,0 +1,10 @@
+id: v14-ada
+vendor_id: lenovo
+name: V14-Ada
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v14\-ada:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v14-ada
+  confidence: auto

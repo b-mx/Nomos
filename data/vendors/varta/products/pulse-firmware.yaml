@@ -1,0 +1,10 @@
+id: pulse-firmware
+vendor_id: varta
+name: Pulse Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:varta:pulse_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pulse_firmware
+  confidence: auto

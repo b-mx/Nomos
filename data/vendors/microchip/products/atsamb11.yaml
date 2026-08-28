@@ -1,0 +1,10 @@
+id: atsamb11
+vendor_id: microchip
+name: Atsamb11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:atsamb11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atsamb11
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x95x
+vendor_id: lexmark
+name: X95X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x95x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x95x
+  confidence: auto

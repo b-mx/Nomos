@@ -1,0 +1,10 @@
+id: x10sdvt
+vendor_id: supermicro
+name: X10Sdvt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10sdvt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10sdvt
+  confidence: auto

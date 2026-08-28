@@ -1,0 +1,10 @@
+id: lifestyle-store
+vendor_id: anisha
+name: Lifestyle Store
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:lifestyle_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lifestyle_store
+  confidence: auto

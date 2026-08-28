@@ -1,0 +1,10 @@
+id: contour
+vendor_id: palantir
+name: Contour
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:contour:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contour
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ethernet-routing-switch-1612
+vendor_id: nortel
+name: Ethernet Routing Switch 1612
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:ethernet_routing_switch_1612:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ethernet_routing_switch_1612
+  confidence: auto

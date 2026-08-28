@@ -1,0 +1,10 @@
+id: amplia-crt-d
+vendor_id: medtronic
+name: Amplia Crt-D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:amplia_crt\-d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amplia_crt-d
+  confidence: auto

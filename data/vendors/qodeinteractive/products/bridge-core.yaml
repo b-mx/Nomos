@@ -1,0 +1,10 @@
+id: bridge-core
+vendor_id: qodeinteractive
+name: Bridge Core
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:bridge_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bridge_core
+  confidence: auto

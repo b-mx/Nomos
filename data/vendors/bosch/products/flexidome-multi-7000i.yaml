@@ -1,0 +1,10 @@
+id: flexidome-multi-7000i
+vendor_id: bosch
+name: Flexidome Multi 7000I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_multi_7000i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_multi_7000i
+  confidence: auto

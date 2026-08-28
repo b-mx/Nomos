@@ -1,0 +1,10 @@
+id: xnv-6020r
+vendor_id: hanwhavision
+name: Xnv-6020R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:xnv\-6020r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-6020r
+  confidence: auto

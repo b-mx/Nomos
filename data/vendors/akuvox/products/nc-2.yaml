@@ -1,0 +1,10 @@
+id: nc-2
+vendor_id: akuvox
+name: Nc-2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akuvox:nc\-2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nc-2
+  confidence: auto

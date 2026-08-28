@@ -1,0 +1,10 @@
+id: dwell
+vendor_id: axiomthemes
+name: Dwell
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:dwell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dwell
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cz186a
+vendor_id: hp
+name: Cz186A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz186a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz186a
+  confidence: auto

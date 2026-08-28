@@ -1,0 +1,10 @@
+id: 499m6a-firmware
+vendor_id: hp
+name: 499M6A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:499m6a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 499m6a_firmware
+  confidence: auto

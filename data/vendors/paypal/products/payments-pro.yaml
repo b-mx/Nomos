@@ -1,0 +1,10 @@
+id: payments-pro
+vendor_id: paypal
+name: Payments Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:paypal:payments_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: payments_pro
+  confidence: auto

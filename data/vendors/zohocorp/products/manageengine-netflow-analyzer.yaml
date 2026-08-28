@@ -1,0 +1,10 @@
+id: manageengine-netflow-analyzer
+vendor_id: zohocorp
+name: Manageengine Netflow Analyzer
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_netflow_analyzer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_netflow_analyzer
+  confidence: auto

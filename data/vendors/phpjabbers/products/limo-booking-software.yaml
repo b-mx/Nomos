@@ -1,0 +1,10 @@
+id: limo-booking-software
+vendor_id: phpjabbers
+name: Limo Booking Software
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:limo_booking_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: limo_booking_software
+  confidence: auto

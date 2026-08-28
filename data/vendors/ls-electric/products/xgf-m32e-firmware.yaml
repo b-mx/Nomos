@@ -1,0 +1,10 @@
+id: xgf-m32e-firmware
+vendor_id: ls-electric
+name: Xgf-M32E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgf\-m32e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgf-m32e_firmware
+  confidence: auto

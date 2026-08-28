@@ -1,0 +1,10 @@
+id: newspaper-x
+vendor_id: colorlib
+name: Newspaper X
+type: software
+tags: []
+cpe: cpe:2.3:a:colorlib:newspaper_x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: newspaper_x
+  confidence: auto

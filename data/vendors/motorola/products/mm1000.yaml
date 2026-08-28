@@ -1,0 +1,10 @@
+id: mm1000
+vendor_id: motorola
+name: Mm1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:mm1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mm1000
+  confidence: auto

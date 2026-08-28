@@ -1,0 +1,10 @@
+id: 5fm82a
+vendor_id: hp
+name: 5Fm82A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:5fm82a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5fm82a
+  confidence: auto

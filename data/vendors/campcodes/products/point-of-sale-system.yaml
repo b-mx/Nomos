@@ -1,0 +1,10 @@
+id: point-of-sale-system
+vendor_id: campcodes
+name: Point Of Sale System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:point_of_sale_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: point_of_sale_system
+  confidence: auto

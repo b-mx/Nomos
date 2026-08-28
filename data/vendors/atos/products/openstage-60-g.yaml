@@ -1,0 +1,10 @@
+id: openstage-60-g
+vendor_id: atos
+name: Openstage 60 G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:atos:openstage_60_g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstage_60_g
+  confidence: auto

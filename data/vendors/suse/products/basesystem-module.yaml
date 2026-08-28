@@ -1,0 +1,10 @@
+id: basesystem-module
+vendor_id: suse
+name: Basesystem Module
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:basesystem_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: basesystem_module
+  confidence: auto

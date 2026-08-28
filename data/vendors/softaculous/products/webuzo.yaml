@@ -1,0 +1,10 @@
+id: webuzo
+vendor_id: softaculous
+name: Webuzo
+type: software
+tags: []
+cpe: cpe:2.3:a:softaculous:webuzo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webuzo
+  confidence: auto

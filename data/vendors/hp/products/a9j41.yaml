@@ -1,0 +1,10 @@
+id: a9j41
+vendor_id: hp
+name: A9J41
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:a9j41:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a9j41
+  confidence: auto

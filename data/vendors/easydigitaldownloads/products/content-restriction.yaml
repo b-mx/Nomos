@@ -1,0 +1,10 @@
+id: content-restriction
+vendor_id: easydigitaldownloads
+name: Content Restriction
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:content_restriction:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: content_restriction
+  confidence: auto

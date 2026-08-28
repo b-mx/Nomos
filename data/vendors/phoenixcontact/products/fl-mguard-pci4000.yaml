@@ -1,0 +1,10 @@
+id: fl-mguard-pci4000
+vendor_id: phoenixcontact
+name: Fl Mguard Pci4000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_mguard_pci4000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_pci4000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: back-button-widget
+vendor_id: wpfactory
+name: Back Button Widget
+type: software
+tags: []
+cpe: cpe:2.3:a:wpfactory:back_button_widget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: back_button_widget
+  confidence: auto

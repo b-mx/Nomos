@@ -1,0 +1,10 @@
+id: ox-330p-firmware
+vendor_id: zte
+name: Ox-330P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:ox\-330p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ox-330p_firmware
+  confidence: auto

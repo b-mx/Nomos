@@ -1,0 +1,10 @@
+id: alerton-bcm-web-firmware
+vendor_id: honeywell
+name: Alerton Bcm-Web Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:alerton_bcm\-web_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alerton_bcm-web_firmware
+  confidence: auto

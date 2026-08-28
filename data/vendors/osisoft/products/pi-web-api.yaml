@@ -1,0 +1,10 @@
+id: pi-web-api
+vendor_id: osisoft
+name: Pi Web Api
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_web_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_web_api
+  confidence: auto

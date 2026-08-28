@@ -1,0 +1,9 @@
+id: big-ip
+vendor_id: big-ip
+name: BIG-IP
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: big-ip
+  confidence: auto

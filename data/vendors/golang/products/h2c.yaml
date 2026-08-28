@@ -1,0 +1,10 @@
+id: h2c
+vendor_id: golang
+name: H2C
+type: software
+tags: []
+cpe: cpe:2.3:a:golang:h2c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h2c
+  confidence: auto

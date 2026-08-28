@@ -1,0 +1,10 @@
+id: sdt-cs3b1
+vendor_id: telesquare
+name: Sdt-Cs3B1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telesquare:sdt\-cs3b1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sdt-cs3b1
+  confidence: auto

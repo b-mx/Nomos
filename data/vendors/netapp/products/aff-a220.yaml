@@ -1,0 +1,10 @@
+id: aff-a220
+vendor_id: netapp
+name: Aff A220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:aff_a220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aff_a220
+  confidence: auto

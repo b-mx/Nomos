@@ -1,0 +1,10 @@
+id: customer-care-software-development-kit
+vendor_id: lenovo
+name: Customer Care Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:customer_care_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: customer_care_software_development_kit
+  confidence: auto

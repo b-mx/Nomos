@@ -1,0 +1,10 @@
+id: sr88-firewall-processing-module
+vendor_id: h3c
+name: Sr88 Firewall Processing Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:sr88_firewall_processing_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sr88_firewall_processing_module
+  confidence: auto

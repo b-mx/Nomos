@@ -1,0 +1,10 @@
+id: ezviz-studio
+vendor_id: ezviz
+name: Ezviz Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:ezviz:ezviz_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ezviz_studio
+  confidence: auto

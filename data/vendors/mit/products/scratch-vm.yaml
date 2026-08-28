@@ -1,0 +1,10 @@
+id: scratch-vm
+vendor_id: mit
+name: Scratch-Vm
+type: software
+tags: []
+cpe: cpe:2.3:a:mit:scratch\-vm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scratch-vm
+  confidence: auto

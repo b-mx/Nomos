@@ -1,0 +1,10 @@
+id: v110-15isk
+vendor_id: lenovo
+name: V110-15Isk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v110\-15isk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v110-15isk
+  confidence: auto

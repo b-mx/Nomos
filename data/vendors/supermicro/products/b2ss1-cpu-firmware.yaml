@@ -1,0 +1,10 @@
+id: b2ss1-cpu-firmware
+vendor_id: supermicro
+name: B2Ss1-Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:b2ss1\-cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b2ss1-cpu_firmware
+  confidence: auto

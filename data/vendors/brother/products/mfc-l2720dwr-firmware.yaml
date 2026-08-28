@@ -1,0 +1,10 @@
+id: mfc-l2720dwr-firmware
+vendor_id: brother
+name: Mfc-L2720Dwr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-l2720dwr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l2720dwr_firmware
+  confidence: auto

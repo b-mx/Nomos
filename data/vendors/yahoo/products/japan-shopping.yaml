@@ -1,0 +1,10 @@
+id: japan-shopping
+vendor_id: yahoo
+name: Japan Shopping
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:japan_shopping:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: japan_shopping
+  confidence: auto

@@ -1,0 +1,10 @@
+id: soundstation2-avaya-2490
+vendor_id: polycom
+name: Soundstation2 Avaya 2490
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:soundstation2_avaya_2490:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soundstation2_avaya_2490
+  confidence: auto

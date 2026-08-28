@@ -1,0 +1,10 @@
+id: powershot-sx740-hs-firmware
+vendor_id: canon
+name: Powershot Sx740 Hs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:powershot_sx740_hs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powershot_sx740_hs_firmware
+  confidence: auto

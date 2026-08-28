@@ -1,0 +1,10 @@
+id: uc-3101-t-us-lx-firmware
+vendor_id: moxa
+name: Uc-3101-T-Us-Lx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-3101\-t\-us\-lx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-3101-t-us-lx_firmware
+  confidence: auto

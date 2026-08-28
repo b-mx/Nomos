@@ -1,0 +1,10 @@
+id: nport-w2150a-t-firmware
+vendor_id: moxa
+name: Nport W2150A-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_w2150a\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_w2150a-t_firmware
+  confidence: auto

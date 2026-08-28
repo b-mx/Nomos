@@ -1,0 +1,10 @@
+id: cam-v4
+vendor_id: wyze
+name: Cam V4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wyze:cam_v4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cam_v4
+  confidence: auto

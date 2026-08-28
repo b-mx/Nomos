@@ -1,0 +1,10 @@
+id: hcl-client-application-access
+vendor_id: hcltechsw
+name: Hcl Client Application Access
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltechsw:hcl_client_application_access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_client_application_access
+  confidence: auto

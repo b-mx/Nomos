@@ -1,0 +1,10 @@
+id: nport-5110
+vendor_id: moxa
+name: Nport 5110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_5110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5110
+  confidence: auto

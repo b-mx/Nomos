@@ -1,0 +1,10 @@
+id: flexi-soft-designer
+vendor_id: sick
+name: Flexi Soft Designer
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:flexi_soft_designer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexi_soft_designer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: omap-l138-firmware
+vendor_id: ti
+name: Omap L138 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ti:omap_l138_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omap_l138_firmware
+  confidence: auto

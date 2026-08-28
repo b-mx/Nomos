@@ -1,0 +1,10 @@
+id: chic
+vendor_id: rarathemes
+name: Chic
+type: software
+tags: []
+cpe: cpe:2.3:a:rarathemes:chic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chic
+  confidence: auto

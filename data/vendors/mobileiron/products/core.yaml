@@ -1,0 +1,10 @@
+id: core
+vendor_id: mobileiron
+name: Core
+type: software
+tags: []
+cpe: cpe:2.3:a:mobileiron:core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: core
+  confidence: auto

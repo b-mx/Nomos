@@ -1,0 +1,10 @@
+id: b11qpi
+vendor_id: supermicro
+name: B11Qpi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b11qpi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b11qpi
+  confidence: auto

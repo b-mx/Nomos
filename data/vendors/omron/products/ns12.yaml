@@ -1,0 +1,10 @@
+id: ns12
+vendor_id: omron
+name: Ns12
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:ns12:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ns12
+  confidence: auto

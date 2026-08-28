@@ -1,0 +1,10 @@
+id: fd1002s-firmware
+vendor_id: cdatatec
+name: Fd1002S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cdatatec:fd1002s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd1002s_firmware
+  confidence: auto

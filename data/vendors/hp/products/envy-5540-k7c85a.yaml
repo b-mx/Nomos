@@ -1,0 +1,10 @@
+id: envy-5540-k7c85a
+vendor_id: hp
+name: Envy 5540 K7C85A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5540_k7c85a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5540_k7c85a
+  confidence: auto

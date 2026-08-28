@@ -1,0 +1,10 @@
+id: ipn4g
+vendor_id: microhardcorp
+name: Ipn4G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microhardcorp:ipn4g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipn4g
+  confidence: auto

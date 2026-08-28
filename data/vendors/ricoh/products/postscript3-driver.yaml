@@ -1,0 +1,10 @@
+id: postscript3-driver
+vendor_id: ricoh
+name: Postscript3 Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:postscript3_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: postscript3_driver
+  confidence: auto

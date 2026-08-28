@@ -1,0 +1,10 @@
+id: ap-534
+vendor_id: arubanetworks
+name: Ap-534
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-534:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-534
+  confidence: auto

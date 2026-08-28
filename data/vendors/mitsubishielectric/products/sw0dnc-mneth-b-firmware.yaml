@@ -1,0 +1,10 @@
+id: sw0dnc-mneth-b-firmware
+vendor_id: mitsubishielectric
+name: Sw0Dnc-Mneth-B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:sw0dnc\-mneth\-b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sw0dnc-mneth-b_firmware
+  confidence: auto

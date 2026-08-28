@@ -1,0 +1,10 @@
+id: xeleris
+vendor_id: ge
+name: Xeleris
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:xeleris:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xeleris
+  confidence: auto

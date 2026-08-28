@@ -1,0 +1,10 @@
+id: umoci
+vendor_id: linuxfoundation
+name: Umoci
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:umoci:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: umoci
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vigilant-mastermed
+vendor_id: fresenius-kabi
+name: Vigilant Mastermed
+type: software
+tags: []
+cpe: cpe:2.3:a:fresenius\-kabi:vigilant_mastermed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vigilant_mastermed
+  confidence: auto

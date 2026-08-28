@@ -1,0 +1,10 @@
+id: tew-820ap
+vendor_id: trendnet
+name: Tew-820Ap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tew\-820ap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tew-820ap
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gc-a24-firmware
+vendor_id: jtekt
+name: Gc-A24 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:gc\-a24_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gc-a24_firmware
+  confidence: auto

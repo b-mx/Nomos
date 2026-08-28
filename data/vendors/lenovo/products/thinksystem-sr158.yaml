@@ -1,0 +1,10 @@
+id: thinksystem-sr158
+vendor_id: lenovo
+name: Thinksystem Sr158
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_sr158:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_sr158
+  confidence: auto

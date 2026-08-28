@@ -1,0 +1,10 @@
+id: 499m6a
+vendor_id: hp
+name: 499M6A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:499m6a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 499m6a
+  confidence: auto

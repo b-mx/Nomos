@@ -1,0 +1,10 @@
+id: cardiology-firmware
+vendor_id: mckesson
+name: Cardiology Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mckesson:cardiology_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cardiology_firmware
+  confidence: auto

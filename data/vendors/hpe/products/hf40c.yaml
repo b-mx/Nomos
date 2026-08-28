@@ -1,0 +1,10 @@
+id: hf40c
+vendor_id: hpe
+name: Hf40C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:hf40c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hf40c
+  confidence: auto

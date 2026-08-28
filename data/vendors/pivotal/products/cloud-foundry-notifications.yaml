@@ -1,0 +1,10 @@
+id: cloud-foundry-notifications
+vendor_id: pivotal
+name: Cloud Foundry Notifications
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:cloud_foundry_notifications:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_notifications
+  confidence: auto

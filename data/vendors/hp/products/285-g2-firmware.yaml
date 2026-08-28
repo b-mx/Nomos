@@ -1,0 +1,10 @@
+id: 285-g2-firmware
+vendor_id: hp
+name: 285 G2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:285_g2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 285_g2_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: twig
+vendor_id: twig
+name: Twig
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: twig
+  confidence: auto

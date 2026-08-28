@@ -1,0 +1,10 @@
+id: contribute-publishing-server
+vendor_id: macromedia
+name: Contribute Publishing Server
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:contribute_publishing_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contribute_publishing_server
+  confidence: auto

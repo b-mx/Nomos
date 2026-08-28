@@ -1,0 +1,10 @@
+id: rtu530
+vendor_id: hitachienergy
+name: Rtu530
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:rtu530:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtu530
+  confidence: auto

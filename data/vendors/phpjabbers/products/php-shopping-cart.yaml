@@ -1,0 +1,10 @@
+id: php-shopping-cart
+vendor_id: phpjabbers
+name: Php Shopping Cart
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:php_shopping_cart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: php_shopping_cart
+  confidence: auto

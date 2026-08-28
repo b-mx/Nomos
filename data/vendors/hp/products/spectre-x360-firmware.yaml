@@ -1,0 +1,10 @@
+id: spectre-x360-firmware
+vendor_id: hp
+name: Spectre X360 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:spectre_x360_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_x360_firmware
+  confidence: auto

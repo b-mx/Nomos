@@ -1,0 +1,10 @@
+id: mx-opc-server-da-ua
+vendor_id: mitsubishielectric
+name: Mx Opc Server Da/Ua
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mx_opc_server_da\/ua:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx_opc_server_da/ua
+  confidence: auto

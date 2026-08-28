@@ -1,0 +1,10 @@
+id: rt250i
+vendor_id: yamaha
+name: Rt250I
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rt250i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt250i
+  confidence: auto

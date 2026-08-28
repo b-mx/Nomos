@@ -1,0 +1,10 @@
+id: 389-directory-server
+vendor_id: fedoraproject
+name: 389 Directory Server
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:389_directory_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 389_directory_server
+  confidence: auto

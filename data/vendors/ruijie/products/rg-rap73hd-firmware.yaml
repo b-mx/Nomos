@@ -1,0 +1,10 @@
+id: rg-rap73hd-firmware
+vendor_id: ruijie
+name: Rg-Rap73Hd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-rap73hd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-rap73hd_firmware
+  confidence: auto

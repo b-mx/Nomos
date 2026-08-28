@@ -1,0 +1,10 @@
+id: vp9600-series-firmware
+vendor_id: huawei
+name: Vp9600 Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:vp9600_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vp9600_series_firmware
+  confidence: auto

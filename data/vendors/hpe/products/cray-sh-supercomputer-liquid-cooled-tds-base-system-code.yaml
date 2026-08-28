@@ -1,0 +1,10 @@
+id: cray-sh-supercomputer-liquid-cooled-tds-base-system-code
+vendor_id: hpe
+name: Cray Sh Supercomputer Liquid Cooled Tds Base System Code
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:cray_sh_supercomputer_liquid_cooled_tds_base_system_code:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cray_sh_supercomputer_liquid_cooled_tds_base_system_code
+  confidence: auto

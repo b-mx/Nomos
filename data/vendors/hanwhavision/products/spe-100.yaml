@@ -1,0 +1,10 @@
+id: spe-100
+vendor_id: hanwhavision
+name: Spe-100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:spe\-100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spe-100
+  confidence: auto

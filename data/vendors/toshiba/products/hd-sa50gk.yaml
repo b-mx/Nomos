@@ -1,0 +1,10 @@
+id: hd-sa50gk
+vendor_id: toshiba
+name: Hd-Sa50Gk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshiba:hd\-sa50gk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hd-sa50gk
+  confidence: auto

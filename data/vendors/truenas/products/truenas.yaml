@@ -1,0 +1,9 @@
+id: truenas
+vendor_id: truenas
+name: TrueNAS
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: truenas
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jetnet-6910g-m12-hvdc
+vendor_id: korenix
+name: Jetnet 6910G-M12 Hvdc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetnet_6910g\-m12_hvdc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_6910g-m12_hvdc
+  confidence: auto

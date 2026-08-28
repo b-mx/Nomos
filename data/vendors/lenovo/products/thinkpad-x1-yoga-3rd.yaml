@@ -1,0 +1,10 @@
+id: thinkpad-x1-yoga-3rd
+vendor_id: lenovo
+name: Thinkpad X1 Yoga 3Rd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x1_yoga_3rd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_yoga_3rd
+  confidence: auto

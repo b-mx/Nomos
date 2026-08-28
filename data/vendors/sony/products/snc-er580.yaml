@@ -1,0 +1,10 @@
+id: snc-er580
+vendor_id: sony
+name: Snc-Er580
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-er580:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-er580
+  confidence: auto

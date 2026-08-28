@@ -1,0 +1,10 @@
+id: thrive-dashboard
+vendor_id: thrivethemes
+name: Thrive Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:thrivethemes:thrive_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thrive_dashboard
+  confidence: auto

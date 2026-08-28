@@ -1,0 +1,7 @@
+id: bluecoat
+name: Bluecoat
+cpe: cpe:2.3:*:bluecoat:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bluecoat
+  confidence: auto

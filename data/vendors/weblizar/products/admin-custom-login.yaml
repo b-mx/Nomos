@@ -1,0 +1,10 @@
+id: admin-custom-login
+vendor_id: weblizar
+name: Admin Custom Login
+type: software
+tags: []
+cpe: cpe:2.3:a:weblizar:admin_custom_login:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: admin_custom_login
+  confidence: auto

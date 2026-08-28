@@ -1,0 +1,10 @@
+id: traveler-for-microsoft-outlook
+vendor_id: hcltech
+name: Traveler For Microsoft Outlook
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:traveler_for_microsoft_outlook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: traveler_for_microsoft_outlook
+  confidence: auto

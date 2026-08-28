@@ -1,0 +1,10 @@
+id: legion-of-the-bouncy-castle
+vendor_id: bouncycastle
+name: Legion-Of-The-Bouncy-Castle
+type: software
+tags: []
+cpe: cpe:2.3:a:bouncycastle:legion\-of\-the\-bouncy\-castle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion-of-the-bouncy-castle
+  confidence: auto

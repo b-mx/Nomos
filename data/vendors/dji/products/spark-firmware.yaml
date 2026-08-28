@@ -1,0 +1,10 @@
+id: spark-firmware
+vendor_id: dji
+name: Spark Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dji:spark_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spark_firmware
+  confidence: auto

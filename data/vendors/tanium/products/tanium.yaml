@@ -1,0 +1,10 @@
+id: tanium
+vendor_id: tanium
+name: Tanium
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:tanium:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tanium
+  confidence: auto

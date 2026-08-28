@@ -1,0 +1,10 @@
+id: redex
+vendor_id: facebook
+name: Redex
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:redex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redex
+  confidence: auto

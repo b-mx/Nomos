@@ -1,0 +1,10 @@
+id: discourse-yearly-review
+vendor_id: discourse
+name: Discourse Yearly Review
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:discourse_yearly_review:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discourse_yearly_review
+  confidence: auto

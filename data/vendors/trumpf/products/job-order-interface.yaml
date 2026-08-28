@@ -1,0 +1,10 @@
+id: job-order-interface
+vendor_id: trumpf
+name: Job Order Interface
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:job_order_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: job_order_interface
+  confidence: auto

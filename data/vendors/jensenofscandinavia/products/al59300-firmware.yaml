@@ -1,0 +1,10 @@
+id: al59300-firmware
+vendor_id: jensenofscandinavia
+name: Al59300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jensenofscandinavia:al59300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: al59300_firmware
+  confidence: auto

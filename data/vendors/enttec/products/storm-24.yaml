@@ -1,0 +1,10 @@
+id: storm-24
+vendor_id: enttec
+name: Storm 24
+type: hardware
+tags: []
+cpe: cpe:2.3:h:enttec:storm_24:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storm_24
+  confidence: auto

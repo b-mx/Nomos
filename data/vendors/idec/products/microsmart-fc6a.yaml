@@ -1,0 +1,10 @@
+id: microsmart-fc6a
+vendor_id: idec
+name: Microsmart Fc6A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idec:microsmart_fc6a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microsmart_fc6a
+  confidence: auto

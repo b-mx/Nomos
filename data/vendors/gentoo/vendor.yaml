@@ -1,0 +1,7 @@
+id: gentoo
+name: Gentoo
+cpe: cpe:2.3:*:gentoo:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gentoo
+  confidence: auto

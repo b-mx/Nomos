@@ -1,0 +1,10 @@
+id: definium-8000
+vendor_id: gehealthcare
+name: Definium 8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:definium_8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: definium_8000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: l02-06-26cpu-firmware
+vendor_id: mitsubishielectric
+name: L02/06/26Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:l02\/06\/26cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l02/06/26cpu_firmware
+  confidence: auto

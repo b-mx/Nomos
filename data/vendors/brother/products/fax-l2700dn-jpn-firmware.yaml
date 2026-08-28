@@ -1,0 +1,10 @@
+id: fax-l2700dn-jpn-firmware
+vendor_id: brother
+name: Fax-L2700Dn(Jpn) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:fax\-l2700dn\(jpn\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fax-l2700dn(jpn)_firmware
+  confidence: auto

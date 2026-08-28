@@ -1,0 +1,10 @@
+id: on-demand-service-broker
+vendor_id: pivotal
+name: On Demand Service Broker
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:on_demand_service_broker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: on_demand_service_broker
+  confidence: auto

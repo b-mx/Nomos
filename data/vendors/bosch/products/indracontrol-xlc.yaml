@@ -1,0 +1,10 @@
+id: indracontrol-xlc
+vendor_id: bosch
+name: Indracontrol Xlc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:indracontrol_xlc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: indracontrol_xlc
+  confidence: auto

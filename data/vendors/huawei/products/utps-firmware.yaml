@@ -1,0 +1,10 @@
+id: utps-firmware
+vendor_id: huawei
+name: Utps Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:utps_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: utps_firmware
+  confidence: auto

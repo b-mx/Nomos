@@ -1,0 +1,10 @@
+id: aspire-u5-620
+vendor_id: acer
+name: Aspire U5-620
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_u5\-620:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_u5-620
+  confidence: auto

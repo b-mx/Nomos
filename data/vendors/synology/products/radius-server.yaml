@@ -1,0 +1,10 @@
+id: radius-server
+vendor_id: synology
+name: Radius Server
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:radius_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radius_server
+  confidence: auto

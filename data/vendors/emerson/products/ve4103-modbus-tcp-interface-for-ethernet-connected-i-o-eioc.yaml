@@ -1,0 +1,10 @@
+id: ve4103-modbus-tcp-interface-for-ethernet-connected-i-o-eioc
+vendor_id: emerson
+name: Ve4103 Modbus Tcp Interface For Ethernet Connected I/O (Eioc)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:ve4103_modbus_tcp_interface_for_ethernet_connected_i\/o_\(eioc\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ve4103_modbus_tcp_interface_for_ethernet_connected_i/o_(eioc)
+  confidence: auto

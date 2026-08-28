@@ -1,0 +1,10 @@
+id: intouch-access-anywhere
+vendor_id: aveva
+name: Intouch Access Anywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:intouch_access_anywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intouch_access_anywhere
+  confidence: auto

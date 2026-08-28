@@ -1,0 +1,10 @@
+id: wp-project-manager
+vendor_id: wedevs
+name: Wp Project Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:wedevs:wp_project_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_project_manager
+  confidence: auto

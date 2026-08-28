@@ -1,0 +1,10 @@
+id: usg5120bsr
+vendor_id: huawei
+name: Usg5120Bsr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:usg5120bsr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usg5120bsr
+  confidence: auto

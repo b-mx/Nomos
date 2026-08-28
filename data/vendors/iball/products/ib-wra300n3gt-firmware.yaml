@@ -1,0 +1,10 @@
+id: ib-wra300n3gt-firmware
+vendor_id: iball
+name: Ib-Wra300N3Gt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iball:ib\-wra300n3gt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib-wra300n3gt_firmware
+  confidence: auto

@@ -1,0 +1,9 @@
+id: proxmox-mail-gateway
+vendor_id: proxmox-mail-gateway
+name: Proxmox Mail Gateway
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: proxmox-mail-gateway
+  confidence: auto

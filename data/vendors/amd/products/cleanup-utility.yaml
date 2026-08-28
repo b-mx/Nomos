@@ -1,0 +1,10 @@
+id: cleanup-utility
+vendor_id: amd
+name: Cleanup Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:cleanup_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cleanup_utility
+  confidence: auto

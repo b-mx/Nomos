@@ -1,0 +1,10 @@
+id: asr3603
+vendor_id: asrmicro
+name: Asr3603
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asrmicro:asr3603:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asr3603
+  confidence: auto

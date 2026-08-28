@@ -1,0 +1,10 @@
+id: pebble
+vendor_id: creative
+name: Pebble
+type: hardware
+tags: []
+cpe: cpe:2.3:h:creative:pebble:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pebble
+  confidence: auto

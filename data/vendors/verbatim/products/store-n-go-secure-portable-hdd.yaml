@@ -1,0 +1,10 @@
+id: store-n-go-secure-portable-hdd
+vendor_id: verbatim
+name: Store 'N' Go Secure Portable Hdd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verbatim:store_\'n\'_go_secure_portable_hdd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: store_'n'_go_secure_portable_hdd
+  confidence: auto

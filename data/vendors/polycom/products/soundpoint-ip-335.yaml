@@ -1,0 +1,10 @@
+id: soundpoint-ip-335
+vendor_id: polycom
+name: Soundpoint Ip 335
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:soundpoint_ip_335:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soundpoint_ip_335
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rds-31-itx-firmware
+vendor_id: mirion
+name: Rds-31 Itx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mirion:rds\-31_itx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rds-31_itx_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: recurring-payments
+vendor_id: easydigitaldownloads
+name: Recurring Payments
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:recurring_payments:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recurring_payments
+  confidence: auto

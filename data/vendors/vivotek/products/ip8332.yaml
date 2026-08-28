@@ -1,0 +1,10 @@
+id: ip8332
+vendor_id: vivotek
+name: Ip8332
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ip8332:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip8332
+  confidence: auto

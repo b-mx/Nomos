@@ -1,0 +1,10 @@
+id: two-factor-webauthn
+vendor_id: nextcloud
+name: Two-Factor Webauthn
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:two\-factor_webauthn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: two-factor_webauthn
+  confidence: auto

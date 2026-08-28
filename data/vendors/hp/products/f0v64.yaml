@@ -1,0 +1,10 @@
+id: f0v64
+vendor_id: hp
+name: F0V64
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f0v64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f0v64
+  confidence: auto

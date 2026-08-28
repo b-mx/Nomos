@@ -1,0 +1,10 @@
+id: global-movie-magazine
+vendor_id: magzter
+name: Global Movie Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:global_movie_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: global_movie_magazine
+  confidence: auto

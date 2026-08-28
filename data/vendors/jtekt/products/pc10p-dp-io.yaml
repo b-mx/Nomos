@@ -1,0 +1,10 @@
+id: pc10p-dp-io
+vendor_id: jtekt
+name: Pc10P-Dp-Io
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:pc10p\-dp\-io:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10p-dp-io
+  confidence: auto

@@ -1,0 +1,10 @@
+id: java-system-application-server
+vendor_id: sun
+name: Java System Application Server
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_system_application_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_system_application_server
+  confidence: auto

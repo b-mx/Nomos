@@ -1,0 +1,10 @@
+id: jd344a
+vendor_id: hp
+name: Jd344A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd344a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd344a
+  confidence: auto

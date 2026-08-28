@@ -1,0 +1,10 @@
+id: routing-release
+vendor_id: cloudfoundry
+name: Routing-Release
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:routing\-release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: routing-release
+  confidence: auto

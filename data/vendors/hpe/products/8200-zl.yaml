@@ -1,0 +1,10 @@
+id: 8200-zl
+vendor_id: hpe
+name: 8200 Zl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:8200_zl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 8200_zl
+  confidence: auto

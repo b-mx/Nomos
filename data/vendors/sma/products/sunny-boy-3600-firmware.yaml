@@ -1,0 +1,10 @@
+id: sunny-boy-3600-firmware
+vendor_id: sma
+name: Sunny Boy 3600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sma:sunny_boy_3600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_boy_3600_firmware
+  confidence: auto

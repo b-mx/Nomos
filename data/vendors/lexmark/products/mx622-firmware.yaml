@@ -1,0 +1,10 @@
+id: mx622-firmware
+vendor_id: lexmark
+name: Mx622 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:mx622_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx622_firmware
+  confidence: auto

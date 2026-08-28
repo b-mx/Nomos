@@ -1,0 +1,10 @@
+id: aterm-wm3400rn
+vendor_id: nec
+name: Aterm Wm3400Rn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wm3400rn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wm3400rn
+  confidence: auto

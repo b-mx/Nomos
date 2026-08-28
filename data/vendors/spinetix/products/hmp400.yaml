@@ -1,0 +1,10 @@
+id: hmp400
+vendor_id: spinetix
+name: Hmp400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:spinetix:hmp400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hmp400
+  confidence: auto

@@ -1,0 +1,10 @@
+id: omnikey-secure-elements-reader-configuration-cards-firmware
+vendor_id: hidglobal
+name: Omnikey Secure Elements Reader Configuration Cards Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hidglobal:omnikey_secure_elements_reader_configuration_cards_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omnikey_secure_elements_reader_configuration_cards_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ps-driver-for-universal-print
+vendor_id: ricoh
+name: Ps Driver For Universal Print
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:ps_driver_for_universal_print:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ps_driver_for_universal_print
+  confidence: auto

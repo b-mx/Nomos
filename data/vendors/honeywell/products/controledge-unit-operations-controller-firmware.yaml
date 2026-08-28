@@ -1,0 +1,10 @@
+id: controledge-unit-operations-controller-firmware
+vendor_id: honeywell
+name: Controledge Unit Operations Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:controledge_unit_operations_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controledge_unit_operations_controller_firmware
+  confidence: auto

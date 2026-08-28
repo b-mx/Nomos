@@ -1,0 +1,10 @@
+id: vpn-client
+vendor_id: barracuda
+name: Vpn Client
+type: software
+tags: []
+cpe: cpe:2.3:a:barracuda:vpn_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vpn_client
+  confidence: auto

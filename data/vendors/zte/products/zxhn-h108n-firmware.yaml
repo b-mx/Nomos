@@ -1,0 +1,10 @@
+id: zxhn-h108n-firmware
+vendor_id: zte
+name: Zxhn H108N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxhn_h108n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxhn_h108n_firmware
+  confidence: auto

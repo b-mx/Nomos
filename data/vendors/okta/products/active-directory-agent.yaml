@@ -1,0 +1,10 @@
+id: active-directory-agent
+vendor_id: okta
+name: Active Directory Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:okta:active_directory_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: active_directory_agent
+  confidence: auto

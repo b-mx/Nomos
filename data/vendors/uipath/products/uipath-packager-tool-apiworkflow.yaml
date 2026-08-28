@@ -1,0 +1,10 @@
+id: uipath-packager-tool-apiworkflow
+vendor_id: uipath
+name: Uipath/Packager-Tool-Apiworkflow
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/packager\-tool\-apiworkflow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/packager-tool-apiworkflow
+  confidence: auto

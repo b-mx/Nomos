@@ -1,0 +1,10 @@
+id: primepower-firmware
+vendor_id: fujitsu
+name: Primepower Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:primepower_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primepower_firmware
+  confidence: auto

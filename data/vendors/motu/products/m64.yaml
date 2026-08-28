@@ -1,0 +1,10 @@
+id: m64
+vendor_id: motu
+name: M64
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:m64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m64
+  confidence: auto

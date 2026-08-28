@@ -1,0 +1,10 @@
+id: tor
+vendor_id: debian
+name: Tor
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:tor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tor
+  confidence: auto

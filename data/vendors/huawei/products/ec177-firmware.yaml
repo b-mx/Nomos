@@ -1,0 +1,10 @@
+id: ec177-firmware
+vendor_id: huawei
+name: Ec177 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ec177_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ec177_firmware
+  confidence: auto

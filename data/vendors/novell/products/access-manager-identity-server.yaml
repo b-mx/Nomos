@@ -1,0 +1,10 @@
+id: access-manager-identity-server
+vendor_id: novell
+name: Access Manager Identity Server
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:access_manager_identity_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_manager_identity_server
+  confidence: auto

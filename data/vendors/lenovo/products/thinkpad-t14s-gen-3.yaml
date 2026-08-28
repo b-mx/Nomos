@@ -1,0 +1,10 @@
+id: thinkpad-t14s-gen-3
+vendor_id: lenovo
+name: Thinkpad T14S Gen 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_t14s_gen_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t14s_gen_3
+  confidence: auto

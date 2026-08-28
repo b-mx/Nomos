@@ -1,0 +1,7 @@
+id: baidu
+name: Baidu
+cpe: cpe:2.3:*:baidu:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baidu
+  confidence: auto

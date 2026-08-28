@@ -1,0 +1,10 @@
+id: dr-4h
+vendor_id: cbc
+name: Dr-4H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:dr\-4h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-4h
+  confidence: auto

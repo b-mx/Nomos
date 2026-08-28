@@ -1,0 +1,10 @@
+id: remote-desktop-manager
+vendor_id: devolutions
+name: Remote Desktop Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:devolutions:remote_desktop_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_desktop_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: smartlink-sw-ht
+vendor_id: softing
+name: Smartlink Sw-Ht
+type: software
+tags: []
+cpe: cpe:2.3:a:softing:smartlink_sw\-ht:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartlink_sw-ht
+  confidence: auto

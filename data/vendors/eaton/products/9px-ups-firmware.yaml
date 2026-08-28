@@ -1,0 +1,10 @@
+id: 9px-ups-firmware
+vendor_id: eaton
+name: 9Px Ups Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eaton:9px_ups_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9px_ups_firmware
+  confidence: auto

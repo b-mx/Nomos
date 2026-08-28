@@ -1,0 +1,10 @@
+id: s3008-mk-ii
+vendor_id: axis
+name: S3008 Mk Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:s3008_mk_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s3008_mk_ii
+  confidence: auto

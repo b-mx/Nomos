@@ -1,0 +1,10 @@
+id: wi-fi-application
+vendor_id: softbank
+name: Wi-Fi Application
+type: software
+tags: []
+cpe: cpe:2.3:a:softbank:wi\-fi_application:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wi-fi_application
+  confidence: auto

@@ -1,0 +1,14 @@
+id: gstreamer
+vendor_id: gstreamer
+name: GStreamer
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:gstreamer:gstreamer:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: gstreamer
+  confidence: auto
+- source: nvd
+  value: gstreamer
+  confidence: auto

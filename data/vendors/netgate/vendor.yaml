@@ -1,0 +1,7 @@
+id: netgate
+name: Netgate
+cpe: cpe:2.3:*:netgate:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netgate
+  confidence: auto

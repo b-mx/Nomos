@@ -1,0 +1,10 @@
+id: jetnet-5728g-24p
+vendor_id: korenix
+name: Jetnet 5728G-24P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetnet_5728g\-24p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_5728g-24p
+  confidence: auto

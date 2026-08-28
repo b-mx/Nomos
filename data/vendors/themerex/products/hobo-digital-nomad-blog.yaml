@@ -1,0 +1,10 @@
+id: hobo-digital-nomad-blog
+vendor_id: themerex
+name: Hobo Digital Nomad Blog
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:hobo_digital_nomad_blog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hobo_digital_nomad_blog
+  confidence: auto

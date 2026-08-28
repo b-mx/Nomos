@@ -1,0 +1,10 @@
+id: soundstation-duo
+vendor_id: polycom
+name: Soundstation Duo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:soundstation_duo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soundstation_duo
+  confidence: auto

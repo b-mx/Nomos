@@ -1,0 +1,10 @@
+id: melsec-q
+vendor_id: mitsubishielectric
+name: Melsec-Q
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec\-q:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec-q
+  confidence: auto

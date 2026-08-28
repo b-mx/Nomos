@@ -1,0 +1,10 @@
+id: vbg1200
+vendor_id: vonets
+name: Vbg1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vonets:vbg1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vbg1200
+  confidence: auto

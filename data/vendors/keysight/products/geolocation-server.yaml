@@ -1,0 +1,10 @@
+id: geolocation-server
+vendor_id: keysight
+name: Geolocation Server
+type: software
+tags: []
+cpe: cpe:2.3:a:keysight:geolocation_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: geolocation_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: oauth-single-sign-on
+vendor_id: miniorange
+name: Oauth Single Sign On
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:oauth_single_sign_on:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oauth_single_sign_on
+  confidence: auto

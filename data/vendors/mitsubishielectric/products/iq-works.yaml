@@ -1,0 +1,10 @@
+id: iq-works
+vendor_id: mitsubishielectric
+name: Iq Works
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:iq_works:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq_works
+  confidence: auto

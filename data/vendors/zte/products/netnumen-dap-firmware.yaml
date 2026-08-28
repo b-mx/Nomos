@@ -1,0 +1,10 @@
+id: netnumen-dap-firmware
+vendor_id: zte
+name: Netnumen Dap Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:netnumen_dap_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netnumen_dap_firmware
+  confidence: auto

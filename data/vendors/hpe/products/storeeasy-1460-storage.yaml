@@ -1,0 +1,10 @@
+id: storeeasy-1460-storage
+vendor_id: hpe
+name: Storeeasy 1460 Storage
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:storeeasy_1460_storage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeeasy_1460_storage
+  confidence: auto

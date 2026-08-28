@@ -1,0 +1,10 @@
+id: acer-portal
+vendor_id: acer
+name: Acer Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:acer:acer_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acer_portal
+  confidence: auto

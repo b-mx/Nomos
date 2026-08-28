@@ -1,0 +1,10 @@
+id: fastdup
+vendor_id: ninjateam
+name: Fastdup
+type: software
+tags: []
+cpe: cpe:2.3:a:ninjateam:fastdup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastdup
+  confidence: auto

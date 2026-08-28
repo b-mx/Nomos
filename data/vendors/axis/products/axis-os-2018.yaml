@@ -1,0 +1,10 @@
+id: axis-os-2018
+vendor_id: axis
+name: Axis Os 2018
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:axis_os_2018:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axis_os_2018
+  confidence: auto

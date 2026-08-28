@@ -1,0 +1,10 @@
+id: vx90
+vendor_id: valuehd
+name: Vx90
+type: hardware
+tags: []
+cpe: cpe:2.3:h:valuehd:vx90:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx90
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ingepac-da-au-firmware
+vendor_id: ingeteam
+name: Ingepac Da Au Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ingeteam:ingepac_da_au_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ingepac_da_au_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sockd
+vendor_id: hp
+name: Sockd
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:sockd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sockd
+  confidence: auto

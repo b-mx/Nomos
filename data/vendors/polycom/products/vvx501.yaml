@@ -1,0 +1,10 @@
+id: vvx501
+vendor_id: polycom
+name: Vvx501
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx501:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx501
+  confidence: auto

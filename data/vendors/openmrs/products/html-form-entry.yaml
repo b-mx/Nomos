@@ -1,0 +1,10 @@
+id: html-form-entry
+vendor_id: openmrs
+name: Html Form Entry
+type: software
+tags: []
+cpe: cpe:2.3:a:openmrs:html_form_entry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: html_form_entry
+  confidence: auto

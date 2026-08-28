@@ -1,0 +1,10 @@
+id: laya-al00ep
+vendor_id: huawei
+name: Laya-Al00Ep
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:laya\-al00ep:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laya-al00ep
+  confidence: auto

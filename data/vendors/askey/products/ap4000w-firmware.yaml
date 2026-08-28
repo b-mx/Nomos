@@ -1,0 +1,10 @@
+id: ap4000w-firmware
+vendor_id: askey
+name: Ap4000W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:askey:ap4000w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap4000w_firmware
+  confidence: auto

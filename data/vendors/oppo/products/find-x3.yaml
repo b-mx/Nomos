@@ -1,0 +1,10 @@
+id: find-x3
+vendor_id: oppo
+name: Find X3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:find_x3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: find_x3
+  confidence: auto

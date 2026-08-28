@@ -1,0 +1,10 @@
+id: interstage-list-works
+vendor_id: fujitsu
+name: Interstage List Works
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:interstage_list_works:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interstage_list_works
+  confidence: auto

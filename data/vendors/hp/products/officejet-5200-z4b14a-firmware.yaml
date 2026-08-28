@@ -1,0 +1,10 @@
+id: officejet-5200-z4b14a-firmware
+vendor_id: hp
+name: Officejet 5200 Z4B14A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_5200_z4b14a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_5200_z4b14a_firmware
+  confidence: auto

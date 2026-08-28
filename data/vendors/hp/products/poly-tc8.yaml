@@ -1,0 +1,10 @@
+id: poly-tc8
+vendor_id: hp
+name: Poly Tc8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:poly_tc8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_tc8
+  confidence: auto

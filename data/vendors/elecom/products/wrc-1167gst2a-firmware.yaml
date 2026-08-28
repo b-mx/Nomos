@@ -1,0 +1,10 @@
+id: wrc-1167gst2a-firmware
+vendor_id: elecom
+name: Wrc-1167Gst2A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wrc\-1167gst2a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrc-1167gst2a_firmware
+  confidence: auto

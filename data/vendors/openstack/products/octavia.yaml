@@ -1,0 +1,10 @@
+id: octavia
+vendor_id: openstack
+name: Octavia
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:octavia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: octavia
+  confidence: auto

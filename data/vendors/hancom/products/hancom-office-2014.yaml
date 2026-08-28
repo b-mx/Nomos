@@ -1,0 +1,10 @@
+id: hancom-office-2014
+vendor_id: hancom
+name: Hancom Office 2014
+type: software
+tags: []
+cpe: cpe:2.3:a:hancom:hancom_office_2014:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hancom_office_2014
+  confidence: auto

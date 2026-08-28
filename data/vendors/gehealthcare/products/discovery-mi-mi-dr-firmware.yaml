@@ -1,0 +1,10 @@
+id: discovery-mi-mi-dr-firmware
+vendor_id: gehealthcare
+name: Discovery Mi Mi Dr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:discovery_mi_mi_dr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_mi_mi_dr_firmware
+  confidence: auto

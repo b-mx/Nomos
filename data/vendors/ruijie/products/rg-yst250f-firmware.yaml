@@ -1,0 +1,10 @@
+id: rg-yst250f-firmware
+vendor_id: ruijie
+name: Rg-Yst250F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-yst250f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-yst250f_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: smartserver-1
+vendor_id: echelon
+name: Smartserver 1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:echelon:smartserver_1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartserver_1
+  confidence: auto

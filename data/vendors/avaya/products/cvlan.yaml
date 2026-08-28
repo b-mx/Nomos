@@ -1,0 +1,10 @@
+id: cvlan
+vendor_id: avaya
+name: Cvlan
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:cvlan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cvlan
+  confidence: auto

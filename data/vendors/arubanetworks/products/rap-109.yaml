@@ -1,0 +1,10 @@
+id: rap-109
+vendor_id: arubanetworks
+name: Rap-109
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:rap\-109:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rap-109
+  confidence: auto

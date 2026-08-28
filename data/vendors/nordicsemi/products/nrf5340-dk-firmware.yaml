@@ -1,0 +1,10 @@
+id: nrf5340-dk-firmware
+vendor_id: nordicsemi
+name: Nrf5340-Dk Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nordicsemi:nrf5340\-dk_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nrf5340-dk_firmware
+  confidence: auto

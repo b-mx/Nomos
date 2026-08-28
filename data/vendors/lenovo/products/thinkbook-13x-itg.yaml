@@ -1,0 +1,10 @@
+id: thinkbook-13x-itg
+vendor_id: lenovo
+name: Thinkbook 13X Itg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkbook_13x_itg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_13x_itg
+  confidence: auto

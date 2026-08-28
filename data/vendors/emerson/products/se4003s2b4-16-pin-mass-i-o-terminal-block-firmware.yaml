@@ -1,0 +1,10 @@
+id: se4003s2b4-16-pin-mass-i-o-terminal-block-firmware
+vendor_id: emerson
+name: Se4003S2B4 16-Pin Mass I/O Terminal Block Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:se4003s2b4_16\-pin_mass_i\/o_terminal_block_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se4003s2b4_16-pin_mass_i/o_terminal_block_firmware
+  confidence: auto

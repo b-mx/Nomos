@@ -1,0 +1,10 @@
+id: zxv10-w300
+vendor_id: zte
+name: Zxv10 W300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxv10_w300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxv10_w300
+  confidence: auto

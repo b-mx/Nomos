@@ -1,0 +1,10 @@
+id: login-server
+vendor_id: pivotal-software
+name: Login-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:login\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: login-server
+  confidence: auto

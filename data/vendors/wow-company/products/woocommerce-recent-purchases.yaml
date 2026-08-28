@@ -1,0 +1,10 @@
+id: woocommerce-recent-purchases
+vendor_id: wow-company
+name: Woocommerce - Recent Purchases
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:woocommerce_\-_recent_purchases:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_-_recent_purchases
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cn459a
+vendor_id: hp
+name: Cn459A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cn459a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn459a
+  confidence: auto

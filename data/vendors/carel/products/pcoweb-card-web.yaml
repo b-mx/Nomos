@@ -1,0 +1,10 @@
+id: pcoweb-card-web
+vendor_id: carel
+name: Pcoweb Card Web
+type: software
+tags: []
+cpe: cpe:2.3:a:carel:pcoweb_card_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcoweb_card_web
+  confidence: auto

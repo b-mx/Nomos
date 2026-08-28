@@ -1,0 +1,10 @@
+id: mh11-settingtool-version2
+vendor_id: mitsubishielectric
+name: Mh11 Settingtool Version2
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mh11_settingtool_version2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mh11_settingtool_version2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: protouch-tandem-firmware
+vendor_id: pdqinc
+name: Protouch Tandem Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pdqinc:protouch_tandem_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protouch_tandem_firmware
+  confidence: auto

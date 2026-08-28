@@ -1,0 +1,10 @@
+id: oncell-central-manager
+vendor_id: moxa
+name: Oncell Central Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:moxa:oncell_central_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncell_central_manager
+  confidence: auto

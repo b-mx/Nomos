@@ -1,0 +1,10 @@
+id: ja-xklock
+vendor_id: freebsd
+name: Ja-Xklock
+type: software
+tags: []
+cpe: cpe:2.3:a:freebsd:ja\-xklock:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ja-xklock
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hhvm
+vendor_id: facebook
+name: Hhvm
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:hhvm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hhvm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: antrea
+vendor_id: linuxfoundation
+name: Antrea
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:antrea:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antrea
+  confidence: auto

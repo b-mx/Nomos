@@ -1,0 +1,10 @@
+id: cm-6200un-firmware
+vendor_id: comtrend
+name: Cm-6200Un Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:comtrend:cm\-6200un_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm-6200un_firmware
+  confidence: auto

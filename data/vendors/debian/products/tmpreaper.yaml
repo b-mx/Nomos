@@ -1,0 +1,10 @@
+id: tmpreaper
+vendor_id: debian
+name: Tmpreaper
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:tmpreaper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tmpreaper
+  confidence: auto

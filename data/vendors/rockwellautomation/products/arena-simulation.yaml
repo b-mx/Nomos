@@ -1,0 +1,10 @@
+id: arena-simulation
+vendor_id: rockwellautomation
+name: Arena Simulation
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:arena_simulation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arena_simulation
+  confidence: auto

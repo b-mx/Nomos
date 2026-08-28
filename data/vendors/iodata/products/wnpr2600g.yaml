@@ -1,0 +1,10 @@
+id: wnpr2600g
+vendor_id: iodata
+name: Wnpr2600G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:wnpr2600g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wnpr2600g
+  confidence: auto

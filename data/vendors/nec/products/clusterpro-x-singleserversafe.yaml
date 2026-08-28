@@ -1,0 +1,10 @@
+id: clusterpro-x-singleserversafe
+vendor_id: nec
+name: Clusterpro X Singleserversafe
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:clusterpro_x_singleserversafe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clusterpro_x_singleserversafe
+  confidence: auto

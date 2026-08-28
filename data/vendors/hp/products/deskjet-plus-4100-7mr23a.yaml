@@ -1,0 +1,10 @@
+id: deskjet-plus-4100-7mr23a
+vendor_id: hp
+name: Deskjet Plus 4100 7Mr23A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_plus_4100_7mr23a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_plus_4100_7mr23a
+  confidence: auto

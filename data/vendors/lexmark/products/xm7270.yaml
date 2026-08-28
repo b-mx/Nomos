@@ -1,0 +1,10 @@
+id: xm7270
+vendor_id: lexmark
+name: Xm7270
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xm7270:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm7270
+  confidence: auto

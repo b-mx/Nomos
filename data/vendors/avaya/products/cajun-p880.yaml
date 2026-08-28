@@ -1,0 +1,10 @@
+id: cajun-p880
+vendor_id: avaya
+name: Cajun P880
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:cajun_p880:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cajun_p880
+  confidence: auto

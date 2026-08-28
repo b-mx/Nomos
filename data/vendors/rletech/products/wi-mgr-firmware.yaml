@@ -1,0 +1,10 @@
+id: wi-mgr-firmware
+vendor_id: rletech
+name: Wi-Mgr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rletech:wi\-mgr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wi-mgr_firmware
+  confidence: auto

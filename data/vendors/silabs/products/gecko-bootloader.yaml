@@ -1,0 +1,10 @@
+id: gecko-bootloader
+vendor_id: silabs
+name: Gecko Bootloader
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:gecko_bootloader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gecko_bootloader
+  confidence: auto

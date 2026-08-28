@@ -1,0 +1,10 @@
+id: analytics-and-location-engine
+vendor_id: arubanetworks
+name: Analytics And Location Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:analytics_and_location_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: analytics_and_location_engine
+  confidence: auto

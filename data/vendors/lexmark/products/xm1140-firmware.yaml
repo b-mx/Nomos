@@ -1,0 +1,10 @@
+id: xm1140-firmware
+vendor_id: lexmark
+name: Xm1140 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:xm1140_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm1140_firmware
+  confidence: auto

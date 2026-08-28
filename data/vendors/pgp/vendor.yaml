@@ -1,0 +1,7 @@
+id: pgp
+name: Pgp
+cpe: cpe:2.3:*:pgp:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pgp
+  confidence: auto

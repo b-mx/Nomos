@@ -1,0 +1,10 @@
+id: speedfusion-sfe
+vendor_id: peplink
+name: Speedfusion Sfe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:speedfusion_sfe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: speedfusion_sfe
+  confidence: auto

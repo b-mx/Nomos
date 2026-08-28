@@ -1,0 +1,10 @@
+id: rx-1500-firmware
+vendor_id: intelbras
+name: Rx 1500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelbras:rx_1500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx_1500_firmware
+  confidence: auto

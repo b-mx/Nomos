@@ -1,0 +1,10 @@
+id: fl-switch-3005-firmware
+vendor_id: phoenixcontact
+name: Fl Switch 3005 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fl_switch_3005_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_switch_3005_firmware
+  confidence: auto

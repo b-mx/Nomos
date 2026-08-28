@@ -1,0 +1,10 @@
+id: s9306e
+vendor_id: huawei
+name: S9306E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s9306e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s9306e
+  confidence: auto

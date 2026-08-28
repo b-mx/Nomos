@@ -1,0 +1,10 @@
+id: nirvana
+vendor_id: cryoutcreations
+name: Nirvana
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:nirvana:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nirvana
+  confidence: auto

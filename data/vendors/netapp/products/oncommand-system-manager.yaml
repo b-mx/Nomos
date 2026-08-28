@@ -1,0 +1,10 @@
+id: oncommand-system-manager
+vendor_id: netapp
+name: Oncommand System Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:oncommand_system_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncommand_system_manager
+  confidence: auto

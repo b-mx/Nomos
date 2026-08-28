@@ -1,0 +1,10 @@
+id: mx207
+vendor_id: bachmann
+name: Mx207
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mx207:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx207
+  confidence: auto

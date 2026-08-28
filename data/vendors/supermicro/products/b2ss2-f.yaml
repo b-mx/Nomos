@@ -1,0 +1,10 @@
+id: b2ss2-f
+vendor_id: supermicro
+name: B2Ss2-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:b2ss2\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b2ss2-f
+  confidence: auto

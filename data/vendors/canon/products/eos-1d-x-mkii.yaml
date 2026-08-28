@@ -1,0 +1,10 @@
+id: eos-1d-x-mkii
+vendor_id: canon
+name: Eos-1D X Mkii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos\-1d_x_mkii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos-1d_x_mkii
+  confidence: auto

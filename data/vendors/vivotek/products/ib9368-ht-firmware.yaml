@@ -1,0 +1,10 @@
+id: ib9368-ht-firmware
+vendor_id: vivotek
+name: Ib9368-Ht Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ib9368\-ht_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib9368-ht_firmware
+  confidence: auto

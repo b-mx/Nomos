@@ -1,0 +1,10 @@
+id: wrc-1900gst2-firmware
+vendor_id: elecom
+name: Wrc-1900Gst2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wrc\-1900gst2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrc-1900gst2_firmware
+  confidence: auto

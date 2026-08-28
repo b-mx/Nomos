@@ -1,0 +1,10 @@
+id: colorqube-9301-firmware
+vendor_id: xerox
+name: Colorqube 9301 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xerox:colorqube_9301_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: colorqube_9301_firmware
+  confidence: auto

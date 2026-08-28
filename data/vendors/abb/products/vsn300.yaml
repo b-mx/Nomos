@@ -1,0 +1,10 @@
+id: vsn300
+vendor_id: abb
+name: Vsn300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:vsn300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsn300
+  confidence: auto

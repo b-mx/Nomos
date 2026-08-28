@@ -1,0 +1,10 @@
+id: dw7000
+vendor_id: hughes
+name: Dw7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hughes:dw7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dw7000
+  confidence: auto

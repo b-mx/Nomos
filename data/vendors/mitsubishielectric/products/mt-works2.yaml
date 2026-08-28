@@ -1,0 +1,10 @@
+id: mt-works2
+vendor_id: mitsubishielectric
+name: Mt Works2
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mt_works2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt_works2
+  confidence: auto

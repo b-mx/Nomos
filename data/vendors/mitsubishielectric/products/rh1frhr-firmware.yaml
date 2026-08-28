@@ -1,0 +1,10 @@
+id: rh1frhr-firmware
+vendor_id: mitsubishielectric
+name: Rh1Frhr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rh1frhr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh1frhr_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: superdome-flex
+vendor_id: hpe
+name: Superdome Flex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:superdome_flex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: superdome_flex
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cm5100-440
+vendor_id: skyworthdigital
+name: Cm5100-440
+type: hardware
+tags: []
+cpe: cpe:2.3:h:skyworthdigital:cm5100\-440:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm5100-440
+  confidence: auto

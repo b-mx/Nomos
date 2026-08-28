@@ -1,0 +1,13 @@
+id: grunt
+vendor_id: gruntjs
+name: Grunt
+type: software
+tags: []
+cpe: cpe:2.3:a:gruntjs:grunt:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: grunt
+  confidence: auto
+- source: nvd
+  value: grunt
+  confidence: auto

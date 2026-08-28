@@ -1,0 +1,10 @@
+id: x9sra
+vendor_id: supermicro
+name: X9Sra
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9sra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9sra
+  confidence: auto

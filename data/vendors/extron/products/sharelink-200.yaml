@@ -1,0 +1,10 @@
+id: sharelink-200
+vendor_id: extron
+name: Sharelink 200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extron:sharelink_200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sharelink_200
+  confidence: auto

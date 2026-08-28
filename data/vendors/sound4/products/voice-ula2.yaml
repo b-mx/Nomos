@@ -1,0 +1,10 @@
+id: voice-ula2
+vendor_id: sound4
+name: Voice Ula2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sound4:voice_ula2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: voice_ula2
+  confidence: auto

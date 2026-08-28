@@ -1,0 +1,10 @@
+id: pivotal-cloud-foundry-service-broker
+vendor_id: pivotal
+name: Pivotal Cloud Foundry Service Broker
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:pivotal_cloud_foundry_service_broker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pivotal_cloud_foundry_service_broker
+  confidence: auto

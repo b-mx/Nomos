@@ -1,0 +1,10 @@
+id: procurve-switch-2610-24-12pwr
+vendor_id: hp
+name: Procurve Switch 2610-24/12Pwr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:procurve_switch_2610\-24\/12pwr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: procurve_switch_2610-24/12pwr
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sysmac-cs1d-cpu65p
+vendor_id: omron
+name: Sysmac Cs1D-Cpu65P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cs1d\-cpu65p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cs1d-cpu65p
+  confidence: auto

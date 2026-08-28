@@ -1,0 +1,10 @@
+id: n3c-firmware
+vendor_id: coolpad
+name: N3C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:coolpad:n3c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n3c_firmware
+  confidence: auto

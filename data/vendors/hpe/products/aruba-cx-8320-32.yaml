@@ -1,0 +1,10 @@
+id: aruba-cx-8320-32
+vendor_id: hpe
+name: Aruba Cx 8320-32
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_8320\-32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_8320-32
+  confidence: auto

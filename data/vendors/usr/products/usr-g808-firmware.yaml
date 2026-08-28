@@ -1,0 +1,10 @@
+id: usr-g808-firmware
+vendor_id: usr
+name: Usr-G808 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:usr:usr\-g808_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usr-g808_firmware
+  confidence: auto

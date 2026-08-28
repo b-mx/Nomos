@@ -1,0 +1,10 @@
+id: selfserv-atm
+vendor_id: ncr
+name: Selfserv Atm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ncr:selfserv_atm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: selfserv_atm
+  confidence: auto

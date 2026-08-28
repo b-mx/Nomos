@@ -1,0 +1,10 @@
+id: imperial-i500-bt
+vendor_id: telestar
+name: Imperial I500-Bt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telestar:imperial_i500\-bt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imperial_i500-bt
+  confidence: auto

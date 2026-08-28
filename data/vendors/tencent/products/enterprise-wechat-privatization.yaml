@@ -1,0 +1,10 @@
+id: enterprise-wechat-privatization
+vendor_id: tencent
+name: Enterprise Wechat Privatization
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:enterprise_wechat_privatization:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_wechat_privatization
+  confidence: auto

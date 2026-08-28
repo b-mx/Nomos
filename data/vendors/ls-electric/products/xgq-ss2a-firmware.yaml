@@ -1,0 +1,10 @@
+id: xgq-ss2a-firmware
+vendor_id: ls-electric
+name: Xgq-Ss2A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgq\-ss2a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgq-ss2a_firmware
+  confidence: auto

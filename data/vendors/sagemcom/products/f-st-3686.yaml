@@ -1,0 +1,10 @@
+id: f-st-3686
+vendor_id: sagemcom
+name: F@St 3686
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sagemcom:f\@st_3686:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f@st_3686
+  confidence: auto

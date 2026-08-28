@@ -1,0 +1,13 @@
+id: alpine-linux
+vendor_id: alpinelinux
+name: Alpine Linux
+type: os
+tags: []
+cpe: cpe:2.3:o:alpinelinux:alpine_linux:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: alpine-linux
+  confidence: auto
+- source: nvd
+  value: alpine_linux
+  confidence: auto

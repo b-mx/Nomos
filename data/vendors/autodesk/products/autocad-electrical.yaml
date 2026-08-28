@@ -1,0 +1,10 @@
+id: autocad-electrical
+vendor_id: autodesk
+name: Autocad Electrical
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autocad_electrical:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocad_electrical
+  confidence: auto

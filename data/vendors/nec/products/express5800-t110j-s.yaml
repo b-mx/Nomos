@@ -1,0 +1,10 @@
+id: express5800-t110j-s
+vendor_id: nec
+name: Express5800/T110J-S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:express5800\/t110j\-s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: express5800/t110j-s
+  confidence: auto

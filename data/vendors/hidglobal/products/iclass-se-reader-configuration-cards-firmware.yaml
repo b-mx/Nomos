@@ -1,0 +1,10 @@
+id: iclass-se-reader-configuration-cards-firmware
+vendor_id: hidglobal
+name: Iclass Se Reader Configuration Cards Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hidglobal:iclass_se_reader_configuration_cards_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iclass_se_reader_configuration_cards_firmware
+  confidence: auto

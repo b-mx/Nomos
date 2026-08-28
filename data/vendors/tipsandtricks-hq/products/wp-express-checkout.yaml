@@ -1,0 +1,10 @@
+id: wp-express-checkout
+vendor_id: tipsandtricks-hq
+name: Wp Express Checkout
+type: software
+tags: []
+cpe: cpe:2.3:a:tipsandtricks\-hq:wp_express_checkout:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_express_checkout
+  confidence: auto

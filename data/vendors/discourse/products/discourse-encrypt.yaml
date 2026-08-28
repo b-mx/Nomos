@@ -1,0 +1,10 @@
+id: discourse-encrypt
+vendor_id: discourse
+name: Discourse-Encrypt
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:discourse\-encrypt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discourse-encrypt
+  confidence: auto

@@ -1,0 +1,10 @@
+id: interstage-web-server-express
+vendor_id: fujitsu
+name: Interstage Web Server Express
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:interstage_web_server_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interstage_web_server_express
+  confidence: auto

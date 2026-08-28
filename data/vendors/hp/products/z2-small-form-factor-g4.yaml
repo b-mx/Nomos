@@ -1,0 +1,10 @@
+id: z2-small-form-factor-g4
+vendor_id: hp
+name: Z2 Small Form Factor G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:z2_small_form_factor_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z2_small_form_factor_g4
+  confidence: auto

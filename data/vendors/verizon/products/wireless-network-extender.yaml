@@ -1,0 +1,10 @@
+id: wireless-network-extender
+vendor_id: verizon
+name: Wireless Network Extender
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verizon:wireless_network_extender:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireless_network_extender
+  confidence: auto

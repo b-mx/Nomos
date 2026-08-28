@@ -1,0 +1,10 @@
+id: zstandard
+vendor_id: facebook
+name: Zstandard
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:zstandard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zstandard
+  confidence: auto

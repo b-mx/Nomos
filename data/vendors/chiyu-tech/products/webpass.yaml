@@ -1,0 +1,10 @@
+id: webpass
+vendor_id: chiyu-tech
+name: Webpass
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chiyu\-tech:webpass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webpass
+  confidence: auto

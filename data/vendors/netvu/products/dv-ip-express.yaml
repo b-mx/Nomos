@@ -1,0 +1,10 @@
+id: dv-ip-express
+vendor_id: netvu
+name: Dv-Ip Express
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netvu:dv\-ip_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dv-ip_express
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fios-quantum-gateway-g1100-firmware
+vendor_id: verizon
+name: Fios Quantum Gateway G1100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:verizon:fios_quantum_gateway_g1100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fios_quantum_gateway_g1100_firmware
+  confidence: auto

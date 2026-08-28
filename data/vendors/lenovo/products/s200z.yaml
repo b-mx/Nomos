@@ -1,0 +1,10 @@
+id: s200z
+vendor_id: lenovo
+name: S200Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s200z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s200z
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wr8165n-firmware
+vendor_id: aterm
+name: Wr8165N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:aterm:wr8165n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wr8165n_firmware
+  confidence: auto

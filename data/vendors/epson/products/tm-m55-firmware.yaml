@@ -1,0 +1,10 @@
+id: tm-m55-firmware
+vendor_id: epson
+name: Tm-M55 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:tm\-m55_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-m55_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: m4500-firmware
+vendor_id: lenovo
+name: M4500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:m4500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m4500_firmware
+  confidence: auto

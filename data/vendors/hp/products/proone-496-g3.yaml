@@ -1,0 +1,10 @@
+id: proone-496-g3
+vendor_id: hp
+name: Proone 496 G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proone_496_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_496_g3
+  confidence: auto

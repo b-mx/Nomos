@@ -1,0 +1,10 @@
+id: procurve-switch-3500yl
+vendor_id: hp
+name: Procurve Switch 3500Yl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:procurve_switch_3500yl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: procurve_switch_3500yl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ip7361
+vendor_id: vivotek
+name: Ip7361
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ip7361:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip7361
+  confidence: auto

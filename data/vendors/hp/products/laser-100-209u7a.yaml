@@ -1,0 +1,10 @@
+id: laser-100-209u7a
+vendor_id: hp
+name: Laser 100 209U7A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laser_100_209u7a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laser_100_209u7a
+  confidence: auto

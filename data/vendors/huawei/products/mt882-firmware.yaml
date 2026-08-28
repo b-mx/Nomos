@@ -1,0 +1,10 @@
+id: mt882-firmware
+vendor_id: huawei
+name: Mt882 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:mt882_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt882_firmware
+  confidence: auto

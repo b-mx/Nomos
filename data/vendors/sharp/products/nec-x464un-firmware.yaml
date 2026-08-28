@@ -1,0 +1,10 @@
+id: nec-x464un-firmware
+vendor_id: sharp
+name: Nec X464Un Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:nec_x464un_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_x464un_firmware
+  confidence: auto

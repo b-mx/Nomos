@@ -1,0 +1,10 @@
+id: all-flash-fabric-attached-storage-a400
+vendor_id: netapp
+name: All Flash Fabric-Attached Storage A400
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:all_flash_fabric\-attached_storage_a400:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: all_flash_fabric-attached_storage_a400
+  confidence: auto

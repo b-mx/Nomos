@@ -1,0 +1,10 @@
+id: virtualizor
+vendor_id: softaculous
+name: Virtualizor
+type: software
+tags: []
+cpe: cpe:2.3:a:softaculous:virtualizor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtualizor
+  confidence: auto

@@ -1,0 +1,10 @@
+id: compactlogix-1769
+vendor_id: rockwellautomation
+name: Compactlogix 1769
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:compactlogix_1769:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactlogix_1769
+  confidence: auto

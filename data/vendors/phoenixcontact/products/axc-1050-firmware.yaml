@@ -1,0 +1,10 @@
+id: axc-1050-firmware
+vendor_id: phoenixcontact
+name: Axc 1050 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:axc_1050_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axc_1050_firmware
+  confidence: auto

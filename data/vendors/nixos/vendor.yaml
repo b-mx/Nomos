@@ -1,0 +1,7 @@
+id: nixos
+name: Nixos
+cpe: cpe:2.3:*:nixos:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nixos
+  confidence: auto

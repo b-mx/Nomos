@@ -1,0 +1,10 @@
+id: sl-soft-solo-temperature-controller-firmware
+vendor_id: automationdirect
+name: Sl-Soft Solo Temperature Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:sl\-soft_solo_temperature_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sl-soft_solo_temperature_controller_firmware
+  confidence: auto

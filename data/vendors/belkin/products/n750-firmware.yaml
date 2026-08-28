@@ -1,0 +1,10 @@
+id: n750-firmware
+vendor_id: belkin
+name: N750 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:n750_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n750_firmware
+  confidence: auto

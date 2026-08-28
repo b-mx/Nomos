@@ -1,0 +1,10 @@
+id: roc-800l-remote-terminal-unit
+vendor_id: emerson
+name: Roc 800L Remote Terminal Unit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:roc_800l_remote_terminal_unit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roc_800l_remote_terminal_unit
+  confidence: auto

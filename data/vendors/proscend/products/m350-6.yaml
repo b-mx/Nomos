@@ -1,0 +1,10 @@
+id: m350-6
+vendor_id: proscend
+name: M350-6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:proscend:m350\-6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m350-6
+  confidence: auto

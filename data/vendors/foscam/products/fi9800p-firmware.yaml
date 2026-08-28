@@ -1,0 +1,10 @@
+id: fi9800p-firmware
+vendor_id: foscam
+name: Fi9800P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:foscam:fi9800p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fi9800p_firmware
+  confidence: auto

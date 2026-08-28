@@ -1,0 +1,10 @@
+id: postgresql-common
+vendor_id: debian
+name: Postgresql-Common
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:postgresql\-common:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: postgresql-common
+  confidence: auto

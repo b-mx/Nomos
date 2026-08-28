@@ -1,0 +1,10 @@
+id: atok
+vendor_id: justsystems
+name: Atok
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:atok:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atok
+  confidence: auto

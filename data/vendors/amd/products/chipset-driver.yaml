@@ -1,0 +1,10 @@
+id: chipset-driver
+vendor_id: amd
+name: Chipset Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:chipset_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chipset_driver
+  confidence: auto

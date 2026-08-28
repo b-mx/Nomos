@@ -1,0 +1,10 @@
+id: mp-2555
+vendor_id: ricoh
+name: Mp 2555
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_2555:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_2555
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vx800i2
+vendor_id: valuehd
+name: Vx800I2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:valuehd:vx800i2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx800i2
+  confidence: auto

@@ -1,0 +1,7 @@
+id: x-org
+name: X.Org
+cpe: cpe:2.3:*:x\.org:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x.org
+  confidence: auto

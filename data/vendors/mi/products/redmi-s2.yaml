@@ -1,0 +1,10 @@
+id: redmi-s2
+vendor_id: mi
+name: Redmi S2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:redmi_s2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_s2
+  confidence: auto

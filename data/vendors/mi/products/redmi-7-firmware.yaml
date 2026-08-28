@@ -1,0 +1,10 @@
+id: redmi-7-firmware
+vendor_id: mi
+name: Redmi 7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:redmi_7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_7_firmware
+  confidence: auto

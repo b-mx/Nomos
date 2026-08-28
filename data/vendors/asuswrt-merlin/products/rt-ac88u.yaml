@@ -1,0 +1,10 @@
+id: rt-ac88u
+vendor_id: asuswrt-merlin
+name: Rt-Ac88U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-ac88u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-ac88u
+  confidence: auto

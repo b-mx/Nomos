@@ -1,0 +1,10 @@
+id: elements
+vendor_id: f-secure
+name: Elements
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:elements:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elements
+  confidence: auto

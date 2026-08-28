@@ -1,0 +1,10 @@
+id: thinkagile-hx-enclosure-certified-node-firmware
+vendor_id: lenovo
+name: Thinkagile Hx Enclosure Certified Node Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkagile_hx_enclosure_certified_node_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_hx_enclosure_certified_node_firmware
+  confidence: auto

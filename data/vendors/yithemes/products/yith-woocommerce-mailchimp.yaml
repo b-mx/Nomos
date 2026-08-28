@@ -1,0 +1,10 @@
+id: yith-woocommerce-mailchimp
+vendor_id: yithemes
+name: Yith Woocommerce Mailchimp
+type: software
+tags: []
+cpe: cpe:2.3:a:yithemes:yith_woocommerce_mailchimp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yith_woocommerce_mailchimp
+  confidence: auto

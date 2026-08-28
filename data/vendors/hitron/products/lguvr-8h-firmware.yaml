@@ -1,0 +1,10 @@
+id: lguvr-8h-firmware
+vendor_id: hitron
+name: Lguvr-8H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitron:lguvr\-8h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lguvr-8h_firmware
+  confidence: auto

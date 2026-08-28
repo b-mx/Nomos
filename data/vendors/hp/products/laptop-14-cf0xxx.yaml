@@ -1,0 +1,10 @@
+id: laptop-14-cf0xxx
+vendor_id: hp
+name: Laptop 14-Cf0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_14\-cf0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_14-cf0xxx
+  confidence: auto

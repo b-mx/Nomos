@@ -1,0 +1,10 @@
+id: device-server-web-console-5232-n
+vendor_id: moxa
+name: Device Server Web Console 5232-N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:device_server_web_console_5232\-n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: device_server_web_console_5232-n
+  confidence: auto

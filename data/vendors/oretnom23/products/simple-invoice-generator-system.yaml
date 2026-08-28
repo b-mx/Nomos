@@ -1,0 +1,10 @@
+id: simple-invoice-generator-system
+vendor_id: oretnom23
+name: Simple Invoice Generator System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:simple_invoice_generator_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_invoice_generator_system
+  confidence: auto

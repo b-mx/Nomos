@@ -1,0 +1,10 @@
+id: p0-router-firmware
+vendor_id: '360'
+name: P0 Router Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:360:p0_router_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p0_router_firmware
+  confidence: auto

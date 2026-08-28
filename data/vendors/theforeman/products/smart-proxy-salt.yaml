@@ -1,0 +1,10 @@
+id: smart-proxy-salt
+vendor_id: theforeman
+name: Smart Proxy Salt
+type: software
+tags: []
+cpe: cpe:2.3:a:theforeman:smart_proxy_salt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_proxy_salt
+  confidence: auto

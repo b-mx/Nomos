@@ -1,0 +1,10 @@
+id: nx701-1600-firmware
+vendor_id: omron
+name: Nx701-1600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:nx701\-1600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx701-1600_firmware
+  confidence: auto

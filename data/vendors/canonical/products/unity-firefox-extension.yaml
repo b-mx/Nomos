@@ -1,0 +1,10 @@
+id: unity-firefox-extension
+vendor_id: canonical
+name: Unity-Firefox-Extension
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:unity\-firefox\-extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unity-firefox-extension
+  confidence: auto

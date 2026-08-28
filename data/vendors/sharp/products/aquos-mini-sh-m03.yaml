@@ -1,0 +1,10 @@
+id: aquos-mini-sh-m03
+vendor_id: sharp
+name: Aquos Mini Sh-M03
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:aquos_mini_sh\-m03:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_mini_sh-m03
+  confidence: auto

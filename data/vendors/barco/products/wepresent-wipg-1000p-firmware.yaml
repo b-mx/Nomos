@@ -1,0 +1,10 @@
+id: wepresent-wipg-1000p-firmware
+vendor_id: barco
+name: Wepresent Wipg-1000P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:barco:wepresent_wipg\-1000p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wepresent_wipg-1000p_firmware
+  confidence: auto

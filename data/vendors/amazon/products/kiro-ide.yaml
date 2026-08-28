@@ -1,0 +1,10 @@
+id: kiro-ide
+vendor_id: amazon
+name: Kiro Ide
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:kiro_ide:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kiro_ide
+  confidence: auto

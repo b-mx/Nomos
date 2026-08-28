@@ -1,0 +1,10 @@
+id: computer-laboratory-system
+vendor_id: carmelo
+name: Computer Laboratory System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:computer_laboratory_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: computer_laboratory_system
+  confidence: auto

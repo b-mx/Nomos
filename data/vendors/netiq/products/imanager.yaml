@@ -1,0 +1,10 @@
+id: imanager
+vendor_id: netiq
+name: Imanager
+type: software
+tags: []
+cpe: cpe:2.3:a:netiq:imanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imanager
+  confidence: auto

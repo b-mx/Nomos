@@ -1,0 +1,10 @@
+id: bsmtpd
+vendor_id: debian
+name: Bsmtpd
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:bsmtpd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bsmtpd
+  confidence: auto

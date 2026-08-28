@@ -1,0 +1,10 @@
+id: arpwatch
+vendor_id: suse
+name: Arpwatch
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:arpwatch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arpwatch
+  confidence: auto

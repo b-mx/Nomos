@@ -1,0 +1,10 @@
+id: panda-devices-agent
+vendor_id: pandasecurity
+name: Panda Devices Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:pandasecurity:panda_devices_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: panda_devices_agent
+  confidence: auto

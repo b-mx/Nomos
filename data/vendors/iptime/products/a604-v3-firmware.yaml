@@ -1,0 +1,10 @@
+id: a604-v3-firmware
+vendor_id: iptime
+name: A604-V3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:a604\-v3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a604-v3_firmware
+  confidence: auto

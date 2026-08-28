@@ -1,0 +1,10 @@
+id: pyxis-enterprise-server
+vendor_id: bd
+name: Pyxis Enterprise Server
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:pyxis_enterprise_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_enterprise_server
+  confidence: auto

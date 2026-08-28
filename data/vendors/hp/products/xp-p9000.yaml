@@ -1,0 +1,10 @@
+id: xp-p9000
+vendor_id: hp
+name: Xp P9000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:xp_p9000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp_p9000
+  confidence: auto

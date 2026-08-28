@@ -1,0 +1,10 @@
+id: ip8332-firmware
+vendor_id: vivotek
+name: Ip8332 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ip8332_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip8332_firmware
+  confidence: auto

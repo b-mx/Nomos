@@ -1,0 +1,10 @@
+id: engage-one-aio-system-firmware
+vendor_id: hp
+name: Engage One Aio System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:engage_one_aio_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engage_one_aio_system_firmware
+  confidence: auto

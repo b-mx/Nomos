@@ -1,0 +1,10 @@
+id: cpp7
+vendor_id: bosch
+name: Cpp7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:cpp7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpp7
+  confidence: auto

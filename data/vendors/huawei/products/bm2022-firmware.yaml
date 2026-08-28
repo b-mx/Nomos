@@ -1,0 +1,10 @@
+id: bm2022-firmware
+vendor_id: huawei
+name: Bm2022 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:bm2022_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm2022_firmware
+  confidence: auto

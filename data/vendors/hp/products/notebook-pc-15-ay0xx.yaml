@@ -1,0 +1,10 @@
+id: notebook-pc-15-ay0xx
+vendor_id: hp
+name: Notebook Pc 15-Ay0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:notebook_pc_15\-ay0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_pc_15-ay0xx
+  confidence: auto

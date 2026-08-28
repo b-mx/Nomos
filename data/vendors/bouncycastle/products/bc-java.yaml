@@ -1,0 +1,10 @@
+id: bc-java
+vendor_id: bouncycastle
+name: Bc-Java
+type: software
+tags: []
+cpe: cpe:2.3:a:bouncycastle:bc\-java:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bc-java
+  confidence: auto

@@ -1,0 +1,10 @@
+id: add-apt-repository
+vendor_id: canonical
+name: Add-Apt-Repository
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:add\-apt\-repository:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: add-apt-repository
+  confidence: auto

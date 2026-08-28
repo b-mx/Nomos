@@ -1,0 +1,10 @@
+id: mx510
+vendor_id: lexmark
+name: Mx510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx510
+  confidence: auto

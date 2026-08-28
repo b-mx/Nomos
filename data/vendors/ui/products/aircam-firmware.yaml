@@ -1,0 +1,10 @@
+id: aircam-firmware
+vendor_id: ui
+name: Aircam Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:aircam_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aircam_firmware
+  confidence: auto

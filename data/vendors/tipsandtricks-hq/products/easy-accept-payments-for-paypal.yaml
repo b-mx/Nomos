@@ -1,0 +1,10 @@
+id: easy-accept-payments-for-paypal
+vendor_id: tipsandtricks-hq
+name: Easy Accept Payments For Paypal
+type: software
+tags: []
+cpe: cpe:2.3:a:tipsandtricks\-hq:easy_accept_payments_for_paypal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_accept_payments_for_paypal
+  confidence: auto

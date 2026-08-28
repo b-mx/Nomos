@@ -1,0 +1,10 @@
+id: solarcity-solar-monitoring-gateway
+vendor_id: tesla
+name: Solarcity Solar Monitoring Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:tesla:solarcity_solar_monitoring_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solarcity_solar_monitoring_gateway
+  confidence: auto

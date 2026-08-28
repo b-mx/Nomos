@@ -1,0 +1,10 @@
+id: storagegrid
+vendor_id: netapp
+name: Storagegrid
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:storagegrid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storagegrid
+  confidence: auto

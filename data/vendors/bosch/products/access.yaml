@@ -1,0 +1,10 @@
+id: access
+vendor_id: bosch
+name: Access
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ampere-altra-max
+vendor_id: amperecomputing
+name: Ampere Altra Max
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amperecomputing:ampere_altra_max:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ampere_altra_max
+  confidence: auto

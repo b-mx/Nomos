@@ -1,0 +1,10 @@
+id: bcc102
+vendor_id: bosch
+name: Bcc102
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:bcc102:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bcc102
+  confidence: auto

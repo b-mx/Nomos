@@ -1,0 +1,10 @@
+id: sim2500
+vendor_id: sick
+name: Sim2500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:sim2500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim2500
+  confidence: auto

@@ -1,0 +1,10 @@
+id: roseta
+vendor_id: cryoutcreations
+name: Roseta
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:roseta:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roseta
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ref615r
+vendor_id: abb
+name: Ref615R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:ref615r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ref615r
+  confidence: auto

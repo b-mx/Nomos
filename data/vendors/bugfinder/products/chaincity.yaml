@@ -1,0 +1,10 @@
+id: chaincity
+vendor_id: bugfinder
+name: Chaincity
+type: software
+tags: []
+cpe: cpe:2.3:a:bugfinder:chaincity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chaincity
+  confidence: auto

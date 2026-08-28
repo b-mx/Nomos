@@ -1,0 +1,10 @@
+id: network-access-client
+vendor_id: barracuda
+name: Network Access Client
+type: software
+tags: []
+cpe: cpe:2.3:a:barracuda:network_access_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_access_client
+  confidence: auto

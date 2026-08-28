@@ -1,0 +1,10 @@
+id: wn-ag300dgr
+vendor_id: iodata
+name: Wn-Ag300Dgr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:wn\-ag300dgr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn-ag300dgr
+  confidence: auto

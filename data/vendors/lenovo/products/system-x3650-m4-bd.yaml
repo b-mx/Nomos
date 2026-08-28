@@ -1,0 +1,10 @@
+id: system-x3650-m4-bd
+vendor_id: lenovo
+name: System X3650 M4 Bd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:system_x3650_m4_bd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_x3650_m4_bd
+  confidence: auto

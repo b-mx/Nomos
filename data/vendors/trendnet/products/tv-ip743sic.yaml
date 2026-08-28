@@ -1,0 +1,10 @@
+id: tv-ip743sic
+vendor_id: trendnet
+name: Tv-Ip743Sic
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tv\-ip743sic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv-ip743sic
+  confidence: auto

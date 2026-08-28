@@ -1,0 +1,10 @@
+id: xbo-rd01a
+vendor_id: ls-electric
+name: Xbo-Rd01A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:xbo\-rd01a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbo-rd01a
+  confidence: auto

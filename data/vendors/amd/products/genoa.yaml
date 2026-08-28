@@ -1,0 +1,10 @@
+id: genoa
+vendor_id: amd
+name: Genoa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:genoa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: genoa
+  confidence: auto

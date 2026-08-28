@@ -1,0 +1,10 @@
+id: http-signature
+vendor_id: joyent
+name: Http-Signature
+type: software
+tags: []
+cpe: cpe:2.3:a:joyent:http\-signature:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: http-signature
+  confidence: auto

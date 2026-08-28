@@ -1,0 +1,10 @@
+id: snapdrive
+vendor_id: netapp
+name: Snapdrive
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:snapdrive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snapdrive
+  confidence: auto

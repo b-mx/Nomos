@@ -1,0 +1,10 @@
+id: aserver
+vendor_id: hp
+name: Aserver
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:aserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aserver
+  confidence: auto

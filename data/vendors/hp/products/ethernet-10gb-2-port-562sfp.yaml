@@ -1,0 +1,10 @@
+id: ethernet-10gb-2-port-562sfp
+vendor_id: hp
+name: Ethernet 10Gb 2-Port 562Sfp+
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:ethernet_10gb_2\-port_562sfp\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ethernet_10gb_2-port_562sfp+
+  confidence: auto

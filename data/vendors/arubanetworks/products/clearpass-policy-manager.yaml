@@ -1,0 +1,10 @@
+id: clearpass-policy-manager
+vendor_id: arubanetworks
+name: Clearpass Policy Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:clearpass_policy_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clearpass_policy_manager
+  confidence: auto

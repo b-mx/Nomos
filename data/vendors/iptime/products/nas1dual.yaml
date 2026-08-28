@@ -1,0 +1,10 @@
+id: nas1dual
+vendor_id: iptime
+name: Nas1Dual
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:nas1dual:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nas1dual
+  confidence: auto

@@ -1,0 +1,10 @@
+id: simple-art-gallery
+vendor_id: code-projects
+name: Simple Art Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:simple_art_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_art_gallery
+  confidence: auto

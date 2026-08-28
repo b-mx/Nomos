@@ -1,0 +1,10 @@
+id: pacsystems-rx3i-cpe305-firmware
+vendor_id: ge
+name: Pacsystems Rx3I Cpe305 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:pacsystems_rx3i_cpe305_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pacsystems_rx3i_cpe305_firmware
+  confidence: auto

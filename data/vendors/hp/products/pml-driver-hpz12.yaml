@@ -1,0 +1,10 @@
+id: pml-driver-hpz12
+vendor_id: hp
+name: Pml Driver Hpz12
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:pml_driver_hpz12:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pml_driver_hpz12
+  confidence: auto

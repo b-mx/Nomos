@@ -1,0 +1,10 @@
+id: 4700s
+vendor_id: amd
+name: 4700S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:4700s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4700s
+  confidence: auto

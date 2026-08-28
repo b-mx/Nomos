@@ -1,0 +1,10 @@
+id: ecommerce-website
+vendor_id: codeastro
+name: Ecommerce Website
+type: software
+tags: []
+cpe: cpe:2.3:a:codeastro:ecommerce_website:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecommerce_website
+  confidence: auto

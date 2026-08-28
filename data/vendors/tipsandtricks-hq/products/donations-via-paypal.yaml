@@ -1,0 +1,10 @@
+id: donations-via-paypal
+vendor_id: tipsandtricks-hq
+name: Donations Via Paypal
+type: software
+tags: []
+cpe: cpe:2.3:a:tipsandtricks\-hq:donations_via_paypal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: donations_via_paypal
+  confidence: auto

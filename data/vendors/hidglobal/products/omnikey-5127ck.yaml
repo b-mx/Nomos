@@ -1,0 +1,10 @@
+id: omnikey-5127ck
+vendor_id: hidglobal
+name: Omnikey 5127Ck
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hidglobal:omnikey_5127ck:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omnikey_5127ck
+  confidence: auto

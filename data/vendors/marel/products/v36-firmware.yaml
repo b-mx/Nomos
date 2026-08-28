@@ -1,0 +1,10 @@
+id: v36-firmware
+vendor_id: marel
+name: V36 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:v36_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v36_firmware
+  confidence: auto

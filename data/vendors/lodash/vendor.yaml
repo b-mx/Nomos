@@ -1,0 +1,7 @@
+id: lodash
+name: Lodash
+cpe: cpe:2.3:*:lodash:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lodash
+  confidence: auto

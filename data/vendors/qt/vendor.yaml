@@ -1,0 +1,7 @@
+id: qt
+name: Qt
+cpe: cpe:2.3:*:qt:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qt
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cg-wlbaragm-firmware
+vendor_id: corega
+name: Cg-Wlbaragm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:corega:cg\-wlbaragm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cg-wlbaragm_firmware
+  confidence: auto

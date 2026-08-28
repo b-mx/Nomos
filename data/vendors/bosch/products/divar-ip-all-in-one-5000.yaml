@@ -1,0 +1,10 @@
+id: divar-ip-all-in-one-5000
+vendor_id: bosch
+name: Divar Ip All-In-One 5000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:divar_ip_all\-in\-one_5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: divar_ip_all-in-one_5000
+  confidence: auto

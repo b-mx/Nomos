@@ -1,0 +1,10 @@
+id: johnson-l21c
+vendor_id: huawei
+name: Johnson-L21C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:johnson\-l21c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: johnson-l21c
+  confidence: auto

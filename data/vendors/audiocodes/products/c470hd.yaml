@@ -1,0 +1,10 @@
+id: c470hd
+vendor_id: audiocodes
+name: C470Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:audiocodes:c470hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c470hd
+  confidence: auto

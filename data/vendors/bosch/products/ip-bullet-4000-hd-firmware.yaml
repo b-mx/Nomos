@@ -1,0 +1,10 @@
+id: ip-bullet-4000-hd-firmware
+vendor_id: bosch
+name: Ip Bullet 4000 Hd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:ip_bullet_4000_hd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_bullet_4000_hd_firmware
+  confidence: auto

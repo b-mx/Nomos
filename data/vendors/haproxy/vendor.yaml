@@ -1,0 +1,7 @@
+id: haproxy
+name: Haproxy
+cpe: cpe:2.3:*:haproxy:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: haproxy
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hx200
+vendor_id: hughes
+name: Hx200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hughes:hx200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hx200
+  confidence: auto

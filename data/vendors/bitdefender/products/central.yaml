@@ -1,0 +1,10 @@
+id: central
+vendor_id: bitdefender
+name: Central
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:central:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: central
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x85x
+vendor_id: lexmark
+name: X85X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x85x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x85x
+  confidence: auto

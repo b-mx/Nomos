@@ -1,0 +1,10 @@
+id: kobe-l09ahn
+vendor_id: huawei
+name: Kobe-L09Ahn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:kobe\-l09ahn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kobe-l09ahn
+  confidence: auto

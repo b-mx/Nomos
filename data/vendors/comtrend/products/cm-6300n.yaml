@@ -1,0 +1,10 @@
+id: cm-6300n
+vendor_id: comtrend
+name: Cm-6300N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:comtrend:cm\-6300n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm-6300n
+  confidence: auto

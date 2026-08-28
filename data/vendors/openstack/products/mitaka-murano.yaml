@@ -1,0 +1,10 @@
+id: mitaka-murano
+vendor_id: openstack
+name: Mitaka-Murano
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:mitaka\-murano:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mitaka-murano
+  confidence: auto

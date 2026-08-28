@@ -1,0 +1,9 @@
+id: ipad
+vendor_id: ipad
+name: Apple iPad
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: ipad
+  confidence: auto

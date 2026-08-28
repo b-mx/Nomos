@@ -1,0 +1,10 @@
+id: server
+vendor_id: icewarp
+name: Server
+type: software
+tags: []
+cpe: cpe:2.3:a:icewarp:server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: server
+  confidence: auto

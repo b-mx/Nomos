@@ -1,0 +1,10 @@
+id: vcn500
+vendor_id: huawei
+name: Vcn500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:vcn500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vcn500
+  confidence: auto

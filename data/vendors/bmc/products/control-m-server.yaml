@@ -1,0 +1,10 @@
+id: control-m-server
+vendor_id: bmc
+name: Control-M/Server
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:control\-m\/server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control-m/server
+  confidence: auto

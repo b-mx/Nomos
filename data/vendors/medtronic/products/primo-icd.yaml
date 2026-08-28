@@ -1,0 +1,10 @@
+id: primo-icd
+vendor_id: medtronic
+name: Primo Icd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:primo_icd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primo_icd
+  confidence: auto

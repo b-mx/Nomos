@@ -1,0 +1,10 @@
+id: honor-10
+vendor_id: huawei
+name: Honor 10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:honor_10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_10
+  confidence: auto

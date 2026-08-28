@@ -1,0 +1,10 @@
+id: fd1216s-r1-firmware
+vendor_id: cdatatec
+name: Fd1216S-R1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cdatatec:fd1216s\-r1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd1216s-r1_firmware
+  confidence: auto

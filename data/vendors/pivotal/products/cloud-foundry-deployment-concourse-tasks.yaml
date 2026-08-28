@@ -1,0 +1,10 @@
+id: cloud-foundry-deployment-concourse-tasks
+vendor_id: pivotal
+name: Cloud Foundry Deployment Concourse Tasks
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:cloud_foundry_deployment_concourse_tasks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_deployment_concourse_tasks
+  confidence: auto

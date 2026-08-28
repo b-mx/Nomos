@@ -1,0 +1,10 @@
+id: go-twiwidget
+vendor_id: goforandroid
+name: Go Twiwidget
+type: software
+tags: []
+cpe: cpe:2.3:a:goforandroid:go_twiwidget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_twiwidget
+  confidence: auto

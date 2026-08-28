@@ -1,0 +1,10 @@
+id: d3l08a
+vendor_id: hp
+name: D3L08A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:d3l08a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d3l08a
+  confidence: auto

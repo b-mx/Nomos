@@ -1,0 +1,10 @@
+id: g40-80m-firmware
+vendor_id: lenovo
+name: G40-80M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:g40\-80m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g40-80m_firmware
+  confidence: auto

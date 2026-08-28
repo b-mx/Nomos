@@ -1,0 +1,10 @@
+id: melsec-l06cpu-p
+vendor_id: mitsubishi
+name: Melsec L06Cpu(-P)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_l06cpu\(\-p\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_l06cpu(-p)
+  confidence: auto

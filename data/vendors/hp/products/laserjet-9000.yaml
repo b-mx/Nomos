@@ -1,0 +1,10 @@
+id: laserjet-9000
+vendor_id: hp
+name: Laserjet 9000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_9000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_9000
+  confidence: auto

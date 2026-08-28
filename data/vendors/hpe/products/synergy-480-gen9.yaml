@@ -1,0 +1,10 @@
+id: synergy-480-gen9
+vendor_id: hpe
+name: Synergy 480 Gen9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:synergy_480_gen9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy_480_gen9
+  confidence: auto

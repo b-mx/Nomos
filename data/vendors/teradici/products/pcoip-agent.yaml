@@ -1,0 +1,10 @@
+id: pcoip-agent
+vendor_id: teradici
+name: Pcoip Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:teradici:pcoip_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcoip_agent
+  confidence: auto

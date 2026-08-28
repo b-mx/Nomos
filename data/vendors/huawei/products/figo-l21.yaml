@@ -1,0 +1,10 @@
+id: figo-l21
+vendor_id: huawei
+name: Figo-L21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:figo\-l21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: figo-l21
+  confidence: auto

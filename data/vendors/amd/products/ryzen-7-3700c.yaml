@@ -1,0 +1,10 @@
+id: ryzen-7-3700c
+vendor_id: amd
+name: Ryzen 7 3700C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_3700c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_3700c
+  confidence: auto

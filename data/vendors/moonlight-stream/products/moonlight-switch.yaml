@@ -1,0 +1,10 @@
+id: moonlight-switch
+vendor_id: moonlight-stream
+name: Moonlight Switch
+type: software
+tags: []
+cpe: cpe:2.3:a:moonlight\-stream:moonlight_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moonlight_switch
+  confidence: auto

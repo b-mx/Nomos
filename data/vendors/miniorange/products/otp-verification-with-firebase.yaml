@@ -1,0 +1,10 @@
+id: otp-verification-with-firebase
+vendor_id: miniorange
+name: Otp Verification With Firebase
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:otp_verification_with_firebase:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: otp_verification_with_firebase
+  confidence: auto

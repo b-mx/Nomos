@@ -1,0 +1,10 @@
+id: synapsys
+vendor_id: bd
+name: Synapsys
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:synapsys:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synapsys
+  confidence: auto

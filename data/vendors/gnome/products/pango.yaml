@@ -1,0 +1,10 @@
+id: pango
+vendor_id: gnome
+name: Pango
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:pango:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pango
+  confidence: auto

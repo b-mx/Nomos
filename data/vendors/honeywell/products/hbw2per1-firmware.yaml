@@ -1,0 +1,10 @@
+id: hbw2per1-firmware
+vendor_id: honeywell
+name: Hbw2Per1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hbw2per1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hbw2per1_firmware
+  confidence: auto

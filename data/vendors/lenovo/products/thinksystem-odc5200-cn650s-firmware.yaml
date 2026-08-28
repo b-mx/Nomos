@@ -1,0 +1,10 @@
+id: thinksystem-odc5200-cn650s-firmware
+vendor_id: lenovo
+name: Thinksystem Odc5200-Cn650S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksystem_odc5200\-cn650s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_odc5200-cn650s_firmware
+  confidence: auto

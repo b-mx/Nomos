@@ -1,0 +1,10 @@
+id: alaris-gateway-workstation-firmware
+vendor_id: bd
+name: Alaris Gateway Workstation Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:alaris_gateway_workstation_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_gateway_workstation_firmware
+  confidence: auto

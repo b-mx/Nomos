@@ -1,0 +1,7 @@
+id: websense
+name: Websense
+cpe: cpe:2.3:*:websense:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: websense
+  confidence: auto

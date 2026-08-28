@@ -1,0 +1,10 @@
+id: hisuite-firmware
+vendor_id: huawei
+name: Hisuite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hisuite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hisuite_firmware
+  confidence: auto

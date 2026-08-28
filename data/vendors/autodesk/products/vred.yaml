@@ -1,0 +1,10 @@
+id: vred
+vendor_id: autodesk
+name: Vred
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:vred:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vred
+  confidence: auto

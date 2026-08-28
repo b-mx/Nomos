@@ -1,0 +1,10 @@
+id: x10drtps-firmware
+vendor_id: supermicro
+name: X10Drtps Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10drtps_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drtps_firmware
+  confidence: auto

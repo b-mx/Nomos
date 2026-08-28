@@ -1,0 +1,10 @@
+id: aruba-cx-9300-32d
+vendor_id: hpe
+name: Aruba Cx 9300 32D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_9300_32d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_9300_32d
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jf803a
+vendor_id: hp
+name: Jf803A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf803a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf803a
+  confidence: auto

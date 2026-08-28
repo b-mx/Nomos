@@ -1,0 +1,10 @@
+id: px12-350r
+vendor_id: lenovo
+name: Px12-350R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:px12\-350r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px12-350r
+  confidence: auto

@@ -1,0 +1,10 @@
+id: secbladefw
+vendor_id: h3c
+name: Secbladefw
+type: software
+tags: []
+cpe: cpe:2.3:a:h3c:secbladefw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secbladefw
+  confidence: auto

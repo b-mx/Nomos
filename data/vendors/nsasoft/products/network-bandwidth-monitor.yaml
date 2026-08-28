@@ -1,0 +1,10 @@
+id: network-bandwidth-monitor
+vendor_id: nsasoft
+name: Network Bandwidth Monitor
+type: software
+tags: []
+cpe: cpe:2.3:a:nsasoft:network_bandwidth_monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_bandwidth_monitor
+  confidence: auto

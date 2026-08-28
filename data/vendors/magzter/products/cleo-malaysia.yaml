@@ -1,0 +1,10 @@
+id: cleo-malaysia
+vendor_id: magzter
+name: Cleo Malaysia
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:cleo_malaysia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cleo_malaysia
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ryzen-3100
+vendor_id: amd
+name: Ryzen 3100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3100
+  confidence: auto

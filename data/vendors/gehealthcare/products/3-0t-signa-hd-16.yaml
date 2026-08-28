@@ -1,0 +1,10 @@
+id: 3-0t-signa-hd-16
+vendor_id: gehealthcare
+name: 3.0T Signa Hd 16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:3\.0t_signa_hd_16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3.0t_signa_hd_16
+  confidence: auto

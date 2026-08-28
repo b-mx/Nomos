@@ -1,0 +1,10 @@
+id: mini-se
+vendor_id: dji
+name: Mini Se
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dji:mini_se:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mini_se
+  confidence: auto

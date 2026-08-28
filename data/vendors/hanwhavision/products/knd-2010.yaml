@@ -1,0 +1,10 @@
+id: knd-2010
+vendor_id: hanwhavision
+name: Knd-2010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:knd\-2010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: knd-2010
+  confidence: auto

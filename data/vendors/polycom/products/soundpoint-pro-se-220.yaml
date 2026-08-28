@@ -1,0 +1,10 @@
+id: soundpoint-pro-se-220
+vendor_id: polycom
+name: Soundpoint Pro Se-220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:soundpoint_pro_se\-220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soundpoint_pro_se-220
+  confidence: auto

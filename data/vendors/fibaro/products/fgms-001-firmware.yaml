@@ -1,0 +1,10 @@
+id: fgms-001-firmware
+vendor_id: fibaro
+name: Fgms-001 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fibaro:fgms\-001_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fgms-001_firmware
+  confidence: auto

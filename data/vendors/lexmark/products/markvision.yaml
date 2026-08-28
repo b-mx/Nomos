@@ -1,0 +1,10 @@
+id: markvision
+vendor_id: lexmark
+name: Markvision
+type: software
+tags: []
+cpe: cpe:2.3:a:lexmark:markvision:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: markvision
+  confidence: auto

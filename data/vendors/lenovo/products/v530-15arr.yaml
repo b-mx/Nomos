@@ -1,0 +1,10 @@
+id: v530-15arr
+vendor_id: lenovo
+name: V530-15Arr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v530\-15arr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v530-15arr
+  confidence: auto

@@ -1,0 +1,10 @@
+id: suse-linux-enterprise-high-availability-extension
+vendor_id: suse
+name: Suse Linux Enterprise High Availability Extension
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:suse_linux_enterprise_high_availability_extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_enterprise_high_availability_extension
+  confidence: auto

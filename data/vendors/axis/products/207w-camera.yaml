@@ -1,0 +1,10 @@
+id: 207w-camera
+vendor_id: axis
+name: 207W Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:207w_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 207w_camera
+  confidence: auto

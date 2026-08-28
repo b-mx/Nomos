@@ -1,0 +1,10 @@
+id: libxtst
+vendor_id: x
+name: Libxtst
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxtst:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxtst
+  confidence: auto

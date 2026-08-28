@@ -1,0 +1,10 @@
+id: ip-gateway-firmware
+vendor_id: abb
+name: Ip Gateway Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:ip_gateway_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_gateway_firmware
+  confidence: auto

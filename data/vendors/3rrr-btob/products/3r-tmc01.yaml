@@ -1,0 +1,10 @@
+id: 3r-tmc01
+vendor_id: 3rrr-btob
+name: 3R-Tmc01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:3rrr\-btob:3r\-tmc01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3r-tmc01
+  confidence: auto

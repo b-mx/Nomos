@@ -1,0 +1,10 @@
+id: cert-manager
+vendor_id: linuxfoundation
+name: Cert-Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:cert\-manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cert-manager
+  confidence: auto

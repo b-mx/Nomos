@@ -1,0 +1,10 @@
+id: staroffice
+vendor_id: sun
+name: Staroffice
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:staroffice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: staroffice
+  confidence: auto

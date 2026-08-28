@@ -1,0 +1,10 @@
+id: storeever-msl2024
+vendor_id: hp
+name: Storeever Msl2024
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:storeever_msl2024:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeever_msl2024
+  confidence: auto

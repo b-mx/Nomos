@@ -1,0 +1,10 @@
+id: wrc-1750gsv-firmware
+vendor_id: elecom
+name: Wrc-1750Gsv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wrc\-1750gsv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrc-1750gsv_firmware
+  confidence: auto

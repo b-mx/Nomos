@@ -1,0 +1,10 @@
+id: node-version-manager
+vendor_id: openjsf
+name: Node Version Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:openjsf:node_version_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: node_version_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sensor6-r2s1-e
+vendor_id: netscout
+name: Sensor6-R2S1-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netscout:sensor6\-r2s1\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensor6-r2s1-e
+  confidence: auto

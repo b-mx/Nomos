@@ -1,0 +1,10 @@
+id: aestiva-7100-firmware
+vendor_id: ge
+name: Aestiva 7100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:aestiva_7100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aestiva_7100_firmware
+  confidence: auto

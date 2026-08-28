@@ -1,0 +1,10 @@
+id: honor-ws851
+vendor_id: huawei
+name: Honor Ws851
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:honor_ws851:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_ws851
+  confidence: auto

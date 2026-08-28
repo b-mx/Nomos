@@ -1,0 +1,10 @@
+id: cn28-firmware
+vendor_id: binatoneglobal
+name: Cn28 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:cn28_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn28_firmware
+  confidence: auto

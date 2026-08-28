@@ -1,0 +1,10 @@
+id: infrasuite-device-master
+vendor_id: deltaww
+name: Infrasuite Device Master
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:infrasuite_device_master:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infrasuite_device_master
+  confidence: auto

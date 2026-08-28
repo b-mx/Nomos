@@ -1,0 +1,10 @@
+id: ix2010
+vendor_id: nec
+name: Ix2010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:ix2010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ix2010
+  confidence: auto

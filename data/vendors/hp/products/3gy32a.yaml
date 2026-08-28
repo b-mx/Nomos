@@ -1,0 +1,10 @@
+id: 3gy32a
+vendor_id: hp
+name: 3Gy32A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:3gy32a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3gy32a
+  confidence: auto

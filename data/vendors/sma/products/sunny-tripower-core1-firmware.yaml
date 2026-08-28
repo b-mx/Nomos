@@ -1,0 +1,10 @@
+id: sunny-tripower-core1-firmware
+vendor_id: sma
+name: Sunny Tripower Core1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sma:sunny_tripower_core1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_tripower_core1_firmware
+  confidence: auto

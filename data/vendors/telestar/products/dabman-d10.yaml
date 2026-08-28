@@ -1,0 +1,10 @@
+id: dabman-d10
+vendor_id: telestar
+name: Dabman D10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telestar:dabman_d10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dabman_d10
+  confidence: auto

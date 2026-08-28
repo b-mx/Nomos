@@ -1,0 +1,10 @@
+id: a6-9220
+vendor_id: amd
+name: A6-9220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:a6\-9220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a6-9220
+  confidence: auto

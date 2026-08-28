@@ -1,0 +1,10 @@
+id: t2200h-firmware
+vendor_id: actiontec
+name: T2200H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:actiontec:t2200h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t2200h_firmware
+  confidence: auto

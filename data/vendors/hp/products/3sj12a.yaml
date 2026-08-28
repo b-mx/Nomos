@@ -1,0 +1,10 @@
+id: 3sj12a
+vendor_id: hp
+name: 3Sj12A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:3sj12a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3sj12a
+  confidence: auto

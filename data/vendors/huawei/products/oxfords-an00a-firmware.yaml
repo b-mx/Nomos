@@ -1,0 +1,10 @@
+id: oxfords-an00a-firmware
+vendor_id: huawei
+name: Oxfords-An00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:oxfords\-an00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oxfords-an00a_firmware
+  confidence: auto

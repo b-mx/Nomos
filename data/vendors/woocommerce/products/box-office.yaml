@@ -1,0 +1,10 @@
+id: box-office
+vendor_id: woocommerce
+name: Box Office
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:box_office:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: box_office
+  confidence: auto

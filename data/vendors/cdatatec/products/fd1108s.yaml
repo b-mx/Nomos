@@ -1,0 +1,10 @@
+id: fd1108s
+vendor_id: cdatatec
+name: Fd1108S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cdatatec:fd1108s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd1108s
+  confidence: auto

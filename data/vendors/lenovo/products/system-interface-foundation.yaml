@@ -1,0 +1,10 @@
+id: system-interface-foundation
+vendor_id: lenovo
+name: System Interface Foundation
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:system_interface_foundation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_interface_foundation
+  confidence: auto

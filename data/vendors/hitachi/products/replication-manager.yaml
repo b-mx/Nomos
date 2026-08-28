@@ -1,0 +1,10 @@
+id: replication-manager
+vendor_id: hitachi
+name: Replication Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:replication_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: replication_manager
+  confidence: auto

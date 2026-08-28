@@ -1,0 +1,10 @@
+id: storage-manager
+vendor_id: synology
+name: Storage Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:storage_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_manager
+  confidence: auto

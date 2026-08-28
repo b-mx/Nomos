@@ -1,0 +1,10 @@
+id: x-cpu-01-firmware
+vendor_id: hima
+name: X-Cpu 01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hima:x\-cpu_01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-cpu_01_firmware
+  confidence: auto

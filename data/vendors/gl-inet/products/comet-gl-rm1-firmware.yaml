@@ -1,0 +1,10 @@
+id: comet-gl-rm1-firmware
+vendor_id: gl-inet
+name: Comet Gl-Rm1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:comet_gl\-rm1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comet_gl-rm1_firmware
+  confidence: auto

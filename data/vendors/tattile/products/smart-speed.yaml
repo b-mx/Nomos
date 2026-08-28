@@ -1,0 +1,10 @@
+id: smart-speed
+vendor_id: tattile
+name: Smart+ Speed
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tattile:smart\+_speed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart+_speed
+  confidence: auto

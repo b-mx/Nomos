@@ -1,0 +1,10 @@
+id: hbd3pr2
+vendor_id: honeywell
+name: Hbd3Pr2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hbd3pr2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hbd3pr2
+  confidence: auto

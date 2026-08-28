@@ -1,0 +1,10 @@
+id: lmu-3030-cdma-firmware
+vendor_id: calamp
+name: Lmu 3030 Cdma Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:calamp:lmu_3030_cdma_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lmu_3030_cdma_firmware
+  confidence: auto

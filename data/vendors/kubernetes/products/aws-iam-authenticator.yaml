@@ -1,0 +1,10 @@
+id: aws-iam-authenticator
+vendor_id: kubernetes
+name: Aws-Iam-Authenticator
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:aws\-iam\-authenticator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws-iam-authenticator
+  confidence: auto

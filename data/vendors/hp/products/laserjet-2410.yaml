@@ -1,0 +1,10 @@
+id: laserjet-2410
+vendor_id: hp
+name: Laserjet 2410
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_2410:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_2410
+  confidence: auto

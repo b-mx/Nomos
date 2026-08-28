@@ -1,0 +1,10 @@
+id: zbook-14-g2-firmware
+vendor_id: hp
+name: Zbook 14 G2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zbook_14_g2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_14_g2_firmware
+  confidence: auto

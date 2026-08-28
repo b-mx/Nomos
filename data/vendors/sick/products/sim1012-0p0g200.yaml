@@ -1,0 +1,10 @@
+id: sim1012-0p0g200
+vendor_id: sick
+name: Sim1012-0P0G200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:sim1012\-0p0g200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim1012-0p0g200
+  confidence: auto

@@ -1,0 +1,10 @@
+id: reb500
+vendor_id: hitachienergy
+name: Reb500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:reb500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reb500
+  confidence: auto

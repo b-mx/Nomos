@@ -1,0 +1,10 @@
+id: gr3200
+vendor_id: h3c
+name: Gr3200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:gr3200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gr3200
+  confidence: auto

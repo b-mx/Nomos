@@ -1,0 +1,10 @@
+id: laundry-system
+vendor_id: code-projects
+name: Laundry System
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:laundry_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laundry_system
+  confidence: auto

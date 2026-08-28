@@ -1,0 +1,10 @@
+id: quickorder
+vendor_id: bylancer
+name: Quickorder
+type: software
+tags: []
+cpe: cpe:2.3:a:bylancer:quickorder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quickorder
+  confidence: auto

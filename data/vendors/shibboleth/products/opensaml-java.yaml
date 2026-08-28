@@ -1,0 +1,10 @@
+id: opensaml-java
+vendor_id: shibboleth
+name: Opensaml Java
+type: software
+tags: []
+cpe: cpe:2.3:a:shibboleth:opensaml_java:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensaml_java
+  confidence: auto

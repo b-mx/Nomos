@@ -1,0 +1,10 @@
+id: okio
+vendor_id: squareup
+name: Okio
+type: software
+tags: []
+cpe: cpe:2.3:a:squareup:okio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: okio
+  confidence: auto

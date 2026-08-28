@@ -1,0 +1,10 @@
+id: zxa10-s100v
+vendor_id: zte
+name: Zxa10 S100V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxa10_s100v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxa10_s100v
+  confidence: auto

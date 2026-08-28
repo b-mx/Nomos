@@ -1,0 +1,10 @@
+id: old-bike-mart
+vendor_id: pocketmags
+name: Old Bike Mart
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:old_bike_mart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: old_bike_mart
+  confidence: auto

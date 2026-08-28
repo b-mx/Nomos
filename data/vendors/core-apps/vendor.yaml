@@ -1,0 +1,7 @@
+id: core-apps
+name: Core-Apps
+cpe: cpe:2.3:*:core\-apps:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: core-apps
+  confidence: auto

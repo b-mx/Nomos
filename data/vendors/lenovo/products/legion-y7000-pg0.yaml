@@ -1,0 +1,10 @@
+id: legion-y7000-pg0
+vendor_id: lenovo
+name: Legion Y7000 Pg0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_y7000_pg0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y7000_pg0
+  confidence: auto

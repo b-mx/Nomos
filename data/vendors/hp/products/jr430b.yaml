@@ -1,0 +1,10 @@
+id: jr430b
+vendor_id: hp
+name: Jr430B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jr430b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jr430b
+  confidence: auto

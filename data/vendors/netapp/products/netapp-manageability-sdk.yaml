@@ -1,0 +1,10 @@
+id: netapp-manageability-sdk
+vendor_id: netapp
+name: Netapp Manageability Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:netapp_manageability_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netapp_manageability_sdk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: clerk-hono
+vendor_id: clerk
+name: Clerk/Hono
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/hono:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/hono
+  confidence: auto

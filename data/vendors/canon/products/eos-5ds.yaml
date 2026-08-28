@@ -1,0 +1,10 @@
+id: eos-5ds
+vendor_id: canon
+name: Eos 5Ds
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_5ds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_5ds
+  confidence: auto

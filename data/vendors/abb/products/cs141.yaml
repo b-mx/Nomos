@@ -1,0 +1,10 @@
+id: cs141
+vendor_id: abb
+name: Cs141
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:cs141:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs141
+  confidence: auto

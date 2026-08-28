@@ -1,0 +1,10 @@
+id: cajun-p550
+vendor_id: avaya
+name: Cajun P550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:cajun_p550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cajun_p550
+  confidence: auto

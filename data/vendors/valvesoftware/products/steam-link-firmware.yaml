@@ -1,0 +1,10 @@
+id: steam-link-firmware
+vendor_id: valvesoftware
+name: Steam Link Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:valvesoftware:steam_link_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: steam_link_firmware
+  confidence: auto

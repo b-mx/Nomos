@@ -1,0 +1,10 @@
+id: kiestra-tla
+vendor_id: bd
+name: Kiestra Tla
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:kiestra_tla:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kiestra_tla
+  confidence: auto

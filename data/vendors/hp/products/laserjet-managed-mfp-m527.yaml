@@ -1,0 +1,10 @@
+id: laserjet-managed-mfp-m527
+vendor_id: hp
+name: Laserjet Managed Mfp M527
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_mfp_m527:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_mfp_m527
+  confidence: auto

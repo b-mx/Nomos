@@ -1,0 +1,10 @@
+id: uipath-api-workflow-tool
+vendor_id: uipath
+name: Uipath/Api-Workflow-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/api\-workflow\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/api-workflow-tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: unem
+vendor_id: hitachienergy
+name: Unem
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:unem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unem
+  confidence: auto

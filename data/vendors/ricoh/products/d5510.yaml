@@ -1,0 +1,10 @@
+id: d5510
+vendor_id: ricoh
+name: D5510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:d5510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d5510
+  confidence: auto

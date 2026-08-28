@@ -1,0 +1,10 @@
+id: deslock-pro
+vendor_id: eset
+name: Deslock+ Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:deslock\+_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deslock+_pro
+  confidence: auto

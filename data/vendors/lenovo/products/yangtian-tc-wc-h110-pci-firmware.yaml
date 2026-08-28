@@ -1,0 +1,10 @@
+id: yangtian-tc-wc-h110-pci-firmware
+vendor_id: lenovo
+name: Yangtian Tc/Wc H110 Pci Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yangtian_tc\/wc_h110_pci_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_tc/wc_h110_pci_firmware
+  confidence: auto

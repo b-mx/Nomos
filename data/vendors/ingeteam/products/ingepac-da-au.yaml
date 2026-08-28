@@ -1,0 +1,10 @@
+id: ingepac-da-au
+vendor_id: ingeteam
+name: Ingepac Da Au
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ingeteam:ingepac_da_au:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ingepac_da_au
+  confidence: auto

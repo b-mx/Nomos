@@ -1,0 +1,10 @@
+id: m1033-w-firmware
+vendor_id: axis
+name: M1033-W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:m1033\-w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m1033-w_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: snc-vm601b
+vendor_id: sony
+name: Snc-Vm601B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-vm601b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-vm601b
+  confidence: auto

@@ -7,12 +7,3 @@ aliases:
 - source: cisa_kev
   value: Catalyst SD-WAN Manager
   confidence: auto
-- source: cisa_kev
-  value: Catalyst SD-WAN
-  confidence: auto
-- source: cisa_kev
-  value: SD-WAN
-  confidence: auto
-- source: cisa_kev
-  value: Catalyst SD-WAN Controller and Manager
-  confidence: auto

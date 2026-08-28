@@ -1,0 +1,10 @@
+id: signa-hdi-1-5t-firmware
+vendor_id: gehealthcare
+name: Signa Hdi 1.5T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:signa_hdi_1\.5t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: signa_hdi_1.5t_firmware
+  confidence: auto

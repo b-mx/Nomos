@@ -1,0 +1,10 @@
+id: p3225
+vendor_id: axis
+name: P3225
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p3225:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3225
+  confidence: auto

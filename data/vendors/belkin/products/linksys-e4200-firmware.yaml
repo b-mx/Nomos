@@ -1,0 +1,10 @@
+id: linksys-e4200-firmware
+vendor_id: belkin
+name: Linksys E4200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:linksys_e4200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linksys_e4200_firmware
+  confidence: auto

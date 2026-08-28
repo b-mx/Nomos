@@ -1,0 +1,10 @@
+id: t3u55a
+vendor_id: hp
+name: T3U55A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:t3u55a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t3u55a
+  confidence: auto

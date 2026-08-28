@@ -1,0 +1,10 @@
+id: amazon-aurora-postgresql
+vendor_id: amazon-aurora-postgresql
+name: Amazon Aurora PostgreSQL
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: amazon-aurora-postgresql
+  confidence: auto

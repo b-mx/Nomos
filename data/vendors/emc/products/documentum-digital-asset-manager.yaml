@@ -1,0 +1,10 @@
+id: documentum-digital-asset-manager
+vendor_id: emc
+name: Documentum Digital Asset Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_digital_asset_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_digital_asset_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: documentum-xcp
+vendor_id: emc
+name: Documentum Xcp
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_xcp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_xcp
+  confidence: auto

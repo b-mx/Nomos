@@ -1,0 +1,10 @@
+id: subscriptions
+vendor_id: woocommerce
+name: Subscriptions
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:subscriptions:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: subscriptions
+  confidence: auto

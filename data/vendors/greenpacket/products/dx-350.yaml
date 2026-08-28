@@ -1,0 +1,10 @@
+id: dx-350
+vendor_id: greenpacket
+name: Dx-350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:greenpacket:dx\-350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dx-350
+  confidence: auto

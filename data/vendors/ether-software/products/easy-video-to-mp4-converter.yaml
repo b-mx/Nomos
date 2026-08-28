@@ -1,0 +1,10 @@
+id: easy-video-to-mp4-converter
+vendor_id: ether-software
+name: Easy Video To Mp4 Converter
+type: software
+tags: []
+cpe: cpe:2.3:a:ether_software:easy_video_to_mp4_converter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_video_to_mp4_converter
+  confidence: auto

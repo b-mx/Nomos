@@ -1,0 +1,10 @@
+id: alerton-ascent-control-module
+vendor_id: honeywell
+name: Alerton Ascent Control Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:alerton_ascent_control_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alerton_ascent_control_module
+  confidence: auto

@@ -1,0 +1,10 @@
+id: brickstream-2300-2d
+vendor_id: flir
+name: Brickstream 2300 2D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:flir:brickstream_2300_2d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brickstream_2300_2d
+  confidence: auto

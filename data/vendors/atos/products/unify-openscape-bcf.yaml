@@ -1,0 +1,10 @@
+id: unify-openscape-bcf
+vendor_id: atos
+name: Unify Openscape Bcf
+type: software
+tags: []
+cpe: cpe:2.3:a:atos:unify_openscape_bcf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unify_openscape_bcf
+  confidence: auto

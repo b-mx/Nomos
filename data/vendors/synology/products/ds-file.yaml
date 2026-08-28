@@ -1,0 +1,10 @@
+id: ds-file
+vendor_id: synology
+name: Ds File
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:ds_file:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds_file
+  confidence: auto

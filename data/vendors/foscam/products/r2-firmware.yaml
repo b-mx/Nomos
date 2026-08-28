@@ -1,0 +1,10 @@
+id: r2-firmware
+vendor_id: foscam
+name: R2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:foscam:r2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r2_firmware
+  confidence: auto

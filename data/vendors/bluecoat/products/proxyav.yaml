@@ -1,0 +1,10 @@
+id: proxyav
+vendor_id: bluecoat
+name: Proxyav
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bluecoat:proxyav:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proxyav
+  confidence: auto

@@ -1,0 +1,10 @@
+id: stsafe-j
+vendor_id: st
+name: Stsafe-J
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stsafe\-j:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stsafe-j
+  confidence: auto

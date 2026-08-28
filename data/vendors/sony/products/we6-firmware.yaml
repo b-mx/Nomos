@@ -1,0 +1,10 @@
+id: we6-firmware
+vendor_id: sony
+name: We6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:we6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: we6_firmware
+  confidence: auto

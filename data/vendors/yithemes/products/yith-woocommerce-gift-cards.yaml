@@ -1,0 +1,10 @@
+id: yith-woocommerce-gift-cards
+vendor_id: yithemes
+name: Yith Woocommerce Gift Cards
+type: software
+tags: []
+cpe: cpe:2.3:a:yithemes:yith_woocommerce_gift_cards:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yith_woocommerce_gift_cards
+  confidence: auto

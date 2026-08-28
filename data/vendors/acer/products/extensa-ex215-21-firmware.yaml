@@ -1,0 +1,10 @@
+id: extensa-ex215-21-firmware
+vendor_id: acer
+name: Extensa Ex215-21 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:extensa_ex215\-21_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: extensa_ex215-21_firmware
+  confidence: auto

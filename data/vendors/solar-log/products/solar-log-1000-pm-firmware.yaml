@@ -1,0 +1,10 @@
+id: solar-log-1000-pm-firmware
+vendor_id: solar-log
+name: Solar-Log 1000 Pm+ Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:solar\-log:solar\-log_1000_pm\+_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solar-log_1000_pm+_firmware
+  confidence: auto

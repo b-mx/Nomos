@@ -1,0 +1,10 @@
+id: yangtian-mc-godavari
+vendor_id: lenovo
+name: Yangtian Mc Godavari
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yangtian_mc_godavari:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_mc_godavari
+  confidence: auto

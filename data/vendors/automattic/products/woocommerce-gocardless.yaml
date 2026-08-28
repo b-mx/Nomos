@@ -1,0 +1,10 @@
+id: woocommerce-gocardless
+vendor_id: automattic
+name: Woocommerce Gocardless
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:woocommerce_gocardless:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_gocardless
+  confidence: auto

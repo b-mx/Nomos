@@ -1,0 +1,10 @@
+id: redmi-note-6-pro-firmware
+vendor_id: mi
+name: Redmi Note 6 Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:redmi_note_6_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_note_6_pro_firmware
+  confidence: auto

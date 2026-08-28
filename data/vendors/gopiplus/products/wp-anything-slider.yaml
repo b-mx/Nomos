@@ -1,0 +1,10 @@
+id: wp-anything-slider
+vendor_id: gopiplus
+name: Wp Anything Slider
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:wp_anything_slider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_anything_slider
+  confidence: auto

@@ -1,0 +1,10 @@
+id: d8s-timer
+vendor_id: democritus
+name: D8S-Timer
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-timer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-timer
+  confidence: auto

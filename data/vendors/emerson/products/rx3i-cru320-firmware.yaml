@@ -1,0 +1,10 @@
+id: rx3i-cru320-firmware
+vendor_id: emerson
+name: Rx3I Cru320 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:rx3i_cru320_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx3i_cru320_firmware
+  confidence: auto

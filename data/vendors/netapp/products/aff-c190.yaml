@@ -1,0 +1,10 @@
+id: aff-c190
+vendor_id: netapp
+name: Aff C190
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:aff_c190:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aff_c190
+  confidence: auto

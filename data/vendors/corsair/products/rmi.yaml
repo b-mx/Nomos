@@ -1,0 +1,10 @@
+id: rmi
+vendor_id: corsair
+name: Rmi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:rmi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rmi
+  confidence: auto

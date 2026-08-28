@@ -1,0 +1,10 @@
+id: s1
+vendor_id: sonos
+name: S1
+type: software
+tags: []
+cpe: cpe:2.3:a:sonos:s1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s1
+  confidence: auto

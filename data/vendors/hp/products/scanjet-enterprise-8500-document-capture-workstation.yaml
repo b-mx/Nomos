@@ -1,0 +1,10 @@
+id: scanjet-enterprise-8500-document-capture-workstation
+vendor_id: hp
+name: Scanjet Enterprise 8500 Document Capture Workstation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:scanjet_enterprise_8500_document_capture_workstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scanjet_enterprise_8500_document_capture_workstation
+  confidence: auto

@@ -1,0 +1,10 @@
+id: imail-secure-server
+vendor_id: ipswitch
+name: Imail Secure Server
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:imail_secure_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imail_secure_server
+  confidence: auto

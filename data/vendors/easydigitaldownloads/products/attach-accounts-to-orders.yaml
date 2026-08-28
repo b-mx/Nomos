@@ -1,0 +1,10 @@
+id: attach-accounts-to-orders
+vendor_id: easydigitaldownloads
+name: Attach Accounts To Orders
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:attach_accounts_to_orders:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: attach_accounts_to_orders
+  confidence: auto

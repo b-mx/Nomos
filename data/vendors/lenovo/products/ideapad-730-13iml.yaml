@@ -1,0 +1,10 @@
+id: ideapad-730-13iml
+vendor_id: lenovo
+name: Ideapad 730-13Iml
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideapad_730\-13iml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_730-13iml
+  confidence: auto

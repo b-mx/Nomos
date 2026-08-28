@@ -1,0 +1,10 @@
+id: gravityzone-business-security
+vendor_id: bitdefender
+name: Gravityzone Business Security
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:gravityzone_business_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gravityzone_business_security
+  confidence: auto

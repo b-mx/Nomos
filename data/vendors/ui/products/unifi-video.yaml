@@ -1,0 +1,10 @@
+id: unifi-video
+vendor_id: ui
+name: Unifi Video
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:unifi_video:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_video
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hyundai-firmware
+vendor_id: hyundaiusa
+name: Hyundai Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hyundaiusa:hyundai_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hyundai_firmware
+  confidence: auto

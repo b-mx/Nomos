@@ -1,0 +1,10 @@
+id: pac-display
+vendor_id: opto22
+name: Pac Display
+type: software
+tags: []
+cpe: cpe:2.3:a:opto22:pac_display:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pac_display
+  confidence: auto

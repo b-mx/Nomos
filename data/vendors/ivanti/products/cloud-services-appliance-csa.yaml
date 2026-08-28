@@ -1,9 +1,8 @@
 id: cloud-services-appliance-csa
 vendor_id: ivanti
 name: Cloud Services Appliance (CSA)
-type: hardware
-tags:
-- hardware-appliance
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: Cloud Services Appliance (CSA)

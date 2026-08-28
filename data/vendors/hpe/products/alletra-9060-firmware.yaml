@@ -1,0 +1,10 @@
+id: alletra-9060-firmware
+vendor_id: hpe
+name: Alletra 9060 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:alletra_9060_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alletra_9060_firmware
+  confidence: auto

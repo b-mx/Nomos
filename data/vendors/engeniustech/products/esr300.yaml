@@ -1,0 +1,10 @@
+id: esr300
+vendor_id: engeniustech
+name: Esr300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:engeniustech:esr300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esr300
+  confidence: auto

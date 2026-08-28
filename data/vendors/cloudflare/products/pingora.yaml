@@ -1,0 +1,10 @@
+id: pingora
+vendor_id: cloudflare
+name: Pingora
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:pingora:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pingora
+  confidence: auto

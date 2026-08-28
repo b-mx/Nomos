@@ -1,0 +1,10 @@
+id: guests
+vendor_id: nextcloud
+name: Guests
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:guests:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: guests
+  confidence: auto

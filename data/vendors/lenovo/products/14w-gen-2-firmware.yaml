@@ -1,0 +1,10 @@
+id: 14w-gen-2-firmware
+vendor_id: lenovo
+name: 14W Gen 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:14w_gen_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 14w_gen_2_firmware
+  confidence: auto

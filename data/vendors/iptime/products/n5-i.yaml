@@ -1,0 +1,10 @@
+id: n5-i
+vendor_id: iptime
+name: N5-I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:n5\-i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n5-i
+  confidence: auto

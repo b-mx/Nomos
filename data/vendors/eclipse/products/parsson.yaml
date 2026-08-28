@@ -1,0 +1,10 @@
+id: parsson
+vendor_id: eclipse
+name: Parsson
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:parsson:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: parsson
+  confidence: auto

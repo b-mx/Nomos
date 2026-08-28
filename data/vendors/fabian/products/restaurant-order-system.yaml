@@ -1,0 +1,10 @@
+id: restaurant-order-system
+vendor_id: fabian
+name: Restaurant Order System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:restaurant_order_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: restaurant_order_system
+  confidence: auto

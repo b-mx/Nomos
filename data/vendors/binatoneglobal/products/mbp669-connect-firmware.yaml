@@ -1,0 +1,10 @@
+id: mbp669-connect-firmware
+vendor_id: binatoneglobal
+name: Mbp669 Connect Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:mbp669_connect_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbp669_connect_firmware
+  confidence: auto

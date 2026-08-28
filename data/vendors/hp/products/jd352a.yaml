@@ -1,0 +1,10 @@
+id: jd352a
+vendor_id: hp
+name: Jd352A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd352a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd352a
+  confidence: auto

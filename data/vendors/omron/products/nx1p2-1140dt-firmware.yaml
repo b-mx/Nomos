@@ -1,0 +1,10 @@
+id: nx1p2-1140dt-firmware
+vendor_id: omron
+name: Nx1P2-1140Dt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:nx1p2\-1140dt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx1p2-1140dt_firmware
+  confidence: auto

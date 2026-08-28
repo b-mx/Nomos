@@ -1,0 +1,10 @@
+id: storageworks-p2000-g3-msa-fc-iscsi-dual-combo-controller-lff-array-system
+vendor_id: hp
+name: Storageworks P2000 G3 Msa Fc/Iscsi Dual Combo Controller Lff Array System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:storageworks_p2000_g3_msa_fc\/iscsi_dual_combo_controller_lff_array_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storageworks_p2000_g3_msa_fc/iscsi_dual_combo_controller_lff_array_system
+  confidence: auto

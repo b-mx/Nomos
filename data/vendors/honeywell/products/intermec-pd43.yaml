@@ -1,0 +1,10 @@
+id: intermec-pd43
+vendor_id: honeywell
+name: Intermec Pd43
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:intermec_pd43:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intermec_pd43
+  confidence: auto

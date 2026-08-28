@@ -1,0 +1,10 @@
+id: se5916
+vendor_id: atoptechnology
+name: Se5916
+type: hardware
+tags: []
+cpe: cpe:2.3:h:atoptechnology:se5916:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se5916
+  confidence: auto

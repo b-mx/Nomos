@@ -1,0 +1,10 @@
+id: discourse-calendar
+vendor_id: discourse
+name: Discourse Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:discourse_calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discourse_calendar
+  confidence: auto

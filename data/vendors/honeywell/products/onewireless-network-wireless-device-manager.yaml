@@ -1,0 +1,10 @@
+id: onewireless-network-wireless-device-manager
+vendor_id: honeywell
+name: Onewireless Network Wireless Device Manager
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:onewireless_network_wireless_device_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: onewireless_network_wireless_device_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dependency-track-frontend
+vendor_id: owasp
+name: Dependency-Track Frontend
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:dependency\-track_frontend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dependency-track_frontend
+  confidence: auto

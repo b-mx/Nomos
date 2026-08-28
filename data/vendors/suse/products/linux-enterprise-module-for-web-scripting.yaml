@@ -1,0 +1,10 @@
+id: linux-enterprise-module-for-web-scripting
+vendor_id: suse
+name: Linux Enterprise Module For Web Scripting
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux_enterprise_module_for_web_scripting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_module_for_web_scripting
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mh702x
+vendor_id: motorola
+name: Mh702X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:mh702x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mh702x
+  confidence: auto

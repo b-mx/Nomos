@@ -1,0 +1,10 @@
+id: vaccine
+vendor_id: naver
+name: Vaccine
+type: software
+tags: []
+cpe: cpe:2.3:a:naver:vaccine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vaccine
+  confidence: auto

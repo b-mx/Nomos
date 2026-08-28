@@ -1,0 +1,10 @@
+id: impact-eco
+vendor_id: sound4
+name: Impact Eco
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sound4:impact_eco:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: impact_eco
+  confidence: auto

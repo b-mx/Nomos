@@ -1,0 +1,10 @@
+id: whr-g
+vendor_id: buffalotech
+name: Whr-G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalotech:whr\-g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-g
+  confidence: auto

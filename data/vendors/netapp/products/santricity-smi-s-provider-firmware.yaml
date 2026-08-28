@@ -1,0 +1,10 @@
+id: santricity-smi-s-provider-firmware
+vendor_id: netapp
+name: Santricity Smi-S Provider Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:santricity_smi\-s_provider_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: santricity_smi-s_provider_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 701server
+vendor_id: soyal
+name: 701Server
+type: software
+tags: []
+cpe: cpe:2.3:a:soyal:701server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 701server
+  confidence: auto

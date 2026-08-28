@@ -1,0 +1,10 @@
+id: reverse-auction-factory
+vendor_id: thephpfactory
+name: Reverse Auction Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:reverse_auction_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reverse_auction_factory
+  confidence: auto

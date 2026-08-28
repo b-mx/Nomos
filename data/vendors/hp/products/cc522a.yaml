@@ -1,0 +1,10 @@
+id: cc522a
+vendor_id: hp
+name: Cc522A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cc522a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc522a
+  confidence: auto

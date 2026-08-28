@@ -1,0 +1,10 @@
+id: k9h48-firmware
+vendor_id: hp
+name: K9H48 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:k9h48_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k9h48_firmware
+  confidence: auto

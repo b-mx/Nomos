@@ -1,0 +1,10 @@
+id: bus-pass-management-system
+vendor_id: phpgurukul
+name: Bus Pass Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:bus_pass_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bus_pass_management_system
+  confidence: auto

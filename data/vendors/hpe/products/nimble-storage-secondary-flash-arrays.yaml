@@ -1,0 +1,10 @@
+id: nimble-storage-secondary-flash-arrays
+vendor_id: hpe
+name: Nimble Storage Secondary Flash Arrays
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:nimble_storage_secondary_flash_arrays:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nimble_storage_secondary_flash_arrays
+  confidence: auto

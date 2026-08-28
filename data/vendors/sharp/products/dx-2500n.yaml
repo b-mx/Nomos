@@ -1,0 +1,10 @@
+id: dx-2500n
+vendor_id: sharp
+name: Dx-2500N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:dx\-2500n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dx-2500n
+  confidence: auto

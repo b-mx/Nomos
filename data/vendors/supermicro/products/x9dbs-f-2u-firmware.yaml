@@ -1,0 +1,10 @@
+id: x9dbs-f-2u-firmware
+vendor_id: supermicro
+name: X9Dbs-F(-2U) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9dbs\-f\(\-2u\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9dbs-f(-2u)_firmware
+  confidence: auto

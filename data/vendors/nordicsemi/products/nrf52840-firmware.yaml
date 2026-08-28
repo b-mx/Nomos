@@ -1,0 +1,10 @@
+id: nrf52840-firmware
+vendor_id: nordicsemi
+name: Nrf52840 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nordicsemi:nrf52840_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nrf52840_firmware
+  confidence: auto

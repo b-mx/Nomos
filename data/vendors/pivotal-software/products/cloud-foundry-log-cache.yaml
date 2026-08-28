@@ -1,0 +1,10 @@
+id: cloud-foundry-log-cache
+vendor_id: pivotal-software
+name: Cloud Foundry Log Cache
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:cloud_foundry_log_cache:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_log_cache
+  confidence: auto

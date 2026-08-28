@@ -1,0 +1,10 @@
+id: mainwp-child
+vendor_id: mainwp
+name: Mainwp Child
+type: software
+tags: []
+cpe: cpe:2.3:a:mainwp:mainwp_child:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mainwp_child
+  confidence: auto

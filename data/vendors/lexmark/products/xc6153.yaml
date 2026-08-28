@@ -1,0 +1,10 @@
+id: xc6153
+vendor_id: lexmark
+name: Xc6153
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xc6153:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xc6153
+  confidence: auto

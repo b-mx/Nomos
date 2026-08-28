@@ -1,0 +1,10 @@
+id: data-protector-media-operations
+vendor_id: hp
+name: Data Protector Media Operations
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:data_protector_media_operations:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_protector_media_operations
+  confidence: auto

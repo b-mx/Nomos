@@ -1,0 +1,10 @@
+id: mfc-l5755dw-jpn-firmware
+vendor_id: brother
+name: Mfc-L5755Dw(Jpn) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-l5755dw\(jpn\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l5755dw(jpn)_firmware
+  confidence: auto

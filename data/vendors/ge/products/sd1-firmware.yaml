@@ -1,0 +1,10 @@
+id: sd1-firmware
+vendor_id: ge
+name: Sd1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:sd1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd1_firmware
+  confidence: auto

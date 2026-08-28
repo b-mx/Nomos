@@ -1,0 +1,10 @@
+id: sk-9662-firmware
+vendor_id: acer
+name: Sk-9662 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:sk\-9662_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sk-9662_firmware
+  confidence: auto

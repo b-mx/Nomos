@@ -1,0 +1,10 @@
+id: x-stream-enhanced-xegp-firmware
+vendor_id: emerson
+name: X-Stream Enhanced Xegp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:x\-stream_enhanced_xegp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-stream_enhanced_xegp_firmware
+  confidence: auto

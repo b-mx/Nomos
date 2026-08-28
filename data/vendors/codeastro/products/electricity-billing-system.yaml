@@ -1,0 +1,10 @@
+id: electricity-billing-system
+vendor_id: codeastro
+name: Electricity Billing System
+type: software
+tags: []
+cpe: cpe:2.3:a:codeastro:electricity_billing_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: electricity_billing_system
+  confidence: auto

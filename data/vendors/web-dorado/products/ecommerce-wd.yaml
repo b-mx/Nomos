@@ -1,0 +1,10 @@
+id: ecommerce-wd
+vendor_id: web-dorado
+name: Ecommerce Wd
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:ecommerce_wd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecommerce_wd
+  confidence: auto

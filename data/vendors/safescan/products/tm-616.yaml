@@ -1,0 +1,10 @@
+id: tm-616
+vendor_id: safescan
+name: Tm-616
+type: hardware
+tags: []
+cpe: cpe:2.3:h:safescan:tm\-616:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-616
+  confidence: auto

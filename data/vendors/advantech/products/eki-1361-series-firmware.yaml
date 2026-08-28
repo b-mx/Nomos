@@ -1,0 +1,10 @@
+id: eki-1361-series-firmware
+vendor_id: advantech
+name: Eki-1361 Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:advantech:eki\-1361_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eki-1361_series_firmware
+  confidence: auto

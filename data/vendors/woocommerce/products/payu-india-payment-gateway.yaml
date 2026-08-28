@@ -1,0 +1,10 @@
+id: payu-india-payment-gateway
+vendor_id: woocommerce
+name: Payu India Payment Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:payu_india_payment_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: payu_india_payment_gateway
+  confidence: auto

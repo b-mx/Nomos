@@ -1,0 +1,10 @@
+id: navigator
+vendor_id: netscape
+name: Navigator
+type: software
+tags: []
+cpe: cpe:2.3:a:netscape:navigator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: navigator
+  confidence: auto

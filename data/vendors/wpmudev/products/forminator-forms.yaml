@@ -1,0 +1,10 @@
+id: forminator-forms
+vendor_id: wpmudev
+name: Forminator Forms
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmudev:forminator_forms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: forminator_forms
+  confidence: auto

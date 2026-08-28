@@ -1,0 +1,10 @@
+id: enterprise-dvr-firmware
+vendor_id: honeywell
+name: Enterprise Dvr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:enterprise_dvr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_dvr_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: score
+vendor_id: mediawiki
+name: Score
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:score:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: score
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aura-conferencing
+vendor_id: avaya
+name: Aura Conferencing
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura_conferencing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_conferencing
+  confidence: auto

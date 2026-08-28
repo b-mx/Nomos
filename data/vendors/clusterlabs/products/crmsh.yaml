@@ -1,0 +1,10 @@
+id: crmsh
+vendor_id: clusterlabs
+name: Crmsh
+type: software
+tags: []
+cpe: cpe:2.3:a:clusterlabs:crmsh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crmsh
+  confidence: auto

@@ -1,0 +1,10 @@
+id: w850-firmware
+vendor_id: lexmark
+name: W850 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:w850_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w850_firmware
+  confidence: auto

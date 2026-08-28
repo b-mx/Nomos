@@ -1,0 +1,10 @@
+id: oxygen-xml-editor
+vendor_id: sync
+name: Oxygen Xml Editor
+type: software
+tags: []
+cpe: cpe:2.3:a:sync:oxygen_xml_editor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oxygen_xml_editor
+  confidence: auto

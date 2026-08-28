@@ -1,0 +1,10 @@
+id: thinksmart-core-controller-kit-zoom-rooms-firmware
+vendor_id: lenovo
+name: 'Thinksmart Core & Controller Kit: Zoom Rooms Firmware'
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksmart_core_\&_controller_kit\:_zoom_rooms_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksmart_core_&_controller_kit:_zoom_rooms_firmware
+  confidence: auto

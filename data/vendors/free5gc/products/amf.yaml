@@ -1,0 +1,10 @@
+id: amf
+vendor_id: free5gc
+name: Amf
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:amf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amf
+  confidence: auto

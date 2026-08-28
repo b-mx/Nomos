@@ -1,0 +1,10 @@
+id: internet-security
+vendor_id: kaspersky
+name: Internet Security
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:internet_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet_security
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sw1dnc-ccbd2-b-firmware
+vendor_id: mitsubishielectric
+name: Sw1Dnc-Ccbd2-B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:sw1dnc\-ccbd2\-b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sw1dnc-ccbd2-b_firmware
+  confidence: auto

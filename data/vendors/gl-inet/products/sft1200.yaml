@@ -1,0 +1,10 @@
+id: sft1200
+vendor_id: gl-inet
+name: Sft1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:sft1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sft1200
+  confidence: auto

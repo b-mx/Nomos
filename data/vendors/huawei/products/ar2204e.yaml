@@ -1,0 +1,10 @@
+id: ar2204e
+vendor_id: huawei
+name: Ar2204E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar2204e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar2204e
+  confidence: auto

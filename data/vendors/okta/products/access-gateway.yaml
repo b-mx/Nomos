@@ -1,0 +1,10 @@
+id: access-gateway
+vendor_id: okta
+name: Access Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:okta:access_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_gateway
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vx-2u-certified-node-firmware
+vendor_id: lenovo
+name: Vx 2U Certified Node Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:vx_2u_certified_node_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx_2u_certified_node_firmware
+  confidence: auto

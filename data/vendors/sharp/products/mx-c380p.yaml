@@ -1,0 +1,10 @@
+id: mx-c380p
+vendor_id: sharp
+name: Mx-C380P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-c380p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-c380p
+  confidence: auto

@@ -1,0 +1,10 @@
+id: s540-15iwl-gtx-firmware
+vendor_id: lenovo
+name: S540-15Iwl Gtx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s540\-15iwl_gtx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s540-15iwl_gtx_firmware
+  confidence: auto

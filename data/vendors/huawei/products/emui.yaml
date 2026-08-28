@@ -1,0 +1,10 @@
+id: emui
+vendor_id: huawei
+name: Emui
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:emui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emui
+  confidence: auto

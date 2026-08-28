@@ -1,0 +1,10 @@
+id: synergy-480-gen10-compute-module-firmware
+vendor_id: hpe
+name: Synergy 480 Gen10 Compute Module Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:synergy_480_gen10_compute_module_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy_480_gen10_compute_module_firmware
+  confidence: auto

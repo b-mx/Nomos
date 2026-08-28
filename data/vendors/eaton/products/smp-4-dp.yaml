@@ -1,0 +1,10 @@
+id: smp-4-dp
+vendor_id: eaton
+name: Smp 4/Dp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:eaton:smp_4\/dp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smp_4/dp
+  confidence: auto

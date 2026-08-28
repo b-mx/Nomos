@@ -1,0 +1,10 @@
+id: designjet-z9-w3z71a
+vendor_id: hp
+name: Designjet Z9 W3Z71A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_z9_w3z71a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z9_w3z71a
+  confidence: auto

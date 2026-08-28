@@ -1,0 +1,10 @@
+id: breeze-platform
+vendor_id: avaya
+name: Breeze Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:breeze_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: breeze_platform
+  confidence: auto

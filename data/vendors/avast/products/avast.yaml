@@ -1,0 +1,10 @@
+id: avast
+vendor_id: avast
+name: Avast
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:avast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avast
+  confidence: auto

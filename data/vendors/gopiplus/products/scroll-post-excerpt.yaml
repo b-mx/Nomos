@@ -1,0 +1,10 @@
+id: scroll-post-excerpt
+vendor_id: gopiplus
+name: Scroll Post Excerpt
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:scroll_post_excerpt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scroll_post_excerpt
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aviotec-ip-starlight-8000
+vendor_id: bosch
+name: Aviotec Ip Starlight 8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:aviotec_ip_starlight_8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aviotec_ip_starlight_8000
+  confidence: auto

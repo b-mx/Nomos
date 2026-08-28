@@ -1,7 +1,6 @@
 id: adobe
 name: Adobe
-icon: logos:adobe-icon
 aliases:
 - source: cisa_kev
   value: Adobe
-  confidence: curated
+  confidence: auto

@@ -1,0 +1,10 @@
+id: woocommerce-payments
+vendor_id: automattic
+name: Woocommerce Payments
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:woocommerce_payments:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_payments
+  confidence: auto

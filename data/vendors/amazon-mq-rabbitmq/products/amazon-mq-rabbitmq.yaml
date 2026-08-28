@@ -1,0 +1,9 @@
+id: amazon-mq-rabbitmq
+vendor_id: amazon-mq-rabbitmq
+name: Amazon MQ for RabbitMQ
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: amazon-mq-rabbitmq
+  confidence: auto

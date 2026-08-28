@@ -1,0 +1,10 @@
+id: d3q21c
+vendor_id: hp
+name: D3Q21C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:d3q21c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d3q21c
+  confidence: auto

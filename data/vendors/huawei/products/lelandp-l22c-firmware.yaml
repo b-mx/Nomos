@@ -1,0 +1,10 @@
+id: lelandp-l22c-firmware
+vendor_id: huawei
+name: Lelandp-L22C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:lelandp\-l22c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lelandp-l22c_firmware
+  confidence: auto

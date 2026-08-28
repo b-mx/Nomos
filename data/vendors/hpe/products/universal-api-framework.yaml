@@ -1,0 +1,10 @@
+id: universal-api-framework
+vendor_id: hpe
+name: Universal Api Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:universal_api_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_api_framework
+  confidence: auto

@@ -1,0 +1,10 @@
+id: deskjet-2700-7fr48d
+vendor_id: hp
+name: Deskjet 2700 7Fr48D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_2700_7fr48d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_2700_7fr48d
+  confidence: auto

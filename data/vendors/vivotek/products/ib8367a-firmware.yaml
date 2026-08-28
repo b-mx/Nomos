@@ -1,0 +1,10 @@
+id: ib8367a-firmware
+vendor_id: vivotek
+name: Ib8367A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ib8367a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib8367a_firmware
+  confidence: auto

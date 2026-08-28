@@ -1,0 +1,10 @@
+id: 1ps55a
+vendor_id: hp
+name: 1Ps55A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:1ps55a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1ps55a
+  confidence: auto

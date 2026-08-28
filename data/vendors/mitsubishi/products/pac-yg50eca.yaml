@@ -1,0 +1,10 @@
+id: pac-yg50eca
+vendor_id: mitsubishi
+name: Pac-Yg50Eca
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:pac\-yg50eca:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pac-yg50eca
+  confidence: auto

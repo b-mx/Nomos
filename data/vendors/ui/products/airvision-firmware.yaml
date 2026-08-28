@@ -1,0 +1,10 @@
+id: airvision-firmware
+vendor_id: ui
+name: Airvision Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:airvision_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airvision_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hotpatch
+vendor_id: amazon
+name: Hotpatch
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:hotpatch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hotpatch
+  confidence: auto

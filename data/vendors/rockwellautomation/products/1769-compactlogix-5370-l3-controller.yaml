@@ -1,0 +1,10 @@
+id: 1769-compactlogix-5370-l3-controller
+vendor_id: rockwellautomation
+name: 1769 Compactlogix 5370 L3 Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:1769_compactlogix_5370_l3_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1769_compactlogix_5370_l3_controller
+  confidence: auto

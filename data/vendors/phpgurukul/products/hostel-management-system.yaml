@@ -1,0 +1,10 @@
+id: hostel-management-system
+vendor_id: phpgurukul
+name: Hostel Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:hostel_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hostel_management_system
+  confidence: auto

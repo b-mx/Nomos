@@ -1,9 +1,8 @@
 id: security-gateway
 vendor_id: check-point
 name: Security Gateway
-type: appliance
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: Security Gateway

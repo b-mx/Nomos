@@ -1,0 +1,10 @@
+id: sketchbook-pro
+vendor_id: autodesk
+name: Sketchbook Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:sketchbook_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sketchbook_pro
+  confidence: auto

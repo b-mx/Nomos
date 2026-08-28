@@ -1,0 +1,10 @@
+id: network-function-virtualization-director
+vendor_id: hp
+name: Network Function Virtualization Director
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:network_function_virtualization_director:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_function_virtualization_director
+  confidence: auto

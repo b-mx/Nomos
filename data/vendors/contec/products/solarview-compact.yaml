@@ -1,0 +1,10 @@
+id: solarview-compact
+vendor_id: contec
+name: Solarview Compact
+type: hardware
+tags: []
+cpe: cpe:2.3:h:contec:solarview_compact:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solarview_compact
+  confidence: auto

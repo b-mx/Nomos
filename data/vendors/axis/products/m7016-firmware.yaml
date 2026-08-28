@@ -1,0 +1,10 @@
+id: m7016-firmware
+vendor_id: axis
+name: M7016 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:axis:m7016_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m7016_firmware
+  confidence: auto

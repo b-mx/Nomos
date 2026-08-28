@@ -1,0 +1,10 @@
+id: wgr-500
+vendor_id: planet
+name: Wgr-500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:planet:wgr\-500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wgr-500
+  confidence: auto

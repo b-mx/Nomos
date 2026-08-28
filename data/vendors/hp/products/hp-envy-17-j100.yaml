@@ -1,0 +1,10 @@
+id: hp-envy-17-j100
+vendor_id: hp
+name: Hp Envy 17 J100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_envy_17_j100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_envy_17_j100
+  confidence: auto

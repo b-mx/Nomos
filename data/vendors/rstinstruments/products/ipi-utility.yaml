@@ -1,0 +1,10 @@
+id: ipi-utility
+vendor_id: rstinstruments
+name: Ipi Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:rstinstruments:ipi_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipi_utility
+  confidence: auto

@@ -1,0 +1,10 @@
+id: m2u75
+vendor_id: hp
+name: M2U75
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m2u75:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2u75
+  confidence: auto

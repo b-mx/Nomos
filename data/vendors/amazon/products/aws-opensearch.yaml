@@ -1,0 +1,10 @@
+id: aws-opensearch
+vendor_id: amazon
+name: Aws Opensearch
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_opensearch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_opensearch
+  confidence: auto

@@ -1,0 +1,10 @@
+id: itechclassifieds
+vendor_id: itechscripts
+name: Itechclassifieds
+type: software
+tags: []
+cpe: cpe:2.3:a:itechscripts:itechclassifieds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itechclassifieds
+  confidence: auto

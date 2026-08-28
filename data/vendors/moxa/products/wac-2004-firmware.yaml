@@ -1,0 +1,10 @@
+id: wac-2004-firmware
+vendor_id: moxa
+name: Wac-2004 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:wac\-2004_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wac-2004_firmware
+  confidence: auto

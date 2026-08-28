@@ -1,0 +1,10 @@
+id: plus-bus-ex-tcu-6900
+vendor_id: jtekt
+name: Plus Bus-Ex Tcu-6900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:plus_bus\-ex_tcu\-6900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plus_bus-ex_tcu-6900
+  confidence: auto

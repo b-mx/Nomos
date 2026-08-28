@@ -1,0 +1,10 @@
+id: welch-allyn-xscribe-cardiac-stress-testing-system
+vendor_id: baxter
+name: Welch Allyn Xscribe Cardiac Stress Testing System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baxter:welch_allyn_xscribe_cardiac_stress_testing_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: welch_allyn_xscribe_cardiac_stress_testing_system
+  confidence: auto

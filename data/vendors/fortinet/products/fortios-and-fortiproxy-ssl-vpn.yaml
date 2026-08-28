@@ -1,0 +1,9 @@
+id: fortios-and-fortiproxy-ssl-vpn
+vendor_id: fortinet
+name: FortiOS and FortiProxy SSL-VPN
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: FortiOS and FortiProxy SSL-VPN
+  confidence: auto

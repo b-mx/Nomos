@@ -1,0 +1,10 @@
+id: manager-proxy
+vendor_id: suse
+name: Manager Proxy
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:manager_proxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manager_proxy
+  confidence: auto

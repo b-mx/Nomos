@@ -1,0 +1,10 @@
+id: e1700
+vendor_id: linksys
+name: E1700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:e1700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e1700
+  confidence: auto

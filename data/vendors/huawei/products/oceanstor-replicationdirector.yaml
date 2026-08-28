@@ -1,0 +1,10 @@
+id: oceanstor-replicationdirector
+vendor_id: huawei
+name: Oceanstor Replicationdirector
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:oceanstor_replicationdirector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oceanstor_replicationdirector
+  confidence: auto

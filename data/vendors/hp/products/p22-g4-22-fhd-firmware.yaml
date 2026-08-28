@@ -1,0 +1,10 @@
+id: p22-g4-22-fhd-firmware
+vendor_id: hp
+name: P22 G4 22 Fhd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:p22_g4_22_fhd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p22_g4_22_fhd_firmware
+  confidence: auto

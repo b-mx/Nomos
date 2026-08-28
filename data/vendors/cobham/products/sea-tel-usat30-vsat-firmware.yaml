@@ -1,0 +1,10 @@
+id: sea-tel-usat30-vsat-firmware
+vendor_id: cobham
+name: Sea Tel Usat30 Vsat Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cobham:sea_tel_usat30_vsat_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sea_tel_usat30_vsat_firmware
+  confidence: auto

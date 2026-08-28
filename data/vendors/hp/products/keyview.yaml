@@ -1,0 +1,10 @@
+id: keyview
+vendor_id: hp
+name: Keyview
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:keyview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keyview
+  confidence: auto

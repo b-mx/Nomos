@@ -1,0 +1,10 @@
+id: ris-22
+vendor_id: secutech-project
+name: Ris-22
+type: hardware
+tags: []
+cpe: cpe:2.3:h:secutech_project:ris\-22:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ris-22
+  confidence: auto

@@ -1,0 +1,10 @@
+id: onvif-camera-event-driver-tool
+vendor_id: bosch
+name: ' Onvif Camera Event Driver Tool'
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:_onvif_camera_event_driver_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: _onvif_camera_event_driver_tool
+  confidence: auto

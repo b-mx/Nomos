@@ -1,0 +1,10 @@
+id: apollo-4200
+vendor_id: hp
+name: Apollo 4200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:apollo_4200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_4200
+  confidence: auto

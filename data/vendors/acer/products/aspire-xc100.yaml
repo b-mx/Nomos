@@ -1,0 +1,10 @@
+id: aspire-xc100
+vendor_id: acer
+name: Aspire Xc100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_xc100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_xc100
+  confidence: auto

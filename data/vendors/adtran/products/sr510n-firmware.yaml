@@ -1,0 +1,10 @@
+id: sr510n-firmware
+vendor_id: adtran
+name: Sr510N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:adtran:sr510n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sr510n_firmware
+  confidence: auto

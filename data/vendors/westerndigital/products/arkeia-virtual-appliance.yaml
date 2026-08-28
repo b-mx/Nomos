@@ -1,0 +1,10 @@
+id: arkeia-virtual-appliance
+vendor_id: westerndigital
+name: Arkeia Virtual Appliance
+type: software
+tags: []
+cpe: cpe:2.3:a:westerndigital:arkeia_virtual_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arkeia_virtual_appliance
+  confidence: auto

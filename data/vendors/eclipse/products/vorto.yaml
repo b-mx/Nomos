@@ -1,0 +1,10 @@
+id: vorto
+vendor_id: eclipse
+name: Vorto
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:vorto:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vorto
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mbe7000-firmware
+vendor_id: linksys
+name: Mbe7000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:mbe7000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbe7000_firmware
+  confidence: auto

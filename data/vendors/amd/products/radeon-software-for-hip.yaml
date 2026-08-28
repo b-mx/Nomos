@@ -1,0 +1,10 @@
+id: radeon-software-for-hip
+vendor_id: amd
+name: Radeon Software For Hip
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:radeon_software_for_hip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radeon_software_for_hip
+  confidence: auto

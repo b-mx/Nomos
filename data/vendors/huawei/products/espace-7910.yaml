@@ -1,0 +1,10 @@
+id: espace-7910
+vendor_id: huawei
+name: Espace 7910
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:espace_7910:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espace_7910
+  confidence: auto

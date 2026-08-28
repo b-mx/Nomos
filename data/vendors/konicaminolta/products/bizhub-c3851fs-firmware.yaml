@@ -1,0 +1,10 @@
+id: bizhub-c3851fs-firmware
+vendor_id: konicaminolta
+name: Bizhub C3851Fs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:konicaminolta:bizhub_c3851fs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c3851fs_firmware
+  confidence: auto

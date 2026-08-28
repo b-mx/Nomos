@@ -1,0 +1,10 @@
+id: ban-list
+vendor_id: mybb
+name: Ban List
+type: software
+tags: []
+cpe: cpe:2.3:a:mybb:ban_list:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ban_list
+  confidence: auto

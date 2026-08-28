@@ -1,0 +1,10 @@
+id: fusioncompute
+vendor_id: huawei
+name: Fusioncompute
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:fusioncompute:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusioncompute
+  confidence: auto

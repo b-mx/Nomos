@@ -1,0 +1,10 @@
+id: cloudflared
+vendor_id: cloudflare
+name: Cloudflared
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:cloudflared:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudflared
+  confidence: auto

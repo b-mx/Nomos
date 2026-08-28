@@ -1,0 +1,10 @@
+id: 4k-quad-firmware
+vendor_id: birddog
+name: 4K Quad Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:birddog:4k_quad_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4k_quad_firmware
+  confidence: auto

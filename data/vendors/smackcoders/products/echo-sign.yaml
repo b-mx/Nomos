@@ -1,0 +1,10 @@
+id: echo-sign
+vendor_id: smackcoders
+name: Echo Sign
+type: software
+tags: []
+cpe: cpe:2.3:a:smackcoders:echo_sign:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: echo_sign
+  confidence: auto

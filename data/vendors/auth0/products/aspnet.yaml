@@ -1,0 +1,10 @@
+id: aspnet
+vendor_id: auth0
+name: Aspnet
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:aspnet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspnet
+  confidence: auto

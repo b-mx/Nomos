@@ -1,0 +1,10 @@
+id: zonealarm-security-suite
+vendor_id: zonelabs
+name: Zonealarm Security Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:zonelabs:zonealarm_security_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zonealarm_security_suite
+  confidence: auto

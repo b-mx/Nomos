@@ -1,0 +1,10 @@
+id: tecal-ch121-firmware
+vendor_id: huawei
+name: Tecal Ch121 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:tecal_ch121_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_ch121_firmware
+  confidence: auto

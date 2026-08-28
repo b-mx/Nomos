@@ -1,0 +1,10 @@
+id: er5200g2
+vendor_id: h3c
+name: Er5200G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:er5200g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er5200g2
+  confidence: auto

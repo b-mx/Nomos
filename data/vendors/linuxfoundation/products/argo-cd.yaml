@@ -1,0 +1,10 @@
+id: argo-cd
+vendor_id: linuxfoundation
+name: Argo-Cd
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:argo\-cd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: argo-cd
+  confidence: auto

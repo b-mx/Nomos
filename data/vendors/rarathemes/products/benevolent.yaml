@@ -1,0 +1,10 @@
+id: benevolent
+vendor_id: rarathemes
+name: Benevolent
+type: software
+tags: []
+cpe: cpe:2.3:a:rarathemes:benevolent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: benevolent
+  confidence: auto

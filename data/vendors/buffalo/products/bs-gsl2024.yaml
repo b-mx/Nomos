@@ -1,0 +1,10 @@
+id: bs-gsl2024
+vendor_id: buffalo
+name: Bs-Gsl2024
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:bs\-gsl2024:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bs-gsl2024
+  confidence: auto

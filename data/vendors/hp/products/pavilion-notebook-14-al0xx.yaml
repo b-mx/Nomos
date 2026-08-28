@@ -1,0 +1,10 @@
+id: pavilion-notebook-14-al0xx
+vendor_id: hp
+name: Pavilion Notebook 14-Al0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_notebook_14\-al0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_notebook_14-al0xx
+  confidence: auto

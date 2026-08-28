@@ -1,0 +1,10 @@
+id: cf7300-firmware
+vendor_id: zavio
+name: Cf7300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zavio:cf7300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf7300_firmware
+  confidence: auto

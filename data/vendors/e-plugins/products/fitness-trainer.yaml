@@ -1,0 +1,10 @@
+id: fitness-trainer
+vendor_id: e-plugins
+name: Fitness Trainer
+type: software
+tags: []
+cpe: cpe:2.3:a:e\-plugins:fitness_trainer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fitness_trainer
+  confidence: auto

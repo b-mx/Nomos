@@ -1,0 +1,10 @@
+id: pcs-xg77c
+vendor_id: sony
+name: Pcs-Xg77C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:pcs\-xg77c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcs-xg77c
+  confidence: auto

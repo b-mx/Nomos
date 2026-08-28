@@ -1,0 +1,10 @@
+id: mhpss
+vendor_id: atisystem
+name: Mhpss
+type: hardware
+tags: []
+cpe: cpe:2.3:h:atisystem:mhpss:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mhpss
+  confidence: auto

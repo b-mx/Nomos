@@ -1,0 +1,10 @@
+id: libzypp
+vendor_id: opensuse
+name: Libzypp
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:libzypp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libzypp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ds2-dvtx-netvu-connected-firmware
+vendor_id: netvu
+name: Ds2 (Dvtx) Netvu Connected Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netvu:ds2_\(dvtx\)_netvu_connected_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds2_(dvtx)_netvu_connected_firmware
+  confidence: auto

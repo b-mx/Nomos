@@ -1,0 +1,10 @@
+id: uipath-resource-tool
+vendor_id: uipath
+name: Uipath/Resource-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/resource\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/resource-tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gn542vf-firmware
+vendor_id: skyworth
+name: Gn542Vf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:skyworth:gn542vf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gn542vf_firmware
+  confidence: auto

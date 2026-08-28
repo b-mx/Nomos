@@ -1,0 +1,10 @@
+id: my-display
+vendor_id: hp
+name: My Display
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:my_display:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_display
+  confidence: auto

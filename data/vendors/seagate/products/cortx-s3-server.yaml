@@ -1,0 +1,10 @@
+id: cortx-s3-server
+vendor_id: seagate
+name: Cortx-S3 Server
+type: software
+tags: []
+cpe: cpe:2.3:a:seagate:cortx\-s3_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cortx-s3_server
+  confidence: auto

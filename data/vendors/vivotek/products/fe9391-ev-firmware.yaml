@@ -1,0 +1,10 @@
+id: fe9391-ev-firmware
+vendor_id: vivotek
+name: Fe9391-Ev Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fe9391\-ev_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fe9391-ev_firmware
+  confidence: auto

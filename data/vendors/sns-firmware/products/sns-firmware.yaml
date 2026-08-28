@@ -1,0 +1,9 @@
+id: sns-firmware
+vendor_id: sns-firmware
+name: Stormshield Firmware
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: sns-firmware
+  confidence: auto

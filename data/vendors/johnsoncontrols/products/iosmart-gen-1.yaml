@@ -1,0 +1,10 @@
+id: iosmart-gen-1
+vendor_id: johnsoncontrols
+name: Iosmart Gen 1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:iosmart_gen_1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iosmart_gen_1
+  confidence: auto

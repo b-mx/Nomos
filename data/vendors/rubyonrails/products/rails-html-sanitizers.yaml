@@ -1,0 +1,10 @@
+id: rails-html-sanitizers
+vendor_id: rubyonrails
+name: Rails Html Sanitizers
+type: software
+tags: []
+cpe: cpe:2.3:a:rubyonrails:rails_html_sanitizers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rails_html_sanitizers
+  confidence: auto

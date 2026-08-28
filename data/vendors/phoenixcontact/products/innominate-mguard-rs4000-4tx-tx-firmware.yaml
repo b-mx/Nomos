@@ -1,0 +1,10 @@
+id: innominate-mguard-rs4000-4tx-tx-firmware
+vendor_id: phoenixcontact
+name: Innominate Mguard Rs4000 4Tx/Tx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:innominate_mguard_rs4000_4tx\/tx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: innominate_mguard_rs4000_4tx/tx_firmware
+  confidence: auto

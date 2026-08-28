@@ -1,0 +1,10 @@
+id: h12sst-ps
+vendor_id: supermicro
+name: H12Sst-Ps
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h12sst\-ps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12sst-ps
+  confidence: auto

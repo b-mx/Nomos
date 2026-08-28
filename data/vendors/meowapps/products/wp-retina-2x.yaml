@@ -1,0 +1,10 @@
+id: wp-retina-2x
+vendor_id: meowapps
+name: Wp Retina 2X
+type: software
+tags: []
+cpe: cpe:2.3:a:meowapps:wp_retina_2x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_retina_2x
+  confidence: auto

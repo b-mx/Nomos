@@ -1,0 +1,7 @@
+id: oppo
+name: Oppo
+cpe: cpe:2.3:*:oppo:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo
+  confidence: auto

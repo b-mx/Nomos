@@ -1,0 +1,10 @@
+id: human-metapneumovirus
+vendor_id: phpgurukul
+name: Human Metapneumovirus
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:human_metapneumovirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: human_metapneumovirus
+  confidence: auto

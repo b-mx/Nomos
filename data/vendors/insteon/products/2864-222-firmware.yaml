@@ -1,0 +1,10 @@
+id: 2864-222-firmware
+vendor_id: insteon
+name: 2864-222 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:insteon:2864\-222_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2864-222_firmware
+  confidence: auto

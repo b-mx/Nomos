@@ -1,0 +1,10 @@
+id: popup-with-fancybox
+vendor_id: gopiplus
+name: Popup With Fancybox
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:popup_with_fancybox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: popup_with_fancybox
+  confidence: auto

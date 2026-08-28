@@ -1,0 +1,10 @@
+id: javamail
+vendor_id: sun
+name: Javamail
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:javamail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: javamail
+  confidence: auto

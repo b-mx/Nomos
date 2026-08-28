@@ -1,0 +1,10 @@
+id: squawk-weather
+vendor_id: neilcochran
+name: Squawk/Weather
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/weather:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/weather
+  confidence: auto

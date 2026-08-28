@@ -1,0 +1,10 @@
+id: wzr-450hp-firmware
+vendor_id: buffalo
+name: Wzr-450Hp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wzr\-450hp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr-450hp_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mc-worx-suite
+vendor_id: mitsubishielectric
+name: Mc-Worx Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mc\-worx_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc-worx_suite
+  confidence: auto

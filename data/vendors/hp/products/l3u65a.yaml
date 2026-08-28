@@ -1,0 +1,10 @@
+id: l3u65a
+vendor_id: hp
+name: L3U65A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:l3u65a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l3u65a
+  confidence: auto

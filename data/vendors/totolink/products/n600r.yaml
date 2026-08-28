@@ -1,0 +1,10 @@
+id: n600r
+vendor_id: totolink
+name: N600R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:n600r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n600r
+  confidence: auto

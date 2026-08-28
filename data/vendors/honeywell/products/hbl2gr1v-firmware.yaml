@@ -1,0 +1,10 @@
+id: hbl2gr1v-firmware
+vendor_id: honeywell
+name: Hbl2Gr1V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hbl2gr1v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hbl2gr1v_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dragonfly-folio-g3
+vendor_id: hp
+name: Dragonfly Folio G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:dragonfly_folio_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dragonfly_folio_g3
+  confidence: auto

@@ -1,0 +1,10 @@
+id: system-configuration
+vendor_id: ni
+name: System Configuration
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:system_configuration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_configuration
+  confidence: auto

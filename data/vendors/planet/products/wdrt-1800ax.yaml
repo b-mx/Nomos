@@ -1,0 +1,10 @@
+id: wdrt-1800ax
+vendor_id: planet
+name: Wdrt-1800Ax
+type: hardware
+tags: []
+cpe: cpe:2.3:h:planet:wdrt\-1800ax:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wdrt-1800ax
+  confidence: auto

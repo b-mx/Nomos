@@ -1,0 +1,10 @@
+id: prodesk-400-g6-microtower-pc
+vendor_id: hp
+name: Prodesk 400 G6 Microtower Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_400_g6_microtower_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_400_g6_microtower_pc
+  confidence: auto

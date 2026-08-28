@@ -1,0 +1,10 @@
+id: wp-plugin-manager
+vendor_id: hasthemes
+name: Wp Plugin Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:wp_plugin_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_plugin_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: s7700
+vendor_id: huawei
+name: S7700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s7700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s7700
+  confidence: auto

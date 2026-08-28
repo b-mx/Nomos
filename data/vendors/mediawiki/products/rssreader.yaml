@@ -1,0 +1,10 @@
+id: rssreader
+vendor_id: mediawiki
+name: Rssreader
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:rssreader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rssreader
+  confidence: auto

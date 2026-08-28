@@ -1,0 +1,10 @@
+id: suse-linux-enterprise-server
+vendor_id: opensuse-project
+name: Suse Linux Enterprise Server
+type: os
+tags: []
+cpe: cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_enterprise_server
+  confidence: auto

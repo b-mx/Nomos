@@ -1,0 +1,10 @@
+id: cv81-wdm
+vendor_id: huawei
+name: Cv81-Wdm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cv81\-wdm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cv81-wdm
+  confidence: auto

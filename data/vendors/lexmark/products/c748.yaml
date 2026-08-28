@@ -1,0 +1,10 @@
+id: c748
+vendor_id: lexmark
+name: C748
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c748:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c748
+  confidence: auto

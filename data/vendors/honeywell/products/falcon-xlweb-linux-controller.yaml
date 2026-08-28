@@ -1,0 +1,10 @@
+id: falcon-xlweb-linux-controller
+vendor_id: honeywell
+name: Falcon Xlweb Linux Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:falcon_xlweb_linux_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: falcon_xlweb_linux_controller
+  confidence: auto

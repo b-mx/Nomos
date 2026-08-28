@@ -1,0 +1,10 @@
+id: oncommand-workflow-automation
+vendor_id: netapp
+name: Oncommand Workflow Automation
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:oncommand_workflow_automation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncommand_workflow_automation
+  confidence: auto

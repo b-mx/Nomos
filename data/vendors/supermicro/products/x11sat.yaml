@@ -1,0 +1,10 @@
+id: x11sat
+vendor_id: supermicro
+name: X11Sat
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11sat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sat
+  confidence: auto

@@ -1,0 +1,10 @@
+id: open-market-secure-webserver
+vendor_id: hp
+name: Open Market Secure Webserver
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:open_market_secure_webserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_market_secure_webserver
+  confidence: auto

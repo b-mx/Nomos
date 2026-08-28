@@ -1,0 +1,10 @@
+id: ip-micro-2000-firmware
+vendor_id: bosch
+name: Ip Micro 2000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:ip_micro_2000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_micro_2000_firmware
+  confidence: auto

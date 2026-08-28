@@ -1,0 +1,10 @@
+id: xbc-dn40su-firmware
+vendor_id: ls-electric
+name: Xbc-Dn40Su Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbc\-dn40su_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbc-dn40su_firmware
+  confidence: auto

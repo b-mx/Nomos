@@ -1,0 +1,10 @@
+id: mercury-loadrunner-agent
+vendor_id: hp
+name: Mercury Loadrunner Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:mercury_loadrunner_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mercury_loadrunner_agent
+  confidence: auto

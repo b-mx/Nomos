@@ -1,0 +1,10 @@
+id: xbf-tc04s-firmware
+vendor_id: ls-electric
+name: Xbf-Tc04S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbf\-tc04s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbf-tc04s_firmware
+  confidence: auto

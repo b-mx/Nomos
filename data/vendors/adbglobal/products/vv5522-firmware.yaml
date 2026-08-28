@@ -1,0 +1,10 @@
+id: vv5522-firmware
+vendor_id: adbglobal
+name: Vv5522 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:adbglobal:vv5522_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vv5522_firmware
+  confidence: auto

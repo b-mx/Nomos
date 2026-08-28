@@ -1,0 +1,10 @@
+id: siris-virtual
+vendor_id: datto
+name: Siris Virtual
+type: hardware
+tags: []
+cpe: cpe:2.3:h:datto:siris_virtual:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: siris_virtual
+  confidence: auto

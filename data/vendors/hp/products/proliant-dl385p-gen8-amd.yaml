@@ -1,0 +1,10 @@
+id: proliant-dl385p-gen8-amd
+vendor_id: hp
+name: Proliant Dl385P Gen8 (Amd)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_dl385p_gen8_\(amd\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_dl385p_gen8_(amd)
+  confidence: auto

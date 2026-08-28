@@ -1,0 +1,10 @@
+id: honor-view-10-firmware
+vendor_id: huawei
+name: Honor View 10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:honor_view_10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_view_10_firmware
+  confidence: auto

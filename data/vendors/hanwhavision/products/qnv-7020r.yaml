@@ -1,0 +1,10 @@
+id: qnv-7020r
+vendor_id: hanwhavision
+name: Qnv-7020R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:qnv\-7020r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnv-7020r
+  confidence: auto

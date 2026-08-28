@@ -1,0 +1,10 @@
+id: avira-security
+vendor_id: avira
+name: Avira Security
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:avira_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avira_security
+  confidence: auto

@@ -1,0 +1,10 @@
+id: smartliving-505-firmware
+vendor_id: inim
+name: Smartliving 505 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:inim:smartliving_505_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartliving_505_firmware
+  confidence: auto

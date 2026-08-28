@@ -1,0 +1,10 @@
+id: spring-advanced-message-queuing-protocol
+vendor_id: pivotal-software
+name: Spring Advanced Message Queuing Protocol
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:spring_advanced_message_queuing_protocol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spring_advanced_message_queuing_protocol
+  confidence: auto

@@ -1,0 +1,10 @@
+id: group-series
+vendor_id: polycom
+name: Group Series
+type: software
+tags: []
+cpe: cpe:2.3:a:polycom:group_series:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: group_series
+  confidence: auto

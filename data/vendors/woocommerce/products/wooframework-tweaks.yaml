@@ -1,0 +1,10 @@
+id: wooframework-tweaks
+vendor_id: woocommerce
+name: Wooframework Tweaks
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:wooframework_tweaks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wooframework_tweaks
+  confidence: auto

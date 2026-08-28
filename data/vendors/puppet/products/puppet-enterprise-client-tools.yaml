@@ -1,0 +1,10 @@
+id: puppet-enterprise-client-tools
+vendor_id: puppet
+name: Puppet Enterprise Client Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:puppet_enterprise_client_tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppet_enterprise_client_tools
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sdk-api
+vendor_id: htc
+name: Sdk Api
+type: software
+tags: []
+cpe: cpe:2.3:a:htc:sdk_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sdk_api
+  confidence: auto

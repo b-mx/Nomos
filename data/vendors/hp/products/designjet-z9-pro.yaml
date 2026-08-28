@@ -1,0 +1,10 @@
+id: designjet-z9-pro
+vendor_id: hp
+name: Designjet Z9+ Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_z9\+_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z9+_pro
+  confidence: auto

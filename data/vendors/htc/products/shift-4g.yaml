@@ -1,0 +1,10 @@
+id: shift-4g
+vendor_id: htc
+name: Shift 4G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:shift_4g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shift_4g
+  confidence: auto

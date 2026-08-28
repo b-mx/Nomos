@@ -1,0 +1,10 @@
+id: flexlogix-1794-l34-firmware
+vendor_id: rockwellautomation
+name: Flexlogix 1794-L34 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:flexlogix_1794\-l34_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexlogix_1794-l34_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rating
+vendor_id: bestwebsoft
+name: Rating
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:rating:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rating
+  confidence: auto

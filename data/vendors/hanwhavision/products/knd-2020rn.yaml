@@ -1,0 +1,10 @@
+id: knd-2020rn
+vendor_id: hanwhavision
+name: Knd-2020Rn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:knd\-2020rn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: knd-2020rn
+  confidence: auto

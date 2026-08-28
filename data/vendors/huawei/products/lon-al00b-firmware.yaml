@@ -1,0 +1,10 @@
+id: lon-al00b-firmware
+vendor_id: huawei
+name: Lon-Al00B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:lon\-al00b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lon-al00b_firmware
+  confidence: auto

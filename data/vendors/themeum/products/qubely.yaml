@@ -1,0 +1,10 @@
+id: qubely
+vendor_id: themeum
+name: Qubely
+type: software
+tags: []
+cpe: cpe:2.3:a:themeum:qubely:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qubely
+  confidence: auto

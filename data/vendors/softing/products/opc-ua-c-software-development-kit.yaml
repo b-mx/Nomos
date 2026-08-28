@@ -1,0 +1,10 @@
+id: opc-ua-c-software-development-kit
+vendor_id: softing
+name: Opc Ua C++ Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:softing:opc_ua_c\+\+_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opc_ua_c++_software_development_kit
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cloud-foundry-nfs-volume
+vendor_id: pivotal-software
+name: Cloud Foundry Nfs Volume
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:cloud_foundry_nfs_volume:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_nfs_volume
+  confidence: auto

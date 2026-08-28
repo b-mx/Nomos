@@ -1,0 +1,10 @@
+id: factorytalk-diagnostics
+vendor_id: rockwellautomation
+name: Factorytalk Diagnostics
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:factorytalk_diagnostics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_diagnostics
+  confidence: auto

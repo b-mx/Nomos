@@ -1,0 +1,10 @@
+id: uipath-tasks-tool
+vendor_id: uipath
+name: Uipath/Tasks-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/tasks\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/tasks-tool
+  confidence: auto

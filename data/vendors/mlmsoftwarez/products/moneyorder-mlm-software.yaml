@@ -1,0 +1,10 @@
+id: moneyorder-mlm-software
+vendor_id: mlmsoftwarez
+name: Moneyorder Mlm Software
+type: software
+tags: []
+cpe: cpe:2.3:a:mlmsoftwarez:moneyorder_mlm_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moneyorder_mlm_software
+  confidence: auto

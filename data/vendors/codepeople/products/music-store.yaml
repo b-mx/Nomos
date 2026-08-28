@@ -1,0 +1,10 @@
+id: music-store
+vendor_id: codepeople
+name: Music Store
+type: software
+tags: []
+cpe: cpe:2.3:a:codepeople:music_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: music_store
+  confidence: auto

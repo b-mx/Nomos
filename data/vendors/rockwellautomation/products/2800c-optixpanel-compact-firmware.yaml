@@ -1,0 +1,10 @@
+id: 2800c-optixpanel-compact-firmware
+vendor_id: rockwellautomation
+name: 2800C Optixpanel Compact Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:2800c_optixpanel_compact_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2800c_optixpanel_compact_firmware
+  confidence: auto

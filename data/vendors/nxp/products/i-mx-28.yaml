@@ -1,0 +1,10 @@
+id: i-mx-28
+vendor_id: nxp
+name: I.Mx 28
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:i\.mx_28:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_28
+  confidence: auto

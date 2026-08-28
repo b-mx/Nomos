@@ -1,0 +1,10 @@
+id: cx522
+vendor_id: lexmark
+name: Cx522
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx522:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx522
+  confidence: auto

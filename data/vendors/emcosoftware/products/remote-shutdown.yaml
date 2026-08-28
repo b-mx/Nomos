@@ -1,0 +1,10 @@
+id: remote-shutdown
+vendor_id: emcosoftware
+name: Remote Shutdown
+type: software
+tags: []
+cpe: cpe:2.3:a:emcosoftware:remote_shutdown:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_shutdown
+  confidence: auto

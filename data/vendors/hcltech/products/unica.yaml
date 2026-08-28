@@ -1,0 +1,10 @@
+id: unica
+vendor_id: hcltech
+name: Unica
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:unica:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unica
+  confidence: auto

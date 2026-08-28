@@ -1,0 +1,10 @@
+id: web-security
+vendor_id: forcepoint
+name: Web Security
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:web_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_security
+  confidence: auto

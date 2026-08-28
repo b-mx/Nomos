@@ -1,0 +1,10 @@
+id: e200e-b
+vendor_id: huawei
+name: E200E-B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e200e\-b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e200e-b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nvg443
+vendor_id: arris
+name: Nvg443
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arris:nvg443:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nvg443
+  confidence: auto

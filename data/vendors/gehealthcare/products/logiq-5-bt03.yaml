@@ -1,0 +1,10 @@
+id: logiq-5-bt03
+vendor_id: gehealthcare
+name: Logiq 5 Bt03
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:logiq_5_bt03:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logiq_5_bt03
+  confidence: auto

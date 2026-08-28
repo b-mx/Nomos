@@ -1,0 +1,10 @@
+id: web-server
+vendor_id: novell
+name: Web Server
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:web_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_server
+  confidence: auto

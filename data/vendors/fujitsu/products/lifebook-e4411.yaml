@@ -1,0 +1,10 @@
+id: lifebook-e4411
+vendor_id: fujitsu
+name: Lifebook E4411
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:lifebook_e4411:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lifebook_e4411
+  confidence: auto

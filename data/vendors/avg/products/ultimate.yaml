@@ -1,0 +1,10 @@
+id: ultimate
+vendor_id: avg
+name: Ultimate
+type: software
+tags: []
+cpe: cpe:2.3:a:avg:ultimate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultimate
+  confidence: auto

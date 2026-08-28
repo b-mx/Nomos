@@ -1,0 +1,10 @@
+id: xiaomi-cloud
+vendor_id: mi
+name: Xiaomi Cloud
+type: software
+tags: []
+cpe: cpe:2.3:a:mi:xiaomi_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaomi_cloud
+  confidence: auto

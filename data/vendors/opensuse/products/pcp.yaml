@@ -1,0 +1,10 @@
+id: pcp
+vendor_id: opensuse
+name: Pcp
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:pcp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcp
+  confidence: auto

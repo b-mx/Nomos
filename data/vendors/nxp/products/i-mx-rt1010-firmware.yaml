@@ -1,0 +1,10 @@
+id: i-mx-rt1010-firmware
+vendor_id: nxp
+name: I.Mx Rt1010 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:i\.mx_rt1010_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_rt1010_firmware
+  confidence: auto

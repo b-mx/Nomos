@@ -1,0 +1,10 @@
+id: courier-authlib
+vendor_id: debian
+name: Courier-Authlib
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:courier\-authlib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: courier-authlib
+  confidence: auto

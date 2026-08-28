@@ -1,0 +1,10 @@
+id: nj-pa3001-firmware
+vendor_id: omron
+name: Nj-Pa3001 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:nj\-pa3001_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nj-pa3001_firmware
+  confidence: auto

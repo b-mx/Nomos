@@ -1,0 +1,10 @@
+id: epc-world
+vendor_id: magzter
+name: Epc World
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:epc_world:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epc_world
+  confidence: auto

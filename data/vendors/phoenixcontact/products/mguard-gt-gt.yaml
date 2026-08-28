@@ -1,0 +1,10 @@
+id: mguard-gt-gt
+vendor_id: phoenixcontact
+name: Mguard Gt/Gt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:mguard_gt\/gt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_gt/gt
+  confidence: auto

@@ -1,0 +1,10 @@
+id: envy-17t-bw000
+vendor_id: hp
+name: Envy - 17T-Bw000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_\-_17t\-bw000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_-_17t-bw000
+  confidence: auto

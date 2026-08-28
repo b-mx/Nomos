@@ -1,0 +1,10 @@
+id: conduit-ap-mtcap2-l4e1
+vendor_id: multitech
+name: Conduit Ap Mtcap2-L4E1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:multitech:conduit_ap_mtcap2\-l4e1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: conduit_ap_mtcap2-l4e1
+  confidence: auto

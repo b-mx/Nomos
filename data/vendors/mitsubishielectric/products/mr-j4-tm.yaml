@@ -1,0 +1,10 @@
+id: mr-j4-tm
+vendor_id: mitsubishielectric
+name: Mr-J4-Tm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:mr\-j4\-tm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mr-j4-tm
+  confidence: auto

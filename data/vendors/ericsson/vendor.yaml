@@ -1,0 +1,7 @@
+id: ericsson
+name: Ericsson
+cpe: cpe:2.3:*:ericsson:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ericsson
+  confidence: auto

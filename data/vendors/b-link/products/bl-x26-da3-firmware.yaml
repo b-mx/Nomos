@@ -1,0 +1,10 @@
+id: bl-x26-da3-firmware
+vendor_id: b-link
+name: Bl-X26 Da3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:b\-link:bl\-x26_da3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-x26_da3_firmware
+  confidence: auto

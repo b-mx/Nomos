@@ -1,0 +1,10 @@
+id: gc-a22w-cw-firmware
+vendor_id: jtekt
+name: Gc-A22W-Cw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:gc\-a22w\-cw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gc-a22w-cw_firmware
+  confidence: auto

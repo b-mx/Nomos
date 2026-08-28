@@ -1,0 +1,10 @@
+id: pylon-anywhere
+vendor_id: sybase
+name: Pylon Anywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:sybase:pylon_anywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pylon_anywhere
+  confidence: auto

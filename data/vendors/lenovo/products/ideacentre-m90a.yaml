@@ -1,0 +1,10 @@
+id: ideacentre-m90a
+vendor_id: lenovo
+name: Ideacentre M90A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_m90a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_m90a
+  confidence: auto

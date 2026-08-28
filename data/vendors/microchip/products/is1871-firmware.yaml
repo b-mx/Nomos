@@ -1,0 +1,10 @@
+id: is1871-firmware
+vendor_id: microchip
+name: Is1871 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:is1871_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: is1871_firmware
+  confidence: auto

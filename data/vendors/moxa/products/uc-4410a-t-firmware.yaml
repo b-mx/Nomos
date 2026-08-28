@@ -1,0 +1,10 @@
+id: uc-4410a-t-firmware
+vendor_id: moxa
+name: Uc-4410A-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-4410a\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-4410a-t_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lefthand
+vendor_id: hp
+name: Lefthand
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:lefthand:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lefthand
+  confidence: auto

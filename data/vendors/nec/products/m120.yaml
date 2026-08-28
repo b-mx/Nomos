@@ -1,0 +1,10 @@
+id: m120
+vendor_id: nec
+name: M120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:m120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m120
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ceph
+vendor_id: linuxfoundation
+name: Ceph
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:ceph:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ceph
+  confidence: auto

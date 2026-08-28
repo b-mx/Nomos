@@ -1,0 +1,10 @@
+id: cyw20733a3kfb1g-firmware
+vendor_id: cypress
+name: Cyw20733A3Kfb1G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cypress:cyw20733a3kfb1g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyw20733a3kfb1g_firmware
+  confidence: auto

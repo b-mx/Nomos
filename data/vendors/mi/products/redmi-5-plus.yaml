@@ -1,0 +1,10 @@
+id: redmi-5-plus
+vendor_id: mi
+name: Redmi 5 Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:redmi_5_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_5_plus
+  confidence: auto

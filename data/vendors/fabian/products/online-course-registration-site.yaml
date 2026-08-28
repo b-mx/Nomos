@@ -1,0 +1,10 @@
+id: online-course-registration-site
+vendor_id: fabian
+name: Online Course Registration Site
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_course_registration_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_course_registration_site
+  confidence: auto

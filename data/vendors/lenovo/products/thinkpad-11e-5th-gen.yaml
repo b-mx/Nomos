@@ -1,0 +1,10 @@
+id: thinkpad-11e-5th-gen
+vendor_id: lenovo
+name: Thinkpad 11E 5Th Gen
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_11e_5th_gen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_11e_5th_gen
+  confidence: auto

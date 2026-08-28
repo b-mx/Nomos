@@ -1,0 +1,10 @@
+id: virtual-file-platform
+vendor_id: hitachi
+name: Virtual File Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:virtual_file_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_file_platform
+  confidence: auto

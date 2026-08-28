@@ -1,0 +1,10 @@
+id: digital-experience-platform
+vendor_id: ibexa
+name: Digital Experience Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:ibexa:digital_experience_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: digital_experience_platform
+  confidence: auto

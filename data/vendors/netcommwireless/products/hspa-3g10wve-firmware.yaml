@@ -1,0 +1,10 @@
+id: hspa-3g10wve-firmware
+vendor_id: netcommwireless
+name: Hspa 3G10Wve Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netcommwireless:hspa_3g10wve_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hspa_3g10wve_firmware
+  confidence: auto

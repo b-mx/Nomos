@@ -1,0 +1,10 @@
+id: spring-boot
+vendor_id: spring-boot
+name: Spring Boot
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: spring-boot
+  confidence: auto

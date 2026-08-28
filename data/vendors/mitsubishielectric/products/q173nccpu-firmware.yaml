@@ -1,0 +1,10 @@
+id: q173nccpu-firmware
+vendor_id: mitsubishielectric
+name: Q173Nccpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:q173nccpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q173nccpu_firmware
+  confidence: auto

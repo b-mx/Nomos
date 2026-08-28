@@ -1,0 +1,10 @@
+id: zbook-17-g2
+vendor_id: hp
+name: Zbook 17 G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_17_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_17_g2
+  confidence: auto

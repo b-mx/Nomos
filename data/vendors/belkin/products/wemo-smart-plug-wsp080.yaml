@@ -1,0 +1,10 @@
+id: wemo-smart-plug-wsp080
+vendor_id: belkin
+name: Wemo Smart Plug Wsp080
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belkin:wemo_smart_plug_wsp080:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wemo_smart_plug_wsp080
+  confidence: auto

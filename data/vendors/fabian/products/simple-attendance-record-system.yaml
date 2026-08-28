@@ -1,0 +1,10 @@
+id: simple-attendance-record-system
+vendor_id: fabian
+name: Simple Attendance Record System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_attendance_record_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_attendance_record_system
+  confidence: auto

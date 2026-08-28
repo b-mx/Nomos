@@ -1,0 +1,10 @@
+id: q03udvcpu-firmware
+vendor_id: mitsubishielectric
+name: Q03Udvcpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:q03udvcpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q03udvcpu_firmware
+  confidence: auto

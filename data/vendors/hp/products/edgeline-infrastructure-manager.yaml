@@ -1,0 +1,10 @@
+id: edgeline-infrastructure-manager
+vendor_id: hp
+name: Edgeline Infrastructure Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:edgeline_infrastructure_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgeline_infrastructure_manager
+  confidence: auto

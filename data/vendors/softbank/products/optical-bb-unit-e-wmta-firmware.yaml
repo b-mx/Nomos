@@ -1,0 +1,10 @@
+id: optical-bb-unit-e-wmta-firmware
+vendor_id: softbank
+name: Optical Bb Unit E-Wmta Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:softbank:optical_bb_unit_e\-wmta_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optical_bb_unit_e-wmta_firmware
+  confidence: auto

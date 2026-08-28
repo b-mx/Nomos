@@ -1,0 +1,10 @@
+id: py-evm
+vendor_id: ethereum
+name: Py-Evm
+type: software
+tags: []
+cpe: cpe:2.3:a:ethereum:py\-evm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: py-evm
+  confidence: auto

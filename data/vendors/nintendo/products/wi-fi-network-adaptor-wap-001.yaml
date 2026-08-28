@@ -1,0 +1,10 @@
+id: wi-fi-network-adaptor-wap-001
+vendor_id: nintendo
+name: Wi-Fi Network Adaptor Wap 001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nintendo:wi\-fi_network_adaptor_wap_001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wi-fi_network_adaptor_wap_001
+  confidence: auto

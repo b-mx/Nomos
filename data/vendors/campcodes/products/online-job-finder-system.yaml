@@ -1,0 +1,10 @@
+id: online-job-finder-system
+vendor_id: campcodes
+name: Online Job Finder System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:online_job_finder_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_job_finder_system
+  confidence: auto

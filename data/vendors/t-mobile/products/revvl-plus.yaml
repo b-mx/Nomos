@@ -1,0 +1,10 @@
+id: revvl-plus
+vendor_id: t-mobile
+name: Revvl Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:t\-mobile:revvl_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revvl_plus
+  confidence: auto

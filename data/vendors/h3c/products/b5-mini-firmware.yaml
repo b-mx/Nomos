@@ -1,0 +1,10 @@
+id: b5-mini-firmware
+vendor_id: h3c
+name: B5 Mini Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:b5_mini_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b5_mini_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: staging-extension
+vendor_id: mainwp
+name: Staging Extension
+type: software
+tags: []
+cpe: cpe:2.3:a:mainwp:staging_extension:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: staging_extension
+  confidence: auto

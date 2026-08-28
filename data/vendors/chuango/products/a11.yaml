@@ -1,0 +1,10 @@
+id: a11
+vendor_id: chuango
+name: A11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chuango:a11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a11
+  confidence: auto

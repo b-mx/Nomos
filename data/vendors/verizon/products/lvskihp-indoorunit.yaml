@@ -1,0 +1,10 @@
+id: lvskihp-indoorunit
+vendor_id: verizon
+name: Lvskihp Indoorunit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verizon:lvskihp_indoorunit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lvskihp_indoorunit
+  confidence: auto

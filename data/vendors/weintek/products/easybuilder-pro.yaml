@@ -1,0 +1,10 @@
+id: easybuilder-pro
+vendor_id: weintek
+name: Easybuilder Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:weintek:easybuilder_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easybuilder_pro
+  confidence: auto

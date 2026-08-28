@@ -1,0 +1,10 @@
+id: ryzen-threadripper-2990wx
+vendor_id: amd
+name: Ryzen Threadripper 2990Wx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_threadripper_2990wx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_threadripper_2990wx
+  confidence: auto

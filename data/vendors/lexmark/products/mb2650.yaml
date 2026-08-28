@@ -1,0 +1,10 @@
+id: mb2650
+vendor_id: lexmark
+name: Mb2650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mb2650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mb2650
+  confidence: auto

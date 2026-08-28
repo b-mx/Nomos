@@ -1,0 +1,10 @@
+id: cluster-glue
+vendor_id: clusterlabs
+name: Cluster Glue
+type: software
+tags: []
+cpe: cpe:2.3:a:clusterlabs:cluster_glue:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cluster_glue
+  confidence: auto

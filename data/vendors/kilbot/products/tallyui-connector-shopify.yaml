@@ -1,0 +1,10 @@
+id: tallyui-connector-shopify
+vendor_id: kilbot
+name: Tallyui/Connector-Shopify
+type: software
+tags: []
+cpe: cpe:2.3:a:kilbot:tallyui\/connector\-shopify:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tallyui/connector-shopify
+  confidence: auto

@@ -1,0 +1,10 @@
+id: backstage-plugin-scaffolder-backend
+vendor_id: linuxfoundation
+name: Backstage/Plugin-Scaffolder-Backend
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:backstage\/plugin\-scaffolder\-backend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backstage/plugin-scaffolder-backend
+  confidence: auto

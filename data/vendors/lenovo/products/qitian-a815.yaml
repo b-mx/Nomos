@@ -1,0 +1,10 @@
+id: qitian-a815
+vendor_id: lenovo
+name: Qitian A815
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:qitian_a815:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qitian_a815
+  confidence: auto

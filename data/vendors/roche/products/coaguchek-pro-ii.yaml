@@ -1,0 +1,10 @@
+id: coaguchek-pro-ii
+vendor_id: roche
+name: Coaguchek Pro Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:roche:coaguchek_pro_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coaguchek_pro_ii
+  confidence: auto

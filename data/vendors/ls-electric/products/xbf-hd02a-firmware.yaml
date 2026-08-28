@@ -1,0 +1,10 @@
+id: xbf-hd02a-firmware
+vendor_id: ls-electric
+name: Xbf-Hd02A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbf\-hd02a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbf-hd02a_firmware
+  confidence: auto

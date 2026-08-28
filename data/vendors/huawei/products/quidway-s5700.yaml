@@ -1,0 +1,10 @@
+id: quidway-s5700
+vendor_id: huawei
+name: Quidway S5700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:quidway_s5700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quidway_s5700
+  confidence: auto

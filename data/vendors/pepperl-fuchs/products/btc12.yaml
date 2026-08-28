@@ -1,0 +1,10 @@
+id: btc12
+vendor_id: pepperl-fuchs
+name: Btc12
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pepperl\-fuchs:btc12:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: btc12
+  confidence: auto

@@ -1,0 +1,10 @@
+id: accesspress-root
+vendor_id: accesspressthemes
+name: Accesspress Root
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:accesspress_root:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accesspress_root
+  confidence: auto

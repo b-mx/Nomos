@@ -1,0 +1,10 @@
+id: inncom-inncontrol
+vendor_id: honeywell
+name: Inncom Inncontrol
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:inncom_inncontrol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inncom_inncontrol
+  confidence: auto

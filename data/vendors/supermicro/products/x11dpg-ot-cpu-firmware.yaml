@@ -1,0 +1,10 @@
+id: x11dpg-ot-cpu-firmware
+vendor_id: supermicro
+name: X11Dpg-Ot-Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11dpg\-ot\-cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dpg-ot-cpu_firmware
+  confidence: auto

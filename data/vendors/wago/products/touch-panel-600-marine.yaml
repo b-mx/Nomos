@@ -1,0 +1,10 @@
+id: touch-panel-600-marine
+vendor_id: wago
+name: Touch Panel 600 Marine
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:touch_panel_600_marine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: touch_panel_600_marine
+  confidence: auto

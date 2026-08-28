@@ -1,0 +1,10 @@
+id: arris-dg950a-firmware
+vendor_id: commscope
+name: Arris Dg950A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:commscope:arris_dg950a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_dg950a_firmware
+  confidence: auto

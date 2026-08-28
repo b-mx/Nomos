@@ -1,0 +1,10 @@
+id: oslo-utils
+vendor_id: openstack
+name: Oslo.Utils
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:oslo\.utils:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oslo.utils
+  confidence: auto

@@ -1,0 +1,10 @@
+id: open-source
+vendor_id: digium
+name: Open Source
+type: software
+tags: []
+cpe: cpe:2.3:a:digium:open_source:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_source
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mc210
+vendor_id: bachmann
+name: Mc210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mc210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc210
+  confidence: auto

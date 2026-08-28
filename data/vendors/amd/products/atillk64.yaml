@@ -1,0 +1,10 @@
+id: atillk64
+vendor_id: amd
+name: Atillk64
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:atillk64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atillk64
+  confidence: auto

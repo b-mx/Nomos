@@ -1,0 +1,10 @@
+id: ip9165-lpc-i-cs-kit
+vendor_id: vivotek
+name: Ip9165-Lpc(I-Cs Kit)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ip9165\-lpc\(i\-cs_kit\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip9165-lpc(i-cs_kit)
+  confidence: auto

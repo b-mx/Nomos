@@ -1,0 +1,10 @@
+id: lenovo-e41-25
+vendor_id: lenovo
+name: Lenovo E41-25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:lenovo_e41\-25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_e41-25
+  confidence: auto

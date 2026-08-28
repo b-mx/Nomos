@@ -1,0 +1,10 @@
+id: se4037p1-redundant-h1-i-o-card-with-integrated-power-and-terminal-block
+vendor_id: emerson
+name: Se4037P1 Redundant H1 I/O Card With Integrated Power And Terminal Block
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:se4037p1_redundant_h1_i\/o_card_with_integrated_power_and_terminal_block:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se4037p1_redundant_h1_i/o_card_with_integrated_power_and_terminal_block
+  confidence: auto

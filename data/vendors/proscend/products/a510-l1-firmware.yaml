@@ -1,0 +1,10 @@
+id: a510-l1-firmware
+vendor_id: proscend
+name: A510-L1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:proscend:a510\-l1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a510-l1_firmware
+  confidence: auto

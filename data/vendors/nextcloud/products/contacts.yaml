@@ -1,0 +1,10 @@
+id: contacts
+vendor_id: nextcloud
+name: Contacts
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:contacts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contacts
+  confidence: auto

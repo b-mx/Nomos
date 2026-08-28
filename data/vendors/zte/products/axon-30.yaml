@@ -1,0 +1,10 @@
+id: axon-30
+vendor_id: zte
+name: Axon 30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:axon_30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axon_30
+  confidence: auto

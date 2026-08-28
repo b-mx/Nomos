@@ -1,0 +1,10 @@
+id: cifs-utils
+vendor_id: debian
+name: Cifs-Utils
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:cifs\-utils:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cifs-utils
+  confidence: auto

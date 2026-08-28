@@ -1,0 +1,10 @@
+id: m-c250fw
+vendor_id: ricoh
+name: M C250Fw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:m_c250fw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m_c250fw
+  confidence: auto

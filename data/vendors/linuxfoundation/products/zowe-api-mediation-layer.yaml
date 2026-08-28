@@ -1,0 +1,10 @@
+id: zowe-api-mediation-layer
+vendor_id: linuxfoundation
+name: Zowe Api Mediation Layer
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:zowe_api_mediation_layer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zowe_api_mediation_layer
+  confidence: auto

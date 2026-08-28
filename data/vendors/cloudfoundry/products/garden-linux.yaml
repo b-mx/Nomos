@@ -1,0 +1,10 @@
+id: garden-linux
+vendor_id: cloudfoundry
+name: Garden Linux
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:garden_linux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: garden_linux
+  confidence: auto

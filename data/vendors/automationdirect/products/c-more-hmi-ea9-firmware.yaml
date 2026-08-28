@@ -1,0 +1,10 @@
+id: c-more-hmi-ea9-firmware
+vendor_id: automationdirect
+name: C-More Hmi Ea9 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:c\-more_hmi_ea9_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c-more_hmi_ea9_firmware
+  confidence: auto

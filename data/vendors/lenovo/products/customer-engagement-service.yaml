@@ -1,0 +1,10 @@
+id: customer-engagement-service
+vendor_id: lenovo
+name: Customer Engagement Service
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:customer_engagement_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: customer_engagement_service
+  confidence: auto

@@ -1,0 +1,10 @@
+id: personal-firewall-ndis-filter
+vendor_id: eset
+name: Personal Firewall Ndis Filter
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:personal_firewall_ndis_filter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: personal_firewall_ndis_filter
+  confidence: auto

@@ -1,0 +1,10 @@
+id: student-grading-system
+vendor_id: oretnom23
+name: Student Grading System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:student_grading_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: student_grading_system
+  confidence: auto

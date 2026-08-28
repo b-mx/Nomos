@@ -1,0 +1,10 @@
+id: prismaflex-firmware
+vendor_id: baxter
+name: Prismaflex Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baxter:prismaflex_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prismaflex_firmware
+  confidence: auto

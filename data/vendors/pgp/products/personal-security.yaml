@@ -1,0 +1,10 @@
+id: personal-security
+vendor_id: pgp
+name: Personal Security
+type: software
+tags: []
+cpe: cpe:2.3:a:pgp:personal_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: personal_security
+  confidence: auto

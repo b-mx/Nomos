@@ -1,0 +1,10 @@
+id: elitedisplay-e230t-23-inch-touch
+vendor_id: hp
+name: Elitedisplay E230T 23-Inch Touch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitedisplay_e230t_23\-inch_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitedisplay_e230t_23-inch_touch
+  confidence: auto

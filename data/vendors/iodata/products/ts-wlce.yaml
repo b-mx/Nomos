@@ -1,0 +1,10 @@
+id: ts-wlce
+vendor_id: iodata
+name: Ts-Wlce
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:ts\-wlce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts-wlce
+  confidence: auto

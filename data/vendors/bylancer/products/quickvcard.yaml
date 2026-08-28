@@ -1,0 +1,10 @@
+id: quickvcard
+vendor_id: bylancer
+name: Quickvcard
+type: software
+tags: []
+cpe: cpe:2.3:a:bylancer:quickvcard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quickvcard
+  confidence: auto

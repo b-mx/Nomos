@@ -1,0 +1,10 @@
+id: fi9901ep
+vendor_id: foscam
+name: Fi9901Ep
+type: hardware
+tags: []
+cpe: cpe:2.3:h:foscam:fi9901ep:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fi9901ep
+  confidence: auto

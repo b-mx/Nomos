@@ -1,0 +1,9 @@
+id: smbv1
+vendor_id: microsoft
+name: SMBv1
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SMBv1
+  confidence: auto

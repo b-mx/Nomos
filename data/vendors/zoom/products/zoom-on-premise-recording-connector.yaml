@@ -1,0 +1,10 @@
+id: zoom-on-premise-recording-connector
+vendor_id: zoom
+name: Zoom On-Premise Recording Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:zoom_on\-premise_recording_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zoom_on-premise_recording_connector
+  confidence: auto

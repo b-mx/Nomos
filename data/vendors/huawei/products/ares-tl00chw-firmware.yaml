@@ -1,0 +1,10 @@
+id: ares-tl00chw-firmware
+vendor_id: huawei
+name: Ares-Tl00Chw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ares\-tl00chw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ares-tl00chw_firmware
+  confidence: auto

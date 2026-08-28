@@ -1,0 +1,10 @@
+id: m1033-w
+vendor_id: axis
+name: M1033-W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m1033\-w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m1033-w
+  confidence: auto

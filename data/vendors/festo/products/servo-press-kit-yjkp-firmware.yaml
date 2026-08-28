@@ -1,0 +1,10 @@
+id: servo-press-kit-yjkp-firmware
+vendor_id: festo
+name: Servo Press Kit Yjkp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:servo_press_kit_yjkp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: servo_press_kit_yjkp_firmware
+  confidence: auto

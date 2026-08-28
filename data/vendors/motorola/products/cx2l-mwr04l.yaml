@@ -1,0 +1,10 @@
+id: cx2l-mwr04l
+vendor_id: motorola
+name: Cx2L Mwr04L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:cx2l_mwr04l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx2l_mwr04l
+  confidence: auto

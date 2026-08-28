@@ -1,0 +1,10 @@
+id: ct50
+vendor_id: honeywell
+name: Ct50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:ct50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ct50
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nbr3000d-e
+vendor_id: ruijie
+name: Nbr3000D-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:nbr3000d\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbr3000d-e
+  confidence: auto

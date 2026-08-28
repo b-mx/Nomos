@@ -1,0 +1,10 @@
+id: cx-6300
+vendor_id: arubanetworks
+name: Cx 6300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:cx_6300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx_6300
+  confidence: auto

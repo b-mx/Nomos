@@ -1,0 +1,10 @@
+id: hci-compute-node-firmware
+vendor_id: netapp
+name: Hci Compute Node Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:hci_compute_node_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hci_compute_node_firmware
+  confidence: auto

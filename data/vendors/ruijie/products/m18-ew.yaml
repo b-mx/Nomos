@@ -1,0 +1,10 @@
+id: m18-ew
+vendor_id: ruijie
+name: M18-Ew
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:m18\-ew:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m18-ew
+  confidence: auto

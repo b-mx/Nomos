@@ -1,0 +1,10 @@
+id: jviews
+vendor_id: perforce
+name: Jviews
+type: software
+tags: []
+cpe: cpe:2.3:a:perforce:jviews:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jviews
+  confidence: auto

@@ -1,0 +1,9 @@
+id: directx-graphics-kernel-dxgkrnl
+vendor_id: microsoft
+name: DirectX Graphics Kernel (DXGKRNL)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: DirectX Graphics Kernel (DXGKRNL)
+  confidence: auto

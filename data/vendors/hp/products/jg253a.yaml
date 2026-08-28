@@ -1,0 +1,10 @@
+id: jg253a
+vendor_id: hp
+name: Jg253A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg253a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg253a
+  confidence: auto

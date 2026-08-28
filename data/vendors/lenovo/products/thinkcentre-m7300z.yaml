@@ -1,0 +1,10 @@
+id: thinkcentre-m7300z
+vendor_id: lenovo
+name: Thinkcentre M7300Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m7300z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m7300z
+  confidence: auto

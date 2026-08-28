@@ -1,0 +1,10 @@
+id: thinkpad-yoga-11e-4th-gen
+vendor_id: lenovo
+name: Thinkpad Yoga 11E 4Th Gen
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_yoga_11e_4th_gen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_yoga_11e_4th_gen
+  confidence: auto

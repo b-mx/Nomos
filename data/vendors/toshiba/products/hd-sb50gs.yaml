@@ -1,0 +1,10 @@
+id: hd-sb50gs
+vendor_id: toshiba
+name: Hd-Sb50Gs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshiba:hd\-sb50gs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hd-sb50gs
+  confidence: auto

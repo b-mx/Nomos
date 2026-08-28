@@ -1,0 +1,10 @@
+id: apollo-4520-chassis
+vendor_id: hpe
+name: Apollo 4520 Chassis
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:apollo_4520_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_4520_chassis
+  confidence: auto

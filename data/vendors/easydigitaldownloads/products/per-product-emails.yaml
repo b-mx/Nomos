@@ -1,0 +1,10 @@
+id: per-product-emails
+vendor_id: easydigitaldownloads
+name: Per Product Emails
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:per_product_emails:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: per_product_emails
+  confidence: auto

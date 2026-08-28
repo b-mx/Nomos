@@ -1,0 +1,10 @@
+id: ewon-cosy-ethernet
+vendor_id: hms-networks
+name: Ewon Cosy+ Ethernet
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hms\-networks:ewon_cosy\+_ethernet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ewon_cosy+_ethernet
+  confidence: auto

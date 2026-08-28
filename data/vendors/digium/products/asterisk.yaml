@@ -1,0 +1,10 @@
+id: asterisk
+vendor_id: digium
+name: Asterisk
+type: software
+tags: []
+cpe: cpe:2.3:a:digium:asterisk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asterisk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aterm-gb1200pe
+vendor_id: nec
+name: Aterm Gb1200Pe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_gb1200pe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_gb1200pe
+  confidence: auto

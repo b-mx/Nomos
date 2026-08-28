@@ -1,0 +1,10 @@
+id: scan-icm-updater
+vendor_id: epson
+name: Scan Icm Updater
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:scan_icm_updater:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scan_icm_updater
+  confidence: auto

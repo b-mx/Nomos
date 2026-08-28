@@ -1,0 +1,10 @@
+id: nvs001
+vendor_id: sricam
+name: Nvs001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sricam:nvs001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nvs001
+  confidence: auto

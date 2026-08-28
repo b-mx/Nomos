@@ -1,0 +1,10 @@
+id: sword
+vendor_id: ireadercity
+name: Sword
+type: software
+tags: []
+cpe: cpe:2.3:a:ireadercity:sword:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sword
+  confidence: auto

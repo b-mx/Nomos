@@ -1,0 +1,10 @@
+id: jc101a
+vendor_id: hp
+name: Jc101A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc101a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc101a
+  confidence: auto

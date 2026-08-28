@@ -1,0 +1,10 @@
+id: mguard-smart2
+vendor_id: phoenixcontact
+name: Mguard Smart2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:mguard_smart2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_smart2
+  confidence: auto

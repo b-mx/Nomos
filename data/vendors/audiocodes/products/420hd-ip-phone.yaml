@@ -1,0 +1,10 @@
+id: 420hd-ip-phone
+vendor_id: audiocodes
+name: 420Hd Ip Phone
+type: hardware
+tags: []
+cpe: cpe:2.3:h:audiocodes:420hd_ip_phone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 420hd_ip_phone
+  confidence: auto

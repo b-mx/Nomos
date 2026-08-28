@@ -1,0 +1,10 @@
+id: cfr-1004ea-firmware
+vendor_id: c-first
+name: Cfr-1004Ea Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:c\-first:cfr\-1004ea_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cfr-1004ea_firmware
+  confidence: auto

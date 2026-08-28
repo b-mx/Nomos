@@ -1,0 +1,10 @@
+id: c551
+vendor_id: sharp-nec-displays
+name: C551
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp\-nec\-displays:c551:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c551
+  confidence: auto

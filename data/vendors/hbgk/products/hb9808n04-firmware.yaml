@@ -1,0 +1,10 @@
+id: hb9808n04-firmware
+vendor_id: hbgk
+name: Hb9808N04 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb9808n04_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb9808n04_firmware
+  confidence: auto

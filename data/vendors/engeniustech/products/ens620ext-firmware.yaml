@@ -1,0 +1,10 @@
+id: ens620ext-firmware
+vendor_id: engeniustech
+name: Ens620Ext Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:engeniustech:ens620ext_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ens620ext_firmware
+  confidence: auto

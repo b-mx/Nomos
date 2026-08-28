@@ -1,0 +1,10 @@
+id: dpc3928sl-firmware
+vendor_id: technicolor
+name: Dpc3928Sl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:dpc3928sl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dpc3928sl_firmware
+  confidence: auto

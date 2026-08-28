@@ -1,0 +1,10 @@
+id: backstage-backend-common
+vendor_id: linuxfoundation
+name: Backstage Backend-Common
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:backstage_backend\-common:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backstage_backend-common
+  confidence: auto

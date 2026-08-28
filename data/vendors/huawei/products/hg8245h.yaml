@@ -1,0 +1,10 @@
+id: hg8245h
+vendor_id: huawei
+name: Hg8245H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hg8245h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg8245h
+  confidence: auto

@@ -1,0 +1,12 @@
+id: rocky-linux
+vendor_id: rocky
+name: Rocky Linux
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: rocky-linux
+  confidence: auto
+- source: nvd
+  value: rocky
+  confidence: auto

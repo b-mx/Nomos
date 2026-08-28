@@ -1,0 +1,10 @@
+id: geh-500
+vendor_id: silextechnology
+name: Geh-500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:silextechnology:geh\-500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: geh-500
+  confidence: auto

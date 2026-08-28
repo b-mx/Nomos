@@ -1,0 +1,10 @@
+id: woocommerce-bookings
+vendor_id: automattic
+name: Woocommerce Bookings
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:woocommerce_bookings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_bookings
+  confidence: auto

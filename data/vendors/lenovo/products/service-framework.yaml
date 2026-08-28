@@ -1,0 +1,10 @@
+id: service-framework
+vendor_id: lenovo
+name: Service Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:service_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_framework
+  confidence: auto

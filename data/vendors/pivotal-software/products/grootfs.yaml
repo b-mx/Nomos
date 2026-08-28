@@ -1,0 +1,10 @@
+id: grootfs
+vendor_id: pivotal-software
+name: Grootfs
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:grootfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: grootfs
+  confidence: auto

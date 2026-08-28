@@ -1,0 +1,10 @@
+id: sphere
+vendor_id: teradek
+name: Sphere
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teradek:sphere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sphere
+  confidence: auto

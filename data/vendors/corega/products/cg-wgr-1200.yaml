@@ -1,0 +1,10 @@
+id: cg-wgr-1200
+vendor_id: corega
+name: Cg-Wgr 1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corega:cg\-wgr_1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cg-wgr_1200
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cpo-content-types
+vendor_id: wpchill
+name: Cpo Content Types
+type: software
+tags: []
+cpe: cpe:2.3:a:wpchill:cpo_content_types:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpo_content_types
+  confidence: auto

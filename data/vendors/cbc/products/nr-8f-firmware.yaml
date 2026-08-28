@@ -1,0 +1,10 @@
+id: nr-8f-firmware
+vendor_id: cbc
+name: Nr-8F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cbc:nr\-8f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr-8f_firmware
+  confidence: auto

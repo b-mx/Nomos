@@ -1,0 +1,10 @@
+id: mx011anm-firmware
+vendor_id: motorola
+name: Mx011Anm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:mx011anm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx011anm_firmware
+  confidence: auto

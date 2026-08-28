@@ -1,0 +1,10 @@
+id: surf-soho-firmware
+vendor_id: peplink
+name: Surf Soho Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:surf_soho_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: surf_soho_firmware
+  confidence: auto

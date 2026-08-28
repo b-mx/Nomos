@@ -1,0 +1,10 @@
+id: gnome-autoar
+vendor_id: gnome
+name: Gnome-Autoar
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-autoar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-autoar
+  confidence: auto

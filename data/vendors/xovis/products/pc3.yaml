@@ -1,0 +1,10 @@
+id: pc3
+vendor_id: xovis
+name: Pc3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xovis:pc3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc3
+  confidence: auto

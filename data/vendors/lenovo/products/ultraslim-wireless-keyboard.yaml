@@ -1,0 +1,10 @@
+id: ultraslim-wireless-keyboard
+vendor_id: lenovo
+name: Ultraslim Wireless Keyboard
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ultraslim_wireless_keyboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultraslim_wireless_keyboard
+  confidence: auto

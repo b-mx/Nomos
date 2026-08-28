@@ -1,0 +1,10 @@
+id: tro610
+vendor_id: hitachienergy
+name: Tro610
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:tro610:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tro610
+  confidence: auto

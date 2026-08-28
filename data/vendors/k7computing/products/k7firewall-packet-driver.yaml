@@ -1,0 +1,10 @@
+id: k7firewall-packet-driver
+vendor_id: k7computing
+name: K7Firewall Packet Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:k7computing:k7firewall_packet_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7firewall_packet_driver
+  confidence: auto

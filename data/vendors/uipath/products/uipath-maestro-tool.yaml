@@ -1,0 +1,10 @@
+id: uipath-maestro-tool
+vendor_id: uipath
+name: Uipath/Maestro-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/maestro\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/maestro-tool
+  confidence: auto

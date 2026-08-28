@@ -1,0 +1,10 @@
+id: woo-hoo
+vendor_id: axiomthemes
+name: Woo Hoo
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:woo_hoo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woo_hoo
+  confidence: auto

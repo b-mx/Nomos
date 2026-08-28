@@ -1,0 +1,10 @@
+id: authorize-net
+vendor_id: ithemes
+name: Authorize.Net
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:authorize\.net:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: authorize.net
+  confidence: auto

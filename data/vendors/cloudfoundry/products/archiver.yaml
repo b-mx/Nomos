@@ -1,0 +1,10 @@
+id: archiver
+vendor_id: cloudfoundry
+name: Archiver
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:archiver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: archiver
+  confidence: auto

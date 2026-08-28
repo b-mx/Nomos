@@ -1,0 +1,10 @@
+id: m6-firmware
+vendor_id: huawei
+name: M6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:m6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m6_firmware
+  confidence: auto

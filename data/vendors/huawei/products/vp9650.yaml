@@ -1,0 +1,10 @@
+id: vp9650
+vendor_id: huawei
+name: Vp9650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:vp9650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vp9650
+  confidence: auto

@@ -1,0 +1,10 @@
+id: glibc
+vendor_id: gentoo
+name: Glibc
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:glibc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: glibc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: giga-plus
+vendor_id: gotrango
+name: Giga Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gotrango:giga_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: giga_plus
+  confidence: auto

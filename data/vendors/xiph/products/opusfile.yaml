@@ -1,0 +1,10 @@
+id: opusfile
+vendor_id: xiph
+name: Opusfile
+type: software
+tags: []
+cpe: cpe:2.3:a:xiph:opusfile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opusfile
+  confidence: auto

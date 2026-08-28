@@ -1,0 +1,10 @@
+id: block-load
+vendor_id: carrier
+name: Block Load
+type: software
+tags: []
+cpe: cpe:2.3:a:carrier:block_load:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: block_load
+  confidence: auto

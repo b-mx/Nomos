@@ -1,0 +1,10 @@
+id: balance-30-lte
+vendor_id: peplink
+name: Balance 30 Lte
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:balance_30_lte:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: balance_30_lte
+  confidence: auto

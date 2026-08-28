@@ -1,0 +1,10 @@
+id: thinkbook-15p-imp-firmware
+vendor_id: lenovo
+name: Thinkbook 15P Imp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkbook_15p_imp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_15p_imp_firmware
+  confidence: auto

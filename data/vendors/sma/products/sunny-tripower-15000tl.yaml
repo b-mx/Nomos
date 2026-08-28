@@ -1,0 +1,10 @@
+id: sunny-tripower-15000tl
+vendor_id: sma
+name: Sunny Tripower 15000Tl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sma:sunny_tripower_15000tl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_tripower_15000tl
+  confidence: auto

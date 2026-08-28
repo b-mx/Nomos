@@ -1,0 +1,10 @@
+id: esight
+vendor_id: huawei
+name: Esight
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:esight:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esight
+  confidence: auto

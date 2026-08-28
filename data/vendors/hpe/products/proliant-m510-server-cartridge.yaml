@@ -1,0 +1,10 @@
+id: proliant-m510-server-cartridge
+vendor_id: hpe
+name: Proliant M510 Server Cartridge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_m510_server_cartridge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_m510_server_cartridge
+  confidence: auto

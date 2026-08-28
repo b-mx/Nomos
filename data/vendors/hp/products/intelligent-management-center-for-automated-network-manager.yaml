@@ -1,0 +1,10 @@
+id: intelligent-management-center-for-automated-network-manager
+vendor_id: hp
+name: Intelligent Management Center For Automated Network Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:intelligent_management_center_for_automated_network_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_management_center_for_automated_network_manager
+  confidence: auto

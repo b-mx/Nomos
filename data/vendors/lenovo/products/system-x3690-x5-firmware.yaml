@@ -1,0 +1,10 @@
+id: system-x3690-x5-firmware
+vendor_id: lenovo
+name: System X3690 X5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:system_x3690_x5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_x3690_x5_firmware
+  confidence: auto

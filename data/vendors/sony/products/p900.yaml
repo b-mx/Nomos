@@ -1,0 +1,10 @@
+id: p900
+vendor_id: sony
+name: P900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:p900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p900
+  confidence: auto

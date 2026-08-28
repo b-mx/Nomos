@@ -1,0 +1,10 @@
+id: officeconnect-1810-24g-switch
+vendor_id: hp
+name: Officeconnect 1810-24G Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officeconnect_1810\-24g_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officeconnect_1810-24g_switch
+  confidence: auto

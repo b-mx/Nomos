@@ -1,0 +1,10 @@
+id: d75e
+vendor_id: honeywell
+name: D75E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:d75e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d75e
+  confidence: auto

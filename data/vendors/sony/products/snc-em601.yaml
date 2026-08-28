@@ -1,0 +1,10 @@
+id: snc-em601
+vendor_id: sony
+name: Snc-Em601
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-em601:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-em601
+  confidence: auto

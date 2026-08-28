@@ -1,0 +1,10 @@
+id: q26udehcpu-firmware
+vendor_id: mitsubishielectric
+name: Q26Udehcpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:q26udehcpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q26udehcpu_firmware
+  confidence: auto

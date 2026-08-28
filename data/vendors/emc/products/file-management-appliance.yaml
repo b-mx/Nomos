@@ -1,0 +1,10 @@
+id: file-management-appliance
+vendor_id: emc
+name: File Management Appliance
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emc:file_management_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: file_management_appliance
+  confidence: auto

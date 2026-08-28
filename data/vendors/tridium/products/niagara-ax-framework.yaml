@@ -1,0 +1,10 @@
+id: niagara-ax-framework
+vendor_id: tridium
+name: Niagara Ax Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:tridium:niagara_ax_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: niagara_ax_framework
+  confidence: auto

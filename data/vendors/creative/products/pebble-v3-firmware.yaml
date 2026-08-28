@@ -1,0 +1,10 @@
+id: pebble-v3-firmware
+vendor_id: creative
+name: Pebble V3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:creative:pebble_v3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pebble_v3_firmware
+  confidence: auto

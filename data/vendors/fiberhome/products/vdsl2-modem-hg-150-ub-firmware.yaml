@@ -1,0 +1,10 @@
+id: vdsl2-modem-hg-150-ub-firmware
+vendor_id: fiberhome
+name: Vdsl2 Modem Hg 150-Ub Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fiberhome:vdsl2_modem_hg_150\-ub_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vdsl2_modem_hg_150-ub_firmware
+  confidence: auto

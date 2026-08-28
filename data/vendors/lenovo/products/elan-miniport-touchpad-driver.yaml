@@ -1,0 +1,10 @@
+id: elan-miniport-touchpad-driver
+vendor_id: lenovo
+name: Elan Miniport Touchpad Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:elan_miniport_touchpad_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elan_miniport_touchpad_driver
+  confidence: auto

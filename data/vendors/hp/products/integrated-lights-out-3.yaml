@@ -1,0 +1,10 @@
+id: integrated-lights-out-3
+vendor_id: hp
+name: Integrated Lights-Out 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:integrated_lights\-out_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_lights-out_3
+  confidence: auto

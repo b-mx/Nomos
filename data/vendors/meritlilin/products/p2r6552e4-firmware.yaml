@@ -1,0 +1,10 @@
+id: p2r6552e4-firmware
+vendor_id: meritlilin
+name: P2R6552E4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meritlilin:p2r6552e4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p2r6552e4_firmware
+  confidence: auto

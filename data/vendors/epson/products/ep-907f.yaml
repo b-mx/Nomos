@@ -1,0 +1,10 @@
+id: ep-907f
+vendor_id: epson
+name: Ep-907F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ep\-907f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep-907f
+  confidence: auto

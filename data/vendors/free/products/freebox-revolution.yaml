@@ -1,0 +1,10 @@
+id: freebox-revolution
+vendor_id: free
+name: Freebox Revolution
+type: hardware
+tags: []
+cpe: cpe:2.3:h:free:freebox_revolution:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freebox_revolution
+  confidence: auto

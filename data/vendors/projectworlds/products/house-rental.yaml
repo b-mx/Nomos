@@ -1,0 +1,10 @@
+id: house-rental
+vendor_id: projectworlds
+name: House Rental
+type: software
+tags: []
+cpe: cpe:2.3:a:projectworlds:house_rental:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: house_rental
+  confidence: auto

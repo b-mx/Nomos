@@ -1,0 +1,10 @@
+id: computer-book-store
+vendor_id: carmelo
+name: Computer Book Store
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:computer_book_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: computer_book_store
+  confidence: auto

@@ -1,0 +1,10 @@
+id: v55t-15api
+vendor_id: lenovo
+name: V55T-15Api
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v55t\-15api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v55t-15api
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tat-70432n-firmware
+vendor_id: tonnet
+name: Tat-70432N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tonnet:tat\-70432n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tat-70432n_firmware
+  confidence: auto

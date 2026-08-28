@@ -1,0 +1,10 @@
+id: maven
+vendor_id: gradle
+name: Maven
+type: software
+tags: []
+cpe: cpe:2.3:a:gradle:maven:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maven
+  confidence: auto

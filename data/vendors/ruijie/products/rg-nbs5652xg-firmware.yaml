@@ -1,0 +1,10 @@
+id: rg-nbs5652xg-firmware
+vendor_id: ruijie
+name: Rg-Nbs5652Xg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-nbs5652xg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-nbs5652xg_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hd-ma10ts
+vendor_id: toshiba
+name: Hd-Ma10Ts
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshiba:hd\-ma10ts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hd-ma10ts
+  confidence: auto

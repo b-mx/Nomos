@@ -1,0 +1,10 @@
+id: lemur
+vendor_id: netflix
+name: Lemur
+type: software
+tags: []
+cpe: cpe:2.3:a:netflix:lemur:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lemur
+  confidence: auto

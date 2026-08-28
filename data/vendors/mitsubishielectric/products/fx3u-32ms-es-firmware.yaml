@@ -1,0 +1,10 @@
+id: fx3u-32ms-es-firmware
+vendor_id: mitsubishielectric
+name: Fx3U-32Ms/Es Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3u\-32ms\/es_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3u-32ms/es_firmware
+  confidence: auto

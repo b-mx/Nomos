@@ -1,0 +1,10 @@
+id: ir2206if-firmware
+vendor_id: canon
+name: Ir2206If Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:ir2206if_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ir2206if_firmware
+  confidence: auto

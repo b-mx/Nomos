@@ -1,0 +1,10 @@
+id: syracuse
+vendor_id: sage
+name: Syracuse
+type: software
+tags: []
+cpe: cpe:2.3:a:sage:syracuse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: syracuse
+  confidence: auto

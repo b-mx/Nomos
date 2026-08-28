@@ -1,0 +1,10 @@
+id: ts5600d1206-firmware
+vendor_id: buffalo
+name: Ts5600D1206 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:ts5600d1206_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts5600d1206_firmware
+  confidence: auto

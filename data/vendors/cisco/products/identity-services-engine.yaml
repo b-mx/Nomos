@@ -2,8 +2,7 @@ id: identity-services-engine
 vendor_id: cisco
 name: Identity Services Engine
 type: software
-tags:
-- identity-access-management
+tags: []
 aliases:
 - source: cisa_kev
   value: Identity Services Engine

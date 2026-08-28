@@ -1,0 +1,10 @@
+id: bizhub-c4000i
+vendor_id: konicaminolta
+name: Bizhub C4000I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_c4000i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c4000i
+  confidence: auto

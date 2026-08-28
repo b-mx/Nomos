@@ -1,0 +1,10 @@
+id: apollo-4200-gen9-server
+vendor_id: hp
+name: Apollo 4200 Gen9 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:apollo_4200_gen9_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_4200_gen9_server
+  confidence: auto

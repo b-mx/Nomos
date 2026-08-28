@@ -1,0 +1,10 @@
+id: manufacturing-execution-system
+vendor_id: aveva
+name: Manufacturing Execution System
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:manufacturing_execution_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manufacturing_execution_system
+  confidence: auto

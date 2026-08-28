@@ -1,0 +1,10 @@
+id: hed3pr3
+vendor_id: honeywell
+name: Hed3Pr3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hed3pr3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hed3pr3
+  confidence: auto

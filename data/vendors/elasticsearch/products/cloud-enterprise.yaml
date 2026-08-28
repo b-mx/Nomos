@@ -1,0 +1,10 @@
+id: cloud-enterprise
+vendor_id: elasticsearch
+name: Cloud Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:elasticsearch:cloud_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_enterprise
+  confidence: auto

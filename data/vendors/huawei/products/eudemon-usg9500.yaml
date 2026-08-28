@@ -1,0 +1,10 @@
+id: eudemon-usg9500
+vendor_id: huawei
+name: Eudemon Usg9500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:eudemon_usg9500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eudemon_usg9500
+  confidence: auto

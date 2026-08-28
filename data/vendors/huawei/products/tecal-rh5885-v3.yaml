@@ -1,0 +1,10 @@
+id: tecal-rh5885-v3
+vendor_id: huawei
+name: Tecal Rh5885 V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tecal_rh5885_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_rh5885_v3
+  confidence: auto

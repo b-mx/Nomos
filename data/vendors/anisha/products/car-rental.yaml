@@ -1,0 +1,10 @@
+id: car-rental
+vendor_id: anisha
+name: Car Rental
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:car_rental:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: car_rental
+  confidence: auto

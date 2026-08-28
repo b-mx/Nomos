@@ -1,0 +1,10 @@
+id: dt2055b
+vendor_id: rstinstruments
+name: Dt2055B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:dt2055b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt2055b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rh2288-v3-firmware
+vendor_id: huawei
+name: Rh2288 V3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:rh2288_v3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh2288_v3_firmware
+  confidence: auto

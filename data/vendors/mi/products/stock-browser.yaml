@@ -1,0 +1,10 @@
+id: stock-browser
+vendor_id: mi
+name: Stock Browser
+type: software
+tags: []
+cpe: cpe:2.3:a:mi:stock_browser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stock_browser
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fsm-2500
+vendor_id: bosch
+name: Fsm-2500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:fsm\-2500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fsm-2500
+  confidence: auto

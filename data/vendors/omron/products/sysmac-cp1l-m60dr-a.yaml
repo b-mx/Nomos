@@ -1,0 +1,10 @@
+id: sysmac-cp1l-m60dr-a
+vendor_id: omron
+name: Sysmac Cp1L-M60Dr-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cp1l\-m60dr\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cp1l-m60dr-a
+  confidence: auto

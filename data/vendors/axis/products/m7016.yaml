@@ -1,0 +1,10 @@
+id: m7016
+vendor_id: axis
+name: M7016
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m7016:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m7016
+  confidence: auto

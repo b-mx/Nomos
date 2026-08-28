@@ -1,0 +1,10 @@
+id: bluexp
+vendor_id: netapp
+name: Bluexp
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:bluexp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bluexp
+  confidence: auto

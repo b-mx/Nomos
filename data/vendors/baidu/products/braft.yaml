@@ -1,0 +1,10 @@
+id: braft
+vendor_id: baidu
+name: Braft
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:braft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: braft
+  confidence: auto

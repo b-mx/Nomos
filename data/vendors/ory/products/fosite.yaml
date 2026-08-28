@@ -1,0 +1,10 @@
+id: fosite
+vendor_id: ory
+name: Fosite
+type: software
+tags: []
+cpe: cpe:2.3:a:ory:fosite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fosite
+  confidence: auto

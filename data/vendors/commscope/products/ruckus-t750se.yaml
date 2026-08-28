@@ -1,0 +1,10 @@
+id: ruckus-t750se
+vendor_id: commscope
+name: Ruckus T750Se
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:ruckus_t750se:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_t750se
+  confidence: auto

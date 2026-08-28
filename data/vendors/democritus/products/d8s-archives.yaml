@@ -1,0 +1,10 @@
+id: d8s-archives
+vendor_id: democritus
+name: D8S-Archives
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-archives:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-archives
+  confidence: auto

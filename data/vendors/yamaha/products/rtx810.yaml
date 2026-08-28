@@ -1,0 +1,10 @@
+id: rtx810
+vendor_id: yamaha
+name: Rtx810
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:rtx810:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtx810
+  confidence: auto

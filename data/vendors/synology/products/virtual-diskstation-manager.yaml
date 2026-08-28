@@ -1,0 +1,10 @@
+id: virtual-diskstation-manager
+vendor_id: synology
+name: Virtual Diskstation Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:virtual_diskstation_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_diskstation_manager
+  confidence: auto

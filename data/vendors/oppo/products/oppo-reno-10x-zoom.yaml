@@ -1,0 +1,10 @@
+id: oppo-reno-10x-zoom
+vendor_id: oppo
+name: Oppo Reno 10X Zoom
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_reno_10x_zoom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_reno_10x_zoom
+  confidence: auto

@@ -1,0 +1,13 @@
+id: hashicorp-packer
+vendor_id: hashicorp
+name: Hashicorp Packer
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:packer:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: hashicorp-packer
+  confidence: auto
+- source: nvd
+  value: packer
+  confidence: auto

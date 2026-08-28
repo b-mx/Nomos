@@ -1,0 +1,10 @@
+id: mc3326-firmware
+vendor_id: lexmark
+name: Mc3326 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:mc3326_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc3326_firmware
+  confidence: auto

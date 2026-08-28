@@ -1,0 +1,10 @@
+id: storeonce-5200
+vendor_id: hpe
+name: Storeonce 5200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:storeonce_5200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_5200
+  confidence: auto

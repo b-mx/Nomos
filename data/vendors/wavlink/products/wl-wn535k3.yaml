@@ -1,0 +1,10 @@
+id: wl-wn535k3
+vendor_id: wavlink
+name: Wl-Wn535K3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wavlink:wl\-wn535k3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-wn535k3
+  confidence: auto

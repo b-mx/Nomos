@@ -1,0 +1,10 @@
+id: pi-to-ocs
+vendor_id: osisoft
+name: Pi To Ocs
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_to_ocs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_to_ocs
+  confidence: auto

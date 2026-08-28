@@ -1,0 +1,10 @@
+id: eudemon1000e-u
+vendor_id: huawei
+name: Eudemon1000E-U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:eudemon1000e\-u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eudemon1000e-u
+  confidence: auto

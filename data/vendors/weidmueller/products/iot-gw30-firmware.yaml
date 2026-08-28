@@ -1,0 +1,10 @@
+id: iot-gw30-firmware
+vendor_id: weidmueller
+name: Iot-Gw30 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:weidmueller:iot\-gw30_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iot-gw30_firmware
+  confidence: auto

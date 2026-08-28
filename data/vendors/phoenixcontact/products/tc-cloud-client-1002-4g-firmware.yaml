@@ -1,0 +1,10 @@
+id: tc-cloud-client-1002-4g-firmware
+vendor_id: phoenixcontact
+name: Tc Cloud Client 1002-4G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:tc_cloud_client_1002\-4g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc_cloud_client_1002-4g_firmware
+  confidence: auto

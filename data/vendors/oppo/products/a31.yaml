@@ -1,0 +1,10 @@
+id: a31
+vendor_id: oppo
+name: A31
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:a31:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a31
+  confidence: auto

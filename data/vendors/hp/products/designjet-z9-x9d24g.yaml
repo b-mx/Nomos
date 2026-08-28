@@ -1,0 +1,10 @@
+id: designjet-z9-x9d24g
+vendor_id: hp
+name: Designjet Z9 X9D24G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_z9_x9d24g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z9_x9d24g
+  confidence: auto

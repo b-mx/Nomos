@@ -1,0 +1,10 @@
+id: se5901
+vendor_id: atoptechnology
+name: Se5901
+type: hardware
+tags: []
+cpe: cpe:2.3:h:atoptechnology:se5901:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se5901
+  confidence: auto

@@ -1,0 +1,10 @@
+id: poppler
+vendor_id: freedesktop
+name: Poppler
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:poppler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poppler
+  confidence: auto

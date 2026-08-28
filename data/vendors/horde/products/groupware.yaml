@@ -1,0 +1,10 @@
+id: groupware
+vendor_id: horde
+name: Groupware
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:groupware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: groupware
+  confidence: auto

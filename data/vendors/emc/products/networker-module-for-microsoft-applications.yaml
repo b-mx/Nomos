@@ -1,0 +1,10 @@
+id: networker-module-for-microsoft-applications
+vendor_id: emc
+name: Networker Module For Microsoft Applications
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:networker_module_for_microsoft_applications:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: networker_module_for_microsoft_applications
+  confidence: auto

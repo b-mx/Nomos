@@ -1,0 +1,10 @@
+id: zxmp-m721-dx
+vendor_id: zte
+name: Zxmp M721 Dx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxmp_m721_dx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxmp_m721_dx
+  confidence: auto

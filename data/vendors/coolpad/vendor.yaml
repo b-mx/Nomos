@@ -1,0 +1,7 @@
+id: coolpad
+name: Coolpad
+cpe: cpe:2.3:*:coolpad:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coolpad
+  confidence: auto

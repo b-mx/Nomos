@@ -1,0 +1,10 @@
+id: primergy-rx2530-m5
+vendor_id: fujitsu
+name: Primergy Rx2530 M5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:primergy_rx2530_m5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primergy_rx2530_m5
+  confidence: auto

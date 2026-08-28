@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m427-f6w13a-firmware
+vendor_id: hp
+name: Laserjet Pro Mfp M427 F6W13A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_mfp_m427_f6w13a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m427_f6w13a_firmware
+  confidence: auto

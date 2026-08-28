@@ -1,0 +1,10 @@
+id: zenworks
+vendor_id: novell
+name: Zenworks
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:zenworks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenworks
+  confidence: auto

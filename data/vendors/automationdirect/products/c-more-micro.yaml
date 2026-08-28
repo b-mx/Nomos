@@ -1,0 +1,10 @@
+id: c-more-micro
+vendor_id: automationdirect
+name: C-More Micro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:automationdirect:c\-more_micro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c-more_micro
+  confidence: auto

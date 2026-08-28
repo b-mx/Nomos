@@ -1,0 +1,10 @@
+id: gemnet-license-server
+vendor_id: ge
+name: Gemnet License Server
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:gemnet_license_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gemnet_license_server
+  confidence: auto

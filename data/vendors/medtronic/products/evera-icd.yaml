@@ -1,0 +1,10 @@
+id: evera-icd
+vendor_id: medtronic
+name: Evera Icd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:evera_icd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evera_icd
+  confidence: auto

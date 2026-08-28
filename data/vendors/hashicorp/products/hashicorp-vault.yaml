@@ -1,0 +1,13 @@
+id: hashicorp-vault
+vendor_id: hashicorp
+name: Hashicorp Vault
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:vault:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: hashicorp-vault
+  confidence: auto
+- source: nvd
+  value: vault
+  confidence: auto

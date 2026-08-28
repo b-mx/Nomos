@@ -1,0 +1,10 @@
+id: dtn-soft
+vendor_id: deltaww
+name: Dtn Soft
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:dtn_soft:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dtn_soft
+  confidence: auto

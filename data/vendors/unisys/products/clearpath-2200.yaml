@@ -1,0 +1,10 @@
+id: clearpath-2200
+vendor_id: unisys
+name: Clearpath 2200
+type: os
+tags: []
+cpe: cpe:2.3:o:unisys:clearpath_2200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clearpath_2200
+  confidence: auto

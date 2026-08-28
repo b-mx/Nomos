@@ -1,0 +1,10 @@
+id: mx900
+vendor_id: verifone
+name: Mx900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verifone:mx900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx900
+  confidence: auto

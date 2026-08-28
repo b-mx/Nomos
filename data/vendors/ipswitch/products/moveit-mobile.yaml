@@ -1,0 +1,10 @@
+id: moveit-mobile
+vendor_id: ipswitch
+name: Moveit Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:moveit_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moveit_mobile
+  confidence: auto

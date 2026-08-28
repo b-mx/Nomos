@@ -1,0 +1,10 @@
+id: asustor-data-master
+vendor_id: asustor
+name: Asustor Data Master
+type: software
+tags: []
+cpe: cpe:2.3:a:asustor:asustor_data_master:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asustor_data_master
+  confidence: auto

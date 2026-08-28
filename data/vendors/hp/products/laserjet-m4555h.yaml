@@ -1,0 +1,10 @@
+id: laserjet-m4555h
+vendor_id: hp
+name: Laserjet M4555H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m4555h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m4555h
+  confidence: auto

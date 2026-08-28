@@ -1,0 +1,10 @@
+id: fast-tools
+vendor_id: yokogawa
+name: Fast/Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:fast\/tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fast/tools
+  confidence: auto

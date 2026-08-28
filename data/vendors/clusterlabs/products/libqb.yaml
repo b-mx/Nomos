@@ -1,0 +1,10 @@
+id: libqb
+vendor_id: clusterlabs
+name: Libqb
+type: software
+tags: []
+cpe: cpe:2.3:a:clusterlabs:libqb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libqb
+  confidence: auto

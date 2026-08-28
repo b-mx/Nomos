@@ -1,0 +1,10 @@
+id: thinkagile-vx-enclosure-firmware
+vendor_id: lenovo
+name: Thinkagile Vx Enclosure Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkagile_vx_enclosure_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_vx_enclosure_firmware
+  confidence: auto

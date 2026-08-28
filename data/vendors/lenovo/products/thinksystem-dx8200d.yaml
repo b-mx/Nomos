@@ -1,0 +1,10 @@
+id: thinksystem-dx8200d
+vendor_id: lenovo
+name: Thinksystem Dx8200D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_dx8200d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_dx8200d
+  confidence: auto

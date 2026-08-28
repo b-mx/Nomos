@@ -1,0 +1,10 @@
+id: hg655m-firmware
+vendor_id: huawei
+name: Hg655M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hg655m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg655m_firmware
+  confidence: auto

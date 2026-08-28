@@ -1,0 +1,10 @@
+id: usg2205bsr
+vendor_id: huawei
+name: Usg2205Bsr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:usg2205bsr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usg2205bsr
+  confidence: auto

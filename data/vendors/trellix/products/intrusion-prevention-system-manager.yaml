@@ -1,0 +1,10 @@
+id: intrusion-prevention-system-manager
+vendor_id: trellix
+name: Intrusion Prevention System Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:trellix:intrusion_prevention_system_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intrusion_prevention_system_manager
+  confidence: auto

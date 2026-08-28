@@ -1,0 +1,10 @@
+id: hirschmann-greyhound-swtich
+vendor_id: belden
+name: Hirschmann Greyhound Swtich
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_greyhound_swtich:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_greyhound_swtich
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nc-2-firmware
+vendor_id: akuvox
+name: Nc-2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:akuvox:nc\-2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nc-2_firmware
+  confidence: auto

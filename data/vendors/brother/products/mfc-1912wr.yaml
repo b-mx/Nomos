@@ -1,0 +1,10 @@
+id: mfc-1912wr
+vendor_id: brother
+name: Mfc-1912Wr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-1912wr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-1912wr
+  confidence: auto

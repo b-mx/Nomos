@@ -1,0 +1,10 @@
+id: dx-c401-firmware
+vendor_id: sharp
+name: Dx-C401 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:dx\-c401_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dx-c401_firmware
+  confidence: auto

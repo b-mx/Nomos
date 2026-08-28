@@ -1,0 +1,10 @@
+id: tripleo-common
+vendor_id: openstack
+name: Tripleo-Common
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:tripleo\-common:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tripleo-common
+  confidence: auto

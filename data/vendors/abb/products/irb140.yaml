@@ -1,0 +1,10 @@
+id: irb140
+vendor_id: abb
+name: Irb140
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:irb140:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: irb140
+  confidence: auto

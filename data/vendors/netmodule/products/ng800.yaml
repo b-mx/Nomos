@@ -1,0 +1,10 @@
+id: ng800
+vendor_id: netmodule
+name: Ng800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:ng800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ng800
+  confidence: auto

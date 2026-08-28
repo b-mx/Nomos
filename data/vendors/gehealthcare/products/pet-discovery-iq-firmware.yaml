@@ -1,0 +1,10 @@
+id: pet-discovery-iq-firmware
+vendor_id: gehealthcare
+name: Pet Discovery Iq Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:pet_discovery_iq_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pet_discovery_iq_firmware
+  confidence: auto

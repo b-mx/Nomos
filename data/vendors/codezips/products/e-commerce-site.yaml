@@ -1,0 +1,10 @@
+id: e-commerce-site
+vendor_id: codezips
+name: E-Commerce Site
+type: software
+tags: []
+cpe: cpe:2.3:a:codezips:e\-commerce_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-commerce_site
+  confidence: auto

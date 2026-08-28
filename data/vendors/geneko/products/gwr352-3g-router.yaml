@@ -1,0 +1,10 @@
+id: gwr352-3g-router
+vendor_id: geneko
+name: Gwr352 3G Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:geneko:gwr352_3g_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gwr352_3g_router
+  confidence: auto

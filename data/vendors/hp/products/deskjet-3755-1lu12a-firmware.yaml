@@ -1,0 +1,10 @@
+id: deskjet-3755-1lu12a-firmware
+vendor_id: hp
+name: Deskjet 3755 1Lu12A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:deskjet_3755_1lu12a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3755_1lu12a_firmware
+  confidence: auto

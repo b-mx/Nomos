@@ -1,0 +1,10 @@
+id: redmagic-8-pro
+vendor_id: zte
+name: Redmagic 8 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:redmagic_8_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmagic_8_pro
+  confidence: auto

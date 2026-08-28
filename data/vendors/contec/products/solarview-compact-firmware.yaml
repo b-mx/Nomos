@@ -1,0 +1,10 @@
+id: solarview-compact-firmware
+vendor_id: contec
+name: Solarview Compact Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:contec:solarview_compact_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solarview_compact_firmware
+  confidence: auto

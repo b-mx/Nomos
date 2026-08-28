@@ -1,0 +1,10 @@
+id: ascend-p6-edge-u00-firmware
+vendor_id: huawei
+name: Ascend P6 Edge-U00 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ascend_p6_edge\-u00_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ascend_p6_edge-u00_firmware
+  confidence: auto

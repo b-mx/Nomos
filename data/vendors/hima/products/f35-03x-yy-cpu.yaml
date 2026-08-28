@@ -1,0 +1,10 @@
+id: f35-03x-yy-cpu
+vendor_id: hima
+name: F35 03X Yy (Cpu)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hima:f35_03x_yy_\(cpu\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f35_03x_yy_(cpu)
+  confidence: auto

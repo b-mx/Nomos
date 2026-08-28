@@ -1,0 +1,10 @@
+id: jd377a
+vendor_id: hp
+name: Jd377A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd377a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd377a
+  confidence: auto

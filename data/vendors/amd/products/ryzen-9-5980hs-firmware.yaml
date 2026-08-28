@@ -1,0 +1,10 @@
+id: ryzen-9-5980hs-firmware
+vendor_id: amd
+name: Ryzen 9 5980Hs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_9_5980hs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_9_5980hs_firmware
+  confidence: auto

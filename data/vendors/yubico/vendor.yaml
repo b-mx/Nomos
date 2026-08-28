@@ -1,0 +1,7 @@
+id: yubico
+name: Yubico
+cpe: cpe:2.3:*:yubico:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yubico
+  confidence: auto

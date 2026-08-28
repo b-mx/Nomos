@@ -1,0 +1,10 @@
+id: comments-disable-accesspress
+vendor_id: accesspressthemes
+name: Comments Disable - Accesspress
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:comments_disable_\-_accesspress:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comments_disable_-_accesspress
+  confidence: auto

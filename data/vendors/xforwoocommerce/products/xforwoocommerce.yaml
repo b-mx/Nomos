@@ -1,0 +1,10 @@
+id: xforwoocommerce
+vendor_id: xforwoocommerce
+name: Xforwoocommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:xforwoocommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xforwoocommerce
+  confidence: auto

@@ -1,0 +1,10 @@
+id: value-serial-usb-receipt-printer-f7m66aa
+vendor_id: hp
+name: Value Serial/Usb Receipt Printer F7M66Aa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:value_serial\/usb_receipt_printer_f7m66aa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: value_serial/usb_receipt_printer_f7m66aa
+  confidence: auto

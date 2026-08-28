@@ -1,0 +1,13 @@
+id: rabbitmq
+vendor_id: pivotal-software
+name: RabbitMQ
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:rabbitmq:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: rabbitmq
+  confidence: auto
+- source: nvd
+  value: rabbitmq
+  confidence: auto

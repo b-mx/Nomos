@@ -1,0 +1,10 @@
+id: iologik-2542-wl1-eu-firmware
+vendor_id: moxa
+name: Iologik 2542-Wl1-Eu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:iologik_2542\-wl1\-eu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iologik_2542-wl1-eu_firmware
+  confidence: auto

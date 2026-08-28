@@ -1,0 +1,10 @@
+id: rj71c24-r2-firmware
+vendor_id: mitsubishielectric
+name: Rj71C24-R2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rj71c24\-r2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rj71c24-r2_firmware
+  confidence: auto

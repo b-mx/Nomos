@@ -1,0 +1,10 @@
+id: centricity-dms-firmware
+vendor_id: gehealthcare
+name: Centricity Dms Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:centricity_dms_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centricity_dms_firmware
+  confidence: auto

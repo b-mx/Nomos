@@ -1,0 +1,10 @@
+id: legion-s7-15arh5-firmware
+vendor_id: lenovo
+name: Legion S7-15Arh5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_s7\-15arh5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_s7-15arh5_firmware
+  confidence: auto

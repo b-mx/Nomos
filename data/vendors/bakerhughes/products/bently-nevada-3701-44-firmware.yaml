@@ -1,0 +1,10 @@
+id: bently-nevada-3701-44-firmware
+vendor_id: bakerhughes
+name: Bently Nevada 3701/44 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bakerhughes:bently_nevada_3701\/44_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bently_nevada_3701/44_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kaspersky-anti-virus
+vendor_id: kaspersky
+name: Kaspersky Anti-Virus
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:kaspersky_anti\-virus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kaspersky_anti-virus
+  confidence: auto

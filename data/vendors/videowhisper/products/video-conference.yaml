@@ -1,0 +1,10 @@
+id: video-conference
+vendor_id: videowhisper
+name: Video Conference
+type: software
+tags: []
+cpe: cpe:2.3:a:videowhisper:video_conference:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_conference
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gz-forum-script
+vendor_id: gzscripts
+name: Gz Forum Script
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:gz_forum_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gz_forum_script
+  confidence: auto

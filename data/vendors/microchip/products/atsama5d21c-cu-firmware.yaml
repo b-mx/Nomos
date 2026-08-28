@@ -1,0 +1,10 @@
+id: atsama5d21c-cu-firmware
+vendor_id: microchip
+name: Atsama5D21C-Cu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:atsama5d21c\-cu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atsama5d21c-cu_firmware
+  confidence: auto

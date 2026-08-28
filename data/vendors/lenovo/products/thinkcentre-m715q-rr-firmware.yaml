@@ -1,0 +1,10 @@
+id: thinkcentre-m715q-rr-firmware
+vendor_id: lenovo
+name: Thinkcentre M715Q Rr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkcentre_m715q_rr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m715q_rr_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: virtualvault
+vendor_id: hp
+name: Virtualvault
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:virtualvault:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtualvault
+  confidence: auto

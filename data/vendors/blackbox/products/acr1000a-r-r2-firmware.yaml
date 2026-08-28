@@ -1,0 +1,10 @@
+id: acr1000a-r-r2-firmware
+vendor_id: blackbox
+name: Acr1000A-R-R2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:blackbox:acr1000a\-r\-r2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acr1000a-r-r2_firmware
+  confidence: auto

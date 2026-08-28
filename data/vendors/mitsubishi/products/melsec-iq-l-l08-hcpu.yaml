@@ -1,0 +1,10 @@
+id: melsec-iq-l-l08-hcpu
+vendor_id: mitsubishi
+name: Melsec Iq-L L08 Hcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_iq\-l_l08_hcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-l_l08_hcpu
+  confidence: auto

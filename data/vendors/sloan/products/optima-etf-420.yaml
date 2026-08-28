@@ -1,0 +1,10 @@
+id: optima-etf-420
+vendor_id: sloan
+name: Optima Etf-420
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:optima_etf\-420:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_etf-420
+  confidence: auto

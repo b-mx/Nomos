@@ -1,0 +1,10 @@
+id: photos
+vendor_id: synology
+name: Photos
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:photos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photos
+  confidence: auto

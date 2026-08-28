@@ -1,0 +1,10 @@
+id: edna-enterprise-data-historian
+vendor_id: aveva
+name: Edna Enterprise Data Historian
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:edna_enterprise_data_historian:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edna_enterprise_data_historian
+  confidence: auto

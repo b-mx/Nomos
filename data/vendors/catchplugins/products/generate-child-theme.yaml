@@ -1,0 +1,10 @@
+id: generate-child-theme
+vendor_id: catchplugins
+name: Generate Child Theme
+type: software
+tags: []
+cpe: cpe:2.3:a:catchplugins:generate_child_theme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: generate_child_theme
+  confidence: auto

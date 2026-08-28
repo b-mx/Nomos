@@ -1,0 +1,10 @@
+id: pytorch
+vendor_id: linuxfoundation
+name: Pytorch
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:pytorch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pytorch
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fp-iot-md01-lan-s2-00011-firmware
+vendor_id: weidmueller
+name: Fp Iot Md01 Lan S2 00011 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:weidmueller:fp_iot_md01_lan_s2_00011_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fp_iot_md01_lan_s2_00011_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: d196g-firmware
+vendor_id: mercurycom
+name: D196G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mercurycom:d196g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d196g_firmware
+  confidence: auto

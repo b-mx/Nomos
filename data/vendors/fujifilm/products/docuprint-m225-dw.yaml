@@ -1,0 +1,10 @@
+id: docuprint-m225-dw
+vendor_id: fujifilm
+name: Docuprint M225 Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:docuprint_m225_dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_m225_dw
+  confidence: auto

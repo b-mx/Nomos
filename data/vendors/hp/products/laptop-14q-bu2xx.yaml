@@ -1,0 +1,10 @@
+id: laptop-14q-bu2xx
+vendor_id: hp
+name: Laptop 14Q-Bu2Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_14q\-bu2xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_14q-bu2xx
+  confidence: auto

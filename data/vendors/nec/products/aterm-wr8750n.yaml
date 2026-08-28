@@ -1,0 +1,10 @@
+id: aterm-wr8750n
+vendor_id: nec
+name: Aterm Wr8750N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wr8750n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wr8750n
+  confidence: auto

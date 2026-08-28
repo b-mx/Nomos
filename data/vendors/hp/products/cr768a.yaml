@@ -1,0 +1,10 @@
+id: cr768a
+vendor_id: hp
+name: Cr768A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cr768a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cr768a
+  confidence: auto

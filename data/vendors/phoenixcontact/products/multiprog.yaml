@@ -1,0 +1,10 @@
+id: multiprog
+vendor_id: phoenixcontact
+name: Multiprog
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:multiprog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multiprog
+  confidence: auto

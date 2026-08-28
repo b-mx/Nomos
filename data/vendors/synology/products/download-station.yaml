@@ -1,0 +1,10 @@
+id: download-station
+vendor_id: synology
+name: Download Station
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:download_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: download_station
+  confidence: auto

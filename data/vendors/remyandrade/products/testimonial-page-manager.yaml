@@ -1,0 +1,10 @@
+id: testimonial-page-manager
+vendor_id: remyandrade
+name: Testimonial Page Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:testimonial_page_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: testimonial_page_manager
+  confidence: auto

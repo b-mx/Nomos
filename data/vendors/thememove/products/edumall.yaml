@@ -1,0 +1,10 @@
+id: edumall
+vendor_id: thememove
+name: Edumall
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:edumall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edumall
+  confidence: auto

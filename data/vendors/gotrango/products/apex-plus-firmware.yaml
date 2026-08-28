@@ -1,0 +1,10 @@
+id: apex-plus-firmware
+vendor_id: gotrango
+name: Apex Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gotrango:apex_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apex_plus_firmware
+  confidence: auto

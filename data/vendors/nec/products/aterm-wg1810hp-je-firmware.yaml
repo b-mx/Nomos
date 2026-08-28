@@ -1,0 +1,10 @@
+id: aterm-wg1810hp-je-firmware
+vendor_id: nec
+name: Aterm Wg1810Hp(Je) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:aterm_wg1810hp\(je\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wg1810hp(je)_firmware
+  confidence: auto

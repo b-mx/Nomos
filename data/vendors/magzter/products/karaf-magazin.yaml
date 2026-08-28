@@ -1,0 +1,10 @@
+id: karaf-magazin
+vendor_id: magzter
+name: Karaf Magazin
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:karaf_magazin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: karaf_magazin
+  confidence: auto

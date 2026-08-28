@@ -1,0 +1,10 @@
+id: cs200-firmware
+vendor_id: bachmann
+name: Cs200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bachmann:cs200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs200_firmware
+  confidence: auto

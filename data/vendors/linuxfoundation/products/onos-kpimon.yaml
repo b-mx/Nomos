@@ -1,0 +1,10 @@
+id: onos-kpimon
+vendor_id: linuxfoundation
+name: Onos-Kpimon
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:onos\-kpimon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: onos-kpimon
+  confidence: auto

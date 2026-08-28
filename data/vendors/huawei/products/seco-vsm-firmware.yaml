@@ -1,0 +1,10 @@
+id: seco-vsm-firmware
+vendor_id: huawei
+name: Seco Vsm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:seco_vsm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seco_vsm_firmware
+  confidence: auto

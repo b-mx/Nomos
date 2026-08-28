@@ -1,0 +1,10 @@
+id: edgemarc-4550
+vendor_id: ribboncommunications
+name: Edgemarc 4550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ribboncommunications:edgemarc_4550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgemarc_4550
+  confidence: auto

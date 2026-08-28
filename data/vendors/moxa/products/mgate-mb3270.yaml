@@ -1,0 +1,10 @@
+id: mgate-mb3270
+vendor_id: moxa
+name: Mgate Mb3270
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:mgate_mb3270:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mgate_mb3270
+  confidence: auto

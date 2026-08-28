@@ -1,0 +1,10 @@
+id: my-t-mobile
+vendor_id: t-mobile
+name: My T-Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:t\-mobile:my_t\-mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_t-mobile
+  confidence: auto

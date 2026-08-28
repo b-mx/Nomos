@@ -1,0 +1,10 @@
+id: lodash-template
+vendor_id: lodash
+name: Lodash.Template
+type: software
+tags: []
+cpe: cpe:2.3:a:lodash:lodash\.template:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lodash.template
+  confidence: auto

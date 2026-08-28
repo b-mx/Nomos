@@ -1,0 +1,10 @@
+id: unica-campaign
+vendor_id: hcltech
+name: Unica Campaign
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:unica_campaign:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unica_campaign
+  confidence: auto

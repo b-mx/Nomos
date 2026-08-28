@@ -1,0 +1,10 @@
+id: studio-5000-logix-emulate
+vendor_id: rockwellautomation
+name: Studio 5000 Logix Emulate
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:studio_5000_logix_emulate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_5000_logix_emulate
+  confidence: auto

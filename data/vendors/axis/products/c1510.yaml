@@ -1,0 +1,10 @@
+id: c1510
+vendor_id: axis
+name: C1510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:c1510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1510
+  confidence: auto

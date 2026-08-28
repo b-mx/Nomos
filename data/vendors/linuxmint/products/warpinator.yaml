@@ -1,0 +1,10 @@
+id: warpinator
+vendor_id: linuxmint
+name: Warpinator
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxmint:warpinator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: warpinator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: security-center
+vendor_id: kaspersky
+name: Security Center
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:security_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: security_center
+  confidence: auto

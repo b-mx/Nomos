@@ -1,0 +1,10 @@
+id: thinksmart-core-controller-full-room-kit-zoom-rooms
+vendor_id: lenovo
+name: 'Thinksmart Core & Controller Full Room Kit: Zoom Rooms'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksmart_core_\&_controller_full_room_kit\:_zoom_rooms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksmart_core_&_controller_full_room_kit:_zoom_rooms
+  confidence: auto

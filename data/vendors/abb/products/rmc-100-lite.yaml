@@ -1,0 +1,10 @@
+id: rmc-100-lite
+vendor_id: abb
+name: Rmc-100-Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:rmc\-100\-lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rmc-100-lite
+  confidence: auto

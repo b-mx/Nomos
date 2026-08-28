@@ -1,0 +1,10 @@
+id: zbook-14u-g6-mobile-workstation
+vendor_id: hp
+name: Zbook 14U G6 Mobile Workstation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_14u_g6_mobile_workstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_14u_g6_mobile_workstation
+  confidence: auto

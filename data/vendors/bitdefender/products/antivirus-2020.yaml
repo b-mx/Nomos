@@ -1,0 +1,10 @@
+id: antivirus-2020
+vendor_id: bitdefender
+name: Antivirus 2020
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:antivirus_2020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivirus_2020
+  confidence: auto

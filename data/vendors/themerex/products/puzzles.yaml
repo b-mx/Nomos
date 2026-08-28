@@ -1,0 +1,10 @@
+id: puzzles
+vendor_id: themerex
+name: Puzzles
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:puzzles:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puzzles
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 4gee-wifi-mbb
+vendor_id: ee
+name: 4Gee Wifi Mbb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ee:4gee_wifi_mbb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4gee_wifi_mbb
+  confidence: auto

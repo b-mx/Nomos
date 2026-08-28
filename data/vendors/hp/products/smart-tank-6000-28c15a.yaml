@@ -1,0 +1,10 @@
+id: smart-tank-6000-28c15a
+vendor_id: hp
+name: Smart Tank 6000 28C15A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_6000_28c15a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_6000_28c15a
+  confidence: auto

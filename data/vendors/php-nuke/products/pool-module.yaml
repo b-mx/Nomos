@@ -1,0 +1,10 @@
+id: pool-module
+vendor_id: php-nuke
+name: Pool Module
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-nuke:pool_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pool_module
+  confidence: auto

@@ -1,0 +1,7 @@
+id: seiko-sol
+name: Seiko-Sol
+cpe: cpe:2.3:*:seiko\-sol:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seiko-sol
+  confidence: auto

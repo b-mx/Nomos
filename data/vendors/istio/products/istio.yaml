@@ -1,0 +1,13 @@
+id: istio
+vendor_id: istio
+name: Istio
+type: software
+tags: []
+cpe: cpe:2.3:a:istio:istio:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: istio
+  confidence: auto
+- source: nvd
+  value: istio
+  confidence: auto

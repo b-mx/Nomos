@@ -1,0 +1,10 @@
+id: libxp
+vendor_id: x
+name: Libxp
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxp
+  confidence: auto

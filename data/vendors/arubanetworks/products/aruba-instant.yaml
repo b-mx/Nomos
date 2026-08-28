@@ -1,0 +1,10 @@
+id: aruba-instant
+vendor_id: arubanetworks
+name: Aruba Instant
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:aruba_instant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_instant
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zendservice-api
+vendor_id: zend
+name: Zendservice Api
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zendservice_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendservice_api
+  confidence: auto

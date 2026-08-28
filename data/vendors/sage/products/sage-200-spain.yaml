@@ -1,0 +1,10 @@
+id: sage-200-spain
+vendor_id: sage
+name: Sage 200 Spain
+type: software
+tags: []
+cpe: cpe:2.3:a:sage:sage_200_spain:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sage_200_spain
+  confidence: auto

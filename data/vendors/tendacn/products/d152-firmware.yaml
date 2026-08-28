@@ -1,0 +1,10 @@
+id: d152-firmware
+vendor_id: tendacn
+name: D152 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tendacn:d152_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d152_firmware
+  confidence: auto

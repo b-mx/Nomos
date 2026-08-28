@@ -1,0 +1,10 @@
+id: v14-g1-iml
+vendor_id: lenovo
+name: V14 G1-Iml
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v14_g1\-iml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v14_g1-iml
+  confidence: auto

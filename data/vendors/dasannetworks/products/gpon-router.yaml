@@ -1,0 +1,10 @@
+id: gpon-router
+vendor_id: dasannetworks
+name: Gpon Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dasannetworks:gpon_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gpon_router
+  confidence: auto

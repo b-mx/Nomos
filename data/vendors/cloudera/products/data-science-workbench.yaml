@@ -1,0 +1,10 @@
+id: data-science-workbench
+vendor_id: cloudera
+name: Data Science Workbench
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudera:data_science_workbench:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_science_workbench
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e-studio-351c
+vendor_id: toshibatec
+name: E-Studio-351C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshibatec:e\-studio\-351c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-studio-351c
+  confidence: auto

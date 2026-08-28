@@ -1,0 +1,10 @@
+id: intelligent-provisioning
+vendor_id: hp
+name: Intelligent Provisioning
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:intelligent_provisioning:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_provisioning
+  confidence: auto

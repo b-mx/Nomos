@@ -1,0 +1,9 @@
+id: sharepoint
+vendor_id: microsoft
+name: SharePoint
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: SharePoint
+  confidence: auto

@@ -1,0 +1,10 @@
+id: autodome-ip-starlight-5000i-firmware
+vendor_id: bosch
+name: Autodome Ip Starlight 5000I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:autodome_ip_starlight_5000i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autodome_ip_starlight_5000i_firmware
+  confidence: auto

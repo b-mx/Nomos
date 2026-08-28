@@ -1,0 +1,10 @@
+id: ubuntu-touch
+vendor_id: canonical
+name: Ubuntu Touch
+type: os
+tags: []
+cpe: cpe:2.3:o:canonical:ubuntu_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubuntu_touch
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x11sph-nctf
+vendor_id: supermicro
+name: X11Sph-Nctf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11sph\-nctf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sph-nctf
+  confidence: auto

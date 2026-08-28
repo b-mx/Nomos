@@ -1,0 +1,10 @@
+id: stride-managed-ethernet-switches
+vendor_id: redlion
+name: Stride-Managed Ethernet Switches
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redlion:stride\-managed_ethernet_switches:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stride-managed_ethernet_switches
+  confidence: auto

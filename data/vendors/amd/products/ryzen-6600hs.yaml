@@ -1,0 +1,10 @@
+id: ryzen-6600hs
+vendor_id: amd
+name: Ryzen 6600Hs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_6600hs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_6600hs
+  confidence: auto

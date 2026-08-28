@@ -1,0 +1,10 @@
+id: aaa-server
+vendor_id: hp
+name: Aaa Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:aaa_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aaa_server
+  confidence: auto

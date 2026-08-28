@@ -1,0 +1,10 @@
+id: multilin-sr-760-feeder-protection-relay-firmware
+vendor_id: ge
+name: Multilin Sr 760 Feeder Protection Relay Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:multilin_sr_760_feeder_protection_relay_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_sr_760_feeder_protection_relay_firmware
+  confidence: auto

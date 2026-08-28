@@ -1,0 +1,10 @@
+id: got2000-gt27-firmware
+vendor_id: mitsubishielectric
+name: Got2000 Gt27 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:got2000_gt27_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: got2000_gt27_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: automation-net-pvi
+vendor_id: br-automation
+name: Automation Net/Pvi
+type: software
+tags: []
+cpe: cpe:2.3:a:br\-automation:automation_net\/pvi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automation_net/pvi
+  confidence: auto

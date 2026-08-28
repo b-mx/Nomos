@@ -1,0 +1,10 @@
+id: qb120
+vendor_id: rstinstruments
+name: Qb120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:qb120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qb120
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mpe270
+vendor_id: bachmann
+name: Mpe270
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mpe270:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mpe270
+  confidence: auto

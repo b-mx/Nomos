@@ -1,0 +1,10 @@
+id: soundsgood
+vendor_id: asustor
+name: Soundsgood
+type: software
+tags: []
+cpe: cpe:2.3:a:asustor:soundsgood:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: soundsgood
+  confidence: auto

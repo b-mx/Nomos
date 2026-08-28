@@ -1,0 +1,10 @@
+id: versalink-b7025
+vendor_id: xerox
+name: Versalink B7025
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:versalink_b7025:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: versalink_b7025
+  confidence: auto

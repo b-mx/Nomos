@@ -1,0 +1,10 @@
+id: x-window-system
+vendor_id: x-org
+name: X Window System
+type: os
+tags: []
+cpe: cpe:2.3:o:x\.org:x_window_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x_window_system
+  confidence: auto

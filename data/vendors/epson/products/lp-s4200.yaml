@@ -1,0 +1,10 @@
+id: lp-s4200
+vendor_id: epson
+name: Lp-S4200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:lp\-s4200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-s4200
+  confidence: auto

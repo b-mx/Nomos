@@ -1,0 +1,10 @@
+id: e-mail-newsletter-management
+vendor_id: ec-cube
+name: E-Mail Newsletter Management
+type: software
+tags: []
+cpe: cpe:2.3:a:ec\-cube:e\-mail_newsletter_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-mail_newsletter_management
+  confidence: auto

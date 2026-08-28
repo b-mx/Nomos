@@ -1,0 +1,10 @@
+id: sunvts
+vendor_id: sun
+name: Sunvts
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:sunvts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunvts
+  confidence: auto

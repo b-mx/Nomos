@@ -1,0 +1,10 @@
+id: presto-file-server
+vendor_id: synology
+name: Presto File Server
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:presto_file_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: presto_file_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: amplify-codegen-ui
+vendor_id: amazon
+name: Amplify Codegen Ui
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:amplify_codegen_ui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amplify_codegen_ui
+  confidence: auto

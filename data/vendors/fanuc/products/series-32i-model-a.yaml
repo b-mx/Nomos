@@ -1,0 +1,10 @@
+id: series-32i-model-a
+vendor_id: fanuc
+name: Series 32I-Model A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:series_32i\-model_a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: series_32i-model_a
+  confidence: auto

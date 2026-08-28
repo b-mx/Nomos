@@ -1,0 +1,10 @@
+id: nshield-5c
+vendor_id: entrust
+name: Nshield 5C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:entrust:nshield_5c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nshield_5c
+  confidence: auto

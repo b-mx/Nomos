@@ -1,0 +1,10 @@
+id: kv-replay-viewer
+vendor_id: keyence
+name: Kv Replay Viewer
+type: software
+tags: []
+cpe: cpe:2.3:a:keyence:kv_replay_viewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kv_replay_viewer
+  confidence: auto

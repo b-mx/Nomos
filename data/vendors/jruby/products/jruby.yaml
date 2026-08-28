@@ -1,0 +1,9 @@
+id: jruby
+vendor_id: jruby
+name: JRuby
+type: library
+tags: []
+aliases:
+- source: endoflife
+  value: jruby
+  confidence: auto

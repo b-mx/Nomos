@@ -1,0 +1,10 @@
+id: scan-engines
+vendor_id: bitdefender
+name: Scan Engines
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:scan_engines:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scan_engines
+  confidence: auto

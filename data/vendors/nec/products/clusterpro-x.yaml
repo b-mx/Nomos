@@ -1,0 +1,10 @@
+id: clusterpro-x
+vendor_id: nec
+name: Clusterpro X
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:clusterpro_x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clusterpro_x
+  confidence: auto

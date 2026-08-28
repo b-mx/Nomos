@@ -1,0 +1,10 @@
+id: storeonce-virtual-storage-appliance
+vendor_id: hp
+name: Storeonce Virtual Storage Appliance
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:storeonce_virtual_storage_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_virtual_storage_appliance
+  confidence: auto

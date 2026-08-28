@@ -1,0 +1,10 @@
+id: fundengine
+vendor_id: wpmet
+name: Fundengine
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmet:fundengine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fundengine
+  confidence: auto

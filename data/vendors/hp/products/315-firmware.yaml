@@ -1,0 +1,10 @@
+id: 315-firmware
+vendor_id: hp
+name: 315 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:315_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 315_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: plc-5-controller
+vendor_id: rockwellautomation
+name: Plc-5 Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:plc\-5_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plc-5_controller
+  confidence: auto

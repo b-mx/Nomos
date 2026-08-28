@@ -1,0 +1,10 @@
+id: thinkpad-x1-hybrid-firmware
+vendor_id: lenovo
+name: Thinkpad X1 Hybrid Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_x1_hybrid_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_hybrid_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: yangtian-afh81-desktop
+vendor_id: lenovo
+name: Yangtian Afh81 Desktop
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yangtian_afh81_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_afh81_desktop
+  confidence: auto

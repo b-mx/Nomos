@@ -1,0 +1,10 @@
+id: import-update-bulk-product
+vendor_id: prestashop
+name: Import/Update Bulk Product
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:import\/update_bulk_product:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: import/update_bulk_product
+  confidence: auto

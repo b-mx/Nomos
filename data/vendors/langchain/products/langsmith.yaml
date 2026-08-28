@@ -1,0 +1,10 @@
+id: langsmith
+vendor_id: langchain
+name: Langsmith
+type: software
+tags: []
+cpe: cpe:2.3:a:langchain:langsmith:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: langsmith
+  confidence: auto

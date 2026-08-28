@@ -1,0 +1,10 @@
+id: ht-portfolio
+vendor_id: hasthemes
+name: Ht Portfolio
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:ht_portfolio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ht_portfolio
+  confidence: auto

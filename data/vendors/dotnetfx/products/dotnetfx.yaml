@@ -1,0 +1,10 @@
+id: dotnetfx
+vendor_id: dotnetfx
+name: Microsoft .NET Framework
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: dotnetfx
+  confidence: auto

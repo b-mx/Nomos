@@ -1,0 +1,10 @@
+id: center
+vendor_id: msi
+name: Center
+type: software
+tags: []
+cpe: cpe:2.3:a:msi:center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: center
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hb7216x-firmware
+vendor_id: hbgk
+name: Hb7216X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb7216x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb7216x_firmware
+  confidence: auto

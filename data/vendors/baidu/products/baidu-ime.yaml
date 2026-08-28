@@ -1,0 +1,10 @@
+id: baidu-ime
+vendor_id: baidu
+name: Baidu Ime
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:baidu_ime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baidu_ime
+  confidence: auto

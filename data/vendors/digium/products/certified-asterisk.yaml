@@ -1,0 +1,10 @@
+id: certified-asterisk
+vendor_id: digium
+name: Certified Asterisk
+type: software
+tags: []
+cpe: cpe:2.3:a:digium:certified_asterisk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: certified_asterisk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x10sdv-4c-tln2f-firmware
+vendor_id: supermicro
+name: X10Sdv-4C-Tln2F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10sdv\-4c\-tln2f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10sdv-4c-tln2f_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kmail
+vendor_id: kde
+name: Kmail
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kmail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kmail
+  confidence: auto

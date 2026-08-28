@@ -1,0 +1,10 @@
+id: proone-440-23-8-inch-g9-all-in-one-desktop-pc
+vendor_id: hp
+name: Proone 440 23.8 Inch G9 All-In-One Desktop Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proone_440_23\.8_inch_g9_all\-in\-one_desktop_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_440_23.8_inch_g9_all-in-one_desktop_pc
+  confidence: auto

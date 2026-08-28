@@ -1,0 +1,10 @@
+id: kokyaku-kanri
+vendor_id: yayoi-kk
+name: Kokyaku Kanri
+type: software
+tags: []
+cpe: cpe:2.3:a:yayoi\-kk:kokyaku_kanri:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kokyaku_kanri
+  confidence: auto

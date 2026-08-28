@@ -1,0 +1,10 @@
+id: antminer-d3
+vendor_id: bitmain
+name: Antminer D3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bitmain:antminer_d3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antminer_d3
+  confidence: auto

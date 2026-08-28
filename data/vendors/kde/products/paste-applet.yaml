@@ -1,0 +1,10 @@
+id: paste-applet
+vendor_id: kde
+name: Paste Applet
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:paste_applet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paste_applet
+  confidence: auto

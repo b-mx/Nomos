@@ -1,0 +1,10 @@
+id: home-device-manager
+vendor_id: alcatel-lucent
+name: Home Device Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:alcatel\-lucent:home_device_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: home_device_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: color-laserjet-cp5525-firmware
+vendor_id: hp
+name: Color Laserjet Cp5525 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_cp5525_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_cp5525_firmware
+  confidence: auto

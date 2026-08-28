@@ -1,0 +1,10 @@
+id: photo-gallery
+vendor_id: supsystic
+name: Photo Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:supsystic:photo_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photo_gallery
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x852
+vendor_id: lexmark
+name: X852
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x852:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x852
+  confidence: auto

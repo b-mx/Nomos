@@ -1,0 +1,10 @@
+id: laserjet-pro-200-color-mfp-m276-cf144a-firmware
+vendor_id: hp
+name: Laserjet Pro 200 Color Mfp M276 Cf144A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_200_color_mfp_m276_cf144a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_200_color_mfp_m276_cf144a_firmware
+  confidence: auto

@@ -1,0 +1,6 @@
+id: azure-database-for-postgresql
+name: Azure Database for PostgreSQL
+aliases:
+- source: endoflife
+  value: azure-database-for-postgresql
+  confidence: auto

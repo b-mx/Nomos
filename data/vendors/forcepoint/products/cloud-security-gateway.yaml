@@ -1,0 +1,10 @@
+id: cloud-security-gateway
+vendor_id: forcepoint
+name: Cloud Security Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:cloud_security_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_security_gateway
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkpad-x1-extreme-20mx
+vendor_id: lenovo
+name: Thinkpad X1 Extreme (20Mx)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x1_extreme_\(20mx\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_extreme_(20mx)
+  confidence: auto

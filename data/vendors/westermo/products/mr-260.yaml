@@ -1,0 +1,10 @@
+id: mr-260
+vendor_id: westermo
+name: Mr-260
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westermo:mr\-260:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mr-260
+  confidence: auto

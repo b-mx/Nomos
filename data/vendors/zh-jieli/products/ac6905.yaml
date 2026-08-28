@@ -1,0 +1,10 @@
+id: ac6905
+vendor_id: zh-jieli
+name: Ac6905
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zh\-jieli:ac6905:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac6905
+  confidence: auto

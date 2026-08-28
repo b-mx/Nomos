@@ -1,0 +1,10 @@
+id: envy-6400e-2k5l5a
+vendor_id: hp
+name: Envy 6400E 2K5L5A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_6400e_2k5l5a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6400e_2k5l5a
+  confidence: auto

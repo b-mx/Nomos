@@ -1,0 +1,10 @@
+id: x11dpu-z
+vendor_id: supermicro
+name: X11Dpu-Z+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11dpu\-z\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dpu-z+
+  confidence: auto

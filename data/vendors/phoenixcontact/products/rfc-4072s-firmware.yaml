@@ -1,0 +1,10 @@
+id: rfc-4072s-firmware
+vendor_id: phoenixcontact
+name: Rfc 4072S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:rfc_4072s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfc_4072s_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dvtel-camera-firmware
+vendor_id: flir
+name: Dvtel Camera Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:flir:dvtel_camera_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvtel_camera_firmware
+  confidence: auto

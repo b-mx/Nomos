@@ -1,0 +1,10 @@
+id: symmetre
+vendor_id: honeywell
+name: Symmetre
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:symmetre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symmetre
+  confidence: auto

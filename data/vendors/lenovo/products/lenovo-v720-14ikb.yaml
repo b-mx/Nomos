@@ -1,0 +1,10 @@
+id: lenovo-v720-14ikb
+vendor_id: lenovo
+name: Lenovo V720-14Ikb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:lenovo_v720\-14ikb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenovo_v720-14ikb
+  confidence: auto

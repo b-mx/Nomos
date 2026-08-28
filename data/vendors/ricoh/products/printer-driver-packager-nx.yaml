@@ -1,0 +1,10 @@
+id: printer-driver-packager-nx
+vendor_id: ricoh
+name: Printer Driver Packager Nx
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:printer_driver_packager_nx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: printer_driver_packager_nx
+  confidence: auto

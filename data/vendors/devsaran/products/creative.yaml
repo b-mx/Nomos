@@ -1,0 +1,10 @@
+id: creative
+vendor_id: devsaran
+name: Creative
+type: software
+tags: []
+cpe: cpe:2.3:a:devsaran:creative:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: creative
+  confidence: auto

@@ -1,0 +1,6 @@
+id: drush
+name: Drush
+aliases:
+- source: endoflife
+  value: drush
+  confidence: auto

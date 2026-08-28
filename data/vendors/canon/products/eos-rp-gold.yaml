@@ -1,0 +1,10 @@
+id: eos-rp-gold
+vendor_id: canon
+name: Eos Rp Gold
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_rp_gold:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_rp_gold
+  confidence: auto

@@ -1,0 +1,10 @@
+id: brilliance-64
+vendor_id: philips
+name: Brilliance 64
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:brilliance_64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brilliance_64
+  confidence: auto

@@ -1,0 +1,10 @@
+id: iologik-2542-wl1-jp
+vendor_id: moxa
+name: Iologik 2542-Wl1-Jp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:iologik_2542\-wl1\-jp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iologik_2542-wl1-jp
+  confidence: auto

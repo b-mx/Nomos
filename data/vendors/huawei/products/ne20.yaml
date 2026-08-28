@@ -1,0 +1,10 @@
+id: ne20
+vendor_id: huawei
+name: Ne20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ne20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ne20
+  confidence: auto

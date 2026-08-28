@@ -1,0 +1,10 @@
+id: px-20000-firmware
+vendor_id: epson
+name: Px-20000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:px\-20000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-20000_firmware
+  confidence: auto

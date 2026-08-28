@@ -1,0 +1,10 @@
+id: quidway-s2350
+vendor_id: huawei
+name: Quidway S2350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:quidway_s2350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quidway_s2350
+  confidence: auto

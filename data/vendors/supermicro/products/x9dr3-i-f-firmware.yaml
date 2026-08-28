@@ -1,0 +1,10 @@
+id: x9dr3-i-f-firmware
+vendor_id: supermicro
+name: X9Dr3/I-F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9dr3\/i\-f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9dr3/i-f_firmware
+  confidence: auto

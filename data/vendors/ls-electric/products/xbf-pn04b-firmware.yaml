@@ -1,0 +1,10 @@
+id: xbf-pn04b-firmware
+vendor_id: ls-electric
+name: Xbf-Pn04B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbf\-pn04b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbf-pn04b_firmware
+  confidence: auto

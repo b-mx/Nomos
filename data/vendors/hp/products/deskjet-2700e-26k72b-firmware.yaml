@@ -1,0 +1,10 @@
+id: deskjet-2700e-26k72b-firmware
+vendor_id: hp
+name: Deskjet 2700E 26K72B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:deskjet_2700e_26k72b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_2700e_26k72b_firmware
+  confidence: auto

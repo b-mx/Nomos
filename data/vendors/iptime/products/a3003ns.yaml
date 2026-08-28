@@ -1,0 +1,10 @@
+id: a3003ns
+vendor_id: iptime
+name: A3003Ns
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a3003ns:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3003ns
+  confidence: auto

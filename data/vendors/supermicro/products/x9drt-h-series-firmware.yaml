@@ -1,0 +1,10 @@
+id: x9drt-h-series-firmware
+vendor_id: supermicro
+name: X9Drt-H Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9drt\-h_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drt-h_series_firmware
+  confidence: auto

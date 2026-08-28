@@ -1,0 +1,10 @@
+id: corporate-secure
+vendor_id: verbatim
+name: Corporate Secure
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verbatim:corporate_secure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: corporate_secure
+  confidence: auto

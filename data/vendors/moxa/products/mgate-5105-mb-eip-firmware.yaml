@@ -1,0 +1,10 @@
+id: mgate-5105-mb-eip-firmware
+vendor_id: moxa
+name: Mgate 5105-Mb-Eip Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:mgate_5105\-mb\-eip_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mgate_5105-mb-eip_firmware
+  confidence: auto

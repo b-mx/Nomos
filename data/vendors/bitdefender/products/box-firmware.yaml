@@ -1,0 +1,10 @@
+id: box-firmware
+vendor_id: bitdefender
+name: Box Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bitdefender:box_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: box_firmware
+  confidence: auto

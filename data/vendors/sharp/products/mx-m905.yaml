@@ -1,0 +1,10 @@
+id: mx-m905
+vendor_id: sharp
+name: Mx-M905
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-m905:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m905
+  confidence: auto

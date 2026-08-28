@@ -1,0 +1,10 @@
+id: color-laserjet-m775dn
+vendor_id: hp
+name: Color Laserjet M775Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_m775dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_m775dn
+  confidence: auto

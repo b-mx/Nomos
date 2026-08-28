@@ -1,0 +1,10 @@
+id: tecal-e9000-chassis
+vendor_id: huawei
+name: Tecal E9000 Chassis
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tecal_e9000_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_e9000_chassis
+  confidence: auto

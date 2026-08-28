@@ -1,0 +1,10 @@
+id: x7spa-hf
+vendor_id: supermicro
+name: X7Spa-Hf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x7spa\-hf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x7spa-hf
+  confidence: auto

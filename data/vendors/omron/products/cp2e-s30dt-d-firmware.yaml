@@ -1,0 +1,10 @@
+id: cp2e-s30dt-d-firmware
+vendor_id: omron
+name: Cp2E-S30Dt-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp2e\-s30dt\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp2e-s30dt-d_firmware
+  confidence: auto

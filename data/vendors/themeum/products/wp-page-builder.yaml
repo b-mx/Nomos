@@ -1,0 +1,10 @@
+id: wp-page-builder
+vendor_id: themeum
+name: Wp Page Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:themeum:wp_page_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_page_builder
+  confidence: auto

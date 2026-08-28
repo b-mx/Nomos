@@ -1,0 +1,9 @@
+id: amazon-neptune
+vendor_id: amazon-neptune
+name: Amazon Neptune
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: amazon-neptune
+  confidence: auto

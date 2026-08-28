@@ -1,0 +1,10 @@
+id: tbox-tg2
+vendor_id: ovarro
+name: Tbox Tg2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ovarro:tbox_tg2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tbox_tg2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 16a
+vendor_id: motu
+name: 16A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:16a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 16a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a4-9120
+vendor_id: amd
+name: A4-9120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:a4\-9120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a4-9120
+  confidence: auto

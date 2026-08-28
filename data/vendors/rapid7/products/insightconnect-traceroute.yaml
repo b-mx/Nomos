@@ -1,0 +1,10 @@
+id: insightconnect-traceroute
+vendor_id: rapid7
+name: Insightconnect Traceroute
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:insightconnect_traceroute:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insightconnect_traceroute
+  confidence: auto

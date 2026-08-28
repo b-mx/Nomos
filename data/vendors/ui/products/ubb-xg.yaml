@@ -1,0 +1,10 @@
+id: ubb-xg
+vendor_id: ui
+name: Ubb-Xg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:ubb\-xg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubb-xg
+  confidence: auto

@@ -1,0 +1,10 @@
+id: stm32f078cb
+vendor_id: st
+name: Stm32F078Cb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32f078cb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f078cb
+  confidence: auto

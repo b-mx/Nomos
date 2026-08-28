@@ -1,0 +1,10 @@
+id: s8011
+vendor_id: unisoc
+name: S8011
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8011:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8011
+  confidence: auto

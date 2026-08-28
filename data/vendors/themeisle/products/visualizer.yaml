@@ -1,0 +1,10 @@
+id: visualizer
+vendor_id: themeisle
+name: Visualizer
+type: software
+tags: []
+cpe: cpe:2.3:a:themeisle:visualizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visualizer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: novaseq-6000-firmware
+vendor_id: illumina
+name: Novaseq 6000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:illumina:novaseq_6000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: novaseq_6000_firmware
+  confidence: auto

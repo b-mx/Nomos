@@ -1,0 +1,10 @@
+id: cx310-firmware
+vendor_id: lexmark
+name: Cx310 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:cx310_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx310_firmware
+  confidence: auto

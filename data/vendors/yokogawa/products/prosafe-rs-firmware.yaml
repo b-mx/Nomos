@@ -1,0 +1,10 @@
+id: prosafe-rs-firmware
+vendor_id: yokogawa
+name: Prosafe-Rs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yokogawa:prosafe\-rs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prosafe-rs_firmware
+  confidence: auto

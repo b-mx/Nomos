@@ -1,0 +1,10 @@
+id: simple-grading-system
+vendor_id: fabian
+name: Simple Grading System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_grading_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_grading_system
+  confidence: auto

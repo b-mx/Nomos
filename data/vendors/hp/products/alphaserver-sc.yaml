@@ -1,0 +1,10 @@
+id: alphaserver-sc
+vendor_id: hp
+name: Alphaserver Sc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:alphaserver_sc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alphaserver_sc
+  confidence: auto

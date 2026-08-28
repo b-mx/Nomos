@@ -1,0 +1,10 @@
+id: omen-17-w1xx
+vendor_id: hp
+name: Omen 17-W1Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_17\-w1xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_17-w1xx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: inn
+vendor_id: opensuse
+name: Inn
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:inn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inn
+  confidence: auto

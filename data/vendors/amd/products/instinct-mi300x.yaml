@@ -1,0 +1,10 @@
+id: instinct-mi300x
+vendor_id: amd
+name: Instinct Mi300X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:instinct_mi300x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instinct_mi300x
+  confidence: auto

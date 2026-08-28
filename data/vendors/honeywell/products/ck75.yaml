@@ -1,0 +1,10 @@
+id: ck75
+vendor_id: honeywell
+name: Ck75
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:ck75:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ck75
+  confidence: auto

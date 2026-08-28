@@ -1,0 +1,10 @@
+id: socks-5
+vendor_id: nec
+name: Socks 5
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:socks_5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: socks_5
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-managed-e50045dw-firmware
+vendor_id: hp
+name: Laserjet Managed E50045Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_e50045dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_e50045dw_firmware
+  confidence: auto

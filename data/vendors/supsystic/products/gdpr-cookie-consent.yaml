@@ -1,0 +1,10 @@
+id: gdpr-cookie-consent
+vendor_id: supsystic
+name: Gdpr Cookie Consent
+type: software
+tags: []
+cpe: cpe:2.3:a:supsystic:gdpr_cookie_consent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gdpr_cookie_consent
+  confidence: auto

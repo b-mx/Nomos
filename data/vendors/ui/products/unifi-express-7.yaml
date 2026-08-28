@@ -1,0 +1,10 @@
+id: unifi-express-7
+vendor_id: ui
+name: Unifi Express 7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:unifi_express_7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_express_7
+  confidence: auto

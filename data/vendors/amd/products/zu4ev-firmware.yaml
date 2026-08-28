@@ -1,0 +1,10 @@
+id: zu4ev-firmware
+vendor_id: amd
+name: Zu4Ev Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:zu4ev_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu4ev_firmware
+  confidence: auto

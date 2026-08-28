@@ -1,0 +1,10 @@
+id: fr6
+vendor_id: ifw8
+name: Fr6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ifw8:fr6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fr6
+  confidence: auto

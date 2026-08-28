@@ -1,0 +1,10 @@
+id: t204
+vendor_id: motorola
+name: T204
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:t204:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t204
+  confidence: auto

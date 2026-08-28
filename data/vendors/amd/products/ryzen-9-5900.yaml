@@ -1,0 +1,10 @@
+id: ryzen-9-5900
+vendor_id: amd
+name: Ryzen 9 5900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_9_5900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_9_5900
+  confidence: auto

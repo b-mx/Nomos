@@ -1,0 +1,10 @@
+id: simplivity-380-gen10-g
+vendor_id: hp
+name: Simplivity 380 Gen10 G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:simplivity_380_gen10_g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplivity_380_gen10_g
+  confidence: auto

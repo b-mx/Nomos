@@ -1,0 +1,10 @@
+id: neverstop-laser-1000-5hg80a
+vendor_id: hp
+name: Neverstop Laser 1000 5Hg80A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:neverstop_laser_1000_5hg80a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neverstop_laser_1000_5hg80a
+  confidence: auto

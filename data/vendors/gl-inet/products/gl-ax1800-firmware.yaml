@@ -1,0 +1,10 @@
+id: gl-ax1800-firmware
+vendor_id: gl-inet
+name: Gl-Ax1800 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gl\-inet:gl\-ax1800_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-ax1800_firmware
+  confidence: auto

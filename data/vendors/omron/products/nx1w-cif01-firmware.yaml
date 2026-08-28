@@ -1,0 +1,10 @@
+id: nx1w-cif01-firmware
+vendor_id: omron
+name: Nx1W-Cif01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:nx1w\-cif01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx1w-cif01_firmware
+  confidence: auto

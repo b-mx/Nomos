@@ -1,0 +1,10 @@
+id: usg2200
+vendor_id: huawei
+name: Usg2200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:usg2200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usg2200
+  confidence: auto

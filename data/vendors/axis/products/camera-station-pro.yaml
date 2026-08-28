@@ -1,0 +1,10 @@
+id: camera-station-pro
+vendor_id: axis
+name: Camera Station Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:axis:camera_station_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: camera_station_pro
+  confidence: auto

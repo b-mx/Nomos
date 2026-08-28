@@ -1,0 +1,10 @@
+id: gcab
+vendor_id: gnome
+name: Gcab
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gcab:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gcab
+  confidence: auto

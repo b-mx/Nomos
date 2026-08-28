@@ -1,0 +1,10 @@
+id: opera-touch
+vendor_id: opera
+name: Opera Touch
+type: software
+tags: []
+cpe: cpe:2.3:a:opera:opera_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opera_touch
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dendrite
+vendor_id: matrix
+name: Dendrite
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:dendrite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dendrite
+  confidence: auto

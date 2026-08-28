@@ -1,0 +1,10 @@
+id: sg203
+vendor_id: avaya
+name: Sg203
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:sg203:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg203
+  confidence: auto

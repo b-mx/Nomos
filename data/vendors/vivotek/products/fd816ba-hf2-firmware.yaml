@@ -1,0 +1,10 @@
+id: fd816ba-hf2-firmware
+vendor_id: vivotek
+name: Fd816Ba-Hf2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fd816ba\-hf2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd816ba-hf2_firmware
+  confidence: auto

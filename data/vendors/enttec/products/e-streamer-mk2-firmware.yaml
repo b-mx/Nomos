@@ -1,0 +1,10 @@
+id: e-streamer-mk2-firmware
+vendor_id: enttec
+name: E-Streamer Mk2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:enttec:e\-streamer_mk2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-streamer_mk2_firmware
+  confidence: auto

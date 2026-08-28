@@ -1,0 +1,10 @@
+id: factorytalk-logix-echo-firmware
+vendor_id: rockwellautomation
+name: Factorytalk Logix Echo Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:factorytalk_logix_echo_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: factorytalk_logix_echo_firmware
+  confidence: auto

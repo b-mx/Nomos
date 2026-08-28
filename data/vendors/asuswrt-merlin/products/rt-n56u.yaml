@@ -1,0 +1,10 @@
+id: rt-n56u
+vendor_id: asuswrt-merlin
+name: Rt-N56U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-n56u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-n56u
+  confidence: auto

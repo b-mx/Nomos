@@ -1,0 +1,13 @@
+id: flux
+vendor_id: fluxcd
+name: Flux
+type: software
+tags: []
+cpe: cpe:2.3:a:fluxcd:flux2:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: flux
+  confidence: auto
+- source: nvd
+  value: flux2
+  confidence: auto

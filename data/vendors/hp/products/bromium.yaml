@@ -1,0 +1,10 @@
+id: bromium
+vendor_id: hp
+name: Bromium
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:bromium:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bromium
+  confidence: auto

@@ -1,0 +1,10 @@
+id: n20-chromebook
+vendor_id: lenovo
+name: N20 Chromebook
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:n20_chromebook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n20_chromebook
+  confidence: auto

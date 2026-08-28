@@ -1,0 +1,10 @@
+id: vert-x-stomp
+vendor_id: eclipse
+name: Vert.X Stomp
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:vert\.x_stomp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vert.x_stomp
+  confidence: auto

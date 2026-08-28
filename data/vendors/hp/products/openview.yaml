@@ -1,0 +1,10 @@
+id: openview
+vendor_id: hp
+name: Openview
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:openview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openview
+  confidence: auto

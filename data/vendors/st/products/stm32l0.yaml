@@ -1,0 +1,10 @@
+id: stm32l0
+vendor_id: st
+name: Stm32L0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l0
+  confidence: auto

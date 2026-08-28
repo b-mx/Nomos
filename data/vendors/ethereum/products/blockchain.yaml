@@ -1,0 +1,10 @@
+id: blockchain
+vendor_id: ethereum
+name: Blockchain
+type: software
+tags: []
+cpe: cpe:2.3:a:ethereum:blockchain:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blockchain
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pixma-tr150
+vendor_id: canon
+name: Pixma Tr150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:pixma_tr150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pixma_tr150
+  confidence: auto

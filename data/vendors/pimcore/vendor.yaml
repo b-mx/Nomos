@@ -1,0 +1,7 @@
+id: pimcore
+name: Pimcore
+cpe: cpe:2.3:*:pimcore:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pimcore
+  confidence: auto

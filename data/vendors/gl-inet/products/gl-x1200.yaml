@@ -1,0 +1,10 @@
+id: gl-x1200
+vendor_id: gl-inet
+name: Gl-X1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-x1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-x1200
+  confidence: auto

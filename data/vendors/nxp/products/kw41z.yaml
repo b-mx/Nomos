@@ -1,0 +1,10 @@
+id: kw41z
+vendor_id: nxp
+name: Kw41Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:kw41z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kw41z
+  confidence: auto

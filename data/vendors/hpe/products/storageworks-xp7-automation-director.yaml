@@ -1,0 +1,10 @@
+id: storageworks-xp7-automation-director
+vendor_id: hpe
+name: Storageworks Xp7 Automation Director
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:storageworks_xp7_automation_director:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storageworks_xp7_automation_director
+  confidence: auto

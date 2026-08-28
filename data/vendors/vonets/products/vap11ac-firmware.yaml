@@ -1,0 +1,10 @@
+id: vap11ac-firmware
+vendor_id: vonets
+name: Vap11Ac Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vonets:vap11ac_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vap11ac_firmware
+  confidence: auto

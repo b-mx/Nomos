@@ -1,0 +1,10 @@
+id: kibana
+vendor_id: elasticsearch
+name: Kibana
+type: software
+tags: []
+cpe: cpe:2.3:a:elasticsearch:kibana:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kibana
+  confidence: auto

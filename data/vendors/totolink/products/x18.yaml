@@ -1,0 +1,10 @@
+id: x18
+vendor_id: totolink
+name: X18
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:x18:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x18
+  confidence: auto

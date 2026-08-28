@@ -1,0 +1,10 @@
+id: thinkpad-w530
+vendor_id: lenovo
+name: Thinkpad W530
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_w530:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_w530
+  confidence: auto

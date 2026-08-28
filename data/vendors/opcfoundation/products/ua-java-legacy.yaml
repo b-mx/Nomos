@@ -1,0 +1,10 @@
+id: ua-java-legacy
+vendor_id: opcfoundation
+name: Ua Java Legacy
+type: software
+tags: []
+cpe: cpe:2.3:a:opcfoundation:ua_java_legacy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ua_java_legacy
+  confidence: auto

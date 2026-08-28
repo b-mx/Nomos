@@ -1,0 +1,10 @@
+id: optima-eaf-225
+vendor_id: sloan
+name: Optima Eaf-225
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:optima_eaf\-225:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_eaf-225
+  confidence: auto

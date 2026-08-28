@@ -1,0 +1,10 @@
+id: netmail
+vendor_id: novell
+name: Netmail
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:netmail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netmail
+  confidence: auto

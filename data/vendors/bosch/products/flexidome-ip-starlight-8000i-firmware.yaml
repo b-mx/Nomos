@@ -1,0 +1,10 @@
+id: flexidome-ip-starlight-8000i-firmware
+vendor_id: bosch
+name: Flexidome Ip Starlight 8000I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:flexidome_ip_starlight_8000i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_ip_starlight_8000i_firmware
+  confidence: auto

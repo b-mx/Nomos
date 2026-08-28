@@ -1,0 +1,10 @@
+id: cx924
+vendor_id: lexmark
+name: Cx924
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cx924:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx924
+  confidence: auto

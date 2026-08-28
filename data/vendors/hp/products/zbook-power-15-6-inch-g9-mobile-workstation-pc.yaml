@@ -1,0 +1,10 @@
+id: zbook-power-15-6-inch-g9-mobile-workstation-pc
+vendor_id: hp
+name: Zbook Power 15.6 Inch G9 Mobile Workstation Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_power_15\.6_inch_g9_mobile_workstation_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_power_15.6_inch_g9_mobile_workstation_pc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pulse
+vendor_id: sound4
+name: Pulse
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sound4:pulse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pulse
+  confidence: auto

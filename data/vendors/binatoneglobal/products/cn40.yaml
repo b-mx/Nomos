@@ -1,0 +1,10 @@
+id: cn40
+vendor_id: binatoneglobal
+name: Cn40
+type: hardware
+tags: []
+cpe: cpe:2.3:h:binatoneglobal:cn40:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn40
+  confidence: auto

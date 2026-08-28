@@ -1,0 +1,13 @@
+id: plesk
+vendor_id: plesk
+name: Plesk
+type: software
+tags: []
+cpe: cpe:2.3:a:plesk:plesk:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: plesk
+  confidence: auto
+- source: nvd
+  value: plesk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: threadx-usbx
+vendor_id: eclipse
+name: Threadx Usbx
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:threadx_usbx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: threadx_usbx
+  confidence: auto

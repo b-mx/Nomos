@@ -1,0 +1,10 @@
+id: mds-g516e
+vendor_id: moxa
+name: Mds-G516E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:mds\-g516e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mds-g516e
+  confidence: auto

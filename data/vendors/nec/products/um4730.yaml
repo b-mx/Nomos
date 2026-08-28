@@ -1,0 +1,10 @@
+id: um4730
+vendor_id: nec
+name: Um4730
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:um4730:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: um4730
+  confidence: auto

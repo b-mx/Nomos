@@ -1,0 +1,10 @@
+id: koko
+vendor_id: fit2cloud
+name: Koko
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:koko:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: koko
+  confidence: auto

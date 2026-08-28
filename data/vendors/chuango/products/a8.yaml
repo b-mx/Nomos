@@ -1,0 +1,10 @@
+id: a8
+vendor_id: chuango
+name: A8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chuango:a8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a8
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xr620
+vendor_id: cambiumnetworks
+name: Xr620
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cambiumnetworks:xr620:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xr620
+  confidence: auto

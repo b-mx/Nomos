@@ -1,0 +1,10 @@
+id: taurus-al00b-firmware
+vendor_id: huawei
+name: Taurus-Al00B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:taurus\-al00b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: taurus-al00b_firmware
+  confidence: auto

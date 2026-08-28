@@ -1,0 +1,10 @@
+id: na5-15w
+vendor_id: omron
+name: Na5-15W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:na5\-15w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: na5-15w
+  confidence: auto

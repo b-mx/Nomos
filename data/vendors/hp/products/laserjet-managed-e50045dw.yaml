@@ -1,0 +1,10 @@
+id: laserjet-managed-e50045dw
+vendor_id: hp
+name: Laserjet Managed E50045Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_e50045dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_e50045dw
+  confidence: auto

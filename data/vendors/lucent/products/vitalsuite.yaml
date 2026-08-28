@@ -1,0 +1,10 @@
+id: vitalsuite
+vendor_id: lucent
+name: Vitalsuite
+type: software
+tags: []
+cpe: cpe:2.3:a:lucent:vitalsuite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vitalsuite
+  confidence: auto

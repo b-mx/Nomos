@@ -1,0 +1,10 @@
+id: click-plc
+vendor_id: automationdirect
+name: Click Plc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:automationdirect:click_plc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: click_plc
+  confidence: auto

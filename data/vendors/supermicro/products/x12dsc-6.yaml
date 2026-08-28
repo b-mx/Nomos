@@ -1,0 +1,10 @@
+id: x12dsc-6
+vendor_id: supermicro
+name: X12Dsc-6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12dsc\-6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dsc-6
+  confidence: auto

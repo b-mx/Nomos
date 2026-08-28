@@ -1,0 +1,10 @@
+id: qnv-7012r-firmware
+vendor_id: hanwhavision
+name: Qnv-7012R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:qnv\-7012r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnv-7012r_firmware
+  confidence: auto

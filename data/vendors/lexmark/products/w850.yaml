@@ -1,0 +1,10 @@
+id: w850
+vendor_id: lexmark
+name: W850
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:w850:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w850
+  confidence: auto

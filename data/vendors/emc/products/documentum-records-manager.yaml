@@ -1,0 +1,10 @@
+id: documentum-records-manager
+vendor_id: emc
+name: Documentum Records Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_records_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_records_manager
+  confidence: auto

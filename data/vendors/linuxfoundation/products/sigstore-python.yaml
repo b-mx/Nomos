@@ -1,0 +1,10 @@
+id: sigstore-python
+vendor_id: linuxfoundation
+name: Sigstore-Python
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:sigstore\-python:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sigstore-python
+  confidence: auto

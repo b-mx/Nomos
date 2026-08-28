@@ -1,0 +1,7 @@
+id: avaya
+name: Avaya
+cpe: cpe:2.3:*:avaya:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avaya
+  confidence: auto

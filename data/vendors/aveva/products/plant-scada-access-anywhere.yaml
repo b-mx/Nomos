@@ -1,0 +1,10 @@
+id: plant-scada-access-anywhere
+vendor_id: aveva
+name: Plant Scada Access Anywhere
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:plant_scada_access_anywhere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plant_scada_access_anywhere
+  confidence: auto

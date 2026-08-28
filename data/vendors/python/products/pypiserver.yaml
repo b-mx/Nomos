@@ -1,0 +1,10 @@
+id: pypiserver
+vendor_id: python
+name: Pypiserver
+type: software
+tags: []
+cpe: cpe:2.3:a:python:pypiserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pypiserver
+  confidence: auto

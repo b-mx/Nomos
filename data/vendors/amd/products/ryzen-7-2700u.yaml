@@ -1,0 +1,10 @@
+id: ryzen-7-2700u
+vendor_id: amd
+name: Ryzen 7 2700U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_7_2700u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_2700u
+  confidence: auto

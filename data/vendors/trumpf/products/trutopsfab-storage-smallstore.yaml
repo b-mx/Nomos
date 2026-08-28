@@ -1,0 +1,10 @@
+id: trutopsfab-storage-smallstore
+vendor_id: trumpf
+name: Trutopsfab Storage Smallstore
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:trutopsfab_storage_smallstore:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trutopsfab_storage_smallstore
+  confidence: auto

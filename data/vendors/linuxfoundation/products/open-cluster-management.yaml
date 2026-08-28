@@ -1,0 +1,10 @@
+id: open-cluster-management
+vendor_id: linuxfoundation
+name: Open Cluster Management
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:open_cluster_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_cluster_management
+  confidence: auto

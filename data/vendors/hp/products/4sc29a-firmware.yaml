@@ -1,0 +1,10 @@
+id: 4sc29a-firmware
+vendor_id: hp
+name: 4Sc29A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:4sc29a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4sc29a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dt2485-firmware
+vendor_id: rstinstruments
+name: Dt2485 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:dt2485_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt2485_firmware
+  confidence: auto

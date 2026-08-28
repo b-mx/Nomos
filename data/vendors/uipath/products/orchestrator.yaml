@@ -1,0 +1,10 @@
+id: orchestrator
+vendor_id: uipath
+name: Orchestrator
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:orchestrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: orchestrator
+  confidence: auto

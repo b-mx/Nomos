@@ -1,0 +1,10 @@
+id: epyc-embedded-9454p-firmware
+vendor_id: amd
+name: Epyc Embedded 9454P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:epyc_embedded_9454p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_embedded_9454p_firmware
+  confidence: auto

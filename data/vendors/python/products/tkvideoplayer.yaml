@@ -1,0 +1,10 @@
+id: tkvideoplayer
+vendor_id: python
+name: Tkvideoplayer
+type: software
+tags: []
+cpe: cpe:2.3:a:python:tkvideoplayer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tkvideoplayer
+  confidence: auto

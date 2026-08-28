@@ -1,0 +1,10 @@
+id: w840
+vendor_id: lexmark
+name: W840
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:w840:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w840
+  confidence: auto

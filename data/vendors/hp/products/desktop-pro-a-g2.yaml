@@ -1,0 +1,10 @@
+id: desktop-pro-a-g2
+vendor_id: hp
+name: Desktop Pro A G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:desktop_pro_a_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_pro_a_g2
+  confidence: auto

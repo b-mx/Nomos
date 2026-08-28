@@ -1,0 +1,10 @@
+id: binderhub
+vendor_id: jupyter
+name: Binderhub
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:binderhub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: binderhub
+  confidence: auto

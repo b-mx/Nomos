@@ -1,0 +1,10 @@
+id: s8017
+vendor_id: unisoc
+name: S8017
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8017:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8017
+  confidence: auto

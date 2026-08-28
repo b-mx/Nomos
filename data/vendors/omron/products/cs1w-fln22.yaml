@@ -1,0 +1,10 @@
+id: cs1w-fln22
+vendor_id: omron
+name: Cs1W-Fln22
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cs1w\-fln22:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1w-fln22
+  confidence: auto

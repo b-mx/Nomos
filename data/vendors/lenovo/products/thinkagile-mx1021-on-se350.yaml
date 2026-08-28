@@ -1,0 +1,10 @@
+id: thinkagile-mx1021-on-se350
+vendor_id: lenovo
+name: Thinkagile Mx1021 On Se350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_mx1021_on_se350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_mx1021_on_se350
+  confidence: auto

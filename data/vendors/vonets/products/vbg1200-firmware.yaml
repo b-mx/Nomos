@@ -1,0 +1,10 @@
+id: vbg1200-firmware
+vendor_id: vonets
+name: Vbg1200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vonets:vbg1200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vbg1200_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: file
+vendor_id: gentoo
+name: File
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:file:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: file
+  confidence: auto

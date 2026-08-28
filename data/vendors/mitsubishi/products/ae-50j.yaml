@@ -1,0 +1,10 @@
+id: ae-50j
+vendor_id: mitsubishi
+name: Ae-50J
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:ae\-50j:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ae-50j
+  confidence: auto

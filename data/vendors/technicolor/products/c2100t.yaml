@@ -1,0 +1,10 @@
+id: c2100t
+vendor_id: technicolor
+name: C2100T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:c2100t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c2100t
+  confidence: auto

@@ -1,0 +1,9 @@
+id: rv-series-routers
+vendor_id: cisco
+name: RV Series Routers
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: RV Series Routers
+  confidence: auto

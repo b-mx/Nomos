@@ -1,0 +1,10 @@
+id: snc-eb600-firmware
+vendor_id: sony
+name: Snc-Eb600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:snc\-eb600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-eb600_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: login-using-wordpress-users
+vendor_id: miniorange
+name: Login Using Wordpress Users
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:login_using_wordpress_users:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: login_using_wordpress_users
+  confidence: auto

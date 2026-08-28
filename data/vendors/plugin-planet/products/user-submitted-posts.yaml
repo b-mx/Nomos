@@ -1,0 +1,10 @@
+id: user-submitted-posts
+vendor_id: plugin-planet
+name: User Submitted Posts
+type: software
+tags: []
+cpe: cpe:2.3:a:plugin\-planet:user_submitted_posts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: user_submitted_posts
+  confidence: auto

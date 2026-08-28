@@ -1,0 +1,10 @@
+id: savapi
+vendor_id: avira
+name: Savapi
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:savapi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: savapi
+  confidence: auto

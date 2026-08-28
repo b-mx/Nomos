@@ -1,0 +1,10 @@
+id: iot-interface
+vendor_id: rittal
+name: Iot Interface
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rittal:iot_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iot_interface
+  confidence: auto

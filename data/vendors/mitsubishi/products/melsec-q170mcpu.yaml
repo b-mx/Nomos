@@ -1,0 +1,10 @@
+id: melsec-q170mcpu
+vendor_id: mitsubishi
+name: Melsec Q170Mcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_q170mcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q170mcpu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: spring-security
+vendor_id: spring-security
+name: Spring Security
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: spring-security
+  confidence: auto

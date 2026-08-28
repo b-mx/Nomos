@@ -1,0 +1,10 @@
+id: sg6160
+vendor_id: netapp
+name: Sg6160
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:sg6160:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg6160
+  confidence: auto

@@ -1,0 +1,10 @@
+id: it-operations-analyzer
+vendor_id: hitachi
+name: It Operations Analyzer
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:it_operations_analyzer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: it_operations_analyzer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tg-s3-2
+vendor_id: abb
+name: Tg/S3.2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:tg\/s3\.2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg/s3.2
+  confidence: auto

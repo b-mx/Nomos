@@ -1,0 +1,10 @@
+id: ip-audio-conference-phone-2033
+vendor_id: nortel
+name: Ip Audio Conference Phone 2033
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:ip_audio_conference_phone_2033:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_audio_conference_phone_2033
+  confidence: auto

@@ -1,0 +1,10 @@
+id: centreon-tactical-overview-widget
+vendor_id: centreon
+name: Centreon Tactical-Overview Widget
+type: software
+tags: []
+cpe: cpe:2.3:a:centreon:centreon_tactical\-overview_widget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centreon_tactical-overview_widget
+  confidence: auto

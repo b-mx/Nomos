@@ -1,0 +1,10 @@
+id: mbnet-rokey-firmware
+vendor_id: mbconnectline
+name: Mbnet.Rokey Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mbconnectline:mbnet\.rokey_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbnet.rokey_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m28-y5s53a-firmware
+vendor_id: hp
+name: Laserjet Pro Mfp M28 Y5S53A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_mfp_m28_y5s53a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m28_y5s53a_firmware
+  confidence: auto

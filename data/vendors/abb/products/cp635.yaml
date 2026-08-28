@@ -1,0 +1,10 @@
+id: cp635
+vendor_id: abb
+name: Cp635
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:cp635:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp635
+  confidence: auto

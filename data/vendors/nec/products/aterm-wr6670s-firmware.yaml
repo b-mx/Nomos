@@ -1,0 +1,10 @@
+id: aterm-wr6670s-firmware
+vendor_id: nec
+name: Aterm Wr6670S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:aterm_wr6670s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wr6670s_firmware
+  confidence: auto

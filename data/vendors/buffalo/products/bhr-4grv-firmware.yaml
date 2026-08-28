@@ -1,0 +1,10 @@
+id: bhr-4grv-firmware
+vendor_id: buffalo
+name: Bhr-4Grv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:bhr\-4grv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bhr-4grv_firmware
+  confidence: auto

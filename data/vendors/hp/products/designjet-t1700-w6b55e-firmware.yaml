@@ -1,0 +1,10 @@
+id: designjet-t1700-w6b55e-firmware
+vendor_id: hp
+name: Designjet T1700 W6B55E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:designjet_t1700_w6b55e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_t1700_w6b55e_firmware
+  confidence: auto

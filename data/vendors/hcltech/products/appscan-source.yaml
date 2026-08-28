@@ -1,0 +1,10 @@
+id: appscan-source
+vendor_id: hcltech
+name: Appscan Source
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:appscan_source:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: appscan_source
+  confidence: auto

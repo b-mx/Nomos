@@ -1,0 +1,10 @@
+id: sl1100
+vendor_id: nec
+name: Sl1100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:sl1100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sl1100
+  confidence: auto

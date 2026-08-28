@@ -1,0 +1,10 @@
+id: guardian-link-2-transmitter-mmt-7775-firmware
+vendor_id: medtronic
+name: Guardian Link 2 Transmitter Mmt-7775 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:guardian_link_2_transmitter_mmt\-7775_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: guardian_link_2_transmitter_mmt-7775_firmware
+  confidence: auto

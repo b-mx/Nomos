@@ -1,0 +1,10 @@
+id: just-frontier
+vendor_id: justsystems
+name: Just Frontier
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:just_frontier:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: just_frontier
+  confidence: auto

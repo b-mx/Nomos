@@ -1,0 +1,10 @@
+id: topscalculation
+vendor_id: trumpf
+name: Topscalculation
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:topscalculation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: topscalculation
+  confidence: auto

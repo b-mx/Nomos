@@ -1,0 +1,10 @@
+id: xc1311
+vendor_id: axis
+name: Xc1311
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:xc1311:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xc1311
+  confidence: auto

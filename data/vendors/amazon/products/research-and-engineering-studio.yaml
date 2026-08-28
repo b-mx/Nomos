@@ -1,0 +1,10 @@
+id: research-and-engineering-studio
+vendor_id: amazon
+name: Research And Engineering Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:research_and_engineering_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: research_and_engineering_studio
+  confidence: auto

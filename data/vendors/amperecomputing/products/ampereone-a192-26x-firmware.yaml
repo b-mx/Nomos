@@ -1,0 +1,10 @@
+id: ampereone-a192-26x-firmware
+vendor_id: amperecomputing
+name: Ampereone A192-26X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amperecomputing:ampereone_a192\-26x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ampereone_a192-26x_firmware
+  confidence: auto

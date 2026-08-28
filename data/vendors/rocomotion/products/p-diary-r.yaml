@@ -1,0 +1,10 @@
+id: p-diary-r
+vendor_id: rocomotion
+name: P Diary R
+type: software
+tags: []
+cpe: cpe:2.3:a:rocomotion:p_diary_r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p_diary_r
+  confidence: auto

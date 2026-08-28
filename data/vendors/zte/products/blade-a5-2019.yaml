@@ -1,0 +1,10 @@
+id: blade-a5-2019
+vendor_id: zte
+name: Blade A5 2019
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:blade_a5_2019:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_a5_2019
+  confidence: auto

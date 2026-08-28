@@ -1,0 +1,10 @@
+id: video-security-client
+vendor_id: bosch
+name: Video Security Client
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:video_security_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_security_client
+  confidence: auto

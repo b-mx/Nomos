@@ -1,0 +1,10 @@
+id: officejet-8022-1kr71b
+vendor_id: hp
+name: Officejet 8022 1Kr71B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_8022_1kr71b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_8022_1kr71b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mobile-device-manager
+vendor_id: blackberry
+name: Mobile Device Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:mobile_device_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile_device_manager
+  confidence: auto

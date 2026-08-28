@@ -1,0 +1,10 @@
+id: kb-irip04a
+vendor_id: kbdevice
+name: Kb-Irip04A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kbdevice:kb\-irip04a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kb-irip04a
+  confidence: auto

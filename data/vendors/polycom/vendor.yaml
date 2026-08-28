@@ -1,0 +1,7 @@
+id: polycom
+name: Polycom
+cpe: cpe:2.3:*:polycom:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: polycom
+  confidence: auto

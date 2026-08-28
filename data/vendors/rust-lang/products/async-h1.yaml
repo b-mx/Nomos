@@ -1,0 +1,10 @@
+id: async-h1
+vendor_id: rust-lang
+name: Async-H1
+type: software
+tags: []
+cpe: cpe:2.3:a:rust\-lang:async\-h1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: async-h1
+  confidence: auto

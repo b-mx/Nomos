@@ -1,0 +1,10 @@
+id: virtual-san-appliance
+vendor_id: hp
+name: Virtual San Appliance
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:virtual_san_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_san_appliance
+  confidence: auto

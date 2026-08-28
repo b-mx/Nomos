@@ -1,0 +1,10 @@
+id: prodesk-480-g3-sff
+vendor_id: hp
+name: Prodesk 480 G3 Sff
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_480_g3_sff:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_480_g3_sff
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jd370a
+vendor_id: hp
+name: Jd370A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd370a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd370a
+  confidence: auto

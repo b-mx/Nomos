@@ -1,0 +1,10 @@
+id: glade
+vendor_id: gnome
+name: Glade
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:glade:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: glade
+  confidence: auto

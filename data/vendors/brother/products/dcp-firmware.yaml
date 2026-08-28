@@ -1,0 +1,10 @@
+id: dcp-firmware
+vendor_id: brother
+name: Dcp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp_firmware
+  confidence: auto

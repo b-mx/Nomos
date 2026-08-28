@@ -1,0 +1,10 @@
+id: pm-pdu-firmware
+vendor_id: powertekpdus
+name: Pm Pdu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:powertekpdus:pm_pdu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm_pdu_firmware
+  confidence: auto

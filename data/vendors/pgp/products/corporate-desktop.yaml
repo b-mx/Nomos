@@ -1,0 +1,10 @@
+id: corporate-desktop
+vendor_id: pgp
+name: Corporate Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:pgp:corporate_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: corporate_desktop
+  confidence: auto

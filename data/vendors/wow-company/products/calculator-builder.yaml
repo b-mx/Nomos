@@ -1,0 +1,10 @@
+id: calculator-builder
+vendor_id: wow-company
+name: Calculator-Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:calculator\-builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: calculator-builder
+  confidence: auto

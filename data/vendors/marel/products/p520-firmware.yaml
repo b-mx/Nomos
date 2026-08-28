@@ -1,0 +1,10 @@
+id: p520-firmware
+vendor_id: marel
+name: P520 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:p520_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p520_firmware
+  confidence: auto

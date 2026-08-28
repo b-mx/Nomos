@@ -1,0 +1,7 @@
+id: amazon
+name: Amazon
+cpe: cpe:2.3:*:amazon:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon
+  confidence: auto

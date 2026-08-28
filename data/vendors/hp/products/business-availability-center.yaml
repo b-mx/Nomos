@@ -1,0 +1,10 @@
+id: business-availability-center
+vendor_id: hp
+name: Business Availability Center
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:business_availability_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_availability_center
+  confidence: auto

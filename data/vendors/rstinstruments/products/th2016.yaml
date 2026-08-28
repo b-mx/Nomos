@@ -1,0 +1,10 @@
+id: th2016
+vendor_id: rstinstruments
+name: Th2016
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:th2016:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: th2016
+  confidence: auto

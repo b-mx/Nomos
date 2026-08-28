@@ -1,0 +1,10 @@
+id: pavilion-gaming-tg01-2xxx
+vendor_id: hp
+name: Pavilion Gaming Tg01-2Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_gaming_tg01\-2xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_gaming_tg01-2xxx
+  confidence: auto

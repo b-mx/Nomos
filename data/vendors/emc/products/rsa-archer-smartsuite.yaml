@@ -1,0 +1,10 @@
+id: rsa-archer-smartsuite
+vendor_id: emc
+name: Rsa Archer Smartsuite
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_archer_smartsuite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_archer_smartsuite
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cbv38z4ec-firmware
+vendor_id: castlenet
+name: Cbv38Z4Ec Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:castlenet:cbv38z4ec_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cbv38z4ec_firmware
+  confidence: auto

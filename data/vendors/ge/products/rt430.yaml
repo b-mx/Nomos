@@ -1,0 +1,10 @@
+id: rt430
+vendor_id: ge
+name: Rt430
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:rt430:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt430
+  confidence: auto

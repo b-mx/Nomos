@@ -1,0 +1,10 @@
+id: isupport
+vendor_id: idevspot
+name: Isupport
+type: software
+tags: []
+cpe: cpe:2.3:a:idevspot:isupport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isupport
+  confidence: auto

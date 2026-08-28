@@ -1,0 +1,10 @@
+id: thinkpad-x1-titanium-gen-1
+vendor_id: lenovo
+name: Thinkpad X1 Titanium Gen 1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x1_titanium_gen_1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_titanium_gen_1
+  confidence: auto

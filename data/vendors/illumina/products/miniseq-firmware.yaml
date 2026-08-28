@@ -1,0 +1,10 @@
+id: miniseq-firmware
+vendor_id: illumina
+name: Miniseq Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:illumina:miniseq_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miniseq_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aio-910-27ish-firmware
+vendor_id: lenovo
+name: Aio 910-27Ish Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:aio_910\-27ish_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aio_910-27ish_firmware
+  confidence: auto

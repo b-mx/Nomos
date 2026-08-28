@@ -1,0 +1,10 @@
+id: system-event-utility
+vendor_id: hp
+name: System Event Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:system_event_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_event_utility
+  confidence: auto

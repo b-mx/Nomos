@@ -1,0 +1,10 @@
+id: mt6000
+vendor_id: gl-inet
+name: Mt6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:mt6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt6000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fd9171-ht-firmware
+vendor_id: vivotek
+name: Fd9171-Ht Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fd9171\-ht_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd9171-ht_firmware
+  confidence: auto

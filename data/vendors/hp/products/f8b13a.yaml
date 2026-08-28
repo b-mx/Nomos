@@ -1,0 +1,10 @@
+id: f8b13a
+vendor_id: hp
+name: F8B13A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f8b13a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f8b13a
+  confidence: auto

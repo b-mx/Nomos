@@ -1,0 +1,10 @@
+id: msg2300-firmware
+vendor_id: raisecom
+name: Msg2300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:raisecom:msg2300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msg2300_firmware
+  confidence: auto

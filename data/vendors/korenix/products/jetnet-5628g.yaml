@@ -1,0 +1,10 @@
+id: jetnet-5628g
+vendor_id: korenix
+name: Jetnet 5628G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetnet_5628g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_5628g
+  confidence: auto

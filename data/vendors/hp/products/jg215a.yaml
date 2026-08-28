@@ -1,0 +1,10 @@
+id: jg215a
+vendor_id: hp
+name: Jg215A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg215a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg215a
+  confidence: auto

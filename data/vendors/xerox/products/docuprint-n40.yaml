@@ -1,0 +1,10 @@
+id: docuprint-n40
+vendor_id: xerox
+name: Docuprint N40
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:docuprint_n40:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_n40
+  confidence: auto

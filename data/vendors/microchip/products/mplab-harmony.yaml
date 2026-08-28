@@ -1,0 +1,10 @@
+id: mplab-harmony
+vendor_id: microchip
+name: Mplab Harmony
+type: software
+tags: []
+cpe: cpe:2.3:a:microchip:mplab_harmony:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mplab_harmony
+  confidence: auto

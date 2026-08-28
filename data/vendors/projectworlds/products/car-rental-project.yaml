@@ -1,0 +1,10 @@
+id: car-rental-project
+vendor_id: projectworlds
+name: Car Rental Project
+type: software
+tags: []
+cpe: cpe:2.3:a:projectworlds:car_rental_project:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: car_rental_project
+  confidence: auto

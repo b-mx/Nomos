@@ -1,0 +1,10 @@
+id: enterprise-home-screen
+vendor_id: zebra
+name: Enterprise Home Screen
+type: software
+tags: []
+cpe: cpe:2.3:a:zebra:enterprise_home_screen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_home_screen
+  confidence: auto

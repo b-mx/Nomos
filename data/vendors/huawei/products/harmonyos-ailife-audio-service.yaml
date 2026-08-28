@@ -1,0 +1,10 @@
+id: harmonyos-ailife-audio-service
+vendor_id: huawei
+name: Harmonyos Ailife Audio Service
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:harmonyos_ailife_audio_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: harmonyos_ailife_audio_service
+  confidence: auto

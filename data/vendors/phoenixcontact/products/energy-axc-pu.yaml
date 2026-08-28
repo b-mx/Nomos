@@ -1,0 +1,10 @@
+id: energy-axc-pu
+vendor_id: phoenixcontact
+name: Energy Axc Pu
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:energy_axc_pu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: energy_axc_pu
+  confidence: auto

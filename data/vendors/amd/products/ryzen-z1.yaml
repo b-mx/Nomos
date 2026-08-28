@@ -1,0 +1,10 @@
+id: ryzen-z1
+vendor_id: amd
+name: Ryzen Z1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_z1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_z1
+  confidence: auto

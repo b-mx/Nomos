@@ -1,0 +1,10 @@
+id: eudemon-8160e
+vendor_id: huawei
+name: Eudemon 8160E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:eudemon_8160e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eudemon_8160e
+  confidence: auto

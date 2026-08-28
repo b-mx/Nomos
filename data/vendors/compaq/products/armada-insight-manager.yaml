@@ -1,0 +1,10 @@
+id: armada-insight-manager
+vendor_id: compaq
+name: Armada Insight Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:armada_insight_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: armada_insight_manager
+  confidence: auto

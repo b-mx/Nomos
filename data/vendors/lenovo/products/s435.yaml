@@ -1,0 +1,10 @@
+id: s435
+vendor_id: lenovo
+name: S435
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:s435:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s435
+  confidence: auto

@@ -1,0 +1,10 @@
+id: exacqvision-web-service
+vendor_id: johnsoncontrols
+name: Exacqvision Web Service
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:exacqvision_web_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exacqvision_web_service
+  confidence: auto

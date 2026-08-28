@@ -1,0 +1,10 @@
+id: intelligent-platforms-proficy-hmi-scada-cimplicity
+vendor_id: ge
+name: Intelligent Platforms Proficy Hmi/Scada Cimplicity
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:intelligent_platforms_proficy_hmi\/scada_cimplicity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_platforms_proficy_hmi/scada_cimplicity
+  confidence: auto

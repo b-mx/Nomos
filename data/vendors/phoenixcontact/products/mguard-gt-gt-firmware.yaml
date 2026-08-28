@@ -1,0 +1,10 @@
+id: mguard-gt-gt-firmware
+vendor_id: phoenixcontact
+name: Mguard Gt/Gt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:mguard_gt\/gt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_gt/gt_firmware
+  confidence: auto

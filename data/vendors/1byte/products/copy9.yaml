@@ -1,0 +1,10 @@
+id: copy9
+vendor_id: 1byte
+name: Copy9
+type: software
+tags: []
+cpe: cpe:2.3:a:1byte:copy9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: copy9
+  confidence: auto

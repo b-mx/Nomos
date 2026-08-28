@@ -1,9 +1,8 @@
 id: sg-utm
 vendor_id: sophos
 name: SG UTM
-type: appliance
-tags:
-- firewall
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: SG UTM

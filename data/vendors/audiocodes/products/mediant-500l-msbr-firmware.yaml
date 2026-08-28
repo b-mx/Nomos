@@ -1,0 +1,10 @@
+id: mediant-500l-msbr-firmware
+vendor_id: audiocodes
+name: Mediant 500L-Msbr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:audiocodes:mediant_500l\-msbr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mediant_500l-msbr_firmware
+  confidence: auto

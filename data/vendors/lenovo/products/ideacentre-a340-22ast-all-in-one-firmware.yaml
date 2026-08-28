@@ -1,0 +1,10 @@
+id: ideacentre-a340-22ast-all-in-one-firmware
+vendor_id: lenovo
+name: Ideacentre A340-22Ast All-In-One Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_a340\-22ast_all\-in\-one_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_a340-22ast_all-in-one_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x11dpt-ps
+vendor_id: supermicro
+name: X11Dpt-Ps
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11dpt\-ps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dpt-ps
+  confidence: auto

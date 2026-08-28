@@ -1,0 +1,10 @@
+id: thinkagile-hx1021-edg
+vendor_id: lenovo
+name: Thinkagile Hx1021 Edg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_hx1021_edg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_hx1021_edg
+  confidence: auto

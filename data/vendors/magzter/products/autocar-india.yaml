@@ -1,0 +1,10 @@
+id: autocar-india
+vendor_id: magzter
+name: Autocar India
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:autocar_india:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocar_india
+  confidence: auto

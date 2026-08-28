@@ -1,0 +1,10 @@
+id: cn583a
+vendor_id: hp
+name: Cn583A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cn583a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn583a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: system-interface-device-0040
+vendor_id: panasonic
+name: System Interface Device 0040
+type: software
+tags: []
+cpe: cpe:2.3:a:panasonic:system_interface_device_0040:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_interface_device_0040
+  confidence: auto

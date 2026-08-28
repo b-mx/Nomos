@@ -1,0 +1,10 @@
+id: a7ns
+vendor_id: iptime
+name: A7Ns
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a7ns:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a7ns
+  confidence: auto

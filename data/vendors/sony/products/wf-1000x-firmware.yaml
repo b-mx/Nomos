@@ -1,0 +1,10 @@
+id: wf-1000x-firmware
+vendor_id: sony
+name: Wf-1000X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:wf\-1000x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wf-1000x_firmware
+  confidence: auto

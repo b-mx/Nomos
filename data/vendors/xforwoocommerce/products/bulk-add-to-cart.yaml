@@ -1,0 +1,10 @@
+id: bulk-add-to-cart
+vendor_id: xforwoocommerce
+name: Bulk Add To Cart
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:bulk_add_to_cart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bulk_add_to_cart
+  confidence: auto

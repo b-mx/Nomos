@@ -1,0 +1,10 @@
+id: athlon-3150g-firmware
+vendor_id: amd
+name: Athlon 3150G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:athlon_3150g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_3150g_firmware
+  confidence: auto

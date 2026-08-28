@@ -1,0 +1,10 @@
+id: pnozmulti-configurator
+vendor_id: pilz
+name: Pnozmulti Configurator
+type: software
+tags: []
+cpe: cpe:2.3:a:pilz:pnozmulti_configurator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pnozmulti_configurator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: manageengine-adaudit-plus
+vendor_id: zohocorp
+name: Manageengine Adaudit Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_adaudit_plus
+  confidence: auto

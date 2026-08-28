@@ -1,0 +1,10 @@
+id: wzr-agl300nh-firmware
+vendor_id: buffalo
+name: Wzr-Agl300Nh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wzr\-agl300nh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr-agl300nh_firmware
+  confidence: auto

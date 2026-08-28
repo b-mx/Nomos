@@ -1,0 +1,10 @@
+id: midas-black
+vendor_id: honeywell
+name: Midas Black
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:midas_black:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: midas_black
+  confidence: auto

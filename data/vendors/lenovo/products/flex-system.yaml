@@ -1,0 +1,10 @@
+id: flex-system
+vendor_id: lenovo
+name: Flex System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:flex_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_system
+  confidence: auto

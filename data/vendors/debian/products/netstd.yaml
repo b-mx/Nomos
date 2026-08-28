@@ -1,0 +1,10 @@
+id: netstd
+vendor_id: debian
+name: Netstd
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:netstd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netstd
+  confidence: auto

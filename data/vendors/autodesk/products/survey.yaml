@@ -1,0 +1,10 @@
+id: survey
+vendor_id: autodesk
+name: Survey
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:survey:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: survey
+  confidence: auto

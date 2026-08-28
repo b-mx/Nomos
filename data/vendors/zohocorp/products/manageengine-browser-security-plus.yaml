@@ -1,0 +1,10 @@
+id: manageengine-browser-security-plus
+vendor_id: zohocorp
+name: Manageengine Browser Security Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_browser_security_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_browser_security_plus
+  confidence: auto

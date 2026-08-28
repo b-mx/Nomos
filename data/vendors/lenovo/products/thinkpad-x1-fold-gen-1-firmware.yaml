@@ -1,0 +1,10 @@
+id: thinkpad-x1-fold-gen-1-firmware
+vendor_id: lenovo
+name: Thinkpad X1 Fold Gen 1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_x1_fold_gen_1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x1_fold_gen_1_firmware
+  confidence: auto

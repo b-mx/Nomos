@@ -1,0 +1,10 @@
+id: psus4-printserver
+vendor_id: linksys
+name: Psus4 Printserver
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:psus4_printserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: psus4_printserver
+  confidence: auto

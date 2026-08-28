@@ -1,0 +1,10 @@
+id: jace-8000
+vendor_id: tridium
+name: Jace-8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tridium:jace\-8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jace-8000
+  confidence: auto

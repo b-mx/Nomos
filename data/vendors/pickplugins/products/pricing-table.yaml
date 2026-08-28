@@ -1,0 +1,10 @@
+id: pricing-table
+vendor_id: pickplugins
+name: Pricing Table
+type: software
+tags: []
+cpe: cpe:2.3:a:pickplugins:pricing_table:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pricing_table
+  confidence: auto

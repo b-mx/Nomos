@@ -1,0 +1,10 @@
+id: proliant-xl740f-gen9-server
+vendor_id: hp
+name: Proliant Xl740F Gen9 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_xl740f_gen9_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_xl740f_gen9_server
+  confidence: auto

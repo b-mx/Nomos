@@ -1,0 +1,10 @@
+id: thinkagile-hx7820
+vendor_id: lenovo
+name: Thinkagile Hx7820
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_hx7820:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_hx7820
+  confidence: auto

@@ -1,0 +1,10 @@
+id: network-camera-fd816ba
+vendor_id: vivotek
+name: Network Camera Fd816Ba
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:network_camera_fd816ba:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_camera_fd816ba
+  confidence: auto

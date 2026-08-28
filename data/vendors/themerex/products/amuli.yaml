@@ -1,0 +1,10 @@
+id: amuli
+vendor_id: themerex
+name: Amuli
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:amuli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amuli
+  confidence: auto

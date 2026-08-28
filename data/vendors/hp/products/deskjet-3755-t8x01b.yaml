@@ -1,0 +1,10 @@
+id: deskjet-3755-t8x01b
+vendor_id: hp
+name: Deskjet 3755 T8X01B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_3755_t8x01b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3755_t8x01b
+  confidence: auto

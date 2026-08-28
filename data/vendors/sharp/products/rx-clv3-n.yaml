@@ -1,0 +1,10 @@
+id: rx-clv3-n
+vendor_id: sharp
+name: Rx-Clv3-N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:rx\-clv3\-n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx-clv3-n
+  confidence: auto

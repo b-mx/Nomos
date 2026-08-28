@@ -1,0 +1,10 @@
+id: ryzen-mobile-firmware
+vendor_id: amd
+name: Ryzen Mobile Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_mobile_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_mobile_firmware
+  confidence: auto

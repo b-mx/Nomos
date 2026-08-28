@@ -1,0 +1,10 @@
+id: pcl6-pcl-xl-driver
+vendor_id: ricoh
+name: Pcl6 (Pcl Xl) Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:pcl6_\(pcl_xl\)_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcl6_(pcl_xl)_driver
+  confidence: auto

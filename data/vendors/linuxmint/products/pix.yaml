@@ -1,0 +1,10 @@
+id: pix
+vendor_id: linuxmint
+name: Pix
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxmint:pix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pix
+  confidence: auto

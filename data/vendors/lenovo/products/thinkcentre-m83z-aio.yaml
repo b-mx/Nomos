@@ -1,0 +1,10 @@
+id: thinkcentre-m83z-aio
+vendor_id: lenovo
+name: Thinkcentre M83Z (Aio)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m83z_\(aio\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m83z_(aio)
+  confidence: auto

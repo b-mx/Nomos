@@ -1,0 +1,10 @@
+id: n804-firmware
+vendor_id: iptime
+name: N804 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:n804_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n804_firmware
+  confidence: auto

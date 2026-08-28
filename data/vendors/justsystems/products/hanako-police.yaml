@@ -1,0 +1,10 @@
+id: hanako-police
+vendor_id: justsystems
+name: Hanako Police
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:hanako_police:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hanako_police
+  confidence: auto

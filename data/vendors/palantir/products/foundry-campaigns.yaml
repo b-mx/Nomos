@@ -1,0 +1,10 @@
+id: foundry-campaigns
+vendor_id: palantir
+name: Foundry Campaigns
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:foundry_campaigns:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foundry_campaigns
+  confidence: auto

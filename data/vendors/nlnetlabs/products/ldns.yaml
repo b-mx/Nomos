@@ -1,0 +1,10 @@
+id: ldns
+vendor_id: nlnetlabs
+name: Ldns
+type: software
+tags: []
+cpe: cpe:2.3:a:nlnetlabs:ldns:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ldns
+  confidence: auto

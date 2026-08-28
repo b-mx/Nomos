@@ -1,0 +1,10 @@
+id: vvx401
+vendor_id: polycom
+name: Vvx401
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx401:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx401
+  confidence: auto

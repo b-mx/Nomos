@@ -1,0 +1,10 @@
+id: solidfire
+vendor_id: netapp
+name: Solidfire
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:solidfire:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solidfire
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aruba-cx-8325p-32c-s0g07a
+vendor_id: hpe
+name: Aruba Cx 8325P-32C (S0G07A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_8325p\-32c_\(s0g07a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_8325p-32c_(s0g07a)
+  confidence: auto

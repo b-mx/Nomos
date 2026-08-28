@@ -1,7 +1,6 @@
 id: broadcom
 name: Broadcom
-icon: logos:broadcom-icon
 aliases:
 - source: cisa_kev
   value: Broadcom
-  confidence: curated
+  confidence: auto

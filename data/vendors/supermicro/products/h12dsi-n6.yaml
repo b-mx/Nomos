@@ -1,0 +1,10 @@
+id: h12dsi-n6
+vendor_id: supermicro
+name: H12Dsi-N6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h12dsi\-n6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12dsi-n6
+  confidence: auto

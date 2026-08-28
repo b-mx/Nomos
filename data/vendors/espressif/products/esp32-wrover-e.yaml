@@ -1,0 +1,10 @@
+id: esp32-wrover-e
+vendor_id: espressif
+name: Esp32-Wrover-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:espressif:esp32\-wrover\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp32-wrover-e
+  confidence: auto

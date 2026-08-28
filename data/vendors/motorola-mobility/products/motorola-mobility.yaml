@@ -1,0 +1,9 @@
+id: motorola-mobility
+vendor_id: motorola-mobility
+name: Motorola Mobility
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: motorola-mobility
+  confidence: auto

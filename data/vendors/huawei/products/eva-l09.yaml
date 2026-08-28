@@ -1,0 +1,10 @@
+id: eva-l09
+vendor_id: huawei
+name: Eva-L09
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:eva\-l09:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eva-l09
+  confidence: auto

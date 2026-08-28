@@ -1,0 +1,10 @@
+id: mp-305
+vendor_id: ricoh
+name: Mp 305+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_305\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_305+
+  confidence: auto

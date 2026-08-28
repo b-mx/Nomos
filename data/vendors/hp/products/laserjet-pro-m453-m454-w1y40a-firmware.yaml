@@ -1,0 +1,10 @@
+id: laserjet-pro-m453-m454-w1y40a-firmware
+vendor_id: hp
+name: Laserjet Pro M453-M454 W1Y40A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m453\-m454_w1y40a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m453-m454_w1y40a_firmware
+  confidence: auto

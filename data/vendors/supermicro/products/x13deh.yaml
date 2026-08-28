@@ -1,0 +1,10 @@
+id: x13deh
+vendor_id: supermicro
+name: X13Deh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13deh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13deh
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tit-al00
+vendor_id: huawei
+name: Tit-Al00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tit\-al00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tit-al00
+  confidence: auto

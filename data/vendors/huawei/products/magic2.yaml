@@ -1,0 +1,10 @@
+id: magic2
+vendor_id: huawei
+name: Magic2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:magic2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic2
+  confidence: auto

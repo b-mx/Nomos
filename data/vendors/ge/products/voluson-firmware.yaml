@@ -1,0 +1,10 @@
+id: voluson-firmware
+vendor_id: ge
+name: Voluson Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:voluson_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: voluson_firmware
+  confidence: auto

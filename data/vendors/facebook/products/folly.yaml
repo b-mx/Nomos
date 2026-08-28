@@ -1,0 +1,10 @@
+id: folly
+vendor_id: facebook
+name: Folly
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:folly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: folly
+  confidence: auto

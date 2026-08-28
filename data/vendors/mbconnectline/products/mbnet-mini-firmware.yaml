@@ -1,0 +1,10 @@
+id: mbnet-mini-firmware
+vendor_id: mbconnectline
+name: Mbnet.Mini Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mbconnectline:mbnet\.mini_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbnet.mini_firmware
+  confidence: auto

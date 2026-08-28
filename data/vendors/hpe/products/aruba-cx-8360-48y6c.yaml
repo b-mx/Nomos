@@ -1,0 +1,10 @@
+id: aruba-cx-8360-48y6c
+vendor_id: hpe
+name: Aruba Cx 8360-48Y6C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_8360\-48y6c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_8360-48y6c
+  confidence: auto

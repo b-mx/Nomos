@@ -1,0 +1,10 @@
+id: powerstation-firmware
+vendor_id: hgiga
+name: Powerstation Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hgiga:powerstation_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powerstation_firmware
+  confidence: auto

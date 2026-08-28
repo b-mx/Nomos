@@ -1,0 +1,10 @@
+id: a7000r
+vendor_id: totolink
+name: A7000R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a7000r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a7000r
+  confidence: auto

@@ -1,0 +1,10 @@
+id: srg1320vw
+vendor_id: huawei
+name: Srg1320Vw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:srg1320vw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srg1320vw
+  confidence: auto

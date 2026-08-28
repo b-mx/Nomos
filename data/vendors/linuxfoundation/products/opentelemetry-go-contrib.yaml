@@ -1,0 +1,10 @@
+id: opentelemetry-go-contrib
+vendor_id: linuxfoundation
+name: Opentelemetry-Go Contrib
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:opentelemetry\-go_contrib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentelemetry-go_contrib
+  confidence: auto

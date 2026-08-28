@@ -1,0 +1,10 @@
+id: naturemag-lite
+vendor_id: machothemes
+name: Naturemag Lite
+type: software
+tags: []
+cpe: cpe:2.3:a:machothemes:naturemag_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: naturemag_lite
+  confidence: auto

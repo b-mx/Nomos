@@ -1,7 +1,6 @@
 id: apple
 name: Apple
-icon: logos:apple
 aliases:
 - source: cisa_kev
   value: Apple
-  confidence: curated
+  confidence: auto

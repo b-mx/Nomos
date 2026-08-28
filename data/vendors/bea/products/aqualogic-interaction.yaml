@@ -1,0 +1,10 @@
+id: aqualogic-interaction
+vendor_id: bea
+name: Aqualogic Interaction
+type: software
+tags: []
+cpe: cpe:2.3:a:bea:aqualogic_interaction:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aqualogic_interaction
+  confidence: auto

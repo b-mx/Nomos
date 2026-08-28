@@ -1,0 +1,10 @@
+id: ipg-hp500nr-s-firmware
+vendor_id: xiongmaitech
+name: Ipg-Hp500Nr-S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:ipg\-hp500nr\-s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipg-hp500nr-s_firmware
+  confidence: auto

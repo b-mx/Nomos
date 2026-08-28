@@ -1,0 +1,10 @@
+id: xilinx-z-7012s-firmware
+vendor_id: amd
+name: Xilinx Z-7012S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:xilinx_z\-7012s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xilinx_z-7012s_firmware
+  confidence: auto

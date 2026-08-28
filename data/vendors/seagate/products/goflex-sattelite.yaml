@@ -1,0 +1,10 @@
+id: goflex-sattelite
+vendor_id: seagate
+name: Goflex Sattelite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seagate:goflex_sattelite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: goflex_sattelite
+  confidence: auto

@@ -1,0 +1,10 @@
+id: systemwalker-software-configuration-manager
+vendor_id: fujitsu
+name: Systemwalker Software Configuration Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:systemwalker_software_configuration_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: systemwalker_software_configuration_manager
+  confidence: auto

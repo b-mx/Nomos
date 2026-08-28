@@ -1,0 +1,10 @@
+id: thinksystem-sr258-v2-firmware
+vendor_id: lenovo
+name: Thinksystem Sr258 V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksystem_sr258_v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_sr258_v2_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dropbox-sdk
+vendor_id: dropbox
+name: Dropbox Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:dropbox:dropbox_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dropbox_sdk
+  confidence: auto

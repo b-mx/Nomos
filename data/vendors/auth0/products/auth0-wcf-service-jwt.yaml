@@ -1,0 +1,10 @@
+id: auth0-wcf-service-jwt
+vendor_id: auth0
+name: Auth0-Wcf-Service-Jwt
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:auth0\-wcf\-service\-jwt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: auth0-wcf-service-jwt
+  confidence: auto

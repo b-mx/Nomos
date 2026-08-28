@@ -1,0 +1,10 @@
+id: vector-packet-processor
+vendor_id: lfprojects
+name: Vector Packet Processor
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:vector_packet_processor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vector_packet_processor
+  confidence: auto

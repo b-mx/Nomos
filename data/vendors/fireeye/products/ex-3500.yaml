@@ -1,0 +1,10 @@
+id: ex-3500
+vendor_id: fireeye
+name: Ex 3500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fireeye:ex_3500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex_3500
+  confidence: auto

@@ -1,0 +1,10 @@
+id: messenger
+vendor_id: yahoo
+name: Messenger
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:messenger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: messenger
+  confidence: auto

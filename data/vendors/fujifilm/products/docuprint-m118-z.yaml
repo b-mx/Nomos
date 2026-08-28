@@ -1,0 +1,10 @@
+id: docuprint-m118-z
+vendor_id: fujifilm
+name: Docuprint M118 Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:docuprint_m118_z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_m118_z
+  confidence: auto

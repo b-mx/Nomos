@@ -1,0 +1,10 @@
+id: pnm-7082rvd-firmware
+vendor_id: hanwhavision
+name: Pnm-7082Rvd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:pnm\-7082rvd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pnm-7082rvd_firmware
+  confidence: auto

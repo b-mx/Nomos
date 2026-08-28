@@ -1,0 +1,10 @@
+id: frame-service
+vendor_id: vivo
+name: Frame Service
+type: software
+tags: []
+cpe: cpe:2.3:a:vivo:frame_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frame_service
+  confidence: auto

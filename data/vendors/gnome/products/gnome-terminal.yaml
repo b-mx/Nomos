@@ -1,0 +1,10 @@
+id: gnome-terminal
+vendor_id: gnome
+name: Gnome-Terminal
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-terminal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-terminal
+  confidence: auto

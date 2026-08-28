@@ -1,0 +1,10 @@
+id: wli-h4-d600-firmware
+vendor_id: buffalo
+name: Wli-H4-D600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wli\-h4\-d600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wli-h4-d600_firmware
+  confidence: auto

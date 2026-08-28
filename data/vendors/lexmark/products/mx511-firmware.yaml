@@ -1,0 +1,10 @@
+id: mx511-firmware
+vendor_id: lexmark
+name: Mx511 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:mx511_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx511_firmware
+  confidence: auto

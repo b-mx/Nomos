@@ -1,0 +1,10 @@
+id: zope
+vendor_id: zope
+name: Zope
+type: software
+tags: []
+cpe: cpe:2.3:a:zope:zope:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zope
+  confidence: auto

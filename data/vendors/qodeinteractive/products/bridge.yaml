@@ -1,0 +1,10 @@
+id: bridge
+vendor_id: qodeinteractive
+name: Bridge
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:bridge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bridge
+  confidence: auto

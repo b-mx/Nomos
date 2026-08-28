@@ -1,0 +1,10 @@
+id: wlan-access-point-2221
+vendor_id: nortel
+name: Wlan Access Point 2221
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:wlan_access_point_2221:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlan_access_point_2221
+  confidence: auto

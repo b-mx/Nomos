@@ -1,0 +1,10 @@
+id: cmt-svr-100
+vendor_id: weintek
+name: Cmt-Svr-100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weintek:cmt\-svr\-100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt-svr-100
+  confidence: auto

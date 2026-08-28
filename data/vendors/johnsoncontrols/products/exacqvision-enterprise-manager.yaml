@@ -1,0 +1,10 @@
+id: exacqvision-enterprise-manager
+vendor_id: johnsoncontrols
+name: Exacqvision Enterprise Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:exacqvision_enterprise_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exacqvision_enterprise_manager
+  confidence: auto

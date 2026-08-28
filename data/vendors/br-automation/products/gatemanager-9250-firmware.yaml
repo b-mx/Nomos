@@ -1,0 +1,10 @@
+id: gatemanager-9250-firmware
+vendor_id: br-automation
+name: Gatemanager 9250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:br\-automation:gatemanager_9250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gatemanager_9250_firmware
+  confidence: auto

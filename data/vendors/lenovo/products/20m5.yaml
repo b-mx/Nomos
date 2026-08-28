@@ -1,0 +1,10 @@
+id: 20m5
+vendor_id: lenovo
+name: 20M5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20m5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20m5
+  confidence: auto

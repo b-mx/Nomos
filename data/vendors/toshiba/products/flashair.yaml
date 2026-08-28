@@ -1,0 +1,10 @@
+id: flashair
+vendor_id: toshiba
+name: Flashair
+type: software
+tags: []
+cpe: cpe:2.3:a:toshiba:flashair:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flashair
+  confidence: auto

@@ -1,0 +1,10 @@
+id: crucial-mx100-firmware
+vendor_id: micron
+name: Crucial Mx100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:micron:crucial_mx100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crucial_mx100_firmware
+  confidence: auto

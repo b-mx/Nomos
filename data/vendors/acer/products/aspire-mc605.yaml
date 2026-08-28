@@ -1,0 +1,10 @@
+id: aspire-mc605
+vendor_id: acer
+name: Aspire Mc605
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_mc605:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_mc605
+  confidence: auto

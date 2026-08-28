@@ -1,0 +1,10 @@
+id: chromebook-15-cb3-532
+vendor_id: acer
+name: Chromebook 15 Cb3-532
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:chromebook_15_cb3\-532:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chromebook_15_cb3-532
+  confidence: auto

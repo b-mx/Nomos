@@ -1,0 +1,10 @@
+id: rockdisk
+vendor_id: iodata
+name: Rockdisk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:rockdisk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rockdisk
+  confidence: auto

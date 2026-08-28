@@ -1,0 +1,10 @@
+id: yoga-14-firmware
+vendor_id: lenovo
+name: Yoga 14 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yoga_14_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_14_firmware
+  confidence: auto

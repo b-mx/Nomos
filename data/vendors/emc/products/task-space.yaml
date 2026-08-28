@@ -1,0 +1,10 @@
+id: task-space
+vendor_id: emc
+name: Task Space
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:task_space:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: task_space
+  confidence: auto

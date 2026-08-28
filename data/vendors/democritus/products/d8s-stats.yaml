@@ -1,0 +1,10 @@
+id: d8s-stats
+vendor_id: democritus
+name: D8S-Stats
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-stats:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-stats
+  confidence: auto

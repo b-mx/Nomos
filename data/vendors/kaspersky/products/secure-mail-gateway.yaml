@@ -1,0 +1,10 @@
+id: secure-mail-gateway
+vendor_id: kaspersky
+name: Secure Mail Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:secure_mail_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_mail_gateway
+  confidence: auto

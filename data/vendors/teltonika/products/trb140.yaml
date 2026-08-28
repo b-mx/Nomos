@@ -1,0 +1,10 @@
+id: trb140
+vendor_id: teltonika
+name: Trb140
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika:trb140:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trb140
+  confidence: auto

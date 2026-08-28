@@ -1,0 +1,10 @@
+id: c510
+vendor_id: lexmark
+name: C510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c510
+  confidence: auto

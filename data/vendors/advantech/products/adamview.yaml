@@ -1,0 +1,10 @@
+id: adamview
+vendor_id: advantech
+name: Adamview
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:adamview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adamview
+  confidence: auto

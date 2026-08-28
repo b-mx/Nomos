@@ -1,0 +1,10 @@
+id: thinkagile-7d1h
+vendor_id: lenovo
+name: Thinkagile 7D1H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_7d1h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_7d1h
+  confidence: auto

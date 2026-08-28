@@ -1,0 +1,10 @@
+id: a1sam-2550f
+vendor_id: supermicro
+name: A1Sam-2550F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:a1sam\-2550f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1sam-2550f
+  confidence: auto

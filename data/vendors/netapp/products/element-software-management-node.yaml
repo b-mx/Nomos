@@ -1,0 +1,10 @@
+id: element-software-management-node
+vendor_id: netapp
+name: Element Software Management Node
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:element_software_management_node:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: element_software_management_node
+  confidence: auto

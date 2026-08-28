@@ -1,0 +1,10 @@
+id: coupon-zen
+vendor_id: hasthemes
+name: Coupon Zen
+type: software
+tags: []
+cpe: cpe:2.3:a:hasthemes:coupon_zen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coupon_zen
+  confidence: auto

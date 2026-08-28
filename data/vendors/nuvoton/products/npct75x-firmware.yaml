@@ -1,0 +1,10 @@
+id: npct75x-firmware
+vendor_id: nuvoton
+name: Npct75X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nuvoton:npct75x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: npct75x_firmware
+  confidence: auto

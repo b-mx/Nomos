@@ -1,0 +1,10 @@
+id: ras-ec-220-lw
+vendor_id: etictelecom
+name: Ras-Ec-220-Lw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:etictelecom:ras\-ec\-220\-lw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ras-ec-220-lw
+  confidence: auto

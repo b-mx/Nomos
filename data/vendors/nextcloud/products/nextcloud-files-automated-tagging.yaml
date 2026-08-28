@@ -1,0 +1,10 @@
+id: nextcloud-files-automated-tagging
+vendor_id: nextcloud
+name: Nextcloud Files Automated Tagging
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:nextcloud_files_automated_tagging:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextcloud_files_automated_tagging
+  confidence: auto

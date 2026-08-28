@@ -1,0 +1,10 @@
+id: hmp350
+vendor_id: spinetix
+name: Hmp350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:spinetix:hmp350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hmp350
+  confidence: auto

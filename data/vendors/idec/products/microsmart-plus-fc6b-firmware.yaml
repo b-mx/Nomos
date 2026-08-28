@@ -1,0 +1,10 @@
+id: microsmart-plus-fc6b-firmware
+vendor_id: idec
+name: Microsmart Plus Fc6B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idec:microsmart_plus_fc6b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microsmart_plus_fc6b_firmware
+  confidence: auto

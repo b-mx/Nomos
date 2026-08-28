@@ -1,0 +1,10 @@
+id: x12dpi-n6
+vendor_id: supermicro
+name: X12Dpi-N6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12dpi\-n6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dpi-n6
+  confidence: auto

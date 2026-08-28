@@ -1,0 +1,10 @@
+id: kio-firmware
+vendor_id: tekon
+name: Kio Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tekon:kio_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kio_firmware
+  confidence: auto

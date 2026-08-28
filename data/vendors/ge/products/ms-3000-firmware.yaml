@@ -1,0 +1,10 @@
+id: ms-3000-firmware
+vendor_id: ge
+name: Ms 3000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:ms_3000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms_3000_firmware
+  confidence: auto

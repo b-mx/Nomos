@@ -1,0 +1,10 @@
+id: hp-envy-m6-n000
+vendor_id: hp
+name: Hp Envy M6-N000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_envy_m6\-n000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_envy_m6-n000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: free-anti-virus
+vendor_id: kaspersky
+name: Free Anti-Virus
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:free_anti\-virus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: free_anti-virus
+  confidence: auto

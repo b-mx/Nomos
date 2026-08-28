@@ -1,0 +1,10 @@
+id: wp-secure-maintenance
+vendor_id: wpexperts
+name: Wp Secure Maintenance
+type: software
+tags: []
+cpe: cpe:2.3:a:wpexperts:wp_secure_maintenance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_secure_maintenance
+  confidence: auto

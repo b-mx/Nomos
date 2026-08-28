@@ -1,0 +1,7 @@
+id: zope
+name: Zope
+cpe: cpe:2.3:*:zope:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zope
+  confidence: auto

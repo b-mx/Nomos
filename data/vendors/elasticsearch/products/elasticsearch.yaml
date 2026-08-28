@@ -1,0 +1,10 @@
+id: elasticsearch
+vendor_id: elasticsearch
+name: Elasticsearch
+type: software
+tags: []
+cpe: cpe:2.3:a:elasticsearch:elasticsearch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elasticsearch
+  confidence: auto

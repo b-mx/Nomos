@@ -1,0 +1,10 @@
+id: a9t80a-firmware
+vendor_id: hp
+name: A9T80A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:a9t80a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a9t80a_firmware
+  confidence: auto

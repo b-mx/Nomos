@@ -1,0 +1,10 @@
+id: modsecurity
+vendor_id: owasp
+name: Modsecurity
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:modsecurity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modsecurity
+  confidence: auto

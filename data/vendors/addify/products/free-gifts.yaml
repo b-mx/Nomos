@@ -1,0 +1,10 @@
+id: free-gifts
+vendor_id: addify
+name: Free Gifts
+type: software
+tags: []
+cpe: cpe:2.3:a:addify:free_gifts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: free_gifts
+  confidence: auto

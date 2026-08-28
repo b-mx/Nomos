@@ -1,0 +1,10 @@
+id: documentum-capital-projects
+vendor_id: emc
+name: Documentum Capital Projects
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:documentum_capital_projects:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_capital_projects
+  confidence: auto

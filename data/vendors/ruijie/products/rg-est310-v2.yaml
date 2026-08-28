@@ -1,0 +1,10 @@
+id: rg-est310-v2
+vendor_id: ruijie
+name: Rg-Est310 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-est310_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-est310_v2
+  confidence: auto

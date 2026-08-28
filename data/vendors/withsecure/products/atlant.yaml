@@ -1,0 +1,10 @@
+id: atlant
+vendor_id: withsecure
+name: Atlant
+type: software
+tags: []
+cpe: cpe:2.3:a:withsecure:atlant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atlant
+  confidence: auto

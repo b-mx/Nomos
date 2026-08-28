@@ -1,0 +1,10 @@
+id: smart-tank-670-2h5s3a
+vendor_id: hp
+name: Smart Tank 670 2H5S3A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_670_2h5s3a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_670_2h5s3a
+  confidence: auto

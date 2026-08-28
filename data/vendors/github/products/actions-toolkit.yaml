@@ -1,0 +1,10 @@
+id: actions-toolkit
+vendor_id: github
+name: Actions Toolkit
+type: software
+tags: []
+cpe: cpe:2.3:a:github:actions_toolkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: actions_toolkit
+  confidence: auto

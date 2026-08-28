@@ -1,0 +1,10 @@
+id: hb7904
+vendor_id: hbgk
+name: Hb7904
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hbgk:hb7904:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb7904
+  confidence: auto

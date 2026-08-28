@@ -1,0 +1,9 @@
+id: raspberry-pi
+vendor_id: raspberry-pi
+name: Raspberry Pi
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: raspberry-pi
+  confidence: auto

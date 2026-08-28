@@ -1,0 +1,10 @@
+id: dragon-lte
+vendor_id: microhardcorp
+name: Dragon-Lte
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microhardcorp:dragon\-lte:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dragon-lte
+  confidence: auto

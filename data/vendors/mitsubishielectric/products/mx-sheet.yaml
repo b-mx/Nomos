@@ -1,0 +1,10 @@
+id: mx-sheet
+vendor_id: mitsubishielectric
+name: Mx Sheet
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mx_sheet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx_sheet
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wrt54gl-firmware
+vendor_id: linksys
+name: Wrt54Gl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:wrt54gl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrt54gl_firmware
+  confidence: auto

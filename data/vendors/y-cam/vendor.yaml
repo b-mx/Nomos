@@ -1,0 +1,7 @@
+id: y-cam
+name: Y-Cam
+cpe: cpe:2.3:*:y\-cam:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y-cam
+  confidence: auto

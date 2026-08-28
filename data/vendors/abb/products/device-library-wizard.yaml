@@ -1,0 +1,10 @@
+id: device-library-wizard
+vendor_id: abb
+name: Device Library Wizard
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:device_library_wizard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: device_library_wizard
+  confidence: auto

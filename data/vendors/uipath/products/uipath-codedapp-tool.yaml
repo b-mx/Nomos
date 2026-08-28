@@ -1,0 +1,10 @@
+id: uipath-codedapp-tool
+vendor_id: uipath
+name: Uipath/Codedapp-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/codedapp\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/codedapp-tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: solidfire-hci-management-node
+vendor_id: netapp
+name: Solidfire & Hci Management Node
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:solidfire_\&_hci_management_node:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solidfire_&_hci_management_node
+  confidence: auto

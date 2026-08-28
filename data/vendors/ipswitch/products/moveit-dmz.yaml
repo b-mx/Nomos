@@ -1,0 +1,10 @@
+id: moveit-dmz
+vendor_id: ipswitch
+name: Moveit Dmz
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:moveit_dmz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moveit_dmz
+  confidence: auto

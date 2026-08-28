@@ -1,0 +1,10 @@
+id: nb1601
+vendor_id: netmodule
+name: Nb1601
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:nb1601:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb1601
+  confidence: auto

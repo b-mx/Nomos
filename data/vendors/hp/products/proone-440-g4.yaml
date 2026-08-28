@@ -1,0 +1,10 @@
+id: proone-440-g4
+vendor_id: hp
+name: Proone 440 G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proone_440_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proone_440_g4
+  confidence: auto

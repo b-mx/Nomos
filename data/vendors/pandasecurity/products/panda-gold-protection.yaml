@@ -1,0 +1,10 @@
+id: panda-gold-protection
+vendor_id: pandasecurity
+name: Panda Gold Protection
+type: software
+tags: []
+cpe: cpe:2.3:a:pandasecurity:panda_gold_protection:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: panda_gold_protection
+  confidence: auto

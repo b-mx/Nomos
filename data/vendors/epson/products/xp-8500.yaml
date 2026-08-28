@@ -1,0 +1,10 @@
+id: xp-8500
+vendor_id: epson
+name: Xp-8500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:xp\-8500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp-8500
+  confidence: auto

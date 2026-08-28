@@ -1,0 +1,10 @@
+id: d8s-yaml
+vendor_id: democritus
+name: D8S-Yaml
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-yaml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-yaml
+  confidence: auto

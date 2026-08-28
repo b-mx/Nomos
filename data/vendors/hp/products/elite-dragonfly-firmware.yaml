@@ -1,0 +1,10 @@
+id: elite-dragonfly-firmware
+vendor_id: hp
+name: Elite Dragonfly Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elite_dragonfly_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_dragonfly_firmware
+  confidence: auto

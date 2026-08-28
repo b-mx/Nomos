@@ -1,0 +1,10 @@
+id: aws-sdk-for-javascipt
+vendor_id: amazon
+name: Aws Sdk For Javascipt
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_sdk_for_javascipt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_sdk_for_javascipt
+  confidence: auto

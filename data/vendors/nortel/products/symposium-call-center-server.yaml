@@ -1,0 +1,10 @@
+id: symposium-call-center-server
+vendor_id: nortel
+name: Symposium Call Center Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:symposium_call_center_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symposium_call_center_server
+  confidence: auto

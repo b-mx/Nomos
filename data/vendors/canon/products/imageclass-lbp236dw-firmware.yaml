@@ -1,0 +1,10 @@
+id: imageclass-lbp236dw-firmware
+vendor_id: canon
+name: Imageclass Lbp236Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:imageclass_lbp236dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imageclass_lbp236dw_firmware
+  confidence: auto

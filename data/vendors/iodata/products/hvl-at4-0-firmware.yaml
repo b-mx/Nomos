@@ -1,0 +1,10 @@
+id: hvl-at4-0-firmware
+vendor_id: iodata
+name: Hvl-At4.0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:hvl\-at4\.0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hvl-at4.0_firmware
+  confidence: auto

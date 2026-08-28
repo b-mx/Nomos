@@ -1,0 +1,10 @@
+id: catalyst-driver
+vendor_id: amd
+name: Catalyst Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:catalyst_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catalyst_driver
+  confidence: auto

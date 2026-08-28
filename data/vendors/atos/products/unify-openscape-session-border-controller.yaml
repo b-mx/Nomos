@@ -1,0 +1,10 @@
+id: unify-openscape-session-border-controller
+vendor_id: atos
+name: Unify Openscape Session Border Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:atos:unify_openscape_session_border_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unify_openscape_session_border_controller
+  confidence: auto

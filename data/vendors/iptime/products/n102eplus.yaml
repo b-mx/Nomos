@@ -1,0 +1,10 @@
+id: n102eplus
+vendor_id: iptime
+name: N102Eplus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:n102eplus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n102eplus
+  confidence: auto

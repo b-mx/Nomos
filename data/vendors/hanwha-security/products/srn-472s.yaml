@@ -1,0 +1,10 @@
+id: srn-472s
+vendor_id: hanwha-security
+name: Srn-472S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwha\-security:srn\-472s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srn-472s
+  confidence: auto

@@ -1,0 +1,10 @@
+id: minimed-paradigm-511
+vendor_id: medtronic
+name: Minimed Paradigm 511
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:minimed_paradigm_511:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_paradigm_511
+  confidence: auto

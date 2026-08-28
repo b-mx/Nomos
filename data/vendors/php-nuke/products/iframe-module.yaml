@@ -1,0 +1,10 @@
+id: iframe-module
+vendor_id: php-nuke
+name: Iframe Module
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-nuke:iframe_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iframe_module
+  confidence: auto

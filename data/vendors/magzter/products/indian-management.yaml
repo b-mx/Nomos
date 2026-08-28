@@ -1,0 +1,10 @@
+id: indian-management
+vendor_id: magzter
+name: Indian Management
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:indian_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: indian_management
+  confidence: auto

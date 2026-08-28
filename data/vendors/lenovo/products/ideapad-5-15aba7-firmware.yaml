@@ -1,0 +1,10 @@
+id: ideapad-5-15aba7-firmware
+vendor_id: lenovo
+name: Ideapad 5 15Aba7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_5_15aba7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_5_15aba7_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: insightconnect-awk
+vendor_id: rapid7
+name: Insightconnect Awk
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:insightconnect_awk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insightconnect_awk
+  confidence: auto

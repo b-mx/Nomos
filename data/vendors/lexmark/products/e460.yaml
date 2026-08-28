@@ -1,0 +1,10 @@
+id: e460
+vendor_id: lexmark
+name: E460
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:e460:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e460
+  confidence: auto

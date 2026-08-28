@@ -1,0 +1,10 @@
+id: package-quantity
+vendor_id: xforwoocommerce
+name: Package Quantity
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:package_quantity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: package_quantity
+  confidence: auto

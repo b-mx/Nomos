@@ -1,0 +1,10 @@
+id: cz245a
+vendor_id: hp
+name: Cz245A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz245a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz245a
+  confidence: auto

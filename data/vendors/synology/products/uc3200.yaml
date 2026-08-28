@@ -1,0 +1,10 @@
+id: uc3200
+vendor_id: synology
+name: Uc3200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synology:uc3200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc3200
+  confidence: auto

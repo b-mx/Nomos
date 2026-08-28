@@ -1,0 +1,10 @@
+id: srs-xb33-firmware
+vendor_id: sony
+name: Srs-Xb33 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:srs\-xb33_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srs-xb33_firmware
+  confidence: auto

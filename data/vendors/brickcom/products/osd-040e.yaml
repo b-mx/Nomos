@@ -1,0 +1,10 @@
+id: osd-040e
+vendor_id: brickcom
+name: Osd-040E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brickcom:osd\-040e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: osd-040e
+  confidence: auto

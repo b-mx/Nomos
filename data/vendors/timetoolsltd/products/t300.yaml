@@ -1,0 +1,10 @@
+id: t300
+vendor_id: timetoolsltd
+name: T300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:timetoolsltd:t300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t300
+  confidence: auto

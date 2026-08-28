@@ -1,0 +1,10 @@
+id: videostudio-pro
+vendor_id: corel
+name: Videostudio Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:videostudio_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: videostudio_pro
+  confidence: auto

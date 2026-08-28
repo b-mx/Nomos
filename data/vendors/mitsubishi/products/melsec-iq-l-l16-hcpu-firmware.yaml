@@ -1,0 +1,10 @@
+id: melsec-iq-l-l16-hcpu-firmware
+vendor_id: mitsubishi
+name: Melsec Iq-L L16 Hcpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishi:melsec_iq\-l_l16_hcpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-l_l16_hcpu_firmware
+  confidence: auto

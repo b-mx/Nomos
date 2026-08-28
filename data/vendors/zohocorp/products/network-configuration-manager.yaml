@@ -1,0 +1,10 @@
+id: network-configuration-manager
+vendor_id: zohocorp
+name: Network Configuration Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:network_configuration_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_configuration_manager
+  confidence: auto

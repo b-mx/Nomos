@@ -1,0 +1,10 @@
+id: miwifi-os
+vendor_id: mi
+name: Miwifi Os
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:miwifi_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miwifi_os
+  confidence: auto

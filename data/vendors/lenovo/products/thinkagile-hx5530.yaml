@@ -1,0 +1,10 @@
+id: thinkagile-hx5530
+vendor_id: lenovo
+name: Thinkagile Hx5530
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_hx5530:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_hx5530
+  confidence: auto

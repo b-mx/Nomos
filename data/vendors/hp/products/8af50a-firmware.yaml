@@ -1,0 +1,10 @@
+id: 8af50a-firmware
+vendor_id: hp
+name: 8Af50A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:8af50a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 8af50a_firmware
+  confidence: auto

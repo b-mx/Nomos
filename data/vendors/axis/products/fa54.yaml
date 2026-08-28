@@ -1,0 +1,10 @@
+id: fa54
+vendor_id: axis
+name: Fa54
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:fa54:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fa54
+  confidence: auto

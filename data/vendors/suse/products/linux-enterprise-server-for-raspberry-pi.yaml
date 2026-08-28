@@ -1,0 +1,10 @@
+id: linux-enterprise-server-for-raspberry-pi
+vendor_id: suse
+name: Linux Enterprise Server For Raspberry Pi
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux_enterprise_server_for_raspberry_pi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_server_for_raspberry_pi
+  confidence: auto

@@ -1,0 +1,10 @@
+id: my-cloud
+vendor_id: westerndigital
+name: My Cloud
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westerndigital:my_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_cloud
+  confidence: auto

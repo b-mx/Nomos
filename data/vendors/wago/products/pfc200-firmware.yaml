@@ -1,0 +1,10 @@
+id: pfc200-firmware
+vendor_id: wago
+name: Pfc200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:pfc200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pfc200_firmware
+  confidence: auto

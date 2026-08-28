@@ -1,0 +1,10 @@
+id: jd240b
+vendor_id: hp
+name: Jd240B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd240b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd240b
+  confidence: auto

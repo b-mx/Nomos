@@ -1,0 +1,10 @@
+id: product-management-system
+vendor_id: remyandrade
+name: Product Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:product_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_management_system
+  confidence: auto

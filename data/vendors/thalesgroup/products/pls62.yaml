@@ -1,0 +1,10 @@
+id: pls62
+vendor_id: thalesgroup
+name: Pls62
+type: hardware
+tags: []
+cpe: cpe:2.3:h:thalesgroup:pls62:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pls62
+  confidence: auto

@@ -1,0 +1,10 @@
+id: inventory-management-system
+vendor_id: mayurik
+name: Inventory Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:mayurik:inventory_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inventory_management_system
+  confidence: auto

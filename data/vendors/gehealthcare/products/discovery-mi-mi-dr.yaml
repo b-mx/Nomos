@@ -1,0 +1,10 @@
+id: discovery-mi-mi-dr
+vendor_id: gehealthcare
+name: Discovery Mi Mi Dr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:discovery_mi_mi_dr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_mi_mi_dr
+  confidence: auto

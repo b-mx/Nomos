@@ -1,0 +1,10 @@
+id: hcl-verse
+vendor_id: hcltechsw
+name: Hcl Verse
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltechsw:hcl_verse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_verse
+  confidence: auto

@@ -1,0 +1,10 @@
+id: libxext
+vendor_id: x
+name: Libxext
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxext:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxext
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dreamweaver-ultradev
+vendor_id: macromedia
+name: Dreamweaver Ultradev
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:dreamweaver_ultradev:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dreamweaver_ultradev
+  confidence: auto

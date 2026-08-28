@@ -1,0 +1,10 @@
+id: x10drh-c-firmware
+vendor_id: supermicro
+name: X10Drh-C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10drh\-c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drh-c_firmware
+  confidence: auto

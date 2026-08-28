@@ -1,0 +1,10 @@
+id: er-one-firmware
+vendor_id: easyrobotics
+name: Er-One Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:easyrobotics:er\-one_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er-one_firmware
+  confidence: auto

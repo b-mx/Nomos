@@ -1,0 +1,10 @@
+id: suse-linux-admin-cd-for-firewall
+vendor_id: suse
+name: Suse Linux Admin-Cd For Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:suse_linux_admin\-cd_for_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_admin-cd_for_firewall
+  confidence: auto

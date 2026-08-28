@@ -1,0 +1,10 @@
+id: wapm-ax4r
+vendor_id: buffalo
+name: Wapm-Ax4R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wapm\-ax4r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wapm-ax4r
+  confidence: auto

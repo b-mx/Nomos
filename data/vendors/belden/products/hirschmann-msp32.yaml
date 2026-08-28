@@ -1,0 +1,10 @@
+id: hirschmann-msp32
+vendor_id: belden
+name: Hirschmann Msp32
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_msp32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_msp32
+  confidence: auto

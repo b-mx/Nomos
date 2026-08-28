@@ -1,0 +1,10 @@
+id: smartcare
+vendor_id: huawei
+name: Smartcare
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:smartcare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartcare
+  confidence: auto

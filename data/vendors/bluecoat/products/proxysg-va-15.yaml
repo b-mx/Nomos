@@ -1,0 +1,10 @@
+id: proxysg-va-15
+vendor_id: bluecoat
+name: Proxysg Va-15
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:proxysg_va\-15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proxysg_va-15
+  confidence: auto

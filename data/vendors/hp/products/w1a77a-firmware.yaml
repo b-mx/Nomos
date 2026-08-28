@@ -1,0 +1,10 @@
+id: w1a77a-firmware
+vendor_id: hp
+name: W1A77A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:w1a77a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1a77a_firmware
+  confidence: auto

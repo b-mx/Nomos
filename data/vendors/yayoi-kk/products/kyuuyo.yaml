@@ -1,0 +1,10 @@
+id: kyuuyo
+vendor_id: yayoi-kk
+name: Kyuuyo
+type: software
+tags: []
+cpe: cpe:2.3:a:yayoi\-kk:kyuuyo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kyuuyo
+  confidence: auto

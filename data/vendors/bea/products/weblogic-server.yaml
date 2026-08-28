@@ -1,0 +1,10 @@
+id: weblogic-server
+vendor_id: bea
+name: Weblogic Server
+type: software
+tags: []
+cpe: cpe:2.3:a:bea:weblogic_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: weblogic_server
+  confidence: auto

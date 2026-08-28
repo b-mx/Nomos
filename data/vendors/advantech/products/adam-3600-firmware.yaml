@@ -1,0 +1,10 @@
+id: adam-3600-firmware
+vendor_id: advantech
+name: Adam-3600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:advantech:adam\-3600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adam-3600_firmware
+  confidence: auto

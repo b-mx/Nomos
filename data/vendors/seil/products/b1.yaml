@@ -1,0 +1,10 @@
+id: b1
+vendor_id: seil
+name: B1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seil:b1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b1
+  confidence: auto

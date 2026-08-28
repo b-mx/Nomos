@@ -1,0 +1,14 @@
+id: wagtail
+vendor_id: torchbox
+name: Wagtail
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:torchbox:wagtail:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: wagtail
+  confidence: auto
+- source: nvd
+  value: wagtail
+  confidence: auto

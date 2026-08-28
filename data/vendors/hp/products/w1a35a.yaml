@@ -1,0 +1,10 @@
+id: w1a35a
+vendor_id: hp
+name: W1A35A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:w1a35a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1a35a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: isp3000
+vendor_id: gocloud
+name: Isp3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gocloud:isp3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isp3000
+  confidence: auto

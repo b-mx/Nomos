@@ -1,0 +1,10 @@
+id: lbp162dw-firmware
+vendor_id: canon
+name: Lbp162Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:lbp162dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lbp162dw_firmware
+  confidence: auto

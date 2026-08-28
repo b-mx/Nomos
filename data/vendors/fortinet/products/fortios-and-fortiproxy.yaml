@@ -1,0 +1,9 @@
+id: fortios-and-fortiproxy
+vendor_id: fortinet
+name: FortiOS and FortiProxy
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: FortiOS and FortiProxy
+  confidence: auto

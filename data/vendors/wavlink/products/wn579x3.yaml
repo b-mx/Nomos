@@ -1,0 +1,10 @@
+id: wn579x3
+vendor_id: wavlink
+name: Wn579X3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wavlink:wn579x3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn579x3
+  confidence: auto

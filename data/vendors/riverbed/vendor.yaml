@@ -1,0 +1,7 @@
+id: riverbed
+name: Riverbed
+cpe: cpe:2.3:*:riverbed:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: riverbed
+  confidence: auto

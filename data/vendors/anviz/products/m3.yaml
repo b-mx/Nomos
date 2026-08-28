@@ -1,0 +1,10 @@
+id: m3
+vendor_id: anviz
+name: M3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:anviz:m3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3
+  confidence: auto

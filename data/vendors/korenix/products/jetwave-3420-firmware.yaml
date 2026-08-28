@@ -1,0 +1,10 @@
+id: jetwave-3420-firmware
+vendor_id: korenix
+name: Jetwave 3420 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetwave_3420_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_3420_firmware
+  confidence: auto

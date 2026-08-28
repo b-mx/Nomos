@@ -1,0 +1,10 @@
+id: teststand
+vendor_id: ni
+name: Teststand
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:teststand:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: teststand
+  confidence: auto

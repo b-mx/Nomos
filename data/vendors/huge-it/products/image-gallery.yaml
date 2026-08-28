@@ -1,0 +1,10 @@
+id: image-gallery
+vendor_id: huge-it
+name: Image Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:huge\-it:image_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: image_gallery
+  confidence: auto

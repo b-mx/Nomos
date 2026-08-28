@@ -1,0 +1,10 @@
+id: jg311a
+vendor_id: hp
+name: Jg311A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg311a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg311a
+  confidence: auto

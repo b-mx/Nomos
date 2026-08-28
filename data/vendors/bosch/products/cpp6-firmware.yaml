@@ -1,0 +1,10 @@
+id: cpp6-firmware
+vendor_id: bosch
+name: Cpp6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:cpp6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpp6_firmware
+  confidence: auto

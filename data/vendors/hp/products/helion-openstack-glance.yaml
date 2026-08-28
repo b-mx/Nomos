@@ -1,0 +1,10 @@
+id: helion-openstack-glance
+vendor_id: hp
+name: Helion Openstack Glance
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:helion_openstack_glance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: helion_openstack_glance
+  confidence: auto

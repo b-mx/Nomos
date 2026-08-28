@@ -1,0 +1,10 @@
+id: ris-11
+vendor_id: secutech-project
+name: Ris-11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:secutech_project:ris\-11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ris-11
+  confidence: auto

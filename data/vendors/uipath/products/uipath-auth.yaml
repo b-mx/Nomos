@@ -1,0 +1,10 @@
+id: uipath-auth
+vendor_id: uipath
+name: Uipath/Auth
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/auth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/auth
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cn463a-firmware
+vendor_id: hp
+name: Cn463A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cn463a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn463a_firmware
+  confidence: auto

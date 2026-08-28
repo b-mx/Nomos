@@ -1,0 +1,10 @@
+id: optima-nm-ct-640
+vendor_id: gehealthcare
+name: Optima Nm/Ct 640
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:optima_nm\/ct_640:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_nm/ct_640
+  confidence: auto

@@ -1,0 +1,10 @@
+id: powerlift
+vendor_id: qodeinteractive
+name: Powerlift
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:powerlift:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powerlift
+  confidence: auto

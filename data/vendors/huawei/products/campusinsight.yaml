@@ -1,0 +1,10 @@
+id: campusinsight
+vendor_id: huawei
+name: Campusinsight
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:campusinsight:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: campusinsight
+  confidence: auto

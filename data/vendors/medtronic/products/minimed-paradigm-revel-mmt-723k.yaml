@@ -1,0 +1,10 @@
+id: minimed-paradigm-revel-mmt-723k
+vendor_id: medtronic
+name: Minimed Paradigm Revel Mmt-723K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:minimed_paradigm_revel_mmt\-723k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_paradigm_revel_mmt-723k
+  confidence: auto

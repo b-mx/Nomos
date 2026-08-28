@@ -1,0 +1,10 @@
+id: honor-v9-play-firmware
+vendor_id: huawei
+name: Honor V9 Play Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:honor_v9_play_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_v9_play_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nessus-network-monitor
+vendor_id: tenable
+name: Nessus Network Monitor
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:nessus_network_monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nessus_network_monitor
+  confidence: auto

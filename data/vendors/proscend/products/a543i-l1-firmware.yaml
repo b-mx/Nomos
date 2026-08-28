@@ -1,0 +1,10 @@
+id: a543i-l1-firmware
+vendor_id: proscend
+name: A543I-L1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:proscend:a543i\-l1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a543i-l1_firmware
+  confidence: auto

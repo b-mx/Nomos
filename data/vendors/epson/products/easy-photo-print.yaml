@@ -1,0 +1,10 @@
+id: easy-photo-print
+vendor_id: epson
+name: Easy Photo Print
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:easy_photo_print:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_photo_print
+  confidence: auto

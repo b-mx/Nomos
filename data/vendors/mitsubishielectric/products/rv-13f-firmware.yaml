@@ -1,0 +1,10 @@
+id: rv-13f-firmware
+vendor_id: mitsubishielectric
+name: Rv-13F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rv\-13f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-13f_firmware
+  confidence: auto

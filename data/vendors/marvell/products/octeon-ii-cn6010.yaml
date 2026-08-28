@@ -1,0 +1,10 @@
+id: octeon-ii-cn6010
+vendor_id: marvell
+name: Octeon Ii Cn6010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:marvell:octeon_ii_cn6010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: octeon_ii_cn6010
+  confidence: auto

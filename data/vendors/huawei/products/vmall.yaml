@@ -1,0 +1,10 @@
+id: vmall
+vendor_id: huawei
+name: Vmall
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:vmall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vmall
+  confidence: auto

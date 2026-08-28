@@ -1,0 +1,10 @@
+id: apeos-3560-gk
+vendor_id: fujifilm
+name: Apeos 3560 Gk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_3560_gk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_3560_gk
+  confidence: auto

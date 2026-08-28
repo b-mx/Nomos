@@ -1,0 +1,10 @@
+id: gm7
+vendor_id: ls-electric
+name: Gm7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ls\-electric:gm7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gm7
+  confidence: auto

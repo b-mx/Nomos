@@ -1,0 +1,10 @@
+id: s14-g3-iap-firmware
+vendor_id: lenovo
+name: S14 G3 Iap Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s14_g3_iap_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s14_g3_iap_firmware
+  confidence: auto

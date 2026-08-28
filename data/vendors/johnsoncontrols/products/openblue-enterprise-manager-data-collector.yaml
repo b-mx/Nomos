@@ -1,0 +1,10 @@
+id: openblue-enterprise-manager-data-collector
+vendor_id: johnsoncontrols
+name: Openblue Enterprise Manager Data Collector
+type: os
+tags: []
+cpe: cpe:2.3:o:johnsoncontrols:openblue_enterprise_manager_data_collector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openblue_enterprise_manager_data_collector
+  confidence: auto

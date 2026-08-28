@@ -1,0 +1,10 @@
+id: videojet-decoder-7513-firmware
+vendor_id: bosch
+name: Videojet Decoder 7513 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:videojet_decoder_7513_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: videojet_decoder_7513_firmware
+  confidence: auto

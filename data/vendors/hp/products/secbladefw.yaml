@@ -1,0 +1,10 @@
+id: secbladefw
+vendor_id: hp
+name: Secbladefw
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:secbladefw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secbladefw
+  confidence: auto

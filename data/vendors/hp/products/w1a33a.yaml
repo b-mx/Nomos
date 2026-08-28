@@ -1,0 +1,10 @@
+id: w1a33a
+vendor_id: hp
+name: W1A33A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:w1a33a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1a33a
+  confidence: auto

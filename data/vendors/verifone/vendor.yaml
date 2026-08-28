@@ -1,0 +1,7 @@
+id: verifone
+name: Verifone
+cpe: cpe:2.3:*:verifone:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: verifone
+  confidence: auto

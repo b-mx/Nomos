@@ -1,0 +1,10 @@
+id: customer-link-bridge
+vendor_id: htc
+name: Customer-Link Bridge
+type: software
+tags: []
+cpe: cpe:2.3:a:htc:customer\-link_bridge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: customer-link_bridge
+  confidence: auto

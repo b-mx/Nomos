@@ -1,0 +1,13 @@
+id: jhipster
+vendor_id: jhipster
+name: JHipster
+type: software
+tags: []
+cpe: cpe:2.3:a:jhipster:jhipster:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: jhipster
+  confidence: auto
+- source: nvd
+  value: jhipster
+  confidence: auto

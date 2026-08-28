@@ -1,0 +1,10 @@
+id: field-analytics
+vendor_id: sick
+name: Field Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:field_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: field_analytics
+  confidence: auto

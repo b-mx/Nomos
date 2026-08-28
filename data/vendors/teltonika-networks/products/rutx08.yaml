@@ -1,0 +1,10 @@
+id: rutx08
+vendor_id: teltonika-networks
+name: Rutx08
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika\-networks:rutx08:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rutx08
+  confidence: auto

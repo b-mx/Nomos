@@ -1,0 +1,10 @@
+id: h13sst-g
+vendor_id: supermicro
+name: H13Sst-G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h13sst\-g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h13sst-g
+  confidence: auto

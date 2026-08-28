@@ -1,0 +1,10 @@
+id: ua-java
+vendor_id: opcfoundation
+name: Ua-Java
+type: software
+tags: []
+cpe: cpe:2.3:a:opcfoundation:ua\-java:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ua-java
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dasabcip
+vendor_id: invensys
+name: Dasabcip
+type: software
+tags: []
+cpe: cpe:2.3:a:invensys:dasabcip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dasabcip
+  confidence: auto

@@ -1,0 +1,10 @@
+id: makeaholic
+vendor_id: thememove
+name: Makeaholic
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:makeaholic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: makeaholic
+  confidence: auto

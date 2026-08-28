@@ -1,0 +1,10 @@
+id: 72408a-firmware
+vendor_id: cdatatec
+name: 72408A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cdatatec:72408a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 72408a_firmware
+  confidence: auto

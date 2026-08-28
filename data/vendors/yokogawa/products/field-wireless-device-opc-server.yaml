@@ -1,0 +1,10 @@
+id: field-wireless-device-opc-server
+vendor_id: yokogawa
+name: Field Wireless Device Opc Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yokogawa:field_wireless_device_opc_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: field_wireless_device_opc_server
+  confidence: auto

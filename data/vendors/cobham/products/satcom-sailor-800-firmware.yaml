@@ -1,0 +1,10 @@
+id: satcom-sailor-800-firmware
+vendor_id: cobham
+name: Satcom Sailor 800 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cobham:satcom_sailor_800_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: satcom_sailor_800_firmware
+  confidence: auto

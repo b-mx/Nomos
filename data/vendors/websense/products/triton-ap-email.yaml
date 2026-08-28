@@ -1,0 +1,10 @@
+id: triton-ap-email
+vendor_id: websense
+name: Triton Ap Email
+type: software
+tags: []
+cpe: cpe:2.3:a:websense:triton_ap_email:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: triton_ap_email
+  confidence: auto

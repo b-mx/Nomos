@@ -1,0 +1,10 @@
+id: control-runtime-toolkit
+vendor_id: codesys
+name: Control Runtime Toolkit
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_runtime_toolkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_runtime_toolkit
+  confidence: auto

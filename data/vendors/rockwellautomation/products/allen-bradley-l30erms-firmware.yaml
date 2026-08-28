@@ -1,0 +1,10 @@
+id: allen-bradley-l30erms-firmware
+vendor_id: rockwellautomation
+name: Allen-Bradley L30Erms Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:allen\-bradley_l30erms_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: allen-bradley_l30erms_firmware
+  confidence: auto

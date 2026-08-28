@@ -1,0 +1,10 @@
+id: officeonline
+vendor_id: nextcloud
+name: Officeonline
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:officeonline:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officeonline
+  confidence: auto

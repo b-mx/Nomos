@@ -1,13 +1,9 @@
 id: ios
 vendor_id: cisco
-name: Cisco IOS
-type: firmware
-tags: [network-device]
-icon: cib:cisco
+name: IOS
+type: software
+tags: []
 aliases:
-  - source: nvd
-    value: ios
-    confidence: curated
-  - source: cisa_kev
-    value: "Cisco IOS"
-    confidence: curated
+- source: cisa_kev
+  value: IOS
+  confidence: auto

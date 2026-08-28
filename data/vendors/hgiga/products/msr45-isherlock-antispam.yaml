@@ -1,0 +1,10 @@
+id: msr45-isherlock-antispam
+vendor_id: hgiga
+name: Msr45 Isherlock-Antispam
+type: software
+tags: []
+cpe: cpe:2.3:a:hgiga:msr45_isherlock\-antispam:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msr45_isherlock-antispam
+  confidence: auto

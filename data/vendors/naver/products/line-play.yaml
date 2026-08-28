@@ -1,0 +1,10 @@
+id: line-play
+vendor_id: naver
+name: Line Play
+type: software
+tags: []
+cpe: cpe:2.3:a:naver:line_play:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: line_play
+  confidence: auto

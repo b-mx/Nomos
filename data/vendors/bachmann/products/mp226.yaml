@@ -1,0 +1,10 @@
+id: mp226
+vendor_id: bachmann
+name: Mp226
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mp226:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp226
+  confidence: auto

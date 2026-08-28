@@ -1,0 +1,10 @@
+id: a700s
+vendor_id: netapp
+name: A700S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:a700s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a700s
+  confidence: auto

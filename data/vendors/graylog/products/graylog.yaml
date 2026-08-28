@@ -1,0 +1,13 @@
+id: graylog
+vendor_id: graylog
+name: Graylog
+type: software
+tags: []
+cpe: cpe:2.3:a:graylog:graylog:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: graylog
+  confidence: auto
+- source: nvd
+  value: graylog
+  confidence: auto

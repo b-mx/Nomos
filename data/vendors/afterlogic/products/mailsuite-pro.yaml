@@ -1,0 +1,10 @@
+id: mailsuite-pro
+vendor_id: afterlogic
+name: Mailsuite Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:afterlogic:mailsuite_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mailsuite_pro
+  confidence: auto

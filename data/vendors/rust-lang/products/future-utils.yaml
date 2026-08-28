@@ -1,0 +1,10 @@
+id: future-utils
+vendor_id: rust-lang
+name: Future-Utils
+type: software
+tags: []
+cpe: cpe:2.3:a:rust\-lang:future\-utils:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: future-utils
+  confidence: auto

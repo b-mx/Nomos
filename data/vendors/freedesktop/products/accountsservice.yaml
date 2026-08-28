@@ -1,0 +1,10 @@
+id: accountsservice
+vendor_id: freedesktop
+name: Accountsservice
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:accountsservice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accountsservice
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ap3000
+vendor_id: extremenetworks
+name: Ap3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap3000
+  confidence: auto

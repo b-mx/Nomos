@@ -1,0 +1,10 @@
+id: cargo
+vendor_id: mediawiki
+name: Cargo
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:cargo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cargo
+  confidence: auto

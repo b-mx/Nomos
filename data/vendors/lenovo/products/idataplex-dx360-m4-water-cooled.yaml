@@ -1,0 +1,10 @@
+id: idataplex-dx360-m4-water-cooled
+vendor_id: lenovo
+name: Idataplex Dx360 M4 Water Cooled
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:idataplex_dx360_m4_water_cooled:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: idataplex_dx360_m4_water_cooled
+  confidence: auto

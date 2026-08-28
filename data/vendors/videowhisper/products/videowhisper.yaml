@@ -1,0 +1,10 @@
+id: videowhisper
+vendor_id: videowhisper
+name: Videowhisper
+type: software
+tags: []
+cpe: cpe:2.3:a:videowhisper:videowhisper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: videowhisper
+  confidence: auto

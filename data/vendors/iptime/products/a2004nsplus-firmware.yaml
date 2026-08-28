@@ -1,0 +1,10 @@
+id: a2004nsplus-firmware
+vendor_id: iptime
+name: A2004Nsplus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iptime:a2004nsplus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a2004nsplus_firmware
+  confidence: auto

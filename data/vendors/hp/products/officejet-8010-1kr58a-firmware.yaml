@@ -1,0 +1,10 @@
+id: officejet-8010-1kr58a-firmware
+vendor_id: hp
+name: Officejet 8010 1Kr58A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_8010_1kr58a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_8010_1kr58a_firmware
+  confidence: auto

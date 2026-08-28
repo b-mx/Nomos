@@ -1,0 +1,10 @@
+id: yta8900f
+vendor_id: lenovo
+name: Yta8900F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yta8900f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yta8900f
+  confidence: auto

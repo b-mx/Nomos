@@ -1,0 +1,10 @@
+id: ehs5
+vendor_id: thalesgroup
+name: Ehs5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:thalesgroup:ehs5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ehs5
+  confidence: auto

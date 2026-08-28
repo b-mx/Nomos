@@ -1,0 +1,10 @@
+id: yangtian-ytm6900e-00-firmware
+vendor_id: lenovo
+name: Yangtian Ytm6900E-00 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yangtian_ytm6900e\-00_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_ytm6900e-00_firmware
+  confidence: auto

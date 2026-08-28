@@ -1,0 +1,10 @@
+id: smart-card-minidriver
+vendor_id: yubico
+name: Smart Card Minidriver
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:smart_card_minidriver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_card_minidriver
+  confidence: auto

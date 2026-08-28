@@ -1,0 +1,7 @@
+id: autodesk
+name: Autodesk
+cpe: cpe:2.3:*:autodesk:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autodesk
+  confidence: auto

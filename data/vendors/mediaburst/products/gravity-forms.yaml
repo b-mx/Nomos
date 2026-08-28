@@ -1,0 +1,10 @@
+id: gravity-forms
+vendor_id: mediaburst
+name: Gravity Forms
+type: software
+tags: []
+cpe: cpe:2.3:a:mediaburst:gravity_forms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gravity_forms
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hyper-historian
+vendor_id: iconics
+name: Hyper Historian
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:hyper_historian:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hyper_historian
+  confidence: auto

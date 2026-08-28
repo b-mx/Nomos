@@ -1,0 +1,10 @@
+id: zxr10-3800-8
+vendor_id: zte
+name: Zxr10 3800-8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxr10_3800\-8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxr10_3800-8
+  confidence: auto

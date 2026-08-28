@@ -1,0 +1,10 @@
+id: mf65-firmware
+vendor_id: zte
+name: Mf65 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:mf65_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf65_firmware
+  confidence: auto

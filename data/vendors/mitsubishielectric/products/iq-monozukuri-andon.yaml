@@ -1,0 +1,10 @@
+id: iq-monozukuri-andon
+vendor_id: mitsubishielectric
+name: Iq Monozukuri Andon
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:iq_monozukuri_andon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iq_monozukuri_andon
+  confidence: auto

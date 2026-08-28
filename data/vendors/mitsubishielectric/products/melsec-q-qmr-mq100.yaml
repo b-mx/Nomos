@@ -1,0 +1,10 @@
+id: melsec-q-qmr-mq100
+vendor_id: mitsubishielectric
+name: Melsec Q-Qmr-Mq100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_q\-qmr\-mq100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q-qmr-mq100
+  confidence: auto

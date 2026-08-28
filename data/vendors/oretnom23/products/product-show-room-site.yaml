@@ -1,0 +1,10 @@
+id: product-show-room-site
+vendor_id: oretnom23
+name: Product Show Room Site
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:product_show_room_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_show_room_site
+  confidence: auto

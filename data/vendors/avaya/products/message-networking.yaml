@@ -1,0 +1,10 @@
+id: message-networking
+vendor_id: avaya
+name: Message Networking
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:message_networking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: message_networking
+  confidence: auto

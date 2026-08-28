@@ -1,0 +1,10 @@
+id: cg-wlr300nx
+vendor_id: corega
+name: Cg-Wlr300Nx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corega:cg\-wlr300nx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cg-wlr300nx
+  confidence: auto

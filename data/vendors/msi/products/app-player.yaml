@@ -1,0 +1,10 @@
+id: app-player
+vendor_id: msi
+name: App Player
+type: software
+tags: []
+cpe: cpe:2.3:a:msi:app_player:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: app_player
+  confidence: auto

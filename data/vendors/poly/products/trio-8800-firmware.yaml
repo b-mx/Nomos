@@ -1,0 +1,10 @@
+id: trio-8800-firmware
+vendor_id: poly
+name: Trio 8800 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:poly:trio_8800_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trio_8800_firmware
+  confidence: auto

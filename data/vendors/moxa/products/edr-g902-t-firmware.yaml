@@ -1,0 +1,10 @@
+id: edr-g902-t-firmware
+vendor_id: moxa
+name: Edr-G902-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:edr\-g902\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edr-g902-t_firmware
+  confidence: auto

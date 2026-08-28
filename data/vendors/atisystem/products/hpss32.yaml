@@ -1,0 +1,10 @@
+id: hpss32
+vendor_id: atisystem
+name: Hpss32
+type: hardware
+tags: []
+cpe: cpe:2.3:h:atisystem:hpss32:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hpss32
+  confidence: auto

@@ -1,0 +1,10 @@
+id: click-plc-firmware
+vendor_id: automationdirect
+name: Click Plc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:click_plc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: click_plc_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: snowflake-cli
+vendor_id: snowflake
+name: Snowflake Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:snowflake:snowflake_cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snowflake_cli
+  confidence: auto

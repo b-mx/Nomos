@@ -1,0 +1,10 @@
+id: kubewarden
+vendor_id: linuxfoundation
+name: Kubewarden
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:kubewarden:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kubewarden
+  confidence: auto

@@ -1,0 +1,10 @@
+id: paypal
+vendor_id: janobe
+name: Paypal
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:paypal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paypal
+  confidence: auto

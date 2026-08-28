@@ -1,0 +1,10 @@
+id: exaquantum-batch
+vendor_id: yokogawa
+name: Exaquantum/Batch
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:exaquantum\/batch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exaquantum/batch
+  confidence: auto

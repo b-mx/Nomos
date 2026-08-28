@@ -1,0 +1,10 @@
+id: yoga-c930-glass
+vendor_id: lenovo
+name: Yoga C930 Glass
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yoga_c930_glass:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_c930_glass
+  confidence: auto

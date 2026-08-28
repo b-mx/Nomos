@@ -1,0 +1,10 @@
+id: uipath-docsai-tool
+vendor_id: uipath
+name: Uipath/Docsai-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/docsai\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/docsai-tool
+  confidence: auto

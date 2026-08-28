@@ -1,0 +1,10 @@
+id: uap-ac-pro
+vendor_id: ui
+name: Uap-Ac-Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:uap\-ac\-pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uap-ac-pro
+  confidence: auto

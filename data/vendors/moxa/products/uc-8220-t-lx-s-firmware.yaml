@@ -1,0 +1,10 @@
+id: uc-8220-t-lx-s-firmware
+vendor_id: moxa
+name: Uc-8220-T-Lx-S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:uc\-8220\-t\-lx\-s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-8220-t-lx-s_firmware
+  confidence: auto

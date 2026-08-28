@@ -1,0 +1,10 @@
+id: i29
+vendor_id: tendacn
+name: I29
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:i29:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i29
+  confidence: auto

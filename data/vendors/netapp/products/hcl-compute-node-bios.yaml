@@ -1,0 +1,10 @@
+id: hcl-compute-node-bios
+vendor_id: netapp
+name: Hcl Compute Node Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:hcl_compute_node_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_compute_node_bios
+  confidence: auto

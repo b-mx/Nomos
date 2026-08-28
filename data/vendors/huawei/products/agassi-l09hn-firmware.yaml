@@ -1,0 +1,10 @@
+id: agassi-l09hn-firmware
+vendor_id: huawei
+name: Agassi-L09Hn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:agassi\-l09hn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: agassi-l09hn_firmware
+  confidence: auto

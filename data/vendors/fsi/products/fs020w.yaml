@@ -1,0 +1,10 @@
+id: fs020w
+vendor_id: fsi
+name: Fs020W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fsi:fs020w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fs020w
+  confidence: auto

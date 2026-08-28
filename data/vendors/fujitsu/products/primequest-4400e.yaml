@@ -1,0 +1,10 @@
+id: primequest-4400e
+vendor_id: fujitsu
+name: Primequest 4400E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:primequest_4400e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primequest_4400e
+  confidence: auto

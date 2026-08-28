@@ -1,0 +1,10 @@
+id: moonlight-xbox
+vendor_id: moonlight-stream
+name: Moonlight Xbox
+type: software
+tags: []
+cpe: cpe:2.3:a:moonlight\-stream:moonlight_xbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moonlight_xbox
+  confidence: auto

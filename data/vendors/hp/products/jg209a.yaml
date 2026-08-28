@@ -1,0 +1,10 @@
+id: jg209a
+vendor_id: hp
+name: Jg209A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg209a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg209a
+  confidence: auto

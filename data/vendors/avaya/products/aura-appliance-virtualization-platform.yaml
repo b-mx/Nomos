@@ -1,0 +1,10 @@
+id: aura-appliance-virtualization-platform
+vendor_id: avaya
+name: Aura Appliance Virtualization Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura_appliance_virtualization_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_appliance_virtualization_platform
+  confidence: auto

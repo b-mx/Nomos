@@ -1,0 +1,10 @@
+id: libxcb
+vendor_id: x
+name: Libxcb
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxcb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxcb
+  confidence: auto

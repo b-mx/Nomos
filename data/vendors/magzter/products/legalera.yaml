@@ -1,0 +1,10 @@
+id: legalera
+vendor_id: magzter
+name: Legalera
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:legalera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legalera
+  confidence: auto

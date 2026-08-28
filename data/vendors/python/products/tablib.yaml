@@ -1,0 +1,10 @@
+id: tablib
+vendor_id: python
+name: Tablib
+type: software
+tags: []
+cpe: cpe:2.3:a:python:tablib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tablib
+  confidence: auto

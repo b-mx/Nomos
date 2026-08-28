@@ -1,0 +1,10 @@
+id: tm-l100
+vendor_id: epson
+name: Tm-L100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-l100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-l100
+  confidence: auto

@@ -1,0 +1,10 @@
+id: d3q20a
+vendor_id: hp
+name: D3Q20A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:d3q20a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d3q20a
+  confidence: auto

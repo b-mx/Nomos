@@ -1,0 +1,10 @@
+id: ref615-iec
+vendor_id: abb
+name: Ref615 Iec
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:ref615_iec:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ref615_iec
+  confidence: auto

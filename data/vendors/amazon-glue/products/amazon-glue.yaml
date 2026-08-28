@@ -1,0 +1,9 @@
+id: amazon-glue
+vendor_id: amazon-glue
+name: Amazon Glue
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: amazon-glue
+  confidence: auto

@@ -1,0 +1,10 @@
+id: okular
+vendor_id: kde
+name: Okular
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:okular:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: okular
+  confidence: auto

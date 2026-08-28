@@ -1,0 +1,10 @@
+id: awk-3121-m12-rtg-firmware
+vendor_id: moxa
+name: Awk-3121-M12-Rtg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:awk\-3121\-m12\-rtg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awk-3121-m12-rtg_firmware
+  confidence: auto

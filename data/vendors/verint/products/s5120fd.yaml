@@ -1,0 +1,10 @@
+id: s5120fd
+vendor_id: verint
+name: S5120Fd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verint:s5120fd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5120fd
+  confidence: auto

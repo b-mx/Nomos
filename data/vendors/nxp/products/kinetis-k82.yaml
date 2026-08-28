@@ -1,0 +1,10 @@
+id: kinetis-k82
+vendor_id: nxp
+name: Kinetis K82
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:kinetis_k82:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kinetis_k82
+  confidence: auto

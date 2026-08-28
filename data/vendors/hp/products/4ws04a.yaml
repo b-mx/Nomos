@@ -1,0 +1,10 @@
+id: 4ws04a
+vendor_id: hp
+name: 4Ws04A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:4ws04a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4ws04a
+  confidence: auto

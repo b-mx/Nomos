@@ -1,0 +1,10 @@
+id: color-laserjet-pro-mfp-m377-cf377a-firmware
+vendor_id: hp
+name: Color Laserjet Pro Mfp M377 Cf377A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_pro_mfp_m377_cf377a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_pro_mfp_m377_cf377a_firmware
+  confidence: auto

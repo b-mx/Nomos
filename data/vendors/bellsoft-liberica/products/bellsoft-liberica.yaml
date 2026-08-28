@@ -1,0 +1,9 @@
+id: bellsoft-liberica
+vendor_id: bellsoft-liberica
+name: Bellsoft Liberica JDK
+type: library
+tags: []
+aliases:
+- source: endoflife
+  value: bellsoft-liberica
+  confidence: auto

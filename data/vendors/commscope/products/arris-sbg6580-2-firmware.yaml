@@ -1,0 +1,10 @@
+id: arris-sbg6580-2-firmware
+vendor_id: commscope
+name: Arris Sbg6580-2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:commscope:arris_sbg6580\-2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_sbg6580-2_firmware
+  confidence: auto

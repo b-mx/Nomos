@@ -1,0 +1,10 @@
+id: veriton-e430g
+vendor_id: acer
+name: Veriton E430G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:veriton_e430g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: veriton_e430g
+  confidence: auto

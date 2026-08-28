@@ -1,0 +1,10 @@
+id: passster
+vendor_id: wpchill
+name: Passster
+type: software
+tags: []
+cpe: cpe:2.3:a:wpchill:passster:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: passster
+  confidence: auto

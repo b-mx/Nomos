@@ -1,0 +1,10 @@
+id: i-mx-6ulz-firmware
+vendor_id: nxp
+name: I.Mx 6Ulz Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:i\.mx_6ulz_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_6ulz_firmware
+  confidence: auto

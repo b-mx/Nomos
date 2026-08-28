@@ -1,0 +1,10 @@
+id: pyxis-anesthesia-station-4000
+vendor_id: bd
+name: Pyxis Anesthesia Station 4000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_anesthesia_station_4000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_anesthesia_station_4000
+  confidence: auto

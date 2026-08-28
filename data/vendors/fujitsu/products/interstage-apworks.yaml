@@ -1,0 +1,10 @@
+id: interstage-apworks
+vendor_id: fujitsu
+name: Interstage Apworks
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:interstage_apworks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interstage_apworks
+  confidence: auto

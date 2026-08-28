@@ -1,0 +1,10 @@
+id: nimble-storage-cs3000
+vendor_id: hpe
+name: Nimble Storage Cs3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:nimble_storage_cs3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nimble_storage_cs3000
+  confidence: auto

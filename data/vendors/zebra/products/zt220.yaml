@@ -1,0 +1,10 @@
+id: zt220
+vendor_id: zebra
+name: Zt220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zebra:zt220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zt220
+  confidence: auto

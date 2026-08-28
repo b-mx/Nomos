@@ -1,0 +1,10 @@
+id: enterprise-test-distribution-agent
+vendor_id: gradle
+name: Enterprise Test Distribution Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:gradle:enterprise_test_distribution_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_test_distribution_agent
+  confidence: auto

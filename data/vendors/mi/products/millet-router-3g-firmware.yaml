@@ -1,0 +1,10 @@
+id: millet-router-3g-firmware
+vendor_id: mi
+name: Millet Router 3G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:millet_router_3g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: millet_router_3g_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x11opi-cpu-firmware
+vendor_id: supermicro
+name: X11Opi-Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11opi\-cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11opi-cpu_firmware
+  confidence: auto

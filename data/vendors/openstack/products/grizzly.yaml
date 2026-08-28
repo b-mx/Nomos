@@ -1,0 +1,10 @@
+id: grizzly
+vendor_id: openstack
+name: Grizzly
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:grizzly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: grizzly
+  confidence: auto

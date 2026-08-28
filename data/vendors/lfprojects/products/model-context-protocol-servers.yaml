@@ -1,0 +1,10 @@
+id: model-context-protocol-servers
+vendor_id: lfprojects
+name: Model Context Protocol Servers
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:model_context_protocol_servers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: model_context_protocol_servers
+  confidence: auto

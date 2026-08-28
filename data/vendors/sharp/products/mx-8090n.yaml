@@ -1,0 +1,10 @@
+id: mx-8090n
+vendor_id: sharp
+name: Mx-8090N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-8090n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-8090n
+  confidence: auto

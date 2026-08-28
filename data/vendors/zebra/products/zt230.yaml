@@ -1,0 +1,10 @@
+id: zt230
+vendor_id: zebra
+name: Zt230
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zebra:zt230:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zt230
+  confidence: auto

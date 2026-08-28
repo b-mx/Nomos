@@ -1,0 +1,7 @@
+id: nuvoton
+name: Nuvoton
+cpe: cpe:2.3:*:nuvoton:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nuvoton
+  confidence: auto

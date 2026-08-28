@@ -1,0 +1,10 @@
+id: unicamp
+vendor_id: thememove
+name: Unicamp
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:unicamp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unicamp
+  confidence: auto

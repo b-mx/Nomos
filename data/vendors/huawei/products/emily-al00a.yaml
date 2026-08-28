@@ -1,0 +1,10 @@
+id: emily-al00a
+vendor_id: huawei
+name: Emily-Al00A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:emily\-al00a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emily-al00a
+  confidence: auto

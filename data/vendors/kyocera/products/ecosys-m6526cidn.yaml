@@ -1,0 +1,10 @@
+id: ecosys-m6526cidn
+vendor_id: kyocera
+name: Ecosys M6526Cidn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kyocera:ecosys_m6526cidn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecosys_m6526cidn
+  confidence: auto

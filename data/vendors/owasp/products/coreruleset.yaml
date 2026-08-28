@@ -1,0 +1,10 @@
+id: coreruleset
+vendor_id: owasp
+name: Coreruleset
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:coreruleset:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coreruleset
+  confidence: auto

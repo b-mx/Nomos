@@ -1,0 +1,7 @@
+id: corsair
+name: Corsair
+cpe: cpe:2.3:*:corsair:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: corsair
+  confidence: auto

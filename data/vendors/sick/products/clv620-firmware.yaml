@@ -1,0 +1,10 @@
+id: clv620-firmware
+vendor_id: sick
+name: Clv620 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:clv620_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clv620_firmware
+  confidence: auto

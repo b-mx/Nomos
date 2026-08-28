@@ -1,0 +1,10 @@
+id: gl-ar750s
+vendor_id: gl-inet
+name: Gl-Ar750S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-ar750s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-ar750s
+  confidence: auto

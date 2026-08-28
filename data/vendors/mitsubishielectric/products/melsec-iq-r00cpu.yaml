@@ -1,0 +1,10 @@
+id: melsec-iq-r00cpu
+vendor_id: mitsubishielectric
+name: Melsec Iq-R00Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_iq\-r00cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-r00cpu
+  confidence: auto

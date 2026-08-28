@@ -1,0 +1,10 @@
+id: jakarta-al00a-firmware
+vendor_id: huawei
+name: Jakarta-Al00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:jakarta\-al00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jakarta-al00a_firmware
+  confidence: auto

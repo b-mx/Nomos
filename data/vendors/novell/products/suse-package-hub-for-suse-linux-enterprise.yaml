@@ -1,0 +1,10 @@
+id: suse-package-hub-for-suse-linux-enterprise
+vendor_id: novell
+name: Suse Package Hub For Suse Linux Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:suse_package_hub_for_suse_linux_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_package_hub_for_suse_linux_enterprise
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hl-l2380dw-firmware
+vendor_id: brother
+name: Hl-L2380Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:hl\-l2380dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hl-l2380dw_firmware
+  confidence: auto

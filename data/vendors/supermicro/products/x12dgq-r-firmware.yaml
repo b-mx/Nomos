@@ -1,0 +1,10 @@
+id: x12dgq-r-firmware
+vendor_id: supermicro
+name: X12Dgq-R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x12dgq\-r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dgq-r_firmware
+  confidence: auto

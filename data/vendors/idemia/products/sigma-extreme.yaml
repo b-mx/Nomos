@@ -1,0 +1,10 @@
+id: sigma-extreme
+vendor_id: idemia
+name: Sigma Extreme
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idemia:sigma_extreme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sigma_extreme
+  confidence: auto

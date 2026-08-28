@@ -1,0 +1,10 @@
+id: smart-s210
+vendor_id: byzoro
+name: Smart S210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:byzoro:smart_s210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_s210
+  confidence: auto

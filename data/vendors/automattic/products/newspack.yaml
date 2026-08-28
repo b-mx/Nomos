@@ -1,0 +1,10 @@
+id: newspack
+vendor_id: automattic
+name: Newspack
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:newspack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: newspack
+  confidence: auto

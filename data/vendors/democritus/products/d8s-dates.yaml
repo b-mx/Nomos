@@ -1,0 +1,10 @@
+id: d8s-dates
+vendor_id: democritus
+name: D8S-Dates
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-dates:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-dates
+  confidence: auto

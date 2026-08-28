@@ -1,0 +1,10 @@
+id: runc
+vendor_id: linuxfoundation
+name: Runc
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:runc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: runc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: icon-300-firmware
+vendor_id: lifesize
+name: Icon 300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lifesize:icon_300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icon_300_firmware
+  confidence: auto

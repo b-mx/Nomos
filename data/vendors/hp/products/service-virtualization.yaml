@@ -1,0 +1,10 @@
+id: service-virtualization
+vendor_id: hp
+name: Service Virtualization
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:service_virtualization:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_virtualization
+  confidence: auto

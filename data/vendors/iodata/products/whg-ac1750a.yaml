@@ -1,0 +1,10 @@
+id: whg-ac1750a
+vendor_id: iodata
+name: Whg-Ac1750A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:whg\-ac1750a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whg-ac1750a
+  confidence: auto

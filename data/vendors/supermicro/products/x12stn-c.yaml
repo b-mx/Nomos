@@ -1,0 +1,10 @@
+id: x12stn-c
+vendor_id: supermicro
+name: X12Stn-C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12stn\-c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12stn-c
+  confidence: auto

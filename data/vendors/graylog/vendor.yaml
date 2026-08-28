@@ -1,0 +1,7 @@
+id: graylog
+name: Graylog
+cpe: cpe:2.3:*:graylog:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: graylog
+  confidence: auto

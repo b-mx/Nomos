@@ -1,0 +1,10 @@
+id: foxit-pdf-sdk-activex
+vendor_id: foxitsoftware
+name: Foxit Pdf Sdk Activex
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:foxit_pdf_sdk_activex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foxit_pdf_sdk_activex
+  confidence: auto

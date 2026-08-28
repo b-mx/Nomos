@@ -1,0 +1,10 @@
+id: rt80i
+vendor_id: yamaha
+name: Rt80I
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rt80i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt80i
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wf2880-firmware
+vendor_id: netis-systems
+name: Wf2880 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netis\-systems:wf2880_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wf2880_firmware
+  confidence: auto

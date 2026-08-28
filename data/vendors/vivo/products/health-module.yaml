@@ -1,0 +1,10 @@
+id: health-module
+vendor_id: vivo
+name: Health Module
+type: software
+tags: []
+cpe: cpe:2.3:a:vivo:health_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: health_module
+  confidence: auto

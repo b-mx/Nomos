@@ -1,0 +1,7 @@
+id: netapp
+name: Netapp
+cpe: cpe:2.3:*:netapp:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netapp
+  confidence: auto

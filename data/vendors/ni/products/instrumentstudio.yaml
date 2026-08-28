@@ -1,0 +1,10 @@
+id: instrumentstudio
+vendor_id: ni
+name: Instrumentstudio
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:instrumentstudio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instrumentstudio
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pantry
+vendor_id: axiomthemes
+name: Pantry
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:pantry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pantry
+  confidence: auto

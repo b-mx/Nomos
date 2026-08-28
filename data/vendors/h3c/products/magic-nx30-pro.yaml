@@ -1,0 +1,10 @@
+id: magic-nx30-pro
+vendor_id: h3c
+name: Magic Nx30 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:magic_nx30_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_nx30_pro
+  confidence: auto

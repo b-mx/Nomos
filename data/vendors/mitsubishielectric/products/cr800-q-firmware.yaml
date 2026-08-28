@@ -1,0 +1,10 @@
+id: cr800-q-firmware
+vendor_id: mitsubishielectric
+name: Cr800-Q Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:cr800\-q_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cr800-q_firmware
+  confidence: auto

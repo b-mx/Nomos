@@ -1,0 +1,10 @@
+id: wp-6156-whps
+vendor_id: phoenixcontact
+name: Wp 6156-Whps
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:wp_6156\-whps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_6156-whps
+  confidence: auto

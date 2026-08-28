@@ -1,0 +1,10 @@
+id: yale-conexis-l1-firmware
+vendor_id: assaabloy
+name: Yale Conexis L1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:assaabloy:yale_conexis_l1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale_conexis_l1_firmware
+  confidence: auto

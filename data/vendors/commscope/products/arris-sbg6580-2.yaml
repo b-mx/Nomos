@@ -1,0 +1,10 @@
+id: arris-sbg6580-2
+vendor_id: commscope
+name: Arris Sbg6580-2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:arris_sbg6580\-2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_sbg6580-2
+  confidence: auto

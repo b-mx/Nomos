@@ -1,0 +1,10 @@
+id: ipcom-ex2-lb-3200
+vendor_id: fujitsu
+name: Ipcom Ex2 Lb 3200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:ipcom_ex2_lb_3200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipcom_ex2_lb_3200
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vr-3033-firmware
+vendor_id: comtrend
+name: Vr-3033 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:comtrend:vr\-3033_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vr-3033_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tvip-31501
+vendor_id: abus
+name: Tvip 31501
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abus:tvip_31501:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_31501
+  confidence: auto

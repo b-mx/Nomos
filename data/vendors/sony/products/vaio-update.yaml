@@ -1,0 +1,10 @@
+id: vaio-update
+vendor_id: sony
+name: Vaio Update
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:vaio_update:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vaio_update
+  confidence: auto

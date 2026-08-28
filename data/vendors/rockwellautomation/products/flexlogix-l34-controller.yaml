@@ -1,0 +1,10 @@
+id: flexlogix-l34-controller
+vendor_id: rockwellautomation
+name: Flexlogix L34 Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:flexlogix_l34_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexlogix_l34_controller
+  confidence: auto

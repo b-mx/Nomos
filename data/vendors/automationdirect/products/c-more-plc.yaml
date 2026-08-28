@@ -1,0 +1,10 @@
+id: c-more-plc
+vendor_id: automationdirect
+name: C-More Plc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:automationdirect:c\-more_plc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c-more_plc
+  confidence: auto

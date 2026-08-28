@@ -1,0 +1,10 @@
+id: laserjet-m112-2u584a
+vendor_id: hp
+name: Laserjet M112 2U584A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m112_2u584a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m112_2u584a
+  confidence: auto

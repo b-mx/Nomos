@@ -1,0 +1,10 @@
+id: n4610-storage
+vendor_id: lenovo
+name: N4610 Storage
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:n4610_storage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n4610_storage
+  confidence: auto

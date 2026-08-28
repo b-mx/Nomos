@@ -1,0 +1,10 @@
+id: atok-flat-rate-service
+vendor_id: justsystems
+name: Atok Flat-Rate Service
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:atok_flat\-rate_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atok_flat-rate_service
+  confidence: auto

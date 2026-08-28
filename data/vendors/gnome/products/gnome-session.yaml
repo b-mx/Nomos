@@ -1,0 +1,10 @@
+id: gnome-session
+vendor_id: gnome
+name: Gnome-Session
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome\-session:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome-session
+  confidence: auto

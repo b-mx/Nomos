@@ -1,0 +1,10 @@
+id: a2sav-firmware
+vendor_id: supermicro
+name: A2Sav Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:a2sav_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a2sav_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lan-wh450n-gp
+vendor_id: elecom
+name: Lan-Wh450N/Gp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:lan\-wh450n\/gp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-wh450n/gp
+  confidence: auto

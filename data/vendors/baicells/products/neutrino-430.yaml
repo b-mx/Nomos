@@ -1,0 +1,10 @@
+id: neutrino-430
+vendor_id: baicells
+name: Neutrino 430
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baicells:neutrino_430:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neutrino_430
+  confidence: auto

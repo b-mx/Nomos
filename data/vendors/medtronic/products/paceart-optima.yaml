@@ -1,0 +1,10 @@
+id: paceart-optima
+vendor_id: medtronic
+name: Paceart Optima
+type: software
+tags: []
+cpe: cpe:2.3:a:medtronic:paceart_optima:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paceart_optima
+  confidence: auto

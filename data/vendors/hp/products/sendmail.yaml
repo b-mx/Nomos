@@ -1,0 +1,10 @@
+id: sendmail
+vendor_id: hp
+name: Sendmail
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:sendmail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sendmail
+  confidence: auto

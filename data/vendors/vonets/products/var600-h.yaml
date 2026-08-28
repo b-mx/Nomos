@@ -1,0 +1,10 @@
+id: var600-h
+vendor_id: vonets
+name: Var600-H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vonets:var600\-h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: var600-h
+  confidence: auto

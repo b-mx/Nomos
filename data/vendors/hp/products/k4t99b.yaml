@@ -1,0 +1,10 @@
+id: k4t99b
+vendor_id: hp
+name: K4T99B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k4t99b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k4t99b
+  confidence: auto

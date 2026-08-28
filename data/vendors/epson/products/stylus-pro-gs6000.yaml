@@ -1,0 +1,10 @@
+id: stylus-pro-gs6000
+vendor_id: epson
+name: Stylus Pro Gs6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:stylus_pro_gs6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stylus_pro_gs6000
+  confidence: auto

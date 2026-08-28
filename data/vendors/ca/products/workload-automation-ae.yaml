@@ -1,0 +1,10 @@
+id: workload-automation-ae
+vendor_id: ca
+name: Workload Automation Ae
+type: software
+tags: []
+cpe: cpe:2.3:a:ca:workload_automation_ae:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workload_automation_ae
+  confidence: auto

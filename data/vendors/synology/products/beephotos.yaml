@@ -1,0 +1,10 @@
+id: beephotos
+vendor_id: synology
+name: Beephotos
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:beephotos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: beephotos
+  confidence: auto

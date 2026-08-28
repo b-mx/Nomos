@@ -1,0 +1,10 @@
+id: recommendation-algorithm
+vendor_id: twitter
+name: Recommendation Algorithm
+type: software
+tags: []
+cpe: cpe:2.3:a:twitter:recommendation_algorithm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recommendation_algorithm
+  confidence: auto

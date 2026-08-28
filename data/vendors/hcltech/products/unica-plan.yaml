@@ -1,0 +1,10 @@
+id: unica-plan
+vendor_id: hcltech
+name: Unica Plan
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:unica_plan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unica_plan
+  confidence: auto

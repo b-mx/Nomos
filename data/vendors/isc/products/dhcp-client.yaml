@@ -1,0 +1,10 @@
+id: dhcp-client
+vendor_id: isc
+name: Dhcp Client
+type: software
+tags: []
+cpe: cpe:2.3:a:isc:dhcp_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dhcp_client
+  confidence: auto

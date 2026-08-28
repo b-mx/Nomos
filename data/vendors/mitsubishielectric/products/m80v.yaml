@@ -1,0 +1,10 @@
+id: m80v
+vendor_id: mitsubishielectric
+name: M80V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:m80v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m80v
+  confidence: auto

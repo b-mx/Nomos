@@ -1,0 +1,10 @@
+id: thrive-themes-builder
+vendor_id: thrivethemes
+name: Thrive Themes Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:thrivethemes:thrive_themes_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thrive_themes_builder
+  confidence: auto

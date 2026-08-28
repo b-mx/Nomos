@@ -1,0 +1,10 @@
+id: lenels2-lnl-x2210
+vendor_id: carrier
+name: Lenels2 Lnl-X2210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:carrier:lenels2_lnl\-x2210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lenels2_lnl-x2210
+  confidence: auto

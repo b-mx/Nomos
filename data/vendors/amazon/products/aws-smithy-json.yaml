@@ -1,0 +1,10 @@
+id: aws-smithy-json
+vendor_id: amazon
+name: Aws-Smithy-Json
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws\-smithy\-json:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws-smithy-json
+  confidence: auto

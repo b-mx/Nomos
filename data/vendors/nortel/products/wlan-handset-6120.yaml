@@ -1,0 +1,10 @@
+id: wlan-handset-6120
+vendor_id: nortel
+name: Wlan Handset 6120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:wlan_handset_6120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlan_handset_6120
+  confidence: auto

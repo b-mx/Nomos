@@ -1,0 +1,10 @@
+id: ne40e
+vendor_id: huawei
+name: Ne40E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ne40e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ne40e
+  confidence: auto

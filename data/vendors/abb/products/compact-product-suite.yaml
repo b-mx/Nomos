@@ -1,0 +1,10 @@
+id: compact-product-suite
+vendor_id: abb
+name: Compact Product Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:compact_product_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compact_product_suite
+  confidence: auto

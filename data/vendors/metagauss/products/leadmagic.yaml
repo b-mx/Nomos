@@ -1,0 +1,10 @@
+id: leadmagic
+vendor_id: metagauss
+name: Leadmagic
+type: software
+tags: []
+cpe: cpe:2.3:a:metagauss:leadmagic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: leadmagic
+  confidence: auto

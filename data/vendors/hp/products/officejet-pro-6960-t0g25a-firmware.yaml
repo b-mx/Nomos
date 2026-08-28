@@ -1,0 +1,10 @@
+id: officejet-pro-6960-t0g25a-firmware
+vendor_id: hp
+name: Officejet Pro 6960 T0G25A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_pro_6960_t0g25a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_6960_t0g25a_firmware
+  confidence: auto

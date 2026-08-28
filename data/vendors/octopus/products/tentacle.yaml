@@ -1,0 +1,10 @@
+id: tentacle
+vendor_id: octopus
+name: Tentacle
+type: software
+tags: []
+cpe: cpe:2.3:a:octopus:tentacle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tentacle
+  confidence: auto

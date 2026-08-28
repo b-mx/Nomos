@@ -1,0 +1,10 @@
+id: student-web-portal
+vendor_id: carmelo
+name: Student Web Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:student_web_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: student_web_portal
+  confidence: auto

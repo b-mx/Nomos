@@ -1,0 +1,10 @@
+id: ryzen-2990wx
+vendor_id: amd
+name: Ryzen 2990Wx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_2990wx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_2990wx
+  confidence: auto

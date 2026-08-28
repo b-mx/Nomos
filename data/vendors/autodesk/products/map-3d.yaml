@@ -1,0 +1,10 @@
+id: map-3d
+vendor_id: autodesk
+name: Map 3D
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:map_3d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: map_3d
+  confidence: auto

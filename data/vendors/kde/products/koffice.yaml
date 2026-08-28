@@ -1,0 +1,10 @@
+id: koffice
+vendor_id: kde
+name: Koffice
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:koffice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: koffice
+  confidence: auto

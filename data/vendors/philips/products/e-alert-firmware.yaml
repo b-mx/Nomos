@@ -1,0 +1,10 @@
+id: e-alert-firmware
+vendor_id: philips
+name: E-Alert Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:e\-alert_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-alert_firmware
+  confidence: auto

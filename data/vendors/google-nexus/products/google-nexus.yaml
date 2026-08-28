@@ -1,0 +1,9 @@
+id: google-nexus
+vendor_id: google-nexus
+name: Google Nexus
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: google-nexus
+  confidence: auto

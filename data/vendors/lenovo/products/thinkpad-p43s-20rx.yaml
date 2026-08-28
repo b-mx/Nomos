@@ -1,0 +1,10 @@
+id: thinkpad-p43s-20rx
+vendor_id: lenovo
+name: Thinkpad P43S (20Rx)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_p43s_\(20rx\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_p43s_(20rx)
+  confidence: auto

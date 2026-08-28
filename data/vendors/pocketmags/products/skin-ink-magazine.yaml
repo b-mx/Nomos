@@ -1,0 +1,10 @@
+id: skin-ink-magazine
+vendor_id: pocketmags
+name: Skin&Ink Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:skin\&ink_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skin&ink_magazine
+  confidence: auto

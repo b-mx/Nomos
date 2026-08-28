@@ -1,0 +1,10 @@
+id: thinkpad-w530-firmware
+vendor_id: lenovo
+name: Thinkpad W530 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_w530_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_w530_firmware
+  confidence: auto

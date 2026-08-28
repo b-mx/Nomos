@@ -1,0 +1,10 @@
+id: rut240
+vendor_id: teltonika-networks
+name: Rut240
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika\-networks:rut240:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rut240
+  confidence: auto

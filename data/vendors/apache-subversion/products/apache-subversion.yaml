@@ -1,0 +1,9 @@
+id: apache-subversion
+vendor_id: apache-subversion
+name: Apache Subversion
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: apache-subversion
+  confidence: auto

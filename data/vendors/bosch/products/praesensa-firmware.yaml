@@ -1,0 +1,10 @@
+id: praesensa-firmware
+vendor_id: bosch
+name: Praesensa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:praesensa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: praesensa_firmware
+  confidence: auto

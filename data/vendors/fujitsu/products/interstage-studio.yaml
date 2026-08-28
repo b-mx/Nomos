@@ -1,0 +1,10 @@
+id: interstage-studio
+vendor_id: fujitsu
+name: Interstage Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:interstage_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interstage_studio
+  confidence: auto

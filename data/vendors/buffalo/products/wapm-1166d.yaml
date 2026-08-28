@@ -1,0 +1,10 @@
+id: wapm-1166d
+vendor_id: buffalo
+name: Wapm-1166D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wapm\-1166d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wapm-1166d
+  confidence: auto

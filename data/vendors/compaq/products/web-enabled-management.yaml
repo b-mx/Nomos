@@ -1,0 +1,10 @@
+id: web-enabled-management
+vendor_id: compaq
+name: Web-Enabled Management
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:web\-enabled_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web-enabled_management
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x3b09a-firmware
+vendor_id: hp
+name: X3B09A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:x3b09a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x3b09a_firmware
+  confidence: auto

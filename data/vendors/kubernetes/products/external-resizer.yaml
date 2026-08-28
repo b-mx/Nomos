@@ -1,0 +1,10 @@
+id: external-resizer
+vendor_id: kubernetes
+name: External-Resizer
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:external\-resizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: external-resizer
+  confidence: auto

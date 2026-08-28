@@ -1,0 +1,10 @@
+id: xtext
+vendor_id: eclipse
+name: Xtext
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:xtext:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xtext
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jd946a
+vendor_id: hp
+name: Jd946A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd946a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd946a
+  confidence: auto

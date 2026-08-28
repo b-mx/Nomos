@@ -1,0 +1,10 @@
+id: k400r
+vendor_id: logitech
+name: K400R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:k400r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k400r
+  confidence: auto

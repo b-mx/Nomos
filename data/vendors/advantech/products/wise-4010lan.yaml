@@ -1,0 +1,10 @@
+id: wise-4010lan
+vendor_id: advantech
+name: Wise-4010Lan
+type: hardware
+tags: []
+cpe: cpe:2.3:h:advantech:wise\-4010lan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wise-4010lan
+  confidence: auto

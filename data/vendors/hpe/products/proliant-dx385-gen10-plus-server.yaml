@@ -1,0 +1,10 @@
+id: proliant-dx385-gen10-plus-server
+vendor_id: hpe
+name: Proliant Dx385 Gen10 Plus Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_dx385_gen10_plus_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_dx385_gen10_plus_server
+  confidence: auto

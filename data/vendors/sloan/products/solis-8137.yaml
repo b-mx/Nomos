@@ -1,0 +1,10 @@
+id: solis-8137
+vendor_id: sloan
+name: Solis 8137
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:solis_8137:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solis_8137
+  confidence: auto

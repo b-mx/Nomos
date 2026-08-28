@@ -1,0 +1,10 @@
+id: rescuer-r720-15ikbm-firmware
+vendor_id: hp
+name: Rescuer R720-15Ikbm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:rescuer_r720\-15ikbm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rescuer_r720-15ikbm_firmware
+  confidence: auto

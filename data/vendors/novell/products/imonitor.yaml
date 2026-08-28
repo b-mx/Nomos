@@ -1,0 +1,10 @@
+id: imonitor
+vendor_id: novell
+name: Imonitor
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:imonitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imonitor
+  confidence: auto

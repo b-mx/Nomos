@@ -1,0 +1,10 @@
+id: yoga-510-14isk-firmware
+vendor_id: hp
+name: Yoga 510-14Isk Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:yoga_510\-14isk_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_510-14isk_firmware
+  confidence: auto

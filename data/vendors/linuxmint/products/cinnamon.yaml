@@ -1,0 +1,10 @@
+id: cinnamon
+vendor_id: linuxmint
+name: Cinnamon
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxmint:cinnamon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cinnamon
+  confidence: auto

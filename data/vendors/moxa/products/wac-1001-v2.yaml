@@ -1,0 +1,10 @@
+id: wac-1001-v2
+vendor_id: moxa
+name: Wac-1001 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:wac\-1001_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wac-1001_v2
+  confidence: auto

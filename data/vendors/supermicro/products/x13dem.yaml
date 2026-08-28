@@ -1,0 +1,10 @@
+id: x13dem
+vendor_id: supermicro
+name: X13Dem
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13dem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13dem
+  confidence: auto

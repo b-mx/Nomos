@@ -1,0 +1,10 @@
+id: obs-service-tar-scm
+vendor_id: suse
+name: Obs-Service-Tar Scm
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:obs\-service\-tar_scm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: obs-service-tar_scm
+  confidence: auto

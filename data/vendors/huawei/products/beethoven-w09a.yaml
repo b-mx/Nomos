@@ -1,0 +1,10 @@
+id: beethoven-w09a
+vendor_id: huawei
+name: Beethoven-W09A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:beethoven\-w09a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: beethoven-w09a
+  confidence: auto

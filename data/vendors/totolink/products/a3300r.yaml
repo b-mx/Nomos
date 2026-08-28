@@ -1,0 +1,10 @@
+id: a3300r
+vendor_id: totolink
+name: A3300R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:a3300r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3300r
+  confidence: auto

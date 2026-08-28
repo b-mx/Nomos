@@ -1,0 +1,10 @@
+id: qhs710
+vendor_id: onsemi
+name: Qhs710
+type: hardware
+tags: []
+cpe: cpe:2.3:h:onsemi:qhs710:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qhs710
+  confidence: auto

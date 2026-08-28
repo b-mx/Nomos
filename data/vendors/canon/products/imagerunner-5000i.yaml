@@ -1,0 +1,10 @@
+id: imagerunner-5000i
+vendor_id: canon
+name: Imagerunner 5000I
+type: software
+tags: []
+cpe: cpe:2.3:a:canon:imagerunner_5000i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imagerunner_5000i
+  confidence: auto

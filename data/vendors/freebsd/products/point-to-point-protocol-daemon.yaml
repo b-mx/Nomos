@@ -1,0 +1,10 @@
+id: point-to-point-protocol-daemon
+vendor_id: freebsd
+name: Point-To-Point Protocol Daemon
+type: software
+tags: []
+cpe: cpe:2.3:a:freebsd:point\-to\-point_protocol_daemon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: point-to-point_protocol_daemon
+  confidence: auto

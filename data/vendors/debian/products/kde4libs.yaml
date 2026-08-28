@@ -1,0 +1,10 @@
+id: kde4libs
+vendor_id: debian
+name: Kde4Libs
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:kde4libs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kde4libs
+  confidence: auto

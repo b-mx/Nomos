@@ -1,0 +1,10 @@
+id: flex-system-x240-m4-firmware
+vendor_id: lenovo
+name: Flex System X240 M4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:flex_system_x240_m4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_system_x240_m4_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: endpoint-security-tools
+vendor_id: bitdefender
+name: Endpoint Security Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:endpoint_security_tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: endpoint_security_tools
+  confidence: auto

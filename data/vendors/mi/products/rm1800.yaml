@@ -1,0 +1,10 @@
+id: rm1800
+vendor_id: mi
+name: Rm1800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:rm1800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rm1800
+  confidence: auto

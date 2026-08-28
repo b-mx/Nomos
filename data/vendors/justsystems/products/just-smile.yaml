@@ -1,0 +1,10 @@
+id: just-smile
+vendor_id: justsystems
+name: Just Smile
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:just_smile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: just_smile
+  confidence: auto

@@ -1,0 +1,10 @@
+id: roboguide-handlingpro
+vendor_id: fanuc
+name: Roboguide Handlingpro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:roboguide_handlingpro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roboguide_handlingpro
+  confidence: auto

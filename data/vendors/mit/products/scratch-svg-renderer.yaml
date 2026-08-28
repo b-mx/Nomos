@@ -1,0 +1,10 @@
+id: scratch-svg-renderer
+vendor_id: mit
+name: Scratch-Svg-Renderer
+type: software
+tags: []
+cpe: cpe:2.3:a:mit:scratch\-svg\-renderer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scratch-svg-renderer
+  confidence: auto

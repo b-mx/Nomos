@@ -1,0 +1,10 @@
+id: ac800m
+vendor_id: abb
+name: Ac800M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:ac800m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac800m
+  confidence: auto

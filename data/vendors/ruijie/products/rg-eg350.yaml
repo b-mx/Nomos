@@ -1,0 +1,10 @@
+id: rg-eg350
+vendor_id: ruijie
+name: Rg-Eg350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-eg350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-eg350
+  confidence: auto

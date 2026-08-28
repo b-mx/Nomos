@@ -1,0 +1,10 @@
+id: xorg-server
+vendor_id: x-org
+name: Xorg-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:x\.org:xorg\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xorg-server
+  confidence: auto

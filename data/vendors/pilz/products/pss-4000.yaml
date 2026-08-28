@@ -1,0 +1,10 @@
+id: pss-4000
+vendor_id: pilz
+name: Pss 4000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pilz:pss_4000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pss_4000
+  confidence: auto

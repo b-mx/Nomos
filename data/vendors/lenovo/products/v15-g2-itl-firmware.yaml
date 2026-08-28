@@ -1,0 +1,10 @@
+id: v15-g2-itl-firmware
+vendor_id: lenovo
+name: V15 G2-Itl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v15_g2\-itl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v15_g2-itl_firmware
+  confidence: auto

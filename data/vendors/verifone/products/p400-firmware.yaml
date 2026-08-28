@@ -1,0 +1,10 @@
+id: p400-firmware
+vendor_id: verifone
+name: P400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:verifone:p400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p400_firmware
+  confidence: auto

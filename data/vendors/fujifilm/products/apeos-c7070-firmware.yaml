@@ -1,0 +1,10 @@
+id: apeos-c7070-firmware
+vendor_id: fujifilm
+name: Apeos C7070 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:apeos_c7070_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_c7070_firmware
+  confidence: auto

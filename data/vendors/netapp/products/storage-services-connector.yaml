@@ -1,0 +1,10 @@
+id: storage-services-connector
+vendor_id: netapp
+name: Storage Services Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:storage_services_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_services_connector
+  confidence: auto

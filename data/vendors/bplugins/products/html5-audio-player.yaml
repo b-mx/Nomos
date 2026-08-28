@@ -1,0 +1,10 @@
+id: html5-audio-player
+vendor_id: bplugins
+name: Html5 Audio Player
+type: software
+tags: []
+cpe: cpe:2.3:a:bplugins:html5_audio_player:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: html5_audio_player
+  confidence: auto

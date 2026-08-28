@@ -1,0 +1,10 @@
+id: r08psfcpu
+vendor_id: mitsubishielectric
+name: R08Psfcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:r08psfcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r08psfcpu
+  confidence: auto

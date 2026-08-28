@@ -1,0 +1,10 @@
+id: k1spi
+vendor_id: supermicro
+name: K1Spi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:k1spi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k1spi
+  confidence: auto

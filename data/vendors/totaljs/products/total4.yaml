@@ -1,0 +1,10 @@
+id: total4
+vendor_id: totaljs
+name: Total4
+type: software
+tags: []
+cpe: cpe:2.3:a:totaljs:total4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: total4
+  confidence: auto

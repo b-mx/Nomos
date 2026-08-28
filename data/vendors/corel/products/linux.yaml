@@ -1,0 +1,10 @@
+id: linux
+vendor_id: corel
+name: Linux
+type: os
+tags: []
+cpe: cpe:2.3:o:corel:linux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux
+  confidence: auto

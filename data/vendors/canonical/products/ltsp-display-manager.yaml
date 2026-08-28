@@ -1,0 +1,10 @@
+id: ltsp-display-manager
+vendor_id: canonical
+name: Ltsp Display Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:ltsp_display_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ltsp_display_manager
+  confidence: auto

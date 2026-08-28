@@ -1,0 +1,10 @@
+id: xm91x
+vendor_id: lexmark
+name: Xm91X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xm91x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm91x
+  confidence: auto

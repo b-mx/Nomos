@@ -1,0 +1,10 @@
+id: synergy
+vendor_id: hp
+name: Synergy
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:synergy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy
+  confidence: auto

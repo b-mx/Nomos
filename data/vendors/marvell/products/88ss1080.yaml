@@ -1,0 +1,10 @@
+id: 88ss1080
+vendor_id: marvell
+name: 88Ss1080
+type: hardware
+tags: []
+cpe: cpe:2.3:h:marvell:88ss1080:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 88ss1080
+  confidence: auto

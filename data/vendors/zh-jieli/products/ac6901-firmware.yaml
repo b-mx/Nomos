@@ -1,0 +1,10 @@
+id: ac6901-firmware
+vendor_id: zh-jieli
+name: Ac6901 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zh\-jieli:ac6901_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac6901_firmware
+  confidence: auto

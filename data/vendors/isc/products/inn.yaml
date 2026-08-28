@@ -1,0 +1,10 @@
+id: inn
+vendor_id: isc
+name: Inn
+type: software
+tags: []
+cpe: cpe:2.3:a:isc:inn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inn
+  confidence: auto

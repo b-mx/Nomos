@@ -1,0 +1,10 @@
+id: hp-ux-series-800
+vendor_id: hp
+name: Hp-Ux Series 800
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:hp\-ux_series_800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp-ux_series_800
+  confidence: auto

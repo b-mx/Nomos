@@ -1,0 +1,10 @@
+id: benchmark
+vendor_id: tanium
+name: Benchmark
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:benchmark:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: benchmark
+  confidence: auto

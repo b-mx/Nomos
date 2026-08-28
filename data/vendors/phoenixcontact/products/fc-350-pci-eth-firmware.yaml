@@ -1,0 +1,10 @@
+id: fc-350-pci-eth-firmware
+vendor_id: phoenixcontact
+name: Fc 350 Pci Eth Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fc_350_pci_eth_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fc_350_pci_eth_firmware
+  confidence: auto

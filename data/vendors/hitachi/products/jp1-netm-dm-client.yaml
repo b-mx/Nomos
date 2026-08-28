@@ -1,0 +1,10 @@
+id: jp1-netm-dm-client
+vendor_id: hitachi
+name: Jp1/Netm/Dm Client
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:jp1\/netm\/dm_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jp1/netm/dm_client
+  confidence: auto

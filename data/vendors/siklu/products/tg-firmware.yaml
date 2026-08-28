@@ -1,0 +1,10 @@
+id: tg-firmware
+vendor_id: siklu
+name: Tg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:siklu:tg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg_firmware
+  confidence: auto

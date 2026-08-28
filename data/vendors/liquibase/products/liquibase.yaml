@@ -1,0 +1,14 @@
+id: liquibase
+vendor_id: liquibase
+name: Liquibase
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:liquibase:liquibase:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: liquibase
+  confidence: auto
+- source: nvd
+  value: liquibase
+  confidence: auto

@@ -1,0 +1,10 @@
+id: credit-card
+vendor_id: janobe
+name: Credit Card
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:credit_card:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: credit_card
+  confidence: auto

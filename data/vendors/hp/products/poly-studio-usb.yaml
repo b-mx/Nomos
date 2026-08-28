@@ -1,0 +1,10 @@
+id: poly-studio-usb
+vendor_id: hp
+name: Poly Studio Usb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:poly_studio_usb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_studio_usb
+  confidence: auto

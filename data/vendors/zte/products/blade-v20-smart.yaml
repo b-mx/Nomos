@@ -1,0 +1,10 @@
+id: blade-v20-smart
+vendor_id: zte
+name: Blade V20 Smart
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:blade_v20_smart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_v20_smart
+  confidence: auto

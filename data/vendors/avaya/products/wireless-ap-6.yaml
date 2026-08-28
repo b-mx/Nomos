@@ -1,0 +1,10 @@
+id: wireless-ap-6
+vendor_id: avaya
+name: Wireless Ap-6
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:wireless_ap\-6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireless_ap-6
+  confidence: auto

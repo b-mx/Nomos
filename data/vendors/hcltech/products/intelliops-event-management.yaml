@@ -1,0 +1,10 @@
+id: intelliops-event-management
+vendor_id: hcltech
+name: Intelliops Event Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:intelliops_event_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelliops_event_management
+  confidence: auto

@@ -1,0 +1,13 @@
+id: discourse
+vendor_id: discourse
+name: Discourse
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:discourse:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: discourse
+  confidence: auto
+- source: nvd
+  value: discourse
+  confidence: auto

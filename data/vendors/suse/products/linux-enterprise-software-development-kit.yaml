@@ -1,0 +1,10 @@
+id: linux-enterprise-software-development-kit
+vendor_id: suse
+name: Linux Enterprise Software Development Kit
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux_enterprise_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_software_development_kit
+  confidence: auto

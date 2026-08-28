@@ -1,0 +1,10 @@
+id: laserjet-mfp-m234-9yg05a
+vendor_id: hp
+name: Laserjet Mfp M234 9Yg05A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m234_9yg05a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m234_9yg05a
+  confidence: auto

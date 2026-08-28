@@ -1,0 +1,10 @@
+id: wn-ac1300ex-firmware
+vendor_id: iodata
+name: Wn-Ac1300Ex Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:wn\-ac1300ex_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn-ac1300ex_firmware
+  confidence: auto

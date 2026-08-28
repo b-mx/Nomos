@@ -1,0 +1,10 @@
+id: student-result-manager
+vendor_id: carmelo
+name: Student Result Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:student_result_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: student_result_manager
+  confidence: auto

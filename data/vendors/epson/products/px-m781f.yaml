@@ -1,0 +1,10 @@
+id: px-m781f
+vendor_id: epson
+name: Px-M781F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-m781f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-m781f
+  confidence: auto

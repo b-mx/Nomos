@@ -1,0 +1,10 @@
+id: ryzen-3-7440u-firmware
+vendor_id: amd
+name: Ryzen 3 7440U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_3_7440u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3_7440u_firmware
+  confidence: auto

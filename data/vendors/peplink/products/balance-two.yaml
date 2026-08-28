@@ -1,0 +1,10 @@
+id: balance-two
+vendor_id: peplink
+name: Balance Two
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:balance_two:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: balance_two
+  confidence: auto

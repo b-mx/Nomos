@@ -1,0 +1,13 @@
+id: slackware
+vendor_id: slackware
+name: Slackware Linux
+type: os
+tags: []
+cpe: cpe:2.3:o:slackware:slackware_linux:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: slackware
+  confidence: auto
+- source: nvd
+  value: slackware_linux
+  confidence: auto

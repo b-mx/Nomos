@@ -1,0 +1,10 @@
+id: survivable-remote-gateway
+vendor_id: nortel
+name: Survivable Remote Gateway
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:survivable_remote_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: survivable_remote_gateway
+  confidence: auto

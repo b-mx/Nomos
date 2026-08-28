@@ -1,0 +1,10 @@
+id: rx65n-firmware
+vendor_id: renesas
+name: Rx65N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:renesas:rx65n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx65n_firmware
+  confidence: auto

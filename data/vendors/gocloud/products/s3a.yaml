@@ -1,0 +1,10 @@
+id: s3a
+vendor_id: gocloud
+name: S3A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gocloud:s3a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s3a
+  confidence: auto

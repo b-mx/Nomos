@@ -1,0 +1,10 @@
+id: cc3135
+vendor_id: ti
+name: Cc3135
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:cc3135:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc3135
+  confidence: auto

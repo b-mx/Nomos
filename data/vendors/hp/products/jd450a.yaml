@@ -1,0 +1,10 @@
+id: jd450a
+vendor_id: hp
+name: Jd450A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd450a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd450a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: prolab-print
+vendor_id: epson
+name: Prolab Print
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:prolab_print:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prolab_print
+  confidence: auto

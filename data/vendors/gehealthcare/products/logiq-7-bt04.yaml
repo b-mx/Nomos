@@ -1,0 +1,10 @@
+id: logiq-7-bt04
+vendor_id: gehealthcare
+name: Logiq 7 Bt04
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:logiq_7_bt04:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logiq_7_bt04
+  confidence: auto

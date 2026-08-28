@@ -1,0 +1,10 @@
+id: pano
+vendor_id: polycom
+name: Pano
+type: software
+tags: []
+cpe: cpe:2.3:a:polycom:pano:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pano
+  confidence: auto

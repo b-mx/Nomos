@@ -1,0 +1,10 @@
+id: epicentro
+vendor_id: adbglobal
+name: Epicentro
+type: os
+tags: []
+cpe: cpe:2.3:o:adbglobal:epicentro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epicentro
+  confidence: auto

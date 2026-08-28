@@ -1,0 +1,10 @@
+id: wlx222
+vendor_id: yamaha
+name: Wlx222
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:wlx222:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlx222
+  confidence: auto

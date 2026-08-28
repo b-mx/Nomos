@@ -1,0 +1,10 @@
+id: s8023
+vendor_id: unisoc
+name: S8023
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8023:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8023
+  confidence: auto

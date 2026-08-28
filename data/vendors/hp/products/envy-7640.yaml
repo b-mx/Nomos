@@ -1,0 +1,10 @@
+id: envy-7640
+vendor_id: hp
+name: Envy 7640
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_7640:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_7640
+  confidence: auto

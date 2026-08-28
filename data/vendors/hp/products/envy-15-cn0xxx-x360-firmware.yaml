@@ -1,0 +1,10 @@
+id: envy-15-cn0xxx-x360-firmware
+vendor_id: hp
+name: Envy 15-Cn0Xxx X360 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_15\-cn0xxx_x360_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_15-cn0xxx_x360_firmware
+  confidence: auto

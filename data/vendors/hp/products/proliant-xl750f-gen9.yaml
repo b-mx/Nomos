@@ -1,0 +1,10 @@
+id: proliant-xl750f-gen9
+vendor_id: hp
+name: Proliant Xl750F Gen9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_xl750f_gen9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_xl750f_gen9
+  confidence: auto

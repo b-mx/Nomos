@@ -1,0 +1,10 @@
+id: ideapad-3-15alc6
+vendor_id: lenovo
+name: Ideapad 3-15Alc6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideapad_3\-15alc6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_3-15alc6
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkpad-t495s-jazz
+vendor_id: lenovo
+name: Thinkpad T495S Jazz
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_t495s_jazz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t495s_jazz
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vecaster-hd-sdi
+vendor_id: provideoinstruments
+name: Vecaster-Hd-Sdi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:provideoinstruments:vecaster\-hd\-sdi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vecaster-hd-sdi
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x54x
+vendor_id: lexmark
+name: X54X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x54x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x54x
+  confidence: auto

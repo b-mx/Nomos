@@ -1,0 +1,10 @@
+id: x9sre-i-series
+vendor_id: supermicro
+name: X9Sre/I Series
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9sre\/i_series:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9sre/i_series
+  confidence: auto

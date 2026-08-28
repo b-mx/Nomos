@@ -1,0 +1,10 @@
+id: 10websocial
+vendor_id: 10web
+name: 10Websocial
+type: software
+tags: []
+cpe: cpe:2.3:a:10web:10websocial:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 10websocial
+  confidence: auto

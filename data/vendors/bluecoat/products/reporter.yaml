@@ -1,0 +1,10 @@
+id: reporter
+vendor_id: bluecoat
+name: Reporter
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:reporter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reporter
+  confidence: auto

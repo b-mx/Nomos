@@ -1,0 +1,10 @@
+id: wall-connector
+vendor_id: tesla
+name: Wall Connector
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tesla:wall_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wall_connector
+  confidence: auto

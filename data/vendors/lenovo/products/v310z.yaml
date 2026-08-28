@@ -1,0 +1,10 @@
+id: v310z
+vendor_id: lenovo
+name: V310Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v310z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v310z
+  confidence: auto

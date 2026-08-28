@@ -1,0 +1,10 @@
+id: ew-50a
+vendor_id: mitsubishi
+name: Ew-50A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:ew\-50a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ew-50a
+  confidence: auto

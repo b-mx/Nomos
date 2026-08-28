@@ -1,0 +1,10 @@
+id: rsa-archer-egrc
+vendor_id: emc
+name: Rsa Archer Egrc
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_archer_egrc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_archer_egrc
+  confidence: auto

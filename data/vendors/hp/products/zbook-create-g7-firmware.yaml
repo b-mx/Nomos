@@ -1,0 +1,10 @@
+id: zbook-create-g7-firmware
+vendor_id: hp
+name: Zbook Create G7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zbook_create_g7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_create_g7_firmware
+  confidence: auto

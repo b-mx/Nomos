@@ -1,0 +1,10 @@
+id: sh016
+vendor_id: sricam
+name: Sh016
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sricam:sh016:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sh016
+  confidence: auto

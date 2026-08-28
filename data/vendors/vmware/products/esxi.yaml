@@ -1,11 +1,9 @@
 id: esxi
 vendor_id: vmware
 name: ESXi
-type: os
-tags:
-- virtualization
-icon: carbon:logo-vmware-alt
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: ESXi
-  confidence: curated
+  confidence: auto

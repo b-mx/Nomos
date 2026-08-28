@@ -1,0 +1,10 @@
+id: florida-al20b
+vendor_id: huawei
+name: Florida-Al20B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:florida\-al20b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: florida-al20b
+  confidence: auto

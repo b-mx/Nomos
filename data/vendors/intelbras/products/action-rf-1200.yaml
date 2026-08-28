@@ -1,0 +1,10 @@
+id: action-rf-1200
+vendor_id: intelbras
+name: Action Rf 1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:action_rf_1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: action_rf_1200
+  confidence: auto

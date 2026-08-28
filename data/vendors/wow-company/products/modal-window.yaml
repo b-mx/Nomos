@@ -1,0 +1,10 @@
+id: modal-window
+vendor_id: wow-company
+name: Modal Window
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:modal_window:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modal_window
+  confidence: auto

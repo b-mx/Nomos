@@ -1,0 +1,10 @@
+id: ms91x
+vendor_id: lexmark
+name: Ms91X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms91x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms91x
+  confidence: auto

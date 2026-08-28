@@ -1,0 +1,10 @@
+id: linux-enterprise
+vendor_id: suse
+name: Linux Enterprise
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise
+  confidence: auto

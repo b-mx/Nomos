@@ -1,0 +1,10 @@
+id: apollo-4200-firmware
+vendor_id: hp
+name: Apollo 4200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:apollo_4200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_4200_firmware
+  confidence: auto

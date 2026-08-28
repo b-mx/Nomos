@@ -1,0 +1,10 @@
+id: idevcart
+vendor_id: idevspot
+name: Idevcart
+type: software
+tags: []
+cpe: cpe:2.3:a:idevspot:idevcart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: idevcart
+  confidence: auto

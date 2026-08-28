@@ -1,0 +1,10 @@
+id: ecosense-4-8-16-m4t-firmware
+vendor_id: netvu
+name: Ecosense 4/8/16 (M4T) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netvu:ecosense_4\/8\/16_\(m4t\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecosense_4/8/16_(m4t)_firmware
+  confidence: auto

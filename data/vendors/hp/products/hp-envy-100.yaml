@@ -1,0 +1,10 @@
+id: hp-envy-100
+vendor_id: hp
+name: Hp Envy 100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_envy_100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_envy_100
+  confidence: auto

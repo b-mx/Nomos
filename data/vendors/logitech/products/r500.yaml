@@ -1,0 +1,10 @@
+id: r500
+vendor_id: logitech
+name: R500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:r500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r500
+  confidence: auto

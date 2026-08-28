@@ -1,0 +1,10 @@
+id: s5700s-li
+vendor_id: huawei
+name: S5700S-Li
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s5700s\-li:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5700s-li
+  confidence: auto

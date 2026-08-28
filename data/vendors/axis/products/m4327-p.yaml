@@ -1,0 +1,10 @@
+id: m4327-p
+vendor_id: axis
+name: M4327-P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m4327\-p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m4327-p
+  confidence: auto

@@ -1,0 +1,10 @@
+id: k3
+vendor_id: phicomm
+name: K3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phicomm:k3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k3
+  confidence: auto

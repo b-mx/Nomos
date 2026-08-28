@@ -1,0 +1,10 @@
+id: fprime
+vendor_id: nasa
+name: Fprime
+type: software
+tags: []
+cpe: cpe:2.3:a:nasa:fprime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fprime
+  confidence: auto

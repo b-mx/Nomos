@@ -1,0 +1,10 @@
+id: viewforum
+vendor_id: philips
+name: Viewforum
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:viewforum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: viewforum
+  confidence: auto

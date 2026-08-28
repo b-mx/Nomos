@@ -1,0 +1,10 @@
+id: ares-al10d-firmware
+vendor_id: huawei
+name: Ares-Al10D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ares\-al10d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ares-al10d_firmware
+  confidence: auto

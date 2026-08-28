@@ -2,8 +2,7 @@ id: velocloud-orchestrator
 vendor_id: arista
 name: VeloCloud Orchestrator
 type: software
-tags:
-- orchestration
+tags: []
 aliases:
 - source: cisa_kev
   value: VeloCloud Orchestrator

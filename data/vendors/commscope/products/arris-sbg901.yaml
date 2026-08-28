@@ -1,0 +1,10 @@
+id: arris-sbg901
+vendor_id: commscope
+name: Arris Sbg901
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:arris_sbg901:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_sbg901
+  confidence: auto

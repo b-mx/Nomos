@@ -1,0 +1,10 @@
+id: poll-maker
+vendor_id: ays-pro
+name: Poll Maker
+type: software
+tags: []
+cpe: cpe:2.3:a:ays\-pro:poll_maker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poll_maker
+  confidence: auto

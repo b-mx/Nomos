@@ -1,0 +1,10 @@
+id: rt-ac5300-firmware
+vendor_id: asuswrt-merlin-project
+name: Rt-Ac5300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:asuswrt\-merlin_project:rt\-ac5300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-ac5300_firmware
+  confidence: auto

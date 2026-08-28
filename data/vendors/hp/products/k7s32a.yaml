@@ -1,0 +1,10 @@
+id: k7s32a
+vendor_id: hp
+name: K7S32A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k7s32a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7s32a
+  confidence: auto

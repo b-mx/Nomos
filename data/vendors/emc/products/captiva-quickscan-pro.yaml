@@ -1,0 +1,10 @@
+id: captiva-quickscan-pro
+vendor_id: emc
+name: Captiva Quickscan Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:captiva_quickscan_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: captiva_quickscan_pro
+  confidence: auto

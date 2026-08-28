@@ -1,0 +1,10 @@
+id: woodcraft-magazine
+vendor_id: magzter
+name: Woodcraft Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:woodcraft_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woodcraft_magazine
+  confidence: auto

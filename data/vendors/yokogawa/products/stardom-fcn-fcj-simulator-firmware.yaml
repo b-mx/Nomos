@@ -1,0 +1,10 @@
+id: stardom-fcn-fcj-simulator-firmware
+vendor_id: yokogawa
+name: Stardom Fcn/Fcj Simulator Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yokogawa:stardom_fcn\/fcj_simulator_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stardom_fcn/fcj_simulator_firmware
+  confidence: auto

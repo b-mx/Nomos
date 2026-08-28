@@ -1,0 +1,10 @@
+id: tat-76116g3-firmware
+vendor_id: tonnet
+name: Tat-76116G3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tonnet:tat\-76116g3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tat-76116g3_firmware
+  confidence: auto

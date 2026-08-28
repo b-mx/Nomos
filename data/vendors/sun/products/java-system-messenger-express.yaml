@@ -1,0 +1,10 @@
+id: java-system-messenger-express
+vendor_id: sun
+name: Java System Messenger Express
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_system_messenger_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_system_messenger_express
+  confidence: auto

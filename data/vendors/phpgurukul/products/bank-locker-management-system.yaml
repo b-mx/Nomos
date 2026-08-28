@@ -1,0 +1,10 @@
+id: bank-locker-management-system
+vendor_id: phpgurukul
+name: Bank Locker Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:bank_locker_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bank_locker_management_system
+  confidence: auto

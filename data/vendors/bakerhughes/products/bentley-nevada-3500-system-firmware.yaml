@@ -1,0 +1,10 @@
+id: bentley-nevada-3500-system-firmware
+vendor_id: bakerhughes
+name: Bentley Nevada 3500 System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bakerhughes:bentley_nevada_3500_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bentley_nevada_3500_system_firmware
+  confidence: auto

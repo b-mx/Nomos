@@ -1,0 +1,10 @@
+id: opensearch
+vendor_id: linuxfoundation
+name: Opensearch
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:opensearch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensearch
+  confidence: auto

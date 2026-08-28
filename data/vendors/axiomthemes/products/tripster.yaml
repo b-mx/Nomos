@@ -1,0 +1,10 @@
+id: tripster
+vendor_id: axiomthemes
+name: Tripster
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:tripster:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tripster
+  confidence: auto

@@ -1,0 +1,10 @@
+id: overdrive
+vendor_id: amd
+name: Overdrive
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:overdrive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: overdrive
+  confidence: auto

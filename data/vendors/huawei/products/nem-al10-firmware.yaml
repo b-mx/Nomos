@@ -1,0 +1,10 @@
+id: nem-al10-firmware
+vendor_id: huawei
+name: Nem-Al10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:nem\-al10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nem-al10_firmware
+  confidence: auto

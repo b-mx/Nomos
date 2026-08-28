@@ -1,0 +1,10 @@
+id: embedded-systems-security
+vendor_id: kaspersky
+name: Embedded Systems Security
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:embedded_systems_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: embedded_systems_security
+  confidence: auto

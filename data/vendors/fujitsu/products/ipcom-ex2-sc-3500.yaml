@@ -1,0 +1,10 @@
+id: ipcom-ex2-sc-3500
+vendor_id: fujitsu
+name: Ipcom Ex2 Sc 3500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:ipcom_ex2_sc_3500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipcom_ex2_sc_3500
+  confidence: auto

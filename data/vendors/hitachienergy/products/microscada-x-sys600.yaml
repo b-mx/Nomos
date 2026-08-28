@@ -1,0 +1,10 @@
+id: microscada-x-sys600
+vendor_id: hitachienergy
+name: Microscada X Sys600
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:microscada_x_sys600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microscada_x_sys600
+  confidence: auto

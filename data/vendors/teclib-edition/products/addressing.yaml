@@ -1,0 +1,10 @@
+id: addressing
+vendor_id: teclib-edition
+name: Addressing
+type: software
+tags: []
+cpe: cpe:2.3:a:teclib\-edition:addressing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: addressing
+  confidence: auto

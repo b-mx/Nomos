@@ -1,0 +1,10 @@
+id: pacsystems-cpu320-firmware
+vendor_id: ge
+name: Pacsystems Cpu320 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:pacsystems_cpu320_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pacsystems_cpu320_firmware
+  confidence: auto

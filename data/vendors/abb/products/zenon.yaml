@@ -1,0 +1,10 @@
+id: zenon
+vendor_id: abb
+name: Zenon
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:zenon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenon
+  confidence: auto

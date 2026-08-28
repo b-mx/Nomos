@@ -1,0 +1,10 @@
+id: ideacentre-300-20ish-firmware
+vendor_id: lenovo
+name: Ideacentre 300-20Ish Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_300\-20ish_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_300-20ish_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: unifi-protect
+vendor_id: ui
+name: Unifi Protect
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:unifi_protect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_protect
+  confidence: auto

@@ -1,0 +1,10 @@
+id: omniback-ii
+vendor_id: hp
+name: Omniback Ii
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:omniback_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omniback_ii
+  confidence: auto

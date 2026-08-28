@@ -1,0 +1,10 @@
+id: quick-pdf-library
+vendor_id: foxitsoftware
+name: Quick Pdf Library
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:quick_pdf_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quick_pdf_library
+  confidence: auto

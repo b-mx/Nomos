@@ -1,0 +1,13 @@
+id: go
+vendor_id: golang
+name: Go
+type: library
+tags: []
+cpe: cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: go
+  confidence: auto
+- source: nvd
+  value: go
+  confidence: auto

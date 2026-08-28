@@ -1,0 +1,10 @@
+id: plchandler
+vendor_id: codesys
+name: Plchandler
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:plchandler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plchandler
+  confidence: auto

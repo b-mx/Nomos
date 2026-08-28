@@ -1,0 +1,10 @@
+id: ares-tl00c
+vendor_id: huawei
+name: Ares-Tl00C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ares\-tl00c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ares-tl00c
+  confidence: auto

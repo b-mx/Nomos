@@ -1,0 +1,10 @@
+id: alertwerks-servsensor-eme105a
+vendor_id: blackbox
+name: Alertwerks Servsensor Eme105A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:blackbox:alertwerks_servsensor_eme105a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alertwerks_servsensor_eme105a
+  confidence: auto

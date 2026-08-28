@@ -1,0 +1,7 @@
+id: moxa
+name: Moxa
+cpe: cpe:2.3:*:moxa:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moxa
+  confidence: auto

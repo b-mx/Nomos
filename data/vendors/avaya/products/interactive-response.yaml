@@ -1,0 +1,10 @@
+id: interactive-response
+vendor_id: avaya
+name: Interactive Response
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:interactive_response:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interactive_response
+  confidence: auto

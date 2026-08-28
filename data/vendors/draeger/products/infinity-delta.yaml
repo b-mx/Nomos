@@ -1,0 +1,10 @@
+id: infinity-delta
+vendor_id: draeger
+name: Infinity Delta
+type: hardware
+tags: []
+cpe: cpe:2.3:h:draeger:infinity_delta:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infinity_delta
+  confidence: auto

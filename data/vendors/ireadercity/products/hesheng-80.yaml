@@ -1,0 +1,10 @@
+id: hesheng-80
+vendor_id: ireadercity
+name: Hesheng 80
+type: software
+tags: []
+cpe: cpe:2.3:a:ireadercity:hesheng_80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hesheng_80
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mycred
+vendor_id: wpexperts
+name: Mycred
+type: software
+tags: []
+cpe: cpe:2.3:a:wpexperts:mycred:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mycred
+  confidence: auto

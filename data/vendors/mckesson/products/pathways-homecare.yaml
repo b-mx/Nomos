@@ -1,0 +1,10 @@
+id: pathways-homecare
+vendor_id: mckesson
+name: Pathways Homecare
+type: software
+tags: []
+cpe: cpe:2.3:a:mckesson:pathways_homecare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pathways_homecare
+  confidence: auto

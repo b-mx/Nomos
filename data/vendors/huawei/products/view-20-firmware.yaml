@@ -1,0 +1,10 @@
+id: view-20-firmware
+vendor_id: huawei
+name: View 20 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:view_20_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: view_20_firmware
+  confidence: auto

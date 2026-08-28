@@ -1,0 +1,10 @@
+id: rally
+vendor_id: axiomthemes
+name: Rally
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:rally:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rally
+  confidence: auto

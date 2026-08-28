@@ -1,0 +1,10 @@
+id: jupyterhub
+vendor_id: jupyter
+name: Jupyterhub
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:jupyterhub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jupyterhub
+  confidence: auto

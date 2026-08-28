@@ -1,0 +1,10 @@
+id: zenworks-desktops
+vendor_id: novell
+name: Zenworks Desktops
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:zenworks_desktops:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenworks_desktops
+  confidence: auto

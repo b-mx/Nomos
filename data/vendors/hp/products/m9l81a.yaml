@@ -1,0 +1,10 @@
+id: m9l81a
+vendor_id: hp
+name: M9L81A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m9l81a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m9l81a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: harmonix
+vendor_id: amazon
+name: Harmonix
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:harmonix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: harmonix
+  confidence: auto

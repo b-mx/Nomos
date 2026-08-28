@@ -1,0 +1,10 @@
+id: proconos-eclr
+vendor_id: phoenixcontact
+name: Proconos Eclr
+type: software
+tags: []
+cpe: cpe:2.3:a:phoenixcontact:proconos_eclr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proconos_eclr
+  confidence: auto

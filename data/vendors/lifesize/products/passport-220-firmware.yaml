@@ -1,0 +1,10 @@
+id: passport-220-firmware
+vendor_id: lifesize
+name: Passport 220 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lifesize:passport_220_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: passport_220_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ip-bullet-5000-hd
+vendor_id: bosch
+name: Ip Bullet 5000 Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:ip_bullet_5000_hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_bullet_5000_hd
+  confidence: auto

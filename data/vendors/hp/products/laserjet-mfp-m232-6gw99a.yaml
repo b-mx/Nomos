@@ -1,0 +1,10 @@
+id: laserjet-mfp-m232-6gw99a
+vendor_id: hp
+name: Laserjet Mfp M232 6Gw99A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m232_6gw99a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m232_6gw99a
+  confidence: auto

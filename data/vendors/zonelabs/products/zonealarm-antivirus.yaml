@@ -1,0 +1,10 @@
+id: zonealarm-antivirus
+vendor_id: zonelabs
+name: Zonealarm Antivirus
+type: software
+tags: []
+cpe: cpe:2.3:a:zonelabs:zonealarm_antivirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zonealarm_antivirus
+  confidence: auto

@@ -1,0 +1,10 @@
+id: event-management-system
+vendor_id: codezips
+name: Event Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:codezips:event_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: event_management_system
+  confidence: auto

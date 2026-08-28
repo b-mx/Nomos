@@ -1,0 +1,10 @@
+id: online-leave-application
+vendor_id: codeastro
+name: Online Leave Application
+type: software
+tags: []
+cpe: cpe:2.3:a:codeastro:online_leave_application:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_leave_application
+  confidence: auto

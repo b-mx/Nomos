@@ -1,0 +1,10 @@
+id: go-1-firmware
+vendor_id: unitree
+name: Go 1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:unitree:go_1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_1_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: storeonce-d2d
+vendor_id: hp
+name: Storeonce D2D
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:storeonce_d2d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storeonce_d2d
+  confidence: auto

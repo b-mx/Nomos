@@ -1,0 +1,10 @@
+id: ycblb3-firmware
+vendor_id: y-cam
+name: Ycblb3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:y\-cam:ycblb3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ycblb3_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cool-timeline
+vendor_id: coolplugins
+name: Cool Timeline
+type: software
+tags: []
+cpe: cpe:2.3:a:coolplugins:cool_timeline:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cool_timeline
+  confidence: auto

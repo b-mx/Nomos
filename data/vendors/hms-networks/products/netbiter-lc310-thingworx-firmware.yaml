@@ -1,0 +1,10 @@
+id: netbiter-lc310-thingworx-firmware
+vendor_id: hms-networks
+name: Netbiter Lc310 Thingworx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hms\-networks:netbiter_lc310_thingworx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netbiter_lc310_thingworx_firmware
+  confidence: auto

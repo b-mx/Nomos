@@ -1,0 +1,10 @@
+id: instack-undercloud
+vendor_id: openstack
+name: Instack-Undercloud
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:instack\-undercloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instack-undercloud
+  confidence: auto

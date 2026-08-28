@@ -1,0 +1,10 @@
+id: simple-chat-system
+vendor_id: code-projects
+name: Simple Chat System
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:simple_chat_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_chat_system
+  confidence: auto

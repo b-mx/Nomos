@@ -1,0 +1,10 @@
+id: ideacentre-neo-50t-gen-3
+vendor_id: lenovo
+name: Ideacentre Neo 50T Gen 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_neo_50t_gen_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_neo_50t_gen_3
+  confidence: auto

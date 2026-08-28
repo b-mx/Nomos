@@ -1,0 +1,10 @@
+id: ethernet
+vendor_id: wago
+name: Ethernet
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:ethernet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ethernet
+  confidence: auto

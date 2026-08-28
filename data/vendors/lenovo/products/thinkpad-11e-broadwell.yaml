@@ -1,0 +1,10 @@
+id: thinkpad-11e-broadwell
+vendor_id: lenovo
+name: Thinkpad 11E Broadwell
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_11e_broadwell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_11e_broadwell
+  confidence: auto

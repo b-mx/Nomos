@@ -1,0 +1,10 @@
+id: netstandard-opc-ua
+vendor_id: opcfoundation
+name: Netstandard.Opc.Ua
+type: software
+tags: []
+cpe: cpe:2.3:a:opcfoundation:netstandard\.opc\.ua:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netstandard.opc.ua
+  confidence: auto

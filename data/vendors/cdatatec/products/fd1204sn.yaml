@@ -1,0 +1,10 @@
+id: fd1204sn
+vendor_id: cdatatec
+name: Fd1204Sn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cdatatec:fd1204sn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd1204sn
+  confidence: auto

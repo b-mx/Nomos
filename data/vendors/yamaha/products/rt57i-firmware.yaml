@@ -1,0 +1,10 @@
+id: rt57i-firmware
+vendor_id: yamaha
+name: Rt57I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rt57i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt57i_firmware
+  confidence: auto

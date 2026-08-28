@@ -1,0 +1,10 @@
+id: service-desk-express
+vendor_id: bmc
+name: Service Desk Express
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:service_desk_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_desk_express
+  confidence: auto

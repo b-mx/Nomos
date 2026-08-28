@@ -1,0 +1,10 @@
+id: smart-tank-720-28b52a
+vendor_id: hp
+name: Smart Tank 720 28B52A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_720_28b52a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_720_28b52a
+  confidence: auto

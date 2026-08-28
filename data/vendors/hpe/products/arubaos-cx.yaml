@@ -1,0 +1,10 @@
+id: arubaos-cx
+vendor_id: hpe
+name: Arubaos-Cx
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:arubaos\-cx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arubaos-cx
+  confidence: auto

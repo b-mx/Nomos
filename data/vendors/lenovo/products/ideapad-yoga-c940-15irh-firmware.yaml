@@ -1,0 +1,10 @@
+id: ideapad-yoga-c940-15irh-firmware
+vendor_id: lenovo
+name: Ideapad Yoga C940-15Irh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_yoga_c940\-15irh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_yoga_c940-15irh_firmware
+  confidence: auto

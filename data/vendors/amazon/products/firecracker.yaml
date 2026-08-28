@@ -1,0 +1,10 @@
+id: firecracker
+vendor_id: amazon
+name: Firecracker
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:firecracker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: firecracker
+  confidence: auto

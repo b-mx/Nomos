@@ -1,0 +1,10 @@
+id: wgs-804hpt-firmware
+vendor_id: planet
+name: Wgs-804Hpt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:planet:wgs\-804hpt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wgs-804hpt_firmware
+  confidence: auto

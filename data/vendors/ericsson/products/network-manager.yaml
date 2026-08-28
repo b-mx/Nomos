@@ -1,0 +1,10 @@
+id: network-manager
+vendor_id: ericsson
+name: Network Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:ericsson:network_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_manager
+  confidence: auto

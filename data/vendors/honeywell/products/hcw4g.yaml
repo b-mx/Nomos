@@ -1,0 +1,10 @@
+id: hcw4g
+vendor_id: honeywell
+name: Hcw4G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hcw4g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcw4g
+  confidence: auto

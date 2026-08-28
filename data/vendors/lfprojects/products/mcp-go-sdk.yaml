@@ -1,0 +1,10 @@
+id: mcp-go-sdk
+vendor_id: lfprojects
+name: Mcp Go Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:mcp_go_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcp_go_sdk
+  confidence: auto

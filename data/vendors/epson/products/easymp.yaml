@@ -1,0 +1,10 @@
+id: easymp
+vendor_id: epson
+name: Easymp
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:easymp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easymp
+  confidence: auto

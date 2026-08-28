@@ -1,0 +1,10 @@
+id: phpbb3
+vendor_id: debian
+name: Phpbb3
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:phpbb3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phpbb3
+  confidence: auto

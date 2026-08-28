@@ -1,0 +1,10 @@
+id: weather-effect
+vendor_id: awplife
+name: Weather Effect
+type: software
+tags: []
+cpe: cpe:2.3:a:awplife:weather_effect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: weather_effect
+  confidence: auto

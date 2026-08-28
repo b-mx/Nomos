@@ -1,0 +1,10 @@
+id: autodome-ip-7000
+vendor_id: bosch
+name: Autodome Ip 7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:autodome_ip_7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autodome_ip_7000
+  confidence: auto

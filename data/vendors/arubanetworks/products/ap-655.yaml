@@ -1,0 +1,10 @@
+id: ap-655
+vendor_id: arubanetworks
+name: Ap-655
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-655:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-655
+  confidence: auto

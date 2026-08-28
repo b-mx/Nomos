@@ -1,0 +1,10 @@
+id: hollow
+vendor_id: netflix
+name: Hollow
+type: software
+tags: []
+cpe: cpe:2.3:a:netflix:hollow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hollow
+  confidence: auto

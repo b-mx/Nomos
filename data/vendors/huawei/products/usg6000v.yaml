@@ -1,0 +1,10 @@
+id: usg6000v
+vendor_id: huawei
+name: Usg6000V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:usg6000v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usg6000v
+  confidence: auto

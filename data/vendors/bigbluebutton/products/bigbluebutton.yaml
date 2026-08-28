@@ -1,0 +1,13 @@
+id: bigbluebutton
+vendor_id: bigbluebutton
+name: BigBlueButton
+type: software
+tags: []
+cpe: cpe:2.3:a:bigbluebutton:bigbluebutton:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: bigbluebutton
+  confidence: auto
+- source: nvd
+  value: bigbluebutton
+  confidence: auto

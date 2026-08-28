@@ -1,0 +1,10 @@
+id: vitalanalysis
+vendor_id: lucent
+name: Vitalanalysis
+type: software
+tags: []
+cpe: cpe:2.3:a:lucent:vitalanalysis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vitalanalysis
+  confidence: auto

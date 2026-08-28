@@ -1,0 +1,10 @@
+id: aquos-compact-sh-m06
+vendor_id: sharp
+name: Aquos Compact Sh-M06
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:aquos_compact_sh\-m06:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_compact_sh-m06
+  confidence: auto

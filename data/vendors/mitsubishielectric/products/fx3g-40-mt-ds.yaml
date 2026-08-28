@@ -1,0 +1,10 @@
+id: fx3g-40-mt-ds
+vendor_id: mitsubishielectric
+name: Fx3G-40 Mt/Ds
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:fx3g\-40_mt\/ds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3g-40_mt/ds
+  confidence: auto

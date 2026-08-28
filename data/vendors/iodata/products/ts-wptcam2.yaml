@@ -1,0 +1,10 @@
+id: ts-wptcam2
+vendor_id: iodata
+name: Ts-Wptcam2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:ts\-wptcam2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts-wptcam2
+  confidence: auto

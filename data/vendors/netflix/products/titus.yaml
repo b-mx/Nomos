@@ -1,0 +1,10 @@
+id: titus
+vendor_id: netflix
+name: Titus
+type: software
+tags: []
+cpe: cpe:2.3:a:netflix:titus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: titus
+  confidence: auto

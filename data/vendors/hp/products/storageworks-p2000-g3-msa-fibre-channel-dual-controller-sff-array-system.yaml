@@ -1,0 +1,10 @@
+id: storageworks-p2000-g3-msa-fibre-channel-dual-controller-sff-array-system
+vendor_id: hp
+name: Storageworks P2000 G3 Msa Fibre Channel Dual Controller Sff Array System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:storageworks_p2000_g3_msa_fibre_channel_dual_controller_sff_array_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storageworks_p2000_g3_msa_fibre_channel_dual_controller_sff_array_system
+  confidence: auto

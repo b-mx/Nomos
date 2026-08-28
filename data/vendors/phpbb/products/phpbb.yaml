@@ -1,0 +1,13 @@
+id: phpbb
+vendor_id: phpbb
+name: phpBB
+type: software
+tags: []
+cpe: cpe:2.3:a:phpbb:phpbb:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: phpbb
+  confidence: auto
+- source: nvd
+  value: phpbb
+  confidence: auto

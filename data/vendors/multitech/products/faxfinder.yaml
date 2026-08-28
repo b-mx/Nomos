@@ -1,0 +1,10 @@
+id: faxfinder
+vendor_id: multitech
+name: Faxfinder
+type: software
+tags: []
+cpe: cpe:2.3:a:multitech:faxfinder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: faxfinder
+  confidence: auto

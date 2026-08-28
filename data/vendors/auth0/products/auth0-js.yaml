@@ -1,0 +1,10 @@
+id: auth0-js
+vendor_id: auth0
+name: Auth0.Js
+type: software
+tags: []
+cpe: cpe:2.3:a:auth0:auth0\.js:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: auth0.js
+  confidence: auto

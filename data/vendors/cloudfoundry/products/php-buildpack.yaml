@@ -1,0 +1,10 @@
+id: php-buildpack
+vendor_id: cloudfoundry
+name: Php-Buildpack
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:php\-buildpack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: php-buildpack
+  confidence: auto

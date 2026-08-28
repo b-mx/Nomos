@@ -1,0 +1,10 @@
+id: stork
+vendor_id: isc
+name: Stork
+type: software
+tags: []
+cpe: cpe:2.3:a:isc:stork:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stork
+  confidence: auto

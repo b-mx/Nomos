@@ -1,0 +1,10 @@
+id: cx-e-voice
+vendor_id: opentext
+name: Cx-E Voice
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:cx\-e_voice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-e_voice
+  confidence: auto

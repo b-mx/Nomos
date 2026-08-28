@@ -1,0 +1,10 @@
+id: access-router
+vendor_id: huawei
+name: Access Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:access_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_router
+  confidence: auto

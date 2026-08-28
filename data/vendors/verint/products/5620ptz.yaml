@@ -1,0 +1,10 @@
+id: 5620ptz
+vendor_id: verint
+name: 5620Ptz
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verint:5620ptz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5620ptz
+  confidence: auto

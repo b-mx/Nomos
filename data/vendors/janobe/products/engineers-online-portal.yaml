@@ -1,0 +1,10 @@
+id: engineers-online-portal
+vendor_id: janobe
+name: Engineers Online Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:engineers_online_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engineers_online_portal
+  confidence: auto

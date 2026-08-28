@@ -1,0 +1,10 @@
+id: scada-software-fast-tools
+vendor_id: yokogawa
+name: Scada Software (Fast/Tools)
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:scada_software_\(fast\/tools\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scada_software_(fast/tools)
+  confidence: auto

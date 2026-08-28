@@ -1,0 +1,10 @@
+id: mfc-l8600cdw
+vendor_id: brother
+name: Mfc-L8600Cdw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-l8600cdw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l8600cdw
+  confidence: auto

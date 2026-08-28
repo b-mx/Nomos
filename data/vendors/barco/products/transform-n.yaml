@@ -1,0 +1,10 @@
+id: transform-n
+vendor_id: barco
+name: Transform N
+type: os
+tags: []
+cpe: cpe:2.3:o:barco:transform_n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: transform_n
+  confidence: auto

@@ -1,0 +1,10 @@
+id: al3g-firmware
+vendor_id: jensenofscandinavia
+name: Al3G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jensenofscandinavia:al3g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: al3g_firmware
+  confidence: auto

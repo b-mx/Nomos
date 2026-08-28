@@ -1,0 +1,10 @@
+id: q1715
+vendor_id: axis
+name: Q1715
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q1715:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q1715
+  confidence: auto

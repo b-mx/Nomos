@@ -1,0 +1,10 @@
+id: aws-lc-sys
+vendor_id: amazon
+name: Aws-Lc-Sys
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws\-lc\-sys:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws-lc-sys
+  confidence: auto

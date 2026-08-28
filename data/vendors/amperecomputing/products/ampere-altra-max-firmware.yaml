@@ -1,0 +1,10 @@
+id: ampere-altra-max-firmware
+vendor_id: amperecomputing
+name: Ampere Altra Max Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amperecomputing:ampere_altra_max_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ampere_altra_max_firmware
+  confidence: auto

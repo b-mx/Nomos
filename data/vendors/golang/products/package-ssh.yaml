@@ -1,0 +1,10 @@
+id: package-ssh
+vendor_id: golang
+name: Package Ssh
+type: software
+tags: []
+cpe: cpe:2.3:a:golang:package_ssh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: package_ssh
+  confidence: auto

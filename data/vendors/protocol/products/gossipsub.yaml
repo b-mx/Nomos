@@ -1,0 +1,10 @@
+id: gossipsub
+vendor_id: protocol
+name: Gossipsub
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:gossipsub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gossipsub
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aura-experience-portal
+vendor_id: avaya
+name: Aura Experience Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura_experience_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_experience_portal
+  confidence: auto

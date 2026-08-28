@@ -1,0 +1,10 @@
+id: thinksystem-dx1100u
+vendor_id: lenovo
+name: Thinksystem Dx1100U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_dx1100u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_dx1100u
+  confidence: auto

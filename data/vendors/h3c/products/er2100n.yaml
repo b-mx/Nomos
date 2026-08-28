@@ -1,0 +1,10 @@
+id: er2100n
+vendor_id: h3c
+name: Er2100N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:er2100n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er2100n
+  confidence: auto

@@ -1,0 +1,10 @@
+id: es9528-xtv2-firmware
+vendor_id: pepperl-fuchs
+name: Es9528-Xtv2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:es9528\-xtv2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: es9528-xtv2_firmware
+  confidence: auto

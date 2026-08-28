@@ -1,0 +1,10 @@
+id: fritz-os
+vendor_id: avm
+name: Fritz! Os
+type: os
+tags: []
+cpe: cpe:2.3:o:avm:fritz\!_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fritz!_os
+  confidence: auto

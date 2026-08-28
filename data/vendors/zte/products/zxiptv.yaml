@@ -1,0 +1,10 @@
+id: zxiptv
+vendor_id: zte
+name: Zxiptv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxiptv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxiptv
+  confidence: auto

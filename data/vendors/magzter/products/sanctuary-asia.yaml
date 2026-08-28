@@ -1,0 +1,10 @@
+id: sanctuary-asia
+vendor_id: magzter
+name: Sanctuary Asia
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:sanctuary_asia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sanctuary_asia
+  confidence: auto

@@ -1,0 +1,10 @@
+id: eva-cl00-firmware
+vendor_id: huawei
+name: Eva-Cl00 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:eva\-cl00_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eva-cl00_firmware
+  confidence: auto

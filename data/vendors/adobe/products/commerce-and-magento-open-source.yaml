@@ -2,13 +2,8 @@ id: commerce-and-magento-open-source
 vendor_id: adobe
 name: Commerce and Magento Open Source
 type: software
-tags:
-- ecommerce
-icon: logos:adobe-icon
+tags: []
 aliases:
 - source: cisa_kev
   value: Commerce and Magento Open Source
-  confidence: curated
-- source: cisa_kev
-  value: Commerce and Magento
-  confidence: curated
+  confidence: auto

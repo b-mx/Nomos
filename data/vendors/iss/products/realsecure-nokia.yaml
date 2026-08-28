@@ -1,0 +1,10 @@
+id: realsecure-nokia
+vendor_id: iss
+name: Realsecure Nokia
+type: software
+tags: []
+cpe: cpe:2.3:a:iss:realsecure_nokia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realsecure_nokia
+  confidence: auto

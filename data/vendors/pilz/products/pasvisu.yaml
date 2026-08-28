@@ -1,0 +1,10 @@
+id: pasvisu
+vendor_id: pilz
+name: Pasvisu
+type: software
+tags: []
+cpe: cpe:2.3:a:pilz:pasvisu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pasvisu
+  confidence: auto

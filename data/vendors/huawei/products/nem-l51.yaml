@@ -1,0 +1,10 @@
+id: nem-l51
+vendor_id: huawei
+name: Nem-L51
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:nem\-l51:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nem-l51
+  confidence: auto

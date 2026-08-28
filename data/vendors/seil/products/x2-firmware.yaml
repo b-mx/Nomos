@@ -1,0 +1,10 @@
+id: x2-firmware
+vendor_id: seil
+name: X2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seil:x2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x2_firmware
+  confidence: auto

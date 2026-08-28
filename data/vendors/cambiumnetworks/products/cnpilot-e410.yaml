@@ -1,0 +1,10 @@
+id: cnpilot-e410
+vendor_id: cambiumnetworks
+name: Cnpilot E410
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cambiumnetworks:cnpilot_e410:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cnpilot_e410
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rx3i-cpe100
+vendor_id: emerson
+name: Rx3I Cpe100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:rx3i_cpe100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx3i_cpe100
+  confidence: auto

@@ -1,0 +1,9 @@
+id: firefox-esr
+vendor_id: mozilla
+name: Firefox ESR
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Firefox ESR
+  confidence: auto

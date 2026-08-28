@@ -1,0 +1,10 @@
+id: thinkpad-s2-yoga-3rd-gen
+vendor_id: lenovo
+name: Thinkpad S2 Yoga 3Rd Gen
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_s2_yoga_3rd_gen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_s2_yoga_3rd_gen
+  confidence: auto

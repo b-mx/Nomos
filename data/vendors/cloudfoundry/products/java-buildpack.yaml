@@ -1,0 +1,10 @@
+id: java-buildpack
+vendor_id: cloudfoundry
+name: Java Buildpack
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:java_buildpack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_buildpack
+  confidence: auto

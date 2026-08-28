@@ -1,0 +1,10 @@
+id: cybercafe-management-system
+vendor_id: campcodes
+name: Cybercafe Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:cybercafe_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cybercafe_management_system
+  confidence: auto

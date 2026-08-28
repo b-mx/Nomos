@@ -1,0 +1,10 @@
+id: nsauditor
+vendor_id: nsasoft
+name: Nsauditor
+type: software
+tags: []
+cpe: cpe:2.3:a:nsasoft:nsauditor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nsauditor
+  confidence: auto

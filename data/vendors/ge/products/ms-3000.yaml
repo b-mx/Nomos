@@ -1,0 +1,10 @@
+id: ms-3000
+vendor_id: ge
+name: Ms 3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:ms_3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms_3000
+  confidence: auto

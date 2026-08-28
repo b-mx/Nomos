@@ -1,0 +1,10 @@
+id: nsure-audit
+vendor_id: novell
+name: Nsure Audit
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:nsure_audit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nsure_audit
+  confidence: auto

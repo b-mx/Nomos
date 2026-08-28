@@ -1,0 +1,10 @@
+id: iot-gw30-4g-eu
+vendor_id: weidmueller
+name: Iot-Gw30-4G-Eu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weidmueller:iot\-gw30\-4g\-eu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iot-gw30-4g-eu
+  confidence: auto

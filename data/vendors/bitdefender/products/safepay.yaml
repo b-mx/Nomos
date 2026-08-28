@@ -1,0 +1,10 @@
+id: safepay
+vendor_id: bitdefender
+name: Safepay
+type: software
+tags: []
+cpe: cpe:2.3:a:bitdefender:safepay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safepay
+  confidence: auto

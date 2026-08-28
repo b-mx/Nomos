@@ -1,0 +1,10 @@
+id: ts-ptcam-camera
+vendor_id: iodata
+name: Ts-Ptcam Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:ts\-ptcam_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts-ptcam_camera
+  confidence: auto

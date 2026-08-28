@@ -1,0 +1,10 @@
+id: zendto
+vendor_id: zend
+name: Zendto
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zendto:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendto
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zoom-on-premise-virtual-room-connector-load-balancer
+vendor_id: zoom
+name: Zoom On-Premise Virtual Room Connector Load Balancer
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:zoom_on\-premise_virtual_room_connector_load_balancer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zoom_on-premise_virtual_room_connector_load_balancer
+  confidence: auto

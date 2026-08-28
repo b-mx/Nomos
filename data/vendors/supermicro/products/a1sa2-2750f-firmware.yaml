@@ -1,0 +1,10 @@
+id: a1sa2-2750f-firmware
+vendor_id: supermicro
+name: A1Sa2-2750F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:a1sa2\-2750f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a1sa2-2750f_firmware
+  confidence: auto

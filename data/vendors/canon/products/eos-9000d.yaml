@@ -1,0 +1,10 @@
+id: eos-9000d
+vendor_id: canon
+name: Eos 9000D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_9000d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_9000d
+  confidence: auto

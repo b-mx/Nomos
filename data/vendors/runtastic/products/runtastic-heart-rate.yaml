@@ -1,0 +1,10 @@
+id: runtastic-heart-rate
+vendor_id: runtastic
+name: Runtastic Heart Rate
+type: software
+tags: []
+cpe: cpe:2.3:a:runtastic:runtastic_heart_rate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: runtastic_heart_rate
+  confidence: auto

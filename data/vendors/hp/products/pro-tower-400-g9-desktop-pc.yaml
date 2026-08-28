@@ -1,0 +1,10 @@
+id: pro-tower-400-g9-desktop-pc
+vendor_id: hp
+name: Pro Tower 400 G9 Desktop Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pro_tower_400_g9_desktop_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_tower_400_g9_desktop_pc
+  confidence: auto

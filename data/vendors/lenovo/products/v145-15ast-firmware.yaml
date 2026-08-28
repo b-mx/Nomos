@@ -1,0 +1,10 @@
+id: v145-15ast-firmware
+vendor_id: lenovo
+name: V145-15Ast Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v145\-15ast_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v145-15ast_firmware
+  confidence: auto

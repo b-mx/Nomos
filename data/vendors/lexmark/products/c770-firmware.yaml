@@ -1,0 +1,10 @@
+id: c770-firmware
+vendor_id: lexmark
+name: C770 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:c770_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c770_firmware
+  confidence: auto

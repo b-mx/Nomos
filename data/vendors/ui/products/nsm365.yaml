@@ -1,0 +1,10 @@
+id: nsm365
+vendor_id: ui
+name: Nsm365
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:nsm365:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nsm365
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mfc-j960dwn
+vendor_id: brother
+name: Mfc-J960Dwn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-j960dwn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-j960dwn
+  confidence: auto

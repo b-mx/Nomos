@@ -1,0 +1,10 @@
+id: xnp-c8253-firmware
+vendor_id: hanwhavision
+name: Xnp-C8253 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:xnp\-c8253_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnp-c8253_firmware
+  confidence: auto

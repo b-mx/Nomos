@@ -1,0 +1,10 @@
+id: pi-interface-configuration-utility
+vendor_id: osisoft
+name: Pi Interface Configuration Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:osisoft:pi_interface_configuration_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_interface_configuration_utility
+  confidence: auto

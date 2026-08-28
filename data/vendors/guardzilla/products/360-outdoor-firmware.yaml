@@ -1,0 +1,10 @@
+id: 360-outdoor-firmware
+vendor_id: guardzilla
+name: 360 Outdoor Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:guardzilla:360_outdoor_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 360_outdoor_firmware
+  confidence: auto

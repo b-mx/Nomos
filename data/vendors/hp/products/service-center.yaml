@@ -1,0 +1,10 @@
+id: service-center
+vendor_id: hp
+name: Service Center
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:service_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_center
+  confidence: auto

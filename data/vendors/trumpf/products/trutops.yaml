@@ -1,0 +1,10 @@
+id: trutops
+vendor_id: trumpf
+name: Trutops
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:trutops:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trutops
+  confidence: auto

@@ -1,0 +1,10 @@
+id: icompel-firmware
+vendor_id: blackbox
+name: Icompel Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:blackbox:icompel_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icompel_firmware
+  confidence: auto

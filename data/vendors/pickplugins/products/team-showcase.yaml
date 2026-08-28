@@ -1,0 +1,10 @@
+id: team-showcase
+vendor_id: pickplugins
+name: Team Showcase
+type: software
+tags: []
+cpe: cpe:2.3:a:pickplugins:team_showcase:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: team_showcase
+  confidence: auto

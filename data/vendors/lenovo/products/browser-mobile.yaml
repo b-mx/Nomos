@@ -1,0 +1,10 @@
+id: browser-mobile
+vendor_id: lenovo
+name: Browser Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:browser_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: browser_mobile
+  confidence: auto

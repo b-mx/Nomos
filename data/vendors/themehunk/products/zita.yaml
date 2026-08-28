@@ -1,0 +1,10 @@
+id: zita
+vendor_id: themehunk
+name: Zita
+type: software
+tags: []
+cpe: cpe:2.3:a:themehunk:zita:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zita
+  confidence: auto

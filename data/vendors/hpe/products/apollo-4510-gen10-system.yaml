@@ -1,0 +1,10 @@
+id: apollo-4510-gen10-system
+vendor_id: hpe
+name: Apollo 4510 Gen10 System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:apollo_4510_gen10_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_4510_gen10_system
+  confidence: auto

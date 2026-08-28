@@ -1,0 +1,10 @@
+id: athlon-3150ge
+vendor_id: amd
+name: Athlon 3150Ge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_3150ge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_3150ge
+  confidence: auto

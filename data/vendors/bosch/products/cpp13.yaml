@@ -1,0 +1,10 @@
+id: cpp13
+vendor_id: bosch
+name: Cpp13
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:cpp13:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cpp13
+  confidence: auto

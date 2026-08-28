@@ -1,0 +1,10 @@
+id: zhan-x-13-g2-firmware
+vendor_id: hp
+name: Zhan X 13 G2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zhan_x_13_g2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhan_x_13_g2_firmware
+  confidence: auto

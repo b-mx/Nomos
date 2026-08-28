@@ -1,0 +1,10 @@
+id: mediclinic
+vendor_id: qodeinteractive
+name: Mediclinic
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:mediclinic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mediclinic
+  confidence: auto

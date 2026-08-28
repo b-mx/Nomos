@@ -1,13 +1,9 @@
 id: dns-320-storage-device
 vendor_id: d-link
 name: DNS-320 Storage Device
-type: hardware
-tags:
-- dns
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: DNS-320 Storage Device
-  confidence: auto
-- source: cisa_kev
-  value: DNS-320 Device
   confidence: auto

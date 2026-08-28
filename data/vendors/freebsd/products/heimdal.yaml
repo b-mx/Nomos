@@ -1,0 +1,10 @@
+id: heimdal
+vendor_id: freebsd
+name: Heimdal
+type: software
+tags: []
+cpe: cpe:2.3:a:freebsd:heimdal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: heimdal
+  confidence: auto

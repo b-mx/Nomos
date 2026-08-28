@@ -1,0 +1,10 @@
+id: j6u55a-firmware
+vendor_id: hp
+name: J6U55A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:j6u55a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j6u55a_firmware
+  confidence: auto

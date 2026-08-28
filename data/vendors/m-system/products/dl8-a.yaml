@@ -1,0 +1,10 @@
+id: dl8-a
+vendor_id: m-system
+name: Dl8-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:m\-system:dl8\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dl8-a
+  confidence: auto

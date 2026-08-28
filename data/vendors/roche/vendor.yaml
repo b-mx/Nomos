@@ -1,0 +1,7 @@
+id: roche
+name: Roche
+cpe: cpe:2.3:*:roche:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roche
+  confidence: auto

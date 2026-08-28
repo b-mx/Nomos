@@ -1,0 +1,10 @@
+id: acme
+vendor_id: netgate
+name: Acme
+type: software
+tags: []
+cpe: cpe:2.3:a:netgate:acme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acme
+  confidence: auto

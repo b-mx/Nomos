@@ -1,0 +1,10 @@
+id: ycb004
+vendor_id: y-cam
+name: Ycb004
+type: hardware
+tags: []
+cpe: cpe:2.3:h:y\-cam:ycb004:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ycb004
+  confidence: auto

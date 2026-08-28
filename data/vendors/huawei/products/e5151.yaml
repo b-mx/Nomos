@@ -1,0 +1,10 @@
+id: e5151
+vendor_id: huawei
+name: E5151
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e5151:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e5151
+  confidence: auto

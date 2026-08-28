@@ -1,0 +1,10 @@
+id: illdy
+vendor_id: colorlib
+name: Illdy
+type: software
+tags: []
+cpe: cpe:2.3:a:colorlib:illdy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: illdy
+  confidence: auto

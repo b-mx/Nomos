@@ -1,0 +1,9 @@
+id: debian-specific-redis-servers
+vendor_id: redis
+name: Debian-specific Redis Servers
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Debian-specific Redis Servers
+  confidence: auto

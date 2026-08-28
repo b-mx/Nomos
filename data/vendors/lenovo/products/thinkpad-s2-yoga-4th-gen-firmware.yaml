@@ -1,0 +1,10 @@
+id: thinkpad-s2-yoga-4th-gen-firmware
+vendor_id: lenovo
+name: Thinkpad S2 Yoga 4Th Gen Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_s2_yoga_4th_gen_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_s2_yoga_4th_gen_firmware
+  confidence: auto

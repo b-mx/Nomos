@@ -1,0 +1,10 @@
+id: hb9212x3-firmware
+vendor_id: hbgk
+name: Hb9212X3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb9212x3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb9212x3_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bf-450m
+vendor_id: chiyu-tech
+name: Bf-450M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chiyu\-tech:bf\-450m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bf-450m
+  confidence: auto

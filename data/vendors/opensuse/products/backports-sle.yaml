@@ -1,0 +1,10 @@
+id: backports-sle
+vendor_id: opensuse
+name: Backports Sle
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:backports_sle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backports_sle
+  confidence: auto

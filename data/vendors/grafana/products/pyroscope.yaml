@@ -1,0 +1,10 @@
+id: pyroscope
+vendor_id: grafana
+name: Pyroscope
+type: software
+tags: []
+cpe: cpe:2.3:a:grafana:pyroscope:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyroscope
+  confidence: auto

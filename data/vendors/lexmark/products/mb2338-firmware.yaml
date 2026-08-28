@@ -1,0 +1,10 @@
+id: mb2338-firmware
+vendor_id: lexmark
+name: Mb2338 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:mb2338_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mb2338_firmware
+  confidence: auto

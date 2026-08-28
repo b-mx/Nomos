@@ -1,0 +1,10 @@
+id: sv-cpt-mc310
+vendor_id: contec
+name: Sv-Cpt-Mc310
+type: hardware
+tags: []
+cpe: cpe:2.3:h:contec:sv\-cpt\-mc310:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sv-cpt-mc310
+  confidence: auto

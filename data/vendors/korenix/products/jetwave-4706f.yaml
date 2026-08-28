@@ -1,0 +1,10 @@
+id: jetwave-4706f
+vendor_id: korenix
+name: Jetwave 4706F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetwave_4706f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_4706f
+  confidence: auto

@@ -1,0 +1,10 @@
+id: shockwave-flash
+vendor_id: macromedia
+name: Shockwave Flash
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:shockwave_flash:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shockwave_flash
+  confidence: auto

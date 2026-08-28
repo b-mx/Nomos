@@ -1,0 +1,7 @@
+id: carrier
+name: Carrier
+cpe: cpe:2.3:*:carrier:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carrier
+  confidence: auto

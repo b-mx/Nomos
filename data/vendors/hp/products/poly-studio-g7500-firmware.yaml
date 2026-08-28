@@ -1,0 +1,10 @@
+id: poly-studio-g7500-firmware
+vendor_id: hp
+name: Poly Studio G7500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:poly_studio_g7500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_studio_g7500_firmware
+  confidence: auto

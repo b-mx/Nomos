@@ -1,0 +1,10 @@
+id: xs79x
+vendor_id: lexmark
+name: Xs79X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xs79x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xs79x
+  confidence: auto

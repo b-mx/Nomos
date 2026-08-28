@@ -1,0 +1,10 @@
+id: in-sight-b120-37
+vendor_id: philips
+name: In.Sight B120\37
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:in\.sight_b120\37:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: in.sight_b120\37
+  confidence: auto

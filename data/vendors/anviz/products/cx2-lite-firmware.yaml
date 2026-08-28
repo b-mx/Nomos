@@ -1,0 +1,10 @@
+id: cx2-lite-firmware
+vendor_id: anviz
+name: Cx2 Lite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:anviz:cx2_lite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx2_lite_firmware
+  confidence: auto

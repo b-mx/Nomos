@@ -1,0 +1,10 @@
+id: tm-h6000v-firmware
+vendor_id: epson
+name: Tm-H6000V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:tm\-h6000v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-h6000v_firmware
+  confidence: auto

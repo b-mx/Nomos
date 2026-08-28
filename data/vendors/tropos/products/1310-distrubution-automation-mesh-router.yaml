@@ -1,0 +1,10 @@
+id: 1310-distrubution-automation-mesh-router
+vendor_id: tropos
+name: 1310 Distrubution Automation Mesh Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tropos:1310_distrubution_automation_mesh_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1310_distrubution_automation_mesh_router
+  confidence: auto

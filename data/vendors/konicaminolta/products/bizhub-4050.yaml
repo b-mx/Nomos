@@ -1,0 +1,10 @@
+id: bizhub-4050
+vendor_id: konicaminolta
+name: Bizhub 4050
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_4050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_4050
+  confidence: auto

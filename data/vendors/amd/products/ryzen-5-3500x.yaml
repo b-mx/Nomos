@@ -1,0 +1,10 @@
+id: ryzen-5-3500x
+vendor_id: amd
+name: Ryzen 5 3500X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_3500x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_3500x
+  confidence: auto

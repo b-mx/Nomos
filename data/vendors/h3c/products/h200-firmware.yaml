@@ -1,0 +1,10 @@
+id: h200-firmware
+vendor_id: h3c
+name: H200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:h200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h200_firmware
+  confidence: auto

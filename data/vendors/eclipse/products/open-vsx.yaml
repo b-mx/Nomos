@@ -1,0 +1,10 @@
+id: open-vsx
+vendor_id: eclipse
+name: Open Vsx
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:open_vsx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_vsx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hirouter-cd20
+vendor_id: huawei
+name: Hirouter-Cd20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hirouter\-cd20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirouter-cd20
+  confidence: auto

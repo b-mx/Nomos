@@ -1,0 +1,10 @@
+id: scanner-driver
+vendor_id: epson
+name: Scanner Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:scanner_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scanner_driver
+  confidence: auto

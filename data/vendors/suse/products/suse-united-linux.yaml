@@ -1,0 +1,10 @@
+id: suse-united-linux
+vendor_id: suse
+name: Suse United Linux
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:suse_united_linux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_united_linux
+  confidence: auto

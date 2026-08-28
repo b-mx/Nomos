@@ -1,0 +1,10 @@
+id: vx-820
+vendor_id: verifone
+name: Vx 820
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verifone:vx_820:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx_820
+  confidence: auto

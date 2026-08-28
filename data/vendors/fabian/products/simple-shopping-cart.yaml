@@ -1,0 +1,10 @@
+id: simple-shopping-cart
+vendor_id: fabian
+name: Simple Shopping Cart
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_shopping_cart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_shopping_cart
+  confidence: auto

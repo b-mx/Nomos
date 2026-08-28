@@ -1,0 +1,10 @@
+id: sonicstage-mastering-studio
+vendor_id: sony
+name: Sonicstage Mastering Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:sonicstage_mastering_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sonicstage_mastering_studio
+  confidence: auto

@@ -1,0 +1,10 @@
+id: shortdescription
+vendor_id: mediawiki
+name: Shortdescription
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:shortdescription:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shortdescription
+  confidence: auto

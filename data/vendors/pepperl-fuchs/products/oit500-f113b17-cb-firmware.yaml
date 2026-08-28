@@ -1,0 +1,10 @@
+id: oit500-f113b17-cb-firmware
+vendor_id: pepperl-fuchs
+name: Oit500-F113B17-Cb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:oit500\-f113b17\-cb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oit500-f113b17-cb_firmware
+  confidence: auto

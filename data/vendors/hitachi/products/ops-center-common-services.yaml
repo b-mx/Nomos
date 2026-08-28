@@ -1,0 +1,10 @@
+id: ops-center-common-services
+vendor_id: hitachi
+name: Ops Center Common Services
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:ops_center_common_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ops_center_common_services
+  confidence: auto

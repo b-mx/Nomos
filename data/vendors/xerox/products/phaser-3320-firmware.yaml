@@ -1,0 +1,10 @@
+id: phaser-3320-firmware
+vendor_id: xerox
+name: Phaser 3320 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xerox:phaser_3320_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phaser_3320_firmware
+  confidence: auto

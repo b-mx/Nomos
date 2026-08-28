@@ -1,0 +1,10 @@
+id: wakeonlan
+vendor_id: emcosoftware
+name: Wakeonlan
+type: software
+tags: []
+cpe: cpe:2.3:a:emcosoftware:wakeonlan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wakeonlan
+  confidence: auto

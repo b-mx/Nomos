@@ -1,0 +1,10 @@
+id: autocad-mechanical
+vendor_id: autodesk
+name: Autocad Mechanical
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autocad_mechanical:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocad_mechanical
+  confidence: auto

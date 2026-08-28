@@ -1,0 +1,10 @@
+id: p4c86a
+vendor_id: hp
+name: P4C86A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:p4c86a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p4c86a
+  confidence: auto

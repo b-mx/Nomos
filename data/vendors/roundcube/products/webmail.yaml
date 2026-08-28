@@ -1,0 +1,9 @@
+id: webmail
+vendor_id: roundcube
+name: Webmail
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Webmail
+  confidence: auto

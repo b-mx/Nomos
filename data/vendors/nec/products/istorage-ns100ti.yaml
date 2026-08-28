@@ -1,0 +1,10 @@
+id: istorage-ns100ti
+vendor_id: nec
+name: Istorage Ns100Ti
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:istorage_ns100ti:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: istorage_ns100ti
+  confidence: auto

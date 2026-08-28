@@ -1,0 +1,10 @@
+id: md8565-n-firmware
+vendor_id: vivotek
+name: Md8565-N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:md8565\-n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: md8565-n_firmware
+  confidence: auto

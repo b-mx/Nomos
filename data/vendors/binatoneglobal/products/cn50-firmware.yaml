@@ -1,0 +1,10 @@
+id: cn50-firmware
+vendor_id: binatoneglobal
+name: Cn50 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:cn50_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn50_firmware
+  confidence: auto

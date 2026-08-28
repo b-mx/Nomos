@@ -1,0 +1,10 @@
+id: sp-220snw
+vendor_id: ricoh
+name: Sp 220Snw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_220snw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_220snw
+  confidence: auto

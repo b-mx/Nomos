@@ -1,0 +1,10 @@
+id: rh-3sqhr
+vendor_id: mitsubishielectric
+name: Rh-3Sqhr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rh\-3sqhr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh-3sqhr
+  confidence: auto

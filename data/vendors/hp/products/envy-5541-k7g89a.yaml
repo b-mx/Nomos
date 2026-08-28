@@ -1,0 +1,10 @@
+id: envy-5541-k7g89a
+vendor_id: hp
+name: Envy 5541 K7G89A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5541_k7g89a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5541_k7g89a
+  confidence: auto

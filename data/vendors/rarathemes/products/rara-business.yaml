@@ -1,0 +1,10 @@
+id: rara-business
+vendor_id: rarathemes
+name: Rara Business
+type: software
+tags: []
+cpe: cpe:2.3:a:rarathemes:rara_business:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rara_business
+  confidence: auto

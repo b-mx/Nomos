@@ -2,10 +2,8 @@ id: runtime
 vendor_id: android
 name: Runtime
 type: software
-tags:
-- runtime
-icon: logos:android-icon
+tags: []
 aliases:
 - source: cisa_kev
   value: Runtime
-  confidence: curated
+  confidence: auto

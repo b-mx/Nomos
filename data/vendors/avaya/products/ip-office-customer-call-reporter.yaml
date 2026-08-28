@@ -1,0 +1,10 @@
+id: ip-office-customer-call-reporter
+vendor_id: avaya
+name: Ip Office Customer Call Reporter
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:ip_office_customer_call_reporter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_office_customer_call_reporter
+  confidence: auto

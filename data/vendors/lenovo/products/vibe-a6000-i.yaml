@@ -1,0 +1,10 @@
+id: vibe-a6000-i
+vendor_id: lenovo
+name: Vibe A6000-I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:vibe_a6000\-i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vibe_a6000-i
+  confidence: auto

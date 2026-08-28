@@ -1,0 +1,10 @@
+id: e600
+vendor_id: huawei
+name: E600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e600
+  confidence: auto

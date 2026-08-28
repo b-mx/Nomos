@@ -1,0 +1,10 @@
+id: online-book-store
+vendor_id: phpgurukul
+name: Online Book Store
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:online_book_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_book_store
+  confidence: auto

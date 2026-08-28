@@ -1,0 +1,10 @@
+id: beekeeping-forum
+vendor_id: gcspublishing
+name: Beekeeping Forum
+type: software
+tags: []
+cpe: cpe:2.3:a:gcspublishing:beekeeping_forum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: beekeeping_forum
+  confidence: auto

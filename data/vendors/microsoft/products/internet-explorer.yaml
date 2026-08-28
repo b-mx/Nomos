@@ -1,0 +1,9 @@
+id: internet-explorer
+vendor_id: microsoft
+name: Internet Explorer
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Internet Explorer
+  confidence: auto

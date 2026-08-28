@@ -1,0 +1,10 @@
+id: vt-mipm-135-d-firmware
+vendor_id: redlioncontrols
+name: Vt-Mipm-135-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:redlioncontrols:vt\-mipm\-135\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vt-mipm-135-d_firmware
+  confidence: auto

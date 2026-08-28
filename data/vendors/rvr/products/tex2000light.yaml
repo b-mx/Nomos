@@ -1,0 +1,10 @@
+id: tex2000light
+vendor_id: rvr
+name: Tex2000Light
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rvr:tex2000light:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tex2000light
+  confidence: auto

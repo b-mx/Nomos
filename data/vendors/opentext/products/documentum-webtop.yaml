@@ -1,0 +1,10 @@
+id: documentum-webtop
+vendor_id: opentext
+name: Documentum Webtop
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:documentum_webtop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: documentum_webtop
+  confidence: auto

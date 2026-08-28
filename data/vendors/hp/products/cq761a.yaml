@@ -1,0 +1,10 @@
+id: cq761a
+vendor_id: hp
+name: Cq761A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cq761a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cq761a
+  confidence: auto

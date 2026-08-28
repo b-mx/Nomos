@@ -1,0 +1,7 @@
+id: nxp
+name: Nxp
+cpe: cpe:2.3:*:nxp:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nxp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bullet-3g
+vendor_id: microhardcorp
+name: Bullet-3G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microhardcorp:bullet\-3g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bullet-3g
+  confidence: auto

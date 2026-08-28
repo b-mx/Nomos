@@ -1,0 +1,10 @@
+id: esotera
+vendor_id: cryoutcreations
+name: Esotera
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:esotera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esotera
+  confidence: auto

@@ -1,0 +1,10 @@
+id: joint-radio-blues
+vendor_id: nobexrc
+name: Joint Radio Blues
+type: software
+tags: []
+cpe: cpe:2.3:a:nobexrc:joint_radio_blues:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: joint_radio_blues
+  confidence: auto

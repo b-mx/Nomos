@@ -1,0 +1,10 @@
+id: tencent-distributed-sql
+vendor_id: tencent
+name: Tencent Distributed Sql
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:tencent_distributed_sql:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tencent_distributed_sql
+  confidence: auto

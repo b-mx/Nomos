@@ -1,0 +1,10 @@
+id: jc613a
+vendor_id: hp
+name: Jc613A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc613a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc613a
+  confidence: auto

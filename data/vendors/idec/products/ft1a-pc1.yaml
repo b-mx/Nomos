@@ -1,0 +1,10 @@
+id: ft1a-pc1
+vendor_id: idec
+name: Ft1A-Pc1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idec:ft1a\-pc1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ft1a-pc1
+  confidence: auto

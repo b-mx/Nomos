@@ -1,0 +1,10 @@
+id: tm-t88vi-ihub
+vendor_id: epson
+name: Tm-T88Vi-Ihub
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-t88vi\-ihub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-t88vi-ihub
+  confidence: auto

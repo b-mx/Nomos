@@ -1,0 +1,10 @@
+id: anti-virus-for-linux-server
+vendor_id: kaspersky
+name: Anti-Virus For Linux Server
+type: software
+tags: []
+cpe: cpe:2.3:a:kaspersky:anti\-virus_for_linux_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anti-virus_for_linux_server
+  confidence: auto

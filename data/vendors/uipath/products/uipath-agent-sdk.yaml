@@ -1,0 +1,10 @@
+id: uipath-agent-sdk
+vendor_id: uipath
+name: Uipath/Agent-Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/agent\-sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/agent-sdk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: novell-linux-pos
+vendor_id: suse
+name: Novell Linux Pos
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:novell_linux_pos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: novell_linux_pos
+  confidence: auto

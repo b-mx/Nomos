@@ -1,0 +1,10 @@
+id: arrows-tab-lte-f-01d
+vendor_id: fujitsu
+name: Arrows Tab Lte F-01D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:arrows_tab_lte_f\-01d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arrows_tab_lte_f-01d
+  confidence: auto

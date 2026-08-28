@@ -1,0 +1,10 @@
+id: schon-magazine
+vendor_id: magzter
+name: Schon! Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:schon\!_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: schon!_magazine
+  confidence: auto

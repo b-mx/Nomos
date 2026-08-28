@@ -1,0 +1,7 @@
+id: netscout
+name: Netscout
+cpe: cpe:2.3:*:netscout:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netscout
+  confidence: auto

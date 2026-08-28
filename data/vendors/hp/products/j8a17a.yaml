@@ -1,0 +1,10 @@
+id: j8a17a
+vendor_id: hp
+name: J8A17A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:j8a17a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j8a17a
+  confidence: auto

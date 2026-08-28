@@ -1,0 +1,10 @@
+id: zoho-crm-lead-magnet
+vendor_id: zohocorp
+name: Zoho Crm Lead Magnet
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:zoho_crm_lead_magnet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zoho_crm_lead_magnet
+  confidence: auto

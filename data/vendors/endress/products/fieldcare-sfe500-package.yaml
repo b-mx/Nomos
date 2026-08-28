@@ -1,0 +1,10 @@
+id: fieldcare-sfe500-package
+vendor_id: endress
+name: Fieldcare Sfe500 Package
+type: software
+tags: []
+cpe: cpe:2.3:a:endress:fieldcare_sfe500_package:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fieldcare_sfe500_package
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ipu-14-103-wm
+vendor_id: slican
+name: Ipu-14.103.Wm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:slican:ipu\-14\.103\.wm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipu-14.103.wm
+  confidence: auto

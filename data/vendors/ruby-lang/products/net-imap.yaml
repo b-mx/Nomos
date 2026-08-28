@@ -1,0 +1,10 @@
+id: net-imap
+vendor_id: ruby-lang
+name: Net::Imap
+type: software
+tags: []
+cpe: cpe:2.3:a:ruby\-lang:net\:\:imap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: net::imap
+  confidence: auto

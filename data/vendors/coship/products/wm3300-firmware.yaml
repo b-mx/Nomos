@@ -1,0 +1,10 @@
+id: wm3300-firmware
+vendor_id: coship
+name: Wm3300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:coship:wm3300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wm3300_firmware
+  confidence: auto

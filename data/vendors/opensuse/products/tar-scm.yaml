@@ -1,0 +1,10 @@
+id: tar-scm
+vendor_id: opensuse
+name: Tar Scm
+type: os
+tags: []
+cpe: cpe:2.3:o:opensuse:tar_scm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tar_scm
+  confidence: auto

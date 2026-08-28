@@ -1,0 +1,10 @@
+id: oauthenticator
+vendor_id: jupyter
+name: Oauthenticator
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:oauthenticator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oauthenticator
+  confidence: auto

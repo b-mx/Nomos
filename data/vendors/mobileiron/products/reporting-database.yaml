@@ -1,0 +1,10 @@
+id: reporting-database
+vendor_id: mobileiron
+name: Reporting Database
+type: software
+tags: []
+cpe: cpe:2.3:a:mobileiron:reporting_database:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reporting_database
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wbz451-firmware
+vendor_id: microchip
+name: Wbz451 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:wbz451_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wbz451_firmware
+  confidence: auto

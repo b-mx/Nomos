@@ -1,0 +1,10 @@
+id: vecaster-hd-h264-firmware
+vendor_id: provideoinstruments
+name: Vecaster-Hd-H264 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:provideoinstruments:vecaster\-hd\-h264_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vecaster-hd-h264_firmware
+  confidence: auto

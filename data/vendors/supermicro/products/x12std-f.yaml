@@ -1,0 +1,10 @@
+id: x12std-f
+vendor_id: supermicro
+name: X12Std-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12std\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12std-f
+  confidence: auto

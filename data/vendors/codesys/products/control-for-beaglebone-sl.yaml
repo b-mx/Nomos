@@ -1,0 +1,10 @@
+id: control-for-beaglebone-sl
+vendor_id: codesys
+name: Control For Beaglebone Sl
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:control_for_beaglebone_sl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_for_beaglebone_sl
+  confidence: auto

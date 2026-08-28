@@ -1,0 +1,10 @@
+id: smart-update-manager
+vendor_id: hp
+name: Smart Update Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:smart_update_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_update_manager
+  confidence: auto

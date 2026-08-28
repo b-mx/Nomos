@@ -1,0 +1,10 @@
+id: wfs-sr01-firmware
+vendor_id: iodata
+name: Wfs-Sr01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:wfs\-sr01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wfs-sr01_firmware
+  confidence: auto

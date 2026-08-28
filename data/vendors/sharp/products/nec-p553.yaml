@@ -1,0 +1,10 @@
+id: nec-p553
+vendor_id: sharp
+name: Nec P553
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:nec_p553:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_p553
+  confidence: auto

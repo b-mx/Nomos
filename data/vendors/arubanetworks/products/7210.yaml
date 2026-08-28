@@ -1,0 +1,10 @@
+id: '7210'
+vendor_id: arubanetworks
+name: '7210'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:7210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '7210'
+  confidence: auto

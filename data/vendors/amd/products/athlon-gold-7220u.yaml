@@ -1,0 +1,10 @@
+id: athlon-gold-7220u
+vendor_id: amd
+name: Athlon Gold 7220U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_gold_7220u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_gold_7220u
+  confidence: auto

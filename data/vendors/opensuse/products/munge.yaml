@@ -1,0 +1,10 @@
+id: munge
+vendor_id: opensuse
+name: Munge
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:munge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: munge
+  confidence: auto

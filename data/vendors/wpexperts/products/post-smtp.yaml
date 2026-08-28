@@ -1,0 +1,10 @@
+id: post-smtp
+vendor_id: wpexperts
+name: Post Smtp
+type: software
+tags: []
+cpe: cpe:2.3:a:wpexperts:post_smtp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: post_smtp
+  confidence: auto

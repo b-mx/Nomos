@@ -1,0 +1,10 @@
+id: wmc-2hc-w-firmware
+vendor_id: elecom
+name: Wmc-2Hc-W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wmc\-2hc\-w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wmc-2hc-w_firmware
+  confidence: auto

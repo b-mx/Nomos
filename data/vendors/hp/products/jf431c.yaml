@@ -1,0 +1,10 @@
+id: jf431c
+vendor_id: hp
+name: Jf431C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf431c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf431c
+  confidence: auto

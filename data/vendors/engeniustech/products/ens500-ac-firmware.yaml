@@ -1,0 +1,10 @@
+id: ens500-ac-firmware
+vendor_id: engeniustech
+name: Ens500-Ac Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:engeniustech:ens500\-ac_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ens500-ac_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: onesphere
+vendor_id: hp
+name: Onesphere
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:onesphere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: onesphere
+  confidence: auto

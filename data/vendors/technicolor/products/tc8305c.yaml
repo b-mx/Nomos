@@ -1,0 +1,10 @@
+id: tc8305c
+vendor_id: technicolor
+name: Tc8305C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tc8305c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc8305c
+  confidence: auto

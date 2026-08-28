@@ -1,0 +1,10 @@
+id: graphics-agent
+vendor_id: teradici
+name: Graphics Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:teradici:graphics_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: graphics_agent
+  confidence: auto

@@ -1,0 +1,10 @@
+id: docushare
+vendor_id: xerox
+name: Docushare
+type: software
+tags: []
+cpe: cpe:2.3:a:xerox:docushare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docushare
+  confidence: auto

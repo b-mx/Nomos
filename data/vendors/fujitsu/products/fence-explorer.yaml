@@ -1,0 +1,10 @@
+id: fence-explorer
+vendor_id: fujitsu
+name: Fence-Explorer
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:fence\-explorer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fence-explorer
+  confidence: auto

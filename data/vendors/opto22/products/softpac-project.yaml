@@ -1,0 +1,10 @@
+id: softpac-project
+vendor_id: opto22
+name: Softpac Project
+type: software
+tags: []
+cpe: cpe:2.3:a:opto22:softpac_project:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softpac_project
+  confidence: auto

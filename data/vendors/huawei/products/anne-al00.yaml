@@ -1,0 +1,10 @@
+id: anne-al00
+vendor_id: huawei
+name: Anne-Al00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:anne\-al00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anne-al00
+  confidence: auto

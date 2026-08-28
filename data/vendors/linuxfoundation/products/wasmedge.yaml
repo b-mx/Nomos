@@ -1,0 +1,10 @@
+id: wasmedge
+vendor_id: linuxfoundation
+name: Wasmedge
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:wasmedge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wasmedge
+  confidence: auto

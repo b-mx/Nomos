@@ -1,0 +1,10 @@
+id: rsaref
+vendor_id: rsa
+name: Rsaref
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:rsaref:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsaref
+  confidence: auto

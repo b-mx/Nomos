@@ -1,0 +1,10 @@
+id: neteco
+vendor_id: huawei
+name: Neteco
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:neteco:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neteco
+  confidence: auto

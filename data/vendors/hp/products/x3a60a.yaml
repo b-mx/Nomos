@@ -1,0 +1,10 @@
+id: x3a60a
+vendor_id: hp
+name: X3A60A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:x3a60a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x3a60a
+  confidence: auto

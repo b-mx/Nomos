@@ -1,0 +1,10 @@
+id: a340-22ast
+vendor_id: lenovo
+name: A340-22Ast
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:a340\-22ast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a340-22ast
+  confidence: auto

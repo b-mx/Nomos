@@ -1,0 +1,10 @@
+id: laserjet-m111-7md68a
+vendor_id: hp
+name: Laserjet M111 7Md68A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m111_7md68a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m111_7md68a
+  confidence: auto

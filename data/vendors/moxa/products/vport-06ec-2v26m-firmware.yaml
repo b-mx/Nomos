@@ -1,0 +1,10 @@
+id: vport-06ec-2v26m-firmware
+vendor_id: moxa
+name: Vport 06Ec-2V26M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:vport_06ec\-2v26m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vport_06ec-2v26m_firmware
+  confidence: auto

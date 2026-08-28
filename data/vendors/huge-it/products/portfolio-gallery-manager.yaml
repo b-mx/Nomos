@@ -1,0 +1,10 @@
+id: portfolio-gallery-manager
+vendor_id: huge-it
+name: Portfolio Gallery Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:huge\-it:portfolio_gallery_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portfolio_gallery_manager
+  confidence: auto

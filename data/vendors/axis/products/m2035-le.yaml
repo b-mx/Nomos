@@ -1,0 +1,10 @@
+id: m2035-le
+vendor_id: axis
+name: M2035-Le
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m2035\-le:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2035-le
+  confidence: auto

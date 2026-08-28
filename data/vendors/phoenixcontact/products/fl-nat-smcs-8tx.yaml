@@ -1,0 +1,10 @@
+id: fl-nat-smcs-8tx
+vendor_id: phoenixcontact
+name: Fl Nat Smcs 8Tx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_nat_smcs_8tx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_nat_smcs_8tx
+  confidence: auto

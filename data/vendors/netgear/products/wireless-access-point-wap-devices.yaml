@@ -1,10 +1,8 @@
 id: wireless-access-point-wap-devices
 vendor_id: netgear
 name: Wireless Access Point (WAP) Devices
-type: hardware
-tags:
-- network-device
-icon: simple-icons:netgear
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: Wireless Access Point (WAP) Devices

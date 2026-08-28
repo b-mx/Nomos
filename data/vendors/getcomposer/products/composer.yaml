@@ -1,0 +1,13 @@
+id: composer
+vendor_id: getcomposer
+name: Composer
+type: software
+tags: []
+cpe: cpe:2.3:a:getcomposer:composer:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: composer
+  confidence: auto
+- source: nvd
+  value: composer
+  confidence: auto

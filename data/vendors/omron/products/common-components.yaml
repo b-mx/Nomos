@@ -1,0 +1,10 @@
+id: common-components
+vendor_id: omron
+name: Common Components
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:common_components:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: common_components
+  confidence: auto

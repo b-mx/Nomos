@@ -1,0 +1,10 @@
+id: series-16i
+vendor_id: fanuc
+name: Series 16I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fanuc:series_16i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: series_16i
+  confidence: auto

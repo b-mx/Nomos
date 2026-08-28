@@ -1,0 +1,10 @@
+id: grandprix
+vendor_id: qodeinteractive
+name: Grandprix
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:grandprix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: grandprix
+  confidence: auto

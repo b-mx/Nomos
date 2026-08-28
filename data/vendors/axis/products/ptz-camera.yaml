@@ -1,0 +1,10 @@
+id: ptz-camera
+vendor_id: axis
+name: Ptz Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:ptz_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ptz_camera
+  confidence: auto

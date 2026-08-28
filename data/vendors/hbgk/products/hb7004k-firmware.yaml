@@ -1,0 +1,10 @@
+id: hb7004k-firmware
+vendor_id: hbgk
+name: Hb7004K Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb7004k_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb7004k_firmware
+  confidence: auto

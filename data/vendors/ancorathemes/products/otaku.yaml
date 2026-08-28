@@ -1,0 +1,10 @@
+id: otaku
+vendor_id: ancorathemes
+name: Otaku
+type: software
+tags: []
+cpe: cpe:2.3:a:ancorathemes:otaku:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: otaku
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aptus
+vendor_id: intelliantech
+name: Aptus
+type: software
+tags: []
+cpe: cpe:2.3:a:intelliantech:aptus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aptus
+  confidence: auto

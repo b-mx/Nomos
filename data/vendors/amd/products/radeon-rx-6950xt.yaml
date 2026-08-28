@@ -1,0 +1,10 @@
+id: radeon-rx-6950xt
+vendor_id: amd
+name: Radeon Rx 6950Xt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:radeon_rx_6950xt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radeon_rx_6950xt
+  confidence: auto

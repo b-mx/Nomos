@@ -1,0 +1,10 @@
+id: f60-cpu-03x-yy-com
+vendor_id: hima
+name: F60 Cpu 03X Yy (Com)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hima:f60_cpu_03x_yy_\(com\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f60_cpu_03x_yy_(com)
+  confidence: auto

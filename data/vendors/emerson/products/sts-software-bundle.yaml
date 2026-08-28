@@ -1,0 +1,10 @@
+id: sts-software-bundle
+vendor_id: emerson
+name: Sts Software Bundle
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:sts_software_bundle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sts_software_bundle
+  confidence: auto

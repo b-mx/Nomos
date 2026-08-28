@@ -1,0 +1,10 @@
+id: ldap-integration-with-active-directory-and-openldap
+vendor_id: miniorange
+name: Ldap Integration With Active Directory And Openldap
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:ldap_integration_with_active_directory_and_openldap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ldap_integration_with_active_directory_and_openldap
+  confidence: auto

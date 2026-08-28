@@ -1,0 +1,10 @@
+id: lm53q1-firmware
+vendor_id: fiberhome
+name: Lm53Q1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fiberhome:lm53q1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lm53q1_firmware
+  confidence: auto

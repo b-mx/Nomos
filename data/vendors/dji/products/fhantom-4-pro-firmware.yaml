@@ -1,0 +1,10 @@
+id: fhantom-4-pro-firmware
+vendor_id: dji
+name: Fhantom 4 Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dji:fhantom_4_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fhantom_4_pro_firmware
+  confidence: auto

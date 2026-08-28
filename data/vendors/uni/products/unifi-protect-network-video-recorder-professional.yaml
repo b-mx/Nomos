@@ -1,0 +1,10 @@
+id: unifi-protect-network-video-recorder-professional
+vendor_id: uni
+name: Unifi Protect Network Video Recorder Professional
+type: hardware
+tags: []
+cpe: cpe:2.3:h:uni:unifi_protect_network_video_recorder_professional:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_protect_network_video_recorder_professional
+  confidence: auto

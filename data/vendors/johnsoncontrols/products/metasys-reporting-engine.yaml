@@ -1,0 +1,10 @@
+id: metasys-reporting-engine
+vendor_id: johnsoncontrols
+name: Metasys Reporting Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:metasys_reporting_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: metasys_reporting_engine
+  confidence: auto

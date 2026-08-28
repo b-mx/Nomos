@@ -1,0 +1,10 @@
+id: openscape-desk-phone-ip-55g
+vendor_id: atos
+name: Openscape Desk Phone Ip 55G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:atos:openscape_desk_phone_ip_55g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openscape_desk_phone_ip_55g
+  confidence: auto

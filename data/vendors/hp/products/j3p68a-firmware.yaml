@@ -1,0 +1,10 @@
+id: j3p68a-firmware
+vendor_id: hp
+name: J3P68A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:j3p68a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j3p68a_firmware
+  confidence: auto

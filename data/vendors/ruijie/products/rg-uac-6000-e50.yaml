@@ -1,0 +1,10 @@
+id: rg-uac-6000-e50
+vendor_id: ruijie
+name: Rg-Uac 6000-E50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-uac_6000\-e50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-uac_6000-e50
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 3par-service-processor-firmware
+vendor_id: hp
+name: 3Par Service Processor Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:3par_service_processor_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3par_service_processor_firmware
+  confidence: auto

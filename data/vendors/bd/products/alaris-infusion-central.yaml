@@ -1,0 +1,10 @@
+id: alaris-infusion-central
+vendor_id: bd
+name: Alaris Infusion Central
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:alaris_infusion_central:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_infusion_central
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e360-firmware
+vendor_id: lexmark
+name: E360 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:e360_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e360_firmware
+  confidence: auto

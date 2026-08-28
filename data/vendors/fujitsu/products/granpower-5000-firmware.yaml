@@ -1,0 +1,10 @@
+id: granpower-5000-firmware
+vendor_id: fujitsu
+name: Granpower 5000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:granpower_5000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: granpower_5000_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: m360-p
+vendor_id: proscend
+name: M360-P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:proscend:m360\-p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m360-p
+  confidence: auto

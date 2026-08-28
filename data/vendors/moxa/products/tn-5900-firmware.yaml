@@ -1,0 +1,10 @@
+id: tn-5900-firmware
+vendor_id: moxa
+name: Tn-5900 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:tn\-5900_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tn-5900_firmware
+  confidence: auto

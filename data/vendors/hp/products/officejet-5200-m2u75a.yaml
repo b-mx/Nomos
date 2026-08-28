@@ -1,0 +1,10 @@
+id: officejet-5200-m2u75a
+vendor_id: hp
+name: Officejet 5200 M2U75A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_5200_m2u75a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_5200_m2u75a
+  confidence: auto

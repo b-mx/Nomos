@@ -1,0 +1,10 @@
+id: wp-video-lightbox
+vendor_id: tipsandtricks-hq
+name: Wp Video Lightbox
+type: software
+tags: []
+cpe: cpe:2.3:a:tipsandtricks\-hq:wp_video_lightbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_video_lightbox
+  confidence: auto

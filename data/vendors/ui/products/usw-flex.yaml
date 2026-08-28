@@ -1,0 +1,10 @@
+id: usw-flex
+vendor_id: ui
+name: Usw-Flex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:usw\-flex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usw-flex
+  confidence: auto

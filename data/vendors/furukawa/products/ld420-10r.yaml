@@ -1,0 +1,10 @@
+id: ld420-10r
+vendor_id: furukawa
+name: Ld420-10R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:furukawa:ld420\-10r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ld420-10r
+  confidence: auto

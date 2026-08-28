@@ -1,0 +1,10 @@
+id: laserjet-mfp-m140-2a129a-firmware
+vendor_id: hp
+name: Laserjet Mfp M140 2A129A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_mfp_m140_2a129a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m140_2a129a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: primo-icd-firmware
+vendor_id: medtronic
+name: Primo Icd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:primo_icd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primo_icd_firmware
+  confidence: auto

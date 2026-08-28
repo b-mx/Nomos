@@ -1,0 +1,10 @@
+id: cz045a
+vendor_id: hp
+name: Cz045A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz045a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz045a
+  confidence: auto

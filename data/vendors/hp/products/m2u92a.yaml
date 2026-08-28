@@ -1,0 +1,10 @@
+id: m2u92a
+vendor_id: hp
+name: M2U92A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m2u92a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2u92a
+  confidence: auto

@@ -1,0 +1,7 @@
+id: proftpd
+name: Proftpd
+cpe: cpe:2.3:*:proftpd:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proftpd
+  confidence: auto

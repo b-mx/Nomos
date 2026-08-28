@@ -1,0 +1,10 @@
+id: b2200
+vendor_id: gl-inet
+name: B2200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:b2200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b2200
+  confidence: auto

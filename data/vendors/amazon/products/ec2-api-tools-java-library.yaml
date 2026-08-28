@@ -1,0 +1,10 @@
+id: ec2-api-tools-java-library
+vendor_id: amazon
+name: Ec2 Api Tools Java Library
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:ec2_api_tools_java_library:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ec2_api_tools_java_library
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ds-570w
+vendor_id: epson
+name: Ds-570W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ds\-570w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds-570w
+  confidence: auto

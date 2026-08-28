@@ -1,0 +1,10 @@
+id: bluedata-epic
+vendor_id: hp
+name: Bluedata Epic
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:bluedata_epic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bluedata_epic
+  confidence: auto

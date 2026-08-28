@@ -1,0 +1,10 @@
+id: amazon-cloudfront
+vendor_id: amazon
+name: Amazon Cloudfront
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:amazon_cloudfront:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_cloudfront
+  confidence: auto

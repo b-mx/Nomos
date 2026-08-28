@@ -1,0 +1,9 @@
+id: argo-cd
+vendor_id: argo-cd
+name: Argo CD
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: argo-cd
+  confidence: auto

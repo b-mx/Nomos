@@ -1,0 +1,10 @@
+id: mbp669-connect
+vendor_id: binatoneglobal
+name: Mbp669 Connect
+type: hardware
+tags: []
+cpe: cpe:2.3:h:binatoneglobal:mbp669_connect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbp669_connect
+  confidence: auto

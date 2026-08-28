@@ -1,0 +1,10 @@
+id: h8dgu-f
+vendor_id: supermicro
+name: H8Dgu-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h8dgu\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h8dgu-f
+  confidence: auto

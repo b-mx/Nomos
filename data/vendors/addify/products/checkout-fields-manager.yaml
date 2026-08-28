@@ -1,0 +1,10 @@
+id: checkout-fields-manager
+vendor_id: addify
+name: Checkout Fields Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:addify:checkout_fields_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: checkout_fields_manager
+  confidence: auto

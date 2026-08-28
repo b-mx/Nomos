@@ -1,0 +1,10 @@
+id: psc-1210-all-in-one
+vendor_id: hp
+name: Psc 1210 All-In-One
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:psc_1210_all\-in\-one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: psc_1210_all-in-one
+  confidence: auto

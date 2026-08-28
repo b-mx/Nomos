@@ -1,0 +1,10 @@
+id: alaris-gs-firmware
+vendor_id: bd
+name: Alaris Gs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:alaris_gs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_gs_firmware
+  confidence: auto

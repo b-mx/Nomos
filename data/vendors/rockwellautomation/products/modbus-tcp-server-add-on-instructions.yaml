@@ -1,0 +1,10 @@
+id: modbus-tcp-server-add-on-instructions
+vendor_id: rockwellautomation
+name: Modbus Tcp Server Add On Instructions
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:modbus_tcp_server_add_on_instructions:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modbus_tcp_server_add_on_instructions
+  confidence: auto

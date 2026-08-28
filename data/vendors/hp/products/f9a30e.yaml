@@ -1,0 +1,10 @@
+id: f9a30e
+vendor_id: hp
+name: F9A30E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f9a30e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f9a30e
+  confidence: auto

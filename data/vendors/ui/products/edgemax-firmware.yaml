@@ -1,0 +1,10 @@
+id: edgemax-firmware
+vendor_id: ui
+name: Edgemax Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:edgemax_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgemax_firmware
+  confidence: auto

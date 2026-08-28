@@ -1,0 +1,10 @@
+id: bizhub-c364e
+vendor_id: konicaminolta
+name: Bizhub C364E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_c364e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c364e
+  confidence: auto

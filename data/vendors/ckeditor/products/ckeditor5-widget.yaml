@@ -1,0 +1,10 @@
+id: ckeditor5-widget
+vendor_id: ckeditor
+name: Ckeditor5-Widget
+type: software
+tags: []
+cpe: cpe:2.3:a:ckeditor:ckeditor5\-widget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ckeditor5-widget
+  confidence: auto

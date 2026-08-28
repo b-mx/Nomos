@@ -1,0 +1,10 @@
+id: fusionpro-vdp
+vendor_id: ricoh
+name: Fusionpro Vdp
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:fusionpro_vdp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionpro_vdp
+  confidence: auto

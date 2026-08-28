@@ -1,0 +1,10 @@
+id: ip9172-lpc-freeway-firmware
+vendor_id: vivotek
+name: Ip9172-Lpc(Freeway) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ip9172\-lpc\(freeway\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip9172-lpc(freeway)_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: qt-m410-firmware
+vendor_id: lenovo
+name: Qt M410 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:qt_m410_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qt_m410_firmware
+  confidence: auto

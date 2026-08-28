@@ -1,0 +1,10 @@
+id: g1w40v
+vendor_id: hp
+name: G1W40V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:g1w40v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g1w40v
+  confidence: auto

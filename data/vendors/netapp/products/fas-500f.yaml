@@ -1,0 +1,10 @@
+id: fas-500f
+vendor_id: netapp
+name: Fas 500F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:fas_500f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fas_500f
+  confidence: auto

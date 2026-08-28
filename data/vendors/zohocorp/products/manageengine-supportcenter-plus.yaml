@@ -1,0 +1,10 @@
+id: manageengine-supportcenter-plus
+vendor_id: zohocorp
+name: Manageengine Supportcenter Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_supportcenter_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_supportcenter_plus
+  confidence: auto

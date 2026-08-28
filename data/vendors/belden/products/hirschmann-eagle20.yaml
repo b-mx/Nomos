@@ -1,0 +1,10 @@
+id: hirschmann-eagle20
+vendor_id: belden
+name: Hirschmann Eagle20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_eagle20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_eagle20
+  confidence: auto

@@ -1,0 +1,10 @@
+id: squawk-airspace
+vendor_id: neilcochran
+name: Squawk/Airspace
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/airspace:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/airspace
+  confidence: auto

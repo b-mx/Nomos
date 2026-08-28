@@ -1,0 +1,10 @@
+id: ipswitch-collaboration-suite
+vendor_id: ipswitch
+name: Ipswitch Collaboration Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:ipswitch_collaboration_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipswitch_collaboration_suite
+  confidence: auto

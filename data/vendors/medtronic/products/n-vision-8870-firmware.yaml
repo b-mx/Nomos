@@ -1,0 +1,10 @@
+id: n-vision-8870-firmware
+vendor_id: medtronic
+name: N'Vision 8870 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:n\'vision_8870_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n'vision_8870_firmware
+  confidence: auto

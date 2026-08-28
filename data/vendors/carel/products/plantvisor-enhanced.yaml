@@ -1,0 +1,10 @@
+id: plantvisor-enhanced
+vendor_id: carel
+name: Plantvisor Enhanced
+type: software
+tags: []
+cpe: cpe:2.3:a:carel:plantvisor_enhanced:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plantvisor_enhanced
+  confidence: auto

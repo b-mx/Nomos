@@ -1,0 +1,10 @@
+id: laserjet-mfp-m437-7zb19a
+vendor_id: hp
+name: Laserjet Mfp M437 7Zb19A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m437_7zb19a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m437_7zb19a
+  confidence: auto

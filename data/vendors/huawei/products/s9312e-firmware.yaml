@@ -1,0 +1,10 @@
+id: s9312e-firmware
+vendor_id: huawei
+name: S9312E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:s9312e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s9312e_firmware
+  confidence: auto

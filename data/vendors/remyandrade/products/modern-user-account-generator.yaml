@@ -1,0 +1,10 @@
+id: modern-user-account-generator
+vendor_id: remyandrade
+name: Modern User Account Generator
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:modern_user_account_generator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modern_user_account_generator
+  confidence: auto

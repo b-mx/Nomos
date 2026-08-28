@@ -1,0 +1,10 @@
+id: aws-javascript-s3-explorer
+vendor_id: amazon
+name: Aws Javascript S3 Explorer
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_javascript_s3_explorer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_javascript_s3_explorer
+  confidence: auto

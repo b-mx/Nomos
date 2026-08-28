@@ -1,0 +1,10 @@
+id: snc-er521
+vendor_id: sony
+name: Snc-Er521
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-er521:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-er521
+  confidence: auto

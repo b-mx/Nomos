@@ -1,0 +1,10 @@
+id: hdz302din-s1-firmware
+vendor_id: honeywell
+name: Hdz302Din-S1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hdz302din\-s1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdz302din-s1_firmware
+  confidence: auto

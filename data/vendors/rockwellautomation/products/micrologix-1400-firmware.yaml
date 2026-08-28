@@ -1,0 +1,10 @@
+id: micrologix-1400-firmware
+vendor_id: rockwellautomation
+name: Micrologix 1400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:micrologix_1400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: micrologix_1400_firmware
+  confidence: auto

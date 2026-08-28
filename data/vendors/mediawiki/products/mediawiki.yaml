@@ -1,0 +1,13 @@
+id: mediawiki
+vendor_id: mediawiki
+name: MediaWiki
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:mediawiki:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: mediawiki
+  confidence: auto
+- source: nvd
+  value: mediawiki
+  confidence: auto

@@ -1,0 +1,10 @@
+id: filester
+vendor_id: ninjateam
+name: Filester
+type: software
+tags: []
+cpe: cpe:2.3:a:ninjateam:filester:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: filester
+  confidence: auto

@@ -1,0 +1,10 @@
+id: smc2-0-firmware
+vendor_id: huawei
+name: Smc2.0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:smc2\.0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smc2.0_firmware
+  confidence: auto

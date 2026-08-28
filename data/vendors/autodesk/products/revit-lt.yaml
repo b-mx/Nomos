@@ -1,0 +1,10 @@
+id: revit-lt
+vendor_id: autodesk
+name: Revit Lt
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:revit_lt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revit_lt
+  confidence: auto

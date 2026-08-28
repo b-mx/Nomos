@@ -1,0 +1,10 @@
+id: x12spz-spln6f-firmware
+vendor_id: supermicro
+name: X12Spz-Spln6F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x12spz\-spln6f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12spz-spln6f_firmware
+  confidence: auto

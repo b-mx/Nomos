@@ -1,0 +1,10 @@
+id: jetnet-6910g-m12-hvdc-firmware
+vendor_id: korenix
+name: Jetnet 6910G-M12 Hvdc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetnet_6910g\-m12_hvdc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet_6910g-m12_hvdc_firmware
+  confidence: auto

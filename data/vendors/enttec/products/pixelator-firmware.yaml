@@ -1,0 +1,10 @@
+id: pixelator-firmware
+vendor_id: enttec
+name: Pixelator Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:enttec:pixelator_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pixelator_firmware
+  confidence: auto

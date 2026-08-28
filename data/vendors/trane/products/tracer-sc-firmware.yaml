@@ -1,0 +1,10 @@
+id: tracer-sc-firmware
+vendor_id: trane
+name: Tracer Sc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trane:tracer_sc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tracer_sc_firmware
+  confidence: auto

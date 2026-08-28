@@ -1,0 +1,10 @@
+id: slideshow
+vendor_id: huge-it
+name: Slideshow
+type: software
+tags: []
+cpe: cpe:2.3:a:huge\-it:slideshow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slideshow
+  confidence: auto

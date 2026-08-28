@@ -1,0 +1,10 @@
+id: mailessentials
+vendor_id: gfi
+name: Mailessentials
+type: software
+tags: []
+cpe: cpe:2.3:a:gfi:mailessentials:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mailessentials
+  confidence: auto

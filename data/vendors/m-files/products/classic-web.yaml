@@ -1,0 +1,10 @@
+id: classic-web
+vendor_id: m-files
+name: Classic Web
+type: software
+tags: []
+cpe: cpe:2.3:a:m\-files:classic_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: classic_web
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nr8h
+vendor_id: cbc
+name: Nr8H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:nr8h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr8h
+  confidence: auto

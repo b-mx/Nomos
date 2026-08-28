@@ -1,0 +1,10 @@
+id: epmp-1000
+vendor_id: cambiumnetworks
+name: Epmp 1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cambiumnetworks:epmp_1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epmp_1000
+  confidence: auto

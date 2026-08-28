@@ -1,0 +1,14 @@
+id: rails
+vendor_id: rubyonrails
+name: Ruby on Rails
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:rubyonrails:rails:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: rails
+  confidence: auto
+- source: nvd
+  value: rails
+  confidence: auto

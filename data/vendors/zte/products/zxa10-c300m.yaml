@@ -1,0 +1,10 @@
+id: zxa10-c300m
+vendor_id: zte
+name: Zxa10 C300M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxa10_c300m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxa10_c300m
+  confidence: auto

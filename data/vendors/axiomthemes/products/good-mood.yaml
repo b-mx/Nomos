@@ -1,0 +1,10 @@
+id: good-mood
+vendor_id: axiomthemes
+name: Good Mood
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:good_mood:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: good_mood
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkpad-e450
+vendor_id: lenovo
+name: Thinkpad E450
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_e450:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_e450
+  confidence: auto

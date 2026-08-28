@@ -1,0 +1,10 @@
+id: bodyguard-121-twins-firmware
+vendor_id: bd
+name: Bodyguard 121 Twins Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:bodyguard_121_twins_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bodyguard_121_twins_firmware
+  confidence: auto

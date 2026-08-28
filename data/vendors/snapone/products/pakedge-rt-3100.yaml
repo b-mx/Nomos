@@ -1,0 +1,10 @@
+id: pakedge-rt-3100
+vendor_id: snapone
+name: Pakedge Rt-3100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:snapone:pakedge_rt\-3100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pakedge_rt-3100
+  confidence: auto

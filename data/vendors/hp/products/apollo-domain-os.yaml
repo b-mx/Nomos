@@ -1,0 +1,10 @@
+id: apollo-domain-os
+vendor_id: hp
+name: Apollo Domain Os
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:apollo_domain_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_domain_os
+  confidence: auto

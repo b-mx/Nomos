@@ -1,0 +1,10 @@
+id: ideacentre-510a-15arr
+vendor_id: lenovo
+name: Ideacentre 510A-15Arr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_510a\-15arr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_510a-15arr
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ws-2
+vendor_id: tandd
+name: Ws-2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tandd:ws\-2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws-2
+  confidence: auto

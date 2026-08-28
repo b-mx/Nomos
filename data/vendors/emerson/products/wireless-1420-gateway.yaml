@@ -1,0 +1,10 @@
+id: wireless-1420-gateway
+vendor_id: emerson
+name: Wireless 1420 Gateway
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:wireless_1420_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wireless_1420_gateway
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinksmart-hub-zoom
+vendor_id: lenovo
+name: Thinksmart Hub Zoom
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksmart_hub_zoom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksmart_hub_zoom
+  confidence: auto

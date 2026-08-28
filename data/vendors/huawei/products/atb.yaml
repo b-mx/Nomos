@@ -1,0 +1,10 @@
+id: atb
+vendor_id: huawei
+name: Atb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:atb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atb
+  confidence: auto

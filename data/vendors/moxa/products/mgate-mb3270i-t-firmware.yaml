@@ -1,0 +1,10 @@
+id: mgate-mb3270i-t-firmware
+vendor_id: moxa
+name: Mgate Mb3270I-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:mgate_mb3270i\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mgate_mb3270i-t_firmware
+  confidence: auto

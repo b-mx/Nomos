@@ -1,0 +1,10 @@
+id: ts-ptcam-poe
+vendor_id: iodata
+name: Ts-Ptcam/Poe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:ts\-ptcam\/poe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts-ptcam/poe
+  confidence: auto

@@ -1,0 +1,10 @@
+id: officejet-pro-8030-3uc64a
+vendor_id: hp
+name: Officejet Pro 8030 3Uc64A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_8030_3uc64a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_8030_3uc64a
+  confidence: auto

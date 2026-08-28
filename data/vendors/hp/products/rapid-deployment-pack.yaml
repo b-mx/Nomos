@@ -1,0 +1,10 @@
+id: rapid-deployment-pack
+vendor_id: hp
+name: Rapid Deployment Pack
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:rapid_deployment_pack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rapid_deployment_pack
+  confidence: auto

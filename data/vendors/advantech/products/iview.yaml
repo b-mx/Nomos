@@ -1,0 +1,10 @@
+id: iview
+vendor_id: advantech
+name: Iview
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:iview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iview
+  confidence: auto

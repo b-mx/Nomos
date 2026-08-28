@@ -1,0 +1,10 @@
+id: x-org-xserver
+vendor_id: x
+name: X.Org-Xserver
+type: software
+tags: []
+cpe: cpe:2.3:a:x:x\.org\-xserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x.org-xserver
+  confidence: auto

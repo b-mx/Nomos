@@ -1,0 +1,10 @@
+id: fx3u-128mt-es-a-firmware
+vendor_id: mitsubishielectric
+name: Fx3U-128Mt/Es-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3u\-128mt\/es\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3u-128mt/es-a_firmware
+  confidence: auto

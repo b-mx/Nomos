@@ -1,0 +1,10 @@
+id: melsec-ws0-geth00200-firmware
+vendor_id: mitsubishielectric
+name: Melsec Ws0-Geth00200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:melsec_ws0\-geth00200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_ws0-geth00200_firmware
+  confidence: auto

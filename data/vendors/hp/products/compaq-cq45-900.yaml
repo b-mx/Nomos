@@ -1,0 +1,10 @@
+id: compaq-cq45-900
+vendor_id: hp
+name: Compaq Cq45-900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:compaq_cq45\-900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compaq_cq45-900
+  confidence: auto

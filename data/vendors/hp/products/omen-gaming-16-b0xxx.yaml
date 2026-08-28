@@ -1,0 +1,10 @@
+id: omen-gaming-16-b0xxx
+vendor_id: hp
+name: Omen Gaming 16-B0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_gaming_16\-b0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_gaming_16-b0xxx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: proliant-bl460c-firmware
+vendor_id: hp
+name: Proliant Bl460C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:proliant_bl460c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_bl460c_firmware
+  confidence: auto

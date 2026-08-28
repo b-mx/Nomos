@@ -1,0 +1,9 @@
+id: http-sys
+vendor_id: microsoft
+name: HTTP.sys
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: HTTP.sys
+  confidence: auto

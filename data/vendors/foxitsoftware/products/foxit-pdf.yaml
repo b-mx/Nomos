@@ -1,0 +1,10 @@
+id: foxit-pdf
+vendor_id: foxitsoftware
+name: Foxit Pdf
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:foxit_pdf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foxit_pdf
+  confidence: auto

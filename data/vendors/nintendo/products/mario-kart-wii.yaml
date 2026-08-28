@@ -1,0 +1,10 @@
+id: mario-kart-wii
+vendor_id: nintendo
+name: Mario Kart Wii
+type: software
+tags: []
+cpe: cpe:2.3:a:nintendo:mario_kart_wii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mario_kart_wii
+  confidence: auto

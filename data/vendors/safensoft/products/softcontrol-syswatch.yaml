@@ -1,0 +1,10 @@
+id: softcontrol-syswatch
+vendor_id: safensoft
+name: Softcontrol Syswatch
+type: software
+tags: []
+cpe: cpe:2.3:a:safensoft:softcontrol_syswatch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softcontrol_syswatch
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sprecon-e-tc-ax-3110
+vendor_id: sprecher-automation
+name: Sprecon-E-Tc Ax-3110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sprecher\-automation:sprecon\-e\-tc_ax\-3110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sprecon-e-tc_ax-3110
+  confidence: auto

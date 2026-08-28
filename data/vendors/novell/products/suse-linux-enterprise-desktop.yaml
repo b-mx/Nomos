@@ -1,0 +1,10 @@
+id: suse-linux-enterprise-desktop
+vendor_id: novell
+name: Suse Linux Enterprise Desktop
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:suse_linux_enterprise_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_enterprise_desktop
+  confidence: auto

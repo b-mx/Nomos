@@ -1,0 +1,10 @@
+id: webclient-dc2
+vendor_id: icewarp
+name: Webclient Dc2
+type: software
+tags: []
+cpe: cpe:2.3:a:icewarp:webclient_dc2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webclient_dc2
+  confidence: auto

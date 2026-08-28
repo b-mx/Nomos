@@ -1,0 +1,10 @@
+id: wt32i-a
+vendor_id: silabs
+name: Wt32I-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:silabs:wt32i\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wt32i-a
+  confidence: auto

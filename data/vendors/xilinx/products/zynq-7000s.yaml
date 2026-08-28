@@ -1,0 +1,10 @@
+id: zynq-7000s
+vendor_id: xilinx
+name: Zynq-7000S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xilinx:zynq\-7000s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zynq-7000s
+  confidence: auto

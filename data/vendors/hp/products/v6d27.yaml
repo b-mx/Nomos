@@ -1,0 +1,10 @@
+id: v6d27
+vendor_id: hp
+name: V6D27
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:v6d27:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v6d27
+  confidence: auto

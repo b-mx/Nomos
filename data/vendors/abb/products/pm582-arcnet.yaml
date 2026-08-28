@@ -1,0 +1,10 @@
+id: pm582-arcnet
+vendor_id: abb
+name: Pm582-Arcnet
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm582\-arcnet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm582-arcnet
+  confidence: auto

@@ -1,0 +1,10 @@
+id: motorizer
+vendor_id: mitsubishielectric
+name: Motorizer
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:motorizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: motorizer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: product-comments
+vendor_id: prestashop
+name: Product Comments
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:product_comments:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_comments
+  confidence: auto

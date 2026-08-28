@@ -1,0 +1,10 @@
+id: blackice-agent-server
+vendor_id: iss
+name: Blackice Agent Server
+type: software
+tags: []
+cpe: cpe:2.3:a:iss:blackice_agent_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackice_agent_server
+  confidence: auto

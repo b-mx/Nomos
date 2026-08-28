@@ -1,0 +1,10 @@
+id: dropbox
+vendor_id: dropbox
+name: Dropbox
+type: software
+tags: []
+cpe: cpe:2.3:a:dropbox:dropbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dropbox
+  confidence: auto

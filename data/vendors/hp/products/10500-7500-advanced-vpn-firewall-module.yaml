@@ -1,0 +1,10 @@
+id: 10500-7500-advanced-vpn-firewall-module
+vendor_id: hp
+name: 10500/7500 Advanced Vpn Firewall Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:10500\/7500_advanced_vpn_firewall_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 10500/7500_advanced_vpn_firewall_module
+  confidence: auto

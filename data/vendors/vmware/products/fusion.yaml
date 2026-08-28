@@ -1,0 +1,9 @@
+id: fusion
+vendor_id: vmware
+name: Fusion
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Fusion
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hima-l09ca
+vendor_id: huawei
+name: Hima-L09Ca
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hima\-l09ca:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hima-l09ca
+  confidence: auto

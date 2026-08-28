@@ -1,0 +1,10 @@
+id: livebox
+vendor_id: sagemcom
+name: Livebox
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sagemcom:livebox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: livebox
+  confidence: auto

@@ -1,0 +1,10 @@
+id: imail
+vendor_id: ipswitch
+name: Imail
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:imail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imail
+  confidence: auto

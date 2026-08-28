@@ -1,0 +1,10 @@
+id: sensei-lms
+vendor_id: automattic
+name: Sensei Lms
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:sensei_lms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensei_lms
+  confidence: auto

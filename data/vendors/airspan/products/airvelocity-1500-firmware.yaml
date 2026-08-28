@@ -1,0 +1,10 @@
+id: airvelocity-1500-firmware
+vendor_id: airspan
+name: Airvelocity 1500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airspan:airvelocity_1500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airvelocity_1500_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: accu-chek-inform-ii-firmware
+vendor_id: roche
+name: Accu-Chek Inform Ii Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:roche:accu\-chek_inform_ii_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accu-chek_inform_ii_firmware
+  confidence: auto

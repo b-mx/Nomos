@@ -1,0 +1,10 @@
+id: rootkit-hunter
+vendor_id: gentoo
+name: Rootkit Hunter
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:rootkit_hunter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rootkit_hunter
+  confidence: auto

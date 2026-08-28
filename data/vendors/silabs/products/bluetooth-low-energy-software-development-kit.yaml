@@ -1,0 +1,10 @@
+id: bluetooth-low-energy-software-development-kit
+vendor_id: silabs
+name: Bluetooth Low Energy Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:silabs:bluetooth_low_energy_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bluetooth_low_energy_software_development_kit
+  confidence: auto

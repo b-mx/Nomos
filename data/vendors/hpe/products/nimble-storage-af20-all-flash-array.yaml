@@ -1,0 +1,10 @@
+id: nimble-storage-af20-all-flash-array
+vendor_id: hpe
+name: Nimble Storage Af20 All Flash Array
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:nimble_storage_af20_all_flash_array:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nimble_storage_af20_all_flash_array
+  confidence: auto

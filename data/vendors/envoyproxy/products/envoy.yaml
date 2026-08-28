@@ -1,0 +1,13 @@
+id: envoy
+vendor_id: envoyproxy
+name: Envoy
+type: software
+tags: []
+cpe: cpe:2.3:a:envoyproxy:envoy:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: envoy
+  confidence: auto
+- source: nvd
+  value: envoy
+  confidence: auto

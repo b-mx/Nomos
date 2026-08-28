@@ -1,0 +1,10 @@
+id: moonlight
+vendor_id: moonlight-stream
+name: Moonlight
+type: software
+tags: []
+cpe: cpe:2.3:a:moonlight\-stream:moonlight:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moonlight
+  confidence: auto

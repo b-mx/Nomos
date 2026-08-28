@@ -1,0 +1,10 @@
+id: ascend-air-cooled-chiller-acr
+vendor_id: trane
+name: Ascend Air-Cooled Chiller Acr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trane:ascend_air\-cooled_chiller_acr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ascend_air-cooled_chiller_acr
+  confidence: auto

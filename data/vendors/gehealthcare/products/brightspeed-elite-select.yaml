@@ -1,0 +1,10 @@
+id: brightspeed-elite-select
+vendor_id: gehealthcare
+name: Brightspeed Elite Select
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:brightspeed_elite_select:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brightspeed_elite_select
+  confidence: auto

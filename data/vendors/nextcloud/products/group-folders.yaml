@@ -1,0 +1,10 @@
+id: group-folders
+vendor_id: nextcloud
+name: Group Folders
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:group_folders:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: group_folders
+  confidence: auto

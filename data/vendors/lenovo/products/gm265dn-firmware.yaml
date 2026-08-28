@@ -1,0 +1,10 @@
+id: gm265dn-firmware
+vendor_id: lenovo
+name: Gm265Dn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:gm265dn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gm265dn_firmware
+  confidence: auto

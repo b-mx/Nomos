@@ -1,0 +1,10 @@
+id: sitesentinel-integra-500-firmware
+vendor_id: opwglobal
+name: Sitesentinel Integra 500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:opwglobal:sitesentinel_integra_500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sitesentinel_integra_500_firmware
+  confidence: auto

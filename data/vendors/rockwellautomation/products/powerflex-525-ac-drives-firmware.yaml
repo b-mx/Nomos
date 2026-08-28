@@ -1,0 +1,10 @@
+id: powerflex-525-ac-drives-firmware
+vendor_id: rockwellautomation
+name: Powerflex 525 Ac Drives Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:powerflex_525_ac_drives_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powerflex_525_ac_drives_firmware
+  confidence: auto

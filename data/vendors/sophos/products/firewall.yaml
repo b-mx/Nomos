@@ -1,0 +1,9 @@
+id: firewall
+vendor_id: sophos
+name: Firewall
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Firewall
+  confidence: auto

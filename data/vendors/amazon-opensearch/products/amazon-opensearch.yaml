@@ -1,0 +1,10 @@
+id: amazon-opensearch
+vendor_id: amazon-opensearch
+name: Amazon OpenSearch
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: amazon-opensearch
+  confidence: auto

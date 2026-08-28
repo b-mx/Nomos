@@ -1,0 +1,10 @@
+id: r04cpu
+vendor_id: mitsubishielectric
+name: R04Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:r04cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r04cpu
+  confidence: auto

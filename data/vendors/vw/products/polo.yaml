@@ -1,0 +1,10 @@
+id: polo
+vendor_id: vw
+name: Polo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vw:polo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: polo
+  confidence: auto

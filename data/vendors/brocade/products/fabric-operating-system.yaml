@@ -1,0 +1,10 @@
+id: fabric-operating-system
+vendor_id: brocade
+name: Fabric Operating System
+type: os
+tags: []
+cpe: cpe:2.3:o:brocade:fabric_operating_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fabric_operating_system
+  confidence: auto

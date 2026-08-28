@@ -1,0 +1,10 @@
+id: ipcom-ex-lb-2700-firmware
+vendor_id: fujitsu
+name: Ipcom Ex Lb 2700 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:ipcom_ex_lb_2700_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipcom_ex_lb_2700_firmware
+  confidence: auto

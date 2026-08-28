@@ -1,0 +1,10 @@
+id: nport-5100-series-firmware
+vendor_id: moxa
+name: Nport 5100 Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_5100_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5100_series_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jc612a-hp-10508-switch-chassis
+vendor_id: hp
+name: Jc612A Hp 10508 Switch Chassis
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc612a_hp_10508_switch_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc612a_hp_10508_switch_chassis
+  confidence: auto

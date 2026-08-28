@@ -1,0 +1,10 @@
+id: nds-5008rm-firmware
+vendor_id: systech
+name: Nds/5008Rm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:systech:nds\/5008rm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nds/5008rm_firmware
+  confidence: auto

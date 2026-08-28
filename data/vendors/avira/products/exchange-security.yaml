@@ -1,0 +1,10 @@
+id: exchange-security
+vendor_id: avira
+name: Exchange Security
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:exchange_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exchange_security
+  confidence: auto

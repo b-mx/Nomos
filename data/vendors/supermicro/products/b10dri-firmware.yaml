@@ -1,0 +1,10 @@
+id: b10dri-firmware
+vendor_id: supermicro
+name: B10Dri Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:b10dri_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b10dri_firmware
+  confidence: auto

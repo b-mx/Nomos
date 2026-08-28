@@ -1,0 +1,10 @@
+id: l3u42a
+vendor_id: hp
+name: L3U42A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:l3u42a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l3u42a
+  confidence: auto

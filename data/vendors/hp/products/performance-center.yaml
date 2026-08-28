@@ -1,0 +1,10 @@
+id: performance-center
+vendor_id: hp
+name: Performance Center
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:performance_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: performance_center
+  confidence: auto

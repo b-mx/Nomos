@@ -1,0 +1,10 @@
+id: sandisk-security-installer
+vendor_id: westerndigital
+name: Sandisk Security Installer
+type: software
+tags: []
+cpe: cpe:2.3:a:westerndigital:sandisk_security_installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sandisk_security_installer
+  confidence: auto

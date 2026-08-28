@@ -1,0 +1,10 @@
+id: mss550x
+vendor_id: meross
+name: Mss550X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meross:mss550x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mss550x
+  confidence: auto

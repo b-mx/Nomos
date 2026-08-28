@@ -1,0 +1,10 @@
+id: applica
+vendor_id: carel
+name: Applica
+type: software
+tags: []
+cpe: cpe:2.3:a:carel:applica:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: applica
+  confidence: auto

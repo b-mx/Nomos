@@ -1,0 +1,10 @@
+id: sp-325sfnw
+vendor_id: ricoh
+name: Sp 325Sfnw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_325sfnw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_325sfnw
+  confidence: auto

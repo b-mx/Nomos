@@ -1,0 +1,10 @@
+id: time-table-generator-system
+vendor_id: phpgurukul
+name: Time Table Generator System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:time_table_generator_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: time_table_generator_system
+  confidence: auto

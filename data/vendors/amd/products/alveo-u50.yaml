@@ -1,0 +1,10 @@
+id: alveo-u50
+vendor_id: amd
+name: Alveo U50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:alveo_u50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alveo_u50
+  confidence: auto

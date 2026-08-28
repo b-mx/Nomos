@@ -1,0 +1,10 @@
+id: dv-ip-express-firmware
+vendor_id: netvu
+name: Dv-Ip Express Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netvu:dv\-ip_express_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dv-ip_express_firmware
+  confidence: auto

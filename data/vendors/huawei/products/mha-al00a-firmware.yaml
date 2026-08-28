@@ -1,0 +1,10 @@
+id: mha-al00a-firmware
+vendor_id: huawei
+name: Mha-Al00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:mha\-al00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mha-al00a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aruba-cx-6300m-48-jl659a
+vendor_id: hpe
+name: Aruba Cx 6300M 48 (Jl659A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6300m_48_\(jl659a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6300m_48_(jl659a)
+  confidence: auto

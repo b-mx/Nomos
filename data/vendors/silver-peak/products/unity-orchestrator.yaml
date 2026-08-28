@@ -1,0 +1,10 @@
+id: unity-orchestrator
+vendor_id: silver-peak
+name: Unity Orchestrator
+type: software
+tags: []
+cpe: cpe:2.3:a:silver\-peak:unity_orchestrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unity_orchestrator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: snc-cx600w
+vendor_id: sony
+name: Snc-Cx600W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-cx600w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-cx600w
+  confidence: auto

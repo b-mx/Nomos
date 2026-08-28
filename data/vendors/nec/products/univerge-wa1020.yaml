@@ -1,0 +1,10 @@
+id: univerge-wa1020
+vendor_id: nec
+name: Univerge Wa1020
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:univerge_wa1020:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: univerge_wa1020
+  confidence: auto

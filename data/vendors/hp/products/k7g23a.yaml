@@ -1,0 +1,10 @@
+id: k7g23a
+vendor_id: hp
+name: K7G23A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k7g23a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7g23a
+  confidence: auto

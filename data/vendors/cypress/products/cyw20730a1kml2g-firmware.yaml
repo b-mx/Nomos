@@ -1,0 +1,10 @@
+id: cyw20730a1kml2g-firmware
+vendor_id: cypress
+name: Cyw20730A1Kml2G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cypress:cyw20730a1kml2g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyw20730a1kml2g_firmware
+  confidence: auto

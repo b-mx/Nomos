@@ -1,0 +1,10 @@
+id: antreas
+vendor_id: machothemes
+name: Antreas
+type: software
+tags: []
+cpe: cpe:2.3:a:machothemes:antreas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antreas
+  confidence: auto

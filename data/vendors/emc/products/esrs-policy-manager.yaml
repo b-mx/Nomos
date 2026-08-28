@@ -1,0 +1,10 @@
+id: esrs-policy-manager
+vendor_id: emc
+name: Esrs Policy Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:esrs_policy_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esrs_policy_manager
+  confidence: auto

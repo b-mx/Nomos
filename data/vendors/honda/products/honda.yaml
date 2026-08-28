@@ -1,0 +1,10 @@
+id: honda
+vendor_id: honda
+name: Honda
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honda:honda:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honda
+  confidence: auto

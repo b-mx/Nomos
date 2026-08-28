@@ -1,0 +1,10 @@
+id: cc1350
+vendor_id: ti
+name: Cc1350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:cc1350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc1350
+  confidence: auto

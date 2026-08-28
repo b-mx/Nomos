@@ -1,0 +1,10 @@
+id: rut901
+vendor_id: teltonika-networks
+name: Rut901
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika\-networks:rut901:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rut901
+  confidence: auto

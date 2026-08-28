@@ -1,0 +1,10 @@
+id: cf7500
+vendor_id: zavio
+name: Cf7500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zavio:cf7500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf7500
+  confidence: auto

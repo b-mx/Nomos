@@ -1,0 +1,10 @@
+id: hue-bridge-firmware
+vendor_id: phillips
+name: Hue Bridge Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phillips:hue_bridge_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hue_bridge_firmware
+  confidence: auto

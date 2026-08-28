@@ -1,0 +1,10 @@
+id: polkit
+vendor_id: freedesktop
+name: Polkit
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:polkit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: polkit
+  confidence: auto

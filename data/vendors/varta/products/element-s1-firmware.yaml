@@ -1,0 +1,10 @@
+id: element-s1-firmware
+vendor_id: varta
+name: Element S1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:varta:element_s1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: element_s1_firmware
+  confidence: auto

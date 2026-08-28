@@ -1,0 +1,10 @@
+id: open-san-manager
+vendor_id: compaq
+name: Open San Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:open_san_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_san_manager
+  confidence: auto

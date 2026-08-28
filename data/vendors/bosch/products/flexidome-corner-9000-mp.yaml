@@ -1,0 +1,10 @@
+id: flexidome-corner-9000-mp
+vendor_id: bosch
+name: Flexidome Corner 9000 Mp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_corner_9000_mp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_corner_9000_mp
+  confidence: auto

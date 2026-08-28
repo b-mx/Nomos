@@ -1,0 +1,10 @@
+id: c6x
+vendor_id: airspan
+name: C6X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airspan:c6x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c6x
+  confidence: auto

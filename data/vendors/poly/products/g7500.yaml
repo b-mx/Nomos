@@ -1,0 +1,10 @@
+id: g7500
+vendor_id: poly
+name: G7500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:poly:g7500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g7500
+  confidence: auto

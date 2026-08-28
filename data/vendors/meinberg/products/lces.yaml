@@ -1,0 +1,10 @@
+id: lces
+vendor_id: meinberg
+name: Lces
+type: hardware
+tags: []
+cpe: cpe:2.3:h:meinberg:lces:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lces
+  confidence: auto

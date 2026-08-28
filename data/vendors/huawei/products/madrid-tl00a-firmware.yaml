@@ -1,0 +1,10 @@
+id: madrid-tl00a-firmware
+vendor_id: huawei
+name: Madrid-Tl00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:madrid\-tl00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: madrid-tl00a_firmware
+  confidence: auto

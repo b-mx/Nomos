@@ -1,0 +1,10 @@
+id: bodyguard-999-603-firmware
+vendor_id: bd
+name: Bodyguard 999-603 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:bodyguard_999\-603_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bodyguard_999-603_firmware
+  confidence: auto

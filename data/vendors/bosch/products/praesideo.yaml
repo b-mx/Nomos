@@ -1,0 +1,10 @@
+id: praesideo
+vendor_id: bosch
+name: Praesideo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:praesideo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: praesideo
+  confidence: auto

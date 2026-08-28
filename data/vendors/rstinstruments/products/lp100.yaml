@@ -1,0 +1,10 @@
+id: lp100
+vendor_id: rstinstruments
+name: Lp100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:lp100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp100
+  confidence: auto

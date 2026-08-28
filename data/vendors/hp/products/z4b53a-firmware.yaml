@@ -1,0 +1,10 @@
+id: z4b53a-firmware
+vendor_id: hp
+name: Z4B53A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:z4b53a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z4b53a_firmware
+  confidence: auto

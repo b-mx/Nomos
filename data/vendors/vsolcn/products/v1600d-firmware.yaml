@@ -1,0 +1,10 @@
+id: v1600d-firmware
+vendor_id: vsolcn
+name: V1600D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vsolcn:v1600d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v1600d_firmware
+  confidence: auto

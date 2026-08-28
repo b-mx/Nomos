@@ -1,0 +1,10 @@
+id: tlr-2005ksh
+vendor_id: telesquare
+name: Tlr-2005Ksh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telesquare:tlr\-2005ksh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tlr-2005ksh
+  confidence: auto

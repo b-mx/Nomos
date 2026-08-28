@@ -1,0 +1,10 @@
+id: sysmac-cp2e-s40dr-a
+vendor_id: omron
+name: Sysmac Cp2E-S40Dr-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cp2e\-s40dr\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cp2e-s40dr-a
+  confidence: auto

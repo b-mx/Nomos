@@ -1,0 +1,10 @@
+id: dt2050b-firmware
+vendor_id: rstinstruments
+name: Dt2050B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:dt2050b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt2050b_firmware
+  confidence: auto

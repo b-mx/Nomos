@@ -1,0 +1,10 @@
+id: hd-mb20ts
+vendor_id: toshiba
+name: Hd-Mb20Ts
+type: hardware
+tags: []
+cpe: cpe:2.3:h:toshiba:hd\-mb20ts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hd-mb20ts
+  confidence: auto

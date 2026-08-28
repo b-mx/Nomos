@@ -1,0 +1,10 @@
+id: webaccess-scada
+vendor_id: advantech
+name: Webaccess/Scada
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:webaccess\/scada:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webaccess/scada
+  confidence: auto

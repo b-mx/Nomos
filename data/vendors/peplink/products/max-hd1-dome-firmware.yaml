@@ -1,0 +1,10 @@
+id: max-hd1-dome-firmware
+vendor_id: peplink
+name: Max Hd1 Dome Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:max_hd1_dome_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_hd1_dome_firmware
+  confidence: auto

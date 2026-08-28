@@ -1,0 +1,10 @@
+id: lyo-l21-firmware
+vendor_id: huawei
+name: Lyo-L21 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:lyo\-l21_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lyo-l21_firmware
+  confidence: auto

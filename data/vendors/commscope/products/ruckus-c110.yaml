@@ -1,0 +1,10 @@
+id: ruckus-c110
+vendor_id: commscope
+name: Ruckus C110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:commscope:ruckus_c110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_c110
+  confidence: auto

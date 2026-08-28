@@ -1,0 +1,10 @@
+id: airbox-firmware
+vendor_id: orange
+name: Airbox Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:orange:airbox_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airbox_firmware
+  confidence: auto

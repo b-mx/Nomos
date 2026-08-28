@@ -1,0 +1,10 @@
+id: 440hd
+vendor_id: audiocodes
+name: 440Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:audiocodes:440hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 440hd
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dg3450-firmware
+vendor_id: commscope
+name: Dg3450 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:commscope:dg3450_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dg3450_firmware
+  confidence: auto

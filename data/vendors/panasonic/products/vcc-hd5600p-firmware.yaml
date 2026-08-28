@@ -1,0 +1,10 @@
+id: vcc-hd5600p-firmware
+vendor_id: panasonic
+name: Vcc-Hd5600P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:panasonic:vcc\-hd5600p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vcc-hd5600p_firmware
+  confidence: auto

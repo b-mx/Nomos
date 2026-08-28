@@ -1,0 +1,10 @@
+id: skin-cosmos
+vendor_id: mediawiki
+name: Skin:Cosmos
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:skin\:cosmos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skin:cosmos
+  confidence: auto

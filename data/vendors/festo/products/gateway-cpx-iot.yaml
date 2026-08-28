@@ -1,0 +1,10 @@
+id: gateway-cpx-iot
+vendor_id: festo
+name: Gateway Cpx-Iot
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:gateway_cpx\-iot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gateway_cpx-iot
+  confidence: auto

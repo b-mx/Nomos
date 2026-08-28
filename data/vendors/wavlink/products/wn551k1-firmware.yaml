@@ -1,0 +1,10 @@
+id: wn551k1-firmware
+vendor_id: wavlink
+name: Wn551K1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wavlink:wn551k1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn551k1_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pc10b-tcc-1021-firmware
+vendor_id: jtekt
+name: Pc10B Tcc-1021 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:pc10b_tcc\-1021_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10b_tcc-1021_firmware
+  confidence: auto

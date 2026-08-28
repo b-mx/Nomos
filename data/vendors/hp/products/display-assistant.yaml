@@ -1,0 +1,10 @@
+id: display-assistant
+vendor_id: hp
+name: Display Assistant
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:display_assistant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: display_assistant
+  confidence: auto

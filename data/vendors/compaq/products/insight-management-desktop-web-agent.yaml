@@ -1,0 +1,10 @@
+id: insight-management-desktop-web-agent
+vendor_id: compaq
+name: Insight Management Desktop Web Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:insight_management_desktop_web_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_management_desktop_web_agent
+  confidence: auto

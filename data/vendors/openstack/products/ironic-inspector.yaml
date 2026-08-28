@@ -1,0 +1,10 @@
+id: ironic-inspector
+vendor_id: openstack
+name: Ironic-Inspector
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:ironic\-inspector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ironic-inspector
+  confidence: auto

@@ -1,0 +1,10 @@
+id: indoor-camera-se-firmware
+vendor_id: roku
+name: Indoor Camera Se Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:roku:indoor_camera_se_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: indoor_camera_se_firmware
+  confidence: auto

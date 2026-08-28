@@ -1,0 +1,10 @@
+id: thinkpad-t550
+vendor_id: lenovo
+name: Thinkpad T550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_t550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_t550
+  confidence: auto

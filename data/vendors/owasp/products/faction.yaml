@@ -1,0 +1,10 @@
+id: faction
+vendor_id: owasp
+name: Faction
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:faction:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: faction
+  confidence: auto

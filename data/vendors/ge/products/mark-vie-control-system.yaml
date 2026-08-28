@@ -1,0 +1,10 @@
+id: mark-vie-control-system
+vendor_id: ge
+name: Mark Vie Control System
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:mark_vie_control_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mark_vie_control_system
+  confidence: auto

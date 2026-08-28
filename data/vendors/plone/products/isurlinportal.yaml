@@ -1,0 +1,10 @@
+id: isurlinportal
+vendor_id: plone
+name: Isurlinportal
+type: software
+tags: []
+cpe: cpe:2.3:a:plone:isurlinportal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isurlinportal
+  confidence: auto

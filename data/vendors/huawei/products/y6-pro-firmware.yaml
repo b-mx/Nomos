@@ -1,0 +1,10 @@
+id: y6-pro-firmware
+vendor_id: huawei
+name: Y6 Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:y6_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y6_pro_firmware
+  confidence: auto

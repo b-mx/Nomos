@@ -1,0 +1,10 @@
+id: rut956-firmware
+vendor_id: teltonika-networks
+name: Rut956 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:teltonika\-networks:rut956_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rut956_firmware
+  confidence: auto

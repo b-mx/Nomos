@@ -1,0 +1,10 @@
+id: gt2104-pmbd
+vendor_id: mitsubishielectric
+name: Gt2104-Pmbd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:gt2104\-pmbd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gt2104-pmbd
+  confidence: auto

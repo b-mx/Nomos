@@ -1,0 +1,10 @@
+id: incontrol-web
+vendor_id: intelbras
+name: Incontrol Web
+type: software
+tags: []
+cpe: cpe:2.3:a:intelbras:incontrol_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: incontrol_web
+  confidence: auto

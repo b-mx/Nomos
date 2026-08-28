@@ -1,0 +1,10 @@
+id: manageengine-oputils
+vendor_id: zohocorp
+name: Manageengine Oputils
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_oputils:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_oputils
+  confidence: auto

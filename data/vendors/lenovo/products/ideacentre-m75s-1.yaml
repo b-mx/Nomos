@@ -1,0 +1,10 @@
+id: ideacentre-m75s-1
+vendor_id: lenovo
+name: Ideacentre M75S-1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_m75s\-1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_m75s-1
+  confidence: auto

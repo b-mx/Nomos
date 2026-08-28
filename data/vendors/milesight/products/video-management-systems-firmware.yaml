@@ -1,0 +1,10 @@
+id: video-management-systems-firmware
+vendor_id: milesight
+name: Video Management Systems Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:milesight:video_management_systems_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_management_systems_firmware
+  confidence: auto

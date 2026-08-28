@@ -1,0 +1,10 @@
+id: droid-incredible
+vendor_id: htc
+name: Droid Incredible
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:droid_incredible:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: droid_incredible
+  confidence: auto

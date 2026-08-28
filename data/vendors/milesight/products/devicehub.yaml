@@ -1,0 +1,10 @@
+id: devicehub
+vendor_id: milesight
+name: Devicehub
+type: software
+tags: []
+cpe: cpe:2.3:a:milesight:devicehub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: devicehub
+  confidence: auto

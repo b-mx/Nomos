@@ -1,0 +1,10 @@
+id: centro-grande-firmware
+vendor_id: swisscom
+name: Centro Grande Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:swisscom:centro_grande_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centro_grande_firmware
+  confidence: auto

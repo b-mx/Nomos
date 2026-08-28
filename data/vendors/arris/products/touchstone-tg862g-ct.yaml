@@ -1,0 +1,10 @@
+id: touchstone-tg862g-ct
+vendor_id: arris
+name: Touchstone Tg862G/Ct
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arris:touchstone_tg862g\/ct:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: touchstone_tg862g/ct
+  confidence: auto

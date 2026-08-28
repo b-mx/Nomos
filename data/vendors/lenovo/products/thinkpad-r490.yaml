@@ -1,0 +1,10 @@
+id: thinkpad-r490
+vendor_id: lenovo
+name: Thinkpad R490
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_r490:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_r490
+  confidence: auto

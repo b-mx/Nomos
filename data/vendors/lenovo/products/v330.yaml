@@ -1,0 +1,10 @@
+id: v330
+vendor_id: lenovo
+name: V330
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v330:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v330
+  confidence: auto

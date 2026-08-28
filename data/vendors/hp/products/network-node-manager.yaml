@@ -1,0 +1,10 @@
+id: network-node-manager
+vendor_id: hp
+name: Network Node Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:network_node_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_node_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: f-com-01-firmware
+vendor_id: hima
+name: F-Com 01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hima:f\-com_01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f-com_01_firmware
+  confidence: auto

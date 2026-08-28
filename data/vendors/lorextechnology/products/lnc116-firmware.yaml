@@ -1,0 +1,10 @@
+id: lnc116-firmware
+vendor_id: lorextechnology
+name: Lnc116 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lorextechnology:lnc116_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lnc116_firmware
+  confidence: auto

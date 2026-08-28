@@ -1,7 +1,7 @@
 id: canonical
 name: Canonical
-icon: logos:ubuntu
+cpe: cpe:2.3:*:canonical:*:*:*:*:*:*:*:*:*
 aliases:
-  - source: nvd
-    value: canonical
-    confidence: curated
+- source: nvd
+  value: canonical
+  confidence: auto

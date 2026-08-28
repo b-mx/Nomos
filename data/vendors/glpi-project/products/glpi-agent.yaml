@@ -1,0 +1,10 @@
+id: glpi-agent
+vendor_id: glpi-project
+name: Glpi Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:glpi\-project:glpi_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: glpi_agent
+  confidence: auto

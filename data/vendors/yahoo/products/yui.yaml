@@ -1,0 +1,10 @@
+id: yui
+vendor_id: yahoo
+name: Yui
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:yui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yui
+  confidence: auto

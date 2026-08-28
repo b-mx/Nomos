@@ -1,0 +1,10 @@
+id: element
+vendor_id: netapp
+name: Element
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:element:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: element
+  confidence: auto

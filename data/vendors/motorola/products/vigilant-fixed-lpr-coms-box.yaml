@@ -1,0 +1,10 @@
+id: vigilant-fixed-lpr-coms-box
+vendor_id: motorola
+name: Vigilant Fixed Lpr Coms Box
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:vigilant_fixed_lpr_coms_box:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vigilant_fixed_lpr_coms_box
+  confidence: auto

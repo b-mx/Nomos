@@ -1,0 +1,10 @@
+id: a10-9630p
+vendor_id: amd
+name: A10-9630P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:a10\-9630p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a10-9630p
+  confidence: auto

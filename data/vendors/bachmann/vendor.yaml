@@ -1,0 +1,7 @@
+id: bachmann
+name: Bachmann
+cpe: cpe:2.3:*:bachmann:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bachmann
+  confidence: auto

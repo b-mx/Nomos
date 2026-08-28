@@ -1,0 +1,10 @@
+id: rsa
+vendor_id: python
+name: Rsa
+type: software
+tags: []
+cpe: cpe:2.3:a:python:rsa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa
+  confidence: auto

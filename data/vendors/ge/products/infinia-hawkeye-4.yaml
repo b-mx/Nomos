@@ -1,0 +1,10 @@
+id: infinia-hawkeye-4
+vendor_id: ge
+name: Infinia Hawkeye 4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:infinia_hawkeye_4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infinia_hawkeye_4
+  confidence: auto

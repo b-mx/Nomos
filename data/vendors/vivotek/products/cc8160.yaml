@@ -1,0 +1,10 @@
+id: cc8160
+vendor_id: vivotek
+name: Cc8160
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:cc8160:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc8160
+  confidence: auto

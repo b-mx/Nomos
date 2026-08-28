@@ -1,0 +1,10 @@
+id: ryzen-3-4300g
+vendor_id: amd
+name: Ryzen 3 4300G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3_4300g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3_4300g
+  confidence: auto

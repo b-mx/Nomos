@@ -1,0 +1,10 @@
+id: thinksmart-core-device-for-poly
+vendor_id: lenovo
+name: Thinksmart Core Device For Poly
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksmart_core_device_for_poly:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksmart_core_device_for_poly
+  confidence: auto

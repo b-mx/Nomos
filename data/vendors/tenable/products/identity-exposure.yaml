@@ -1,0 +1,10 @@
+id: identity-exposure
+vendor_id: tenable
+name: Identity Exposure
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:identity_exposure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: identity_exposure
+  confidence: auto

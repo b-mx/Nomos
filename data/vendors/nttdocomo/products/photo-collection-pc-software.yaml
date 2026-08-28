@@ -1,0 +1,10 @@
+id: photo-collection-pc-software
+vendor_id: nttdocomo
+name: Photo Collection Pc Software
+type: software
+tags: []
+cpe: cpe:2.3:a:nttdocomo:photo_collection_pc_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photo_collection_pc_software
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x12dpg-ar
+vendor_id: supermicro
+name: X12Dpg-Ar
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12dpg\-ar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dpg-ar
+  confidence: auto

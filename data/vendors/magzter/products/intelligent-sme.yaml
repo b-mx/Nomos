@@ -1,0 +1,10 @@
+id: intelligent-sme
+vendor_id: magzter
+name: Intelligent Sme
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:intelligent_sme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_sme
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 280-g5-microtower-rom-family-ssid-877e
+vendor_id: hp
+name: 280 G5 Microtower (Rom Family Ssid 877E)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:280_g5_microtower_\(rom_family_ssid_877e\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 280_g5_microtower_(rom_family_ssid_877e)
+  confidence: auto

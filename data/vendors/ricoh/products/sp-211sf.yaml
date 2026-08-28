@@ -1,0 +1,10 @@
+id: sp-211sf
+vendor_id: ricoh
+name: Sp 211Sf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_211sf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_211sf
+  confidence: auto

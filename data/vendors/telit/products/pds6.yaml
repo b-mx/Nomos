@@ -1,0 +1,10 @@
+id: pds6
+vendor_id: telit
+name: Pds6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telit:pds6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pds6
+  confidence: auto

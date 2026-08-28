@@ -1,0 +1,10 @@
+id: s9303
+vendor_id: huawei
+name: S9303
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s9303:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s9303
+  confidence: auto

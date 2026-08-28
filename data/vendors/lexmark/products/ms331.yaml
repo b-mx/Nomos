@@ -1,0 +1,10 @@
+id: ms331
+vendor_id: lexmark
+name: Ms331
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms331:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms331
+  confidence: auto

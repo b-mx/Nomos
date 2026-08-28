@@ -1,0 +1,10 @@
+id: dependency-check
+vendor_id: owasp
+name: Dependency-Check
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:dependency\-check:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dependency-check
+  confidence: auto

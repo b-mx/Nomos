@@ -1,0 +1,10 @@
+id: 4ra81fr-firmware
+vendor_id: hp
+name: 4Ra81Fr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:4ra81fr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4ra81fr_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jd172a
+vendor_id: hp
+name: Jd172A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd172a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd172a
+  confidence: auto

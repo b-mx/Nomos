@@ -1,0 +1,10 @@
+id: clerk-clerk-expo
+vendor_id: clerk
+name: Clerk/Clerk-Expo
+type: software
+tags: []
+cpe: cpe:2.3:a:clerk:clerk\/clerk\-expo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clerk/clerk-expo
+  confidence: auto

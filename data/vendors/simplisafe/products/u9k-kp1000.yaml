@@ -1,0 +1,10 @@
+id: u9k-kp1000
+vendor_id: simplisafe
+name: U9K-Kp1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:simplisafe:u9k\-kp1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: u9k-kp1000
+  confidence: auto

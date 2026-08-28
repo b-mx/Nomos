@@ -1,0 +1,10 @@
+id: proliant-microserver-gen8
+vendor_id: hp
+name: Proliant Microserver Gen8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_microserver_gen8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_microserver_gen8
+  confidence: auto

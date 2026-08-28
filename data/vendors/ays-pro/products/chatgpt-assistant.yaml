@@ -1,0 +1,10 @@
+id: chatgpt-assistant
+vendor_id: ays-pro
+name: Chatgpt Assistant
+type: software
+tags: []
+cpe: cpe:2.3:a:ays\-pro:chatgpt_assistant:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chatgpt_assistant
+  confidence: auto

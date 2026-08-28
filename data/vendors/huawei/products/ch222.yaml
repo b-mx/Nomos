@@ -1,0 +1,10 @@
+id: ch222
+vendor_id: huawei
+name: Ch222
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ch222:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch222
+  confidence: auto

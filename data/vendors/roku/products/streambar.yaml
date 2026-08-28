@@ -1,0 +1,10 @@
+id: streambar
+vendor_id: roku
+name: Streambar
+type: hardware
+tags: []
+cpe: cpe:2.3:h:roku:streambar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: streambar
+  confidence: auto

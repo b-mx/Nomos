@@ -1,0 +1,10 @@
+id: eagleeye-director-ii-firmware
+vendor_id: poly
+name: Eagleeye Director Ii Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:poly:eagleeye_director_ii_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eagleeye_director_ii_firmware
+  confidence: auto

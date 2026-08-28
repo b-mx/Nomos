@@ -1,0 +1,10 @@
+id: alto-3
+vendor_id: datto
+name: Alto 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:datto:alto_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alto_3
+  confidence: auto

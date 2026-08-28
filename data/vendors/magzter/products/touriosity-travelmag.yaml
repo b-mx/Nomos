@@ -1,0 +1,10 @@
+id: touriosity-travelmag
+vendor_id: magzter
+name: Touriosity Travelmag
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:touriosity_travelmag:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: touriosity_travelmag
+  confidence: auto

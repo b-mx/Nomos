@@ -1,0 +1,10 @@
+id: apeos-3060
+vendor_id: fujifilm
+name: Apeos 3060
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_3060:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_3060
+  confidence: auto

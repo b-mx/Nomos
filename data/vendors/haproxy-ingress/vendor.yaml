@@ -1,0 +1,6 @@
+id: haproxy-ingress
+name: HAProxy Ingress
+aliases:
+- source: endoflife
+  value: haproxy-ingress
+  confidence: auto

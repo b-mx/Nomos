@@ -1,0 +1,10 @@
+id: vitalnet
+vendor_id: lucent
+name: Vitalnet
+type: software
+tags: []
+cpe: cpe:2.3:a:lucent:vitalnet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vitalnet
+  confidence: auto

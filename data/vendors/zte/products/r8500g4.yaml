@@ -1,0 +1,10 @@
+id: r8500g4
+vendor_id: zte
+name: R8500G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:r8500g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r8500g4
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 530s-07icb-firmware
+vendor_id: lenovo
+name: 530S-07Icb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:530s\-07icb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 530s-07icb_firmware
+  confidence: auto

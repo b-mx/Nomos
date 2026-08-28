@@ -1,0 +1,10 @@
+id: mbnet-mdh-850
+vendor_id: redlion
+name: Mbnet Mdh 850
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redlion:mbnet_mdh_850:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbnet_mdh_850
+  confidence: auto

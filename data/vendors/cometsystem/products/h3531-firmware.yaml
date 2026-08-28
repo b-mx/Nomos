@@ -1,0 +1,10 @@
+id: h3531-firmware
+vendor_id: cometsystem
+name: H3531 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cometsystem:h3531_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h3531_firmware
+  confidence: auto

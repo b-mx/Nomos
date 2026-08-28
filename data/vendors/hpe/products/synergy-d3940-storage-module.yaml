@@ -1,0 +1,10 @@
+id: synergy-d3940-storage-module
+vendor_id: hpe
+name: Synergy D3940 Storage Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:synergy_d3940_storage_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy_d3940_storage_module
+  confidence: auto

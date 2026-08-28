@@ -1,0 +1,10 @@
+id: epyc-7601-firmware
+vendor_id: amd
+name: Epyc 7601 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:epyc_7601_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7601_firmware
+  confidence: auto

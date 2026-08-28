@@ -2,8 +2,7 @@ id: grafana
 vendor_id: grafana-labs
 name: Grafana
 type: software
-tags:
-- monitoring
+tags: []
 aliases:
 - source: cisa_kev
   value: Grafana

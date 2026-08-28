@@ -1,0 +1,10 @@
+id: jad-al50
+vendor_id: huawei
+name: Jad-Al50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:jad\-al50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jad-al50
+  confidence: auto

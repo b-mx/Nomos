@@ -1,0 +1,10 @@
+id: intelligent-sandbox
+vendor_id: trellix
+name: Intelligent Sandbox
+type: software
+tags: []
+cpe: cpe:2.3:a:trellix:intelligent_sandbox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_sandbox
+  confidence: auto

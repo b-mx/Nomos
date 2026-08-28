@@ -1,0 +1,10 @@
+id: a320
+vendor_id: netapp
+name: A320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:a320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a320
+  confidence: auto

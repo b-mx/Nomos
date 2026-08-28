@@ -1,0 +1,10 @@
+id: fx3g-firmware
+vendor_id: mitsubishielectric
+name: Fx3G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3g_firmware
+  confidence: auto

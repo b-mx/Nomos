@@ -1,0 +1,10 @@
+id: kicker
+vendor_id: axiomthemes
+name: Kicker
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:kicker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kicker
+  confidence: auto

@@ -1,0 +1,10 @@
+id: p5010
+vendor_id: nxp
+name: P5010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:p5010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p5010
+  confidence: auto

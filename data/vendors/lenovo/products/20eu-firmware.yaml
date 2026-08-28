@@ -1,0 +1,10 @@
+id: 20eu-firmware
+vendor_id: lenovo
+name: 20Eu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:20eu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20eu_firmware
+  confidence: auto

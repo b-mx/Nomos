@@ -1,0 +1,10 @@
+id: zxcloud-irai
+vendor_id: zte
+name: Zxcloud Irai
+type: software
+tags: []
+cpe: cpe:2.3:a:zte:zxcloud_irai:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxcloud_irai
+  confidence: auto

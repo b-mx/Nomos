@@ -1,0 +1,10 @@
+id: athlon-pro-300ge
+vendor_id: amd
+name: Athlon Pro 300Ge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_pro_300ge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_pro_300ge
+  confidence: auto

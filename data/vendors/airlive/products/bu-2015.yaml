@@ -1,0 +1,10 @@
+id: bu-2015
+vendor_id: airlive
+name: Bu-2015
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airlive:bu\-2015:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bu-2015
+  confidence: auto

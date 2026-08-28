@@ -1,0 +1,10 @@
+id: coreldraw
+vendor_id: corel
+name: Coreldraw
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:coreldraw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coreldraw
+  confidence: auto

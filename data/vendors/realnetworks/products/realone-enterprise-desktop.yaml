@@ -1,0 +1,10 @@
+id: realone-enterprise-desktop
+vendor_id: realnetworks
+name: Realone Enterprise Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:realnetworks:realone_enterprise_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realone_enterprise_desktop
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mx-2010u-firmware
+vendor_id: sharp
+name: Mx-2010U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-2010u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-2010u_firmware
+  confidence: auto

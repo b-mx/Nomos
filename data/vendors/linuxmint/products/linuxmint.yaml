@@ -1,0 +1,13 @@
+id: linuxmint
+vendor_id: linuxmint
+name: Linux Mint
+type: os
+tags: []
+cpe: cpe:2.3:o:linuxmint:linuxmint:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: linuxmint
+  confidence: auto
+- source: nvd
+  value: linuxmint
+  confidence: auto

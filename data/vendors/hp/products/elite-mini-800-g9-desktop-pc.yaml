@@ -1,0 +1,10 @@
+id: elite-mini-800-g9-desktop-pc
+vendor_id: hp
+name: Elite Mini 800 G9 Desktop Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elite_mini_800_g9_desktop_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elite_mini_800_g9_desktop_pc
+  confidence: auto

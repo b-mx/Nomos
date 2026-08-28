@@ -1,0 +1,10 @@
+id: libsafe
+vendor_id: avaya
+name: Libsafe
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:libsafe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libsafe
+  confidence: auto

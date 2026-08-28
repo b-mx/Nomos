@@ -1,0 +1,10 @@
+id: air-5341-firmware
+vendor_id: airties
+name: Air 5341 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airties:air_5341_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air_5341_firmware
+  confidence: auto

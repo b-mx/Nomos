@@ -1,0 +1,10 @@
+id: album-print
+vendor_id: epson
+name: Album Print
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:album_print:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: album_print
+  confidence: auto

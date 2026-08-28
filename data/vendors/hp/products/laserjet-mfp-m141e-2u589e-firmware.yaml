@@ -1,0 +1,10 @@
+id: laserjet-mfp-m141e-2u589e-firmware
+vendor_id: hp
+name: Laserjet Mfp M141E 2U589E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_mfp_m141e_2u589e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m141e_2u589e_firmware
+  confidence: auto

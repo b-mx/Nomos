@@ -1,0 +1,10 @@
+id: image-automation-controller
+vendor_id: fluxcd
+name: Image-Automation-Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:fluxcd:image\-automation\-controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: image-automation-controller
+  confidence: auto

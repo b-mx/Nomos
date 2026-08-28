@@ -1,0 +1,10 @@
+id: network-camera-recorder
+vendor_id: panasonic
+name: Network Camera Recorder
+type: hardware
+tags: []
+cpe: cpe:2.3:h:panasonic:network_camera_recorder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_camera_recorder
+  confidence: auto

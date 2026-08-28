@@ -1,0 +1,10 @@
+id: web-application-firewall
+vendor_id: miniorange
+name: Web Application Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:web_application_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_application_firewall
+  confidence: auto

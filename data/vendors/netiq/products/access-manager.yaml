@@ -1,0 +1,10 @@
+id: access-manager
+vendor_id: netiq
+name: Access Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:netiq:access_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_manager
+  confidence: auto

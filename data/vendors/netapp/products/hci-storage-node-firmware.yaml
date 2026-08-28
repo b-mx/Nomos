@@ -1,0 +1,10 @@
+id: hci-storage-node-firmware
+vendor_id: netapp
+name: Hci Storage Node Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:hci_storage_node_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hci_storage_node_firmware
+  confidence: auto

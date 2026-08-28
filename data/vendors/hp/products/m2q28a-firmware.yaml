@@ -1,0 +1,10 @@
+id: m2q28a-firmware
+vendor_id: hp
+name: M2Q28A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:m2q28a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2q28a_firmware
+  confidence: auto

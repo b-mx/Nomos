@@ -1,0 +1,10 @@
+id: ir615-firmware
+vendor_id: inhandnetworks
+name: Ir615 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:inhandnetworks:ir615_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ir615_firmware
+  confidence: auto

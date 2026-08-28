@@ -1,0 +1,10 @@
+id: slr-120s
+vendor_id: seowonintech
+name: Slr-120S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:seowonintech:slr\-120s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slr-120s
+  confidence: auto

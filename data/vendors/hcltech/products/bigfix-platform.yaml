@@ -1,0 +1,10 @@
+id: bigfix-platform
+vendor_id: hcltech
+name: Bigfix Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bigfix_platform
+  confidence: auto

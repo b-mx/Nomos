@@ -1,0 +1,10 @@
+id: p30-pro-firmware
+vendor_id: huawei
+name: P30 Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:p30_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p30_pro_firmware
+  confidence: auto

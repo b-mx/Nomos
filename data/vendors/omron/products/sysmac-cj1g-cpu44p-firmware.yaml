@@ -1,0 +1,10 @@
+id: sysmac-cj1g-cpu44p-firmware
+vendor_id: omron
+name: Sysmac Cj1G-Cpu44P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:sysmac_cj1g\-cpu44p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cj1g-cpu44p_firmware
+  confidence: auto

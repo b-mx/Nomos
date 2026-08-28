@@ -1,0 +1,10 @@
+id: checkuser
+vendor_id: mediawiki
+name: Checkuser
+type: software
+tags: []
+cpe: cpe:2.3:a:mediawiki:checkuser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: checkuser
+  confidence: auto

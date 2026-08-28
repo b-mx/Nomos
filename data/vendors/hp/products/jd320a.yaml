@@ -1,0 +1,10 @@
+id: jd320a
+vendor_id: hp
+name: Jd320A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd320a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd320a
+  confidence: auto

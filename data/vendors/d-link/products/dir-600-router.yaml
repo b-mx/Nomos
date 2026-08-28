@@ -1,9 +1,8 @@
 id: dir-600-router
 vendor_id: d-link
 name: DIR-600 Router
-type: hardware
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: DIR-600 Router

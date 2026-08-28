@@ -1,0 +1,10 @@
+id: webpass-firmware
+vendor_id: chiyu-tech
+name: Webpass Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chiyu\-tech:webpass_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webpass_firmware
+  confidence: auto

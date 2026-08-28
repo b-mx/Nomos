@@ -1,0 +1,10 @@
+id: ax11000
+vendor_id: iptime
+name: Ax11000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:ax11000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ax11000
+  confidence: auto

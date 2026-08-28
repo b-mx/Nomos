@@ -1,0 +1,10 @@
+id: 290-g1
+vendor_id: hp
+name: 290 G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:290_g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 290_g1
+  confidence: auto

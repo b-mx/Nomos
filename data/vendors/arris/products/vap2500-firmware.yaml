@@ -1,0 +1,10 @@
+id: vap2500-firmware
+vendor_id: arris
+name: Vap2500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arris:vap2500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vap2500_firmware
+  confidence: auto

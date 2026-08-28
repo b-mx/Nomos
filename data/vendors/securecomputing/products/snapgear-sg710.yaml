@@ -1,0 +1,10 @@
+id: snapgear-sg710
+vendor_id: securecomputing
+name: Snapgear Sg710
+type: hardware
+tags: []
+cpe: cpe:2.3:h:securecomputing:snapgear_sg710:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snapgear_sg710
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ms9390-hv-firmware
+vendor_id: vivotek
+name: Ms9390-Hv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ms9390\-hv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms9390-hv_firmware
+  confidence: auto

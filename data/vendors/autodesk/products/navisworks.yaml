@@ -1,0 +1,10 @@
+id: navisworks
+vendor_id: autodesk
+name: Navisworks
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:navisworks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: navisworks
+  confidence: auto

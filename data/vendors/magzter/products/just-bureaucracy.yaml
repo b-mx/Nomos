@@ -1,0 +1,10 @@
+id: just-bureaucracy
+vendor_id: magzter
+name: Just Bureaucracy
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:just_bureaucracy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: just_bureaucracy
+  confidence: auto

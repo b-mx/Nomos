@@ -1,0 +1,10 @@
+id: lbp6650-firmware
+vendor_id: canon
+name: Lbp6650 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:lbp6650_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lbp6650_firmware
+  confidence: auto

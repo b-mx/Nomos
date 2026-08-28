@@ -1,0 +1,10 @@
+id: h500e
+vendor_id: netapp
+name: H500E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:h500e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h500e
+  confidence: auto

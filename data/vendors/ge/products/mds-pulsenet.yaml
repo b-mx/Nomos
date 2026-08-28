@@ -1,0 +1,10 @@
+id: mds-pulsenet
+vendor_id: ge
+name: Mds Pulsenet
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:mds_pulsenet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mds_pulsenet
+  confidence: auto

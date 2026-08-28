@@ -1,0 +1,10 @@
+id: ar530
+vendor_id: huawei
+name: Ar530
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar530:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar530
+  confidence: auto

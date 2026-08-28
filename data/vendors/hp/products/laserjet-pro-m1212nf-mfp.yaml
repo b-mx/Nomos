@@ -1,0 +1,10 @@
+id: laserjet-pro-m1212nf-mfp
+vendor_id: hp
+name: Laserjet Pro M1212Nf Mfp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m1212nf_mfp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m1212nf_mfp
+  confidence: auto

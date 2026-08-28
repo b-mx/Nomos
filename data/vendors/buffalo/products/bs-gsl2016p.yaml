@@ -1,0 +1,10 @@
+id: bs-gsl2016p
+vendor_id: buffalo
+name: Bs-Gsl2016P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:bs\-gsl2016p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bs-gsl2016p
+  confidence: auto

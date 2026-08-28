@@ -1,0 +1,9 @@
+id: apache-artemis
+vendor_id: apache-artemis
+name: Apache Artemis
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: apache-artemis
+  confidence: auto

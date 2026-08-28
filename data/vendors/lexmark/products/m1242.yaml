@@ -1,0 +1,10 @@
+id: m1242
+vendor_id: lexmark
+name: M1242
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:m1242:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m1242
+  confidence: auto

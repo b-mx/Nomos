@@ -1,0 +1,10 @@
+id: designjet-t930-l2y22a
+vendor_id: hp
+name: Designjet T930 L2Y22A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_t930_l2y22a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_t930_l2y22a
+  confidence: auto

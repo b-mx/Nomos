@@ -1,0 +1,10 @@
+id: zncz03lm-firmware
+vendor_id: mi
+name: Zncz03Lm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:zncz03lm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zncz03lm_firmware
+  confidence: auto

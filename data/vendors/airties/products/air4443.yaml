@@ -1,0 +1,10 @@
+id: air4443
+vendor_id: airties
+name: Air4443
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airties:air4443:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air4443
+  confidence: auto

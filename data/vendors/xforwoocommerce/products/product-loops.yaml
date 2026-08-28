@@ -1,0 +1,10 @@
+id: product-loops
+vendor_id: xforwoocommerce
+name: Product Loops
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:product_loops:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: product_loops
+  confidence: auto

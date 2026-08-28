@@ -1,0 +1,10 @@
+id: logistic-diagnostic-analytics
+vendor_id: sick
+name: Logistic Diagnostic Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:logistic_diagnostic_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logistic_diagnostic_analytics
+  confidence: auto

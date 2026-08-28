@@ -1,0 +1,10 @@
+id: md-3025
+vendor_id: airlive
+name: Md-3025
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airlive:md\-3025:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: md-3025
+  confidence: auto

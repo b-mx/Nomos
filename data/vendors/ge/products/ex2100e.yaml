@@ -1,0 +1,10 @@
+id: ex2100e
+vendor_id: ge
+name: Ex2100E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:ex2100e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex2100e
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a720r-firmware
+vendor_id: totolink
+name: A720R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:a720r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a720r_firmware
+  confidence: auto

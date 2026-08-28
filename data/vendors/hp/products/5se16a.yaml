@@ -1,0 +1,10 @@
+id: 5se16a
+vendor_id: hp
+name: 5Se16A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:5se16a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5se16a
+  confidence: auto

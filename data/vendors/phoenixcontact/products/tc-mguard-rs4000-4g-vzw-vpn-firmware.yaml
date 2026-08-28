@@ -1,0 +1,10 @@
+id: tc-mguard-rs4000-4g-vzw-vpn-firmware
+vendor_id: phoenixcontact
+name: Tc Mguard Rs4000 4G Vzw Vpn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:tc_mguard_rs4000_4g_vzw_vpn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc_mguard_rs4000_4g_vzw_vpn_firmware
+  confidence: auto

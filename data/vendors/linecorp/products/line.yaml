@@ -1,0 +1,10 @@
+id: line
+vendor_id: linecorp
+name: Line
+type: software
+tags: []
+cpe: cpe:2.3:a:linecorp:line:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: line
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ezpublish-platform
+vendor_id: ibexa
+name: Ezpublish Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:ibexa:ezpublish_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ezpublish_platform
+  confidence: auto

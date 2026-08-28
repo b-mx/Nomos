@@ -1,0 +1,10 @@
+id: intelligent-power-protector
+vendor_id: eaton
+name: Intelligent Power Protector
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:intelligent_power_protector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_power_protector
+  confidence: auto

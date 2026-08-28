@@ -1,0 +1,7 @@
+id: owasp
+name: Owasp
+cpe: cpe:2.3:*:owasp:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: owasp
+  confidence: auto

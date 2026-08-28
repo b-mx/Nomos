@@ -1,0 +1,10 @@
+id: oncommand-api-services
+vendor_id: netapp
+name: Oncommand Api Services
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:oncommand_api_services:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncommand_api_services
+  confidence: auto

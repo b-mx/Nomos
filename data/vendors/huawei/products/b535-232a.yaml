@@ -1,0 +1,10 @@
+id: b535-232a
+vendor_id: huawei
+name: B535-232A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:b535\-232a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b535-232a
+  confidence: auto

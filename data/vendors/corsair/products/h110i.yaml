@@ -1,0 +1,10 @@
+id: h110i
+vendor_id: corsair
+name: H110I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:h110i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h110i
+  confidence: auto

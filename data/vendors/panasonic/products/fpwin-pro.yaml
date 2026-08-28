@@ -1,0 +1,10 @@
+id: fpwin-pro
+vendor_id: panasonic
+name: Fpwin Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:panasonic:fpwin_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fpwin_pro
+  confidence: auto

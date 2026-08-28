@@ -1,0 +1,10 @@
+id: ideacentre-m715q-2nd-gen
+vendor_id: lenovo
+name: Ideacentre M715Q 2Nd Gen
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_m715q_2nd_gen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_m715q_2nd_gen
+  confidence: auto

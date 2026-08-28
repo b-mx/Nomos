@@ -1,0 +1,10 @@
+id: fr-a820-e-firmware
+vendor_id: mitsubishielectric
+name: Fr-A820-E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fr\-a820\-e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fr-a820-e_firmware
+  confidence: auto

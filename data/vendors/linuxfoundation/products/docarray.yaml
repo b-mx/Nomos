@@ -1,0 +1,10 @@
+id: docarray
+vendor_id: linuxfoundation
+name: Docarray
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:docarray:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docarray
+  confidence: auto

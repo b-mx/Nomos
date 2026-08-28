@@ -1,0 +1,10 @@
+id: iwr-3000n
+vendor_id: intelbras
+name: Iwr 3000N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:iwr_3000n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iwr_3000n
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flex-system-fabric-si4093-10gb-system-interconnect-module
+vendor_id: lenovo
+name: Flex System Fabric Si4093 10Gb System Interconnect Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:flex_system_fabric_si4093_10gb_system_interconnect_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_system_fabric_si4093_10gb_system_interconnect_module
+  confidence: auto

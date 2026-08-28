@@ -1,0 +1,14 @@
+id: couchbase-server
+vendor_id: couchbase
+name: Couchbase Server
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:couchbase:couchbase_server:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: couchbase-server
+  confidence: auto
+- source: nvd
+  value: couchbase_server
+  confidence: auto

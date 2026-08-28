@@ -1,0 +1,10 @@
+id: tvip-20050
+vendor_id: abus
+name: Tvip 20050
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abus:tvip_20050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_20050
+  confidence: auto

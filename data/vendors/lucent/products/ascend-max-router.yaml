@@ -1,0 +1,10 @@
+id: ascend-max-router
+vendor_id: lucent
+name: Ascend Max Router
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lucent:ascend_max_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ascend_max_router
+  confidence: auto

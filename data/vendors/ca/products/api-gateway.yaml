@@ -1,0 +1,10 @@
+id: api-gateway
+vendor_id: ca
+name: Api Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:ca:api_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: api_gateway
+  confidence: auto

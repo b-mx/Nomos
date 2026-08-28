@@ -1,0 +1,10 @@
+id: volcano
+vendor_id: linuxfoundation
+name: Volcano
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:volcano:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: volcano
+  confidence: auto

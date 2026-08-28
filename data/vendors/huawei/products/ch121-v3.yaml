@@ -1,0 +1,10 @@
+id: ch121-v3
+vendor_id: huawei
+name: Ch121 V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ch121_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ch121_v3
+  confidence: auto

@@ -1,0 +1,10 @@
+id: alm-synchronizer
+vendor_id: hp
+name: Alm Synchronizer
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:alm_synchronizer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alm_synchronizer
+  confidence: auto

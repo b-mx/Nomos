@@ -1,0 +1,10 @@
+id: ve6046
+vendor_id: emerson
+name: Ve6046
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:ve6046:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ve6046
+  confidence: auto

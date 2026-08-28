@@ -1,0 +1,10 @@
+id: xiaomi-lamp-1-firmware
+vendor_id: mi
+name: Xiaomi Lamp 1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:xiaomi_lamp_1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaomi_lamp_1_firmware
+  confidence: auto

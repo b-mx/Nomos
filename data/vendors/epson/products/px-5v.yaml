@@ -1,0 +1,10 @@
+id: px-5v
+vendor_id: epson
+name: Px-5V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-5v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-5v
+  confidence: auto

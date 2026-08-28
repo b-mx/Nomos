@@ -1,0 +1,10 @@
+id: transport-vc74
+vendor_id: digi
+name: Transport Vc74
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:transport_vc74:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: transport_vc74
+  confidence: auto

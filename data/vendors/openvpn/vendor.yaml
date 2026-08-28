@@ -1,0 +1,6 @@
+id: openvpn
+name: OpenVPN
+aliases:
+- source: endoflife
+  value: openvpn
+  confidence: auto

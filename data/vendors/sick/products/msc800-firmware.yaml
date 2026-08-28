@@ -1,0 +1,10 @@
+id: msc800-firmware
+vendor_id: sick
+name: Msc800 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:msc800_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msc800_firmware
+  confidence: auto

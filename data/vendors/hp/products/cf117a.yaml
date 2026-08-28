@@ -1,0 +1,10 @@
+id: cf117a
+vendor_id: hp
+name: Cf117A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cf117a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf117a
+  confidence: auto

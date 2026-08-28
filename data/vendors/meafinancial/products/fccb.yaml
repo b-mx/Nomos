@@ -1,0 +1,10 @@
+id: fccb
+vendor_id: meafinancial
+name: Fccb
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:fccb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fccb
+  confidence: auto

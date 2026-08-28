@@ -1,0 +1,10 @@
+id: k7v35
+vendor_id: hp
+name: K7V35
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k7v35:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7v35
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rx3i-cpl410
+vendor_id: emerson
+name: Rx3I Cpl410
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:rx3i_cpl410:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx3i_cpl410
+  confidence: auto

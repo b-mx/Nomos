@@ -1,0 +1,10 @@
+id: integration-technologies
+vendor_id: sas
+name: Integration Technologies
+type: software
+tags: []
+cpe: cpe:2.3:a:sas:integration_technologies:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integration_technologies
+  confidence: auto

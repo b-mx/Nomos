@@ -1,0 +1,10 @@
+id: ne20e-x6
+vendor_id: huawei
+name: Ne20E-X6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ne20e\-x6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ne20e-x6
+  confidence: auto

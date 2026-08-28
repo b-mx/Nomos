@@ -1,0 +1,9 @@
+id: ghc
+vendor_id: ghc
+name: Glasgow Haskell Compiler (GHC)
+type: library
+tags: []
+aliases:
+- source: endoflife
+  value: ghc
+  confidence: auto

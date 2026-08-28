@@ -1,0 +1,13 @@
+id: sourcegraph
+vendor_id: sourcegraph
+name: Sourcegraph
+type: software
+tags: []
+cpe: cpe:2.3:a:sourcegraph:sourcegraph:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: sourcegraph
+  confidence: auto
+- source: nvd
+  value: sourcegraph
+  confidence: auto

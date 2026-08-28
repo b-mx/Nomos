@@ -1,0 +1,10 @@
+id: ccu3
+vendor_id: eq-3
+name: Ccu3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:eq\-3:ccu3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ccu3
+  confidence: auto

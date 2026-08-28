@@ -1,0 +1,10 @@
+id: envy-15m-dr1xxx-x360-validity-fps
+vendor_id: hp
+name: Envy 15M-Dr1Xxx X360 (Validity Fps)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_15m\-dr1xxx_x360_\(validity_fps\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_15m-dr1xxx_x360_(validity_fps)
+  confidence: auto

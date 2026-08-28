@@ -1,0 +1,10 @@
+id: jg252a
+vendor_id: hp
+name: Jg252A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg252a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg252a
+  confidence: auto

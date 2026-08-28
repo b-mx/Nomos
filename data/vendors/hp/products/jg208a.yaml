@@ -1,0 +1,10 @@
+id: jg208a
+vendor_id: hp
+name: Jg208A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg208a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg208a
+  confidence: auto

@@ -1,0 +1,9 @@
+id: nutanix-files
+vendor_id: nutanix-files
+name: Nutanix Files
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: nutanix-files
+  confidence: auto

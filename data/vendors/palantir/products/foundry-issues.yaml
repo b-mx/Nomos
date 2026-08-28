@@ -1,0 +1,10 @@
+id: foundry-issues
+vendor_id: palantir
+name: Foundry Issues
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:foundry_issues:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foundry_issues
+  confidence: auto

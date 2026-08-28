@@ -1,0 +1,10 @@
+id: mojarra
+vendor_id: eclipse
+name: Mojarra
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:mojarra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mojarra
+  confidence: auto

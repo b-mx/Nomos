@@ -1,0 +1,7 @@
+id: freedesktop
+name: Freedesktop
+cpe: cpe:2.3:*:freedesktop:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: freedesktop
+  confidence: auto

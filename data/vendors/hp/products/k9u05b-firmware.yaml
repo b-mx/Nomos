@@ -1,0 +1,10 @@
+id: k9u05b-firmware
+vendor_id: hp
+name: K9U05B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:k9u05b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k9u05b_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: r16cpu-firmware
+vendor_id: mitsubishielectric
+name: R16Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:r16cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r16cpu_firmware
+  confidence: auto

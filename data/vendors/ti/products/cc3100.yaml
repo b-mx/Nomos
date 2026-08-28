@@ -1,0 +1,10 @@
+id: cc3100
+vendor_id: ti
+name: Cc3100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:cc3100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc3100
+  confidence: auto

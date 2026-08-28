@@ -1,0 +1,10 @@
+id: teczonebend
+vendor_id: trumpf
+name: Teczonebend
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:teczonebend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: teczonebend
+  confidence: auto

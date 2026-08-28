@@ -1,0 +1,10 @@
+id: kdl-32r500c
+vendor_id: sony
+name: Kdl-32R500C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:kdl\-32r500c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kdl-32r500c
+  confidence: auto

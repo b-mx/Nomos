@@ -1,0 +1,10 @@
+id: laserjet-pro-400-m401-cf270a
+vendor_id: hp
+name: Laserjet Pro 400 M401 Cf270A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_400_m401_cf270a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_400_m401_cf270a
+  confidence: auto

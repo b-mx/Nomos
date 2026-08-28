@@ -1,0 +1,10 @@
+id: stm32l476je
+vendor_id: st
+name: Stm32L476Je
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l476je:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l476je
+  confidence: auto

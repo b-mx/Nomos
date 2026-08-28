@@ -1,0 +1,10 @@
+id: spring-framework
+vendor_id: spring-framework
+name: Spring Framework
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: spring-framework
+  confidence: auto

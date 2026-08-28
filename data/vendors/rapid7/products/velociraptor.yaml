@@ -1,0 +1,10 @@
+id: velociraptor
+vendor_id: rapid7
+name: Velociraptor
+type: software
+tags: []
+cpe: cpe:2.3:a:rapid7:velociraptor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: velociraptor
+  confidence: auto

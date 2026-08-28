@@ -1,0 +1,10 @@
+id: invoices
+vendor_id: easydigitaldownloads
+name: Invoices
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:invoices:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: invoices
+  confidence: auto

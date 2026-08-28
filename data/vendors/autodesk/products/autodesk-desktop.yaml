@@ -1,0 +1,10 @@
+id: autodesk-desktop
+vendor_id: autodesk
+name: Autodesk Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autodesk_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autodesk_desktop
+  confidence: auto

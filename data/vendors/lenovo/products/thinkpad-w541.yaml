@@ -1,0 +1,10 @@
+id: thinkpad-w541
+vendor_id: lenovo
+name: Thinkpad W541
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_w541:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_w541
+  confidence: auto

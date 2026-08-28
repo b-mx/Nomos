@@ -1,0 +1,10 @@
+id: plc-winproladder-firmware
+vendor_id: fatek
+name: Plc Winproladder Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fatek:plc_winproladder_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plc_winproladder_firmware
+  confidence: auto

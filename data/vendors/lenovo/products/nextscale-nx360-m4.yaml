@@ -1,0 +1,10 @@
+id: nextscale-nx360-m4
+vendor_id: lenovo
+name: Nextscale Nx360 M4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:nextscale_nx360_m4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextscale_nx360_m4
+  confidence: auto

@@ -1,0 +1,10 @@
+id: discovery-xr656-g2
+vendor_id: gehealthcare
+name: Discovery Xr656 G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:discovery_xr656_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_xr656_g2
+  confidence: auto

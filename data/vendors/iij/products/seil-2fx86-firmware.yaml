@@ -1,0 +1,10 @@
+id: seil-2fx86-firmware
+vendor_id: iij
+name: Seil%2Fx86 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iij:seil\%2fx86_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil%2fx86_firmware
+  confidence: auto

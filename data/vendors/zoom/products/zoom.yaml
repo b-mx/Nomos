@@ -1,0 +1,10 @@
+id: zoom
+vendor_id: zoom
+name: Zoom
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:zoom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zoom
+  confidence: auto

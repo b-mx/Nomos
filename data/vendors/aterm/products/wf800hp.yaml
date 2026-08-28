@@ -1,0 +1,10 @@
+id: wf800hp
+vendor_id: aterm
+name: Wf800Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aterm:wf800hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wf800hp
+  confidence: auto

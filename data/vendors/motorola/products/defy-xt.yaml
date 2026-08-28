@@ -1,0 +1,10 @@
+id: defy-xt
+vendor_id: motorola
+name: Defy Xt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:defy_xt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: defy_xt
+  confidence: auto

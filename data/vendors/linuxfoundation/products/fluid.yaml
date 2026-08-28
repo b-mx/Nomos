@@ -1,0 +1,10 @@
+id: fluid
+vendor_id: linuxfoundation
+name: Fluid
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:fluid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fluid
+  confidence: auto

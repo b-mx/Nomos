@@ -1,0 +1,10 @@
+id: 340-g3-firmware
+vendor_id: hp
+name: 340 G3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:340_g3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 340_g3_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: d3q20b-firmware
+vendor_id: hp
+name: D3Q20B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:d3q20b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d3q20b_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ntl-ip05-3mp
+vendor_id: neutron
+name: Ntl-Ip05-3Mp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:neutron:ntl\-ip05\-3mp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ntl-ip05-3mp
+  confidence: auto

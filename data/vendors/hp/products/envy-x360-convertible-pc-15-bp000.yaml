@@ -1,0 +1,10 @@
+id: envy-x360-convertible-pc-15-bp000
+vendor_id: hp
+name: Envy X360 Convertible Pc 15-Bp000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_x360_convertible_pc_15\-bp000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_x360_convertible_pc_15-bp000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tremor
+vendor_id: linuxfoundation
+name: Tremor
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:tremor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tremor
+  confidence: auto

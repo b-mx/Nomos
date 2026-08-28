@@ -1,0 +1,10 @@
+id: go-ipfs
+vendor_id: protocol
+name: Go-Ipfs
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:go\-ipfs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go-ipfs
+  confidence: auto

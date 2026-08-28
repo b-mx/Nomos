@@ -1,0 +1,10 @@
+id: crystal-enterprise
+vendor_id: businessobjects
+name: Crystal Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:businessobjects:crystal_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crystal_enterprise
+  confidence: auto

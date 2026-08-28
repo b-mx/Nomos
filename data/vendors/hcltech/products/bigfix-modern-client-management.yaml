@@ -1,0 +1,10 @@
+id: bigfix-modern-client-management
+vendor_id: hcltech
+name: Bigfix Modern Client Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:bigfix_modern_client_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bigfix_modern_client_management
+  confidence: auto

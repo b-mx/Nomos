@@ -1,0 +1,10 @@
+id: e4w43
+vendor_id: hp
+name: E4W43
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:e4w43:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e4w43
+  confidence: auto

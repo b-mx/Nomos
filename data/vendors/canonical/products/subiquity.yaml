@@ -1,0 +1,10 @@
+id: subiquity
+vendor_id: canonical
+name: Subiquity
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:subiquity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: subiquity
+  confidence: auto

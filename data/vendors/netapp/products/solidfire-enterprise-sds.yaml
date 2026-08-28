@@ -1,0 +1,10 @@
+id: solidfire-enterprise-sds
+vendor_id: netapp
+name: Solidfire Enterprise Sds
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:solidfire_enterprise_sds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solidfire_enterprise_sds
+  confidence: auto

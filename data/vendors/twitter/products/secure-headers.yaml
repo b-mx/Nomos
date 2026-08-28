@@ -1,0 +1,10 @@
+id: secure-headers
+vendor_id: twitter
+name: Secure Headers
+type: software
+tags: []
+cpe: cpe:2.3:a:twitter:secure_headers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_headers
+  confidence: auto

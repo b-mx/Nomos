@@ -1,0 +1,10 @@
+id: baxter-spectrum-iq-35700bax3-firmware
+vendor_id: baxter
+name: Baxter Spectrum Iq 35700Bax3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baxter:baxter_spectrum_iq_35700bax3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baxter_spectrum_iq_35700bax3_firmware
+  confidence: auto

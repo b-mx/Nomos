@@ -1,0 +1,10 @@
+id: nshield-connect-xc-high
+vendor_id: entrust
+name: Nshield Connect Xc High
+type: hardware
+tags: []
+cpe: cpe:2.3:h:entrust:nshield_connect_xc_high:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nshield_connect_xc_high
+  confidence: auto

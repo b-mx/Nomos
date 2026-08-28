@@ -1,0 +1,10 @@
+id: iomega-ez-media-backup-center
+vendor_id: lenovo
+name: Iomega Ez Media & Backup Center
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:iomega_ez_media_\&_backup_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iomega_ez_media_&_backup_center
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zhaoyang-e43-80-kbl
+vendor_id: lenovo
+name: Zhaoyang E43-80 Kbl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:zhaoyang_e43\-80_kbl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhaoyang_e43-80_kbl
+  confidence: auto

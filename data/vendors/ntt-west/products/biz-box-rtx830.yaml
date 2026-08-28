@@ -1,0 +1,10 @@
+id: biz-box-rtx830
+vendor_id: ntt-west
+name: Biz Box Rtx830
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-west:biz_box_rtx830:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biz_box_rtx830
+  confidence: auto

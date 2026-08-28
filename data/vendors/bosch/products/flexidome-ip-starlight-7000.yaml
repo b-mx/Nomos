@@ -1,0 +1,10 @@
+id: flexidome-ip-starlight-7000
+vendor_id: bosch
+name: Flexidome Ip Starlight 7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_ip_starlight_7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_ip_starlight_7000
+  confidence: auto

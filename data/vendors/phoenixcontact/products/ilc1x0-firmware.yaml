@@ -1,0 +1,10 @@
+id: ilc1x0-firmware
+vendor_id: phoenixcontact
+name: Ilc1X0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:ilc1x0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilc1x0_firmware
+  confidence: auto

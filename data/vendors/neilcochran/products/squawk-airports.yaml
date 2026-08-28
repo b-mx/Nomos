@@ -1,0 +1,10 @@
+id: squawk-airports
+vendor_id: neilcochran
+name: Squawk/Airports
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/airports:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/airports
+  confidence: auto

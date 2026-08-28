@@ -1,0 +1,10 @@
+id: jhotelreservation
+vendor_id: cmsjunkie
+name: Jhotelreservation
+type: software
+tags: []
+cpe: cpe:2.3:a:cmsjunkie:jhotelreservation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jhotelreservation
+  confidence: auto

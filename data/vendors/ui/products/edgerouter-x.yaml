@@ -1,0 +1,10 @@
+id: edgerouter-x
+vendor_id: ui
+name: Edgerouter X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:edgerouter_x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgerouter_x
+  confidence: auto

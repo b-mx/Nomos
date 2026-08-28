@@ -1,0 +1,10 @@
+id: dabman-i30-stereo
+vendor_id: telestar
+name: Dabman I30 Stereo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:telestar:dabman_i30_stereo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dabman_i30_stereo
+  confidence: auto

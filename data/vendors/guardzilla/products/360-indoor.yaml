@@ -1,0 +1,10 @@
+id: 360-indoor
+vendor_id: guardzilla
+name: 360 Indoor
+type: hardware
+tags: []
+cpe: cpe:2.3:h:guardzilla:360_indoor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 360_indoor
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ait-gui
+vendor_id: nasa
+name: Ait Gui
+type: software
+tags: []
+cpe: cpe:2.3:a:nasa:ait_gui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ait_gui
+  confidence: auto

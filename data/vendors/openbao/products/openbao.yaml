@@ -1,0 +1,9 @@
+id: openbao
+vendor_id: openbao
+name: OpenBao
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: openbao
+  confidence: auto

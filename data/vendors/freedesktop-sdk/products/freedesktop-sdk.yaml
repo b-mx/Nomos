@@ -1,0 +1,10 @@
+id: freedesktop-sdk
+vendor_id: freedesktop-sdk
+name: Freedesktop SDK
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: freedesktop-sdk
+  confidence: auto

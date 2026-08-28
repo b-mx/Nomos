@@ -1,0 +1,10 @@
+id: nz2ft-mt
+vendor_id: mitsubishielectric
+name: Nz2Ft-Mt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:nz2ft\-mt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nz2ft-mt
+  confidence: auto

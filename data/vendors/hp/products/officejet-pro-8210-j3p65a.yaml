@@ -1,0 +1,10 @@
+id: officejet-pro-8210-j3p65a
+vendor_id: hp
+name: Officejet Pro 8210 J3P65A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_8210_j3p65a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_8210_j3p65a
+  confidence: auto

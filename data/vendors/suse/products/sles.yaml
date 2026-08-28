@@ -1,0 +1,12 @@
+id: sles
+vendor_id: suse
+name: SUSE Linux Enterprise Server
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: sles
+  confidence: auto
+- source: nvd
+  value: sles
+  confidence: auto

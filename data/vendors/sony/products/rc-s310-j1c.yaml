@@ -1,0 +1,10 @@
+id: rc-s310-j1c
+vendor_id: sony
+name: Rc-S310/J1C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:rc\-s310\/j1c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rc-s310/j1c
+  confidence: auto

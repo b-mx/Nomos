@@ -1,0 +1,10 @@
+id: kubeedge
+vendor_id: linuxfoundation
+name: Kubeedge
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:kubeedge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kubeedge
+  confidence: auto

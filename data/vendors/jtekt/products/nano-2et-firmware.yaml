@@ -1,0 +1,10 @@
+id: nano-2et-firmware
+vendor_id: jtekt
+name: Nano 2Et Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:nano_2et_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nano_2et_firmware
+  confidence: auto

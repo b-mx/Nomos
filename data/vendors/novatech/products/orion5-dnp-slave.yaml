@@ -1,0 +1,10 @@
+id: orion5-dnp-slave
+vendor_id: novatech
+name: Orion5 Dnp Slave
+type: hardware
+tags: []
+cpe: cpe:2.3:h:novatech:orion5_dnp_slave:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: orion5_dnp_slave
+  confidence: auto

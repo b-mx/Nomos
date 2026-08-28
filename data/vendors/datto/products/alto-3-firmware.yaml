@@ -1,0 +1,10 @@
+id: alto-3-firmware
+vendor_id: datto
+name: Alto 3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:datto:alto_3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alto_3_firmware
+  confidence: auto

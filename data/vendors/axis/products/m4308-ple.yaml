@@ -1,0 +1,10 @@
+id: m4308-ple
+vendor_id: axis
+name: M4308-Ple
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m4308\-ple:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m4308-ple
+  confidence: auto

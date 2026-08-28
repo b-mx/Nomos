@@ -1,0 +1,10 @@
+id: rt200i
+vendor_id: yamaha
+name: Rt200I
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rt200i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt200i
+  confidence: auto

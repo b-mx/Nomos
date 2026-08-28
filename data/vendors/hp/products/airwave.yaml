@@ -1,0 +1,10 @@
+id: airwave
+vendor_id: hp
+name: Airwave
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:airwave:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airwave
+  confidence: auto

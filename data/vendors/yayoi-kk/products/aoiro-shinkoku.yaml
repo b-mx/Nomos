@@ -1,0 +1,10 @@
+id: aoiro-shinkoku
+vendor_id: yayoi-kk
+name: Aoiro Shinkoku
+type: software
+tags: []
+cpe: cpe:2.3:a:yayoi\-kk:aoiro_shinkoku:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aoiro_shinkoku
+  confidence: auto

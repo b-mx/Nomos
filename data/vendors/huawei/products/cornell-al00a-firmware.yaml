@@ -1,0 +1,10 @@
+id: cornell-al00a-firmware
+vendor_id: huawei
+name: Cornell-Al00A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:cornell\-al00a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cornell-al00a_firmware
+  confidence: auto

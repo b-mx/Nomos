@@ -1,0 +1,10 @@
+id: discotoc
+vendor_id: discourse
+name: Discotoc
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:discotoc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discotoc
+  confidence: auto

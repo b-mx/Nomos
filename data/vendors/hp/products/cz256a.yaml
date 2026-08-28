@@ -1,0 +1,10 @@
+id: cz256a
+vendor_id: hp
+name: Cz256A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz256a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz256a
+  confidence: auto

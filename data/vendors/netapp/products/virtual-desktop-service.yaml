@@ -1,0 +1,10 @@
+id: virtual-desktop-service
+vendor_id: netapp
+name: Virtual Desktop Service
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:virtual_desktop_service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_desktop_service
+  confidence: auto

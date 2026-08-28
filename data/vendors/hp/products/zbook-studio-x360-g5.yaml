@@ -1,0 +1,10 @@
+id: zbook-studio-x360-g5
+vendor_id: hp
+name: Zbook Studio X360 G5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_studio_x360_g5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_studio_x360_g5
+  confidence: auto

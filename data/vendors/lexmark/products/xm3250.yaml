@@ -1,0 +1,10 @@
+id: xm3250
+vendor_id: lexmark
+name: Xm3250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xm3250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm3250
+  confidence: auto

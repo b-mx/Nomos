@@ -1,0 +1,10 @@
+id: visitors-online
+vendor_id: bestwebsoft
+name: Visitors Online
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:visitors_online:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visitors_online
+  confidence: auto

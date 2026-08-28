@@ -1,0 +1,10 @@
+id: sg208
+vendor_id: avaya
+name: Sg208
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:sg208:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg208
+  confidence: auto

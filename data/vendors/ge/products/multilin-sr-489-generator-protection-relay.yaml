@@ -1,0 +1,10 @@
+id: multilin-sr-489-generator-protection-relay
+vendor_id: ge
+name: Multilin Sr 489 Generator Protection Relay
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:multilin_sr_489_generator_protection_relay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_sr_489_generator_protection_relay
+  confidence: auto

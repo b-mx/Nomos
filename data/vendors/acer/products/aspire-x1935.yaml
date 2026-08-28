@@ -1,0 +1,10 @@
+id: aspire-x1935
+vendor_id: acer
+name: Aspire X1935
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_x1935:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_x1935
+  confidence: auto

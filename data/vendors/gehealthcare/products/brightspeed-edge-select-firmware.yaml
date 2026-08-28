@@ -1,0 +1,10 @@
+id: brightspeed-edge-select-firmware
+vendor_id: gehealthcare
+name: Brightspeed Edge Select Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:brightspeed_edge_select_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brightspeed_edge_select_firmware
+  confidence: auto

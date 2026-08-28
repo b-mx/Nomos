@@ -1,0 +1,10 @@
+id: wp-remote-site-search
+vendor_id: brainstormforce
+name: Wp Remote Site Search
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:wp_remote_site_search:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_remote_site_search
+  confidence: auto

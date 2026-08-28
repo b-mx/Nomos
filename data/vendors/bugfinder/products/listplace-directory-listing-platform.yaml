@@ -1,0 +1,10 @@
+id: listplace-directory-listing-platform
+vendor_id: bugfinder
+name: Listplace Directory Listing Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:bugfinder:listplace_directory_listing_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: listplace_directory_listing_platform
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nessus-amazon-machine-image
+vendor_id: tenable
+name: Nessus Amazon Machine Image
+type: os
+tags: []
+cpe: cpe:2.3:o:tenable:nessus_amazon_machine_image:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nessus_amazon_machine_image
+  confidence: auto

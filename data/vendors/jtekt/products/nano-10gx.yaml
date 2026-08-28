@@ -1,0 +1,10 @@
+id: nano-10gx
+vendor_id: jtekt
+name: Nano 10Gx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:nano_10gx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nano_10gx
+  confidence: auto

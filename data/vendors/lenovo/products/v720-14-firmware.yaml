@@ -1,0 +1,10 @@
+id: v720-14-firmware
+vendor_id: lenovo
+name: V720-14 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v720\-14_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v720-14_firmware
+  confidence: auto

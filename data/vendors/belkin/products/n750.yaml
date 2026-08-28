@@ -1,0 +1,10 @@
+id: n750
+vendor_id: belkin
+name: N750
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belkin:n750:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n750
+  confidence: auto

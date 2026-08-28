@@ -1,0 +1,10 @@
+id: centum-cs-1000-software
+vendor_id: yokogawa
+name: Centum Cs 1000 Software
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:centum_cs_1000_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centum_cs_1000_software
+  confidence: auto

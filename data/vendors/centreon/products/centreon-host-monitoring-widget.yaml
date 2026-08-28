@@ -1,0 +1,10 @@
+id: centreon-host-monitoring-widget
+vendor_id: centreon
+name: Centreon Host-Monitoring Widget
+type: software
+tags: []
+cpe: cpe:2.3:a:centreon:centreon_host\-monitoring_widget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centreon_host-monitoring_widget
+  confidence: auto

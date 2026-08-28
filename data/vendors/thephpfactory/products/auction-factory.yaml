@@ -1,0 +1,10 @@
+id: auction-factory
+vendor_id: thephpfactory
+name: Auction Factory
+type: software
+tags: []
+cpe: cpe:2.3:a:thephpfactory:auction_factory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: auction_factory
+  confidence: auto

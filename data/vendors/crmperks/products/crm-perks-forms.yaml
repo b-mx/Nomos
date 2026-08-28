@@ -1,0 +1,10 @@
+id: crm-perks-forms
+vendor_id: crmperks
+name: Crm Perks Forms
+type: software
+tags: []
+cpe: cpe:2.3:a:crmperks:crm_perks_forms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crm_perks_forms
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 8-20q-fibre-channel-switch-8-port
+vendor_id: hp
+name: 8/20Q Fibre Channel Switch 8 Port
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:8\/20q_fibre_channel_switch_8_port:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 8/20q_fibre_channel_switch_8_port
+  confidence: auto

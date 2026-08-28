@@ -1,0 +1,10 @@
+id: stm32f071rb
+vendor_id: st
+name: Stm32F071Rb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32f071rb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f071rb
+  confidence: auto

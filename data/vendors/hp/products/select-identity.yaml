@@ -1,0 +1,10 @@
+id: select-identity
+vendor_id: hp
+name: Select Identity
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:select_identity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: select_identity
+  confidence: auto

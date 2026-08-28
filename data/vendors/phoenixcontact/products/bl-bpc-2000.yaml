@@ -1,0 +1,10 @@
+id: bl-bpc-2000
+vendor_id: phoenixcontact
+name: Bl Bpc 2000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:bl_bpc_2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl_bpc_2000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kate
+vendor_id: kde
+name: Kate
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kate
+  confidence: auto

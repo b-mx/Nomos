@@ -1,0 +1,10 @@
+id: eds-g512e-firmware
+vendor_id: moxa
+name: Eds-G512E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:eds\-g512e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eds-g512e_firmware
+  confidence: auto

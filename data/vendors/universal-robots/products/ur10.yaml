@@ -1,0 +1,10 @@
+id: ur10
+vendor_id: universal-robots
+name: Ur10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:universal\-robots:ur10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ur10
+  confidence: auto

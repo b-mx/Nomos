@@ -1,0 +1,10 @@
+id: apeos-c8180
+vendor_id: fujifilm
+name: Apeos C8180
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_c8180:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_c8180
+  confidence: auto

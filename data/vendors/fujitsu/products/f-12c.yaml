@@ -1,0 +1,10 @@
+id: f-12c
+vendor_id: fujitsu
+name: F-12C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:f\-12c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f-12c
+  confidence: auto

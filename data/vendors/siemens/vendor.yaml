@@ -1,7 +1,6 @@
 id: siemens
 name: Siemens
-icon: thesvg-color:siemens
 aliases:
 - source: cisa_kev
   value: Siemens
-  confidence: curated
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xiaoxinair13ikbpro-firmware
+vendor_id: hp
+name: Xiaoxinair13Ikbpro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:xiaoxinair13ikbpro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaoxinair13ikbpro_firmware
+  confidence: auto

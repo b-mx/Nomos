@@ -1,0 +1,10 @@
+id: protect
+vendor_id: blackberry
+name: Protect
+type: software
+tags: []
+cpe: cpe:2.3:a:blackberry:protect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protect
+  confidence: auto

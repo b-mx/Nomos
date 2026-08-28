@@ -1,0 +1,10 @@
+id: wag200g
+vendor_id: linksys
+name: Wag200G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wag200g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wag200g
+  confidence: auto

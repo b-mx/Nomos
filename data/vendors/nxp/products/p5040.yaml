@@ -1,0 +1,10 @@
+id: p5040
+vendor_id: nxp
+name: P5040
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:p5040:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p5040
+  confidence: auto

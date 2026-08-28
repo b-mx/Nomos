@@ -1,0 +1,10 @@
+id: senographe-pristina
+vendor_id: gehealthcare
+name: Senographe Pristina
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:senographe_pristina:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: senographe_pristina
+  confidence: auto

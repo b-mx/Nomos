@@ -1,0 +1,10 @@
+id: stampede-fx-1010-firmware
+vendor_id: comtech
+name: Stampede Fx-1010 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:comtech:stampede_fx\-1010_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stampede_fx-1010_firmware
+  confidence: auto

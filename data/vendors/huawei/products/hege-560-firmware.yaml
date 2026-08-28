@@ -1,0 +1,10 @@
+id: hege-560-firmware
+vendor_id: huawei
+name: Hege-560 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:hege\-560_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hege-560_firmware
+  confidence: auto

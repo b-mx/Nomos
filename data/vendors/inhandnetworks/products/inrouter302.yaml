@@ -1,0 +1,10 @@
+id: inrouter302
+vendor_id: inhandnetworks
+name: Inrouter302
+type: hardware
+tags: []
+cpe: cpe:2.3:h:inhandnetworks:inrouter302:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inrouter302
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wp-image-slideshow
+vendor_id: gopiplus
+name: Wp Image Slideshow
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:wp_image_slideshow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_image_slideshow
+  confidence: auto

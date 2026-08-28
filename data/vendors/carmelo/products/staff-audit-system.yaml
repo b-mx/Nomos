@@ -1,0 +1,10 @@
+id: staff-audit-system
+vendor_id: carmelo
+name: Staff Audit System
+type: software
+tags: []
+cpe: cpe:2.3:a:carmelo:staff_audit_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: staff_audit_system
+  confidence: auto

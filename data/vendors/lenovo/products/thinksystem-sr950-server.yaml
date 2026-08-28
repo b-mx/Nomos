@@ -1,0 +1,10 @@
+id: thinksystem-sr950-server
+vendor_id: lenovo
+name: Thinksystem Sr950 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinksystem_sr950_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_sr950_server
+  confidence: auto

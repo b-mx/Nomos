@@ -1,0 +1,10 @@
+id: versalink-b615
+vendor_id: xerox
+name: Versalink B615
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:versalink_b615:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: versalink_b615
+  confidence: auto

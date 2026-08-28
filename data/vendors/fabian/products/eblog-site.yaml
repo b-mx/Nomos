@@ -1,0 +1,10 @@
+id: eblog-site
+vendor_id: fabian
+name: Eblog Site
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:eblog_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eblog_site
+  confidence: auto

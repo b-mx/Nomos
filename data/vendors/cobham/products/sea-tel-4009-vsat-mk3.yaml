@@ -1,0 +1,10 @@
+id: sea-tel-4009-vsat-mk3
+vendor_id: cobham
+name: Sea Tel 4009 Vsat Mk3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cobham:sea_tel_4009_vsat_mk3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sea_tel_4009_vsat_mk3
+  confidence: auto

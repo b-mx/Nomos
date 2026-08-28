@@ -1,0 +1,10 @@
+id: pdf
+vendor_id: irfanview
+name: Pdf
+type: software
+tags: []
+cpe: cpe:2.3:a:irfanview:pdf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdf
+  confidence: auto

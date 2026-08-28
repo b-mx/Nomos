@@ -1,0 +1,10 @@
+id: k32-80-kbl-firmware
+vendor_id: lenovo
+name: K32-80 Kbl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:k32\-80_kbl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k32-80_kbl_firmware
+  confidence: auto

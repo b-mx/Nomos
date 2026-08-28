@@ -1,0 +1,10 @@
+id: mfc-l5700dn
+vendor_id: brother
+name: Mfc-L5700Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-l5700dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-l5700dn
+  confidence: auto

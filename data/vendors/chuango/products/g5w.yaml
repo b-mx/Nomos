@@ -1,0 +1,10 @@
+id: g5w
+vendor_id: chuango
+name: G5W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chuango:g5w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g5w
+  confidence: auto

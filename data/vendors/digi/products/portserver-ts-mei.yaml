@@ -1,0 +1,10 @@
+id: portserver-ts-mei
+vendor_id: digi
+name: Portserver Ts Mei
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:portserver_ts_mei:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portserver_ts_mei
+  confidence: auto

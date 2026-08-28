@@ -1,0 +1,10 @@
+id: backup-agent
+vendor_id: datto
+name: Backup Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:datto:backup_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backup_agent
+  confidence: auto

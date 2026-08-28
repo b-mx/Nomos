@@ -1,0 +1,10 @@
+id: plk
+vendor_id: huawei
+name: Plk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:plk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ingress-nginx
+vendor_id: kubernetes
+name: Ingress-Nginx
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:ingress\-nginx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ingress-nginx
+  confidence: auto

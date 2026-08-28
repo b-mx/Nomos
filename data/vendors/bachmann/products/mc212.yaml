@@ -1,0 +1,10 @@
+id: mc212
+vendor_id: bachmann
+name: Mc212
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mc212:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc212
+  confidence: auto

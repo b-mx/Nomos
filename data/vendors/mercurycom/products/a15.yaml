@@ -1,0 +1,10 @@
+id: a15
+vendor_id: mercurycom
+name: A15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mercurycom:a15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a15
+  confidence: auto

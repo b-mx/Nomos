@@ -1,0 +1,10 @@
+id: glpi-inventory
+vendor_id: glpi-project
+name: Glpi Inventory
+type: software
+tags: []
+cpe: cpe:2.3:a:glpi\-project:glpi_inventory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: glpi_inventory
+  confidence: auto

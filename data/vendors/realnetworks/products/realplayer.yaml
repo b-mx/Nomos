@@ -1,0 +1,10 @@
+id: realplayer
+vendor_id: realnetworks
+name: Realplayer
+type: software
+tags: []
+cpe: cpe:2.3:a:realnetworks:realplayer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realplayer
+  confidence: auto

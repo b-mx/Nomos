@@ -1,0 +1,10 @@
+id: authentication-client
+vendor_id: rsa
+name: Authentication Client
+type: software
+tags: []
+cpe: cpe:2.3:a:rsa:authentication_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: authentication_client
+  confidence: auto

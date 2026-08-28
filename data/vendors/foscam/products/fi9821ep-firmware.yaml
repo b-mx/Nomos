@@ -1,0 +1,10 @@
+id: fi9821ep-firmware
+vendor_id: foscam
+name: Fi9821Ep Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:foscam:fi9821ep_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fi9821ep_firmware
+  confidence: auto

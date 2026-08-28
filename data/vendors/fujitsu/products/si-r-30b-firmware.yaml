@@ -1,0 +1,10 @@
+id: si-r-30b-firmware
+vendor_id: fujitsu
+name: Si-R 30B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:si\-r_30b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: si-r_30b_firmware
+  confidence: auto

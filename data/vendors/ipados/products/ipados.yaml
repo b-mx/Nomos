@@ -1,0 +1,9 @@
+id: ipados
+vendor_id: ipados
+name: Apple iPadOS
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: ipados
+  confidence: auto

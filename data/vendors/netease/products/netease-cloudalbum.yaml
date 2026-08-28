@@ -1,0 +1,10 @@
+id: netease-cloudalbum
+vendor_id: netease
+name: Netease Cloudalbum
+type: software
+tags: []
+cpe: cpe:2.3:a:netease:netease_cloudalbum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netease_cloudalbum
+  confidence: auto

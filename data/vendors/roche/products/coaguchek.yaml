@@ -1,0 +1,10 @@
+id: coaguchek
+vendor_id: roche
+name: Coaguchek
+type: hardware
+tags: []
+cpe: cpe:2.3:h:roche:coaguchek:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coaguchek
+  confidence: auto

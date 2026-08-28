@@ -1,0 +1,10 @@
+id: got2000-gt23
+vendor_id: mitsubishielectric
+name: Got2000 Gt23
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:got2000_gt23:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: got2000_gt23
+  confidence: auto

@@ -1,0 +1,10 @@
+id: p30-pro
+vendor_id: huawei
+name: P30 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p30_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p30_pro
+  confidence: auto

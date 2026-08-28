@@ -1,0 +1,10 @@
+id: mlflow
+vendor_id: lfprojects
+name: Mlflow
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:mlflow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mlflow
+  confidence: auto

@@ -1,0 +1,10 @@
+id: centro-business
+vendor_id: swisscom
+name: Centro Business
+type: software
+tags: []
+cpe: cpe:2.3:a:swisscom:centro_business:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centro_business
+  confidence: auto

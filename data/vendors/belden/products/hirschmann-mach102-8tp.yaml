@@ -1,0 +1,10 @@
+id: hirschmann-mach102-8tp
+vendor_id: belden
+name: Hirschmann Mach102-8Tp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_mach102\-8tp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_mach102-8tp
+  confidence: auto

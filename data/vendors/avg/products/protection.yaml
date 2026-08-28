@@ -1,0 +1,10 @@
+id: protection
+vendor_id: avg
+name: Protection
+type: software
+tags: []
+cpe: cpe:2.3:a:avg:protection:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: protection
+  confidence: auto

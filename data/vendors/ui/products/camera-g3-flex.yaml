@@ -1,0 +1,10 @@
+id: camera-g3-flex
+vendor_id: ui
+name: Camera G3 Flex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:camera_g3_flex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: camera_g3_flex
+  confidence: auto

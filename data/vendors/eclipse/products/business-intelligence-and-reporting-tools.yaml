@@ -1,0 +1,10 @@
+id: business-intelligence-and-reporting-tools
+vendor_id: eclipse
+name: Business Intelligence And Reporting Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:business_intelligence_and_reporting_tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_intelligence_and_reporting_tools
+  confidence: auto

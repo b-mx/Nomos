@@ -1,0 +1,10 @@
+id: rv-2sqb-firmware
+vendor_id: mitsubishielectric
+name: Rv-2Sqb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rv\-2sqb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-2sqb_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: io-link-master-4-eip
+vendor_id: pepperl-fuchs
+name: Io-Link Master 4-Eip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pepperl\-fuchs:io\-link_master_4\-eip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: io-link_master_4-eip
+  confidence: auto

@@ -1,0 +1,10 @@
+id: onclick-show-popup
+vendor_id: gopiplus
+name: Onclick Show Popup
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:onclick_show_popup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: onclick_show_popup
+  confidence: auto

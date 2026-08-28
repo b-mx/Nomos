@@ -1,0 +1,10 @@
+id: ycblhd5-firmware
+vendor_id: y-cam
+name: Ycblhd5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:y\-cam:ycblhd5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ycblhd5_firmware
+  confidence: auto

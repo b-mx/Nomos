@@ -1,0 +1,10 @@
+id: free-range-routing
+vendor_id: linuxfoundation
+name: Free Range Routing
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:free_range_routing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: free_range_routing
+  confidence: auto

@@ -3,8 +3,7 @@ vendor_id: broadcom
 name: Brocade Fabric OS
 type: software
 tags: []
-icon: logos:broadcom-icon
 aliases:
 - source: cisa_kev
   value: Brocade Fabric OS
-  confidence: curated
+  confidence: auto

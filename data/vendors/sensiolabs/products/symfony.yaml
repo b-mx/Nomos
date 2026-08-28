@@ -1,0 +1,14 @@
+id: symfony
+vendor_id: sensiolabs
+name: Symfony
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:sensiolabs:symfony:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: symfony
+  confidence: auto
+- source: nvd
+  value: symfony
+  confidence: auto

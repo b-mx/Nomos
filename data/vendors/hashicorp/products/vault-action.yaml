@@ -1,0 +1,10 @@
+id: vault-action
+vendor_id: hashicorp
+name: Vault-Action
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:vault\-action:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vault-action
+  confidence: auto

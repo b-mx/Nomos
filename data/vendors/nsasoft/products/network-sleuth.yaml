@@ -1,0 +1,10 @@
+id: network-sleuth
+vendor_id: nsasoft
+name: Network Sleuth
+type: software
+tags: []
+cpe: cpe:2.3:a:nsasoft:network_sleuth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_sleuth
+  confidence: auto

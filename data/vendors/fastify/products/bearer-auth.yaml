@@ -1,0 +1,10 @@
+id: bearer-auth
+vendor_id: fastify
+name: Bearer-Auth
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:bearer\-auth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bearer-auth
+  confidence: auto

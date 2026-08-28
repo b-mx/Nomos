@@ -1,0 +1,14 @@
+id: vitess
+vendor_id: linuxfoundation
+name: Vitess
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:linuxfoundation:vitess:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: vitess
+  confidence: auto
+- source: nvd
+  value: vitess
+  confidence: auto

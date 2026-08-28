@@ -1,0 +1,10 @@
+id: rv13fr
+vendor_id: mitsubishielectric
+name: Rv13Fr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv13fr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv13fr
+  confidence: auto

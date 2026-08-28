@@ -1,0 +1,10 @@
+id: conductor
+vendor_id: netflix
+name: Conductor
+type: software
+tags: []
+cpe: cpe:2.3:a:netflix:conductor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: conductor
+  confidence: auto

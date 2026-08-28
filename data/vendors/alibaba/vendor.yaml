@@ -1,0 +1,7 @@
+id: alibaba
+name: Alibaba
+cpe: cpe:2.3:*:alibaba:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alibaba
+  confidence: auto

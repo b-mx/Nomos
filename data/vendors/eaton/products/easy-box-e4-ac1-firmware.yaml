@@ -1,0 +1,10 @@
+id: easy-box-e4-ac1-firmware
+vendor_id: eaton
+name: Easy-Box-E4-Ac1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eaton:easy\-box\-e4\-ac1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy-box-e4-ac1_firmware
+  confidence: auto

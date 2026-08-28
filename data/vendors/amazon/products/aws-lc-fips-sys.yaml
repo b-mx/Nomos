@@ -1,0 +1,10 @@
+id: aws-lc-fips-sys
+vendor_id: amazon
+name: Aws-Lc-Fips-Sys
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws\-lc\-fips\-sys:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws-lc-fips-sys
+  confidence: auto

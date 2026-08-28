@@ -1,0 +1,10 @@
+id: industrial-automation-aprol
+vendor_id: br-automation
+name: Industrial Automation Aprol
+type: software
+tags: []
+cpe: cpe:2.3:a:br\-automation:industrial_automation_aprol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: industrial_automation_aprol
+  confidence: auto

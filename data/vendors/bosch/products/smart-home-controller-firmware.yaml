@@ -1,0 +1,10 @@
+id: smart-home-controller-firmware
+vendor_id: bosch
+name: Smart Home Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:smart_home_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_home_controller_firmware
+  confidence: auto

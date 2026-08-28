@@ -1,0 +1,10 @@
+id: 512w-firmware
+vendor_id: utt
+name: 512W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:utt:512w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 512w_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: officejet-pro-873-d9l20a
+vendor_id: hp
+name: Officejet Pro 873 D9L20A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_873_d9l20a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_873_d9l20a
+  confidence: auto

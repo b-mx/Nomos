@@ -1,0 +1,10 @@
+id: mms-server
+vendor_id: abb
+name: Mms Server
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:mms_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mms_server
+  confidence: auto

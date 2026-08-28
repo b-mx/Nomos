@@ -1,0 +1,10 @@
+id: libarchive
+vendor_id: freebsd
+name: Libarchive
+type: software
+tags: []
+cpe: cpe:2.3:a:freebsd:libarchive:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libarchive
+  confidence: auto

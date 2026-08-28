@@ -1,0 +1,10 @@
+id: cr6
+vendor_id: campbellsci
+name: Cr6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:campbellsci:cr6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cr6
+  confidence: auto

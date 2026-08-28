@@ -1,0 +1,10 @@
+id: professional-security
+vendor_id: avira
+name: Professional Security
+type: software
+tags: []
+cpe: cpe:2.3:a:avira:professional_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: professional_security
+  confidence: auto

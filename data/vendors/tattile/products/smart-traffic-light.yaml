@@ -1,0 +1,10 @@
+id: smart-traffic-light
+vendor_id: tattile
+name: Smart+ Traffic Light
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tattile:smart\+_traffic_light:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart+_traffic_light
+  confidence: auto

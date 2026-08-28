@@ -1,0 +1,10 @@
+id: mbe7000
+vendor_id: linksys
+name: Mbe7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:mbe7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbe7000
+  confidence: auto

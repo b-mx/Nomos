@@ -1,0 +1,10 @@
+id: calsos-csdj-b
+vendor_id: necplatforms
+name: Calsos Csdj-B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:necplatforms:calsos_csdj\-b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: calsos_csdj-b
+  confidence: auto

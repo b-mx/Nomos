@@ -1,0 +1,10 @@
+id: stanza-firmware
+vendor_id: lutron
+name: Stanza Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lutron:stanza_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stanza_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: t24000
+vendor_id: iptime
+name: T24000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:t24000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t24000
+  confidence: auto

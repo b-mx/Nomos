@@ -1,0 +1,10 @@
+id: laserjet-enterprise-flow-mfp-m631h-firmware
+vendor_id: hp
+name: Laserjet Enterprise Flow Mfp M631H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_enterprise_flow_mfp_m631h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_flow_mfp_m631h_firmware
+  confidence: auto

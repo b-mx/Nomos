@@ -1,0 +1,10 @@
+id: bonkers
+vendor_id: colorlib
+name: Bonkers
+type: software
+tags: []
+cpe: cpe:2.3:a:colorlib:bonkers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bonkers
+  confidence: auto

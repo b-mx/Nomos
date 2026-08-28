@@ -1,0 +1,10 @@
+id: magic-nx18-plus-firmware
+vendor_id: h3c
+name: Magic Nx18 Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:magic_nx18_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_nx18_plus_firmware
+  confidence: auto

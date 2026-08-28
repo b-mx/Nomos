@@ -1,0 +1,10 @@
+id: wrn-240-firmware
+vendor_id: intelbras
+name: Wrn 240 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelbras:wrn_240_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrn_240_firmware
+  confidence: auto

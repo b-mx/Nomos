@@ -1,0 +1,10 @@
+id: envy-6020-5se16b
+vendor_id: hp
+name: Envy 6020 5Se16B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_6020_5se16b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6020_5se16b
+  confidence: auto

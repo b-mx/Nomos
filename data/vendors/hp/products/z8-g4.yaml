@@ -1,0 +1,10 @@
+id: z8-g4
+vendor_id: hp
+name: Z8 G4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:z8_g4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z8_g4
+  confidence: auto

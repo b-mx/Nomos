@@ -1,0 +1,10 @@
+id: alp-l09
+vendor_id: huawei
+name: Alp-L09
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:alp\-l09:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alp-l09
+  confidence: auto

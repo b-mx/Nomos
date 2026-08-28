@@ -1,0 +1,10 @@
+id: zxmw-nr8000
+vendor_id: zte
+name: Zxmw Nr8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxmw_nr8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxmw_nr8000
+  confidence: auto

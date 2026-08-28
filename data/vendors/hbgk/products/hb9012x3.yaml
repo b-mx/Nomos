@@ -1,0 +1,10 @@
+id: hb9012x3
+vendor_id: hbgk
+name: Hb9012X3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hbgk:hb9012x3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb9012x3
+  confidence: auto

@@ -1,0 +1,10 @@
+id: digital-paper-app
+vendor_id: sony
+name: Digital Paper App
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:digital_paper_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: digital_paper_app
+  confidence: auto

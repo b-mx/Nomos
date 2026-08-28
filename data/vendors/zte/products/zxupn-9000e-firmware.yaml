@@ -1,0 +1,10 @@
+id: zxupn-9000e-firmware
+vendor_id: zte
+name: Zxupn-9000E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxupn\-9000e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxupn-9000e_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: erlite-3
+vendor_id: ui
+name: Erlite-3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:erlite\-3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: erlite-3
+  confidence: auto

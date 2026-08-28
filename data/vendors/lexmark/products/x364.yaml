@@ -1,0 +1,10 @@
+id: x364
+vendor_id: lexmark
+name: X364
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x364:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x364
+  confidence: auto

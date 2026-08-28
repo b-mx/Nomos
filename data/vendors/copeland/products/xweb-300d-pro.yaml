@@ -1,0 +1,10 @@
+id: xweb-300d-pro
+vendor_id: copeland
+name: Xweb 300D Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:copeland:xweb_300d_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xweb_300d_pro
+  confidence: auto

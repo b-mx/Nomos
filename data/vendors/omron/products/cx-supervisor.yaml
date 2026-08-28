@@ -1,0 +1,10 @@
+id: cx-supervisor
+vendor_id: omron
+name: Cx-Supervisor
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:cx\-supervisor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-supervisor
+  confidence: auto

@@ -1,0 +1,10 @@
+id: car-listing
+vendor_id: phpscriptpoint
+name: Car Listing
+type: software
+tags: []
+cpe: cpe:2.3:a:phpscriptpoint:car_listing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: car_listing
+  confidence: auto

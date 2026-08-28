@@ -1,0 +1,10 @@
+id: smartrtu-firmware
+vendor_id: mitsubishielectric
+name: Smartrtu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:smartrtu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartrtu_firmware
+  confidence: auto

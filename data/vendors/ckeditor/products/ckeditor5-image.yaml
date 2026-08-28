@@ -1,0 +1,10 @@
+id: ckeditor5-image
+vendor_id: ckeditor
+name: Ckeditor5-Image
+type: software
+tags: []
+cpe: cpe:2.3:a:ckeditor:ckeditor5\-image:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ckeditor5-image
+  confidence: auto

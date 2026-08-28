@@ -1,0 +1,10 @@
+id: ruckus-cloudpath-enrollment-system
+vendor_id: commscope
+name: Ruckus Cloudpath Enrollment System
+type: software
+tags: []
+cpe: cpe:2.3:a:commscope:ruckus_cloudpath_enrollment_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_cloudpath_enrollment_system
+  confidence: auto

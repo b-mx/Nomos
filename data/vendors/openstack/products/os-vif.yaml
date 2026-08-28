@@ -1,0 +1,10 @@
+id: os-vif
+vendor_id: openstack
+name: Os-Vif
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:os\-vif:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: os-vif
+  confidence: auto

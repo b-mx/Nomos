@@ -1,0 +1,10 @@
+id: 233x
+vendor_id: lenovo
+name: 233X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:233x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 233x
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mediafast-200
+vendor_id: peplink
+name: Mediafast 200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:mediafast_200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mediafast_200
+  confidence: auto

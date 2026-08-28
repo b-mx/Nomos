@@ -1,0 +1,10 @@
+id: cloud-explorer
+vendor_id: naver
+name: Cloud Explorer
+type: software
+tags: []
+cpe: cpe:2.3:a:naver:cloud_explorer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_explorer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pr-s300ne
+vendor_id: ntt-east
+name: Pr-S300Ne
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-east:pr\-s300ne:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pr-s300ne
+  confidence: auto

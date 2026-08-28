@@ -1,0 +1,9 @@
+id: openvpn
+vendor_id: openvpn
+name: OpenVPN
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: openvpn
+  confidence: auto

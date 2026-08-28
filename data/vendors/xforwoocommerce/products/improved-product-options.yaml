@@ -1,0 +1,10 @@
+id: improved-product-options
+vendor_id: xforwoocommerce
+name: Improved Product Options
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:improved_product_options:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: improved_product_options
+  confidence: auto

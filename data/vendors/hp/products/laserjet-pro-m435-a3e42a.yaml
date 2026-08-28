@@ -1,0 +1,10 @@
+id: laserjet-pro-m435-a3e42a
+vendor_id: hp
+name: Laserjet Pro M435 A3E42A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m435_a3e42a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m435_a3e42a
+  confidence: auto

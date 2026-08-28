@@ -1,0 +1,10 @@
+id: juju-utils
+vendor_id: canonical
+name: Juju/Utils
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:juju\/utils:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: juju/utils
+  confidence: auto

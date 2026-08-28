@@ -1,0 +1,10 @@
+id: qnd-6021-firmware
+vendor_id: hanwhavision
+name: Qnd-6021 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:qnd\-6021_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnd-6021_firmware
+  confidence: auto

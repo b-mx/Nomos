@@ -1,0 +1,10 @@
+id: openlitespeed
+vendor_id: litespeedtech
+name: Openlitespeed
+type: software
+tags: []
+cpe: cpe:2.3:a:litespeedtech:openlitespeed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openlitespeed
+  confidence: auto

@@ -1,0 +1,10 @@
+id: simple-movie-ticket-booking-system
+vendor_id: fabian
+name: Simple Movie Ticket Booking System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_movie_ticket_booking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_movie_ticket_booking_system
+  confidence: auto

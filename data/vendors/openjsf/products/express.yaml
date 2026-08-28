@@ -1,0 +1,14 @@
+id: express
+vendor_id: openjsf
+name: Express
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:openjsf:express:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: express
+  confidence: auto
+- source: nvd
+  value: express
+  confidence: auto

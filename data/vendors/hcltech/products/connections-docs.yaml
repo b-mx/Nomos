@@ -1,0 +1,10 @@
+id: connections-docs
+vendor_id: hcltech
+name: Connections Docs
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:connections_docs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connections_docs
+  confidence: auto

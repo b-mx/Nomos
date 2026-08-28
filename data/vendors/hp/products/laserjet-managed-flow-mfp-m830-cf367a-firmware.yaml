@@ -1,0 +1,10 @@
+id: laserjet-managed-flow-mfp-m830-cf367a-firmware
+vendor_id: hp
+name: Laserjet Managed Flow Mfp M830 Cf367A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_flow_mfp_m830_cf367a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_flow_mfp_m830_cf367a_firmware
+  confidence: auto

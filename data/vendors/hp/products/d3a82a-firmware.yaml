@@ -1,0 +1,10 @@
+id: d3a82a-firmware
+vendor_id: hp
+name: D3A82A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:d3a82a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d3a82a_firmware
+  confidence: auto

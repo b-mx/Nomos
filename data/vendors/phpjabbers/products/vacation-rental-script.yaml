@@ -1,0 +1,10 @@
+id: vacation-rental-script
+vendor_id: phpjabbers
+name: Vacation Rental Script
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:vacation_rental_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vacation_rental_script
+  confidence: auto

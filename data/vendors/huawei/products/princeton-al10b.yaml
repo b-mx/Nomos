@@ -1,0 +1,10 @@
+id: princeton-al10b
+vendor_id: huawei
+name: Princeton-Al10B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:princeton\-al10b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: princeton-al10b
+  confidence: auto

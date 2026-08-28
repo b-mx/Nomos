@@ -1,0 +1,10 @@
+id: airspot-5410-firmware
+vendor_id: airspan
+name: Airspot 5410 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airspan:airspot_5410_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airspot_5410_firmware
+  confidence: auto

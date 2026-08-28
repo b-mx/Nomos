@@ -1,0 +1,10 @@
+id: ezmeral-data-fabric
+vendor_id: hpe
+name: Ezmeral Data Fabric
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:ezmeral_data_fabric:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ezmeral_data_fabric
+  confidence: auto

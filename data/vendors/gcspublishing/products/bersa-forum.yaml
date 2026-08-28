@@ -1,0 +1,10 @@
+id: bersa-forum
+vendor_id: gcspublishing
+name: Bersa Forum
+type: software
+tags: []
+cpe: cpe:2.3:a:gcspublishing:bersa_forum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bersa_forum
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ambit-ddw2600-firmware
+vendor_id: ubeeinteractive
+name: Ambit Ddw2600 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ubeeinteractive:ambit_ddw2600_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ambit_ddw2600_firmware
+  confidence: auto

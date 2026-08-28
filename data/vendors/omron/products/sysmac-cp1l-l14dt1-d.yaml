@@ -1,0 +1,10 @@
+id: sysmac-cp1l-l14dt1-d
+vendor_id: omron
+name: Sysmac Cp1L-L14Dt1-D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cp1l\-l14dt1\-d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cp1l-l14dt1-d
+  confidence: auto

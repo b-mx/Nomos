@@ -1,0 +1,10 @@
+id: zu7ev
+vendor_id: amd
+name: Zu7Ev
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:zu7ev:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu7ev
+  confidence: auto

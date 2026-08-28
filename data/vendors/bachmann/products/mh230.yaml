@@ -1,0 +1,10 @@
+id: mh230
+vendor_id: bachmann
+name: Mh230
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mh230:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mh230
+  confidence: auto

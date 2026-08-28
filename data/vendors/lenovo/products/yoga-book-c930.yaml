@@ -1,0 +1,10 @@
+id: yoga-book-c930
+vendor_id: lenovo
+name: Yoga Book C930
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yoga_book_c930:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_book_c930
+  confidence: auto

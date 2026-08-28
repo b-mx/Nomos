@@ -1,0 +1,10 @@
+id: etoken-4300
+vendor_id: thalesgroup
+name: Etoken 4300
+type: os
+tags: []
+cpe: cpe:2.3:o:thalesgroup:etoken_4300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: etoken_4300
+  confidence: auto

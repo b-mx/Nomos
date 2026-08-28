@@ -1,0 +1,10 @@
+id: eluga-z1-pro
+vendor_id: panasonic
+name: Eluga Z1 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:panasonic:eluga_z1_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eluga_z1_pro
+  confidence: auto

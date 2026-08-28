@@ -1,0 +1,10 @@
+id: ag-150a-a-firmware
+vendor_id: mitsubishi
+name: Ag-150A-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishi:ag\-150a\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ag-150a-a_firmware
+  confidence: auto

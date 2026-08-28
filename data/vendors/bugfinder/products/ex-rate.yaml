@@ -1,0 +1,10 @@
+id: ex-rate
+vendor_id: bugfinder
+name: Ex-Rate
+type: software
+tags: []
+cpe: cpe:2.3:a:bugfinder:ex\-rate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex-rate
+  confidence: auto

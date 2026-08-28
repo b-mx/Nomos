@@ -1,0 +1,10 @@
+id: mp-402spf
+vendor_id: ricoh
+name: Mp 402Spf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_402spf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_402spf
+  confidence: auto

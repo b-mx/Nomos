@@ -1,0 +1,10 @@
+id: home-center-2-firmware
+vendor_id: fibaro
+name: Home Center 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fibaro:home_center_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: home_center_2_firmware
+  confidence: auto

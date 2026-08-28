@@ -1,0 +1,10 @@
+id: pc-settings-tool
+vendor_id: nec
+name: Pc Settings Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:pc_settings_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc_settings_tool
+  confidence: auto

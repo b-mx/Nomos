@@ -1,0 +1,10 @@
+id: ib9360-h
+vendor_id: vivotek
+name: Ib9360-H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ib9360\-h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib9360-h
+  confidence: auto

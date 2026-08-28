@@ -1,0 +1,10 @@
+id: msa-2052-firmware
+vendor_id: hpe
+name: Msa 2052 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:msa_2052_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msa_2052_firmware
+  confidence: auto

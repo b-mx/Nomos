@@ -1,0 +1,10 @@
+id: instant-messaging
+vendor_id: ipswitch
+name: Instant Messaging
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:instant_messaging:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: instant_messaging
+  confidence: auto

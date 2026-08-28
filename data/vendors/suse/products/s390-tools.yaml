@@ -1,0 +1,10 @@
+id: s390-tools
+vendor_id: suse
+name: S390-Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:s390\-tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s390-tools
+  confidence: auto

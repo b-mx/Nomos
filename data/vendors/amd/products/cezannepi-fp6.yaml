@@ -1,0 +1,10 @@
+id: cezannepi-fp6
+vendor_id: amd
+name: Cezannepi-Fp6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:cezannepi\-fp6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cezannepi-fp6
+  confidence: auto

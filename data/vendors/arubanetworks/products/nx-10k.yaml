@@ -1,0 +1,10 @@
+id: nx-10k
+vendor_id: arubanetworks
+name: Nx-10K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:nx\-10k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx-10k
+  confidence: auto

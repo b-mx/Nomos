@@ -1,0 +1,10 @@
+id: terastation-nas-5410r
+vendor_id: buffalo
+name: Terastation Nas 5410R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:terastation_nas_5410r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: terastation_nas_5410r
+  confidence: auto

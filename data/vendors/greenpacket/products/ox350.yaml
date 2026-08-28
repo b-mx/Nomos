@@ -1,0 +1,10 @@
+id: ox350
+vendor_id: greenpacket
+name: Ox350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:greenpacket:ox350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ox350
+  confidence: auto

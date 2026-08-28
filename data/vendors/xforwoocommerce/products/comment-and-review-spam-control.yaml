@@ -1,0 +1,10 @@
+id: comment-and-review-spam-control
+vendor_id: xforwoocommerce
+name: Comment And Review Spam Control
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:comment_and_review_spam_control:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: comment_and_review_spam_control
+  confidence: auto

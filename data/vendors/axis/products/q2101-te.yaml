@@ -1,0 +1,10 @@
+id: q2101-te
+vendor_id: axis
+name: Q2101-Te
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q2101\-te:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q2101-te
+  confidence: auto

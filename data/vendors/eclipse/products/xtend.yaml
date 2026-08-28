@@ -1,0 +1,10 @@
+id: xtend
+vendor_id: eclipse
+name: Xtend
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:xtend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xtend
+  confidence: auto

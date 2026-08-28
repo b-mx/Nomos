@@ -1,0 +1,10 @@
+id: niagara
+vendor_id: tridium
+name: Niagara
+type: software
+tags: []
+cpe: cpe:2.3:a:tridium:niagara:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: niagara
+  confidence: auto

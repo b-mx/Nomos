@@ -1,0 +1,10 @@
+id: solar-log-250
+vendor_id: solar-log
+name: Solar-Log 250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:solar\-log:solar\-log_250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solar-log_250
+  confidence: auto

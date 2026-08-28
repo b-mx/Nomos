@@ -1,0 +1,10 @@
+id: foody-friend
+vendor_id: bugfinder
+name: Foody Friend
+type: software
+tags: []
+cpe: cpe:2.3:a:bugfinder:foody_friend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foody_friend
+  confidence: auto

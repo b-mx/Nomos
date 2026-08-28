@@ -1,0 +1,10 @@
+id: jf232a
+vendor_id: hp
+name: Jf232A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf232a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf232a
+  confidence: auto

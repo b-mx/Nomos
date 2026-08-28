@@ -1,0 +1,10 @@
+id: converged-systems-advisor-agent
+vendor_id: netapp
+name: Converged Systems Advisor Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:converged_systems_advisor_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: converged_systems_advisor_agent
+  confidence: auto

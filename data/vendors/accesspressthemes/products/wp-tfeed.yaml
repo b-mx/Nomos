@@ -1,0 +1,10 @@
+id: wp-tfeed
+vendor_id: accesspressthemes
+name: Wp Tfeed
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:wp_tfeed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_tfeed
+  confidence: auto

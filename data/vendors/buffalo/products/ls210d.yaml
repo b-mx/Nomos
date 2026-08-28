@@ -1,0 +1,10 @@
+id: ls210d
+vendor_id: buffalo
+name: Ls210D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:ls210d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ls210d
+  confidence: auto

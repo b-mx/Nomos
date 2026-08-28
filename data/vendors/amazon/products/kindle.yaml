@@ -1,0 +1,10 @@
+id: kindle
+vendor_id: amazon
+name: Kindle
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amazon:kindle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kindle
+  confidence: auto

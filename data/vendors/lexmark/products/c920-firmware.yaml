@@ -1,0 +1,10 @@
+id: c920-firmware
+vendor_id: lexmark
+name: C920 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:c920_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c920_firmware
+  confidence: auto

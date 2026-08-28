@@ -1,0 +1,10 @@
+id: cmdb
+vendor_id: glpi-project
+name: Cmdb
+type: software
+tags: []
+cpe: cpe:2.3:a:glpi\-project:cmdb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmdb
+  confidence: auto

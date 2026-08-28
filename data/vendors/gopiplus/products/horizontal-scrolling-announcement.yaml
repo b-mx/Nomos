@@ -1,0 +1,10 @@
+id: horizontal-scrolling-announcement
+vendor_id: gopiplus
+name: Horizontal Scrolling Announcement
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:horizontal_scrolling_announcement:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: horizontal_scrolling_announcement
+  confidence: auto

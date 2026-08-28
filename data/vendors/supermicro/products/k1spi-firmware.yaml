@@ -1,0 +1,10 @@
+id: k1spi-firmware
+vendor_id: supermicro
+name: K1Spi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:k1spi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k1spi_firmware
+  confidence: auto

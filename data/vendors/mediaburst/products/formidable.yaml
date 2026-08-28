@@ -1,0 +1,10 @@
+id: formidable
+vendor_id: mediaburst
+name: Formidable
+type: software
+tags: []
+cpe: cpe:2.3:a:mediaburst:formidable:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: formidable
+  confidence: auto

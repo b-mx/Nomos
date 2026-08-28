@@ -1,0 +1,10 @@
+id: jc652a
+vendor_id: hp
+name: Jc652A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc652a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc652a
+  confidence: auto

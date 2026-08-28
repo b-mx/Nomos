@@ -1,0 +1,10 @@
+id: rpc-ruserd
+vendor_id: sun
+name: Rpc.Ruserd
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:rpc\.ruserd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rpc.ruserd
+  confidence: auto

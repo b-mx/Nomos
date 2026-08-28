@@ -1,0 +1,10 @@
+id: eco-dc
+vendor_id: aten
+name: Eco Dc
+type: software
+tags: []
+cpe: cpe:2.3:a:aten:eco_dc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eco_dc
+  confidence: auto

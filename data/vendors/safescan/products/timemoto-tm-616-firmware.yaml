@@ -1,0 +1,10 @@
+id: timemoto-tm-616-firmware
+vendor_id: safescan
+name: Timemoto Tm-616 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:safescan:timemoto_tm\-616_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: timemoto_tm-616_firmware
+  confidence: auto

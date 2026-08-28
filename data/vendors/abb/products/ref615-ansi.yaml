@@ -1,0 +1,10 @@
+id: ref615-ansi
+vendor_id: abb
+name: Ref615 Ansi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:ref615_ansi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ref615_ansi
+  confidence: auto

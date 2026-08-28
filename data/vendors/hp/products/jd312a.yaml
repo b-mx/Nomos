@@ -1,0 +1,10 @@
+id: jd312a
+vendor_id: hp
+name: Jd312A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd312a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd312a
+  confidence: auto

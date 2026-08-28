@@ -1,0 +1,10 @@
+id: smart-tank-355-z4b07a
+vendor_id: hp
+name: Smart Tank 355 Z4B07A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_355_z4b07a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_355_z4b07a
+  confidence: auto

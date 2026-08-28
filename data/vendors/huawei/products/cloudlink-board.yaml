@@ -1,0 +1,10 @@
+id: cloudlink-board
+vendor_id: huawei
+name: Cloudlink Board
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cloudlink_board:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudlink_board
+  confidence: auto

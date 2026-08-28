@@ -1,0 +1,10 @@
+id: incoming-goods-suite
+vendor_id: sick
+name: Incoming Goods Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:incoming_goods_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: incoming_goods_suite
+  confidence: auto

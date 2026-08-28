@@ -1,0 +1,10 @@
+id: m4550-id-firmware
+vendor_id: lenovo
+name: M4550 Id Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:m4550_id_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m4550_id_firmware
+  confidence: auto

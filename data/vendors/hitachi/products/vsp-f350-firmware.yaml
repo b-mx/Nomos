@@ -1,0 +1,10 @@
+id: vsp-f350-firmware
+vendor_id: hitachi
+name: Vsp F350 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitachi:vsp_f350_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsp_f350_firmware
+  confidence: auto

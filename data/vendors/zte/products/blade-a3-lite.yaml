@@ -1,0 +1,10 @@
+id: blade-a3-lite
+vendor_id: zte
+name: Blade A3 Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:blade_a3_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_a3_lite
+  confidence: auto

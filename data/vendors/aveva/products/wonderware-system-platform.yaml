@@ -1,0 +1,10 @@
+id: wonderware-system-platform
+vendor_id: aveva
+name: Wonderware System Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:wonderware_system_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wonderware_system_platform
+  confidence: auto

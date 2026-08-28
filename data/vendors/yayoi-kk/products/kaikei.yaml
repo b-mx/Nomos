@@ -1,0 +1,10 @@
+id: kaikei
+vendor_id: yayoi-kk
+name: Kaikei
+type: software
+tags: []
+cpe: cpe:2.3:a:yayoi\-kk:kaikei:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kaikei
+  confidence: auto

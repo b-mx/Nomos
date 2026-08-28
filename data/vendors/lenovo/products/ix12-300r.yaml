@@ -1,0 +1,10 @@
+id: ix12-300r
+vendor_id: lenovo
+name: Ix12-300R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ix12\-300r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ix12-300r
+  confidence: auto

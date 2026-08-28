@@ -1,0 +1,10 @@
+id: envy-5545-g0v50a
+vendor_id: hp
+name: Envy 5545 G0V50A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5545_g0v50a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5545_g0v50a
+  confidence: auto

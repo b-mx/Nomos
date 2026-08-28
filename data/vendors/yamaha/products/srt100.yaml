@@ -1,0 +1,10 @@
+id: srt100
+vendor_id: yamaha
+name: Srt100
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:srt100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: srt100
+  confidence: auto

@@ -1,0 +1,7 @@
+id: orange
+name: Orange
+cpe: cpe:2.3:*:orange:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: orange
+  confidence: auto

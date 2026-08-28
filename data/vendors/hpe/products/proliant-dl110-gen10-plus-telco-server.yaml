@@ -1,0 +1,10 @@
+id: proliant-dl110-gen10-plus-telco-server
+vendor_id: hpe
+name: Proliant Dl110 Gen10 Plus Telco Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_dl110_gen10_plus_telco_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_dl110_gen10_plus_telco_server
+  confidence: auto

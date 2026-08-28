@@ -1,0 +1,10 @@
+id: s2a-wl-firmware
+vendor_id: gocloud
+name: S2A Wl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gocloud:s2a_wl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s2a_wl_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: prm
+vendor_id: yokogawa
+name: Prm
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:prm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mx417
+vendor_id: lexmark
+name: Mx417
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx417:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx417
+  confidence: auto

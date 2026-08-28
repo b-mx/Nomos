@@ -1,0 +1,10 @@
+id: laserjet-mfp-m442-8af71a
+vendor_id: hp
+name: Laserjet Mfp M442 8Af71A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m442_8af71a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m442_8af71a
+  confidence: auto

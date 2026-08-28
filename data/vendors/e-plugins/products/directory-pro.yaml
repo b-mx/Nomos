@@ -1,0 +1,10 @@
+id: directory-pro
+vendor_id: e-plugins
+name: Directory Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:e\-plugins:directory_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: directory_pro
+  confidence: auto

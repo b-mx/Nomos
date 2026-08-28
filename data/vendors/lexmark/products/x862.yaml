@@ -1,0 +1,10 @@
+id: x862
+vendor_id: lexmark
+name: X862
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x862:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x862
+  confidence: auto

@@ -1,0 +1,10 @@
+id: compactlogix-5380-process-firmware
+vendor_id: rockwellautomation
+name: Compactlogix 5380 Process Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:compactlogix_5380_process_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compactlogix_5380_process_firmware
+  confidence: auto

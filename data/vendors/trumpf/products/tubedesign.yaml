@@ -1,0 +1,10 @@
+id: tubedesign
+vendor_id: trumpf
+name: Tubedesign
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:tubedesign:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tubedesign
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sp-221snw-firmware
+vendor_id: ricoh
+name: Sp 221Snw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:sp_221snw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_221snw_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x548
+vendor_id: lexmark
+name: X548
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x548:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x548
+  confidence: auto

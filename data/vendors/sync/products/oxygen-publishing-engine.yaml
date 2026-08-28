@@ -1,0 +1,10 @@
+id: oxygen-publishing-engine
+vendor_id: sync
+name: Oxygen Publishing Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:sync:oxygen_publishing_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oxygen_publishing_engine
+  confidence: auto

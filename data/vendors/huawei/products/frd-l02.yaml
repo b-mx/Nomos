@@ -1,0 +1,10 @@
+id: frd-l02
+vendor_id: huawei
+name: Frd-L02
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:frd\-l02:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frd-l02
+  confidence: auto

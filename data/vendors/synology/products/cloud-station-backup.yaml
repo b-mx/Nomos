@@ -1,0 +1,10 @@
+id: cloud-station-backup
+vendor_id: synology
+name: Cloud Station Backup
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:cloud_station_backup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_station_backup
+  confidence: auto

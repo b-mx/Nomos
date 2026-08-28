@@ -1,0 +1,10 @@
+id: m12e
+vendor_id: nec
+name: M12E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:m12e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m12e
+  confidence: auto

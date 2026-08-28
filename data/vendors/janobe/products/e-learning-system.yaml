@@ -1,0 +1,10 @@
+id: e-learning-system
+vendor_id: janobe
+name: E-Learning System
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:e\-learning_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-learning_system
+  confidence: auto

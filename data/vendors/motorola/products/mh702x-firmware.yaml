@@ -1,0 +1,10 @@
+id: mh702x-firmware
+vendor_id: motorola
+name: Mh702X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:mh702x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mh702x_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 762-5306-8000-002-firmware
+vendor_id: wago
+name: 762-5306/8000-002 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:762\-5306\/8000\-002_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 762-5306/8000-002_firmware
+  confidence: auto

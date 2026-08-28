@@ -1,0 +1,10 @@
+id: m0p32a
+vendor_id: hp
+name: M0P32A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m0p32a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m0p32a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aws-sigv4
+vendor_id: amazon
+name: Aws-Sigv4
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws\-sigv4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws-sigv4
+  confidence: auto

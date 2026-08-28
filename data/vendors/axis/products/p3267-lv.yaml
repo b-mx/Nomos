@@ -1,0 +1,10 @@
+id: p3267-lv
+vendor_id: axis
+name: P3267-Lv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p3267\-lv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3267-lv
+  confidence: auto

@@ -1,0 +1,10 @@
+id: proventia-server
+vendor_id: iss
+name: Proventia Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iss:proventia_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proventia_server
+  confidence: auto

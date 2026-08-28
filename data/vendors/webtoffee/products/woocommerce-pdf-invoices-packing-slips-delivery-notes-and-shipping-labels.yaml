@@ -1,0 +1,10 @@
+id: woocommerce-pdf-invoices-packing-slips-delivery-notes-and-shipping-labels
+vendor_id: webtoffee
+name: Woocommerce Pdf Invoices, Packing Slips, Delivery Notes And Shipping Labels
+type: software
+tags: []
+cpe: cpe:2.3:a:webtoffee:woocommerce_pdf_invoices\,_packing_slips\,_delivery_notes_and_shipping_labels:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_pdf_invoices,_packing_slips,_delivery_notes_and_shipping_labels
+  confidence: auto

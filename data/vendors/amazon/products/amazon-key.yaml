@@ -1,0 +1,10 @@
+id: amazon-key
+vendor_id: amazon
+name: Amazon Key
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amazon:amazon_key:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amazon_key
+  confidence: auto

@@ -1,0 +1,10 @@
+id: intellibridge-enterprise
+vendor_id: philips
+name: Intellibridge Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:intellibridge_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellibridge_enterprise
+  confidence: auto

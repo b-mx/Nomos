@@ -1,0 +1,10 @@
+id: pulsera
+vendor_id: philips
+name: Pulsera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:pulsera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pulsera
+  confidence: auto

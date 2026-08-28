@@ -1,0 +1,10 @@
+id: labwindows
+vendor_id: ni
+name: Labwindows
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:labwindows:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: labwindows
+  confidence: auto

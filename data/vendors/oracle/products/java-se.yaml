@@ -3,11 +3,7 @@ vendor_id: oracle
 name: Java SE
 type: software
 tags: []
-icon: logos:oracle
 aliases:
 - source: cisa_kev
   value: Java SE
-  confidence: auto
-- source: cisa_kev
-  value: Java SE JDK and JRE
   confidence: auto

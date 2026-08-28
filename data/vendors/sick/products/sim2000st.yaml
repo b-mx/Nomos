@@ -1,0 +1,10 @@
+id: sim2000st
+vendor_id: sick
+name: Sim2000St
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:sim2000st:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim2000st
+  confidence: auto

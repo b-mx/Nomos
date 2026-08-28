@@ -1,0 +1,10 @@
+id: ps-emailsubscription
+vendor_id: prestashop
+name: Ps Emailsubscription
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:ps_emailsubscription:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ps_emailsubscription
+  confidence: auto

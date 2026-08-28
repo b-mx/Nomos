@@ -1,0 +1,7 @@
+id: opentext
+name: Opentext
+cpe: cpe:2.3:*:opentext:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opentext
+  confidence: auto

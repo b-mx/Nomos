@@ -1,0 +1,10 @@
+id: extremecloud-iq-site-engine
+vendor_id: extremenetworks
+name: Extremecloud Iq Site Engine
+type: software
+tags: []
+cpe: cpe:2.3:a:extremenetworks:extremecloud_iq_site_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: extremecloud_iq_site_engine
+  confidence: auto

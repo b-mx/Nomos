@@ -1,0 +1,10 @@
+id: thinkpad-usb-3-0-ethernet-adapter-driver
+vendor_id: lenovo
+name: Thinkpad Usb 3.0 Ethernet Adapter Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:thinkpad_usb_3\.0_ethernet_adapter_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_usb_3.0_ethernet_adapter_driver
+  confidence: auto

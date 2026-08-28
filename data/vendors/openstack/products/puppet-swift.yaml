@@ -1,0 +1,10 @@
+id: puppet-swift
+vendor_id: openstack
+name: Puppet-Swift
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:puppet\-swift:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppet-swift
+  confidence: auto

@@ -1,0 +1,10 @@
+id: krill
+vendor_id: nlnetlabs
+name: Krill
+type: software
+tags: []
+cpe: cpe:2.3:a:nlnetlabs:krill:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: krill
+  confidence: auto

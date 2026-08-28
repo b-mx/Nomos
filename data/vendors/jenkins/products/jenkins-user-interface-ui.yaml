@@ -2,9 +2,7 @@ id: jenkins-user-interface-ui
 vendor_id: jenkins
 name: Jenkins User Interface (UI)
 type: software
-tags:
-- ci-cd
-icon: logos:jenkins
+tags: []
 aliases:
 - source: cisa_kev
   value: Jenkins User Interface (UI)

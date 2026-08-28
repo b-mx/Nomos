@@ -1,0 +1,10 @@
+id: sim2000-2p04g10
+vendor_id: sick
+name: Sim2000-2P04G10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:sim2000\-2p04g10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sim2000-2p04g10
+  confidence: auto

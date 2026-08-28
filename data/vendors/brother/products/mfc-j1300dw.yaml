@@ -1,0 +1,10 @@
+id: mfc-j1300dw
+vendor_id: brother
+name: Mfc-J1300Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-j1300dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-j1300dw
+  confidence: auto

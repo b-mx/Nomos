@@ -1,0 +1,10 @@
+id: miniorange-2fa
+vendor_id: miniorange
+name: Miniorange 2Fa
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:miniorange_2fa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miniorange_2fa
+  confidence: auto

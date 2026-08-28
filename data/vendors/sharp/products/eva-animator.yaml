@@ -1,0 +1,10 @@
+id: eva-animator
+vendor_id: sharp
+name: Eva Animator
+type: software
+tags: []
+cpe: cpe:2.3:a:sharp:eva_animator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eva_animator
+  confidence: auto

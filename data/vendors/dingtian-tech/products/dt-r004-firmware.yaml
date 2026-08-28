@@ -1,0 +1,10 @@
+id: dt-r004-firmware
+vendor_id: dingtian-tech
+name: Dt-R004 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dingtian\-tech:dt\-r004_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt-r004_firmware
+  confidence: auto

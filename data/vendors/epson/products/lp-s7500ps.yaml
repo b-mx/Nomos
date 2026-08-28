@@ -1,0 +1,10 @@
+id: lp-s7500ps
+vendor_id: epson
+name: Lp-S7500Ps
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:lp\-s7500ps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-s7500ps
+  confidence: auto

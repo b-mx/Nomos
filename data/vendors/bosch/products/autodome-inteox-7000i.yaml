@@ -1,0 +1,10 @@
+id: autodome-inteox-7000i
+vendor_id: bosch
+name: Autodome Inteox 7000I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:autodome_inteox_7000i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autodome_inteox_7000i
+  confidence: auto

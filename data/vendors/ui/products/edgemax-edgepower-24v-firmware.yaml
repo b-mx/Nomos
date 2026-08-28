@@ -1,0 +1,10 @@
+id: edgemax-edgepower-24v-firmware
+vendor_id: ui
+name: Edgemax Edgepower 24V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:edgemax_edgepower_24v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgemax_edgepower_24v_firmware
+  confidence: auto

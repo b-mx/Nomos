@@ -1,0 +1,10 @@
+id: connector-for-c-c
+vendor_id: snowflake
+name: Connector For C/C++
+type: software
+tags: []
+cpe: cpe:2.3:a:snowflake:connector_for_c\/c\+\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connector_for_c/c++
+  confidence: auto

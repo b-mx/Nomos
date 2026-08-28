@@ -1,0 +1,10 @@
+id: ws5280-11
+vendor_id: huawei
+name: Ws5280-11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ws5280\-11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws5280-11
+  confidence: auto

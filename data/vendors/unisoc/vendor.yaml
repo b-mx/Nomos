@@ -1,0 +1,7 @@
+id: unisoc
+name: Unisoc
+cpe: cpe:2.3:*:unisoc:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unisoc
+  confidence: auto

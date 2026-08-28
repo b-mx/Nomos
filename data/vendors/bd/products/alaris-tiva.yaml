@@ -1,0 +1,10 @@
+id: alaris-tiva
+vendor_id: bd
+name: Alaris Tiva
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:alaris_tiva:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_tiva
+  confidence: auto

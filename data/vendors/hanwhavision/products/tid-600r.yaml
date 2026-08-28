@@ -1,0 +1,10 @@
+id: tid-600r
+vendor_id: hanwhavision
+name: Tid-600R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:tid\-600r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tid-600r
+  confidence: auto

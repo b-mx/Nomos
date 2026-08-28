@@ -1,0 +1,10 @@
+id: im-c6000
+vendor_id: ricoh
+name: Im C6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_c6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_c6000
+  confidence: auto

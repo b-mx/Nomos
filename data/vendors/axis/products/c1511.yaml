@@ -1,0 +1,10 @@
+id: c1511
+vendor_id: axis
+name: C1511
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:c1511:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1511
+  confidence: auto

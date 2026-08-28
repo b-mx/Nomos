@@ -1,0 +1,10 @@
+id: apeosport-c7070
+vendor_id: fujixerox
+name: Apeosport C7070
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujixerox:apeosport_c7070:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport_c7070
+  confidence: auto

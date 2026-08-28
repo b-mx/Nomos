@@ -1,0 +1,10 @@
+id: fsm-2500-firmware
+vendor_id: bosch
+name: Fsm-2500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:fsm\-2500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fsm-2500_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mbdialup
+vendor_id: mbconnectline
+name: Mbdialup
+type: software
+tags: []
+cpe: cpe:2.3:a:mbconnectline:mbdialup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbdialup
+  confidence: auto

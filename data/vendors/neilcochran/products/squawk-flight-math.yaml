@@ -1,0 +1,10 @@
+id: squawk-flight-math
+vendor_id: neilcochran
+name: Squawk/Flight-Math
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/flight\-math:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/flight-math
+  confidence: auto

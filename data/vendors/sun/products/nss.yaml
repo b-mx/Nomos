@@ -1,0 +1,10 @@
+id: nss
+vendor_id: sun
+name: Nss
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:nss:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nss
+  confidence: auto

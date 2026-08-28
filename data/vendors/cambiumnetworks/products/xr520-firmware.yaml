@@ -1,0 +1,10 @@
+id: xr520-firmware
+vendor_id: cambiumnetworks
+name: Xr520 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cambiumnetworks:xr520_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xr520_firmware
+  confidence: auto

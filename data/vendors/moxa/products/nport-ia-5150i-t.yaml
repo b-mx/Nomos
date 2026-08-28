@@ -1,0 +1,10 @@
+id: nport-ia-5150i-t
+vendor_id: moxa
+name: Nport Ia-5150I-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_ia\-5150i\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_ia-5150i-t
+  confidence: auto

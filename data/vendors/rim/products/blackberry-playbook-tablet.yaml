@@ -1,0 +1,10 @@
+id: blackberry-playbook-tablet
+vendor_id: rim
+name: Blackberry Playbook Tablet
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rim:blackberry_playbook_tablet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry_playbook_tablet
+  confidence: auto

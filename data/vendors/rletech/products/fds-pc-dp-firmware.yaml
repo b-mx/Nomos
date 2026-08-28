@@ -1,0 +1,10 @@
+id: fds-pc-dp-firmware
+vendor_id: rletech
+name: Fds-Pc-Dp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rletech:fds\-pc\-dp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fds-pc-dp_firmware
+  confidence: auto

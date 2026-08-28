@@ -1,0 +1,10 @@
+id: blog-site
+vendor_id: oretnom23
+name: Blog Site
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:blog_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blog_site
+  confidence: auto

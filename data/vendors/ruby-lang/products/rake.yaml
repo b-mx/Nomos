@@ -1,0 +1,10 @@
+id: rake
+vendor_id: ruby-lang
+name: Rake
+type: software
+tags: []
+cpe: cpe:2.3:a:ruby\-lang:rake:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rake
+  confidence: auto

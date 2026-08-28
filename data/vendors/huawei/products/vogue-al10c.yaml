@@ -1,0 +1,10 @@
+id: vogue-al10c
+vendor_id: huawei
+name: Vogue-Al10C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:vogue\-al10c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vogue-al10c
+  confidence: auto

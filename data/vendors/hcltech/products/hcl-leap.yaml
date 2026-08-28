@@ -1,0 +1,10 @@
+id: hcl-leap
+vendor_id: hcltech
+name: Hcl Leap
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:hcl_leap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_leap
+  confidence: auto

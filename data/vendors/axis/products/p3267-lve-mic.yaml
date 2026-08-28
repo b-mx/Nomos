@@ -1,0 +1,10 @@
+id: p3267-lve-mic
+vendor_id: axis
+name: P3267-Lve Mic
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p3267\-lve_mic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p3267-lve_mic
+  confidence: auto

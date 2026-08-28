@@ -1,0 +1,10 @@
+id: logme
+vendor_id: anynines
+name: Logme
+type: software
+tags: []
+cpe: cpe:2.3:a:anynines:logme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logme
+  confidence: auto

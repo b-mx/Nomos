@@ -1,0 +1,10 @@
+id: pad-4
+vendor_id: mi
+name: Pad 4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:pad_4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pad_4
+  confidence: auto

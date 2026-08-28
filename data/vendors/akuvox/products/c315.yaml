@@ -1,0 +1,10 @@
+id: c315
+vendor_id: akuvox
+name: C315
+type: hardware
+tags: []
+cpe: cpe:2.3:h:akuvox:c315:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c315
+  confidence: auto

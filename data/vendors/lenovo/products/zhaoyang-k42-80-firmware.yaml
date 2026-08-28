@@ -1,0 +1,10 @@
+id: zhaoyang-k42-80-firmware
+vendor_id: lenovo
+name: Zhaoyang K42-80 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:zhaoyang_k42\-80_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhaoyang_k42-80_firmware
+  confidence: auto

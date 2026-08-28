@@ -1,0 +1,10 @@
+id: mx725
+vendor_id: lexmark
+name: Mx725
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mx725:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx725
+  confidence: auto

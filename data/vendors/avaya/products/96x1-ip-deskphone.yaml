@@ -1,0 +1,10 @@
+id: 96x1-ip-deskphone
+vendor_id: avaya
+name: 96X1 Ip Deskphone
+type: hardware
+tags: []
+cpe: cpe:2.3:h:avaya:96x1_ip_deskphone:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 96x1_ip_deskphone
+  confidence: auto

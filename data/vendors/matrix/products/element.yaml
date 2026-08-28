@@ -1,0 +1,10 @@
+id: element
+vendor_id: matrix
+name: Element
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:element:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: element
+  confidence: auto

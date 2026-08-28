@@ -1,0 +1,10 @@
+id: exaplog
+vendor_id: yokogawa
+name: Exaplog
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:exaplog:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exaplog
+  confidence: auto

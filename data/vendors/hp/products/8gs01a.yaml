@@ -1,0 +1,10 @@
+id: 8gs01a
+vendor_id: hp
+name: 8Gs01A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:8gs01a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 8gs01a
+  confidence: auto

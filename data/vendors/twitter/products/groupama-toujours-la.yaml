@@ -1,0 +1,10 @@
+id: groupama-toujours-la
+vendor_id: twitter
+name: Groupama Toujours La
+type: software
+tags: []
+cpe: cpe:2.3:a:twitter:groupama_toujours_la:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: groupama_toujours_la
+  confidence: auto

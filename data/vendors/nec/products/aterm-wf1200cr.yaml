@@ -1,0 +1,10 @@
+id: aterm-wf1200cr
+vendor_id: nec
+name: Aterm Wf1200Cr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wf1200cr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wf1200cr
+  confidence: auto

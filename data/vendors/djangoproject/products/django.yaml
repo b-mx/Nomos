@@ -1,0 +1,14 @@
+id: django
+vendor_id: djangoproject
+name: Django
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:djangoproject:django:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: django
+  confidence: auto
+- source: nvd
+  value: django
+  confidence: auto

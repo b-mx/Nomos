@@ -1,0 +1,10 @@
+id: thinksmart-core-controller-full-room-kit-microsoft-teams-rooms-firmware
+vendor_id: lenovo
+name: 'Thinksmart Core & Controller Full Room Kit: Microsoft Teams Rooms Firmware'
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksmart_core_\&_controller_full_room_kit\:_microsoft_teams_rooms_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksmart_core_&_controller_full_room_kit:_microsoft_teams_rooms_firmware
+  confidence: auto

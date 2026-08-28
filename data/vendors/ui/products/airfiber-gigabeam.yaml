@@ -1,0 +1,10 @@
+id: airfiber-gigabeam
+vendor_id: ui
+name: Airfiber Gigabeam
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:airfiber_gigabeam:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airfiber_gigabeam
+  confidence: auto

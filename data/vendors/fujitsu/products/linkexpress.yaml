@@ -1,0 +1,10 @@
+id: linkexpress
+vendor_id: fujitsu
+name: Linkexpress
+type: software
+tags: []
+cpe: cpe:2.3:a:fujitsu:linkexpress:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linkexpress
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fl-switch-smn-6tx-2pof-pn-firmware
+vendor_id: phoenixcontact
+name: Fl Switch Smn 6Tx/2Pof-Pn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fl_switch_smn_6tx\/2pof\-pn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_switch_smn_6tx/2pof-pn_firmware
+  confidence: auto

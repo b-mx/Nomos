@@ -1,0 +1,7 @@
+id: sonos
+name: Sonos
+cpe: cpe:2.3:*:sonos:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sonos
+  confidence: auto

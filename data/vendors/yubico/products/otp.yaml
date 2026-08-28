@@ -1,0 +1,10 @@
+id: otp
+vendor_id: yubico
+name: Otp
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:otp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: otp
+  confidence: auto

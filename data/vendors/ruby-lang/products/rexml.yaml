@@ -1,0 +1,10 @@
+id: rexml
+vendor_id: ruby-lang
+name: Rexml
+type: software
+tags: []
+cpe: cpe:2.3:a:ruby\-lang:rexml:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rexml
+  confidence: auto

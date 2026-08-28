@@ -1,0 +1,10 @@
+id: apeosprint-c328-firmware
+vendor_id: fujifilm
+name: Apeosprint C328 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujifilm:apeosprint_c328_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosprint_c328_firmware
+  confidence: auto

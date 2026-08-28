@@ -1,0 +1,10 @@
+id: 500f-firmware
+vendor_id: netapp
+name: 500F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:500f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 500f_firmware
+  confidence: auto

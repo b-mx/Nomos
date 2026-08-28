@@ -1,0 +1,10 @@
+id: svn5000
+vendor_id: huawei
+name: Svn5000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:svn5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: svn5000
+  confidence: auto

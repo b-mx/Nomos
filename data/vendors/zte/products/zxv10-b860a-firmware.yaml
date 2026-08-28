@@ -1,0 +1,10 @@
+id: zxv10-b860a-firmware
+vendor_id: zte
+name: Zxv10 B860A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxv10_b860a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxv10_b860a_firmware
+  confidence: auto

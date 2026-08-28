@@ -1,0 +1,10 @@
+id: envy-notebook-13-d1xx
+vendor_id: hp
+name: Envy Notebook 13-D1Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_notebook_13\-d1xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_notebook_13-d1xx
+  confidence: auto

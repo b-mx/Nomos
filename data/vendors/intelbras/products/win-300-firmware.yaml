@@ -1,0 +1,10 @@
+id: win-300-firmware
+vendor_id: intelbras
+name: Win 300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelbras:win_300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: win_300_firmware
+  confidence: auto

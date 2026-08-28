@@ -1,0 +1,10 @@
+id: supportdesk
+vendor_id: iscripts
+name: Supportdesk
+type: software
+tags: []
+cpe: cpe:2.3:a:iscripts:supportdesk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: supportdesk
+  confidence: auto

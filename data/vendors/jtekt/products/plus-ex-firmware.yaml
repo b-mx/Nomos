@@ -1,0 +1,10 @@
+id: plus-ex-firmware
+vendor_id: jtekt
+name: Plus Ex Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:plus_ex_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plus_ex_firmware
+  confidence: auto

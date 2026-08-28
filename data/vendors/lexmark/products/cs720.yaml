@@ -1,0 +1,10 @@
+id: cs720
+vendor_id: lexmark
+name: Cs720
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs720:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs720
+  confidence: auto

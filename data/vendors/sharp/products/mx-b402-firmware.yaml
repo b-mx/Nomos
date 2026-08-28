@@ -1,0 +1,10 @@
+id: mx-b402-firmware
+vendor_id: sharp
+name: Mx-B402 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-b402_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-b402_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ais-bw80h-00-firmware
+vendor_id: huawei
+name: Ais-Bw80H-00 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ais\-bw80h\-00_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ais-bw80h-00_firmware
+  confidence: auto

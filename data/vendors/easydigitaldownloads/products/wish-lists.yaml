@@ -1,0 +1,10 @@
+id: wish-lists
+vendor_id: easydigitaldownloads
+name: Wish Lists
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:wish_lists:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wish_lists
+  confidence: auto

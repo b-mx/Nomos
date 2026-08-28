@@ -1,0 +1,10 @@
+id: eos-70d
+vendor_id: canon
+name: Eos 70D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_70d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_70d
+  confidence: auto

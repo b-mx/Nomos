@@ -1,0 +1,10 @@
+id: dijit
+vendor_id: openjsf
+name: Dijit
+type: software
+tags: []
+cpe: cpe:2.3:a:openjsf:dijit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dijit
+  confidence: auto

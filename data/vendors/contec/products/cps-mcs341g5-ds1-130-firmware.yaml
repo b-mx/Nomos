@@ -1,0 +1,10 @@
+id: cps-mcs341g5-ds1-130-firmware
+vendor_id: contec
+name: Cps-Mcs341G5-Ds1-130 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:contec:cps\-mcs341g5\-ds1\-130_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cps-mcs341g5-ds1-130_firmware
+  confidence: auto

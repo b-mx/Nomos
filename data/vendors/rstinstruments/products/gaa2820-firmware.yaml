@@ -1,0 +1,10 @@
+id: gaa2820-firmware
+vendor_id: rstinstruments
+name: Gaa2820 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:gaa2820_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gaa2820_firmware
+  confidence: auto

@@ -1,0 +1,7 @@
+id: cypress
+name: Cypress
+cpe: cpe:2.3:*:cypress:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cypress
+  confidence: auto

@@ -1,0 +1,10 @@
+id: razor-server
+vendor_id: puppet
+name: Razor-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:razor\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: razor-server
+  confidence: auto

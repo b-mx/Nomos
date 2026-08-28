@@ -1,0 +1,10 @@
+id: kardia
+vendor_id: alivecor
+name: Kardia
+type: software
+tags: []
+cpe: cpe:2.3:a:alivecor:kardia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kardia
+  confidence: auto

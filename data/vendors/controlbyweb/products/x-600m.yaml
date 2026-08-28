@@ -1,0 +1,10 @@
+id: x-600m
+vendor_id: controlbyweb
+name: X-600M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:controlbyweb:x\-600m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x-600m
+  confidence: auto

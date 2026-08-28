@@ -1,0 +1,10 @@
+id: cf-mysql-release
+vendor_id: cloudfoundry
+name: Cf-Mysql-Release
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:cf\-mysql\-release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf-mysql-release
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hdx-6000
+vendor_id: polycom
+name: Hdx 6000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:hdx_6000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdx_6000
+  confidence: auto

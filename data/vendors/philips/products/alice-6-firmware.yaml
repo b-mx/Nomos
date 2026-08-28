@@ -1,0 +1,10 @@
+id: alice-6-firmware
+vendor_id: philips
+name: Alice 6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:alice_6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alice_6_firmware
+  confidence: auto

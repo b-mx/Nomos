@@ -1,0 +1,10 @@
+id: lefthand-p4000-virtual-san-appliance
+vendor_id: hp
+name: Lefthand P4000 Virtual San Appliance
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:lefthand_p4000_virtual_san_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lefthand_p4000_virtual_san_appliance
+  confidence: auto

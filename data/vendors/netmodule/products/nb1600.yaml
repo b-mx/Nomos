@@ -1,0 +1,10 @@
+id: nb1600
+vendor_id: netmodule
+name: Nb1600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:nb1600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb1600
+  confidence: auto

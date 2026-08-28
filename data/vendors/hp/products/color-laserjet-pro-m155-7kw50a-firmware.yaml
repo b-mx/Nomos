@@ -1,0 +1,10 @@
+id: color-laserjet-pro-m155-7kw50a-firmware
+vendor_id: hp
+name: Color Laserjet Pro M155 7Kw50A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_pro_m155_7kw50a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_pro_m155_7kw50a_firmware
+  confidence: auto

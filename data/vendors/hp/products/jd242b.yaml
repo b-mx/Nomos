@@ -1,0 +1,10 @@
+id: jd242b
+vendor_id: hp
+name: Jd242B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd242b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd242b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: m320
+vendor_id: nec
+name: M320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:m320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m320
+  confidence: auto

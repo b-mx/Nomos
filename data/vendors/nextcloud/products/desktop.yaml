@@ -1,0 +1,10 @@
+id: desktop
+vendor_id: nextcloud
+name: Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop
+  confidence: auto

@@ -1,0 +1,12 @@
+id: eclipse-temurin
+vendor_id: eclipse
+name: Eclipse Temurin
+type: library
+tags: []
+aliases:
+- source: endoflife
+  value: eclipse-temurin
+  confidence: auto
+- source: nvd
+  value: temurin
+  confidence: auto

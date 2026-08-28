@@ -1,0 +1,10 @@
+id: collaboration
+vendor_id: hummingbird
+name: Collaboration
+type: software
+tags: []
+cpe: cpe:2.3:a:hummingbird:collaboration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: collaboration
+  confidence: auto

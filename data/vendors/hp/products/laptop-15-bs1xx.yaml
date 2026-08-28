@@ -1,0 +1,10 @@
+id: laptop-15-bs1xx
+vendor_id: hp
+name: Laptop 15-Bs1Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_15\-bs1xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_15-bs1xx
+  confidence: auto

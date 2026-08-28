@@ -1,0 +1,10 @@
+id: sg350-firmware
+vendor_id: rstinstruments
+name: Sg350 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:sg350_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg350_firmware
+  confidence: auto

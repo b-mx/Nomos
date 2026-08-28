@@ -1,0 +1,10 @@
+id: paintshop-pro-2019
+vendor_id: corel
+name: Paintshop Pro 2019
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:paintshop_pro_2019:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paintshop_pro_2019
+  confidence: auto

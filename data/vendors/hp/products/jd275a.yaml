@@ -1,0 +1,10 @@
+id: jd275a
+vendor_id: hp
+name: Jd275A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd275a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd275a
+  confidence: auto

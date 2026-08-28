@@ -1,0 +1,10 @@
+id: dinion-ip-starlight-8000-12mp
+vendor_id: bosch
+name: Dinion Ip Starlight 8000 12Mp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:dinion_ip_starlight_8000_12mp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dinion_ip_starlight_8000_12mp
+  confidence: auto

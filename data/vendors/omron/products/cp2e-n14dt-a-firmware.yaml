@@ -1,0 +1,10 @@
+id: cp2e-n14dt-a-firmware
+vendor_id: omron
+name: Cp2E-N14Dt-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp2e\-n14dt\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp2e-n14dt-a_firmware
+  confidence: auto

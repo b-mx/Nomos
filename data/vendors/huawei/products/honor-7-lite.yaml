@@ -1,0 +1,10 @@
+id: honor-7-lite
+vendor_id: huawei
+name: Honor 7 Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:honor_7_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_7_lite
+  confidence: auto

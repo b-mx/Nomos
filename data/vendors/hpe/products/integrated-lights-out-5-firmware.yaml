@@ -1,0 +1,10 @@
+id: integrated-lights-out-5-firmware
+vendor_id: hpe
+name: Integrated Lights-Out 5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:integrated_lights\-out_5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: integrated_lights-out_5_firmware
+  confidence: auto

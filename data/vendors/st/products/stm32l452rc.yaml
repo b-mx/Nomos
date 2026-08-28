@@ -1,0 +1,10 @@
+id: stm32l452rc
+vendor_id: st
+name: Stm32L452Rc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l452rc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l452rc
+  confidence: auto

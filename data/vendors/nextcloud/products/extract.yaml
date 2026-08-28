@@ -1,0 +1,10 @@
+id: extract
+vendor_id: nextcloud
+name: Extract
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:extract:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: extract
+  confidence: auto

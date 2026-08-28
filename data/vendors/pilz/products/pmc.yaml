@@ -1,0 +1,10 @@
+id: pmc
+vendor_id: pilz
+name: Pmc
+type: software
+tags: []
+cpe: cpe:2.3:a:pilz:pmc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pmc
+  confidence: auto

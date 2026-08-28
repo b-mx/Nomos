@@ -1,0 +1,10 @@
+id: apex-lynx-firmware
+vendor_id: gotrango
+name: Apex Lynx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gotrango:apex_lynx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apex_lynx_firmware
+  confidence: auto

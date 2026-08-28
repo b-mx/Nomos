@@ -1,0 +1,10 @@
+id: mbspider-mdh-905-firmware
+vendor_id: mbconnectline
+name: Mbspider Mdh 905 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mbconnectline:mbspider_mdh_905_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mbspider_mdh_905_firmware
+  confidence: auto

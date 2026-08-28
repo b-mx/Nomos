@@ -1,0 +1,10 @@
+id: smilepure
+vendor_id: thememove
+name: Smilepure
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:smilepure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smilepure
+  confidence: auto

@@ -1,0 +1,10 @@
+id: one-ia
+vendor_id: digi
+name: One Ia
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:one_ia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: one_ia
+  confidence: auto

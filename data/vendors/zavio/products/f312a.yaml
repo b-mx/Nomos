@@ -1,0 +1,10 @@
+id: f312a
+vendor_id: zavio
+name: F312A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zavio:f312a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f312a
+  confidence: auto

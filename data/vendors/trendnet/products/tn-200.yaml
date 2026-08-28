@@ -1,0 +1,10 @@
+id: tn-200
+vendor_id: trendnet
+name: Tn-200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tn\-200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tn-200
+  confidence: auto

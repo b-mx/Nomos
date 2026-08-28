@@ -1,0 +1,10 @@
+id: laserjet-pro-400-n404dw-cf285a
+vendor_id: hp
+name: Laserjet Pro 400 N404Dw Cf285A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_400_n404dw_cf285a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_400_n404dw_cf285a
+  confidence: auto

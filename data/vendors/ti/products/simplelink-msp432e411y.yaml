@@ -1,0 +1,10 @@
+id: simplelink-msp432e411y
+vendor_id: ti
+name: Simplelink Msp432E411Y
+type: software
+tags: []
+cpe: cpe:2.3:a:ti:simplelink_msp432e411y:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplelink_msp432e411y
+  confidence: auto

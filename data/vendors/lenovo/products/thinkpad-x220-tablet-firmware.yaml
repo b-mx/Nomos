@@ -1,0 +1,10 @@
+id: thinkpad-x220-tablet-firmware
+vendor_id: lenovo
+name: Thinkpad X220 Tablet Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_x220_tablet_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x220_tablet_firmware
+  confidence: auto

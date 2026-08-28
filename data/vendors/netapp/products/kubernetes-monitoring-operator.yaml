@@ -1,0 +1,10 @@
+id: kubernetes-monitoring-operator
+vendor_id: netapp
+name: Kubernetes Monitoring Operator
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:kubernetes_monitoring_operator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kubernetes_monitoring_operator
+  confidence: auto

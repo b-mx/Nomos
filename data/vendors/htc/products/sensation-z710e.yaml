@@ -1,0 +1,10 @@
+id: sensation-z710e
+vendor_id: htc
+name: Sensation Z710E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:sensation_z710e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sensation_z710e
+  confidence: auto

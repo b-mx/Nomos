@@ -1,0 +1,10 @@
+id: sy-910-firmware
+vendor_id: synel
+name: Sy-910 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:synel:sy\-910_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sy-910_firmware
+  confidence: auto

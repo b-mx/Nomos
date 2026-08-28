@@ -1,0 +1,10 @@
+id: mic-ip-dynamic-7000-firmware
+vendor_id: bosch
+name: Mic Ip Dynamic 7000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:mic_ip_dynamic_7000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mic_ip_dynamic_7000_firmware
+  confidence: auto

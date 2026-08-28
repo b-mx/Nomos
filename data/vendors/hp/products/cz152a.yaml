@@ -1,0 +1,10 @@
+id: cz152a
+vendor_id: hp
+name: Cz152A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz152a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz152a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 20de
+vendor_id: lenovo
+name: 20De
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20de:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20de
+  confidence: auto

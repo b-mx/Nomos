@@ -1,0 +1,10 @@
+id: cx-flnet
+vendor_id: omron
+name: Cx-Flnet
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:cx\-flnet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-flnet
+  confidence: auto

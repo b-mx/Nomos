@@ -1,0 +1,10 @@
+id: hp-ux-containers
+vendor_id: hp
+name: Hp-Ux Containers
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:hp\-ux_containers:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp-ux_containers
+  confidence: auto

@@ -1,0 +1,10 @@
+id: n-vision-8870
+vendor_id: medtronic
+name: N'Vision 8870
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:n\'vision_8870:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n'vision_8870
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wlx313
+vendor_id: yamaha
+name: Wlx313
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yamaha:wlx313:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlx313
+  confidence: auto

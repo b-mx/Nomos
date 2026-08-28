@@ -1,0 +1,10 @@
+id: faq-builder
+vendor_id: ays-pro
+name: Faq Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:ays\-pro:faq_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: faq_builder
+  confidence: auto

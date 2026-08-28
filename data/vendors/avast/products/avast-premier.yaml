@@ -1,0 +1,10 @@
+id: avast-premier
+vendor_id: avast
+name: Avast Premier
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:avast_premier:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avast_premier
+  confidence: auto

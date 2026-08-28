@@ -1,0 +1,10 @@
+id: guestspy
+vendor_id: 1byte
+name: Guestspy
+type: software
+tags: []
+cpe: cpe:2.3:a:1byte:guestspy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: guestspy
+  confidence: auto

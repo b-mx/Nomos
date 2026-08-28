@@ -1,0 +1,10 @@
+id: tbox-lt2-530-firmware
+vendor_id: ovarro
+name: Tbox Lt2-530 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ovarro:tbox_lt2\-530_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tbox_lt2-530_firmware
+  confidence: auto

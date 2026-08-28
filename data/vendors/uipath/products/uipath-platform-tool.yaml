@@ -1,0 +1,10 @@
+id: uipath-platform-tool
+vendor_id: uipath
+name: Uipath/Platform-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/platform\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/platform-tool
+  confidence: auto

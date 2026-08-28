@@ -1,0 +1,10 @@
+id: sysmac-cp2e-n30dt-a
+vendor_id: omron
+name: Sysmac Cp2E-N30Dt-A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:sysmac_cp2e\-n30dt\-a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cp2e-n30dt-a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: enterprise-content-management
+vendor_id: ericsson
+name: Enterprise Content Management
+type: software
+tags: []
+cpe: cpe:2.3:a:ericsson:enterprise_content_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_content_management
+  confidence: auto

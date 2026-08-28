@@ -1,0 +1,10 @@
+id: esp-now
+vendor_id: espressif
+name: Esp-Now
+type: software
+tags: []
+cpe: cpe:2.3:a:espressif:esp\-now:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp-now
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ts01-firmware
+vendor_id: ave
+name: Ts01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ave:ts01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts01_firmware
+  confidence: auto

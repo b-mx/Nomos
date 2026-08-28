@@ -1,0 +1,10 @@
+id: phoenix-x36
+vendor_id: baxter
+name: Phoenix X36
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baxter:phoenix_x36:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phoenix_x36
+  confidence: auto

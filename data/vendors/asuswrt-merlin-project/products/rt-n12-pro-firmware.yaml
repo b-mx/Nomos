@@ -1,0 +1,10 @@
+id: rt-n12-pro-firmware
+vendor_id: asuswrt-merlin-project
+name: Rt N12+ Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:asuswrt\-merlin_project:rt_n12\+_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt_n12+_pro_firmware
+  confidence: auto

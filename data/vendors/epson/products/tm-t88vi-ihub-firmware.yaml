@@ -1,0 +1,10 @@
+id: tm-t88vi-ihub-firmware
+vendor_id: epson
+name: Tm-T88Vi-Ihub Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:tm\-t88vi\-ihub_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-t88vi-ihub_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: stm32f058c8
+vendor_id: st
+name: Stm32F058C8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32f058c8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f058c8
+  confidence: auto

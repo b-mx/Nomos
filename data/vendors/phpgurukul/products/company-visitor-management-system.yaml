@@ -1,0 +1,10 @@
+id: company-visitor-management-system
+vendor_id: phpgurukul
+name: Company Visitor Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:company_visitor_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: company_visitor_management_system
+  confidence: auto

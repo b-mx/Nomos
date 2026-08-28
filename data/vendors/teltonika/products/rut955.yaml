@@ -1,0 +1,10 @@
+id: rut955
+vendor_id: teltonika
+name: Rut955
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika:rut955:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rut955
+  confidence: auto

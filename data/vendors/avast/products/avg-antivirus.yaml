@@ -1,0 +1,10 @@
+id: avg-antivirus
+vendor_id: avast
+name: Avg Antivirus
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:avg_antivirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avg_antivirus
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x9drh-if
+vendor_id: supermicro
+name: X9Drh-If
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9drh\-if:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drh-if
+  confidence: auto

@@ -1,0 +1,10 @@
+id: iec870ip-firmware
+vendor_id: aveva
+name: Iec870Ip Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:aveva:iec870ip_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iec870ip_firmware
+  confidence: auto

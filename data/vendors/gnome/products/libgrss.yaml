@@ -1,0 +1,10 @@
+id: libgrss
+vendor_id: gnome
+name: Libgrss
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:libgrss:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libgrss
+  confidence: auto

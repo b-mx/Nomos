@@ -1,0 +1,10 @@
+id: interoperability-solution-xds
+vendor_id: philips
+name: Interoperability Solution Xds
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:interoperability_solution_xds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: interoperability_solution_xds
+  confidence: auto

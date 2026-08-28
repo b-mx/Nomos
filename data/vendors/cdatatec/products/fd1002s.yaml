@@ -1,0 +1,10 @@
+id: fd1002s
+vendor_id: cdatatec
+name: Fd1002S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cdatatec:fd1002s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd1002s
+  confidence: auto

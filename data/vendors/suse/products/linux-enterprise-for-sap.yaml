@@ -1,0 +1,10 @@
+id: linux-enterprise-for-sap
+vendor_id: suse
+name: Linux Enterprise For Sap
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:linux_enterprise_for_sap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_enterprise_for_sap
+  confidence: auto

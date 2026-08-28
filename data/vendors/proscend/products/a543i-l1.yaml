@@ -1,0 +1,10 @@
+id: a543i-l1
+vendor_id: proscend
+name: A543I-L1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:proscend:a543i\-l1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a543i-l1
+  confidence: auto

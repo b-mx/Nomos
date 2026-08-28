@@ -1,0 +1,10 @@
+id: nfc-port-firmware
+vendor_id: sony
+name: Nfc Port Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:nfc_port_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nfc_port_firmware
+  confidence: auto

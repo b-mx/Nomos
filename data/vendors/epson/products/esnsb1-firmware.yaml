@@ -1,0 +1,10 @@
+id: esnsb1-firmware
+vendor_id: epson
+name: Esnsb1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:esnsb1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esnsb1_firmware
+  confidence: auto

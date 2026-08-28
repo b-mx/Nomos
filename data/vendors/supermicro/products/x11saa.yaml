@@ -1,0 +1,10 @@
+id: x11saa
+vendor_id: supermicro
+name: X11Saa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11saa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11saa
+  confidence: auto

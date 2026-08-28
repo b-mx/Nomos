@@ -1,0 +1,10 @@
+id: pushover-notifications
+vendor_id: easydigitaldownloads
+name: Pushover Notifications
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:pushover_notifications:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pushover_notifications
+  confidence: auto

@@ -1,0 +1,10 @@
+id: q02phcpu
+vendor_id: mitsubishielectric
+name: Q02Phcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:q02phcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q02phcpu
+  confidence: auto

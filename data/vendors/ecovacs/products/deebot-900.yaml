@@ -1,0 +1,10 @@
+id: deebot-900
+vendor_id: ecovacs
+name: Deebot 900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_900
+  confidence: auto

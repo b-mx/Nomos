@@ -1,0 +1,10 @@
+id: mass-pay
+vendor_id: paypal
+name: Mass Pay
+type: software
+tags: []
+cpe: cpe:2.3:a:paypal:mass_pay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mass_pay
+  confidence: auto

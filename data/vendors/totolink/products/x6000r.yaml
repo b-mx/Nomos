@@ -1,0 +1,10 @@
+id: x6000r
+vendor_id: totolink
+name: X6000R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:x6000r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x6000r
+  confidence: auto

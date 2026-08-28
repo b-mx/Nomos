@@ -1,0 +1,10 @@
+id: armor-compact-guardlogix-5370-firmware
+vendor_id: rockwellautomation
+name: Armor Compact Guardlogix 5370 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:armor_compact_guardlogix_5370_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: armor_compact_guardlogix_5370_firmware
+  confidence: auto

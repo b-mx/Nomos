@@ -1,0 +1,10 @@
+id: octeldesigner
+vendor_id: avaya
+name: Octeldesigner
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:octeldesigner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: octeldesigner
+  confidence: auto

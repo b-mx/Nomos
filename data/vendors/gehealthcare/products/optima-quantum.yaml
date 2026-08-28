@@ -1,0 +1,10 @@
+id: optima-quantum
+vendor_id: gehealthcare
+name: Optima Quantum
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:optima_quantum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_quantum
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dwr-pg
+vendor_id: buffalo
+name: Dwr-Pg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:dwr\-pg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dwr-pg
+  confidence: auto

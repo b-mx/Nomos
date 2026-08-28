@@ -1,0 +1,10 @@
+id: w7u01a
+vendor_id: hp
+name: W7U01A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:w7u01a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w7u01a
+  confidence: auto

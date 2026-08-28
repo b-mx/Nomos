@@ -1,0 +1,10 @@
+id: wf2419-firmware
+vendor_id: netis-systems
+name: Wf2419 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netis\-systems:wf2419_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wf2419_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aura-system-manager
+vendor_id: avaya
+name: Aura System Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura_system_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_system_manager
+  confidence: auto

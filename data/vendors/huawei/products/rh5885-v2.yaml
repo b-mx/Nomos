@@ -1,0 +1,10 @@
+id: rh5885-v2
+vendor_id: huawei
+name: Rh5885 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rh5885_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh5885_v2
+  confidence: auto

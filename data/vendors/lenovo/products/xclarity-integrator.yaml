@@ -1,0 +1,10 @@
+id: xclarity-integrator
+vendor_id: lenovo
+name: Xclarity Integrator
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:xclarity_integrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xclarity_integrator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sd2
+vendor_id: ge
+name: Sd2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:sd2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd2
+  confidence: auto

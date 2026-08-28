@@ -1,0 +1,9 @@
+id: aws-lambda
+vendor_id: aws-lambda
+name: AWS Lambda
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: aws-lambda
+  confidence: auto

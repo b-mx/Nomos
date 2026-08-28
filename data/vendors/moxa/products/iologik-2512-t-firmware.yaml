@@ -1,0 +1,10 @@
+id: iologik-2512-t-firmware
+vendor_id: moxa
+name: Iologik 2512-T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:iologik_2512\-t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iologik_2512-t_firmware
+  confidence: auto

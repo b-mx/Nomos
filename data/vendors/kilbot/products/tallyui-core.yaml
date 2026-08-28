@@ -1,0 +1,10 @@
+id: tallyui-core
+vendor_id: kilbot
+name: Tallyui/Core
+type: software
+tags: []
+cpe: cpe:2.3:a:kilbot:tallyui\/core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tallyui/core
+  confidence: auto

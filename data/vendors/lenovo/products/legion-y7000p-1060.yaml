@@ -1,0 +1,10 @@
+id: legion-y7000p-1060
+vendor_id: lenovo
+name: Legion Y7000P-1060
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_y7000p\-1060:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y7000p-1060
+  confidence: auto

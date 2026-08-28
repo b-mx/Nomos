@@ -1,0 +1,10 @@
+id: plasma-desktop
+vendor_id: kde
+name: Plasma-Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:plasma\-desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plasma-desktop
+  confidence: auto

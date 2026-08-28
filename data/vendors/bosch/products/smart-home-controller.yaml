@@ -1,0 +1,10 @@
+id: smart-home-controller
+vendor_id: bosch
+name: Smart Home Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:smart_home_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_home_controller
+  confidence: auto

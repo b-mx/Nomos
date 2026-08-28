@@ -1,0 +1,10 @@
+id: easy-paypal-buy-now-button
+vendor_id: wpplugin
+name: Easy Paypal Buy Now Button
+type: software
+tags: []
+cpe: cpe:2.3:a:wpplugin:easy_paypal_buy_now_button:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_paypal_buy_now_button
+  confidence: auto

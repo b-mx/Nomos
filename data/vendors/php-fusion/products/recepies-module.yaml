@@ -1,0 +1,10 @@
+id: recepies-module
+vendor_id: php-fusion
+name: Recepies Module
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-fusion:recepies_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recepies_module
+  confidence: auto

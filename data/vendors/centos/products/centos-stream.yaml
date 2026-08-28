@@ -1,0 +1,13 @@
+id: centos-stream
+vendor_id: centos
+name: CentOS Stream
+type: os
+tags: []
+cpe: cpe:2.3:o:centos:stream:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: centos-stream
+  confidence: auto
+- source: nvd
+  value: stream
+  confidence: auto

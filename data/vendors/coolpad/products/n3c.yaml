@@ -1,0 +1,10 @@
+id: n3c
+vendor_id: coolpad
+name: N3C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:coolpad:n3c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n3c
+  confidence: auto

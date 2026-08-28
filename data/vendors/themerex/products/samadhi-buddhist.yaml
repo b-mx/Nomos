@@ -1,0 +1,10 @@
+id: samadhi-buddhist
+vendor_id: themerex
+name: Samadhi-Buddhist
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:samadhi\-buddhist:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: samadhi-buddhist
+  confidence: auto

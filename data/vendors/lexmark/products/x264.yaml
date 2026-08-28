@@ -1,0 +1,10 @@
+id: x264
+vendor_id: lexmark
+name: X264
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x264:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x264
+  confidence: auto

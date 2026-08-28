@@ -1,0 +1,10 @@
+id: cv037a
+vendor_id: hp
+name: Cv037A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cv037a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cv037a
+  confidence: auto

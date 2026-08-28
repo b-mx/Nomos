@@ -1,0 +1,10 @@
+id: netapp-plug-in
+vendor_id: netapp
+name: Netapp Plug-In
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:netapp_plug\-in:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netapp_plug-in
+  confidence: auto

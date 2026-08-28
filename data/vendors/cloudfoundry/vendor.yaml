@@ -1,0 +1,7 @@
+id: cloudfoundry
+name: Cloudfoundry
+cpe: cpe:2.3:*:cloudfoundry:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudfoundry
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hono
+vendor_id: eclipse
+name: Hono
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:hono:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hono
+  confidence: auto

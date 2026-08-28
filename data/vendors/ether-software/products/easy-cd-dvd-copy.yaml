@@ -1,0 +1,10 @@
+id: easy-cd-dvd-copy
+vendor_id: ether-software
+name: Easy Cd Dvd Copy
+type: software
+tags: []
+cpe: cpe:2.3:a:ether_software:easy_cd_dvd_copy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_cd_dvd_copy
+  confidence: auto

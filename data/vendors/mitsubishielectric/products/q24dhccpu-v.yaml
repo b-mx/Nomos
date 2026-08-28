@@ -1,0 +1,10 @@
+id: q24dhccpu-v
+vendor_id: mitsubishielectric
+name: Q24Dhccpu-V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:q24dhccpu\-v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q24dhccpu-v
+  confidence: auto

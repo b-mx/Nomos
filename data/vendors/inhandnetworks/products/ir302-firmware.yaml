@@ -1,0 +1,10 @@
+id: ir302-firmware
+vendor_id: inhandnetworks
+name: Ir302 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:inhandnetworks:ir302_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ir302_firmware
+  confidence: auto

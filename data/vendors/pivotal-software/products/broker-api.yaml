@@ -1,0 +1,10 @@
+id: broker-api
+vendor_id: pivotal-software
+name: Broker Api
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:broker_api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: broker_api
+  confidence: auto

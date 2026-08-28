@@ -1,0 +1,10 @@
+id: x12scq
+vendor_id: supermicro
+name: X12Scq
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12scq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12scq
+  confidence: auto

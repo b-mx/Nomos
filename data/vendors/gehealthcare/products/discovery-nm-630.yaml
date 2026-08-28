@@ -1,0 +1,10 @@
+id: discovery-nm-630
+vendor_id: gehealthcare
+name: Discovery Nm 630
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:discovery_nm_630:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_nm_630
+  confidence: auto

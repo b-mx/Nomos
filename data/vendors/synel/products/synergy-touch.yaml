@@ -1,0 +1,10 @@
+id: synergy-touch
+vendor_id: synel
+name: Synergy Touch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:synel:synergy_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy_touch
+  confidence: auto

@@ -1,0 +1,10 @@
+id: uipath-agent-tool
+vendor_id: uipath
+name: Uipath/Agent-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/agent\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/agent-tool
+  confidence: auto

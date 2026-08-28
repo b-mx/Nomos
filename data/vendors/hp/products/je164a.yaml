@@ -1,0 +1,10 @@
+id: je164a
+vendor_id: hp
+name: Je164A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je164a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je164a
+  confidence: auto

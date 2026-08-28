@@ -1,0 +1,10 @@
+id: aficio-mp-301spf-firmware
+vendor_id: ricoh
+name: Aficio Mp 301Spf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:aficio_mp_301spf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aficio_mp_301spf_firmware
+  confidence: auto

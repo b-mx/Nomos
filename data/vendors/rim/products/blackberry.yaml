@@ -1,0 +1,10 @@
+id: blackberry
+vendor_id: rim
+name: Blackberry
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rim:blackberry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry
+  confidence: auto

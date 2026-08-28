@@ -1,0 +1,10 @@
+id: nfc-net-installer
+vendor_id: sony
+name: Nfc Net Installer
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:nfc_net_installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nfc_net_installer
+  confidence: auto

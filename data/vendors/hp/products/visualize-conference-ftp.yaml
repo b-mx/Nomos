@@ -1,0 +1,10 @@
+id: visualize-conference-ftp
+vendor_id: hp
+name: Visualize Conference Ftp
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:visualize_conference_ftp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visualize_conference_ftp
+  confidence: auto

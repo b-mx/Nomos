@@ -1,0 +1,10 @@
+id: oscp
+vendor_id: zte
+name: Oscp
+type: software
+tags: []
+cpe: cpe:2.3:a:zte:oscp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oscp
+  confidence: auto

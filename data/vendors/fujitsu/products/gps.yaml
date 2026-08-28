@@ -1,0 +1,10 @@
+id: gps
+vendor_id: fujitsu
+name: Gps
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:gps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gps
+  confidence: auto

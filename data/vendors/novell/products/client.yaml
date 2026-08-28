@@ -1,0 +1,10 @@
+id: client
+vendor_id: novell
+name: Client
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: client
+  confidence: auto

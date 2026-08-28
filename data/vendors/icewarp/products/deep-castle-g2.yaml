@@ -1,0 +1,10 @@
+id: deep-castle-g2
+vendor_id: icewarp
+name: Deep Castle G2
+type: software
+tags: []
+cpe: cpe:2.3:a:icewarp:deep_castle_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deep_castle_g2
+  confidence: auto

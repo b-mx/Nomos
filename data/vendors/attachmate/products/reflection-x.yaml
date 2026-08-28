@@ -1,0 +1,10 @@
+id: reflection-x
+vendor_id: attachmate
+name: Reflection X
+type: software
+tags: []
+cpe: cpe:2.3:a:attachmate:reflection_x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reflection_x
+  confidence: auto

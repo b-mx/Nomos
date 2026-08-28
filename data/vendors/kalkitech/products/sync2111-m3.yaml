@@ -1,0 +1,10 @@
+id: sync2111-m3
+vendor_id: kalkitech
+name: Sync2111-M3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kalkitech:sync2111\-m3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sync2111-m3
+  confidence: auto

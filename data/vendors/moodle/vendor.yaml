@@ -1,0 +1,7 @@
+id: moodle
+name: Moodle
+cpe: cpe:2.3:*:moodle:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moodle
+  confidence: auto

@@ -1,0 +1,7 @@
+id: horde
+name: Horde
+cpe: cpe:2.3:*:horde:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: horde
+  confidence: auto

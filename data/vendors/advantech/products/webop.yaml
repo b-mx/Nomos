@@ -1,0 +1,10 @@
+id: webop
+vendor_id: advantech
+name: Webop
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:webop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webop
+  confidence: auto

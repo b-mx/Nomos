@@ -1,0 +1,10 @@
+id: cp1h-x40dr-a-firmware
+vendor_id: omron
+name: Cp1H-X40Dr-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1h\-x40dr\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1h-x40dr-a_firmware
+  confidence: auto

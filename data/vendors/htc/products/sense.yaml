@@ -1,0 +1,10 @@
+id: sense
+vendor_id: htc
+name: Sense
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:sense:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sense
+  confidence: auto

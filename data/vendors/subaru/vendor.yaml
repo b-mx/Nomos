@@ -1,0 +1,7 @@
+id: subaru
+name: Subaru
+cpe: cpe:2.3:*:subaru:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: subaru
+  confidence: auto

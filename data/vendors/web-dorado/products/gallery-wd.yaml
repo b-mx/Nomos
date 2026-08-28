@@ -1,0 +1,10 @@
+id: gallery-wd
+vendor_id: web-dorado
+name: Gallery Wd
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:gallery_wd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gallery_wd
+  confidence: auto

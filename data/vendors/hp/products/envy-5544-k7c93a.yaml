@@ -1,0 +1,10 @@
+id: envy-5544-k7c93a
+vendor_id: hp
+name: Envy 5544 K7C93A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5544_k7c93a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5544_k7c93a
+  confidence: auto

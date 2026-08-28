@@ -1,0 +1,10 @@
+id: tloc100-100
+vendor_id: sick
+name: Tloc100-100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:tloc100\-100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tloc100-100
+  confidence: auto

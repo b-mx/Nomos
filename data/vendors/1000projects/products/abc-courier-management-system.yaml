@@ -1,0 +1,10 @@
+id: abc-courier-management-system
+vendor_id: 1000projects
+name: Abc Courier Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:1000projects:abc_courier_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: abc_courier_management_system
+  confidence: auto

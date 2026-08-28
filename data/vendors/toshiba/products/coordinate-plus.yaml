@@ -1,0 +1,10 @@
+id: coordinate-plus
+vendor_id: toshiba
+name: Coordinate Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:toshiba:coordinate_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coordinate_plus
+  confidence: auto

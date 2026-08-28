@@ -1,0 +1,10 @@
+id: a6
+vendor_id: haier
+name: A6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:haier:a6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a6
+  confidence: auto

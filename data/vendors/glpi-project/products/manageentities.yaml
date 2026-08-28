@@ -1,0 +1,10 @@
+id: manageentities
+vendor_id: glpi-project
+name: Manageentities
+type: software
+tags: []
+cpe: cpe:2.3:a:glpi\-project:manageentities:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageentities
+  confidence: auto

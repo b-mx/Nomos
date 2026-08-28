@@ -1,0 +1,10 @@
+id: '110'
+vendor_id: hp
+name: '110'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '110'
+  confidence: auto

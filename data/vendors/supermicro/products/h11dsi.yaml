@@ -1,0 +1,10 @@
+id: h11dsi
+vendor_id: supermicro
+name: H11Dsi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h11dsi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h11dsi
+  confidence: auto

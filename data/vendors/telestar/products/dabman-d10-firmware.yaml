@@ -1,0 +1,10 @@
+id: dabman-d10-firmware
+vendor_id: telestar
+name: Dabman D10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:telestar:dabman_d10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dabman_d10_firmware
+  confidence: auto

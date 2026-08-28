@@ -1,0 +1,10 @@
+id: webfoliocms
+vendor_id: nikola-posa
+name: Webfoliocms
+type: software
+tags: []
+cpe: cpe:2.3:a:nikola_posa:webfoliocms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webfoliocms
+  confidence: auto

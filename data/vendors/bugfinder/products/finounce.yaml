@@ -1,0 +1,10 @@
+id: finounce
+vendor_id: bugfinder
+name: Finounce
+type: software
+tags: []
+cpe: cpe:2.3:a:bugfinder:finounce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: finounce
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 470-g9
+vendor_id: hp
+name: 470 G9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:470_g9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 470_g9
+  confidence: auto

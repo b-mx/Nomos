@@ -1,0 +1,9 @@
+id: veeam-one
+vendor_id: veeam-one
+name: Veeam ONE
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: veeam-one
+  confidence: auto

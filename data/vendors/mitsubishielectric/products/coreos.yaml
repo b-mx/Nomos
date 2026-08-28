@@ -1,0 +1,10 @@
+id: coreos
+vendor_id: mitsubishielectric
+name: Coreos
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:coreos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coreos
+  confidence: auto

@@ -1,0 +1,10 @@
+id: intouch
+vendor_id: invensys
+name: Intouch
+type: software
+tags: []
+cpe: cpe:2.3:a:invensys:intouch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intouch
+  confidence: auto

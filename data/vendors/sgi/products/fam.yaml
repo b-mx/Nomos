@@ -1,0 +1,10 @@
+id: fam
+vendor_id: sgi
+name: Fam
+type: software
+tags: []
+cpe: cpe:2.3:a:sgi:fam:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fam
+  confidence: auto

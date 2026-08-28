@@ -1,0 +1,10 @@
+id: v-server
+vendor_id: fujielectric
+name: V-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:fujielectric:v\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v-server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: esr1200
+vendor_id: engeniustech
+name: Esr1200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:engeniustech:esr1200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esr1200
+  confidence: auto

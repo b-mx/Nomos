@@ -1,0 +1,10 @@
+id: microstation
+vendor_id: bentley
+name: Microstation
+type: software
+tags: []
+cpe: cpe:2.3:a:bentley:microstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microstation
+  confidence: auto

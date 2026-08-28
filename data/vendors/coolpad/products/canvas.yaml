@@ -1,0 +1,10 @@
+id: canvas
+vendor_id: coolpad
+name: Canvas
+type: hardware
+tags: []
+cpe: cpe:2.3:h:coolpad:canvas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: canvas
+  confidence: auto

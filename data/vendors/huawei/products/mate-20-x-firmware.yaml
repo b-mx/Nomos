@@ -1,0 +1,10 @@
+id: mate-20-x-firmware
+vendor_id: huawei
+name: Mate 20 X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:mate_20_x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mate_20_x_firmware
+  confidence: auto

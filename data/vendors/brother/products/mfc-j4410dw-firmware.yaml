@@ -1,0 +1,10 @@
+id: mfc-j4410dw-firmware
+vendor_id: brother
+name: Mfc-J4410Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-j4410dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-j4410dw_firmware
+  confidence: auto

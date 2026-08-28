@@ -1,0 +1,10 @@
+id: idataplex-dx360-m4
+vendor_id: lenovo
+name: Idataplex Dx360 M4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:idataplex_dx360_m4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: idataplex_dx360_m4
+  confidence: auto

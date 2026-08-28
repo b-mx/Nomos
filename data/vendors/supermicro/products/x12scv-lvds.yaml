@@ -1,0 +1,10 @@
+id: x12scv-lvds
+vendor_id: supermicro
+name: X12Scv-Lvds
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12scv\-lvds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12scv-lvds
+  confidence: auto

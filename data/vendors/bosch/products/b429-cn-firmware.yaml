@@ -1,0 +1,10 @@
+id: b429-cn-firmware
+vendor_id: bosch
+name: B429-Cn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:b429\-cn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b429-cn_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: corelcad
+vendor_id: corel
+name: Corelcad
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:corelcad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: corelcad
+  confidence: auto

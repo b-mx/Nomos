@@ -1,0 +1,10 @@
+id: poppassd-pam
+vendor_id: gentoo
+name: Poppassd Pam
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:poppassd_pam:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poppassd_pam
+  confidence: auto

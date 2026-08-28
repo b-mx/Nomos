@@ -1,0 +1,10 @@
+id: k14-type-21cu
+vendor_id: lenovo
+name: K14 Type 21Cu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:k14_type_21cu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k14_type_21cu
+  confidence: auto

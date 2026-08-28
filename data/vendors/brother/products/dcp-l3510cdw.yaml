@@ -1,0 +1,10 @@
+id: dcp-l3510cdw
+vendor_id: brother
+name: Dcp-L3510Cdw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-l3510cdw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-l3510cdw
+  confidence: auto

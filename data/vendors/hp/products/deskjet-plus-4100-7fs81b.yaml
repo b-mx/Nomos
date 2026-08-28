@@ -1,0 +1,10 @@
+id: deskjet-plus-4100-7fs81b
+vendor_id: hp
+name: Deskjet Plus 4100 7Fs81B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_plus_4100_7fs81b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_plus_4100_7fs81b
+  confidence: auto

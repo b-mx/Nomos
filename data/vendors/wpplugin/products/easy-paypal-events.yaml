@@ -1,0 +1,10 @@
+id: easy-paypal-events
+vendor_id: wpplugin
+name: Easy Paypal Events
+type: software
+tags: []
+cpe: cpe:2.3:a:wpplugin:easy_paypal_events:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easy_paypal_events
+  confidence: auto

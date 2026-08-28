@@ -1,0 +1,10 @@
+id: xec-dp64h-firmware
+vendor_id: ls-electric
+name: Xec-Dp64H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xec\-dp64h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dp64h_firmware
+  confidence: auto

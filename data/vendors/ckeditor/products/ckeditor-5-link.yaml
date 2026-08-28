@@ -1,0 +1,10 @@
+id: ckeditor-5-link
+vendor_id: ckeditor
+name: Ckeditor 5-Link
+type: software
+tags: []
+cpe: cpe:2.3:a:ckeditor:ckeditor_5\-link:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ckeditor_5-link
+  confidence: auto

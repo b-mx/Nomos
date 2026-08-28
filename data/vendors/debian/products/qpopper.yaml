@@ -1,0 +1,10 @@
+id: qpopper
+vendor_id: debian
+name: Qpopper
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:qpopper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qpopper
+  confidence: auto

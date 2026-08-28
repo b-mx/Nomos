@@ -1,0 +1,10 @@
+id: asoka-al00ax
+vendor_id: huawei
+name: Asoka-Al00Ax
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:asoka\-al00ax:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: asoka-al00ax
+  confidence: auto

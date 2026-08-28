@@ -1,0 +1,10 @@
+id: ae-200a
+vendor_id: mitsubishi
+name: Ae-200A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:ae\-200a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ae-200a
+  confidence: auto

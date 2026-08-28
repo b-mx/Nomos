@@ -1,0 +1,10 @@
+id: indian-jeweller
+vendor_id: magzter
+name: Indian Jeweller
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:indian_jeweller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: indian_jeweller
+  confidence: auto

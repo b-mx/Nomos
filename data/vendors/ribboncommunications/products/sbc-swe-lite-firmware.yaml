@@ -1,0 +1,10 @@
+id: sbc-swe-lite-firmware
+vendor_id: ribboncommunications
+name: Sbc Swe Lite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ribboncommunications:sbc_swe_lite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sbc_swe_lite_firmware
+  confidence: auto

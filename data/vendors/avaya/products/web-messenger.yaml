@@ -1,0 +1,10 @@
+id: web-messenger
+vendor_id: avaya
+name: Web Messenger
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:web_messenger:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_messenger
+  confidence: auto

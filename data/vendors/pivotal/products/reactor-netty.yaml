@@ -1,0 +1,10 @@
+id: reactor-netty
+vendor_id: pivotal
+name: Reactor Netty
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:reactor_netty:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reactor_netty
+  confidence: auto

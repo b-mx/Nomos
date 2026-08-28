@@ -1,0 +1,13 @@
+id: caddy
+vendor_id: caddyserver
+name: Caddy
+type: software
+tags: []
+cpe: cpe:2.3:a:caddyserver:caddy:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: caddy
+  confidence: auto
+- source: nvd
+  value: caddy
+  confidence: auto

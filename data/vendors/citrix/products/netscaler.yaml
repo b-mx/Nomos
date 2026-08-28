@@ -1,18 +1,9 @@
 id: netscaler
 vendor_id: citrix
 name: NetScaler
-type: appliance
-tags:
-- load-balancer
-- network-device
-icon: simple-icons:citrix
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: NetScaler
-  confidence: auto
-- source: cisa_kev
-  value: NetScaler ADC and NetScaler Gateway
-  confidence: auto
-- source: cisa_kev
-  value: NetScaler ADC and Gateway
   confidence: auto

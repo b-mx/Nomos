@@ -1,0 +1,10 @@
+id: x12sae-5-firmware
+vendor_id: supermicro
+name: X12Sae-5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x12sae\-5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12sae-5_firmware
+  confidence: auto

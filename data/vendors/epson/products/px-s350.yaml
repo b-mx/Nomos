@@ -1,0 +1,10 @@
+id: px-s350
+vendor_id: epson
+name: Px-S350
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-s350:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-s350
+  confidence: auto

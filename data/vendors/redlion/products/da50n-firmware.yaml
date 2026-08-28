@@ -1,0 +1,10 @@
+id: da50n-firmware
+vendor_id: redlion
+name: Da50N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:redlion:da50n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: da50n_firmware
+  confidence: auto

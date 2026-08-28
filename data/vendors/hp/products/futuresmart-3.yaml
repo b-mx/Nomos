@@ -1,0 +1,10 @@
+id: futuresmart-3
+vendor_id: hp
+name: Futuresmart 3
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:futuresmart_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: futuresmart_3
+  confidence: auto

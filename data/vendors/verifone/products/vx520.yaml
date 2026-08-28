@@ -1,0 +1,10 @@
+id: vx520
+vendor_id: verifone
+name: Vx520
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verifone:vx520:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx520
+  confidence: auto

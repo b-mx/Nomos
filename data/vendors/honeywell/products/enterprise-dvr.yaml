@@ -1,0 +1,10 @@
+id: enterprise-dvr
+vendor_id: honeywell
+name: Enterprise Dvr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:enterprise_dvr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_dvr
+  confidence: auto

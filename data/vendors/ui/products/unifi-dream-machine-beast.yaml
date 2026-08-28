@@ -1,0 +1,10 @@
+id: unifi-dream-machine-beast
+vendor_id: ui
+name: Unifi Dream Machine Beast
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:unifi_dream_machine_beast:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_dream_machine_beast
+  confidence: auto

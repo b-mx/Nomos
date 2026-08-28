@@ -1,0 +1,14 @@
+id: electron
+vendor_id: electronjs
+name: Electron
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:electronjs:electron:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: electron
+  confidence: auto
+- source: nvd
+  value: electron
+  confidence: auto

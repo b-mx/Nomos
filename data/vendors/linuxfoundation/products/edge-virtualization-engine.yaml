@@ -1,0 +1,10 @@
+id: edge-virtualization-engine
+vendor_id: linuxfoundation
+name: Edge Virtualization Engine
+type: os
+tags: []
+cpe: cpe:2.3:o:linuxfoundation:edge_virtualization_engine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edge_virtualization_engine
+  confidence: auto

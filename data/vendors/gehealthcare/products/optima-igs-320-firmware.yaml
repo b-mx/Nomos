@@ -1,0 +1,10 @@
+id: optima-igs-320-firmware
+vendor_id: gehealthcare
+name: Optima Igs 320 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:optima_igs_320_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_igs_320_firmware
+  confidence: auto

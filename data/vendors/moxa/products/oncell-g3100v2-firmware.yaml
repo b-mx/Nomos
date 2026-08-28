@@ -1,0 +1,10 @@
+id: oncell-g3100v2-firmware
+vendor_id: moxa
+name: Oncell G3100V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:oncell_g3100v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncell_g3100v2_firmware
+  confidence: auto

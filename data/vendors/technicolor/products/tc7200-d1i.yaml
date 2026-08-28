@@ -1,0 +1,10 @@
+id: tc7200-d1i
+vendor_id: technicolor
+name: Tc7200.D1I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tc7200\.d1i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7200.d1i
+  confidence: auto

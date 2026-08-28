@@ -1,0 +1,10 @@
+id: lan-w300n-r
+vendor_id: logitech
+name: Lan-W300N/R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:lan\-w300n\/r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-w300n/r
+  confidence: auto

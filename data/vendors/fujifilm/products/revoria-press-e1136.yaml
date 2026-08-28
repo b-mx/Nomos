@@ -1,0 +1,10 @@
+id: revoria-press-e1136
+vendor_id: fujifilm
+name: Revoria Press E1136
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:revoria_press_e1136:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revoria_press_e1136
+  confidence: auto

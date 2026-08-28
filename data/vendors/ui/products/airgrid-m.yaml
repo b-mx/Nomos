@@ -1,0 +1,10 @@
+id: airgrid-m
+vendor_id: ui
+name: Airgrid M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:airgrid_m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airgrid_m
+  confidence: auto

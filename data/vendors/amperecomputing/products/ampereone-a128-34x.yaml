@@ -1,0 +1,10 @@
+id: ampereone-a128-34x
+vendor_id: amperecomputing
+name: Ampereone A128-34X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amperecomputing:ampereone_a128\-34x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ampereone_a128-34x
+  confidence: auto

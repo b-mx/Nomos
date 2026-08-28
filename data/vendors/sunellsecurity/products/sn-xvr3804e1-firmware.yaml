@@ -1,0 +1,10 @@
+id: sn-xvr3804e1-firmware
+vendor_id: sunellsecurity
+name: Sn-Xvr3804E1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sunellsecurity:sn\-xvr3804e1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sn-xvr3804e1_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dupscout
+vendor_id: flexense
+name: Dupscout
+type: software
+tags: []
+cpe: cpe:2.3:a:flexense:dupscout:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dupscout
+  confidence: auto

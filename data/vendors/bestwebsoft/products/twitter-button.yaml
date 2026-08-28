@@ -1,0 +1,10 @@
+id: twitter-button
+vendor_id: bestwebsoft
+name: Twitter Button
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:twitter_button:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twitter_button
+  confidence: auto

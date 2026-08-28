@@ -1,0 +1,10 @@
+id: predictive-dialer-system
+vendor_id: avaya
+name: Predictive Dialer System
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:predictive_dialer_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: predictive_dialer_system
+  confidence: auto

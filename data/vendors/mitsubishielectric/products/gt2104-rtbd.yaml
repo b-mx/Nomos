@@ -1,0 +1,10 @@
+id: gt2104-rtbd
+vendor_id: mitsubishielectric
+name: Gt2104-Rtbd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:gt2104\-rtbd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gt2104-rtbd
+  confidence: auto

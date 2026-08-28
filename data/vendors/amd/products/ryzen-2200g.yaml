@@ -1,0 +1,10 @@
+id: ryzen-2200g
+vendor_id: amd
+name: Ryzen 2200G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_2200g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_2200g
+  confidence: auto

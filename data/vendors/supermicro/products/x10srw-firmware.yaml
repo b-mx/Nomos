@@ -1,0 +1,10 @@
+id: x10srw-firmware
+vendor_id: supermicro
+name: X10Srw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10srw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10srw_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: legion-r5-28imb05-firmware
+vendor_id: lenovo
+name: Legion R5-28Imb05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_r5\-28imb05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_r5-28imb05_firmware
+  confidence: auto

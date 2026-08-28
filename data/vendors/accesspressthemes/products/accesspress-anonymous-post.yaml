@@ -1,0 +1,10 @@
+id: accesspress-anonymous-post
+vendor_id: accesspressthemes
+name: Accesspress Anonymous Post
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:accesspress_anonymous_post:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accesspress_anonymous_post
+  confidence: auto

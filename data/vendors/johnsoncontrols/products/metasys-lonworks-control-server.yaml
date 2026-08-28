@@ -1,0 +1,10 @@
+id: metasys-lonworks-control-server
+vendor_id: johnsoncontrols
+name: Metasys Lonworks Control Server
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:metasys_lonworks_control_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: metasys_lonworks_control_server
+  confidence: auto

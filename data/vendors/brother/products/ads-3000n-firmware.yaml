@@ -1,0 +1,10 @@
+id: ads-3000n-firmware
+vendor_id: brother
+name: Ads-3000N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:ads\-3000n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ads-3000n_firmware
+  confidence: auto

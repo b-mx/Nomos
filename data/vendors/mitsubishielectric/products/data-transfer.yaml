@@ -1,0 +1,10 @@
+id: data-transfer
+vendor_id: mitsubishielectric
+name: Data Transfer
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:data_transfer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_transfer
+  confidence: auto

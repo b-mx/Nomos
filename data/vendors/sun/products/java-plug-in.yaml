@@ -1,0 +1,10 @@
+id: java-plug-in
+vendor_id: sun
+name: Java Plug-In
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:java_plug\-in:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: java_plug-in
+  confidence: auto

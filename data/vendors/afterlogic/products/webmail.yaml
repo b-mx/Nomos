@@ -1,0 +1,10 @@
+id: webmail
+vendor_id: afterlogic
+name: Webmail
+type: software
+tags: []
+cpe: cpe:2.3:a:afterlogic:webmail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webmail
+  confidence: auto

@@ -1,0 +1,10 @@
+id: px-7v-firmware
+vendor_id: epson
+name: Px-7V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:px\-7v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-7v_firmware
+  confidence: auto

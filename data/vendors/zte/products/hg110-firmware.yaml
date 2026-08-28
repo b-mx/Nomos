@@ -1,0 +1,10 @@
+id: hg110-firmware
+vendor_id: zte
+name: Hg110 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:hg110_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg110_firmware
+  confidence: auto

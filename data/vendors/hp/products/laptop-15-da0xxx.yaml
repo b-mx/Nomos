@@ -1,0 +1,10 @@
+id: laptop-15-da0xxx
+vendor_id: hp
+name: Laptop 15-Da0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_15\-da0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_15-da0xxx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: revolution-xq-i
+vendor_id: gehealthcare
+name: Revolution Xq/I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:revolution_xq\/i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revolution_xq/i
+  confidence: auto

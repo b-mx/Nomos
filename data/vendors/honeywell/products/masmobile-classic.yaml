@@ -1,0 +1,10 @@
+id: masmobile-classic
+vendor_id: honeywell
+name: Masmobile Classic
+type: software
+tags: []
+cpe: cpe:2.3:a:honeywell:masmobile_classic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: masmobile_classic
+  confidence: auto

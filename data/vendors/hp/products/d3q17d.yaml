@@ -1,0 +1,10 @@
+id: d3q17d
+vendor_id: hp
+name: D3Q17D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:d3q17d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d3q17d
+  confidence: auto

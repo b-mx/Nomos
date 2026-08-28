@@ -1,0 +1,10 @@
+id: lattice
+vendor_id: easydigitaldownloads
+name: Lattice
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:lattice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lattice
+  confidence: auto

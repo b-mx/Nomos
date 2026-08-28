@@ -1,0 +1,13 @@
+id: steamos
+vendor_id: valvesoftware
+name: SteamOS
+type: os
+tags: []
+cpe: cpe:2.3:o:valvesoftware:steamos:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: steamos
+  confidence: auto
+- source: nvd
+  value: steamos
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jd658a
+vendor_id: hp
+name: Jd658A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd658a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd658a
+  confidence: auto

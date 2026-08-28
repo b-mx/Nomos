@@ -1,0 +1,10 @@
+id: maintenance-page
+vendor_id: themegrill
+name: Maintenance Page
+type: software
+tags: []
+cpe: cpe:2.3:a:themegrill:maintenance_page:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maintenance_page
+  confidence: auto

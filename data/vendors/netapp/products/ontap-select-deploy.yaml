@@ -1,0 +1,10 @@
+id: ontap-select-deploy
+vendor_id: netapp
+name: Ontap Select Deploy
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:ontap_select_deploy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ontap_select_deploy
+  confidence: auto

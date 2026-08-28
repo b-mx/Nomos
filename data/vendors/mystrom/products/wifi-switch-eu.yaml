@@ -1,0 +1,10 @@
+id: wifi-switch-eu
+vendor_id: mystrom
+name: Wifi Switch Eu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mystrom:wifi_switch_eu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifi_switch_eu
+  confidence: auto

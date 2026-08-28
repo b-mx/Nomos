@@ -1,0 +1,10 @@
+id: jetwave-5810g-firmware
+vendor_id: korenix
+name: Jetwave 5810G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetwave_5810g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_5810g_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fizz
+vendor_id: facebook
+name: Fizz
+type: software
+tags: []
+cpe: cpe:2.3:a:facebook:fizz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fizz
+  confidence: auto

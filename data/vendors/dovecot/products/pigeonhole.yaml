@@ -1,0 +1,13 @@
+id: pigeonhole
+vendor_id: dovecot
+name: Pigeonhole
+type: software
+tags: []
+cpe: cpe:2.3:a:dovecot:pigeonhole:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: pigeonhole
+  confidence: auto
+- source: nvd
+  value: pigeonhole
+  confidence: auto

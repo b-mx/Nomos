@@ -1,0 +1,10 @@
+id: zendservice-slideshare
+vendor_id: zend
+name: Zendservice Slideshare
+type: software
+tags: []
+cpe: cpe:2.3:a:zend:zendservice_slideshare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zendservice_slideshare
+  confidence: auto

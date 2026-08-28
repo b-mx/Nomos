@@ -1,0 +1,10 @@
+id: go-fbwidget
+vendor_id: goforandroid
+name: Go Fbwidget
+type: software
+tags: []
+cpe: cpe:2.3:a:goforandroid:go_fbwidget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_fbwidget
+  confidence: auto

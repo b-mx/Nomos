@@ -1,0 +1,10 @@
+id: x11qpl
+vendor_id: supermicro
+name: X11Qpl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11qpl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11qpl
+  confidence: auto

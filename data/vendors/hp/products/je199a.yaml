@@ -1,0 +1,10 @@
+id: je199a
+vendor_id: hp
+name: Je199A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je199a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je199a
+  confidence: auto

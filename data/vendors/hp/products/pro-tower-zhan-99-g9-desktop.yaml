@@ -1,0 +1,10 @@
+id: pro-tower-zhan-99-g9-desktop
+vendor_id: hp
+name: Pro Tower Zhan 99 G9 Desktop
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pro_tower_zhan_99_g9_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_tower_zhan_99_g9_desktop
+  confidence: auto

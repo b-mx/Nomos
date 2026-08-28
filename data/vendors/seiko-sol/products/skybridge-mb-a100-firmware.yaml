@@ -1,0 +1,10 @@
+id: skybridge-mb-a100-firmware
+vendor_id: seiko-sol
+name: Skybridge Mb-A100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seiko\-sol:skybridge_mb\-a100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skybridge_mb-a100_firmware
+  confidence: auto

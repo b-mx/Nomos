@@ -1,0 +1,10 @@
+id: inventor
+vendor_id: autodesk
+name: Inventor
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:inventor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inventor
+  confidence: auto

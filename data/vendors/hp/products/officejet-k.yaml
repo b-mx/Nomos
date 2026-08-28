@@ -1,0 +1,10 @@
+id: officejet-k
+vendor_id: hp
+name: Officejet K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_k
+  confidence: auto

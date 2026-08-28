@@ -1,0 +1,10 @@
+id: rs-500mi-firmware
+vendor_id: ntt-east
+name: Rs-500Mi Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ntt\-east:rs\-500mi_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rs-500mi_firmware
+  confidence: auto

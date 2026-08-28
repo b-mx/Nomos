@@ -1,0 +1,10 @@
+id: vsp-e390
+vendor_id: hitachi
+name: Vsp E390
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachi:vsp_e390:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsp_e390
+  confidence: auto

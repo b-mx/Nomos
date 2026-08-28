@@ -1,0 +1,10 @@
+id: nautilus
+vendor_id: gnome
+name: Nautilus
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:nautilus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nautilus
+  confidence: auto

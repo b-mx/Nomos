@@ -1,0 +1,10 @@
+id: oaklouds-openid
+vendor_id: hgiga
+name: Oaklouds Openid
+type: software
+tags: []
+cpe: cpe:2.3:a:hgiga:oaklouds_openid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oaklouds_openid
+  confidence: auto

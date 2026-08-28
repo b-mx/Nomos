@@ -1,0 +1,10 @@
+id: yangtian-mc-h110-pci
+vendor_id: lenovo
+name: Yangtian Mc H110 Pci
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yangtian_mc_h110_pci:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_mc_h110_pci
+  confidence: auto

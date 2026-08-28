@@ -1,0 +1,10 @@
+id: openstage-15
+vendor_id: unify
+name: Openstage 15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unify:openstage_15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstage_15
+  confidence: auto

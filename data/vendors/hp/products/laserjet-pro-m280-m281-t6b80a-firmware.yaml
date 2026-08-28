@@ -1,0 +1,10 @@
+id: laserjet-pro-m280-m281-t6b80a-firmware
+vendor_id: hp
+name: Laserjet Pro M280-M281 T6B80A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m280\-m281_t6b80a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m280-m281_t6b80a_firmware
+  confidence: auto

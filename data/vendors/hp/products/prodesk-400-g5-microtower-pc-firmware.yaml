@@ -1,0 +1,10 @@
+id: prodesk-400-g5-microtower-pc-firmware
+vendor_id: hp
+name: Prodesk 400 G5 Microtower Pc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:prodesk_400_g5_microtower_pc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_400_g5_microtower_pc_firmware
+  confidence: auto

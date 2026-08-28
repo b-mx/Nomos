@@ -1,0 +1,10 @@
+id: h4l6gr2-firmware
+vendor_id: honeywell
+name: H4L6Gr2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:h4l6gr2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h4l6gr2_firmware
+  confidence: auto

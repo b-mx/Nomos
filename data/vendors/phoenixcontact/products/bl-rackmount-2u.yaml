@@ -1,0 +1,10 @@
+id: bl-rackmount-2u
+vendor_id: phoenixcontact
+name: Bl Rackmount 2U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:bl_rackmount_2u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl_rackmount_2u
+  confidence: auto

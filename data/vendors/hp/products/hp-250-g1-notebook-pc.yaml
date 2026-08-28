@@ -1,0 +1,10 @@
+id: hp-250-g1-notebook-pc
+vendor_id: hp
+name: Hp 250 G1 Notebook Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_250_g1_notebook_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_250_g1_notebook_pc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jupyter-server
+vendor_id: jupyter
+name: Jupyter Server
+type: software
+tags: []
+cpe: cpe:2.3:a:jupyter:jupyter_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jupyter_server
+  confidence: auto

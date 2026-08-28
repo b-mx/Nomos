@@ -1,0 +1,10 @@
+id: veradius-unity
+vendor_id: philips
+name: Veradius Unity
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:veradius_unity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: veradius_unity
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkcentre-neo-50s-gen-3
+vendor_id: lenovo
+name: Thinkcentre Neo 50S Gen 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_neo_50s_gen_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_neo_50s_gen_3
+  confidence: auto

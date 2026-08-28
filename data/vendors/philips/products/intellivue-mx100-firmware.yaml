@@ -1,0 +1,10 @@
+id: intellivue-mx100-firmware
+vendor_id: philips
+name: Intellivue Mx100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:intellivue_mx100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellivue_mx100_firmware
+  confidence: auto

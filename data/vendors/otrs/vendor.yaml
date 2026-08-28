@@ -1,0 +1,7 @@
+id: otrs
+name: Otrs
+cpe: cpe:2.3:*:otrs:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: otrs
+  confidence: auto

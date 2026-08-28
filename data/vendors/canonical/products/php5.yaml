@@ -1,0 +1,10 @@
+id: php5
+vendor_id: canonical
+name: Php5
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:php5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: php5
+  confidence: auto

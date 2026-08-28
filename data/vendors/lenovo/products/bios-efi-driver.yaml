@@ -1,0 +1,10 @@
+id: bios-efi-driver
+vendor_id: lenovo
+name: Bios Efi Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:bios_efi_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bios_efi_driver
+  confidence: auto

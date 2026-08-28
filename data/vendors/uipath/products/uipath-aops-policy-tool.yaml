@@ -1,0 +1,10 @@
+id: uipath-aops-policy-tool
+vendor_id: uipath
+name: Uipath/Aops-Policy-Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/aops\-policy\-tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/aops-policy-tool
+  confidence: auto

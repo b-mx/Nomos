@@ -1,0 +1,10 @@
+id: b-m9000cs
+vendor_id: yokogawa
+name: B/M9000Cs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yokogawa:b\/m9000cs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b/m9000cs
+  confidence: auto

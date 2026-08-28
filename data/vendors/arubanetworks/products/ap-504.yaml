@@ -1,0 +1,10 @@
+id: ap-504
+vendor_id: arubanetworks
+name: Ap-504
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-504:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-504
+  confidence: auto

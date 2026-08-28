@@ -1,0 +1,10 @@
+id: products-pluggableauthservice
+vendor_id: zope
+name: Products.Pluggableauthservice
+type: software
+tags: []
+cpe: cpe:2.3:a:zope:products\.pluggableauthservice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: products.pluggableauthservice
+  confidence: auto

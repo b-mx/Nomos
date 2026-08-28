@@ -1,0 +1,7 @@
+id: mandriva
+name: Mandriva
+cpe: cpe:2.3:*:mandriva:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mandriva
+  confidence: auto

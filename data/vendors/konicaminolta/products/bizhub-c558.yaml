@@ -1,0 +1,10 @@
+id: bizhub-c558
+vendor_id: konicaminolta
+name: Bizhub C558
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_c558:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_c558
+  confidence: auto

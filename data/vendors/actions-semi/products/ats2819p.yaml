@@ -1,0 +1,10 @@
+id: ats2819p
+vendor_id: actions-semi
+name: Ats2819P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:actions\-semi:ats2819p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ats2819p
+  confidence: auto

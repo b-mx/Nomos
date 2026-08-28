@@ -1,0 +1,10 @@
+id: sanworks-resource-monitor
+vendor_id: compaq
+name: Sanworks Resource Monitor
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:sanworks_resource_monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sanworks_resource_monitor
+  confidence: auto

@@ -1,0 +1,10 @@
+id: qolsys-iq4-hub
+vendor_id: johnsoncontrols
+name: Qolsys Iq4 Hub
+type: hardware
+tags: []
+cpe: cpe:2.3:h:johnsoncontrols:qolsys_iq4_hub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qolsys_iq4_hub
+  confidence: auto

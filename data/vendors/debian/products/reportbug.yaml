@@ -1,0 +1,10 @@
+id: reportbug
+vendor_id: debian
+name: Reportbug
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:reportbug:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reportbug
+  confidence: auto

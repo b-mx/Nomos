@@ -1,0 +1,10 @@
+id: t400c
+vendor_id: barracuda
+name: T400C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:barracuda:t400c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t400c
+  confidence: auto

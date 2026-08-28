@@ -1,0 +1,10 @@
+id: onlinesuite-application-package
+vendor_id: bbraun
+name: Onlinesuite Application Package
+type: software
+tags: []
+cpe: cpe:2.3:a:bbraun:onlinesuite_application_package:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: onlinesuite_application_package
+  confidence: auto

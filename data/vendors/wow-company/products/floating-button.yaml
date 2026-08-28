@@ -1,0 +1,10 @@
+id: floating-button
+vendor_id: wow-company
+name: Floating Button
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:floating_button:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: floating_button
+  confidence: auto

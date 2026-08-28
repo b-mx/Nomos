@@ -1,0 +1,10 @@
+id: cp1w-mad11
+vendor_id: omron
+name: Cp1W-Mad11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp1w\-mad11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-mad11
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hammer-cli
+vendor_id: theforeman
+name: Hammer Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:theforeman:hammer_cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hammer_cli
+  confidence: auto

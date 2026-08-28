@@ -1,0 +1,10 @@
+id: 218-pro-g5-mt
+vendor_id: hp
+name: 218 Pro G5 Mt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:218_pro_g5_mt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 218_pro_g5_mt
+  confidence: auto

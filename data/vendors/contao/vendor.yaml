@@ -1,0 +1,7 @@
+id: contao
+name: Contao
+cpe: cpe:2.3:*:contao:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contao
+  confidence: auto

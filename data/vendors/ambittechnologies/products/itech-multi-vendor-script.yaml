@@ -1,0 +1,10 @@
+id: itech-multi-vendor-script
+vendor_id: ambittechnologies
+name: Itech Multi Vendor Script
+type: software
+tags: []
+cpe: cpe:2.3:a:ambittechnologies:itech_multi_vendor_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itech_multi_vendor_script
+  confidence: auto

@@ -1,0 +1,10 @@
+id: opera-mini
+vendor_id: opera
+name: Opera Mini
+type: software
+tags: []
+cpe: cpe:2.3:a:opera:opera_mini:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opera_mini
+  confidence: auto

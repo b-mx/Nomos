@@ -1,0 +1,10 @@
+id: tg-lr-t280
+vendor_id: siklu
+name: Tg Lr T280
+type: hardware
+tags: []
+cpe: cpe:2.3:h:siklu:tg_lr_t280:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg_lr_t280
+  confidence: auto

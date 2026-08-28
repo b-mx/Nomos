@@ -1,0 +1,10 @@
+id: vb120-firmware
+vendor_id: bridgetech
+name: Vb120 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bridgetech:vb120_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vb120_firmware
+  confidence: auto

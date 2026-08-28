@@ -1,0 +1,10 @@
+id: wab-mat
+vendor_id: elecom
+name: Wab-Mat
+type: software
+tags: []
+cpe: cpe:2.3:a:elecom:wab\-mat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wab-mat
+  confidence: auto

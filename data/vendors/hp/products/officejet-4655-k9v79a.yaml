@@ -1,0 +1,10 @@
+id: officejet-4655-k9v79a
+vendor_id: hp
+name: Officejet 4655 K9V79A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_4655_k9v79a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_4655_k9v79a
+  confidence: auto

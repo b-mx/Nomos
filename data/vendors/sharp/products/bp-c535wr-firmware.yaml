@@ -1,0 +1,10 @@
+id: bp-c535wr-firmware
+vendor_id: sharp
+name: Bp-C535Wr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:bp\-c535wr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bp-c535wr_firmware
+  confidence: auto

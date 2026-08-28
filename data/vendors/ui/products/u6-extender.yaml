@@ -1,0 +1,10 @@
+id: u6-extender
+vendor_id: ui
+name: U6-Extender
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:u6\-extender:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: u6-extender
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dtsaa
+vendor_id: rstinstruments
+name: Dtsaa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:dtsaa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dtsaa
+  confidence: auto

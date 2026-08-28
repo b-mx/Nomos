@@ -1,0 +1,10 @@
+id: awk-6232-firmware
+vendor_id: moxa
+name: Awk-6232 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:awk\-6232_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awk-6232_firmware
+  confidence: auto

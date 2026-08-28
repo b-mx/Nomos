@@ -1,0 +1,10 @@
+id: mb3170
+vendor_id: moxa
+name: Mb3170
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:mb3170:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mb3170
+  confidence: auto

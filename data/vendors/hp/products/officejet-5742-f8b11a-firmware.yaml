@@ -1,0 +1,10 @@
+id: officejet-5742-f8b11a-firmware
+vendor_id: hp
+name: Officejet 5742 F8B11A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_5742_f8b11a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_5742_f8b11a_firmware
+  confidence: auto

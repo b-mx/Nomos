@@ -1,0 +1,10 @@
+id: gs-drives
+vendor_id: automationdirect
+name: Gs Drives
+type: hardware
+tags: []
+cpe: cpe:2.3:h:automationdirect:gs_drives:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gs_drives
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lina
+vendor_id: fit2cloud
+name: Lina
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:lina:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lina
+  confidence: auto

@@ -1,0 +1,10 @@
+id: valleylab-fx8-energy-platform
+vendor_id: medtronic
+name: Valleylab Fx8 Energy Platform
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:valleylab_fx8_energy_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: valleylab_fx8_energy_platform
+  confidence: auto

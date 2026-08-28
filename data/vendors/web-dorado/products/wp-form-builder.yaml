@@ -1,0 +1,10 @@
+id: wp-form-builder
+vendor_id: web-dorado
+name: Wp Form Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:web\-dorado:wp_form_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_form_builder
+  confidence: auto

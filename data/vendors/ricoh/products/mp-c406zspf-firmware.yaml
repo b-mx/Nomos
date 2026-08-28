@@ -1,0 +1,10 @@
+id: mp-c406zspf-firmware
+vendor_id: ricoh
+name: Mp C406Zspf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:mp_c406zspf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c406zspf_firmware
+  confidence: auto

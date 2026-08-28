@@ -1,0 +1,10 @@
+id: jf815a
+vendor_id: hp
+name: Jf815A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf815a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf815a
+  confidence: auto

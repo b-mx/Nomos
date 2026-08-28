@@ -1,0 +1,10 @@
+id: ubuntu-desktop-provision
+vendor_id: canonical
+name: Ubuntu Desktop Provision
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:ubuntu_desktop_provision:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ubuntu_desktop_provision
+  confidence: auto

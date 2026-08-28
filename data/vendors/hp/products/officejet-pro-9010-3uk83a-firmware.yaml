@@ -1,0 +1,10 @@
+id: officejet-pro-9010-3uk83a-firmware
+vendor_id: hp
+name: Officejet Pro 9010 3Uk83A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_pro_9010_3uk83a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_9010_3uk83a_firmware
+  confidence: auto

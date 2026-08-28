@@ -1,0 +1,10 @@
+id: rabbitmq
+vendor_id: anynines
+name: Rabbitmq
+type: software
+tags: []
+cpe: cpe:2.3:a:anynines:rabbitmq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rabbitmq
+  confidence: auto

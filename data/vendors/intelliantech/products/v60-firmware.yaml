@@ -1,0 +1,10 @@
+id: v60-firmware
+vendor_id: intelliantech
+name: V60 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelliantech:v60_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v60_firmware
+  confidence: auto

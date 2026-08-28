@@ -1,0 +1,10 @@
+id: v330-15igm
+vendor_id: lenovo
+name: V330-15Igm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v330\-15igm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v330-15igm
+  confidence: auto

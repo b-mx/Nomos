@@ -1,0 +1,10 @@
+id: i-sensys-mf641cw
+vendor_id: canon
+name: I-Sensys Mf641Cw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:i\-sensys_mf641cw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i-sensys_mf641cw
+  confidence: auto

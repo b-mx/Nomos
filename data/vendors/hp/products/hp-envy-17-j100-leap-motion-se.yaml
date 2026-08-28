@@ -1,0 +1,10 @@
+id: hp-envy-17-j100-leap-motion-se
+vendor_id: hp
+name: Hp Envy 17-J100 Leap Motion Se
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_envy_17\-j100_leap_motion_se:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_envy_17-j100_leap_motion_se
+  confidence: auto

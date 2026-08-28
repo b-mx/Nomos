@@ -1,0 +1,10 @@
+id: omnipcx-office
+vendor_id: alcatel-lucent
+name: Omnipcx Office
+type: software
+tags: []
+cpe: cpe:2.3:a:alcatel\-lucent:omnipcx_office:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omnipcx_office
+  confidence: auto

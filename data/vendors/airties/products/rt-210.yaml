@@ -1,0 +1,10 @@
+id: rt-210
+vendor_id: airties
+name: Rt-210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:airties:rt\-210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-210
+  confidence: auto

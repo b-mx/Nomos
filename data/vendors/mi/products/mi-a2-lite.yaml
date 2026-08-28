@@ -1,0 +1,10 @@
+id: mi-a2-lite
+vendor_id: mi
+name: Mi A2 Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:mi_a2_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mi_a2_lite
+  confidence: auto

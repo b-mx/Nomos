@@ -1,0 +1,10 @@
+id: nova243
+vendor_id: baicells
+name: Nova243
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baicells:nova243:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova243
+  confidence: auto

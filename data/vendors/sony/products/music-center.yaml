@@ -1,0 +1,10 @@
+id: music-center
+vendor_id: sony
+name: Music Center
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:music_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: music_center
+  confidence: auto

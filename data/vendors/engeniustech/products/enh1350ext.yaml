@@ -1,0 +1,10 @@
+id: enh1350ext
+vendor_id: engeniustech
+name: Enh1350Ext
+type: hardware
+tags: []
+cpe: cpe:2.3:h:engeniustech:enh1350ext:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enh1350ext
+  confidence: auto

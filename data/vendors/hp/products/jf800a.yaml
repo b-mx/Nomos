@@ -1,0 +1,10 @@
+id: jf800a
+vendor_id: hp
+name: Jf800A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf800a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf800a
+  confidence: auto

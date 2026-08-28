@@ -1,0 +1,7 @@
+id: swann
+name: Swann
+cpe: cpe:2.3:*:swann:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swann
+  confidence: auto

@@ -1,0 +1,10 @@
+id: imail-server
+vendor_id: ipswitch
+name: Imail Server
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:imail_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imail_server
+  confidence: auto

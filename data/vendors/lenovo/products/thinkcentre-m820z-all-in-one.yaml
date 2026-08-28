@@ -1,0 +1,10 @@
+id: thinkcentre-m820z-all-in-one
+vendor_id: lenovo
+name: Thinkcentre M820Z All-In-One
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m820z_all\-in\-one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m820z_all-in-one
+  confidence: auto

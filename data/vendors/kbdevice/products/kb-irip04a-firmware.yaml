@@ -1,0 +1,10 @@
+id: kb-irip04a-firmware
+vendor_id: kbdevice
+name: Kb-Irip04A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kbdevice:kb\-irip04a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kb-irip04a_firmware
+  confidence: auto

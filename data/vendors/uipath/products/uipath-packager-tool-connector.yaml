@@ -1,0 +1,10 @@
+id: uipath-packager-tool-connector
+vendor_id: uipath
+name: Uipath/Packager-Tool-Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/packager\-tool\-connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/packager-tool-connector
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a-220-4matic
+vendor_id: mercedes-benz
+name: A 220 4Matic
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mercedes\-benz:a_220_4matic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a_220_4matic
+  confidence: auto

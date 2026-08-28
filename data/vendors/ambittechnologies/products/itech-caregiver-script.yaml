@@ -1,0 +1,10 @@
+id: itech-caregiver-script
+vendor_id: ambittechnologies
+name: Itech Caregiver Script
+type: software
+tags: []
+cpe: cpe:2.3:a:ambittechnologies:itech_caregiver_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itech_caregiver_script
+  confidence: auto

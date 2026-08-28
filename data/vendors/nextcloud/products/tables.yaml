@@ -1,0 +1,10 @@
+id: tables
+vendor_id: nextcloud
+name: Tables
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:tables:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tables
+  confidence: auto

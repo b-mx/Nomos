@@ -1,0 +1,10 @@
+id: acpi-support
+vendor_id: canonical
+name: Acpi-Support
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:acpi\-support:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: acpi-support
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mx-2600g
+vendor_id: sharp
+name: Mx-2600G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-2600g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-2600g
+  confidence: auto

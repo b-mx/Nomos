@@ -1,0 +1,10 @@
+id: k7-antivirus-premium
+vendor_id: k7computing
+name: K7 Antivirus Premium
+type: software
+tags: []
+cpe: cpe:2.3:a:k7computing:k7_antivirus_premium:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k7_antivirus_premium
+  confidence: auto

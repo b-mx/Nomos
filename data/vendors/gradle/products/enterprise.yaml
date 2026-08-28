@@ -1,0 +1,10 @@
+id: enterprise
+vendor_id: gradle
+name: Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:gradle:enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise
+  confidence: auto

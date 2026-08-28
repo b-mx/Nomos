@@ -1,0 +1,10 @@
+id: lifebook-u5313x
+vendor_id: fujitsu
+name: Lifebook U5313X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:lifebook_u5313x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lifebook_u5313x
+  confidence: auto

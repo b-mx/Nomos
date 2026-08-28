@@ -1,0 +1,10 @@
+id: rt-ac1900p
+vendor_id: asuswrt-merlin
+name: Rt Ac1900P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt_ac1900p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt_ac1900p
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aruba-cx-8400-jl376a
+vendor_id: hpe
+name: Aruba Cx 8400 (Jl376A)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_8400_\(jl376a\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_8400_(jl376a)
+  confidence: auto

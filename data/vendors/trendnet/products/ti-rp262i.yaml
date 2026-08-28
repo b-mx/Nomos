@@ -1,0 +1,10 @@
+id: ti-rp262i
+vendor_id: trendnet
+name: Ti-Rp262I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:ti\-rp262i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ti-rp262i
+  confidence: auto

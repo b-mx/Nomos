@@ -1,0 +1,10 @@
+id: dr6-704a4h-firmware
+vendor_id: huntcctv
+name: Dr6-704A4H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huntcctv:dr6\-704a4h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr6-704a4h_firmware
+  confidence: auto

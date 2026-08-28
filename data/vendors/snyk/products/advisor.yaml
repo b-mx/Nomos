@@ -1,0 +1,10 @@
+id: advisor
+vendor_id: snyk
+name: Advisor
+type: software
+tags: []
+cpe: cpe:2.3:a:snyk:advisor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advisor
+  confidence: auto

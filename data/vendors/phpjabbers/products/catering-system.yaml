@@ -1,0 +1,10 @@
+id: catering-system
+vendor_id: phpjabbers
+name: Catering System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:catering_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catering_system
+  confidence: auto

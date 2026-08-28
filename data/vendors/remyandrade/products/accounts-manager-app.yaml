@@ -1,0 +1,10 @@
+id: accounts-manager-app
+vendor_id: remyandrade
+name: Accounts Manager App
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:accounts_manager_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accounts_manager_app
+  confidence: auto

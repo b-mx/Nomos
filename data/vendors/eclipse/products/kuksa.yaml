@@ -1,0 +1,10 @@
+id: kuksa
+vendor_id: eclipse
+name: Kuksa
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:kuksa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kuksa
+  confidence: auto

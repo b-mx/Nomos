@@ -1,0 +1,10 @@
+id: pyxis-cato
+vendor_id: bd
+name: Pyxis Cato
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_cato:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_cato
+  confidence: auto

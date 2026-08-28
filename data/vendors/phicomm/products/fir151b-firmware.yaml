@@ -1,0 +1,10 @@
+id: fir151b-firmware
+vendor_id: phicomm
+name: Fir151B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phicomm:fir151b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fir151b_firmware
+  confidence: auto

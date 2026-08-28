@@ -1,0 +1,10 @@
+id: rx-1500
+vendor_id: intelbras
+name: Rx 1500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:rx_1500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx_1500
+  confidence: auto

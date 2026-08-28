@@ -1,0 +1,10 @@
+id: ryzen-6980hs
+vendor_id: amd
+name: Ryzen 6980Hs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_6980hs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_6980hs
+  confidence: auto

@@ -1,0 +1,10 @@
+id: embedded-pc-images
+vendor_id: beckhoff
+name: Embedded Pc Images
+type: software
+tags: []
+cpe: cpe:2.3:a:beckhoff:embedded_pc_images:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: embedded_pc_images
+  confidence: auto

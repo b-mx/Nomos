@@ -1,0 +1,10 @@
+id: nullmailer
+vendor_id: gentoo
+name: Nullmailer
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:nullmailer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nullmailer
+  confidence: auto

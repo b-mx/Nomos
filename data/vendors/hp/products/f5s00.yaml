@@ -1,0 +1,10 @@
+id: f5s00
+vendor_id: hp
+name: F5S00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f5s00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f5s00
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xf70-firmware
+vendor_id: sony
+name: Xf70 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:xf70_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xf70_firmware
+  confidence: auto

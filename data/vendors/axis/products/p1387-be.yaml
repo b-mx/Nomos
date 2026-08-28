@@ -1,0 +1,10 @@
+id: p1387-be
+vendor_id: axis
+name: P1387-Be
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p1387\-be:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p1387-be
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vertica
+vendor_id: opentext
+name: Vertica
+type: software
+tags: []
+cpe: cpe:2.3:a:opentext:vertica:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vertica
+  confidence: auto

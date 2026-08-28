@@ -1,0 +1,10 @@
+id: y7000-2019-1050
+vendor_id: lenovo
+name: Y7000 2019 1050
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:y7000_2019_1050:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: y7000_2019_1050
+  confidence: auto

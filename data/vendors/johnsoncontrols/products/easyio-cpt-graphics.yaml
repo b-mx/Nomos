@@ -1,0 +1,10 @@
+id: easyio-cpt-graphics
+vendor_id: johnsoncontrols
+name: Easyio Cpt Graphics
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:easyio_cpt_graphics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easyio_cpt_graphics
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sft-dab-600-c
+vendor_id: dbbroadcast
+name: Sft Dab 600/C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dbbroadcast:sft_dab_600\/c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sft_dab_600/c
+  confidence: auto

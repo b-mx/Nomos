@@ -1,0 +1,10 @@
+id: s2a-wl
+vendor_id: gocloud
+name: S2A Wl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gocloud:s2a_wl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s2a_wl
+  confidence: auto

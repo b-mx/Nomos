@@ -1,0 +1,10 @@
+id: matrix-rust-sdk
+vendor_id: matrix
+name: Matrix-Rust-Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:matrix\-rust\-sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: matrix-rust-sdk
+  confidence: auto

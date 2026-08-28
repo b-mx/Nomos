@@ -1,0 +1,10 @@
+id: gl-mifi
+vendor_id: gl-inet
+name: Gl-Mifi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-mifi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-mifi
+  confidence: auto

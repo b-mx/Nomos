@@ -1,0 +1,10 @@
+id: q03udvcpu
+vendor_id: mitsubishielectric
+name: Q03Udvcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:q03udvcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q03udvcpu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aura-messaging
+vendor_id: avaya
+name: Aura Messaging
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:aura_messaging:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aura_messaging
+  confidence: auto

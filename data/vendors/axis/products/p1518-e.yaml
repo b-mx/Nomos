@@ -1,0 +1,10 @@
+id: p1518-e
+vendor_id: axis
+name: P1518-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p1518\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p1518-e
+  confidence: auto

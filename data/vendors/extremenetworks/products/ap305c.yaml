@@ -1,0 +1,10 @@
+id: ap305c
+vendor_id: extremenetworks
+name: Ap305C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap305c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap305c
+  confidence: auto

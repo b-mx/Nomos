@@ -1,0 +1,10 @@
+id: optivity-telephony-manager
+vendor_id: nortel
+name: Optivity Telephony Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:optivity_telephony_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optivity_telephony_manager
+  confidence: auto

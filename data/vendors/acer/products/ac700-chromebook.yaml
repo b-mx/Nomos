@@ -1,0 +1,10 @@
+id: ac700-chromebook
+vendor_id: acer
+name: Ac700 Chromebook
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:ac700_chromebook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac700_chromebook
+  confidence: auto

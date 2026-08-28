@@ -1,0 +1,10 @@
+id: f15
+vendor_id: oppo
+name: F15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:f15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f15
+  confidence: auto

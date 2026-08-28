@@ -1,0 +1,7 @@
+id: pnpm
+name: Pnpm
+cpe: cpe:2.3:*:pnpm:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pnpm
+  confidence: auto

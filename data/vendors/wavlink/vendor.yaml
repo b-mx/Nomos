@@ -1,0 +1,7 @@
+id: wavlink
+name: Wavlink
+cpe: cpe:2.3:*:wavlink:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wavlink
+  confidence: auto

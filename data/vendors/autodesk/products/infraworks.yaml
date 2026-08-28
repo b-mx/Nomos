@@ -1,0 +1,10 @@
+id: infraworks
+vendor_id: autodesk
+name: Infraworks
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:infraworks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infraworks
+  confidence: auto

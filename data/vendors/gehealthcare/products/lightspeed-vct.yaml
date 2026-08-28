@@ -1,0 +1,10 @@
+id: lightspeed-vct
+vendor_id: gehealthcare
+name: Lightspeed Vct
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:lightspeed_vct:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lightspeed_vct
+  confidence: auto

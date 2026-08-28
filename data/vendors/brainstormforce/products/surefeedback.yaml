@@ -1,0 +1,10 @@
+id: surefeedback
+vendor_id: brainstormforce
+name: Surefeedback
+type: software
+tags: []
+cpe: cpe:2.3:a:brainstormforce:surefeedback:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: surefeedback
+  confidence: auto

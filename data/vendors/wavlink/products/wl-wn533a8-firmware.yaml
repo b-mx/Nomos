@@ -1,0 +1,10 @@
+id: wl-wn533a8-firmware
+vendor_id: wavlink
+name: Wl-Wn533A8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wavlink:wl\-wn533a8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-wn533a8_firmware
+  confidence: auto

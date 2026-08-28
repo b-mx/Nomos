@@ -1,0 +1,10 @@
+id: ryzen-3-3500c
+vendor_id: amd
+name: Ryzen 3 3500C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3_3500c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3_3500c
+  confidence: auto

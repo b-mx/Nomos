@@ -1,0 +1,10 @@
+id: ryzen-5600x
+vendor_id: amd
+name: Ryzen 5600X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5600x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5600x
+  confidence: auto

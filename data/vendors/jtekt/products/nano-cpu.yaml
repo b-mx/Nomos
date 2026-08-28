@@ -1,0 +1,10 @@
+id: nano-cpu
+vendor_id: jtekt
+name: Nano Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:nano_cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nano_cpu
+  confidence: auto

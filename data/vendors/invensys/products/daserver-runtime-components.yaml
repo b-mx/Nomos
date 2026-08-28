@@ -1,0 +1,10 @@
+id: daserver-runtime-components
+vendor_id: invensys
+name: Daserver Runtime Components
+type: software
+tags: []
+cpe: cpe:2.3:a:invensys:daserver_runtime_components:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: daserver_runtime_components
+  confidence: auto

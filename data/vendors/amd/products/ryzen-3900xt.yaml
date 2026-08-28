@@ -1,0 +1,10 @@
+id: ryzen-3900xt
+vendor_id: amd
+name: Ryzen 3900Xt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3900xt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3900xt
+  confidence: auto

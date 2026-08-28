@@ -1,0 +1,10 @@
+id: l-inx-configurator
+vendor_id: loytec
+name: L-Inx Configurator
+type: software
+tags: []
+cpe: cpe:2.3:a:loytec:l\-inx_configurator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l-inx_configurator
+  confidence: auto

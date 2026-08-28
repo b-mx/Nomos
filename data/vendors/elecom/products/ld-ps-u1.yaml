@@ -1,0 +1,10 @@
+id: ld-ps-u1
+vendor_id: elecom
+name: Ld-Ps/U1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:ld\-ps\/u1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ld-ps/u1
+  confidence: auto

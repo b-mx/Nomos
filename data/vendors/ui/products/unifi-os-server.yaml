@@ -1,0 +1,10 @@
+id: unifi-os-server
+vendor_id: ui
+name: Unifi Os Server
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:unifi_os_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_os_server
+  confidence: auto

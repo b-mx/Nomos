@@ -1,0 +1,9 @@
+id: knative
+vendor_id: knative
+name: Knative
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: knative
+  confidence: auto

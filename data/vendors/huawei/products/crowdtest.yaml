@@ -1,0 +1,10 @@
+id: crowdtest
+vendor_id: huawei
+name: Crowdtest
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:crowdtest:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crowdtest
+  confidence: auto

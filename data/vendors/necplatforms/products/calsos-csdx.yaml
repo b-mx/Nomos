@@ -1,0 +1,10 @@
+id: calsos-csdx
+vendor_id: necplatforms
+name: Calsos Csdx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:necplatforms:calsos_csdx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: calsos_csdx
+  confidence: auto

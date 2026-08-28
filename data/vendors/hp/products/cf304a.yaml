@@ -1,0 +1,10 @@
+id: cf304a
+vendor_id: hp
+name: Cf304A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cf304a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf304a
+  confidence: auto

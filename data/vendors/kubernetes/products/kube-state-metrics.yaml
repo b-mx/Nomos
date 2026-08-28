@@ -1,0 +1,10 @@
+id: kube-state-metrics
+vendor_id: kubernetes
+name: Kube-State-Metrics
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:kube\-state\-metrics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kube-state-metrics
+  confidence: auto

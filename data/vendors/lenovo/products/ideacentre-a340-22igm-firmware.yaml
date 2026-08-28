@@ -1,0 +1,10 @@
+id: ideacentre-a340-22igm-firmware
+vendor_id: lenovo
+name: Ideacentre A340-22Igm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_a340\-22igm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_a340-22igm_firmware
+  confidence: auto

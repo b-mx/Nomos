@@ -1,0 +1,10 @@
+id: baggio-l03a
+vendor_id: huawei
+name: Baggio-L03A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:baggio\-l03a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baggio-l03a
+  confidence: auto

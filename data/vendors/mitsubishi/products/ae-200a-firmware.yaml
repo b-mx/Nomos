@@ -1,0 +1,10 @@
+id: ae-200a-firmware
+vendor_id: mitsubishi
+name: Ae-200A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishi:ae\-200a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ae-200a_firmware
+  confidence: auto

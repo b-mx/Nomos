@@ -1,0 +1,10 @@
+id: color-laserjet-pro-mfp-4301-4303-5hh64f
+vendor_id: hp
+name: Color Laserjet Pro Mfp 4301-4303 5Hh64F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_pro_mfp_4301\-4303_5hh64f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_pro_mfp_4301-4303_5hh64f
+  confidence: auto

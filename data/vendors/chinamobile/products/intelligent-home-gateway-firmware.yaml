@@ -1,0 +1,10 @@
+id: intelligent-home-gateway-firmware
+vendor_id: chinamobile
+name: Intelligent Home Gateway Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chinamobile:intelligent_home_gateway_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_home_gateway_firmware
+  confidence: auto

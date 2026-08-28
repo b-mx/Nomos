@@ -1,0 +1,10 @@
+id: redshift-odbc-driver
+vendor_id: amazon
+name: Redshift Odbc Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:redshift_odbc_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redshift_odbc_driver
+  confidence: auto

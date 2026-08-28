@@ -1,0 +1,10 @@
+id: cfingerd
+vendor_id: debian
+name: Cfingerd
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:cfingerd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cfingerd
+  confidence: auto

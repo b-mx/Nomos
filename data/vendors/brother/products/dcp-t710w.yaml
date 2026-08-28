@@ -1,0 +1,10 @@
+id: dcp-t710w
+vendor_id: brother
+name: Dcp-T710W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-t710w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-t710w
+  confidence: auto

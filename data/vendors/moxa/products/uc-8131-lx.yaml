@@ -1,0 +1,10 @@
+id: uc-8131-lx
+vendor_id: moxa
+name: Uc-8131-Lx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:uc\-8131\-lx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-8131-lx
+  confidence: auto

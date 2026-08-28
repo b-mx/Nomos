@@ -1,0 +1,10 @@
+id: aio520-24iku
+vendor_id: lenovo
+name: Aio520-24Iku
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:aio520\-24iku:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aio520-24iku
+  confidence: auto

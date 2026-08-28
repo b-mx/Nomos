@@ -1,0 +1,10 @@
+id: newsletter-by-supsystic
+vendor_id: supsystic
+name: Newsletter By Supsystic
+type: software
+tags: []
+cpe: cpe:2.3:a:supsystic:newsletter_by_supsystic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: newsletter_by_supsystic
+  confidence: auto

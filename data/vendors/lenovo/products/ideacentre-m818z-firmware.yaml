@@ -1,0 +1,10 @@
+id: ideacentre-m818z-firmware
+vendor_id: lenovo
+name: Ideacentre M818Z Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideacentre_m818z_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_m818z_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aspire-1602m-firmware
+vendor_id: acer
+name: Aspire 1602M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:aspire_1602m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_1602m_firmware
+  confidence: auto

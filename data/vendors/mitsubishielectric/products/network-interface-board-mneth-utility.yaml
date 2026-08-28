@@ -1,0 +1,10 @@
+id: network-interface-board-mneth-utility
+vendor_id: mitsubishielectric
+name: Network Interface Board Mneth Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:network_interface_board_mneth_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_interface_board_mneth_utility
+  confidence: auto

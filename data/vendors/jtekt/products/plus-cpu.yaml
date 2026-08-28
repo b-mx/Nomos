@@ -1,0 +1,10 @@
+id: plus-cpu
+vendor_id: jtekt
+name: Plus Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:plus_cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plus_cpu
+  confidence: auto

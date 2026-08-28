@@ -1,0 +1,10 @@
+id: appresponse
+vendor_id: riverbed
+name: Appresponse
+type: software
+tags: []
+cpe: cpe:2.3:a:riverbed:appresponse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: appresponse
+  confidence: auto

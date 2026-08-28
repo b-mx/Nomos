@@ -1,0 +1,10 @@
+id: cf235a-firmware
+vendor_id: hp
+name: Cf235A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cf235a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf235a_firmware
+  confidence: auto

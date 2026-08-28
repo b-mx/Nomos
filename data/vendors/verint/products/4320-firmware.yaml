@@ -1,0 +1,10 @@
+id: 4320-firmware
+vendor_id: verint
+name: 4320 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:verint:4320_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4320_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: capi-release
+vendor_id: cloudfoundry
+name: Capi-Release
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:capi\-release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: capi-release
+  confidence: auto

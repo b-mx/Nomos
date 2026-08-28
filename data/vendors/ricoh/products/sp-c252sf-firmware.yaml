@@ -1,0 +1,10 @@
+id: sp-c252sf-firmware
+vendor_id: ricoh
+name: Sp C252Sf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ricoh:sp_c252sf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_c252sf_firmware
+  confidence: auto

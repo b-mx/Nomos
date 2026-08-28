@@ -1,0 +1,10 @@
+id: cx017a
+vendor_id: hp
+name: Cx017A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cx017a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx017a
+  confidence: auto

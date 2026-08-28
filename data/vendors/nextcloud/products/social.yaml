@@ -1,0 +1,10 @@
+id: social
+vendor_id: nextcloud
+name: Social
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:social:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: social
+  confidence: auto

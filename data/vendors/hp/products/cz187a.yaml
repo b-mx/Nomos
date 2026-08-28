@@ -1,0 +1,10 @@
+id: cz187a
+vendor_id: hp
+name: Cz187A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cz187a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cz187a
+  confidence: auto

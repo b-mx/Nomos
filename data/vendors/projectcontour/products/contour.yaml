@@ -1,0 +1,13 @@
+id: contour
+vendor_id: projectcontour
+name: Contour
+type: software
+tags: []
+cpe: cpe:2.3:a:projectcontour:contour:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: contour
+  confidence: auto
+- source: nvd
+  value: contour
+  confidence: auto

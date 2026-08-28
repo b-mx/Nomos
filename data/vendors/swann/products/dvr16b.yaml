@@ -1,0 +1,10 @@
+id: dvr16b
+vendor_id: swann
+name: Dvr16B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:swann:dvr16b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvr16b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: magic-nx15-firmware
+vendor_id: h3c
+name: Magic Nx15 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:magic_nx15_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_nx15_firmware
+  confidence: auto

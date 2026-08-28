@@ -1,0 +1,10 @@
+id: ryzen-5-5560u
+vendor_id: amd
+name: Ryzen 5 5560U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_5560u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_5560u
+  confidence: auto

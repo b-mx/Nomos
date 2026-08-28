@@ -1,0 +1,9 @@
+id: kubernetes-csi-node-driver-registrar
+vendor_id: kubernetes-csi-node-driver-registrar
+name: Kubernetes CSI Node Driver Registrar
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: kubernetes-csi-node-driver-registrar
+  confidence: auto

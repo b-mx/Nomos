@@ -1,0 +1,10 @@
+id: i8307-ve
+vendor_id: axis
+name: I8307-Ve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:i8307\-ve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i8307-ve
+  confidence: auto

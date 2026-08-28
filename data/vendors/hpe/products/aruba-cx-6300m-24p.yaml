@@ -1,0 +1,10 @@
+id: aruba-cx-6300m-24p
+vendor_id: hpe
+name: Aruba Cx 6300M 24P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_cx_6300m_24p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_cx_6300m_24p
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cmt-svr-202-firmware
+vendor_id: weintek
+name: Cmt-Svr-202 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:weintek:cmt\-svr\-202_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt-svr-202_firmware
+  confidence: auto

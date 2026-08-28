@@ -1,0 +1,10 @@
+id: aio300-23isu-firmware
+vendor_id: lenovo
+name: Aio300-23Isu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:aio300\-23isu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aio300-23isu_firmware
+  confidence: auto

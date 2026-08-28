@@ -1,0 +1,10 @@
+id: xclarity-administrator
+vendor_id: lenovo
+name: Xclarity Administrator
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:xclarity_administrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xclarity_administrator
+  confidence: auto

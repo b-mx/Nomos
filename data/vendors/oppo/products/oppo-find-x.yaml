@@ -1,0 +1,10 @@
+id: oppo-find-x
+vendor_id: oppo
+name: Oppo Find X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_find_x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_find_x
+  confidence: auto

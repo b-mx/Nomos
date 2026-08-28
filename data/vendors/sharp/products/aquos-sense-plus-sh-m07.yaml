@@ -1,0 +1,10 @@
+id: aquos-sense-plus-sh-m07
+vendor_id: sharp
+name: Aquos Sense Plus Sh-M07
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:aquos_sense_plus_sh\-m07:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_sense_plus_sh-m07
+  confidence: auto

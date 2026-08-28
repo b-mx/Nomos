@@ -1,0 +1,10 @@
+id: hb7208x3-firmware
+vendor_id: hbgk
+name: Hb7208X3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb7208x3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb7208x3_firmware
+  confidence: auto

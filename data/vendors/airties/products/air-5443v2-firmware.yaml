@@ -1,0 +1,10 @@
+id: air-5443v2-firmware
+vendor_id: airties
+name: Air 5443V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:airties:air_5443v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: air_5443v2_firmware
+  confidence: auto

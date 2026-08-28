@@ -1,0 +1,10 @@
+id: wp-floating-menu
+vendor_id: accesspressthemes
+name: Wp Floating Menu
+type: software
+tags: []
+cpe: cpe:2.3:a:accesspressthemes:wp_floating_menu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_floating_menu
+  confidence: auto

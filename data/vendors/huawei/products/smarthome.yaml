@@ -1,0 +1,10 @@
+id: smarthome
+vendor_id: huawei
+name: Smarthome
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:smarthome:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smarthome
+  confidence: auto

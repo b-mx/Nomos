@@ -1,0 +1,10 @@
+id: stm32f098cc-firmware
+vendor_id: st
+name: Stm32F098Cc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:st:stm32f098cc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f098cc_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nova-220-eyk220f001
+vendor_id: sauter-controls
+name: Nova 220 Eyk220F001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sauter\-controls:nova_220_eyk220f001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nova_220_eyk220f001
+  confidence: auto

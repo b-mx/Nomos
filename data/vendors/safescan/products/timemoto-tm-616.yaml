@@ -1,0 +1,10 @@
+id: timemoto-tm-616
+vendor_id: safescan
+name: Timemoto Tm-616
+type: hardware
+tags: []
+cpe: cpe:2.3:h:safescan:timemoto_tm\-616:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: timemoto_tm-616
+  confidence: auto

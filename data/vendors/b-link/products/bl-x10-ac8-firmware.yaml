@@ -1,0 +1,10 @@
+id: bl-x10-ac8-firmware
+vendor_id: b-link
+name: Bl-X10 Ac8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:b\-link:bl\-x10_ac8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-x10_ac8_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ep-10va
+vendor_id: epson
+name: Ep-10Va
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:ep\-10va:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep-10va
+  confidence: auto

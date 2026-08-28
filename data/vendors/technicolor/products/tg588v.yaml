@@ -1,0 +1,10 @@
+id: tg588v
+vendor_id: technicolor
+name: Tg588V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:tg588v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tg588v
+  confidence: auto

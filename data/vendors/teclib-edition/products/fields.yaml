@@ -1,0 +1,10 @@
+id: fields
+vendor_id: teclib-edition
+name: Fields
+type: software
+tags: []
+cpe: cpe:2.3:a:teclib\-edition:fields:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fields
+  confidence: auto

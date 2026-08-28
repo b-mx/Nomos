@@ -1,0 +1,10 @@
+id: kobe-l09ahn-firmware
+vendor_id: huawei
+name: Kobe-L09Ahn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:kobe\-l09ahn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kobe-l09ahn_firmware
+  confidence: auto

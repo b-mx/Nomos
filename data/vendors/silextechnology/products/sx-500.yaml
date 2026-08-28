@@ -1,0 +1,10 @@
+id: sx-500
+vendor_id: silextechnology
+name: Sx-500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:silextechnology:sx\-500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sx-500
+  confidence: auto

@@ -1,0 +1,10 @@
+id: usg6000v-firmware
+vendor_id: huawei
+name: Usg6000V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:usg6000v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usg6000v_firmware
+  confidence: auto

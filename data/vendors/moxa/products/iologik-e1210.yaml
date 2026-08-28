@@ -1,0 +1,10 @@
+id: iologik-e1210
+vendor_id: moxa
+name: Iologik E1210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:iologik_e1210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iologik_e1210
+  confidence: auto

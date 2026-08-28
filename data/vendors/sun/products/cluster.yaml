@@ -1,0 +1,10 @@
+id: cluster
+vendor_id: sun
+name: Cluster
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:cluster:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cluster
+  confidence: auto

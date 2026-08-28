@@ -1,0 +1,10 @@
+id: deebot-n8
+vendor_id: ecovacs
+name: Deebot N8
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_n8:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_n8
+  confidence: auto

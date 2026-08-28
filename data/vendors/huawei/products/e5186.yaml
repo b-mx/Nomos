@@ -1,0 +1,10 @@
+id: e5186
+vendor_id: huawei
+name: E5186
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e5186:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e5186
+  confidence: auto

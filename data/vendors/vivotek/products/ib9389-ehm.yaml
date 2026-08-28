@@ -1,0 +1,10 @@
+id: ib9389-ehm
+vendor_id: vivotek
+name: Ib9389-Ehm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ib9389\-ehm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib9389-ehm
+  confidence: auto

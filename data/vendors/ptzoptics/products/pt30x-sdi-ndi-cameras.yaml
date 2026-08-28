@@ -1,9 +1,8 @@
 id: pt30x-sdi-ndi-cameras
 vendor_id: ptzoptics
 name: PT30X-SDI/NDI Cameras
-type: hardware
-tags:
-- network-device
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: PT30X-SDI/NDI Cameras

@@ -1,0 +1,6 @@
+id: isc-dhcp
+name: ISC DHCP
+aliases:
+- source: endoflife
+  value: isc-dhcp
+  confidence: auto

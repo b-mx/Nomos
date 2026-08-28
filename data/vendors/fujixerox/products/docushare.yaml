@@ -1,0 +1,10 @@
+id: docushare
+vendor_id: fujixerox
+name: Docushare
+type: software
+tags: []
+cpe: cpe:2.3:a:fujixerox:docushare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docushare
+  confidence: auto

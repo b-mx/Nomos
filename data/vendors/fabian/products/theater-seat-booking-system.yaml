@@ -1,0 +1,10 @@
+id: theater-seat-booking-system
+vendor_id: fabian
+name: Theater Seat Booking System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:theater_seat_booking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: theater_seat_booking_system
+  confidence: auto

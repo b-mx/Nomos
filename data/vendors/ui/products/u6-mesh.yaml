@@ -1,0 +1,10 @@
+id: u6-mesh
+vendor_id: ui
+name: U6-Mesh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:u6\-mesh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: u6-mesh
+  confidence: auto

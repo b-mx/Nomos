@@ -1,0 +1,10 @@
+id: s9706
+vendor_id: huawei
+name: S9706
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s9706:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s9706
+  confidence: auto

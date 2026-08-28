@@ -1,0 +1,10 @@
+id: gridtime-3000
+vendor_id: microchip
+name: Gridtime 3000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:gridtime_3000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gridtime_3000
+  confidence: auto

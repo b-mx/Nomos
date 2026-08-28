@@ -1,0 +1,10 @@
+id: mac1200r-firmware
+vendor_id: mercurycom
+name: Mac1200R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mercurycom:mac1200r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mac1200r_firmware
+  confidence: auto

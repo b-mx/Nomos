@@ -1,0 +1,10 @@
+id: m617-lit
+vendor_id: redragon
+name: M617-Lit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redragon:m617\-lit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m617-lit
+  confidence: auto

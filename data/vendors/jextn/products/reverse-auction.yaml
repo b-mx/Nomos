@@ -1,0 +1,10 @@
+id: reverse-auction
+vendor_id: jextn
+name: Reverse Auction
+type: software
+tags: []
+cpe: cpe:2.3:a:jextn:reverse_auction:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reverse_auction
+  confidence: auto

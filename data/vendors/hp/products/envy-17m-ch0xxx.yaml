@@ -1,0 +1,10 @@
+id: envy-17m-ch0xxx
+vendor_id: hp
+name: Envy 17M-Ch0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_17m\-ch0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_17m-ch0xxx
+  confidence: auto

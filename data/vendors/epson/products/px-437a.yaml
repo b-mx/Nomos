@@ -1,0 +1,10 @@
+id: px-437a
+vendor_id: epson
+name: Px-437A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-437a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-437a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mfc-j738dn
+vendor_id: brother
+name: Mfc-J738Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-j738dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-j738dn
+  confidence: auto

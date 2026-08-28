@@ -1,0 +1,10 @@
+id: shopping-portal
+vendor_id: code-projects
+name: Shopping Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:shopping_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shopping_portal
+  confidence: auto

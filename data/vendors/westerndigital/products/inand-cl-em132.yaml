@@ -1,0 +1,10 @@
+id: inand-cl-em132
+vendor_id: westerndigital
+name: Inand Cl Em132
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westerndigital:inand_cl_em132:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inand_cl_em132
+  confidence: auto

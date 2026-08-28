@@ -1,0 +1,10 @@
+id: mirupass-pw10-firmware
+vendor_id: kingjim
+name: Mirupass Pw10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kingjim:mirupass_pw10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mirupass_pw10_firmware
+  confidence: auto

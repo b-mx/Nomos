@@ -1,0 +1,10 @@
+id: e6b69a
+vendor_id: hp
+name: E6B69A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:e6b69a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e6b69a
+  confidence: auto

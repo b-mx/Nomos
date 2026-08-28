@@ -1,0 +1,10 @@
+id: rg-eg3230-firmware
+vendor_id: ruijie
+name: Rg-Eg3230 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-eg3230_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-eg3230_firmware
+  confidence: auto

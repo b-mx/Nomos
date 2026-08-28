@@ -1,0 +1,10 @@
+id: mailplus-server
+vendor_id: synology
+name: Mailplus Server
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:mailplus_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mailplus_server
+  confidence: auto

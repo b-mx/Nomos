@@ -1,0 +1,10 @@
+id: thinkpad-l1415
+vendor_id: lenovo
+name: Thinkpad L1415
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_l1415:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_l1415
+  confidence: auto

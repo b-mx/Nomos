@@ -1,0 +1,10 @@
+id: 1783-natr-firmware
+vendor_id: rockwellautomation
+name: 1783-Natr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:1783\-natr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1783-natr_firmware
+  confidence: auto

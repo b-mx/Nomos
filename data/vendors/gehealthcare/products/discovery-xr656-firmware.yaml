@@ -1,0 +1,10 @@
+id: discovery-xr656-firmware
+vendor_id: gehealthcare
+name: Discovery Xr656+ Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:discovery_xr656\+_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_xr656+_firmware
+  confidence: auto

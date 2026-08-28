@@ -1,0 +1,10 @@
+id: an-lianbao-wf-1-firmware
+vendor_id: chinamobile
+name: An Lianbao Wf-1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chinamobile:an_lianbao_wf\-1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: an_lianbao_wf-1_firmware
+  confidence: auto

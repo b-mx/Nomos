@@ -1,0 +1,10 @@
+id: cs1w-eip21
+vendor_id: omron
+name: Cs1W-Eip21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cs1w\-eip21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs1w-eip21
+  confidence: auto

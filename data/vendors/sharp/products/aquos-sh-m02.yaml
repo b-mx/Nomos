@@ -1,0 +1,10 @@
+id: aquos-sh-m02
+vendor_id: sharp
+name: Aquos Sh-M02
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:aquos_sh\-m02:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aquos_sh-m02
+  confidence: auto

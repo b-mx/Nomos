@@ -1,0 +1,10 @@
+id: yangtian-tc-wcc-h81-pci
+vendor_id: lenovo
+name: Yangtian Tc/Wcc H81 Pci
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yangtian_tc\/wcc_h81_pci:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_tc/wcc_h81_pci
+  confidence: auto

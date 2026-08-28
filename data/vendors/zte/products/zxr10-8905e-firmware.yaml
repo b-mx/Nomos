@@ -1,0 +1,10 @@
+id: zxr10-8905e-firmware
+vendor_id: zte
+name: Zxr10 8905E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxr10_8905e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxr10_8905e_firmware
+  confidence: auto

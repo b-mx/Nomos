@@ -1,0 +1,10 @@
+id: realtime-module
+vendor_id: suse
+name: Realtime Module
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:realtime_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realtime_module
+  confidence: auto

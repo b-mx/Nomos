@@ -1,0 +1,10 @@
+id: vicky-al00-firmware
+vendor_id: huawei
+name: Vicky-Al00 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:vicky\-al00_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vicky-al00_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ecm-address-book
+vendor_id: egavilanmedia
+name: Ecm Address Book
+type: software
+tags: []
+cpe: cpe:2.3:a:egavilanmedia:ecm_address_book:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecm_address_book
+  confidence: auto

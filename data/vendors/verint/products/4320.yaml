@@ -1,0 +1,10 @@
+id: '4320'
+vendor_id: verint
+name: '4320'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:verint:4320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '4320'
+  confidence: auto

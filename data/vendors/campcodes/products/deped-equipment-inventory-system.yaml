@@ -1,0 +1,10 @@
+id: deped-equipment-inventory-system
+vendor_id: campcodes
+name: Deped Equipment Inventory System
+type: software
+tags: []
+cpe: cpe:2.3:a:campcodes:deped_equipment_inventory_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deped_equipment_inventory_system
+  confidence: auto

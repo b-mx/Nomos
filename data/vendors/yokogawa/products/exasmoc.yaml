@@ -1,0 +1,10 @@
+id: exasmoc
+vendor_id: yokogawa
+name: Exasmoc
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:exasmoc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exasmoc
+  confidence: auto

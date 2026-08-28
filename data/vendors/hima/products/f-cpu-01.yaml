@@ -1,0 +1,10 @@
+id: f-cpu-01
+vendor_id: hima
+name: F-Cpu 01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hima:f\-cpu_01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f-cpu_01
+  confidence: auto

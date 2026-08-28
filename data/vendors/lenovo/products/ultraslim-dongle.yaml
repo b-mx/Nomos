@@ -1,0 +1,10 @@
+id: ultraslim-dongle
+vendor_id: lenovo
+name: Ultraslim Dongle
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ultraslim_dongle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultraslim_dongle
+  confidence: auto

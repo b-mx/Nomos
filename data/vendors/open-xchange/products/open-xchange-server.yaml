@@ -1,0 +1,10 @@
+id: open-xchange-server
+vendor_id: open-xchange
+name: Open-Xchange Server
+type: software
+tags: []
+cpe: cpe:2.3:a:open\-xchange:open\-xchange_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open-xchange_server
+  confidence: auto

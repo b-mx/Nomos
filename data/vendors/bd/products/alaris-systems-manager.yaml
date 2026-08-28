@@ -1,0 +1,10 @@
+id: alaris-systems-manager
+vendor_id: bd
+name: Alaris Systems Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:alaris_systems_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_systems_manager
+  confidence: auto

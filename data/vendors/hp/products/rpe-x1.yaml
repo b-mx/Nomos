@@ -1,0 +1,10 @@
+id: rpe-x1
+vendor_id: hp
+name: Rpe-X1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:rpe\-x1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rpe-x1
+  confidence: auto

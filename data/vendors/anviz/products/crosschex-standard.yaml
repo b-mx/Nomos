@@ -1,0 +1,10 @@
+id: crosschex-standard
+vendor_id: anviz
+name: Crosschex Standard
+type: software
+tags: []
+cpe: cpe:2.3:a:anviz:crosschex_standard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crosschex_standard
+  confidence: auto

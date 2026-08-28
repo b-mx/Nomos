@@ -1,0 +1,10 @@
+id: dl8000-firmware
+vendor_id: emerson
+name: Dl8000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:dl8000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dl8000_firmware
+  confidence: auto

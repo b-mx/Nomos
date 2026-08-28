@@ -1,0 +1,10 @@
+id: vehicle-management-system
+vendor_id: janobe
+name: Vehicle Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:vehicle_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vehicle_management_system
+  confidence: auto

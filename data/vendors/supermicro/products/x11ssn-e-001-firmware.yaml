@@ -1,0 +1,10 @@
+id: x11ssn-e-001-firmware
+vendor_id: supermicro
+name: X11Ssn-E-001 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11ssn\-e\-001_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11ssn-e-001_firmware
+  confidence: auto

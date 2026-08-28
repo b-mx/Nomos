@@ -1,0 +1,10 @@
+id: workcentre-7220-firmware
+vendor_id: xerox
+name: Workcentre 7220 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xerox:workcentre_7220_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_7220_firmware
+  confidence: auto

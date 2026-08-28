@@ -1,0 +1,10 @@
+id: system-healthcheck
+vendor_id: compaq
+name: System Healthcheck
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:system_healthcheck:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_healthcheck
+  confidence: auto

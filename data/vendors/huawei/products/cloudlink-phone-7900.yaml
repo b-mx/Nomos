@@ -1,0 +1,10 @@
+id: cloudlink-phone-7900
+vendor_id: huawei
+name: Cloudlink Phone 7900
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cloudlink_phone_7900:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudlink_phone_7900
+  confidence: auto

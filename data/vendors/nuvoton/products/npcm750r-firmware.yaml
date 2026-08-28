@@ -1,0 +1,10 @@
+id: npcm750r-firmware
+vendor_id: nuvoton
+name: Npcm750R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nuvoton:npcm750r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: npcm750r_firmware
+  confidence: auto

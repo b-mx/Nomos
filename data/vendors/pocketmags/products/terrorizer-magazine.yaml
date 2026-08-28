@@ -1,0 +1,10 @@
+id: terrorizer-magazine
+vendor_id: pocketmags
+name: Terrorizer Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:terrorizer_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: terrorizer_magazine
+  confidence: auto

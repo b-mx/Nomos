@@ -1,0 +1,10 @@
+id: cx-protocol
+vendor_id: omron
+name: Cx-Protocol
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:cx\-protocol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-protocol
+  confidence: auto

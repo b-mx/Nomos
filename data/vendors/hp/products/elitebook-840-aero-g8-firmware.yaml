@@ -1,0 +1,10 @@
+id: elitebook-840-aero-g8-firmware
+vendor_id: hp
+name: Elitebook 840 Aero G8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitebook_840_aero_g8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_840_aero_g8_firmware
+  confidence: auto

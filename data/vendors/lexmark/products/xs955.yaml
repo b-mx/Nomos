@@ -1,0 +1,10 @@
+id: xs955
+vendor_id: lexmark
+name: Xs955
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xs955:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xs955
+  confidence: auto

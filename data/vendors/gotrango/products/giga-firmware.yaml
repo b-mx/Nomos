@@ -1,0 +1,10 @@
+id: giga-firmware
+vendor_id: gotrango
+name: Giga Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gotrango:giga_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: giga_firmware
+  confidence: auto

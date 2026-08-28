@@ -1,0 +1,10 @@
+id: siris-3
+vendor_id: datto
+name: Siris 3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:datto:siris_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: siris_3
+  confidence: auto

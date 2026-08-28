@@ -1,0 +1,10 @@
+id: regex
+vendor_id: rust-lang
+name: Regex
+type: software
+tags: []
+cpe: cpe:2.3:a:rust\-lang:regex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: regex
+  confidence: auto

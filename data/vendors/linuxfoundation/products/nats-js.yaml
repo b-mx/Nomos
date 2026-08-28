@@ -1,0 +1,10 @@
+id: nats-js
+vendor_id: linuxfoundation
+name: Nats.Js
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:nats\.js:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nats.js
+  confidence: auto

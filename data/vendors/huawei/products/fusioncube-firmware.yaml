@@ -1,0 +1,10 @@
+id: fusioncube-firmware
+vendor_id: huawei
+name: Fusioncube Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:fusioncube_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusioncube_firmware
+  confidence: auto

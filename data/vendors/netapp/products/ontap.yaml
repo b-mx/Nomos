@@ -1,0 +1,10 @@
+id: ontap
+vendor_id: netapp
+name: Ontap
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:ontap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ontap
+  confidence: auto

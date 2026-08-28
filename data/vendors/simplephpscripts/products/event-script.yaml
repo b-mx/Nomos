@@ -1,0 +1,10 @@
+id: event-script
+vendor_id: simplephpscripts
+name: Event Script
+type: software
+tags: []
+cpe: cpe:2.3:a:simplephpscripts:event_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: event_script
+  confidence: auto

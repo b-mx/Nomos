@@ -1,0 +1,10 @@
+id: a300-firmware
+vendor_id: birddog
+name: A300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:birddog:a300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a300_firmware
+  confidence: auto

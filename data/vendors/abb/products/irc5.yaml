@@ -1,0 +1,10 @@
+id: irc5
+vendor_id: abb
+name: Irc5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:irc5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: irc5
+  confidence: auto

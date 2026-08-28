@@ -1,0 +1,10 @@
+id: cryptctl
+vendor_id: opensuse
+name: Cryptctl
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:cryptctl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cryptctl
+  confidence: auto

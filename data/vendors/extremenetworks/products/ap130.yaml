@@ -1,0 +1,10 @@
+id: ap130
+vendor_id: extremenetworks
+name: Ap130
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap130:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap130
+  confidence: auto

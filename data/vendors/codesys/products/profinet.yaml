@@ -1,0 +1,10 @@
+id: profinet
+vendor_id: codesys
+name: Profinet
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:profinet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: profinet
+  confidence: auto

@@ -1,0 +1,10 @@
+id: smart-proxy-shell-hooks
+vendor_id: theforeman
+name: Smart Proxy Shell Hooks
+type: software
+tags: []
+cpe: cpe:2.3:a:theforeman:smart_proxy_shell_hooks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_proxy_shell_hooks
+  confidence: auto

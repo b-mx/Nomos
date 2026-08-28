@@ -1,0 +1,10 @@
+id: tecal-e9000-chassis-firmware
+vendor_id: huawei
+name: Tecal E9000 Chassis Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:tecal_e9000_chassis_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_e9000_chassis_firmware
+  confidence: auto

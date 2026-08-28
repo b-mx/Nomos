@@ -1,0 +1,10 @@
+id: dsl705e-firmware
+vendor_id: aztech
+name: Dsl705E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:aztech:dsl705e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dsl705e_firmware
+  confidence: auto

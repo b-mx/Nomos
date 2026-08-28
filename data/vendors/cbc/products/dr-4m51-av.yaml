@@ -1,0 +1,10 @@
+id: dr-4m51-av
+vendor_id: cbc
+name: Dr-4M51-Av
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:dr\-4m51\-av:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-4m51-av
+  confidence: auto

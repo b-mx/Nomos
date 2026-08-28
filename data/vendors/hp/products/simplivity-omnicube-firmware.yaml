@@ -1,0 +1,10 @@
+id: simplivity-omnicube-firmware
+vendor_id: hp
+name: Simplivity Omnicube Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:simplivity_omnicube_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplivity_omnicube_firmware
+  confidence: auto

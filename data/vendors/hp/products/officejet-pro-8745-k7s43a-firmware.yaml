@@ -1,0 +1,10 @@
+id: officejet-pro-8745-k7s43a-firmware
+vendor_id: hp
+name: Officejet Pro 8745 K7S43A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_pro_8745_k7s43a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_8745_k7s43a_firmware
+  confidence: auto

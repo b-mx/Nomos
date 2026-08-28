@@ -1,0 +1,10 @@
+id: compact-hmi
+vendor_id: abb
+name: Compact Hmi
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:compact_hmi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compact_hmi
+  confidence: auto

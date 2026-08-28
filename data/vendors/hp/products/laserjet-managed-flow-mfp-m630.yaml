@@ -1,0 +1,10 @@
+id: laserjet-managed-flow-mfp-m630
+vendor_id: hp
+name: Laserjet Managed Flow Mfp M630
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_managed_flow_mfp_m630:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_flow_mfp_m630
+  confidence: auto

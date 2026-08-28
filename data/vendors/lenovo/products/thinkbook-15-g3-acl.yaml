@@ -1,0 +1,10 @@
+id: thinkbook-15-g3-acl
+vendor_id: lenovo
+name: Thinkbook 15 G3 Acl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkbook_15_g3_acl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_15_g3_acl
+  confidence: auto

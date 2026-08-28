@@ -1,0 +1,10 @@
+id: athlon-gold-pro-3150g
+vendor_id: amd
+name: Athlon Gold Pro 3150G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_gold_pro_3150g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_gold_pro_3150g
+  confidence: auto

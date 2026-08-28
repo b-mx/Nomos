@@ -1,0 +1,10 @@
+id: bm2022
+vendor_id: huawei
+name: Bm2022
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:bm2022:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bm2022
+  confidence: auto

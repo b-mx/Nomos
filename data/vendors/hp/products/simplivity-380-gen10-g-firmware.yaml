@@ -1,0 +1,10 @@
+id: simplivity-380-gen10-g-firmware
+vendor_id: hp
+name: Simplivity 380 Gen10 G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:simplivity_380_gen10_g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplivity_380_gen10_g_firmware
+  confidence: auto

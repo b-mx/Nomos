@@ -1,0 +1,10 @@
+id: 9008a-firmware
+vendor_id: cdatatec
+name: 9008A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cdatatec:9008a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9008a_firmware
+  confidence: auto

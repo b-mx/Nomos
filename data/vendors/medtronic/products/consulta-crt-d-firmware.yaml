@@ -1,0 +1,10 @@
+id: consulta-crt-d-firmware
+vendor_id: medtronic
+name: Consulta Crt-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:consulta_crt\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: consulta_crt-d_firmware
+  confidence: auto

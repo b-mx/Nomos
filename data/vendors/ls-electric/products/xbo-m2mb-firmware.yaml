@@ -1,0 +1,10 @@
+id: xbo-m2mb-firmware
+vendor_id: ls-electric
+name: Xbo-M2Mb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xbo\-m2mb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbo-m2mb_firmware
+  confidence: auto

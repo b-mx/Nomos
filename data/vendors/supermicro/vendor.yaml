@@ -1,0 +1,7 @@
+id: supermicro
+name: Supermicro
+cpe: cpe:2.3:*:supermicro:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: supermicro
+  confidence: auto

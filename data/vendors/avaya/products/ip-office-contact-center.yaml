@@ -1,0 +1,10 @@
+id: ip-office-contact-center
+vendor_id: avaya
+name: Ip Office Contact Center
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:ip_office_contact_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_office_contact_center
+  confidence: auto

@@ -1,0 +1,10 @@
+id: c501
+vendor_id: sharp-nec-displays
+name: C501
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp\-nec\-displays:c501:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c501
+  confidence: auto

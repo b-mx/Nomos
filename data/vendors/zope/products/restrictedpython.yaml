@@ -1,0 +1,10 @@
+id: restrictedpython
+vendor_id: zope
+name: Restrictedpython
+type: software
+tags: []
+cpe: cpe:2.3:a:zope:restrictedpython:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: restrictedpython
+  confidence: auto

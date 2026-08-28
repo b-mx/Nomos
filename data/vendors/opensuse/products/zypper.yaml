@@ -1,0 +1,10 @@
+id: zypper
+vendor_id: opensuse
+name: Zypper
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:zypper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zypper
+  confidence: auto

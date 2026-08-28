@@ -1,0 +1,7 @@
+id: netbsd
+name: Netbsd
+cpe: cpe:2.3:*:netbsd:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netbsd
+  confidence: auto

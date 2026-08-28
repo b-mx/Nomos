@@ -1,0 +1,10 @@
+id: v140-15iwl
+vendor_id: lenovo
+name: V140-15Iwl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v140\-15iwl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v140-15iwl
+  confidence: auto

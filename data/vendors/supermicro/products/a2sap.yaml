@@ -1,0 +1,10 @@
+id: a2sap
+vendor_id: supermicro
+name: A2Sap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:a2sap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a2sap
+  confidence: auto

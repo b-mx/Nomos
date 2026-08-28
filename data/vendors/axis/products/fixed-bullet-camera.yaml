@@ -1,0 +1,10 @@
+id: fixed-bullet-camera
+vendor_id: axis
+name: Fixed Bullet Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:fixed_bullet_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fixed_bullet_camera
+  confidence: auto

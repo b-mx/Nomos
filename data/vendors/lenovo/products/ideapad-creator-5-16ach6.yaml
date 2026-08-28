@@ -1,0 +1,10 @@
+id: ideapad-creator-5-16ach6
+vendor_id: lenovo
+name: Ideapad Creator 5-16Ach6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideapad_creator_5\-16ach6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_creator_5-16ach6
+  confidence: auto

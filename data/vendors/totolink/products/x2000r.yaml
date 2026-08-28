@@ -1,0 +1,10 @@
+id: x2000r
+vendor_id: totolink
+name: X2000R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:x2000r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x2000r
+  confidence: auto

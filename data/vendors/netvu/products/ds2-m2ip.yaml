@@ -1,0 +1,10 @@
+id: ds2-m2ip
+vendor_id: netvu
+name: Ds2 (M2Ip)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netvu:ds2_\(m2ip\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds2_(m2ip)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ap-224
+vendor_id: arubanetworks
+name: Ap-224
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-224:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-224
+  confidence: auto

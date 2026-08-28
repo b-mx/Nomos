@@ -1,0 +1,10 @@
+id: je204a
+vendor_id: hp
+name: Je204A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:je204a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: je204a
+  confidence: auto

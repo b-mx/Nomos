@@ -1,0 +1,10 @@
+id: sg-2404-mr
+vendor_id: intelbras
+name: Sg 2404 Mr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:sg_2404_mr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sg_2404_mr
+  confidence: auto

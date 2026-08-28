@@ -1,0 +1,10 @@
+id: drivelogix-5730-firmware
+vendor_id: rockwellautomation
+name: Drivelogix 5730 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:drivelogix_5730_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: drivelogix_5730_firmware
+  confidence: auto

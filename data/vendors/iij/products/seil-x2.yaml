@@ -1,0 +1,10 @@
+id: seil-x2
+vendor_id: iij
+name: Seil X2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iij:seil_x2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil_x2
+  confidence: auto

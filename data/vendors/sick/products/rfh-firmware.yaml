@@ -1,0 +1,10 @@
+id: rfh-firmware
+vendor_id: sick
+name: Rfh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:rfh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfh_firmware
+  confidence: auto

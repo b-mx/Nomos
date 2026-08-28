@@ -1,0 +1,10 @@
+id: i7010-ve
+vendor_id: axis
+name: I7010-Ve
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:i7010\-ve:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i7010-ve
+  confidence: auto

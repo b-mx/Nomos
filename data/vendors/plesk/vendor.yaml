@@ -1,0 +1,7 @@
+id: plesk
+name: Plesk
+cpe: cpe:2.3:*:plesk:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plesk
+  confidence: auto

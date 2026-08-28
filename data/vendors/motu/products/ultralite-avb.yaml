@@ -1,0 +1,10 @@
+id: ultralite-avb
+vendor_id: motu
+name: Ultralite Avb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:ultralite_avb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultralite_avb
+  confidence: auto

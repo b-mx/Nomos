@@ -1,0 +1,10 @@
+id: taster-magazine
+vendor_id: pocketmags
+name: Taster Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:taster_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: taster_magazine
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pc-advisor
+vendor_id: pocketmags
+name: Pc Advisor
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:pc_advisor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc_advisor
+  confidence: auto

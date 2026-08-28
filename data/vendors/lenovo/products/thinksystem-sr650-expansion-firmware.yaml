@@ -1,0 +1,10 @@
+id: thinksystem-sr650-expansion-firmware
+vendor_id: lenovo
+name: Thinksystem Sr650 Expansion Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksystem_sr650_expansion_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_sr650_expansion_firmware
+  confidence: auto

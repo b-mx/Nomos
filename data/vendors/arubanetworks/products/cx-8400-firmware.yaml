@@ -1,0 +1,10 @@
+id: cx-8400-firmware
+vendor_id: arubanetworks
+name: Cx 8400 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:arubanetworks:cx_8400_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx_8400_firmware
+  confidence: auto

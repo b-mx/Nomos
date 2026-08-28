@@ -1,0 +1,10 @@
+id: netiron-ces-2024c-4x
+vendor_id: brocade
+name: Netiron Ces 2024C-4X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brocade:netiron_ces_2024c\-4x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netiron_ces_2024c-4x
+  confidence: auto

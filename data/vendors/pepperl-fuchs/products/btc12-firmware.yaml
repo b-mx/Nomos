@@ -1,0 +1,10 @@
+id: btc12-firmware
+vendor_id: pepperl-fuchs
+name: Btc12 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:btc12_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: btc12_firmware
+  confidence: auto

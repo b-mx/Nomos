@@ -1,0 +1,10 @@
+id: control-manager
+vendor_id: avaya
+name: Control Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:control_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_manager
+  confidence: auto

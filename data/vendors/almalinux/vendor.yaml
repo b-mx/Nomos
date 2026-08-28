@@ -1,0 +1,7 @@
+id: almalinux
+name: Almalinux
+cpe: cpe:2.3:*:almalinux:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: almalinux
+  confidence: auto

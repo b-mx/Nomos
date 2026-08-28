@@ -1,0 +1,10 @@
+id: enterprise-reader
+vendor_id: foxitsoftware
+name: Enterprise Reader
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:enterprise_reader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_reader
+  confidence: auto

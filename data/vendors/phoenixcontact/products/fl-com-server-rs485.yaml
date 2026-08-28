@@ -1,0 +1,10 @@
+id: fl-com-server-rs485
+vendor_id: phoenixcontact
+name: Fl Com Server Rs485
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_com_server_rs485:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_com_server_rs485
+  confidence: auto

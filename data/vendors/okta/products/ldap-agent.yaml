@@ -1,0 +1,10 @@
+id: ldap-agent
+vendor_id: okta
+name: Ldap Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:okta:ldap_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ldap_agent
+  confidence: auto

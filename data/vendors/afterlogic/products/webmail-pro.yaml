@@ -1,0 +1,10 @@
+id: webmail-pro
+vendor_id: afterlogic
+name: Webmail Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:afterlogic:webmail_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webmail_pro
+  confidence: auto

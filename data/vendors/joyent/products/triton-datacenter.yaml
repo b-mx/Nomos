@@ -1,0 +1,10 @@
+id: triton-datacenter
+vendor_id: joyent
+name: Triton Datacenter
+type: software
+tags: []
+cpe: cpe:2.3:a:joyent:triton_datacenter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: triton_datacenter
+  confidence: auto

@@ -1,0 +1,10 @@
+id: discovery-ct750hd
+vendor_id: gehealthcare
+name: Discovery Ct750Hd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:discovery_ct750hd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_ct750hd
+  confidence: auto

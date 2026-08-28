@@ -1,0 +1,10 @@
+id: blue-ridge-bank-and-trust-co-mobile-banking
+vendor_id: meafinancial
+name: Blue Ridge Bank And Trust Co. Mobile Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:blue_ridge_bank_and_trust_co\._mobile_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blue_ridge_bank_and_trust_co._mobile_banking
+  confidence: auto

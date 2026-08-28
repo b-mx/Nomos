@@ -1,0 +1,10 @@
+id: video-streaming-gateway
+vendor_id: bosch
+name: Video Streaming Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:bosch:video_streaming_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: video_streaming_gateway
+  confidence: auto

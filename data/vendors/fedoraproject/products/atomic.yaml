@@ -1,0 +1,10 @@
+id: atomic
+vendor_id: fedoraproject
+name: Atomic
+type: os
+tags: []
+cpe: cpe:2.3:o:fedoraproject:atomic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atomic
+  confidence: auto

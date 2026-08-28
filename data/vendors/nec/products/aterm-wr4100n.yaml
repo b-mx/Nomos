@@ -1,0 +1,10 @@
+id: aterm-wr4100n
+vendor_id: nec
+name: Aterm Wr4100N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:aterm_wr4100n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aterm_wr4100n
+  confidence: auto

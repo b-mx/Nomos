@@ -1,0 +1,10 @@
+id: custom-order-number
+vendor_id: addify
+name: Custom Order Number
+type: software
+tags: []
+cpe: cpe:2.3:a:addify:custom_order_number:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: custom_order_number
+  confidence: auto

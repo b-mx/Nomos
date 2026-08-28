@@ -1,0 +1,10 @@
+id: ampereone-a144-33m
+vendor_id: amperecomputing
+name: Ampereone A144-33M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amperecomputing:ampereone_a144\-33m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ampereone_a144-33m
+  confidence: auto

@@ -1,0 +1,7 @@
+id: t-mobile
+name: T-Mobile
+cpe: cpe:2.3:*:t\-mobile:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t-mobile
+  confidence: auto

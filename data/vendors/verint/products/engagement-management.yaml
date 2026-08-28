@@ -1,0 +1,10 @@
+id: engagement-management
+vendor_id: verint
+name: Engagement Management
+type: software
+tags: []
+cpe: cpe:2.3:a:verint:engagement_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: engagement_management
+  confidence: auto

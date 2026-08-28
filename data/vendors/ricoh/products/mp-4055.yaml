@@ -1,0 +1,10 @@
+id: mp-4055
+vendor_id: ricoh
+name: Mp 4055
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_4055:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_4055
+  confidence: auto

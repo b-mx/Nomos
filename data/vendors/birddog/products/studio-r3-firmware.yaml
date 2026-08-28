@@ -1,0 +1,10 @@
+id: studio-r3-firmware
+vendor_id: birddog
+name: Studio R3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:birddog:studio_r3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_r3_firmware
+  confidence: auto

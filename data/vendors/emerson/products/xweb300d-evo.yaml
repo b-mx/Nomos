@@ -1,0 +1,10 @@
+id: xweb300d-evo
+vendor_id: emerson
+name: Xweb300D Evo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:xweb300d_evo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xweb300d_evo
+  confidence: auto

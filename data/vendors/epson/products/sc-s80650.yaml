@@ -1,0 +1,10 @@
+id: sc-s80650
+vendor_id: epson
+name: Sc-S80650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-s80650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-s80650
+  confidence: auto

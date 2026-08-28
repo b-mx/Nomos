@@ -1,0 +1,10 @@
+id: cloud-volumes-ontap-mediator
+vendor_id: netapp
+name: Cloud Volumes Ontap Mediator
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:cloud_volumes_ontap_mediator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_volumes_ontap_mediator
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pdf-compressor
+vendor_id: foxitsoftware
+name: Pdf Compressor
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:pdf_compressor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pdf_compressor
+  confidence: auto

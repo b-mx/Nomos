@@ -1,0 +1,10 @@
+id: accept-donations-with-paypal
+vendor_id: wpplugin
+name: Accept Donations With Paypal
+type: software
+tags: []
+cpe: cpe:2.3:a:wpplugin:accept_donations_with_paypal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: accept_donations_with_paypal
+  confidence: auto

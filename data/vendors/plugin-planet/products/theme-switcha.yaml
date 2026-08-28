@@ -1,0 +1,10 @@
+id: theme-switcha
+vendor_id: plugin-planet
+name: Theme Switcha
+type: software
+tags: []
+cpe: cpe:2.3:a:plugin\-planet:theme_switcha:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: theme_switcha
+  confidence: auto

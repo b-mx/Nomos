@@ -1,0 +1,10 @@
+id: vdi-windows-meeting-clients
+vendor_id: zoom
+name: Vdi Windows Meeting Clients
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:vdi_windows_meeting_clients:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vdi_windows_meeting_clients
+  confidence: auto

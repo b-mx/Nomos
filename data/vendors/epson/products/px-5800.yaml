@@ -1,0 +1,10 @@
+id: px-5800
+vendor_id: epson
+name: Px-5800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-5800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-5800
+  confidence: auto

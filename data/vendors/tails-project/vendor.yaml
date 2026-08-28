@@ -1,0 +1,7 @@
+id: tails-project
+name: Tails Project
+cpe: cpe:2.3:*:tails_project:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tails_project
+  confidence: auto

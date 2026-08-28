@@ -1,0 +1,10 @@
+id: prifnw7u
+vendor_id: epson
+name: Prifnw7U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:prifnw7u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prifnw7u
+  confidence: auto

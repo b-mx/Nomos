@@ -1,0 +1,10 @@
+id: thinkbook-15-g2-are
+vendor_id: lenovo
+name: Thinkbook 15 G2 Are
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkbook_15_g2_are:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkbook_15_g2_are
+  confidence: auto

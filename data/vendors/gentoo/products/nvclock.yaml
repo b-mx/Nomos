@@ -1,0 +1,10 @@
+id: nvclock
+vendor_id: gentoo
+name: Nvclock
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:nvclock:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nvclock
+  confidence: auto

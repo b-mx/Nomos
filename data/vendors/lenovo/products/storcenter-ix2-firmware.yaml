@@ -1,0 +1,10 @@
+id: storcenter-ix2-firmware
+vendor_id: lenovo
+name: Storcenter Ix2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:storcenter_ix2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storcenter_ix2_firmware
+  confidence: auto

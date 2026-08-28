@@ -1,0 +1,10 @@
+id: xec-dp30e-firmware
+vendor_id: ls-electric
+name: Xec-Dp30E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xec\-dp30e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xec-dp30e_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: envy-4501-c8d05a
+vendor_id: hp
+name: Envy 4501 C8D05A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_4501_c8d05a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_4501_c8d05a
+  confidence: auto

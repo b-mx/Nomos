@@ -1,0 +1,10 @@
+id: eni-server
+vendor_id: codesys
+name: Eni Server
+type: software
+tags: []
+cpe: cpe:2.3:a:codesys:eni_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eni_server
+  confidence: auto

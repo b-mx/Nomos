@@ -1,0 +1,10 @@
+id: e9000-firmware
+vendor_id: huawei
+name: E9000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:e9000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e9000_firmware
+  confidence: auto

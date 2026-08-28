@@ -1,0 +1,10 @@
+id: c0-12are-d-firmware
+vendor_id: automationdirect
+name: C0-12Are-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:c0\-12are\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c0-12are-d_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sysmac-cp2e-e14dr-a-firmware
+vendor_id: omron
+name: Sysmac Cp2E-E14Dr-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:sysmac_cp2e\-e14dr\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysmac_cp2e-e14dr-a_firmware
+  confidence: auto

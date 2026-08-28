@@ -1,0 +1,10 @@
+id: mirrorop-windows-sender
+vendor_id: barco
+name: Mirrorop Windows Sender
+type: software
+tags: []
+cpe: cpe:2.3:a:barco:mirrorop_windows_sender:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mirrorop_windows_sender
+  confidence: auto

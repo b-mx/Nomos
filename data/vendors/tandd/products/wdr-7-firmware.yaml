@@ -1,0 +1,10 @@
+id: wdr-7-firmware
+vendor_id: tandd
+name: Wdr-7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tandd:wdr\-7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wdr-7_firmware
+  confidence: auto

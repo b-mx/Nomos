@@ -1,0 +1,10 @@
+id: h80i-gt
+vendor_id: corsair
+name: H80I Gt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corsair:h80i_gt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h80i_gt
+  confidence: auto

@@ -1,0 +1,10 @@
+id: qnx-neutrino-real-time-operating-system
+vendor_id: blackberry
+name: Qnx Neutrino Real-Time Operating System
+type: os
+tags: []
+cpe: cpe:2.3:o:blackberry:qnx_neutrino_real\-time_operating_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qnx_neutrino_real-time_operating_system
+  confidence: auto

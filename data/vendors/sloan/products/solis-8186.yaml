@@ -1,0 +1,10 @@
+id: solis-8186
+vendor_id: sloan
+name: Solis 8186
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:solis_8186:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solis_8186
+  confidence: auto

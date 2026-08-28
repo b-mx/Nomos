@@ -1,0 +1,10 @@
+id: openmail
+vendor_id: hp
+name: Openmail
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:openmail:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openmail
+  confidence: auto

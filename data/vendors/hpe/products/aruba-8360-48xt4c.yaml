@@ -1,0 +1,10 @@
+id: aruba-8360-48xt4c
+vendor_id: hpe
+name: Aruba 8360-48Xt4C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:aruba_8360\-48xt4c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_8360-48xt4c
+  confidence: auto

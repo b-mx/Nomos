@@ -1,0 +1,10 @@
+id: fhantom-4-pro
+vendor_id: dji
+name: Fhantom 4 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dji:fhantom_4_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fhantom_4_pro
+  confidence: auto

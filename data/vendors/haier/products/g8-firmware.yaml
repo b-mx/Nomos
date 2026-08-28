@@ -1,0 +1,10 @@
+id: g8-firmware
+vendor_id: haier
+name: G8 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:haier:g8_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g8_firmware
+  confidence: auto

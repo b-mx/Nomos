@@ -1,0 +1,10 @@
+id: iologik-e1200-series-firmware
+vendor_id: moxa
+name: Iologik E1200 Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:iologik_e1200_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iologik_e1200_series_firmware
+  confidence: auto

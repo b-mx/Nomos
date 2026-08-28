@@ -1,0 +1,10 @@
+id: touchpoint-analytics
+vendor_id: hp
+name: Touchpoint Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:touchpoint_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: touchpoint_analytics
+  confidence: auto

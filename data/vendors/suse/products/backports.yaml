@@ -1,0 +1,10 @@
+id: backports
+vendor_id: suse
+name: Backports
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:backports:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backports
+  confidence: auto

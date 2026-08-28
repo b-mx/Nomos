@@ -1,0 +1,10 @@
+id: cc-link-ie-tsn-data-collector
+vendor_id: mitsubishielectric
+name: Cc-Link Ie Tsn Data Collector
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:cc\-link_ie_tsn_data_collector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc-link_ie_tsn_data_collector
+  confidence: auto

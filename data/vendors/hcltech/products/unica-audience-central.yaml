@@ -1,0 +1,10 @@
+id: unica-audience-central
+vendor_id: hcltech
+name: Unica Audience Central
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:unica_audience_central:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unica_audience_central
+  confidence: auto

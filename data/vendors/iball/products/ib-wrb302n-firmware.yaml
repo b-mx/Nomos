@@ -1,0 +1,10 @@
+id: ib-wrb302n-firmware
+vendor_id: iball
+name: Ib-Wrb302N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iball:ib\-wrb302n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ib-wrb302n_firmware
+  confidence: auto

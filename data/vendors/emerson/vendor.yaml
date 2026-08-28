@@ -1,0 +1,7 @@
+id: emerson
+name: Emerson
+cpe: cpe:2.3:*:emerson:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: emerson
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 5030-m2u92b
+vendor_id: hp
+name: 5030 M2U92B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:5030_m2u92b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5030_m2u92b
+  confidence: auto

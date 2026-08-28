@@ -1,0 +1,10 @@
+id: oceanstor-sns3096
+vendor_id: huawei
+name: Oceanstor Sns3096
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:oceanstor_sns3096:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oceanstor_sns3096
+  confidence: auto

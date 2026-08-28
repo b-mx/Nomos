@@ -1,0 +1,10 @@
+id: '8700'
+vendor_id: netapp
+name: '8700'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:8700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '8700'
+  confidence: auto

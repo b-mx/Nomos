@@ -1,0 +1,10 @@
+id: tellus-lite
+vendor_id: fujielectric
+name: Tellus Lite
+type: software
+tags: []
+cpe: cpe:2.3:a:fujielectric:tellus_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tellus_lite
+  confidence: auto

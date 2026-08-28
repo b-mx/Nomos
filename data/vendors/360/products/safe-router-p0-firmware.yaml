@@ -1,0 +1,10 @@
+id: safe-router-p0-firmware
+vendor_id: '360'
+name: Safe Router P0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:360:safe_router_p0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safe_router_p0_firmware
+  confidence: auto

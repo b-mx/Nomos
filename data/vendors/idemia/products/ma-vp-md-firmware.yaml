@@ -1,0 +1,10 @@
+id: ma-vp-md-firmware
+vendor_id: idemia
+name: Ma Vp Md Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idemia:ma_vp_md_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ma_vp_md_firmware
+  confidence: auto

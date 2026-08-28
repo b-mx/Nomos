@@ -1,0 +1,10 @@
+id: x9scl-f-firmware
+vendor_id: supermicro
+name: X9Scl+-F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9scl\+\-f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9scl+-f_firmware
+  confidence: auto

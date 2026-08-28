@@ -1,0 +1,10 @@
+id: radar
+vendor_id: f-secure
+name: Radar
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:radar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radar
+  confidence: auto

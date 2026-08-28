@@ -1,0 +1,10 @@
+id: carelink-monitor
+vendor_id: medtronic
+name: Carelink Monitor
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:carelink_monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carelink_monitor
+  confidence: auto

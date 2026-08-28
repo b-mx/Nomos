@@ -1,0 +1,10 @@
+id: logiq-9-bt02
+vendor_id: gehealthcare
+name: Logiq 9 Bt02
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:logiq_9_bt02:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: logiq_9_bt02
+  confidence: auto

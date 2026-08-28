@@ -1,0 +1,10 @@
+id: shift-4g-software
+vendor_id: htc
+name: Shift 4G Software
+type: software
+tags: []
+cpe: cpe:2.3:a:htc:shift_4g_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shift_4g_software
+  confidence: auto

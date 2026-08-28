@@ -1,0 +1,10 @@
+id: ip-office-application-server
+vendor_id: avaya
+name: Ip Office Application Server
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:ip_office_application_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip_office_application_server
+  confidence: auto

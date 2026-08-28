@@ -1,0 +1,10 @@
+id: xh620-v3-firmware
+vendor_id: huawei
+name: Xh620 V3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:xh620_v3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xh620_v3_firmware
+  confidence: auto

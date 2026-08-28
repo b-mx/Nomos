@@ -1,0 +1,10 @@
+id: media-server
+vendor_id: sick
+name: Media Server
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:media_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: media_server
+  confidence: auto

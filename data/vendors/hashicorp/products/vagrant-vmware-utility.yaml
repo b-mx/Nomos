@@ -1,0 +1,10 @@
+id: vagrant-vmware-utility
+vendor_id: hashicorp
+name: Vagrant Vmware Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:vagrant_vmware_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vagrant_vmware_utility
+  confidence: auto

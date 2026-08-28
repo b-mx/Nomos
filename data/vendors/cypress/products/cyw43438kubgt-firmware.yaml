@@ -1,0 +1,10 @@
+id: cyw43438kubgt-firmware
+vendor_id: cypress
+name: Cyw43438Kubgt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cypress:cyw43438kubgt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cyw43438kubgt_firmware
+  confidence: auto

@@ -1,0 +1,9 @@
+id: nvidia
+vendor_id: nvidia
+name: NVIDIA Driver
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: nvidia
+  confidence: auto

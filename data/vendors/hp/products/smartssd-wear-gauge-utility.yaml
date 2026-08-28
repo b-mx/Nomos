@@ -1,0 +1,10 @@
+id: smartssd-wear-gauge-utility
+vendor_id: hp
+name: Smartssd Wear Gauge Utility
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:smartssd_wear_gauge_utility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartssd_wear_gauge_utility
+  confidence: auto

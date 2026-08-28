@@ -1,0 +1,10 @@
+id: deskjet-3755-j9v90a
+vendor_id: hp
+name: Deskjet 3755 J9V90A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:deskjet_3755_j9v90a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deskjet_3755_j9v90a
+  confidence: auto

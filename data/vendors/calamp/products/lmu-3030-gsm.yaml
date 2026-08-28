@@ -1,0 +1,10 @@
+id: lmu-3030-gsm
+vendor_id: calamp
+name: Lmu 3030 Gsm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:calamp:lmu_3030_gsm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lmu_3030_gsm
+  confidence: auto

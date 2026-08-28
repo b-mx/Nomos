@@ -1,0 +1,10 @@
+id: arcgis-pro
+vendor_id: esri
+name: Arcgis Pro
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:arcgis_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcgis_pro
+  confidence: auto

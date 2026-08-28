@@ -1,0 +1,10 @@
+id: xm7155-firmware
+vendor_id: lexmark
+name: Xm7155 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:xm7155_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xm7155_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: computer-inventory-system
+vendor_id: remyandrade
+name: Computer Inventory System
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:computer_inventory_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: computer_inventory_system
+  confidence: auto

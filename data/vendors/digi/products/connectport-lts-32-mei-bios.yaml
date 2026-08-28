@@ -1,0 +1,10 @@
+id: connectport-lts-32-mei-bios
+vendor_id: digi
+name: Connectport Lts 32 Mei Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:digi:connectport_lts_32_mei_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connectport_lts_32_mei_bios
+  confidence: auto

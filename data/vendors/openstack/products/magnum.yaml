@@ -1,0 +1,10 @@
+id: magnum
+vendor_id: openstack
+name: Magnum
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:magnum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magnum
+  confidence: auto

@@ -1,0 +1,10 @@
+id: uw-101x
+vendor_id: uniwayinfo
+name: Uw-101X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:uniwayinfo:uw\-101x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uw-101x
+  confidence: auto

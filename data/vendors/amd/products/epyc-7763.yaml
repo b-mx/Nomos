@@ -1,0 +1,10 @@
+id: epyc-7763
+vendor_id: amd
+name: Epyc 7763
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_7763:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_7763
+  confidence: auto

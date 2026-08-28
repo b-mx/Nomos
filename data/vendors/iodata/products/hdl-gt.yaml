@@ -1,0 +1,10 @@
+id: hdl-gt
+vendor_id: iodata
+name: Hdl-Gt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:hdl\-gt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdl-gt
+  confidence: auto

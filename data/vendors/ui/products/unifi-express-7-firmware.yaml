@@ -1,0 +1,10 @@
+id: unifi-express-7-firmware
+vendor_id: ui
+name: Unifi Express 7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:unifi_express_7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_express_7_firmware
+  confidence: auto

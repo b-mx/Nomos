@@ -1,0 +1,10 @@
+id: garrettcom-magnum-dx940e
+vendor_id: belden
+name: Garrettcom Magnum Dx940E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:garrettcom_magnum_dx940e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: garrettcom_magnum_dx940e
+  confidence: auto

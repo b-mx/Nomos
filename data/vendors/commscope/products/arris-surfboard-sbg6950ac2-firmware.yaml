@@ -1,0 +1,10 @@
+id: arris-surfboard-sbg6950ac2-firmware
+vendor_id: commscope
+name: Arris Surfboard Sbg6950Ac2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:commscope:arris_surfboard_sbg6950ac2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arris_surfboard_sbg6950ac2_firmware
+  confidence: auto

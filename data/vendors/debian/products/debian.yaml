@@ -1,0 +1,13 @@
+id: debian
+vendor_id: debian
+name: Debian
+type: os
+tags: []
+cpe: cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: debian
+  confidence: auto
+- source: nvd
+  value: debian_linux
+  confidence: auto

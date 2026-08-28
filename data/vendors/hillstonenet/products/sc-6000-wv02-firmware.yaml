@@ -1,0 +1,10 @@
+id: sc-6000-wv02-firmware
+vendor_id: hillstonenet
+name: Sc-6000-Wv02 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hillstonenet:sc\-6000\-wv02_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-6000-wv02_firmware
+  confidence: auto

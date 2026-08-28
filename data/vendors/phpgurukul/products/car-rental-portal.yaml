@@ -1,0 +1,10 @@
+id: car-rental-portal
+vendor_id: phpgurukul
+name: Car Rental Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:car_rental_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: car_rental_portal
+  confidence: auto

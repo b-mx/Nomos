@@ -1,0 +1,10 @@
+id: itech-movie-script
+vendor_id: ambittechnologies
+name: Itech Movie Script
+type: software
+tags: []
+cpe: cpe:2.3:a:ambittechnologies:itech_movie_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: itech_movie_script
+  confidence: auto

@@ -1,0 +1,10 @@
+id: px-601f
+vendor_id: epson
+name: Px-601F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-601f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-601f
+  confidence: auto

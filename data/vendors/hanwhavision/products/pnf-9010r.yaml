@@ -1,0 +1,10 @@
+id: pnf-9010r
+vendor_id: hanwhavision
+name: Pnf-9010R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:pnf\-9010r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pnf-9010r
+  confidence: auto

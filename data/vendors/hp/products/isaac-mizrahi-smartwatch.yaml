@@ -1,0 +1,10 @@
+id: isaac-mizrahi-smartwatch
+vendor_id: hp
+name: Isaac Mizrahi Smartwatch
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:isaac_mizrahi_smartwatch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isaac_mizrahi_smartwatch
+  confidence: auto

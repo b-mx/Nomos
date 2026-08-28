@@ -1,0 +1,10 @@
+id: vx
+vendor_id: silver-peak
+name: Vx
+type: software
+tags: []
+cpe: cpe:2.3:a:silver\-peak:vx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx
+  confidence: auto

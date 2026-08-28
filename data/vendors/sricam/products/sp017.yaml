@@ -1,0 +1,10 @@
+id: sp017
+vendor_id: sricam
+name: Sp017
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sricam:sp017:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp017
+  confidence: auto

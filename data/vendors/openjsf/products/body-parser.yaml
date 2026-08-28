@@ -1,0 +1,10 @@
+id: body-parser
+vendor_id: openjsf
+name: Body-Parser
+type: software
+tags: []
+cpe: cpe:2.3:a:openjsf:body\-parser:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: body-parser
+  confidence: auto

@@ -1,0 +1,10 @@
+id: panelview-plus
+vendor_id: rockwellautomation
+name: Panelview Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:panelview_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: panelview_plus
+  confidence: auto

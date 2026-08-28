@@ -1,0 +1,10 @@
+id: lx901-firmware
+vendor_id: fujitsu
+name: Lx901 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:lx901_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lx901_firmware
+  confidence: auto

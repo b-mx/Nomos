@@ -1,0 +1,10 @@
+id: iris-88-firmware
+vendor_id: lavamobiles
+name: Iris 88 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lavamobiles:iris_88_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iris_88_firmware
+  confidence: auto

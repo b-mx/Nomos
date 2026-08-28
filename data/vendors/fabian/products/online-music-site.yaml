@@ -1,0 +1,10 @@
+id: online-music-site
+vendor_id: fabian
+name: Online Music Site
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:online_music_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_music_site
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nec-e705-firmware
+vendor_id: sharp
+name: Nec E705 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:nec_e705_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_e705_firmware
+  confidence: auto

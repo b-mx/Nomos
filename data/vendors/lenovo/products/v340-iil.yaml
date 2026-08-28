@@ -1,0 +1,10 @@
+id: v340-iil
+vendor_id: lenovo
+name: V340-Iil
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v340\-iil:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v340-iil
+  confidence: auto

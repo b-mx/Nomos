@@ -1,0 +1,10 @@
+id: spin-kickstarts
+vendor_id: fedoraproject
+name: Spin-Kickstarts
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:spin\-kickstarts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spin-kickstarts
+  confidence: auto

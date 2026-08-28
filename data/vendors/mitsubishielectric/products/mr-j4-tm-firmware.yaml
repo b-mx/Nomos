@@ -1,0 +1,10 @@
+id: mr-j4-tm-firmware
+vendor_id: mitsubishielectric
+name: Mr-J4-Tm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:mr\-j4\-tm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mr-j4-tm_firmware
+  confidence: auto

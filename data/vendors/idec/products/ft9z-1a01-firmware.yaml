@@ -1,0 +1,10 @@
+id: ft9z-1a01-firmware
+vendor_id: idec
+name: Ft9Z-1A01 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:idec:ft9z\-1a01_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ft9z-1a01_firmware
+  confidence: auto

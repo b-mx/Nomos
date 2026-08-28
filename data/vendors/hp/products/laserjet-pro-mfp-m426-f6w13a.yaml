@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m426-f6w13a
+vendor_id: hp
+name: Laserjet Pro Mfp M426 F6W13A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_mfp_m426_f6w13a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m426_f6w13a
+  confidence: auto

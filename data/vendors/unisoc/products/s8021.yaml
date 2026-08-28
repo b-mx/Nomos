@@ -1,0 +1,10 @@
+id: s8021
+vendor_id: unisoc
+name: S8021
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8021:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8021
+  confidence: auto

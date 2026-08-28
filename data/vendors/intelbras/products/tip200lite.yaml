@@ -1,0 +1,10 @@
+id: tip200lite
+vendor_id: intelbras
+name: Tip200Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:tip200lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tip200lite
+  confidence: auto

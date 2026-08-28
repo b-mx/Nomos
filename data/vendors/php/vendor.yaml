@@ -1,10 +1,6 @@
 id: php
 name: PHP
-icon: logos:php
 aliases:
 - source: cisa_kev
   value: PHP
-  confidence: auto
-- source: cisa_kev
-  value: PHP Group
   confidence: auto

@@ -1,0 +1,10 @@
+id: dcp-l8410cdw
+vendor_id: brother
+name: Dcp-L8410Cdw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-l8410cdw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-l8410cdw
+  confidence: auto

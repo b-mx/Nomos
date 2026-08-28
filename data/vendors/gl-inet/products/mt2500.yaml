@@ -1,0 +1,10 @@
+id: mt2500
+vendor_id: gl-inet
+name: Mt2500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:mt2500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt2500
+  confidence: auto

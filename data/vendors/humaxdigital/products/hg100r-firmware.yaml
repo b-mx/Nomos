@@ -1,0 +1,10 @@
+id: hg100r-firmware
+vendor_id: humaxdigital
+name: Hg100R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:humaxdigital:hg100r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg100r_firmware
+  confidence: auto

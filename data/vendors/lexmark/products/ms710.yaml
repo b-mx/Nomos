@@ -1,0 +1,10 @@
+id: ms710
+vendor_id: lexmark
+name: Ms710
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms710:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms710
+  confidence: auto

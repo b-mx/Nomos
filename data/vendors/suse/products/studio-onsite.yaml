@@ -1,0 +1,10 @@
+id: studio-onsite
+vendor_id: suse
+name: Studio Onsite
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:studio_onsite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_onsite
+  confidence: auto

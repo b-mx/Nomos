@@ -1,0 +1,10 @@
+id: bond-tl10c
+vendor_id: huawei
+name: Bond-Tl10C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:bond\-tl10c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bond-tl10c
+  confidence: auto

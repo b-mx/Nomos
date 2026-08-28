@@ -1,0 +1,10 @@
+id: fl-mguard-rs4004-tx-dtx-firmware
+vendor_id: phoenixcontact
+name: Fl Mguard Rs4004 Tx/Dtx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fl_mguard_rs4004_tx\/dtx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_rs4004_tx/dtx_firmware
+  confidence: auto

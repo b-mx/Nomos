@@ -1,0 +1,10 @@
+id: f-secure-online-scanner
+vendor_id: f-secure
+name: F-Secure Online Scanner
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:f\-secure_online_scanner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f-secure_online_scanner
+  confidence: auto

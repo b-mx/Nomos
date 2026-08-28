@@ -1,0 +1,10 @@
+id: envy-100-cn517a
+vendor_id: hp
+name: Envy 100 Cn517A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_100_cn517a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_100_cn517a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: trutops-fab
+vendor_id: trumpf
+name: Trutops Fab
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:trutops_fab:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trutops_fab
+  confidence: auto

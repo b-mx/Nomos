@@ -1,0 +1,10 @@
+id: puppetlabs-apache
+vendor_id: puppet
+name: Puppetlabs-Apache
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:puppetlabs\-apache:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppetlabs-apache
+  confidence: auto

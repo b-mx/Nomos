@@ -1,0 +1,10 @@
+id: ak65x
+vendor_id: amino
+name: Ak65X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amino:ak65x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ak65x
+  confidence: auto

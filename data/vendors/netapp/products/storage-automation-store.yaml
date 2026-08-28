@@ -1,0 +1,10 @@
+id: storage-automation-store
+vendor_id: netapp
+name: Storage Automation Store
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:storage_automation_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_automation_store
+  confidence: auto

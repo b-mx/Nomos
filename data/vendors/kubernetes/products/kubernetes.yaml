@@ -2,17 +2,12 @@ id: kubernetes
 vendor_id: kubernetes
 name: Kubernetes
 type: software
-tags: [orchestration, container-runtime]
-icon: logos:kubernetes
+tags: []
+cpe: cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*
 aliases:
-  - source: nvd
-    value: kubernetes
-    confidence: curated
-  - source: endoflife
-    value: kubernetes
-    confidence: curated
-services:
-  - protocol: tcp
-    port: 6443
-    name: kube-apiserver
-    default: true
+- source: endoflife
+  value: kubernetes
+  confidence: auto
+- source: nvd
+  value: kubernetes
+  confidence: auto

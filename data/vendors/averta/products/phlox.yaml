@@ -1,0 +1,10 @@
+id: phlox
+vendor_id: averta
+name: Phlox
+type: software
+tags: []
+cpe: cpe:2.3:a:averta:phlox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phlox
+  confidence: auto

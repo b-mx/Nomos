@@ -1,0 +1,10 @@
+id: wf-sp700n-firmware
+vendor_id: sony
+name: Wf-Sp700N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sony:wf\-sp700n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wf-sp700n_firmware
+  confidence: auto

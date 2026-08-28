@@ -1,0 +1,10 @@
+id: backburner
+vendor_id: autodesk
+name: Backburner
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:backburner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backburner
+  confidence: auto

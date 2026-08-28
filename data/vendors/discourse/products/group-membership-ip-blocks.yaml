@@ -1,0 +1,10 @@
+id: group-membership-ip-blocks
+vendor_id: discourse
+name: Group Membership Ip Blocks
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:group_membership_ip_blocks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: group_membership_ip_blocks
+  confidence: auto

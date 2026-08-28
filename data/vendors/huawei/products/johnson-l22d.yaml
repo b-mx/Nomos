@@ -1,0 +1,10 @@
+id: johnson-l22d
+vendor_id: huawei
+name: Johnson-L22D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:johnson\-l22d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: johnson-l22d
+  confidence: auto

@@ -1,0 +1,10 @@
+id: colorqube-8700
+vendor_id: xerox
+name: Colorqube 8700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:colorqube_8700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: colorqube_8700
+  confidence: auto

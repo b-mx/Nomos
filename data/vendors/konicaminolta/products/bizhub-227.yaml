@@ -1,0 +1,10 @@
+id: bizhub-227
+vendor_id: konicaminolta
+name: Bizhub 227
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_227:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_227
+  confidence: auto

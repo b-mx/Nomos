@@ -1,0 +1,10 @@
+id: mx-2614n-firmware
+vendor_id: sharp
+name: Mx-2614N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-2614n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-2614n_firmware
+  confidence: auto

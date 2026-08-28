@@ -1,0 +1,10 @@
+id: 4690-operating-system
+vendor_id: toshiba
+name: 4690 Operating System
+type: os
+tags: []
+cpe: cpe:2.3:o:toshiba:4690_operating_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4690_operating_system
+  confidence: auto

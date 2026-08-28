@@ -1,0 +1,10 @@
+id: compaq-14-h000
+vendor_id: hp
+name: Compaq 14-H000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:compaq_14\-h000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compaq_14-h000
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gl-ap1300lte
+vendor_id: gl-inet
+name: Gl-Ap1300Lte
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:gl\-ap1300lte:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gl-ap1300lte
+  confidence: auto

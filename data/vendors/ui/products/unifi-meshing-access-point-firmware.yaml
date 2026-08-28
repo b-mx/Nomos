@@ -1,0 +1,10 @@
+id: unifi-meshing-access-point-firmware
+vendor_id: ui
+name: Unifi Meshing Access Point Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:unifi_meshing_access_point_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_meshing_access_point_firmware
+  confidence: auto

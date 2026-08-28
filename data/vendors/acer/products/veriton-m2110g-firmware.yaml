@@ -1,0 +1,10 @@
+id: veriton-m2110g-firmware
+vendor_id: acer
+name: Veriton M2110G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:veriton_m2110g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: veriton_m2110g_firmware
+  confidence: auto

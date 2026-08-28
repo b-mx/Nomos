@@ -1,0 +1,10 @@
+id: uf-160
+vendor_id: lancom-systems
+name: Uf-160
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lancom\-systems:uf\-160:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uf-160
+  confidence: auto

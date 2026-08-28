@@ -1,0 +1,10 @@
+id: jetwave-4221hp-e
+vendor_id: korenix
+name: Jetwave 4221Hp-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:korenix:jetwave_4221hp\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetwave_4221hp-e
+  confidence: auto

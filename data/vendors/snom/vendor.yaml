@@ -1,0 +1,7 @@
+id: snom
+name: Snom
+cpe: cpe:2.3:*:snom:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snom
+  confidence: auto

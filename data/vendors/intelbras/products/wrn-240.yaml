@@ -1,0 +1,10 @@
+id: wrn-240
+vendor_id: intelbras
+name: Wrn 240
+type: hardware
+tags: []
+cpe: cpe:2.3:h:intelbras:wrn_240:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrn_240
+  confidence: auto

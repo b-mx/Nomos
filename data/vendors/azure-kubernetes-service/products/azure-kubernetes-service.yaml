@@ -1,0 +1,9 @@
+id: azure-kubernetes-service
+vendor_id: azure-kubernetes-service
+name: Azure Kubernetes Service
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: azure-kubernetes-service
+  confidence: auto

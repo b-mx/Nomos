@@ -1,0 +1,10 @@
+id: honor-magic-2-firmware
+vendor_id: huawei
+name: Honor Magic 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:honor_magic_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_magic_2_firmware
+  confidence: auto

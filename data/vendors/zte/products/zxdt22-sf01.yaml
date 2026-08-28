@@ -1,0 +1,10 @@
+id: zxdt22-sf01
+vendor_id: zte
+name: Zxdt22 Sf01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxdt22_sf01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxdt22_sf01
+  confidence: auto

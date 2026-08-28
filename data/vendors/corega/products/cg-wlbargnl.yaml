@@ -1,0 +1,10 @@
+id: cg-wlbargnl
+vendor_id: corega
+name: Cg-Wlbargnl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:corega:cg\-wlbargnl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cg-wlbargnl
+  confidence: auto

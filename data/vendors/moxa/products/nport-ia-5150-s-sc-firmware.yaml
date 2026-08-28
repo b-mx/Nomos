@@ -1,0 +1,10 @@
+id: nport-ia-5150-s-sc-firmware
+vendor_id: moxa
+name: Nport Ia-5150-S-Sc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:moxa:nport_ia\-5150\-s\-sc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_ia-5150-s-sc_firmware
+  confidence: auto

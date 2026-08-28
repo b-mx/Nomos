@@ -1,0 +1,10 @@
+id: computer-telephony
+vendor_id: avaya
+name: Computer Telephony
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:computer_telephony:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: computer_telephony
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sqlbot
+vendor_id: fit2cloud
+name: Sqlbot
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:sqlbot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sqlbot
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rh2288a-v2
+vendor_id: huawei
+name: Rh2288A V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rh2288a_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh2288a_v2
+  confidence: auto

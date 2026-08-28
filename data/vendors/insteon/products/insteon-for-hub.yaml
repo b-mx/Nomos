@@ -1,0 +1,10 @@
+id: insteon-for-hub
+vendor_id: insteon
+name: Insteon For Hub
+type: software
+tags: []
+cpe: cpe:2.3:a:insteon:insteon_for_hub:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insteon_for_hub
+  confidence: auto

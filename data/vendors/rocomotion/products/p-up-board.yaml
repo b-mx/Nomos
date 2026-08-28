@@ -1,0 +1,10 @@
+id: p-up-board
+vendor_id: rocomotion
+name: P Up Board
+type: software
+tags: []
+cpe: cpe:2.3:a:rocomotion:p_up_board:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p_up_board
+  confidence: auto

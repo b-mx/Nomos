@@ -1,0 +1,10 @@
+id: al5000ac
+vendor_id: jensenofscandinavia
+name: Al5000Ac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jensenofscandinavia:al5000ac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: al5000ac
+  confidence: auto

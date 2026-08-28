@@ -1,0 +1,10 @@
+id: hisuite
+vendor_id: huawei
+name: Hisuite
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hisuite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hisuite
+  confidence: auto

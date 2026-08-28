@@ -1,0 +1,10 @@
+id: internet-messaging-system
+vendor_id: novell
+name: Internet Messaging System
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:internet_messaging_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet_messaging_system
+  confidence: auto

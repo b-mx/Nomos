@@ -1,0 +1,9 @@
+id: samsung-mobile
+vendor_id: samsung-mobile
+name: Samsung Mobile
+type: hardware
+tags: []
+aliases:
+- source: endoflife
+  value: samsung-mobile
+  confidence: auto

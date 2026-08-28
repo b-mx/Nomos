@@ -1,0 +1,10 @@
+id: m712-rgb
+vendor_id: redragon
+name: M712-Rgb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:redragon:m712\-rgb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m712-rgb
+  confidence: auto

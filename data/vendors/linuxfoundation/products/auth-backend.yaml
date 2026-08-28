@@ -1,0 +1,10 @@
+id: auth-backend
+vendor_id: linuxfoundation
+name: Auth Backend
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:auth_backend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: auth_backend
+  confidence: auto

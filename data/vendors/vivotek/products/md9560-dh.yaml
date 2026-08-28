@@ -1,0 +1,10 @@
+id: md9560-dh
+vendor_id: vivotek
+name: Md9560-Dh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:md9560\-dh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: md9560-dh
+  confidence: auto

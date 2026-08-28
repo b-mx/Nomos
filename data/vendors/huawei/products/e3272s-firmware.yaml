@@ -1,0 +1,10 @@
+id: e3272s-firmware
+vendor_id: huawei
+name: E3272S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:e3272s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e3272s_firmware
+  confidence: auto

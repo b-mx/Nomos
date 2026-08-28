@@ -1,0 +1,10 @@
+id: icewall-sso
+vendor_id: hp
+name: Icewall Sso
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:icewall_sso:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icewall_sso
+  confidence: auto

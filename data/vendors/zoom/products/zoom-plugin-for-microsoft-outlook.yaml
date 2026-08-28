@@ -1,0 +1,10 @@
+id: zoom-plugin-for-microsoft-outlook
+vendor_id: zoom
+name: Zoom Plugin For Microsoft Outlook
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:zoom_plugin_for_microsoft_outlook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zoom_plugin_for_microsoft_outlook
+  confidence: auto

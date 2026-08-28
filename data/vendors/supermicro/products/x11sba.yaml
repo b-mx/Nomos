@@ -1,0 +1,10 @@
+id: x11sba
+vendor_id: supermicro
+name: X11Sba
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11sba:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sba
+  confidence: auto

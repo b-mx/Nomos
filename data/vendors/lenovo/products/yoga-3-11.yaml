@@ -1,0 +1,10 @@
+id: yoga-3-11
+vendor_id: lenovo
+name: Yoga 3 11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yoga_3_11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_3_11
+  confidence: auto

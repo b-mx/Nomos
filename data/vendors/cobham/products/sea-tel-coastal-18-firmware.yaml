@@ -1,0 +1,10 @@
+id: sea-tel-coastal-18-firmware
+vendor_id: cobham
+name: Sea Tel Coastal 18 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cobham:sea_tel_coastal_18_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sea_tel_coastal_18_firmware
+  confidence: auto

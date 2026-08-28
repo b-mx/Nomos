@@ -1,0 +1,10 @@
+id: lq-08
+vendor_id: wayos
+name: Lq-08
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wayos:lq\-08:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lq-08
+  confidence: auto

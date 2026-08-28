@@ -1,0 +1,10 @@
+id: 247x
+vendor_id: lenovo
+name: 247X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:247x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 247x
+  confidence: auto

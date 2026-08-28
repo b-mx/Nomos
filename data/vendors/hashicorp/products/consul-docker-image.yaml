@@ -1,0 +1,10 @@
+id: consul-docker-image
+vendor_id: hashicorp
+name: Consul Docker Image
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:consul_docker_image:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: consul_docker_image
+  confidence: auto

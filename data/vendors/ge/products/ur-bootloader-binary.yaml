@@ -1,0 +1,10 @@
+id: ur-bootloader-binary
+vendor_id: ge
+name: Ur Bootloader Binary
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:ur_bootloader_binary:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ur_bootloader_binary
+  confidence: auto

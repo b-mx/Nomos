@@ -1,0 +1,10 @@
+id: ep-r6-firmware
+vendor_id: ui
+name: Ep-R6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:ep\-r6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ep-r6_firmware
+  confidence: auto

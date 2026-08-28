@@ -1,0 +1,10 @@
+id: tellus-lite-v-simulator
+vendor_id: fujielectric
+name: Tellus Lite V-Simulator
+type: software
+tags: []
+cpe: cpe:2.3:a:fujielectric:tellus_lite_v\-simulator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tellus_lite_v-simulator
+  confidence: auto

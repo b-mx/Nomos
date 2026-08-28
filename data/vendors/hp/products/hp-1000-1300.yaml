@@ -1,0 +1,10 @@
+id: hp-1000-1300
+vendor_id: hp
+name: Hp 1000-1300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_1000\-1300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_1000-1300
+  confidence: auto

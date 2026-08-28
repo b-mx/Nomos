@@ -1,0 +1,10 @@
+id: minder
+vendor_id: lfprojects
+name: Minder
+type: software
+tags: []
+cpe: cpe:2.3:a:lfprojects:minder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minder
+  confidence: auto

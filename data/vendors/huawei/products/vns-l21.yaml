@@ -1,0 +1,10 @@
+id: vns-l21
+vendor_id: huawei
+name: Vns-L21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:vns\-l21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vns-l21
+  confidence: auto

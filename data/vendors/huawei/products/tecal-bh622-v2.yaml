@@ -1,0 +1,10 @@
+id: tecal-bh622-v2
+vendor_id: huawei
+name: Tecal Bh622 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tecal_bh622_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_bh622_v2
+  confidence: auto

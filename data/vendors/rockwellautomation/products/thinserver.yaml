@@ -1,0 +1,10 @@
+id: thinserver
+vendor_id: rockwellautomation
+name: Thinserver
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:thinserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinserver
+  confidence: auto

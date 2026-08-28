@@ -1,0 +1,10 @@
+id: succession-communication-server-2000
+vendor_id: nortel
+name: Succession Communication Server 2000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:succession_communication_server_2000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: succession_communication_server_2000
+  confidence: auto

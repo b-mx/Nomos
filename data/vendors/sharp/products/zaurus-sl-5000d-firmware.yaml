@@ -1,0 +1,10 @@
+id: zaurus-sl-5000d-firmware
+vendor_id: sharp
+name: Zaurus Sl-5000D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:zaurus_sl\-5000d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zaurus_sl-5000d_firmware
+  confidence: auto

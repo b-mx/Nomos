@@ -1,0 +1,10 @@
+id: smart-s80
+vendor_id: byzoro
+name: Smart S80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:byzoro:smart_s80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_s80
+  confidence: auto

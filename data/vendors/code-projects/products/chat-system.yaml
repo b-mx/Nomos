@@ -1,0 +1,10 @@
+id: chat-system
+vendor_id: code-projects
+name: Chat System
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:chat_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chat_system
+  confidence: auto

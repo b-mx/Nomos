@@ -1,0 +1,10 @@
+id: 32s330
+vendor_id: tcl
+name: 32S330
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tcl:32s330:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 32s330
+  confidence: auto

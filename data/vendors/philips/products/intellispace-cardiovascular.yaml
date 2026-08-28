@@ -1,0 +1,10 @@
+id: intellispace-cardiovascular
+vendor_id: philips
+name: Intellispace Cardiovascular
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:intellispace_cardiovascular:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intellispace_cardiovascular
+  confidence: auto

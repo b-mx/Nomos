@@ -1,0 +1,10 @@
+id: secospace-antiddos8000
+vendor_id: huawei
+name: Secospace Antiddos8000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:secospace_antiddos8000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secospace_antiddos8000
+  confidence: auto

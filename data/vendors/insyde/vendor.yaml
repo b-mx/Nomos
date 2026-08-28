@@ -1,0 +1,7 @@
+id: insyde
+name: Insyde
+cpe: cpe:2.3:*:insyde:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insyde
+  confidence: auto

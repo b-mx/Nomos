@@ -1,0 +1,10 @@
+id: usb150
+vendor_id: gl-inet
+name: Usb150
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:usb150:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usb150
+  confidence: auto

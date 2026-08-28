@@ -1,0 +1,10 @@
+id: nds-5008rm
+vendor_id: systech
+name: Nds/5008Rm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:systech:nds\/5008rm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nds/5008rm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kube-apiserver
+vendor_id: kubernetes
+name: Kube-Apiserver
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:kube\-apiserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kube-apiserver
+  confidence: auto

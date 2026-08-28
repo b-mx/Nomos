@@ -1,0 +1,10 @@
+id: tv-media-player-firmware
+vendor_id: westerndigital
+name: Tv Media Player Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westerndigital:tv_media_player_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv_media_player_firmware
+  confidence: auto

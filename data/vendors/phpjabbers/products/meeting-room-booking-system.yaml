@@ -1,0 +1,10 @@
+id: meeting-room-booking-system
+vendor_id: phpjabbers
+name: Meeting Room Booking System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:meeting_room_booking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meeting_room_booking_system
+  confidence: auto

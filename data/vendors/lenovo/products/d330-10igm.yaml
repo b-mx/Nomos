@@ -1,0 +1,10 @@
+id: d330-10igm
+vendor_id: lenovo
+name: D330-10Igm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:d330\-10igm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d330-10igm
+  confidence: auto

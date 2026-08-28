@@ -1,0 +1,10 @@
+id: pc10b
+vendor_id: jtekt
+name: Pc10B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:jtekt:pc10b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10b
+  confidence: auto

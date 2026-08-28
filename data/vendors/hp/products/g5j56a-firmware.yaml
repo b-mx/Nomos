@@ -1,0 +1,10 @@
+id: g5j56a-firmware
+vendor_id: hp
+name: G5J56A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:g5j56a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g5j56a_firmware
+  confidence: auto

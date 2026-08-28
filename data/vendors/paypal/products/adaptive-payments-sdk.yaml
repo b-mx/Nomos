@@ -1,0 +1,10 @@
+id: adaptive-payments-sdk
+vendor_id: paypal
+name: Adaptive Payments Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:paypal:adaptive_payments_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adaptive_payments_sdk
+  confidence: auto

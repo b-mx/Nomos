@@ -1,0 +1,10 @@
+id: go-1
+vendor_id: unitree
+name: Go 1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unitree:go_1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_1
+  confidence: auto

@@ -1,0 +1,10 @@
+id: insight-contol
+vendor_id: hp
+name: Insight Contol
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:insight_contol:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_contol
+  confidence: auto

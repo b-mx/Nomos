@@ -1,0 +1,10 @@
+id: carescape-telemetry-server-mp100r
+vendor_id: gehealthcare
+name: Carescape Telemetry Server Mp100R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:carescape_telemetry_server_mp100r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carescape_telemetry_server_mp100r
+  confidence: auto

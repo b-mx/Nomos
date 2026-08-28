@@ -1,0 +1,10 @@
+id: l02-06-26cpu
+vendor_id: mitsubishielectric
+name: L02/06/26Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:l02\/06\/26cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l02/06/26cpu
+  confidence: auto

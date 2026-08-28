@@ -1,0 +1,10 @@
+id: storage-encryption
+vendor_id: netapp
+name: Storage Encryption
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:storage_encryption:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_encryption
+  confidence: auto

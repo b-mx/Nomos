@@ -1,0 +1,10 @@
+id: stm32l443rc
+vendor_id: st
+name: Stm32L443Rc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l443rc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l443rc
+  confidence: auto

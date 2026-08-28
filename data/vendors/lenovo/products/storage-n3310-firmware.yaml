@@ -1,0 +1,10 @@
+id: storage-n3310-firmware
+vendor_id: lenovo
+name: Storage N3310 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:storage_n3310_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_n3310_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: prodesk-480-g7-pci
+vendor_id: hp
+name: Prodesk 480 G7 Pci
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_480_g7_pci:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_480_g7_pci
+  confidence: auto

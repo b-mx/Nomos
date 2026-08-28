@@ -1,0 +1,10 @@
+id: cx2l-mwr04l-firmware
+vendor_id: motorola
+name: Cx2L Mwr04L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:cx2l_mwr04l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx2l_mwr04l_firmware
+  confidence: auto

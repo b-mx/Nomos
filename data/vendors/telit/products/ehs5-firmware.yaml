@@ -1,0 +1,10 @@
+id: ehs5-firmware
+vendor_id: telit
+name: Ehs5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:telit:ehs5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ehs5_firmware
+  confidence: auto

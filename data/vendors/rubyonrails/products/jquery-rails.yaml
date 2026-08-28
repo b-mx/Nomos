@@ -1,0 +1,10 @@
+id: jquery-rails
+vendor_id: rubyonrails
+name: Jquery-Rails
+type: software
+tags: []
+cpe: cpe:2.3:a:rubyonrails:jquery\-rails:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jquery-rails
+  confidence: auto

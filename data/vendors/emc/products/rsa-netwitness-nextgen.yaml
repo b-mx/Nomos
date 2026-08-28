@@ -1,0 +1,10 @@
+id: rsa-netwitness-nextgen
+vendor_id: emc
+name: Rsa Netwitness Nextgen
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:rsa_netwitness_nextgen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rsa_netwitness_nextgen
+  confidence: auto

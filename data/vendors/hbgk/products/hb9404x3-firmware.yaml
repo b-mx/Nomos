@@ -1,0 +1,10 @@
+id: hb9404x3-firmware
+vendor_id: hbgk
+name: Hb9404X3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb9404x3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb9404x3_firmware
+  confidence: auto

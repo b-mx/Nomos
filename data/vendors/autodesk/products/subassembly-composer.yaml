@@ -1,0 +1,10 @@
+id: subassembly-composer
+vendor_id: autodesk
+name: Subassembly Composer
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:subassembly_composer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: subassembly_composer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vvx
+vendor_id: polycom
+name: Vvx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx
+  confidence: auto

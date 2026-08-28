@@ -1,0 +1,10 @@
+id: s3300
+vendor_id: huawei
+name: S3300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s3300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s3300
+  confidence: auto

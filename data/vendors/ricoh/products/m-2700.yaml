@@ -1,0 +1,10 @@
+id: m-2700
+vendor_id: ricoh
+name: M 2700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:m_2700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m_2700
+  confidence: auto

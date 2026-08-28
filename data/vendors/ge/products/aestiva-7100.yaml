@@ -1,0 +1,10 @@
+id: aestiva-7100
+vendor_id: ge
+name: Aestiva 7100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:aestiva_7100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aestiva_7100
+  confidence: auto

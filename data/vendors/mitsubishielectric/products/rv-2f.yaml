@@ -1,0 +1,10 @@
+id: rv-2f
+vendor_id: mitsubishielectric
+name: Rv-2F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rv\-2f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rv-2f
+  confidence: auto

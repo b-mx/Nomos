@@ -1,0 +1,10 @@
+id: cb3-1-firmware
+vendor_id: universal-robots
+name: Cb3.1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:universal\-robots:cb3\.1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cb3.1_firmware
+  confidence: auto

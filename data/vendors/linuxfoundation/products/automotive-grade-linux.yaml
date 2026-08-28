@@ -1,0 +1,10 @@
+id: automotive-grade-linux
+vendor_id: linuxfoundation
+name: Automotive Grade Linux
+type: os
+tags: []
+cpe: cpe:2.3:o:linuxfoundation:automotive_grade_linux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automotive_grade_linux
+  confidence: auto

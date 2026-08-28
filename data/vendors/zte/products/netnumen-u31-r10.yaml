@@ -1,0 +1,10 @@
+id: netnumen-u31-r10
+vendor_id: zte
+name: Netnumen U31 R10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:netnumen_u31_r10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netnumen_u31_r10
+  confidence: auto

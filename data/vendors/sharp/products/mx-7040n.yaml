@@ -1,0 +1,10 @@
+id: mx-7040n
+vendor_id: sharp
+name: Mx-7040N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:mx\-7040n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-7040n
+  confidence: auto

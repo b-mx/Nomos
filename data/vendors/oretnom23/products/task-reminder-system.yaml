@@ -1,0 +1,10 @@
+id: task-reminder-system
+vendor_id: oretnom23
+name: Task Reminder System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:task_reminder_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: task_reminder_system
+  confidence: auto

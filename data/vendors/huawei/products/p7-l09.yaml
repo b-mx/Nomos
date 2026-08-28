@@ -1,0 +1,10 @@
+id: p7-l09
+vendor_id: huawei
+name: P7-L09
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p7\-l09:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p7-l09
+  confidence: auto

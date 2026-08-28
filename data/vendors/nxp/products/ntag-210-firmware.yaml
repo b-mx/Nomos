@@ -1,0 +1,10 @@
+id: ntag-210-firmware
+vendor_id: nxp
+name: Ntag 210 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:ntag_210_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ntag_210_firmware
+  confidence: auto

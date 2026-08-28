@@ -1,0 +1,10 @@
+id: xdg-user-dirs
+vendor_id: freedesktop
+name: Xdg-User-Dirs
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:xdg\-user\-dirs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xdg-user-dirs
+  confidence: auto

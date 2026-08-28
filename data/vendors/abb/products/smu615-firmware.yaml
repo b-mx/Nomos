@@ -1,0 +1,10 @@
+id: smu615-firmware
+vendor_id: abb
+name: Smu615 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:smu615_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smu615_firmware
+  confidence: auto

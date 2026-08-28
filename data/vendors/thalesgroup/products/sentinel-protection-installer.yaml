@@ -1,0 +1,10 @@
+id: sentinel-protection-installer
+vendor_id: thalesgroup
+name: Sentinel Protection Installer
+type: software
+tags: []
+cpe: cpe:2.3:a:thalesgroup:sentinel_protection_installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sentinel_protection_installer
+  confidence: auto

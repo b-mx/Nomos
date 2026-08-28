@@ -1,0 +1,10 @@
+id: kahuna
+vendor_id: cryoutcreations
+name: Kahuna
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:kahuna:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kahuna
+  confidence: auto

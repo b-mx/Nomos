@@ -1,0 +1,10 @@
+id: mn100
+vendor_id: avaya
+name: Mn100
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:mn100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mn100
+  confidence: auto

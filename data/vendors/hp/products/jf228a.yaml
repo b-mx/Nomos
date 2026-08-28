@@ -1,0 +1,10 @@
+id: jf228a
+vendor_id: hp
+name: Jf228A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf228a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf228a
+  confidence: auto

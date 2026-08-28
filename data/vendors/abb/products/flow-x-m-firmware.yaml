@@ -1,0 +1,10 @@
+id: flow-x-m-firmware
+vendor_id: abb
+name: Flow-X/M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:flow\-x\/m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flow-x/m_firmware
+  confidence: auto

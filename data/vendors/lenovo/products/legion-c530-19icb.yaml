@@ -1,0 +1,10 @@
+id: legion-c530-19icb
+vendor_id: lenovo
+name: Legion C530-19Icb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_c530\-19icb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_c530-19icb
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hl-2595dw-firmware
+vendor_id: brother
+name: Hl-2595Dw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:hl\-2595dw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hl-2595dw_firmware
+  confidence: auto

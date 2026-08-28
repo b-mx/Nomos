@@ -1,0 +1,10 @@
+id: nomad-portable-firmware
+vendor_id: bridgetech
+name: Nomad Portable Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bridgetech:nomad_portable_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nomad_portable_firmware
+  confidence: auto

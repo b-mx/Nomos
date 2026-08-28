@@ -1,0 +1,10 @@
+id: eds-g512e
+vendor_id: moxa
+name: Eds-G512E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:eds\-g512e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eds-g512e
+  confidence: auto

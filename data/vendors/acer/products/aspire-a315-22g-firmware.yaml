@@ -1,0 +1,10 @@
+id: aspire-a315-22g-firmware
+vendor_id: acer
+name: Aspire A315-22G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:aspire_a315\-22g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_a315-22g_firmware
+  confidence: auto

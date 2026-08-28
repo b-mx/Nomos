@@ -1,0 +1,10 @@
+id: custom-fields-for-woocommerce
+vendor_id: addify
+name: Custom Fields For Woocommerce
+type: software
+tags: []
+cpe: cpe:2.3:a:addify:custom_fields_for_woocommerce:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: custom_fields_for_woocommerce
+  confidence: auto

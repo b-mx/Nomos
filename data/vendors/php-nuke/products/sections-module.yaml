@@ -1,0 +1,10 @@
+id: sections-module
+vendor_id: php-nuke
+name: Sections Module
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-nuke:sections_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sections_module
+  confidence: auto

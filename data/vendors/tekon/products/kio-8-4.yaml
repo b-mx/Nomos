@@ -1,0 +1,10 @@
+id: kio-8-4
+vendor_id: tekon
+name: Kio-8(4)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tekon:kio\-8\(4\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kio-8(4)
+  confidence: auto

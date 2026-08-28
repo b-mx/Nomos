@@ -1,0 +1,10 @@
+id: envy-4520-e6g67a
+vendor_id: hp
+name: Envy 4520 E6G67A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_4520_e6g67a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_4520_e6g67a
+  confidence: auto

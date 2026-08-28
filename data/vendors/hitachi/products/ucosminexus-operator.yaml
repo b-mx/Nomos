@@ -1,0 +1,10 @@
+id: ucosminexus-operator
+vendor_id: hitachi
+name: Ucosminexus Operator
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:ucosminexus_operator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ucosminexus_operator
+  confidence: auto

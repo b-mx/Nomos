@@ -1,0 +1,10 @@
+id: redmi-k20
+vendor_id: mi
+name: Redmi K20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:redmi_k20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_k20
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ignite-ux
+vendor_id: hp
+name: Ignite-Ux
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:ignite\-ux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ignite-ux
+  confidence: auto

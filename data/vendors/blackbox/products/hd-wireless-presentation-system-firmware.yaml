@@ -1,0 +1,10 @@
+id: hd-wireless-presentation-system-firmware
+vendor_id: blackbox
+name: Hd Wireless Presentation System Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:blackbox:hd_wireless_presentation_system_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hd_wireless_presentation_system_firmware
+  confidence: auto

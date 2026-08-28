@@ -1,0 +1,10 @@
+id: pavilion-laptop-13-an0xxx
+vendor_id: hp
+name: Pavilion Laptop 13-An0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_laptop_13\-an0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_laptop_13-an0xxx
+  confidence: auto

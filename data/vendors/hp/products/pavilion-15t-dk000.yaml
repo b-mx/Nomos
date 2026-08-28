@@ -1,0 +1,10 @@
+id: pavilion-15t-dk000
+vendor_id: hp
+name: Pavilion 15T-Dk000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_15t\-dk000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_15t-dk000
+  confidence: auto

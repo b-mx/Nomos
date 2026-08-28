@@ -1,0 +1,10 @@
+id: motorola-scanner-sdk
+vendor_id: motorola
+name: Motorola Scanner Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:motorola:motorola_scanner_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: motorola_scanner_sdk
+  confidence: auto

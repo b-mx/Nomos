@@ -1,0 +1,10 @@
+id: wi-fi-spot-configuration-software
+vendor_id: softbank
+name: Wi-Fi Spot Configuration Software
+type: software
+tags: []
+cpe: cpe:2.3:a:softbank:wi\-fi_spot_configuration_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wi-fi_spot_configuration_software
+  confidence: auto

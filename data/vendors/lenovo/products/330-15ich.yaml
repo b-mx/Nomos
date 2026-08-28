@@ -1,0 +1,10 @@
+id: 330-15ich
+vendor_id: lenovo
+name: 330-15Ich
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:330\-15ich:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 330-15ich
+  confidence: auto

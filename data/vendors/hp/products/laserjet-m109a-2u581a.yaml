@@ -1,0 +1,10 @@
+id: laserjet-m109a-2u581a
+vendor_id: hp
+name: Laserjet M109A 2U581A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m109a_2u581a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m109a_2u581a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fl-mguard-4102-pci
+vendor_id: phoenixcontact
+name: Fl Mguard 4102 Pci
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_mguard_4102_pci:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_4102_pci
+  confidence: auto

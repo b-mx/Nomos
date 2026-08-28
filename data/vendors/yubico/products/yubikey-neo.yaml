@@ -1,0 +1,10 @@
+id: yubikey-neo
+vendor_id: yubico
+name: Yubikey Neo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:yubico:yubikey_neo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yubikey_neo
+  confidence: auto

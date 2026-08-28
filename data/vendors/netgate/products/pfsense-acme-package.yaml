@@ -1,0 +1,10 @@
+id: pfsense-acme-package
+vendor_id: netgate
+name: Pfsense Acme Package
+type: software
+tags: []
+cpe: cpe:2.3:a:netgate:pfsense_acme_package:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pfsense_acme_package
+  confidence: auto

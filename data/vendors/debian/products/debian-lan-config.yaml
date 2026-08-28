@@ -1,0 +1,10 @@
+id: debian-lan-config
+vendor_id: debian
+name: Debian-Lan-Config
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:debian\-lan\-config:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: debian-lan-config
+  confidence: auto

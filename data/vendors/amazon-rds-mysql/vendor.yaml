@@ -1,0 +1,6 @@
+id: amazon-rds-mysql
+name: Amazon RDS for MySQL
+aliases:
+- source: endoflife
+  value: amazon-rds-mysql
+  confidence: auto

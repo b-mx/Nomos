@@ -1,0 +1,10 @@
+id: nwl-25
+vendor_id: netcommwireless
+name: Nwl-25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netcommwireless:nwl\-25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nwl-25
+  confidence: auto

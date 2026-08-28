@@ -1,0 +1,10 @@
+id: moody
+vendor_id: thememove
+name: Moody
+type: software
+tags: []
+cpe: cpe:2.3:a:thememove:moody:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moody
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ms822
+vendor_id: lexmark
+name: Ms822
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms822:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms822
+  confidence: auto

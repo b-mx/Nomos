@@ -1,0 +1,10 @@
+id: rh12rfh70-firmware
+vendor_id: mitsubishielectric
+name: Rh12Rfh70 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:rh12rfh70_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh12rfh70_firmware
+  confidence: auto

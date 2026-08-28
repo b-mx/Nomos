@@ -1,0 +1,10 @@
+id: aspire-u5-620-firmware
+vendor_id: acer
+name: Aspire U5-620 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:aspire_u5\-620_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_u5-620_firmware
+  confidence: auto

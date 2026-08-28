@@ -1,0 +1,10 @@
+id: m357-ai
+vendor_id: proscend
+name: M357-Ai
+type: hardware
+tags: []
+cpe: cpe:2.3:h:proscend:m357\-ai:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m357-ai
+  confidence: auto

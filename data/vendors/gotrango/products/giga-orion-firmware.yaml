@@ -1,0 +1,10 @@
+id: giga-orion-firmware
+vendor_id: gotrango
+name: Giga Orion Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gotrango:giga_orion_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: giga_orion_firmware
+  confidence: auto

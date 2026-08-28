@@ -1,0 +1,10 @@
+id: eos-1200d-mg-firmware
+vendor_id: canon
+name: Eos 1200D Mg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:eos_1200d_mg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_1200d_mg_firmware
+  confidence: auto

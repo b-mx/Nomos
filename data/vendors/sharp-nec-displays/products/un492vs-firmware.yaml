@@ -1,0 +1,10 @@
+id: un492vs-firmware
+vendor_id: sharp-nec-displays
+name: Un492Vs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp\-nec\-displays:un492vs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: un492vs_firmware
+  confidence: auto

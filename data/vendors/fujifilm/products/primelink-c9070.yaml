@@ -1,0 +1,10 @@
+id: primelink-c9070
+vendor_id: fujifilm
+name: Primelink C9070
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:primelink_c9070:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primelink_c9070
+  confidence: auto

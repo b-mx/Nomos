@@ -1,0 +1,10 @@
+id: micom-s1-agile
+vendor_id: ge
+name: Micom S1 Agile
+type: software
+tags: []
+cpe: cpe:2.3:a:ge:micom_s1_agile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: micom_s1_agile
+  confidence: auto

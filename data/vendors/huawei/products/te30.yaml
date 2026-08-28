@@ -1,0 +1,10 @@
+id: te30
+vendor_id: huawei
+name: Te30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:te30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: te30
+  confidence: auto

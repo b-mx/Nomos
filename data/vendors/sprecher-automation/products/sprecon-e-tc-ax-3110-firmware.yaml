@@ -1,0 +1,10 @@
+id: sprecon-e-tc-ax-3110-firmware
+vendor_id: sprecher-automation
+name: Sprecon-E-Tc Ax-3110 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sprecher\-automation:sprecon\-e\-tc_ax\-3110_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sprecon-e-tc_ax-3110_firmware
+  confidence: auto

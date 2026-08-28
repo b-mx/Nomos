@@ -1,0 +1,10 @@
+id: vx61asl-firmware
+vendor_id: valuehd
+name: Vx61Asl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:valuehd:vx61asl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx61asl_firmware
+  confidence: auto

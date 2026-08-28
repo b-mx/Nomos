@@ -1,0 +1,10 @@
+id: nr1800x-firmware
+vendor_id: totolink
+name: Nr1800X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:totolink:nr1800x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr1800x_firmware
+  confidence: auto

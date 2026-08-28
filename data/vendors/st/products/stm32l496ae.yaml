@@ -1,0 +1,10 @@
+id: stm32l496ae
+vendor_id: st
+name: Stm32L496Ae
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l496ae:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l496ae
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nx-700
+vendor_id: arubanetworks
+name: Nx-700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:nx\-700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nx-700
+  confidence: auto

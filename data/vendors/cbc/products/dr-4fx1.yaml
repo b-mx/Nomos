@@ -1,0 +1,10 @@
+id: dr-4fx1
+vendor_id: cbc
+name: Dr-4Fx1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:dr\-4fx1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-4fx1
+  confidence: auto

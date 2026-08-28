@@ -1,0 +1,10 @@
+id: proliant-bl460c-gen9
+vendor_id: hp
+name: Proliant Bl460C Gen9
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_bl460c_gen9:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_bl460c_gen9
+  confidence: auto

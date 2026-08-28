@@ -1,0 +1,9 @@
+id: google-kubernetes-engine
+vendor_id: google-kubernetes-engine
+name: Google Kubernetes Engine
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: google-kubernetes-engine
+  confidence: auto

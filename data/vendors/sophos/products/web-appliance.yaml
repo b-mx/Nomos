@@ -1,9 +1,8 @@
 id: web-appliance
 vendor_id: sophos
 name: Web Appliance
-type: hardware
-tags:
-- hardware-appliance
+type: software
+tags: []
 aliases:
 - source: cisa_kev
   value: Web Appliance

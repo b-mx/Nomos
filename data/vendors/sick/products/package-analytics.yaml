@@ -1,0 +1,10 @@
+id: package-analytics
+vendor_id: sick
+name: Package Analytics
+type: software
+tags: []
+cpe: cpe:2.3:a:sick:package_analytics:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: package_analytics
+  confidence: auto

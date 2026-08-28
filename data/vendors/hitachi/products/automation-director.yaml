@@ -1,0 +1,10 @@
+id: automation-director
+vendor_id: hitachi
+name: Automation Director
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:automation_director:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automation_director
+  confidence: auto

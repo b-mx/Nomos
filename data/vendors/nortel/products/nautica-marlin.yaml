@@ -1,0 +1,10 @@
+id: nautica-marlin
+vendor_id: nortel
+name: Nautica Marlin
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortel:nautica_marlin:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nautica_marlin
+  confidence: auto

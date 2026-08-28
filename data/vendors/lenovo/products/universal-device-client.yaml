@@ -1,0 +1,10 @@
+id: universal-device-client
+vendor_id: lenovo
+name: Universal Device Client
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:universal_device_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_device_client
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cosminexus-developer
+vendor_id: hitachi
+name: Cosminexus Developer
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:cosminexus_developer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cosminexus_developer
+  confidence: auto

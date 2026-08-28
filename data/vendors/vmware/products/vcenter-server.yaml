@@ -2,16 +2,8 @@ id: vcenter-server
 vendor_id: vmware
 name: vCenter Server
 type: software
-tags:
-- virtualization
-icon: carbon:logo-vmware-alt
+tags: []
 aliases:
 - source: cisa_kev
   value: vCenter Server
-  confidence: curated
-- source: cisa_kev
-  value: VMware vCenter
-  confidence: curated
-- source: cisa_kev
-  value: VMware vCenter Server
-  confidence: curated
+  confidence: auto

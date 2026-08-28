@@ -1,0 +1,10 @@
+id: suse-linux-enterprise-module-for-legacy-software
+vendor_id: novell
+name: Suse Linux Enterprise Module For Legacy Software
+type: os
+tags: []
+cpe: cpe:2.3:o:novell:suse_linux_enterprise_module_for_legacy_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_linux_enterprise_module_for_legacy_software
+  confidence: auto

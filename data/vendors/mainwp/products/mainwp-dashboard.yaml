@@ -1,0 +1,10 @@
+id: mainwp-dashboard
+vendor_id: mainwp
+name: Mainwp Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:mainwp:mainwp_dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mainwp_dashboard
+  confidence: auto

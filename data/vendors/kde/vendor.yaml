@@ -1,0 +1,7 @@
+id: kde
+name: Kde
+cpe: cpe:2.3:*:kde:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kde
+  confidence: auto

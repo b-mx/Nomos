@@ -1,0 +1,10 @@
+id: ryzen-3945wx
+vendor_id: amd
+name: Ryzen 3945Wx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_3945wx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_3945wx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hwphonefinder-emui6-0
+vendor_id: huawei
+name: Hwphonefinder(Emui6.0)
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hwphonefinder\(emui6\.0\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hwphonefinder(emui6.0)
+  confidence: auto

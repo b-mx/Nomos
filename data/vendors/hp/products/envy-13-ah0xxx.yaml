@@ -1,0 +1,10 @@
+id: envy-13-ah0xxx
+vendor_id: hp
+name: Envy 13-Ah0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_13\-ah0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_13-ah0xxx
+  confidence: auto

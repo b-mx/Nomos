@@ -1,0 +1,10 @@
+id: sio-mb04rtds-firmware
+vendor_id: automationdirect
+name: Sio-Mb04Rtds Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:sio\-mb04rtds_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sio-mb04rtds_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ld421-21w-firmware
+vendor_id: furukawa
+name: Ld421-21W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:furukawa:ld421\-21w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ld421-21w_firmware
+  confidence: auto

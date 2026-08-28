@@ -1,0 +1,10 @@
+id: vmax-emanagement
+vendor_id: emc
+name: Vmax Emanagement
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:vmax_emanagement:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vmax_emanagement
+  confidence: auto

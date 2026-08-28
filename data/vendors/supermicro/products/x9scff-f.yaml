@@ -1,0 +1,10 @@
+id: x9scff-f
+vendor_id: supermicro
+name: X9Scff-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9scff\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9scff-f
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 3ctftpsvc
+vendor_id: 3com
+name: 3Ctftpsvc
+type: software
+tags: []
+cpe: cpe:2.3:a:3com:3ctftpsvc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3ctftpsvc
+  confidence: auto

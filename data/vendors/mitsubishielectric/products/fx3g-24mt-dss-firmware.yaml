@@ -1,0 +1,10 @@
+id: fx3g-24mt-dss-firmware
+vendor_id: mitsubishielectric
+name: Fx3G-24Mt/Dss Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3g\-24mt\/dss_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3g-24mt/dss_firmware
+  confidence: auto

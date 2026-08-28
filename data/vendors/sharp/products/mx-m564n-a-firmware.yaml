@@ -1,0 +1,10 @@
+id: mx-m564n-a-firmware
+vendor_id: sharp
+name: Mx-M564N A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:mx\-m564n_a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx-m564n_a_firmware
+  confidence: auto

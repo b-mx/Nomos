@@ -1,0 +1,10 @@
+id: baremetal-operator
+vendor_id: linuxfoundation
+name: Baremetal Operator
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:baremetal_operator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baremetal_operator
+  confidence: auto

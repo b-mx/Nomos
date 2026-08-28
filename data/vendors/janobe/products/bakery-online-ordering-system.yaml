@@ -1,0 +1,10 @@
+id: bakery-online-ordering-system
+vendor_id: janobe
+name: Bakery Online Ordering System
+type: software
+tags: []
+cpe: cpe:2.3:a:janobe:bakery_online_ordering_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bakery_online_ordering_system
+  confidence: auto

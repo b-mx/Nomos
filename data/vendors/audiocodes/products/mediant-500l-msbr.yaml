@@ -1,0 +1,10 @@
+id: mediant-500l-msbr
+vendor_id: audiocodes
+name: Mediant 500L-Msbr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:audiocodes:mediant_500l\-msbr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mediant_500l-msbr
+  confidence: auto

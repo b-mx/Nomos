@@ -1,0 +1,10 @@
+id: a520-master
+vendor_id: marel
+name: A520 Master
+type: hardware
+tags: []
+cpe: cpe:2.3:h:marel:a520_master:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a520_master
+  confidence: auto

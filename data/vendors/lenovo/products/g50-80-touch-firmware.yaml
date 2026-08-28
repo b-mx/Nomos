@@ -1,0 +1,10 @@
+id: g50-80-touch-firmware
+vendor_id: lenovo
+name: G50-80 Touch Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:g50\-80_touch_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g50-80_touch_firmware
+  confidence: auto

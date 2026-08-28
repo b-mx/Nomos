@@ -1,0 +1,10 @@
+id: dcu-210e
+vendor_id: auto-maskin
+name: Dcu 210E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:auto\-maskin:dcu_210e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcu_210e
+  confidence: auto

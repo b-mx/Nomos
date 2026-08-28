@@ -1,0 +1,7 @@
+id: podman-project
+name: Podman Project
+cpe: cpe:2.3:*:podman_project:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: podman_project
+  confidence: auto

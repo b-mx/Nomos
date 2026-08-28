@@ -1,0 +1,10 @@
+id: avl-rooms
+vendor_id: anisha
+name: Avl Rooms
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:avl_rooms:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avl_rooms
+  confidence: auto

@@ -1,0 +1,10 @@
+id: blade-a31-plus-firmware
+vendor_id: zte
+name: Blade A31 Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:blade_a31_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blade_a31_plus_firmware
+  confidence: auto

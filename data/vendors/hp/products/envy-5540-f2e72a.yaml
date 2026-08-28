@@ -1,0 +1,10 @@
+id: envy-5540-f2e72a
+vendor_id: hp
+name: Envy 5540 F2E72A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_5540_f2e72a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5540_f2e72a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: uc-7408-lx-plus
+vendor_id: moxa
+name: Uc-7408 Lx-Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:uc\-7408_lx\-plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uc-7408_lx-plus
+  confidence: auto

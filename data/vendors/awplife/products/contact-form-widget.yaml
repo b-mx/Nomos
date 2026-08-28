@@ -1,0 +1,10 @@
+id: contact-form-widget
+vendor_id: awplife
+name: Contact Form Widget
+type: software
+tags: []
+cpe: cpe:2.3:a:awplife:contact_form_widget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contact_form_widget
+  confidence: auto

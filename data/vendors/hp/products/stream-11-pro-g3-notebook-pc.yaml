@@ -1,0 +1,10 @@
+id: stream-11-pro-g3-notebook-pc
+vendor_id: hp
+name: Stream 11 Pro G3 Notebook Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:stream_11_pro_g3_notebook_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stream_11_pro_g3_notebook_pc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: envy-6000-5se20b
+vendor_id: hp
+name: Envy 6000 5Se20B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_6000_5se20b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6000_5se20b
+  confidence: auto

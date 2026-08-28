@@ -1,0 +1,10 @@
+id: expresscluster-x
+vendor_id: nec
+name: Expresscluster X
+type: software
+tags: []
+cpe: cpe:2.3:a:nec:expresscluster_x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: expresscluster_x
+  confidence: auto

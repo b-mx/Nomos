@@ -1,0 +1,10 @@
+id: tex2500lcd
+vendor_id: rvr
+name: Tex2500Lcd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rvr:tex2500lcd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tex2500lcd
+  confidence: auto

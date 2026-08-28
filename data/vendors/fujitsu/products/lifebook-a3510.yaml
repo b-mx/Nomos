@@ -1,0 +1,10 @@
+id: lifebook-a3510
+vendor_id: fujitsu
+name: Lifebook A3510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:lifebook_a3510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lifebook_a3510
+  confidence: auto

@@ -1,0 +1,10 @@
+id: compact-guardlogix-5380-sil-2-firmware
+vendor_id: rockwellautomation
+name: Compact Guardlogix 5380 Sil 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:compact_guardlogix_5380_sil_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compact_guardlogix_5380_sil_2_firmware
+  confidence: auto

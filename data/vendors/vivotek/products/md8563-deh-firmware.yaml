@@ -1,0 +1,10 @@
+id: md8563-deh-firmware
+vendor_id: vivotek
+name: Md8563-Deh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:md8563\-deh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: md8563-deh_firmware
+  confidence: auto

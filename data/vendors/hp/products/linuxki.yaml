@@ -1,0 +1,10 @@
+id: linuxki
+vendor_id: hp
+name: Linuxki
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:linuxki:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linuxki
+  confidence: auto

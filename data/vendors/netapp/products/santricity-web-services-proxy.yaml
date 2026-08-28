@@ -1,0 +1,10 @@
+id: santricity-web-services-proxy
+vendor_id: netapp
+name: Santricity Web Services Proxy
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:santricity_web_services_proxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: santricity_web_services_proxy
+  confidence: auto

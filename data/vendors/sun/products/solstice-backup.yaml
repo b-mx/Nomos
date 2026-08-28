@@ -1,0 +1,10 @@
+id: solstice-backup
+vendor_id: sun
+name: Solstice Backup
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:solstice_backup:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solstice_backup
+  confidence: auto

@@ -1,0 +1,10 @@
+id: l8l91a-firmware
+vendor_id: hp
+name: L8L91A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:l8l91a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l8l91a_firmware
+  confidence: auto

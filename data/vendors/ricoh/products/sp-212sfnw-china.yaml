@@ -1,0 +1,10 @@
+id: sp-212sfnw-china
+vendor_id: ricoh
+name: Sp 212Sfnw (China)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_212sfnw_\(china\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_212sfnw_(china)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dvr-08nc
+vendor_id: huntcctv
+name: Dvr-08Nc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huntcctv:dvr\-08nc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvr-08nc
+  confidence: auto

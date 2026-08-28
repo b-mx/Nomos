@@ -1,0 +1,10 @@
+id: cryptoauthlib
+vendor_id: microchip
+name: Cryptoauthlib
+type: software
+tags: []
+cpe: cpe:2.3:a:microchip:cryptoauthlib:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cryptoauthlib
+  confidence: auto

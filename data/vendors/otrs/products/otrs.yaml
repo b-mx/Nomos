@@ -1,0 +1,10 @@
+id: otrs
+vendor_id: otrs
+name: Otrs
+type: software
+tags: []
+cpe: cpe:2.3:a:otrs:otrs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: otrs
+  confidence: auto

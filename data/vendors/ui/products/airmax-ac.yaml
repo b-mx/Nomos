@@ -1,0 +1,10 @@
+id: airmax-ac
+vendor_id: ui
+name: Airmax Ac
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:airmax_ac:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: airmax_ac
+  confidence: auto

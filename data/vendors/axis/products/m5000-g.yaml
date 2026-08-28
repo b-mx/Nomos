@@ -1,0 +1,10 @@
+id: m5000-g
+vendor_id: axis
+name: M5000-G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m5000\-g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m5000-g
+  confidence: auto

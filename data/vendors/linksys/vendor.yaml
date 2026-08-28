@@ -1,0 +1,7 @@
+id: linksys
+name: Linksys
+cpe: cpe:2.3:*:linksys:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linksys
+  confidence: auto

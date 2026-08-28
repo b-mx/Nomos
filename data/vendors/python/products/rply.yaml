@@ -1,0 +1,10 @@
+id: rply
+vendor_id: python
+name: Rply
+type: software
+tags: []
+cpe: cpe:2.3:a:python:rply:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rply
+  confidence: auto

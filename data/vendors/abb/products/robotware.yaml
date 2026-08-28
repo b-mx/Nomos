@@ -1,0 +1,10 @@
+id: robotware
+vendor_id: abb
+name: Robotware
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:robotware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: robotware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wlan-acu2-firmware
+vendor_id: huawei
+name: Wlan Acu2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:wlan_acu2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlan_acu2_firmware
+  confidence: auto

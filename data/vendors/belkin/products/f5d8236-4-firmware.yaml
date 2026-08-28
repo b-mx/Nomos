@@ -1,0 +1,10 @@
+id: f5d8236-4-firmware
+vendor_id: belkin
+name: F5D8236-4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belkin:f5d8236\-4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f5d8236-4_firmware
+  confidence: auto

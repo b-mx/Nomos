@@ -1,0 +1,10 @@
+id: m4500-desktop
+vendor_id: lenovo
+name: M4500 Desktop
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:m4500_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m4500_desktop
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zenworks-endpoint-security-management
+vendor_id: novell
+name: Zenworks Endpoint Security Management
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:zenworks_endpoint_security_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zenworks_endpoint_security_management
+  confidence: auto

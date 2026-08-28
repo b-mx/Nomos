@@ -1,0 +1,10 @@
+id: hotel-directory
+vendor_id: e-plugins
+name: Hotel Directory
+type: software
+tags: []
+cpe: cpe:2.3:a:e\-plugins:hotel_directory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hotel_directory
+  confidence: auto

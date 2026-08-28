@@ -1,0 +1,10 @@
+id: planar-surface-gantry-excm-30-firmware
+vendor_id: festo
+name: Planar Surface Gantry Excm-30 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:planar_surface_gantry_excm\-30_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: planar_surface_gantry_excm-30_firmware
+  confidence: auto

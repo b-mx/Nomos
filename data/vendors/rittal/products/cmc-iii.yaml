@@ -1,0 +1,10 @@
+id: cmc-iii
+vendor_id: rittal
+name: Cmc Iii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rittal:cmc_iii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmc_iii
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vayu-blocks
+vendor_id: themehunk
+name: Vayu Blocks
+type: software
+tags: []
+cpe: cpe:2.3:a:themehunk:vayu_blocks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vayu_blocks
+  confidence: auto

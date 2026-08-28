@@ -1,0 +1,10 @@
+id: wmc-dlgst2-w-firmware
+vendor_id: elecom
+name: Wmc-Dlgst2-W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wmc\-dlgst2\-w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wmc-dlgst2-w_firmware
+  confidence: auto

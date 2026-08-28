@@ -1,0 +1,10 @@
+id: slate
+vendor_id: palantir
+name: Slate
+type: software
+tags: []
+cpe: cpe:2.3:a:palantir:slate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slate
+  confidence: auto

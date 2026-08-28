@@ -1,0 +1,10 @@
+id: food-menu-manager
+vendor_id: remyandrade
+name: Food Menu Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:food_menu_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: food_menu_manager
+  confidence: auto

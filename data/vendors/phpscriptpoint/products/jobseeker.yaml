@@ -1,0 +1,10 @@
+id: jobseeker
+vendor_id: phpscriptpoint
+name: Jobseeker
+type: software
+tags: []
+cpe: cpe:2.3:a:phpscriptpoint:jobseeker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jobseeker
+  confidence: auto

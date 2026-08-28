@@ -1,0 +1,10 @@
+id: hylafax
+vendor_id: opensuse
+name: Hylafax+
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:hylafax\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hylafax+
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ex5000
+vendor_id: exagrid
+name: Ex5000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:exagrid:ex5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex5000
+  confidence: auto

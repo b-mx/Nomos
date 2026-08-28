@@ -1,0 +1,10 @@
+id: n301-firmware
+vendor_id: tendacn
+name: N301 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tendacn:n301_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n301_firmware
+  confidence: auto

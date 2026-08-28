@@ -1,0 +1,10 @@
+id: gemini-882300
+vendor_id: phillips
+name: Gemini 882300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phillips:gemini_882300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gemini_882300
+  confidence: auto

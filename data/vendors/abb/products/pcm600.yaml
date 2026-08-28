@@ -1,0 +1,10 @@
+id: pcm600
+vendor_id: abb
+name: Pcm600
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:pcm600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcm600
+  confidence: auto

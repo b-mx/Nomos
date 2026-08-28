@@ -1,0 +1,10 @@
+id: sphinx
+vendor_id: eclipse
+name: Sphinx
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:sphinx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sphinx
+  confidence: auto

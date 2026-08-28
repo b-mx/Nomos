@@ -1,0 +1,10 @@
+id: ever-al00b
+vendor_id: huawei
+name: Ever-Al00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ever\-al00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ever-al00b
+  confidence: auto

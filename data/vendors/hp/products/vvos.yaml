@@ -1,0 +1,10 @@
+id: vvos
+vendor_id: hp
+name: Vvos
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:vvos:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvos
+  confidence: auto

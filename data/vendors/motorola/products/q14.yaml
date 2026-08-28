@@ -1,0 +1,10 @@
+id: q14
+vendor_id: motorola
+name: Q14
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:q14:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q14
+  confidence: auto

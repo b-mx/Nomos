@@ -1,0 +1,10 @@
+id: source-controller
+vendor_id: fluxcd
+name: Source-Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:fluxcd:source\-controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: source-controller
+  confidence: auto

@@ -1,0 +1,10 @@
+id: flex-system-x280-m6-bios
+vendor_id: lenovo
+name: Flex System X280 M6 Bios
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:flex_system_x280_m6_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_system_x280_m6_bios
+  confidence: auto

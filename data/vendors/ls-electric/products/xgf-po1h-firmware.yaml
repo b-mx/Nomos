@@ -1,0 +1,10 @@
+id: xgf-po1h-firmware
+vendor_id: ls-electric
+name: Xgf-Po1H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ls\-electric:xgf\-po1h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xgf-po1h_firmware
+  confidence: auto

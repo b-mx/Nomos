@@ -1,0 +1,10 @@
+id: elitedesk-800-g4-small-form-factor-pc-firmware
+vendor_id: hp
+name: Elitedesk 800 G4 Small Form Factor Pc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:elitedesk_800_g4_small_form_factor_pc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitedesk_800_g4_small_form_factor_pc_firmware
+  confidence: auto

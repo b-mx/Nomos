@@ -1,0 +1,10 @@
+id: hdzp304di-firmware
+vendor_id: honeywell
+name: Hdzp304Di Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:hdzp304di_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdzp304di_firmware
+  confidence: auto

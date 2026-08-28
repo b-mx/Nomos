@@ -1,0 +1,10 @@
+id: senographe-pristina-firmware
+vendor_id: gehealthcare
+name: Senographe Pristina Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:senographe_pristina_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: senographe_pristina_firmware
+  confidence: auto

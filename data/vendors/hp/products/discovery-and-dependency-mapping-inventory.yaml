@@ -1,0 +1,10 @@
+id: discovery-and-dependency-mapping-inventory
+vendor_id: hp
+name: Discovery And Dependency Mapping Inventory
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:discovery_and_dependency_mapping_inventory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_and_dependency_mapping_inventory
+  confidence: auto

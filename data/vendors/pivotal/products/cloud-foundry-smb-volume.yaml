@@ -1,0 +1,10 @@
+id: cloud-foundry-smb-volume
+vendor_id: pivotal
+name: Cloud Foundry Smb Volume
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:cloud_foundry_smb_volume:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud_foundry_smb_volume
+  confidence: auto

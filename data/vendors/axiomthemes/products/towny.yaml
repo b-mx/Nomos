@@ -1,0 +1,10 @@
+id: towny
+vendor_id: axiomthemes
+name: Towny
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:towny:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: towny
+  confidence: auto

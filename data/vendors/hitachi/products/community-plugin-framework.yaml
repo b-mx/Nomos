@@ -1,0 +1,10 @@
+id: community-plugin-framework
+vendor_id: hitachi
+name: Community Plugin Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:community_plugin_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: community_plugin_framework
+  confidence: auto

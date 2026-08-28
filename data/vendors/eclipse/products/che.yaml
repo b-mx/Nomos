@@ -1,0 +1,10 @@
+id: che
+vendor_id: eclipse
+name: Che
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:che:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: che
+  confidence: auto

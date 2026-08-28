@@ -1,0 +1,10 @@
+id: c54apm
+vendor_id: conceptronic
+name: C54Apm
+type: hardware
+tags: []
+cpe: cpe:2.3:h:conceptronic:c54apm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c54apm
+  confidence: auto

@@ -1,0 +1,10 @@
+id: gan9-8t101a-b-firmware
+vendor_id: zte
+name: Gan9.8T101A-B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:gan9\.8t101a\-b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gan9.8t101a-b_firmware
+  confidence: auto

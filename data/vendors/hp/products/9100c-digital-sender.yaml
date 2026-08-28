@@ -1,0 +1,10 @@
+id: 9100c-digital-sender
+vendor_id: hp
+name: 9100C Digital Sender
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:9100c_digital_sender:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 9100c_digital_sender
+  confidence: auto

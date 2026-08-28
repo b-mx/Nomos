@@ -1,0 +1,10 @@
+id: reyee-os
+vendor_id: ruijienetworks
+name: Reyee Os
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijienetworks:reyee_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reyee_os
+  confidence: auto

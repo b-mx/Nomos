@@ -1,0 +1,10 @@
+id: storage-plug-in
+vendor_id: hitachi
+name: Storage Plug-In
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:storage_plug\-in:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_plug-in
+  confidence: auto

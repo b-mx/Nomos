@@ -1,0 +1,10 @@
+id: softlogix-5800
+vendor_id: rockwellautomation
+name: Softlogix 5800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:softlogix_5800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: softlogix_5800
+  confidence: auto

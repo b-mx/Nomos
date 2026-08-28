@@ -1,0 +1,10 @@
+id: sitesentinel-isite-atg
+vendor_id: opwglobal
+name: Sitesentinel Isite Atg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:opwglobal:sitesentinel_isite_atg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sitesentinel_isite_atg
+  confidence: auto

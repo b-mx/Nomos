@@ -1,0 +1,10 @@
+id: nr8250
+vendor_id: zte
+name: Nr8250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:nr8250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr8250
+  confidence: auto

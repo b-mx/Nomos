@@ -1,0 +1,10 @@
+id: jdk
+vendor_id: hp
+name: Jdk
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:jdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jdk
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ngrinder
+vendor_id: naver
+name: Ngrinder
+type: software
+tags: []
+cpe: cpe:2.3:a:naver:ngrinder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ngrinder
+  confidence: auto

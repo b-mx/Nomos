@@ -1,0 +1,10 @@
+id: external-snapshotter
+vendor_id: kubernetes
+name: External-Snapshotter
+type: software
+tags: []
+cpe: cpe:2.3:a:kubernetes:external\-snapshotter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: external-snapshotter
+  confidence: auto

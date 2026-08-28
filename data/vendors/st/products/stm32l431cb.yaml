@@ -1,0 +1,10 @@
+id: stm32l431cb
+vendor_id: st
+name: Stm32L431Cb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l431cb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l431cb
+  confidence: auto

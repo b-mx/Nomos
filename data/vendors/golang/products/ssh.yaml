@@ -1,0 +1,10 @@
+id: ssh
+vendor_id: golang
+name: Ssh
+type: software
+tags: []
+cpe: cpe:2.3:a:golang:ssh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ssh
+  confidence: auto

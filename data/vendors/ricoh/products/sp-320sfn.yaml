@@ -1,0 +1,10 @@
+id: sp-320sfn
+vendor_id: ricoh
+name: Sp 320Sfn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_320sfn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_320sfn
+  confidence: auto

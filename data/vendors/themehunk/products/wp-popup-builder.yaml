@@ -1,0 +1,10 @@
+id: wp-popup-builder
+vendor_id: themehunk
+name: Wp Popup Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:themehunk:wp_popup_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wp_popup_builder
+  confidence: auto

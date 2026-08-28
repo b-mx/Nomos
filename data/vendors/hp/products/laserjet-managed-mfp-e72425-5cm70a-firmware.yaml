@@ -1,0 +1,10 @@
+id: laserjet-managed-mfp-e72425-5cm70a-firmware
+vendor_id: hp
+name: Laserjet Managed Mfp E72425 5Cm70A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_mfp_e72425_5cm70a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_mfp_e72425_5cm70a_firmware
+  confidence: auto

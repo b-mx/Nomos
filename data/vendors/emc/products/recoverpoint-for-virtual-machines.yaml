@@ -1,0 +1,10 @@
+id: recoverpoint-for-virtual-machines
+vendor_id: emc
+name: Recoverpoint For Virtual Machines
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:recoverpoint_for_virtual_machines:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recoverpoint_for_virtual_machines
+  confidence: auto

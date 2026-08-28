@@ -1,0 +1,10 @@
+id: biz-box-rtx1210
+vendor_id: ntt-west
+name: Biz Box Rtx1210
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ntt\-west:biz_box_rtx1210:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: biz_box_rtx1210
+  confidence: auto

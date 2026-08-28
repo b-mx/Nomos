@@ -1,0 +1,10 @@
+id: 20ef
+vendor_id: lenovo
+name: 20Ef
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20ef:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20ef
+  confidence: auto

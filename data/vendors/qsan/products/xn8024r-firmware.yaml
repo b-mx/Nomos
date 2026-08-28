@@ -1,0 +1,10 @@
+id: xn8024r-firmware
+vendor_id: qsan
+name: Xn8024R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:qsan:xn8024r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xn8024r_firmware
+  confidence: auto

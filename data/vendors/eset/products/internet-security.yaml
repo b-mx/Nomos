@@ -1,0 +1,10 @@
+id: internet-security
+vendor_id: eset
+name: Internet Security
+type: software
+tags: []
+cpe: cpe:2.3:a:eset:internet_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet_security
+  confidence: auto

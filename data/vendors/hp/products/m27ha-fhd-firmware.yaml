@@ -1,0 +1,10 @@
+id: m27ha-fhd-firmware
+vendor_id: hp
+name: M27Ha Fhd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:m27ha_fhd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m27ha_fhd_firmware
+  confidence: auto

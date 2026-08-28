@@ -1,0 +1,10 @@
+id: stadia-ggp-120-firmware
+vendor_id: lenovo
+name: Stadia Ggp-120 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:stadia_ggp\-120_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stadia_ggp-120_firmware
+  confidence: auto

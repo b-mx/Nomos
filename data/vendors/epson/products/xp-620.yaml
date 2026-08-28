@@ -1,0 +1,10 @@
+id: xp-620
+vendor_id: epson
+name: Xp-620
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:xp\-620:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp-620
+  confidence: auto

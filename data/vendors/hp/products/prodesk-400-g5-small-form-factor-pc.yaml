@@ -1,0 +1,10 @@
+id: prodesk-400-g5-small-form-factor-pc
+vendor_id: hp
+name: Prodesk 400 G5 Small Form Factor Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:prodesk_400_g5_small_form_factor_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_400_g5_small_form_factor_pc
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cp620-firmware
+vendor_id: abb
+name: Cp620 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:cp620_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp620_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dcp-j132w-firmware
+vendor_id: brother
+name: Dcp-J132W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp\-j132w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-j132w_firmware
+  confidence: auto

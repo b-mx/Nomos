@@ -1,0 +1,10 @@
+id: manufactory
+vendor_id: axiomthemes
+name: Manufactory
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:manufactory:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manufactory
+  confidence: auto

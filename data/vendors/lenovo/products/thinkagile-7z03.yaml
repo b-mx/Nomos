@@ -1,0 +1,10 @@
+id: thinkagile-7z03
+vendor_id: lenovo
+name: Thinkagile 7Z03
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_7z03:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_7z03
+  confidence: auto

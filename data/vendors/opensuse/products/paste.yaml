@@ -1,0 +1,10 @@
+id: paste
+vendor_id: opensuse
+name: Paste
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:paste:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: paste
+  confidence: auto

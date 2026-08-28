@@ -1,0 +1,10 @@
+id: p8-lite-firmware
+vendor_id: huawei
+name: P8 Lite Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:p8_lite_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p8_lite_firmware
+  confidence: auto

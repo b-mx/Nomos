@@ -1,0 +1,10 @@
+id: id-now-firmware
+vendor_id: abbott
+name: Id Now Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abbott:id_now_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: id_now_firmware
+  confidence: auto

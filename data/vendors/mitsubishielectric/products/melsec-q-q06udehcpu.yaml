@@ -1,0 +1,10 @@
+id: melsec-q-q06udehcpu
+vendor_id: mitsubishielectric
+name: Melsec Q-Q06Udehcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_q\-q06udehcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q-q06udehcpu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: awie
+vendor_id: centreon
+name: Awie
+type: software
+tags: []
+cpe: cpe:2.3:a:centreon:awie:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awie
+  confidence: auto

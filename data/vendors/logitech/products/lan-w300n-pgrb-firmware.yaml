@@ -1,0 +1,10 @@
+id: lan-w300n-pgrb-firmware
+vendor_id: logitech
+name: Lan-W300N/Pgrb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:logitech:lan\-w300n\/pgrb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-w300n/pgrb_firmware
+  confidence: auto

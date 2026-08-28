@@ -1,0 +1,7 @@
+id: honda
+name: Honda
+cpe: cpe:2.3:*:honda:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honda
+  confidence: auto

@@ -1,0 +1,10 @@
+id: netvanta-3120
+vendor_id: adtran
+name: Netvanta 3120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:adtran:netvanta_3120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netvanta_3120
+  confidence: auto

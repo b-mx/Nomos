@@ -1,0 +1,10 @@
+id: advabuild
+vendor_id: abb
+name: Advabuild
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:advabuild:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advabuild
+  confidence: auto

@@ -1,0 +1,10 @@
+id: docuprint-c3555-d
+vendor_id: fujifilm
+name: Docuprint C3555 D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:docuprint_c3555_d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: docuprint_c3555_d
+  confidence: auto

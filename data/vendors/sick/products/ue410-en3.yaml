@@ -1,0 +1,10 @@
+id: ue410-en3
+vendor_id: sick
+name: Ue410-En3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:ue410\-en3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ue410-en3
+  confidence: auto

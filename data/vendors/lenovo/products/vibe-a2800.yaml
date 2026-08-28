@@ -1,0 +1,10 @@
+id: vibe-a2800
+vendor_id: lenovo
+name: Vibe A2800
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:vibe_a2800:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vibe_a2800
+  confidence: auto

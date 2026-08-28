@@ -1,0 +1,10 @@
+id: x11scv-l
+vendor_id: supermicro
+name: X11Scv-L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11scv\-l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11scv-l
+  confidence: auto

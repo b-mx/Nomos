@@ -1,0 +1,10 @@
+id: nr4h-firmware
+vendor_id: cbc
+name: Nr4H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cbc:nr4h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nr4h_firmware
+  confidence: auto

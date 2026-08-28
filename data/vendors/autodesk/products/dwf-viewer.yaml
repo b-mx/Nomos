@@ -1,0 +1,10 @@
+id: dwf-viewer
+vendor_id: autodesk
+name: Dwf Viewer
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:dwf_viewer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dwf_viewer
+  confidence: auto

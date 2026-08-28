@@ -1,0 +1,10 @@
+id: avb
+vendor_id: motu
+name: Avb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:avb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avb
+  confidence: auto

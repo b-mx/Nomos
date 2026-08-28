@@ -1,0 +1,10 @@
+id: whr-g54-nf-firmware
+vendor_id: buffalo
+name: Whr-G54-Nf Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:whr\-g54\-nf_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-g54-nf_firmware
+  confidence: auto

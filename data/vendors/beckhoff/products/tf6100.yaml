@@ -1,0 +1,10 @@
+id: tf6100
+vendor_id: beckhoff
+name: Tf6100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:beckhoff:tf6100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tf6100
+  confidence: auto

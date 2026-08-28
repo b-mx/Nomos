@@ -1,0 +1,10 @@
+id: laserjet
+vendor_id: pdqinc
+name: Laserjet
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pdqinc:laserjet:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet
+  confidence: auto

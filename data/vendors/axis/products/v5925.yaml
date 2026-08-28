@@ -1,0 +1,10 @@
+id: v5925
+vendor_id: axis
+name: V5925
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:v5925:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v5925
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-pro-200-m251-cf146a-firmware
+vendor_id: hp
+name: Laserjet Pro 200 M251 Cf146A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_200_m251_cf146a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_200_m251_cf146a_firmware
+  confidence: auto

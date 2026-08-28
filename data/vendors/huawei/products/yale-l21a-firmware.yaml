@@ -1,0 +1,10 @@
+id: yale-l21a-firmware
+vendor_id: huawei
+name: Yale-L21A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:yale\-l21a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yale-l21a_firmware
+  confidence: auto

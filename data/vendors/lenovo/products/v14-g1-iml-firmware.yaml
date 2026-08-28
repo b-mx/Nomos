@@ -1,0 +1,10 @@
+id: v14-g1-iml-firmware
+vendor_id: lenovo
+name: V14 G1-Iml Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v14_g1\-iml_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v14_g1-iml_firmware
+  confidence: auto

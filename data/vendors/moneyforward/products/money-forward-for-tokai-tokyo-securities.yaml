@@ -1,0 +1,10 @@
+id: money-forward-for-tokai-tokyo-securities
+vendor_id: moneyforward
+name: Money Forward For Tokai Tokyo Securities
+type: software
+tags: []
+cpe: cpe:2.3:a:moneyforward:money_forward_for_tokai_tokyo_securities:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: money_forward_for_tokai_tokyo_securities
+  confidence: auto

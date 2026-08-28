@@ -1,0 +1,10 @@
+id: pacemaker-command-line-interface
+vendor_id: clusterlabs
+name: Pacemaker Command Line Interface
+type: software
+tags: []
+cpe: cpe:2.3:a:clusterlabs:pacemaker_command_line_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pacemaker_command_line_interface
+  confidence: auto

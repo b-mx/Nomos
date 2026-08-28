@@ -1,0 +1,10 @@
+id: flexidome-inteox-7100i-ir
+vendor_id: bosch
+name: Flexidome Inteox 7100I Ir
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_inteox_7100i_ir:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_inteox_7100i_ir
+  confidence: auto

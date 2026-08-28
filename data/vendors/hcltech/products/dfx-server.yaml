@@ -1,0 +1,10 @@
+id: dfx-server
+vendor_id: hcltech
+name: Dfx Server
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:dfx_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dfx_server
+  confidence: auto

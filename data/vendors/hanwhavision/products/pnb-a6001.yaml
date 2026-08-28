@@ -1,0 +1,10 @@
+id: pnb-a6001
+vendor_id: hanwhavision
+name: Pnb-A6001
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:pnb\-a6001:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pnb-a6001
+  confidence: auto

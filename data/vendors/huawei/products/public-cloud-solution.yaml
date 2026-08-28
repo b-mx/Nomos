@@ -1,0 +1,10 @@
+id: public-cloud-solution
+vendor_id: huawei
+name: Public Cloud Solution
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:public_cloud_solution:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: public_cloud_solution
+  confidence: auto

@@ -1,0 +1,10 @@
+id: antivirus-for-server
+vendor_id: quickheal
+name: Antivirus For Server
+type: software
+tags: []
+cpe: cpe:2.3:a:quickheal:antivirus_for_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivirus_for_server
+  confidence: auto

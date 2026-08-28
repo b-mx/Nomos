@@ -1,0 +1,10 @@
+id: xperia-touch
+vendor_id: sony
+name: Xperia Touch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:xperia_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xperia_touch
+  confidence: auto

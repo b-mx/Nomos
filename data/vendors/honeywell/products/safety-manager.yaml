@@ -1,0 +1,10 @@
+id: safety-manager
+vendor_id: honeywell
+name: Safety Manager
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:safety_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safety_manager
+  confidence: auto

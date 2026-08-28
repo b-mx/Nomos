@@ -1,0 +1,10 @@
+id: mi-app-store
+vendor_id: mi
+name: Mi App Store
+type: software
+tags: []
+cpe: cpe:2.3:a:mi:mi_app_store:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mi_app_store
+  confidence: auto

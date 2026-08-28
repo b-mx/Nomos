@@ -1,0 +1,10 @@
+id: gr-120w
+vendor_id: h3c
+name: Gr-120W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:gr\-120w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gr-120w
+  confidence: auto

@@ -1,0 +1,10 @@
+id: quickfiledealer
+vendor_id: elecom
+name: Quickfiledealer
+type: software
+tags: []
+cpe: cpe:2.3:a:elecom:quickfiledealer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quickfiledealer
+  confidence: auto

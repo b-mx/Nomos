@@ -1,0 +1,10 @@
+id: apollo-80
+vendor_id: hpe
+name: Apollo 80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:apollo_80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_80
+  confidence: auto

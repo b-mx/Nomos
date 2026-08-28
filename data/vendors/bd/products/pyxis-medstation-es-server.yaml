@@ -1,0 +1,10 @@
+id: pyxis-medstation-es-server
+vendor_id: bd
+name: Pyxis Medstation Es Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_medstation_es_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_medstation_es_server
+  confidence: auto

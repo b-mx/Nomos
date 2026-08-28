@@ -1,0 +1,10 @@
+id: director
+vendor_id: bluecoat
+name: Director
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:director:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: director
+  confidence: auto

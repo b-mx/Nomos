@@ -1,0 +1,10 @@
+id: ezmeral-container-platform
+vendor_id: hp
+name: Ezmeral Container Platform
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:ezmeral_container_platform:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ezmeral_container_platform
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mix
+vendor_id: doogee
+name: Mix
+type: hardware
+tags: []
+cpe: cpe:2.3:h:doogee:mix:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mix
+  confidence: auto

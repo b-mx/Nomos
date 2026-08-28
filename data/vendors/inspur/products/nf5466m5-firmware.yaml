@@ -1,0 +1,10 @@
+id: nf5466m5-firmware
+vendor_id: inspur
+name: Nf5466M5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:inspur:nf5466m5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nf5466m5_firmware
+  confidence: auto

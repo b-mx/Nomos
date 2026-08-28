@@ -1,0 +1,10 @@
+id: z640
+vendor_id: hp
+name: Z640
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:z640:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z640
+  confidence: auto

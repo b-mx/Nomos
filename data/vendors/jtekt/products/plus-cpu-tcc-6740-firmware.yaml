@@ -1,0 +1,10 @@
+id: plus-cpu-tcc-6740-firmware
+vendor_id: jtekt
+name: Plus Cpu Tcc-6740 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:plus_cpu_tcc\-6740_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plus_cpu_tcc-6740_firmware
+  confidence: auto

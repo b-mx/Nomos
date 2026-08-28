@@ -1,0 +1,10 @@
+id: sd-4-m3s
+vendor_id: netvu
+name: Sd 4 (M3S)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netvu:sd_4_\(m3s\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd_4_(m3s)
+  confidence: auto

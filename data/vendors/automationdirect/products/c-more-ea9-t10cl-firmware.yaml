@@ -1,0 +1,10 @@
+id: c-more-ea9-t10cl-firmware
+vendor_id: automationdirect
+name: C-More Ea9-T10Cl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:automationdirect:c\-more_ea9\-t10cl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c-more_ea9-t10cl_firmware
+  confidence: auto

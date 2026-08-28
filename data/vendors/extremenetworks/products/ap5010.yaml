@@ -1,0 +1,10 @@
+id: ap5010
+vendor_id: extremenetworks
+name: Ap5010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap5010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap5010
+  confidence: auto

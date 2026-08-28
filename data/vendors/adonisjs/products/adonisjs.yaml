@@ -1,0 +1,10 @@
+id: adonisjs
+vendor_id: adonisjs
+name: AdonisJS
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: adonisjs
+  confidence: auto

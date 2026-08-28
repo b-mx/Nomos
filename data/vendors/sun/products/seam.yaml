@@ -1,0 +1,10 @@
+id: seam
+vendor_id: sun
+name: Seam
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:seam:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seam
+  confidence: auto

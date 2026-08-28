@@ -1,0 +1,10 @@
+id: wise-paas-ota
+vendor_id: advantech
+name: Wise-Paas/Ota
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:wise\-paas\/ota:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wise-paas/ota
+  confidence: auto

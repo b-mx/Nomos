@@ -1,0 +1,10 @@
+id: safety-instrumented-systems-workstation
+vendor_id: rockwellautomation
+name: Safety Instrumented Systems Workstation
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:safety_instrumented_systems_workstation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safety_instrumented_systems_workstation
+  confidence: auto

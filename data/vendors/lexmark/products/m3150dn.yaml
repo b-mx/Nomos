@@ -1,0 +1,10 @@
+id: m3150dn
+vendor_id: lexmark
+name: M3150Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:m3150dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3150dn
+  confidence: auto

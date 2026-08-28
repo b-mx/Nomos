@@ -1,0 +1,10 @@
+id: strongswan
+vendor_id: debian
+name: Strongswan
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:strongswan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: strongswan
+  confidence: auto

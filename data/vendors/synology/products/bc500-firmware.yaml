@@ -1,0 +1,10 @@
+id: bc500-firmware
+vendor_id: synology
+name: Bc500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:synology:bc500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bc500_firmware
+  confidence: auto

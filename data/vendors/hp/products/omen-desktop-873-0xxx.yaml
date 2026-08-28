@@ -1,0 +1,10 @@
+id: omen-desktop-873-0xxx
+vendor_id: hp
+name: Omen Desktop 873-0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_desktop_873\-0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_desktop_873-0xxx
+  confidence: auto

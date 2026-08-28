@@ -1,0 +1,10 @@
+id: c7x99oc
+vendor_id: supermicro
+name: C7X99Oc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:c7x99oc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c7x99oc
+  confidence: auto

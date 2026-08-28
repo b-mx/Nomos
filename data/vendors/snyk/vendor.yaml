@@ -1,0 +1,7 @@
+id: snyk
+name: Snyk
+cpe: cpe:2.3:*:snyk:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snyk
+  confidence: auto

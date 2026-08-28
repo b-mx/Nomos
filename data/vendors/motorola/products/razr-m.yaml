@@ -1,0 +1,10 @@
+id: razr-m
+vendor_id: motorola
+name: Razr M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motorola:razr_m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: razr_m
+  confidence: auto

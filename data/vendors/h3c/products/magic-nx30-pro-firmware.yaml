@@ -1,0 +1,10 @@
+id: magic-nx30-pro-firmware
+vendor_id: h3c
+name: Magic Nx30 Pro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:magic_nx30_pro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: magic_nx30_pro_firmware
+  confidence: auto

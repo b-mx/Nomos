@@ -1,0 +1,10 @@
+id: cs410
+vendor_id: lexmark
+name: Cs410
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:cs410:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs410
+  confidence: auto

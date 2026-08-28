@@ -1,0 +1,10 @@
+id: studio-x30
+vendor_id: poly
+name: Studio X30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:poly:studio_x30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: studio_x30
+  confidence: auto

@@ -1,0 +1,10 @@
+id: w3u25-firmware
+vendor_id: hp
+name: W3U25 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:w3u25_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w3u25_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ox-guard
+vendor_id: open-xchange
+name: Ox Guard
+type: software
+tags: []
+cpe: cpe:2.3:a:open\-xchange:ox_guard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ox_guard
+  confidence: auto

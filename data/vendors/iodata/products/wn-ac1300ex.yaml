@@ -1,0 +1,10 @@
+id: wn-ac1300ex
+vendor_id: iodata
+name: Wn-Ac1300Ex
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:wn\-ac1300ex:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn-ac1300ex
+  confidence: auto

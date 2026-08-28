@@ -1,0 +1,10 @@
+id: recipepoint
+vendor_id: phpscriptpoint
+name: Recipepoint
+type: software
+tags: []
+cpe: cpe:2.3:a:phpscriptpoint:recipepoint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: recipepoint
+  confidence: auto

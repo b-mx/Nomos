@@ -1,0 +1,10 @@
+id: nport-6250-m-sc-t
+vendor_id: moxa
+name: Nport 6250-M-Sc-T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_6250\-m\-sc\-t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_6250-m-sc-t
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bl-ppc17-7000
+vendor_id: phoenixcontact
+name: Bl Ppc17 7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:bl_ppc17_7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl_ppc17_7000
+  confidence: auto

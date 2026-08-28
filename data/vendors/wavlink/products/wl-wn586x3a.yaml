@@ -1,0 +1,10 @@
+id: wl-wn586x3a
+vendor_id: wavlink
+name: Wl-Wn586X3A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wavlink:wl\-wn586x3a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl-wn586x3a
+  confidence: auto

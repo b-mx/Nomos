@@ -1,0 +1,10 @@
+id: e-streamer-mk2
+vendor_id: enttec
+name: E-Streamer Mk2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:enttec:e\-streamer_mk2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-streamer_mk2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: k830
+vendor_id: logitech
+name: K830
+type: hardware
+tags: []
+cpe: cpe:2.3:h:logitech:k830:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k830
+  confidence: auto

@@ -1,0 +1,10 @@
+id: f680
+vendor_id: zte
+name: F680
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:f680:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f680
+  confidence: auto

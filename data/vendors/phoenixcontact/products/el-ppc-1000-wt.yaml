@@ -1,0 +1,10 @@
+id: el-ppc-1000-wt
+vendor_id: phoenixcontact
+name: El Ppc 1000/Wt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:el_ppc_1000\/wt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: el_ppc_1000/wt
+  confidence: auto

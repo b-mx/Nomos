@@ -1,0 +1,10 @@
+id: c340-14api
+vendor_id: lenovo
+name: C340-14Api
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:c340\-14api:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c340-14api
+  confidence: auto

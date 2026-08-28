@@ -1,0 +1,10 @@
+id: user-profile-picture
+vendor_id: cozmoslabs
+name: User Profile Picture
+type: software
+tags: []
+cpe: cpe:2.3:a:cozmoslabs:user_profile_picture:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: user_profile_picture
+  confidence: auto

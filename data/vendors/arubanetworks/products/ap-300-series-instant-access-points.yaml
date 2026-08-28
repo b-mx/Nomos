@@ -1,0 +1,10 @@
+id: ap-300-series-instant-access-points
+vendor_id: arubanetworks
+name: Ap-300 Series Instant Access Points
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-300_series_instant_access_points:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-300_series_instant_access_points
+  confidence: auto

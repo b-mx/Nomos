@@ -1,0 +1,10 @@
+id: autocad-lt
+vendor_id: autodesk
+name: Autocad Lt
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:autocad_lt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autocad_lt
+  confidence: auto

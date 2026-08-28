@@ -1,0 +1,10 @@
+id: blackberry-software
+vendor_id: rim
+name: Blackberry Software
+type: software
+tags: []
+cpe: cpe:2.3:a:rim:blackberry_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry_software
+  confidence: auto

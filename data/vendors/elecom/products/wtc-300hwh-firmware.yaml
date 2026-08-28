@@ -1,0 +1,10 @@
+id: wtc-300hwh-firmware
+vendor_id: elecom
+name: Wtc-300Hwh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:wtc\-300hwh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wtc-300hwh_firmware
+  confidence: auto

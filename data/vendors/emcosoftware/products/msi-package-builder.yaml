@@ -1,0 +1,10 @@
+id: msi-package-builder
+vendor_id: emcosoftware
+name: Msi Package Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:emcosoftware:msi_package_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msi_package_builder
+  confidence: auto

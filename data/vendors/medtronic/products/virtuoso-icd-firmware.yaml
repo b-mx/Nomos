@@ -1,0 +1,10 @@
+id: virtuoso-icd-firmware
+vendor_id: medtronic
+name: Virtuoso Icd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:virtuoso_icd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtuoso_icd_firmware
+  confidence: auto

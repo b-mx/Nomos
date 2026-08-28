@@ -1,0 +1,10 @@
+id: wlc-4006
+vendor_id: lancom-systems
+name: Wlc-4006
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lancom\-systems:wlc\-4006:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlc-4006
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mr-je-c-firmware
+vendor_id: mitsubishielectric
+name: Mr-Je-C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:mr\-je\-c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mr-je-c_firmware
+  confidence: auto

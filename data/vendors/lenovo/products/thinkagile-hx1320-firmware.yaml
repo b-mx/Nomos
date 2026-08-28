@@ -1,0 +1,10 @@
+id: thinkagile-hx1320-firmware
+vendor_id: lenovo
+name: Thinkagile Hx1320 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkagile_hx1320_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_hx1320_firmware
+  confidence: auto

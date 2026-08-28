@@ -1,0 +1,10 @@
+id: u-verse-firmware
+vendor_id: att
+name: U-Verse Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:att:u\-verse_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: u-verse_firmware
+  confidence: auto

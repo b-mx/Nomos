@@ -1,0 +1,10 @@
+id: peoples-bank-tulsa
+vendor_id: meafinancial
+name: Peoples Bank Tulsa
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:peoples_bank_tulsa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: peoples_bank_tulsa
+  confidence: auto

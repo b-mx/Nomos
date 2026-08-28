@@ -1,0 +1,10 @@
+id: mobile-operator
+vendor_id: aveva
+name: Mobile Operator
+type: software
+tags: []
+cpe: cpe:2.3:a:aveva:mobile_operator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile_operator
+  confidence: auto

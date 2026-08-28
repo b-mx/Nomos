@@ -1,0 +1,10 @@
+id: z61-turbo-firmware
+vendor_id: lavamobiles
+name: Z61 Turbo Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lavamobiles:z61_turbo_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z61_turbo_firmware
+  confidence: auto

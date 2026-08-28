@@ -1,0 +1,10 @@
+id: xentry-retail-data-storage-firmware
+vendor_id: mercedes-benz
+name: Xentry Retail Data Storage Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mercedes\-benz:xentry_retail_data_storage_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xentry_retail_data_storage_firmware
+  confidence: auto

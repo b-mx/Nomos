@@ -1,0 +1,10 @@
+id: 828es
+vendor_id: motu
+name: 828Es
+type: hardware
+tags: []
+cpe: cpe:2.3:h:motu:828es:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 828es
+  confidence: auto

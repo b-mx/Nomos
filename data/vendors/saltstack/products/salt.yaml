@@ -3,7 +3,6 @@ vendor_id: saltstack
 name: Salt
 type: software
 tags: []
-icon: cib:saltstack
 aliases:
 - source: cisa_kev
   value: Salt

@@ -1,0 +1,10 @@
+id: smartether-ss6215s-switch
+vendor_id: securecomputing
+name: Smartether Ss6215S Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:securecomputing:smartether_ss6215s_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartether_ss6215s_switch
+  confidence: auto

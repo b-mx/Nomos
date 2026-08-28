@@ -1,0 +1,10 @@
+id: wli-h4-d600
+vendor_id: buffalo
+name: Wli-H4-D600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wli\-h4\-d600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wli-h4-d600
+  confidence: auto

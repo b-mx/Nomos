@@ -1,0 +1,10 @@
+id: tew-820ap-firmware
+vendor_id: trendnet
+name: Tew-820Ap Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:tew\-820ap_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tew-820ap_firmware
+  confidence: auto

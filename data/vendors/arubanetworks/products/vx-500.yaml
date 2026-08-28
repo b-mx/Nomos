@@ -1,0 +1,10 @@
+id: vx-500
+vendor_id: arubanetworks
+name: Vx-500
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:vx\-500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx-500
+  confidence: auto

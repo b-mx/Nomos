@@ -1,0 +1,10 @@
+id: k63-firmware
+vendor_id: corsair
+name: K63 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:corsair:k63_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k63_firmware
+  confidence: auto

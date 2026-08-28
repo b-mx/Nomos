@@ -1,0 +1,10 @@
+id: brivo-definiu
+vendor_id: gehealthcare
+name: Brivo Definiu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:brivo_definiu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brivo_definiu
+  confidence: auto

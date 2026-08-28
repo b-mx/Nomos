@@ -1,0 +1,10 @@
+id: epyc-8024pn
+vendor_id: amd
+name: Epyc 8024Pn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_8024pn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_8024pn
+  confidence: auto

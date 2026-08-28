@@ -1,0 +1,10 @@
+id: namedfile
+vendor_id: plone
+name: Namedfile
+type: software
+tags: []
+cpe: cpe:2.3:a:plone:namedfile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: namedfile
+  confidence: auto

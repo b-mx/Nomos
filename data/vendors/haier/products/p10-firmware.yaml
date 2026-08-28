@@ -1,0 +1,10 @@
+id: p10-firmware
+vendor_id: haier
+name: P10 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:haier:p10_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p10_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ms-teams
+vendor_id: mattermost
+name: Ms Teams
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:ms_teams:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms_teams
+  confidence: auto

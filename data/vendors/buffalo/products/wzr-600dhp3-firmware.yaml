@@ -1,0 +1,10 @@
+id: wzr-600dhp3-firmware
+vendor_id: buffalo
+name: Wzr-600Dhp3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wzr\-600dhp3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr-600dhp3_firmware
+  confidence: auto

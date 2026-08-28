@@ -1,0 +1,10 @@
+id: fl-mguard-rs2005-tx-vpn
+vendor_id: phoenixcontact
+name: Fl Mguard Rs2005 Tx Vpn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_mguard_rs2005_tx_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_rs2005_tx_vpn
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x9drt-h-series
+vendor_id: supermicro
+name: X9Drt-H Series
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9drt\-h_series:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9drt-h_series
+  confidence: auto

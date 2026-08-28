@@ -1,0 +1,10 @@
+id: pluto2
+vendor_id: marel
+name: Pluto2
+type: software
+tags: []
+cpe: cpe:2.3:a:marel:pluto2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pluto2
+  confidence: auto

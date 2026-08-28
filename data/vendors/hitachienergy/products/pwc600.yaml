@@ -1,0 +1,10 @@
+id: pwc600
+vendor_id: hitachienergy
+name: Pwc600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:pwc600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pwc600
+  confidence: auto

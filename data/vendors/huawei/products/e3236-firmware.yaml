@@ -1,0 +1,10 @@
+id: e3236-firmware
+vendor_id: huawei
+name: E3236 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:e3236_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e3236_firmware
+  confidence: auto

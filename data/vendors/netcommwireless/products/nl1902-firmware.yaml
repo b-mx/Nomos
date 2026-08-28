@@ -1,0 +1,10 @@
+id: nl1902-firmware
+vendor_id: netcommwireless
+name: Nl1902 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netcommwireless:nl1902_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nl1902_firmware
+  confidence: auto

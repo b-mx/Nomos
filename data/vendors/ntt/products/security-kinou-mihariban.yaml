@@ -1,0 +1,10 @@
+id: security-kinou-mihariban
+vendor_id: ntt
+name: Security Kinou Mihariban
+type: software
+tags: []
+cpe: cpe:2.3:a:ntt:security_kinou_mihariban:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: security_kinou_mihariban
+  confidence: auto

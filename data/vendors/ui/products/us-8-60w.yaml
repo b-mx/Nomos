@@ -1,0 +1,10 @@
+id: us-8-60w
+vendor_id: ui
+name: Us-8-60W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:us\-8\-60w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: us-8-60w
+  confidence: auto

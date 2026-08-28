@@ -1,0 +1,10 @@
+id: kx-hjb1000-firmware
+vendor_id: panasonic
+name: Kx-Hjb1000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:panasonic:kx\-hjb1000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kx-hjb1000_firmware
+  confidence: auto

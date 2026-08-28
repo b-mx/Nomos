@@ -1,0 +1,10 @@
+id: miix-710-12ikb
+vendor_id: lenovo
+name: Miix 710-12Ikb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:miix_710\-12ikb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: miix_710-12ikb
+  confidence: auto

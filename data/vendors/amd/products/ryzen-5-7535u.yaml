@@ -1,0 +1,10 @@
+id: ryzen-5-7535u
+vendor_id: amd
+name: Ryzen 5 7535U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_7535u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_7535u
+  confidence: auto

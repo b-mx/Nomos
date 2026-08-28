@@ -1,0 +1,10 @@
+id: audio-station
+vendor_id: synology
+name: Audio Station
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:audio_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: audio_station
+  confidence: auto

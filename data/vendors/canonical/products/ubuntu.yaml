@@ -2,12 +2,12 @@ id: ubuntu
 vendor_id: canonical
 name: Ubuntu
 type: os
-tags: [operating-system]
-icon: logos:ubuntu
+tags: []
+cpe: cpe:2.3:o:canonical:ubuntu_linux:*:*:*:*:*:*:*:*
 aliases:
-  - source: nvd
-    value: ubuntu_linux
-    confidence: curated
-  - source: endoflife
-    value: ubuntu
-    confidence: curated
+- source: endoflife
+  value: ubuntu
+  confidence: auto
+- source: nvd
+  value: ubuntu_linux
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a8ns-m
+vendor_id: iptime
+name: A8Ns-M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a8ns\-m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a8ns-m
+  confidence: auto

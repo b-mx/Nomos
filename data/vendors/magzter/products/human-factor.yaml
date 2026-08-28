@@ -1,0 +1,10 @@
+id: human-factor
+vendor_id: magzter
+name: Human Factor
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:human_factor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: human_factor
+  confidence: auto

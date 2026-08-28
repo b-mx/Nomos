@@ -1,0 +1,7 @@
+id: blender
+name: Blender
+cpe: cpe:2.3:*:blender:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blender
+  confidence: auto

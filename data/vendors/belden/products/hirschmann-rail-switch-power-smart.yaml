@@ -1,0 +1,10 @@
+id: hirschmann-rail-switch-power-smart
+vendor_id: belden
+name: Hirschmann Rail Switch Power Smart
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_rail_switch_power_smart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_rail_switch_power_smart
+  confidence: auto

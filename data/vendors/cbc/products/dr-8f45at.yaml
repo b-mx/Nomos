@@ -1,0 +1,10 @@
+id: dr-8f45at
+vendor_id: cbc
+name: Dr-8F45At
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:dr\-8f45at:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-8f45at
+  confidence: auto

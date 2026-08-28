@@ -1,0 +1,10 @@
+id: 13w-yoga-gen-2
+vendor_id: lenovo
+name: 13W Yoga Gen 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:13w_yoga_gen_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 13w_yoga_gen_2
+  confidence: auto

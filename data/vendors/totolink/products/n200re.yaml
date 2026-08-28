@@ -1,0 +1,10 @@
+id: n200re
+vendor_id: totolink
+name: N200Re
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:n200re:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n200re
+  confidence: auto

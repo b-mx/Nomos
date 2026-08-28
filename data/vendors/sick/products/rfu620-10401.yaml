@@ -1,0 +1,10 @@
+id: rfu620-10401
+vendor_id: sick
+name: Rfu620-10401
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:rfu620\-10401:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfu620-10401
+  confidence: auto

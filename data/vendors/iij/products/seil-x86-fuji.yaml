@@ -1,0 +1,10 @@
+id: seil-x86-fuji
+vendor_id: iij
+name: Seil X86 Fuji
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iij:seil_x86_fuji:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil_x86_fuji
+  confidence: auto

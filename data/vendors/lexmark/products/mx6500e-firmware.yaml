@@ -1,0 +1,10 @@
+id: mx6500e-firmware
+vendor_id: lexmark
+name: Mx6500E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:mx6500e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mx6500e_firmware
+  confidence: auto

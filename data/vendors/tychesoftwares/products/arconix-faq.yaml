@@ -1,0 +1,10 @@
+id: arconix-faq
+vendor_id: tychesoftwares
+name: Arconix Faq
+type: software
+tags: []
+cpe: cpe:2.3:a:tychesoftwares:arconix_faq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arconix_faq
+  confidence: auto

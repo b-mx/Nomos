@@ -1,0 +1,10 @@
+id: max-transit
+vendor_id: peplink
+name: Max Transit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:max_transit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_transit
+  confidence: auto

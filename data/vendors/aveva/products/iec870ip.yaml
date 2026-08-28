@@ -1,0 +1,10 @@
+id: iec870ip
+vendor_id: aveva
+name: Iec870Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aveva:iec870ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iec870ip
+  confidence: auto

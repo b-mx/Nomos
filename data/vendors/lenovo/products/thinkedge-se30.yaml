@@ -1,0 +1,10 @@
+id: thinkedge-se30
+vendor_id: lenovo
+name: Thinkedge Se30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkedge_se30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkedge_se30
+  confidence: auto

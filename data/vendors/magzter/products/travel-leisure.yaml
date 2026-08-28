@@ -1,0 +1,10 @@
+id: travel-leisure
+vendor_id: magzter
+name: Travel+Leisure
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:travel\+leisure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: travel+leisure
+  confidence: auto

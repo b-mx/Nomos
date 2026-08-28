@@ -1,0 +1,9 @@
+id: esxi-and-workstation
+vendor_id: vmware
+name: ESXi and Workstation
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: ESXi and Workstation
+  confidence: auto

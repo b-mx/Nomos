@@ -1,0 +1,10 @@
+id: faq
+vendor_id: otrs
+name: Faq
+type: software
+tags: []
+cpe: cpe:2.3:a:otrs:faq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: faq
+  confidence: auto

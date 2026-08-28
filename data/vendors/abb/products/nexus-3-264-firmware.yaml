@@ -1,0 +1,10 @@
+id: nexus-3-264-firmware
+vendor_id: abb
+name: Nexus-3-264 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:nexus\-3\-264_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexus-3-264_firmware
+  confidence: auto

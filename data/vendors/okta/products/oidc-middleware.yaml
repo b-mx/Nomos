@@ -1,0 +1,10 @@
+id: oidc-middleware
+vendor_id: okta
+name: Oidc Middleware
+type: software
+tags: []
+cpe: cpe:2.3:a:okta:oidc_middleware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oidc_middleware
+  confidence: auto

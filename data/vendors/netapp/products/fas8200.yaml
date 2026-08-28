@@ -1,0 +1,10 @@
+id: fas8200
+vendor_id: netapp
+name: Fas8200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:fas8200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fas8200
+  confidence: auto

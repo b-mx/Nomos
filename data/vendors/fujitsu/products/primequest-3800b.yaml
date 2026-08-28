@@ -1,0 +1,10 @@
+id: primequest-3800b
+vendor_id: fujitsu
+name: Primequest 3800B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:primequest_3800b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primequest_3800b
+  confidence: auto

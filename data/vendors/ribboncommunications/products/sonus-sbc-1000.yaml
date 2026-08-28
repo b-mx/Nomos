@@ -1,0 +1,10 @@
+id: sonus-sbc-1000
+vendor_id: ribboncommunications
+name: Sonus Sbc 1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ribboncommunications:sonus_sbc_1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sonus_sbc_1000
+  confidence: auto

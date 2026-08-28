@@ -1,0 +1,10 @@
+id: g263dns
+vendor_id: lenovo
+name: G263Dns
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:g263dns:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g263dns
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sysconfig
+vendor_id: opensuse
+name: Sysconfig
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:sysconfig:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sysconfig
+  confidence: auto

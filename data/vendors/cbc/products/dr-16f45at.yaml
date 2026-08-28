@@ -1,0 +1,10 @@
+id: dr-16f45at
+vendor_id: cbc
+name: Dr-16F45At
+type: hardware
+tags: []
+cpe: cpe:2.3:h:cbc:dr\-16f45at:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-16f45at
+  confidence: auto

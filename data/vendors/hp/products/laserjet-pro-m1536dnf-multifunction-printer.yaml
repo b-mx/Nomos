@@ -1,0 +1,10 @@
+id: laserjet-pro-m1536dnf-multifunction-printer
+vendor_id: hp
+name: Laserjet Pro M1536Dnf Multifunction Printer
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m1536dnf_multifunction_printer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m1536dnf_multifunction_printer
+  confidence: auto

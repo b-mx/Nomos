@@ -1,0 +1,10 @@
+id: envy-5000-z4a54a-firmware
+vendor_id: hp
+name: Envy 5000 Z4A54A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:envy_5000_z4a54a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_5000_z4a54a_firmware
+  confidence: auto

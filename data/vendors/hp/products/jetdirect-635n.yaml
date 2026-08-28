@@ -1,0 +1,10 @@
+id: jetdirect-635n
+vendor_id: hp
+name: Jetdirect 635N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jetdirect_635n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetdirect_635n
+  confidence: auto

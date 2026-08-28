@@ -1,0 +1,10 @@
+id: netapp-xcp-smb
+vendor_id: netapp
+name: Netapp Xcp Smb
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:netapp_xcp_smb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netapp_xcp_smb
+  confidence: auto

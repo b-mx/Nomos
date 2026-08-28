@@ -1,0 +1,10 @@
+id: basys-efx-650
+vendor_id: sloan
+name: Basys Efx-650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:basys_efx\-650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: basys_efx-650
+  confidence: auto

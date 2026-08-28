@@ -1,0 +1,10 @@
+id: sigma-spectrum-35700bax2
+vendor_id: baxter
+name: Sigma Spectrum 35700Bax2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:baxter:sigma_spectrum_35700bax2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sigma_spectrum_35700bax2
+  confidence: auto

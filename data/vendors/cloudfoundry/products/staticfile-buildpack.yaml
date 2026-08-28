@@ -1,0 +1,10 @@
+id: staticfile-buildpack
+vendor_id: cloudfoundry
+name: Staticfile Buildpack
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:staticfile_buildpack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: staticfile_buildpack
+  confidence: auto

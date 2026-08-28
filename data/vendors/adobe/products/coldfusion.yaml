@@ -3,8 +3,7 @@ vendor_id: adobe
 name: ColdFusion
 type: software
 tags: []
-icon: logos:adobe-icon
 aliases:
 - source: cisa_kev
   value: ColdFusion
-  confidence: curated
+  confidence: auto

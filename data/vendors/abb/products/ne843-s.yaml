@@ -1,0 +1,10 @@
+id: ne843-s
+vendor_id: abb
+name: Ne843 S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:ne843_s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ne843_s
+  confidence: auto

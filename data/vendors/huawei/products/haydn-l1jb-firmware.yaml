@@ -1,0 +1,10 @@
+id: haydn-l1jb-firmware
+vendor_id: huawei
+name: Haydn-L1Jb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:haydn\-l1jb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: haydn-l1jb_firmware
+  confidence: auto

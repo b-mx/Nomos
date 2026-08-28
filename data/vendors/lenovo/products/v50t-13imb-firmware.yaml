@@ -1,0 +1,10 @@
+id: v50t-13imb-firmware
+vendor_id: lenovo
+name: V50T-13Imb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v50t\-13imb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v50t-13imb_firmware
+  confidence: auto

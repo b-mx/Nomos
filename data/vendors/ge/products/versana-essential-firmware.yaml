@@ -1,0 +1,10 @@
+id: versana-essential-firmware
+vendor_id: ge
+name: Versana Essential Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:versana_essential_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: versana_essential_firmware
+  confidence: auto

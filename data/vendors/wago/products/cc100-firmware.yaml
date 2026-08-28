@@ -1,0 +1,10 @@
+id: cc100-firmware
+vendor_id: wago
+name: Cc100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:cc100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc100_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: storage-data-protector
+vendor_id: hp
+name: Storage Data Protector
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:storage_data_protector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storage_data_protector
+  confidence: auto

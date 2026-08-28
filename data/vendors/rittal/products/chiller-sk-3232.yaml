@@ -1,0 +1,10 @@
+id: chiller-sk-3232
+vendor_id: rittal
+name: Chiller Sk 3232
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rittal:chiller_sk_3232:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chiller_sk_3232
+  confidence: auto

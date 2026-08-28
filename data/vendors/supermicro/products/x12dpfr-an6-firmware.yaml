@@ -1,0 +1,10 @@
+id: x12dpfr-an6-firmware
+vendor_id: supermicro
+name: X12Dpfr-An6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x12dpfr\-an6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dpfr-an6_firmware
+  confidence: auto

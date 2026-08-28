@@ -1,0 +1,10 @@
+id: cq183a-firmware
+vendor_id: hp
+name: Cq183A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cq183a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cq183a_firmware
+  confidence: auto

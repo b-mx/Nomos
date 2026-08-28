@@ -1,0 +1,10 @@
+id: dwg-trueview
+vendor_id: autodesk
+name: Dwg Trueview
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:dwg_trueview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dwg_trueview
+  confidence: auto

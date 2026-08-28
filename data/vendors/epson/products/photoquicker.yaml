@@ -1,0 +1,10 @@
+id: photoquicker
+vendor_id: epson
+name: Photoquicker
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:photoquicker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: photoquicker
+  confidence: auto

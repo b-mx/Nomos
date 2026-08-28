@@ -1,0 +1,10 @@
+id: the-truth-spy
+vendor_id: 1byte
+name: The Truth Spy
+type: software
+tags: []
+cpe: cpe:2.3:a:1byte:the_truth_spy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: the_truth_spy
+  confidence: auto

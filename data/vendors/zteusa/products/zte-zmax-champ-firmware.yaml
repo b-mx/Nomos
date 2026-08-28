@@ -1,0 +1,10 @@
+id: zte-zmax-champ-firmware
+vendor_id: zteusa
+name: Zte Zmax Champ Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zteusa:zte_zmax_champ_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zte_zmax_champ_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fd1608gs-firmware
+vendor_id: cdatatec
+name: Fd1608Gs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:cdatatec:fd1608gs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd1608gs_firmware
+  confidence: auto

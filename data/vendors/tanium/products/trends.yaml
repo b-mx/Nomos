@@ -1,0 +1,10 @@
+id: trends
+vendor_id: tanium
+name: Trends
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:trends:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trends
+  confidence: auto

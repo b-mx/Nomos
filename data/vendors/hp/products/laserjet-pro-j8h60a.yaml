@@ -1,0 +1,10 @@
+id: laserjet-pro-j8h60a
+vendor_id: hp
+name: Laserjet Pro J8H60A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_j8h60a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_j8h60a
+  confidence: auto

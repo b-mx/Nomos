@@ -1,0 +1,10 @@
+id: wedding-guest-e-book
+vendor_id: remyandrade
+name: Wedding Guest E-Book
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:wedding_guest_e\-book:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wedding_guest_e-book
+  confidence: auto

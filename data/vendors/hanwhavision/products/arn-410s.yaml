@@ -1,0 +1,10 @@
+id: arn-410s
+vendor_id: hanwhavision
+name: Arn-410S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:arn\-410s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arn-410s
+  confidence: auto

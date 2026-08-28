@@ -1,0 +1,10 @@
+id: f1000-e-vpn-firewall
+vendor_id: h3c
+name: F1000-E Vpn Firewall
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:f1000\-e_vpn_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f1000-e_vpn_firewall
+  confidence: auto

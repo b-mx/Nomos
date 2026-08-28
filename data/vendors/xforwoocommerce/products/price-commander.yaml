@@ -1,0 +1,10 @@
+id: price-commander
+vendor_id: xforwoocommerce
+name: Price Commander
+type: software
+tags: []
+cpe: cpe:2.3:a:xforwoocommerce:price_commander:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: price_commander
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 0852-0303-firmware
+vendor_id: wago
+name: 0852-0303 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:0852\-0303_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 0852-0303_firmware
+  confidence: auto

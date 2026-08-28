@@ -1,0 +1,10 @@
+id: ryzen-7-5825u-firmware
+vendor_id: amd
+name: Ryzen 7 5825U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:ryzen_7_5825u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_7_5825u_firmware
+  confidence: auto

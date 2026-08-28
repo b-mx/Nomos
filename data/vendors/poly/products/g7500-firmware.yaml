@@ -1,0 +1,10 @@
+id: g7500-firmware
+vendor_id: poly
+name: G7500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:poly:g7500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g7500_firmware
+  confidence: auto

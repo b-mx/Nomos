@@ -1,0 +1,10 @@
+id: transport-wr21
+vendor_id: digi
+name: Transport Wr21
+type: hardware
+tags: []
+cpe: cpe:2.3:h:digi:transport_wr21:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: transport_wr21
+  confidence: auto

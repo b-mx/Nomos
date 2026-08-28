@@ -1,0 +1,7 @@
+id: weechat
+name: Weechat
+cpe: cpe:2.3:*:weechat:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: weechat
+  confidence: auto

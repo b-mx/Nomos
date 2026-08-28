@@ -1,0 +1,10 @@
+id: d8s-strings
+vendor_id: democritus
+name: D8S-Strings
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-strings:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-strings
+  confidence: auto

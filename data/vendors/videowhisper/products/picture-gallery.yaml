@@ -1,0 +1,10 @@
+id: picture-gallery
+vendor_id: videowhisper
+name: Picture Gallery
+type: software
+tags: []
+cpe: cpe:2.3:a:videowhisper:picture_gallery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: picture_gallery
+  confidence: auto

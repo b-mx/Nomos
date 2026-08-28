@@ -1,0 +1,10 @@
+id: h13dsg-o-cpu-d
+vendor_id: supermicro
+name: H13Dsg-O-Cpu-D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:h13dsg\-o\-cpu\-d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h13dsg-o-cpu-d
+  confidence: auto

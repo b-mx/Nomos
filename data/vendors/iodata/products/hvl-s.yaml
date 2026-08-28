@@ -1,0 +1,10 @@
+id: hvl-s
+vendor_id: iodata
+name: Hvl-S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:hvl\-s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hvl-s
+  confidence: auto

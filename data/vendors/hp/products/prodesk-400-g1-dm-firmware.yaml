@@ -1,0 +1,10 @@
+id: prodesk-400-g1-dm-firmware
+vendor_id: hp
+name: Prodesk 400 G1 Dm Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:prodesk_400_g1_dm_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: prodesk_400_g1_dm_firmware
+  confidence: auto

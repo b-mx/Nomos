@@ -1,0 +1,10 @@
+id: booth
+vendor_id: clusterlabs
+name: Booth
+type: software
+tags: []
+cpe: cpe:2.3:a:clusterlabs:booth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: booth
+  confidence: auto

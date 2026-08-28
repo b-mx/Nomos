@@ -1,0 +1,10 @@
+id: systemlink-server
+vendor_id: emerson
+name: Systemlink Server
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:systemlink_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: systemlink_server
+  confidence: auto

@@ -1,0 +1,7 @@
+id: swisscom
+name: Swisscom
+cpe: cpe:2.3:*:swisscom:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swisscom
+  confidence: auto

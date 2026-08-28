@@ -1,0 +1,10 @@
+id: pyxis-supplystation
+vendor_id: bd
+name: Pyxis Supplystation
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:pyxis_supplystation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_supplystation
+  confidence: auto

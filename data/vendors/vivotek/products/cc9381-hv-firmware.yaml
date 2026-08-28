@@ -1,0 +1,10 @@
+id: cc9381-hv-firmware
+vendor_id: vivotek
+name: Cc9381-Hv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:cc9381\-hv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc9381-hv_firmware
+  confidence: auto

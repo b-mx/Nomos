@@ -1,0 +1,10 @@
+id: just-school
+vendor_id: justsystems
+name: Just School
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:just_school:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: just_school
+  confidence: auto

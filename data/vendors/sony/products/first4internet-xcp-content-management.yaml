@@ -1,0 +1,10 @@
+id: first4internet-xcp-content-management
+vendor_id: sony
+name: First4Internet Xcp Content Management
+type: software
+tags: []
+cpe: cpe:2.3:a:sony:first4internet_xcp_content_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: first4internet_xcp_content_management
+  confidence: auto

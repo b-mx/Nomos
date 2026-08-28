@@ -1,0 +1,10 @@
+id: local-discovery-server
+vendor_id: opcfoundation
+name: Local Discovery Server
+type: software
+tags: []
+cpe: cpe:2.3:a:opcfoundation:local_discovery_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: local_discovery_server
+  confidence: auto

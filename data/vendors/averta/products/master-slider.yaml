@@ -1,0 +1,10 @@
+id: master-slider
+vendor_id: averta
+name: Master Slider
+type: software
+tags: []
+cpe: cpe:2.3:a:averta:master_slider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: master_slider
+  confidence: auto

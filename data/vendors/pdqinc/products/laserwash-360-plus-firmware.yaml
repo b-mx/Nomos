@@ -1,0 +1,10 @@
+id: laserwash-360-plus-firmware
+vendor_id: pdqinc
+name: Laserwash 360 Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pdqinc:laserwash_360_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserwash_360_plus_firmware
+  confidence: auto

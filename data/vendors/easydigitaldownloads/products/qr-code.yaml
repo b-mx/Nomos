@@ -1,0 +1,10 @@
+id: qr-code
+vendor_id: easydigitaldownloads
+name: Qr Code
+type: software
+tags: []
+cpe: cpe:2.3:a:easydigitaldownloads:qr_code:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qr_code
+  confidence: auto

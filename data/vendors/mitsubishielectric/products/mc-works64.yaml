@@ -1,0 +1,10 @@
+id: mc-works64
+vendor_id: mitsubishielectric
+name: Mc Works64
+type: software
+tags: []
+cpe: cpe:2.3:a:mitsubishielectric:mc_works64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc_works64
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 20kn
+vendor_id: lenovo
+name: 20Kn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20kn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20kn
+  confidence: auto

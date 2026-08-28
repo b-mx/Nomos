@@ -1,0 +1,10 @@
+id: survey-application-system
+vendor_id: oretnom23
+name: Survey Application System
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:survey_application_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: survey_application_system
+  confidence: auto

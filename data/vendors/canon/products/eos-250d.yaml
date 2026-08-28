@@ -1,0 +1,10 @@
+id: eos-250d
+vendor_id: canon
+name: Eos 250D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_250d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_250d
+  confidence: auto

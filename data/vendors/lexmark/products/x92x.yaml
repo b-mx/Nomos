@@ -1,0 +1,10 @@
+id: x92x
+vendor_id: lexmark
+name: X92X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x92x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x92x
+  confidence: auto

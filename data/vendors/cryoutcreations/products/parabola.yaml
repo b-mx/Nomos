@@ -1,0 +1,10 @@
+id: parabola
+vendor_id: cryoutcreations
+name: Parabola
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:parabola:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: parabola
+  confidence: auto

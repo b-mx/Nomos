@@ -1,0 +1,10 @@
+id: watch-boot-l-zero-rpc-m4l-firmware
+vendor_id: meikyo
+name: Watch Boot L-Zero Rpc-M4L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:meikyo:watch_boot_l\-zero_rpc\-m4l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: watch_boot_l-zero_rpc-m4l_firmware
+  confidence: auto

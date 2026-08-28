@@ -1,0 +1,7 @@
+id: zebra
+name: Zebra
+cpe: cpe:2.3:*:zebra:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zebra
+  confidence: auto

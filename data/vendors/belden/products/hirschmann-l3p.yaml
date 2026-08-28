@@ -1,0 +1,10 @@
+id: hirschmann-l3p
+vendor_id: belden
+name: Hirschmann L3P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_l3p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_l3p
+  confidence: auto

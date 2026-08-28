@@ -1,0 +1,10 @@
+id: microvb-system
+vendor_id: bridgetech
+name: Microvb System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bridgetech:microvb_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: microvb_system
+  confidence: auto

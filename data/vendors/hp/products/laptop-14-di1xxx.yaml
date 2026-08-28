@@ -1,0 +1,10 @@
+id: laptop-14-di1xxx
+vendor_id: hp
+name: Laptop 14-Di1Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laptop_14\-di1xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laptop_14-di1xxx
+  confidence: auto

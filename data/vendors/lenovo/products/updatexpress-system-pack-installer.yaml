@@ -1,0 +1,10 @@
+id: updatexpress-system-pack-installer
+vendor_id: lenovo
+name: Updatexpress System Pack Installer
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:updatexpress_system_pack_installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: updatexpress_system_pack_installer
+  confidence: auto

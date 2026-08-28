@@ -1,0 +1,10 @@
+id: double-x-dali
+vendor_id: mbs-solutions
+name: Double-X Dali
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:double\-x_dali:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: double-x_dali
+  confidence: auto

@@ -1,0 +1,10 @@
+id: columbia-tl00d
+vendor_id: huawei
+name: Columbia-Tl00D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:columbia\-tl00d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: columbia-tl00d
+  confidence: auto

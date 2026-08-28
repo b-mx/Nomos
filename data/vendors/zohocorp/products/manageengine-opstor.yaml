@@ -1,0 +1,10 @@
+id: manageengine-opstor
+vendor_id: zohocorp
+name: Manageengine Opstor
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_opstor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_opstor
+  confidence: auto

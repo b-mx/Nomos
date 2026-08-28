@@ -1,0 +1,10 @@
+id: exr
+vendor_id: irfanview
+name: Exr
+type: software
+tags: []
+cpe: cpe:2.3:a:irfanview:exr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: exr
+  confidence: auto

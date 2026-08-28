@@ -1,0 +1,10 @@
+id: dreamweaver
+vendor_id: macromedia
+name: Dreamweaver
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:dreamweaver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dreamweaver
+  confidence: auto

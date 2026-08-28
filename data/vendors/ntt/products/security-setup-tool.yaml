@@ -1,0 +1,10 @@
+id: security-setup-tool
+vendor_id: ntt
+name: Security Setup Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:ntt:security_setup_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: security_setup_tool
+  confidence: auto

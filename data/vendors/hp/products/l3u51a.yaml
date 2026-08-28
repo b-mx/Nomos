@@ -1,0 +1,10 @@
+id: l3u51a
+vendor_id: hp
+name: L3U51A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:l3u51a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l3u51a
+  confidence: auto

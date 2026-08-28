@@ -1,0 +1,10 @@
+id: x11dps-re
+vendor_id: supermicro
+name: X11Dps-Re
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11dps\-re:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dps-re
+  confidence: auto

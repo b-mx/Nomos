@@ -1,0 +1,10 @@
+id: cx-one
+vendor_id: omron
+name: Cx-One
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:cx\-one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-one
+  confidence: auto

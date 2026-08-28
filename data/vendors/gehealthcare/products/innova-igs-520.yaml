@@ -1,0 +1,10 @@
+id: innova-igs-520
+vendor_id: gehealthcare
+name: Innova Igs 520
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:innova_igs_520:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: innova_igs_520
+  confidence: auto

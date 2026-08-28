@@ -1,0 +1,10 @@
+id: ideacentre-720-18apr
+vendor_id: lenovo
+name: Ideacentre 720-18Apr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_720\-18apr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_720-18apr
+  confidence: auto

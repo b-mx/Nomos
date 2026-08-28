@@ -1,0 +1,10 @@
+id: automation-runtime
+vendor_id: br-automation
+name: Automation Runtime
+type: software
+tags: []
+cpe: cpe:2.3:a:br\-automation:automation_runtime:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: automation_runtime
+  confidence: auto

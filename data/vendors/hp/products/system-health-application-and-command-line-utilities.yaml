@@ -1,0 +1,10 @@
+id: system-health-application-and-command-line-utilities
+vendor_id: hp
+name: System Health Application And Command Line Utilities
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:system_health_application_and_command_line_utilities:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_health_application_and_command_line_utilities
+  confidence: auto

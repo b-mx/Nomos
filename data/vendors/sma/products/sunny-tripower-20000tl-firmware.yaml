@@ -1,0 +1,10 @@
+id: sunny-tripower-20000tl-firmware
+vendor_id: sma
+name: Sunny Tripower 20000Tl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sma:sunny_tripower_20000tl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sunny_tripower_20000tl_firmware
+  confidence: auto

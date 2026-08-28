@@ -1,0 +1,10 @@
+id: 30eh-firmware
+vendor_id: lenovo
+name: 30Eh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:30eh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 30eh_firmware
+  confidence: auto

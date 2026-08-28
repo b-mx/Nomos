@@ -1,0 +1,10 @@
+id: esnsb2
+vendor_id: epson
+name: Esnsb2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:esnsb2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esnsb2
+  confidence: auto

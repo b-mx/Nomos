@@ -1,0 +1,10 @@
+id: jd374a
+vendor_id: hp
+name: Jd374A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd374a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd374a
+  confidence: auto

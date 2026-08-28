@@ -1,0 +1,10 @@
+id: wg1200hp3
+vendor_id: aterm
+name: Wg1200Hp3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:aterm:wg1200hp3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wg1200hp3
+  confidence: auto

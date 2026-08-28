@@ -1,0 +1,10 @@
+id: desktop-pro-microtower-pc
+vendor_id: hp
+name: Desktop Pro Microtower Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:desktop_pro_microtower_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: desktop_pro_microtower_pc
+  confidence: auto

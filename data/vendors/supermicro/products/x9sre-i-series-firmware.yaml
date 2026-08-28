@@ -1,0 +1,10 @@
+id: x9sre-i-series-firmware
+vendor_id: supermicro
+name: X9Sre/I Series Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x9sre\/i_series_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9sre/i_series_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ac1200-smart-dual-band-gigabit-wifi
+vendor_id: tendacn
+name: Ac1200 Smart Dual-Band Gigabit Wifi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:ac1200_smart_dual\-band_gigabit_wifi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac1200_smart_dual-band_gigabit_wifi
+  confidence: auto

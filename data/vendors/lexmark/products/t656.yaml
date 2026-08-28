@@ -1,0 +1,10 @@
+id: t656
+vendor_id: lexmark
+name: T656
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:t656:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t656
+  confidence: auto

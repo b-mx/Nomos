@@ -1,0 +1,9 @@
+id: amazon-mq-activemq
+vendor_id: amazon-mq-activemq
+name: Amazon MQ for ActiveMQ
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: amazon-mq-activemq
+  confidence: auto

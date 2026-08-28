@@ -1,0 +1,10 @@
+id: jace-3e
+vendor_id: tridium
+name: Jace 3E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tridium:jace_3e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jace_3e
+  confidence: auto

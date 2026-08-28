@@ -1,0 +1,10 @@
+id: v7-firmware
+vendor_id: vivo
+name: V7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivo:v7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v7_firmware
+  confidence: auto

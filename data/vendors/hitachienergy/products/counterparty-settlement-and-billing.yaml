@@ -1,0 +1,10 @@
+id: counterparty-settlement-and-billing
+vendor_id: hitachienergy
+name: Counterparty Settlement And Billing
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachienergy:counterparty_settlement_and_billing:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: counterparty_settlement_and_billing
+  confidence: auto

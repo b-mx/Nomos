@@ -1,0 +1,10 @@
+id: ac10
+vendor_id: tendacn
+name: Ac10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:ac10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac10
+  confidence: auto

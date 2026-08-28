@@ -1,0 +1,10 @@
+id: kostac-plc
+vendor_id: jtekt
+name: Kostac Plc
+type: software
+tags: []
+cpe: cpe:2.3:a:jtekt:kostac_plc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kostac_plc
+  confidence: auto

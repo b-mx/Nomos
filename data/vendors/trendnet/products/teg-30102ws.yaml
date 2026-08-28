@@ -1,0 +1,10 @@
+id: teg-30102ws
+vendor_id: trendnet
+name: Teg-30102Ws
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:teg\-30102ws:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: teg-30102ws
+  confidence: auto

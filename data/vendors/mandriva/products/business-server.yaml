@@ -1,0 +1,10 @@
+id: business-server
+vendor_id: mandriva
+name: Business Server
+type: os
+tags: []
+cpe: cpe:2.3:o:mandriva:business_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_server
+  confidence: auto

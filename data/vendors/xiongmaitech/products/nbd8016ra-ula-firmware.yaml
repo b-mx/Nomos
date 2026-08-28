@@ -1,0 +1,10 @@
+id: nbd8016ra-ula-firmware
+vendor_id: xiongmaitech
+name: Nbd8016Ra-Ula Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:nbd8016ra\-ula_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbd8016ra-ula_firmware
+  confidence: auto

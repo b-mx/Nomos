@@ -1,0 +1,10 @@
+id: ai
+vendor_id: discourse
+name: Ai
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:ai:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ai
+  confidence: auto

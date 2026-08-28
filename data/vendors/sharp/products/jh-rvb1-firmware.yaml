@@ -1,0 +1,10 @@
+id: jh-rvb1-firmware
+vendor_id: sharp
+name: Jh-Rvb1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:jh\-rvb1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jh-rvb1_firmware
+  confidence: auto

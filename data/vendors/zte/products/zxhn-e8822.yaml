@@ -1,0 +1,10 @@
+id: zxhn-e8822
+vendor_id: zte
+name: Zxhn E8822
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxhn_e8822:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxhn_e8822
+  confidence: auto

@@ -1,0 +1,14 @@
+id: oniguruma
+vendor_id: oniguruma-project
+name: Oniguruma
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:oniguruma_project:oniguruma:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: oniguruma
+  confidence: auto
+- source: nvd
+  value: oniguruma
+  confidence: auto

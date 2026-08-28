@@ -1,0 +1,10 @@
+id: manageengine-datasecurity-plus
+vendor_id: zohocorp
+name: Manageengine Datasecurity Plus
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_datasecurity_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_datasecurity_plus
+  confidence: auto

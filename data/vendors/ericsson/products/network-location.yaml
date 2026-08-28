@@ -1,0 +1,10 @@
+id: network-location
+vendor_id: ericsson
+name: Network Location
+type: software
+tags: []
+cpe: cpe:2.3:a:ericsson:network_location:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_location
+  confidence: auto

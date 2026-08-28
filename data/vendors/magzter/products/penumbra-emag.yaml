@@ -1,0 +1,10 @@
+id: penumbra-emag
+vendor_id: magzter
+name: Penumbra Emag
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:penumbra_emag:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: penumbra_emag
+  confidence: auto

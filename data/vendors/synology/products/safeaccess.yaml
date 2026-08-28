@@ -1,0 +1,10 @@
+id: safeaccess
+vendor_id: synology
+name: Safeaccess
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:safeaccess:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safeaccess
+  confidence: auto

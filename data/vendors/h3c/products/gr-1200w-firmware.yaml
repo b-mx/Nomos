@@ -1,0 +1,10 @@
+id: gr-1200w-firmware
+vendor_id: h3c
+name: Gr-1200W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:h3c:gr\-1200w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gr-1200w_firmware
+  confidence: auto

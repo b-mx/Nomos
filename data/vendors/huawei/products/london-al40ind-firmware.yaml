@@ -1,0 +1,10 @@
+id: london-al40ind-firmware
+vendor_id: huawei
+name: London-Al40Ind Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:london\-al40ind_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: london-al40ind_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zephyr-enterprise
+vendor_id: smartbear
+name: Zephyr Enterprise
+type: software
+tags: []
+cpe: cpe:2.3:a:smartbear:zephyr_enterprise:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zephyr_enterprise
+  confidence: auto

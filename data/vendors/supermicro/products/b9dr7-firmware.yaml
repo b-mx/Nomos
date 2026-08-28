@@ -1,0 +1,10 @@
+id: b9dr7-firmware
+vendor_id: supermicro
+name: B9Dr7 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:b9dr7_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b9dr7_firmware
+  confidence: auto

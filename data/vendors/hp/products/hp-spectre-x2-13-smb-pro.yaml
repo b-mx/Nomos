@@ -1,0 +1,10 @@
+id: hp-spectre-x2-13-smb-pro
+vendor_id: hp
+name: Hp Spectre X2 13-Smb Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_spectre_x2_13\-smb_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_spectre_x2_13-smb_pro
+  confidence: auto

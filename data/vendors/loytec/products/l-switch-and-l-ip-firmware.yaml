@@ -1,0 +1,10 @@
+id: l-switch-and-l-ip-firmware
+vendor_id: loytec
+name: L-Switch And L-Ip Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:loytec:l\-switch_and_l\-ip_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l-switch_and_l-ip_firmware
+  confidence: auto

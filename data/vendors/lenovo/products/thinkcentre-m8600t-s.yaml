@@ -1,0 +1,10 @@
+id: thinkcentre-m8600t-s
+vendor_id: lenovo
+name: Thinkcentre M8600T/S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m8600t\/s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m8600t/s
+  confidence: auto

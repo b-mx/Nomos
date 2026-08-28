@@ -1,0 +1,10 @@
+id: shadow
+vendor_id: debian
+name: Shadow
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:shadow:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shadow
+  confidence: auto

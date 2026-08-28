@@ -1,0 +1,10 @@
+id: thinkpad-s5-2nd-generation-firmware
+vendor_id: lenovo
+name: Thinkpad S5 2Nd Generation Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_s5_2nd_generation_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_s5_2nd_generation_firmware
+  confidence: auto

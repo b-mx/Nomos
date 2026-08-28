@@ -1,0 +1,10 @@
+id: kw39
+vendor_id: nxp
+name: Kw39
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:kw39:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kw39
+  confidence: auto

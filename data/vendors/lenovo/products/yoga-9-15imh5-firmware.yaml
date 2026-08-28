@@ -1,0 +1,10 @@
+id: yoga-9-15imh5-firmware
+vendor_id: lenovo
+name: Yoga 9-15Imh5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yoga_9\-15imh5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_9-15imh5_firmware
+  confidence: auto

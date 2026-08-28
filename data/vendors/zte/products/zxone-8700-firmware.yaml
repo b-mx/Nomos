@@ -1,0 +1,10 @@
+id: zxone-8700-firmware
+vendor_id: zte
+name: Zxone 8700 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxone_8700_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxone_8700_firmware
+  confidence: auto

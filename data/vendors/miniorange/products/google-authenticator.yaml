@@ -1,0 +1,10 @@
+id: google-authenticator
+vendor_id: miniorange
+name: Google Authenticator
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:google_authenticator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: google_authenticator
+  confidence: auto

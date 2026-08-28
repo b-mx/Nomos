@@ -1,0 +1,10 @@
+id: max-br2-ip55-firmware
+vendor_id: peplink
+name: Max Br2 Ip55 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:max_br2_ip55_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_br2_ip55_firmware
+  confidence: auto

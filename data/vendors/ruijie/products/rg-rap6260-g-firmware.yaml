@@ -1,0 +1,10 @@
+id: rg-rap6260-g-firmware
+vendor_id: ruijie
+name: Rg-Rap6260(G) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijie:rg\-rap6260\(g\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-rap6260(g)_firmware
+  confidence: auto

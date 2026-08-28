@@ -1,0 +1,10 @@
+id: relion-670
+vendor_id: hitachienergy
+name: Relion 670
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:relion_670:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: relion_670
+  confidence: auto

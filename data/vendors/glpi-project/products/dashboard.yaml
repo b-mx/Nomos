@@ -1,0 +1,10 @@
+id: dashboard
+vendor_id: glpi-project
+name: Dashboard
+type: software
+tags: []
+cpe: cpe:2.3:a:glpi\-project:dashboard:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dashboard
+  confidence: auto

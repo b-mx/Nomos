@@ -1,0 +1,10 @@
+id: thinkpad-s3-yoga-14-bios
+vendor_id: lenovo
+name: Thinkpad S3 Yoga 14 Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_s3_yoga_14_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_s3_yoga_14_bios
+  confidence: auto

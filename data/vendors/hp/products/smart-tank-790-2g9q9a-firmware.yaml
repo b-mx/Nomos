@@ -1,0 +1,10 @@
+id: smart-tank-790-2g9q9a-firmware
+vendor_id: hp
+name: Smart Tank 790 2G9Q9A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:smart_tank_790_2g9q9a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_790_2g9q9a_firmware
+  confidence: auto

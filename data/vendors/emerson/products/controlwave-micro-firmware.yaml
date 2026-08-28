@@ -1,0 +1,10 @@
+id: controlwave-micro-firmware
+vendor_id: emerson
+name: Controlwave Micro Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:controlwave_micro_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: controlwave_micro_firmware
+  confidence: auto

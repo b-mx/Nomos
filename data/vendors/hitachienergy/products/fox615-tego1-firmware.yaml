@@ -1,0 +1,10 @@
+id: fox615-tego1-firmware
+vendor_id: hitachienergy
+name: Fox615 Tego1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitachienergy:fox615_tego1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fox615_tego1_firmware
+  confidence: auto

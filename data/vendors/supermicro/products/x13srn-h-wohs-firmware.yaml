@@ -1,0 +1,10 @@
+id: x13srn-h-wohs-firmware
+vendor_id: supermicro
+name: X13Srn-H-Wohs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x13srn\-h\-wohs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13srn-h-wohs_firmware
+  confidence: auto

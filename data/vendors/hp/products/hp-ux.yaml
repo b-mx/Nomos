@@ -1,0 +1,10 @@
+id: hp-ux
+vendor_id: hp
+name: Hp-Ux
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:hp\-ux:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp-ux
+  confidence: auto

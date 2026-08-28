@@ -1,0 +1,10 @@
+id: ncr-camera
+vendor_id: milesight
+name: Ncr/Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:milesight:ncr\/camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ncr/camera
+  confidence: auto

@@ -1,0 +1,10 @@
+id: seil-turbo
+vendor_id: iij
+name: Seil Turbo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iij:seil_turbo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: seil_turbo
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tm4c123
+vendor_id: ti
+name: Tm4C123
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:tm4c123:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm4c123
+  confidence: auto

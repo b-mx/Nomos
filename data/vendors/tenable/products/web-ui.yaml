@@ -1,0 +1,10 @@
+id: web-ui
+vendor_id: tenable
+name: Web Ui
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:web_ui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: web_ui
+  confidence: auto

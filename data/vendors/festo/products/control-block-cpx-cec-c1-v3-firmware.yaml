@@ -1,0 +1,10 @@
+id: control-block-cpx-cec-c1-v3-firmware
+vendor_id: festo
+name: Control Block Cpx-Cec-C1-V3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:control_block_cpx\-cec\-c1\-v3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_block_cpx-cec-c1-v3_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a520-slave-firmware
+vendor_id: marel
+name: A520 Slave Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:marel:a520_slave_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a520_slave_firmware
+  confidence: auto

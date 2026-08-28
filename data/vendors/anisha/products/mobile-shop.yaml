@@ -1,0 +1,10 @@
+id: mobile-shop
+vendor_id: anisha
+name: Mobile Shop
+type: software
+tags: []
+cpe: cpe:2.3:a:anisha:mobile_shop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile_shop
+  confidence: auto

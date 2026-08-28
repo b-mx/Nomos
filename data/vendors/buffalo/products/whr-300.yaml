@@ -1,0 +1,10 @@
+id: whr-300
+vendor_id: buffalo
+name: Whr-300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:whr\-300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whr-300
+  confidence: auto

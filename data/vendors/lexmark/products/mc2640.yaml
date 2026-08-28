@@ -1,0 +1,10 @@
+id: mc2640
+vendor_id: lexmark
+name: Mc2640
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:mc2640:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc2640
+  confidence: auto

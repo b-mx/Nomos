@@ -1,0 +1,10 @@
+id: modular-switchgear-monitoring-firmware
+vendor_id: hitachienergy
+name: Modular Switchgear Monitoring Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitachienergy:modular_switchgear_monitoring_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modular_switchgear_monitoring_firmware
+  confidence: auto

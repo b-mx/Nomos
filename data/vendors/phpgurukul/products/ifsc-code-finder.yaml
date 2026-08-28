@@ -1,0 +1,10 @@
+id: ifsc-code-finder
+vendor_id: phpgurukul
+name: Ifsc Code Finder
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:ifsc_code_finder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ifsc_code_finder
+  confidence: auto

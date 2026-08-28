@@ -1,0 +1,10 @@
+id: bently-nevada-3500-22m-usb
+vendor_id: ge
+name: Bently Nevada 3500/22M Usb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:bently_nevada_3500\/22m_usb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bently_nevada_3500/22m_usb
+  confidence: auto

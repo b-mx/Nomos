@@ -1,0 +1,10 @@
+id: kedro
+vendor_id: linuxfoundation
+name: Kedro
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:kedro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kedro
+  confidence: auto

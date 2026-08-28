@@ -1,0 +1,10 @@
+id: v20-pro-l-01j
+vendor_id: nttdocomo
+name: V20 Pro L-01J
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nttdocomo:v20_pro_l\-01j:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v20_pro_l-01j
+  confidence: auto

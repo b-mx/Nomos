@@ -1,0 +1,10 @@
+id: disk-pulse
+vendor_id: flexense
+name: Disk Pulse
+type: software
+tags: []
+cpe: cpe:2.3:a:flexense:disk_pulse:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: disk_pulse
+  confidence: auto

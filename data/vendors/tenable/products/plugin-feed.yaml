@@ -1,0 +1,10 @@
+id: plugin-feed
+vendor_id: tenable
+name: Plugin Feed
+type: software
+tags: []
+cpe: cpe:2.3:a:tenable:plugin_feed:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plugin_feed
+  confidence: auto

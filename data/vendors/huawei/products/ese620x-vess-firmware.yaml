@@ -1,0 +1,10 @@
+id: ese620x-vess-firmware
+vendor_id: huawei
+name: Ese620X Vess Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ese620x_vess_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ese620x_vess_firmware
+  confidence: auto

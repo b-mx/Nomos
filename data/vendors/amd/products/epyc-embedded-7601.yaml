@@ -1,0 +1,10 @@
+id: epyc-embedded-7601
+vendor_id: amd
+name: Epyc Embedded 7601
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:epyc_embedded_7601:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: epyc_embedded_7601
+  confidence: auto

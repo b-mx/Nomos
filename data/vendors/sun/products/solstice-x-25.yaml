@@ -1,0 +1,10 @@
+id: solstice-x-25
+vendor_id: sun
+name: Solstice X.25
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:solstice_x\.25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solstice_x.25
+  confidence: auto

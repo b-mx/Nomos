@@ -1,0 +1,10 @@
+id: mintinstall
+vendor_id: linuxmint
+name: Mintinstall
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxmint:mintinstall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mintinstall
+  confidence: auto

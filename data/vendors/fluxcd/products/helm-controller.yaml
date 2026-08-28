@@ -1,0 +1,10 @@
+id: helm-controller
+vendor_id: fluxcd
+name: Helm-Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:fluxcd:helm\-controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: helm-controller
+  confidence: auto

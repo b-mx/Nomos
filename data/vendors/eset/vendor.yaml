@@ -1,0 +1,7 @@
+id: eset
+name: Eset
+cpe: cpe:2.3:*:eset:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eset
+  confidence: auto

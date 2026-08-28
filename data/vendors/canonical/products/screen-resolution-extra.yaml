@@ -1,0 +1,10 @@
+id: screen-resolution-extra
+vendor_id: canonical
+name: Screen-Resolution-Extra
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:screen\-resolution\-extra:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: screen-resolution-extra
+  confidence: auto

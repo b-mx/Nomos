@@ -1,0 +1,10 @@
+id: se4801t0x-redundant-wireless-i-o-card-firmware
+vendor_id: emerson
+name: Se4801T0X Redundant Wireless I/O Card Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:se4801t0x_redundant_wireless_i\/o_card_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se4801t0x_redundant_wireless_i/o_card_firmware
+  confidence: auto

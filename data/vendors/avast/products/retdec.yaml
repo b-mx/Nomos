@@ -1,0 +1,10 @@
+id: retdec
+vendor_id: avast
+name: Retdec
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:retdec:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: retdec
+  confidence: auto

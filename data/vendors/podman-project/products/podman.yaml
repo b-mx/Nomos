@@ -1,0 +1,13 @@
+id: podman
+vendor_id: podman-project
+name: Podman
+type: software
+tags: []
+cpe: cpe:2.3:a:podman_project:podman:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: podman
+  confidence: auto
+- source: nvd
+  value: podman
+  confidence: auto

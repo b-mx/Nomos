@@ -1,0 +1,10 @@
+id: kinetis-kv1x-firmware
+vendor_id: nxp
+name: Kinetis Kv1X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:kinetis_kv1x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kinetis_kv1x_firmware
+  confidence: auto

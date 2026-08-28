@@ -1,0 +1,10 @@
+id: callvisor-asai-lan
+vendor_id: avaya
+name: Callvisor Asai Lan
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:callvisor_asai_lan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: callvisor_asai_lan
+  confidence: auto

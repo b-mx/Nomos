@@ -1,0 +1,10 @@
+id: pnm-9031rv-firmware
+vendor_id: hanwhavision
+name: Pnm-9031Rv Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:pnm\-9031rv_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pnm-9031rv_firmware
+  confidence: auto

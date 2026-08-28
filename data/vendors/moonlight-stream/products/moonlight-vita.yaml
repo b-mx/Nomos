@@ -1,0 +1,10 @@
+id: moonlight-vita
+vendor_id: moonlight-stream
+name: Moonlight Vita
+type: software
+tags: []
+cpe: cpe:2.3:a:moonlight\-stream:moonlight_vita:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moonlight_vita
+  confidence: auto

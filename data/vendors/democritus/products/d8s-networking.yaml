@@ -1,0 +1,10 @@
+id: d8s-networking
+vendor_id: democritus
+name: D8S-Networking
+type: software
+tags: []
+cpe: cpe:2.3:a:democritus:d8s\-networking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d8s-networking
+  confidence: auto

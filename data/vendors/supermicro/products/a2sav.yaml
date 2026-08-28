@@ -1,0 +1,10 @@
+id: a2sav
+vendor_id: supermicro
+name: A2Sav
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:a2sav:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a2sav
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fastify-http-proxy
+vendor_id: fastify
+name: Fastify/Http-Proxy
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:fastify\/http\-proxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastify/http-proxy
+  confidence: auto

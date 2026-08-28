@@ -1,0 +1,10 @@
+id: e-commerce-framework
+vendor_id: pimcore
+name: E-Commerce Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:pimcore:e\-commerce_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-commerce_framework
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 7md69a-firmware
+vendor_id: hp
+name: 7Md69A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:7md69a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 7md69a_firmware
+  confidence: auto

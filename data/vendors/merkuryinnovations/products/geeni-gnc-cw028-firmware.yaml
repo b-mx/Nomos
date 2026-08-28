@@ -1,0 +1,10 @@
+id: geeni-gnc-cw028-firmware
+vendor_id: merkuryinnovations
+name: Geeni Gnc-Cw028 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:merkuryinnovations:geeni_gnc\-cw028_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: geeni_gnc-cw028_firmware
+  confidence: auto

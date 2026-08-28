@@ -1,0 +1,10 @@
+id: 1768-compact-guardlogix-l4xs-controller
+vendor_id: rockwellautomation
+name: 1768 Compact Guardlogix L4Xs Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:1768_compact_guardlogix_l4xs_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1768_compact_guardlogix_l4xs_controller
+  confidence: auto

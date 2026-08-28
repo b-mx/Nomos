@@ -1,0 +1,10 @@
+id: unifi-controller
+vendor_id: ui
+name: Unifi Controller
+type: software
+tags: []
+cpe: cpe:2.3:a:ui:unifi_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_controller
+  confidence: auto

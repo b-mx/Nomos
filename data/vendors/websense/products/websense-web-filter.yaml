@@ -1,0 +1,10 @@
+id: websense-web-filter
+vendor_id: websense
+name: Websense Web Filter
+type: software
+tags: []
+cpe: cpe:2.3:a:websense:websense_web_filter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: websense_web_filter
+  confidence: auto

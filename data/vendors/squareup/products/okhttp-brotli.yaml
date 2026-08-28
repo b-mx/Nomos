@@ -1,0 +1,10 @@
+id: okhttp-brotli
+vendor_id: squareup
+name: Okhttp-Brotli
+type: software
+tags: []
+cpe: cpe:2.3:a:squareup:okhttp\-brotli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: okhttp-brotli
+  confidence: auto

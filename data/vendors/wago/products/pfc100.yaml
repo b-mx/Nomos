@@ -1,0 +1,10 @@
+id: pfc100
+vendor_id: wago
+name: Pfc100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wago:pfc100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pfc100
+  confidence: auto

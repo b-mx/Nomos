@@ -1,0 +1,10 @@
+id: sc-px3v
+vendor_id: epson
+name: Sc-Px3V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-px3v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-px3v
+  confidence: auto

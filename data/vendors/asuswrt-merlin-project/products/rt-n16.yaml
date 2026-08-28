@@ -1,0 +1,10 @@
+id: rt-n16
+vendor_id: asuswrt-merlin-project
+name: Rt-N16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin_project:rt\-n16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-n16
+  confidence: auto

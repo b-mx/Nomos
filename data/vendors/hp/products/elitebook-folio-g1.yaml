@@ -1,0 +1,10 @@
+id: elitebook-folio-g1
+vendor_id: hp
+name: Elitebook Folio G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:elitebook_folio_g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: elitebook_folio_g1
+  confidence: auto

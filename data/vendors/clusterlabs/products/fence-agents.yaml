@@ -1,0 +1,10 @@
+id: fence-agents
+vendor_id: clusterlabs
+name: Fence-Agents
+type: software
+tags: []
+cpe: cpe:2.3:a:clusterlabs:fence\-agents:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fence-agents
+  confidence: auto

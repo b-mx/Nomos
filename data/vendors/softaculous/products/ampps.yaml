@@ -1,0 +1,10 @@
+id: ampps
+vendor_id: softaculous
+name: Ampps
+type: software
+tags: []
+cpe: cpe:2.3:a:softaculous:ampps:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ampps
+  confidence: auto

@@ -1,0 +1,10 @@
+id: is1871
+vendor_id: microchip
+name: Is1871
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:is1871:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: is1871
+  confidence: auto

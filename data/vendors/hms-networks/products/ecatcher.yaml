@@ -1,0 +1,10 @@
+id: ecatcher
+vendor_id: hms-networks
+name: Ecatcher
+type: software
+tags: []
+cpe: cpe:2.3:a:hms\-networks:ecatcher:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecatcher
+  confidence: auto

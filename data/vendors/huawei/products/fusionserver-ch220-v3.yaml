@@ -1,0 +1,10 @@
+id: fusionserver-ch220-v3
+vendor_id: huawei
+name: Fusionserver Ch220 V3
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:fusionserver_ch220_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fusionserver_ch220_v3
+  confidence: auto

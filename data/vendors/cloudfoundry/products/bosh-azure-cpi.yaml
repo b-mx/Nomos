@@ -1,0 +1,10 @@
+id: bosh-azure-cpi
+vendor_id: cloudfoundry
+name: Bosh Azure Cpi
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:bosh_azure_cpi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bosh_azure_cpi
+  confidence: auto

@@ -1,0 +1,10 @@
+id: lms142
+vendor_id: sick
+name: Lms142
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:lms142:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lms142
+  confidence: auto

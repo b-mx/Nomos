@@ -1,0 +1,10 @@
+id: wcr-1166ds-firmware
+vendor_id: buffalo
+name: Wcr-1166Ds Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wcr\-1166ds_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wcr-1166ds_firmware
+  confidence: auto

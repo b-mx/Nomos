@@ -1,0 +1,10 @@
+id: datamanager
+vendor_id: abb
+name: Datamanager
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:datamanager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: datamanager
+  confidence: auto

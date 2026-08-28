@@ -1,0 +1,10 @@
+id: baidu-navigation
+vendor_id: baidu
+name: Baidu Navigation
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:baidu_navigation:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baidu_navigation
+  confidence: auto

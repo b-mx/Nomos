@@ -1,0 +1,10 @@
+id: trucluster
+vendor_id: compaq
+name: Trucluster
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:trucluster:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trucluster
+  confidence: auto

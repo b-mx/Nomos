@@ -1,0 +1,10 @@
+id: the-update-framework
+vendor_id: linuxfoundation
+name: The Update Framework
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:the_update_framework:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: the_update_framework
+  confidence: auto

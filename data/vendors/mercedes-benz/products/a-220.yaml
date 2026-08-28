@@ -1,0 +1,10 @@
+id: a-220
+vendor_id: mercedes-benz
+name: A 220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mercedes\-benz:a_220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a_220
+  confidence: auto

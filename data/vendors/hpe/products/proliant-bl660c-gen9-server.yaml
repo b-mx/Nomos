@@ -1,0 +1,10 @@
+id: proliant-bl660c-gen9-server
+vendor_id: hpe
+name: Proliant Bl660C Gen9 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:proliant_bl660c_gen9_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_bl660c_gen9_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: awk-3121-m12-rtg
+vendor_id: moxa
+name: Awk-3121-M12-Rtg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:awk\-3121\-m12\-rtg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: awk-3121-m12-rtg
+  confidence: auto

@@ -1,0 +1,10 @@
+id: q10
+vendor_id: blackberry
+name: Q10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:blackberry:q10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q10
+  confidence: auto

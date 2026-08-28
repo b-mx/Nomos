@@ -1,0 +1,7 @@
+id: h3c
+name: H3C
+cpe: cpe:2.3:*:h3c:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h3c
+  confidence: auto

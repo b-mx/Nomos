@@ -1,0 +1,10 @@
+id: laserjet-pro-m435-a3e42a-firmware
+vendor_id: hp
+name: Laserjet Pro M435 A3E42A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m435_a3e42a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m435_a3e42a_firmware
+  confidence: auto

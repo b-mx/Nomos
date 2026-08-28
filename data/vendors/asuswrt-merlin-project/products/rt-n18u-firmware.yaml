@@ -1,0 +1,10 @@
+id: rt-n18u-firmware
+vendor_id: asuswrt-merlin-project
+name: Rt-N18U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:asuswrt\-merlin_project:rt\-n18u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-n18u_firmware
+  confidence: auto

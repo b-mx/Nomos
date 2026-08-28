@@ -1,0 +1,10 @@
+id: laserjet-pro-m202-c6n20a-firmware
+vendor_id: hp
+name: Laserjet Pro M202 C6N20A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_pro_m202_c6n20a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m202_c6n20a_firmware
+  confidence: auto

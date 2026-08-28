@@ -1,0 +1,10 @@
+id: sharp-3g-handset
+vendor_id: softbank
+name: Sharp 3G Handset
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softbank:sharp_3g_handset:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sharp_3g_handset
+  confidence: auto

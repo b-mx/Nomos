@@ -1,0 +1,10 @@
+id: rse6500-firmware
+vendor_id: huawei
+name: Rse6500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:rse6500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rse6500_firmware
+  confidence: auto

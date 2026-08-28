@@ -1,0 +1,10 @@
+id: g0-firmware
+vendor_id: tendacn
+name: G0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tendacn:g0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g0_firmware
+  confidence: auto

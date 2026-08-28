@@ -1,0 +1,10 @@
+id: proview
+vendor_id: eaton
+name: Proview
+type: software
+tags: []
+cpe: cpe:2.3:a:eaton:proview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proview
+  confidence: auto

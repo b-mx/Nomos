@@ -1,0 +1,10 @@
+id: te50
+vendor_id: huawei
+name: Te50
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:te50:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: te50
+  confidence: auto

@@ -1,0 +1,10 @@
+id: evd4-firmware
+vendor_id: abb
+name: Evd4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:evd4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: evd4_firmware
+  confidence: auto

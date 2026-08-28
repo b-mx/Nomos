@@ -1,0 +1,10 @@
+id: dvpsimulator-h3
+vendor_id: deltaww
+name: Dvpsimulator H3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:deltaww:dvpsimulator_h3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvpsimulator_h3
+  confidence: auto

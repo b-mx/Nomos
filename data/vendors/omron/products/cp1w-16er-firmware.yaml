@@ -1,0 +1,10 @@
+id: cp1w-16er-firmware
+vendor_id: omron
+name: Cp1W-16Er Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1w\-16er_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-16er_firmware
+  confidence: auto

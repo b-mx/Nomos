@@ -1,0 +1,10 @@
+id: cp1w-me05m-firmware
+vendor_id: omron
+name: Cp1W-Me05M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1w\-me05m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-me05m_firmware
+  confidence: auto

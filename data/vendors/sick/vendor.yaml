@@ -1,0 +1,7 @@
+id: sick
+name: Sick
+cpe: cpe:2.3:*:sick:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sick
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-enterprise-600-m601
+vendor_id: hp
+name: Laserjet Enterprise 600 M601
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_enterprise_600_m601:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_600_m601
+  confidence: auto

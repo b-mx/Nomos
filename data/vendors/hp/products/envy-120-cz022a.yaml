@@ -1,0 +1,10 @@
+id: envy-120-cz022a
+vendor_id: hp
+name: Envy 120 Cz022A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_120_cz022a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_120_cz022a
+  confidence: auto

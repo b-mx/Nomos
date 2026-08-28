@@ -1,0 +1,10 @@
+id: discovery-xr650
+vendor_id: gehealthcare
+name: Discovery Xr650
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:discovery_xr650:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_xr650
+  confidence: auto

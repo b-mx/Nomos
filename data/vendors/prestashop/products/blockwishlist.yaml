@@ -1,0 +1,10 @@
+id: blockwishlist
+vendor_id: prestashop
+name: Blockwishlist
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:blockwishlist:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blockwishlist
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mondo
+vendor_id: mandriva
+name: Mondo
+type: software
+tags: []
+cpe: cpe:2.3:a:mandriva:mondo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mondo
+  confidence: auto

@@ -1,0 +1,10 @@
+id: yoga-11e-3rd-gen
+vendor_id: lenovo
+name: Yoga 11E 3Rd Gen
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yoga_11e_3rd_gen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_11e_3rd_gen
+  confidence: auto

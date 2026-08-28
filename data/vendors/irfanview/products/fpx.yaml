@@ -1,0 +1,10 @@
+id: fpx
+vendor_id: irfanview
+name: Fpx
+type: software
+tags: []
+cpe: cpe:2.3:a:irfanview:fpx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fpx
+  confidence: auto

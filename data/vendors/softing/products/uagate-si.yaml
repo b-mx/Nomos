@@ -1,0 +1,10 @@
+id: uagate-si
+vendor_id: softing
+name: Uagate Si
+type: hardware
+tags: []
+cpe: cpe:2.3:h:softing:uagate_si:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uagate_si
+  confidence: auto

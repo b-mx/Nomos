@@ -1,0 +1,10 @@
+id: dhanam
+vendor_id: magzter
+name: Dhanam
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:dhanam:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dhanam
+  confidence: auto

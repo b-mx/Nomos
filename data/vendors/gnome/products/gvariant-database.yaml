@@ -1,0 +1,10 @@
+id: gvariant-database
+vendor_id: gnome
+name: Gvariant Database
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gvariant_database:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gvariant_database
+  confidence: auto

@@ -1,0 +1,10 @@
+id: x464-firmware
+vendor_id: lexmark
+name: X464 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:x464_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x464_firmware
+  confidence: auto

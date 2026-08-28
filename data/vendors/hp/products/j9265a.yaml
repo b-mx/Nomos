@@ -1,0 +1,10 @@
+id: j9265a
+vendor_id: hp
+name: J9265A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:j9265a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j9265a
+  confidence: auto

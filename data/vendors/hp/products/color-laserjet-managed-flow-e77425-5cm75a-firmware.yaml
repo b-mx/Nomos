@@ -1,0 +1,10 @@
+id: color-laserjet-managed-flow-e77425-5cm75a-firmware
+vendor_id: hp
+name: Color Laserjet Managed Flow E77425 5Cm75A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:color_laserjet_managed_flow_e77425_5cm75a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_managed_flow_e77425_5cm75a_firmware
+  confidence: auto

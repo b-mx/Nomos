@@ -1,0 +1,10 @@
+id: cp1e-n60sdt-d-firmware
+vendor_id: omron
+name: Cp1E-N60Sdt-D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp1e\-n60sdt\-d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1e-n60sdt-d_firmware
+  confidence: auto

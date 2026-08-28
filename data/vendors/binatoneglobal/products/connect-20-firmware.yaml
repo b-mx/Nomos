@@ -1,0 +1,10 @@
+id: connect-20-firmware
+vendor_id: binatoneglobal
+name: Connect 20 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:connect_20_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect_20_firmware
+  confidence: auto

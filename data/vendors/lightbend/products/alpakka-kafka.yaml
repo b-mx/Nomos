@@ -1,0 +1,10 @@
+id: alpakka-kafka
+vendor_id: lightbend
+name: Alpakka Kafka
+type: software
+tags: []
+cpe: cpe:2.3:a:lightbend:alpakka_kafka:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alpakka_kafka
+  confidence: auto

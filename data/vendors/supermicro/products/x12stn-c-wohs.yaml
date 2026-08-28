@@ -1,0 +1,10 @@
+id: x12stn-c-wohs
+vendor_id: supermicro
+name: X12Stn-C-Wohs
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12stn\-c\-wohs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12stn-c-wohs
+  confidence: auto

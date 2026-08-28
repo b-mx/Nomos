@@ -1,0 +1,10 @@
+id: nvr500-firmware
+vendor_id: yamaha
+name: Nvr500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:nvr500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nvr500_firmware
+  confidence: auto

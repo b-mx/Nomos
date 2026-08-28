@@ -1,0 +1,10 @@
+id: pm590-mc-kit
+vendor_id: abb
+name: Pm590-Mc-Kit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:pm590\-mc\-kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pm590-mc-kit
+  confidence: auto

@@ -1,0 +1,13 @@
+id: umbraco
+vendor_id: umbraco
+name: Umbraco CMS
+type: software
+tags: []
+cpe: cpe:2.3:a:umbraco:umbraco_cms:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: umbraco
+  confidence: auto
+- source: nvd
+  value: umbraco_cms
+  confidence: auto

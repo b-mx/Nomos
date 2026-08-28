@@ -1,0 +1,10 @@
+id: fax-l2700dn-jpn
+vendor_id: brother
+name: Fax-L2700Dn(Jpn)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:fax\-l2700dn\(jpn\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fax-l2700dn(jpn)
+  confidence: auto

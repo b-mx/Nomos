@@ -1,0 +1,10 @@
+id: defectdojo
+vendor_id: owasp
+name: Defectdojo
+type: software
+tags: []
+cpe: cpe:2.3:a:owasp:defectdojo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: defectdojo
+  confidence: auto

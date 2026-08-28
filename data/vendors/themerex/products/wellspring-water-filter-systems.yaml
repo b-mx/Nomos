@@ -1,0 +1,10 @@
+id: wellspring-water-filter-systems
+vendor_id: themerex
+name: Wellspring Water Filter Systems
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:wellspring_water_filter_systems:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wellspring_water_filter_systems
+  confidence: auto

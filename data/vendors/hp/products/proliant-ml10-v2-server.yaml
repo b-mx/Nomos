@@ -1,0 +1,10 @@
+id: proliant-ml10-v2-server
+vendor_id: hp
+name: Proliant Ml10 V2 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_ml10_v2_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_ml10_v2_server
+  confidence: auto

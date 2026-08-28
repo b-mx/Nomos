@@ -1,0 +1,10 @@
+id: im-600f
+vendor_id: ricoh
+name: Im 600F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_600f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_600f
+  confidence: auto

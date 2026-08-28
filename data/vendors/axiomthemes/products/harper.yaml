@@ -1,0 +1,10 @@
+id: harper
+vendor_id: axiomthemes
+name: Harper
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:harper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: harper
+  confidence: auto

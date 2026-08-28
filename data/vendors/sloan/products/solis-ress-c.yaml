@@ -1,0 +1,10 @@
+id: solis-ress-c
+vendor_id: sloan
+name: Solis Ress-C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:solis_ress\-c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solis_ress-c
+  confidence: auto

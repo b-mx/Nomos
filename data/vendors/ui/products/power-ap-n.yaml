@@ -1,0 +1,10 @@
+id: power-ap-n
+vendor_id: ui
+name: Power Ap N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:power_ap_n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: power_ap_n
+  confidence: auto

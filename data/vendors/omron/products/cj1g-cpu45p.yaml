@@ -1,0 +1,10 @@
+id: cj1g-cpu45p
+vendor_id: omron
+name: Cj1G-Cpu45P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cj1g\-cpu45p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cj1g-cpu45p
+  confidence: auto

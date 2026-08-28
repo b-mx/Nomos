@@ -1,0 +1,10 @@
+id: aficio-sp-3500sf
+vendor_id: ricoh
+name: Aficio Sp 3500Sf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:aficio_sp_3500sf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aficio_sp_3500sf
+  confidence: auto

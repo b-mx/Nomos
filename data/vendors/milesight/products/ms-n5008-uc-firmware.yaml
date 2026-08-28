@@ -1,0 +1,10 @@
+id: ms-n5008-uc-firmware
+vendor_id: milesight
+name: Ms-N5008-Uc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:milesight:ms\-n5008\-uc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms-n5008-uc_firmware
+  confidence: auto

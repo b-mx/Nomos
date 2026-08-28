@@ -1,0 +1,10 @@
+id: ar-727h-firmware
+vendor_id: soyal
+name: Ar-727H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:soyal:ar\-727h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar-727h_firmware
+  confidence: auto

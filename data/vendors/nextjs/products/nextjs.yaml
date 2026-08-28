@@ -1,0 +1,10 @@
+id: nextjs
+vendor_id: nextjs
+name: Next.js
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: nextjs
+  confidence: auto

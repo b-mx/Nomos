@@ -1,0 +1,10 @@
+id: wsr-2533dhpl2-bk-firmware
+vendor_id: buffalo
+name: Wsr-2533Dhpl2-Bk Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wsr\-2533dhpl2\-bk_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wsr-2533dhpl2-bk_firmware
+  confidence: auto

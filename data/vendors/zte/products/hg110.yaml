@@ -1,0 +1,10 @@
+id: hg110
+vendor_id: zte
+name: Hg110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:hg110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg110
+  confidence: auto

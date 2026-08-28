@@ -1,0 +1,10 @@
+id: cray-sh-supercomputer-air-cooled-base-system-code-firmware
+vendor_id: hpe
+name: Cray Sh Supercomputer Air Cooled Base System Code Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:cray_sh_supercomputer_air_cooled_base_system_code_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cray_sh_supercomputer_air_cooled_base_system_code_firmware
+  confidence: auto

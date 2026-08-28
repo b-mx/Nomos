@@ -1,0 +1,10 @@
+id: advanced-systemcare
+vendor_id: iobit
+name: Advanced Systemcare
+type: software
+tags: []
+cpe: cpe:2.3:a:iobit:advanced_systemcare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: advanced_systemcare
+  confidence: auto

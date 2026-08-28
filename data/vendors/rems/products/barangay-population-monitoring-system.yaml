@@ -1,0 +1,10 @@
+id: barangay-population-monitoring-system
+vendor_id: rems
+name: Barangay Population Monitoring System
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:barangay_population_monitoring_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: barangay_population_monitoring_system
+  confidence: auto

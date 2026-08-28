@@ -1,0 +1,10 @@
+id: chat
+vendor_id: zoom
+name: Chat
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:chat:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chat
+  confidence: auto

@@ -1,0 +1,10 @@
+id: systemlink
+vendor_id: ni
+name: Systemlink
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:systemlink:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: systemlink
+  confidence: auto

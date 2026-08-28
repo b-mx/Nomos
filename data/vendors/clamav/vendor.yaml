@@ -1,0 +1,7 @@
+id: clamav
+name: Clamav
+cpe: cpe:2.3:*:clamav:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clamav
+  confidence: auto

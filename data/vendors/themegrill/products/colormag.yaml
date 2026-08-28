@@ -1,0 +1,10 @@
+id: colormag
+vendor_id: themegrill
+name: Colormag
+type: software
+tags: []
+cpe: cpe:2.3:a:themegrill:colormag:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: colormag
+  confidence: auto

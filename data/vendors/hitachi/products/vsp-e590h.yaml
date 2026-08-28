@@ -1,0 +1,10 @@
+id: vsp-e590h
+vendor_id: hitachi
+name: Vsp E590H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachi:vsp_e590h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vsp_e590h
+  confidence: auto

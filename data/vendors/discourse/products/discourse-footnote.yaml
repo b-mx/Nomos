@@ -1,0 +1,10 @@
+id: discourse-footnote
+vendor_id: discourse
+name: Discourse Footnote
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:discourse_footnote:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discourse_footnote
+  confidence: auto

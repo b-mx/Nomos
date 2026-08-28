@@ -1,0 +1,9 @@
+id: cisco-ios-xe
+vendor_id: cisco-ios-xe
+name: Cisco IOS XE
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: cisco-ios-xe
+  confidence: auto

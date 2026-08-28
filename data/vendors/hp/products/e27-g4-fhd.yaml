@@ -1,0 +1,10 @@
+id: e27-g4-fhd
+vendor_id: hp
+name: E27 G4 Fhd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:e27_g4_fhd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e27_g4_fhd
+  confidence: auto

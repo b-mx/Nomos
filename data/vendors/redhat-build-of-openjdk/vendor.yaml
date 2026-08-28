@@ -1,0 +1,6 @@
+id: redhat-build-of-openjdk
+name: Red Hat build of OpenJDK
+aliases:
+- source: endoflife
+  value: redhat-build-of-openjdk
+  confidence: auto

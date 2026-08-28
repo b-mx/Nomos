@@ -1,0 +1,10 @@
+id: dv2210-firmware
+vendor_id: adbglobal
+name: Dv2210 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:adbglobal:dv2210_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dv2210_firmware
+  confidence: auto

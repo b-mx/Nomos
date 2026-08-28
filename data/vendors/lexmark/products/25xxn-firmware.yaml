@@ -1,0 +1,10 @@
+id: 25xxn-firmware
+vendor_id: lexmark
+name: 25Xxn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:25xxn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 25xxn_firmware
+  confidence: auto

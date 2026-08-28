@@ -1,0 +1,10 @@
+id: versant-80
+vendor_id: fujifilm
+name: Versant 80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:versant_80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: versant_80
+  confidence: auto

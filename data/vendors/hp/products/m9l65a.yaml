@@ -1,0 +1,10 @@
+id: m9l65a
+vendor_id: hp
+name: M9L65A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m9l65a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m9l65a
+  confidence: auto

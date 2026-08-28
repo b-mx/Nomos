@@ -1,0 +1,10 @@
+id: symo-15-0-3-107
+vendor_id: fronius
+name: Symo 15.0-3 107
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fronius:symo_15\.0\-3_107:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: symo_15.0-3_107
+  confidence: auto

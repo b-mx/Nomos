@@ -1,0 +1,10 @@
+id: pcs-xc1
+vendor_id: sony
+name: Pcs-Xc1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:pcs\-xc1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcs-xc1
+  confidence: auto

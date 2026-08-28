@@ -1,0 +1,10 @@
+id: keyring
+vendor_id: python
+name: Keyring
+type: software
+tags: []
+cpe: cpe:2.3:a:python:keyring:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keyring
+  confidence: auto

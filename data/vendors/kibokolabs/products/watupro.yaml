@@ -1,0 +1,10 @@
+id: watupro
+vendor_id: kibokolabs
+name: Watupro
+type: software
+tags: []
+cpe: cpe:2.3:a:kibokolabs:watupro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: watupro
+  confidence: auto

@@ -1,0 +1,10 @@
+id: powershot-g5xmark-ii
+vendor_id: canon
+name: Powershot G5Xmark Ii
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:powershot_g5xmark_ii:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powershot_g5xmark_ii
+  confidence: auto

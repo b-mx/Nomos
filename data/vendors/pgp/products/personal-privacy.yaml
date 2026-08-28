@@ -1,0 +1,10 @@
+id: personal-privacy
+vendor_id: pgp
+name: Personal Privacy
+type: software
+tags: []
+cpe: cpe:2.3:a:pgp:personal_privacy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: personal_privacy
+  confidence: auto

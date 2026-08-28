@@ -1,0 +1,10 @@
+id: g0
+vendor_id: tendacn
+name: G0
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:g0:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g0
+  confidence: auto

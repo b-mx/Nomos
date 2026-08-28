@@ -1,0 +1,10 @@
+id: github-action-merge-dependabot
+vendor_id: fastify
+name: Github Action Merge Dependabot
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:github_action_merge_dependabot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: github_action_merge_dependabot
+  confidence: auto

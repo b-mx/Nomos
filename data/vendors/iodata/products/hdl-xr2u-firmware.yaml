@@ -1,0 +1,10 @@
+id: hdl-xr2u-firmware
+vendor_id: iodata
+name: Hdl-Xr2U Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:hdl\-xr2u_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdl-xr2u_firmware
+  confidence: auto

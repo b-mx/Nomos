@@ -1,0 +1,10 @@
+id: ethernet-firmware
+vendor_id: wago
+name: Ethernet Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:ethernet_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ethernet_firmware
+  confidence: auto

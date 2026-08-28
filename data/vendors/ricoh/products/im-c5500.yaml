@@ -1,0 +1,10 @@
+id: im-c5500
+vendor_id: ricoh
+name: Im C5500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_c5500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_c5500
+  confidence: auto

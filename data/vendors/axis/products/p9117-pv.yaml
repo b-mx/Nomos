@@ -1,0 +1,10 @@
+id: p9117-pv
+vendor_id: axis
+name: P9117-Pv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p9117\-pv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p9117-pv
+  confidence: auto

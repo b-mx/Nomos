@@ -1,0 +1,10 @@
+id: procurve-switch-software
+vendor_id: hp
+name: Procurve Switch Software
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:procurve_switch_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: procurve_switch_software
+  confidence: auto

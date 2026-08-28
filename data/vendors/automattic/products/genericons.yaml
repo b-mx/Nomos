@@ -1,0 +1,10 @@
+id: genericons
+vendor_id: automattic
+name: Genericons
+type: software
+tags: []
+cpe: cpe:2.3:a:automattic:genericons:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: genericons
+  confidence: auto

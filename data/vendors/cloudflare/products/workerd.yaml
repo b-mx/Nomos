@@ -1,0 +1,10 @@
+id: workerd
+vendor_id: cloudflare
+name: Workerd
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:workerd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workerd
+  confidence: auto

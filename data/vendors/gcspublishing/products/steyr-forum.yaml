@@ -1,0 +1,10 @@
+id: steyr-forum
+vendor_id: gcspublishing
+name: Steyr Forum
+type: software
+tags: []
+cpe: cpe:2.3:a:gcspublishing:steyr_forum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: steyr_forum
+  confidence: auto

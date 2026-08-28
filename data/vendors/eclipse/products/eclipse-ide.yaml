@@ -1,0 +1,10 @@
+id: eclipse-ide
+vendor_id: eclipse
+name: Eclipse Ide
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:eclipse_ide:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eclipse_ide
+  confidence: auto

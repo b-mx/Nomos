@@ -1,0 +1,10 @@
+id: vacation-rental-website
+vendor_id: gzscripts
+name: Vacation Rental Website
+type: software
+tags: []
+cpe: cpe:2.3:a:gzscripts:vacation_rental_website:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vacation_rental_website
+  confidence: auto

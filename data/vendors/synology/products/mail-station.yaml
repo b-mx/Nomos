@@ -1,0 +1,10 @@
+id: mail-station
+vendor_id: synology
+name: Mail Station
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:mail_station:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mail_station
+  confidence: auto

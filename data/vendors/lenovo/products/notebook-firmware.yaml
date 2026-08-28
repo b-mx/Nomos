@@ -1,0 +1,10 @@
+id: notebook-firmware
+vendor_id: lenovo
+name: Notebook Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:notebook_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sprout-pro
+vendor_id: hp
+name: Sprout Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:sprout_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sprout_pro
+  confidence: auto

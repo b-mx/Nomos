@@ -1,0 +1,10 @@
+id: an5506-04-fa-firmware
+vendor_id: fiberhome
+name: An5506-04-Fa Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fiberhome:an5506\-04\-fa_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: an5506-04-fa_firmware
+  confidence: auto

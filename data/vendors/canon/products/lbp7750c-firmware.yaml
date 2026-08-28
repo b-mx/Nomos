@@ -1,0 +1,10 @@
+id: lbp7750c-firmware
+vendor_id: canon
+name: Lbp7750C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:lbp7750c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lbp7750c_firmware
+  confidence: auto

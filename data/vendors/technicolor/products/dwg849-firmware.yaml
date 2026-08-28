@@ -1,0 +1,10 @@
+id: dwg849-firmware
+vendor_id: technicolor
+name: Dwg849 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:dwg849_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dwg849_firmware
+  confidence: auto

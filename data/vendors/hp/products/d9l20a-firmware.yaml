@@ -1,0 +1,10 @@
+id: d9l20a-firmware
+vendor_id: hp
+name: D9L20A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:d9l20a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d9l20a_firmware
+  confidence: auto

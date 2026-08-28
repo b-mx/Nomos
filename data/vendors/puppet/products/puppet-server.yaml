@@ -1,0 +1,10 @@
+id: puppet-server
+vendor_id: puppet
+name: Puppet Server
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:puppet_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppet_server
+  confidence: auto

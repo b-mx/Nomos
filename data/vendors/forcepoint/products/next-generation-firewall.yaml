@@ -1,0 +1,10 @@
+id: next-generation-firewall
+vendor_id: forcepoint
+name: Next Generation Firewall
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:next_generation_firewall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: next_generation_firewall
+  confidence: auto

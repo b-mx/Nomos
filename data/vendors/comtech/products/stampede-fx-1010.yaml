@@ -1,0 +1,10 @@
+id: stampede-fx-1010
+vendor_id: comtech
+name: Stampede Fx-1010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:comtech:stampede_fx\-1010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stampede_fx-1010
+  confidence: auto

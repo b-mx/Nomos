@@ -1,0 +1,10 @@
+id: aws-encryption-sdk
+vendor_id: amazon
+name: Aws Encryption Sdk
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_encryption_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_encryption_sdk
+  confidence: auto

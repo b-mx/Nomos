@@ -1,0 +1,10 @@
+id: whmcs-reseller-module
+vendor_id: softaculous
+name: Whmcs Reseller Module
+type: software
+tags: []
+cpe: cpe:2.3:a:softaculous:whmcs_reseller_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whmcs_reseller_module
+  confidence: auto

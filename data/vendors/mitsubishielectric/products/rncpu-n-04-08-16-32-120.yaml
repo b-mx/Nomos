@@ -1,0 +1,10 @@
+id: rncpu-n-04-08-16-32-120
+vendor_id: mitsubishielectric
+name: Rncpu(N=04/08/16/32/120)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:rncpu\(n\=04\/08\/16\/32\/120\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rncpu(n=04/08/16/32/120)
+  confidence: auto

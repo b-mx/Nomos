@@ -1,0 +1,10 @@
+id: axon-40-ultra-firmware
+vendor_id: zte
+name: Axon 40 Ultra Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:axon_40_ultra_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axon_40_ultra_firmware
+  confidence: auto

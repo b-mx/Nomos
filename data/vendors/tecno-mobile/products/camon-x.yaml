@@ -1,0 +1,10 @@
+id: camon-x
+vendor_id: tecno-mobile
+name: Camon X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tecno\-mobile:camon_x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: camon_x
+  confidence: auto

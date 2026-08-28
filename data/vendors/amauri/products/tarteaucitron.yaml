@@ -1,0 +1,14 @@
+id: tarteaucitron
+vendor_id: amauri
+name: tarteaucitron
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:amauri:tarteaucitronjs:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: tarteaucitron
+  confidence: auto
+- source: nvd
+  value: tarteaucitronjs
+  confidence: auto

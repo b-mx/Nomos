@@ -1,0 +1,10 @@
+id: rescuer-y7000
+vendor_id: lenovo
+name: Rescuer Y7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:rescuer_y7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rescuer_y7000
+  confidence: auto

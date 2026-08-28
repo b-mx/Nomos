@@ -1,0 +1,10 @@
+id: ce709a-firmware
+vendor_id: hp
+name: Ce709A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:ce709a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ce709a_firmware
+  confidence: auto

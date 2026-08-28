@@ -1,0 +1,10 @@
+id: remote-login-service
+vendor_id: canonical
+name: Remote-Login-Service
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:remote\-login\-service:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote-login-service
+  confidence: auto

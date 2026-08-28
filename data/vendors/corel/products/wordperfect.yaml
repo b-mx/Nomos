@@ -1,0 +1,10 @@
+id: wordperfect
+vendor_id: corel
+name: Wordperfect
+type: software
+tags: []
+cpe: cpe:2.3:a:corel:wordperfect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wordperfect
+  confidence: auto

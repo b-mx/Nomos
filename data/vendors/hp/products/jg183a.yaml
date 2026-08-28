@@ -1,0 +1,10 @@
+id: jg183a
+vendor_id: hp
+name: Jg183A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg183a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg183a
+  confidence: auto

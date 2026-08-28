@@ -1,0 +1,10 @@
+id: n100re
+vendor_id: totolink
+name: N100Re
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:n100re:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n100re
+  confidence: auto

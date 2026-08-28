@@ -1,0 +1,10 @@
+id: cloud-init
+vendor_id: canonical
+name: Cloud-Init
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:cloud\-init:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud-init
+  confidence: auto

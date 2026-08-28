@@ -1,0 +1,10 @@
+id: weblogic-workshop
+vendor_id: bea
+name: Weblogic Workshop
+type: software
+tags: []
+cpe: cpe:2.3:a:bea:weblogic_workshop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: weblogic_workshop
+  confidence: auto

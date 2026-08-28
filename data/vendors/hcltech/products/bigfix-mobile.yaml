@@ -1,0 +1,10 @@
+id: bigfix-mobile
+vendor_id: hcltech
+name: Bigfix Mobile
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:bigfix_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bigfix_mobile
+  confidence: auto

@@ -1,0 +1,10 @@
+id: kio
+vendor_id: kde
+name: Kio
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kio
+  confidence: auto

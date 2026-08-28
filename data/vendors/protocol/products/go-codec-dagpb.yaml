@@ -1,0 +1,10 @@
+id: go-codec-dagpb
+vendor_id: protocol
+name: Go-Codec-Dagpb
+type: software
+tags: []
+cpe: cpe:2.3:a:protocol:go\-codec\-dagpb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go-codec-dagpb
+  confidence: auto

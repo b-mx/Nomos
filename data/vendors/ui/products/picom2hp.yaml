@@ -1,0 +1,10 @@
+id: picom2hp
+vendor_id: ui
+name: Picom2Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:picom2hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: picom2hp
+  confidence: auto

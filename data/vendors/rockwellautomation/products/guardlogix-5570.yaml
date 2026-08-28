@@ -1,0 +1,10 @@
+id: guardlogix-5570
+vendor_id: rockwellautomation
+name: Guardlogix 5570
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:guardlogix_5570:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: guardlogix_5570
+  confidence: auto

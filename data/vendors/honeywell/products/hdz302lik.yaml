@@ -1,0 +1,10 @@
+id: hdz302lik
+vendor_id: honeywell
+name: Hdz302Lik
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:hdz302lik:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hdz302lik
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ts-s402-firmware
+vendor_id: trendnet
+name: Ts-S402 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:trendnet:ts\-s402_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts-s402_firmware
+  confidence: auto

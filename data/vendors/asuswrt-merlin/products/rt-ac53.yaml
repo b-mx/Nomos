@@ -1,0 +1,10 @@
+id: rt-ac53
+vendor_id: asuswrt-merlin
+name: Rt-Ac53
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-ac53:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-ac53
+  confidence: auto

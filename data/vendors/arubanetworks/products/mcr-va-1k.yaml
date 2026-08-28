@@ -1,0 +1,10 @@
+id: mcr-va-1k
+vendor_id: arubanetworks
+name: Mcr-Va-1K
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:mcr\-va\-1k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mcr-va-1k
+  confidence: auto

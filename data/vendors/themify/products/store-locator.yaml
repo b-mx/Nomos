@@ -1,0 +1,10 @@
+id: store-locator
+vendor_id: themify
+name: Store Locator
+type: software
+tags: []
+cpe: cpe:2.3:a:themify:store_locator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: store_locator
+  confidence: auto

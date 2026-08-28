@@ -1,0 +1,10 @@
+id: wrapper
+vendor_id: msi
+name: Wrapper
+type: software
+tags: []
+cpe: cpe:2.3:a:msi:wrapper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrapper
+  confidence: auto

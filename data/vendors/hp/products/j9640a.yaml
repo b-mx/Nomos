@@ -1,0 +1,10 @@
+id: j9640a
+vendor_id: hp
+name: J9640A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:j9640a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j9640a
+  confidence: auto

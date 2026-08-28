@@ -1,0 +1,10 @@
+id: hedex-lite
+vendor_id: huawei
+name: Hedex Lite
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:hedex_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hedex_lite
+  confidence: auto

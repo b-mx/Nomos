@@ -1,0 +1,10 @@
+id: ibrix-x9730
+vendor_id: hp
+name: Ibrix X9730
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:ibrix_x9730:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ibrix_x9730
+  confidence: auto

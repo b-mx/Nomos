@@ -1,0 +1,10 @@
+id: primepower
+vendor_id: fujitsu
+name: Primepower
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:primepower:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primepower
+  confidence: auto

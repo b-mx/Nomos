@@ -1,0 +1,10 @@
+id: alp-al00b
+vendor_id: huawei
+name: Alp-Al00B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:alp\-al00b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alp-al00b
+  confidence: auto

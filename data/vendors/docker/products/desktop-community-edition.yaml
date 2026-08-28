@@ -1,0 +1,9 @@
+id: desktop-community-edition
+vendor_id: docker
+name: Desktop Community Edition
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Desktop Community Edition
+  confidence: auto

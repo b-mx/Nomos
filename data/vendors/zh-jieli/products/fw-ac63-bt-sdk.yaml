@@ -1,0 +1,10 @@
+id: fw-ac63-bt-sdk
+vendor_id: zh-jieli
+name: Fw-Ac63 Bt Sdk
+type: os
+tags: []
+cpe: cpe:2.3:o:zh\-jieli:fw\-ac63_bt_sdk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fw-ac63_bt_sdk
+  confidence: auto

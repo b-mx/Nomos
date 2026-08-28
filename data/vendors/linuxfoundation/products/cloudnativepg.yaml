@@ -1,0 +1,10 @@
+id: cloudnativepg
+vendor_id: linuxfoundation
+name: Cloudnativepg
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:cloudnativepg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudnativepg
+  confidence: auto

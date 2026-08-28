@@ -1,0 +1,10 @@
+id: revolution-discovery-ct-firmware
+vendor_id: gehealthcare
+name: Revolution Discovery Ct Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:revolution_discovery_ct_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: revolution_discovery_ct_firmware
+  confidence: auto

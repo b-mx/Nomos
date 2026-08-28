@@ -1,0 +1,10 @@
+id: 200-g4-22-all-in-one
+vendor_id: hp
+name: 200 G4 22 All-In-One
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:200_g4_22_all\-in\-one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 200_g4_22_all-in-one
+  confidence: auto

@@ -1,0 +1,10 @@
+id: guestbook-script
+vendor_id: simplephpscripts
+name: Guestbook Script
+type: software
+tags: []
+cpe: cpe:2.3:a:simplephpscripts:guestbook_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: guestbook_script
+  confidence: auto

@@ -1,0 +1,10 @@
+id: clip
+vendor_id: teradek
+name: Clip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teradek:clip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clip
+  confidence: auto

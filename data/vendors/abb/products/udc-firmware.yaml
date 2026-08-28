@@ -1,0 +1,10 @@
+id: udc-firmware
+vendor_id: abb
+name: Udc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:udc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: udc_firmware
+  confidence: auto

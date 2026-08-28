@@ -1,0 +1,10 @@
+id: simple-task-list
+vendor_id: code-projects
+name: Simple Task List
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:simple_task_list:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_task_list
+  confidence: auto

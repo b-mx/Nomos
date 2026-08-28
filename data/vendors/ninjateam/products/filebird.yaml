@@ -1,0 +1,10 @@
+id: filebird
+vendor_id: ninjateam
+name: Filebird
+type: software
+tags: []
+cpe: cpe:2.3:a:ninjateam:filebird:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: filebird
+  confidence: auto

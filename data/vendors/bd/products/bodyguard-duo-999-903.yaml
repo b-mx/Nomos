@@ -1,0 +1,10 @@
+id: bodyguard-duo-999-903
+vendor_id: bd
+name: Bodyguard Duo 999-903
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:bodyguard_duo_999\-903:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bodyguard_duo_999-903
+  confidence: auto

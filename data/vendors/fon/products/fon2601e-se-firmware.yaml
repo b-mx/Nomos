@@ -1,0 +1,10 @@
+id: fon2601e-se-firmware
+vendor_id: fon
+name: Fon2601E-Se Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fon:fon2601e\-se_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fon2601e-se_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ap630
+vendor_id: extremenetworks
+name: Ap630
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap630:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap630
+  confidence: auto

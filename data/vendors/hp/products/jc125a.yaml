@@ -1,0 +1,10 @@
+id: jc125a
+vendor_id: hp
+name: Jc125A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc125a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc125a
+  confidence: auto

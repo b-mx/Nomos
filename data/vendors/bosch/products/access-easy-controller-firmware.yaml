@@ -1,0 +1,10 @@
+id: access-easy-controller-firmware
+vendor_id: bosch
+name: Access Easy Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:access_easy_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: access_easy_controller_firmware
+  confidence: auto

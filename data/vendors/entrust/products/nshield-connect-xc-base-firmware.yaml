@@ -1,0 +1,10 @@
+id: nshield-connect-xc-base-firmware
+vendor_id: entrust
+name: Nshield Connect Xc Base Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:entrust:nshield_connect_xc_base_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nshield_connect_xc_base_firmware
+  confidence: auto

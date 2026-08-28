@@ -1,0 +1,10 @@
+id: cx825-firmware
+vendor_id: lexmark
+name: Cx825 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:cx825_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx825_firmware
+  confidence: auto

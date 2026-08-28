@@ -1,0 +1,10 @@
+id: tb9330-e-firmware
+vendor_id: vivotek
+name: Tb9330-E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:tb9330\-e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tb9330-e_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: game-networking-sockets
+vendor_id: valvesoftware
+name: Game Networking Sockets
+type: software
+tags: []
+cpe: cpe:2.3:a:valvesoftware:game_networking_sockets:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: game_networking_sockets
+  confidence: auto

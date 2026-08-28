@@ -1,0 +1,10 @@
+id: x11dpg-ot-cpu
+vendor_id: supermicro
+name: X11Dpg-Ot-Cpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11dpg\-ot\-cpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dpg-ot-cpu
+  confidence: auto

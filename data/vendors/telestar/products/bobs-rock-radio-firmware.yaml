@@ -1,0 +1,10 @@
+id: bobs-rock-radio-firmware
+vendor_id: telestar
+name: Bobs Rock Radio Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:telestar:bobs_rock_radio_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bobs_rock_radio_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: oxfordpl-an10b-firmware
+vendor_id: huawei
+name: Oxfordpl-An10B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:oxfordpl\-an10b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oxfordpl-an10b_firmware
+  confidence: auto

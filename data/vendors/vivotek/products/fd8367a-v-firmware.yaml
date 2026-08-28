@@ -1,0 +1,10 @@
+id: fd8367a-v-firmware
+vendor_id: vivotek
+name: Fd8367A-V Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fd8367a\-v_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd8367a-v_firmware
+  confidence: auto

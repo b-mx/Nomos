@@ -1,0 +1,10 @@
+id: trutops-monitor
+vendor_id: trumpf
+name: Trutops Monitor
+type: software
+tags: []
+cpe: cpe:2.3:a:trumpf:trutops_monitor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: trutops_monitor
+  confidence: auto

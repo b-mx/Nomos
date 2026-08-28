@@ -1,0 +1,10 @@
+id: v730-13isk-firmware
+vendor_id: lenovo
+name: V730-13Isk Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:v730\-13isk_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v730-13isk_firmware
+  confidence: auto

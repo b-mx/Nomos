@@ -1,0 +1,10 @@
+id: ease44-firmware
+vendor_id: binatoneglobal
+name: Ease44 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:binatoneglobal:ease44_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ease44_firmware
+  confidence: auto

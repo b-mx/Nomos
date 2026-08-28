@@ -1,0 +1,10 @@
+id: view
+vendor_id: bentley
+name: View
+type: software
+tags: []
+cpe: cpe:2.3:a:bentley:view:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: view
+  confidence: auto

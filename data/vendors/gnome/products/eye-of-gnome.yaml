@@ -1,0 +1,10 @@
+id: eye-of-gnome
+vendor_id: gnome
+name: Eye Of Gnome
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:eye_of_gnome:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eye_of_gnome
+  confidence: auto

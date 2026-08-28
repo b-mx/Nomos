@@ -1,0 +1,10 @@
+id: x12dpd-a6m25
+vendor_id: supermicro
+name: X12Dpd-A6M25
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12dpd\-a6m25:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12dpd-a6m25
+  confidence: auto

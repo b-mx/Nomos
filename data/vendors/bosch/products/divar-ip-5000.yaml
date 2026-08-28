@@ -1,0 +1,10 @@
+id: divar-ip-5000
+vendor_id: bosch
+name: Divar Ip 5000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:divar_ip_5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: divar_ip_5000
+  confidence: auto

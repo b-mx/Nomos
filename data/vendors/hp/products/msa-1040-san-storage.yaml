@@ -1,0 +1,10 @@
+id: msa-1040-san-storage
+vendor_id: hp
+name: Msa 1040 San Storage
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:msa_1040_san_storage:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: msa_1040_san_storage
+  confidence: auto

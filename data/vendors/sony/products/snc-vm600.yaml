@@ -1,0 +1,10 @@
+id: snc-vm600
+vendor_id: sony
+name: Snc-Vm600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-vm600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-vm600
+  confidence: auto

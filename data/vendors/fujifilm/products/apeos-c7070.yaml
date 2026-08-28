@@ -1,0 +1,10 @@
+id: apeos-c7070
+vendor_id: fujifilm
+name: Apeos C7070
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_c7070:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_c7070
+  confidence: auto

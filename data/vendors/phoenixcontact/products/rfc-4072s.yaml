@@ -1,0 +1,10 @@
+id: rfc-4072s
+vendor_id: phoenixcontact
+name: Rfc 4072S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:rfc_4072s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rfc_4072s
+  confidence: auto

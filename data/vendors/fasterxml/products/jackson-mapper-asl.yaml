@@ -1,0 +1,10 @@
+id: jackson-mapper-asl
+vendor_id: fasterxml
+name: Jackson-Mapper-Asl
+type: software
+tags: []
+cpe: cpe:2.3:a:fasterxml:jackson\-mapper\-asl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jackson-mapper-asl
+  confidence: auto

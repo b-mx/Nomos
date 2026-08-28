@@ -1,0 +1,10 @@
+id: facschorus
+vendor_id: bd
+name: Facschorus
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:facschorus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: facschorus
+  confidence: auto

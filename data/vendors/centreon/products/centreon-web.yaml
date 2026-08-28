@@ -1,0 +1,10 @@
+id: centreon-web
+vendor_id: centreon
+name: Centreon Web
+type: software
+tags: []
+cpe: cpe:2.3:a:centreon:centreon_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centreon_web
+  confidence: auto

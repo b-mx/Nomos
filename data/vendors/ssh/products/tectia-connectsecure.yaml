@@ -1,0 +1,10 @@
+id: tectia-connectsecure
+vendor_id: ssh
+name: Tectia Connectsecure
+type: software
+tags: []
+cpe: cpe:2.3:a:ssh:tectia_connectsecure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tectia_connectsecure
+  confidence: auto

@@ -1,0 +1,10 @@
+id: hirschmann-eagle-one
+vendor_id: belden
+name: Hirschmann Eagle One
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:hirschmann_eagle_one:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_eagle_one
+  confidence: auto

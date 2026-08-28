@@ -1,0 +1,10 @@
+id: p5676-le
+vendor_id: axis
+name: P5676-Le
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:p5676\-le:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p5676-le
+  confidence: auto

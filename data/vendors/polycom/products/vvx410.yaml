@@ -1,0 +1,10 @@
+id: vvx410
+vendor_id: polycom
+name: Vvx410
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx410:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx410
+  confidence: auto

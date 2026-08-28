@@ -1,0 +1,10 @@
+id: nextscale-nx360-m5-bios
+vendor_id: lenovo
+name: Nextscale Nx360 M5 Bios
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:nextscale_nx360_m5_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextscale_nx360_m5_bios
+  confidence: auto

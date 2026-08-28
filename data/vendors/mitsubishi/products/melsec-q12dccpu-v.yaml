@@ -1,0 +1,10 @@
+id: melsec-q12dccpu-v
+vendor_id: mitsubishi
+name: Melsec Q12Dccpu-V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_q12dccpu\-v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q12dccpu-v
+  confidence: auto

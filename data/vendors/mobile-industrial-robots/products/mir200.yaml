@@ -1,0 +1,10 @@
+id: mir200
+vendor_id: mobile-industrial-robots
+name: Mir200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mobile\-industrial\-robots:mir200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mir200
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinksystem-dn8836-firmware
+vendor_id: lenovo
+name: Thinksystem Dn8836 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinksystem_dn8836_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinksystem_dn8836_firmware
+  confidence: auto

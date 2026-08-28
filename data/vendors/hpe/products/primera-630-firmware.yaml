@@ -1,0 +1,10 @@
+id: primera-630-firmware
+vendor_id: hpe
+name: Primera 630 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:primera_630_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: primera_630_firmware
+  confidence: auto

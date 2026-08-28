@@ -1,0 +1,10 @@
+id: baseboard-management-controller-h410c
+vendor_id: netapp
+name: Baseboard Management Controller H410C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:baseboard_management_controller_h410c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: baseboard_management_controller_h410c
+  confidence: auto

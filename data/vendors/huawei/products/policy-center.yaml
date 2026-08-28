@@ -1,0 +1,10 @@
+id: policy-center
+vendor_id: huawei
+name: Policy Center
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:policy_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: policy_center
+  confidence: auto

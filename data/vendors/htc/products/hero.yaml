@@ -1,0 +1,10 @@
+id: hero
+vendor_id: htc
+name: Hero
+type: hardware
+tags: []
+cpe: cpe:2.3:h:htc:hero:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hero
+  confidence: auto

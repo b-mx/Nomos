@@ -1,0 +1,10 @@
+id: tesla
+vendor_id: tesla
+name: Tesla
+type: software
+tags: []
+cpe: cpe:2.3:a:tesla:tesla:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tesla
+  confidence: auto

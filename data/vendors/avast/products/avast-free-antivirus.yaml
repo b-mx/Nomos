@@ -1,0 +1,10 @@
+id: avast-free-antivirus
+vendor_id: avast
+name: Avast Free Antivirus
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:avast_free_antivirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: avast_free_antivirus
+  confidence: auto

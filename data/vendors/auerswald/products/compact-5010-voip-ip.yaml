@@ -1,0 +1,10 @@
+id: compact-5010-voip-ip
+vendor_id: auerswald
+name: Compact 5010 Voip Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:auerswald:compact_5010_voip_ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: compact_5010_voip_ip
+  confidence: auto

@@ -1,0 +1,10 @@
+id: irisnext
+vendor_id: canon
+name: Irisnext
+type: software
+tags: []
+cpe: cpe:2.3:a:canon:irisnext:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: irisnext
+  confidence: auto

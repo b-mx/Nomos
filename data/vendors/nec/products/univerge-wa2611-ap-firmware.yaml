@@ -1,0 +1,10 @@
+id: univerge-wa2611-ap-firmware
+vendor_id: nec
+name: Univerge Wa2611-Ap Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nec:univerge_wa2611\-ap_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: univerge_wa2611-ap_firmware
+  confidence: auto

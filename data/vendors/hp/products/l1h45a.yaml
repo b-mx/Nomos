@@ -1,0 +1,10 @@
+id: l1h45a
+vendor_id: hp
+name: L1H45A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:l1h45a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l1h45a
+  confidence: auto

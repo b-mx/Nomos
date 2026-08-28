@@ -1,0 +1,10 @@
+id: pi-studio
+vendor_id: we-con
+name: Pi Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:we\-con:pi_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pi_studio
+  confidence: auto

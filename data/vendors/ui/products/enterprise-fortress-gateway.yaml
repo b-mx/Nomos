@@ -1,0 +1,10 @@
+id: enterprise-fortress-gateway
+vendor_id: ui
+name: Enterprise Fortress Gateway
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:enterprise_fortress_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_fortress_gateway
+  confidence: auto

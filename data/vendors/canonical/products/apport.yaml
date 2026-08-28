@@ -1,0 +1,10 @@
+id: apport
+vendor_id: canonical
+name: Apport
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:apport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apport
+  confidence: auto

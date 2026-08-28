@@ -1,0 +1,10 @@
+id: canna
+vendor_id: opensuse
+name: Canna
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:canna:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: canna
+  confidence: auto

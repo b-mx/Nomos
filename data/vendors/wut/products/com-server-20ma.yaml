@@ -1,0 +1,10 @@
+id: com-server-20ma
+vendor_id: wut
+name: Com-Server 20Ma
+type: hardware
+tags: []
+cpe: cpe:2.3:h:wut:com\-server_20ma:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: com-server_20ma
+  confidence: auto

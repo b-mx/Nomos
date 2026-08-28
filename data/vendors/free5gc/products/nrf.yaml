@@ -1,0 +1,10 @@
+id: nrf
+vendor_id: free5gc
+name: Nrf
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:nrf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nrf
+  confidence: auto

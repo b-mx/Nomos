@@ -1,0 +1,10 @@
+id: libmail-audit-perl
+vendor_id: debian
+name: Libmail-Audit-Perl
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:libmail\-audit\-perl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libmail-audit-perl
+  confidence: auto

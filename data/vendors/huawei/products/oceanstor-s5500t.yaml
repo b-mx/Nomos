@@ -1,0 +1,10 @@
+id: oceanstor-s5500t
+vendor_id: huawei
+name: Oceanstor S5500T
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:oceanstor_s5500t:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oceanstor_s5500t
+  confidence: auto

@@ -1,0 +1,10 @@
+id: operations-manager
+vendor_id: hp
+name: Operations Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:operations_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: operations_manager
+  confidence: auto

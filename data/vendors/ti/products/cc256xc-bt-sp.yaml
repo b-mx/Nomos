@@ -1,0 +1,10 @@
+id: cc256xc-bt-sp
+vendor_id: ti
+name: Cc256Xc-Bt-Sp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ti:cc256xc\-bt\-sp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cc256xc-bt-sp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: scopia-pathfinder-20-pts-firmware
+vendor_id: avaya
+name: Scopia Pathfinder 20 Pts Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:avaya:scopia_pathfinder_20_pts_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scopia_pathfinder_20_pts_firmware
+  confidence: auto

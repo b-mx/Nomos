@@ -1,0 +1,10 @@
+id: aspire-a315-22g
+vendor_id: acer
+name: Aspire A315-22G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:aspire_a315\-22g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_a315-22g
+  confidence: auto

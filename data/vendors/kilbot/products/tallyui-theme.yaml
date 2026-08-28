@@ -1,0 +1,10 @@
+id: tallyui-theme
+vendor_id: kilbot
+name: Tallyui/Theme
+type: software
+tags: []
+cpe: cpe:2.3:a:kilbot:tallyui\/theme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tallyui/theme
+  confidence: auto

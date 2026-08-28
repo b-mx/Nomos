@@ -1,0 +1,10 @@
+id: er-x-sfp
+vendor_id: ui
+name: Er-X-Sfp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:er\-x\-sfp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: er-x-sfp
+  confidence: auto

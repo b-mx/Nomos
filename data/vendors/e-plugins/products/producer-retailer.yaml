@@ -1,0 +1,10 @@
+id: producer-retailer
+vendor_id: e-plugins
+name: Producer-Retailer
+type: software
+tags: []
+cpe: cpe:2.3:a:e\-plugins:producer\-retailer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: producer-retailer
+  confidence: auto

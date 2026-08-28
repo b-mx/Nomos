@@ -1,0 +1,6 @@
+id: nvidia
+name: NVIDIA Driver
+aliases:
+- source: endoflife
+  value: nvidia
+  confidence: auto

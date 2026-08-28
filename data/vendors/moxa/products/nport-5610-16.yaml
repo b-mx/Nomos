@@ -1,0 +1,10 @@
+id: nport-5610-16
+vendor_id: moxa
+name: Nport 5610-16
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:nport_5610\-16:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nport_5610-16
+  confidence: auto

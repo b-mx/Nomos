@@ -1,0 +1,7 @@
+id: angular
+name: Angular
+cpe: cpe:2.3:*:angular:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: angular
+  confidence: auto

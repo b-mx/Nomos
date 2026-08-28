@@ -1,0 +1,10 @@
+id: modicon-m221
+vendor_id: se
+name: Modicon M221
+type: hardware
+tags: []
+cpe: cpe:2.3:h:se:modicon_m221:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modicon_m221
+  confidence: auto

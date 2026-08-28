@@ -1,0 +1,10 @@
+id: ruby-lsp
+vendor_id: shopify
+name: Ruby Lsp
+type: software
+tags: []
+cpe: cpe:2.3:a:shopify:ruby_lsp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruby_lsp
+  confidence: auto

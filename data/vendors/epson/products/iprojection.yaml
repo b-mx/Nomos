@@ -1,0 +1,10 @@
+id: iprojection
+vendor_id: epson
+name: Iprojection
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:iprojection:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iprojection
+  confidence: auto

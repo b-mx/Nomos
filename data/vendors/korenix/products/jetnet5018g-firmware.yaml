@@ -1,0 +1,10 @@
+id: jetnet5018g-firmware
+vendor_id: korenix
+name: Jetnet5018G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:korenix:jetnet5018g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jetnet5018g_firmware
+  confidence: auto

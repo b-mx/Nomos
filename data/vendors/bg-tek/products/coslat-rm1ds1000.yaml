@@ -1,0 +1,10 @@
+id: coslat-rm1ds1000
+vendor_id: bg-tek
+name: Coslat Rm1Ds1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bg\-tek:coslat_rm1ds1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: coslat_rm1ds1000
+  confidence: auto

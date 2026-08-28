@@ -1,0 +1,13 @@
+id: containerd
+vendor_id: linuxfoundation
+name: containerd
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:containerd:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: containerd
+  confidence: auto
+- source: nvd
+  value: containerd
+  confidence: auto

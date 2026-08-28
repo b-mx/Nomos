@@ -1,0 +1,9 @@
+id: xe-software
+vendor_id: cisco
+name: XE Software
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: XE Software
+  confidence: auto

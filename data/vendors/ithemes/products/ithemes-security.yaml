@@ -1,0 +1,10 @@
+id: ithemes-security
+vendor_id: ithemes
+name: Ithemes Security
+type: software
+tags: []
+cpe: cpe:2.3:a:ithemes:ithemes_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ithemes_security
+  confidence: auto

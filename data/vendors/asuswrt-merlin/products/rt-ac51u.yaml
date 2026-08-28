@@ -1,0 +1,10 @@
+id: rt-ac51u
+vendor_id: asuswrt-merlin
+name: Rt-Ac51U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:asuswrt\-merlin:rt\-ac51u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt-ac51u
+  confidence: auto

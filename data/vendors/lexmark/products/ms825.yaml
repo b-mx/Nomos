@@ -1,0 +1,10 @@
+id: ms825
+vendor_id: lexmark
+name: Ms825
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms825:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms825
+  confidence: auto

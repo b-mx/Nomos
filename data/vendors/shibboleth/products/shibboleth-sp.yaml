@@ -1,0 +1,10 @@
+id: shibboleth-sp
+vendor_id: shibboleth
+name: Shibboleth-Sp
+type: software
+tags: []
+cpe: cpe:2.3:a:shibboleth:shibboleth\-sp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shibboleth-sp
+  confidence: auto

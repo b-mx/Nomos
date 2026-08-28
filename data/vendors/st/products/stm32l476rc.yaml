@@ -1,0 +1,10 @@
+id: stm32l476rc
+vendor_id: st
+name: Stm32L476Rc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32l476rc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32l476rc
+  confidence: auto

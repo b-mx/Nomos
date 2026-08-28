@@ -1,0 +1,10 @@
+id: ngfw
+vendor_id: huawei
+name: Ngfw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ngfw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ngfw
+  confidence: auto

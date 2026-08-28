@@ -1,0 +1,10 @@
+id: zxone-19700-snpe
+vendor_id: zte
+name: Zxone 19700 Snpe
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxone_19700_snpe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxone_19700_snpe
+  confidence: auto

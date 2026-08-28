@@ -1,0 +1,10 @@
+id: command-center
+vendor_id: hp
+name: Command Center
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:command_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: command_center
+  confidence: auto

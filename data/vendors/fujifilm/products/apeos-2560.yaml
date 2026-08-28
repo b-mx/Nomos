@@ -1,0 +1,10 @@
+id: apeos-2560
+vendor_id: fujifilm
+name: Apeos 2560
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeos_2560:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeos_2560
+  confidence: auto

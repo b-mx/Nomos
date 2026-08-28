@@ -1,0 +1,10 @@
+id: cm-h-shark-bd
+vendor_id: huawei
+name: Cm-H-Shark-Bd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:cm\-h\-shark\-bd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cm-h-shark-bd
+  confidence: auto

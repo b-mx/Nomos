@@ -1,0 +1,10 @@
+id: officejet-6960-j7k33a-firmware
+vendor_id: hp
+name: Officejet 6960 J7K33A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:officejet_6960_j7k33a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_6960_j7k33a_firmware
+  confidence: auto

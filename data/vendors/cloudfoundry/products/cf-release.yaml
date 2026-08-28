@@ -1,0 +1,10 @@
+id: cf-release
+vendor_id: cloudfoundry
+name: Cf-Release
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudfoundry:cf\-release:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf-release
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mijia-inkjet-printer
+vendor_id: mi
+name: Mijia Inkjet Printer
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:mijia_inkjet_printer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mijia_inkjet_printer
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rt105p
+vendor_id: yamaha
+name: Rt105P
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rt105p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt105p
+  confidence: auto

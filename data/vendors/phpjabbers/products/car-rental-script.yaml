@@ -1,0 +1,10 @@
+id: car-rental-script
+vendor_id: phpjabbers
+name: Car Rental Script
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:car_rental_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: car_rental_script
+  confidence: auto

@@ -1,0 +1,10 @@
+id: r2c
+vendor_id: foscam
+name: R2C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:foscam:r2c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r2c
+  confidence: auto

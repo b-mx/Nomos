@@ -1,0 +1,10 @@
+id: lintian
+vendor_id: debian
+name: Lintian
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:lintian:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lintian
+  confidence: auto

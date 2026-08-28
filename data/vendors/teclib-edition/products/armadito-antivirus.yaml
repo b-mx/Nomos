@@ -1,0 +1,10 @@
+id: armadito-antivirus
+vendor_id: teclib-edition
+name: Armadito Antivirus
+type: software
+tags: []
+cpe: cpe:2.3:a:teclib\-edition:armadito_antivirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: armadito_antivirus
+  confidence: auto

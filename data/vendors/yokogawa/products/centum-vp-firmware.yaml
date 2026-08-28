@@ -1,0 +1,10 @@
+id: centum-vp-firmware
+vendor_id: yokogawa
+name: Centum Vp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yokogawa:centum_vp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centum_vp_firmware
+  confidence: auto

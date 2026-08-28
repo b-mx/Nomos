@@ -1,0 +1,10 @@
+id: facter
+vendor_id: puppet
+name: Facter
+type: software
+tags: []
+cpe: cpe:2.3:a:puppet:facter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: facter
+  confidence: auto

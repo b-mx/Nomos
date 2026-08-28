@@ -1,0 +1,10 @@
+id: legion-t7-34imz5-firmware
+vendor_id: lenovo
+name: Legion T7-34Imz5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_t7\-34imz5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_t7-34imz5_firmware
+  confidence: auto

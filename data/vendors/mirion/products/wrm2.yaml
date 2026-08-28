@@ -1,0 +1,10 @@
+id: wrm2
+vendor_id: mirion
+name: Wrm2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mirion:wrm2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrm2
+  confidence: auto

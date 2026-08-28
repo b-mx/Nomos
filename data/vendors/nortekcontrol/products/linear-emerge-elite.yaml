@@ -1,0 +1,10 @@
+id: linear-emerge-elite
+vendor_id: nortekcontrol
+name: Linear Emerge Elite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nortekcontrol:linear_emerge_elite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linear_emerge_elite
+  confidence: auto

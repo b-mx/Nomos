@@ -1,0 +1,10 @@
+id: udr-ja1604-firmware
+vendor_id: unimo
+name: Udr-Ja1604 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:unimo:udr\-ja1604_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: udr-ja1604_firmware
+  confidence: auto

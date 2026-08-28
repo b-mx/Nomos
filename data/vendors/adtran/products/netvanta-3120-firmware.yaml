@@ -1,0 +1,10 @@
+id: netvanta-3120-firmware
+vendor_id: adtran
+name: Netvanta 3120 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:adtran:netvanta_3120_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netvanta_3120_firmware
+  confidence: auto

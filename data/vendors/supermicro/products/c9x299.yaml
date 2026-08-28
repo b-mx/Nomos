@@ -1,0 +1,10 @@
+id: c9x299
+vendor_id: supermicro
+name: C9X299
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:c9x299:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c9x299
+  confidence: auto

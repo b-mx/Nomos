@@ -1,0 +1,10 @@
+id: x10ddwn-firmware
+vendor_id: supermicro
+name: X10Ddwn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10ddwn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10ddwn_firmware
+  confidence: auto

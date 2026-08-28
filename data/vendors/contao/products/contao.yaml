@@ -1,0 +1,13 @@
+id: contao
+vendor_id: contao
+name: Contao
+type: software
+tags: []
+cpe: cpe:2.3:a:contao:contao:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: contao
+  confidence: auto
+- source: nvd
+  value: contao
+  confidence: auto

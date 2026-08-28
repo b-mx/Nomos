@@ -1,0 +1,10 @@
+id: zbook-15-g3
+vendor_id: hp
+name: Zbook 15 G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:zbook_15_g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zbook_15_g3
+  confidence: auto

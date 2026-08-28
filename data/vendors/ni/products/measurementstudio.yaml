@@ -1,0 +1,10 @@
+id: measurementstudio
+vendor_id: ni
+name: Measurementstudio
+type: software
+tags: []
+cpe: cpe:2.3:a:ni:measurementstudio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: measurementstudio
+  confidence: auto

@@ -1,0 +1,10 @@
+id: apex-lynx
+vendor_id: gotrango
+name: Apex Lynx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gotrango:apex_lynx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apex_lynx
+  confidence: auto

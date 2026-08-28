@@ -1,0 +1,10 @@
+id: sp-213snw-taiwan
+vendor_id: ricoh
+name: Sp 213Snw (Taiwan)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_213snw_\(taiwan\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_213snw_(taiwan)
+  confidence: auto

@@ -1,0 +1,10 @@
+id: poly-studio-x30
+vendor_id: hp
+name: Poly Studio X30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:poly_studio_x30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: poly_studio_x30
+  confidence: auto

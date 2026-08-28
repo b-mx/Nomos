@@ -1,0 +1,7 @@
+id: esri
+name: Esri
+cpe: cpe:2.3:*:esri:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esri
+  confidence: auto

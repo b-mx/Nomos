@@ -1,0 +1,10 @@
+id: st500lt015-firmware
+vendor_id: seagate
+name: St500Lt015 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:seagate:st500lt015_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: st500lt015_firmware
+  confidence: auto

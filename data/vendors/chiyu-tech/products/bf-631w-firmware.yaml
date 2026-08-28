@@ -1,0 +1,10 @@
+id: bf-631w-firmware
+vendor_id: chiyu-tech
+name: Bf-631W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chiyu\-tech:bf\-631w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bf-631w_firmware
+  confidence: auto

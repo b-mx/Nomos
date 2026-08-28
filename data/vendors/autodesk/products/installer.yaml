@@ -1,0 +1,10 @@
+id: installer
+vendor_id: autodesk
+name: Installer
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:installer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: installer
+  confidence: auto

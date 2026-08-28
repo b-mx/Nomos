@@ -1,0 +1,7 @@
+id: alpinelinux
+name: Alpinelinux
+cpe: cpe:2.3:*:alpinelinux:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alpinelinux
+  confidence: auto

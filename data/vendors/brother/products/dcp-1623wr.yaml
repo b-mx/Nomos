@@ -1,0 +1,10 @@
+id: dcp-1623wr
+vendor_id: brother
+name: Dcp-1623Wr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:dcp\-1623wr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-1623wr
+  confidence: auto

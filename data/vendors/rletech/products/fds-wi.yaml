@@ -1,0 +1,10 @@
+id: fds-wi
+vendor_id: rletech
+name: Fds-Wi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rletech:fds\-wi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fds-wi
+  confidence: auto

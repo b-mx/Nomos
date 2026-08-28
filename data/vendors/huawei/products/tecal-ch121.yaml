@@ -1,0 +1,10 @@
+id: tecal-ch121
+vendor_id: huawei
+name: Tecal Ch121
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:tecal_ch121:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tecal_ch121
+  confidence: auto

@@ -1,0 +1,10 @@
+id: employee-record-management-system
+vendor_id: phpgurukul
+name: Employee Record Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:employee_record_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: employee_record_management_system
+  confidence: auto

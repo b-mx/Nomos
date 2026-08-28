@@ -1,0 +1,10 @@
+id: right-way
+vendor_id: themerex
+name: Right Way
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:right_way:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: right_way
+  confidence: auto

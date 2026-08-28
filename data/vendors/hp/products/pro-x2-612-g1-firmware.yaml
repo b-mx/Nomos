@@ -1,0 +1,10 @@
+id: pro-x2-612-g1-firmware
+vendor_id: hp
+name: Pro X2 612 G1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:pro_x2_612_g1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pro_x2_612_g1_firmware
+  confidence: auto

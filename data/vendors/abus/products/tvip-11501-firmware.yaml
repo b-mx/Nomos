@@ -1,0 +1,10 @@
+id: tvip-11501-firmware
+vendor_id: abus
+name: Tvip 11501 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abus:tvip_11501_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_11501_firmware
+  confidence: auto

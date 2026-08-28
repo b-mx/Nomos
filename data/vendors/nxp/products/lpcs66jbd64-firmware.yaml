@@ -1,0 +1,10 @@
+id: lpcs66jbd64-firmware
+vendor_id: nxp
+name: Lpcs66Jbd64 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:lpcs66jbd64_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lpcs66jbd64_firmware
+  confidence: auto

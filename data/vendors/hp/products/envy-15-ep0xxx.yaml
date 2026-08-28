@@ -1,0 +1,10 @@
+id: envy-15-ep0xxx
+vendor_id: hp
+name: Envy 15-Ep0Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_15\-ep0xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_15-ep0xxx
+  confidence: auto

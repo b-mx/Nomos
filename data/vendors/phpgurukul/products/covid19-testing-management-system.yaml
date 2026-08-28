@@ -1,0 +1,10 @@
+id: covid19-testing-management-system
+vendor_id: phpgurukul
+name: Covid19 Testing Management System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpgurukul:covid19_testing_management_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: covid19_testing_management_system
+  confidence: auto

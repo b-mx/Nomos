@@ -1,0 +1,10 @@
+id: bizviz
+vendor_id: iconics
+name: Bizviz
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:bizviz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizviz
+  confidence: auto

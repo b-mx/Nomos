@@ -1,0 +1,10 @@
+id: ls-1135mfp-firmware
+vendor_id: kyocera
+name: Ls-1135Mfp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kyocera:ls\-1135mfp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ls-1135mfp_firmware
+  confidence: auto

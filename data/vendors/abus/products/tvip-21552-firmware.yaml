@@ -1,0 +1,10 @@
+id: tvip-21552-firmware
+vendor_id: abus
+name: Tvip 21552 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abus:tvip_21552_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_21552_firmware
+  confidence: auto

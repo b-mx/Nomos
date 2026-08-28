@@ -1,0 +1,10 @@
+id: w1b31
+vendor_id: hp
+name: W1B31
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:w1b31:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: w1b31
+  confidence: auto

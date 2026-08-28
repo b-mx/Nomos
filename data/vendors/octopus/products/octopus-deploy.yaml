@@ -1,0 +1,10 @@
+id: octopus-deploy
+vendor_id: octopus
+name: Octopus Deploy
+type: software
+tags: []
+cpe: cpe:2.3:a:octopus:octopus_deploy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: octopus_deploy
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cs141-firmware
+vendor_id: abb
+name: Cs141 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:cs141_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cs141_firmware
+  confidence: auto

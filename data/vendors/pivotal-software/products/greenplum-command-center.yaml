@@ -1,0 +1,10 @@
+id: greenplum-command-center
+vendor_id: pivotal-software
+name: Greenplum Command Center
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:greenplum_command_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: greenplum_command_center
+  confidence: auto

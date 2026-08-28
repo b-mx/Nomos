@@ -1,0 +1,10 @@
+id: vx800i2-firmware
+vendor_id: valuehd
+name: Vx800I2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:valuehd:vx800i2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vx800i2_firmware
+  confidence: auto

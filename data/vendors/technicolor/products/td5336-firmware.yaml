@@ -1,0 +1,10 @@
+id: td5336-firmware
+vendor_id: technicolor
+name: Td5336 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:td5336_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: td5336_firmware
+  confidence: auto

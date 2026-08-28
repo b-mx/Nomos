@@ -1,0 +1,10 @@
+id: jd663b
+vendor_id: hp
+name: Jd663B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd663b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd663b
+  confidence: auto

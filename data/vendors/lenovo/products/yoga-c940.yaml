@@ -1,0 +1,10 @@
+id: yoga-c940
+vendor_id: lenovo
+name: Yoga C940
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:yoga_c940:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_c940
+  confidence: auto

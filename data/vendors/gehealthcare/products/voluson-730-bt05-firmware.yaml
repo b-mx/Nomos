@@ -1,0 +1,10 @@
+id: voluson-730-bt05-firmware
+vendor_id: gehealthcare
+name: Voluson 730 Bt05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:voluson_730_bt05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: voluson_730_bt05_firmware
+  confidence: auto

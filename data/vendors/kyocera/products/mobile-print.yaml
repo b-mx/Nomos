@@ -1,0 +1,10 @@
+id: mobile-print
+vendor_id: kyocera
+name: Mobile Print
+type: software
+tags: []
+cpe: cpe:2.3:a:kyocera:mobile_print:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mobile_print
+  confidence: auto

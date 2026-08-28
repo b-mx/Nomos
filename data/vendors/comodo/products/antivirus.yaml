@@ -1,0 +1,10 @@
+id: antivirus
+vendor_id: comodo
+name: Antivirus
+type: software
+tags: []
+cpe: cpe:2.3:a:comodo:antivirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: antivirus
+  confidence: auto

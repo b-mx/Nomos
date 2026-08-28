@@ -1,0 +1,10 @@
+id: qdx-6000-firmware
+vendor_id: polycom
+name: Qdx 6000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:polycom:qdx_6000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qdx_6000_firmware
+  confidence: auto

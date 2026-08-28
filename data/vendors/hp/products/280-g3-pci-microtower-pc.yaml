@@ -1,0 +1,10 @@
+id: 280-g3-pci-microtower-pc
+vendor_id: hp
+name: 280 G3 Pci Microtower Pc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:280_g3_pci_microtower_pc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 280_g3_pci_microtower_pc
+  confidence: auto

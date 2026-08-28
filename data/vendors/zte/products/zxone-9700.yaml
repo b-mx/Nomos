@@ -1,0 +1,10 @@
+id: zxone-9700
+vendor_id: zte
+name: Zxone 9700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxone_9700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxone_9700
+  confidence: auto

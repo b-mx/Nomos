@@ -1,0 +1,10 @@
+id: tr-71w-firmware
+vendor_id: tandd
+name: Tr-71W Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:tandd:tr\-71w_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tr-71w_firmware
+  confidence: auto

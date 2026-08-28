@@ -1,0 +1,10 @@
+id: vet-antivirus
+vendor_id: ca
+name: Vet Antivirus
+type: software
+tags: []
+cpe: cpe:2.3:a:ca:vet_antivirus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vet_antivirus
+  confidence: auto

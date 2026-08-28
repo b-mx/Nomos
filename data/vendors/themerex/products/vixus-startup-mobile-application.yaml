@@ -1,0 +1,10 @@
+id: vixus-startup-mobile-application
+vendor_id: themerex
+name: Vixus-Startup / Mobile Application
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:vixus\-startup_\/_mobile_application:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vixus-startup_/_mobile_application
+  confidence: auto

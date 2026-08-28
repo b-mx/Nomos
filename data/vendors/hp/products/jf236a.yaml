@@ -1,0 +1,10 @@
+id: jf236a
+vendor_id: hp
+name: Jf236A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jf236a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jf236a
+  confidence: auto

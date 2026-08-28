@@ -1,0 +1,10 @@
+id: gnome
+vendor_id: gnome
+name: Gnome
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gnome:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gnome
+  confidence: auto

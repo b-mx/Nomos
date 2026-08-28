@@ -1,0 +1,10 @@
+id: rh5885-v3-server
+vendor_id: huawei
+name: Rh5885 V3 Server
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rh5885_v3_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh5885_v3_server
+  confidence: auto

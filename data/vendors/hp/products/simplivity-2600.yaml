@@ -1,0 +1,10 @@
+id: simplivity-2600
+vendor_id: hp
+name: Simplivity 2600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:simplivity_2600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simplivity_2600
+  confidence: auto

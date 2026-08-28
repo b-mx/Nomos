@@ -1,0 +1,7 @@
+id: amd
+name: Amd
+cpe: cpe:2.3:*:amd:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amd
+  confidence: auto

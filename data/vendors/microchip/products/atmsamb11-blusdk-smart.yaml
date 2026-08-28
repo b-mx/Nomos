@@ -1,0 +1,10 @@
+id: atmsamb11-blusdk-smart
+vendor_id: microchip
+name: Atmsamb11 Blusdk Smart
+type: software
+tags: []
+cpe: cpe:2.3:a:microchip:atmsamb11_blusdk_smart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atmsamb11_blusdk_smart
+  confidence: auto

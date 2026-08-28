@@ -1,0 +1,10 @@
+id: toronto-tl10
+vendor_id: huawei
+name: Toronto-Tl10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:toronto\-tl10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: toronto-tl10
+  confidence: auto

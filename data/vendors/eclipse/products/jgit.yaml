@@ -1,0 +1,10 @@
+id: jgit
+vendor_id: eclipse
+name: Jgit
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:jgit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jgit
+  confidence: auto

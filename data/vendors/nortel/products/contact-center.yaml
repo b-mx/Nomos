@@ -1,0 +1,10 @@
+id: contact-center
+vendor_id: nortel
+name: Contact Center
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:contact_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contact_center
+  confidence: auto

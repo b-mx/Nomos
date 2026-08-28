@@ -1,0 +1,10 @@
+id: uflog5
+vendor_id: abb
+name: Uflog5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:uflog5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uflog5
+  confidence: auto

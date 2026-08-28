@@ -1,0 +1,10 @@
+id: dt2011
+vendor_id: rstinstruments
+name: Dt2011
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:dt2011:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dt2011
+  confidence: auto

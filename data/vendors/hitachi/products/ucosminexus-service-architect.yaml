@@ -1,0 +1,10 @@
+id: ucosminexus-service-architect
+vendor_id: hitachi
+name: Ucosminexus Service Architect
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:ucosminexus_service_architect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ucosminexus_service_architect
+  confidence: auto

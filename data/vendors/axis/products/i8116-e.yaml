@@ -1,0 +1,10 @@
+id: i8116-e
+vendor_id: axis
+name: I8116-E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:i8116\-e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i8116-e
+  confidence: auto

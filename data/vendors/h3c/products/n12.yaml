@@ -1,0 +1,10 @@
+id: n12
+vendor_id: h3c
+name: N12
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:n12:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n12
+  confidence: auto

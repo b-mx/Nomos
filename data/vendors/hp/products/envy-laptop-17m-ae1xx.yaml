@@ -1,0 +1,10 @@
+id: envy-laptop-17m-ae1xx
+vendor_id: hp
+name: Envy Laptop 17M-Ae1Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_laptop_17m\-ae1xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_laptop_17m-ae1xx
+  confidence: auto

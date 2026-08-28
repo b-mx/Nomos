@@ -1,0 +1,10 @@
+id: sitespring
+vendor_id: macromedia
+name: Sitespring
+type: software
+tags: []
+cpe: cpe:2.3:a:macromedia:sitespring:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sitespring
+  confidence: auto

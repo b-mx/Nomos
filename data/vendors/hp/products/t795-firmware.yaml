@@ -1,0 +1,10 @@
+id: t795-firmware
+vendor_id: hp
+name: T795 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:t795_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t795_firmware
+  confidence: auto

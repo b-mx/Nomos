@@ -1,0 +1,10 @@
+id: outdoor-design-and-living
+vendor_id: pocketmags
+name: Outdoor Design And Living
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:outdoor_design_and_living:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: outdoor_design_and_living
+  confidence: auto

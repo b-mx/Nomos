@@ -1,0 +1,10 @@
+id: veriton-m4620
+vendor_id: acer
+name: Veriton M4620
+type: hardware
+tags: []
+cpe: cpe:2.3:h:acer:veriton_m4620:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: veriton_m4620
+  confidence: auto

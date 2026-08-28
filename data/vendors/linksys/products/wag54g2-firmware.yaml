@@ -1,0 +1,10 @@
+id: wag54g2-firmware
+vendor_id: linksys
+name: Wag54G2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:wag54g2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wag54g2_firmware
+  confidence: auto

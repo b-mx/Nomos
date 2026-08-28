@@ -1,0 +1,10 @@
+id: playscape
+vendor_id: playscape
+name: Playscape
+type: software
+tags: []
+cpe: cpe:2.3:a:playscape:playscape:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: playscape
+  confidence: auto

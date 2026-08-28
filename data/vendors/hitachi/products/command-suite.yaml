@@ -1,0 +1,10 @@
+id: command-suite
+vendor_id: hitachi
+name: Command Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:command_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: command_suite
+  confidence: auto

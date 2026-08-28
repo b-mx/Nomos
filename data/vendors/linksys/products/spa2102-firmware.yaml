@@ -1,0 +1,10 @@
+id: spa2102-firmware
+vendor_id: linksys
+name: Spa2102 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:spa2102_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spa2102_firmware
+  confidence: auto

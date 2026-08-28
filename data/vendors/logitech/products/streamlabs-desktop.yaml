@@ -1,0 +1,10 @@
+id: streamlabs-desktop
+vendor_id: logitech
+name: Streamlabs Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:logitech:streamlabs_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: streamlabs_desktop
+  confidence: auto

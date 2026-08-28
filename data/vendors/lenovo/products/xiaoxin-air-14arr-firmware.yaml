@@ -1,0 +1,10 @@
+id: xiaoxin-air-14arr-firmware
+vendor_id: lenovo
+name: Xiaoxin Air 14Arr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:xiaoxin_air_14arr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xiaoxin_air_14arr_firmware
+  confidence: auto

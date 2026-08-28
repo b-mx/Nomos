@@ -1,0 +1,7 @@
+id: tesla
+name: Tesla
+cpe: cpe:2.3:*:tesla:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tesla
+  confidence: auto

@@ -1,0 +1,10 @@
+id: note-2
+vendor_id: mi
+name: Note 2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:note_2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: note_2
+  confidence: auto

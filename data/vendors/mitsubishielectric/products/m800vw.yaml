@@ -1,0 +1,10 @@
+id: m800vw
+vendor_id: mitsubishielectric
+name: M800Vw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:m800vw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m800vw
+  confidence: auto

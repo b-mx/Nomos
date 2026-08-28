@@ -1,0 +1,10 @@
+id: thinkpad-thinkpad-r14-gen-2-firmware
+vendor_id: lenovo
+name: Thinkpad Thinkpad R14 Gen 2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_thinkpad_r14_gen_2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_thinkpad_r14_gen_2_firmware
+  confidence: auto

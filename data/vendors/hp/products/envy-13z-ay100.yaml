@@ -1,0 +1,10 @@
+id: envy-13z-ay100
+vendor_id: hp
+name: Envy 13Z-Ay100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_13z\-ay100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_13z-ay100
+  confidence: auto

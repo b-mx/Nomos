@@ -1,0 +1,10 @@
+id: scsb-shelbyville-il-mobile-banking
+vendor_id: meafinancial
+name: Scsb Shelbyville Il Mobile Banking
+type: software
+tags: []
+cpe: cpe:2.3:a:meafinancial:scsb_shelbyville_il_mobile_banking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: scsb_shelbyville_il_mobile_banking
+  confidence: auto

@@ -1,0 +1,10 @@
+id: offirio-synergyware-printdirector
+vendor_id: epson
+name: Offirio Synergyware Printdirector
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:offirio_synergyware_printdirector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: offirio_synergyware_printdirector
+  confidence: auto

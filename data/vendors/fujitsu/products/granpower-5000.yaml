@@ -1,0 +1,10 @@
+id: granpower-5000
+vendor_id: fujitsu
+name: Granpower 5000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:granpower_5000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: granpower_5000
+  confidence: auto

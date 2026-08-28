@@ -1,0 +1,10 @@
+id: mail-server
+vendor_id: synology
+name: Mail Server
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:mail_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mail_server
+  confidence: auto

@@ -1,0 +1,10 @@
+id: c2s11v
+vendor_id: hp
+name: C2S11V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:c2s11v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c2s11v
+  confidence: auto

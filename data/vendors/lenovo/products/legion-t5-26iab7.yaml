@@ -1,0 +1,10 @@
+id: legion-t5-26iab7
+vendor_id: lenovo
+name: Legion T5 26Iab7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_t5_26iab7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_t5_26iab7
+  confidence: auto

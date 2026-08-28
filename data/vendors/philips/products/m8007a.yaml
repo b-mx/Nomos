@@ -1,0 +1,10 @@
+id: m8007a
+vendor_id: philips
+name: M8007A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:m8007a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m8007a
+  confidence: auto

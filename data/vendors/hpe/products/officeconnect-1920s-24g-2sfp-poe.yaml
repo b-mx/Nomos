@@ -1,0 +1,10 @@
+id: officeconnect-1920s-24g-2sfp-poe
+vendor_id: hpe
+name: Officeconnect 1920S 24G 2Sfp Poe+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:officeconnect_1920s_24g_2sfp_poe\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officeconnect_1920s_24g_2sfp_poe+
+  confidence: auto

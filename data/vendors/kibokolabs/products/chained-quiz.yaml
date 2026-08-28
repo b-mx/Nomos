@@ -1,0 +1,10 @@
+id: chained-quiz
+vendor_id: kibokolabs
+name: Chained Quiz
+type: software
+tags: []
+cpe: cpe:2.3:a:kibokolabs:chained_quiz:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chained_quiz
+  confidence: auto

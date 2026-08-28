@@ -1,0 +1,10 @@
+id: diskstation-manager
+vendor_id: synology
+name: Diskstation Manager
+type: os
+tags: []
+cpe: cpe:2.3:o:synology:diskstation_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: diskstation_manager
+  confidence: auto

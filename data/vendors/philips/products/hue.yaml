@@ -1,0 +1,10 @@
+id: hue
+vendor_id: philips
+name: Hue
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:hue:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hue
+  confidence: auto

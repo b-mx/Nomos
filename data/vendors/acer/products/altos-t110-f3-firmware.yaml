@@ -1,0 +1,10 @@
+id: altos-t110-f3-firmware
+vendor_id: acer
+name: Altos T110 F3 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:altos_t110_f3_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: altos_t110_f3_firmware
+  confidence: auto

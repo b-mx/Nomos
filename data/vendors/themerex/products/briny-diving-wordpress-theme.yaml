@@ -1,0 +1,10 @@
+id: briny-diving-wordpress-theme
+vendor_id: themerex
+name: Briny-Diving Wordpress Theme
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:briny\-diving_wordpress_theme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: briny-diving_wordpress_theme
+  confidence: auto

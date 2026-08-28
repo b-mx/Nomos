@@ -1,0 +1,10 @@
+id: tv-ip651wi
+vendor_id: trendnet
+name: Tv-Ip651Wi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tv\-ip651wi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv-ip651wi
+  confidence: auto

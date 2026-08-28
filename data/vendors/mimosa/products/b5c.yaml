@@ -1,0 +1,10 @@
+id: b5c
+vendor_id: mimosa
+name: B5C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mimosa:b5c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b5c
+  confidence: auto

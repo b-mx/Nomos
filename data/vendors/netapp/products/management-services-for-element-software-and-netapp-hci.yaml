@@ -1,0 +1,10 @@
+id: management-services-for-element-software-and-netapp-hci
+vendor_id: netapp
+name: Management Services For Element Software And Netapp Hci
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:management_services_for_element_software_and_netapp_hci:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: management_services_for_element_software_and_netapp_hci
+  confidence: auto

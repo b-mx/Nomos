@@ -1,0 +1,10 @@
+id: m5
+vendor_id: ui
+name: M5
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:m5:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m5
+  confidence: auto

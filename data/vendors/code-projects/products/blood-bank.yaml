@@ -1,0 +1,10 @@
+id: blood-bank
+vendor_id: code-projects
+name: Blood Bank
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:blood_bank:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blood_bank
+  confidence: auto

@@ -1,0 +1,10 @@
+id: storevirtual-4330
+vendor_id: hp
+name: Storevirtual 4330
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:storevirtual_4330:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storevirtual_4330
+  confidence: auto

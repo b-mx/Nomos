@@ -1,0 +1,10 @@
+id: suse-audit-log-keeper
+vendor_id: novell
+name: Suse Audit Log Keeper
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:suse_audit_log_keeper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: suse_audit_log_keeper
+  confidence: auto

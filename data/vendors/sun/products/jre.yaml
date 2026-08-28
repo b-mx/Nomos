@@ -1,0 +1,10 @@
+id: jre
+vendor_id: sun
+name: Jre
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:jre:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jre
+  confidence: auto

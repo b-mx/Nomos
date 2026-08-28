@@ -1,0 +1,7 @@
+id: fluxcd
+name: Fluxcd
+cpe: cpe:2.3:*:fluxcd:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fluxcd
+  confidence: auto

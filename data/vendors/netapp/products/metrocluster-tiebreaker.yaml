@@ -1,0 +1,10 @@
+id: metrocluster-tiebreaker
+vendor_id: netapp
+name: Metrocluster Tiebreaker
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:metrocluster_tiebreaker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: metrocluster_tiebreaker
+  confidence: auto

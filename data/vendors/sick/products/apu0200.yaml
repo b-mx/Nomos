@@ -1,0 +1,10 @@
+id: apu0200
+vendor_id: sick
+name: Apu0200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:apu0200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apu0200
+  confidence: auto

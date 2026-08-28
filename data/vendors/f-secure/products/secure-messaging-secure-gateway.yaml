@@ -1,0 +1,10 @@
+id: secure-messaging-secure-gateway
+vendor_id: f-secure
+name: Secure Messaging Secure Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:f\-secure:secure_messaging_secure_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_messaging_secure_gateway
+  confidence: auto

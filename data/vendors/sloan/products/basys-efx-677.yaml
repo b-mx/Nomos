@@ -1,0 +1,10 @@
+id: basys-efx-677
+vendor_id: sloan
+name: Basys Efx-677
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:basys_efx\-677:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: basys_efx-677
+  confidence: auto

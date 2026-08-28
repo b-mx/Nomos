@@ -1,0 +1,10 @@
+id: videocall
+vendor_id: logitech
+name: Videocall
+type: software
+tags: []
+cpe: cpe:2.3:a:logitech:videocall:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: videocall
+  confidence: auto

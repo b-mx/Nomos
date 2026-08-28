@@ -1,0 +1,10 @@
+id: fl-mguard-1102-firmware
+vendor_id: phoenixcontact
+name: Fl Mguard 1102 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:fl_mguard_1102_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_1102_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: m720vw
+vendor_id: mitsubishielectric
+name: M720Vw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:m720vw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m720vw
+  confidence: auto

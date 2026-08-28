@@ -1,0 +1,10 @@
+id: multilin-sr-745-transformer-protection-relay
+vendor_id: ge
+name: Multilin Sr 745 Transformer Protection Relay
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:multilin_sr_745_transformer_protection_relay:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilin_sr_745_transformer_protection_relay
+  confidence: auto

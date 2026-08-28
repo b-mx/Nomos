@@ -1,0 +1,10 @@
+id: http2
+vendor_id: golang
+name: Http2
+type: software
+tags: []
+cpe: cpe:2.3:a:golang:http2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: http2
+  confidence: auto

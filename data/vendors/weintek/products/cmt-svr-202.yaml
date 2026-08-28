@@ -1,0 +1,10 @@
+id: cmt-svr-202
+vendor_id: weintek
+name: Cmt-Svr-202
+type: hardware
+tags: []
+cpe: cpe:2.3:h:weintek:cmt\-svr\-202:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cmt-svr-202
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wap610n-firmware
+vendor_id: linksys
+name: Wap610N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:wap610n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wap610n_firmware
+  confidence: auto

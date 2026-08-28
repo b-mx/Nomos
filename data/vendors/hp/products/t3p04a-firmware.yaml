@@ -1,0 +1,10 @@
+id: t3p04a-firmware
+vendor_id: hp
+name: T3P04A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:t3p04a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t3p04a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: rdoc
+vendor_id: ruby-lang
+name: Rdoc
+type: software
+tags: []
+cpe: cpe:2.3:a:ruby\-lang:rdoc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rdoc
+  confidence: auto

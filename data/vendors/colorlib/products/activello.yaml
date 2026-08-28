@@ -1,0 +1,10 @@
+id: activello
+vendor_id: colorlib
+name: Activello
+type: software
+tags: []
+cpe: cpe:2.3:a:colorlib:activello:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: activello
+  confidence: auto

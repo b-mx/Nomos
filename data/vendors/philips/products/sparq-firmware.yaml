@@ -1,0 +1,10 @@
+id: sparq-firmware
+vendor_id: philips
+name: Sparq Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:philips:sparq_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sparq_firmware
+  confidence: auto

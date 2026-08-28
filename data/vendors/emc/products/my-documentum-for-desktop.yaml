@@ -1,0 +1,10 @@
+id: my-documentum-for-desktop
+vendor_id: emc
+name: My Documentum For Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:my_documentum_for_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: my_documentum_for_desktop
+  confidence: auto

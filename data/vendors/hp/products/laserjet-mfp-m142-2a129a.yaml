@@ -1,0 +1,10 @@
+id: laserjet-mfp-m142-2a129a
+vendor_id: hp
+name: Laserjet Mfp M142 2A129A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_mfp_m142_2a129a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_mfp_m142_2a129a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xc9255
+vendor_id: lexmark
+name: Xc9255
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:xc9255:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xc9255
+  confidence: auto

@@ -1,0 +1,10 @@
+id: valleylab-exchange-client
+vendor_id: medtronic
+name: Valleylab Exchange Client
+type: software
+tags: []
+cpe: cpe:2.3:a:medtronic:valleylab_exchange_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: valleylab_exchange_client
+  confidence: auto

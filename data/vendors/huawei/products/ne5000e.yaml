@@ -1,0 +1,10 @@
+id: ne5000e
+vendor_id: huawei
+name: Ne5000E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ne5000e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ne5000e
+  confidence: auto

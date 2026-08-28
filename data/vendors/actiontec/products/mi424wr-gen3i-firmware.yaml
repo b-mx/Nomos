@@ -1,0 +1,10 @@
+id: mi424wr-gen3i-firmware
+vendor_id: actiontec
+name: Mi424Wr-Gen3I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:actiontec:mi424wr\-gen3i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mi424wr-gen3i_firmware
+  confidence: auto

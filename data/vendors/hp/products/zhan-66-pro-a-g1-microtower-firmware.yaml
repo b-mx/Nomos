@@ -1,0 +1,10 @@
+id: zhan-66-pro-a-g1-microtower-firmware
+vendor_id: hp
+name: Zhan 66 Pro A G1 Microtower Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zhan_66_pro_a_g1_microtower_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zhan_66_pro_a_g1_microtower_firmware
+  confidence: auto

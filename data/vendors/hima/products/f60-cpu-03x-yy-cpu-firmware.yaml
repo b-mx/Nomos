@@ -1,0 +1,10 @@
+id: f60-cpu-03x-yy-cpu-firmware
+vendor_id: hima
+name: F60 Cpu 03X Yy (Cpu) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hima:f60_cpu_03x_yy_\(cpu\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f60_cpu_03x_yy_(cpu)_firmware
+  confidence: auto

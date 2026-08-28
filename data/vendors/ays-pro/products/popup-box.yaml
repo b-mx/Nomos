@@ -1,0 +1,10 @@
+id: popup-box
+vendor_id: ays-pro
+name: Popup Box
+type: software
+tags: []
+cpe: cpe:2.3:a:ays\-pro:popup_box:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: popup_box
+  confidence: auto

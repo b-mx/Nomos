@@ -1,0 +1,10 @@
+id: rstar-rtu-host
+vendor_id: rstinstruments
+name: Rstar Rtu Host
+type: os
+tags: []
+cpe: cpe:2.3:o:rstinstruments:rstar_rtu_host:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rstar_rtu_host
+  confidence: auto

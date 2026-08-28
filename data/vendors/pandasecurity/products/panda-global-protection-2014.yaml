@@ -1,0 +1,10 @@
+id: panda-global-protection-2014
+vendor_id: pandasecurity
+name: Panda Global Protection 2014
+type: software
+tags: []
+cpe: cpe:2.3:a:pandasecurity:panda_global_protection_2014:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: panda_global_protection_2014
+  confidence: auto

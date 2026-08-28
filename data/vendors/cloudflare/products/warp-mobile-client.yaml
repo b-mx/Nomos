@@ -1,0 +1,10 @@
+id: warp-mobile-client
+vendor_id: cloudflare
+name: Warp Mobile Client
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:warp_mobile_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: warp_mobile_client
+  confidence: auto

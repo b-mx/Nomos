@@ -1,0 +1,10 @@
+id: rtu520-firmware
+vendor_id: hitachienergy
+name: Rtu520 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitachienergy:rtu520_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtu520_firmware
+  confidence: auto

@@ -1,0 +1,7 @@
+id: memcached
+name: Memcached
+cpe: cpe:2.3:*:memcached:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: memcached
+  confidence: auto

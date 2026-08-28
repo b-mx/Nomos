@@ -1,0 +1,10 @@
+id: melsec-l26cpu-p-bt
+vendor_id: mitsubishi
+name: Melsec L26Cpu-(P)Bt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_l26cpu\-\(p\)bt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_l26cpu-(p)bt
+  confidence: auto

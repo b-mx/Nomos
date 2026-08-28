@@ -1,0 +1,10 @@
+id: proliant-e910
+vendor_id: hp
+name: Proliant E910
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_e910:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_e910
+  confidence: auto

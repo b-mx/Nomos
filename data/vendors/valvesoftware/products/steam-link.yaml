@@ -1,0 +1,10 @@
+id: steam-link
+vendor_id: valvesoftware
+name: Steam Link
+type: hardware
+tags: []
+cpe: cpe:2.3:h:valvesoftware:steam_link:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: steam_link
+  confidence: auto

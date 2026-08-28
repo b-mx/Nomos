@@ -1,0 +1,10 @@
+id: foxit-studio-photo
+vendor_id: foxitsoftware
+name: Foxit Studio Photo
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:foxit_studio_photo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foxit_studio_photo
+  confidence: auto

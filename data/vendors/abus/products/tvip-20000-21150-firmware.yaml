@@ -1,0 +1,10 @@
+id: tvip-20000-21150-firmware
+vendor_id: abus
+name: Tvip 20000-21150 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abus:tvip_20000\-21150_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_20000-21150_firmware
+  confidence: auto

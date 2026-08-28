@@ -1,0 +1,10 @@
+id: athlon-300u
+vendor_id: amd
+name: Athlon 300U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_300u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_300u
+  confidence: auto

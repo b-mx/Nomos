@@ -1,0 +1,10 @@
+id: cg-105s-firmware
+vendor_id: chuango
+name: Cg-105S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chuango:cg\-105s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cg-105s_firmware
+  confidence: auto

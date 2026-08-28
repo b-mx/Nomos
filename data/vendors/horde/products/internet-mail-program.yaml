@@ -1,0 +1,10 @@
+id: internet-mail-program
+vendor_id: horde
+name: Internet Mail Program
+type: software
+tags: []
+cpe: cpe:2.3:a:horde:internet_mail_program:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet_mail_program
+  confidence: auto

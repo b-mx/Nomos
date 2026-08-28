@@ -1,0 +1,10 @@
+id: redmi-6a
+vendor_id: mi
+name: Redmi 6A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mi:redmi_6a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: redmi_6a
+  confidence: auto

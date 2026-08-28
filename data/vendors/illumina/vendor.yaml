@@ -1,0 +1,7 @@
+id: illumina
+name: Illumina
+cpe: cpe:2.3:*:illumina:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: illumina
+  confidence: auto

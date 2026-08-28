@@ -1,0 +1,10 @@
+id: frontend-file-manager
+vendor_id: najeebmedia
+name: Frontend File Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:najeebmedia:frontend_file_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frontend_file_manager
+  confidence: auto

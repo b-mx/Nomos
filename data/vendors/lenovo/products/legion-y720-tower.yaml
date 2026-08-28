@@ -1,0 +1,10 @@
+id: legion-y720-tower
+vendor_id: lenovo
+name: Legion Y720 Tower
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:legion_y720_tower:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y720_tower
+  confidence: auto

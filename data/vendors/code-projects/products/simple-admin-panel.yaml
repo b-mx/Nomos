@@ -1,0 +1,10 @@
+id: simple-admin-panel
+vendor_id: code-projects
+name: Simple Admin Panel
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:simple_admin_panel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_admin_panel
+  confidence: auto

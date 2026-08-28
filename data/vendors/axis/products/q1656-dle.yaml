@@ -1,0 +1,10 @@
+id: q1656-dle
+vendor_id: axis
+name: Q1656-Dle
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:q1656\-dle:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: q1656-dle
+  confidence: auto

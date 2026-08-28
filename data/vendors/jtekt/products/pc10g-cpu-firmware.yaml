@@ -1,0 +1,10 @@
+id: pc10g-cpu-firmware
+vendor_id: jtekt
+name: Pc10G-Cpu Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:jtekt:pc10g\-cpu_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc10g-cpu_firmware
+  confidence: auto

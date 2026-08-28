@@ -1,0 +1,10 @@
+id: most
+vendor_id: debian
+name: Most
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:most:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: most
+  confidence: auto

@@ -1,0 +1,10 @@
+id: labview-nxg
+vendor_id: emerson
+name: Labview Nxg
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:labview_nxg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: labview_nxg
+  confidence: auto

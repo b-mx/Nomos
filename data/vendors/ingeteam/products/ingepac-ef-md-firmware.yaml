@@ -1,0 +1,10 @@
+id: ingepac-ef-md-firmware
+vendor_id: ingeteam
+name: Ingepac Ef Md Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ingeteam:ingepac_ef_md_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ingepac_ef_md_firmware
+  confidence: auto

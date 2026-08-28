@@ -1,0 +1,10 @@
+id: optodatalink
+vendor_id: opto22
+name: Optodatalink
+type: software
+tags: []
+cpe: cpe:2.3:a:opto22:optodatalink:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optodatalink
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xnv-6123r-firmware
+vendor_id: hanwhavision
+name: Xnv-6123R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:xnv\-6123r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xnv-6123r_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pricing-table-by-supsystic
+vendor_id: supsystic
+name: Pricing Table By Supsystic
+type: software
+tags: []
+cpe: cpe:2.3:a:supsystic:pricing_table_by_supsystic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pricing_table_by_supsystic
+  confidence: auto

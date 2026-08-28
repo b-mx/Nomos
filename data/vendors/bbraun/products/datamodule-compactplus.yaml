@@ -1,0 +1,10 @@
+id: datamodule-compactplus
+vendor_id: bbraun
+name: Datamodule Compactplus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bbraun:datamodule_compactplus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: datamodule_compactplus
+  confidence: auto

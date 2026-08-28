@@ -1,0 +1,10 @@
+id: ms610dn-firmware
+vendor_id: lexmark
+name: Ms610Dn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:ms610dn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms610dn_firmware
+  confidence: auto

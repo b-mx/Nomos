@@ -1,0 +1,10 @@
+id: thinkpad-p1-20mx
+vendor_id: lenovo
+name: Thinkpad P1 (20Mx)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_p1_\(20mx\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_p1_(20mx)
+  confidence: auto

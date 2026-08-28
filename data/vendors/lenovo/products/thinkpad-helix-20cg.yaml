@@ -1,0 +1,10 @@
+id: thinkpad-helix-20cg
+vendor_id: lenovo
+name: Thinkpad Helix 20Cg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_helix_20cg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_helix_20cg
+  confidence: auto

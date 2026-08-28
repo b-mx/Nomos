@@ -1,0 +1,10 @@
+id: ttplayer
+vendor_id: baidu
+name: Ttplayer
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:ttplayer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ttplayer
+  confidence: auto

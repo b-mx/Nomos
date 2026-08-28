@@ -1,0 +1,13 @@
+id: rust
+vendor_id: rust-lang
+name: Rust
+type: library
+tags: []
+cpe: cpe:2.3:a:rust\-lang:rust:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: rust
+  confidence: auto
+- source: nvd
+  value: rust
+  confidence: auto

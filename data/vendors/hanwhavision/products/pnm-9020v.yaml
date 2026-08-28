@@ -1,0 +1,10 @@
+id: pnm-9020v
+vendor_id: hanwhavision
+name: Pnm-9020V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hanwhavision:pnm\-9020v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pnm-9020v
+  confidence: auto

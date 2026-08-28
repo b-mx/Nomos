@@ -1,0 +1,10 @@
+id: online-eyewear-shop
+vendor_id: oretnom23
+name: Online Eyewear Shop
+type: software
+tags: []
+cpe: cpe:2.3:a:oretnom23:online_eyewear_shop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_eyewear_shop
+  confidence: auto

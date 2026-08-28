@@ -1,0 +1,10 @@
+id: lookup-server
+vendor_id: nextcloud
+name: Lookup-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:lookup\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lookup-server
+  confidence: auto

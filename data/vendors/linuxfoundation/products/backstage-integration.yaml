@@ -1,0 +1,10 @@
+id: backstage-integration
+vendor_id: linuxfoundation
+name: Backstage/Integration
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:backstage\/integration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backstage/integration
+  confidence: auto

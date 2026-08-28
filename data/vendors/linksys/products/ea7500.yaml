@@ -1,0 +1,10 @@
+id: ea7500
+vendor_id: linksys
+name: Ea7500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:ea7500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ea7500
+  confidence: auto

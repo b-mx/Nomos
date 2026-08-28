@@ -1,0 +1,10 @@
+id: digital-sender-9250c
+vendor_id: hp
+name: Digital Sender 9250C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:digital_sender_9250c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: digital_sender_9250c
+  confidence: auto

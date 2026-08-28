@@ -1,0 +1,10 @@
+id: ar169ew
+vendor_id: huawei
+name: Ar169Ew
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:ar169ew:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ar169ew
+  confidence: auto

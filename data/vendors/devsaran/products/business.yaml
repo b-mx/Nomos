@@ -1,0 +1,10 @@
+id: business
+vendor_id: devsaran
+name: Business
+type: software
+tags: []
+cpe: cpe:2.3:a:devsaran:business:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business
+  confidence: auto

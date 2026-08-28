@@ -1,0 +1,10 @@
+id: xp-4105
+vendor_id: epson
+name: Xp-4105
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:xp\-4105:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp-4105
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tm-c3500-firmware
+vendor_id: epson
+name: Tm-C3500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:tm\-c3500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-c3500_firmware
+  confidence: auto

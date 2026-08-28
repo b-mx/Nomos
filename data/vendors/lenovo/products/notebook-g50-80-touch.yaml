@@ -1,0 +1,10 @@
+id: notebook-g50-80-touch
+vendor_id: lenovo
+name: Notebook G50 80 Touch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:notebook_g50_80_touch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: notebook_g50_80_touch
+  confidence: auto

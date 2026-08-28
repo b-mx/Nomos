@@ -1,0 +1,10 @@
+id: mt46
+vendor_id: hp
+name: Mt46
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:mt46:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mt46
+  confidence: auto

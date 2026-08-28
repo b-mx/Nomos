@@ -1,0 +1,10 @@
+id: tools
+vendor_id: irfanview
+name: Tools
+type: software
+tags: []
+cpe: cpe:2.3:a:irfanview:tools:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tools
+  confidence: auto

@@ -1,0 +1,10 @@
+id: agentless-management
+vendor_id: hpe
+name: Agentless Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:agentless_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: agentless_management
+  confidence: auto

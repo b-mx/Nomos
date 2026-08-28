@@ -1,0 +1,10 @@
+id: ex2100e-firmware
+vendor_id: ge
+name: Ex2100E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:ex2100e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex2100e_firmware
+  confidence: auto

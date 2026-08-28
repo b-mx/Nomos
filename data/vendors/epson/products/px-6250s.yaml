@@ -1,0 +1,10 @@
+id: px-6250s
+vendor_id: epson
+name: Px-6250S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-6250s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-6250s
+  confidence: auto

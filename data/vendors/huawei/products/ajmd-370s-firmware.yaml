@@ -1,0 +1,10 @@
+id: ajmd-370s-firmware
+vendor_id: huawei
+name: Ajmd-370S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ajmd\-370s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ajmd-370s_firmware
+  confidence: auto

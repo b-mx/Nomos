@@ -1,0 +1,10 @@
+id: rg-eg350-firmware
+vendor_id: ruijienetworks
+name: Rg-Eg350 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ruijienetworks:rg\-eg350_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-eg350_firmware
+  confidence: auto

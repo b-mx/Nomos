@@ -1,0 +1,10 @@
+id: giga-lynx
+vendor_id: gotrango
+name: Giga Lynx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gotrango:giga_lynx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: giga_lynx
+  confidence: auto

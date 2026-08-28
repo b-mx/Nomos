@@ -1,0 +1,10 @@
+id: argent-office
+vendor_id: avaya
+name: Argent Office
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:argent_office:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: argent_office
+  confidence: auto

@@ -1,0 +1,10 @@
+id: thinkpad-x270-skl
+vendor_id: lenovo
+name: Thinkpad X270 Skl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_x270_skl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x270_skl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: insight-management-agent
+vendor_id: compaq
+name: Insight Management Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:insight_management_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_management_agent
+  confidence: auto

@@ -1,0 +1,10 @@
+id: workplace
+vendor_id: zoom
+name: Workplace
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:workplace:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workplace
+  confidence: auto

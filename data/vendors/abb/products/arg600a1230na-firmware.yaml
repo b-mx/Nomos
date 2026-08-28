@@ -1,0 +1,10 @@
+id: arg600a1230na-firmware
+vendor_id: abb
+name: Arg600A1230Na Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:arg600a1230na_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arg600a1230na_firmware
+  confidence: auto

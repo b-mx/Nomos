@@ -1,0 +1,10 @@
+id: creativity-suite
+vendor_id: epson
+name: Creativity Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:creativity_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: creativity_suite
+  confidence: auto

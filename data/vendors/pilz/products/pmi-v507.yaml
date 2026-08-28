@@ -1,0 +1,10 @@
+id: pmi-v507
+vendor_id: pilz
+name: Pmi V507
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pilz:pmi_v507:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pmi_v507
+  confidence: auto

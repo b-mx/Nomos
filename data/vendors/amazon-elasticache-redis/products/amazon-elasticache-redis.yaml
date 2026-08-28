@@ -1,0 +1,10 @@
+id: amazon-elasticache-redis
+vendor_id: amazon-elasticache-redis
+name: Amazon ElastiCache for Redis OSS
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: amazon-elasticache-redis
+  confidence: auto

@@ -1,0 +1,10 @@
+id: petrace-800-firmware
+vendor_id: gehealthcare
+name: Petrace 800 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:petrace_800_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: petrace_800_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: multilink-firmware
+vendor_id: ge
+name: Multilink Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:multilink_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: multilink_firmware
+  confidence: auto

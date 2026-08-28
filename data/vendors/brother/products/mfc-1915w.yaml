@@ -1,0 +1,10 @@
+id: mfc-1915w
+vendor_id: brother
+name: Mfc-1915W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-1915w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-1915w
+  confidence: auto

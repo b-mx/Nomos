@@ -1,0 +1,10 @@
+id: tourimo
+vendor_id: ancorathemes
+name: Tourimo
+type: software
+tags: []
+cpe: cpe:2.3:a:ancorathemes:tourimo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tourimo
+  confidence: auto

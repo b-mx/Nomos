@@ -1,0 +1,10 @@
+id: post-grid
+vendor_id: pickplugins
+name: Post Grid
+type: software
+tags: []
+cpe: cpe:2.3:a:pickplugins:post_grid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: post_grid
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nextseq-500
+vendor_id: illumina
+name: Nextseq 500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:illumina:nextseq_500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextseq_500
+  confidence: auto

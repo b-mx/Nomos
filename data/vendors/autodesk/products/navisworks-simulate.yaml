@@ -1,0 +1,10 @@
+id: navisworks-simulate
+vendor_id: autodesk
+name: Navisworks Simulate
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:navisworks_simulate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: navisworks_simulate
+  confidence: auto

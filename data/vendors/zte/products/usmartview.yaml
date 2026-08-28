@@ -1,0 +1,10 @@
+id: usmartview
+vendor_id: zte
+name: Usmartview
+type: software
+tags: []
+cpe: cpe:2.3:a:zte:usmartview:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: usmartview
+  confidence: auto

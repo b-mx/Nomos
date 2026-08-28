@@ -1,0 +1,10 @@
+id: ntl-bc-01w
+vendor_id: neutron
+name: Ntl-Bc-01W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:neutron:ntl\-bc\-01w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ntl-bc-01w
+  confidence: auto

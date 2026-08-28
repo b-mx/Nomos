@@ -1,0 +1,10 @@
+id: touch-fingerprint
+vendor_id: lenovo
+name: Touch Fingerprint
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:touch_fingerprint:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: touch_fingerprint
+  confidence: auto

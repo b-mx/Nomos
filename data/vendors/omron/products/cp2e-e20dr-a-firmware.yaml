@@ -1,0 +1,10 @@
+id: cp2e-e20dr-a-firmware
+vendor_id: omron
+name: Cp2E-E20Dr-A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:cp2e\-e20dr\-a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp2e-e20dr-a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tv-ip1314pi
+vendor_id: trendnet
+name: Tv-Ip1314Pi
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:tv\-ip1314pi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv-ip1314pi
+  confidence: auto

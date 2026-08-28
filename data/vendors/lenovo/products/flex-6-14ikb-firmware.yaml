@@ -1,0 +1,10 @@
+id: flex-6-14ikb-firmware
+vendor_id: lenovo
+name: Flex 6-14Ikb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:flex_6\-14ikb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_6-14ikb_firmware
+  confidence: auto

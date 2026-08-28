@@ -1,0 +1,10 @@
+id: cp400pb
+vendor_id: abb
+name: Cp400Pb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:cp400pb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp400pb
+  confidence: auto

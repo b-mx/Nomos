@@ -1,0 +1,10 @@
+id: omen-laptop-17-cb1xxx
+vendor_id: hp
+name: Omen Laptop 17-Cb1Xxx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_laptop_17\-cb1xxx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_laptop_17-cb1xxx
+  confidence: auto

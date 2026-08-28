@@ -1,0 +1,10 @@
+id: gms600
+vendor_id: hitachienergy
+name: Gms600
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hitachienergy:gms600:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gms600
+  confidence: auto

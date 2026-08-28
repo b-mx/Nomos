@@ -1,0 +1,10 @@
+id: hirschmann-firmware
+vendor_id: belden
+name: Hirschmann Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:belden:hirschmann_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_firmware
+  confidence: auto

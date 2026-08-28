@@ -1,0 +1,10 @@
+id: cloudmusic
+vendor_id: netease
+name: Cloudmusic
+type: software
+tags: []
+cpe: cpe:2.3:a:netease:cloudmusic:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloudmusic
+  confidence: auto

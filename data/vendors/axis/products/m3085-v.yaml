@@ -1,0 +1,10 @@
+id: m3085-v
+vendor_id: axis
+name: M3085-V
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:m3085\-v:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m3085-v
+  confidence: auto

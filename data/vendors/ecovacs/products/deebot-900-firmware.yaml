@@ -1,0 +1,10 @@
+id: deebot-900-firmware
+vendor_id: ecovacs
+name: Deebot 900 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ecovacs:deebot_900_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_900_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fd816b-ht
+vendor_id: vivotek
+name: Fd816B-Ht
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fd816b\-ht:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd816b-ht
+  confidence: auto

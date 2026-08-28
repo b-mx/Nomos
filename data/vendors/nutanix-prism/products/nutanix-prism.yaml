@@ -1,0 +1,9 @@
+id: nutanix-prism
+vendor_id: nutanix-prism
+name: Nutanix Prism Central
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: nutanix-prism
+  confidence: auto

@@ -1,0 +1,10 @@
+id: snc-vm631
+vendor_id: sony
+name: Snc-Vm631
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-vm631:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-vm631
+  confidence: auto

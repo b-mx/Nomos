@@ -1,0 +1,10 @@
+id: vmu-c-em
+vendor_id: carlosgavazzi
+name: Vmu-C Em
+type: hardware
+tags: []
+cpe: cpe:2.3:h:carlosgavazzi:vmu\-c_em:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vmu-c_em
+  confidence: auto

@@ -1,0 +1,10 @@
+id: septera
+vendor_id: cryoutcreations
+name: Septera
+type: software
+tags: []
+cpe: cpe:2.3:a:cryoutcreations:septera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: septera
+  confidence: auto

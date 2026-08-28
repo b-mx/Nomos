@@ -1,0 +1,10 @@
+id: xe300
+vendor_id: gl-inet
+name: Xe300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gl\-inet:xe300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xe300
+  confidence: auto

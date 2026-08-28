@@ -1,0 +1,10 @@
+id: storevirtual-3000-file-controller
+vendor_id: hpe
+name: Storevirtual 3000 File Controller
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hpe:storevirtual_3000_file_controller:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storevirtual_3000_file_controller
+  confidence: auto

@@ -1,0 +1,10 @@
+id: skynas-firmware
+vendor_id: synology
+name: Skynas Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:synology:skynas_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skynas_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: max-br1-slim
+vendor_id: peplink
+name: Max Br1 Slim
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:max_br1_slim:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_br1_slim
+  confidence: auto

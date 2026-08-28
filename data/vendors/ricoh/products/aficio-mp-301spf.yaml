@@ -1,0 +1,10 @@
+id: aficio-mp-301spf
+vendor_id: ricoh
+name: Aficio Mp 301Spf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:aficio_mp_301spf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aficio_mp_301spf
+  confidence: auto

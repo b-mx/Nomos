@@ -1,0 +1,10 @@
+id: news
+vendor_id: nextcloud
+name: News
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:news:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: news
+  confidence: auto

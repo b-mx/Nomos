@@ -1,0 +1,10 @@
+id: alaris-gs-syringe-pump
+vendor_id: bd
+name: Alaris Gs Syringe Pump
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:alaris_gs_syringe_pump:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_gs_syringe_pump
+  confidence: auto

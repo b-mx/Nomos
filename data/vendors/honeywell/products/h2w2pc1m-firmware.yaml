@@ -1,0 +1,10 @@
+id: h2w2pc1m-firmware
+vendor_id: honeywell
+name: H2W2Pc1M Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:h2w2pc1m_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h2w2pc1m_firmware
+  confidence: auto

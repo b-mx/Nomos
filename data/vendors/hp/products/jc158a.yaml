@@ -1,0 +1,10 @@
+id: jc158a
+vendor_id: hp
+name: Jc158A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc158a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc158a
+  confidence: auto

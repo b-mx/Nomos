@@ -1,0 +1,10 @@
+id: pc-smart-full-scene
+vendor_id: huawei
+name: Pc Smart Full Scene
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:pc_smart_full_scene:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pc_smart_full_scene
+  confidence: auto

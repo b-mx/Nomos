@@ -1,0 +1,10 @@
+id: online-food-menu
+vendor_id: remyandrade
+name: Online Food Menu
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:online_food_menu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: online_food_menu
+  confidence: auto

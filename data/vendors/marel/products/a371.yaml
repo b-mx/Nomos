@@ -1,0 +1,10 @@
+id: a371
+vendor_id: marel
+name: A371
+type: hardware
+tags: []
+cpe: cpe:2.3:h:marel:a371:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a371
+  confidence: auto

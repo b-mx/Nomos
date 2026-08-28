@@ -1,0 +1,10 @@
+id: urllib3
+vendor_id: python
+name: Urllib3
+type: software
+tags: []
+cpe: cpe:2.3:a:python:urllib3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: urllib3
+  confidence: auto

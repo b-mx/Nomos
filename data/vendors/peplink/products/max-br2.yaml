@@ -1,0 +1,10 @@
+id: max-br2
+vendor_id: peplink
+name: Max Br2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:peplink:max_br2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_br2
+  confidence: auto

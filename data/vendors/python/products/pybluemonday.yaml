@@ -1,0 +1,10 @@
+id: pybluemonday
+vendor_id: python
+name: Pybluemonday
+type: software
+tags: []
+cpe: cpe:2.3:a:python:pybluemonday:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pybluemonday
+  confidence: auto

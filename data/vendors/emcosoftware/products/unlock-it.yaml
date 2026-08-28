@@ -1,0 +1,10 @@
+id: unlock-it
+vendor_id: emcosoftware
+name: Unlock It
+type: software
+tags: []
+cpe: cpe:2.3:a:emcosoftware:unlock_it:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unlock_it
+  confidence: auto

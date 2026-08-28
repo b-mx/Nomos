@@ -1,0 +1,10 @@
+id: insightsuiteae
+vendor_id: yokogawa
+name: Insightsuiteae
+type: software
+tags: []
+cpe: cpe:2.3:a:yokogawa:insightsuiteae:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insightsuiteae
+  confidence: auto

@@ -1,0 +1,10 @@
+id: generic-pcl5-driver
+vendor_id: ricoh
+name: Generic Pcl5 Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:ricoh:generic_pcl5_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: generic_pcl5_driver
+  confidence: auto

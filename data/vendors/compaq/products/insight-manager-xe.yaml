@@ -1,0 +1,10 @@
+id: insight-manager-xe
+vendor_id: compaq
+name: Insight Manager Xe
+type: software
+tags: []
+cpe: cpe:2.3:a:compaq:insight_manager_xe:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: insight_manager_xe
+  confidence: auto

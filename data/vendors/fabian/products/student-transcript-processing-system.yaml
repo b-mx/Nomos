@@ -1,0 +1,10 @@
+id: student-transcript-processing-system
+vendor_id: fabian
+name: Student Transcript Processing System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:student_transcript_processing_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: student_transcript_processing_system
+  confidence: auto

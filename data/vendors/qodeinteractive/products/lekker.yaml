@@ -1,0 +1,10 @@
+id: lekker
+vendor_id: qodeinteractive
+name: Lekker
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:lekker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lekker
+  confidence: auto

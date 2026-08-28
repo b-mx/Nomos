@@ -1,0 +1,10 @@
+id: fengine-s5800-firmware
+vendor_id: fiberhome
+name: Fengine S5800 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fiberhome:fengine_s5800_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fengine_s5800_firmware
+  confidence: auto

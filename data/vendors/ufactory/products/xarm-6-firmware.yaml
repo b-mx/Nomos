@@ -1,0 +1,10 @@
+id: xarm-6-firmware
+vendor_id: ufactory
+name: Xarm 6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ufactory:xarm_6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xarm_6_firmware
+  confidence: auto

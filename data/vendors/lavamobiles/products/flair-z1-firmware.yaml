@@ -1,0 +1,10 @@
+id: flair-z1-firmware
+vendor_id: lavamobiles
+name: Flair Z1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lavamobiles:flair_z1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flair_z1_firmware
+  confidence: auto

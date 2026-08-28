@@ -1,0 +1,10 @@
+id: counter-strike
+vendor_id: valvesoftware
+name: Counter-Strike
+type: software
+tags: []
+cpe: cpe:2.3:a:valvesoftware:counter\-strike:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: counter-strike
+  confidence: auto

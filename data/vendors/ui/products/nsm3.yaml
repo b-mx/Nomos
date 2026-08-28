@@ -1,0 +1,10 @@
+id: nsm3
+vendor_id: ui
+name: Nsm3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:nsm3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nsm3
+  confidence: auto

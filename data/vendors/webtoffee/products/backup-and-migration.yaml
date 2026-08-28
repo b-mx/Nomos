@@ -1,0 +1,10 @@
+id: backup-and-migration
+vendor_id: webtoffee
+name: Backup And Migration
+type: software
+tags: []
+cpe: cpe:2.3:a:webtoffee:backup_and_migration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backup_and_migration
+  confidence: auto

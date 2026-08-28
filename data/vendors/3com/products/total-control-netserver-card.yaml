@@ -1,0 +1,10 @@
+id: total-control-netserver-card
+vendor_id: 3com
+name: Total Control Netserver Card
+type: hardware
+tags: []
+cpe: cpe:2.3:h:3com:total_control_netserver_card:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: total_control_netserver_card
+  confidence: auto

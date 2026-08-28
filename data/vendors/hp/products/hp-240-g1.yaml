@@ -1,0 +1,10 @@
+id: hp-240-g1
+vendor_id: hp
+name: Hp 240 G1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:hp_240_g1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hp_240_g1
+  confidence: auto

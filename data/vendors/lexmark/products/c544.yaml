@@ -1,0 +1,10 @@
+id: c544
+vendor_id: lexmark
+name: C544
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c544:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c544
+  confidence: auto

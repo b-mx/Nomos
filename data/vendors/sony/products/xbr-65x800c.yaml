@@ -1,0 +1,10 @@
+id: xbr-65x800c
+vendor_id: sony
+name: Xbr-65X800C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:xbr\-65x800c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbr-65x800c
+  confidence: auto

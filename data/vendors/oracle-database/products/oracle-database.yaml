@@ -1,0 +1,10 @@
+id: oracle-database
+vendor_id: oracle-database
+name: Oracle Database
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: oracle-database
+  confidence: auto

@@ -1,0 +1,10 @@
+id: single-sign-on
+vendor_id: pivotal
+name: Single Sign-On
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal:single_sign\-on:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: single_sign-on
+  confidence: auto

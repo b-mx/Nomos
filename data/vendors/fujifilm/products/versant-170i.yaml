@@ -1,0 +1,10 @@
+id: versant-170i
+vendor_id: fujifilm
+name: Versant 170I
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:versant_170i:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: versant_170i
+  confidence: auto

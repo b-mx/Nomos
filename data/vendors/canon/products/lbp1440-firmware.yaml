@@ -1,0 +1,10 @@
+id: lbp1440-firmware
+vendor_id: canon
+name: Lbp1440 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:lbp1440_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lbp1440_firmware
+  confidence: auto

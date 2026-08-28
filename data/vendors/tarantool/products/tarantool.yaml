@@ -1,0 +1,14 @@
+id: tarantool
+vendor_id: tarantool
+name: Tarantool
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:tarantool:tarantool:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: tarantool
+  confidence: auto
+- source: nvd
+  value: tarantool
+  confidence: auto

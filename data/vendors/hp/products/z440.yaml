@@ -1,0 +1,10 @@
+id: z440
+vendor_id: hp
+name: Z440
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:z440:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z440
+  confidence: auto

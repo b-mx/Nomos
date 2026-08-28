@@ -1,0 +1,10 @@
+id: sgf6112
+vendor_id: netapp
+name: Sgf6112
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netapp:sgf6112:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sgf6112
+  confidence: auto

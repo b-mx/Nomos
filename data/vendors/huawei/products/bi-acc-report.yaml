@@ -1,0 +1,10 @@
+id: bi-acc-report
+vendor_id: huawei
+name: Bi-Acc-Report
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:bi\-acc\-report:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bi-acc-report
+  confidence: auto

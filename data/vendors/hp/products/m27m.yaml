@@ -1,0 +1,10 @@
+id: m27m
+vendor_id: hp
+name: M27M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m27m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m27m
+  confidence: auto

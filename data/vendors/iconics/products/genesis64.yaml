@@ -1,0 +1,10 @@
+id: genesis64
+vendor_id: iconics
+name: Genesis64
+type: software
+tags: []
+cpe: cpe:2.3:a:iconics:genesis64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: genesis64
+  confidence: auto

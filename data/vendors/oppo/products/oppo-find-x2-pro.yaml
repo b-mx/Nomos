@@ -1,0 +1,10 @@
+id: oppo-find-x2-pro
+vendor_id: oppo
+name: Oppo Find X2 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:oppo:oppo_find_x2_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oppo_find_x2_pro
+  confidence: auto

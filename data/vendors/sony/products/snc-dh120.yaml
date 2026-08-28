@@ -1,0 +1,10 @@
+id: snc-dh120
+vendor_id: sony
+name: Snc-Dh120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-dh120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-dh120
+  confidence: auto

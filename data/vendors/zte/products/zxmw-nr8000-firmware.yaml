@@ -1,0 +1,10 @@
+id: zxmw-nr8000-firmware
+vendor_id: zte
+name: Zxmw Nr8000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:zxmw_nr8000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxmw_nr8000_firmware
+  confidence: auto

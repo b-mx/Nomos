@@ -1,0 +1,10 @@
+id: optima-320
+vendor_id: gehealthcare
+name: Optima 320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:optima_320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_320
+  confidence: auto

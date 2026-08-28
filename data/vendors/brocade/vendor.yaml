@@ -1,0 +1,7 @@
+id: brocade
+name: Brocade
+cpe: cpe:2.3:*:brocade:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brocade
+  confidence: auto

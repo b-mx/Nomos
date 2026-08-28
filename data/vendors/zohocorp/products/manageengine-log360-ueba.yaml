@@ -1,0 +1,10 @@
+id: manageengine-log360-ueba
+vendor_id: zohocorp
+name: Manageengine Log360 Ueba
+type: software
+tags: []
+cpe: cpe:2.3:a:zohocorp:manageengine_log360_ueba:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: manageengine_log360_ueba
+  confidence: auto

@@ -1,0 +1,10 @@
+id: smartliving-1050g3
+vendor_id: inim
+name: Smartliving 1050G3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:inim:smartliving_1050g3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smartliving_1050g3
+  confidence: auto

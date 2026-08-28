@@ -1,0 +1,10 @@
+id: thinkcentre-m710q-10yc-firmware
+vendor_id: lenovo
+name: Thinkcentre M710Q (10Yc) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkcentre_m710q_\(10yc\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m710q_(10yc)_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ipm-50hv10pt-wr-firmware
+vendor_id: xiongmaitech
+name: Ipm-50Hv10Pt-Wr Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:ipm\-50hv10pt\-wr_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipm-50hv10pt-wr_firmware
+  confidence: auto

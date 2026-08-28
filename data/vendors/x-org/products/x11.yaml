@@ -1,0 +1,10 @@
+id: x11
+vendor_id: x-org
+name: X11
+type: software
+tags: []
+cpe: cpe:2.3:a:x\.org:x11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11
+  confidence: auto

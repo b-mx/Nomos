@@ -1,0 +1,10 @@
+id: mic-ip-fusion-9000i-firmware
+vendor_id: bosch
+name: Mic Ip Fusion 9000I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bosch:mic_ip_fusion_9000i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mic_ip_fusion_9000i_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: roc800l
+vendor_id: emerson
+name: Roc800L
+type: hardware
+tags: []
+cpe: cpe:2.3:h:emerson:roc800l:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: roc800l
+  confidence: auto

@@ -1,0 +1,10 @@
+id: theia
+vendor_id: eclipse
+name: Theia
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:theia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: theia
+  confidence: auto

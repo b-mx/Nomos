@@ -1,0 +1,10 @@
+id: ingepac-ef-md
+vendor_id: ingeteam
+name: Ingepac Ef Md
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ingeteam:ingepac_ef_md:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ingepac_ef_md
+  confidence: auto

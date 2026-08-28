@@ -1,0 +1,10 @@
+id: 3par-service-provider
+vendor_id: hpe
+name: 3Par Service Provider
+type: os
+tags: []
+cpe: cpe:2.3:o:hpe:3par_service_provider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3par_service_provider
+  confidence: auto

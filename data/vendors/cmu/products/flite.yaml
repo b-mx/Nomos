@@ -1,0 +1,10 @@
+id: flite
+vendor_id: cmu
+name: Flite
+type: software
+tags: []
+cpe: cpe:2.3:a:cmu:flite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flite
+  confidence: auto

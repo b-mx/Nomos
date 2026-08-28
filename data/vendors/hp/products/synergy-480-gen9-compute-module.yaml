@@ -1,0 +1,10 @@
+id: synergy-480-gen9-compute-module
+vendor_id: hp
+name: Synergy 480 Gen9 Compute Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:synergy_480_gen9_compute_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: synergy_480_gen9_compute_module
+  confidence: auto

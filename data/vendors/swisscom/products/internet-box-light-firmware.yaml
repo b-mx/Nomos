@@ -1,0 +1,10 @@
+id: internet-box-light-firmware
+vendor_id: swisscom
+name: Internet-Box Light Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:swisscom:internet\-box_light_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: internet-box_light_firmware
+  confidence: auto

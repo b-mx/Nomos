@@ -1,0 +1,10 @@
+id: pony-magazine
+vendor_id: pocketmags
+name: Pony Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:pony_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pony_magazine
+  confidence: auto

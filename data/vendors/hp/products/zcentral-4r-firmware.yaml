@@ -1,0 +1,10 @@
+id: zcentral-4r-firmware
+vendor_id: hp
+name: Zcentral 4R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:zcentral_4r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zcentral_4r_firmware
+  confidence: auto

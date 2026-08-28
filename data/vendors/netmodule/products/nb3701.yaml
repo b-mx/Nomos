@@ -1,0 +1,10 @@
+id: nb3701
+vendor_id: netmodule
+name: Nb3701
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netmodule:nb3701:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nb3701
+  confidence: auto

@@ -1,0 +1,7 @@
+id: yarnpkg
+name: Yarnpkg
+cpe: cpe:2.3:*:yarnpkg:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yarnpkg
+  confidence: auto

@@ -1,0 +1,10 @@
+id: eos-d-rebel-t100
+vendor_id: canon
+name: Eos D Rebel T100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_d_rebel_t100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_d_rebel_t100
+  confidence: auto

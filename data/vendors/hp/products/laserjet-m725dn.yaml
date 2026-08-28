@@ -1,0 +1,10 @@
+id: laserjet-m725dn
+vendor_id: hp
+name: Laserjet M725Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_m725dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m725dn
+  confidence: auto

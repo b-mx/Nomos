@@ -1,0 +1,10 @@
+id: f9a28a
+vendor_id: hp
+name: F9A28A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f9a28a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f9a28a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: glassfish
+vendor_id: eclipse
+name: Glassfish
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:glassfish:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: glassfish
+  confidence: auto

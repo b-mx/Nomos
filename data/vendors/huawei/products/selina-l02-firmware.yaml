@@ -1,0 +1,10 @@
+id: selina-l02-firmware
+vendor_id: huawei
+name: Selina-L02 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:selina\-l02_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: selina-l02_firmware
+  confidence: auto

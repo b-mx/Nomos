@@ -1,0 +1,10 @@
+id: lp-8500c-firmware
+vendor_id: epson
+name: Lp-8500C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:lp\-8500c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-8500c_firmware
+  confidence: auto

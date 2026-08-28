@@ -1,0 +1,10 @@
+id: libu2f-host
+vendor_id: yubico
+name: Libu2F-Host
+type: software
+tags: []
+cpe: cpe:2.3:a:yubico:libu2f\-host:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libu2f-host
+  confidence: auto

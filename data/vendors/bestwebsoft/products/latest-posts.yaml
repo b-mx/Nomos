@@ -1,0 +1,10 @@
+id: latest-posts
+vendor_id: bestwebsoft
+name: Latest Posts
+type: software
+tags: []
+cpe: cpe:2.3:a:bestwebsoft:latest_posts:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: latest_posts
+  confidence: auto

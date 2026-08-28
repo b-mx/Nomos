@@ -1,0 +1,10 @@
+id: wd-my-book
+vendor_id: westerndigital
+name: Wd My Book
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westerndigital:wd_my_book:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wd_my_book
+  confidence: auto

@@ -1,0 +1,10 @@
+id: eos-5ds-firmware
+vendor_id: canon
+name: Eos 5Ds Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:eos_5ds_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_5ds_firmware
+  confidence: auto

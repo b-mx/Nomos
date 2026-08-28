@@ -1,0 +1,10 @@
+id: gateway-trb245
+vendor_id: teltonika-networks
+name: Gateway Trb245
+type: hardware
+tags: []
+cpe: cpe:2.3:h:teltonika\-networks:gateway_trb245:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gateway_trb245
+  confidence: auto

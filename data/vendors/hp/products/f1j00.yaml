@@ -1,0 +1,10 @@
+id: f1j00
+vendor_id: hp
+name: F1J00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:f1j00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f1j00
+  confidence: auto

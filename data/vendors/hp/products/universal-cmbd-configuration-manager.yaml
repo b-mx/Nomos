@@ -1,0 +1,10 @@
+id: universal-cmbd-configuration-manager
+vendor_id: hp
+name: Universal Cmbd Configuration Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:universal_cmbd_configuration_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: universal_cmbd_configuration_manager
+  confidence: auto

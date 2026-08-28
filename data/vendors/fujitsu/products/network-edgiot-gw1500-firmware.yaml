@@ -1,0 +1,10 @@
+id: network-edgiot-gw1500-firmware
+vendor_id: fujitsu
+name: Network Edgiot Gw1500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fujitsu:network_edgiot_gw1500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: network_edgiot_gw1500_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: workout-journal-app
+vendor_id: remyandrade
+name: Workout Journal App
+type: software
+tags: []
+cpe: cpe:2.3:a:remyandrade:workout_journal_app:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workout_journal_app
+  confidence: auto

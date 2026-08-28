@@ -1,0 +1,10 @@
+id: homematic-central-control-unit-ccu2-firmware
+vendor_id: eq-3
+name: Homematic Central Control Unit Ccu2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eq\-3:homematic_central_control_unit_ccu2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: homematic_central_control_unit_ccu2_firmware
+  confidence: auto

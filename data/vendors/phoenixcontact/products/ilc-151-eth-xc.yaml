@@ -1,0 +1,10 @@
+id: ilc-151-eth-xc
+vendor_id: phoenixcontact
+name: Ilc 151 Eth/Xc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:ilc_151_eth\/xc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ilc_151_eth/xc
+  confidence: auto

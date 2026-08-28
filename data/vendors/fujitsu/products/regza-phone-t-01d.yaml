@@ -1,0 +1,10 @@
+id: regza-phone-t-01d
+vendor_id: fujitsu
+name: Regza Phone T-01D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:regza_phone_t\-01d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: regza_phone_t-01d
+  confidence: auto

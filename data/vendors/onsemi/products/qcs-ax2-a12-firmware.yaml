@@ -1,0 +1,10 @@
+id: qcs-ax2-a12-firmware
+vendor_id: onsemi
+name: Qcs-Ax2-A12 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:onsemi:qcs\-ax2\-a12_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: qcs-ax2-a12_firmware
+  confidence: auto

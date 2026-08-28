@@ -1,0 +1,10 @@
+id: '2540'
+vendor_id: arubanetworks
+name: '2540'
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:2540:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: '2540'
+  confidence: auto

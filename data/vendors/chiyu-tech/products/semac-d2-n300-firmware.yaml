@@ -1,0 +1,10 @@
+id: semac-d2-n300-firmware
+vendor_id: chiyu-tech
+name: Semac D2 N300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chiyu\-tech:semac_d2_n300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: semac_d2_n300_firmware
+  confidence: auto

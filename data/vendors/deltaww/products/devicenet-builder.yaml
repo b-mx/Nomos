@@ -1,0 +1,10 @@
+id: devicenet-builder
+vendor_id: deltaww
+name: Devicenet Builder
+type: software
+tags: []
+cpe: cpe:2.3:a:deltaww:devicenet_builder:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: devicenet_builder
+  confidence: auto

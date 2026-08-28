@@ -1,0 +1,10 @@
+id: x13sav-lvds
+vendor_id: supermicro
+name: X13Sav-Lvds
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13sav\-lvds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13sav-lvds
+  confidence: auto

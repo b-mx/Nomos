@@ -1,0 +1,10 @@
+id: univerge-sv9500
+vendor_id: nec
+name: Univerge Sv9500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nec:univerge_sv9500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: univerge_sv9500
+  confidence: auto

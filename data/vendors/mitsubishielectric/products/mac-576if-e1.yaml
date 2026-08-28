@@ -1,0 +1,10 @@
+id: mac-576if-e1
+vendor_id: mitsubishielectric
+name: Mac-576If-E1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:mac\-576if\-e1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mac-576if-e1
+  confidence: auto

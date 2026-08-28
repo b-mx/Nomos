@@ -1,0 +1,10 @@
+id: pingone-mfa-integration-kit
+vendor_id: pingidentity
+name: Pingone Mfa Integration Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:pingidentity:pingone_mfa_integration_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pingone_mfa_integration_kit
+  confidence: auto

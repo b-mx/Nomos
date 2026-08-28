@@ -1,0 +1,10 @@
+id: deltav-workstation-firmware
+vendor_id: emerson
+name: Deltav Workstation Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:emerson:deltav_workstation_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deltav_workstation_firmware
+  confidence: auto

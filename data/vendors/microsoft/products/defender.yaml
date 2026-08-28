@@ -1,0 +1,9 @@
+id: defender
+vendor_id: microsoft
+name: Defender
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Defender
+  confidence: auto

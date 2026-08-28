@@ -1,0 +1,10 @@
+id: jd009a
+vendor_id: hp
+name: Jd009A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd009a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd009a
+  confidence: auto

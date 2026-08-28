@@ -1,0 +1,10 @@
+id: wzr-300hp
+vendor_id: buffalo
+name: Wzr-300Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:buffalo:wzr\-300hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr-300hp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: a520i-f1
+vendor_id: proscend
+name: A520I-F1
+type: hardware
+tags: []
+cpe: cpe:2.3:h:proscend:a520i\-f1:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a520i-f1
+  confidence: auto

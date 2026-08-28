@@ -1,0 +1,10 @@
+id: mc2535-firmware
+vendor_id: lexmark
+name: Mc2535 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lexmark:mc2535_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc2535_firmware
+  confidence: auto

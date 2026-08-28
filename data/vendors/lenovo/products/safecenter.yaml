@@ -1,0 +1,10 @@
+id: safecenter
+vendor_id: lenovo
+name: Safecenter
+type: software
+tags: []
+cpe: cpe:2.3:a:lenovo:safecenter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: safecenter
+  confidence: auto

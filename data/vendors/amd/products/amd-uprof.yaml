@@ -1,0 +1,10 @@
+id: amd-uprof
+vendor_id: amd
+name: Amd Uprof
+type: software
+tags: []
+cpe: cpe:2.3:a:amd:amd_uprof:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amd_uprof
+  confidence: auto

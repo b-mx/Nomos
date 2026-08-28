@@ -1,0 +1,10 @@
+id: create-cloudflare
+vendor_id: cloudflare
+name: Create-Cloudflare
+type: software
+tags: []
+cpe: cpe:2.3:a:cloudflare:create\-cloudflare:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: create-cloudflare
+  confidence: auto

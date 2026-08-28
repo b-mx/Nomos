@@ -1,9 +1,8 @@
 id: dgn2200-devices
 vendor_id: netgear
 name: DGN2200 Devices
-type: hardware
+type: software
 tags: []
-icon: simple-icons:netgear
 aliases:
 - source: cisa_kev
   value: DGN2200 Devices

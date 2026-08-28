@@ -1,0 +1,10 @@
+id: officejet-4652-f1j02a
+vendor_id: hp
+name: Officejet 4652 F1J02A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_4652_f1j02a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_4652_f1j02a
+  confidence: auto

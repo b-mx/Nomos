@@ -1,0 +1,10 @@
+id: i-mx-6solox-firmware
+vendor_id: nxp
+name: I.Mx 6Solox Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:nxp:i\.mx_6solox_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_6solox_firmware
+  confidence: auto

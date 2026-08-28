@@ -1,0 +1,10 @@
+id: expanded-calendar-module
+vendor_id: php-fusion
+name: Expanded Calendar Module
+type: software
+tags: []
+cpe: cpe:2.3:a:php\-fusion:expanded_calendar_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: expanded_calendar_module
+  confidence: auto

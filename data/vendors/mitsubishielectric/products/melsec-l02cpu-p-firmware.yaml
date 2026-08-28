@@ -1,0 +1,10 @@
+id: melsec-l02cpu-p-firmware
+vendor_id: mitsubishielectric
+name: Melsec L02Cpu-P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:melsec_l02cpu\-p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_l02cpu-p_firmware
+  confidence: auto

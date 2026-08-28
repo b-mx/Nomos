@@ -1,0 +1,10 @@
+id: cordys-crm
+vendor_id: fit2cloud
+name: Cordys Crm
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:cordys_crm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cordys_crm
+  confidence: auto

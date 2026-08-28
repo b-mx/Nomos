@@ -1,0 +1,10 @@
+id: alice-6
+vendor_id: philips
+name: Alice 6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:alice_6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alice_6
+  confidence: auto

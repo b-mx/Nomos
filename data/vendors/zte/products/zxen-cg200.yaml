@@ -1,0 +1,10 @@
+id: zxen-cg200
+vendor_id: zte
+name: Zxen Cg200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxen_cg200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxen_cg200
+  confidence: auto

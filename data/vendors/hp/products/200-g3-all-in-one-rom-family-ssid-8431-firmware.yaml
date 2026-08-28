@@ -1,0 +1,10 @@
+id: 200-g3-all-in-one-rom-family-ssid-8431-firmware
+vendor_id: hp
+name: 200 G3 All-In-One (Rom Family Ssid 8431) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:200_g3_all\-in\-one_\(rom_family_ssid_8431\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 200_g3_all-in-one_(rom_family_ssid_8431)_firmware
+  confidence: auto

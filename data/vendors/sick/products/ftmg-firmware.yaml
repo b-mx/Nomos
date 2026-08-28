@@ -1,0 +1,10 @@
+id: ftmg-firmware
+vendor_id: sick
+name: Ftmg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:ftmg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ftmg_firmware
+  confidence: auto

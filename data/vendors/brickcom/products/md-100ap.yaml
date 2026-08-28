@@ -1,0 +1,10 @@
+id: md-100ap
+vendor_id: brickcom
+name: Md-100Ap
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brickcom:md\-100ap:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: md-100ap
+  confidence: auto

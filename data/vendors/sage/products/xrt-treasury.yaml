@@ -1,0 +1,10 @@
+id: xrt-treasury
+vendor_id: sage
+name: Xrt Treasury
+type: software
+tags: []
+cpe: cpe:2.3:a:sage:xrt_treasury:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xrt_treasury
+  confidence: auto

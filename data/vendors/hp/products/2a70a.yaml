@@ -1,0 +1,10 @@
+id: 2a70a
+vendor_id: hp
+name: 2A70A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:2a70a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 2a70a
+  confidence: auto

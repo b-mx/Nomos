@@ -1,0 +1,10 @@
+id: spc10
+vendor_id: kingjim
+name: Spc10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:kingjim:spc10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spc10
+  confidence: auto

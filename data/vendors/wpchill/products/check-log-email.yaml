@@ -1,0 +1,10 @@
+id: check-log-email
+vendor_id: wpchill
+name: Check & Log Email
+type: software
+tags: []
+cpe: cpe:2.3:a:wpchill:check_\&_log_email:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: check_&_log_email
+  confidence: auto

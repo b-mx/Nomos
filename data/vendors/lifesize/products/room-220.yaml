@@ -1,0 +1,10 @@
+id: room-220
+vendor_id: lifesize
+name: Room 220
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lifesize:room_220:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: room_220
+  confidence: auto

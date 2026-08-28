@@ -1,0 +1,10 @@
+id: wifi-bulb
+vendor_id: mystrom
+name: Wifi Bulb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mystrom:wifi_bulb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wifi_bulb
+  confidence: auto

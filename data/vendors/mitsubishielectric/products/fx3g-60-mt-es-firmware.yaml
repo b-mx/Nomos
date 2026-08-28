@@ -1,0 +1,10 @@
+id: fx3g-60-mt-es-firmware
+vendor_id: mitsubishielectric
+name: Fx3G-60 Mt/Es Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitsubishielectric:fx3g\-60_mt\/es_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fx3g-60_mt/es_firmware
+  confidence: auto

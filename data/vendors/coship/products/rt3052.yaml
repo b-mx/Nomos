@@ -1,0 +1,10 @@
+id: rt3052
+vendor_id: coship
+name: Rt3052
+type: hardware
+tags: []
+cpe: cpe:2.3:h:coship:rt3052:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rt3052
+  confidence: auto

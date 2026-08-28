@@ -1,0 +1,10 @@
+id: bfminiw
+vendor_id: chiyu-tech
+name: Bfminiw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chiyu\-tech:bfminiw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bfminiw
+  confidence: auto

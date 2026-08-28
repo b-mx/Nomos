@@ -1,0 +1,10 @@
+id: omen-laptop-17-ap0xx
+vendor_id: hp
+name: Omen Laptop 17-Ap0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:omen_laptop_17\-ap0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: omen_laptop_17-ap0xx
+  confidence: auto

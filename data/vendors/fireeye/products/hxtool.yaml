@@ -1,0 +1,10 @@
+id: hxtool
+vendor_id: fireeye
+name: Hxtool
+type: software
+tags: []
+cpe: cpe:2.3:a:fireeye:hxtool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hxtool
+  confidence: auto

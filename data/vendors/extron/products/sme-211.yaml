@@ -1,0 +1,10 @@
+id: sme-211
+vendor_id: extron
+name: Sme 211
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extron:sme_211:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sme_211
+  confidence: auto

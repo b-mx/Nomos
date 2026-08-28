@@ -1,0 +1,10 @@
+id: melsec-q100udecpu
+vendor_id: mitsubishi
+name: Melsec Q100Udecpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_q100udecpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q100udecpu
+  confidence: auto

@@ -1,0 +1,10 @@
+id: brickstream-2300-2d-firmware
+vendor_id: flir
+name: Brickstream 2300 2D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:flir:brickstream_2300_2d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brickstream_2300_2d_firmware
+  confidence: auto

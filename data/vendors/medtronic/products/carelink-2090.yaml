@@ -1,0 +1,10 @@
+id: carelink-2090
+vendor_id: medtronic
+name: Carelink 2090
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:carelink_2090:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carelink_2090
+  confidence: auto

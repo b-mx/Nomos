@@ -1,0 +1,10 @@
+id: probook-650-g2
+vendor_id: hp
+name: Probook 650 G2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:probook_650_g2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: probook_650_g2
+  confidence: auto

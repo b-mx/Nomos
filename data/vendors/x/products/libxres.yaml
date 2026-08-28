@@ -1,0 +1,10 @@
+id: libxres
+vendor_id: x
+name: Libxres
+type: software
+tags: []
+cpe: cpe:2.3:a:x:libxres:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libxres
+  confidence: auto

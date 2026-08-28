@@ -1,0 +1,10 @@
+id: envy-6000e-223n1a
+vendor_id: hp
+name: Envy 6000E 223N1A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_6000e_223n1a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6000e_223n1a
+  confidence: auto

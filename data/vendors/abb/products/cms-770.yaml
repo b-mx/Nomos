@@ -1,0 +1,10 @@
+id: cms-770
+vendor_id: abb
+name: Cms-770
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:cms\-770:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cms-770
+  confidence: auto

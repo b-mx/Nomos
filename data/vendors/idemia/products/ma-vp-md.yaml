@@ -1,0 +1,10 @@
+id: ma-vp-md
+vendor_id: idemia
+name: Ma Vp Md
+type: hardware
+tags: []
+cpe: cpe:2.3:h:idemia:ma_vp_md:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ma_vp_md
+  confidence: auto

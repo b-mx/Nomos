@@ -1,0 +1,10 @@
+id: versalink-c505
+vendor_id: xerox
+name: Versalink C505
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:versalink_c505:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: versalink_c505
+  confidence: auto

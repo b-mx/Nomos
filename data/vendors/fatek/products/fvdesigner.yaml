@@ -1,0 +1,10 @@
+id: fvdesigner
+vendor_id: fatek
+name: Fvdesigner
+type: software
+tags: []
+cpe: cpe:2.3:a:fatek:fvdesigner:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fvdesigner
+  confidence: auto

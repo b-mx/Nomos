@@ -1,0 +1,10 @@
+id: laserjet-m211e-6gw62er-firmware
+vendor_id: hp
+name: Laserjet M211E 6Gw62Er Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_m211e_6gw62er_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m211e_6gw62er_firmware
+  confidence: auto

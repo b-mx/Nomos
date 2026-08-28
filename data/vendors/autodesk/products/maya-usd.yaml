@@ -1,0 +1,10 @@
+id: maya-usd
+vendor_id: autodesk
+name: Maya Usd
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:maya_usd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maya_usd
+  confidence: auto

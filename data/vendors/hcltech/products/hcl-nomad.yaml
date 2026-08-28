@@ -1,0 +1,10 @@
+id: hcl-nomad
+vendor_id: hcltech
+name: Hcl Nomad
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:hcl_nomad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hcl_nomad
+  confidence: auto

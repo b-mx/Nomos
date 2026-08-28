@@ -1,0 +1,10 @@
+id: s8015
+vendor_id: unisoc
+name: S8015
+type: hardware
+tags: []
+cpe: cpe:2.3:h:unisoc:s8015:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s8015
+  confidence: auto

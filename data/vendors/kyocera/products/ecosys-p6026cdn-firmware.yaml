@@ -1,0 +1,10 @@
+id: ecosys-p6026cdn-firmware
+vendor_id: kyocera
+name: Ecosys P6026Cdn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kyocera:ecosys_p6026cdn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ecosys_p6026cdn_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 1769-compactlogix-l3x-controller-firmware
+vendor_id: rockwellautomation
+name: 1769 Compactlogix L3X Controller Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:rockwellautomation:1769_compactlogix_l3x_controller_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 1769_compactlogix_l3x_controller_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 20fn
+vendor_id: lenovo
+name: 20Fn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20fn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20fn
+  confidence: auto

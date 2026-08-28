@@ -1,0 +1,10 @@
+id: smf
+vendor_id: free5gc
+name: Smf
+type: software
+tags: []
+cpe: cpe:2.3:a:free5gc:smf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smf
+  confidence: auto

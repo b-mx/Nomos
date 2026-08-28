@@ -1,0 +1,10 @@
+id: cq891b-firmware
+vendor_id: hp
+name: Cq891B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:cq891b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cq891b_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: wl18xx-bluetooth-service-pack
+vendor_id: ti
+name: Wl18Xx Bluetooth Service Pack
+type: os
+tags: []
+cpe: cpe:2.3:o:ti:wl18xx_bluetooth_service_pack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wl18xx_bluetooth_service_pack
+  confidence: auto

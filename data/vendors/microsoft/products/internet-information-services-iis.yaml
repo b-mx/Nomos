@@ -1,0 +1,9 @@
+id: internet-information-services-iis
+vendor_id: microsoft
+name: Internet Information Services (IIS)
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Internet Information Services (IIS)
+  confidence: auto

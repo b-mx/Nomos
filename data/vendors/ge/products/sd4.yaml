@@ -1,0 +1,10 @@
+id: sd4
+vendor_id: ge
+name: Sd4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ge:sd4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sd4
+  confidence: auto

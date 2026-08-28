@@ -1,0 +1,10 @@
+id: mmt-1352
+vendor_id: medtronic
+name: Mmt-1352
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:mmt\-1352:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mmt-1352
+  confidence: auto

@@ -1,0 +1,10 @@
+id: imserver
+vendor_id: ipswitch
+name: Imserver
+type: software
+tags: []
+cpe: cpe:2.3:a:ipswitch:imserver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imserver
+  confidence: auto

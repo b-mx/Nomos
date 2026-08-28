@@ -1,0 +1,10 @@
+id: smart-tank-7000-2h0a6a
+vendor_id: hp
+name: Smart Tank 7000 2H0A6A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:smart_tank_7000_2h0a6a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_tank_7000_2h0a6a
+  confidence: auto

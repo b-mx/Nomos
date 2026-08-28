@@ -1,0 +1,10 @@
+id: vip4gb
+vendor_id: microhardcorp
+name: Vip4Gb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microhardcorp:vip4gb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vip4gb
+  confidence: auto

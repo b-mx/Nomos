@@ -1,0 +1,10 @@
+id: zebra-rpc
+vendor_id: zfnd
+name: Zebra-Rpc
+type: software
+tags: []
+cpe: cpe:2.3:a:zfnd:zebra\-rpc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zebra-rpc
+  confidence: auto

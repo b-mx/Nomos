@@ -1,0 +1,10 @@
+id: ts-wlce-camera
+vendor_id: iodata
+name: Ts-Wlce Camera
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:ts\-wlce_camera:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts-wlce_camera
+  confidence: auto

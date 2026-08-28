@@ -1,0 +1,10 @@
+id: ds-wireless-communication
+vendor_id: nintendo
+name: Ds Wireless Communication
+type: software
+tags: []
+cpe: cpe:2.3:a:nintendo:ds_wireless_communication:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ds_wireless_communication
+  confidence: auto

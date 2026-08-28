@@ -1,0 +1,10 @@
+id: oras
+vendor_id: linuxfoundation
+name: Oras
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:oras:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oras
+  confidence: auto

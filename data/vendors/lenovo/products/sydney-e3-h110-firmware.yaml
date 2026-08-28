@@ -1,0 +1,10 @@
+id: sydney-e3-h110-firmware
+vendor_id: lenovo
+name: Sydney E3 H110 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:sydney_e3_h110_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sydney_e3_h110_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: simeji
+vendor_id: baidu
+name: Simeji
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:simeji:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simeji
+  confidence: auto

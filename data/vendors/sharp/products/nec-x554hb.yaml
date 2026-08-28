@@ -1,0 +1,10 @@
+id: nec-x554hb
+vendor_id: sharp
+name: Nec X554Hb
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:nec_x554hb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_x554hb
+  confidence: auto

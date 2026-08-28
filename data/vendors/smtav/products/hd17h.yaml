@@ -1,0 +1,10 @@
+id: hd17h
+vendor_id: smtav
+name: Hd17H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:smtav:hd17h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hd17h
+  confidence: auto

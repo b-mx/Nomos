@@ -1,0 +1,10 @@
+id: v410z
+vendor_id: lenovo
+name: V410Z
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:v410z:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: v410z
+  confidence: auto

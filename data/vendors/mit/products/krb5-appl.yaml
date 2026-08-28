@@ -1,0 +1,10 @@
+id: krb5-appl
+vendor_id: mit
+name: Krb5-Appl
+type: software
+tags: []
+cpe: cpe:2.3:a:mit:krb5\-appl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: krb5-appl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: backupninja
+vendor_id: debian
+name: Backupninja
+type: software
+tags: []
+cpe: cpe:2.3:a:debian:backupninja:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backupninja
+  confidence: auto

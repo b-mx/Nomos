@@ -1,0 +1,10 @@
+id: open-enterprise-server
+vendor_id: suse
+name: Open Enterprise Server
+type: os
+tags: []
+cpe: cpe:2.3:o:suse:open_enterprise_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: open_enterprise_server
+  confidence: auto

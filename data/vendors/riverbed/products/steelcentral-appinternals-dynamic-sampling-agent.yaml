@@ -1,0 +1,10 @@
+id: steelcentral-appinternals-dynamic-sampling-agent
+vendor_id: riverbed
+name: Steelcentral Appinternals Dynamic Sampling Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:riverbed:steelcentral_appinternals_dynamic_sampling_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: steelcentral_appinternals_dynamic_sampling_agent
+  confidence: auto

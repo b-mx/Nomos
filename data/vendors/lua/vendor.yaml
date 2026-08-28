@@ -1,0 +1,7 @@
+id: lua
+name: Lua
+cpe: cpe:2.3:*:lua:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lua
+  confidence: auto

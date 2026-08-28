@@ -1,0 +1,10 @@
+id: espace-desktop
+vendor_id: huawei
+name: Espace Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:espace_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espace_desktop
+  confidence: auto

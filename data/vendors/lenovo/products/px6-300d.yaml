@@ -1,0 +1,10 @@
+id: px6-300d
+vendor_id: lenovo
+name: Px6-300D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:px6\-300d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px6-300d
+  confidence: auto

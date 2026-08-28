@@ -1,0 +1,10 @@
+id: workcentre-5845-firmware
+vendor_id: xerox
+name: Workcentre 5845 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xerox:workcentre_5845_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: workcentre_5845_firmware
+  confidence: auto

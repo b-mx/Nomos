@@ -1,0 +1,10 @@
+id: foxit-mobilepdf-pdf-reader
+vendor_id: foxitsoftware
+name: Foxit Mobilepdf - Pdf Reader
+type: software
+tags: []
+cpe: cpe:2.3:a:foxitsoftware:foxit_mobilepdf_\-_pdf_reader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foxit_mobilepdf_-_pdf_reader
+  confidence: auto

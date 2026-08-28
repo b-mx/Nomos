@@ -1,0 +1,10 @@
+id: linux-security-64
+vendor_id: withsecure
+name: Linux Security 64
+type: software
+tags: []
+cpe: cpe:2.3:a:withsecure:linux_security_64:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linux_security_64
+  confidence: auto

@@ -1,0 +1,10 @@
+id: im-2500
+vendor_id: ricoh
+name: Im 2500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_2500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_2500
+  confidence: auto

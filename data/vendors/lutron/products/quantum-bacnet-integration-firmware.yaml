@@ -1,0 +1,10 @@
+id: quantum-bacnet-integration-firmware
+vendor_id: lutron
+name: Quantum Bacnet Integration Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lutron:quantum_bacnet_integration_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: quantum_bacnet_integration_firmware
+  confidence: auto

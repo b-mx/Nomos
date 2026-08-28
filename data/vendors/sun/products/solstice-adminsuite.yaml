@@ -1,0 +1,10 @@
+id: solstice-adminsuite
+vendor_id: sun
+name: Solstice Adminsuite
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:solstice_adminsuite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solstice_adminsuite
+  confidence: auto

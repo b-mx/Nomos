@@ -1,0 +1,10 @@
+id: ua-lite
+vendor_id: ui
+name: Ua Lite
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:ua_lite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ua_lite
+  confidence: auto

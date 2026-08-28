@@ -1,0 +1,10 @@
+id: rx-clv2-b
+vendor_id: sharp
+name: Rx-Clv2-B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:rx\-clv2\-b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rx-clv2-b
+  confidence: auto

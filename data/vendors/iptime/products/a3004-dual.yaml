@@ -1,0 +1,10 @@
+id: a3004-dual
+vendor_id: iptime
+name: A3004-Dual
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a3004\-dual:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a3004-dual
+  confidence: auto

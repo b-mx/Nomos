@@ -1,0 +1,9 @@
+id: visionos
+vendor_id: visionos
+name: Apple visionOS
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: visionos
+  confidence: auto

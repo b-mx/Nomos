@@ -1,0 +1,10 @@
+id: vivid-i-bt06-firmware
+vendor_id: gehealthcare
+name: Vivid I Bt06 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:vivid_i_bt06_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vivid_i_bt06_firmware
+  confidence: auto

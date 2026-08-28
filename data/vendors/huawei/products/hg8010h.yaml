@@ -1,0 +1,10 @@
+id: hg8010h
+vendor_id: huawei
+name: Hg8010H
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:hg8010h:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hg8010h
+  confidence: auto

@@ -1,0 +1,10 @@
+id: astra-trident-autosupport
+vendor_id: netapp
+name: Astra Trident Autosupport
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:astra_trident_autosupport:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: astra_trident_autosupport
+  confidence: auto

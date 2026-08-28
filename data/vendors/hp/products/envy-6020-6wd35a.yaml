@@ -1,0 +1,10 @@
+id: envy-6020-6wd35a
+vendor_id: hp
+name: Envy 6020 6Wd35A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_6020_6wd35a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_6020_6wd35a
+  confidence: auto

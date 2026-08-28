@@ -1,0 +1,10 @@
+id: nexus-2128
+vendor_id: abb
+name: Nexus-2128
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:nexus\-2128:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nexus-2128
+  confidence: auto

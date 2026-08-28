@@ -1,0 +1,10 @@
+id: lms111-firmware
+vendor_id: sick
+name: Lms111 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sick:lms111_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lms111_firmware
+  confidence: auto

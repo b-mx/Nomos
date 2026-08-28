@@ -1,0 +1,10 @@
+id: profile-registration-without-reload-refresh
+vendor_id: rems
+name: Profile Registration Without Reload/Refresh
+type: software
+tags: []
+cpe: cpe:2.3:a:rems:profile_registration_without_reload\/refresh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: profile_registration_without_reload/refresh
+  confidence: auto

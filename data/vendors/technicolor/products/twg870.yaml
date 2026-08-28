@@ -1,0 +1,10 @@
+id: twg870
+vendor_id: technicolor
+name: Twg870
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:twg870:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: twg870
+  confidence: auto

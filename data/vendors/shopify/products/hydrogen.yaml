@@ -1,0 +1,10 @@
+id: hydrogen
+vendor_id: shopify
+name: Hydrogen
+type: software
+tags: []
+cpe: cpe:2.3:a:shopify:hydrogen:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hydrogen
+  confidence: auto

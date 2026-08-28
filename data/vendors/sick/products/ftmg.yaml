@@ -1,0 +1,10 @@
+id: ftmg
+vendor_id: sick
+name: Ftmg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sick:ftmg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ftmg
+  confidence: auto

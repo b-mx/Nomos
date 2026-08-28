@@ -1,0 +1,10 @@
+id: 5se19a
+vendor_id: hp
+name: 5Se19A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:5se19a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5se19a
+  confidence: auto

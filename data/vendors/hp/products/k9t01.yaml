@@ -1,0 +1,10 @@
+id: k9t01
+vendor_id: hp
+name: K9T01
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:k9t01:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k9t01
+  confidence: auto

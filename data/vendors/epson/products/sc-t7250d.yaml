@@ -1,0 +1,10 @@
+id: sc-t7250d
+vendor_id: epson
+name: Sc-T7250D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:sc\-t7250d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sc-t7250d
+  confidence: auto

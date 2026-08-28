@@ -1,0 +1,10 @@
+id: liebert-sitescan-web
+vendor_id: emerson
+name: Liebert Sitescan Web
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:liebert_sitescan_web:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: liebert_sitescan_web
+  confidence: auto

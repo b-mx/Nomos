@@ -1,0 +1,10 @@
+id: cn75
+vendor_id: honeywell
+name: Cn75
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:cn75:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cn75
+  confidence: auto

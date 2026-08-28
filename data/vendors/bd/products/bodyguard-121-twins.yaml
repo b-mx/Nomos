@@ -1,0 +1,10 @@
+id: bodyguard-121-twins
+vendor_id: bd
+name: Bodyguard 121 Twins
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:bodyguard_121_twins:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bodyguard_121_twins
+  confidence: auto

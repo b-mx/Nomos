@@ -1,0 +1,10 @@
+id: m4-pdf
+vendor_id: prestashop
+name: M4 Pdf
+type: software
+tags: []
+cpe: cpe:2.3:a:prestashop:m4_pdf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m4_pdf
+  confidence: auto

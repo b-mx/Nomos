@@ -1,0 +1,10 @@
+id: color-laserjet-cp2025-printer
+vendor_id: hp
+name: Color Laserjet Cp2025 Printer
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:color_laserjet_cp2025_printer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: color_laserjet_cp2025_printer
+  confidence: auto

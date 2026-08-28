@@ -1,0 +1,10 @@
+id: as6202t-firmware
+vendor_id: asustor
+name: As6202T Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:asustor:as6202t_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: as6202t_firmware
+  confidence: auto

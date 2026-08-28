@@ -1,0 +1,10 @@
+id: ideapad-3-15are05-firmware
+vendor_id: lenovo
+name: Ideapad 3-15Are05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_3\-15are05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_3-15are05_firmware
+  confidence: auto

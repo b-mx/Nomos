@@ -1,0 +1,10 @@
+id: ideapad-slim-1-11ast-05-firmware
+vendor_id: lenovo
+name: Ideapad Slim 1-11Ast-05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:ideapad_slim_1\-11ast\-05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideapad_slim_1-11ast-05_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: amnesia-groove
+vendor_id: nobexrc
+name: Amnesia Groove
+type: software
+tags: []
+cpe: cpe:2.3:a:nobexrc:amnesia_groove:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: amnesia_groove
+  confidence: auto

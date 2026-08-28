@@ -1,0 +1,10 @@
+id: motor
+vendor_id: magzter
+name: Motor
+type: software
+tags: []
+cpe: cpe:2.3:a:magzter:motor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: motor
+  confidence: auto

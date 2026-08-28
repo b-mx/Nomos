@@ -1,0 +1,13 @@
+id: akeneo-pim
+vendor_id: akeneo
+name: Akeneo PIM
+type: software
+tags: []
+cpe: cpe:2.3:a:akeneo:product_information_management:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: akeneo-pim
+  confidence: auto
+- source: nvd
+  value: product_information_management
+  confidence: auto

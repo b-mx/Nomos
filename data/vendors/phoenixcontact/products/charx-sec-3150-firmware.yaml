@@ -1,0 +1,10 @@
+id: charx-sec-3150-firmware
+vendor_id: phoenixcontact
+name: Charx Sec-3150 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:phoenixcontact:charx_sec\-3150_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: charx_sec-3150_firmware
+  confidence: auto

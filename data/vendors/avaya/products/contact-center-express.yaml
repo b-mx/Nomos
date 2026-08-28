@@ -1,0 +1,10 @@
+id: contact-center-express
+vendor_id: avaya
+name: Contact Center Express
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:contact_center_express:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: contact_center_express
+  confidence: auto

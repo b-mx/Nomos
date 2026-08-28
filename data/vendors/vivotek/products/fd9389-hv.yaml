@@ -1,0 +1,10 @@
+id: fd9389-hv
+vendor_id: vivotek
+name: Fd9389-Hv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fd9389\-hv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd9389-hv
+  confidence: auto

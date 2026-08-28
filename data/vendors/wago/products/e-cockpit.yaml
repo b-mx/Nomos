@@ -1,0 +1,10 @@
+id: e-cockpit
+vendor_id: wago
+name: E!Cockpit
+type: software
+tags: []
+cpe: cpe:2.3:a:wago:e\!cockpit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e!cockpit
+  confidence: auto

@@ -1,0 +1,10 @@
+id: squawk-icao-registry
+vendor_id: neilcochran
+name: Squawk/Icao-Registry
+type: software
+tags: []
+cpe: cpe:2.3:a:neilcochran:squawk\/icao\-registry:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: squawk/icao-registry
+  confidence: auto

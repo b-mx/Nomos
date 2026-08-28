@@ -1,0 +1,10 @@
+id: melsec-q26udecpu
+vendor_id: mitsubishi
+name: Melsec Q26Udecpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishi:melsec_q26udecpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_q26udecpu
+  confidence: auto

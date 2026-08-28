@@ -1,0 +1,10 @@
+id: zxhn-h108n
+vendor_id: zte
+name: Zxhn H108N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxhn_h108n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxhn_h108n
+  confidence: auto

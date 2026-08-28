@@ -1,0 +1,10 @@
+id: 5cm79a
+vendor_id: hp
+name: 5Cm79A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:5cm79a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5cm79a
+  confidence: auto

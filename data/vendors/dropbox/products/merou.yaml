@@ -1,0 +1,10 @@
+id: merou
+vendor_id: dropbox
+name: Merou
+type: software
+tags: []
+cpe: cpe:2.3:a:dropbox:merou:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: merou
+  confidence: auto

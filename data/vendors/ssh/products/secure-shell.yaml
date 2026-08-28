@@ -1,0 +1,10 @@
+id: secure-shell
+vendor_id: ssh
+name: Secure Shell
+type: software
+tags: []
+cpe: cpe:2.3:a:ssh:secure_shell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secure_shell
+  confidence: auto

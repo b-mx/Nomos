@@ -1,0 +1,10 @@
+id: mfc-8710dw
+vendor_id: brother
+name: Mfc-8710Dw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-8710dw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-8710dw
+  confidence: auto

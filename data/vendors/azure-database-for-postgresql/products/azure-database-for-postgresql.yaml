@@ -1,0 +1,10 @@
+id: azure-database-for-postgresql
+vendor_id: azure-database-for-postgresql
+name: Azure Database for PostgreSQL
+type: software
+tags:
+- database
+aliases:
+- source: endoflife
+  value: azure-database-for-postgresql
+  confidence: auto

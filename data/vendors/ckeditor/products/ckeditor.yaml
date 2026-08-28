@@ -1,0 +1,14 @@
+id: ckeditor
+vendor_id: ckeditor
+name: CKEditor
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:ckeditor:ckeditor:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: ckeditor
+  confidence: auto
+- source: nvd
+  value: ckeditor
+  confidence: auto

@@ -1,0 +1,10 @@
+id: system-x-idataplex-dx360-m3
+vendor_id: lenovo
+name: System X Idataplex Dx360 M3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:system_x_idataplex_dx360_m3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: system_x_idataplex_dx360_m3
+  confidence: auto

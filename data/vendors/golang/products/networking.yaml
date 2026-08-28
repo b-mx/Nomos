@@ -1,0 +1,10 @@
+id: networking
+vendor_id: golang
+name: Networking
+type: software
+tags: []
+cpe: cpe:2.3:a:golang:networking:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: networking
+  confidence: auto

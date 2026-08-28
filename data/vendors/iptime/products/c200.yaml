@@ -1,0 +1,10 @@
+id: c200
+vendor_id: iptime
+name: C200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:c200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c200
+  confidence: auto

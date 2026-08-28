@@ -1,0 +1,10 @@
+id: tm-m30ii-h-firmware
+vendor_id: epson
+name: Tm-M30Ii-H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:tm\-m30ii\-h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-m30ii-h_firmware
+  confidence: auto

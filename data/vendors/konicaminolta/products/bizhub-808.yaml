@@ -1,0 +1,10 @@
+id: bizhub-808
+vendor_id: konicaminolta
+name: Bizhub 808
+type: hardware
+tags: []
+cpe: cpe:2.3:h:konicaminolta:bizhub_808:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bizhub_808
+  confidence: auto

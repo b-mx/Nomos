@@ -1,0 +1,10 @@
+id: welch-allyn-diagnostic-cardiology-suite
+vendor_id: baxter
+name: Welch Allyn Diagnostic Cardiology Suite
+type: software
+tags: []
+cpe: cpe:2.3:a:baxter:welch_allyn_diagnostic_cardiology_suite:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: welch_allyn_diagnostic_cardiology_suite
+  confidence: auto

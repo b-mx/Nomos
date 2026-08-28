@@ -1,0 +1,10 @@
+id: iprint-scan
+vendor_id: brother
+name: Iprint&Scan
+type: software
+tags: []
+cpe: cpe:2.3:a:brother:iprint\&scan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iprint&scan
+  confidence: auto

@@ -1,0 +1,10 @@
+id: infocard-module
+vendor_id: simplesamlphp
+name: Infocard Module
+type: software
+tags: []
+cpe: cpe:2.3:a:simplesamlphp:infocard_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: infocard_module
+  confidence: auto

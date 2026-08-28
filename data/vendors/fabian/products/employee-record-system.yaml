@@ -1,0 +1,10 @@
+id: employee-record-system
+vendor_id: fabian
+name: Employee Record System
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:employee_record_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: employee_record_system
+  confidence: auto

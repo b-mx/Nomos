@@ -1,0 +1,10 @@
+id: maxview-storage-manager
+vendor_id: microchip
+name: Maxview Storage Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:microchip:maxview_storage_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxview_storage_manager
+  confidence: auto

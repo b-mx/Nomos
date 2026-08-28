@@ -1,0 +1,10 @@
+id: deploy
+vendor_id: tanium
+name: Deploy
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:deploy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deploy
+  confidence: auto

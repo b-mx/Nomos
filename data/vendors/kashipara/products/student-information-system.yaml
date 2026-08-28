@@ -1,0 +1,10 @@
+id: student-information-system
+vendor_id: kashipara
+name: Student Information System
+type: software
+tags: []
+cpe: cpe:2.3:a:kashipara:student_information_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: student_information_system
+  confidence: auto

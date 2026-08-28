@@ -1,0 +1,10 @@
+id: woodstox
+vendor_id: fasterxml
+name: Woodstox
+type: software
+tags: []
+cpe: cpe:2.3:a:fasterxml:woodstox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woodstox
+  confidence: auto

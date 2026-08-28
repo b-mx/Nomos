@@ -1,0 +1,10 @@
+id: servo-cmmt-as-c4-3a-ec-s1-firmware
+vendor_id: festo
+name: Servo Cmmt-As-C4-3A-Ec-S1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:festo:servo_cmmt\-as\-c4\-3a\-ec\-s1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: servo_cmmt-as-c4-3a-ec-s1_firmware
+  confidence: auto

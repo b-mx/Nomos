@@ -1,0 +1,10 @@
+id: ssl-vpn-client
+vendor_id: synology
+name: Ssl Vpn Client
+type: software
+tags: []
+cpe: cpe:2.3:a:synology:ssl_vpn_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ssl_vpn_client
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zu3cg
+vendor_id: amd
+name: Zu3Cg
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:zu3cg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu3cg
+  confidence: auto

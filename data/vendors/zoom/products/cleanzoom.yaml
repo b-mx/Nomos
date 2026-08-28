@@ -1,0 +1,10 @@
+id: cleanzoom
+vendor_id: zoom
+name: Cleanzoom
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:cleanzoom:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cleanzoom
+  confidence: auto

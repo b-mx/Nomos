@@ -1,0 +1,10 @@
+id: better-remote-config-center
+vendor_id: baidu
+name: Better Remote Config Center
+type: software
+tags: []
+cpe: cpe:2.3:a:baidu:better_remote_config_center:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: better_remote_config_center
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zu1cg-firmware
+vendor_id: amd
+name: Zu1Cg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:zu1cg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu1cg_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e200x7
+vendor_id: huawei
+name: E200X7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:e200x7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e200x7
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bosh-cli
+vendor_id: pivotal-software
+name: Bosh Cli
+type: software
+tags: []
+cpe: cpe:2.3:a:pivotal_software:bosh_cli:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bosh_cli
+  confidence: auto

@@ -1,0 +1,10 @@
+id: modem-firmware
+vendor_id: vivo
+name: Modem Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivo:modem_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: modem_firmware
+  confidence: auto

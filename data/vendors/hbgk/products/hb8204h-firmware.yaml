@@ -1,0 +1,10 @@
+id: hb8204h-firmware
+vendor_id: hbgk
+name: Hb8204H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hbgk:hb8204h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb8204h_firmware
+  confidence: auto

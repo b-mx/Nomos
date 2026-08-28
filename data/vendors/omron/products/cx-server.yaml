@@ -1,0 +1,10 @@
+id: cx-server
+vendor_id: omron
+name: Cx-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:omron:cx\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cx-server
+  confidence: auto

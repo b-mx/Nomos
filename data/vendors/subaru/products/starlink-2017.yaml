@@ -1,0 +1,10 @@
+id: starlink-2017
+vendor_id: subaru
+name: Starlink 2017
+type: hardware
+tags: []
+cpe: cpe:2.3:h:subaru:starlink_2017:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: starlink_2017
+  confidence: auto

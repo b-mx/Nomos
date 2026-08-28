@@ -1,0 +1,10 @@
+id: langgraph
+vendor_id: langchain
+name: Langgraph
+type: software
+tags: []
+cpe: cpe:2.3:a:langchain:langgraph:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: langgraph
+  confidence: auto

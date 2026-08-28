@@ -1,0 +1,10 @@
+id: d-copia253mf-plus-firmware
+vendor_id: kyocera
+name: D-Copia253Mf Plus Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:kyocera:d\-copia253mf_plus_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d-copia253mf_plus_firmware
+  confidence: auto

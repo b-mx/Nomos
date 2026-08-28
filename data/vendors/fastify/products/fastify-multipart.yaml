@@ -1,0 +1,10 @@
+id: fastify-multipart
+vendor_id: fastify
+name: Fastify-Multipart
+type: software
+tags: []
+cpe: cpe:2.3:a:fastify:fastify\-multipart:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fastify-multipart
+  confidence: auto

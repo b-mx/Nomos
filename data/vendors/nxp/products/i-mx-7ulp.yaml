@@ -1,0 +1,10 @@
+id: i-mx-7ulp
+vendor_id: nxp
+name: I.Mx 7Ulp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:i\.mx_7ulp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_7ulp
+  confidence: auto

@@ -1,0 +1,10 @@
+id: befw11s4-v3
+vendor_id: linksys
+name: Befw11S4 V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:befw11s4_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: befw11s4_v3
+  confidence: auto

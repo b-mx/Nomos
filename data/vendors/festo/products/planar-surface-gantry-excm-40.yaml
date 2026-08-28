@@ -1,0 +1,10 @@
+id: planar-surface-gantry-excm-40
+vendor_id: festo
+name: Planar Surface Gantry Excm-40
+type: hardware
+tags: []
+cpe: cpe:2.3:h:festo:planar_surface_gantry_excm\-40:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: planar_surface_gantry_excm-40
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 5sd78a
+vendor_id: hp
+name: 5Sd78A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:5sd78a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5sd78a
+  confidence: auto

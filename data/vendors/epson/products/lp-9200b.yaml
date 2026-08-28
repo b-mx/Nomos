@@ -1,0 +1,10 @@
+id: lp-9200b
+vendor_id: epson
+name: Lp-9200B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:lp\-9200b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-9200b
+  confidence: auto

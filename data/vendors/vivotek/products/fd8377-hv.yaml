@@ -1,0 +1,10 @@
+id: fd8377-hv
+vendor_id: vivotek
+name: Fd8377-Hv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:fd8377\-hv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fd8377-hv
+  confidence: auto

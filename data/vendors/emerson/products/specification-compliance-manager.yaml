@@ -1,0 +1,10 @@
+id: specification-compliance-manager
+vendor_id: emerson
+name: Specification Compliance Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:emerson:specification_compliance_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: specification_compliance_manager
+  confidence: auto

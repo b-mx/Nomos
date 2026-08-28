@@ -1,0 +1,10 @@
+id: catch-sticky-menu
+vendor_id: catchplugins
+name: Catch Sticky Menu
+type: software
+tags: []
+cpe: cpe:2.3:a:catchplugins:catch_sticky_menu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catch_sticky_menu
+  confidence: auto

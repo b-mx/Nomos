@@ -1,0 +1,10 @@
+id: n8120
+vendor_id: lexmark
+name: N8120
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:n8120:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: n8120
+  confidence: auto

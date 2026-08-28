@@ -1,0 +1,10 @@
+id: crypto-accelerator-4000
+vendor_id: sun
+name: Crypto Accelerator 4000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sun:crypto_accelerator_4000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: crypto_accelerator_4000
+  confidence: auto

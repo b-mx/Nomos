@@ -1,0 +1,10 @@
+id: lp-8700ps3
+vendor_id: epson
+name: Lp-8700Ps3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:lp\-8700ps3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lp-8700ps3
+  confidence: auto

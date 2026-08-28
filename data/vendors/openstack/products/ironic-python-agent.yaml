@@ -1,0 +1,10 @@
+id: ironic-python-agent
+vendor_id: openstack
+name: Ironic Python Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:ironic_python_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ironic_python_agent
+  confidence: auto

@@ -1,0 +1,10 @@
+id: simple-author-box
+vendor_id: webfactoryltd
+name: Simple Author Box
+type: software
+tags: []
+cpe: cpe:2.3:a:webfactoryltd:simple_author_box:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_author_box
+  confidence: auto

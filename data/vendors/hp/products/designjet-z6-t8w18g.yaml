@@ -1,0 +1,10 @@
+id: designjet-z6-t8w18g
+vendor_id: hp
+name: Designjet Z6 T8W18G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_z6_t8w18g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z6_t8w18g
+  confidence: auto

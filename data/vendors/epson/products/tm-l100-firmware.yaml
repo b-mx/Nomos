@@ -1,0 +1,10 @@
+id: tm-l100-firmware
+vendor_id: epson
+name: Tm-L100 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:epson:tm\-l100_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-l100_firmware
+  confidence: auto

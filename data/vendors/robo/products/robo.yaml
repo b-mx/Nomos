@@ -1,0 +1,10 @@
+id: robo
+vendor_id: robo
+name: Robo
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: robo
+  confidence: auto

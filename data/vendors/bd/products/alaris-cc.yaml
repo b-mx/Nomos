@@ -1,0 +1,10 @@
+id: alaris-cc
+vendor_id: bd
+name: Alaris Cc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bd:alaris_cc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: alaris_cc
+  confidence: auto

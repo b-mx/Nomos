@@ -1,0 +1,10 @@
+id: susestudio-ui-server
+vendor_id: suse
+name: Susestudio-Ui-Server
+type: software
+tags: []
+cpe: cpe:2.3:a:suse:susestudio\-ui\-server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: susestudio-ui-server
+  confidence: auto

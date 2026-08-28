@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m605-l3u53a
+vendor_id: hp
+name: Laserjet Enterprise M605 L3U53A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_m605_l3u53a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m605_l3u53a
+  confidence: auto

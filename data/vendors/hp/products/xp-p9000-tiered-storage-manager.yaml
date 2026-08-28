@@ -1,0 +1,10 @@
+id: xp-p9000-tiered-storage-manager
+vendor_id: hp
+name: Xp P9000 Tiered Storage Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:xp_p9000_tiered_storage_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp_p9000_tiered_storage_manager
+  confidence: auto

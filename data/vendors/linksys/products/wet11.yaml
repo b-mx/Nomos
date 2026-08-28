@@ -1,0 +1,10 @@
+id: wet11
+vendor_id: linksys
+name: Wet11
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wet11:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wet11
+  confidence: auto

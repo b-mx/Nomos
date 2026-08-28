@@ -1,0 +1,10 @@
+id: g-cam-efd-2250-firmware
+vendor_id: geutebrueck
+name: G-Cam/Efd-2250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:geutebrueck:g\-cam\/efd\-2250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: g-cam/efd-2250_firmware
+  confidence: auto

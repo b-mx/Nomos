@@ -1,0 +1,10 @@
+id: gem-703l-firmware
+vendor_id: huawei
+name: Gem-703L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:gem\-703l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gem-703l_firmware
+  confidence: auto

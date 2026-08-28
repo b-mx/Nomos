@@ -1,0 +1,10 @@
+id: rh2288-v3
+vendor_id: huawei
+name: Rh2288 V3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:rh2288_v3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rh2288_v3
+  confidence: auto

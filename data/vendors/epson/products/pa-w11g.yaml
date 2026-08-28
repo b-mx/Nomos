@@ -1,0 +1,10 @@
+id: pa-w11g
+vendor_id: epson
+name: Pa-W11G
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:pa\-w11g:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pa-w11g
+  confidence: auto

@@ -1,0 +1,10 @@
+id: discovery-nm-ct-d570c
+vendor_id: gehealthcare
+name: Discovery Nm/Ct D570C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:discovery_nm\/ct_d570c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_nm/ct_d570c
+  confidence: auto

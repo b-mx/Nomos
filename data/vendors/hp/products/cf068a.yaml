@@ -1,0 +1,10 @@
+id: cf068a
+vendor_id: hp
+name: Cf068A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:cf068a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cf068a
+  confidence: auto

@@ -1,0 +1,10 @@
+id: spectre-notebook-13-v0xx
+vendor_id: hp
+name: Spectre Notebook 13-V0Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:spectre_notebook_13\-v0xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: spectre_notebook_13-v0xx
+  confidence: auto

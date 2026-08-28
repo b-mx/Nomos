@@ -1,0 +1,10 @@
+id: imaging-barcode-scanner-bw868aa
+vendor_id: hp
+name: Imaging Barcode Scanner Bw868Aa
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:imaging_barcode_scanner_bw868aa:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: imaging_barcode_scanner_bw868aa
+  confidence: auto

@@ -1,0 +1,10 @@
+id: c9x299-pgf-l-firmware
+vendor_id: supermicro
+name: C9X299-Pgf-L Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:c9x299\-pgf\-l_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c9x299-pgf-l_firmware
+  confidence: auto

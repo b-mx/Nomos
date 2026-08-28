@@ -1,0 +1,10 @@
+id: pcoweb-hvac-bacnet-gateway
+vendor_id: carel
+name: Pcoweb Hvac Bacnet Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:carel:pcoweb_hvac_bacnet_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcoweb_hvac_bacnet_gateway
+  confidence: auto

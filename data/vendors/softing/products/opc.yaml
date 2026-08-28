@@ -1,0 +1,10 @@
+id: opc
+vendor_id: softing
+name: Opc
+type: software
+tags: []
+cpe: cpe:2.3:a:softing:opc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opc
+  confidence: auto

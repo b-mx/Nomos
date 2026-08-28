@@ -1,0 +1,10 @@
+id: mfc-j6980cdw-jpn-firmware
+vendor_id: brother
+name: Mfc-J6980Cdw(Jpn) Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:mfc\-j6980cdw\(jpn\)_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-j6980cdw(jpn)_firmware
+  confidence: auto

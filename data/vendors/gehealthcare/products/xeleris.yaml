@@ -1,0 +1,10 @@
+id: xeleris
+vendor_id: gehealthcare
+name: Xeleris
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:xeleris:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xeleris
+  confidence: auto

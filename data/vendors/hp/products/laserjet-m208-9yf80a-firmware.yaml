@@ -1,0 +1,10 @@
+id: laserjet-m208-9yf80a-firmware
+vendor_id: hp
+name: Laserjet M208 9Yf80A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_m208_9yf80a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m208_9yf80a_firmware
+  confidence: auto

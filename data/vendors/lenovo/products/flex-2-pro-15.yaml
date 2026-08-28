@@ -1,0 +1,10 @@
+id: flex-2-pro-15
+vendor_id: lenovo
+name: Flex 2 Pro-15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:flex_2_pro\-15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flex_2_pro-15
+  confidence: auto

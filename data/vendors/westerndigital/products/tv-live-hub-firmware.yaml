@@ -1,0 +1,10 @@
+id: tv-live-hub-firmware
+vendor_id: westerndigital
+name: Tv Live Hub Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westerndigital:tv_live_hub_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tv_live_hub_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: agent
+vendor_id: trellix
+name: Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:trellix:agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: agent
+  confidence: auto

@@ -1,0 +1,10 @@
+id: calendar
+vendor_id: discourse
+name: Calendar
+type: software
+tags: []
+cpe: cpe:2.3:a:discourse:calendar:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: calendar
+  confidence: auto

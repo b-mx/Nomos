@@ -1,0 +1,10 @@
+id: rn4870
+vendor_id: microchip
+name: Rn4870
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microchip:rn4870:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rn4870
+  confidence: auto

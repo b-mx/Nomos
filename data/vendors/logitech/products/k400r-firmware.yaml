@@ -1,0 +1,10 @@
+id: k400r-firmware
+vendor_id: logitech
+name: K400R Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:logitech:k400r_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k400r_firmware
+  confidence: auto

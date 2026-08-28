@@ -1,0 +1,10 @@
+id: hotel-booking-system
+vendor_id: phpjabbers
+name: Hotel Booking System
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:hotel_booking_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hotel_booking_system
+  confidence: auto

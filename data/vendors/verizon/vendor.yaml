@@ -1,0 +1,7 @@
+id: verizon
+name: Verizon
+cpe: cpe:2.3:*:verizon:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: verizon
+  confidence: auto

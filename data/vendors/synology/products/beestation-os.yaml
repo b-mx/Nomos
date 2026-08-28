@@ -1,0 +1,10 @@
+id: beestation-os
+vendor_id: synology
+name: Beestation Os
+type: os
+tags: []
+cpe: cpe:2.3:o:synology:beestation_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: beestation_os
+  confidence: auto

@@ -1,0 +1,10 @@
+id: simple-forum
+vendor_id: fabian
+name: Simple Forum
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:simple_forum:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: simple_forum
+  confidence: auto

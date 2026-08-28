@@ -1,0 +1,10 @@
+id: x12qch
+vendor_id: supermicro
+name: X12Qch+
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x12qch\+:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x12qch+
+  confidence: auto

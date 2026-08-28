@@ -1,0 +1,10 @@
+id: dr-250
+vendor_id: westermo
+name: Dr-250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:westermo:dr\-250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-250
+  confidence: auto

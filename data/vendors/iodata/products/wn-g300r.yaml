@@ -1,0 +1,10 @@
+id: wn-g300r
+vendor_id: iodata
+name: Wn-G300R
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iodata:wn\-g300r:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wn-g300r
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dreammapper
+vendor_id: philips
+name: Dreammapper
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:dreammapper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dreammapper
+  confidence: auto

@@ -1,0 +1,10 @@
+id: aws-transform-mcp-server
+vendor_id: amazon
+name: Aws Transform Mcp Server
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_transform_mcp_server:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_transform_mcp_server
+  confidence: auto

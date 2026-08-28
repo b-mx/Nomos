@@ -1,0 +1,10 @@
+id: designjet-z6-pro-2qu25a
+vendor_id: hp
+name: Designjet Z6+ Pro 2Qu25A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:designjet_z6\+_pro_2qu25a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z6+_pro_2qu25a
+  confidence: auto

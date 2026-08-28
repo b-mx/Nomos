@@ -1,0 +1,10 @@
+id: anyoffice
+vendor_id: huawei
+name: Anyoffice
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:anyoffice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anyoffice
+  confidence: auto

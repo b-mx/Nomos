@@ -1,0 +1,10 @@
+id: linksys-wrt-160nl
+vendor_id: belkin
+name: Linksys Wrt 160Nl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belkin:linksys_wrt_160nl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: linksys_wrt_160nl
+  confidence: auto

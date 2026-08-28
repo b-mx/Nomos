@@ -1,0 +1,10 @@
+id: money-forward-for-ymfg
+vendor_id: moneyforward
+name: Money Forward For Ymfg
+type: software
+tags: []
+cpe: cpe:2.3:a:moneyforward:money_forward_for_ymfg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: money_forward_for_ymfg
+  confidence: auto

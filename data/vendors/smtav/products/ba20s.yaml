@@ -1,0 +1,10 @@
+id: ba20s
+vendor_id: smtav
+name: Ba20S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:smtav:ba20s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ba20s
+  confidence: auto

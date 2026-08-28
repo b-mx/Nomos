@@ -1,0 +1,10 @@
+id: m2
+vendor_id: ui
+name: M2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ui:m2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m2
+  confidence: auto

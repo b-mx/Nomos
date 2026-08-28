@@ -1,0 +1,10 @@
+id: phaser-6510
+vendor_id: xerox
+name: Phaser 6510
+type: hardware
+tags: []
+cpe: cpe:2.3:h:xerox:phaser_6510:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: phaser_6510
+  confidence: auto

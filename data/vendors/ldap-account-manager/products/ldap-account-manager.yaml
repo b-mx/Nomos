@@ -1,0 +1,13 @@
+id: ldap-account-manager
+vendor_id: ldap-account-manager
+name: LDAP Account Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:ldap\-account\-manager:ldap_account_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: ldap-account-manager
+  confidence: auto
+- source: nvd
+  value: ldap_account_manager
+  confidence: auto

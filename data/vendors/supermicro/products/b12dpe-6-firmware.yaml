@@ -1,0 +1,10 @@
+id: b12dpe-6-firmware
+vendor_id: supermicro
+name: B12Dpe-6 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:b12dpe\-6_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: b12dpe-6_firmware
+  confidence: auto

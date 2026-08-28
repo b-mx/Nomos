@@ -1,0 +1,10 @@
+id: openfeature
+vendor_id: linuxfoundation
+name: Openfeature
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:openfeature:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openfeature
+  confidence: auto

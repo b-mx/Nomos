@@ -1,0 +1,10 @@
+id: euss
+vendor_id: tanium
+name: Euss
+type: software
+tags: []
+cpe: cpe:2.3:a:tanium:euss:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: euss
+  confidence: auto

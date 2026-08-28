@@ -1,0 +1,10 @@
+id: bl-x26
+vendor_id: lb-link
+name: Bl-X26
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lb\-link:bl\-x26:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bl-x26
+  confidence: auto

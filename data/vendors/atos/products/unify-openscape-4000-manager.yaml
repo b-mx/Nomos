@@ -1,0 +1,10 @@
+id: unify-openscape-4000-manager
+vendor_id: atos
+name: Unify Openscape 4000 Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:atos:unify_openscape_4000_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unify_openscape_4000_manager
+  confidence: auto

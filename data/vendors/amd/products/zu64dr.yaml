@@ -1,0 +1,10 @@
+id: zu64dr
+vendor_id: amd
+name: Zu64Dr
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:zu64dr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu64dr
+  confidence: auto

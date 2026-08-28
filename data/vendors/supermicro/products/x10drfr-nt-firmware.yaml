@@ -1,0 +1,10 @@
+id: x10drfr-nt-firmware
+vendor_id: supermicro
+name: X10Drfr-Nt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x10drfr\-nt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10drfr-nt_firmware
+  confidence: auto

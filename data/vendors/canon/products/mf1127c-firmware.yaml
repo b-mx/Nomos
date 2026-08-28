@@ -1,0 +1,10 @@
+id: mf1127c-firmware
+vendor_id: canon
+name: Mf1127C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:canon:mf1127c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf1127c_firmware
+  confidence: auto

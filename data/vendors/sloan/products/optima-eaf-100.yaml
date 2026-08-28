@@ -1,0 +1,10 @@
+id: optima-eaf-100
+vendor_id: sloan
+name: Optima Eaf-100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sloan:optima_eaf\-100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: optima_eaf-100
+  confidence: auto

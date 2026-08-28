@@ -1,0 +1,10 @@
+id: blackberry-playbook-os
+vendor_id: rim
+name: Blackberry Playbook Os
+type: os
+tags: []
+cpe: cpe:2.3:o:rim:blackberry_playbook_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: blackberry_playbook_os
+  confidence: auto

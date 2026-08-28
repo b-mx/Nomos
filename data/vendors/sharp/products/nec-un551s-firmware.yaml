@@ -1,0 +1,10 @@
+id: nec-un551s-firmware
+vendor_id: sharp
+name: Nec Un551S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sharp:nec_un551s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nec_un551s_firmware
+  confidence: auto

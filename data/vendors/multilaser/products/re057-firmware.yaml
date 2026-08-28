@@ -1,0 +1,10 @@
+id: re057-firmware
+vendor_id: multilaser
+name: Re057 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:multilaser:re057_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re057_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: stm32f4
+vendor_id: st
+name: Stm32F4
+type: hardware
+tags: []
+cpe: cpe:2.3:h:st:stm32f4:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32f4
+  confidence: auto

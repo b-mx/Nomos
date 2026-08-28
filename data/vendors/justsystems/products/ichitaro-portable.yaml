@@ -1,0 +1,10 @@
+id: ichitaro-portable
+vendor_id: justsystems
+name: Ichitaro Portable
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:ichitaro_portable:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ichitaro_portable
+  confidence: auto

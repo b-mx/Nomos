@@ -1,0 +1,10 @@
+id: laserjet-pro-mfp-m130-g3q57a
+vendor_id: hp
+name: Laserjet Pro Mfp M130 G3Q57A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_mfp_m130_g3q57a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_mfp_m130_g3q57a
+  confidence: auto

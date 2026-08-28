@@ -1,0 +1,10 @@
+id: ip9164-lpc-firmware
+vendor_id: vivotek
+name: Ip9164-Lpc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ip9164\-lpc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip9164-lpc_firmware
+  confidence: auto

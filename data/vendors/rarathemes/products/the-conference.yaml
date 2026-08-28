@@ -1,0 +1,10 @@
+id: the-conference
+vendor_id: rarathemes
+name: The Conference
+type: software
+tags: []
+cpe: cpe:2.3:a:rarathemes:the_conference:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: the_conference
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xdg-utils
+vendor_id: gentoo
+name: Xdg-Utils
+type: software
+tags: []
+cpe: cpe:2.3:a:gentoo:xdg\-utils:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xdg-utils
+  confidence: auto

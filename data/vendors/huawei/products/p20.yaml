@@ -1,0 +1,10 @@
+id: p20
+vendor_id: huawei
+name: P20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:p20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: p20
+  confidence: auto

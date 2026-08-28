@@ -1,0 +1,10 @@
+id: ideacentre-m630e
+vendor_id: lenovo
+name: Ideacentre M630E
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:ideacentre_m630e:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ideacentre_m630e
+  confidence: auto

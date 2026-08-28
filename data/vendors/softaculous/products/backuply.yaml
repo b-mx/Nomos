@@ -1,0 +1,10 @@
+id: backuply
+vendor_id: softaculous
+name: Backuply
+type: software
+tags: []
+cpe: cpe:2.3:a:softaculous:backuply:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: backuply
+  confidence: auto

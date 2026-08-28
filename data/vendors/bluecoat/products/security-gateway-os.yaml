@@ -1,0 +1,10 @@
+id: security-gateway-os
+vendor_id: bluecoat
+name: Security Gateway Os
+type: os
+tags: []
+cpe: cpe:2.3:o:bluecoat:security_gateway_os:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: security_gateway_os
+  confidence: auto

@@ -1,0 +1,10 @@
+id: richdocuments
+vendor_id: nextcloud
+name: Richdocuments
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:richdocuments:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: richdocuments
+  confidence: auto

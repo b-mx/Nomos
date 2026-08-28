@@ -1,0 +1,10 @@
+id: ros-2
+vendor_id: ros-2
+name: ROS 2
+type: library
+tags:
+- framework
+aliases:
+- source: endoflife
+  value: ros-2
+  confidence: auto

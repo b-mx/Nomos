@@ -1,0 +1,10 @@
+id: tofino-argon-fa-tsa-220-tx-tx
+vendor_id: belden
+name: Tofino Argon Fa-Tsa-220-Tx/Tx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:belden:tofino_argon_fa\-tsa\-220\-tx\/tx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tofino_argon_fa-tsa-220-tx/tx
+  confidence: auto

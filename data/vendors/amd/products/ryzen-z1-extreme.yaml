@@ -1,0 +1,10 @@
+id: ryzen-z1-extreme
+vendor_id: amd
+name: Ryzen Z1 Extreme
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_z1_extreme:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_z1_extreme
+  confidence: auto

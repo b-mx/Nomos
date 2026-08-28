@@ -1,0 +1,10 @@
+id: zipper
+vendor_id: nextcloud
+name: Zipper
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:zipper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zipper
+  confidence: auto

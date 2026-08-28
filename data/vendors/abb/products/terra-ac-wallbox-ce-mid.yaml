@@ -1,0 +1,10 @@
+id: terra-ac-wallbox-ce-mid
+vendor_id: abb
+name: Terra Ac Wallbox Ce Mid
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abb:terra_ac_wallbox_ce_mid:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: terra_ac_wallbox_ce_mid
+  confidence: auto

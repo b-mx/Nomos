@@ -1,0 +1,10 @@
+id: xp-320
+vendor_id: epson
+name: Xp-320
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:xp\-320:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xp-320
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nbd7016t-f-v2-firmware
+vendor_id: xiongmaitech
+name: Nbd7016T-F-V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:xiongmaitech:nbd7016t\-f\-v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nbd7016t-f-v2_firmware
+  confidence: auto

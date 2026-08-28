@@ -1,0 +1,10 @@
+id: 7-mode-transition-tool
+vendor_id: netapp
+name: 7-Mode Transition Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:7\-mode_transition_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 7-mode_transition_tool
+  confidence: auto

@@ -1,0 +1,10 @@
+id: conprosys-hmi-system
+vendor_id: contec
+name: Conprosys Hmi System
+type: software
+tags: []
+cpe: cpe:2.3:a:contec:conprosys_hmi_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: conprosys_hmi_system
+  confidence: auto

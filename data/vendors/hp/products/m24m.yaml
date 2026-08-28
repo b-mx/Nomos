@@ -1,0 +1,10 @@
+id: m24m
+vendor_id: hp
+name: M24M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:m24m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m24m
+  confidence: auto

@@ -1,0 +1,10 @@
+id: olm
+vendor_id: matrix
+name: Olm
+type: software
+tags: []
+cpe: cpe:2.3:a:matrix:olm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: olm
+  confidence: auto

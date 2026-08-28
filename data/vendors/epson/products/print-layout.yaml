@@ -1,0 +1,10 @@
+id: print-layout
+vendor_id: epson
+name: Print Layout
+type: software
+tags: []
+cpe: cpe:2.3:a:epson:print_layout:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: print_layout
+  confidence: auto

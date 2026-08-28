@@ -1,0 +1,10 @@
+id: x466
+vendor_id: lexmark
+name: X466
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:x466:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x466
+  confidence: auto

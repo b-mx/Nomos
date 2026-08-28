@@ -1,0 +1,10 @@
+id: l3-15iml05-firmware
+vendor_id: lenovo
+name: L3 15Iml05 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:l3_15iml05_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: l3_15iml05_firmware
+  confidence: auto

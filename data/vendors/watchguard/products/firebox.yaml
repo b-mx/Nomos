@@ -1,15 +1,9 @@
 id: firebox
 vendor_id: watchguard
 name: Firebox
-type: hardware
+type: software
 tags: []
 aliases:
 - source: cisa_kev
   value: Firebox
-  confidence: auto
-- source: cisa_kev
-  value: Firebox and XTM
-  confidence: auto
-- source: cisa_kev
-  value: Firebox and XTM Appliances
   confidence: auto

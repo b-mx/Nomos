@@ -1,0 +1,10 @@
+id: ac15
+vendor_id: tendacn
+name: Ac15
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:ac15:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ac15
+  confidence: auto

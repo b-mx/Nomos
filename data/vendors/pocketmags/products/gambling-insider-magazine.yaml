@@ -1,0 +1,10 @@
+id: gambling-insider-magazine
+vendor_id: pocketmags
+name: Gambling Insider Magazine
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:gambling_insider_magazine:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gambling_insider_magazine
+  confidence: auto

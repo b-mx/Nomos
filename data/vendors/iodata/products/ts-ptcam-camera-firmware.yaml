@@ -1,0 +1,10 @@
+id: ts-ptcam-camera-firmware
+vendor_id: iodata
+name: Ts-Ptcam Camera Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:ts\-ptcam_camera_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts-ptcam_camera_firmware
+  confidence: auto

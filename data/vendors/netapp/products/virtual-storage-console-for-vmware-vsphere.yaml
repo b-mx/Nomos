@@ -1,0 +1,10 @@
+id: virtual-storage-console-for-vmware-vsphere
+vendor_id: netapp
+name: Virtual Storage Console For Vmware Vsphere
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:virtual_storage_console_for_vmware_vsphere:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtual_storage_console_for_vmware_vsphere
+  confidence: auto

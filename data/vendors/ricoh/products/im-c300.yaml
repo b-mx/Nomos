@@ -1,0 +1,10 @@
+id: im-c300
+vendor_id: ricoh
+name: Im C300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_c300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_c300
+  confidence: auto

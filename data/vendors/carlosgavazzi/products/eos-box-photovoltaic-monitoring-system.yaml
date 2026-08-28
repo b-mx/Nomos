@@ -1,0 +1,10 @@
+id: eos-box-photovoltaic-monitoring-system
+vendor_id: carlosgavazzi
+name: Eos-Box Photovoltaic Monitoring System
+type: hardware
+tags: []
+cpe: cpe:2.3:h:carlosgavazzi:eos\-box_photovoltaic_monitoring_system:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos-box_photovoltaic_monitoring_system
+  confidence: auto

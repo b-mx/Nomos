@@ -1,0 +1,10 @@
+id: ap-103
+vendor_id: arubanetworks
+name: Ap-103
+type: hardware
+tags: []
+cpe: cpe:2.3:h:arubanetworks:ap\-103:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap-103
+  confidence: auto

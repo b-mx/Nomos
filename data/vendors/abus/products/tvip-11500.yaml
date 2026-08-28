@@ -1,0 +1,10 @@
+id: tvip-11500
+vendor_id: abus
+name: Tvip 11500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:abus:tvip_11500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tvip_11500
+  confidence: auto

@@ -1,0 +1,7 @@
+id: datto
+name: Datto
+cpe: cpe:2.3:*:datto:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: datto
+  confidence: auto

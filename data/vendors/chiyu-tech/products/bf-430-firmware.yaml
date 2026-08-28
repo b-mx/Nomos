@@ -1,0 +1,10 @@
+id: bf-430-firmware
+vendor_id: chiyu-tech
+name: Bf-430 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:chiyu\-tech:bf\-430_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bf-430_firmware
+  confidence: auto

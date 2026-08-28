@@ -1,0 +1,7 @@
+id: neo4j
+name: Neo4J
+cpe: cpe:2.3:*:neo4j:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neo4j
+  confidence: auto

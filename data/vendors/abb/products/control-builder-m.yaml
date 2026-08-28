@@ -1,0 +1,10 @@
+id: control-builder-m
+vendor_id: abb
+name: Control Builder M
+type: software
+tags: []
+cpe: cpe:2.3:a:abb:control_builder_m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: control_builder_m
+  confidence: auto

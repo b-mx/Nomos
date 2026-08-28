@@ -1,0 +1,10 @@
+id: 5ue15a
+vendor_id: hp
+name: 5Ue15A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:5ue15a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 5ue15a
+  confidence: auto

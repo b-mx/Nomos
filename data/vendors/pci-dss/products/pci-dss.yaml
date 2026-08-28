@@ -1,0 +1,9 @@
+id: pci-dss
+vendor_id: pci-dss
+name: PCI-DSS
+type: software
+tags: []
+aliases:
+- source: endoflife
+  value: pci-dss
+  confidence: auto

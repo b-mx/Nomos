@@ -1,0 +1,10 @@
+id: business-communications-manager
+vendor_id: nortel
+name: Business Communications Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:nortel:business_communications_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: business_communications_manager
+  confidence: auto

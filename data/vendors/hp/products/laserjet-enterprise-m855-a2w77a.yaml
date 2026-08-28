@@ -1,0 +1,10 @@
+id: laserjet-enterprise-m855-a2w77a
+vendor_id: hp
+name: Laserjet Enterprise M855 A2W77A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_enterprise_m855_a2w77a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_enterprise_m855_a2w77a
+  confidence: auto

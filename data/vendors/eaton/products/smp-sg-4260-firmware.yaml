@@ -1,0 +1,10 @@
+id: smp-sg-4260-firmware
+vendor_id: eaton
+name: Smp Sg-4260 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:eaton:smp_sg\-4260_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smp_sg-4260_firmware
+  confidence: auto

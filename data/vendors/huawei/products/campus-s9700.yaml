@@ -1,0 +1,10 @@
+id: campus-s9700
+vendor_id: huawei
+name: Campus S9700
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:campus_s9700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: campus_s9700
+  confidence: auto

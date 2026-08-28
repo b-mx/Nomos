@@ -1,0 +1,10 @@
+id: lan-wh300n-dgp
+vendor_id: elecom
+name: Lan-Wh300N/Dgp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:lan\-wh300n\/dgp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-wh300n/dgp
+  confidence: auto

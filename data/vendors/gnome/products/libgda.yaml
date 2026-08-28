@@ -1,0 +1,10 @@
+id: libgda
+vendor_id: gnome
+name: Libgda
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:libgda:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: libgda
+  confidence: auto

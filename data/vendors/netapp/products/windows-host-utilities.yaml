@@ -1,0 +1,10 @@
+id: windows-host-utilities
+vendor_id: netapp
+name: Windows Host Utilities
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:windows_host_utilities:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: windows_host_utilities
+  confidence: auto

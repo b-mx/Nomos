@@ -1,0 +1,10 @@
+id: stealth
+vendor_id: unisys
+name: Stealth
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:stealth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stealth
+  confidence: auto

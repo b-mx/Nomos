@@ -1,0 +1,10 @@
+id: data-exchange-management-studio
+vendor_id: unisys
+name: Data Exchange Management Studio
+type: software
+tags: []
+cpe: cpe:2.3:a:unisys:data_exchange_management_studio:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: data_exchange_management_studio
+  confidence: auto

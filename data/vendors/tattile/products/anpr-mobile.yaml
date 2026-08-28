@@ -1,0 +1,10 @@
+id: anpr-mobile
+vendor_id: tattile
+name: Anpr Mobile
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tattile:anpr_mobile:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anpr_mobile
+  confidence: auto

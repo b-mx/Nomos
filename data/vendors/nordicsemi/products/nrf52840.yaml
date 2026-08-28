@@ -1,0 +1,10 @@
+id: nrf52840
+vendor_id: nordicsemi
+name: Nrf52840
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nordicsemi:nrf52840:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nrf52840
+  confidence: auto

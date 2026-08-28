@@ -1,0 +1,10 @@
+id: officejet-pro-8725-j7a28a
+vendor_id: hp
+name: Officejet Pro 8725 J7A28A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:officejet_pro_8725_j7a28a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: officejet_pro_8725_j7a28a
+  confidence: auto

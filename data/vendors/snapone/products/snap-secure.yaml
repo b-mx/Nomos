@@ -1,0 +1,10 @@
+id: snap-secure
+vendor_id: snapone
+name: Snap Secure
+type: software
+tags: []
+cpe: cpe:2.3:a:snapone:snap_secure:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snap_secure
+  confidence: auto

@@ -1,0 +1,10 @@
+id: service-manager-mobility
+vendor_id: hp
+name: Service Manager Mobility
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:service_manager_mobility:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: service_manager_mobility
+  confidence: auto

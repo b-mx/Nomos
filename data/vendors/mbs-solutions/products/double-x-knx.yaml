@@ -1,0 +1,10 @@
+id: double-x-knx
+vendor_id: mbs-solutions
+name: Double-X Knx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mbs\-solutions:double\-x_knx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: double-x_knx
+  confidence: auto

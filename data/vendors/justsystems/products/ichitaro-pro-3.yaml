@@ -1,0 +1,10 @@
+id: ichitaro-pro-3
+vendor_id: justsystems
+name: Ichitaro Pro 3
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:ichitaro_pro_3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ichitaro_pro_3
+  confidence: auto

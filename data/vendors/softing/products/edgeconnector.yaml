@@ -1,0 +1,10 @@
+id: edgeconnector
+vendor_id: softing
+name: Edgeconnector
+type: software
+tags: []
+cpe: cpe:2.3:a:softing:edgeconnector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: edgeconnector
+  confidence: auto

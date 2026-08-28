@@ -1,0 +1,10 @@
+id: wcs-firmware
+vendor_id: pepperl-fuchs
+name: Wcs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:wcs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wcs_firmware
+  confidence: auto

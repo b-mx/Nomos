@@ -1,0 +1,10 @@
+id: sh7758
+vendor_id: supermicro
+name: Sh7758
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:sh7758:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sh7758
+  confidence: auto

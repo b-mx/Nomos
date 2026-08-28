@@ -1,0 +1,10 @@
+id: z5c-firmware
+vendor_id: leagoo
+name: Z5C Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:leagoo:z5c_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z5c_firmware
+  confidence: auto

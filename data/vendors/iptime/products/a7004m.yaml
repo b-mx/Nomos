@@ -1,0 +1,10 @@
+id: a7004m
+vendor_id: iptime
+name: A7004M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iptime:a7004m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: a7004m
+  confidence: auto

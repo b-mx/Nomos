@@ -1,0 +1,10 @@
+id: laserjet-pro-m280-m281-t6b83a
+vendor_id: hp
+name: Laserjet Pro M280-M281 T6B83A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laserjet_pro_m280\-m281_t6b83a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_pro_m280-m281_t6b83a
+  confidence: auto

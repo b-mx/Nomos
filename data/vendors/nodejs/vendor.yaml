@@ -1,0 +1,7 @@
+id: nodejs
+name: Nodejs
+cpe: cpe:2.3:*:nodejs:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nodejs
+  confidence: auto

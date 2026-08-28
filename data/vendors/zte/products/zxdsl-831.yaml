@@ -1,0 +1,10 @@
+id: zxdsl-831
+vendor_id: zte
+name: Zxdsl 831
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zte:zxdsl_831:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zxdsl_831
+  confidence: auto

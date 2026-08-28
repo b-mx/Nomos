@@ -1,0 +1,10 @@
+id: lan-w300n-rs-firmware
+vendor_id: elecom
+name: Lan-W300N/Rs Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:elecom:lan\-w300n\/rs_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lan-w300n/rs_firmware
+  confidence: auto

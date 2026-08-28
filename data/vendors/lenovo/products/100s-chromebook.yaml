@@ -1,0 +1,10 @@
+id: 100s-chromebook
+vendor_id: lenovo
+name: 100S Chromebook
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:100s_chromebook:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 100s_chromebook
+  confidence: auto

@@ -1,0 +1,10 @@
+id: r2
+vendor_id: foscam
+name: R2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:foscam:r2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r2
+  confidence: auto

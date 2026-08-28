@@ -1,0 +1,10 @@
+id: autoyast2
+vendor_id: opensuse
+name: Autoyast2
+type: software
+tags: []
+cpe: cpe:2.3:a:opensuse:autoyast2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: autoyast2
+  confidence: auto

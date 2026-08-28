@@ -1,0 +1,10 @@
+id: beegfs-csi-driver
+vendor_id: netapp
+name: Beegfs Csi Driver
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:beegfs_csi_driver:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: beegfs_csi_driver
+  confidence: auto

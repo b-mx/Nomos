@@ -1,0 +1,10 @@
+id: hirschmann-hios
+vendor_id: belden
+name: Hirschmann Hios
+type: os
+tags: []
+cpe: cpe:2.3:o:belden:hirschmann_hios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hirschmann_hios
+  confidence: auto

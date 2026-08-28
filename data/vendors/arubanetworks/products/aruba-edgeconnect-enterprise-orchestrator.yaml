@@ -1,0 +1,10 @@
+id: aruba-edgeconnect-enterprise-orchestrator
+vendor_id: arubanetworks
+name: Aruba Edgeconnect Enterprise Orchestrator
+type: software
+tags: []
+cpe: cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aruba_edgeconnect_enterprise_orchestrator
+  confidence: auto

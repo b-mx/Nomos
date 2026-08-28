@@ -1,0 +1,14 @@
+id: guzzle
+vendor_id: guzzlephp
+name: Guzzle
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:guzzlephp:guzzle:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: guzzle
+  confidence: auto
+- source: nvd
+  value: guzzle
+  confidence: auto

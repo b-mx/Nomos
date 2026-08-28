@@ -1,0 +1,10 @@
+id: slim-7-pro-14ihu5-firmware
+vendor_id: lenovo
+name: Slim 7 Pro-14Ihu5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:slim_7_pro\-14ihu5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: slim_7_pro-14ihu5_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: brightspeed-edge
+vendor_id: gehealthcare
+name: Brightspeed Edge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:brightspeed_edge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brightspeed_edge
+  confidence: auto

@@ -1,0 +1,10 @@
+id: anypoint-extension-pack
+vendor_id: salesforce
+name: Anypoint Extension Pack
+type: software
+tags: []
+cpe: cpe:2.3:a:salesforce:anypoint_extension_pack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anypoint_extension_pack
+  confidence: auto

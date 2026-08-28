@@ -1,0 +1,10 @@
+id: talk
+vendor_id: nextcloud
+name: Talk
+type: software
+tags: []
+cpe: cpe:2.3:a:nextcloud:talk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: talk
+  confidence: auto

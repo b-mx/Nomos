@@ -1,0 +1,10 @@
+id: lon-l29d-firmware
+vendor_id: huawei
+name: Lon-L29D Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:lon\-l29d_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lon-l29d_firmware
+  confidence: auto

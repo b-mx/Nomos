@@ -1,0 +1,10 @@
+id: oceanstor-uds-firmware
+vendor_id: huawei
+name: Oceanstor Uds Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:oceanstor_uds_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oceanstor_uds_firmware
+  confidence: auto

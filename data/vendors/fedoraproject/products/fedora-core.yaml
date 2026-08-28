@@ -1,0 +1,10 @@
+id: fedora-core
+vendor_id: fedoraproject
+name: Fedora Core
+type: os
+tags: []
+cpe: cpe:2.3:o:fedoraproject:fedora_core:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fedora_core
+  confidence: auto

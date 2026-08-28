@@ -1,0 +1,10 @@
+id: es7510-xt-firmware
+vendor_id: pepperl-fuchs
+name: Es7510-Xt Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:pepperl\-fuchs:es7510\-xt_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: es7510-xt_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: eds-hardware-installation-tool
+vendor_id: rockwellautomation
+name: Eds Hardware Installation Tool
+type: software
+tags: []
+cpe: cpe:2.3:a:rockwellautomation:eds_hardware_installation_tool:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eds_hardware_installation_tool
+  confidence: auto

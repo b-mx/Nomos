@@ -1,0 +1,10 @@
+id: button-block
+vendor_id: bplugins
+name: Button Block
+type: software
+tags: []
+cpe: cpe:2.3:a:bplugins:button_block:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: button_block
+  confidence: auto

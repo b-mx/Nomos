@@ -1,0 +1,10 @@
+id: tornados
+vendor_id: themerex
+name: Tornados
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:tornados:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tornados
+  confidence: auto

@@ -1,0 +1,10 @@
+id: c520
+vendor_id: lexmark
+name: C520
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:c520:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c520
+  confidence: auto

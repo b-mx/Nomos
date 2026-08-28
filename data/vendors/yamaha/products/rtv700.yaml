@@ -1,0 +1,10 @@
+id: rtv700
+vendor_id: yamaha
+name: Rtv700
+type: os
+tags: []
+cpe: cpe:2.3:o:yamaha:rtv700:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rtv700
+  confidence: auto

@@ -1,0 +1,10 @@
+id: t3p04a
+vendor_id: hp
+name: T3P04A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:t3p04a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t3p04a
+  confidence: auto

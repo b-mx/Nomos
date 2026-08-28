@@ -1,0 +1,10 @@
+id: ex300-v2
+vendor_id: totolink
+name: Ex300 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:totolink:ex300_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ex300_v2
+  confidence: auto

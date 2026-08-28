@@ -1,0 +1,10 @@
+id: embedded-edge-compute-module
+vendor_id: rockwellautomation
+name: Embedded Edge Compute Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rockwellautomation:embedded_edge_compute_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: embedded_edge_compute_module
+  confidence: auto

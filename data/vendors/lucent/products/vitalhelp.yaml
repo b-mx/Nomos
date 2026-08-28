@@ -1,0 +1,10 @@
+id: vitalhelp
+vendor_id: lucent
+name: Vitalhelp
+type: software
+tags: []
+cpe: cpe:2.3:a:lucent:vitalhelp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vitalhelp
+  confidence: auto

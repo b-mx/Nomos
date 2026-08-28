@@ -1,0 +1,10 @@
+id: h12sst-ps-firmware
+vendor_id: supermicro
+name: H12Sst-Ps Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:h12sst\-ps_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h12sst-ps_firmware
+  confidence: auto

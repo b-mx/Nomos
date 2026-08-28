@@ -1,0 +1,10 @@
+id: designjet-z6-pro-2qu25f-firmware
+vendor_id: hp
+name: Designjet Z6+ Pro 2Qu25F Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:designjet_z6\+_pro_2qu25f_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: designjet_z6+_pro_2qu25f_firmware
+  confidence: auto

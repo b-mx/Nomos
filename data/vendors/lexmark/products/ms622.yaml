@@ -1,0 +1,10 @@
+id: ms622
+vendor_id: lexmark
+name: Ms622
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:ms622:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ms622
+  confidence: auto

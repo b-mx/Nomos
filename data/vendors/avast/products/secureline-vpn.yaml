@@ -1,0 +1,10 @@
+id: secureline-vpn
+vendor_id: avast
+name: Secureline Vpn
+type: software
+tags: []
+cpe: cpe:2.3:a:avast:secureline_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secureline_vpn
+  confidence: auto

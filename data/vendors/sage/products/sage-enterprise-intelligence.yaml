@@ -1,0 +1,10 @@
+id: sage-enterprise-intelligence
+vendor_id: sage
+name: Sage Enterprise Intelligence
+type: software
+tags: []
+cpe: cpe:2.3:a:sage:sage_enterprise_intelligence:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sage_enterprise_intelligence
+  confidence: auto

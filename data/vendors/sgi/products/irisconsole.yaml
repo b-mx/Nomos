@@ -1,0 +1,10 @@
+id: irisconsole
+vendor_id: sgi
+name: Irisconsole
+type: software
+tags: []
+cpe: cpe:2.3:a:sgi:irisconsole:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: irisconsole
+  confidence: auto

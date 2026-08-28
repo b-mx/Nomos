@@ -1,0 +1,10 @@
+id: pavilion-x360-14t-cd000
+vendor_id: hp
+name: Pavilion X360 - 14T-Cd000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:pavilion_x360_\-_14t\-cd000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pavilion_x360_-_14t-cd000
+  confidence: auto

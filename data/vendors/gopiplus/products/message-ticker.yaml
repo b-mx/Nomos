@@ -1,0 +1,10 @@
+id: message-ticker
+vendor_id: gopiplus
+name: Message Ticker
+type: software
+tags: []
+cpe: cpe:2.3:a:gopiplus:message_ticker:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: message_ticker
+  confidence: auto

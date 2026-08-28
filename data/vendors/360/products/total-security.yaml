@@ -1,0 +1,10 @@
+id: total-security
+vendor_id: '360'
+name: Total Security
+type: software
+tags: []
+cpe: cpe:2.3:a:360:total_security:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: total_security
+  confidence: auto

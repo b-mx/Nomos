@@ -1,0 +1,10 @@
+id: f9d36-firmware
+vendor_id: hp
+name: F9D36 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:f9d36_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: f9d36_firmware
+  confidence: auto

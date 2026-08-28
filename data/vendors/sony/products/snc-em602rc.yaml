@@ -1,0 +1,10 @@
+id: snc-em602rc
+vendor_id: sony
+name: Snc-Em602Rc
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-em602rc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-em602rc
+  confidence: auto

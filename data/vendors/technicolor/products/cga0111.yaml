@@ -1,0 +1,10 @@
+id: cga0111
+vendor_id: technicolor
+name: Cga0111
+type: hardware
+tags: []
+cpe: cpe:2.3:h:technicolor:cga0111:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cga0111
+  confidence: auto

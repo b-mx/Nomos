@@ -1,0 +1,10 @@
+id: flexidome-hd-720p
+vendor_id: bosch
+name: Flexidome Hd 720P
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bosch:flexidome_hd_720p:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: flexidome_hd_720p
+  confidence: auto

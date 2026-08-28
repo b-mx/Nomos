@@ -1,0 +1,10 @@
+id: snc-ch260
+vendor_id: sony
+name: Snc-Ch260
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:snc\-ch260:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snc-ch260
+  confidence: auto

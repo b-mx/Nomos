@@ -1,0 +1,10 @@
+id: futurenet-nxr-160-lw-firmware
+vendor_id: centurysys
+name: Futurenet Nxr-160/Lw Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:centurysys:futurenet_nxr\-160\/lw_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: futurenet_nxr-160/lw_firmware
+  confidence: auto

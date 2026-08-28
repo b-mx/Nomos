@@ -1,0 +1,10 @@
+id: yangtian-s3040-firmware
+vendor_id: lenovo
+name: Yangtian S3040 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:yangtian_s3040_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yangtian_s3040_firmware
+  confidence: auto

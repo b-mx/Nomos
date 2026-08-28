@@ -1,0 +1,10 @@
+id: fpv
+vendor_id: dji
+name: Fpv
+type: hardware
+tags: []
+cpe: cpe:2.3:h:dji:fpv:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fpv
+  confidence: auto

@@ -1,0 +1,10 @@
+id: maxicharger-dc-compact-pedestal
+vendor_id: autel
+name: Maxicharger Dc Compact Pedestal
+type: hardware
+tags: []
+cpe: cpe:2.3:h:autel:maxicharger_dc_compact_pedestal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxicharger_dc_compact_pedestal
+  confidence: auto

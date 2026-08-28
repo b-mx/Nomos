@@ -1,0 +1,10 @@
+id: k4-iwl
+vendor_id: lenovo
+name: K4-Iwl
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:k4\-iwl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: k4-iwl
+  confidence: auto

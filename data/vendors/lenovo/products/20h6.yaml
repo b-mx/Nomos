@@ -1,0 +1,10 @@
+id: 20h6
+vendor_id: lenovo
+name: 20H6
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20h6:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20h6
+  confidence: auto

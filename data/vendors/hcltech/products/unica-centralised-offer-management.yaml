@@ -1,0 +1,10 @@
+id: unica-centralised-offer-management
+vendor_id: hcltech
+name: Unica Centralised Offer Management
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:unica_centralised_offer_management:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unica_centralised_offer_management
+  confidence: auto

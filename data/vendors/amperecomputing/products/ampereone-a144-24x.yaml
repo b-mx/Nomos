@@ -1,0 +1,10 @@
+id: ampereone-a144-24x
+vendor_id: amperecomputing
+name: Ampereone A144-24X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amperecomputing:ampereone_a144\-24x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ampereone_a144-24x
+  confidence: auto

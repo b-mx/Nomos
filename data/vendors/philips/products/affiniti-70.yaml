@@ -1,0 +1,10 @@
+id: affiniti-70
+vendor_id: philips
+name: Affiniti 70
+type: hardware
+tags: []
+cpe: cpe:2.3:h:philips:affiniti_70:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: affiniti_70
+  confidence: auto

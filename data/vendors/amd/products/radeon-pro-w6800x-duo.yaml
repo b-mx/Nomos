@@ -1,0 +1,10 @@
+id: radeon-pro-w6800x-duo
+vendor_id: amd
+name: Radeon Pro W6800X Duo
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:radeon_pro_w6800x_duo:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: radeon_pro_w6800x_duo
+  confidence: auto

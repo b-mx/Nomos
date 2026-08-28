@@ -1,0 +1,10 @@
+id: eliteone-840-g9-firmware
+vendor_id: hp
+name: Eliteone 840 G9 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:eliteone_840_g9_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eliteone_840_g9_firmware
+  confidence: auto

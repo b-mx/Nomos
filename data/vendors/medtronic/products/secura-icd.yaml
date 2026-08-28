@@ -1,0 +1,10 @@
+id: secura-icd
+vendor_id: medtronic
+name: Secura Icd
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:secura_icd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: secura_icd
+  confidence: auto

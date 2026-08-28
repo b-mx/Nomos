@@ -1,0 +1,10 @@
+id: ucosminexus-client
+vendor_id: hitachi
+name: Ucosminexus Client
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:ucosminexus_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ucosminexus_client
+  confidence: auto

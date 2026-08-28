@@ -1,0 +1,10 @@
+id: gthumb
+vendor_id: gnome
+name: Gthumb
+type: software
+tags: []
+cpe: cpe:2.3:a:gnome:gthumb:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gthumb
+  confidence: auto

@@ -1,0 +1,10 @@
+id: deebot-x2s
+vendor_id: ecovacs
+name: Deebot X2S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ecovacs:deebot_x2s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deebot_x2s
+  confidence: auto

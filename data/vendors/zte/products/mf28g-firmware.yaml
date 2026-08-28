@@ -1,0 +1,10 @@
+id: mf28g-firmware
+vendor_id: zte
+name: Mf28G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:zte:mf28g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mf28g_firmware
+  confidence: auto

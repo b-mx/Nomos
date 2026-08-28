@@ -1,0 +1,10 @@
+id: mfc-9150cdn
+vendor_id: brother
+name: Mfc-9150Cdn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brother:mfc\-9150cdn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mfc-9150cdn
+  confidence: auto

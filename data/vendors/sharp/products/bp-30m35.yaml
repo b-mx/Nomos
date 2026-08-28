@@ -1,0 +1,10 @@
+id: bp-30m35
+vendor_id: sharp
+name: Bp-30M35
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sharp:bp\-30m35:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bp-30m35
+  confidence: auto

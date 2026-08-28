@@ -1,0 +1,10 @@
+id: fe9191-firmware
+vendor_id: vivotek
+name: Fe9191 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:fe9191_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fe9191_firmware
+  confidence: auto

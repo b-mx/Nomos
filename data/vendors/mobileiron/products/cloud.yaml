@@ -1,0 +1,10 @@
+id: cloud
+vendor_id: mobileiron
+name: Cloud
+type: software
+tags: []
+cpe: cpe:2.3:a:mobileiron:cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cloud
+  confidence: auto

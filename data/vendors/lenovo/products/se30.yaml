@@ -1,0 +1,10 @@
+id: se30
+vendor_id: lenovo
+name: Se30
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:se30:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: se30
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pwr-q200-firmware
+vendor_id: ntt-east
+name: Pwr-Q200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ntt\-east:pwr\-q200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pwr-q200_firmware
+  confidence: auto

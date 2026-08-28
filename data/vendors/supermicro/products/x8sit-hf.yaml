@@ -1,0 +1,10 @@
+id: x8sit-hf
+vendor_id: supermicro
+name: X8Sit-Hf
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x8sit\-hf:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x8sit-hf
+  confidence: auto

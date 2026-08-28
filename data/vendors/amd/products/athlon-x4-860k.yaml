@@ -1,0 +1,10 @@
+id: athlon-x4-860k
+vendor_id: amd
+name: Athlon X4 860K
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:athlon_x4_860k:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: athlon_x4_860k
+  confidence: auto

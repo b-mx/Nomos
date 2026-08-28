@@ -1,0 +1,10 @@
+id: ryzen-5-pro-3350ge
+vendor_id: amd
+name: Ryzen 5 Pro 3350Ge
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_5_pro_3350ge:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_5_pro_3350ge
+  confidence: auto

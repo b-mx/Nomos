@@ -1,0 +1,10 @@
+id: pcoip-standard-agent
+vendor_id: teradici
+name: Pcoip Standard Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:teradici:pcoip_standard_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pcoip_standard_agent
+  confidence: auto

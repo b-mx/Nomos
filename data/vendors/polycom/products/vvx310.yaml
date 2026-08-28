@@ -1,0 +1,10 @@
+id: vvx310
+vendor_id: polycom
+name: Vvx310
+type: hardware
+tags: []
+cpe: cpe:2.3:h:polycom:vvx310:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vvx310
+  confidence: auto

@@ -1,0 +1,7 @@
+id: kyocera
+name: Kyocera
+cpe: cpe:2.3:*:kyocera:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kyocera
+  confidence: auto

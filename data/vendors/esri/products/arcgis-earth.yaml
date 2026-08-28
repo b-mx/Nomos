@@ -1,0 +1,10 @@
+id: arcgis-earth
+vendor_id: esri
+name: Arcgis Earth
+type: software
+tags: []
+cpe: cpe:2.3:a:esri:arcgis_earth:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcgis_earth
+  confidence: auto

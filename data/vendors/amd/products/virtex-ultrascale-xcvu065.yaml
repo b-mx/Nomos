@@ -1,0 +1,10 @@
+id: virtex-ultrascale-xcvu065
+vendor_id: amd
+name: Virtex Ultrascale Xcvu065
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:virtex_ultrascale_xcvu065:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virtex_ultrascale_xcvu065
+  confidence: auto

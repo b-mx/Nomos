@@ -1,0 +1,10 @@
+id: max-700-firmware
+vendor_id: peplink
+name: Max 700 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:max_700_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: max_700_firmware
+  confidence: auto

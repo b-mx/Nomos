@@ -1,0 +1,10 @@
+id: 20lq
+vendor_id: lenovo
+name: 20Lq
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20lq:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20lq
+  confidence: auto

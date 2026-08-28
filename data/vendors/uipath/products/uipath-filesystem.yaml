@@ -1,0 +1,10 @@
+id: uipath-filesystem
+vendor_id: uipath
+name: Uipath/Filesystem
+type: software
+tags: []
+cpe: cpe:2.3:a:uipath:uipath\/filesystem:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: uipath/filesystem
+  confidence: auto

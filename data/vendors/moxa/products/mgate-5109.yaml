@@ -1,0 +1,10 @@
+id: mgate-5109
+vendor_id: moxa
+name: Mgate 5109
+type: hardware
+tags: []
+cpe: cpe:2.3:h:moxa:mgate_5109:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mgate_5109
+  confidence: auto

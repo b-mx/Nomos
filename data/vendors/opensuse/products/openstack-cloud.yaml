@@ -1,0 +1,10 @@
+id: openstack-cloud
+vendor_id: opensuse
+name: Openstack Cloud
+type: os
+tags: []
+cpe: cpe:2.3:o:opensuse:openstack_cloud:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: openstack_cloud
+  confidence: auto

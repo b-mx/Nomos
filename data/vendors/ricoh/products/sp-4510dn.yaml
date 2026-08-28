@@ -1,0 +1,10 @@
+id: sp-4510dn
+vendor_id: ricoh
+name: Sp 4510Dn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:sp_4510dn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sp_4510dn
+  confidence: auto

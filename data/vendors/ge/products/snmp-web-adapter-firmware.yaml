@@ -1,0 +1,10 @@
+id: snmp-web-adapter-firmware
+vendor_id: ge
+name: Snmp/Web Adapter Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ge:snmp\/web_adapter_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snmp/web_adapter_firmware
+  confidence: auto

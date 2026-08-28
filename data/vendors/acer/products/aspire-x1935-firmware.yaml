@@ -1,0 +1,10 @@
+id: aspire-x1935-firmware
+vendor_id: acer
+name: Aspire X1935 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:aspire_x1935_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_x1935_firmware
+  confidence: auto

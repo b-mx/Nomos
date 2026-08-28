@@ -1,0 +1,10 @@
+id: stm32cubeh7
+vendor_id: st
+name: Stm32Cubeh7
+type: software
+tags: []
+cpe: cpe:2.3:a:st:stm32cubeh7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stm32cubeh7
+  confidence: auto

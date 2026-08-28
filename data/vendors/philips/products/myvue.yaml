@@ -1,0 +1,10 @@
+id: myvue
+vendor_id: philips
+name: Myvue
+type: software
+tags: []
+cpe: cpe:2.3:a:philips:myvue:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: myvue
+  confidence: auto

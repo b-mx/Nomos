@@ -1,0 +1,10 @@
+id: swagger-ui
+vendor_id: smartbear
+name: Swagger Ui
+type: software
+tags: []
+cpe: cpe:2.3:a:smartbear:swagger_ui:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: swagger_ui
+  confidence: auto

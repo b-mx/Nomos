@@ -1,0 +1,10 @@
+id: apeosport-iv-7080
+vendor_id: fujifilm
+name: Apeosport-Iv 7080
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujifilm:apeosport\-iv_7080:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apeosport-iv_7080
+  confidence: auto

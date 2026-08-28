@@ -1,0 +1,10 @@
+id: gpt-2541gnac-firmware
+vendor_id: mitrastar
+name: Gpt-2541Gnac Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mitrastar:gpt\-2541gnac_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gpt-2541gnac_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: espace-meeting
+vendor_id: huawei
+name: Espace Meeting
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:espace_meeting:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: espace_meeting
+  confidence: auto

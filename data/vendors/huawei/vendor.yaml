@@ -1,0 +1,7 @@
+id: huawei
+name: Huawei
+cpe: cpe:2.3:*:huawei:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: huawei
+  confidence: auto

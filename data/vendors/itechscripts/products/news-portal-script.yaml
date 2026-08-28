@@ -1,0 +1,10 @@
+id: news-portal-script
+vendor_id: itechscripts
+name: News Portal Script
+type: software
+tags: []
+cpe: cpe:2.3:a:itechscripts:news_portal_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: news_portal_script
+  confidence: auto

@@ -1,0 +1,9 @@
+id: redhat-build-of-openjdk
+vendor_id: redhat-build-of-openjdk
+name: Red Hat build of OpenJDK
+type: library
+tags: []
+aliases:
+- source: endoflife
+  value: redhat-build-of-openjdk
+  confidence: auto

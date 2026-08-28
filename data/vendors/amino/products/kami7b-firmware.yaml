@@ -1,0 +1,10 @@
+id: kami7b-firmware
+vendor_id: amino
+name: Kami7B Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amino:kami7b_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kami7b_firmware
+  confidence: auto

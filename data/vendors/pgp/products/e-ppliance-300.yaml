@@ -1,0 +1,10 @@
+id: e-ppliance-300
+vendor_id: pgp
+name: E-Ppliance 300
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pgp:e\-ppliance_300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-ppliance_300
+  confidence: auto

@@ -1,0 +1,10 @@
+id: bh620-v2
+vendor_id: huawei
+name: Bh620 V2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:bh620_v2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bh620_v2
+  confidence: auto

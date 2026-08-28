@@ -1,0 +1,10 @@
+id: nl1902
+vendor_id: netcommwireless
+name: Nl1902
+type: hardware
+tags: []
+cpe: cpe:2.3:h:netcommwireless:nl1902:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nl1902
+  confidence: auto

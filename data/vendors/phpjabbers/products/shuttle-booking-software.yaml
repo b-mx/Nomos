@@ -1,0 +1,10 @@
+id: shuttle-booking-software
+vendor_id: phpjabbers
+name: Shuttle Booking Software
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:shuttle_booking_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: shuttle_booking_software
+  confidence: auto

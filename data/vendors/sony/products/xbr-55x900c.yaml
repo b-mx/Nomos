@@ -1,0 +1,10 @@
+id: xbr-55x900c
+vendor_id: sony
+name: Xbr-55X900C
+type: hardware
+tags: []
+cpe: cpe:2.3:h:sony:xbr\-55x900c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xbr-55x900c
+  confidence: auto

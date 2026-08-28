@@ -1,0 +1,10 @@
+id: rds-31-itx
+vendor_id: mirion
+name: Rds-31 Itx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mirion:rds\-31_itx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rds-31_itx
+  confidence: auto

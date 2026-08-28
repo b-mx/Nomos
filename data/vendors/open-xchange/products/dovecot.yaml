@@ -1,0 +1,10 @@
+id: dovecot
+vendor_id: open-xchange
+name: Dovecot
+type: software
+tags: []
+cpe: cpe:2.3:a:open\-xchange:dovecot:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dovecot
+  confidence: auto

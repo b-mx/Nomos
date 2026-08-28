@@ -1,0 +1,10 @@
+id: legion-y720t-amd-firmware
+vendor_id: lenovo
+name: Legion Y720T Amd Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:legion_y720t_amd_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legion_y720t_amd_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: dassidirect
+vendor_id: invensys
+name: Dassidirect
+type: software
+tags: []
+cpe: cpe:2.3:a:invensys:dassidirect:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dassidirect
+  confidence: auto

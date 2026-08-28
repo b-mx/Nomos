@@ -1,0 +1,7 @@
+id: nortel
+name: Nortel
+cpe: cpe:2.3:*:nortel:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nortel
+  confidence: auto

@@ -1,0 +1,10 @@
+id: yealink-mp54
+vendor_id: zoom
+name: Yealink Mp54
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zoom:yealink_mp54:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yealink_mp54
+  confidence: auto

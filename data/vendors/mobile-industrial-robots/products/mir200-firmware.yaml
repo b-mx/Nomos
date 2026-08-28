@@ -1,0 +1,10 @@
+id: mir200-firmware
+vendor_id: mobile-industrial-robots
+name: Mir200 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mobile\-industrial\-robots:mir200_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mir200_firmware
+  confidence: auto

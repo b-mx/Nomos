@@ -1,0 +1,10 @@
+id: curiem-wfg9b
+vendor_id: huawei
+name: Curiem-Wfg9B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:curiem\-wfg9b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: curiem-wfg9b
+  confidence: auto

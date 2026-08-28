@@ -1,0 +1,10 @@
+id: ezplayer
+vendor_id: uniview
+name: Ezplayer
+type: software
+tags: []
+cpe: cpe:2.3:a:uniview:ezplayer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ezplayer
+  confidence: auto

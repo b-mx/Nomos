@@ -1,0 +1,10 @@
+id: ultimaker-s3
+vendor_id: ultimaker
+name: Ultimaker S3
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ultimaker:ultimaker_s3:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultimaker_s3
+  confidence: auto

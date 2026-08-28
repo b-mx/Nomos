@@ -1,0 +1,10 @@
+id: h2w2pc1m
+vendor_id: honeywell
+name: H2W2Pc1M
+type: hardware
+tags: []
+cpe: cpe:2.3:h:honeywell:h2w2pc1m:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h2w2pc1m
+  confidence: auto

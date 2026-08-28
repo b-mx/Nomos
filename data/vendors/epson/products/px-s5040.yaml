@@ -1,0 +1,10 @@
+id: px-s5040
+vendor_id: epson
+name: Px-S5040
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:px\-s5040:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: px-s5040
+  confidence: auto

@@ -1,0 +1,10 @@
+id: image-slider
+vendor_id: ays-pro
+name: Image Slider
+type: software
+tags: []
+cpe: cpe:2.3:a:ays\-pro:image_slider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: image_slider
+  confidence: auto

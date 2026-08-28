@@ -1,0 +1,10 @@
+id: 751-9301-firmware
+vendor_id: wago
+name: 751-9301 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:751\-9301_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 751-9301_firmware
+  confidence: auto

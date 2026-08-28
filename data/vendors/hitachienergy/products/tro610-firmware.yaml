@@ -1,0 +1,10 @@
+id: tro610-firmware
+vendor_id: hitachienergy
+name: Tro610 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hitachienergy:tro610_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tro610_firmware
+  confidence: auto

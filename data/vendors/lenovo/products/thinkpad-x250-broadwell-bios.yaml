@@ -1,0 +1,10 @@
+id: thinkpad-x250-broadwell-bios
+vendor_id: lenovo
+name: Thinkpad X250 Broadwell Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:thinkpad_x250_broadwell_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_x250_broadwell_bios
+  confidence: auto

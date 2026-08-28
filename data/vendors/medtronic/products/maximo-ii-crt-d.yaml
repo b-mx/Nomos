@@ -1,0 +1,10 @@
+id: maximo-ii-crt-d
+vendor_id: medtronic
+name: Maximo Ii Crt-D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:medtronic:maximo_ii_crt\-d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maximo_ii_crt-d
+  confidence: auto

@@ -1,0 +1,10 @@
+id: xfsprogs
+vendor_id: sgi
+name: Xfsprogs
+type: software
+tags: []
+cpe: cpe:2.3:a:sgi:xfsprogs:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xfsprogs
+  confidence: auto

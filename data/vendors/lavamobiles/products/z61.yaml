@@ -1,0 +1,10 @@
+id: z61
+vendor_id: lavamobiles
+name: Z61
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lavamobiles:z61:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z61
+  confidence: auto

@@ -1,0 +1,10 @@
+id: vap11s-5g-firmware
+vendor_id: vonets
+name: Vap11S-5G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vonets:vap11s\-5g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vap11s-5g_firmware
+  confidence: auto

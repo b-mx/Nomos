@@ -1,0 +1,10 @@
+id: 3gy15a
+vendor_id: hp
+name: 3Gy15A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:3gy15a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 3gy15a
+  confidence: auto

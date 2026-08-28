@@ -1,0 +1,10 @@
+id: plc-cj1-firmware
+vendor_id: omron
+name: Plc Cj1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:omron:plc_cj1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: plc_cj1_firmware
+  confidence: auto

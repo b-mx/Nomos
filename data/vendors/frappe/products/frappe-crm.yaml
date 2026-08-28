@@ -1,0 +1,10 @@
+id: frappe-crm
+vendor_id: frappe
+name: Frappe Crm
+type: software
+tags: []
+cpe: cpe:2.3:a:frappe:frappe_crm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: frappe_crm
+  confidence: auto

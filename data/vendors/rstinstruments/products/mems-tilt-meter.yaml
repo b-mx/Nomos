@@ -1,0 +1,10 @@
+id: mems-tilt-meter
+vendor_id: rstinstruments
+name: Mems Tilt Meter
+type: hardware
+tags: []
+cpe: cpe:2.3:h:rstinstruments:mems_tilt_meter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mems_tilt_meter
+  confidence: auto

@@ -1,0 +1,7 @@
+id: fireeye
+name: Fireeye
+cpe: cpe:2.3:*:fireeye:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fireeye
+  confidence: auto

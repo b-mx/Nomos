@@ -1,0 +1,10 @@
+id: custom-sidebars
+vendor_id: wpmudev
+name: Custom Sidebars
+type: software
+tags: []
+cpe: cpe:2.3:a:wpmudev:custom_sidebars:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: custom_sidebars
+  confidence: auto

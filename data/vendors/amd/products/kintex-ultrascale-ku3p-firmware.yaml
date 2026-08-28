@@ -1,0 +1,10 @@
+id: kintex-ultrascale-ku3p-firmware
+vendor_id: amd
+name: Kintex Ultrascale+ Ku3P Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:kintex_ultrascale\+_ku3p_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kintex_ultrascale+_ku3p_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: storcenter
+vendor_id: iomega
+name: Storcenter
+type: hardware
+tags: []
+cpe: cpe:2.3:h:iomega:storcenter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storcenter
+  confidence: auto

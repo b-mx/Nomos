@@ -1,0 +1,10 @@
+id: re160
+vendor_id: multilaser
+name: Re160
+type: hardware
+tags: []
+cpe: cpe:2.3:h:multilaser:re160:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re160
+  confidence: auto

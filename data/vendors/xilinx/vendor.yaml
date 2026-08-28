@@ -1,0 +1,7 @@
+id: xilinx
+name: Xilinx
+cpe: cpe:2.3:*:xilinx:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: xilinx
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 360f5-firmware
+vendor_id: '360'
+name: 360F5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:360:360f5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 360f5_firmware
+  confidence: auto

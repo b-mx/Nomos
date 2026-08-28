@@ -1,0 +1,10 @@
+id: laserjet-managed-e40040-3pz35a-firmware
+vendor_id: hp
+name: Laserjet Managed E40040 3Pz35A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_managed_e40040_3pz35a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_managed_e40040_3pz35a_firmware
+  confidence: auto

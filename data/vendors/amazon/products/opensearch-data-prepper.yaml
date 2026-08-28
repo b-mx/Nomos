@@ -1,0 +1,10 @@
+id: opensearch-data-prepper
+vendor_id: amazon
+name: Opensearch Data Prepper
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:opensearch_data_prepper:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: opensearch_data_prepper
+  confidence: auto

@@ -1,0 +1,10 @@
+id: visunet-rm-shell
+vendor_id: pepperl-fuchs
+name: Visunet Rm Shell
+type: software
+tags: []
+cpe: cpe:2.3:a:pepperl\-fuchs:visunet_rm_shell:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: visunet_rm_shell
+  confidence: auto

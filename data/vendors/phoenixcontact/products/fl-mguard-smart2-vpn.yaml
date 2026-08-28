@@ -1,0 +1,10 @@
+id: fl-mguard-smart2-vpn
+vendor_id: phoenixcontact
+name: Fl Mguard Smart2 Vpn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:fl_mguard_smart2_vpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fl_mguard_smart2_vpn
+  confidence: auto

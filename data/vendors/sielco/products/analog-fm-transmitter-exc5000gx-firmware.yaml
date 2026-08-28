@@ -1,0 +1,10 @@
+id: analog-fm-transmitter-exc5000gx-firmware
+vendor_id: sielco
+name: Analog Fm Transmitter Exc5000Gx Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:sielco:analog_fm_transmitter_exc5000gx_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: analog_fm_transmitter_exc5000gx_firmware
+  confidence: auto

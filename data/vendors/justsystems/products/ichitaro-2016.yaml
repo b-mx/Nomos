@@ -1,0 +1,10 @@
+id: ichitaro-2016
+vendor_id: justsystems
+name: Ichitaro 2016
+type: software
+tags: []
+cpe: cpe:2.3:a:justsystems:ichitaro_2016:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ichitaro_2016
+  confidence: auto

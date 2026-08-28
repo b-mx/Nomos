@@ -1,0 +1,10 @@
+id: befsru31
+vendor_id: linksys
+name: Befsru31
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:befsru31:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: befsru31
+  confidence: auto

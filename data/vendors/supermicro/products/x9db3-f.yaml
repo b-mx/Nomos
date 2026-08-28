@@ -1,0 +1,10 @@
+id: x9db3-f
+vendor_id: supermicro
+name: X9Db3-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x9db3\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x9db3-f
+  confidence: auto

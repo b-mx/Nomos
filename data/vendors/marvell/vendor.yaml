@@ -1,0 +1,7 @@
+id: marvell
+name: Marvell
+cpe: cpe:2.3:*:marvell:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: marvell
+  confidence: auto

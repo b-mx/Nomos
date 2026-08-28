@@ -1,0 +1,10 @@
+id: aspire-e5-475g-firmware
+vendor_id: acer
+name: Aspire E5-475G Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:acer:aspire_e5\-475g_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aspire_e5-475g_firmware
+  confidence: auto

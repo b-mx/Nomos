@@ -1,0 +1,10 @@
+id: netware-client
+vendor_id: novell
+name: Netware Client
+type: software
+tags: []
+cpe: cpe:2.3:a:novell:netware_client:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: netware_client
+  confidence: auto

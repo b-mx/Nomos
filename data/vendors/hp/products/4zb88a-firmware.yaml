@@ -1,0 +1,10 @@
+id: 4zb88a-firmware
+vendor_id: hp
+name: 4Zb88A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:4zb88a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 4zb88a_firmware
+  confidence: auto

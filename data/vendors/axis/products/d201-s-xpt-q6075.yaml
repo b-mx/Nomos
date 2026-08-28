@@ -1,0 +1,10 @@
+id: d201-s-xpt-q6075
+vendor_id: axis
+name: D201-S Xpt Q6075
+type: hardware
+tags: []
+cpe: cpe:2.3:h:axis:d201\-s_xpt_q6075:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d201-s_xpt_q6075
+  confidence: auto

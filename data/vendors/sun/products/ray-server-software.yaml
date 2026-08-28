@@ -1,0 +1,10 @@
+id: ray-server-software
+vendor_id: sun
+name: Ray Server Software
+type: software
+tags: []
+cpe: cpe:2.3:a:sun:ray_server_software:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ray_server_software
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nextscale-nx360-m5-firmware
+vendor_id: lenovo
+name: Nextscale Nx360 M5 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:nextscale_nx360_m5_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextscale_nx360_m5_firmware
+  confidence: auto

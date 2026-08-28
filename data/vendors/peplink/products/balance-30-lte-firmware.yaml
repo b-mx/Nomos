@@ -1,0 +1,10 @@
+id: balance-30-lte-firmware
+vendor_id: peplink
+name: Balance 30 Lte Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:peplink:balance_30_lte_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: balance_30_lte_firmware
+  confidence: auto

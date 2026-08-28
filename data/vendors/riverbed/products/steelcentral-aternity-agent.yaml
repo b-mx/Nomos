@@ -1,0 +1,10 @@
+id: steelcentral-aternity-agent
+vendor_id: riverbed
+name: Steelcentral Aternity Agent
+type: software
+tags: []
+cpe: cpe:2.3:a:riverbed:steelcentral_aternity_agent:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: steelcentral_aternity_agent
+  confidence: auto

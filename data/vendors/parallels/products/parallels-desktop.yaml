@@ -1,0 +1,10 @@
+id: parallels-desktop
+vendor_id: parallels
+name: Parallels Desktop
+type: software
+tags: []
+cpe: cpe:2.3:a:parallels:parallels_desktop:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: parallels_desktop
+  confidence: auto

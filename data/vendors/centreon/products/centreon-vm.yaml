@@ -1,0 +1,10 @@
+id: centreon-vm
+vendor_id: centreon
+name: Centreon Vm
+type: software
+tags: []
+cpe: cpe:2.3:a:centreon:centreon_vm:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: centreon_vm
+  confidence: auto

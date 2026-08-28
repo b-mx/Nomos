@@ -1,0 +1,10 @@
+id: dvr-16cif-firmware
+vendor_id: swann
+name: Dvr-16Cif Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:swann:dvr\-16cif_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dvr-16cif_firmware
+  confidence: auto

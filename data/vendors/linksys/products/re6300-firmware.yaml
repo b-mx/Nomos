@@ -1,0 +1,10 @@
+id: re6300-firmware
+vendor_id: linksys
+name: Re6300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:linksys:re6300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: re6300_firmware
+  confidence: auto

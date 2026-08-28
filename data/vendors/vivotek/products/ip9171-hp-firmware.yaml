@@ -1,0 +1,10 @@
+id: ip9171-hp-firmware
+vendor_id: vivotek
+name: Ip9171-Hp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:vivotek:ip9171\-hp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip9171-hp_firmware
+  confidence: auto

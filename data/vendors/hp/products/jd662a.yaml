@@ -1,0 +1,10 @@
+id: jd662a
+vendor_id: hp
+name: Jd662A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jd662a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jd662a
+  confidence: auto

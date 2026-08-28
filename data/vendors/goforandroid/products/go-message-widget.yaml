@@ -1,0 +1,10 @@
+id: go-message-widget
+vendor_id: goforandroid
+name: Go Message Widget
+type: software
+tags: []
+cpe: cpe:2.3:a:goforandroid:go_message_widget:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: go_message_widget
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fs-600dhp-firmware
+vendor_id: buffalo
+name: Fs-600Dhp Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:fs\-600dhp_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fs-600dhp_firmware
+  confidence: auto

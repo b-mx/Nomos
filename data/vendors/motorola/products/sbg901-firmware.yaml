@@ -1,0 +1,10 @@
+id: sbg901-firmware
+vendor_id: motorola
+name: Sbg901 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:motorola:sbg901_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sbg901_firmware
+  confidence: auto

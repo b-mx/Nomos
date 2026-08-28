@@ -1,0 +1,10 @@
+id: woocommerce-brands
+vendor_id: gsplugins
+name: Woocommerce Brands
+type: software
+tags: []
+cpe: cpe:2.3:a:gsplugins:woocommerce_brands:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: woocommerce_brands
+  confidence: auto

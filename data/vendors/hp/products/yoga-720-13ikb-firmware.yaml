@@ -1,0 +1,10 @@
+id: yoga-720-13ikb-firmware
+vendor_id: hp
+name: Yoga 720-13Ikb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:yoga_720\-13ikb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yoga_720-13ikb_firmware
+  confidence: auto

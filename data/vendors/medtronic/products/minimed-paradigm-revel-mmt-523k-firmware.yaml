@@ -1,0 +1,10 @@
+id: minimed-paradigm-revel-mmt-523k-firmware
+vendor_id: medtronic
+name: Minimed Paradigm Revel Mmt-523K Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:medtronic:minimed_paradigm_revel_mmt\-523k_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: minimed_paradigm_revel_mmt-523k_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: maxpro-nvr-se-firmware
+vendor_id: honeywell
+name: Maxpro Nvr Se Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:maxpro_nvr_se_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: maxpro_nvr_se_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: all-in-one-login
+vendor_id: wpexperts
+name: All In One Login
+type: software
+tags: []
+cpe: cpe:2.3:a:wpexperts:all_in_one_login:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: all_in_one_login
+  confidence: auto

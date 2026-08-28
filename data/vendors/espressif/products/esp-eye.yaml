@@ -1,0 +1,10 @@
+id: esp-eye
+vendor_id: espressif
+name: Esp-Eye
+type: hardware
+tags: []
+cpe: cpe:2.3:h:espressif:esp\-eye:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: esp-eye
+  confidence: auto

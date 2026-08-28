@@ -1,0 +1,10 @@
+id: apex-plus
+vendor_id: gotrango
+name: Apex Plus
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gotrango:apex_plus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apex_plus
+  confidence: auto

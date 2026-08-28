@@ -1,0 +1,10 @@
+id: brivo-nm-615-firmware
+vendor_id: gehealthcare
+name: Brivo Nm 615 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:gehealthcare:brivo_nm_615_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: brivo_nm_615_firmware
+  confidence: auto

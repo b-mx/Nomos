@@ -1,0 +1,10 @@
+id: dor
+vendor_id: qodeinteractive
+name: Dor
+type: software
+tags: []
+cpe: cpe:2.3:a:qodeinteractive:dor:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dor
+  confidence: auto

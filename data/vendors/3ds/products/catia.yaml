@@ -1,0 +1,10 @@
+id: catia
+vendor_id: 3ds
+name: Catia
+type: software
+tags: []
+cpe: cpe:2.3:a:3ds:catia:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: catia
+  confidence: auto

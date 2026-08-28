@@ -1,0 +1,7 @@
+id: chef
+name: Chef
+cpe: cpe:2.3:*:chef:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: chef
+  confidence: auto

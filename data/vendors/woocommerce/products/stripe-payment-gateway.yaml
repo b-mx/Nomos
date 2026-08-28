@@ -1,0 +1,10 @@
+id: stripe-payment-gateway
+vendor_id: woocommerce
+name: Stripe Payment Gateway
+type: software
+tags: []
+cpe: cpe:2.3:a:woocommerce:stripe_payment_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stripe_payment_gateway
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fas-bios
+vendor_id: netapp
+name: Fas Bios
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:fas_bios:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fas_bios
+  confidence: auto

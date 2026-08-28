@@ -1,0 +1,10 @@
+id: x11sch-f
+vendor_id: supermicro
+name: X11Sch-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x11sch\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11sch-f
+  confidence: auto

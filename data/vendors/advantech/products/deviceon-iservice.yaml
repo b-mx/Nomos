@@ -1,0 +1,10 @@
+id: deviceon-iservice
+vendor_id: advantech
+name: Deviceon/Iservice
+type: software
+tags: []
+cpe: cpe:2.3:a:advantech:deviceon\/iservice:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: deviceon/iservice
+  confidence: auto

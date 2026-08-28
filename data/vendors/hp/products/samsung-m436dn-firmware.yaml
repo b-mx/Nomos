@@ -1,0 +1,10 @@
+id: samsung-m436dn-firmware
+vendor_id: hp
+name: Samsung M436Dn Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:samsung_m436dn_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: samsung_m436dn_firmware
+  confidence: auto

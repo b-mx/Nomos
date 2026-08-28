@@ -1,0 +1,10 @@
+id: x13saz-f
+vendor_id: supermicro
+name: X13Saz-F
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13saz\-f:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13saz-f
+  confidence: auto

@@ -1,0 +1,10 @@
+id: s940-14iwl-firmware
+vendor_id: lenovo
+name: S940-14Iwl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s940\-14iwl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s940-14iwl_firmware
+  confidence: auto

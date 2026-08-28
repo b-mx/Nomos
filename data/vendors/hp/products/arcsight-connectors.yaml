@@ -1,0 +1,10 @@
+id: arcsight-connectors
+vendor_id: hp
+name: Arcsight Connectors
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:arcsight_connectors:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcsight_connectors
+  confidence: auto

@@ -1,0 +1,10 @@
+id: fbx-software-development-kit
+vendor_id: autodesk
+name: Fbx Software Development Kit
+type: software
+tags: []
+cpe: cpe:2.3:a:autodesk:fbx_software_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fbx_software_development_kit
+  confidence: auto

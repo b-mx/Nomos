@@ -1,0 +1,10 @@
+id: discovery-ct590rt
+vendor_id: gehealthcare
+name: Discovery Ct590Rt
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gehealthcare:discovery_ct590rt:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: discovery_ct590rt
+  confidence: auto

@@ -1,0 +1,10 @@
+id: s5820-secblade-vpn-firewall-module
+vendor_id: h3c
+name: S5820 Secblade Vpn Firewall Module
+type: hardware
+tags: []
+cpe: cpe:2.3:h:h3c:s5820_secblade_vpn_firewall_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s5820_secblade_vpn_firewall_module
+  confidence: auto

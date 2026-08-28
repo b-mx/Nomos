@@ -1,0 +1,7 @@
+id: snowflake
+name: Snowflake
+cpe: cpe:2.3:*:snowflake:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: snowflake
+  confidence: auto

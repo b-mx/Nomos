@@ -1,0 +1,10 @@
+id: s7706
+vendor_id: huawei
+name: S7706
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:s7706:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s7706
+  confidence: auto

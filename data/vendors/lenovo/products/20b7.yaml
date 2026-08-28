@@ -1,0 +1,10 @@
+id: 20b7
+vendor_id: lenovo
+name: 20B7
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:20b7:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 20b7
+  confidence: auto

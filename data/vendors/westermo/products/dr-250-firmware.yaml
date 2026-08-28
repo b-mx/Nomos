@@ -1,0 +1,10 @@
+id: dr-250-firmware
+vendor_id: westermo
+name: Dr-250 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:westermo:dr\-250_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dr-250_firmware
+  confidence: auto

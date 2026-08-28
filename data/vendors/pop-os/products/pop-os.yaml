@@ -1,0 +1,9 @@
+id: pop-os
+vendor_id: pop-os
+name: Pop!_OS
+type: os
+tags: []
+aliases:
+- source: endoflife
+  value: pop-os
+  confidence: auto

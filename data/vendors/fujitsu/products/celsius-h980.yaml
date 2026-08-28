@@ -1,0 +1,10 @@
+id: celsius-h980
+vendor_id: fujitsu
+name: Celsius H980
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:celsius_h980:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: celsius_h980
+  confidence: auto

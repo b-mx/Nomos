@@ -1,0 +1,10 @@
+id: semac-s2
+vendor_id: chiyu-tech
+name: Semac S2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chiyu\-tech:semac_s2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: semac_s2
+  confidence: auto

@@ -1,0 +1,10 @@
+id: d7500
+vendor_id: ricoh
+name: D7500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:d7500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: d7500
+  confidence: auto

@@ -1,0 +1,10 @@
+id: nextscale-n1200-enclosure-firmware
+vendor_id: lenovo
+name: Nextscale N1200 Enclosure Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:nextscale_n1200_enclosure_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nextscale_n1200_enclosure_firmware
+  confidence: auto

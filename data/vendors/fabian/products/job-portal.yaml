@@ -1,0 +1,10 @@
+id: job-portal
+vendor_id: fabian
+name: Job Portal
+type: software
+tags: []
+cpe: cpe:2.3:a:fabian:job_portal:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: job_portal
+  confidence: auto

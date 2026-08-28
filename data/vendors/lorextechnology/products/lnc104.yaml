@@ -1,0 +1,10 @@
+id: lnc104
+vendor_id: lorextechnology
+name: Lnc104
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lorextechnology:lnc104:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: lnc104
+  confidence: auto

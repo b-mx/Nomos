@@ -1,0 +1,10 @@
+id: z70-80
+vendor_id: lenovo
+name: Z70-80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:z70\-80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: z70-80
+  confidence: auto

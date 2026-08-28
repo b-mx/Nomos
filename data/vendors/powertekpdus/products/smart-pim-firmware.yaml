@@ -1,0 +1,10 @@
+id: smart-pim-firmware
+vendor_id: powertekpdus
+name: Smart Pim Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:powertekpdus:smart_pim_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: smart_pim_firmware
+  confidence: auto

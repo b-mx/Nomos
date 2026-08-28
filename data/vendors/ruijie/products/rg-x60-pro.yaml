@@ -1,0 +1,10 @@
+id: rg-x60-pro
+vendor_id: ruijie
+name: Rg-X60 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ruijie:rg\-x60_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rg-x60_pro
+  confidence: auto

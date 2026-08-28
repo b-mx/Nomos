@@ -1,10 +1,7 @@
 id: postgresql
-name: PostgreSQL
-icon: logos:postgresql
+name: Postgresql
+cpe: cpe:2.3:*:postgresql:*:*:*:*:*:*:*:*:*
 aliases:
-  - source: nvd
-    value: postgresql
-    confidence: curated
-  - source: endoflife
-    value: postgresql
-    confidence: curated
+- source: nvd
+  value: postgresql
+  confidence: auto

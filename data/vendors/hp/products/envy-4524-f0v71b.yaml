@@ -1,0 +1,10 @@
+id: envy-4524-f0v71b
+vendor_id: hp
+name: Envy 4524 F0V71B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:envy_4524_f0v71b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: envy_4524_f0v71b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: carnegie-mellon-silicon-valley
+vendor_id: cmu
+name: Carnegie Mellon Silicon Valley
+type: software
+tags: []
+cpe: cpe:2.3:a:cmu:carnegie_mellon_silicon_valley:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: carnegie_mellon_silicon_valley
+  confidence: auto

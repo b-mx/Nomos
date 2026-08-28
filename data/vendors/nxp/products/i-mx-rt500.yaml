@@ -1,0 +1,10 @@
+id: i-mx-rt500
+vendor_id: nxp
+name: I.Mx Rt500
+type: hardware
+tags: []
+cpe: cpe:2.3:h:nxp:i\.mx_rt500:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i.mx_rt500
+  confidence: auto

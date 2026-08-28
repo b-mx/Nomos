@@ -1,0 +1,9 @@
+id: kernel
+vendor_id: android
+name: Kernel
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Kernel
+  confidence: auto

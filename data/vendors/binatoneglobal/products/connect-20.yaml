@@ -1,0 +1,10 @@
+id: connect-20
+vendor_id: binatoneglobal
+name: Connect 20
+type: hardware
+tags: []
+cpe: cpe:2.3:h:binatoneglobal:connect_20:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: connect_20
+  confidence: auto

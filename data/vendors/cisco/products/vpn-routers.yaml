@@ -1,0 +1,9 @@
+id: vpn-routers
+vendor_id: cisco
+name: VPN Routers
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: VPN Routers
+  confidence: auto

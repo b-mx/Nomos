@@ -1,0 +1,10 @@
+id: aws-marketplace
+vendor_id: amazon
+name: Aws Marketplace
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_marketplace:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_marketplace
+  confidence: auto

@@ -1,0 +1,10 @@
+id: j9v82a-firmware
+vendor_id: hp
+name: J9V82A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:j9v82a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: j9v82a_firmware
+  confidence: auto

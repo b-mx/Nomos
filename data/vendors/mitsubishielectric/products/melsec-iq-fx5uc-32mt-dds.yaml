@@ -1,0 +1,10 @@
+id: melsec-iq-fx5uc-32mt-dds
+vendor_id: mitsubishielectric
+name: Melsec Iq-Fx5Uc-32Mt/Dds
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:melsec_iq\-fx5uc\-32mt\/dds:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: melsec_iq-fx5uc-32mt/dds
+  confidence: auto

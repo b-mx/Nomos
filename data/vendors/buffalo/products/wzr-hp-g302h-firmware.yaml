@@ -1,0 +1,10 @@
+id: wzr-hp-g302h-firmware
+vendor_id: buffalo
+name: Wzr-Hp-G302H Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:buffalo:wzr\-hp\-g302h_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wzr-hp-g302h_firmware
+  confidence: auto

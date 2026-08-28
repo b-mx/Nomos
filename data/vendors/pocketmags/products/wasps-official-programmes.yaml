@@ -1,0 +1,10 @@
+id: wasps-official-programmes
+vendor_id: pocketmags
+name: Wasps Official Programmes
+type: software
+tags: []
+cpe: cpe:2.3:a:pocketmags:wasps_official_programmes:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wasps_official_programmes
+  confidence: auto

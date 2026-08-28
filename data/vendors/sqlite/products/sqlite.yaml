@@ -1,0 +1,14 @@
+id: sqlite
+vendor_id: sqlite
+name: SQLite
+type: software
+tags:
+- database
+cpe: cpe:2.3:a:sqlite:sqlite:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: sqlite
+  confidence: auto
+- source: nvd
+  value: sqlite
+  confidence: auto

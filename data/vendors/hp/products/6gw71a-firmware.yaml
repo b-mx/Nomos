@@ -1,0 +1,10 @@
+id: 6gw71a-firmware
+vendor_id: hp
+name: 6Gw71A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:6gw71a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 6gw71a_firmware
+  confidence: auto

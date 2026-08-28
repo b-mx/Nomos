@@ -1,0 +1,10 @@
+id: intelligent-home-gateway
+vendor_id: chinamobile
+name: Intelligent Home Gateway
+type: hardware
+tags: []
+cpe: cpe:2.3:h:chinamobile:intelligent_home_gateway:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: intelligent_home_gateway
+  confidence: auto

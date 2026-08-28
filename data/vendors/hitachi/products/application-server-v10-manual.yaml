@@ -1,0 +1,10 @@
+id: application-server-v10-manual
+vendor_id: hitachi
+name: Application Server V10 Manual
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:application_server_v10_manual:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: application_server_v10_manual
+  confidence: auto

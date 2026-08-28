@@ -1,0 +1,10 @@
+id: neutrino-430-firmware
+vendor_id: baicells
+name: Neutrino 430 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:baicells:neutrino_430_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: neutrino_430_firmware
+  confidence: auto

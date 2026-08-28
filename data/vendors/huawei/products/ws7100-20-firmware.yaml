@@ -1,0 +1,10 @@
+id: ws7100-20-firmware
+vendor_id: huawei
+name: Ws7100-20 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:ws7100\-20_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ws7100-20_firmware
+  confidence: auto

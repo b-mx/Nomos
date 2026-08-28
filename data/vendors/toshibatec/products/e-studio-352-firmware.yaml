@@ -1,0 +1,10 @@
+id: e-studio-352-firmware
+vendor_id: toshibatec
+name: E-Studio-352 Firmware
+type: software
+tags: []
+cpe: cpe:2.3:a:toshibatec:e\-studio\-352_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e-studio-352_firmware
+  confidence: auto

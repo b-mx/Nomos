@@ -1,0 +1,10 @@
+id: celsius-m7010
+vendor_id: fujitsu
+name: Celsius M7010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:celsius_m7010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: celsius_m7010
+  confidence: auto

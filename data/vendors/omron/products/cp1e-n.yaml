@@ -1,0 +1,10 @@
+id: cp1e-n
+vendor_id: omron
+name: Cp1E-N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp1e\-n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1e-n
+  confidence: auto

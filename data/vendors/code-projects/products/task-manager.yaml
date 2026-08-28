@@ -1,0 +1,10 @@
+id: task-manager
+vendor_id: code-projects
+name: Task Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:task_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: task_manager
+  confidence: auto

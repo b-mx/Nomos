@@ -1,0 +1,10 @@
+id: float-menu
+vendor_id: wow-company
+name: Float Menu
+type: software
+tags: []
+cpe: cpe:2.3:a:wow\-company:float_menu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: float_menu
+  confidence: auto

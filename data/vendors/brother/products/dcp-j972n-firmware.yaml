@@ -1,0 +1,10 @@
+id: dcp-j972n-firmware
+vendor_id: brother
+name: Dcp-J972N Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:brother:dcp\-j972n_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dcp-j972n_firmware
+  confidence: auto

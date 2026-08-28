@@ -1,0 +1,10 @@
+id: x11dpt-bh-firmware
+vendor_id: supermicro
+name: X11Dpt-Bh Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:supermicro:x11dpt\-bh_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x11dpt-bh_firmware
+  confidence: auto

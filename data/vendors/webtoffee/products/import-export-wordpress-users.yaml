@@ -1,0 +1,10 @@
+id: import-export-wordpress-users
+vendor_id: webtoffee
+name: Import Export Wordpress Users
+type: software
+tags: []
+cpe: cpe:2.3:a:webtoffee:import_export_wordpress_users:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: import_export_wordpress_users
+  confidence: auto

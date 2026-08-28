@@ -1,0 +1,10 @@
+id: aws-shared-configuration-file-loader
+vendor_id: amazon
+name: Aws Shared Configuration File Loader
+type: software
+tags: []
+cpe: cpe:2.3:a:amazon:aws_shared_configuration_file_loader:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aws_shared_configuration_file_loader
+  confidence: auto

@@ -1,0 +1,10 @@
+id: cp-storage-block-firmware
+vendor_id: lenovo
+name: Cp Storage Block Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:cp_storage_block_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp_storage_block_firmware
+  confidence: auto

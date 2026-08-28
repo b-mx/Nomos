@@ -1,0 +1,10 @@
+id: mguard-industrial-rs-hw-105000
+vendor_id: innominate
+name: Mguard Industrial Rs Hw-105000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:innominate:mguard_industrial_rs_hw\-105000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_industrial_rs_hw-105000
+  confidence: auto

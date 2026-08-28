@@ -1,0 +1,10 @@
+id: proxyclient
+vendor_id: bluecoat
+name: Proxyclient
+type: software
+tags: []
+cpe: cpe:2.3:a:bluecoat:proxyclient:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proxyclient
+  confidence: auto

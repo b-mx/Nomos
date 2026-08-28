@@ -1,0 +1,10 @@
+id: s540-13api-firmware
+vendor_id: lenovo
+name: S540-13Api Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s540\-13api_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s540-13api_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: storagegrid-webscale
+vendor_id: netapp
+name: Storagegrid Webscale
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:storagegrid_webscale:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: storagegrid_webscale
+  confidence: auto

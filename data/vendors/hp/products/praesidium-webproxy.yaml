@@ -1,0 +1,10 @@
+id: praesidium-webproxy
+vendor_id: hp
+name: Praesidium Webproxy
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:praesidium_webproxy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: praesidium_webproxy
+  confidence: auto

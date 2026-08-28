@@ -1,0 +1,10 @@
+id: devops-velocity
+vendor_id: hcltech
+name: Devops Velocity
+type: software
+tags: []
+cpe: cpe:2.3:a:hcltech:devops_velocity:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: devops_velocity
+  confidence: auto

@@ -1,0 +1,10 @@
+id: c1-firmware
+vendor_id: foscam
+name: C1 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:foscam:c1_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c1_firmware
+  confidence: auto

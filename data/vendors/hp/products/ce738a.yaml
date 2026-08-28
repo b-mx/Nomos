@@ -1,0 +1,10 @@
+id: ce738a
+vendor_id: hp
+name: Ce738A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:ce738a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ce738a
+  confidence: auto

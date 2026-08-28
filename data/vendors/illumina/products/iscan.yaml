@@ -1,0 +1,10 @@
+id: iscan
+vendor_id: illumina
+name: Iscan
+type: hardware
+tags: []
+cpe: cpe:2.3:h:illumina:iscan:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: iscan
+  confidence: auto

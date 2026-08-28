@@ -1,0 +1,10 @@
+id: videowhisper-live-streaming-integration
+vendor_id: videowhisper
+name: Videowhisper Live Streaming Integration
+type: software
+tags: []
+cpe: cpe:2.3:a:videowhisper:videowhisper_live_streaming_integration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: videowhisper_live_streaming_integration
+  confidence: auto

@@ -1,0 +1,10 @@
+id: foreman-tasks
+vendor_id: theforeman
+name: Foreman-Tasks
+type: software
+tags: []
+cpe: cpe:2.3:a:theforeman:foreman\-tasks:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: foreman-tasks
+  confidence: auto

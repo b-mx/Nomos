@@ -1,0 +1,10 @@
+id: zope-management-interface
+vendor_id: zope
+name: Zope Management Interface
+type: software
+tags: []
+cpe: cpe:2.3:a:zope:zope_management_interface:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zope_management_interface
+  confidence: auto

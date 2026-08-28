@@ -1,0 +1,10 @@
+id: cis-in-customer-frontend
+vendor_id: otrs
+name: Cis In Customer Frontend
+type: software
+tags: []
+cpe: cpe:2.3:a:otrs:cis_in_customer_frontend:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cis_in_customer_frontend
+  confidence: auto

@@ -1,0 +1,10 @@
+id: mc206
+vendor_id: bachmann
+name: Mc206
+type: hardware
+tags: []
+cpe: cpe:2.3:h:bachmann:mc206:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mc206
+  confidence: auto

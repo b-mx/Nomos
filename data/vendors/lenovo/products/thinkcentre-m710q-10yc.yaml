@@ -1,0 +1,10 @@
+id: thinkcentre-m710q-10yc
+vendor_id: lenovo
+name: Thinkcentre M710Q (10Yc)
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkcentre_m710q_\(10yc\):*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkcentre_m710q_(10yc)
+  confidence: auto

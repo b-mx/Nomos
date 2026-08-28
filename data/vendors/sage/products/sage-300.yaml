@@ -1,0 +1,10 @@
+id: sage-300
+vendor_id: sage
+name: Sage 300
+type: software
+tags: []
+cpe: cpe:2.3:a:sage:sage_300:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sage_300
+  confidence: auto

@@ -1,0 +1,10 @@
+id: portfolio-post
+vendor_id: themify
+name: Portfolio Post
+type: software
+tags: []
+cpe: cpe:2.3:a:themify:portfolio_post:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: portfolio_post
+  confidence: auto

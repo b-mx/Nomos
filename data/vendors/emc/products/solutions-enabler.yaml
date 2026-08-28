@@ -1,0 +1,10 @@
+id: solutions-enabler
+vendor_id: emc
+name: Solutions Enabler
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:solutions_enabler:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: solutions_enabler
+  confidence: auto

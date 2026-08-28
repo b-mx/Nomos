@@ -1,0 +1,10 @@
+id: yubikey-5-nfc-firmware
+vendor_id: yubico
+name: Yubikey 5 Nfc Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:yubico:yubikey_5_nfc_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yubikey_5_nfc_firmware
+  confidence: auto

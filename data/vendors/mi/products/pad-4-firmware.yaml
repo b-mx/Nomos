@@ -1,0 +1,10 @@
+id: pad-4-firmware
+vendor_id: mi
+name: Pad 4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:mi:pad_4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pad_4_firmware
+  confidence: auto

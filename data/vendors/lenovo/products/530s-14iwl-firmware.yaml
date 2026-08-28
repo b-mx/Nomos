@@ -1,0 +1,10 @@
+id: 530s-14iwl-firmware
+vendor_id: lenovo
+name: 530S-14Iwl Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:530s\-14iwl_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 530s-14iwl_firmware
+  confidence: auto

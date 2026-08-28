@@ -1,0 +1,7 @@
+id: bosch
+name: Bosch
+cpe: cpe:2.3:*:bosch:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: bosch
+  confidence: auto

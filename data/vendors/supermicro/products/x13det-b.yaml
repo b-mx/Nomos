@@ -1,0 +1,10 @@
+id: x13det-b
+vendor_id: supermicro
+name: X13Det-B
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x13det\-b:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x13det-b
+  confidence: auto

@@ -1,0 +1,10 @@
+id: habomalhunter
+vendor_id: tencent
+name: Habomalhunter
+type: software
+tags: []
+cpe: cpe:2.3:a:tencent:habomalhunter:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: habomalhunter
+  confidence: auto

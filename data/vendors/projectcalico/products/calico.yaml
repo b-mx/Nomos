@@ -1,0 +1,13 @@
+id: calico
+vendor_id: projectcalico
+name: Calico
+type: software
+tags: []
+cpe: cpe:2.3:a:projectcalico:calico:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: calico
+  confidence: auto
+- source: nvd
+  value: calico
+  confidence: auto

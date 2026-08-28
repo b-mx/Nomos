@@ -1,0 +1,10 @@
+id: i-sensys-mf742cdw
+vendor_id: canon
+name: I-Sensys Mf742Cdw
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:i\-sensys_mf742cdw:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: i-sensys_mf742cdw
+  confidence: auto

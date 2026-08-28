@@ -1,0 +1,13 @@
+id: blender
+vendor_id: blender
+name: Blender
+type: software
+tags: []
+cpe: cpe:2.3:a:blender:blender:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: blender
+  confidence: auto
+- source: nvd
+  value: blender
+  confidence: auto

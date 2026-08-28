@@ -1,0 +1,10 @@
+id: rackshift
+vendor_id: fit2cloud
+name: Rackshift
+type: software
+tags: []
+cpe: cpe:2.3:a:fit2cloud:rackshift:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rackshift
+  confidence: auto

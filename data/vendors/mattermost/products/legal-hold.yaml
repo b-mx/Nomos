@@ -1,0 +1,10 @@
+id: legal-hold
+vendor_id: mattermost
+name: Legal Hold
+type: software
+tags: []
+cpe: cpe:2.3:a:mattermost:legal_hold:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: legal_hold
+  confidence: auto

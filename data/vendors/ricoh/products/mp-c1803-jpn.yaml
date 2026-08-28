@@ -1,0 +1,10 @@
+id: mp-c1803-jpn
+vendor_id: ricoh
+name: Mp C1803 Jpn
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:mp_c1803_jpn:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mp_c1803_jpn
+  confidence: auto

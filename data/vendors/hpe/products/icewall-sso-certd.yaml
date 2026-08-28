@@ -1,0 +1,10 @@
+id: icewall-sso-certd
+vendor_id: hpe
+name: Icewall Sso Certd
+type: software
+tags: []
+cpe: cpe:2.3:a:hpe:icewall_sso_certd:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: icewall_sso_certd
+  confidence: auto

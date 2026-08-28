@@ -1,0 +1,10 @@
+id: im-7000
+vendor_id: ricoh
+name: Im 7000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:ricoh:im_7000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: im_7000
+  confidence: auto

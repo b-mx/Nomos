@@ -1,0 +1,10 @@
+id: fundraising-script
+vendor_id: phpjabbers
+name: Fundraising Script
+type: software
+tags: []
+cpe: cpe:2.3:a:phpjabbers:fundraising_script:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fundraising_script
+  confidence: auto

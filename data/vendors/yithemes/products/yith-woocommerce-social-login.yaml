@@ -1,0 +1,10 @@
+id: yith-woocommerce-social-login
+vendor_id: yithemes
+name: Yith Woocommerce Social Login
+type: software
+tags: []
+cpe: cpe:2.3:a:yithemes:yith_woocommerce_social_login:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: yith_woocommerce_social_login
+  confidence: auto

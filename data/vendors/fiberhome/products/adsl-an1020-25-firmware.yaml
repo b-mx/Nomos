@@ -1,0 +1,10 @@
+id: adsl-an1020-25-firmware
+vendor_id: fiberhome
+name: Adsl An1020-25 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fiberhome:adsl_an1020\-25_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: adsl_an1020-25_firmware
+  confidence: auto

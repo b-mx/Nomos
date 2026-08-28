@@ -1,0 +1,10 @@
+id: x10sll-s
+vendor_id: supermicro
+name: X10Sll-S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:supermicro:x10sll\-s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: x10sll-s
+  confidence: auto

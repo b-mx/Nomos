@@ -1,0 +1,10 @@
+id: na5-7w
+vendor_id: omron
+name: Na5-7W
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:na5\-7w:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: na5-7w
+  confidence: auto

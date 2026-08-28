@@ -1,0 +1,10 @@
+id: realsecure-event-collector
+vendor_id: iss
+name: Realsecure Event Collector
+type: software
+tags: []
+cpe: cpe:2.3:a:iss:realsecure_event_collector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realsecure_event_collector
+  confidence: auto

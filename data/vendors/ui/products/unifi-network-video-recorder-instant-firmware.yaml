@@ -1,0 +1,10 @@
+id: unifi-network-video-recorder-instant-firmware
+vendor_id: ui
+name: Unifi Network Video Recorder Instant Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:ui:unifi_network_video_recorder_instant_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: unifi_network_video_recorder_instant_firmware
+  confidence: auto

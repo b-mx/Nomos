@@ -1,0 +1,10 @@
+id: wordpress-rest-api-authentication
+vendor_id: miniorange
+name: Wordpress Rest Api Authentication
+type: software
+tags: []
+cpe: cpe:2.3:a:miniorange:wordpress_rest_api_authentication:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wordpress_rest_api_authentication
+  confidence: auto

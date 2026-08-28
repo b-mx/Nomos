@@ -1,0 +1,10 @@
+id: readyapi
+vendor_id: smartbear
+name: Readyapi
+type: software
+tags: []
+cpe: cpe:2.3:a:smartbear:readyapi:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: readyapi
+  confidence: auto

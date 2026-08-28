@@ -1,0 +1,10 @@
+id: dnsco-bind
+vendor_id: isc
+name: Dnsco Bind
+type: software
+tags: []
+cpe: cpe:2.3:a:isc:dnsco_bind:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dnsco_bind
+  confidence: auto

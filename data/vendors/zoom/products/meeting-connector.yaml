@@ -1,0 +1,10 @@
+id: meeting-connector
+vendor_id: zoom
+name: Meeting Connector
+type: software
+tags: []
+cpe: cpe:2.3:a:zoom:meeting_connector:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meeting_connector
+  confidence: auto

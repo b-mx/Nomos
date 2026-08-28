@@ -1,0 +1,10 @@
+id: cp1w-ts102
+vendor_id: omron
+name: Cp1W-Ts102
+type: hardware
+tags: []
+cpe: cpe:2.3:h:omron:cp1w\-ts102:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cp1w-ts102
+  confidence: auto

@@ -1,0 +1,10 @@
+id: tm-p80
+vendor_id: epson
+name: Tm-P80
+type: hardware
+tags: []
+cpe: cpe:2.3:h:epson:tm\-p80:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tm-p80
+  confidence: auto

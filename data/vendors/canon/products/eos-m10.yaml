@@ -1,0 +1,10 @@
+id: eos-m10
+vendor_id: canon
+name: Eos M10
+type: hardware
+tags: []
+cpe: cpe:2.3:h:canon:eos_m10:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: eos_m10
+  confidence: auto

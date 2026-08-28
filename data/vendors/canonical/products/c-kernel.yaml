@@ -1,0 +1,10 @@
+id: c-kernel
+vendor_id: canonical
+name: C-Kernel
+type: software
+tags: []
+cpe: cpe:2.3:a:canonical:c\-kernel:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: c-kernel
+  confidence: auto

@@ -1,0 +1,10 @@
+id: arcsight-connector-appliance
+vendor_id: hp
+name: Arcsight Connector Appliance
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:arcsight_connector_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: arcsight_connector_appliance
+  confidence: auto

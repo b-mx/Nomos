@@ -1,0 +1,10 @@
+id: easycreate
+vendor_id: iscripts
+name: Easycreate
+type: software
+tags: []
+cpe: cpe:2.3:a:iscripts:easycreate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: easycreate
+  confidence: auto

@@ -1,0 +1,10 @@
+id: e234
+vendor_id: lexmark
+name: E234
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lexmark:e234:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: e234
+  confidence: auto

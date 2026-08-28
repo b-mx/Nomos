@@ -1,0 +1,10 @@
+id: webcti
+vendor_id: slican
+name: Webcti
+type: software
+tags: []
+cpe: cpe:2.3:a:slican:webcti:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: webcti
+  confidence: auto

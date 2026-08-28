@@ -1,0 +1,10 @@
+id: admin-ui-module
+vendor_id: openmrs
+name: Admin Ui Module
+type: software
+tags: []
+cpe: cpe:2.3:a:openmrs:admin_ui_module:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: admin_ui_module
+  confidence: auto

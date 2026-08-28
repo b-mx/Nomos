@@ -1,0 +1,10 @@
+id: 762-3000-firmware
+vendor_id: wago
+name: 762-3000 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:762\-3000_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 762-3000_firmware
+  confidence: auto

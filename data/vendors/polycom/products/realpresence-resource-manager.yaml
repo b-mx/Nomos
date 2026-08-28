@@ -1,0 +1,10 @@
+id: realpresence-resource-manager
+vendor_id: polycom
+name: Realpresence Resource Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:polycom:realpresence_resource_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: realpresence_resource_manager
+  confidence: auto

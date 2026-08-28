@@ -1,0 +1,10 @@
+id: proliant-ml110
+vendor_id: hp
+name: Proliant Ml110
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:proliant_ml110:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: proliant_ml110
+  confidence: auto

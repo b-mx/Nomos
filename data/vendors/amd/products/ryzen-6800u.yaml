@@ -1,0 +1,10 @@
+id: ryzen-6800u
+vendor_id: amd
+name: Ryzen 6800U
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_6800u:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_6800u
+  confidence: auto

@@ -1,0 +1,10 @@
+id: s21e-firmware
+vendor_id: lenovo
+name: S21E Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:lenovo:s21e_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s21e_firmware
+  confidence: auto

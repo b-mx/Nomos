@@ -1,0 +1,10 @@
+id: horizon
+vendor_id: openstack
+name: Horizon
+type: software
+tags: []
+cpe: cpe:2.3:a:openstack:horizon:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: horizon
+  confidence: auto

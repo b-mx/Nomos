@@ -1,0 +1,10 @@
+id: at-rg634a-firmware
+vendor_id: alliedtelesis
+name: At-Rg634A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:alliedtelesis:at\-rg634a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: at-rg634a_firmware
+  confidence: auto

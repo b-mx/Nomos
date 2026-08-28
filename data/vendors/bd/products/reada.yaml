@@ -1,0 +1,10 @@
+id: reada
+vendor_id: bd
+name: Reada
+type: software
+tags: []
+cpe: cpe:2.3:a:bd:reada:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: reada
+  confidence: auto

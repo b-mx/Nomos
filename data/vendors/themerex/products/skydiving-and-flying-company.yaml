@@ -1,0 +1,10 @@
+id: skydiving-and-flying-company
+vendor_id: themerex
+name: Skydiving And Flying Company
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:skydiving_and_flying_company:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: skydiving_and_flying_company
+  confidence: auto

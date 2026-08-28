@@ -1,0 +1,10 @@
+id: sl2100
+vendor_id: necplatforms
+name: Sl2100
+type: hardware
+tags: []
+cpe: cpe:2.3:h:necplatforms:sl2100:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sl2100
+  confidence: auto

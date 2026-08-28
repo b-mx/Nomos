@@ -1,0 +1,10 @@
+id: tc7230-steb-firmware
+vendor_id: technicolor
+name: Tc7230 Steb Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:tc7230_steb_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7230_steb_firmware
+  confidence: auto

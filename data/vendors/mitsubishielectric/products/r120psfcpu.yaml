@@ -1,0 +1,10 @@
+id: r120psfcpu
+vendor_id: mitsubishielectric
+name: R120Psfcpu
+type: hardware
+tags: []
+cpe: cpe:2.3:h:mitsubishielectric:r120psfcpu:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r120psfcpu
+  confidence: auto

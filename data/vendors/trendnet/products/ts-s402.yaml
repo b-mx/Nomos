@@ -1,0 +1,10 @@
+id: ts-s402
+vendor_id: trendnet
+name: Ts-S402
+type: hardware
+tags: []
+cpe: cpe:2.3:h:trendnet:ts\-s402:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ts-s402
+  confidence: auto

@@ -1,0 +1,10 @@
+id: 344x
+vendor_id: lenovo
+name: 344X
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:344x:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: 344x
+  confidence: auto

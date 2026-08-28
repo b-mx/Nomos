@@ -1,0 +1,10 @@
+id: fedmsg
+vendor_id: fedoraproject
+name: Fedmsg
+type: software
+tags: []
+cpe: cpe:2.3:a:fedoraproject:fedmsg:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fedmsg
+  confidence: auto

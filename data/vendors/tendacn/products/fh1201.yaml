@@ -1,0 +1,10 @@
+id: fh1201
+vendor_id: tendacn
+name: Fh1201
+type: hardware
+tags: []
+cpe: cpe:2.3:h:tendacn:fh1201:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fh1201
+  confidence: auto

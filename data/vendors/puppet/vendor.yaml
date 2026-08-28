@@ -1,0 +1,7 @@
+id: puppet
+name: Puppet
+cpe: cpe:2.3:*:puppet:*:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: puppet
+  confidence: auto

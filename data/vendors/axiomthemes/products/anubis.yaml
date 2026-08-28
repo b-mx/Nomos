@@ -1,0 +1,10 @@
+id: anubis
+vendor_id: axiomthemes
+name: Anubis
+type: software
+tags: []
+cpe: cpe:2.3:a:axiomthemes:anubis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: anubis
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ir615
+vendor_id: inhandnetworks
+name: Ir615
+type: hardware
+tags: []
+cpe: cpe:2.3:h:inhandnetworks:ir615:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ir615
+  confidence: auto

@@ -1,0 +1,10 @@
+id: ryzen-9-7945hx3d
+vendor_id: amd
+name: Ryzen 9 7945Hx3D
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amd:ryzen_9_7945hx3d:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ryzen_9_7945hx3d
+  confidence: auto

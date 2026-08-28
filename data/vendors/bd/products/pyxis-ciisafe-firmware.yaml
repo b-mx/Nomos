@@ -1,0 +1,10 @@
+id: pyxis-ciisafe-firmware
+vendor_id: bd
+name: Pyxis Ciisafe Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:bd:pyxis_ciisafe_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pyxis_ciisafe_firmware
+  confidence: auto

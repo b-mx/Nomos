@@ -1,0 +1,10 @@
+id: websense
+vendor_id: websense
+name: Websense
+type: software
+tags: []
+cpe: cpe:2.3:a:websense:websense:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: websense
+  confidence: auto

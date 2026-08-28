@@ -1,0 +1,10 @@
+id: honor-8-pro
+vendor_id: huawei
+name: Honor 8 Pro
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:honor_8_pro:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: honor_8_pro
+  confidence: auto

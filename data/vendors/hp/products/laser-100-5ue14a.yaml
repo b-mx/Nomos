@@ -1,0 +1,10 @@
+id: laser-100-5ue14a
+vendor_id: hp
+name: Laser 100 5Ue14A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:laser_100_5ue14a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laser_100_5ue14a
+  confidence: auto

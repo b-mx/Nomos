@@ -1,0 +1,10 @@
+id: ucosminexus-collaboration
+vendor_id: hitachi
+name: Ucosminexus Collaboration
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:ucosminexus_collaboration:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ucosminexus_collaboration
+  confidence: auto

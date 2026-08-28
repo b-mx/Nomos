@@ -1,0 +1,10 @@
+id: vip4gb-wifi-n
+vendor_id: microhardcorp
+name: Vip4Gb Wifi-N
+type: hardware
+tags: []
+cpe: cpe:2.3:h:microhardcorp:vip4gb_wifi\-n:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: vip4gb_wifi-n
+  confidence: auto

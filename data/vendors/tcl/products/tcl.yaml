@@ -1,0 +1,10 @@
+id: tcl
+vendor_id: tcl
+name: Tcl
+type: software
+tags: []
+cpe: cpe:2.3:a:tcl:tcl:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tcl
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zu3teg-firmware
+vendor_id: amd
+name: Zu3Teg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:amd:zu3teg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zu3teg_firmware
+  confidence: auto

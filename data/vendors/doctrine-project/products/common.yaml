@@ -1,0 +1,10 @@
+id: common
+vendor_id: doctrine-project
+name: Common
+type: software
+tags: []
+cpe: cpe:2.3:a:doctrine\-project:common:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: common
+  confidence: auto

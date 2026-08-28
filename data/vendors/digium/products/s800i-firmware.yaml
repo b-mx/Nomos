@@ -1,0 +1,10 @@
+id: s800i-firmware
+vendor_id: digium
+name: S800I Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:digium:s800i_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s800i_firmware
+  confidence: auto

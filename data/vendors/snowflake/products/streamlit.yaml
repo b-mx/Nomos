@@ -1,0 +1,10 @@
+id: streamlit
+vendor_id: snowflake
+name: Streamlit
+type: software
+tags: []
+cpe: cpe:2.3:a:snowflake:streamlit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: streamlit
+  confidence: auto

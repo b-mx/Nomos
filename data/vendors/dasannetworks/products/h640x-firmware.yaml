@@ -1,0 +1,10 @@
+id: h640x-firmware
+vendor_id: dasannetworks
+name: H640X Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:dasannetworks:h640x_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: h640x_firmware
+  confidence: auto

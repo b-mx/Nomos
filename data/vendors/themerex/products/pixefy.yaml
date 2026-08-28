@@ -1,0 +1,10 @@
+id: pixefy
+vendor_id: themerex
+name: Pixefy
+type: software
+tags: []
+cpe: cpe:2.3:a:themerex:pixefy:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pixefy
+  confidence: auto

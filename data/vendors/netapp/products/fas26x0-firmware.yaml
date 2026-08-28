@@ -1,0 +1,10 @@
+id: fas26x0-firmware
+vendor_id: netapp
+name: Fas26X0 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:netapp:fas26x0_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: fas26x0_firmware
+  confidence: auto

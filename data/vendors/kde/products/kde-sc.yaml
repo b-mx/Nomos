@@ -1,0 +1,10 @@
+id: kde-sc
+vendor_id: kde
+name: Kde Sc
+type: software
+tags: []
+cpe: cpe:2.3:a:kde:kde_sc:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: kde_sc
+  confidence: auto

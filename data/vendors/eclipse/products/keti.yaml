@@ -1,0 +1,10 @@
+id: keti
+vendor_id: eclipse
+name: Keti
+type: software
+tags: []
+cpe: cpe:2.3:a:eclipse:keti:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: keti
+  confidence: auto

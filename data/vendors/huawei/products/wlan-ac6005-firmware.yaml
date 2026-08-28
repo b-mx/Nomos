@@ -1,0 +1,10 @@
+id: wlan-ac6005-firmware
+vendor_id: huawei
+name: Wlan Ac6005 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:huawei:wlan_ac6005_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wlan_ac6005_firmware
+  confidence: auto

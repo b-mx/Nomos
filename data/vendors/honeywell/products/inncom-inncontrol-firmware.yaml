@@ -1,0 +1,10 @@
+id: inncom-inncontrol-firmware
+vendor_id: honeywell
+name: Inncom Inncontrol Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:honeywell:inncom_inncontrol_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: inncom_inncontrol_firmware
+  confidence: auto

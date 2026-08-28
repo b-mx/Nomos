@@ -1,0 +1,10 @@
+id: mha-al00a
+vendor_id: huawei
+name: Mha-Al00A
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:mha\-al00a:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mha-al00a
+  confidence: auto

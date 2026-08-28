@@ -1,0 +1,10 @@
+id: ruby-on-rails
+vendor_id: rubyonrails
+name: Ruby On Rails
+type: software
+tags: []
+cpe: cpe:2.3:a:rubyonrails:ruby_on_rails:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruby_on_rails
+  confidence: auto

@@ -1,0 +1,10 @@
+id: laserjet-m112-2u584a-firmware
+vendor_id: hp
+name: Laserjet M112 2U584A Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hp:laserjet_m112_2u584a_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: laserjet_m112_2u584a_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: atsama5d225c-d1m-cur-firmware
+vendor_id: microchip
+name: Atsama5D225C-D1M-Cur Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microchip:atsama5d225c\-d1m\-cur_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: atsama5d225c-d1m-cur_firmware
+  confidence: auto

@@ -1,0 +1,10 @@
+id: pmi-v815
+vendor_id: pilz
+name: Pmi V815
+type: hardware
+tags: []
+cpe: cpe:2.3:h:pilz:pmi_v815:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: pmi_v815
+  confidence: auto

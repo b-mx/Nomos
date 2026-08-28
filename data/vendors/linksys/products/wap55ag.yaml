@@ -1,0 +1,10 @@
+id: wap55ag
+vendor_id: linksys
+name: Wap55Ag
+type: hardware
+tags: []
+cpe: cpe:2.3:h:linksys:wap55ag:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wap55ag
+  confidence: auto

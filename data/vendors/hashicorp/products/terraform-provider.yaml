@@ -1,0 +1,10 @@
+id: terraform-provider
+vendor_id: hashicorp
+name: Terraform Provider
+type: software
+tags: []
+cpe: cpe:2.3:a:hashicorp:terraform_provider:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: terraform_provider
+  confidence: auto

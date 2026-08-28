@@ -1,0 +1,10 @@
+id: social-networking-site
+vendor_id: code-projects
+name: Social Networking Site
+type: software
+tags: []
+cpe: cpe:2.3:a:code\-projects:social_networking_site:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: social_networking_site
+  confidence: auto

@@ -1,0 +1,10 @@
+id: zte-zmax-champ
+vendor_id: zteusa
+name: Zte Zmax Champ
+type: hardware
+tags: []
+cpe: cpe:2.3:h:zteusa:zte_zmax_champ:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: zte_zmax_champ
+  confidence: auto

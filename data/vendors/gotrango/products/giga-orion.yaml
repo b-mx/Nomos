@@ -1,0 +1,10 @@
+id: giga-orion
+vendor_id: gotrango
+name: Giga Orion
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gotrango:giga_orion:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: giga_orion
+  confidence: auto

@@ -1,0 +1,10 @@
+id: meeting-exchange
+vendor_id: avaya
+name: Meeting Exchange
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:meeting_exchange:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: meeting_exchange
+  confidence: auto

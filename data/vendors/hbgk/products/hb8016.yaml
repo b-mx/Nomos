@@ -1,0 +1,10 @@
+id: hb8016
+vendor_id: hbgk
+name: Hb8016
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hbgk:hb8016:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: hb8016
+  confidence: auto

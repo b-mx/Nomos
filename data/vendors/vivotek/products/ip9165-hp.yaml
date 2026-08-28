@@ -1,0 +1,10 @@
+id: ip9165-hp
+vendor_id: vivotek
+name: Ip9165-Hp
+type: hardware
+tags: []
+cpe: cpe:2.3:h:vivotek:ip9165\-hp:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ip9165-hp
+  confidence: auto

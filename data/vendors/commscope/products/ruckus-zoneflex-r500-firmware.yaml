@@ -1,0 +1,10 @@
+id: ruckus-zoneflex-r500-firmware
+vendor_id: commscope
+name: Ruckus Zoneflex R500 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:commscope:ruckus_zoneflex_r500_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ruckus_zoneflex_r500_firmware
+  confidence: auto

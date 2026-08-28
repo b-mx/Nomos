@@ -1,0 +1,10 @@
+id: r-30ia-firmware
+vendor_id: fanuc
+name: R-30Ia Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:fanuc:r\-30ia_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: r-30ia_firmware
+  confidence: auto

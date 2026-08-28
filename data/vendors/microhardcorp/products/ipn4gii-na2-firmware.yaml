@@ -1,0 +1,10 @@
+id: ipn4gii-na2-firmware
+vendor_id: microhardcorp
+name: Ipn4Gii-Na2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:microhardcorp:ipn4gii\-na2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ipn4gii-na2_firmware
+  confidence: auto

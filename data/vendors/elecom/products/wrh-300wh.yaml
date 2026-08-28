@@ -1,0 +1,10 @@
+id: wrh-300wh
+vendor_id: elecom
+name: Wrh-300Wh
+type: hardware
+tags: []
+cpe: cpe:2.3:h:elecom:wrh\-300wh:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: wrh-300wh
+  confidence: auto

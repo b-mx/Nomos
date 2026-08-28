@@ -1,0 +1,10 @@
+id: thinkagile-hx-1000
+vendor_id: lenovo
+name: Thinkagile Hx 1000
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkagile_hx_1000:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkagile_hx_1000
+  confidence: auto

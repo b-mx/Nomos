@@ -1,0 +1,10 @@
+id: powerpath-virtual-appliance
+vendor_id: emc
+name: Powerpath Virtual Appliance
+type: software
+tags: []
+cpe: cpe:2.3:a:emc:powerpath_virtual_appliance:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: powerpath_virtual_appliance
+  confidence: auto

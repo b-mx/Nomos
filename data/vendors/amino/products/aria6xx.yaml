@@ -1,0 +1,10 @@
+id: aria6xx
+vendor_id: amino
+name: Aria6Xx
+type: hardware
+tags: []
+cpe: cpe:2.3:h:amino:aria6xx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: aria6xx
+  confidence: auto

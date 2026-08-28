@@ -1,0 +1,10 @@
+id: jc125b-hp-9512-switch-chassis
+vendor_id: hp
+name: Jc125B Hp 9512 Switch Chassis
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jc125b_hp_9512_switch_chassis:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jc125b_hp_9512_switch_chassis
+  confidence: auto

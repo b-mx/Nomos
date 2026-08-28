@@ -1,0 +1,10 @@
+id: ap250
+vendor_id: extremenetworks
+name: Ap250
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap250:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap250
+  confidence: auto

@@ -1,0 +1,10 @@
+id: oncommand-insight
+vendor_id: netapp
+name: Oncommand Insight
+type: software
+tags: []
+cpe: cpe:2.3:a:netapp:oncommand_insight:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: oncommand_insight
+  confidence: auto

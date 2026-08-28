@@ -1,0 +1,10 @@
+id: moonlight-common-c
+vendor_id: moonlight-stream
+name: Moonlight-Common-C
+type: software
+tags: []
+cpe: cpe:2.3:a:moonlight\-stream:moonlight\-common\-c:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: moonlight-common-c
+  confidence: auto

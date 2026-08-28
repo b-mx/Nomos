@@ -1,0 +1,10 @@
+id: axl-f-bk-sas
+vendor_id: phoenixcontact
+name: Axl F Bk Sas
+type: hardware
+tags: []
+cpe: cpe:2.3:h:phoenixcontact:axl_f_bk_sas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: axl_f_bk_sas
+  confidence: auto

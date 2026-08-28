@@ -1,0 +1,10 @@
+id: silkworm-3250-fabric-switch
+vendor_id: brocade
+name: Silkworm 3250 Fabric Switch
+type: hardware
+tags: []
+cpe: cpe:2.3:h:brocade:silkworm_3250_fabric_switch:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: silkworm_3250_fabric_switch
+  confidence: auto

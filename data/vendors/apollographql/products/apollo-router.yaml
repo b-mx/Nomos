@@ -1,0 +1,10 @@
+id: apollo-router
+vendor_id: apollographql
+name: Apollo Router
+type: software
+tags: []
+cpe: cpe:2.3:a:apollographql:apollo_router:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: apollo_router
+  confidence: auto

@@ -1,0 +1,10 @@
+id: performance-manager
+vendor_id: bmc
+name: Performance Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:bmc:performance_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: performance_manager
+  confidence: auto

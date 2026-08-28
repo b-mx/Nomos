@@ -1,0 +1,10 @@
+id: virglrenderer
+vendor_id: freedesktop
+name: Virglrenderer
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:virglrenderer:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: virglrenderer
+  confidence: auto

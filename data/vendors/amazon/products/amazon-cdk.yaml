@@ -1,0 +1,14 @@
+id: amazon-cdk
+vendor_id: amazon
+name: Amazon CDK
+type: library
+tags:
+- framework
+cpe: cpe:2.3:a:amazon:aws_cloud_development_kit:*:*:*:*:*:*:*:*
+aliases:
+- source: endoflife
+  value: amazon-cdk
+  confidence: auto
+- source: nvd
+  value: aws_cloud_development_kit
+  confidence: auto

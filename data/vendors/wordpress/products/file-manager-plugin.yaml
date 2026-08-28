@@ -2,10 +2,8 @@ id: file-manager-plugin
 vendor_id: wordpress
 name: File Manager Plugin
 type: software
-tags:
-- cms
-icon: skill-icons:wordpress
+tags: []
 aliases:
 - source: cisa_kev
   value: File Manager Plugin
-  confidence: curated
+  confidence: auto

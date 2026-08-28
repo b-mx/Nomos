@@ -1,0 +1,10 @@
+id: dominaplus
+vendor_id: ave
+name: Dominaplus
+type: software
+tags: []
+cpe: cpe:2.3:a:ave:dominaplus:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: dominaplus
+  confidence: auto

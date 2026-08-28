@@ -1,0 +1,10 @@
+id: clickshare-cse-200
+vendor_id: barco
+name: Clickshare Cse-200
+type: hardware
+tags: []
+cpe: cpe:2.3:h:barco:clickshare_cse\-200:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: clickshare_cse-200
+  confidence: auto

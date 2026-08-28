@@ -1,0 +1,10 @@
+id: isc2500-s-firmware
+vendor_id: uniview
+name: Isc2500-S Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:uniview:isc2500\-s_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: isc2500-s_firmware
+  confidence: auto

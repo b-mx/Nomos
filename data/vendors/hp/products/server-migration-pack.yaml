@@ -1,0 +1,10 @@
+id: server-migration-pack
+vendor_id: hp
+name: Server Migration Pack
+type: software
+tags: []
+cpe: cpe:2.3:a:hp:server_migration_pack:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: server_migration_pack
+  confidence: auto

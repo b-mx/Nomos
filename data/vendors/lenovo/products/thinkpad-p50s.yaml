@@ -1,0 +1,10 @@
+id: thinkpad-p50s
+vendor_id: lenovo
+name: Thinkpad P50S
+type: hardware
+tags: []
+cpe: cpe:2.3:h:lenovo:thinkpad_p50s:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: thinkpad_p50s
+  confidence: auto

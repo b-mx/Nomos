@@ -1,0 +1,9 @@
+id: exim-internet-mailer
+vendor_id: exim
+name: Exim Internet Mailer
+type: software
+tags: []
+aliases:
+- source: cisa_kev
+  value: Exim Internet Mailer
+  confidence: auto

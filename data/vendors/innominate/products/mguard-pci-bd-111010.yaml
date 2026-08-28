@@ -1,0 +1,10 @@
+id: mguard-pci-bd-111010
+vendor_id: innominate
+name: Mguard Pci Bd-111010
+type: hardware
+tags: []
+cpe: cpe:2.3:h:innominate:mguard_pci_bd\-111010:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: mguard_pci_bd-111010
+  confidence: auto

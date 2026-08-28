@@ -1,0 +1,10 @@
+id: ap550
+vendor_id: extremenetworks
+name: Ap550
+type: hardware
+tags: []
+cpe: cpe:2.3:h:extremenetworks:ap550:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ap550
+  confidence: auto

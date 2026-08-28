@@ -1,0 +1,10 @@
+id: t1p36
+vendor_id: hp
+name: T1P36
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:t1p36:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: t1p36
+  confidence: auto

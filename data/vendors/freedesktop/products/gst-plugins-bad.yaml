@@ -1,0 +1,10 @@
+id: gst-plugins-bad
+vendor_id: freedesktop
+name: Gst-Plugins-Bad
+type: software
+tags: []
+cpe: cpe:2.3:a:freedesktop:gst\-plugins\-bad:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: gst-plugins-bad
+  confidence: auto

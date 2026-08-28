@@ -1,0 +1,10 @@
+id: jobscout
+vendor_id: rarathemes
+name: Jobscout
+type: software
+tags: []
+cpe: cpe:2.3:a:rarathemes:jobscout:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jobscout
+  confidence: auto

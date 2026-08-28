@@ -1,0 +1,10 @@
+id: ncloud-300-firmware
+vendor_id: intelbras
+name: Ncloud 300 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:intelbras:ncloud_300_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ncloud_300_firmware
+  confidence: auto

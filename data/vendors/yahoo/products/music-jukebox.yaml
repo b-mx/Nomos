@@ -1,0 +1,10 @@
+id: music-jukebox
+vendor_id: yahoo
+name: Music Jukebox
+type: software
+tags: []
+cpe: cpe:2.3:a:yahoo:music_jukebox:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: music_jukebox
+  confidence: auto

@@ -1,0 +1,10 @@
+id: sydney-al00
+vendor_id: huawei
+name: Sydney-Al00
+type: hardware
+tags: []
+cpe: cpe:2.3:h:huawei:sydney\-al00:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sydney-al00
+  confidence: auto

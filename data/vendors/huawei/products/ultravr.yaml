@@ -1,0 +1,10 @@
+id: ultravr
+vendor_id: huawei
+name: Ultravr
+type: software
+tags: []
+cpe: cpe:2.3:a:huawei:ultravr:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: ultravr
+  confidence: auto

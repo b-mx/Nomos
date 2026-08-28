@@ -1,0 +1,10 @@
+id: m12-2
+vendor_id: fujitsu
+name: M12-2
+type: hardware
+tags: []
+cpe: cpe:2.3:h:fujitsu:m12\-2:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: m12-2
+  confidence: auto

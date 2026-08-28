@@ -1,0 +1,10 @@
+id: rer615-firmware
+vendor_id: abb
+name: Rer615 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:abb:rer615_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: rer615_firmware
+  confidence: auto

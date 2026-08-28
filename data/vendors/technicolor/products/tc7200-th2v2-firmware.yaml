@@ -1,0 +1,10 @@
+id: tc7200-th2v2-firmware
+vendor_id: technicolor
+name: Tc7200.Th2V2 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:technicolor:tc7200\.th2v2_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tc7200.th2v2_firmware
+  confidence: auto

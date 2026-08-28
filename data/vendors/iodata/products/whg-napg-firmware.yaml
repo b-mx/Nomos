@@ -1,0 +1,10 @@
+id: whg-napg-firmware
+vendor_id: iodata
+name: Whg-Napg Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:iodata:whg\-napg_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: whg-napg_firmware
+  confidence: auto

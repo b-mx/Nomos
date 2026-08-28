@@ -1,0 +1,10 @@
+id: sla-t2880ba-firmware
+vendor_id: hanwhavision
+name: Sla-T2880Ba Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:hanwhavision:sla\-t2880ba_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: sla-t2880ba_firmware
+  confidence: auto

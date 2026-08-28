@@ -1,0 +1,10 @@
+id: s3a-k2p-mtk
+vendor_id: gocloud
+name: S3A K2P Mtk
+type: hardware
+tags: []
+cpe: cpe:2.3:h:gocloud:s3a_k2p_mtk:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: s3a_k2p_mtk
+  confidence: auto

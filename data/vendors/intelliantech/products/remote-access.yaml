@@ -1,0 +1,10 @@
+id: remote-access
+vendor_id: intelliantech
+name: Remote Access
+type: software
+tags: []
+cpe: cpe:2.3:a:intelliantech:remote_access:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: remote_access
+  confidence: auto

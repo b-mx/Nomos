@@ -1,0 +1,10 @@
+id: cevas
+vendor_id: johnsoncontrols
+name: Cevas
+type: software
+tags: []
+cpe: cpe:2.3:a:johnsoncontrols:cevas:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: cevas
+  confidence: auto

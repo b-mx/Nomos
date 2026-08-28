@@ -1,0 +1,10 @@
+id: commander-business-19-ip
+vendor_id: auerswald
+name: Commander Business(19") Ip
+type: hardware
+tags: []
+cpe: cpe:2.3:h:auerswald:commander_business\(19\"\)_ip:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: commander_business(19")_ip
+  confidence: auto

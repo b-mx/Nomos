@@ -1,0 +1,10 @@
+id: nvr301-04s2-p4-firmware
+vendor_id: uniview
+name: Nvr301-04S2-P4 Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:uniview:nvr301\-04s2\-p4_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nvr301-04s2-p4_firmware
+  confidence: auto

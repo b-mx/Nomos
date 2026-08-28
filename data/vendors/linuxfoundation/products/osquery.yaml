@@ -1,0 +1,10 @@
+id: osquery
+vendor_id: linuxfoundation
+name: Osquery
+type: software
+tags: []
+cpe: cpe:2.3:a:linuxfoundation:osquery:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: osquery
+  confidence: auto

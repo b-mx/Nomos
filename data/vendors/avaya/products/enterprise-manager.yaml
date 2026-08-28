@@ -1,0 +1,10 @@
+id: enterprise-manager
+vendor_id: avaya
+name: Enterprise Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:avaya:enterprise_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: enterprise_manager
+  confidence: auto

@@ -1,0 +1,10 @@
+id: jg412a-hp-msr4000-mpu-100-main-processing-unit
+vendor_id: hp
+name: Jg412A Hp Msr4000 Mpu-100 Main Processing Unit
+type: hardware
+tags: []
+cpe: cpe:2.3:h:hp:jg412a_hp_msr4000_mpu\-100_main_processing_unit:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: jg412a_hp_msr4000_mpu-100_main_processing_unit
+  confidence: auto

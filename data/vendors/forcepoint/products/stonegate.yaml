@@ -1,0 +1,10 @@
+id: stonegate
+vendor_id: forcepoint
+name: Stonegate
+type: software
+tags: []
+cpe: cpe:2.3:a:forcepoint:stonegate:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: stonegate
+  confidence: auto

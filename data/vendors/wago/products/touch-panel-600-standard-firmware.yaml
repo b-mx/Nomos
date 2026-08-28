@@ -1,0 +1,10 @@
+id: touch-panel-600-standard-firmware
+vendor_id: wago
+name: Touch Panel 600 Standard Firmware
+type: os
+tags: []
+cpe: cpe:2.3:o:wago:touch_panel_600_standard_firmware:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: touch_panel_600_standard_firmware
+  confidence: auto

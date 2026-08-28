@@ -1,0 +1,10 @@
+id: tiered-storage-manager
+vendor_id: hitachi
+name: Tiered Storage Manager
+type: software
+tags: []
+cpe: cpe:2.3:a:hitachi:tiered_storage_manager:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: tiered_storage_manager
+  confidence: auto
