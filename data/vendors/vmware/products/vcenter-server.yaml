@@ -8,10 +8,10 @@ icon: carbon:logo-vmware-alt
 aliases:
 - source: cisa_kev
   value: vCenter Server
-  confidence: auto
+  confidence: curated
 - source: cisa_kev
   value: VMware vCenter
-  confidence: auto
+  confidence: curated
 - source: cisa_kev
   value: VMware vCenter Server
-  confidence: auto
+  confidence: curated

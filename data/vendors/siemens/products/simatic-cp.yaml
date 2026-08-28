@@ -3,8 +3,8 @@ vendor_id: siemens
 name: SIMATIC CP
 type: software
 tags: []
-icon: cib:siemens
+icon: thesvg-color:siemens
 aliases:
 - source: cisa_kev
   value: SIMATIC CP
-  confidence: auto
+  confidence: curated
