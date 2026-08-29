@@ -29,6 +29,8 @@ from __future__ import annotations
 
 import argparse
 import time
+from pathlib import Path
+from urllib.parse import quote
 
 from tools._common import REPO_ROOT
 from tools.suggest_match import AliasRecord
@@ -78,6 +80,36 @@ def parse_cpe_vendor_product(identifiers: list[dict[str, str]]) -> tuple[str, st
     return None
 
 
+def product_detail_cache_path(name: str, detail_cache_dir: Path) -> Path:
+    """Derive a safe, stable cache filename for an endoflife.date product name.
+
+    `name` comes straight from the upstream API response and must never be
+    used as a raw path component: a name containing '../', a leading '/',
+    or embedded separators would otherwise escape `detail_cache_dir` and
+    let the API response choose where a `.json` file gets written on disk.
+
+    percent-encoding (`quote(name, safe="")`) turns every '/' and non-ASCII
+    byte into an ASCII-safe escape sequence, which is deterministic (same
+    input always yields the same output, so the on-disk cache keeps
+    working across runs) and collapses any embedded separators into a
+    single filename component. It does *not* touch '.', so a name of '.'
+    or '..' would encode to itself — that's handled explicitly below.
+    A resolved-path containment check is kept as a second, independent
+    guard rather than trusting the encoding alone.
+    """
+    if not name:
+        raise ValueError("product name must not be empty")
+    encoded = quote(name, safe="")
+    if encoded in (".", ".."):
+        raise ValueError(f"unsafe product name: {name!r}")
+
+    cache_dir_resolved = detail_cache_dir.resolve()
+    candidate = (detail_cache_dir / f"{encoded}.json").resolve()
+    if not candidate.is_relative_to(cache_dir_resolved):
+        raise ValueError(f"cache path for product name {name!r} escapes {detail_cache_dir}")
+    return candidate
+
+
 def guess_type(category: str) -> str:
     return CATEGORY_TO_TYPE.get(category, "software")
 
@@ -116,7 +148,7 @@ def main() -> int:
     for summary in products:
         name = summary["name"]
         label = summary.get("label", name)
-        detail_cache_path = detail_cache_dir / f"{name}.json"
+        detail_cache_path = product_detail_cache_path(name, detail_cache_dir)
         cache_is_fresh = (
             not args.refresh
             and detail_cache_path.exists()

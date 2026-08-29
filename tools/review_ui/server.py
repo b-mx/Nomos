@@ -134,19 +134,41 @@ def approve_file(path: Path) -> None:
 
 
 def reject_file(path: Path) -> None:
+    # `path` already passed resolve()'s containment check, which only
+    # guarantees it is INSIDE a writable root — not that it is a real
+    # on-disk record, nor that it has the shape of a legitimate vendor or
+    # product file. shutil.rmtree() doesn't require the named file to
+    # exist, only its parent directory, so a crafted path like
+    # 'data/vendors/apple/products/vendor.yaml' would satisfy the old
+    # 'path.name == "vendor.yaml"' check and rmtree the *products*
+    # directory — deleting every product for that vendor — even though
+    # 'vendor.yaml' never legitimately lives there. Require the path to be
+    # an existing file and to match one of exactly two legitimate shapes:
+    # `<root>/<vendor>/vendor.yaml` (vendor rejection, removes the vendor
+    # directory) or `<root>/<vendor>/products/<product>.yaml` (product
+    # rejection, unlinks only that file).
+    if not path.is_file():
+        raise ValueError(f"refusing to reject a path that is not an existing file: {path}")
+
+    roots = tuple(root.resolve() for root in WRITABLE_ROOTS)
+
     if path.name == "vendor.yaml":
-        target = path.parent
-        # `path` already passed resolve()'s containment check, but that only
-        # guarantees target is INSIDE a writable root, not that it isn't the
-        # root itself. `path = "data/vendors/vendor.yaml"` would otherwise
-        # satisfy `path.name == "vendor.yaml"` and rmtree the whole dataset:
-        # shutil.rmtree() doesn't require the named file to exist, only the
-        # parent directory. Refuse to remove a writable root outright.
-        if any(target == root.resolve() for root in WRITABLE_ROOTS):
-            raise ValueError(f"refusing to remove writable root {target}")
-        shutil.rmtree(target)
-    else:
-        path.unlink()
+        vendor_dir = path.parent
+        if vendor_dir.parent not in roots:
+            raise ValueError(f"refusing to remove non-canonical vendor path: {path}")
+        if vendor_dir in roots:
+            raise ValueError(f"refusing to remove writable root {vendor_dir}")
+        shutil.rmtree(vendor_dir)
+        return
+
+    if path.suffix == ".yaml":
+        products_dir = path.parent
+        vendor_dir = products_dir.parent
+        if products_dir.name == "products" and vendor_dir.parent in roots:
+            path.unlink()
+            return
+
+    raise ValueError(f"refusing to reject a path that is not a canonical record: {path}")
 
 
 def update_file(path: Path, fields: dict[str, Any]) -> None:

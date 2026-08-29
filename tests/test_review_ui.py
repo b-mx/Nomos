@@ -92,3 +92,81 @@ def test_reject_file_still_removes_a_legitimate_vendor_directory(
 
     assert not vendor_dir.exists()
     assert vendors_dir.exists()
+
+
+def test_reject_file_refuses_a_nested_vendor_yaml(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    # 'data/vendors/apple/products/vendor.yaml' passes resolve()'s
+    # containment check and satisfies 'path.name == "vendor.yaml"', which
+    # would otherwise shutil.rmtree(path.parent) ==
+    # shutil.rmtree(data/vendors/apple/products) — deleting every product
+    # belonging to that vendor even though 'vendor.yaml' never legitimately
+    # lives at that depth.
+    vendors_dir = _fake_writable_root(tmp_path, monkeypatch)
+    vendor_dir = vendors_dir / "apple"
+    products_dir = vendor_dir / "products"
+    products_dir.mkdir(parents=True)
+    (products_dir / "vendor.yaml").write_text("id: apple\n")
+    (products_dir / "ios.yaml").write_text("id: ios\n")
+
+    path = server.resolve("data/vendors/apple/products/vendor.yaml")
+    with pytest.raises(ValueError):
+        reject_file(path)
+
+    assert products_dir.exists()
+    assert (products_dir / "vendor.yaml").exists()
+    assert (products_dir / "ios.yaml").exists()
+
+
+def test_reject_file_refuses_a_nonexistent_vendor_yaml(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    vendors_dir = _fake_writable_root(tmp_path, monkeypatch)
+    # No 'acme' directory created at all — the path is well-formed but
+    # nothing exists on disk.
+    path = vendors_dir / "acme" / "vendor.yaml"
+
+    with pytest.raises(ValueError):
+        reject_file(path)
+
+    assert not vendors_dir.joinpath("acme").exists()
+
+
+def test_reject_file_refuses_a_path_of_illegitimate_shape(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    vendors_dir = _fake_writable_root(tmp_path, monkeypatch)
+    vendor_dir = vendors_dir / "acme"
+    vendor_dir.mkdir()
+    # Neither '<root>/<vendor>/vendor.yaml' nor
+    # '<root>/<vendor>/products/<product>.yaml' — a stray file directly
+    # under the vendor directory.
+    stray = vendor_dir / "notes.yaml"
+    stray.write_text("id: acme\n")
+
+    with pytest.raises(ValueError):
+        reject_file(stray)
+
+    assert stray.exists()
+
+
+def test_reject_file_unlinks_exactly_one_legitimate_product_and_keeps_siblings(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    vendors_dir = _fake_writable_root(tmp_path, monkeypatch)
+    vendor_dir = vendors_dir / "acme"
+    products_dir = vendor_dir / "products"
+    products_dir.mkdir(parents=True)
+    (vendor_dir / "vendor.yaml").write_text("id: acme\n")
+    target = products_dir / "widget.yaml"
+    sibling = products_dir / "gadget.yaml"
+    target.write_text("id: widget\n")
+    sibling.write_text("id: gadget\n")
+
+    path = server.resolve("data/vendors/acme/products/widget.yaml")
+    reject_file(path)
+
+    assert not target.exists()
+    assert sibling.exists()
+    assert (vendor_dir / "vendor.yaml").exists()
