@@ -33,7 +33,9 @@ def normalize_key_part(value: str) -> str:
     """Normalise one half of a source key for exact lookup and hashing.
 
     NFC, strip, collapse internal whitespace runs to a single space. Case is
-    NOT folded — see the comment above.
+    NOT folded: sources like CISA KEV publish differently-cased strings
+    (e.g. "IOS Software" vs "IOS software") as distinct product names, and
+    folding case would silently merge two keys that are meant to stay apart.
     """
     return _WHITESPACE_RUN_RE.sub(" ", unicodedata.normalize("NFC", value).strip())
 

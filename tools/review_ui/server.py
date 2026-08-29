@@ -135,7 +135,16 @@ def approve_file(path: Path) -> None:
 
 def reject_file(path: Path) -> None:
     if path.name == "vendor.yaml":
-        shutil.rmtree(path.parent)
+        target = path.parent
+        # `path` already passed resolve()'s containment check, but that only
+        # guarantees target is INSIDE a writable root, not that it isn't the
+        # root itself. `path = "data/vendors/vendor.yaml"` would otherwise
+        # satisfy `path.name == "vendor.yaml"` and rmtree the whole dataset:
+        # shutil.rmtree() doesn't require the named file to exist, only the
+        # parent directory. Refuse to remove a writable root outright.
+        if any(target == root.resolve() for root in WRITABLE_ROOTS):
+            raise ValueError(f"refusing to remove writable root {target}")
+        shutil.rmtree(target)
     else:
         path.unlink()
 

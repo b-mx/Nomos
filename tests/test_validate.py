@@ -287,6 +287,21 @@ def test_normalize_key_part_collapses_whitespace_and_preserves_case() -> None:
     assert normalize_key_part("IOS Software") != normalize_key_part("IOS software")
 
 
+def test_normalize_key_part_applies_nfc_composition() -> None:
+    from tools._common import normalize_key_part
+
+    # "cafe" + U+0301 COMBINING ACUTE ACCENT must normalise to the
+    # precomposed "caf\u00e9" (U+00E9), so the two spellings are one key.
+    # Written with explicit \u escapes (rather than literal accented
+    # source characters) so the decomposed/precomposed distinction can't
+    # be silently lost to editor or copy-paste Unicode normalisation.
+    decomposed = "cafe\u0301"
+    precomposed = "caf\u00e9"
+    assert decomposed != precomposed  # sanity: the two source spellings differ
+    assert normalize_key_part(decomposed) == normalize_key_part(precomposed)
+    assert normalize_key_part(decomposed) == precomposed
+
+
 def test_normalized_product_alias_collision_is_caught_within_a_vendor() -> None:
     from tools._common import ProductEntry
     from tools.validate import validate_alias_uniqueness_normalized
