@@ -13,9 +13,13 @@ Then open http://127.0.0.1:8765/
 from __future__ import annotations
 
 import json
+import re
+import secrets
 import shutil
 import subprocess
 import sys
+import threading
+import time
 from datetime import UTC, datetime
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
@@ -31,6 +35,33 @@ TAXONOMY_FILE = REPO_ROOT / "data" / "taxonomy" / "tags.yaml"
 SCHEMA_DIR = REPO_ROOT / "data" / "schema"
 STATIC_DIR = Path(__file__).resolve().parent
 DEFAULT_PORT = 8765
+
+# CSRF defence
+# ------------
+# This server has no auth by design (maintainer-only, 127.0.0.1-only), but
+# that means every mutation endpoint is reachable by any website the
+# maintainer's browser visits: a cross-origin `<form>` POST with a
+# `text/plain` body is a "simple request" (no CORS preflight), and
+# /api/commit_pr can `git push` and open a GitHub PR, reaching outside the
+# machine. Three independent barriers close this off — an attacker must
+# defeat all three:
+#   1. Content-Type must be exactly application/json (rejects simple-request
+#      forms, which cannot set this header without triggering a preflight).
+#   2. A per-process secret token in a custom header (also unsettable
+#      cross-origin without a preflight).
+#   3. Strict Origin/Host checks against the port actually bound (blocks
+#      DNS-rebinding, where a hostile domain resolves to 127.0.0.1).
+CSRF_TOKEN = secrets.token_urlsafe(32)
+CSRF_TOKEN_PLACEHOLDER = "__CSRF_TOKEN__"
+CSRF_HEADER = "X-CSRF-Token"
+_JSON_CONTENT_TYPE_RE = re.compile(r"^application/json(\s*;\s*charset=utf-8)?$", re.IGNORECASE)
+
+# Fresh, server-side, single-use confirmation for /api/commit_pr's
+# push/create_pr flow (see do_commit_pr). Stored server-side rather than
+# trusting the client with anything more than an opaque nonce.
+PUBLISH_NONCE_TTL_SECONDS = 120.0
+_publish_nonces: dict[str, float] = {}
+_publish_nonces_lock = threading.Lock()
 
 PRODUCT_TYPES = ["hardware", "appliance", "firmware", "os", "software", "library"]
 
@@ -63,6 +94,36 @@ def resolve(rel_path: str) -> Path:
     if not any(path.is_relative_to(root.resolve()) for root in WRITABLE_ROOTS):
         raise ValueError(f"path {rel_path!r} is outside the writable allowlist")
     return path
+
+
+def create_publish_nonce() -> str:
+    """Mint a fresh, single-use, short-lived confirmation for the
+    push/create_pr path of /api/commit_pr (see ITEM 2 of the CSRF hardening:
+    those two actions have effects outside the machine and must not be
+    reachable from a single request)."""
+    _prune_expired_nonces()
+    nonce = secrets.token_urlsafe(32)
+    with _publish_nonces_lock:
+        _publish_nonces[nonce] = time.monotonic() + PUBLISH_NONCE_TTL_SECONDS
+    return nonce
+
+
+def consume_publish_nonce(nonce: str) -> bool:
+    """Validate and consume a publish nonce in one step. Popping it under the
+    lock even on failure (expired) makes the nonce single-use regardless of
+    outcome, so a stale nonce can't be probed repeatedly."""
+    now = time.monotonic()
+    with _publish_nonces_lock:
+        expiry = _publish_nonces.pop(nonce, None)
+    return expiry is not None and now <= expiry
+
+
+def _prune_expired_nonces() -> None:
+    now = time.monotonic()
+    with _publish_nonces_lock:
+        expired = [n for n, expiry in _publish_nonces.items() if expiry < now]
+        for n in expired:
+            del _publish_nonces[n]
 
 
 def has_auto(data: dict[str, Any]) -> bool:
@@ -158,13 +219,40 @@ def reject_file(path: Path) -> None:
             raise ValueError(f"refusing to remove non-canonical vendor path: {path}")
         if vendor_dir in roots:
             raise ValueError(f"refusing to remove writable root {vendor_dir}")
-        shutil.rmtree(vendor_dir)
+        try:
+            # shutil.rmtree refuses a symlinked target outright (raises
+            # OSError rather than following it), so this path isn't subject
+            # to the same TOCTOU concern as the unlink() below — but the
+            # raised OSError should still surface as the same ValueError
+            # every other refusal in this function raises.
+            shutil.rmtree(vendor_dir)
+        except OSError as exc:
+            raise ValueError(f"failed to remove vendor directory {vendor_dir}: {exc}") from exc
         return
 
     if path.suffix == ".yaml":
         products_dir = path.parent
         vendor_dir = products_dir.parent
         if products_dir.name == "products" and vendor_dir.parent in roots:
+            # TOCTOU guard: path.is_file() above (and resolve()'s containment
+            # check before that) followed symlinks, so an attacker with
+            # concurrent filesystem access could, between that check and this
+            # point, replace `products_dir` (or `vendor_dir`) with a symlink
+            # pointing outside the writable root; unlink() would then follow
+            # it and silently remove an out-of-tree file. Path.is_symlink()
+            # uses lstat(), so it does NOT itself follow a symlink, letting us
+            # detect a swapped component without falling into the same race.
+            #
+            # Residual risk: this narrows the window to the gap between this
+            # check and the unlink() call two lines below — a component swap
+            # landing in that exact gap is not caught. A fully atomic fix
+            # would open the parent directory with O_NOFOLLOW and call
+            # os.unlink(name, dir_fd=parent_fd); that is meaningfully more
+            # code to close a window this small, against a threat model
+            # (another local process racing the filesystem) that already
+            # implies access this tool does nothing else to defend against.
+            if path.is_symlink() or products_dir.is_symlink() or vendor_dir.is_symlink():
+                raise ValueError(f"refusing to remove a path with a symlinked component: {path}")
             path.unlink()
             return
 
@@ -349,6 +437,21 @@ def do_commit_pr(body: dict[str, Any]) -> dict[str, Any]:
     if not message:
         raise ValueError("commit message is required")
 
+    # ITEM 2: push and create_pr have effects outside this machine (git push,
+    # opening a GitHub PR) and must not be reachable from a single CSRF-armored
+    # request alone. Require a fresh, server-side, single-use confirmation
+    # obtained from a prior call to /api/publish_intent. A commit-only call
+    # (both false) doesn't touch anything outside the repo, so it needs none.
+    # Checked before any git/subprocess work below so a missing/invalid/
+    # reused nonce fails fast without side effects.
+    if body.get("push") or body.get("create_pr"):
+        nonce = body.get("publish_nonce")
+        if not isinstance(nonce, str) or not nonce or not consume_publish_nonce(nonce):
+            raise ValueError(
+                "push/create_pr requires a fresh publish confirmation: "
+                "call /api/publish_intent first and pass its nonce as publish_nonce"
+            )
+
     run_validate()
 
     entries = git_status_for_vendors()
@@ -387,44 +490,52 @@ def do_commit_pr(body: dict[str, Any]) -> dict[str, Any]:
     }
 
     if body.get("push"):
-        run_git("push", "-u", "origin", branch)
-        result["pushed"] = True
-
-        if body.get("create_pr"):
-            if not shutil.which("gh"):
-                msg = "commit and push succeeded, but the `gh` CLI is not installed/found"
-                raise ValueError(msg)
-            if open_pr_exists_for(branch):
-                result["pr_url"] = (
-                    "(already had an open PR — pushed a new commit to it, no PR created)"
-                )
-            else:
-                pr_title = (body.get("pr_title") or message.splitlines()[0]).strip()
-                pr_body = body.get("pr_body") or message
-                base = (body.get("base") or "main").strip()
-                pr_result = subprocess.run(
-                    [
-                        "gh", "pr", "create",
-                        "--base", base,
-                        "--head", branch,
-                        "--title", pr_title,
-                        "--body", pr_body,
-                    ],
-                    cwd=REPO_ROOT,
-                    capture_output=True,
-                    text=True,
-                )
-                if pr_result.returncode != 0:
-                    raise ValueError(
-                        "commit and push succeeded, but `gh pr create` failed:\n"
-                        + (pr_result.stderr or pr_result.stdout).strip()
-                    )
-                url_lines = [
-                    line for line in pr_result.stdout.splitlines() if line.startswith("http")
-                ]
-                result["pr_url"] = url_lines[-1] if url_lines else pr_result.stdout.strip()
+        result.update(_publish_branch(branch, message, body))
 
     return result
+
+
+def _publish_branch(branch: str, message: str, body: dict[str, Any]) -> dict[str, Any]:
+    """Push `branch` and, if requested, open a PR for it. Split out from
+    do_commit_pr so it's a single seam tests can stub: the nonce gate above
+    is what must be verified, not that this function actually reaches
+    origin/GitHub."""
+    run_git("push", "-u", "origin", branch)
+    publish_result: dict[str, Any] = {"pushed": True}
+
+    if body.get("create_pr"):
+        if not shutil.which("gh"):
+            msg = "commit and push succeeded, but the `gh` CLI is not installed/found"
+            raise ValueError(msg)
+        if open_pr_exists_for(branch):
+            publish_result["pr_url"] = (
+                "(already had an open PR — pushed a new commit to it, no PR created)"
+            )
+        else:
+            pr_title = (body.get("pr_title") or message.splitlines()[0]).strip()
+            pr_body = body.get("pr_body") or message
+            base = (body.get("base") or "main").strip()
+            pr_result = subprocess.run(
+                [
+                    "gh", "pr", "create",
+                    "--base", base,
+                    "--head", branch,
+                    "--title", pr_title,
+                    "--body", pr_body,
+                ],
+                cwd=REPO_ROOT,
+                capture_output=True,
+                text=True,
+            )
+            if pr_result.returncode != 0:
+                raise ValueError(
+                    "commit and push succeeded, but `gh pr create` failed:\n"
+                    + (pr_result.stderr or pr_result.stdout).strip()
+                )
+            url_lines = [line for line in pr_result.stdout.splitlines() if line.startswith("http")]
+            publish_result["pr_url"] = url_lines[-1] if url_lines else pr_result.stdout.strip()
+
+    return publish_result
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -444,10 +555,48 @@ class Handler(BaseHTTPRequestHandler):
         raw = self.rfile.read(length) if length else b"{}"
         return json.loads(raw or b"{}")  # type: ignore[no-any-return]
 
+    def _bound_port(self) -> int:
+        # The port actually bound, not DEFAULT_PORT or a hardcoded value:
+        # main() may have been given --port, and tests bind port 0 and let
+        # the OS assign one. HTTPServer.server_bind() sets this from the
+        # real listening socket, so it always reflects reality.
+        server: HTTPServer = self.server  # type: ignore[assignment]
+        return server.server_port
+
+    def _csrf_error(self) -> str | None:
+        """The three independent barriers from ITEM 1, checked cheapest
+        first. Returns an error message, or None if the request may proceed.
+        Applies to every mutation endpoint handled by do_POST below,
+        including /api/commit_pr and /api/publish_intent -- no exemptions."""
+        content_type = self.headers.get("Content-Type", "")
+        if not _JSON_CONTENT_TYPE_RE.match(content_type.strip()):
+            return (
+                f"Content-Type must be application/json (got {content_type!r}); "
+                "this alone defeats simple-request CSRF since a cross-origin "
+                "form cannot set it without triggering a CORS preflight"
+            )
+
+        token = self.headers.get(CSRF_HEADER, "")
+        if not token or not secrets.compare_digest(token, CSRF_TOKEN):
+            return f"missing or invalid {CSRF_HEADER} header"
+
+        port = self._bound_port()
+        own_origin = f"http://127.0.0.1:{port}"
+        origin = self.headers.get("Origin")
+        if origin is not None and origin != own_origin:
+            return f"Origin {origin!r} does not match this server ({own_origin!r})"
+
+        host = self.headers.get("Host", "")
+        if host not in (f"127.0.0.1:{port}", f"localhost:{port}"):
+            return f"Host {host!r} does not match this server (expected port {port})"
+
+        return None
+
     def do_GET(self) -> None:
         parsed = urlparse(self.path)
         if parsed.path == "/":
             html = (STATIC_DIR / "index.html").read_bytes()
+            html = html.replace(CSRF_TOKEN_PLACEHOLDER.encode(), CSRF_TOKEN.encode())
             self.send_response(200)
             self.send_header("Content-Type", "text/html; charset=utf-8")
             self.send_header("Content-Length", str(len(html)))
@@ -472,6 +621,10 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_POST(self) -> None:
         parsed = urlparse(self.path)
+        csrf_error = self._csrf_error()
+        if csrf_error is not None:
+            self._json({"error": csrf_error}, 403)
+            return
         try:
             body = self._read_json()
             if parsed.path == "/api/approve":
@@ -495,6 +648,15 @@ class Handler(BaseHTTPRequestHandler):
                 remove_alias(resolve(body["path"]), int(body["index"]))
             elif parsed.path == "/api/save_raw":
                 save_raw(resolve(body["path"]), body["raw"])
+            elif parsed.path == "/api/publish_intent":
+                # ITEM 2: mints the fresh, single-use confirmation do_commit_pr
+                # requires whenever push or create_pr is set. This is a
+                # mutation endpoint (it creates server-side state) so it goes
+                # through the same CSRF gate as everything else above.
+                self._json(
+                    {"nonce": create_publish_nonce(), "expires_in": PUBLISH_NONCE_TTL_SECONDS}
+                )
+                return
             elif parsed.path == "/api/commit_pr":
                 self._json(do_commit_pr(body))
                 return

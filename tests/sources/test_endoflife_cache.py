@@ -83,3 +83,29 @@ def test_normal_name_produces_a_stable_reasonable_filename(tmp_path: Path) -> No
 
     assert path == (cache_dir / "ubuntu.json").resolve()
     assert product_detail_cache_path("ubuntu", cache_dir) == path
+
+
+def test_very_long_name_is_truncated_with_a_stable_collision_resistant_hash(
+    tmp_path: Path,
+) -> None:
+    cache_dir = tmp_path / "endoflife" / "products"
+    cache_dir.mkdir(parents=True)
+
+    # A heavily non-ASCII name: every character percent-encodes to a 3-byte
+    # (or more) escape sequence, so a name well under the 255-byte filesystem
+    # limit in characters still blows past it once encoded.
+    long_name = "日本語" * 200
+    other_long_name = long_name + "x"  # shares a long common prefix
+
+    path = product_detail_cache_path(long_name, cache_dir)
+
+    assert path.parent == cache_dir.resolve()
+    assert len(path.name) <= 255
+    # Stable: the same input always maps to the same filename.
+    assert product_detail_cache_path(long_name, cache_dir) == path
+    # Collision-resistant: two names sharing a long common prefix (so a
+    # naive truncation-only scheme would produce the same filename for
+    # both) must still map to different filenames.
+    other_path = product_detail_cache_path(other_long_name, cache_dir)
+    assert other_path != path
+    assert other_path.is_relative_to(cache_dir.resolve())

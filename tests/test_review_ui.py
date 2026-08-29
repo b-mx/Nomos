@@ -151,6 +151,69 @@ def test_reject_file_refuses_a_path_of_illegitimate_shape(
     assert stray.exists()
 
 
+def test_reject_file_wraps_an_rmtree_oserror_as_valueerror(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    # shutil.rmtree refuses to operate on a symlinked target (raises OSError
+    # rather than following it), which is good -- but a raw OSError
+    # propagating out of reject_file would be inconsistent with every other
+    # refusal in this function, which raises ValueError. `path` itself is
+    # deliberately NOT passed through resolve() here: resolve() would follow
+    # the symlink all the way to its target and reject it for escaping the
+    # writable root before reject_file ever saw it, which is a different
+    # (already-covered) guard. This test is specifically about
+    # reject_file's own handling of the OSError shutil.rmtree raises.
+    vendors_dir = _fake_writable_root(tmp_path, monkeypatch)
+    real_dir = tmp_path / "real_target"
+    real_dir.mkdir()
+    (real_dir / "vendor.yaml").write_text("id: acme\n")
+    vendor_link = vendors_dir / "acme"
+    vendor_link.symlink_to(real_dir)
+
+    path = vendor_link / "vendor.yaml"
+    assert path.is_file()  # sanity: is_file() follows the symlink
+
+    with pytest.raises(ValueError, match="failed to remove vendor directory"):
+        reject_file(path)
+
+    assert real_dir.exists()  # rmtree refused the symlink -- the real target survives
+    assert (real_dir / "vendor.yaml").exists()
+
+
+def test_reject_file_refuses_a_symlinked_products_directory_component(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    # TOCTOU regression: between path.is_file() and path.unlink(), an
+    # attacker with concurrent filesystem access could replace the
+    # 'products' directory component with a symlink pointing outside the
+    # writable root. unlink() follows symlinks with no error, so it would
+    # silently delete an out-of-tree file. `path` is deliberately NOT passed
+    # through resolve() here, for the same reason as above: resolve() would
+    # already catch this by fully dereferencing and checking containment,
+    # which masks the specific guard this test targets -- the re-check
+    # reject_file itself performs immediately before unlink().
+    vendors_dir = _fake_writable_root(tmp_path, monkeypatch)
+    vendor_dir = vendors_dir / "acme"
+    vendor_dir.mkdir()
+    (vendor_dir / "vendor.yaml").write_text("id: acme\n")
+
+    outside = tmp_path / "outside"
+    outside.mkdir()
+    target_file = outside / "widget.yaml"
+    target_file.write_text("do not delete me\n")
+
+    products_link = vendor_dir / "products"
+    products_link.symlink_to(outside)
+
+    path = products_link / "widget.yaml"
+    assert path.is_file()  # sanity: resolves through the symlink to a real file
+
+    with pytest.raises(ValueError, match="symlinked component"):
+        reject_file(path)
+
+    assert target_file.exists()  # must survive -- the symlinked component was rejected
+
+
 def test_reject_file_unlinks_exactly_one_legitimate_product_and_keeps_siblings(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ) -> None:

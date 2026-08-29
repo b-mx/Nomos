@@ -1,4 +1,5 @@
 <meta charset="utf-8">
+<meta name="csrf-token" content="__CSRF_TOKEN__">
 <title>Nomos review queue</title>
 <style>
   :root { color-scheme: light dark; }
@@ -108,9 +109,19 @@
 let STATE = { groups: [], taxonomy: [], types: [] };
 const ORIGINAL_RAW = new Map(); // path -> raw content as first seen this session (diff baseline)
 
+// Injected server-side into the page at serve time (see server.py's do_GET,
+// which replaces the __CSRF_TOKEN__ placeholder below with a per-process
+// secret). Sent back on every mutating request as a custom header: a
+// cross-origin request can't set a custom header without triggering a CORS
+// preflight, so this is one of two independent CSRF barriers (the other is
+// requiring an exact application/json Content-Type below).
+const CSRF_TOKEN = document.querySelector('meta[name="csrf-token"]').content;
+
 async function api(path, body) {
   const res = await fetch(path, body ? {
-    method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(body)
+    method: "POST",
+    headers: {"Content-Type": "application/json", "X-CSRF-Token": CSRF_TOKEN},
+    body: JSON.stringify(body),
   } : undefined);
   const data = await res.json();
   if (!res.ok) throw new Error(data.error || "request failed");
@@ -402,8 +413,16 @@ async function doCommit(pushAndPr) {
   resultEl.className = "modal-result";
   resultEl.textContent = "Working…";
   try {
+    // Publishing (push / open PR) reaches outside this machine, so the
+    // server requires a fresh, single-use confirmation minted just before
+    // this call rather than trusting a flag in this request alone.
+    let publish_nonce;
+    if (pushAndPr) {
+      const intent = await api("/api/publish_intent", {});
+      publish_nonce = intent.nonce;
+    }
     const r = await api("/api/commit_pr", {
-      branch, message, base, push: pushAndPr, create_pr: pushAndPr, pr_title, pr_body,
+      branch, message, base, push: pushAndPr, create_pr: pushAndPr, pr_title, pr_body, publish_nonce,
     });
     let html = `Committed <code>${r.commit}</code> on branch <strong>${escapeHtml(r.branch)}</strong>.`;
     if (r.pushed) html += " Pushed to origin.";

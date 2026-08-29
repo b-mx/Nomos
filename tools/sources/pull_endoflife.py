@@ -28,6 +28,7 @@ entry this created — all aliases are written with confidence: auto.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import time
 from pathlib import Path
 from urllib.parse import quote
@@ -96,6 +97,16 @@ def product_detail_cache_path(name: str, detail_cache_dir: Path) -> Path:
     or '..' would encode to itself — that's handled explicitly below.
     A resolved-path containment check is kept as a second, independent
     guard rather than trusting the encoding alone.
+
+    A very long or heavily non-ASCII name (every non-ASCII byte becomes a
+    3-character '%XX' escape) can percent-encode to a filename component
+    longer than the ~255-byte limit most filesystems impose, which would
+    otherwise raise an uncaught OSError at write time. When the encoded
+    name plus the '.json' suffix would exceed that budget, it is truncated
+    and a short hash of the *full* original name is appended, so the
+    mapping stays stable (same input always yields the same output) and
+    collision-resistant (two names that share a long common prefix still
+    truncate to different filenames).
     """
     if not name:
         raise ValueError("product name must not be empty")
@@ -103,8 +114,15 @@ def product_detail_cache_path(name: str, detail_cache_dir: Path) -> Path:
     if encoded in (".", ".."):
         raise ValueError(f"unsafe product name: {name!r}")
 
+    suffix = ".json"
+    max_filename_bytes = 255
+    if len(encoded) + len(suffix) > max_filename_bytes:
+        digest = hashlib.sha256(name.encode()).hexdigest()[:16]
+        keep = max_filename_bytes - len(suffix) - len(digest) - 1  # '-' separator
+        encoded = f"{encoded[:keep]}-{digest}"
+
     cache_dir_resolved = detail_cache_dir.resolve()
-    candidate = (detail_cache_dir / f"{encoded}.json").resolve()
+    candidate = (detail_cache_dir / f"{encoded}{suffix}").resolve()
     if not candidate.is_relative_to(cache_dir_resolved):
         raise ValueError(f"cache path for product name {name!r} escapes {detail_cache_dir}")
     return candidate
