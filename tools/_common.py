@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 import re
+import unicodedata
 from concurrent.futures import ProcessPoolExecutor
 from dataclasses import dataclass
 from pathlib import Path
@@ -16,6 +17,25 @@ VENDORS_DIR = REPO_ROOT / "data" / "vendors"
 TAXONOMY_FILE = REPO_ROOT / "data" / "taxonomy" / "tags.yaml"
 
 KEBAB_CASE_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+
+# The one normalisation used for every source-key comparison and for the
+# published API's key hashes. Case is deliberately preserved: CISA KEV
+# publishes "IOS Software" and "IOS software" as two distinct product
+# strings, and folding them would silently merge two keys.
+_WHITESPACE_RUN_RE = re.compile(r"\s+")
+
+# Sources whose aliases the resolution API resolves against. Only these are
+# subject to normalised-uniqueness validation.
+API_ELIGIBLE_SOURCES = frozenset({"cisa_kev"})
+
+
+def normalize_key_part(value: str) -> str:
+    """Normalise one half of a source key for exact lookup and hashing.
+
+    NFC, strip, collapse internal whitespace runs to a single space. Case is
+    NOT folded — see the comment above.
+    """
+    return _WHITESPACE_RUN_RE.sub(" ", unicodedata.normalize("NFC", value).strip())
 
 # libyaml's C extension, when available, is ~5x faster than PyYAML's
 # pure-Python SafeLoader for a tree this size — yaml.safe_load() does NOT
