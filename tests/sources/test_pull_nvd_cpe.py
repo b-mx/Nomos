@@ -24,11 +24,10 @@ from tools.sources.pull_nvd_cpe import (
 
 
 def _load_product_cpe_pattern() -> re.Pattern[str]:
-    # NOTE: deliberately NOT Path(__file__).resolve() — this file lives under
-    # tmp/, which is a symlink into a different checkout, so .resolve() would
-    # silently walk to the WRONG repo's schema file. Relative-to-cwd matches
-    # this suite's documented invocation (`uv run pytest tmp/scripts/...` from
-    # the repo root).
+    # NOTE: relative to the current working directory, not Path(__file__) —
+    # this suite is always invoked as `uv run pytest ...` from the repo root
+    # (see the module docstring above), so cwd reliably points there; no
+    # need to walk up from this file's own location to find it.
     schema_path = Path("data/schema/product.schema.json")
     schema = json.loads(schema_path.read_text())
     return re.compile(schema["properties"]["cpe"]["pattern"])
