@@ -260,6 +260,161 @@ def test_build_groups_never_raises_out_of_a_mixed_valid_and_hostile_tree(
     assert not any(g["vendor"]["id"] == "bad-icon" for g in groups)
 
 
+# --- Item 2: malformed/non-mapping YAML must be skipped, not crash ---------
+
+
+def test_build_groups_skips_a_vendor_yaml_that_is_a_list(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch, capsys: pytest.CaptureFixture[str]
+) -> None:
+    vendors_dir = _fake_repo(tmp_path, monkeypatch)
+    # A bare YAML list, not a mapping -- the confirmed live crash was
+    # AttributeError: 'list' object has no attribute 'get'.
+    _write_vendor(vendors_dir, "listvendor", "- a\n- b\n")
+    _write_vendor(vendors_dir, "acme", "id: acme\nname: Acme\naliases: []\n")
+
+    groups = build_groups(show_all=True)  # must not raise
+
+    ids = [g["vendor"]["id"] for g in groups]
+    assert "acme" in ids
+    assert len(groups) == 1
+    err = capsys.readouterr().err
+    assert "skipping invalid vendor record" in err
+
+
+def test_build_groups_skips_a_vendor_yaml_that_is_a_scalar(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch, capsys: pytest.CaptureFixture[str]
+) -> None:
+    vendors_dir = _fake_repo(tmp_path, monkeypatch)
+    _write_vendor(vendors_dir, "scalarvendor", "just a string\n")
+    _write_vendor(vendors_dir, "acme", "id: acme\nname: Acme\naliases: []\n")
+
+    groups = build_groups(show_all=True)  # must not raise
+
+    ids = [g["vendor"]["id"] for g in groups]
+    assert "acme" in ids
+    assert len(groups) == 1
+    assert "skipping invalid vendor record" in capsys.readouterr().err
+
+
+def test_build_groups_skips_malformed_yaml(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch, capsys: pytest.CaptureFixture[str]
+) -> None:
+    vendors_dir = _fake_repo(tmp_path, monkeypatch)
+    # Unbalanced flow mapping -- yaml.safe_load raises yaml.ParserError.
+    _write_vendor(vendors_dir, "brokenvendor", "id: [unterminated\nname: Broken\n")
+    _write_vendor(vendors_dir, "acme", "id: acme\nname: Acme\naliases: []\n")
+
+    groups = build_groups(show_all=True)  # must not raise
+
+    ids = [g["vendor"]["id"] for g in groups]
+    assert "acme" in ids
+    assert len(groups) == 1
+    assert "skipping invalid vendor record" in capsys.readouterr().err
+
+
+def test_build_groups_skips_a_product_yaml_that_is_a_list_but_keeps_the_vendor(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch, capsys: pytest.CaptureFixture[str]
+) -> None:
+    vendors_dir = _fake_repo(tmp_path, monkeypatch)
+    _write_vendor(vendors_dir, "acme", "id: acme\nname: Acme\naliases: []\n")
+    products_dir = vendors_dir / "acme" / "products"
+    products_dir.mkdir()
+    (products_dir / "widget.yaml").write_text(
+        "id: widget\nvendor_id: acme\nname: Widget\ntype: software\ntags: []\naliases: []\n"
+    )
+    (products_dir / "evil.yaml").write_text("- a\n- b\n")
+
+    groups = build_groups(show_all=True)  # must not raise
+
+    acme = next(g for g in groups if g["vendor"]["id"] == "acme")
+    product_ids = [p["id"] for p in acme["products"]]
+    assert "widget" in product_ids
+    assert "evil" not in product_ids
+    assert "skipping invalid product record" in capsys.readouterr().err
+
+
+# --- Item 2 (client-side twin): `tags` must be a list of strings -----------
+
+
+def test_tags_as_a_mapping_is_rejected() -> None:
+    data = _product(tags={"a": 1})
+    with pytest.raises(InvalidRecordError, match="tags"):
+        validate_product_record(PRODUCT_PATH, data)
+
+
+def test_tags_containing_a_non_string_is_rejected() -> None:
+    data = _product(tags=["fine", 123])
+    with pytest.raises(InvalidRecordError, match="tags"):
+        validate_product_record(PRODUCT_PATH, data)
+
+
+def test_build_groups_skips_a_product_with_tags_as_a_mapping_but_keeps_the_listing(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch, capsys: pytest.CaptureFixture[str]
+) -> None:
+    vendors_dir = _fake_repo(tmp_path, monkeypatch)
+    _write_vendor(vendors_dir, "acme", "id: acme\nname: Acme\naliases: []\n")
+    products_dir = vendors_dir / "acme" / "products"
+    products_dir.mkdir()
+    (products_dir / "widget.yaml").write_text(
+        "id: widget\nvendor_id: acme\nname: Widget\ntype: software\ntags: []\naliases: []\n"
+    )
+    (products_dir / "badtags.yaml").write_text(
+        "id: badtags\nvendor_id: acme\nname: Bad\ntype: software\ntags: {a: 1}\naliases: []\n"
+    )
+
+    groups = build_groups(show_all=True)  # must not raise, and must not reach the client
+
+    acme = next(g for g in groups if g["vendor"]["id"] == "acme")
+    product_ids = [p["id"] for p in acme["products"]]
+    assert "widget" in product_ids
+    assert "badtags" not in product_ids
+    assert "skipping invalid product record" in capsys.readouterr().err
+
+
+# --- Item 3: aliases[].confidence must be validated against the schema -----
+
+
+def test_alias_with_invalid_confidence_is_rejected() -> None:
+    hostile_confidence = 'curated x" onload=alert(1)'
+    data = _vendor(aliases=[{"source": "nvd", "value": "x", "confidence": hostile_confidence}])
+    with pytest.raises(InvalidRecordError, match="confidence"):
+        validate_vendor_record(VENDOR_PATH, data)
+
+
+def test_alias_with_missing_confidence_is_rejected() -> None:
+    data = _vendor(aliases=[{"source": "nvd", "value": "x"}])
+    with pytest.raises(InvalidRecordError, match="confidence"):
+        validate_vendor_record(VENDOR_PATH, data)
+
+
+@pytest.mark.parametrize("confidence", ["curated", "auto"])
+def test_alias_with_valid_confidence_passes(confidence: str) -> None:
+    data = _vendor(aliases=[{"source": "nvd", "value": "x", "confidence": confidence}])
+    validate_vendor_record(VENDOR_PATH, data)  # must not raise
+
+
+def test_build_groups_skips_a_record_with_a_spoofed_confidence_value(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch, capsys: pytest.CaptureFixture[str]
+) -> None:
+    vendors_dir = _fake_repo(tmp_path, monkeypatch)
+    _write_vendor(
+        vendors_dir,
+        "acme",
+        "id: acme\nname: Acme\naliases:\n"
+        "  - source: nvd\n"
+        "    value: acme\n"
+        '    confidence: \'curated x" onload=alert(1)\'\n',
+    )
+    _write_vendor(vendors_dir, "widgetco", "id: widgetco\nname: WidgetCo\naliases: []\n")
+
+    groups = build_groups(show_all=True)
+
+    ids = [g["vendor"]["id"] for g in groups]
+    assert "acme" not in ids
+    assert "widgetco" in ids
+    assert "skipping invalid vendor record" in capsys.readouterr().err
+
+
 def test_build_groups_preserves_hostile_but_valid_name_verbatim(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch
 ) -> None:

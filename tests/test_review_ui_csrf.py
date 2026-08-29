@@ -110,6 +110,31 @@ def _approve_acme(
     )
 
 
+def _get(
+    host: str,
+    port: int,
+    path: str,
+    *,
+    host_header: str | None = None,
+) -> tuple[int, dict[str, str], bytes]:
+    """A raw HTTP GET giving full control over the Host header -- the one
+    thing a DNS-rebinding attacker controls on an otherwise-legitimate
+    same-origin GET. Returns (status, headers, body)."""
+    conn = http.client.HTTPConnection(host, port, timeout=5)
+    try:
+        conn.connect()
+        conn.putrequest("GET", path, skip_host=True)
+        conn.putheader("Host", host_header if host_header is not None else f"{host}:{port}")
+        conn.endheaders()
+        resp = conn.getresponse()
+        status = resp.status
+        headers = dict(resp.getheaders())
+        body = resp.read()
+    finally:
+        conn.close()
+    return status, headers, body
+
+
 # --- Item 1: the three independent CSRF barriers -----------------------
 
 
@@ -197,6 +222,107 @@ def test_get_root_injects_the_real_token_and_leaves_no_placeholder(
     conn.close()
     assert server.CSRF_TOKEN in html
     assert "__CSRF_TOKEN__" not in html
+
+
+# --- Item 1: do_GET must apply the same Host check as do_POST -----------
+
+
+def test_get_root_with_foreign_host_is_rejected(live_server: tuple[str, int]) -> None:
+    # This is the concrete finding: GET / with a rebound Host used to return
+    # 200 with the real CSRF token in the body.
+    host, port = live_server
+    status, _headers, body = _get(host, port, "/", host_header="evil.test:80")
+    assert status == 403
+    data = json.loads(body)
+    assert "error" in data
+    assert server.CSRF_TOKEN not in body.decode()
+
+
+def test_get_root_with_dns_rebinding_style_host_is_rejected(
+    live_server: tuple[str, int],
+) -> None:
+    host, port = live_server
+    status, _headers, body = _get(host, port, "/", host_header="attacker.example:80")
+    assert status == 403
+    assert server.CSRF_TOKEN not in body.decode()
+
+
+def test_get_pending_with_foreign_host_is_rejected(live_server: tuple[str, int]) -> None:
+    host, port = live_server
+    status, _headers, body = _get(host, port, "/api/pending", host_header="evil.test:80")
+    assert status == 403
+    assert "error" in json.loads(body)
+
+
+def test_get_git_status_with_foreign_host_is_rejected(live_server: tuple[str, int]) -> None:
+    # /api/git_status shells out to git/gh and leaks branch names -- it must
+    # not be readable by a rebound origin either.
+    host, port = live_server
+    status, _headers, body = _get(host, port, "/api/git_status", host_header="evil.test:80")
+    assert status == 403
+    assert "error" in json.loads(body)
+
+
+def test_get_root_with_correct_host_still_succeeds(live_server: tuple[str, int]) -> None:
+    host, port = live_server
+    status, _headers, body = _get(host, port, "/")
+    assert status == 200
+    assert server.CSRF_TOKEN in body.decode()
+
+
+def test_get_root_carries_cache_control_no_store(live_server: tuple[str, int]) -> None:
+    # The served HTML embeds the live, secret CSRF token -- it must not be
+    # disk-cacheable.
+    host, port = live_server
+    status, headers, _body = _get(host, port, "/")
+    assert status == 200
+    assert headers.get("Cache-Control") == "no-store"
+
+
+# --- Item 4: a negative Content-Length must not hang the server ---------
+
+
+def test_negative_content_length_is_rejected(live_server: tuple[str, int]) -> None:
+    host, port = live_server
+    conn = http.client.HTTPConnection(host, port, timeout=5)
+    try:
+        conn.connect()
+        conn.putrequest("POST", "/api/approve", skip_host=True)
+        conn.putheader("Host", f"{host}:{port}")
+        conn.putheader("Content-Type", "application/json")
+        conn.putheader("X-CSRF-Token", VALID_TOKEN)
+        # A negative Content-Length: int() accepts it with no error, and
+        # rfile.read(-1) would then block until EOF on this
+        # single-threaded server if this weren't rejected up front.
+        conn.putheader("Content-Length", "-1")
+        conn.endheaders(b"")
+        resp = conn.getresponse()
+        status = resp.status
+        raw = resp.read()
+    finally:
+        conn.close()
+    assert status == 400
+    assert "error" in json.loads(raw)
+
+
+def test_non_integer_content_length_is_rejected(live_server: tuple[str, int]) -> None:
+    host, port = live_server
+    conn = http.client.HTTPConnection(host, port, timeout=5)
+    try:
+        conn.connect()
+        conn.putrequest("POST", "/api/approve", skip_host=True)
+        conn.putheader("Host", f"{host}:{port}")
+        conn.putheader("Content-Type", "application/json")
+        conn.putheader("X-CSRF-Token", VALID_TOKEN)
+        conn.putheader("Content-Length", "not-a-number")
+        conn.endheaders(b"")
+        resp = conn.getresponse()
+        status = resp.status
+        raw = resp.read()
+    finally:
+        conn.close()
+    assert status == 400
+    assert "error" in json.loads(raw)
 
 
 # --- Item 2: fresh server-side confirmation for publication -------------

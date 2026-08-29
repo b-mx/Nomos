@@ -150,7 +150,10 @@ function h(tag, props, ...children) {
       else if (k === "text") e.textContent = v;
       else if (k.startsWith("on") && typeof v === "function") e.addEventListener(k.slice(2), v);
       else if (k in e) e[k] = v;
-      else e.setAttribute(k, v);
+      // k is always a literal property key from an object literal passed at
+      // every h() call site in this file, never a value from a
+      // repo-controlled record -- see tests/test_review_ui_static_guard.py.
+      else e.setAttribute(k, v); // static-guard-allow: k is a literal call-site key, not record data
     }
   }
   for (const c of children.flat()) {
@@ -209,10 +212,16 @@ function buildAliases(path, aliases, onChanged) {
 }
 
 function buildTags(path, current, onChanged) {
+  // Server-side validation now rejects a non-list `tags` field before it
+  // ever reaches this client (see validate_product_record's _validate_tags
+  // in server.py), but this stays defensive in its own right: a future
+  // field change that skips that validation must not throw here and blank
+  // the whole page (main was already cleared by the time this runs).
+  const currentTags = Array.isArray(current) ? current : [];
   const wrap = h("div", { class: "tags" });
   const boxes = [];
   for (const t of STATE.taxonomy) {
-    const box = h("input", { type: "checkbox", value: t, checked: current.includes(t) });
+    const box = h("input", { type: "checkbox", value: t, checked: currentTags.includes(t) });
     boxes.push(box);
     const label = h("label", null, box, document.createTextNode(` ${t}`));
     box.addEventListener("change", () => {
@@ -525,9 +534,19 @@ async function doCommit(pushAndPr) {
     );
     if (r.pushed) resultEl.append(document.createTextNode(" Pushed to origin."));
     if (r.pr_url) {
-      const link = h("a", { target: "_blank", text: r.pr_url });
-      link.href = r.pr_url;
-      resultEl.append(h("br"), document.createTextNode("PR: "), link);
+      resultEl.append(h("br"), document.createTextNode("PR: "));
+      // ITEM 5: pr_url comes from `gh pr create` stdout via a fallback that
+      // doesn't filter it (see _publish_branch in server.py), so it isn't
+      // repository-controlled -- but this is the one place a URL flows
+      // straight into an href, so a scheme allowlist is cheap defence in
+      // depth against a javascript: URL ever ending up here.
+      if (/^https:\/\//i.test(r.pr_url)) {
+        const link = h("a", { target: "_blank", text: r.pr_url });
+        link.href = r.pr_url;
+        resultEl.append(link);
+      } else {
+        resultEl.append(document.createTextNode(r.pr_url));
+      }
     }
     resultEl.className = "modal-result ok";
   } catch (e) {

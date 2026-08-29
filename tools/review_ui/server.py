@@ -74,6 +74,15 @@ PRODUCT_SCHEMA = json.loads((SCHEMA_DIR / "product.schema.json").read_text())
 # never drift apart (the vendor schema's icon pattern is identical).
 _ICON_PATTERN_RE = re.compile(PRODUCT_SCHEMA["properties"]["icon"]["pattern"])
 _ALIAS_SOURCE_ENUM = frozenset(PRODUCT_SCHEMA["$defs"]["alias"]["properties"]["source"]["enum"])
+# ITEM 3: aliases[].confidence is rendered into a `className` template literal
+# (`alias ${a.confidence}`) to pick "curated" (green) vs "auto" styling. Not
+# an XSS sink (className never parses markup), but an unvalidated value lets
+# a hostile record spoof the "curated" styling that the whole review UI
+# exists to distinguish -- so it's checked against the schema's enum here,
+# same as source above, rather than hardcoded blind.
+_ALIAS_CONFIDENCE_ENUM = frozenset(
+    PRODUCT_SCHEMA["$defs"]["alias"]["properties"]["confidence"]["enum"]
+)
 
 # The only two canonical on-disk shapes build_groups() ever produces a `path`
 # for. `path` values end up interpolated into the UI's onclick handlers /
@@ -88,9 +97,12 @@ _PRODUCT_PATH_RE = re.compile(
 
 class InvalidRecordError(ValueError):
     """A vendor/product record failed server-side validation before being
-    handed to the review UI. build_groups() catches this and skips the
-    record (with a stderr warning) rather than rendering half-validated
-    data -- see the module docstring reasoning in build_groups()."""
+    handed to the review UI, OR could not even be parsed as a YAML mapping
+    in the first place (malformed YAML, a YAML list/scalar instead of an
+    object, or a file that isn't valid text -- see load_yaml_record()).
+    build_groups() catches this and skips the record (with a stderr
+    warning) rather than rendering half-validated data -- see the module
+    docstring reasoning in build_groups()."""
 
 
 def _require_str(value: Any, field: str) -> str:
@@ -116,6 +128,25 @@ def _validate_aliases(data: dict[str, Any]) -> None:
         if source not in _ALIAS_SOURCE_ENUM:
             raise InvalidRecordError(f"aliases[{i}].source {source!r} is not a recognised source")
         _require_str(alias.get("value"), f"aliases[{i}].value")
+        confidence = alias.get("confidence")
+        if confidence not in _ALIAS_CONFIDENCE_ENUM:
+            raise InvalidRecordError(
+                f"aliases[{i}].confidence {confidence!r} is not a recognised confidence"
+            )
+
+
+def _validate_tags(data: dict[str, Any]) -> None:
+    """`tags` is rendered client-side assuming a list (buildTags calls
+    `current.includes(t)`); a mapping or scalar there throws inside the
+    render loop *after* the DOM has already been cleared, blanking the whole
+    page (see ITEM 2's client-side twin). Reject anything that isn't a list
+    of strings here so a malformed `tags` field is skipped like any other
+    invalid record rather than reaching the client at all."""
+    tags = data.get("tags")
+    if tags is None:
+        return
+    if not isinstance(tags, list) or not all(isinstance(t, str) for t in tags):
+        raise InvalidRecordError("tags must be a list of strings")
 
 
 def _validate_id(data: dict[str, Any], field: str) -> None:
@@ -154,10 +185,34 @@ def validate_product_record(path: str, data: dict[str, Any]) -> None:
     _require_str(data.get("name"), "name")
     _validate_icon(data)
     _validate_aliases(data)
+    _validate_tags(data)
 
 
 def load_yaml(path: Path) -> dict[str, Any]:
     return yaml.safe_load(path.read_text()) or {}
+
+
+def load_yaml_record(path: Path) -> dict[str, Any]:
+    """Load a vendor/product YAML file for the review-queue scan, raising
+    InvalidRecordError (rather than letting yaml.YAMLError / UnicodeDecodeError
+    / AttributeError propagate) for anything build_groups() should skip
+    instead of crashing on: a file that isn't valid UTF-8 text, YAML that
+    doesn't parse at all, or YAML that parses fine but not to a mapping (a
+    top-level list or scalar) -- data/vendors/ is repo-controlled, so any of
+    these can arrive via a hostile pull request."""
+    try:
+        text = path.read_text()
+    except UnicodeDecodeError as exc:
+        raise InvalidRecordError(f"could not decode {path} as UTF-8 text: {exc}") from exc
+    try:
+        data = yaml.safe_load(text)
+    except yaml.YAMLError as exc:
+        raise InvalidRecordError(f"invalid YAML in {path}: {exc}") from exc
+    if not isinstance(data, dict):
+        raise InvalidRecordError(
+            f"{path} must parse to a YAML mapping, got {type(data).__name__}"
+        )
+    return data
 
 
 def save_yaml(path: Path, data: dict[str, Any]) -> None:
@@ -244,9 +299,9 @@ def build_groups(show_all: bool) -> list[dict[str, Any]]:
         vfile = vendor_dir / "vendor.yaml"
         if not vfile.exists():
             continue
-        vdata = load_yaml(vfile)
         vpath = rel(vfile)
         try:
+            vdata = load_yaml_record(vfile)
             validate_vendor_record(vpath, vdata)
         except InvalidRecordError as exc:
             print(f"review_ui: skipping invalid vendor record {vpath}: {exc}", file=sys.stderr)
@@ -257,9 +312,9 @@ def build_groups(show_all: bool) -> list[dict[str, Any]]:
         pdir = vendor_dir / "products"
         if pdir.exists():
             for pfile in sorted(pdir.glob("*.yaml")):
-                pdata = load_yaml(pfile)
                 ppath = rel(pfile)
                 try:
+                    pdata = load_yaml_record(pfile)
                     validate_product_record(ppath, pdata)
                 except InvalidRecordError as exc:
                     print(
@@ -667,7 +722,18 @@ class Handler(BaseHTTPRequestHandler):
         self.wfile.write(body)
 
     def _read_json(self) -> dict[str, Any]:
-        length = int(self.headers.get("Content-Length", 0))
+        raw_length = self.headers.get("Content-Length", "0")
+        try:
+            length = int(raw_length)
+        except ValueError as exc:
+            raise ValueError(f"invalid Content-Length: {raw_length!r}") from exc
+        # ITEM 4: a negative Content-Length passes straight through int()
+        # with no exception, and self.rfile.read(-1) then reads until EOF --
+        # which never comes on a kept-alive/streaming socket, hanging this
+        # single-threaded server. Reject it the same way a non-integer value
+        # already is.
+        if length < 0:
+            raise ValueError(f"invalid Content-Length: {raw_length!r}")
         raw = self.rfile.read(length) if length else b"{}"
         return json.loads(raw or b"{}")  # type: ignore[no-any-return]
 
@@ -678,6 +744,21 @@ class Handler(BaseHTTPRequestHandler):
         # real listening socket, so it always reflects reality.
         server: HTTPServer = self.server  # type: ignore[assignment]
         return server.server_port
+
+    def _check_host(self) -> str | None:
+        """ITEM 1: reusable Host-header check, factored out of _csrf_error so
+        do_GET can apply the exact same rule instead of duplicating it. This
+        is what closes off DNS rebinding: a hostile domain that resolves to
+        127.0.0.1 is same-origin from the browser's point of view, so it can
+        complete a same-origin GET carrying its own (attacker-controlled)
+        Host header. Checked against the port this server actually bound to,
+        not a fixed constant, so it works under the ephemeral ports the test
+        suite (and --port) use."""
+        port = self._bound_port()
+        host = self.headers.get("Host", "")
+        if host not in (f"127.0.0.1:{port}", f"localhost:{port}"):
+            return f"Host {host!r} does not match this server (expected port {port})"
+        return None
 
     def _csrf_error(self) -> str | None:
         """The three independent barriers from ITEM 1, checked cheapest
@@ -702,13 +783,23 @@ class Handler(BaseHTTPRequestHandler):
         if origin is not None and origin != own_origin:
             return f"Origin {origin!r} does not match this server ({own_origin!r})"
 
-        host = self.headers.get("Host", "")
-        if host not in (f"127.0.0.1:{port}", f"localhost:{port}"):
-            return f"Host {host!r} does not match this server (expected port {port})"
-
-        return None
+        return self._check_host()
 
     def do_GET(self) -> None:
+        # ITEM 1: do_POST validated Host but do_GET didn't, so a hostile
+        # domain resolving to 127.0.0.1 (DNS rebinding) could GET / and read
+        # the real CSRF token straight out of the response body -- collapsing
+        # two of the three CSRF barriers to one. Applied before routing, to
+        # every GET route (including /api/git_status, which shells out to
+        # git/gh and would otherwise leak branch names to a rebound origin).
+        # Deliberately NOT paired with an Origin check here: top-level
+        # navigations legitimately arrive with no Origin header at all, and
+        # requiring one would break opening the UI in a normal browser.
+        host_error = self._check_host()
+        if host_error is not None:
+            self._json({"error": host_error}, 403)
+            return
+
         parsed = urlparse(self.path)
         if parsed.path == "/":
             html = (STATIC_DIR / "index.html").read_bytes()
@@ -716,17 +807,24 @@ class Handler(BaseHTTPRequestHandler):
             self.send_response(200)
             self.send_header("Content-Type", "text/html; charset=utf-8")
             self.send_header("Content-Length", str(len(html)))
+            # The served page embeds the live, secret CSRF token; without
+            # this it's disk-cacheable, which would let it be replayed or
+            # read back out of a shared/disk cache.
+            self.send_header("Cache-Control", "no-store")
             self.end_headers()
             self.wfile.write(html)
         elif parsed.path == "/api/pending":
             show_all = parse_qs(parsed.query).get("all", ["0"])[0] == "1"
-            self._json(
-                {
-                    "groups": build_groups(show_all),
-                    "taxonomy": load_taxonomy(),
-                    "types": PRODUCT_TYPES,
-                }
-            )
+            try:
+                self._json(
+                    {
+                        "groups": build_groups(show_all),
+                        "taxonomy": load_taxonomy(),
+                        "types": PRODUCT_TYPES,
+                    }
+                )
+            except Exception as exc:  # noqa: BLE001
+                self._json({"error": str(exc)}, 400)
         elif parsed.path == "/api/git_status":
             try:
                 self._json(git_status_payload())
