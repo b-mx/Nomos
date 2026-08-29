@@ -29,6 +29,8 @@ from urllib.parse import parse_qs, urlparse
 import jsonschema
 import yaml
 
+from tools._common import KEBAB_CASE_RE
+
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 VENDORS_DIR = REPO_ROOT / "data" / "vendors"
 TAXONOMY_FILE = REPO_ROOT / "data" / "taxonomy" / "tags.yaml"
@@ -67,6 +69,91 @@ PRODUCT_TYPES = ["hardware", "appliance", "firmware", "os", "software", "library
 
 VENDOR_SCHEMA = json.loads((SCHEMA_DIR / "vendor.schema.json").read_text())
 PRODUCT_SCHEMA = json.loads((SCHEMA_DIR / "product.schema.json").read_text())
+
+# Reused from the product schema rather than re-declared here, so the two
+# never drift apart (the vendor schema's icon pattern is identical).
+_ICON_PATTERN_RE = re.compile(PRODUCT_SCHEMA["properties"]["icon"]["pattern"])
+_ALIAS_SOURCE_ENUM = frozenset(PRODUCT_SCHEMA["$defs"]["alias"]["properties"]["source"]["enum"])
+
+# The only two canonical on-disk shapes build_groups() ever produces a `path`
+# for. `path` values end up interpolated into the UI's onclick handlers /
+# data attributes (see index.html); rejecting anything that doesn't match one
+# of these two shapes closes that off at the boundary rather than trusting
+# every field in a repo-controlled YAML file to already be safe.
+_VENDOR_PATH_RE = re.compile(r"^data/vendors/[a-z0-9]+(?:-[a-z0-9]+)*/vendor\.yaml$")
+_PRODUCT_PATH_RE = re.compile(
+    r"^data/vendors/[a-z0-9]+(?:-[a-z0-9]+)*/products/[a-z0-9]+(?:-[a-z0-9]+)*\.yaml$"
+)
+
+
+class InvalidRecordError(ValueError):
+    """A vendor/product record failed server-side validation before being
+    handed to the review UI. build_groups() catches this and skips the
+    record (with a stderr warning) rather than rendering half-validated
+    data -- see the module docstring reasoning in build_groups()."""
+
+
+def _require_str(value: Any, field: str) -> str:
+    if not isinstance(value, str):
+        raise InvalidRecordError(f"{field} must be a string, got {type(value).__name__}")
+    return value
+
+
+def validate_path_shape(path: str, *, is_vendor: bool) -> None:
+    pattern = _VENDOR_PATH_RE if is_vendor else _PRODUCT_PATH_RE
+    if not pattern.match(path):
+        raise InvalidRecordError(f"path {path!r} does not match the canonical on-disk shape")
+
+
+def _validate_aliases(data: dict[str, Any]) -> None:
+    aliases = data.get("aliases") or []
+    if not isinstance(aliases, list):
+        raise InvalidRecordError("aliases must be a list")
+    for i, alias in enumerate(aliases):
+        if not isinstance(alias, dict):
+            raise InvalidRecordError(f"aliases[{i}] must be an object")
+        source = alias.get("source")
+        if source not in _ALIAS_SOURCE_ENUM:
+            raise InvalidRecordError(f"aliases[{i}].source {source!r} is not a recognised source")
+        _require_str(alias.get("value"), f"aliases[{i}].value")
+
+
+def _validate_id(data: dict[str, Any], field: str) -> None:
+    value = _require_str(data.get(field), field)
+    if not KEBAB_CASE_RE.match(value):
+        raise InvalidRecordError(f"{field} {value!r} is not kebab-case")
+
+
+def _validate_icon(data: dict[str, Any]) -> None:
+    icon = data.get("icon")
+    if icon is None:
+        return
+    icon = _require_str(icon, "icon")
+    if not _ICON_PATTERN_RE.match(icon):
+        raise InvalidRecordError(f"icon {icon!r} does not match the iconify id pattern")
+
+
+def validate_vendor_record(path: str, data: dict[str, Any]) -> None:
+    """Raise InvalidRecordError if `data` (loaded from `path`) is not safe to
+    hand to the review UI. Checks the fields the UI actually renders into
+    HTML-adjacent contexts (onclick handlers, attributes): path shape, id,
+    name, icon, and alias source/value -- not full schema conformance, which
+    is tools/validate.py's job and would also reject records that are merely
+    incomplete rather than hostile."""
+    validate_path_shape(path, is_vendor=True)
+    _validate_id(data, "id")
+    _require_str(data.get("name"), "name")
+    _validate_icon(data)
+    _validate_aliases(data)
+
+
+def validate_product_record(path: str, data: dict[str, Any]) -> None:
+    validate_path_shape(path, is_vendor=False)
+    _validate_id(data, "id")
+    _validate_id(data, "vendor_id")
+    _require_str(data.get("name"), "name")
+    _validate_icon(data)
+    _validate_aliases(data)
 
 
 def load_yaml(path: Path) -> dict[str, Any]:
@@ -136,6 +223,20 @@ def load_taxonomy() -> list[str]:
 
 
 def build_groups(show_all: bool) -> list[dict[str, Any]]:
+    """Build the vendor/product tree the review UI renders.
+
+    Every record is validated (validate_vendor_record / validate_product_record)
+    before it's added to the result. Records under data/vendors/ are
+    repo-controlled: a hostile pull request is the injection vector, and this
+    server (with git push / PR-creation powers) plus the maintainer's browser
+    are the target. An invalid record is *skipped* -- logged to stderr and
+    left out of the listing entirely -- rather than surfaced as a flagged
+    entry: half-rendering untrusted data (even behind a "this looked
+    suspicious" banner) is exactly the kind of inconsistent handling that
+    lets a sink slip through, and a skipped vendor/product is simply invisible
+    to review until its YAML is fixed, which is a safe failure mode for
+    maintainer tooling that never crashes the rest of the listing.
+    """
     groups: list[dict[str, Any]] = []
     for vendor_dir in sorted(VENDORS_DIR.iterdir()):
         if not vendor_dir.is_dir():
@@ -144,6 +245,12 @@ def build_groups(show_all: bool) -> list[dict[str, Any]]:
         if not vfile.exists():
             continue
         vdata = load_yaml(vfile)
+        vpath = rel(vfile)
+        try:
+            validate_vendor_record(vpath, vdata)
+        except InvalidRecordError as exc:
+            print(f"review_ui: skipping invalid vendor record {vpath}: {exc}", file=sys.stderr)
+            continue
         vendor_pending = has_auto(vdata)
 
         products: list[dict[str, Any]] = []
@@ -151,11 +258,20 @@ def build_groups(show_all: bool) -> list[dict[str, Any]]:
         if pdir.exists():
             for pfile in sorted(pdir.glob("*.yaml")):
                 pdata = load_yaml(pfile)
+                ppath = rel(pfile)
+                try:
+                    validate_product_record(ppath, pdata)
+                except InvalidRecordError as exc:
+                    print(
+                        f"review_ui: skipping invalid product record {ppath}: {exc}",
+                        file=sys.stderr,
+                    )
+                    continue
                 product_pending = has_auto(pdata)
                 if show_all or product_pending:
                     products.append(
                         {
-                            "path": rel(pfile),
+                            "path": ppath,
                             "id": pdata.get("id"),
                             "name": pdata.get("name"),
                             "type": pdata.get("type"),
@@ -172,7 +288,7 @@ def build_groups(show_all: bool) -> list[dict[str, Any]]:
             groups.append(
                 {
                     "vendor": {
-                        "path": rel(vfile),
+                        "path": vpath,
                         "id": vdata.get("id"),
                         "name": vdata.get("name"),
                         "icon": vdata.get("icon"),

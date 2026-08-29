@@ -128,6 +128,42 @@ async function api(path, body) {
   return data;
 }
 
+// ---------------------------------------------------------------------
+// DOM-building helpers.
+//
+// Every vendor/product field below (name, path, icon, alias values, ...) is
+// repo-controlled: it comes from a YAML file a pull request can add. Nothing
+// in this file may build HTML by string concatenation from such a value --
+// text goes through .textContent, attributes through property assignment or
+// setAttribute, and anything that used to be an inline onclick/onchange
+// carrying a value is now an addEventListener closing over the record
+// object directly, so no value is ever round-tripped through markup or an
+// attribute string.
+// ---------------------------------------------------------------------
+
+function h(tag, props, ...children) {
+  const e = document.createElement(tag);
+  if (props) {
+    for (const [k, v] of Object.entries(props)) {
+      if (v === undefined || v === null) continue;
+      if (k === "class") e.className = v;
+      else if (k === "text") e.textContent = v;
+      else if (k.startsWith("on") && typeof v === "function") e.addEventListener(k.slice(2), v);
+      else if (k in e) e[k] = v;
+      else e.setAttribute(k, v);
+    }
+  }
+  for (const c of children.flat()) {
+    if (c === null || c === undefined || c === false) continue;
+    e.append(c);
+  }
+  return e;
+}
+
+function clearEl(el) {
+  while (el.firstChild) el.removeChild(el.firstChild);
+}
+
 function iconUrl(icon, bust) {
   if (!icon || !icon.includes(":")) return null;
   const [prefix, name] = icon.split(":");
@@ -135,58 +171,63 @@ function iconUrl(icon, bust) {
   return `https://api.iconify.design/${prefix}/${name}.svg${cacheBust}`;
 }
 
-function iconImgInner(icon, bust) {
+function buildIconEl(icon, bust) {
   const url = iconUrl(icon, bust);
-  return url ? `<img class="icon" src="${url}" loading="lazy" alt="">` : `<span class="icon empty"></span>`;
+  if (!url) return h("span", { class: "icon empty" });
+  const img = h("img", { class: "icon", loading: "lazy", alt: "" });
+  img.src = url; // property assignment -- never interpolated into a src="..." string
+  return img;
 }
 
-function iconSlot(path, icon) {
-  return `<span class="icon-slot" data-icon-for="${cssId(path)}">${iconImgInner(icon)}</span>`;
+// Returns the wrapping element plus a refresh() closure, so the icon-reload
+// button can update this exact slot without any path-keyed DOM lookup.
+function buildIconSlot(icon) {
+  const slot = h("span", { class: "icon-slot" }, buildIconEl(icon));
+  return {
+    el: slot,
+    refresh(newIcon, bust) {
+      clearEl(slot);
+      slot.append(buildIconEl(newIcon, bust));
+    },
+  };
 }
 
-function cssId(path) {
-  return path.replace(/[^a-zA-Z0-9]/g, "_");
+function buildAliases(path, aliases, onChanged) {
+  const wrap = h("div", { class: "aliases" });
+  aliases.forEach((a, i) => {
+    const removeBtn = h("button", { title: "remove alias", text: "×" });
+    removeBtn.addEventListener("click", async () => {
+      try { await api("/api/remove_alias", { path, index: i }); onChanged(); } catch (e) { alert(e.message); }
+    });
+    const item = h("span", { class: `alias ${a.confidence}` },
+      document.createTextNode(`${a.source}: ${a.value} (${a.confidence}) `),
+      removeBtn,
+    );
+    wrap.append(item);
+  });
+  return wrap;
 }
 
-function refreshIconPreview(path, icon, bust) {
-  const slot = document.querySelector(`[data-icon-for="${cssId(path)}"]`);
-  if (slot) slot.innerHTML = iconImgInner(icon, bust);
-}
-
-function aliasesHtml(path, aliases) {
-  return `<div class="aliases">` + aliases.map((a, i) =>
-    `<span class="alias ${a.confidence}">${a.source}: ${escapeHtml(a.value)} (${a.confidence})
-       <button onclick="doRemoveAlias('${path}', ${i})" title="remove alias">×</button>
-     </span>`
-  ).join("") + `</div>`;
-}
-
-function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-}
-
-function tagsHtml(path, current) {
-  return `<div class="tags">` + STATE.taxonomy.map(t =>
-    `<label><input type="checkbox" data-path="${path}" value="${t}" ${current.includes(t) ? "checked" : ""}
-       onchange="onTagsChange(this)"> ${t}</label>`
-  ).join("") + `</div>`;
-}
-
-function onTagsChange(el) {
-  const path = el.dataset.path;
-  const boxes = document.querySelectorAll(`input[type=checkbox][data-path="${CSS.escape(path)}"]`);
-  const tags = Array.from(boxes).filter(b => b.checked).map(b => b.value);
-  api("/api/update", { path, fields: { tags } }).then(() => render()).catch(alert);
+function buildTags(path, current, onChanged) {
+  const wrap = h("div", { class: "tags" });
+  const boxes = [];
+  for (const t of STATE.taxonomy) {
+    const box = h("input", { type: "checkbox", value: t, checked: current.includes(t) });
+    boxes.push(box);
+    const label = h("label", null, box, document.createTextNode(` ${t}`));
+    box.addEventListener("change", () => {
+      const tags = boxes.filter(b => b.checked).map(b => b.value);
+      api("/api/update", { path, fields: { tags } }).then(onChanged).catch(alert);
+    });
+    wrap.append(label);
+  }
+  return wrap;
 }
 
 function onFieldChange(path, field, value) {
-  api("/api/update", { path, fields: { [field]: value } })
+  return api("/api/update", { path, fields: { [field]: value } })
     .then(() => render())
     .catch(alert);
-}
-
-function reloadIcon(path, inputEl) {
-  refreshIconPreview(path, inputEl.value.trim(), true);
 }
 
 async function doApprove(path) {
@@ -199,19 +240,29 @@ async function doReject(path) {
 async function doApproveGroup(vendorPath) {
   try { await api("/api/approve_group", { vendor_path: vendorPath }); render(); } catch (e) { alert(e.message); }
 }
-async function doRemoveAlias(path, index) {
-  try { await api("/api/remove_alias", { path, index }); render(); } catch (e) { alert(e.message); }
-}
 
-async function onRawChange(path, textarea) {
-  const errEl = textarea.parentElement.querySelector(".err");
-  try {
-    await api("/api/save_raw", { path, raw: textarea.value });
-    if (errEl) errEl.textContent = "";
-    render();
-  } catch (e) {
-    if (errEl) errEl.textContent = e.message;
-  }
+function buildRawBox(path, raw) {
+  if (!ORIGINAL_RAW.has(path)) ORIGINAL_RAW.set(path, raw);
+  const errEl = h("div", { class: "err" });
+  // spellcheck is a "three-state" reflected attribute, not a plain boolean
+  // IDL property: assigning the property directly with the string "false"
+  // would run through ToBoolean and set it to *true* (a non-empty string is
+  // truthy), so this goes through setAttribute instead, same as the
+  // original spellcheck="false" markup attribute.
+  const textarea = h("textarea", {});
+  textarea.setAttribute("spellcheck", "false");
+  textarea.value = raw; // property assignment -- textarea content is never built as HTML
+  textarea.addEventListener("change", async () => {
+    try {
+      await api("/api/save_raw", { path, raw: textarea.value });
+      errEl.textContent = "";
+      render();
+    } catch (e) {
+      errEl.textContent = e.message;
+    }
+  });
+  const diff = buildDiffEl(ORIGINAL_RAW.get(path), raw);
+  return h("div", { class: "raw" }, textarea, errEl, diff);
 }
 
 function diffLines(a, b) {
@@ -235,79 +286,93 @@ function diffLines(a, b) {
   return ops;
 }
 
-function diffHtml(original, current) {
-  if (original === undefined || original === current) return "";
+function buildDiffEl(original, current) {
+  if (original === undefined || original === current) return null;
   const ops = diffLines(original, current);
   const rows = ops.map(op => {
     const cls = op.type === "add" ? "diffadd" : op.type === "del" ? "diffdel" : "diffsame";
     const prefix = op.type === "add" ? "+ " : op.type === "del" ? "- " : "  ";
-    return `<div class="${cls}">${escapeHtml(prefix + op.text)}</div>`;
-  }).join("");
-  return `<div class="diff">${rows}</div>`;
+    return h("div", { class: cls, text: prefix + op.text });
+  });
+  return h("div", { class: "diff" }, rows);
 }
 
-function rawBox(path, raw) {
-  if (!ORIGINAL_RAW.has(path)) ORIGINAL_RAW.set(path, raw);
-  return `<div class="raw">
-    <textarea spellcheck="false" onchange="onRawChange('${path}', this)">${escapeHtml(raw)}</textarea>
-    <div class="err"></div>
-    ${diffHtml(ORIGINAL_RAW.get(path), raw)}
-  </div>`;
+function buildNameInput(path, name) {
+  const input = h("input", { type: "text", style: "max-width:260px" });
+  input.value = name;
+  input.addEventListener("change", () => onFieldChange(path, "name", input.value));
+  return input;
+}
+
+function buildIconRow(path, icon, iconSlot, placeholder) {
+  const input = h("input", {
+    type: "text",
+    placeholder,
+    style: "flex:1",
+  });
+  input.value = icon || "";
+  input.addEventListener("change", () => onFieldChange(path, "icon", input.value));
+  const reloadBtn = h("button", {
+    type: "button",
+    class: "iconreload",
+    title: "reload icon preview",
+    text: "⟳",
+  });
+  reloadBtn.addEventListener("click", () => iconSlot.refresh(input.value.trim(), true));
+  return h("div", { class: "row-inline" }, input, reloadBtn);
 }
 
 function vendorRow(v) {
-  const disabled = v.pending ? "" : "disabled";
-  return `<div class="vrow">
-    ${iconSlot(v.path, v.icon)}
-    <div class="fields">
-      <div class="row-inline">
-        <input type="text" value="${escapeHtml(v.name)}" onchange="onFieldChange('${v.path}','name',this.value)" style="max-width:260px">
-        <span class="badge ${v.pending ? "pending" : "approved"}">${v.pending ? "pending" : "approved"}</span>
-        <span class="path">${v.path}</span>
-      </div>
-      <div class="row-inline">
-        <input type="text" value="${escapeHtml(v.icon || "")}" placeholder="iconify id, e.g. logos:acme"
-          onchange="onFieldChange('${v.path}','icon',this.value)" style="flex:1">
-        <button type="button" class="iconreload" title="reload icon preview"
-          onclick="reloadIcon('${v.path}', this.previousElementSibling)">⟳</button>
-      </div>
-      ${aliasesHtml(v.path, v.aliases)}
-    </div>
-    ${rawBox(v.path, v.raw)}
-    <div class="actions">
-      <button class="approve" ${disabled} onclick="doApprove('${v.path}')">Approve vendor</button>
-      <button class="reject" onclick="doReject('${v.path}')">Reject vendor</button>
-    </div>
-  </div>`;
+  const iconSlot = buildIconSlot(v.icon);
+  const approveBtn = h("button", { class: "approve", disabled: !v.pending, text: "Approve vendor" });
+  approveBtn.addEventListener("click", () => doApprove(v.path));
+  const rejectBtn = h("button", { class: "reject", text: "Reject vendor" });
+  rejectBtn.addEventListener("click", () => doReject(v.path));
+
+  return h("div", { class: "vrow" },
+    iconSlot.el,
+    h("div", { class: "fields" },
+      h("div", { class: "row-inline" },
+        buildNameInput(v.path, v.name),
+        h("span", { class: `badge ${v.pending ? "pending" : "approved"}`, text: v.pending ? "pending" : "approved" }),
+        h("span", { class: "path", text: v.path }),
+      ),
+      buildIconRow(v.path, v.icon, iconSlot, "iconify id, e.g. logos:acme"),
+      buildAliases(v.path, v.aliases, render),
+    ),
+    buildRawBox(v.path, v.raw),
+    h("div", { class: "actions" }, approveBtn, rejectBtn),
+  );
 }
 
 function productRow(p) {
-  const typeOpts = STATE.types.map(t => `<option ${t===p.type?"selected":""}>${t}</option>`).join("");
-  const disabled = p.pending ? "" : "disabled";
-  return `<div class="prow">
-    ${iconSlot(p.path, p.icon)}
-    <div class="fields">
-      <div class="row-inline">
-        <input type="text" value="${escapeHtml(p.name)}" onchange="onFieldChange('${p.path}','name',this.value)" style="max-width:260px">
-        <select onchange="onFieldChange('${p.path}','type',this.value)">${typeOpts}</select>
-        <span class="badge ${p.pending ? "pending" : "approved"}">${p.pending ? "pending" : "approved"}</span>
-        <span class="path">${p.path}</span>
-      </div>
-      <div class="row-inline">
-        <input type="text" value="${escapeHtml(p.icon || "")}" placeholder="iconify id (blank = none)"
-          onchange="onFieldChange('${p.path}','icon',this.value)" style="flex:1">
-        <button type="button" class="iconreload" title="reload icon preview"
-          onclick="reloadIcon('${p.path}', this.previousElementSibling)">⟳</button>
-      </div>
-      ${tagsHtml(p.path, p.tags)}
-      ${aliasesHtml(p.path, p.aliases)}
-    </div>
-    ${rawBox(p.path, p.raw)}
-    <div class="actions">
-      <button class="approve" ${disabled} onclick="doApprove('${p.path}')">Approve</button>
-      <button class="reject" onclick="doReject('${p.path}')">Reject</button>
-    </div>
-  </div>`;
+  const iconSlot = buildIconSlot(p.icon);
+  const typeSelect = h("select");
+  for (const t of STATE.types) {
+    typeSelect.append(h("option", { value: t, selected: t === p.type, text: t }));
+  }
+  typeSelect.addEventListener("change", () => onFieldChange(p.path, "type", typeSelect.value));
+  const approveBtn = h("button", { class: "approve", disabled: !p.pending, text: "Approve" });
+  approveBtn.addEventListener("click", () => doApprove(p.path));
+  const rejectBtn = h("button", { class: "reject", text: "Reject" });
+  rejectBtn.addEventListener("click", () => doReject(p.path));
+
+  return h("div", { class: "prow" },
+    iconSlot.el,
+    h("div", { class: "fields" },
+      h("div", { class: "row-inline" },
+        buildNameInput(p.path, p.name),
+        typeSelect,
+        h("span", { class: `badge ${p.pending ? "pending" : "approved"}`, text: p.pending ? "pending" : "approved" }),
+        h("span", { class: "path", text: p.path }),
+      ),
+      buildIconRow(p.path, p.icon, iconSlot, "iconify id (blank = none)"),
+      buildTags(p.path, p.tags, render),
+      buildAliases(p.path, p.aliases, render),
+    ),
+    buildRawBox(p.path, p.raw),
+    h("div", { class: "actions" }, approveBtn, rejectBtn),
+  );
 }
 
 function matchesFilter(group, needle) {
@@ -342,45 +407,71 @@ async function load() {
       : `${vendorPending} vendors, ${productPending} products pending`;
 
   const main = document.getElementById("main");
+  clearEl(main);
   if (!visible.length) {
-    main.innerHTML = `<div class="empty-state">${showAll ? "No vendors match." : "Nothing pending 🎉"}</div>`;
+    main.append(h("div", { class: "empty-state", text: showAll ? "No vendors match." : "Nothing pending 🎉" }));
     window.scrollTo(0, scrollY);
     return;
   }
-  main.innerHTML = visible.map(g => {
+  for (const g of visible) {
     const anyPending = g.vendor.pending || g.products.some(p => p.pending);
-    return `
-    <div class="group">
-      ${vendorRow(g.vendor)}
-      ${g.products.length && anyPending ? `<div style="padding:0.4rem 0.8rem;background:#f5f5f5;">
-        <button class="groupapprove" onclick="doApproveGroup('${g.vendor.path}')">Approve vendor + all pending products</button>
-      </div>` : ""}
-      ${g.products.map(productRow).join("")}
-    </div>
-  `;
-  }).join("");
+    const children = [vendorRow(g.vendor)];
+    if (g.products.length && anyPending) {
+      const groupBtn = h("button", { class: "groupapprove", text: "Approve vendor + all pending products" });
+      groupBtn.addEventListener("click", () => doApproveGroup(g.vendor.path));
+      children.push(h("div", { style: "padding:0.4rem 0.8rem;background:#f5f5f5;" }, groupBtn));
+    }
+    for (const p of g.products) children.push(productRow(p));
+    main.append(h("div", { class: "group" }, children));
+  }
   window.scrollTo(0, scrollY);
 }
 
 document.getElementById("filter").addEventListener("input", () => render());
 load();
 
+function buildCommitSummary(status) {
+  const c = status.counts;
+  const branchLine = h("div", null,
+    document.createTextNode("Current branch: "),
+    h("strong", { text: status.branch }),
+  );
+  if (status.has_open_pr) {
+    branchLine.append(document.createTextNode(" "));
+    branchLine.append(h("span", { class: "badge approved", text: "open PR — will add a commit to it" }));
+  }
+
+  const countsLine = h("div", null,
+    document.createTextNode(
+      `${c.added} added · ${c.modified} modified · ${c.renamed} renamed · ${c.deleted} deleted under `
+    ),
+    h("code", { text: "data/vendors/" }),
+    document.createTextNode(" (data/examples/ is regenerated automatically on commit)"),
+  );
+  if (!status.gh_available) {
+    countsLine.append(document.createTextNode(" — "));
+    countsLine.append(h("strong", { text: "gh CLI not found" }));
+    countsLine.append(document.createTextNode(", PR creation will fail"));
+  }
+
+  const fileLines = status.entries.map(e => `${e.status.padEnd(3)} ${e.path}`).join("\n");
+  const statusList = h("div", {
+    class: "statuslist",
+    text: status.entries.length ? fileLines : "(nothing changed)",
+  });
+
+  return [branchLine, countsLine, statusList];
+}
+
 async function openCommitModal() {
   document.getElementById("commitOverlay").classList.remove("hidden");
-  document.getElementById("commitResult").innerHTML = "";
+  clearEl(document.getElementById("commitResult"));
   document.getElementById("commitSummary").textContent = "Loading status…";
   try {
     const status = await api("/api/git_status");
-    const c = status.counts;
-    const fileLines = status.entries.map(e => `${e.status.padEnd(3)} ${e.path}`).join("\n");
-    document.getElementById("commitSummary").innerHTML = `
-      <div>Current branch: <strong>${escapeHtml(status.branch)}</strong>
-        ${status.has_open_pr ? '<span class="badge approved">open PR — will add a commit to it</span>' : ""}</div>
-      <div>${c.added} added · ${c.modified} modified · ${c.renamed} renamed · ${c.deleted} deleted
-        under <code>data/vendors/</code> (data/examples/ is regenerated automatically on commit)
-        ${status.gh_available ? "" : " — <strong>gh CLI not found</strong>, PR creation will fail"}</div>
-      <div class="statuslist">${status.entries.length ? escapeHtml(fileLines) : "(nothing changed)"}</div>
-    `;
+    const summaryEl = document.getElementById("commitSummary");
+    clearEl(summaryEl);
+    for (const el of buildCommitSummary(status)) summaryEl.append(el);
     document.getElementById("branchInput").value = status.suggested_branch;
     document.getElementById("messageInput").value = status.suggested_message;
     document.getElementById("prTitleInput").value = status.suggested_pr_title;
@@ -424,11 +515,21 @@ async function doCommit(pushAndPr) {
     const r = await api("/api/commit_pr", {
       branch, message, base, push: pushAndPr, create_pr: pushAndPr, pr_title, pr_body, publish_nonce,
     });
-    let html = `Committed <code>${r.commit}</code> on branch <strong>${escapeHtml(r.branch)}</strong>.`;
-    if (r.pushed) html += " Pushed to origin.";
-    if (r.pr_url) html += `<br>PR: <a href="${r.pr_url}" target="_blank">${r.pr_url}</a>`;
+    clearEl(resultEl);
+    resultEl.append(
+      document.createTextNode("Committed "),
+      h("code", { text: r.commit }),
+      document.createTextNode(" on branch "),
+      h("strong", { text: r.branch }),
+      document.createTextNode("."),
+    );
+    if (r.pushed) resultEl.append(document.createTextNode(" Pushed to origin."));
+    if (r.pr_url) {
+      const link = h("a", { target: "_blank", text: r.pr_url });
+      link.href = r.pr_url;
+      resultEl.append(h("br"), document.createTextNode("PR: "), link);
+    }
     resultEl.className = "modal-result ok";
-    resultEl.innerHTML = html;
   } catch (e) {
     resultEl.className = "modal-result err";
     resultEl.textContent = e.message;
