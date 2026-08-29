@@ -10,6 +10,7 @@ from typing import Any
 import jsonschema
 
 from tools._common import (
+    API_ELIGIBLE_SOURCES,
     KEBAB_CASE_RE,
     REPO_ROOT,
     ProductEntry,
@@ -18,6 +19,7 @@ from tools._common import (
     iter_vendors,
     load_taxonomy_tags,
     load_yaml,
+    normalize_key_part,
 )
 
 SCHEMA_DIR = REPO_ROOT / "data" / "schema"
@@ -126,6 +128,55 @@ def validate_alias_uniqueness(
     return errors
 
 
+def validate_alias_uniqueness_normalized(
+    vendors: list[VendorEntry], products: list[ProductEntry]
+) -> list[str]:
+    """Aliases for API-eligible sources must stay unique under the key
+    normalisation the resolution API uses for lookup.
+
+    validate_alias_uniqueness compares raw strings; the API looks aliases up
+    normalised. Without this check, two aliases differing only in whitespace
+    or Unicode composition would pass validation and then produce two matches
+    for one source key, which the resolver treats as impossible."""
+    errors: list[str] = []
+
+    seen_vendor: dict[tuple[str, str], Path] = {}
+    for vendor_entry in vendors:
+        for alias in vendor_entry.data.get("aliases", []):
+            source = alias.get("source", "")
+            if source not in API_ELIGIBLE_SOURCES:
+                continue
+            vendor_key = (source, normalize_key_part(alias.get("value", "")))
+            if vendor_key in seen_vendor:
+                errors.append(
+                    f"Vendor alias {vendor_key} collides under key normalisation with "
+                    f"{_rel(seen_vendor[vendor_key])}, claimed by {_rel(vendor_entry.path)}"
+                )
+            else:
+                seen_vendor[vendor_key] = vendor_entry.path
+
+    seen_product: dict[tuple[str, str, str], Path] = {}
+    for product_entry in products:
+        for alias in product_entry.data.get("aliases", []):
+            source = alias.get("source", "")
+            if source not in API_ELIGIBLE_SOURCES:
+                continue
+            product_key = (
+                product_entry.vendor_id,
+                source,
+                normalize_key_part(alias.get("value", "")),
+            )
+            if product_key in seen_product:
+                errors.append(
+                    f"Product alias {product_key} collides under key normalisation with "
+                    f"{_rel(seen_product[product_key])}, claimed by {_rel(product_entry.path)}"
+                )
+            else:
+                seen_product[product_key] = product_entry.path
+
+    return errors
+
+
 def validate_tags_exist(
     products: list[ProductEntry],
     taxonomy_file: Path = REPO_ROOT / "data" / "taxonomy" / "tags.yaml",
@@ -225,6 +276,7 @@ def run_all_checks(vendors_dir: Path = REPO_ROOT / "data" / "vendors") -> list[s
     errors += validate_schema_conformance(vendors, products)
     errors += validate_ids_and_paths(vendors, products)
     errors += validate_alias_uniqueness(vendors, products)
+    errors += validate_alias_uniqueness_normalized(vendors, products)
     errors += validate_tags_exist(products)
     errors += validate_services_allowed(products)
     errors += validate_directory_structure(vendors_dir)

@@ -1,0 +1,557 @@
+<meta charset="utf-8">
+<meta name="csrf-token" content="__CSRF_TOKEN__">
+<title>Nomos review queue</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, system-ui, sans-serif; margin: 0; padding: 0 0 4rem; background: #f6f7f9; color: #111; }
+  header { position: sticky; top: 0; background: #fff; border-bottom: 1px solid #ddd; padding: 0.75rem 1rem; display: flex; gap: 1rem; align-items: center; z-index: 10; }
+  header h1 { font-size: 1rem; margin: 0; white-space: nowrap; }
+  header input[type=search] { flex: 1; padding: 0.4rem 0.6rem; border: 1px solid #ccc; border-radius: 4px; }
+  header .count { font-size: 0.85rem; color: #555; white-space: nowrap; }
+  main { max-width: 1500px; margin: 1rem auto; padding: 0 1rem; }
+  .raw { width: 340px; flex: none; }
+  .raw textarea { width: 100%; box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.72rem; line-height: 1.3; padding: 0.4rem; border: 1px solid #ccc; border-radius: 4px; resize: vertical; }
+  .vrow .raw textarea { height: 90px; }
+  .prow .raw textarea { height: 150px; }
+  .raw .err { color: #c62828; font-size: 0.7rem; margin-top: 0.15rem; }
+  .diff { margin-top: 0.3rem; border: 1px solid #ddd; border-radius: 4px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.68rem; max-height: 160px; overflow: auto; }
+  .diff div { padding: 0 0.3rem; white-space: pre-wrap; word-break: break-all; }
+  .diffadd { background: #e6ffed; color: #22863a; }
+  .diffdel { background: #ffeef0; color: #b31d28; text-decoration: line-through; }
+  .diffsame { color: #888; }
+  .badge { font-size: 0.68rem; font-weight: normal; border-radius: 3px; padding: 0.05rem 0.35rem; margin-left: 0.4rem; }
+  .badge.pending { background: #fff3cd; color: #8a6d00; }
+  .badge.approved { background: #dff5df; color: #1b5e20; }
+  header label.toggle { font-size: 0.85rem; white-space: nowrap; display: flex; align-items: center; gap: 0.3rem; }
+  .group { background: #fff; border: 1px solid #ddd; border-radius: 6px; margin-bottom: 0.75rem; overflow: hidden; }
+  .vrow, .prow { display: flex; align-items: flex-start; gap: 0.6rem; padding: 0.6rem 0.8rem; border-bottom: 1px solid #eee; }
+  .vrow { background: #fafbfc; font-weight: 600; }
+  .prow:last-child { border-bottom: none; }
+  .icon { width: 28px; height: 28px; flex: none; object-fit: contain; }
+  .icon.empty { border: 1px dashed #ccc; border-radius: 4px; }
+  .fields { display: flex; flex-direction: column; gap: 0.3rem; flex: 1; min-width: 0; }
+  .fields input[type=text] { font: inherit; padding: 0.25rem 0.4rem; border: 1px solid #ccc; border-radius: 4px; width: 100%; box-sizing: border-box; }
+  button.iconreload { flex: none; border: 1px solid #ccc; background: #fff; border-radius: 4px; padding: 0.2rem 0.5rem; cursor: pointer; font-size: 0.9rem; line-height: 1; }
+  .row-inline { display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; }
+  select { font: inherit; padding: 0.2rem; }
+  .aliases { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+  .alias { background: #eef1f5; border-radius: 3px; padding: 0.1rem 0.4rem; font-size: 0.78rem; display: flex; align-items: center; gap: 0.3rem; }
+  .alias.curated { background: #dff5df; }
+  .alias button { border: none; background: none; cursor: pointer; color: #a33; font-weight: bold; padding: 0 0.2rem; }
+  .tags { display: flex; flex-wrap: wrap; gap: 0.25rem; font-size: 0.78rem; }
+  .tags label { background: #f0f0f0; border-radius: 3px; padding: 0.05rem 0.35rem; cursor: pointer; }
+  .tags input { margin-right: 0.2rem; }
+  .actions { display: flex; flex-direction: column; gap: 0.3rem; flex: none; }
+  button.approve { background: #2e7d32; color: #fff; border: none; border-radius: 4px; padding: 0.35rem 0.6rem; cursor: pointer; font-size: 0.8rem; }
+  button.reject { background: #c62828; color: #fff; border: none; border-radius: 4px; padding: 0.35rem 0.6rem; cursor: pointer; font-size: 0.8rem; }
+  button.groupapprove { background: #1565c0; color: #fff; border: none; border-radius: 4px; padding: 0.3rem 0.5rem; cursor: pointer; font-size: 0.75rem; }
+  button:disabled { opacity: 0.4; cursor: default; }
+  .path { font-size: 0.7rem; color: #888; font-weight: normal; }
+  .empty-state { text-align: center; color: #666; padding: 3rem 1rem; }
+  button.commitbtn { background: #6a1b9a; color: #fff; border: none; border-radius: 4px; padding: 0.4rem 0.7rem; cursor: pointer; font-size: 0.85rem; white-space: nowrap; }
+  .overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.4); display: flex; align-items: flex-start; justify-content: center; padding: 3rem 1rem; z-index: 100; overflow: auto; }
+  .overlay.hidden { display: none; }
+  .modal { background: #fff; border-radius: 8px; max-width: 760px; width: 100%; padding: 1.25rem 1.5rem; }
+  .modal h2 { margin-top: 0; font-size: 1.05rem; }
+  .modal label { display: block; font-size: 0.8rem; font-weight: 600; margin: 0.8rem 0 0.25rem; }
+  .modal input[type=text], .modal textarea { width: 100%; box-sizing: border-box; font: inherit; padding: 0.4rem 0.5rem; border: 1px solid #ccc; border-radius: 4px; }
+  .modal textarea { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.8rem; }
+  .statuslist { max-height: 220px; overflow: auto; border: 1px solid #eee; border-radius: 4px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.72rem; padding: 0.4rem 0.6rem; background: #fafbfc; }
+  .statuslist div { white-space: pre; }
+  .modal-actions { display: flex; gap: 0.6rem; margin-top: 1.2rem; flex-wrap: wrap; }
+  .modal-actions button { border: none; border-radius: 4px; padding: 0.5rem 0.8rem; cursor: pointer; font-size: 0.85rem; }
+  .modal-actions .primary { background: #6a1b9a; color: #fff; }
+  .modal-actions .secondary { background: #eee; color: #111; }
+  .modal-close { float: right; background: none; border: none; font-size: 1.1rem; cursor: pointer; color: #666; }
+  .modal-result { margin-top: 1rem; padding: 0.6rem 0.8rem; border-radius: 4px; font-size: 0.85rem; }
+  .modal-result.ok { background: #dff5df; color: #1b5e20; }
+  .modal-result.err { background: #ffeef0; color: #b31d28; white-space: pre-wrap; }
+</style>
+<body>
+<header>
+  <h1>Nomos review queue</h1>
+  <input type="search" id="filter" placeholder="Filter by name / id…">
+  <label class="toggle"><input type="checkbox" id="showAll" onchange="render()"> show all (incl. approved)</label>
+  <span class="count" id="count"></span>
+  <button class="commitbtn" onclick="openCommitModal()">Commit / PR…</button>
+</header>
+<main id="main"><div class="empty-state">Loading…</div></main>
+
+<div class="overlay hidden" id="commitOverlay">
+  <div class="modal">
+    <button class="modal-close" onclick="closeCommitModal()">✕</button>
+    <h2>Commit &amp; PR</h2>
+    <div id="commitSummary">Loading status…</div>
+
+    <label for="branchInput">Branch</label>
+    <input type="text" id="branchInput">
+
+    <label for="baseInput">PR base branch</label>
+    <input type="text" id="baseInput" value="main">
+
+    <label for="messageInput">Commit message</label>
+    <textarea id="messageInput" rows="4"></textarea>
+
+    <label for="prTitleInput">PR title</label>
+    <input type="text" id="prTitleInput">
+
+    <label for="prBodyInput">PR body</label>
+    <textarea id="prBodyInput" rows="4"></textarea>
+
+    <div class="modal-actions">
+      <button class="secondary" onclick="doCommit(false)">Commit only</button>
+      <button class="primary" onclick="doCommit(true)">Commit + push + open PR</button>
+    </div>
+    <div id="commitResult"></div>
+  </div>
+</div>
+<script>
+let STATE = { groups: [], taxonomy: [], types: [] };
+const ORIGINAL_RAW = new Map(); // path -> raw content as first seen this session (diff baseline)
+
+// Injected server-side into the page at serve time (see server.py's do_GET,
+// which replaces the __CSRF_TOKEN__ placeholder below with a per-process
+// secret). Sent back on every mutating request as a custom header: a
+// cross-origin request can't set a custom header without triggering a CORS
+// preflight, so this is one of two independent CSRF barriers (the other is
+// requiring an exact application/json Content-Type below).
+const CSRF_TOKEN = document.querySelector('meta[name="csrf-token"]').content;
+
+async function api(path, body) {
+  const res = await fetch(path, body ? {
+    method: "POST",
+    headers: {"Content-Type": "application/json", "X-CSRF-Token": CSRF_TOKEN},
+    body: JSON.stringify(body),
+  } : undefined);
+  const data = await res.json();
+  if (!res.ok) throw new Error(data.error || "request failed");
+  return data;
+}
+
+// ---------------------------------------------------------------------
+// DOM-building helpers.
+//
+// Every vendor/product field below (name, path, icon, alias values, ...) is
+// repo-controlled: it comes from a YAML file a pull request can add. Nothing
+// in this file may build HTML by string concatenation from such a value --
+// text goes through .textContent, attributes through property assignment or
+// setAttribute, and anything that used to be an inline onclick/onchange
+// carrying a value is now an addEventListener closing over the record
+// object directly, so no value is ever round-tripped through markup or an
+// attribute string.
+// ---------------------------------------------------------------------
+
+function h(tag, props, ...children) {
+  const e = document.createElement(tag);
+  if (props) {
+    for (const [k, v] of Object.entries(props)) {
+      if (v === undefined || v === null) continue;
+      if (k === "class") e.className = v;
+      else if (k === "text") e.textContent = v;
+      else if (k.startsWith("on") && typeof v === "function") e.addEventListener(k.slice(2), v);
+      else if (k in e) e[k] = v;
+      // k is always a literal property key from an object literal passed at
+      // every h() call site in this file, never a value from a
+      // repo-controlled record -- see tests/test_review_ui_static_guard.py.
+      else e.setAttribute(k, v); // static-guard-allow: k is a literal call-site key, not record data
+    }
+  }
+  for (const c of children.flat()) {
+    if (c === null || c === undefined || c === false) continue;
+    e.append(c);
+  }
+  return e;
+}
+
+function clearEl(el) {
+  while (el.firstChild) el.removeChild(el.firstChild);
+}
+
+function iconUrl(icon, bust) {
+  if (!icon || !icon.includes(":")) return null;
+  const [prefix, name] = icon.split(":");
+  const cacheBust = bust ? `?t=${Date.now()}` : "";
+  return `https://api.iconify.design/${prefix}/${name}.svg${cacheBust}`;
+}
+
+function buildIconEl(icon, bust) {
+  const url = iconUrl(icon, bust);
+  if (!url) return h("span", { class: "icon empty" });
+  const img = h("img", { class: "icon", loading: "lazy", alt: "" });
+  img.src = url; // property assignment -- never interpolated into a src="..." string
+  return img;
+}
+
+// Returns the wrapping element plus a refresh() closure, so the icon-reload
+// button can update this exact slot without any path-keyed DOM lookup.
+function buildIconSlot(icon) {
+  const slot = h("span", { class: "icon-slot" }, buildIconEl(icon));
+  return {
+    el: slot,
+    refresh(newIcon, bust) {
+      clearEl(slot);
+      slot.append(buildIconEl(newIcon, bust));
+    },
+  };
+}
+
+function buildAliases(path, aliases, onChanged) {
+  const wrap = h("div", { class: "aliases" });
+  aliases.forEach((a, i) => {
+    const removeBtn = h("button", { title: "remove alias", text: "×" });
+    removeBtn.addEventListener("click", async () => {
+      try { await api("/api/remove_alias", { path, index: i }); onChanged(); } catch (e) { alert(e.message); }
+    });
+    const item = h("span", { class: `alias ${a.confidence}` },
+      document.createTextNode(`${a.source}: ${a.value} (${a.confidence}) `),
+      removeBtn,
+    );
+    wrap.append(item);
+  });
+  return wrap;
+}
+
+function buildTags(path, current, onChanged) {
+  // Server-side validation now rejects a non-list `tags` field before it
+  // ever reaches this client (see validate_product_record's _validate_tags
+  // in server.py), but this stays defensive in its own right: a future
+  // field change that skips that validation must not throw here and blank
+  // the whole page (main was already cleared by the time this runs).
+  const currentTags = Array.isArray(current) ? current : [];
+  const wrap = h("div", { class: "tags" });
+  const boxes = [];
+  for (const t of STATE.taxonomy) {
+    const box = h("input", { type: "checkbox", value: t, checked: currentTags.includes(t) });
+    boxes.push(box);
+    const label = h("label", null, box, document.createTextNode(` ${t}`));
+    box.addEventListener("change", () => {
+      const tags = boxes.filter(b => b.checked).map(b => b.value);
+      api("/api/update", { path, fields: { tags } }).then(onChanged).catch(alert);
+    });
+    wrap.append(label);
+  }
+  return wrap;
+}
+
+function onFieldChange(path, field, value) {
+  return api("/api/update", { path, fields: { [field]: value } })
+    .then(() => render())
+    .catch(alert);
+}
+
+async function doApprove(path) {
+  try { await api("/api/approve", { path }); render(); } catch (e) { alert(e.message); }
+}
+async function doReject(path) {
+  if (!confirm(`Delete ${path}? This cannot be undone here.`)) return;
+  try { await api("/api/reject", { path }); render(); } catch (e) { alert(e.message); }
+}
+async function doApproveGroup(vendorPath) {
+  try { await api("/api/approve_group", { vendor_path: vendorPath }); render(); } catch (e) { alert(e.message); }
+}
+
+function buildRawBox(path, raw) {
+  if (!ORIGINAL_RAW.has(path)) ORIGINAL_RAW.set(path, raw);
+  const errEl = h("div", { class: "err" });
+  // spellcheck is a "three-state" reflected attribute, not a plain boolean
+  // IDL property: assigning the property directly with the string "false"
+  // would run through ToBoolean and set it to *true* (a non-empty string is
+  // truthy), so this goes through setAttribute instead, same as the
+  // original spellcheck="false" markup attribute.
+  const textarea = h("textarea", {});
+  textarea.setAttribute("spellcheck", "false");
+  textarea.value = raw; // property assignment -- textarea content is never built as HTML
+  textarea.addEventListener("change", async () => {
+    try {
+      await api("/api/save_raw", { path, raw: textarea.value });
+      errEl.textContent = "";
+      render();
+    } catch (e) {
+      errEl.textContent = e.message;
+    }
+  });
+  const diff = buildDiffEl(ORIGINAL_RAW.get(path), raw);
+  return h("div", { class: "raw" }, textarea, errEl, diff);
+}
+
+function diffLines(a, b) {
+  const la = a.split("\n"), lb = b.split("\n");
+  const n = la.length, m = lb.length;
+  const dp = Array.from({ length: n + 1 }, () => new Array(m + 1).fill(0));
+  for (let i = n - 1; i >= 0; i--) {
+    for (let j = m - 1; j >= 0; j--) {
+      dp[i][j] = la[i] === lb[j] ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
+    }
+  }
+  const ops = [];
+  let i = 0, j = 0;
+  while (i < n && j < m) {
+    if (la[i] === lb[j]) { ops.push({ type: "same", text: la[i] }); i++; j++; }
+    else if (dp[i + 1][j] >= dp[i][j + 1]) { ops.push({ type: "del", text: la[i] }); i++; }
+    else { ops.push({ type: "add", text: lb[j] }); j++; }
+  }
+  while (i < n) { ops.push({ type: "del", text: la[i] }); i++; }
+  while (j < m) { ops.push({ type: "add", text: lb[j] }); j++; }
+  return ops;
+}
+
+function buildDiffEl(original, current) {
+  if (original === undefined || original === current) return null;
+  const ops = diffLines(original, current);
+  const rows = ops.map(op => {
+    const cls = op.type === "add" ? "diffadd" : op.type === "del" ? "diffdel" : "diffsame";
+    const prefix = op.type === "add" ? "+ " : op.type === "del" ? "- " : "  ";
+    return h("div", { class: cls, text: prefix + op.text });
+  });
+  return h("div", { class: "diff" }, rows);
+}
+
+function buildNameInput(path, name) {
+  const input = h("input", { type: "text", style: "max-width:260px" });
+  input.value = name;
+  input.addEventListener("change", () => onFieldChange(path, "name", input.value));
+  return input;
+}
+
+function buildIconRow(path, icon, iconSlot, placeholder) {
+  const input = h("input", {
+    type: "text",
+    placeholder,
+    style: "flex:1",
+  });
+  input.value = icon || "";
+  input.addEventListener("change", () => onFieldChange(path, "icon", input.value));
+  const reloadBtn = h("button", {
+    type: "button",
+    class: "iconreload",
+    title: "reload icon preview",
+    text: "⟳",
+  });
+  reloadBtn.addEventListener("click", () => iconSlot.refresh(input.value.trim(), true));
+  return h("div", { class: "row-inline" }, input, reloadBtn);
+}
+
+function vendorRow(v) {
+  const iconSlot = buildIconSlot(v.icon);
+  const approveBtn = h("button", { class: "approve", disabled: !v.pending, text: "Approve vendor" });
+  approveBtn.addEventListener("click", () => doApprove(v.path));
+  const rejectBtn = h("button", { class: "reject", text: "Reject vendor" });
+  rejectBtn.addEventListener("click", () => doReject(v.path));
+
+  return h("div", { class: "vrow" },
+    iconSlot.el,
+    h("div", { class: "fields" },
+      h("div", { class: "row-inline" },
+        buildNameInput(v.path, v.name),
+        h("span", { class: `badge ${v.pending ? "pending" : "approved"}`, text: v.pending ? "pending" : "approved" }),
+        h("span", { class: "path", text: v.path }),
+      ),
+      buildIconRow(v.path, v.icon, iconSlot, "iconify id, e.g. logos:acme"),
+      buildAliases(v.path, v.aliases, render),
+    ),
+    buildRawBox(v.path, v.raw),
+    h("div", { class: "actions" }, approveBtn, rejectBtn),
+  );
+}
+
+function productRow(p) {
+  const iconSlot = buildIconSlot(p.icon);
+  const typeSelect = h("select");
+  for (const t of STATE.types) {
+    typeSelect.append(h("option", { value: t, selected: t === p.type, text: t }));
+  }
+  typeSelect.addEventListener("change", () => onFieldChange(p.path, "type", typeSelect.value));
+  const approveBtn = h("button", { class: "approve", disabled: !p.pending, text: "Approve" });
+  approveBtn.addEventListener("click", () => doApprove(p.path));
+  const rejectBtn = h("button", { class: "reject", text: "Reject" });
+  rejectBtn.addEventListener("click", () => doReject(p.path));
+
+  return h("div", { class: "prow" },
+    iconSlot.el,
+    h("div", { class: "fields" },
+      h("div", { class: "row-inline" },
+        buildNameInput(p.path, p.name),
+        typeSelect,
+        h("span", { class: `badge ${p.pending ? "pending" : "approved"}`, text: p.pending ? "pending" : "approved" }),
+        h("span", { class: "path", text: p.path }),
+      ),
+      buildIconRow(p.path, p.icon, iconSlot, "iconify id (blank = none)"),
+      buildTags(p.path, p.tags, render),
+      buildAliases(p.path, p.aliases, render),
+    ),
+    buildRawBox(p.path, p.raw),
+    h("div", { class: "actions" }, approveBtn, rejectBtn),
+  );
+}
+
+function matchesFilter(group, needle) {
+  if (!needle) return true;
+  const hay = [group.vendor.name, group.vendor.id, ...group.products.map(p => p.name + " " + p.id)]
+    .join(" ").toLowerCase();
+  return hay.includes(needle);
+}
+
+function render() {
+  return load();
+}
+
+async function load() {
+  const scrollY = window.scrollY;
+  const showAll = document.getElementById("showAll").checked;
+  const data = await api(`/api/pending${showAll ? "?all=1" : ""}`);
+  STATE = data;
+  for (const g of STATE.groups) {
+    if (!ORIGINAL_RAW.has(g.vendor.path)) ORIGINAL_RAW.set(g.vendor.path, g.vendor.raw);
+    for (const p of g.products) if (!ORIGINAL_RAW.has(p.path)) ORIGINAL_RAW.set(p.path, p.raw);
+  }
+
+  const needle = document.getElementById("filter").value.trim().toLowerCase();
+  const visible = STATE.groups.filter(g => matchesFilter(g, needle));
+
+  const vendorPending = STATE.groups.filter(g => g.vendor.pending).length;
+  const productPending = STATE.groups.reduce((n, g) => n + g.products.filter(p => p.pending).length, 0);
+  document.getElementById("count").textContent =
+    showAll
+      ? `${vendorPending} vendors / ${productPending} products still pending (showing all ${STATE.groups.length} vendors)`
+      : `${vendorPending} vendors, ${productPending} products pending`;
+
+  const main = document.getElementById("main");
+  clearEl(main);
+  if (!visible.length) {
+    main.append(h("div", { class: "empty-state", text: showAll ? "No vendors match." : "Nothing pending 🎉" }));
+    window.scrollTo(0, scrollY);
+    return;
+  }
+  for (const g of visible) {
+    const anyPending = g.vendor.pending || g.products.some(p => p.pending);
+    const children = [vendorRow(g.vendor)];
+    if (g.products.length && anyPending) {
+      const groupBtn = h("button", { class: "groupapprove", text: "Approve vendor + all pending products" });
+      groupBtn.addEventListener("click", () => doApproveGroup(g.vendor.path));
+      children.push(h("div", { style: "padding:0.4rem 0.8rem;background:#f5f5f5;" }, groupBtn));
+    }
+    for (const p of g.products) children.push(productRow(p));
+    main.append(h("div", { class: "group" }, children));
+  }
+  window.scrollTo(0, scrollY);
+}
+
+document.getElementById("filter").addEventListener("input", () => render());
+load();
+
+function buildCommitSummary(status) {
+  const c = status.counts;
+  const branchLine = h("div", null,
+    document.createTextNode("Current branch: "),
+    h("strong", { text: status.branch }),
+  );
+  if (status.has_open_pr) {
+    branchLine.append(document.createTextNode(" "));
+    branchLine.append(h("span", { class: "badge approved", text: "open PR — will add a commit to it" }));
+  }
+
+  const countsLine = h("div", null,
+    document.createTextNode(
+      `${c.added} added · ${c.modified} modified · ${c.renamed} renamed · ${c.deleted} deleted under `
+    ),
+    h("code", { text: "data/vendors/" }),
+    document.createTextNode(" (data/examples/ is regenerated automatically on commit)"),
+  );
+  if (!status.gh_available) {
+    countsLine.append(document.createTextNode(" — "));
+    countsLine.append(h("strong", { text: "gh CLI not found" }));
+    countsLine.append(document.createTextNode(", PR creation will fail"));
+  }
+
+  const fileLines = status.entries.map(e => `${e.status.padEnd(3)} ${e.path}`).join("\n");
+  const statusList = h("div", {
+    class: "statuslist",
+    text: status.entries.length ? fileLines : "(nothing changed)",
+  });
+
+  return [branchLine, countsLine, statusList];
+}
+
+async function openCommitModal() {
+  document.getElementById("commitOverlay").classList.remove("hidden");
+  clearEl(document.getElementById("commitResult"));
+  document.getElementById("commitSummary").textContent = "Loading status…";
+  try {
+    const status = await api("/api/git_status");
+    const summaryEl = document.getElementById("commitSummary");
+    clearEl(summaryEl);
+    for (const el of buildCommitSummary(status)) summaryEl.append(el);
+    document.getElementById("branchInput").value = status.suggested_branch;
+    document.getElementById("messageInput").value = status.suggested_message;
+    document.getElementById("prTitleInput").value = status.suggested_pr_title;
+    document.getElementById("prBodyInput").value = status.suggested_pr_body;
+    document.querySelectorAll(".modal-actions button").forEach(b => b.disabled = !status.has_changes);
+  } catch (e) {
+    document.getElementById("commitSummary").textContent = "Error loading status: " + e.message;
+  }
+}
+
+function closeCommitModal() {
+  document.getElementById("commitOverlay").classList.add("hidden");
+}
+
+async function doCommit(pushAndPr) {
+  const branch = document.getElementById("branchInput").value.trim();
+  const message = document.getElementById("messageInput").value.trim();
+  const base = document.getElementById("baseInput").value.trim();
+  const pr_title = document.getElementById("prTitleInput").value.trim();
+  const pr_body = document.getElementById("prBodyInput").value.trim();
+  const resultEl = document.getElementById("commitResult");
+
+  if (pushAndPr) {
+    const ok = confirm(
+      `This will push branch "${branch}" to origin and open a PR against "${base}" on GitHub. Continue?`
+    );
+    if (!ok) return;
+  }
+
+  resultEl.className = "modal-result";
+  resultEl.textContent = "Working…";
+  try {
+    // Publishing (push / open PR) reaches outside this machine, so the
+    // server requires a fresh, single-use confirmation minted just before
+    // this call rather than trusting a flag in this request alone.
+    let publish_nonce;
+    if (pushAndPr) {
+      const intent = await api("/api/publish_intent", {});
+      publish_nonce = intent.nonce;
+    }
+    const r = await api("/api/commit_pr", {
+      branch, message, base, push: pushAndPr, create_pr: pushAndPr, pr_title, pr_body, publish_nonce,
+    });
+    clearEl(resultEl);
+    resultEl.append(
+      document.createTextNode("Committed "),
+      h("code", { text: r.commit }),
+      document.createTextNode(" on branch "),
+      h("strong", { text: r.branch }),
+      document.createTextNode("."),
+    );
+    if (r.pushed) resultEl.append(document.createTextNode(" Pushed to origin."));
+    if (r.pr_url) {
+      resultEl.append(h("br"), document.createTextNode("PR: "));
+      // ITEM 5: pr_url comes from `gh pr create` stdout via a fallback that
+      // doesn't filter it (see _publish_branch in server.py), so it isn't
+      // repository-controlled -- but this is the one place a URL flows
+      // straight into an href, so a scheme allowlist is cheap defence in
+      // depth against a javascript: URL ever ending up here.
+      if (/^https:\/\//i.test(r.pr_url)) {
+        const link = h("a", { target: "_blank", text: r.pr_url });
+        link.href = r.pr_url;
+        resultEl.append(link);
+      } else {
+        resultEl.append(document.createTextNode(r.pr_url));
+      }
+    }
+    resultEl.className = "modal-result ok";
+  } catch (e) {
+    resultEl.className = "modal-result err";
+    resultEl.textContent = e.message;
+  }
+}
+</script>

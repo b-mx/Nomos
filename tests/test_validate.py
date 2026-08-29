@@ -275,3 +275,139 @@ def test_cpe_field_still_rejects_unescaped_colon_as_delimiter():
     }
     validator = jsonschema.Draft202012Validator(schema)
     assert len(list(validator.iter_errors(data))) == 1
+
+
+def test_normalize_key_part_collapses_whitespace_and_preserves_case() -> None:
+    from tools._common import normalize_key_part
+
+    assert normalize_key_part("  Apple  ") == "Apple"
+    assert normalize_key_part("iOS,\tiPadOS,  and   watchOS") == "iOS, iPadOS, and watchOS"
+    # Case is deliberately preserved: CISA KEV publishes both of these as
+    # distinct product strings, and folding them would merge two keys.
+    assert normalize_key_part("IOS Software") != normalize_key_part("IOS software")
+
+
+def test_normalize_key_part_applies_nfc_composition() -> None:
+    from tools._common import normalize_key_part
+
+    # "cafe" + U+0301 COMBINING ACUTE ACCENT must normalise to the
+    # precomposed "caf\u00e9" (U+00E9), so the two spellings are one key.
+    # Written with explicit \u escapes (rather than literal accented
+    # source characters) so the decomposed/precomposed distinction can't
+    # be silently lost to editor or copy-paste Unicode normalisation.
+    decomposed = "cafe\u0301"
+    precomposed = "caf\u00e9"
+    assert decomposed != precomposed  # sanity: the two source spellings differ
+    assert normalize_key_part(decomposed) == normalize_key_part(precomposed)
+    assert normalize_key_part(decomposed) == precomposed
+
+
+def test_normalized_product_alias_collision_is_caught_within_a_vendor() -> None:
+    from tools._common import ProductEntry
+    from tools.validate import validate_alias_uniqueness_normalized
+
+    products = [
+        ProductEntry(
+            path=Path("data/vendors/cisco/products/ios.yaml"),
+            data={
+                "aliases": [{"source": "cisa_kev", "value": "IOS Software", "confidence": "auto"}]
+            },
+            vendor_id="cisco",
+        ),
+        ProductEntry(
+            path=Path("data/vendors/cisco/products/ios-dup.yaml"),
+            data={
+                "aliases": [{"source": "cisa_kev", "value": "IOS  Software", "confidence": "auto"}]
+            },
+            vendor_id="cisco",
+        ),
+    ]
+    errors = validate_alias_uniqueness_normalized([], products)
+    assert len(errors) == 1
+    assert "ios.yaml" in errors[0]
+    assert "ios-dup.yaml" in errors[0]
+
+
+def test_normalized_alias_check_preserves_case_distinction() -> None:
+    # 'IOS Software' and 'IOS software' are two real, distinct CISA KEV
+    # product strings. They must NOT be reported as a collision.
+    from tools._common import ProductEntry
+    from tools.validate import validate_alias_uniqueness_normalized
+
+    products = [
+        ProductEntry(
+            path=Path("data/vendors/cisco/products/ios-software.yaml"),
+            data={
+                "aliases": [{"source": "cisa_kev", "value": "IOS Software", "confidence": "auto"}]
+            },
+            vendor_id="cisco",
+        ),
+        ProductEntry(
+            path=Path("data/vendors/cisco/products/ios-software-lower.yaml"),
+            data={
+                "aliases": [{"source": "cisa_kev", "value": "IOS software", "confidence": "auto"}]
+            },
+            vendor_id="cisco",
+        ),
+    ]
+    assert validate_alias_uniqueness_normalized([], products) == []
+
+
+def test_normalized_alias_check_ignores_non_api_eligible_sources() -> None:
+    from tools._common import ProductEntry
+    from tools.validate import validate_alias_uniqueness_normalized
+
+    products = [
+        ProductEntry(
+            path=Path("data/vendors/cisco/products/a.yaml"),
+            data={"aliases": [{"source": "nvd", "value": "ios software", "confidence": "auto"}]},
+            vendor_id="cisco",
+        ),
+        ProductEntry(
+            path=Path("data/vendors/cisco/products/b.yaml"),
+            data={"aliases": [{"source": "nvd", "value": "ios  software", "confidence": "auto"}]},
+            vendor_id="cisco",
+        ),
+    ]
+    assert validate_alias_uniqueness_normalized([], products) == []
+
+
+def test_normalized_product_alias_collision_is_scoped_per_vendor() -> None:
+    from tools._common import ProductEntry
+    from tools.validate import validate_alias_uniqueness_normalized
+
+    products = [
+        ProductEntry(
+            path=Path("data/vendors/synology/products/chat.yaml"),
+            data={"aliases": [{"source": "cisa_kev", "value": "Chat", "confidence": "auto"}]},
+            vendor_id="synology",
+        ),
+        ProductEntry(
+            path=Path("data/vendors/zoom/products/chat.yaml"),
+            data={"aliases": [{"source": "cisa_kev", "value": "Chat", "confidence": "auto"}]},
+            vendor_id="zoom",
+        ),
+    ]
+    assert validate_alias_uniqueness_normalized([], products) == []
+
+
+def test_normalized_vendor_alias_collision_is_global() -> None:
+    from tools._common import VendorEntry
+    from tools.validate import validate_alias_uniqueness_normalized
+
+    vendors = [
+        VendorEntry(
+            path=Path("data/vendors/acme-one/vendor.yaml"),
+            data={"aliases": [{"source": "cisa_kev", "value": "Acme Corp", "confidence": "auto"}]},
+        ),
+        VendorEntry(
+            path=Path("data/vendors/acme-two/vendor.yaml"),
+            data={
+                "aliases": [{"source": "cisa_kev", "value": "Acme   Corp", "confidence": "auto"}]
+            },
+        ),
+    ]
+    errors = validate_alias_uniqueness_normalized(vendors, [])
+    assert len(errors) == 1
+    assert "acme-one" in errors[0]
+    assert "acme-two" in errors[0]
