@@ -1,0 +1,418 @@
+<meta charset="utf-8">
+<title>Nomos review queue</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, system-ui, sans-serif; margin: 0; padding: 0 0 4rem; background: #f6f7f9; color: #111; }
+  header { position: sticky; top: 0; background: #fff; border-bottom: 1px solid #ddd; padding: 0.75rem 1rem; display: flex; gap: 1rem; align-items: center; z-index: 10; }
+  header h1 { font-size: 1rem; margin: 0; white-space: nowrap; }
+  header input[type=search] { flex: 1; padding: 0.4rem 0.6rem; border: 1px solid #ccc; border-radius: 4px; }
+  header .count { font-size: 0.85rem; color: #555; white-space: nowrap; }
+  main { max-width: 1500px; margin: 1rem auto; padding: 0 1rem; }
+  .raw { width: 340px; flex: none; }
+  .raw textarea { width: 100%; box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.72rem; line-height: 1.3; padding: 0.4rem; border: 1px solid #ccc; border-radius: 4px; resize: vertical; }
+  .vrow .raw textarea { height: 90px; }
+  .prow .raw textarea { height: 150px; }
+  .raw .err { color: #c62828; font-size: 0.7rem; margin-top: 0.15rem; }
+  .diff { margin-top: 0.3rem; border: 1px solid #ddd; border-radius: 4px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.68rem; max-height: 160px; overflow: auto; }
+  .diff div { padding: 0 0.3rem; white-space: pre-wrap; word-break: break-all; }
+  .diffadd { background: #e6ffed; color: #22863a; }
+  .diffdel { background: #ffeef0; color: #b31d28; text-decoration: line-through; }
+  .diffsame { color: #888; }
+  .badge { font-size: 0.68rem; font-weight: normal; border-radius: 3px; padding: 0.05rem 0.35rem; margin-left: 0.4rem; }
+  .badge.pending { background: #fff3cd; color: #8a6d00; }
+  .badge.approved { background: #dff5df; color: #1b5e20; }
+  header label.toggle { font-size: 0.85rem; white-space: nowrap; display: flex; align-items: center; gap: 0.3rem; }
+  .group { background: #fff; border: 1px solid #ddd; border-radius: 6px; margin-bottom: 0.75rem; overflow: hidden; }
+  .vrow, .prow { display: flex; align-items: flex-start; gap: 0.6rem; padding: 0.6rem 0.8rem; border-bottom: 1px solid #eee; }
+  .vrow { background: #fafbfc; font-weight: 600; }
+  .prow:last-child { border-bottom: none; }
+  .icon { width: 28px; height: 28px; flex: none; object-fit: contain; }
+  .icon.empty { border: 1px dashed #ccc; border-radius: 4px; }
+  .fields { display: flex; flex-direction: column; gap: 0.3rem; flex: 1; min-width: 0; }
+  .fields input[type=text] { font: inherit; padding: 0.25rem 0.4rem; border: 1px solid #ccc; border-radius: 4px; width: 100%; box-sizing: border-box; }
+  button.iconreload { flex: none; border: 1px solid #ccc; background: #fff; border-radius: 4px; padding: 0.2rem 0.5rem; cursor: pointer; font-size: 0.9rem; line-height: 1; }
+  .row-inline { display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; }
+  select { font: inherit; padding: 0.2rem; }
+  .aliases { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+  .alias { background: #eef1f5; border-radius: 3px; padding: 0.1rem 0.4rem; font-size: 0.78rem; display: flex; align-items: center; gap: 0.3rem; }
+  .alias.curated { background: #dff5df; }
+  .alias button { border: none; background: none; cursor: pointer; color: #a33; font-weight: bold; padding: 0 0.2rem; }
+  .tags { display: flex; flex-wrap: wrap; gap: 0.25rem; font-size: 0.78rem; }
+  .tags label { background: #f0f0f0; border-radius: 3px; padding: 0.05rem 0.35rem; cursor: pointer; }
+  .tags input { margin-right: 0.2rem; }
+  .actions { display: flex; flex-direction: column; gap: 0.3rem; flex: none; }
+  button.approve { background: #2e7d32; color: #fff; border: none; border-radius: 4px; padding: 0.35rem 0.6rem; cursor: pointer; font-size: 0.8rem; }
+  button.reject { background: #c62828; color: #fff; border: none; border-radius: 4px; padding: 0.35rem 0.6rem; cursor: pointer; font-size: 0.8rem; }
+  button.groupapprove { background: #1565c0; color: #fff; border: none; border-radius: 4px; padding: 0.3rem 0.5rem; cursor: pointer; font-size: 0.75rem; }
+  button:disabled { opacity: 0.4; cursor: default; }
+  .path { font-size: 0.7rem; color: #888; font-weight: normal; }
+  .empty-state { text-align: center; color: #666; padding: 3rem 1rem; }
+  button.commitbtn { background: #6a1b9a; color: #fff; border: none; border-radius: 4px; padding: 0.4rem 0.7rem; cursor: pointer; font-size: 0.85rem; white-space: nowrap; }
+  .overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.4); display: flex; align-items: flex-start; justify-content: center; padding: 3rem 1rem; z-index: 100; overflow: auto; }
+  .overlay.hidden { display: none; }
+  .modal { background: #fff; border-radius: 8px; max-width: 760px; width: 100%; padding: 1.25rem 1.5rem; }
+  .modal h2 { margin-top: 0; font-size: 1.05rem; }
+  .modal label { display: block; font-size: 0.8rem; font-weight: 600; margin: 0.8rem 0 0.25rem; }
+  .modal input[type=text], .modal textarea { width: 100%; box-sizing: border-box; font: inherit; padding: 0.4rem 0.5rem; border: 1px solid #ccc; border-radius: 4px; }
+  .modal textarea { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.8rem; }
+  .statuslist { max-height: 220px; overflow: auto; border: 1px solid #eee; border-radius: 4px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.72rem; padding: 0.4rem 0.6rem; background: #fafbfc; }
+  .statuslist div { white-space: pre; }
+  .modal-actions { display: flex; gap: 0.6rem; margin-top: 1.2rem; flex-wrap: wrap; }
+  .modal-actions button { border: none; border-radius: 4px; padding: 0.5rem 0.8rem; cursor: pointer; font-size: 0.85rem; }
+  .modal-actions .primary { background: #6a1b9a; color: #fff; }
+  .modal-actions .secondary { background: #eee; color: #111; }
+  .modal-close { float: right; background: none; border: none; font-size: 1.1rem; cursor: pointer; color: #666; }
+  .modal-result { margin-top: 1rem; padding: 0.6rem 0.8rem; border-radius: 4px; font-size: 0.85rem; }
+  .modal-result.ok { background: #dff5df; color: #1b5e20; }
+  .modal-result.err { background: #ffeef0; color: #b31d28; white-space: pre-wrap; }
+</style>
+<body>
+<header>
+  <h1>Nomos review queue</h1>
+  <input type="search" id="filter" placeholder="Filter by name / id…">
+  <label class="toggle"><input type="checkbox" id="showAll" onchange="render()"> show all (incl. approved)</label>
+  <span class="count" id="count"></span>
+  <button class="commitbtn" onclick="openCommitModal()">Commit / PR…</button>
+</header>
+<main id="main"><div class="empty-state">Loading…</div></main>
+
+<div class="overlay hidden" id="commitOverlay">
+  <div class="modal">
+    <button class="modal-close" onclick="closeCommitModal()">✕</button>
+    <h2>Commit &amp; PR</h2>
+    <div id="commitSummary">Loading status…</div>
+
+    <label for="branchInput">Branch</label>
+    <input type="text" id="branchInput">
+
+    <label for="baseInput">PR base branch</label>
+    <input type="text" id="baseInput" value="main">
+
+    <label for="messageInput">Commit message</label>
+    <textarea id="messageInput" rows="4"></textarea>
+
+    <label for="prTitleInput">PR title</label>
+    <input type="text" id="prTitleInput">
+
+    <label for="prBodyInput">PR body</label>
+    <textarea id="prBodyInput" rows="4"></textarea>
+
+    <div class="modal-actions">
+      <button class="secondary" onclick="doCommit(false)">Commit only</button>
+      <button class="primary" onclick="doCommit(true)">Commit + push + open PR</button>
+    </div>
+    <div id="commitResult"></div>
+  </div>
+</div>
+<script>
+let STATE = { groups: [], taxonomy: [], types: [] };
+const ORIGINAL_RAW = new Map(); // path -> raw content as first seen this session (diff baseline)
+
+async function api(path, body) {
+  const res = await fetch(path, body ? {
+    method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(body)
+  } : undefined);
+  const data = await res.json();
+  if (!res.ok) throw new Error(data.error || "request failed");
+  return data;
+}
+
+function iconUrl(icon, bust) {
+  if (!icon || !icon.includes(":")) return null;
+  const [prefix, name] = icon.split(":");
+  const cacheBust = bust ? `?t=${Date.now()}` : "";
+  return `https://api.iconify.design/${prefix}/${name}.svg${cacheBust}`;
+}
+
+function iconImgInner(icon, bust) {
+  const url = iconUrl(icon, bust);
+  return url ? `<img class="icon" src="${url}" loading="lazy" alt="">` : `<span class="icon empty"></span>`;
+}
+
+function iconSlot(path, icon) {
+  return `<span class="icon-slot" data-icon-for="${cssId(path)}">${iconImgInner(icon)}</span>`;
+}
+
+function cssId(path) {
+  return path.replace(/[^a-zA-Z0-9]/g, "_");
+}
+
+function refreshIconPreview(path, icon, bust) {
+  const slot = document.querySelector(`[data-icon-for="${cssId(path)}"]`);
+  if (slot) slot.innerHTML = iconImgInner(icon, bust);
+}
+
+function aliasesHtml(path, aliases) {
+  return `<div class="aliases">` + aliases.map((a, i) =>
+    `<span class="alias ${a.confidence}">${a.source}: ${escapeHtml(a.value)} (${a.confidence})
+       <button onclick="doRemoveAlias('${path}', ${i})" title="remove alias">×</button>
+     </span>`
+  ).join("") + `</div>`;
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+
+function tagsHtml(path, current) {
+  return `<div class="tags">` + STATE.taxonomy.map(t =>
+    `<label><input type="checkbox" data-path="${path}" value="${t}" ${current.includes(t) ? "checked" : ""}
+       onchange="onTagsChange(this)"> ${t}</label>`
+  ).join("") + `</div>`;
+}
+
+function onTagsChange(el) {
+  const path = el.dataset.path;
+  const boxes = document.querySelectorAll(`input[type=checkbox][data-path="${CSS.escape(path)}"]`);
+  const tags = Array.from(boxes).filter(b => b.checked).map(b => b.value);
+  api("/api/update", { path, fields: { tags } }).then(() => render()).catch(alert);
+}
+
+function onFieldChange(path, field, value) {
+  api("/api/update", { path, fields: { [field]: value } })
+    .then(() => render())
+    .catch(alert);
+}
+
+function reloadIcon(path, inputEl) {
+  refreshIconPreview(path, inputEl.value.trim(), true);
+}
+
+async function doApprove(path) {
+  try { await api("/api/approve", { path }); render(); } catch (e) { alert(e.message); }
+}
+async function doReject(path) {
+  if (!confirm(`Delete ${path}? This cannot be undone here.`)) return;
+  try { await api("/api/reject", { path }); render(); } catch (e) { alert(e.message); }
+}
+async function doApproveGroup(vendorPath) {
+  try { await api("/api/approve_group", { vendor_path: vendorPath }); render(); } catch (e) { alert(e.message); }
+}
+async function doRemoveAlias(path, index) {
+  try { await api("/api/remove_alias", { path, index }); render(); } catch (e) { alert(e.message); }
+}
+
+async function onRawChange(path, textarea) {
+  const errEl = textarea.parentElement.querySelector(".err");
+  try {
+    await api("/api/save_raw", { path, raw: textarea.value });
+    if (errEl) errEl.textContent = "";
+    render();
+  } catch (e) {
+    if (errEl) errEl.textContent = e.message;
+  }
+}
+
+function diffLines(a, b) {
+  const la = a.split("\n"), lb = b.split("\n");
+  const n = la.length, m = lb.length;
+  const dp = Array.from({ length: n + 1 }, () => new Array(m + 1).fill(0));
+  for (let i = n - 1; i >= 0; i--) {
+    for (let j = m - 1; j >= 0; j--) {
+      dp[i][j] = la[i] === lb[j] ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
+    }
+  }
+  const ops = [];
+  let i = 0, j = 0;
+  while (i < n && j < m) {
+    if (la[i] === lb[j]) { ops.push({ type: "same", text: la[i] }); i++; j++; }
+    else if (dp[i + 1][j] >= dp[i][j + 1]) { ops.push({ type: "del", text: la[i] }); i++; }
+    else { ops.push({ type: "add", text: lb[j] }); j++; }
+  }
+  while (i < n) { ops.push({ type: "del", text: la[i] }); i++; }
+  while (j < m) { ops.push({ type: "add", text: lb[j] }); j++; }
+  return ops;
+}
+
+function diffHtml(original, current) {
+  if (original === undefined || original === current) return "";
+  const ops = diffLines(original, current);
+  const rows = ops.map(op => {
+    const cls = op.type === "add" ? "diffadd" : op.type === "del" ? "diffdel" : "diffsame";
+    const prefix = op.type === "add" ? "+ " : op.type === "del" ? "- " : "  ";
+    return `<div class="${cls}">${escapeHtml(prefix + op.text)}</div>`;
+  }).join("");
+  return `<div class="diff">${rows}</div>`;
+}
+
+function rawBox(path, raw) {
+  if (!ORIGINAL_RAW.has(path)) ORIGINAL_RAW.set(path, raw);
+  return `<div class="raw">
+    <textarea spellcheck="false" onchange="onRawChange('${path}', this)">${escapeHtml(raw)}</textarea>
+    <div class="err"></div>
+    ${diffHtml(ORIGINAL_RAW.get(path), raw)}
+  </div>`;
+}
+
+function vendorRow(v) {
+  const disabled = v.pending ? "" : "disabled";
+  return `<div class="vrow">
+    ${iconSlot(v.path, v.icon)}
+    <div class="fields">
+      <div class="row-inline">
+        <input type="text" value="${escapeHtml(v.name)}" onchange="onFieldChange('${v.path}','name',this.value)" style="max-width:260px">
+        <span class="badge ${v.pending ? "pending" : "approved"}">${v.pending ? "pending" : "approved"}</span>
+        <span class="path">${v.path}</span>
+      </div>
+      <div class="row-inline">
+        <input type="text" value="${escapeHtml(v.icon || "")}" placeholder="iconify id, e.g. logos:acme"
+          onchange="onFieldChange('${v.path}','icon',this.value)" style="flex:1">
+        <button type="button" class="iconreload" title="reload icon preview"
+          onclick="reloadIcon('${v.path}', this.previousElementSibling)">⟳</button>
+      </div>
+      ${aliasesHtml(v.path, v.aliases)}
+    </div>
+    ${rawBox(v.path, v.raw)}
+    <div class="actions">
+      <button class="approve" ${disabled} onclick="doApprove('${v.path}')">Approve vendor</button>
+      <button class="reject" onclick="doReject('${v.path}')">Reject vendor</button>
+    </div>
+  </div>`;
+}
+
+function productRow(p) {
+  const typeOpts = STATE.types.map(t => `<option ${t===p.type?"selected":""}>${t}</option>`).join("");
+  const disabled = p.pending ? "" : "disabled";
+  return `<div class="prow">
+    ${iconSlot(p.path, p.icon)}
+    <div class="fields">
+      <div class="row-inline">
+        <input type="text" value="${escapeHtml(p.name)}" onchange="onFieldChange('${p.path}','name',this.value)" style="max-width:260px">
+        <select onchange="onFieldChange('${p.path}','type',this.value)">${typeOpts}</select>
+        <span class="badge ${p.pending ? "pending" : "approved"}">${p.pending ? "pending" : "approved"}</span>
+        <span class="path">${p.path}</span>
+      </div>
+      <div class="row-inline">
+        <input type="text" value="${escapeHtml(p.icon || "")}" placeholder="iconify id (blank = none)"
+          onchange="onFieldChange('${p.path}','icon',this.value)" style="flex:1">
+        <button type="button" class="iconreload" title="reload icon preview"
+          onclick="reloadIcon('${p.path}', this.previousElementSibling)">⟳</button>
+      </div>
+      ${tagsHtml(p.path, p.tags)}
+      ${aliasesHtml(p.path, p.aliases)}
+    </div>
+    ${rawBox(p.path, p.raw)}
+    <div class="actions">
+      <button class="approve" ${disabled} onclick="doApprove('${p.path}')">Approve</button>
+      <button class="reject" onclick="doReject('${p.path}')">Reject</button>
+    </div>
+  </div>`;
+}
+
+function matchesFilter(group, needle) {
+  if (!needle) return true;
+  const hay = [group.vendor.name, group.vendor.id, ...group.products.map(p => p.name + " " + p.id)]
+    .join(" ").toLowerCase();
+  return hay.includes(needle);
+}
+
+function render() {
+  return load();
+}
+
+async function load() {
+  const scrollY = window.scrollY;
+  const showAll = document.getElementById("showAll").checked;
+  const data = await api(`/api/pending${showAll ? "?all=1" : ""}`);
+  STATE = data;
+  for (const g of STATE.groups) {
+    if (!ORIGINAL_RAW.has(g.vendor.path)) ORIGINAL_RAW.set(g.vendor.path, g.vendor.raw);
+    for (const p of g.products) if (!ORIGINAL_RAW.has(p.path)) ORIGINAL_RAW.set(p.path, p.raw);
+  }
+
+  const needle = document.getElementById("filter").value.trim().toLowerCase();
+  const visible = STATE.groups.filter(g => matchesFilter(g, needle));
+
+  const vendorPending = STATE.groups.filter(g => g.vendor.pending).length;
+  const productPending = STATE.groups.reduce((n, g) => n + g.products.filter(p => p.pending).length, 0);
+  document.getElementById("count").textContent =
+    showAll
+      ? `${vendorPending} vendors / ${productPending} products still pending (showing all ${STATE.groups.length} vendors)`
+      : `${vendorPending} vendors, ${productPending} products pending`;
+
+  const main = document.getElementById("main");
+  if (!visible.length) {
+    main.innerHTML = `<div class="empty-state">${showAll ? "No vendors match." : "Nothing pending 🎉"}</div>`;
+    window.scrollTo(0, scrollY);
+    return;
+  }
+  main.innerHTML = visible.map(g => {
+    const anyPending = g.vendor.pending || g.products.some(p => p.pending);
+    return `
+    <div class="group">
+      ${vendorRow(g.vendor)}
+      ${g.products.length && anyPending ? `<div style="padding:0.4rem 0.8rem;background:#f5f5f5;">
+        <button class="groupapprove" onclick="doApproveGroup('${g.vendor.path}')">Approve vendor + all pending products</button>
+      </div>` : ""}
+      ${g.products.map(productRow).join("")}
+    </div>
+  `;
+  }).join("");
+  window.scrollTo(0, scrollY);
+}
+
+document.getElementById("filter").addEventListener("input", () => render());
+load();
+
+async function openCommitModal() {
+  document.getElementById("commitOverlay").classList.remove("hidden");
+  document.getElementById("commitResult").innerHTML = "";
+  document.getElementById("commitSummary").textContent = "Loading status…";
+  try {
+    const status = await api("/api/git_status");
+    const c = status.counts;
+    const fileLines = status.entries.map(e => `${e.status.padEnd(3)} ${e.path}`).join("\n");
+    document.getElementById("commitSummary").innerHTML = `
+      <div>Current branch: <strong>${escapeHtml(status.branch)}</strong>
+        ${status.has_open_pr ? '<span class="badge approved">open PR — will add a commit to it</span>' : ""}</div>
+      <div>${c.added} added · ${c.modified} modified · ${c.renamed} renamed · ${c.deleted} deleted
+        under <code>data/vendors/</code> (data/examples/ is regenerated automatically on commit)
+        ${status.gh_available ? "" : " — <strong>gh CLI not found</strong>, PR creation will fail"}</div>
+      <div class="statuslist">${status.entries.length ? escapeHtml(fileLines) : "(nothing changed)"}</div>
+    `;
+    document.getElementById("branchInput").value = status.suggested_branch;
+    document.getElementById("messageInput").value = status.suggested_message;
+    document.getElementById("prTitleInput").value = status.suggested_pr_title;
+    document.getElementById("prBodyInput").value = status.suggested_pr_body;
+    document.querySelectorAll(".modal-actions button").forEach(b => b.disabled = !status.has_changes);
+  } catch (e) {
+    document.getElementById("commitSummary").textContent = "Error loading status: " + e.message;
+  }
+}
+
+function closeCommitModal() {
+  document.getElementById("commitOverlay").classList.add("hidden");
+}
+
+async function doCommit(pushAndPr) {
+  const branch = document.getElementById("branchInput").value.trim();
+  const message = document.getElementById("messageInput").value.trim();
+  const base = document.getElementById("baseInput").value.trim();
+  const pr_title = document.getElementById("prTitleInput").value.trim();
+  const pr_body = document.getElementById("prBodyInput").value.trim();
+  const resultEl = document.getElementById("commitResult");
+
+  if (pushAndPr) {
+    const ok = confirm(
+      `This will push branch "${branch}" to origin and open a PR against "${base}" on GitHub. Continue?`
+    );
+    if (!ok) return;
+  }
+
+  resultEl.className = "modal-result";
+  resultEl.textContent = "Working…";
+  try {
+    const r = await api("/api/commit_pr", {
+      branch, message, base, push: pushAndPr, create_pr: pushAndPr, pr_title, pr_body,
+    });
+    let html = `Committed <code>${r.commit}</code> on branch <strong>${escapeHtml(r.branch)}</strong>.`;
+    if (r.pushed) html += " Pushed to origin.";
+    if (r.pr_url) html += `<br>PR: <a href="${r.pr_url}" target="_blank">${r.pr_url}</a>`;
+    resultEl.className = "modal-result ok";
+    resultEl.innerHTML = html;
+  } catch (e) {
+    resultEl.className = "modal-result err";
+    resultEl.textContent = e.message;
+  }
+}
+</script>
