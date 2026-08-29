@@ -53,21 +53,21 @@ This project adds four capabilities:
 |---|---|---|
 | D1 | `data/sources/cisa_kev/keys.json`, a tracked generated snapshot, is the sole authoritative key inventory. The builder never fetches. | Publishing must work offline and be a pure function of tracked files. Only the drift workflow touches the network. |
 | D2 | The bundle and per-key files cover **all** snapshot keys, unresolved ones included. Unknown hashes return HTTP 404. Outside-feed input is client-side only. | A static host cannot synthesise a miss body for an arbitrary path. Making "known-but-unresolved" a real published object keeps the useful half. |
-| D3 | Hash = first **16 hex chars** of `sha256(NFC(vendor) + U+001F + NFC(product))`, whitespace-collapsed, **case preserved**. Build fails on collision. | Case-folding would merge `IOS Software` and `IOS software`, which are distinct upstream keys. U+001F cannot occur in feed text, so concatenation is unambiguous. |
-| D4 | Exact resolution uses `cisa_kev` aliases only, never canonical `name`s, never other sources. Vendor first (globally unique), then product within that vendor. | Names are display strings; letting them resolve means a cosmetic rename silently changes the API. |
-| D5 | Curated resolutions are **input** to the importer, consumed before splitting. Full rebuild from empty is unsupported. | Protecting the YAML does not stop a rebuild from recreating `atlassian/server`. The tree is now a curated artifact, not a derivable one. |
-| D6 | Unresolved keys are **never persisted**. They are derived. `targets` is always non-empty. New kind `unmappable` records a reviewed "no such product". | Reconciles the drift workflow with referential integrity without inventing a null-target state. |
+| D3 | Hash = first **16 hex chars** of sha256 over **length-prefixed** NFC parts, whitespace-collapsed, **case preserved**. Two collision checks: normalisation (in the snapshot) and hash (at build). | Case-folding would merge `IOS Software` and `IOS software`, which are distinct upstream keys. Length-prefixing removes any assumption about which bytes can appear in feed text. |
+| D4 | Exact resolution uses `cisa_kev` aliases only, never canonical `name`s, never other sources. New `validate_alias_uniqueness_normalized` makes the "0 or 1" guarantee real. | Names are display strings; a cosmetic rename must not change the API. The existing check compares raw strings, so normalised lookup was not actually guaranteed unique. |
+| D5 | Curated resolutions are **input** to the importer, consumed before splitting. Full rebuild from empty is unsupported. **Confirmed by the user.** | Protecting the YAML does not stop a rebuild from recreating `atlassian/server`. Target names alone would not suffice either — type, tags, CPE, PURL, services, and aliases are all curation. |
+| D6 | Unresolved keys are **never persisted**. They are derived. `targets` is always non-empty. Kind `deferred` (renamed from `unmappable`) records a reviewed decision to wait. | No KEV key is unmappable in principle, so the original framing had no example. The real gap is suppressing endless re-review of a key someone chose not to map yet. |
 | D7 | Three orthogonal axes: semantic `kind` (in file), review state (in file), resolution state (derived). | The old single table was not mutually exclusive — a curated record can also be orphaned. |
 | D8 | Promote the review UI to tracked `tools/review_ui/`. "Reused unchanged" is retracted; four functions need real changes. | A deliverable that lives only on one laptop cannot be reviewed or reproduced. |
-| D9 | Full envelope specified; targets use `vendor_name`/`product_name`; JSON Schemas published under `api/v1/schema/` and tested. | `name` was overloaded across vendor and product targets. |
-| D10 | Candidates are dimension-scoped: vendor candidates only when the vendor is unresolved, product candidates only within a resolved vendor. Never cross-vendor. | Mirrors the validation invariant that product aliases are unique per vendor, not globally. |
+| D9 | Full envelope specified; targets use `vendor_name`/`product_name`; JSON Schemas published and tested. Bundle/per-key entries are **deep-equal**, not byte-identical. No `commit` or `generated_at` in any hashed file. | `name` was overloaded across vendor and product targets. An entry nested at two depths cannot be byte-identical. Commit metadata in hashed files made every unrelated commit look like a data change. |
+| D10 | Candidates are dimension-scoped and never cross-vendor. Corpus is `cisa_kev` aliases **plus canonical names**; one max score per target; threshold on the float, published score `int(round(x))`. | Mirrors the per-vendor alias-uniqueness invariant. Candidates are advisory and human-checked, so they may use names that exact resolution must not. |
 | D11 | The schema is source-discriminated, and **v1 defines `cisa_kev` only**. | NVD (`part,vendor,product`), OSV (`ecosystem,package`), and endoflife (`product`) have different key dimensions. One shape for all is the same error this spec exists to fix. |
-| D12 | Tombstones are keyed by **entry slug** (`apple--multiple-products`), permanent, non-chaining. "Redirect" is retracted — it is an advisory mapping; the old entry 404s. | The slug is what consumers actually fetch. |
-| D13 | Drift is bidirectional; upstream removals mark records `stale` and never auto-delete. Fixed branch, force-push only if no human commits. | A disappearing upstream key is not evidence the curation was wrong. |
-| D14 | `--api-output-dir` added alongside `--output-dir`; output dirs cleaned before write; `generated_at` lives in the manifest, not the bundle. | A bundle containing its own build timestamp would change hash every build, defeating change detection. |
+| D12 | Authored in tracked **`data/tombstones.yaml`** (canonical/global, CODEOWNERS-gated), keyed by entry slug, dated with **`removed_on`**, permanent, non-chaining. "Redirect" retracted — advisory only; the old entry 404s. | The spec previously defined only the generated file and never said where tombstones live. A commit SHA in a tracked record is circular; a date is stable under rebase and squash. |
+| D13 | Drift is bidirectional; upstream removals mark records `stale`, never auto-delete. Branch safety by **commit ownership + `--force-with-lease`**, not by path. `GITHUB_TOKEN` plus a `workflow_dispatch` of `validate.yml`. **Confirmed by the user.** | Git cannot force-push a single path, and a path-based check would still discard a human edit to `keys.json`. If unattended checks are needed later, a scoped GitHub App token — not a PAT. |
+| D14 | `--api-output-dir` alongside `--output-dir`; output dirs cleaned before write; `generated_at` **and `commit`** live only in the manifest. | Any volatile metadata inside a hashed file makes every unrelated commit look like a data change, defeating the manifest's purpose. |
 
-Two decisions need your confirmation before implementation; see
-**Open questions**.
+No open questions remain. D5 and D13 were confirmed by the user; every other
+decision is settled in the sections below.
 
 ## Background: measured scale
 
@@ -197,19 +197,29 @@ Applied identically at build time, in validation, and in the reference client.
 3. Collapse internal whitespace runs (`\s+`) to a single U+0020.
 4. **Case is preserved.** No casefold, no lower.
 
-**Serialisation and hash:**
+**Serialisation and hash — length-prefixed, no delimiter assumption:**
 
 ```python
-raw = normalize(vendor).encode("utf-8") + b"\x1f" + normalize(product).encode("utf-8")
+vb = normalize(vendor).encode("utf-8")
+pb = normalize(product).encode("utf-8")
+raw = b"%d:%s%d:%s" % (len(vb), vb, len(pb), pb)   # netstring-style
 key_hash = hashlib.sha256(raw).hexdigest()[:16]
 ```
 
-- U+001F (unit separator) is the delimiter. It cannot appear in feed text, so
-  `(a, bc)` and `(ab, c)` cannot collide.
+- **Length prefixes, not a delimiter byte.** An earlier draft used U+001F and
+  argued it "cannot appear in feed text". That is an assumption about upstream
+  data, and the hash must not rest on one. Length-prefixing is unambiguous for
+  *any* byte content: `("ab", "c")` → `430fb1b4ac43316e` and `("a", "bc")` →
+  `5310a58788781ab2`.
 - Encoding is UTF-8 throughout.
 - **`sha256-16` means 16 lowercase hexadecimal characters** — the first 8 bytes,
   64 bits. The earlier draft was ambiguous; the field is renamed `key_hash` and
   the term `sha256-16` is dropped.
+- Normalisation additionally **rejects C0/C1 control characters** in either key
+  part. They have no legitimate place in a vendor or product name, and
+  rejecting them at snapshot-generation time keeps malformed upstream data out
+  of the key space. This is belt-and-braces: correctness no longer depends on
+  it.
 
 **Case preservation is load-bearing.** These are distinct upstream keys:
 
@@ -222,19 +232,30 @@ d5d67a5538ae09b9   Cisco / 'IOS Software'
 
 | vendor | product | key_hash |
 |---|---|---|
-| `Apple` | `iOS, iPadOS, and watchOS` | `13e9e0c3b56cb69d` |
-| `Apple` | `Multiple Products` | `ad6f7353d52ba57b` |
-| `D-Link and TRENDnet` | `Multiple Devices` | `3c1f352c5f5b84a2` |
-| `Cisco` | `IOS Software` | `d5d67a5538ae09b9` |
-| `Cisco` | `IOS software` | `75bedee2535bf5c1` |
-| `␠␠Apple␠␠` | `iOS,\tiPadOS,␠␠and␠␠␠watchOS` | `13e9e0c3b56cb69d` |
+| `Apple` | `iOS, iPadOS, and watchOS` | `404574ff5888b597` |
+| `Apple` | `Multiple Products` | `304d5ecebbbdc942` |
+| `D-Link and TRENDnet` | `Multiple Devices` | `a3ecd0d9b695140d` |
+| `Cisco` | `IOS Software` | `67699a06d172bb2f` |
+| `Cisco` | `IOS software` | `d1cc7d8fcdf44975` |
+| `␠␠Apple␠␠` | `iOS,\tiPadOS,␠␠and␠␠␠watchOS` | `404574ff5888b597` |
 
-The last vector pins whitespace normalisation: it must equal row 1.
+Row 6 pins whitespace normalisation: it must equal row 1. Rows 4 and 5 pin
+case preservation: they must differ.
 
-**Collision handling.** `build_index.py` builds the full hash→key map and
-**fails the build** if two distinct normalised keys share a hash. At 706 keys
-collision probability is ~1.4e-14; the check exists because a silent collision
-would serve one vendor's data under another's URL.
+**Two distinct collision checks**, at different layers:
+
+1. **Normalisation collision, in `keys.json` generation and in validation.**
+   Two *distinct verbatim* keys that normalise to the same normalised key are
+   rejected — the snapshot may not contain both. This is the stronger check and
+   the one that matters: it catches `"Apple "` and `"Apple"` before they ever
+   reach a hash.
+2. **Hash collision, in `build_index.py`.** Two *distinct normalised* keys
+   sharing a truncated hash fail the build. At 706 keys the probability is
+   ~1.4e-14; the check exists because a silent collision would serve one
+   vendor's data under another's URL.
+
+The earlier draft described only the second, which would have let a
+normalisation collision through as a single silently-merged key.
 
 **Correction to the earlier draft.** It claimed `"iOS and iPadOS"` and
 `"iOS, iPadOS"` slugify identically. They do not — the current `slugify()`
@@ -256,15 +277,28 @@ For a snapshot key with no resolution record, resolution is a two-step lookup.
 Both steps use the D3 normalisation and are otherwise **exact** — no fuzzy, no
 substring, no case-insensitivity.
 
+**A prerequisite validation gap, closed.** The existing
+`validate_alias_uniqueness` compares **raw** `(source, value)` strings, while
+this algorithm looks aliases up **normalised**. Two `cisa_kev` aliases
+differing only by whitespace or Unicode composition would pass validation and
+then produce two normalised matches — so the "0 or 1" claim below is not
+currently guaranteed. A new check, `validate_alias_uniqueness_normalized`,
+enforces uniqueness of `(source, normalize(value))` for vendors globally and
+`(vendor_id, source, normalize(value))` for products, restricted to
+API-eligible sources (`cisa_kev` in v1).
+
+Verified against the current tree: **zero** normalised collisions exist today,
+for vendors or products. The check can therefore land without a data migration.
+
 1. **Vendor.** Look up the normalised `vendor` among vendor aliases where
-   `source == "cisa_kev"`. `validate_alias_uniqueness` makes vendor aliases
-   globally unique, so this yields 0 or 1.
+   `source == "cisa_kev"`. With the check above, vendor aliases are globally
+   unique under normalisation, so this yields 0 or 1.
    - 0 → the key is `unresolved` (vendor-unresolved). Stop.
    - The vendor string having its own fan-out record is handled by that record;
      such a key can never be exact-resolved.
 2. **Product.** Within that vendor only, look up the normalised `product` among
    product aliases where `source == "cisa_kev"`. Product aliases are unique per
-   vendor, so this yields 0 or 1.
+   vendor under normalisation, so this yields 0 or 1.
    - 0 → `unresolved` (product-unresolved). Stop.
 
 **Eligibility rules, stated so they are testable:**
@@ -374,18 +408,38 @@ The drift workflow therefore **updates `keys.json` only** and lists unresolved
 keys in the PR body. It writes no resolution records, because for an
 unresolvable key it has no valid targets to write.
 
-**New kind `unmappable`.** A reviewed "we looked, and no canonical product
-corresponds" — distinct from `sentinel`, which means "the source itself names
-no product". `unmappable` carries exactly one vendor-only target and a required
-`note`, so referential integrity holds.
+**New kind `deferred`** (renamed from the earlier `unmappable`). It records
+"reviewed; deliberately not mapped yet, and here is what would change that".
+Distinct from `sentinel`, which means "the source itself names no product". It
+carries exactly one vendor-only target and a required `note`, so referential
+integrity holds.
+
+The earlier draft illustrated this with `Cisco / "Catalyst SD-WAN Manger"`,
+which was wrong — that key is a plain upstream typo with an obvious correct
+target, and D9 rightly maps it as a curated `exact` override. It cannot be
+both.
+
+Reviewing all 22 unmatched single-name keys, **none is unmappable in
+principle**; every one has a defensible target. So `unmappable` as originally
+framed had no justifying example. But removing the kind outright reopens a real
+gap: a reviewer who concludes "not now" has nowhere to record it, and the key
+resurfaces in the queue on every drift run forever. `deferred` closes that gap
+honestly — it asserts a *decision to wait*, not an impossibility:
 
 ```yaml
-- key: {vendor: "Cisco", product: "Catalyst SD-WAN Manger"}
-  kind: unmappable
+- key: {vendor: "Google", product: "Chromium WebP"}
+  kind: deferred
   confidence: curated
-  targets: [{vendor_id: cisco}]
-  note: "Upstream typo for 'Catalyst SD-WAN Manager'; left unmapped pending a CISA correction"
+  targets: [{vendor_id: google}]
+  note: >-
+    Names the bundled WebP codec inside Chromium, not a distinct Google
+    product. Blocked on a modeling decision: whether Nomos gives bundled
+    third-party libraries their own entries (libwebp is upstream
+    webmproject, not Google). Revisit when that policy is settled.
 ```
+
+`deferred` records are hidden from the main queue and listed under a separate
+low-priority filter, so a decision to wait is visible without being noise.
 
 ### D7. Three orthogonal axes
 
@@ -396,7 +450,7 @@ The earlier single state table was not mutually exclusive. Replaced by:
 - `exact` — the product string denotes exactly one product
 - `split` — it denotes several products
 - `sentinel` — the source names no product (`Multiple Products`)
-- `unmappable` — reviewed; no canonical product corresponds
+- `deferred` — reviewed; deliberately not mapped yet, with a stated reason
 
 Vendor fan-out is **not** a kind. It is implicit in `targets` carrying more than
 one distinct `vendor_id`. Without this rule the D-Link/TRENDnet record is
@@ -455,8 +509,8 @@ functions need real changes:
 
 | Function | Current behaviour | Required change |
 |---|---|---|
-| `git_status_for_vendors()` (:195) | `git status -- data/vendors` only | Generalise to `git_status_for_paths(paths)` over `data/vendors`, `data/sources`, `data/examples` |
-| `do_commit_pr()` (:295) | `git add data/vendors data/examples`; `git commit -- data/vendors data/examples`; raises "nothing to commit under data/vendors/" | Widen to the same path list; must stage deletions and tombstones; error text corrected |
+| `git_status_for_vendors()` (:195) | `git status -- data/vendors` only | Generalise to `git_status_for_paths(paths)` over `data/vendors`, `data/sources`, `data/tombstones.yaml`, `data/examples` |
+| `do_commit_pr()` (:295) | `git add data/vendors data/examples`; `git commit -- data/vendors data/examples`; raises "nothing to commit under data/vendors/" | Widen to the same path list, so a resolutions-only or tombstone-only change commits; must stage deletions; error text corrected |
 | `rebuild_examples()` (:280) | `build_index.py --output-dir data/examples` into an existing directory; never deletes | Clean the output tree first, else deleted phantom entries leave stale `entries/*.json` that CI's `diff -r` will flag |
 | `resolve()` (:52) | `str(path).startswith(str(VENDORS_DIR))` | Replace with `Path.is_relative_to()` against an explicit allowlist of writable roots |
 
@@ -497,7 +551,6 @@ normative.
 {
   "schema_version": "1.0",
   "source": "cisa_kev",
-  "commit": "acc6e4ae9",
   "upstream": {"catalog_version": "2026.08.28", "date_released": "..."},
   "matching": {
     "normalization": "nfc+strip+collapse-ws, case-preserved",
@@ -513,17 +566,34 @@ normative.
 }
 ```
 
-The bundle deliberately carries **no `generated_at`** (D14).
+**No deployment metadata in hashed files.** The bundle carries neither
+`generated_at` nor `commit`. Both live only in `manifest.json` (D14). An
+earlier draft put `commit` in the bundle, every per-key file, and
+`tombstones.json` — which meant an unrelated README commit changed every API
+file and every content hash while no mapping data had changed, defeating the
+manifest's entire purpose. Hashed artifacts are now a pure function of tracked
+*data*; deployment provenance is separated into the one file that is not
+hashed.
 
 **Per-key file** — `api/v1/sources/cisa_kev/<key_hash>.json`:
 
 ```jsonc
-{"schema_version": "1.0", "source": "cisa_kev", "commit": "acc6e4ae9",
- "entry": { /* byte-identical to the same entry object in the bundle */ }}
+{"schema_version": "1.0", "source": "cisa_kev",
+ "entry": { /* deep-equal to the same entry object in the bundle */ }}
 ```
 
-Bundle and per-key files contain the **identical entry object**, guaranteed by
-construction (one object serialised into both) and asserted by test.
+**Structural, not byte, identity.** The entry appears at different nesting
+depths in the two files, so their serialised bytes differ by indentation. The
+requirement is **deep equality of the parsed objects**:
+
+```python
+json.load(bundle)["entries"][i] == json.load(per_key)["entry"]
+```
+
+Guaranteed by construction — the builder creates one dict and serialises it
+into both — and asserted by test over every key. The earlier draft said
+"byte-identical", which is not achievable without injecting a pre-serialised
+byte sequence, and that complexity buys nothing.
 
 **Entry object rules:**
 
@@ -589,7 +659,8 @@ construction (one object serialised into both) and asserted by test.
 {"key_hash": "…", "key": {"vendor": "Apache", "product": "Struts 1"},
  "resolution": null, "candidates_are_unverified": true,
  "candidates": [{"dimension": "product", "vendor_id": "apache",
-                 "product_id": "struts-2", "product_name": "Struts 2", "score": 88}]}
+                 "product_id": "struts-2", "product_name": "Struts 2",
+                 "matched_on": "name", "matched_value": "Struts 2", "score": 88}]}
 
 // 7. Unknown hash -> no file exists -> HTTP 404 (no JSON body)
 ```
@@ -615,10 +686,37 @@ new function that reuses only the rapidfuzz dependency.
 Cross-vendor product candidates are **not** emitted. Product aliases are unique
 per vendor, not globally, so a cross-vendor suggestion has no basis.
 
+**The corpus — which strings are scored.** Deliberately wider than D4's
+exact-resolution eligibility:
+
+| | exact resolution (D4) | candidates (D10) |
+|---|---|---|
+| `cisa_kev` aliases | eligible | eligible |
+| aliases from other sources | **not** eligible | **not** eligible |
+| canonical `name` fields | **not** eligible | **eligible** |
+
+Rationale for the one difference: exact resolution is authoritative and must be
+conservative — a canonical rename must never silently change the API. A
+candidate is advisory and a human checks it, so recall matters more, and a
+product's display name is often the closest thing to the source string.
+Other-source aliases stay out of both: an `nvd` value equal to a KEV string is
+coincidence, and offering it as evidence would mislead the reviewer.
+
+**One score per canonical target, not per string.** A target's score is the
+**maximum** over its eligible strings. Each candidate reports `matched_on`
+(`"alias"` or `"name"`) and `matched_value`, so the reviewer sees which string
+produced the score.
+
 **Scoring.** `rapidfuzz.fuzz.token_sort_ratio` over strings normalised by D3
 *plus* `casefold()`. Casefolding is correct for scoring and wrong for hashing;
 the two normalisations are deliberately different and separately named
 (`normalize_key_part` vs `normalize_for_scoring`).
+
+**Float to integer.** RapidFuzz returns a float in `[0, 100]`. The threshold is
+applied to the **float**; the published `score` is `int(round(raw))` using
+Python's round-half-to-even. Both steps are specified because rounding first
+would let a 69.5 through and rounding differently would make the published
+integer platform-dependent.
 
 `token_sort_ratio` rather than `suggest_match.py`'s `fuzz.ratio`, because these
 strings are word-order variant (`Reader and Acrobat` / `Acrobat and Reader`).
@@ -634,7 +732,9 @@ threshold, cap, and rapidfuzz version. `candidates_are_unverified: true` is
 always present alongside candidates.
 
 **Outside-feed clients** download `index/by-source/cisa_kev.json` — already
-published, no new artifact — and score locally.
+published, no new artifact. Each item there carries both the alias and the
+entry's canonical `name`, so the client can build exactly the corpus defined
+above with no additional fetch.
 
 **Keeping the client aligned.** The reference implementation ships at
 `docs/clients/resolve.py`. A test asserts that, over a fixture, it reproduces
@@ -663,13 +763,14 @@ normalisation changes on either side, that test fails.
 | `exact` | exactly 1 | required |
 | `split` | ≥ 2 | required on all |
 | `sentinel` | ≥ 1 | absent on all |
-| `unmappable` | exactly 1 | absent; `note` required |
+| `deferred` | exactly 1 | absent; `note` required |
 
 - **Mixed product and vendor-only targets in one record are illegal.** Each
   kind pins it, so a mixed record cannot validate.
 - Source directory name matches `^[a-z0-9_]+$` and must appear in the alias
   `source` enum. Only `data/sources/<source>/{keys.json,resolutions.yaml}` may
-  exist; anything else fails, mirroring `validate_directory_structure`.
+  exist under a source directory, plus `data/tombstones.yaml` at the data root
+  (D12); anything else fails, mirroring `validate_directory_structure`.
 - **Duplicate-key detection uses the D3-normalised key**, not the verbatim
   string, so two records that would collide in the published API are caught at
   validation rather than at build.
@@ -684,23 +785,69 @@ directory layout already anticipates.
 
 ### D12. Tombstone semantics
 
+**The tracked source file.** The earlier draft defined only the generated
+`api/v1/tombstones.json` and never said where tombstones are *authored*. They
+are permanent records and must be tracked:
+
+**`data/tombstones.yaml`** — a single **canonical, global** file, not
+per-source. A tombstone is a fact about a canonical entry (a vendor or product
+slug), and a deleted entry may carry aliases from several sources; filing it
+under `data/sources/cisa_kev/` would misattribute it. Placed alongside
+`data/taxonomy/tags.yaml` as a top-level curated data file, and **added to
+CODEOWNERS** (`/data/tombstones.yaml @b-mx`) because it is a permanent public
+contract.
+
+```yaml
+tombstones:
+- slug: apple--multiple-products
+  canonical_type: product
+  vendor_id: apple
+  product_id: multiple-products
+  removed_on: 2026-09-14
+  reason: sentinel-materialized
+  replaced_by:
+  - {vendor_id: apple}
+  note: "KEV 'Multiple Products' resolves to the vendor via the resolution layer"
+```
+
+**`removed_on`, not `removed_in`.** A tracked record cannot contain the SHA of
+the commit that is being created — that is circular, and resolving it would
+need a two-commit dance. It is a **UTC date** (`YYYY-MM-DD`), written by the
+review UI at deletion time. A date is sufficient for the only real question a
+consumer asks ("when did this go away?") and is stable under rebase, squash,
+and cherry-pick, which a SHA is not. The repo publishes no releases, so a
+release identifier is not available.
+
 **Keyed by entry slug**, matching `index/entries/<slug>.json`, because the slug
 is what consumers fetch. `apple--multiple-products`, not
-`apple/multiple-products`. The canonical id is carried as a separate field.
+`apple/multiple-products`. `vendor_id`/`product_id` carry the canonical id
+separately; `build_index.py` asserts the slug and the ids agree.
 
-`api/v1/tombstones.json`:
+**Directory allowlist (updated).** D11's structure check permits
+`data/sources/<source>/{keys.json,resolutions.yaml}` and, at the data root,
+`data/tombstones.yaml`. The earlier draft's allowlist had no place for
+tombstones, which contradicted D8's claim that the UI stages them.
+
+**Consumption.** `build_index.py` reads `data/tombstones.yaml` and emits
+`api/v1/tombstones.json` — the same records, sorted by `slug`, with display
+names resolved for every `replaced_by` target and **no `commit` field** (D14):
 
 ```jsonc
-{"schema_version": "1.0", "commit": "…",
+{"schema_version": "1.0",
  "tombstones": [
    {"slug": "apple--multiple-products",
     "canonical_type": "product",
     "canonical_id": {"vendor_id": "apple", "product_id": "multiple-products"},
-    "removed_in": "acc6e4ae9",
+    "removed_on": "2026-09-14",
     "reason": "sentinel-materialized",
     "replaced_by": [{"vendor_id": "apple", "vendor_name": "Apple"}],
-    "note": "KEV 'Multiple Products' now resolves to the vendor via the resolution layer"}]}
+    "note": "KEV 'Multiple Products' resolves to the vendor via the resolution layer"}]}
 ```
+
+**Authoring in the UI.** Deleting an entry from the resolutions tab appends a
+`data/tombstones.yaml` record in the same working-tree change, stamping
+`removed_on` from the current UTC date. `do_commit_pr`'s path list therefore
+includes `data/tombstones.yaml` (D8).
 
 - `replaced_by` uses the D9 target shape. Zero targets is legal (removed with
   no replacement) and requires a `note`. Vendor-only and one-to-many are both
@@ -748,9 +895,26 @@ as a **warning**, not a failure, so an upstream removal never breaks the build.
 - Fixed branch `automation/source-drift`. Idempotent: if the regenerated
   `keys.json` is byte-identical to the branch's, the job exits without
   touching anything.
-- The workflow force-pushes **only** `data/sources/*/keys.json`. If the branch
-  carries any human commit touching other paths, it **stops and comments**
-  rather than force-pushing. Human edits are never discarded.
+- **Branch safety is defined by commit ownership, not by path.** The earlier
+  draft said the workflow "force-pushes only `data/sources/*/keys.json`", which
+  is not a thing git can do — a force-push replaces branch history wholesale.
+  Worse, a path-based check would still discard a human edit *to `keys.json`
+  itself*. The actual rule:
+
+  1. Record the remote head SHA at job start.
+  2. Enumerate commits between `merge-base(main, automation/source-drift)` and
+     the remote head.
+  3. Rewrite the branch **only if every one of those commits is
+     automation-owned** — authored by `github-actions[bot]` and carrying the
+     `automation:` subject prefix.
+  4. Push with
+     `--force-with-lease=refs/heads/automation/source-drift:<recorded-sha>`, so
+     a commit landing mid-job aborts the push rather than clobbering it.
+  5. Otherwise: **do not push.** Comment on the open PR explaining that the
+     branch carries human commits and needs manual reconciliation.
+
+  Any human commit on the branch — to `keys.json` or anything else — therefore
+  stops automation dead.
 - `concurrency: {group: source-drift, cancel-in-progress: false}` so two runs
   cannot race.
 - **Feed validation before writing:** top-level `vulnerabilities` must be a
@@ -760,15 +924,31 @@ as a **warning**, not a failure, so an upstream removal never breaks the build.
 - A sudden drop of more than 10% in key count aborts as a suspected truncated
   feed.
 
-**Token.** PRs opened with the default `GITHUB_TOKEN` do **not** trigger
-`on: pull_request` workflows, so `validate.yml` would not run on a drift PR —
-it would look green while being unverified. Two options; this needs your
-decision (see Open questions):
+**Token: `GITHUB_TOKEN`, decided.** No PAT.
 
-1. A PAT in secrets (`NOMOS_BOT_TOKEN`) so the PR triggers normal checks.
-2. Keep `GITHUB_TOKEN` and have the drift job itself run `validate.py` and
-   `build_index.py` before opening the PR, accepting that the PR shows no
-   check runs.
+A correction to the earlier draft, which asserted that `GITHUB_TOKEN`-created
+PRs produce "no check runs". That is no longer accurate as a universal
+statement — per GitHub's current *Triggering a workflow* documentation, PRs
+created or updated with `GITHUB_TOKEN` can produce **approval-required**
+workflow runs rather than none at all. The recursive-trigger suppression that
+motivated the old advice has explicit exceptions, and `workflow_dispatch` and
+`repository_dispatch` are among them.
+
+The design therefore is:
+
+1. The drift job runs the **complete** suite itself before touching the PR —
+   `ruff`, `mypy --strict tools`, `pytest`, `tools/validate.py`, and a full
+   `build_index.py` including the API surface. A failure means no push and no
+   PR.
+2. After updating the branch, the job **dispatches `validate.yml` via
+   `workflow_dispatch` against `automation/source-drift`**, so validation is a
+   visible workflow run attached to the branch rather than a buried job log.
+   `workflow_dispatch` is an exception to recursive-trigger suppression, so
+   this fires reliably. `validate.yml` gains a `workflow_dispatch:` trigger.
+3. If fully unattended PR-triggered checks are wanted later, the escalation is
+   a **narrowly scoped GitHub App installation token** — not a personal PAT.
+   An app token is scoped to the repository, has no human owner to offboard,
+   and rotates automatically.
 
 ### D14. Build outputs and reproducibility
 
@@ -807,12 +987,17 @@ refuses to delete a directory containing files it did not produce, since
 
 - Content hashes are **sha256 over each output file's exact bytes as written**,
   full 64 hex chars (not truncated — this is integrity, not addressing).
-- **`generated_at` is excluded from every hashed file.** This is why the bundle
-  does not carry it: a self-timestamping bundle would change hash on every
-  build and make "nothing changed" undetectable. The manifest is not hashed by
+- **No hashed file contains volatile metadata.** Neither `generated_at` nor
+  `commit` appears in the bundle, in any per-key file, or in
+  `tombstones.json`. Both live only here, and `manifest.json` is not hashed by
   itself.
-- Consequence: identical tracked inputs produce byte-identical bundle and
-  per-key files, and the manifest's hashes are stable across rebuilds.
+- This is load-bearing, not tidiness. With `commit` embedded in every API file,
+  an unrelated README commit would change every content hash while no mapping
+  data had changed — the manifest would report a full-scale change on every
+  deploy and consumers would re-download everything for nothing.
+- Consequence: identical tracked *data* produces byte-identical bundle,
+  per-key, and tombstone files regardless of which commit deployed them, and a
+  changed hash means the data genuinely changed.
 
 **Deterministic ordering.**
 
@@ -858,7 +1043,14 @@ publish-index.yml ──► gh-pages
 
 **Hashing and normalisation (D3)** — the six fixed test vectors, including the
 whitespace vector that must equal row 1 and the `IOS Software` / `IOS software`
-pair that must differ. A synthetic collision fixture asserts the build fails.
+pair that must differ. Length-prefixing: `("ab","c")` and `("a","bc")` hash
+differently. C0/C1 control characters in a key part are rejected. A snapshot
+containing two verbatim keys that normalise identically is rejected; separately,
+a synthetic hash collision fails the build.
+
+**Normalised alias uniqueness (D4)** — two `cisa_kev` product aliases under one
+vendor differing only in whitespace are rejected; the same values under
+different vendors are accepted; a non-eligible source (`nvd`) is unaffected.
 
 **Exact resolution (D4)** — resolves via a `cisa_kev` alias; does **not**
 resolve via a canonical `name`; does **not** resolve via an `nvd` alias of the
@@ -871,7 +1063,7 @@ confidence composition returns `auto` when either side is `auto`.
 `auto` records are overwritten and `curated` records are byte-identical.
 
 **State machine (D6, D7)** — every kind/cardinality rule from the D11 table,
-positive and negative; a record with empty `targets` is rejected; `unmappable`
+positive and negative; a record with empty `targets` is rejected; `deferred`
 without `note` is rejected; orphan detection works on a tree that fails
 `validate.py`.
 
@@ -883,47 +1075,40 @@ both allowlisted roots; `git_status_for_paths` reports changes under
 deleted.
 
 **API contract (D9)** — all seven response shapes validate against the
-published schemas; the entry object in a per-key file is byte-identical to its
-bundle counterpart; target ordering and uniqueness hold; `product_resolved` is
-present on every non-null resolution.
+published schemas; for every key, the parsed entry in the per-key file is
+**deep-equal** to its bundle counterpart; target ordering and uniqueness hold;
+`product_resolved` is present on every non-null resolution; no bundle, per-key,
+or tombstone file contains `commit` or `generated_at`.
 
 **Candidates (D10)** — vendor-unresolved yields only `dimension: "vendor"`;
-product candidates never cross vendors; ties break deterministically across two
-runs; `docs/clients/resolve.py` reproduces build-time candidates over a fixture.
+product candidates never cross vendors; a canonical `name` can produce a
+candidate but never an exact resolution; a target scored via two strings
+reports the maximum once, with `matched_on`/`matched_value`; a raw score of
+69.5 is excluded by the float threshold; ties break deterministically across
+two runs; `docs/clients/resolve.py` reproduces build-time candidates over a
+fixture.
 
 **Tombstones (D12)** — chaining is rejected; a zero-target tombstone without a
-note is rejected.
+note is rejected; `removed_on` must be a valid date; slug and `vendor_id`/
+`product_id` must agree; a tombstone file outside the directory allowlist is
+rejected.
 
 **Drift (D13)** — added, removed, and renamed keys each produce the documented
 outcome; a removed key with a curated record yields a `stale` warning and no
-deletion; a malformed feed writes nothing; a >10% key drop aborts.
+deletion; a malformed feed writes nothing; a >10% key drop aborts. Branch
+safety: a branch carrying a human commit — including one touching only
+`keys.json` — stops the push and comments; a remote head that moved mid-job
+fails the `--force-with-lease` rather than clobbering.
 
-**Build (D14)** — two consecutive builds from identical inputs produce
-byte-identical bundle and per-key files; deleting a product removes its entry
-file rather than leaving it stale; omitting `--api-output-dir` writes no API
-files.
+**Build (D14)** — two builds from identical data at **different commits**
+produce byte-identical bundle, per-key, and tombstone files, and identical
+manifest content hashes; only the manifest's own `commit`/`generated_at`
+differ. Deleting a product removes its entry file rather than leaving it stale;
+omitting `--api-output-dir` writes no API files.
 
 **Existing suite** — `ruff`, `mypy --strict tools`, `pytest`, and
 `tools/validate.py` stay green, including the `data/examples/` freshness check,
 which needs regenerating.
-
-## Open questions
-
-Two decisions need your input rather than my default:
-
-1. **Drift PR token (D13).** A PAT (`NOMOS_BOT_TOKEN`) lets drift PRs run the
-   normal checks but requires you to create and rotate a secret. The default
-   `GITHUB_TOKEN` needs no setup but produces PRs with no check runs, verified
-   only by the drift job itself. I lean toward the PAT, because a data PR that
-   silently skips `validate.py` is the kind of gap this spec exists to close —
-   but it is your credential to manage.
-
-2. **Unsupported from-empty rebuild (D5).** This reverses the working practice
-   of `c41254096`. If you still want a reproducible from-scratch rebuild, the
-   resolution layer must carry enough data to recreate targets (a `name` on
-   every target), which duplicates canonical data and adds a consistency
-   burden. I recommend accepting incremental-only, but it is a real change to
-   how you have been operating.
 
 ## Risks
 
@@ -950,21 +1135,33 @@ state. Each step is independently green.
 2. **Promote the review UI** to `tools/review_ui/`, including the `resolve()`
    path-guard fix. Still vendor-tab only. The security fix ships early and
    alone.
-3. **Snapshot** — add `keys.json` plus its generator and validation. Nothing
-   consumes it yet, so it cannot break a publish.
-4. **Schema and validation** — `resolutions.schema.json`, referential
-   integrity, normalised-key uniqueness, directory structure. `resolutions.yaml`
-   is still empty, so all checks pass trivially.
-5. **Importer consumes curated records (D5)** plus the phantom-recreation
+3. **Normalised alias uniqueness (D4)** — add
+   `validate_alias_uniqueness_normalized`. Verified to pass on current data, so
+   it lands as a pure guard with no migration. Sequenced before the snapshot
+   because the snapshot's uniqueness guarantee depends on it.
+4. **Snapshot** — add `keys.json`, its generator, normalisation-collision
+   rejection, and control-character rejection. Nothing consumes it yet, so it
+   cannot break a publish.
+5. **Schema and validation** — `resolutions.schema.json`, referential
+   integrity, normalised-key uniqueness, directory structure allowlist.
+   `resolutions.yaml` is still empty, so all checks pass trivially.
+6. **Importer consumes curated records (D5)** plus the phantom-recreation
    regression test — *before* any curated record exists, so the guard is proven
    before it is relied upon.
-6. **Review UI resolutions tab**; curate the ~150-record backlog. Data-only;
+7. **Review UI resolutions tab**; curate the ~150-record backlog. Data-only;
    nothing is published yet.
-7. **API surface** — `--api-output-dir`, cleaning, manifest, published schemas.
+8. **API surface** — `--api-output-dir`, cleaning, manifest, published schemas.
    First consumer-visible change, and by now the data behind it is curated.
-8. **Phantom removal + tombstones**, once resolutions cover every affected key.
-   This is the breaking step and it comes last.
-9. **Drift workflow**, after the shape it maintains is stable.
+9. **Tombstone plumbing** — `data/tombstones.yaml`, its schema, the CODEOWNERS
+   entry, the directory-allowlist update, and `build_index.py` consumption.
+   Lands **empty**, so the mechanism is proven and published before it carries
+   a single record.
+10. **Phantom removal**, once resolutions cover every affected key and the
+    tombstone file is already live. This is the breaking step.
+11. **Drift workflow**, plus a `workflow_dispatch:` trigger on `validate.yml`,
+    after the shape it maintains is stable.
 
-Steps 1–6 are invisible to consumers. The break is confined to step 8, after
-the backlog is curated and the guard in step 5 is proven.
+Steps 1–7 are invisible to consumers. Splitting tombstone *plumbing* (9) from
+tombstone *use* (10) means the deletion PR adds only data to a mechanism
+already deployed and tested — no step ships an entry whose tombstone cannot yet
+be published.
