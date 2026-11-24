@@ -9,6 +9,11 @@
       "source": "cisa_kev",
       "value": "F5",
       "confidence": "auto"
+    },
+    {
+      "source": "nvd",
+      "value": "f5",
+      "confidence": "curated"
     }
   ]
 }
