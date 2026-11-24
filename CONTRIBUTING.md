@@ -38,7 +38,7 @@
    `osv` alias for `purl`).
 
 4. A vendor and its product MAY share the same `(source, value)` pair — e.g.
-   NGINX's vendor and product both legitimately claim `nvd: nginx`, since
+   NumPy's vendor and product both legitimately claim `nvd: numpy`, since
    CPE's vendor and product fields are separate assertions even when the
    strings match. The global uniqueness rule is scoped per canonical type: two
    vendors (or two products) can never share a `(source, value)` pair, but a
@@ -211,3 +211,33 @@ and plenty of genuinely distinct vendors/products have similar names
 (`ubuntu` vs `ubuntu-core`, `postgresql` vs `postgres-operator`). If
 you're confident yours is distinct, say so in the PR description and
 proceed; a maintainer will weigh in if there's real ambiguity.
+
+## Releases
+
+Releases are cut by a maintainer from the Actions tab: run the **Release**
+workflow on `main`. It:
+
+1. refuses to run on any branch other than `main`;
+2. creates nothing unless the `Validate` workflow succeeded on the exact
+   commit at the head of `main`;
+3. creates an annotated tag `vYYYY.MM.DD` (UTC) on that commit, or
+   `vYYYY.MM.DD.N` if the day's tag already exists;
+4. publishes a GitHub Release for the tag. The repository zipball is the
+   artifact; no extra assets are attached.
+
+The release notes are generated: vendor, product and source counts from
+`data/examples/stats.json`, the vendor/product files added, modified and
+removed since the previous tag, whether `data/taxonomy/` or `data/schema/`
+changed, and whether `tools/`, `pyproject.toml` or `uv.lock` changed.
+Consumers may pin the validation tooling separately from the data, so a PR
+that touches those files should say so in its description; it will be
+called out in the next release's notes.
+
+A release guarantees what `Validate` checks, that ids are stable, and that
+`data/examples/` matches the data (see "Releases" in `README.md`), so keep
+`data/examples/` regenerated in every PR that changes `data/vendors/`:
+
+```bash
+uv run tools/build_index.py --output-dir data/examples \
+  --generated-at "$(python3 -c "import json;print(json.load(open('data/examples/aliases.json'))['generated_at'])")"
+```

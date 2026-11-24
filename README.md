@@ -66,6 +66,31 @@ a Pages deploy.
 The [search site](https://b-mx.github.io/Nomos/search.html) lets you check
 whether a vendor/product is already mapped before opening a PR.
 
+## Releases
+
+`main` moves with every merge. To pin a stable snapshot, use a release:
+dated, annotated tags named `vYYYY.MM.DD` (with a `.N` suffix, e.g.
+`vYYYY.MM.DD.1`, for a second release on the same day). Each release
+guarantees that:
+
+- the tagged commit passed the `Validate` workflow (schema, id/path,
+  alias-uniqueness, tag and services checks, plus the test suite);
+- canonical vendor and product `id`s are stable: ids are immutable once
+  merged, and downstream consumers can key off them;
+- `data/examples/` matches `data/vendors/` at that commit, so its
+  `aliases.json`, `by-source/`, `entries/` and `stats.json` can be used
+  as-is.
+
+The newest release is always at
+`GET https://api.github.com/repos/b-mx/Nomos/releases/latest`; its
+`tag_name` is the tag to pin and its `zipball_url` is the release artifact
+(the repository at that tag). Release notes list vendor, product and source
+counts and summarize the data changes since the previous release.
+
+If you pin the validation tooling separately from the data, check the
+"Validation tooling" section of each release's notes: it says whether
+`tools/`, `pyproject.toml` or `uv.lock` changed since the previous release.
+
 ## Quickstart: adding an entry
 
 See `CONTRIBUTING.md` for the full walkthrough. Short version:
