@@ -1,0 +1,131 @@
+name: Release
+
+# Manually cut a dated data release (vYYYY.MM.DD, or vYYYY.MM.DD.N if that
+# tag already exists) of the current main head. Nothing is created unless
+# the Validate workflow succeeded on that exact commit.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  check-validate:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+    steps:
+      - name: Require a successful Validate run on this commit
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          SHA: ${{ github.sha }}
+        run: |
+          count=$(gh api "repos/$REPO/actions/workflows/validate.yml/runs?head_sha=$SHA&status=success&per_page=1" --jq .total_count)
+          if [ "$count" -eq 0 ]; then
+            echo "::error::No successful Validate run found for $SHA; refusing to release."
+            exit 1
+          fi
+          echo "Validate succeeded on $SHA"
+
+  release:
+    needs: check-validate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - name: Pick the tag name
+        id: tag
+        run: |
+          base="v$(date -u +%Y.%m.%d)"
+          tag="$base"
+          n=0
+          while git ls-remote --exit-code --tags origin "refs/tags/$tag" >/dev/null; do
+            n=$((n + 1))
+            tag="$base.$n"
+          done
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+          echo "Releasing as $tag"
+      - name: Write release notes
+        env:
+          SHA: ${{ github.sha }}
+          TAG: ${{ steps.tag.outputs.tag }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          prev=$(git describe --tags --abbrev=0 --match 'v[0-9]*' "$SHA" 2>/dev/null || true)
+          count() { jq -r "$1" data/examples/stats.json; }
+          delta() {
+            [ -n "$prev" ] || return 0
+            old=$(git show "$prev:data/examples/stats.json" 2>/dev/null | jq -r "$1") || return 0
+            printf ' (%+d)' "$(( $(count "$1") - old ))"
+          }
+          {
+            echo "## Coverage"
+            echo
+            echo "- Vendors: $(count .vendor_count)$(delta .vendor_count)"
+            echo "- Products: $(count .product_count)$(delta .product_count)"
+            echo "- Sources: $(count '.sources | length') ($(count '.sources | join(", ")'))"
+            echo
+            if [ -z "$prev" ]; then
+              echo "## Data changes"
+              echo
+              echo "First release: there is no previous tag to compare against."
+              echo
+              echo "## Validation tooling"
+              echo
+              echo "First release: \`tools/\`, \`pyproject.toml\` and \`uv.lock\` have no previous release to differ from."
+            else
+              echo "## Data changes since $prev"
+              echo
+              git diff --no-renames --name-status "$prev" "$SHA" -- data/vendors | awk '
+                $2 ~ /\/products\/[^\/]+\.yaml$/ { p[$1]++; next }
+                $2 ~ /\/vendor\.yaml$/ { v[$1]++ }
+                END {
+                  printf "- Vendors: %d added, %d modified, %d removed\n", v["A"], v["M"], v["D"]
+                  printf "- Products: %d added, %d modified, %d removed\n", p["A"], p["M"], p["D"]
+                }'
+              for dir in data/taxonomy data/schema; do
+                if git diff --quiet "$prev" "$SHA" -- "$dir"; then
+                  echo "- \`$dir/\`: unchanged"
+                else
+                  echo "- \`$dir/\`: **changed**"
+                fi
+              done
+              echo
+              echo "## Validation tooling"
+              echo
+              tooling=$(git diff --name-only "$prev" "$SHA" -- tools pyproject.toml uv.lock)
+              if [ -z "$tooling" ]; then
+                echo "Unchanged since $prev: \`tools/\`, \`pyproject.toml\` and \`uv.lock\` are identical."
+              else
+                echo "**Changed since $prev.** Consumers pinning the validation tooling should review these files:"
+                echo
+                while read -r f; do echo "- \`$f\`"; done <<< "$tooling"
+              fi
+              echo
+              echo "Full diff: https://github.com/$REPO/compare/$prev...$TAG"
+            fi
+          } > "$RUNNER_TEMP/notes.md"
+          cat "$RUNNER_TEMP/notes.md"
+      - name: Create the tag and the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SHA: ${{ github.sha }}
+          TAG: ${{ steps.tag.outputs.tag }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag -a "$TAG" "$SHA" -m "Nomos data release $TAG"
+          git push origin "refs/tags/$TAG"
+          gh release create "$TAG" --verify-tag --latest --title "$TAG" --notes-file "$RUNNER_TEMP/notes.md"
