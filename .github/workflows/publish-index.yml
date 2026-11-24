@@ -7,6 +7,13 @@ on:
 permissions:
   contents: read
 
+# Merges a few minutes apart start overlapping runs that race to push
+# gh-pages; queue them instead. GitHub keeps only the newest pending run,
+# so the latest main is what gets deployed.
+concurrency:
+  group: publish-index
+  cancel-in-progress: false
+
 jobs:
   publish:
     runs-on: ubuntu-latest
