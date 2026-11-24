@@ -27,9 +27,9 @@ jobs:
           REPO: ${{ github.repository }}
           SHA: ${{ github.sha }}
         run: |
-          count=$(gh api "repos/$REPO/actions/workflows/validate.yml/runs?head_sha=$SHA&status=success&per_page=1" --jq .total_count)
-          if [ "$count" -eq 0 ]; then
-            echo "::error::No successful Validate run found for $SHA; refusing to release."
+          count=$(gh api "repos/$REPO/actions/workflows/validate.yml/runs?head_sha=$SHA&status=success&event=push&branch=main&per_page=1" --jq .total_count)
+          if ! [ "$count" -ge 1 ] 2>/dev/null; then
+            echo "::error::No successful Validate push run on main found for $SHA (got '$count'); refusing to release."
             exit 1
           fi
           echo "Validate succeeded on $SHA"
@@ -63,6 +63,7 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           set -euo pipefail
+          git fetch --tags --force origin
           prev=$(git describe --tags --abbrev=0 --match 'v[0-9]*' "$SHA" 2>/dev/null || true)
           count() { jq -r "$1" data/examples/stats.json; }
           delta() {
