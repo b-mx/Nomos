@@ -1,0 +1,19 @@
+id: widget
+vendor_id: acme
+name: Acme Widget
+type: software
+tags: [webserver]
+domain: xn--bcher-kva.example
+aliases:
+  - source: banner
+    value: acme-widget/*
+    confidence: curated
+  - source: banner
+    value: acme-widget
+    confidence: curated
+  - source: banner
+    value: widgetd_*
+    confidence: curated
+  - source: name
+    value: Acme Widget Server
+    confidence: curated

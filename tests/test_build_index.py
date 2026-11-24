@@ -62,3 +62,11 @@ def test_write_index_writes_stats_file(tmp_path):
     write_index(tmp_path, generated_at="2026-01-01T00:00:00Z", vendors_dir=VALID_TREE)
     stats = json.loads((tmp_path / "stats.json").read_text())
     assert stats == {"vendor_count": 1, "product_count": 1, "sources": ["nvd"]}
+
+
+def test_domain_is_emitted_only_when_set():
+    from tools.build_index import build_entries
+
+    vendor, product = build_entries(VALID_TREE)
+    assert vendor["domain"] == "example.com"
+    assert "domain" not in product
