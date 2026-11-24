@@ -387727,6 +387727,12 @@
           "source": "nvd",
           "value": "numpy",
           "confidence": "auto"
+        },
+        {
+          "source": "osv",
+          "value": "numpy",
+          "ecosystem": "PyPI",
+          "confidence": "curated"
         }
       ]
     },
