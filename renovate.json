@@ -13,31 +13,9 @@
   "prConcurrentLimit": 5,
   "packageRules": [
     {
-      "description": "Group Python non-major updates",
-      "matchManagers": [
-        "pep621"
-      ],
-      "matchUpdateTypes": [
-        "minor",
-        "patch"
-      ],
-      "groupName": "Python non-major updates"
-    },
-    {
-      "description": "Group site tooling non-major updates",
-      "matchManagers": [
-        "npm"
-      ],
-      "matchUpdateTypes": [
-        "minor",
-        "patch"
-      ],
-      "groupName": "Site tooling non-major updates"
-    },
-    {
-      "description": "Group GitHub Actions updates",
-      "matchManagers": [
-        "github-actions"
+      "description": "Group every non-major update (Python, site tooling, GitHub Actions) into a single PR",
+      "matchPackageNames": [
+        "*"
       ],
       "matchUpdateTypes": [
         "minor",
@@ -45,7 +23,8 @@
         "digest",
         "pinDigest"
       ],
-      "groupName": "GitHub Actions updates"
+      "groupName": "all non-major dependencies",
+      "groupSlug": "all-non-major"
     },
     {
       "description": "Require dashboard approval for major updates",
