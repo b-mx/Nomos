@@ -1,0 +1,7 @@
+id: acme
+name: Acme Corp
+domain: https://example.com/
+aliases:
+  - source: banner
+    value: acme/*
+    confidence: curated

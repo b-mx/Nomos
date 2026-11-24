@@ -1,0 +1,13 @@
+id: widget
+vendor_id: acme
+name: Acme Widget
+type: software
+tags: [webserver]
+domain: Example.COM
+aliases:
+  - source: banner
+    value: acme-widget/2.4.1
+    confidence: curated
+  - source: name
+    value: "Acme  Widget "
+    confidence: curated

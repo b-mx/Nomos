@@ -5,6 +5,7 @@ type: library
 tags:
 - framework
 cpe: cpe:2.3:a:numpy:numpy:*:*:*:*:*:*:*:*
+purl: pkg:pypi/numpy
 aliases:
 - source: endoflife
   value: numpy
@@ -12,3 +13,7 @@ aliases:
 - source: nvd
   value: numpy
   confidence: auto
+- source: osv
+  value: numpy
+  ecosystem: PyPI
+  confidence: curated

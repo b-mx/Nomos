@@ -22,6 +22,10 @@ from tools._common import (
 
 SCHEMA_DIR = REPO_ROOT / "data" / "schema"
 SERVICES_ALLOWED_TYPES = {"software", "appliance", "os"}
+# Product alias sources observed without any vendor context (a service banner,
+# a product name as commonly written): a value must point at one product, so
+# these are unique across all vendors, not just within one.
+GLOBAL_PRODUCT_ALIAS_SOURCES = {"banner", "name"}
 
 
 def _rel(path: Path) -> str:
@@ -94,7 +98,9 @@ def validate_alias_uniqueness(
     *within their vendor* — CPE's own uniqueness guarantee is the
     (vendor, product) pair, not the product name alone, so the same
     product-name fragment (e.g. "chat", "server") legitimately recurs
-    across different, unrelated real vendors at NVD's full scale."""
+    across different, unrelated real vendors at NVD's full scale. The
+    exception is GLOBAL_PRODUCT_ALIAS_SOURCES, which carry no vendor context
+    and so must be unique across all products."""
     errors: list[str] = []
     seen_vendor: dict[tuple[str, str], Path] = {}
     for vendor_entry in vendors:
@@ -111,9 +117,10 @@ def validate_alias_uniqueness(
     seen_product: dict[tuple[str, str, str], Path] = {}
     for product_entry in products:
         for alias in product_entry.data.get("aliases", []):
+            source = alias.get("source", "")
             product_key = (
-                product_entry.vendor_id,
-                alias.get("source", ""),
+                "*" if source in GLOBAL_PRODUCT_ALIAS_SOURCES else product_entry.vendor_id,
+                source,
                 alias.get("value", ""),
             )
             if product_key in seen_product:
