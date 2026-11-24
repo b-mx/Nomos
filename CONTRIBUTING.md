@@ -37,7 +37,7 @@
    `osv` alias for `purl`).
 
 4. A vendor and its product MAY share the same `(source, value)` pair — e.g.
-   NGINX's vendor and product both legitimately claim `nvd: nginx`, since
+   NumPy's vendor and product both legitimately claim `nvd: numpy`, since
    CPE's vendor and product fields are separate assertions even when the
    strings match. The global uniqueness rule is scoped per canonical type: two
    vendors (or two products) can never share a `(source, value)` pair, but a

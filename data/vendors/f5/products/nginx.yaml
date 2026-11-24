@@ -1,0 +1,22 @@
+id: nginx
+vendor_id: f5
+name: NGINX
+type: software
+tags:
+- webserver
+- load-balancer
+icon: simple-icons:nginx
+cpe: cpe:2.3:a:f5:nginx:*:*:*:*:*:*:*:*
+aliases:
+- source: nvd
+  value: nginx
+  confidence: curated
+services:
+- protocol: tcp
+  port: 80
+  name: http
+  default: true
+- protocol: tcp
+  port: 443
+  name: https
+  default: true

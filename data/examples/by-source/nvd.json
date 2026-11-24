@@ -3213,6 +3213,17 @@
   },
   {
     "canonical_type": "vendor",
+    "vendor_id": "f5",
+    "product_id": null,
+    "name": "F5",
+    "alias": {
+      "source": "nvd",
+      "value": "f5",
+      "confidence": "curated"
+    }
+  },
+  {
+    "canonical_type": "vendor",
     "vendor_id": "fabian",
     "product_id": null,
     "name": "Fabian",
@@ -77459,6 +77470,17 @@
       "source": "nvd",
       "value": "xfence",
       "confidence": "auto"
+    }
+  },
+  {
+    "canonical_type": "product",
+    "vendor_id": "f5",
+    "product_id": "nginx",
+    "name": "NGINX",
+    "alias": {
+      "source": "nvd",
+      "value": "nginx",
+      "confidence": "curated"
     }
   },
   {

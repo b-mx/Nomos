@@ -5794,6 +5794,11 @@
           "source": "cisa_kev",
           "value": "F5",
           "confidence": "auto"
+        },
+        {
+          "source": "nvd",
+          "value": "f5",
+          "confidence": "curated"
         }
       ]
     },
@@ -134457,6 +134462,40 @@
           "source": "cisa_kev",
           "value": "BIG-IQ Centralized Management",
           "confidence": "auto"
+        }
+      ]
+    },
+    {
+      "canonical_type": "product",
+      "slug": "f5--nginx",
+      "vendor_id": "f5",
+      "product_id": "nginx",
+      "name": "NGINX",
+      "type": "software",
+      "tags": [
+        "webserver",
+        "load-balancer"
+      ],
+      "icon": "simple-icons:nginx",
+      "services": [
+        {
+          "protocol": "tcp",
+          "port": 80,
+          "name": "http",
+          "default": true
+        },
+        {
+          "protocol": "tcp",
+          "port": 443,
+          "name": "https",
+          "default": true
+        }
+      ],
+      "aliases": [
+        {
+          "source": "nvd",
+          "value": "nginx",
+          "confidence": "curated"
         }
       ]
     },
