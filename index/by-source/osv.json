@@ -1,0 +1,14 @@
+[
+  {
+    "canonical_type": "product",
+    "vendor_id": "numpy",
+    "product_id": "numpy",
+    "name": "NumPy",
+    "alias": {
+      "source": "osv",
+      "value": "numpy",
+      "ecosystem": "PyPI",
+      "confidence": "curated"
+    }
+  }
+]
