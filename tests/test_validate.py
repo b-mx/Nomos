@@ -165,6 +165,7 @@ def test_duplicate_taxonomy_tag_id_is_rejected():
         "invalid_services_on_library",
         "invalid_orphan_product",
         "invalid_stray_file",
+        "invalid_domain_and_sources",
     ],
 )
 def test_run_all_checks_catches_every_invalid_fixture(fixture_name):
@@ -275,3 +276,154 @@ def test_cpe_field_still_rejects_unescaped_colon_as_delimiter():
     }
     validator = jsonschema.Draft202012Validator(schema)
     assert len(list(validator.iter_errors(data))) == 1
+
+
+def _product(**overrides):
+    data = {
+        "id": "widget",
+        "vendor_id": "acme",
+        "name": "Acme Widget",
+        "type": "software",
+        "tags": [],
+        "aliases": [{"source": "nvd", "value": "widget", "confidence": "curated"}],
+    }
+    data.update(overrides)
+    return data
+
+
+def _schema_errors(schema_name, data):
+    import jsonschema
+
+    from tools.validate import load_schema
+
+    validator = jsonschema.Draft202012Validator(load_schema(schema_name))
+    return list(validator.iter_errors(data))
+
+
+def test_domain_and_banner_name_sources_valid_fixture():
+    from tools.validate import validate_alias_uniqueness, validate_schema_conformance
+
+    vendors_dir = FIXTURES / "valid_domain_and_sources" / "vendors"
+    vendors = iter_vendors(vendors_dir)
+    products = iter_products(vendors_dir)
+    assert validate_schema_conformance(vendors, products) == []
+    assert validate_alias_uniqueness(vendors, products) == []
+    assert run_all_checks(vendors_dir=vendors_dir) == []
+
+
+def test_domain_and_banner_name_sources_invalid_fixture():
+    from tools.validate import validate_schema_conformance
+
+    vendors_dir = FIXTURES / "invalid_domain_and_sources" / "vendors"
+    errors = validate_schema_conformance(iter_vendors(vendors_dir), iter_products(vendors_dir))
+    # vendor: bad domain, banner source not allowed on vendors;
+    # product: bad domain, versioned banner, badly spaced name.
+    assert len(errors) == 5, errors
+    assert sum("vendor.yaml" in e for e in errors) == 2
+    assert sum("widget.yaml" in e for e in errors) == 3
+
+
+@pytest.mark.parametrize(
+    "domain",
+    ["nginx.org", "example.co.uk", "xn--bcher-kva.example", "example.xn--p1ai", "a-b.io"],
+)
+def test_domain_accepts_registrable_lowercase_domains(domain):
+    assert _schema_errors("product.schema.json", _product(domain=domain)) == []
+    assert _schema_errors(
+        "vendor.schema.json", {"id": "acme", "name": "Acme", "domain": domain, "aliases": []}
+    ) == []
+
+
+@pytest.mark.parametrize(
+    "domain",
+    [
+        "https://nginx.org",
+        "nginx.org/",
+        "nginx.org/en/",
+        "nginx.org:443",
+        "NGINX.org",
+        "nginx",
+        "-nginx.org",
+        "nginx-.org",
+        "nginx..org",
+        "nginx.org.",
+        "bücher.example",
+        "user@nginx.org",
+        " nginx.org",
+        "nginx.org\n",
+    ],
+)
+def test_domain_rejects_scheme_path_port_case_and_unicode(domain):
+    assert len(_schema_errors("product.schema.json", _product(domain=domain))) == 1
+    assert len(
+        _schema_errors(
+            "vendor.schema.json", {"id": "acme", "name": "Acme", "domain": domain, "aliases": []}
+        )
+    ) == 1
+
+
+@pytest.mark.parametrize(
+    "value",
+    ["openresty/*", "openssh_*", "nginx", "microsoft-iis/*", "vsftpd *", "3proxy", "php/*"],
+)
+def test_banner_alias_accepts_normalized_values(value):
+    alias = {"source": "banner", "value": value, "confidence": "curated"}
+    assert _schema_errors("product.schema.json", _product(aliases=[alias])) == []
+
+
+@pytest.mark.parametrize(
+    "value",
+    [
+        "openresty/1.21.4.1",
+        "openssh_9.6p1",
+        "vsftpd 3.0.3",
+        "OpenSSH_*",
+        "nginx/* (ubuntu)",
+        "nginx  *",
+        " nginx/*",
+        "nginx/*\n",
+    ],
+)
+def test_banner_alias_rejects_versions_case_and_extra_text(value):
+    alias = {"source": "banner", "value": value, "confidence": "curated"}
+    assert len(_schema_errors("product.schema.json", _product(aliases=[alias]))) == 1
+
+
+@pytest.mark.parametrize("value", ["NGINX", "OpenSSH", "Microsoft Exchange Server", "Node.js"])
+def test_name_alias_accepts_names_as_commonly_written(value):
+    alias = {"source": "name", "value": value, "confidence": "curated"}
+    assert _schema_errors("product.schema.json", _product(aliases=[alias])) == []
+
+
+@pytest.mark.parametrize(
+    "value", [" NGINX", "NGINX ", "NGINX\n", "Microsoft  Exchange", "Open\tSSH"]
+)
+def test_name_alias_rejects_stray_whitespace(value):
+    alias = {"source": "name", "value": value, "confidence": "curated"}
+    assert len(_schema_errors("product.schema.json", _product(aliases=[alias]))) == 1
+
+
+@pytest.mark.parametrize("source", ["banner", "name"])
+def test_banner_and_name_sources_are_product_only(source):
+    vendor = {
+        "id": "acme",
+        "name": "Acme",
+        "aliases": [{"source": source, "value": "acme", "confidence": "curated"}],
+    }
+    assert len(_schema_errors("vendor.schema.json", vendor)) == 1
+
+
+@pytest.mark.parametrize("source", ["banner", "name"])
+def test_banner_and_name_aliases_are_unique_across_vendors(source):
+    from tools._common import ProductEntry
+    from tools.validate import validate_alias_uniqueness
+
+    alias = {"source": source, "value": "widget", "confidence": "curated"}
+    products = [
+        ProductEntry(Path("data/vendors/acme/products/widget.yaml"), {"aliases": [alias]}, "acme"),
+        ProductEntry(Path("data/vendors/zeta/products/widget.yaml"), {"aliases": [alias]}, "zeta"),
+    ]
+    errors = validate_alias_uniqueness([], products)
+    assert len(errors) == 1
+    assert "acme" in errors[0]
+    assert "zeta" in errors[0]
