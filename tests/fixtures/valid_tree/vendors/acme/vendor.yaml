@@ -1,5 +1,6 @@
 id: acme
 name: Acme Corp
+domain: example.com
 cpe: "cpe:2.3:*:acme:*:*:*:*:*:*:*:*:*"
 aliases:
   - source: nvd

@@ -16,6 +16,12 @@
       "uniqueItems": true
     },
     "icon": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*:[a-z0-9]+(-[a-z0-9]+)*$" },
+    "domain": {
+      "type": "string",
+      "maxLength": 253,
+      "pattern": "^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\\.)+(?:[a-z]{2,63}|xn--[a-z0-9-]{1,59})$",
+      "not": { "pattern": "\\n" }
+    },
     "cpe": {
       "type": "string",
       "pattern": "^cpe:2\\.3:[aoh]:(?:[^:\\\\]|\\\\.)+:(?:[^:\\\\]|\\\\.)+:\\*(:\\*){7}$"
@@ -49,11 +55,30 @@
       "required": ["source", "value", "confidence"],
       "additionalProperties": false,
       "properties": {
-        "source": { "enum": ["nvd", "cisa_kev", "osv", "endoflife"] },
+        "source": { "enum": ["nvd", "cisa_kev", "osv", "endoflife", "banner", "name"] },
         "value": { "type": "string", "minLength": 1 },
         "ecosystem": { "type": "string", "minLength": 1 },
         "confidence": { "enum": ["curated", "auto"] }
-      }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "source": { "const": "banner" } }, "required": ["source"] },
+          "then": {
+            "properties": {
+              "value": {
+                "pattern": "^[a-z0-9*][a-z0-9._+/*-]*(?: [a-z0-9._+/*-]+)*$",
+                "not": { "pattern": "[/_ ][0-9]|\\n" }
+              }
+            }
+          }
+        },
+        {
+          "if": { "properties": { "source": { "const": "name" } }, "required": ["source"] },
+          "then": {
+            "properties": { "value": { "pattern": "^\\S+(?: \\S+)*$", "not": { "pattern": "\\n" } } }
+          }
+        }
+      ]
     }
   }
 }

@@ -15,6 +15,12 @@ from typing import Any
 from tools._common import REPO_ROOT, iter_products, iter_vendors
 
 
+def _domain(data: dict[str, Any]) -> dict[str, str]:
+    # Emitted only when set (unlike `icon`, which is always present, possibly
+    # null), so entries without a domain keep their existing shape.
+    return {"domain": data["domain"]} if "domain" in data else {}
+
+
 def build_entries(vendors_dir: Path = REPO_ROOT / "data" / "vendors") -> list[dict[str, Any]]:
     entries: list[dict[str, Any]] = []
     for vendor in iter_vendors(vendors_dir):
@@ -25,6 +31,7 @@ def build_entries(vendors_dir: Path = REPO_ROOT / "data" / "vendors") -> list[di
                 "vendor_id": vendor.data["id"],
                 "name": vendor.data["name"],
                 "icon": vendor.data.get("icon"),
+                **_domain(vendor.data),
                 "aliases": vendor.data.get("aliases", []),
             }
         )
@@ -39,6 +46,7 @@ def build_entries(vendors_dir: Path = REPO_ROOT / "data" / "vendors") -> list[di
                 "type": product.data["type"],
                 "tags": product.data.get("tags", []),
                 "icon": product.data.get("icon"),
+                **_domain(product.data),
                 "services": product.data.get("services", []),
                 "aliases": product.data.get("aliases", []),
             }

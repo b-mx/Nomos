@@ -1,0 +1,7 @@
+id: acme
+name: Acme Corp
+domain: example.com
+aliases:
+  - source: nvd
+    value: acme
+    confidence: curated
