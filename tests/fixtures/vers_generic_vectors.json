@@ -30,7 +30,29 @@
     { "range": "vers:generic/>=8.0.0", "contains": ["8.0.0", "8.0.1"], "excludes": ["8.0-rc1"] },
     { "range": "vers:generic/<7.4.0", "contains": ["7.2.4"], "excludes": ["7.4.0"] },
     { "range": "vers:generic/8.0", "contains": ["8.0", "8.0.0"], "excludes": ["8.0.1", "8.0-rc1"] },
+    { "range": "vers:generic/<1|>=2|<3", "contains": ["0.5", "2.5"], "excludes": ["1.5", "3"] },
+    { "range": "vers:generic/1|2|>=3|<4", "contains": ["1", "2", "3.5"], "excludes": ["1.5", "4"] },
+    { "range": "vers:generic/>=1|!=2|<3", "contains": ["1", "2.5"], "excludes": ["2", "3"] },
     { "range": "vers:generic/!=8.0", "contains": ["8.0.1", "7.9"], "excludes": ["8.0", "8.0.0"] }
   ],
-  "invalidRanges": ["vers:generic/=8.0", "vers:generic/", "vers:generic/>=", "vers:generic/>=latest"]
+  "invalidRanges": [
+    "vers:generic/=8.0",
+    "vers:generic/",
+    "vers:generic/>=",
+    "vers:generic/>=latest",
+    "vers:generic/*",
+    "vers:generic/|>=1",
+    "vers:generic/>=1|",
+    "vers:generic/>=1||<2",
+    "vers:generic/<2|>=1",
+    "vers:generic/>=2|<1",
+    "vers:generic/1|1",
+    "vers:generic/>=1|<=1",
+    "vers:generic/1|1.0",
+    "vers:generic/>=1|>=2",
+    "vers:generic/<1|<2",
+    "vers:generic/>=1|2",
+    "vers:generic/1|<2",
+    "vers:generic/>=1|!=2|>=3"
+  ]
 }
