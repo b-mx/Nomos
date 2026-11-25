@@ -131,6 +131,87 @@ Hostnames, IP addresses, internal product or project names, customer
 names, and banners customized for one organization never belong in
 Nomos.
 
+## Licences
+
+Products may carry an optional `licenses` list: which licence applies to which
+versions of the product. Each item has:
+
+| Field | Meaning |
+|-------|---------|
+| `spdx` | Required. An SPDX licence expression. |
+| `versions` | Optional. The versions it covers, as a `vers:generic/` range. |
+| `evidence` | Required. An `https://` link to a public source (below). |
+| `confidence` | Optional, `curated` (default) or `auto`, as for aliases. |
+
+```yaml
+licenses:
+  - spdx: BSD-3-Clause
+    versions: vers:generic/<7.4.0
+    evidence: https://github.com/redis/redis/blob/7.2.4/COPYING
+  - spdx: LicenseRef-RSALv2 OR SSPL-1.0
+    versions: vers:generic/>=7.4.0|<8.0.0
+    evidence: https://redis.io/blog/redis-adopts-dual-source-available-licensing/
+  - spdx: AGPL-3.0-only OR LicenseRef-RSALv2 OR SSPL-1.0
+    versions: vers:generic/>=8.0.0
+    evidence: https://redis.io/blog/agplv3/
+```
+
+**`spdx`.** Operators are `AND`, `OR`, `WITH` (uppercase) and parentheses.
+Every licence id is on the [SPDX licence list](https://spdx.org/licenses/), spelled
+as listed (write `GPL-2.0-or-later`, not `GPL-2.0+`), or is a custom
+`LicenseRef-[A-Za-z0-9.-]+` for a licence that is not on the list, such as
+`LicenseRef-RSALv2`. A bare `RSALv2` is rejected. Every exception after `WITH` is on the
+SPDX exceptions list; a `LicenseRef-` cannot be an exception.
+
+**`versions`.** `vers:generic/` followed by constraints joined by `|`. A
+constraint is `<`, `<=`, `>`, `>=` or `!=` followed by a version, or a bare
+version meaning equality (`vers:generic/8.0`; `vers:generic/=8.0` is refused).
+Other schemes (`vers:pypi/...`) and `*` are refused; leave `versions` out to
+cover every version. As the [vers specification](https://github.com/package-url/vers-spec)
+requires, constraints are in ascending version order, each version appears once,
+and the `<`/`<=` and `>`/`>=` constraints alternate (equality and `!=` aside).
+
+Periods of one product must not overlap. At most one period may leave out
+`versions`, and only when it is the product's only licence.
+
+**Evidence.** An `https://` link to a public source for that licence *and
+those versions*: the upstream LICENSE or COPYING file at a tag, or the project's
+licensing announcement. Never guess a licence or a version boundary; if you
+cannot cite a source, leave the period out.
+
+### How Nomos compares `vers:generic` versions
+
+The vers specification leaves the ordering of `generic` versions unspecified.
+This is Nomos's rule, implemented in `tools/vers.py` and pinned by
+`tests/fixtures/vers_generic_vectors.json`:
+
+1. **Not a version:** the empty string; anything with a character outside
+   `A-Za-z0-9.~+-` (so no whitespace, `*`, `_`, or the vers delimiters); a
+   dangling or doubled dot (`1.`, `1..2`); a trailing separator (`1.0-`);
+   an `x`/`X` component (`2.2.X`); a range (`2.2.X - 2.3.X`); anything that
+   does not start with a digit (`latest`).
+2. **Release and qualifier.** The release is the leading run of dot-separated
+   numbers; everything after it is the qualifier. The qualifier starts at the
+   first letter, or at `-`, `~` or `+`, or at a `.` followed by a letter.
+3. **Releases** compare number by number; a missing number counts as 0, so
+   trailing zeros never change an answer (`1` = `1.0` = `1.0.0`, `1.01` = `1.1`).
+   Qualifiers are only compared when the releases are equal.
+4. **Qualifier kinds:** pre-release < none < post-release. A pre-release is,
+   after an optional `-`, `~` or `.`, one of `dev`, `alpha`, `beta`, `pre`,
+   `preview`, `rc` (optionally followed by digits and dots), or the single letter
+   `a` or `b` followed by a digit; case-insensitive. They order `dev` < `alpha`/`a`
+   < `beta`/`b` < `pre`/`preview`/`rc`, then by number (`rc` < `rc1`).
+   Anything else is a post-release, including a bare letter with no digit
+   (`1.1.1b`).
+5. **Two post-releases** compare as runs of digits and letters, separators
+   ignored: digits numerically, letters case-insensitively, a letter run
+   before a digit run at the same position, a prefix first
+   (`2.4.58-1ubuntu2` < `2.4.58-2` < `2.4.58-10`; `1p1` < `1-1`).
+
+Examples: `8.0-rc1` < `8.0rc2` < `8.0` = `8.0.0` < `8.0.1`;
+`1.1.1` < `1.1.1b` < `1.1.1w` < `1.1.2`; `7.4.0` < `7.4.0.GA`. Because `1.0` and `1`
+are equal, `vers:generic/8.0` contains `8.0` and `8.0.0` but not `8.0.1`.
+
 ## Self-vendored products
 
 If there's no real company behind the product (most npm/PyPI/crates

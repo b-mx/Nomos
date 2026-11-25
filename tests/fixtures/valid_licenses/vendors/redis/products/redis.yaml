@@ -1,0 +1,19 @@
+id: redis
+vendor_id: redis
+name: Redis
+type: software
+tags: [database]
+aliases:
+  - source: nvd
+    value: redis
+    confidence: curated
+licenses:
+  - spdx: BSD-3-Clause
+    versions: vers:generic/<7.4.0
+    evidence: https://github.com/redis/redis/blob/7.2.4/COPYING
+  - spdx: LicenseRef-RSALv2 OR SSPL-1.0
+    versions: vers:generic/>=7.4.0|<8.0.0
+    evidence: https://redis.io/blog/redis-adopts-dual-source-available-licensing/
+  - spdx: AGPL-3.0-only OR LicenseRef-RSALv2 OR SSPL-1.0
+    versions: vers:generic/>=8.0.0
+    evidence: https://redis.io/blog/agplv3/

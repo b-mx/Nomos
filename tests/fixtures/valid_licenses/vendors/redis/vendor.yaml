@@ -1,0 +1,6 @@
+id: redis
+name: Redis
+aliases:
+  - source: nvd
+    value: redis
+    confidence: curated

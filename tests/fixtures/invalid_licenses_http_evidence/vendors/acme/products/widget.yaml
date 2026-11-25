@@ -1,0 +1,12 @@
+id: widget
+vendor_id: acme
+name: Acme Widget
+type: software
+tags: []
+aliases:
+  - source: nvd
+    value: widget
+    confidence: curated
+licenses:
+  - spdx: MIT
+    evidence: http://example.com/license

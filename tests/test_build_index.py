@@ -70,3 +70,16 @@ def test_domain_is_emitted_only_when_set():
     vendor, product = build_entries(VALID_TREE)
     assert vendor["domain"] == "example.com"
     assert "domain" not in product
+
+
+def test_licenses_are_emitted_only_when_set():
+    from tools.build_index import build_entries
+
+    _, redis = build_entries(FIXTURES / "valid_licenses" / "vendors")
+    assert [lic["spdx"] for lic in redis["licenses"]] == [
+        "BSD-3-Clause",
+        "LicenseRef-RSALv2 OR SSPL-1.0",
+        "AGPL-3.0-only OR LicenseRef-RSALv2 OR SSPL-1.0",
+    ]
+    _, product = build_entries(VALID_TREE)
+    assert "licenses" not in product

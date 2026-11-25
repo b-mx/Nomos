@@ -21,6 +21,11 @@ def _domain(data: dict[str, Any]) -> dict[str, str]:
     return {"domain": data["domain"]} if "domain" in data else {}
 
 
+def _licenses(data: dict[str, Any]) -> dict[str, list[dict[str, str]]]:
+    # Emitted only when set, so products without licences keep their shape.
+    return {"licenses": data["licenses"]} if "licenses" in data else {}
+
+
 def build_entries(vendors_dir: Path = REPO_ROOT / "data" / "vendors") -> list[dict[str, Any]]:
     entries: list[dict[str, Any]] = []
     for vendor in iter_vendors(vendors_dir):
@@ -47,6 +52,7 @@ def build_entries(vendors_dir: Path = REPO_ROOT / "data" / "vendors") -> list[di
                 "tags": product.data.get("tags", []),
                 "icon": product.data.get("icon"),
                 **_domain(product.data),
+                **_licenses(product.data),
                 "services": product.data.get("services", []),
                 "aliases": product.data.get("aliases", []),
             }
