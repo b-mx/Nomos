@@ -30,6 +30,11 @@
       "type": "string",
       "pattern": "^pkg:[a-z][a-z0-9.+-]*\\/.+$"
     },
+    "licenses": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/license" }
+    },
     "aliases": {
       "type": "array",
       "items": { "$ref": "#/$defs/alias" }
@@ -50,6 +55,17 @@
     }
   },
   "$defs": {
+    "license": {
+      "type": "object",
+      "required": ["spdx", "evidence"],
+      "additionalProperties": false,
+      "properties": {
+        "spdx": { "type": "string", "minLength": 1 },
+        "versions": { "type": "string", "pattern": "^vers:generic/\\S+$", "not": { "pattern": "\\n" } },
+        "evidence": { "type": "string", "pattern": "^https://[^\\s/?#]+\\S*$", "not": { "pattern": "\\n" } },
+        "confidence": { "enum": ["curated", "auto"], "default": "curated" }
+      }
+    },
     "alias": {
       "type": "object",
       "required": ["source", "value", "confidence"],

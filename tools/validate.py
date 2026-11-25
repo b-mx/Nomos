@@ -3,12 +3,15 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 from pathlib import Path
 from typing import Any
 
 import jsonschema
+from license_expression import get_spdx_licensing
 
+from tools import vers
 from tools._common import (
     KEBAB_CASE_RE,
     REPO_ROOT,
@@ -26,6 +29,13 @@ SERVICES_ALLOWED_TYPES = {"software", "appliance", "os"}
 # a product name as commonly written): a value must point at one product, so
 # these are unique across all vendors, not just within one.
 GLOBAL_PRODUCT_ALIAS_SOURCES = {"banner", "name"}
+
+_SPDX = get_spdx_licensing()
+_SPDX_IDS = set(_SPDX.known_symbols)
+_SPDX_OPERATORS = {"AND", "OR", "WITH"}
+# A custom licence: allowed anywhere a licence id is, never as an exception.
+# The lookarounds keep it from matching inside a longer token.
+_LICENSE_REF_RE = re.compile(r"(?<![\w.:+-])LicenseRef-[A-Za-z0-9.-]+(?![\w.:+-])")
 
 
 def _rel(path: Path) -> str:
@@ -148,6 +158,69 @@ def validate_tags_exist(
     return errors
 
 
+def spdx_errors(expression: str) -> list[str]:
+    """Problems with an SPDX licence expression ([] when valid).
+
+    Every licence id must be on the SPDX list (case as listed; no `+` suffix,
+    write -or-later) or match LicenseRef-[A-Za-z0-9.-]+; every exception must
+    be on the exceptions list; operators are the uppercase AND, OR, WITH.
+    """
+    if not expression or expression != expression.strip():
+        return ["is empty or has leading/trailing whitespace"]
+    # license-expression's strict mode rejects every LicenseRef-, so stand a
+    # known licence in for each one; WITH still refuses it as an exception.
+    checked = _LICENSE_REF_RE.sub("MIT", expression)
+    try:
+        info = _SPDX.validate(checked)
+    except Exception:  # noqa: BLE001 - the library raises AttributeError on e.g. a trailing OR
+        return ["is not a valid SPDX licence expression"]
+    if info.errors:
+        return [e.split(" for token")[0] for e in info.errors]
+    for token in re.findall(r"[^\s()]+", checked):
+        if token.upper() in _SPDX_OPERATORS:
+            if token not in _SPDX_OPERATORS:
+                return [f"operator '{token}' must be uppercase"]
+        elif token not in _SPDX_IDS:
+            return [f"'{token}' is not an SPDX id as listed (check the case)"]
+    return []
+
+
+def validate_licenses(products: list[ProductEntry]) -> list[str]:
+    """SPDX expressions, vers:generic ranges, and no overlapping periods."""
+    errors: list[str] = []
+    for entry in products:
+        licenses = entry.data.get("licenses")
+        if not isinstance(licenses, list):
+            continue  # absent, or already reported by the schema check
+        where = _rel(entry.path)
+        ranges: list[tuple[int, str]] = []
+        for i, item in enumerate(licenses):
+            if not isinstance(item, dict):
+                continue
+            spdx = item.get("spdx")
+            if isinstance(spdx, str):
+                errors += [f"{where}: licenses[{i}].spdx '{spdx}': {e}" for e in spdx_errors(spdx)]
+            versions = item.get("versions")
+            if isinstance(versions, str):
+                try:
+                    vers.parse_range(versions)
+                    ranges.append((i, versions))
+                except ValueError as e:
+                    errors.append(f"{where}: licenses[{i}].versions '{versions}': {e}")
+        if len(licenses) > 1:
+            errors += [
+                f"{where}: licenses[{i}] has no versions, which is only allowed for a "
+                "product's only licence period"
+                for i, item in enumerate(licenses)
+                if isinstance(item, dict) and "versions" not in item
+            ]
+        for n, (i, a) in enumerate(ranges):
+            for j, b in ranges[n + 1 :]:
+                if vers.overlaps(a, b):
+                    errors.append(f"{where}: licenses[{i}] and licenses[{j}] overlap")
+    return errors
+
+
 def validate_services_allowed(products: list[ProductEntry]) -> list[str]:
     errors: list[str] = []
     for entry in products:
@@ -234,6 +307,7 @@ def run_all_checks(vendors_dir: Path = REPO_ROOT / "data" / "vendors") -> list[s
     errors += validate_alias_uniqueness(vendors, products)
     errors += validate_tags_exist(products)
     errors += validate_services_allowed(products)
+    errors += validate_licenses(products)
     errors += validate_directory_structure(vendors_dir)
     errors += validate_vendor_references(vendors, products)
     errors += validate_taxonomy()
